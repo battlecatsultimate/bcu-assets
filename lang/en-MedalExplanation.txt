@@ -1,0 +1,85 @@
+0	Collect all Gold Treasures from Empire of Cats Ch. 1
+1	Collect all Gold Treasures from Empire of Cats Ch. 2
+2	Collect all Gold Treasures from Empire of Cats Ch. 3
+3	Clear all Empire of Cats Ch. 1 Zombie Outbreak Stages
+4	Clear all Empire of Cats Ch. 2 Zombie Outbreak Stages
+5	Clear all Empire of Cats Ch. 3 Zombie Outbreak Stages
+6	Collect all Gold Treasures from Into the Future Ch. 1
+7	Collect all Gold Treasures from Into the Future Ch. 2
+8	Collect all Gold Treasures from Into the Future Ch. 3
+9	Clear all Into the Future Ch. 1 Zombie Outbreak Stages
+10	Clear all Into the Future Ch. 2 Zombie Outbreak Stages
+11	Collect all Gold Treasures from Cats of the Cosmos Ch. 1
+12	Collect all Gold Treasures from Cats of the Cosmos Ch. 2
+13	Collect all Gold Treasures from Cats of the Cosmos Ch. 3
+14	Defeat Filibuster Obstructa.
+15	Clear all 1 ★ Stories of Legend maps
+16	Clear all 2 ★ Stories of Legend maps
+17	Clear all 3 ★ Stories of Legend maps
+18	Clear "Crimson Catastrophe"
+19	Clear "Heaven of Darkness"
+20	Clear "Peerless"
+21	Clear "Wrath of Heaven"
+22	Clear "Sweet Irony"
+23	Clear "Dimension of Despair"
+24	Clear "Red Sky at Morning"
+25	Clear "The Rolling Dead"
+26	Clear "The 2nd Dimension"
+27	Clear "Typhoon Nemo"
+28	Clear "Clionel Ascendant"
+29	Clear "River Styx"
+30	Clear "Queen's Coronation"
+31	Clear "Daboo of the Dead"
+32	Clear "King Wahwah's Revenge"
+33	Clear "Deeply Dreaming"
+34	Clear "Blue Impact"
+35	Clear all Crazed Stages.
+36	Clear all Maniac Stages.
+37	Clear all Li'l Stages.
+38	Clear "Happy New Year...?"
+39	Clear "Ritual Happiness"
+40	Clear "Bears Be Bare"
+41	Clear "Teacher! It's Spring!"
+42	Clear "Love is Sickness"
+43	Clear "The Forbidden Bride"
+44	Clear "Never Summer!"
+45	Clear "Ghostly Houseguests"
+46	Clear "Old Guys About Town"
+47	Clear "Autumn = Sports Day"
+48	Clear "Loving Labour"
+49	Clear "Jingle Cat Bell"
+50	Clear the 30th floor of Heavenly Tower
+51	Clear the 40th floor of Heavenly Tower
+52	Complete the FINAL LEVEL of Legend Quest.
+53	Earn a total of 1000000 cents.
+54	Earn a total of 5000000 cents.
+55	Earn a total of 10000000 cents.
+56	Earn a total of 50000000 cents.
+57	Earn a total of 100000000 cents.
+58	Earn a total of 200000000 cents.
+59	Send Gamatoto to explore for over 1000 hours.
+60	Complete 5 Cat Base Weapons
+61	Reach User Rank 1000
+62	Recruit a top-class Gamatoto helper.
+63	Unlock Ururun Wolf
+64	Unlock Li'l Nyandam
+65	Unlock Red Riding Mina
+66	Unlock Miyamoku Musashi
+67	Unlock Mecha-Bun
+68	Unlock Dogumaru
+69	Clear "Courts of Torment"
+70	Clear "The Old Queen"
+71	Clear "Papuu's Paradise"
+72	Clear "Bottom of the Swamp"
+73	Unlock Urs & Fenrir
+74	Clear "Clan of the Maniacs"
+75	Clear "Wanwan's Glory"
+76	Clear all Into the Future Ch. 3 Zombie Outbreak Stages
+77	Clear "Z-Onel Rises!"
+78	Clear "First Errand"
+79	Clear the 50th floor of Heavenly Tower
+80	Clear "Total War: Spring Special"
+81	Clear "Total War: Summer Special"
+82	Clear "Total War: Fall Special"
+83	Clear "Total War: Winter Special"
+84	Clear all Total War season maps

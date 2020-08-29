@@ -1,0 +1,3080 @@
+﻿000			Stories of Legend
+000-000		The Legend Begins
+000-000-000	Earthshaker
+000-000-001	Return of Terror
+000-000-002	Sunset Blues
+000-000-003	Melancholy Damp
+000-000-004	Bouncy Park
+000-000-005	Gentle Smile
+000-000-006	Guardian of the Ranch 
+000-000-007	Sleeping Lion
+000-001		Passion Land
+000-001-000	Nyandalucia
+000-001-001	Paella Field
+000-001-002	Flamenco Hole
+000-001-003	Sangria River
+000-001-004	Gazpacho Highland
+000-001-005	Churros Night
+000-001-006	Bone Dry Gardens
+000-001-007	Tapas Desert
+000-002		Glucosamine Desert
+000-002-000	Chondroitin Sandhill
+000-002-001	Sesamin Ruins
+000-002-002	Isoflavone Cave
+000-002-003	Catechin Hill
+000-002-004	Lycopene Sunset
+000-002-005	Propolis Oasis
+000-002-006	PepTide snowfield
+000-002-007	Hyaluronan Mountain
+000-003		Swimming Cats
+000-003-000	Premature Launch
+000-003-001	Deep Ocean Blue
+000-003-002	Mermaid Cove
+000-003-003	Chaos Lagoon
+000-003-004	Playing Pirates
+000-003-005	Fisherman’s Dilemma
+000-003-006	Seaweed Shallows
+000-003-007	Salty is Seawater
+000-004		Risqué Terrain
+000-004-000	Lovely Minerals
+000-004-001	Shapely Caverns
+000-004-002	Enticing Tunnels
+000-004-003	Squishy Hollows
+000-004-004	Twin Peaks
+000-004-005	Thriller Bridge
+000-005		Western Street
+000-005-000	Gunman’s Dawn
+000-005-001	Cowboy Haven
+000-005-002	Wanted Night
+000-005-003	Macaroni Town
+000-005-004	Wandering Traveler
+000-005-005	Disappointed Guard
+000-005-006	Cowboy Mountain
+000-005-007	Rodeo Night
+000-006		Sea of Tuna
+000-006-000	Red Tuna Coast
+000-006-001	Fresh Wharf
+000-006-002	Blue Ocean
+000-006-003	Carapaccio Waters
+000-006-004	Economic Sea
+000-006-005	Tactical War Tuna
+000-006-006	Frozen Tuna Front
+000-006-007	Cave Fillet
+000-007		Bamboo Island
+000-007-000	Prickly Field
+000-007-001	Bamboo Coast
+000-007-002	Serial Killer Jungle
+000-007-003	Disgusting Swamp 
+000-007-004	Dumpy Cave
+000-007-005	Stardust Street
+000-007-006	Mushroom Cliff
+000-007-007	Frontier Spirit
+000-008		Squishy Cave
+000-008-000	Milky Tunnel
+000-008-001	Fluffy Dark Weapon
+000-008-002	Mural of the Devil
+000-008-003	The Wind Blows
+000-008-004	Juvenile Killer
+000-008-005	Upset Rock
+000-008-006	Flooded Cave
+000-008-007	Chubby B. Goode
+000-009		Volkanos Volcano
+000-009-000	Hot Bath Rock
+000-009-001	Gentle Geyser
+000-009-002	Thick Magma
+000-009-003	Fire Cage
+000-009-004	Volcanic Defender
+000-009-005	Flame Caldera
+000-010		Neverending Cat Story
+000-010-000	Potential Road
+000-010-001	Gloomy Tree
+000-010-002	A Song in the Wind
+000-010-003	Philosophy Road
+000-010-004	Frontier Bell
+000-010-005	River of Tears
+000-010-006	Shining Road
+000-010-007	The Trial Deep
+000-011		Castle of Fish
+000-011-000	The Sea Whispers
+000-011-001	Ripples Island
+000-011-002	Octopus Sea
+000-011-003	Poseidon Rest
+000-011-004	Moonlight Beach
+000-011-005	Coral Coral Reef
+000-011-006	Ark of the Month
+000-011-007	Killer Sardines
+000-012		Sushi Island
+000-012-000	Tuna Field
+000-012-001	Crab Field
+000-012-002	Salmon Cave
+000-012-003	Sea Urchin Cave
+000-012-004	Caviar Woods
+000-012-005	Natto Bay
+000-012-006	Halibut Forest
+000-012-007	Shrimp Frontier
+000-013		The Scratching Post
+000-013-000	Cardboard Corridor
+000-013-001	Catnip Dream
+000-013-002	Crunchy Wall
+000-013-003	Wading Woodchips
+000-013-004	Crunchy Pillar
+000-013-005	Disapproving Giant
+000-014		Parthenon
+000-014-000	Altar of Zeus
+000-014-001	Sword of Achilles
+000-014-002	Road of Eros
+000-014-003	Dawn of Gaia
+000-014-004	Gates of Aphrodite
+000-014-005	Labyrinth of Hades
+000-015		Low Tide Beach
+000-015-000	Clammy Cove
+000-015-001	Beached Mammals
+000-015-002	Bikini Territory
+000-015-003	Apple Bobbing Ocean
+000-015-004	Parasol Field
+000-015-005	Ancient One-Piece
+000-015-006	Glassy Sands
+000-015-007	Star Ocean
+000-016		Alcatraz
+000-016-000	Gull Coast
+000-016-001	Pelican Island
+000-016-002	Underground Base
+000-016-003	Villains Jungle
+000-016-004	Chicken Game
+000-016-005	Cat Trial
+000-016-006	Prison Prairie
+000-016-007	Jailer in the Morgue
+000-017		Jail Break Tunnel
+000-017-000	Sin and Punishment
+000-017-001	Prison Sentence
+000-017-002	Harry Tunnel
+000-017-003	Dead Falls
+000-017-004	Pitfall Zone
+000-017-005	The Great Escaper
+000-018		Capone’s Jail
+000-018-000	Jailbreak Diary
+000-018-001	Last Gang
+000-018-002	Prison Destruction
+000-018-003	King of Freedom
+000-018-004	Liar’s Fate
+000-018-005	Pigpen Taboo
+000-019		Silk Road
+000-019-000	Gandara's Rest
+000-019-001	Utopia Is Over There
+000-019-002	Godiego Pass
+000-019-003	Monkey Magic
+000-019-004	Outsider’s Gate
+000-019-005	Marco Po Road
+000-019-006	Pig Swill
+000-019-007	Imp’s Cold Sweat
+000-020		Stairway to Darkness
+000-020-000	Safe & Not Sorry
+000-020-001	Claustronyctophobia
+000-020-002	Red Alert
+000-020-003	Pitfalls of Life
+000-020-004	Subtle Curfew
+000-020-005	Underground
+000-021		Prince of Darkness
+000-021-000	The Red Carpet
+000-021-001	The Bathroom
+000-021-002	The VIP Room
+000-021-003	Torture Room
+000-021-004	Dictator’s Garden
+000-021-005	Satan’s Bedroom
+000-022		Dead End Night
+000-022-000	Feast of Betrayal
+000-022-001	Catharsis’ End
+000-022-002	Black Premonition
+000-022-003	Broken Mask
+000-022-004	Agape’s Cage
+000-022-005	Saint Red Fox
+000-023		Battle Royale
+000-023-000	Her Highness, Milk T.
+000-023-001	Angry Fighting
+000-023-002	The Horrible Song
+000-023-003	Trap of Cowards
+000-023-004	Dark Nemesis
+000-023-005	Scent of Gore & Fish
+000-024		Scars of War
+000-024-000	Valkyrie Plains
+000-024-001	Minefield
+000-024-002	Kugel Schreiber
+000-024-003	Muddy Trench
+000-024-004	Sniper Jungle
+000-024-005	Sunset Soldier
+000-024-006	Father’s Back
+000-024-007	Winning Back
+000-025		Sea Polluter
+000-025-000	Oil Platform
+000-025-001	Sweat and Aldehyde
+000-025-002	Ancient Trial
+000-025-003	I'm onto you
+000-025-004	Littering Coast
+000-025-005	Benzene Field
+000-025-006	Government Watchdog
+000-025-007	Revolving-door Floats
+000-026		Body & Soul
+000-026-000	Sunset’s Howl 
+000-026-001	Gestalt, Decay
+000-026-002	Warrior’s Dawn
+000-026-003	Cursed Blizzards
+000-026-004	Sign of the Cat
+000-026-005	Out of Despair
+000-026-006	Metabolic Syndrome
+000-026-007	Love and Death
+000-027		Weak & Mildly Acidic
+000-027-000	At Least I'm a Cat
+000-027-001	Knights of the Round
+000-027-002	Cat Catharsis
+000-027-003	Beautiful Finale
+000-027-004	No More Bad Dreams
+000-027-005	Learned to Love
+000-028		Intrepid Cats  
+000-028-000	Renewed Conflict
+000-028-001	Mysterious Order
+000-028-002	Birdwatching
+000-028-003	Thorny Dialogue
+000-028-004	Darkweb
+000-029		Shadow Cosmopolis
+000-029-000	Hungry Forest
+000-029-001	Overachiever Central
+000-029-002	Morning Rush Hour
+000-029-003	Docking Massacre
+000-029-004	Subterranean Stalker
+000-029-005	Lord of the Abyss
+000-030		Galapa-Goth
+000-030-000	DNA & DHA
+000-030-001	Twilight Poachers
+000-030-002	Surviving Herd
+000-030-003	Alien Ecology
+000-030-004	Heavenly Creatures
+000-030-005	Conservation Society
+000-031		Kombu Cape
+000-031-000	Rinrin Shelterbelt
+000-031-001	Iberian Plains
+000-031-002	Weeping Dunes
+000-031-003	Golden Gai
+000-031-004	Leadfoot Drive
+000-031-005	Trouble at the Mansion
+000-032		Axis of Evil
+000-032-000	Pecking Order
+000-032-001	Technocracy
+000-032-002	Merciless Onslaught
+000-032-003	Celestial Seas
+000-032-004	Close Encounters
+000-032-005	The Spy Who Pet Me
+000-033		Suburbs of the Dead
+000-033-000	Home Sweet Mausoleum
+000-033-001	Swamp of Sacrifice
+000-033-002	Dungeon of Dreams
+000-033-003	Revenant Road
+000-033-004	Ghostlight Gardens
+000-033-005	Silenced Meowing
+000-034		Quarantine Isles
+000-034-000	Virus Smugglers
+000-034-001	Bionic Seaweed
+000-034-002	Ancestral Ways
+000-034-003	High Watchtower
+000-034-004	Tunafish Trenches
+000-034-005	The Infected King
+000-035		Mouseyland
+000-035-000	Greeter at the Gates
+000-035-001	Rickety Coaster
+000-035-002	Virtual Nightmare
+000-035-003	50 Degrees Hotter
+000-035-004	Irresistable Henhouse
+000-035-005	The Haunted 1LDK
+000-036		Walk of Fame
+000-036-000	Paparazzi Paradise
+000-036-001	Gossip Rags
+000-036-002	Beverly Hills Scoop
+000-036-003	Lovechild Lane
+000-036-004	Saucy Scandals
+000-036-005	Multiversal Studios
+000-037		Cutpurse Coast
+000-037-000	Swim Meet
+000-037-001	Sea Breeze Salon
+000-037-002	Deep Sea Dying
+000-037-003	Procrastinator Parade
+000-037-004	Grand Exhibition
+000-037-005	No return flights
+000-038		Above & Below
+000-038-000	Electric Bath
+000-038-001	Boiling Spring
+000-038-002	Mineral Treatment
+000-038-003	Soap Scum
+000-038-004	The Sauna Crew
+000-038-005	Steamed to Death
+000-039		Windless Island
+000-039-000	Narrow Docks
+000-039-001	Romantic Highway
+000-039-002	Drunken Backrub
+000-039-003	Gulag of Love
+000-039-004	Perfume Room
+000-039-005	Houses of the Holy
+000-040		IT Catacombs
+000-040-000	Caliban’s Keeper
+000-040-001	Dial up Dreams
+000-040-002	Throne of Phone
+000-040-003	OS Graveyard
+000-040-004	The Holy Exploit  
+000-040-005	Broadband Omens
+000-041		Grotesque Gallery
+000-041-000	Cubist Crimes
+000-041-001	Surrealist Sins
+000-041-002	Gouache Ghouls
+000-041-003	Death by Dada
+000-041-004	Baroque Beasts
+000-041-005	Atrocious Deco
+000-042		Area 22
+000-042-000	Roswell Incident
+000-042-001	Cat Abduction
+000-042-002	Adamski Type
+000-042-003	Chupacabra Love
+000-042-004	Tunguska Event
+000-042-005	Offworld Weary
+000-043		Beyond the Savannah
+000-043-000	Eat the Weak
+000-043-001	Nukumanjaro
+000-043-002	The Noble Tribe
+000-043-003	Dry Season
+000-043-004	Electrosafari
+000-043-005	Heaven’s Oasis
+000-044		Blizzard Boulevard
+000-044-000	Shiver Junction
+000-044-001	Leaky Tunnel
+000-044-002	Frostbite Park
+000-044-003	Toasty Turnpike
+000-044-004	Sleepy Signals
+000-044-005	Scorched Tollbooth
+000-045		Singularityville
+000-045-000	Ubiquitous Sales
+000-045-001	Virtual Harvest
+000-045-002	Wearable Homes
+000-045-003	8K Fertiliser
+000-045-004	Blockchain Twilight
+000-045-005	Haunted Genome
+000-046		Ends of the Earth
+000-046-000	Ultimate Shrine
+000-046-001	Valley of the End
+000-046-002	Final Tower
+000-046-003	Last Labyrinth
+000-046-004	Cave Conclusion
+000-046-005	Apocalypse Temple
+000-047		The Legend Ends
+000-047-000	A Day of Reckoning
+000-047-001	Thirst for Vengeance
+000-047-002	Glory of Glories
+000-047-003	A Moment of Serenity
+000-047-004	False Resurrection
+000-047-005	Goblet of the Oath
+000-047-006	Twilight Zephyr
+000-047-007	Unkept Promises
+000-048		Laboratory of Relics
+000-048-000	Eldritch Forces
+
+001			Regular event stages
+001-000		Monday Stage
+001-000-000	Rich Cat (Easy)
+001-000-001	Rich Cat (Normal)
+001-000-002	Rich Cat (Hard)
+001-001		Tuesday Stage
+001-001-000	Speed Cat (Easy)
+001-001-001	Speed Cat (Normal)
+001-001-002	Speed Cat (Hard)
+001-002		Wednesday Stage
+001-002-000	Cat Jobs (Easy)
+001-002-001	Cat Jobs (Normal)
+001-002-002	Cat Jobs (Hard)
+001-003		Thursday Stage
+001-003-000	Sniper Cat (Easy)
+001-003-001	Sniper Cat (Normal)
+001-003-002	Sniper Cat (Hard)
+001-004		Friday Stage
+001-004-000	Helpful Cat (Easy)
+001-004-001	Helpful Cat (Normal)
+001-004-002	Helpful Cat (Hard)
+001-005		Weekend Stage (Old)
+001-005-000	Sweet XP (Easy)
+001-005-001	Sweet XP (Medium)
+001-005-002	Sweet XP (Hard)
+001-006		Cat Ticket Chance!
+001-006-000	Love, Metal Hippoe (Hard)
+001-007		Seige of Hippoe!
+001-007-000	Super Metal Hippoe (Expert)
+001-008		Autumn = Sports Day! (unused)
+001-008-000	激アツ！運動会
+001-008-001	アンチハロウィン
+001-008-002	勝者と敗者
+001-009		Loving Labour
+001-009-000	Weeklong Meetings
+001-009-001	Co-workers don't work
+001-009-002	Stress Relief Stress
+001-009-003	Jobs in Jobs Security
+001-009-004	Pay without Leave
+001-009-005	Value of Last Minute
+001-010		Jingle Cat Bell
+001-010-000	That Night
+001-010-001	That Song
+001-010-002	Warm Stew
+001-010-003	Cat & Snow
+001-010-004	Part Time Santa
+001-010-005	Santa or Satan!?
+001-010-006	Santa is on Salary
+001-010-007	Happy Merry X-mas
+001-011		Happy New Year?
+001-011-000	No Happy Holidays
+001-011-001	Holiday Diet Fail
+001-011-002	No More Resolutions
+001-011-003	Just One More Drink
+001-011-004	After After Party
+001-011-005	Forgot the Countdown
+001-011-006	Blackout
+001-011-007	Hangover
+001-012		Ritual Happiness
+001-012-000	Angelic Devil
+001-012-001	Dracula Donates Blood
+001-012-002	My Pet Werewolf
+001-012-003	Sunbathing Mummies
+001-012-004	Soul Leasing
+001-012-005	Lucifer Likes to Smile
+001-012-006	Zombies being Healthy
+001-012-007	Humans are Scarier
+001-013		Bears be Bare
+001-013-000	Bear Grills
+001-013-001	Bearly Dressed
+001-013-002	With a Ton of Padding
+001-013-003	Bees with Ears
+001-013-004	Arming Bears
+001-013-005	Going Bipolar
+001-013-006	Fighting Bearhanded
+001-013-007	Can't Bear Anymore
+001-014		Crimson Catastrophe
+001-014-000	Attack on R-Cyclone (Expert)
+001-015		Heaven of Darkness
+001-015-000	Attack on B-Cyclone (Expert)
+001-016		Peerless
+001-016-000	Attack on W-Cyclone (Expert)
+001-017		The Crazed Cat
+001-017-000	Dark Souls (Insane)
+001-018		The Crazed Tank
+001-018-000	Absolute Defense (Insane)
+001-019		The Crazed Axe
+001-019-000	Berserk (Insane)
+001-020		The Crazed Gross
+001-020-000	Festival Gross (Insane)
+001-021		The Crazed Cow
+001-021-000	Head Shaker (Insane)
+001-022		The Crazed Bird
+001-020-000	Flappy Cat (Insane)
+001-023		The Crazed Fish
+001-023-000	Fish Hell (Insane)
+001-024		The Crazed Lizard
+001-024-000	Mammals? (Insane)
+001-025		The Crazed Titan
+001-025-000	Crazy Cats (Insane)
+001-026		Teacher! It’s Spring!
+001-026-000	Cat School Musical
+001-026-001	I can feel it
+001-026-002	The Catbook
+001-026-003	P.S Cat Loves You
+001-026-004	100 Cat Dates
+001-026-005	Lament
+001-026-006	I L U
+001-026-007	Let’s Start Over
+001-027		Weekend Stage
+001-027-000	Sweet XP (Easy)
+001-027-001	Sweet XP (Medium)
+001-027-002	Sweet XP (Hard)
+001-027-003	Sweet XP (Veteran)
+001-027-004	Sweet XP (Expert)
+001-027-005	Sweet XP (Insane)
+001-028		XP Stage
+001-028-000	Sweet XP (Easy)
+001-028-001	Sweet XP (Medium)
+001-028-002	Sweet XP (Hard)
+001-028-003	Sweet XP (Veteran)
+001-028-004	Sweet XP (Expert)
+001-028-005	Sweet XP (Insane)
+001-029		Love is Sickness
+001-029-000	Liking Love
+001-029-001	No More Duckface!
+001-029-002	Read but No Reply
+001-029-003	Online Dating!
+001-029-004	Blocked on FB!
+001-029-005	Work or Me!
+001-029-006	Let’s Just Be Friends
+001-029-007	Never Give Up!
+001-030		The Forbidden Bride
+001-030-000	Wedding Tolls
+001-030-001	Sending a Friend
+001-030-002	BGM is “Macarena”
+001-030-003	Bouquet Finds Water
+001-030-004	Family Drama Woes
+001-030-005	Mistook Bride’s Name
+001-030-006	Ex says I object
+001-030-007	...No, I Do Not
+001-031		Never Summer!
+001-031-000	Glutton Next Door
+001-031-001	Summer Already?
+001-031-002	Something About Cats
+001-031-003	Summertime Smoothie
+001-031-004	Starving in Summer
+001-031-005	Boy Meats Girl
+001-031-006	Sandbags on the Cape
+001-031-007	Right here, right meow
+001-032		Ghostly Houseguests
+001-032-000	Dad’s back to haunt us
+001-032-001	But we’re on vacation
+001-032-002	Can’t pass thru walls?
+001-032-003	Just hit the skies!
+001-032-004	Wasting inheritance
+001-032-005	Hiring fake mourners
+001-032-006	Grave is just plastic…
+001-032-007	I’m not here anymore.
+001-033		Monthly Event All-Stars Special Anniversary!
+001-033-000	Special Thanks! (Insane)		
+001-034		Monthly Event All-Stars Ultra Anniversary!
+001-034-000	Ultra Stress! (Insane)
+001-035		Monthly Event All-Stars Miracle Anniversary!
+001-035-000	Miracle Tactics! (Insane)
+001-036		Old Guys About Town
+001-036-000	Dawn Joggers
+001-036-001	Day Job = Boxers
+001-036-002	Escaping the Home
+001-036-003	300 Years Probation
+001-036-004	Bearhanded Brawler
+001-036-005	Trophy Wives
+001-036-006	Living the Dream
+001-036-007	Wife Still the Boss
+001-037		Korean Special Stage
+001-037-000	Extremity of Kicking Technique
+001-038		Autumn = Sports Day!
+001-038-000	Gotta Warm Up First
+001-038-001	Awkward Entrance
+001-038-002	Dad, No Videos!
+001-038-003	The Sack Race
+001-038-004	Faster Barefoot
+001-038-005	Egg-Glue-Spoon
+001-038-006	Chicken Run
+001-038-007	Everyone Wins
+001-039		Wrath of Heaven
+001-039-000	Oncoming Maelstorm (Expert)
+001-040		Happy Birthday No. 1
+001-040-000	Happy Birthday Part 1 Stage
+001-041		Happy Birthday No. 2
+001-041-000	Happy Birthday Part 2 Stage
+001-042		Happy Birthday No. 3
+001-042-000	Happy Birthday Part 3 Stage (Source: wikia)
+001-043		Sweet Irony
+001-043-000	Attack on Titanium (Insane)
+001-044		Happy 2015!
+001-044-000	New Year’s Dawn
+001-045		Actress Awakens!
+001-045-000	Taking The Stage (Expert)
+001-045-001	Taking The Stage (Insane)
+001-046		Kung-Fu Awakens!
+001-045-000	Path of Kung-Fu (Expert)
+001-045-001	Path of Kung-Fu (Insane)
+001-047		Mr. Awakens!
+001-047-000	Mr.-ious Evolution (Expert)
+001-047-001	Mr.-ious Evolution (Insane)
+001-048		Bondage Awakens!
+001-048-000	Bound to Evolve (Expert)
+001-048-001	Bound to Evolve (Insane)
+001-049		The Dom Awakens!
+001-049-000	Whipped into Shape (Expert)
+001-049-001	Whipper into Shape (Insane)
+001-050		Box Cats Awakens
+001-050-000	Boxing Clever (Expert)
+001-050-001	Boxing Clever (Insane)
+001-051		Panties Awakens!
+001-051-000	No Frills Evolution (Expert)
+001-051-001	No Frills Evolution (Insane)
+001-052		Tricycle Awakens!
+001-052-000	Hell on 3 Wheels (Expert)
+001-052-001	Hell on 3 Wheels (Insane)
+001-053		Ninja Awakens!
+001-053-000	Way of the Ninja (Expert)
+001-053-001	Way of the Ninja (Insane)
+001-054		Zombie Awakens!
+001-054-000	Shambling Along (Expert)
+001-054-001	Shambling Along (Insane)
+001-055		Samurai Awakens!
+001-055-000	Way of the Samurai (Expert)
+001-055-001	Way of the Samurai (Insane)
+001-056		Sumo Awakens!
+001-056-000	Oh Yokozuna! (Expert)
+001-056-001	Oh Yokozuna! (Insane)
+001-057		Boogie Awakens!
+001-057-000	Boogie Up (Expert)
+001-057-001	Boogie Up (Insane)
+001-058		Skirt Awakens!
+001-058-000	Skirting Danger (Expert)
+001-058-001	Skirting Danger (Insane)
+001-059		XP Megablitz!
+001-059-000	Refined Palate (Insane)
+001-060		Sweetest Sorrow
+001-060-000	Mallow March
+001-060-001	Marzi Pain
+001-060-002	Cavity Creeping
+001-061		Dark Descent
+001-061-000	Eastern Cave
+001-062		Dark Descent II
+001-062-000	Western Walk
+001-063		Dark Descent III
+001-063-000	Southern Fort
+001-064		Dark Descent ∞
+001-064-000	Northern Crater
+001-065		The Battle Cats POP!
+001-065-000	Poppin’ in 3D!
+001-065-001	Fight your Friends!
+001-065-002	Player VS Player
+001-065-003	Pay Only Once!
+001-065-004	No I-A-P!
+001-065-005	Get Those Ubers!
+001-065-006	Conquer the Galaxy
+001-065-007	At Nintendo eShop!
+001-066		Dimension of Despair
+001-066-000	Black Hole Rising (Insane)
+001-067		Taiwan Version Special Stage
+001-067-000	TWその1 (Source: wikia, may be incorrect)
+001-068		20 Million Downloads Special Gift!
+001-068-000	Joy of 20 Million!
+001-069		Deadly Carnival
+001-069-000	Tornado Carnival (Deadly)
+001-069-001	Awakened Carnival (Deadly)
+001-070		Monthly Event All-Stars Wonderful Celebration!
+001-070-000	Wonderful Conquest (Insane)
+001-071		Minced Meet-Up
+001-072		All Hallows Road
+001-072-000	Sweet Samhain
+001-072-001	Lantern O’Jack
+001-072-002	Cosplay Carnival
+001-072-003	Trick or Treatment
+001-072-004	Hello Hello Halloween
+001-072-005	Harvest Festival
+001-073		Mon. Blitz Stage
+001-073-000	Rich Cat (Veteran)
+001-074		Tues. Blitz Stage
+001-074-000	Speed Cat (Veteran)
+001-075		Weds. Blitz Stage
+001-075-000	Cat Jobs (Veteran)
+001-076		Thurs. Blitz Stage
+001-076-000	Sniper Cat (Veteran)
+001-077		Fri. Blitz Stage
+001-077-000	Cat CPU (Veteran)
+001-078		Facing Danger
+001-078-000	Steel Visage (Deadly)
+001-079		Event All-Stars Excellent Celebration!
+001-079-000	Elite Corps (Insane) 
+001-080		BCJP Third Anniversary
+001-080-000	3rd Anniversary Birthday Presents (Source: wikia)
+001-081		Jolly St. Nick
+001-081-000	Coming to Town!
+001-081-001	Reindeer Games
+001-081-002	Whipped Cream
+001-081-003	Coup d’Workshop
+001-081-004	War on Xmas
+001-082		Auld Lang Syne!
+001-083		Adult Cat Awakes!
+001-083-000	Growing Up (Expert)
+001-083-001	Growing Up (Insane)
+001-084		Evil Cat Awakes!
+001-084-000	Something Wicked (Expert)
+001-084-001	Something Wicked (Insane)
+001-085		Doll Cats Awake!
+001-085-000	Dolled Up (Expert)
+001-085-001	Dolled Up (Insane)
+001-086		Maiden Awakes!
+001-086-000	Order Maiden (Expert)
+001-086-001	Order Maiden (Insane)
+001-087		Koi Awakes!
+001-087-000	Carp A Diem (Expert)
+001-087-001	Carp A Diem (Insane)
+001-088		Bride Awakes!
+001-088-000	Bridal Blues (Expert)
+001-088-001	Bridal Blues (Insane)
+001-089		Vacation Awakes!
+001-089-000	End of Holiday (Expert)
+001-089-001	End of Holiday (Insane)
+001-090		Vengeance Awakes!
+001-090-000	No Need to Curse! (Expert)
+001-090-001	No Need to Curse! (Insane)
+001-091		Kung-Fu X Awakens!
+001-091-000	Old Master (Expert)
+001-091-001	Old Master (Insane)
+001-092		Sports Day Awakens!
+001-092-000	Sweat and Tears (Expert)
+001-092-001	Sweat and Tears (Insane)
+001-093		Salaryman Awakes!
+001-093-000	Nine to Five Fever (Expert)
+001-093-001	Nine to Five Fever (Insane)
+001-094		Reindeer Fish Awakens!
+001-094-000	Reindeer Road (Expert)
+001-094-001	Reindeer Road (Insane)
+001-095		Clionel Ascendant
+001-095-000	No Plan A (Deadly)
+001-096		Red Sky at Morning
+001-096-000	Oncoming Storm (Insane)
+001-097		Growing Green
+001-097-000	Green Envy (Hard)
+001-097-001	Green Envy (Expert)
+001-097-002	Green Envy (Insane)
+001-098		Growing Purple
+001-098-000	Violet Flash (Hard)
+001-098-001	Violet Flash (Expert)
+001-098-002	Violet Flash (Insane)
+001-099		Growing Red
+001-099-000	Red Passions (Hard)
+001-099-001	Red Passions (Expert)
+001-099-002	Red Passions (Insane)
+001-100		Growing Blue
+001-100-000	Blue Illusion (Hard)
+001-100-001	Blue Illusion (Expert)
+001-100-002	Blue Illusion (Insane)
+001-101		Growing Yellow
+001-101-000	Rays of Gold (Hard)
+001-101-001	Rays of Gold (Expert)
+001-101-002	Rays of Gold (Insane)
+001-102		Cat Maniac
+001-102-000	Deathhawk (Deadly)
+001-103		Tank Maniac
+001-103-000	Vulcanizer (Deadly)
+001-104		Axe Maniac
+001-104-000	Unjust War (Insane)
+001-105		Gross Maniac
+001-105-000	Muscle Party (Insane)
+001-106		Cow Maniac
+001-106-000	Lots o’ Lion (Insane)
+001-107		Bird Maniac
+001-107-000	Forest Beasts (Insane)
+001-108		Fish Maniac
+001-108-000	Ogre Island (Insane)
+001-109		Lizard Maniac
+001-110-000	Draconian (Insane)
+001-110		Titan Maniac
+001-110-000	Resident Feline (Insane)
+001-111		Bad To Worse
+001-111-000	Tragedy in Red (Insane)
+001-111-001	Doom Paradise (Insane)
+001-112		Day of Judgement
+001-112-000	Explosion in the Sky (Insane)
+001-112-001	Acts of Cat-God (Insane)
+001-113		BitSummit 4th Sponsorship Memorial
+001-113-000	Held in Miyako Messe!
+001-114		Techneurosis
+001-114-000	Nuts ‘n’ Bolts (Insane)
+001-114-001	Space is the Place (Insane)
+001-115		Summer Diary
+001-115-000	Short Shorts
+001-115-001	Squirtgun Warfare
+001-115-002	Candy Apple Dentistry
+001-115-003	Mosquito Hell
+001-115-004	Sparkler Heaven
+001-115-005	Backyard BBQ
+001-116		Mystery Package
+001-116-000	Sender Unknown
+001-117		River Styx
+001-117-000	Realm of Carnage (Deadly)
+001-118	   	Catfruit Buffet
+001-118-000	Green Envy (Hard)
+001-118-001	Green Envy (Expert)
+001-118-002	Green Envy (Insane)
+001-119		Queen’s Coronation
+001-119-000	Honey Trap (Deadly)  
+001-120		Deadly Carnival II	  
+001-120-000	Tornado Carnival II (Deadly)
+001-120-001	Awakened Carnival II (Deadly)
+001-121		A Cultured Festival	  
+001-121-000	Meatless Wieners
+001-121-001	Deep Fried Air
+001-121-002	Burnt to Perfection
+001-121-003	Not Quite Organic
+001-121-004	Outta Change…
+001-121-005	Always In the Red  
+001-122		The Rolling Dead	  
+001-122-000	Unholy Tempest (Insane)  
+001-123		Birthday Present!
+001-124		XP Colosseum
+001-124-000	Tempered in Flame (Deadly)
+001-125		Cats in the Snow
+001-126		You Nears!
+001-127		Day of the Cat
+001-128		Dead on Debut
+001-129		Spring Sprang Sprung
+001-130		Li’l Cat Awakens!
+001-130-000	Tiny Meows (Deadly)
+001-131		Li’l Tank Awakens!
+001-131-000	Tiny Will (Deadly)
+001-132		Li’l Axe Awakens!
+001-132-000	Tiny Chopper (Deadly)
+001-133		Li’l Gross Awakens!
+001-133-000	Tiny Creeper (Deadly)
+001-134		Li’l Cow Awakens!
+001-134-000	Tiny Horns (Deadly)
+001-135		Li’l Bird Awakens!
+001-135-000	Tiny Wings (Deadly)
+001-136		Li’l Fish Awakens!
+001-136-000	Tiny Fins (Deadly)
+001-137		Li’l Lizard Awakens!
+001-137-000	Tiny Tail (Deadly)
+001-138		Li’l Titan Awakens!
+001-138-000	Tiny Fists (Deadly)
+001-139		For the Fans
+000-139-000	We're Number One
+001-140		The Midas Touch
+001-140-000	Gold in a Coal Mine
+001-140-001	I My Me Miner
+001-140-002	Golden Age's Dawn
+001-140-003	Never Not Shovelin'
+001-140-004	Dreams Come False
+001-141
+001-142		Sliming to Victory
+001-143		Cat Kart Awakens!
+001-144
+001-145		30M Celebration Gifts Galore!
+001-146		Event All-Stars Grand Jubilee!
+001-147		Watch & Earn
+001-148		Flower Cat Awakens!
+001-149		Summer Lesson
+001-150		Cavern of Comets
+001-151		Island of Ash
+001-152		Strait of Wings
+001-153		Catburger Awakens!
+001-154		Silver Week
+001-155		Merciless XP!
+001-155-000	Taste of Success (Merciless)
+001-156		Birthday Present!
+001-157		The 2nd Dimension
+001-158		King Wahwah’s Revenge
+001-159		You Nears!
+001-160		Go Go Graduates
+001-161		Crazed Moneko
+001-161-000	in JAPAN
+001-161-001	in LONDON
+001-161-002	in NEW YORK
+001-162		Growing Strange
+001-162-000	An Elder Secret (Merciless)
+001-163
+001-164		Sliming to Victory
+001-164-000	Rainy Day Races
+001-164-001	Tinpot Trophy
+001-164-002	Stormcloud Stakes
+001-164-003	Paradise Derby
+001-164-004	Slimy Stallions
+001-165		Forbidden Bride Pt II
+001-167-000	The Ex Appears
+001-167-001	Awkward S.O.
+001-167-002	Family Feuding
+001-167-003	Double Proposal
+001-167-004	Show Me The Stars
+001-166		Never Not Summer!
+001-167-000	Leak Year
+001-167-001	Cats of Yesterday
+001-167-002	Heat Wave Blues
+001-167-003	Lazy Tomorrow
+001-167-004	See You Next Year
+001-167		Ghostly Strangers
+001-167-000	Dad's Back to Heaven
+001-167-001	Long Line at Cerberus
+001-167-002	Charon's Overbooked
+001-167-003	Still on Vacation
+001-167-004	See You Next Year
+001-168		Old Guys in the City
+001-168-000	Night Shuffleboard
+001-168-001	Twilight Wandering
+001-168-002	5 Secret Families
+001-168-003	Two Years Cursed
+001-168-004	The Wife Still Wins
+001-169		Crimson Vengeance
+001-169-000	Wrath of R-Cyclone (Insane)
+001-169-001	Revenge of R-Cyclone (Deadly)
+001-170		Sports Night
+001-170-000	Inviting Cemetary
+001-170-000	2 Bodies, 0 Legs
+001-170-000	Grave Bouquet
+001-170-000	Fallen Priest
+001-170-000	Hours 'Til Morning
+001-171		Worker’s Revolution
+001-171-000	Premium Friday
+001-171-000	Total Professional
+001-171-000	CORE TIME
+001-171-000	Maternity Leave Forever
+001-171-000	Late Nite Shake-Up
+001-172		NEO Darkness Heaven
+001-172-000	Wrath of B-Cyclone (Insane)
+001-172-001	Revenge of B-Cyclone (Deadly)
+001-173		Cybear’s Vengeance
+001-173-000	Forged to Kill (Deadly)
+001-174		A Cultured Festival
+000-174-000	Meatless Wieners
+000-174-000	Deep Fried Air
+000-174-000	Burnt to Perfection
+000-174-000	Not Quite Organic
+000-174-000	Outta Change...
+001-175		Christmas in Space
+001-175-000	That's Not Santa...
+001-175-001	Jingle Hell
+001-175-002	Not-so-Silent Night
+001-175-003	Present Hunters
+001-175-004	Cosmic Xmas
+001-176		Peerless Too
+001-176-000	Wrath of W-Cyclone (Insane)
+001-176-001	Revenge of W-Cyclone (Deadly)
+001-177		Deeply Dreaming
+001-177-000	Bombergirl (Deadly)
+001-178		Seeing Red
+001-178-000	Sands of the East
+001-179		Seeing Red II
+001-179-000	Wastes of the West
+001-180		Seeing Red III
+001-180-000	Peaks of the South
+001-181		Seeing Red ∞
+001-181-000	Ruins of the North
+001-182		Event All-Stars Super Present DX
+001-182-000	Presents of Mind (Insane)
+001-183
+001-184		Another New Year
+001-184-000	Chores Unending
+001-184-001	Unknown Relatives
+001-184-002	I Hope It's an Uber
+001-184-003	Different from the Ad
+001-184-004	Just What I Wanted
+001-185		Wrath of the Divine
+001-185-001	Wrath of A-Cyclone (Insane)
+001-185-000	Revenge of A-Cyclone (Deadly)
+001-186		Ritual Confusion
+001-186-000	Hang onto Happiness
+001-186-001	Silent Family
+001-186-002	Eat Happy Sushi
+001-186-003	Expired Joy
+001-186-004	Sins and Blessings
+001-187		Bitter Irony
+001-187-000	Wrath of Titanium (Deadly)
+001-187-001	Revenge of Titanium (Deadly)
+001-188		You Nears!
+001-188-000	New Year's Dawn
+001-189		Typhoon Nemo
+001-189-000	Charybdis' Mouth (Merciless)
+001-190		Deadly Carnival III
+000-190-000	Tornado Carnival III (Deadly)
+000-190-001	Awakened Carnival III (Deadly)
+001-191		40M Celebration Gifts Galore!
+001-191-000	Joy of 40 Million!
+001-192		Bears Be Back
+001-192-000	Hibernation's End
+001-192-001	2 Much 2 Bear
+001-192-002	Grizzled Veterans
+001-192-003	What We Do In The Woods
+001-192-004	Bear in Mind
+001-193		Dimension of Delirium
+001-193-000	Wrath of Black Hole (Deadly)
+001-193-001	Revenge of Black Hole (Deadly)
+001-194		Spring for Sensei
+001-194-000	Faculty Change
+001-194-001	You in a Petri Dish
+001-194-002	Dangerous Equations
+001-194-003	Litmus of Love
+001-194-004	U + Me = Photosynthesis
+001-195		Red Sky at Night
+001-195-000	Wrath of Red Sky (Deadly)
+001-195-001	Revenge of Red Sky (Merciless)
+001-196		Clionel Dominant
+001-196-000	New Testament (Deadly)
+001-196-001	A Cat Screaming Love (Merciless)
+001-197		Lovesick Again
+001-197-000	Pain of Love
+001-197-001	No Right Swipes
+001-197-002	Arranged Marriage
+001-197-003	Biological Hourglass
+001-197-004	Settling Down
+001-198		The Dead Keep Rolling
+001-198-000	Wrath of the Unholy (Deadly)
+001-198-001	Revenge of the Unholy (Merciless)
+001-199		River Acheron
+001-199-000	Wrath of Carnage (Deadly)
+001-199-001	Revenge of Carnage (Merciless)
+001-200		
+001-200-000	
+001-201		Queen's Condemnation
+001-201-000	Honey Drip (Deadly)
+001-201-001	Royal Jelly Hell (Merciless)
+001-202		
+001-202-000	
+001-202-001	
+001-203		The 3rd Dimension
+001-203-000	Revenge of the Wormhole (Merciless)
+001-203-001	Wrath of the Wormhole (Merciless)
+001-204		Mystery Package
+001-204-000	Sender Unknown
+001-205		Dead by Encore
+001-205-000	Prisoner's Progress (Merciless)
+001-205-001	March to Death (Merciless)
+001-206		The Battle Cats Together!
+001-206-000	Play Battle Cats Together!
+001-206-001	Team Up & Win!
+001-206-002	Over 350 Cats!
+001-206-003	Play All You Want!
+001-206-004	Legend Stages Too!
+001-206-005	Minigames Galore!
+001-206-006	At the Nintendo eShop!
+001-206-007	But the App's Fun Too :)
+001-207		King Wahwah's Return
+001-207-000	Revenge of N-1 (Merciless)
+001-207-001	Wrath of the Dogelord (Merciless)
+001-208		Clan of the Maniacs
+001-208-000	The Wild Dance (Deadly)
+001-208-001	Insane Rhythms (Merciless)
+001-209		Meow Meow Day
+001-209-000	CAT DAY
+001-210		Duel on the Prarie
+001-210-000	Vanguard (Easy)
+001-210-001	Elite (Easy)
+001-210-002	Commander (Easy)
+001-211		Duel at Sunset
+001-211-000	Vanguard (Normal)
+001-211-001	Elite (Normal)
+001-211-002	Commander (Hard)
+001-212		Duel Under the Stars
+001-212-000	Vanguard (Hard)
+001-212-001	Elite (Hard)
+001-212-002	Commander (Veteran)
+001-213		Duel on the Dunes
+001-213-000	Vanguard (Veteran)
+001-213-001	Elite (Expert)
+001-213-002	Commander (Insane)
+001-214		A Deeper Dream
+001-214-000	Wrath of the Dreamer (Deadly)
+001-214-001	Revenge of the Dreamer (Merciless)
+001-215		Blue Impact
+001-215-000	Puffer Planet (Merciless)
+001-217		Courts of Torment
+001-217-000	The Pure Land (Merciless)
+001-219		Papuu's Paradise
+001-219-000	Saintly Sister (Merciless)
+001-220		The Old Queen
+001-220-000	I'll Be Bug (Merciless)
+001-221		You Nears!
+001-221-000	Happy 2020!
+001-222		Growing Epic
+001-222-000	Spectrum of Truth (Deadly)
+001-222-001	Miracle Iris (Deadly)
+001-223		Most Defeated 2019
+001-223-000	Surprising #5
+001-223-001	Not Uncommon #4
+001-223-002	As Expected #3
+001-223-003	Runner-Up #2
+001-223-004	Unbelievable #1
+001-223-005	Unseen in 2019
+001-224		Lunar New Year
+001-224-000	Year of the Rat
+001-225		Mystery Package
+001-225-000	Sender Unknown
+001-226		Bottom of the Swamp
+001-226-000	Flow Like the Stream (Merciless)
+001-227		Duel at the Lava Fields
+001-227-000	Vanguard (Insane)
+001-227-001	Elite (Deadly)
+001-227-002	Commander (Deadly)
+001-228		50M Celebration Gifts Galore!
+001-228-000	Joy of 50 Million!
+001-229		Wanwan's Glory
+001-229-000	Dogsville (Insane)
+001-230		B-Day Gifts
+001-230-000	Golden Week Special!!
+001-231		Z-Onel Rises!
+001-231-000	Last of the Dead (Merciless)
+001-232		First Errand
+001-232-000	Baby Fake (Merciless)
+001-233		Isle of the Map Lord
+001-233-000	Compass Mound (Deadly)
+001-233-001	Atlas Archeology (Deadly)
+001-233-002	Church of Mercator (Merciless)
+001-234		Total War: Spring Special
+001-234-000	Rites of Spring: Basic (Veteran)
+001-234-001	Rites of Spring: Standard (Expert)
+001-234-002	Rites of Spring: Advanced (Insane)
+001-234-003	Rites of Spring: Exalted (Deadly)
+001-234-004	Rites of Spring: Supreme (Deadly)
+001-235		Total War: Summer Special
+001-235-000	Song of Summer: Basic (Expert)
+001-235-001	Song of Summer: Standard (Insane)
+001-235-002	Song of Summer: Advanced (Deadly)
+001-235-003	Song of Summer: Exalted (Deadly)
+001-235-004	Song of Summer: Supreme (Merciless)
+001-236		Total War: Fall Special
+001-236-000	Feast of Fall: Basic (Insane)
+001-236-001	Feast of Fall: Standard (Deadly)
+001-236-002	Feast of Fall: Advanced (Deadly)
+001-236-003	Feast of Fall: Exalted (Merciless)
+001-236-004	Feast of Fall: Supreme (Merciless)
+001-237		Total War: Winter Special
+001-237-000	Dance of Winter: Basic (Deadly)
+001-237-001	Dance of Winter: Standard (Deadly)
+001-237-002	Dance of Winter: Advanced (Merciless)
+001-237-003	Dance of Winter: Exalted (Merciless)
+001-237-004	Dance of Winter: Supreme (Merciless)
+001-238		Tag Arena: Rookie
+001-238-000	Quarterfinals (Easy)
+001-238-001	Semifinals (Easy)
+001-238-002	Finals (Easy)
+001-239		Tag Arena: Beginner
+001-239-000	Quarterfinals (Normal)
+001-239-001	Semifinals (Hard)
+001-239-002	Finals (Veteran)
+001-240		Tag Arena: Adept
+001-240-000	Quarterfinals (Veteran)
+001-240-001	Semifinals (Veteran)
+001-240-002	Finals (Expert)
+001-241		Tag Arena: Pro
+001-241-000	Quarterfinals (Expert)
+001-241-001	Semifinals (Insane)
+001-241-002	Finals (Deadly)
+002			Collaboration Stages
+002-000		
+002-000-000	
+002-000-001	
+002-000-002	
+002-000-003	
+002-000-004	
+002-000-005	
+002-000-006	
+002-000-007	
+002-001		
+002-001-000	
+002-001-001	
+002-001-002	
+002-001-003	
+002-001-004	
+002-001-005	
+002-002		
+002-002-000	
+002-002-001	
+002-002-002	
+002-003		To the Future
+002-003-000	Architecture
+002-003-001	Cloud Services
+002-003-002	Storage Servers
+002-003-003	On Demand
+002-003-004	Bug Squashing
+002-003-005	Bookmarkers
+002-003-006	Solid State Rock
+002-003-007	Fiber Cookie
+002-004		
+002-004-000	
+002-004-001	
+002-004-002	
+002-004-003	
+002-004-004	
+002-004-005	
+002-004-006	
+002-004-007	
+002-005		
+002-005-000	
+002-005-001	
+002-005-002	
+002-005-003	
+002-005-004	
+002-005-005	
+002-005-006	
+002-005-007	
+002-006		
+002-006-000	
+002-007		Merc Storia: Inferno
+002-007-000	A City Aflame (Insane)
+002-008		Merc Storia: Showdown
+002-008-000	Cats After All
+002-008-001	Healer's Journey
+002-008-002	Teraphobic
+002-008-003	A Strange Bottled Girl
+002-008-004	Subjugated Cats
+002-008-005	Lost Memories
+002-008-006	Threads of Love
+002-008-007	300 Yard Strike
+002-009		
+002-009-000	20-on-20
+002-009-001	Cat Battle
+002-009-002	Nyanko Coliseum
+002-010		
+002-010-000	
+002-010-001	
+002-010-002	
+002-010-003	
+002-010-004	
+002-010-005	
+002-011		Survive! Mola Mola!
+002-011-000	Squid Bender
+002-011-001	Mean Morning Sunbeams
+002-011-002	Life Ain't Easy, Kid
+002-012		Droid Awakes!
+002-012-000	ParaDroid (Expert)
+002-012-001	ParaDroid (Insane)
+002-013		
+002-013-000	
+002-013-001	
+002-013-002	
+002-014		
+002-014-000	
+002-014-001	
+002-014-002	
+002-015		
+002-015-000	
+002-016		
+002-016-000	
+002-016-001	
+002-016-002	
+002-017		
+002-017-000	
+002-017-001	
+002-017-002	
+002-018		Healer Awakens!
+002-018-000	Healer Awakens (Expert)
+002-018-001	Healer Awakens (Insane)
+002-019		
+002-019-000	
+002-019-001	
+002-019-002	
+002-020		
+002-020-000	
+002-020-001	
+002-020-002	
+002-021		Matal Slug Defense
+002-021-000	Immortal Allen O'Neill
+002-021-001	Attack on Huge Hermit
+002-021-002	Jupiter King Convoy
+002-022		Super Matal Slug Defense
+002-022-000	Devils on the Doorstep (Insane)
+002-023		
+002-023-000	
+002-023-001	
+002-023-002	
+002-023-003	
+002-023-004	
+002-024		
+002-024-000	
+002-024-001	
+002-024-002	
+002-024-003	
+002-024-004	
+002-024-005	
+002-024-006	
+002-024-007	
+002-025		
+002-025-000	
+002-025-001	
+002-025-002	
+002-025-003	
+002-025-004	
+002-025-005	
+002-025-006	
+002-025-007	
+002-026		
+002-026-000	
+002-026-001	
+002-026-002	
+002-027		
+002-027-000	
+002-027-001	
+002-027-002	
+002-028		Takuya & Yuki Awaken
+002-028-000	Takuya ＆ Yuki Awaken! (Veteran)
+002-028-001	Takuya ＆ Yuki Awaken! (Insane)
+002-029		A Fungal Challenge
+002-029-000	Fungal Dominance
+002-029-001	King of the Table
+002-029-002	Funghi Wasn't Built in a Day…
+002-030		
+002-030-000	
+002-030-001	
+002-031		Puella Magi Madoka Magica
+002-031-000	Make A Contract With Me
+002-031-001	Become a Magical Girl
+002-031-002	You Can Change Fate Itself
+002-031-003	I Don't Understand You
+002-031-004	Do You Intend To Be a God?
+002-032		Witch's Labyrinth
+002-032-000	The Rose Garden Witch (Easy)
+002-032-001	The Rose Garden Witch (Veteran)
+002-033		Witch's Labyrinth
+002-033-000	The Dessert Witch (Normal)
+002-033-001	The Dessert Witch (Expert)
+002-034		Witch's Labyrinth
+002-034-000	The Box Witch (Hard)
+002-034-001	The Box Witch (Insane)
+002-035		Walpurgisnacht
+002-035-000	The Stagebuilding Witch (Deadly)
+002-036		
+002-036-000	
+002-036-001	
+002-036-002	
+002-037		
+002-037-000	
+002-037-001	
+002-038		PIKOTARO
+002-038-000	PPAP
+002-039		
+002-039-000	
+002-040		
+002-040-000	
+002-040-001	
+002-040-002	
+002-040-003	
+002-040-004	
+002-041		Gates of ALICE
+002-041-000	Virus of Love
+002-041-001	Explosive Escape
+002-041-002	Order/Disorder
+002-042		Moonlit City
+002-042-000	Converging Rays
+002-042-001	Fever Time!
+002-042-002	World War ALICE
+002-043		
+002-043-000	
+002-043-001	
+002-044		
+002-044-000	
+002-044-001	
+002-045		The Lost World
+002-045-000	Another Mystery Girl
+002-045-001	Don't Act Like You Know Me
+002-045-002	All Worlds Will End
+002-046		Merc Awakens!
+002-046-000	Merc Awakens (Veteran)
+002-046-001	Merc Awakens (Insane)
+002-047		Titi Awakens!
+002-047-000	Titi Awakens (Veteran)
+002-047-001	Titi Awakens (Insane)
+002-048		
+002-048-000	
+002-048-001	
+002-048-002	
+002-049		
+002-049-000	
+002-049-001	
+002-049-002	
+002-050		
+002-050-000	
+002-050-001	
+002-050-002	
+002-051		
+002-051-000	
+002-052		The Holy Grail War
+002-052-000	Schoolyard Clash
+002-052-001	Midnight Interception
+002-052-002	Manor Ruins
+002-052-003	Inconspicuous Trap
+002-052-004	Beginning of the End
+002-053		Holy War: Saber
+002-053-000	Fated Night (Easy)
+002-053-001	Fated Night (Expert)
+002-054		Holy War: Lancer
+002-054-000	Assault from Above (Easy)
+002-054-001	Assault from Above (Expert)
+002-055		Holy War: Archer
+002-055-000	Unlimited Bladeworks (Easy)
+002-055-001	Unlimited Bladeworks (Expert)
+002-056		Holy War: Rider
+002-056-000	Blood Temple (Easy)
+002-056-001	Blood Temple (Expert)
+002-057		Holy War: Gilgamesh
+002-057-000	King of Heroes (Veteran)
+002-057-001	King of Heroes (Deadly)
+002-058		Sophomore Summer
+002-058-000	Round 1 (Easy)
+002-058-001	Round 2 (Normal) 
+002-058-002	Final Round (Hard)
+002-059		Prof. Wild's Challenge
+002-059-000	Willing Sacrifice (Veteran)
+002-059-001	Willing Sacrifice (Deadly)
+002-060		Date Chance: Karin
+002-060-000	Iron Will (Easy)
+002-060-001	Iron Will (Expert)
+002-061		Date Chance: Misaki
+002-061-000	Warm Smile (Easy)
+002-061-001	Warm Smile (Expert)
+002-062		Date Chance: Sairi
+002-062-000	No. 1 Angel (Easy)
+002-062-001	No. 1 Angel (Expert) 
+002-063		Date Chance: Ren
+002-063-000	Burning Love (Easy)
+002-063-001	Burning Love (Expert)
+002-064		Mentori's Masterplan
+002-064-000	Mental Manipulations
+002-064-001	Not a Penguin
+002-065		Evangelion Activates!
+002-065-000	State of Emergency
+002-065-001	NERV
+002-065-002	I Mustn't Run Away…
+002-066		Decisive Battle!
+002-066-000	Futagoyama Fortress
+002-066-001	Pre-fire Sequence
+002-066-002	High-Order Energy
+002-066-003	Don't Say Farewell
+002-066-004	Start by Smiling
+002-067		The 9th Angel Strikes!
+002-067-000	Asuka On Board (Easy)
+002-067-001	Asuka On Board (Expert)
+002-068		The 10th Angel Strikes!
+002-068-000	Refusal Type (Hard)
+002-068-001	Refusal Type (Merciless)
+002-069		Poko Forest Friends!
+002-069-000	Rabbit's Mischief
+002-069-001	Sheep's Bravado
+002-069-002	Bear's Bashfulness
+002-070		Trio from the Woods
+002-070-000	Puzzle Attack!
+002-070-001	Collecting Cherries
+002-070-002	Rainbow Blast!
+002-071		
+002-071-000	
+002-071-001	
+002-071-002	
+002-071-003	
+002-071-004	
+002-072		
+002-072-000	
+002-072-001	
+002-072-002	
+002-072-003	
+002-072-004	
+002-073		
+002-073-000	
+002-073-001	
+002-073-002	
+002-073-003	
+002-073-004	
+002-074		
+002-074-000	
+002-074-001	
+002-074-002	
+002-074-003	
+002-074-004	
+002-075		City of Souls
+002-075-000	Blackened Soul
+002-075-001	The Two Yukis
+002-075-002	Three Destinies
+002-076		
+002-076-000	
+002-076-001	
+002-076-002	
+002-076-003	
+002-076-004	
+002-077		
+002-077-000	
+002-077-001	
+002-078		
+002-078-000	
+002-078-001	
+002-078-002	
+002-078-003	
+002-078-004	
+002-079		Groove Like A Bear
+002-079-000	Weird
+002-079-001	Furious
+002-079-002	Funky
+002-080		
+002-080-000	
+002-080-001	
+002-080-002	
+002-080-003	
+002-080-004	
+002-081		A Fake Mitakihara
+002-081-000	The Nutcracker Witch (Veteran)
+002-081-001	The Nutcracker Witch (Merciless)
+002-082		Queen Rampant
+002-082-000	Sudden Rampage (Normal)
+002-082-001	Synthetic Hubris (Hard)
+002-082-002	Chaos Construct (Veteran)
+002-082-003	Abandoned Future (Expert)
+002-082-004	Tangible Existence (Deadly)
+002-083		
+002-083-000	
+002-083-001	
+002-084		
+002-084-000	
+002-085		Merc Storia: Attack
+002-085-000	Alois: Cowards Flight
+002-085-001	Cornelia: Heaven's Grace
+002-085-002	Hearscht: Silver Beast
+002-086		Merc Storia: Mystery
+002-086-000	Feathered
+002-086-001	On Holy Wings
+002-086-002	Blade Ritual
+002-087		Holy War: Saber Alter
+002-087-000	Consumed by Shadow (Veteran)
+002-087-001	Consumed by Shadow (Deadly)
+002-088		Survive! Mola Mola!
+002-088-000	Squid Bender
+002-088-001	Mean Morning Sunbeams
+002-088-002	Life Ain't Easy, Kid
+002-089		300 Million Dead Molas
+002-089-000	Only Brother Left
+002-089-001	Life's Hard Mode
+002-089-002	Sardine Bones
+002-089-003	SUDDEN DEATH
+002-089-004	One Step from Heaven
+002-090		
+002-090-000	
+002-090-001	
+002-091		
+002-091-000	
+002-091-001	
+002-091-002	
+002-092		
+002-092-000	
+002-092-001	
+002-092-002	
+002-093		
+002-093-000	
+002-093-001	
+002-093-002	
+002-093-003	
+002-093-004	
+002-094		
+002-094-000	
+002-094-001	
+002-095		
+002-095-000	
+002-095-001	
+002-096		
+002-096-000	
+002-096-001	
+002-096-002	
+002-097		
+002-097-000	
+002-097-001	
+002-097-002	
+002-097-003	
+002-097-004	
+002-098		Annihilated City
+002-098-000	A Post-Apocalypse Tale
+002-098-001	Deliveryman Takuya
+002-098-002	A Mystery Girl
+002-098-003	Good Cats, Bad Cats
+002-098-004	A Bothersome Cat
+002-098-005	The Nyanko Plan
+002-098-006	LOST (Insane)
+002-099		The World Beyond
+002-099-000	An Encounter With Sin
+002-099-001	Foolish Wanderer Kano
+002-099-002	Wishing for Happiness
+002-100		
+002-100-000	
+002-100-001	
+002-100-002	
+002-101		
+002-101-000	
+002-101-001	
+002-102		Unit-13 Strikes!
+002-102-000	It's Not Your Fault (Veteran)
+002-102-001	We'll Meet Again (Merciless)
+002-103		
+002-103-000	
+002-103-001	
+002-103-002	
+002-103-003	
+002-103-004	
+002-104		
+002-104-000	
+002-104-001	
+002-104-002	
+002-104-003	
+002-104-004	
+002-105		Shakurel Planet
+002-105-000	The Jaws of Nature
+002-105-001	Gnawin' Bones
+002-105-002	Chompin' Trees
+002-105-003	Munchin' Rocks
+002-105-004	The Future Is Chins
+002-106		
+002-106-000	
+002-106-001	
+002-106-002	
+002-106-003	
+002-106-004	
+002-107		Street Fighter (Easy)
+002-107-000	Warrior of Nature
+002-107-001	Illuminating Flame
+002-107-002	Rush & Blaze
+002-107-003	BONUS STAGE
+002-107-004	Blue Jade
+002-107-005	Iron Cyclone
+002-107-006	Impregnable Fortress
+002-107-007	Invincible Fist
+002-108		Street Fighter (Normal)
+002-108-000	Illuminating Flame
+002-108-001	Iron Cyclone
+002-108-002	Blue Jade
+002-108-003	BONUS STAGE
+002-108-004	Rush & Blaze
+002-108-005	Warrior of Nature
+002-108-006	Invincible Fist
+002-108-007	Impregnable Fortress
+002-109		Street Fighter (Hard)
+002-109-000	Iron Cyclone
+002-109-001	Impregnable Fortress
+002-109-002	Rush & Blaze
+002-109-003	BONUS STAGE
+002-109-004	Illuminating Flame
+002-109-005	Blue Jade
+002-109-006	Invincible Fist
+002-109-007	Warrior of Nature
+002-110		New Challenger
+002-110-000	VS RYU (Easy)
+002-111		New Challenger
+002-111-000	VS RYU (Expert)
+002-112		New Challenger
+002-112-000	VS CHUN-LI (Easy)
+002-113		New Challenger
+002-113-000	VS CHUN-LI (Expert)
+002-114		New Challenger
+002-114-000	VS GUILE (Easy)
+002-115		New Challenger
+002-115-000	VS GUILE (Expert)
+002-116		New Challenger
+002-116-000	VS ZANGIEF (Easy)
+002-117		New Challenger
+002-117-000	VS ZANGIEF (Expert)
+002-118		New Challenger
+002-118-000	VS BLANKA (Easy)
+002-119		New Challenger
+002-119-000	VS BLANKA (Expert)
+002-120		New Challenger
+002-120-000	VS DHALSIM (Easy)
+002-121		New Challenger
+002-121-000	VS DHALSIM (Expert)
+002-122		New Challenger
+002-122-000	VS KEN (Easy)
+002-123		New Challenger
+002-123-000	VS KEN (Expert)
+002-124		New Challenger
+002-124-000	Master of the Fist (Veteran)
+002-124-001	Sekia Goshoha (Deadly)
+002-125		
+002-125-000	
+002-125-001	
+002-125-002	
+002-126		Hatsune Miku
+002-126-000	Electric Diva
+002-126-001	Sing with a Smile
+002-126-002	Future is Virtual
+002-127		MIKU EXPO
+002-127-000	in INDONESIA
+002-127-001	in TAIWAN
+002-127-002	in JAPAN
+002-127-003	in USA
+002-127-004	in EUROPE
+002-128		MIKU CHERRY
+002-128-000	Spring Popstar
+002-128-001	Scent of Blossoms
+002-128-002	Sakura Dance
+002-129		
+002-129-000	
+002-129-001	
+002-129-002	
+002-129-003	
+002-129-004	
+002-129-005	
+002-129-006	
+002-129-007	
+002-129-008	
+002-129-009	
+002-129-010	
+002-129-011	
+002-130		MIKU EXPO
+002-130-000	in INDONESIA
+002-130-001	in TAIWAN
+002-130-002	in JAPAN
+002-130-003	in USA
+002-130-004	in EUROPE
+002-131		MIKU CHERRY
+002-131-000	Spring Popstar
+002-131-001	Scent of Blossoms
+002-131-002	Sakura Dance
+002-132		
+002-132-000	
+002-133		
+002-133-000	
+002-133-001	
+002-133-002	
+002-134		Hatsune Miku's Birthday!
+002-134-000	♪Birthday Party♪
+004			Extra Stages
+004-000
+004-001
+004-002
+004-003
+3			Empire of Cats
+003-000		EoC Ch.1 Zombie
+003-000-000	Korea
+003-000-001	Mongolia
+003-000-002	China
+003-000-003	Thailand
+003-000-004	Cambodia
+003-000-005	Philippines
+003-000-006	Japan
+003-000-007	Australia
+003-000-008	Singapore
+003-000-009	Maldives
+003-000-010	India
+003-000-011	Nepal
+003-000-012	Dubai
+003-000-013	Saudi Arabia
+003-000-014	Kenya
+003-000-015	Madagascar
+003-000-016	South Africa
+003-000-017	Ghana
+003-000-018	Sahara
+003-000-019	Egypt
+003-000-020	Turkey
+003-000-021	Russia
+003-000-022	Greece
+003-000-023	Italy
+003-000-024	Monaco
+003-000-025	Germany
+003-000-026	France
+003-000-027	Spain
+003-000-028	Denmark
+003-000-029	Norway
+003-000-030	United Kingdom
+003-000-031	Greenland
+003-000-032	Canada
+003-000-033	New York
+003-000-034	Bermuda
+003-000-035	Jamaica
+003-000-036	Colombia
+003-000-037	Brazil
+003-000-038	Argentina
+003-000-039	Machu Picchu
+003-000-040	Easter Island
+003-000-041	Mexico
+003-000-042	NASA
+003-000-043	Las Vegas
+003-000-044	Hollywood
+003-000-045	Alaska
+003-000-046	Hawaii
+003-000-047	Moon
+003-001		EoC Ch.2 Zombie
+003-001-000	Korea
+003-001-001	Mongolia
+003-001-002	China
+003-001-003	Thailand
+003-001-004	Cambodia
+003-001-005	Philippines
+003-001-006	Japan
+003-001-007	Australia
+003-001-008	Singapore
+003-001-009	Maldives
+003-001-010	India
+003-001-011	Nepal
+003-001-012	Dubai
+003-001-013	Saudi Arabia
+003-001-014	Kenya
+003-001-015	Madagascar
+003-001-016	South Africa
+003-001-017	Ghana
+003-001-018	Sahara
+003-001-019	Egypt
+003-001-020	Turkey
+003-001-021	Russia
+003-001-022	Greece
+003-001-023	Italy
+003-001-024	Monaco
+003-001-025	Germany
+003-001-026	France
+003-001-027	Spain
+003-001-028	Denmark
+003-001-029	Norway
+003-001-030	United Kingdom
+003-001-031	Greenland
+003-001-032	Canada
+003-001-033	New York
+003-001-034	Bermuda
+003-001-035	Jamaica
+003-001-036	Colombia
+003-001-037	Brazil
+003-001-038	Argentina
+003-001-039	Machu Picchu
+003-001-040	Easter Island
+003-001-041	Mexico
+003-001-042	NASA
+003-001-043	Las Vegas
+003-001-044	Hollywood
+003-001-045	Alaska
+003-001-046	Hawaii
+003-001-047	Moon
+003-002		EoC Ch.3 Zombie
+003-002-000	Korea
+003-002-001	Mongolia
+003-002-002	China
+003-002-003	Thailand
+003-002-004	Cambodia
+003-002-005	Philippines
+003-002-006	Japan
+003-002-007	Australia
+003-002-008	Singapore
+003-002-009	Maldives
+003-002-010	India
+003-002-011	Nepal
+003-002-012	Dubai
+003-002-013	Saudi Arabia
+003-002-014	Kenya
+003-002-015	Madagascar
+003-002-016	South Africa
+003-002-017	Ghana
+003-002-018	Sahara
+003-002-019	Egypt
+003-002-020	Turkey
+003-002-021	Russia
+003-002-022	Greece
+003-002-023	Italy
+003-002-024	Monaco
+003-002-025	Germany
+003-002-026	France
+003-002-027	Spain
+003-002-028	Denmark
+003-002-029	Norway
+003-002-030	United Kingdom
+003-002-031	Greenland
+003-002-032	Canada
+003-002-033	New York
+003-002-034	Bermuda
+003-002-035	Jamaica
+003-002-036	Colombia
+003-002-037	Brazil
+003-002-038	Argentina
+003-002-039	Machu Picchu
+003-002-040	Easter Island
+003-002-041	Mexico
+003-002-042	NASA
+003-002-043	Las Vegas
+003-002-044	Hollywood
+003-002-045	Alaska
+003-002-046	Hawaii
+003-002-047	Moon
+003-003		ItF Ch.1
+003-003-000	Japan
+003-003-001	Korea
+003-003-002	China
+003-003-003	Mongolia
+003-003-004	Russia
+003-003-005	Norway
+003-003-006	United Kingdom
+003-003-007	Denmark
+003-003-008	Germany
+003-003-009	France
+003-003-010	Spain
+003-003-011	Monako
+003-003-012	Italy
+003-003-013	Greece
+003-003-014	Turkey
+003-003-015	Dubai
+003-003-016	India
+003-003-017	Nepal
+003-003-018	Thailand
+003-003-019	Cambodia
+003-003-020	Philippines
+003-003-021	Singapore
+003-003-022	Australia
+003-003-023	The Great Abyss
+003-003-024	Madagascar
+003-003-025	Kenya
+003-003-026	Saudi Arabia
+003-003-027	Egypt
+003-003-028	Sahara
+003-003-029	Ghana
+003-003-030	South Africa
+003-003-031	Argentina
+003-003-032	Easter Island
+003-003-033	Machu Picchu
+003-003-034	Columbia
+003-003-035	Jamaica
+003-003-036	Mexico
+003-003-037	Hollywood
+003-003-038	Las Vegas
+003-003-039	Alaska
+003-003-040	Canada
+003-003-041	Greenland
+003-003-042	New York
+003-003-043	NASA
+003-003-044	Bermuda
+003-003-045	Brazil
+003-003-046	Floating Continent
+003-003-047	Moon
+003-004		ItF Ch.2
+003-004-000	Japan
+003-004-001	Korea
+003-004-002	China
+003-004-003	Mongolia
+003-004-004	Russia
+003-004-005	Norway
+003-004-006	United Kingdom
+003-004-007	Denmark
+003-004-008	Germany
+003-004-009	France
+003-004-010	Spain
+003-004-011	Monako
+003-004-012	Italy
+003-004-013	Greece
+003-004-014	Turkey
+003-004-015	Dubai
+003-004-016	India
+003-004-017	Nepal
+003-004-018	Thailand
+003-004-019	Cambodia
+003-004-020	Philippines
+003-004-021	Singapore
+003-004-022	Australia
+003-004-023	The Great Abyss
+003-004-024	Madagascar
+003-004-025	Kenya
+003-004-026	Saudi Arabia
+003-004-027	Egypt
+003-004-028	Sahara
+003-004-029	Ghana
+003-004-030	South Africa
+003-004-031	Argentina
+003-004-032	Easter Island
+003-004-033	Machu Picchu
+003-004-034	Columbia
+003-004-035	Jamaica
+003-004-036	Mexico
+003-004-037	Hollywood
+003-004-038	Las Vegas
+003-004-039	Alaska
+003-004-040	Canada
+003-004-041	Greenland
+003-004-042	New York
+003-004-043	NASA
+003-004-044	Bermuda
+003-004-045	Brazil
+003-004-046	Floating Continent
+003-004-047	Moon
+003-005		ItF Ch.3
+003-005-000	Japan
+003-005-001	Korea
+003-005-002	China
+003-005-003	Mongolia
+003-005-004	Russia
+003-005-005	Norway
+003-005-006	United Kingdom
+003-005-007	Denmark
+003-005-008	Germany
+003-005-009	France
+003-005-010	Spain
+003-005-011	Monako
+003-005-012	Italy
+003-005-013	Greece
+003-005-014	Turkey
+003-005-015	Dubai
+003-005-016	India
+003-005-017	Nepal
+003-005-018	Thailand
+003-005-019	Cambodia
+003-005-020	Philippines
+003-005-021	Singapore
+003-005-022	Australia
+003-005-023	The Great Abyss
+003-005-024	Madagascar
+003-005-025	Kenya
+003-005-026	Saudi Arabia
+003-005-027	Egypt
+003-005-028	Sahara
+003-005-029	Ghana
+003-005-030	South Africa
+003-005-031	Argentina
+003-005-032	Easter Island
+003-005-033	Machu Picchu
+003-005-034	Columbia
+003-005-035	Jamaica
+003-005-036	Mexico
+003-005-037	Hollywood
+003-005-038	Las Vegas
+003-005-039	Alaska
+003-005-040	Canada
+003-005-041	Greenland
+003-005-042	New York
+003-005-043	NASA
+003-005-044	Bermuda
+003-005-045	Brazil
+003-005-046	Floating Continent
+003-005-047	Moon
+003-006		CotC Ch.1
+003-006-000	Earth
+003-006-001	Mars
+003-006-002	Jupiter
+003-006-003	Saturn
+003-006-004	Venus
+003-006-005	Mercury
+003-006-006	Sun
+003-006-007	Uranus
+003-006-008	Neptune
+003-006-009	Triton
+003-006-010	Pluto
+003-006-011	Red Rectangle
+003-006-012	Eskimo Nebula
+003-006-013	Catseye Nebula
+003-006-014	Egg Nebula
+003-006-015	Calabash Nebula
+003-006-016	Altair
+003-006-017	Sirius
+003-006-018	Canopus
+003-006-019	Vega
+003-006-020	Aldebaran
+003-006-021	Betelgeuse
+003-006-022	Deneb
+003-006-023	Cosmic Lounge
+003-006-024	Sighter's Star
+003-006-025	Kaiou
+003-006-026	Magellanic
+003-006-027	Buutara
+003-006-028	Moskandag
+003-006-029	Corona
+003-006-030	Soba IV
+003-006-031	Plumpit
+003-006-032	Darararah
+003-006-033	Thanxbye
+003-006-034	Mertoz
+003-006-035	Urura
+003-006-036	Aguham
+003-006-037	Somolon
+003-006-038	Ababwa
+003-006-039	Titan
+003-006-040	Skelling
+003-006-041	Gorigori
+003-006-042	Broton
+003-006-043	Crimson Star
+003-006-044	N77 Nebula
+003-006-045	Andromeda
+003-006-046	Black Hole
+003-006-047	The Big Bang
+003-007		CotC Ch.2
+003-007-000	Earth
+003-007-001	Mars
+003-007-002	Jupiter
+003-007-003	Saturn
+003-007-004	Venus
+003-007-005	Mercury
+003-007-006	Sun
+003-007-007	Uranus
+003-007-008	Neptune
+003-007-009	Triton
+003-007-010	Pluto
+003-007-011	Red Rectangle
+003-007-012	Eskimo Nebula
+003-007-013	Catseye Nebula
+003-007-014	Egg Nebula
+003-007-015	Calabash Nebula
+003-007-016	Altair
+003-007-017	Sirius
+003-007-018	Canopus
+003-007-019	Vega
+003-007-020	Aldebaran
+003-007-021	Betelgeuse
+003-007-022	Deneb
+003-007-023	Cosmic Lounge
+003-007-024	Sighter's Star
+003-007-025	Kaiou
+003-007-026	Magellanic
+003-007-027	Buutara
+003-007-028	Moskandag
+003-007-029	Corona
+003-007-030	Soba IV
+003-007-031	Plumpit
+003-007-032	Darararah
+003-007-033	Thanxbye
+003-007-034	Mertoz
+003-007-035	Urura
+003-007-036	Aguham
+003-007-037	Somolon
+003-007-038	Ababwa
+003-007-039	Titan
+003-007-040	Skelling
+003-007-041	Gorigori
+003-007-042	Broton
+003-007-043	Crimson Star
+003-007-044	N77 Nebula
+003-007-045	Andromeda
+003-007-046	Black Hole
+003-007-047	The Big Bang
+003-008		CotC Ch.3
+003-008-000	Earth
+003-008-001	Mars
+003-008-002	Jupiter
+003-008-003	Saturn
+003-008-004	Venus
+003-008-005	Mercury
+003-008-006	Sun
+003-008-007	Uranus
+003-008-008	Neptune
+003-008-009	Triton
+003-008-010	Pluto
+003-008-011	Red Rectangle
+003-008-012	Eskimo Nebula
+003-008-013	Catseye Nebula
+003-008-014	Egg Nebula
+003-008-015	Calabash Nebula
+003-008-016	Altair
+003-008-017	Sirius
+003-008-018	Canopus
+003-008-019	Vega
+003-008-020	Aldebaran
+003-008-021	Betelgeuse
+003-008-022	Deneb
+003-008-023	Cosmic Lounge
+003-008-024	Sighter's Star
+003-008-025	Kaiou
+003-008-026	Magellanic
+003-008-027	Buutara
+003-008-028	Moskandag
+003-008-029	Corona
+003-008-030	Soba IV
+003-008-031	Plumpit
+003-008-032	Darararah
+003-008-033	Thanxbye
+003-008-034	Mertoz
+003-008-035	Urura
+003-008-036	Aguham
+003-008-037	Somolon
+003-008-038	Ababwa
+003-008-039	Titan
+003-008-040	Skelling
+003-008-041	Gorigori
+003-008-042	Broton
+003-008-043	Crimson Star
+003-008-044	N77 Nebula
+003-008-045	Andromeda
+003-008-046	Black Hole
+003-008-047	The Big Bang
+003-009		EoC
+003-009-000	Korea
+003-009-001	Mongolia
+003-009-002	China
+003-009-003	Thailand
+003-009-004	Cambodia
+003-009-005	Philippines
+003-009-006	Japan
+003-009-007	Australia
+003-009-008	Singapore
+003-009-009	Maldives
+003-009-010	India
+003-009-011	Nepal
+003-009-012	Dubai
+003-009-013	Saudi Arabia
+003-009-014	Kenya
+003-009-015	Madagascar
+003-009-016	South Africa
+003-009-017	Ghana
+003-009-018	Sahara
+003-009-019	Egypt
+003-009-020	Turkey
+003-009-021	Russia
+003-009-022	Greece
+003-009-023	Italy
+003-009-024	Monaco
+003-009-025	Germany
+003-009-026	France
+003-009-027	Spain
+003-009-028	Denmark
+003-009-029	Norway
+003-009-030	United Kingdom
+003-009-031	Greenland
+003-009-032	Canada
+003-009-033	New York
+003-009-034	Bermuda
+003-009-035	Jamaica
+003-009-036	Colombia
+003-009-037	Brazil
+003-009-038	Argentina
+003-009-039	Machu Picchu
+003-009-040	Easter Island
+003-009-041	Mexico
+003-009-042	NASA
+003-009-043	Las Vegas
+003-009-044	Hollywood
+003-009-045	Alaska
+003-009-046	Hawaii
+003-009-047	Moon Ch.1
+003-009-049	Moon Ch.2
+003-009-050	Moon Ch.3
+003-010		ItF Ch.1 Zombie
+003-010-000	Japan
+003-010-001	Korea
+003-010-002	China
+003-010-003	Mongolia
+003-010-004	Russia
+003-010-005	Norway
+003-010-006	United Kingdom
+003-010-007	Denmark
+003-010-008	Germany
+003-010-009	France
+003-010-010	Spain
+003-010-011	Monako
+003-010-012	Italy
+003-010-013	Greece
+003-010-014	Turkey
+003-010-015	Dubai
+003-010-016	India
+003-010-017	Nepal
+003-010-018	Thailand
+003-010-019	Cambodia
+003-010-020	Philippines
+003-010-021	Singapore
+003-010-022	Australia
+003-010-023	The Great Abyss
+003-010-024	Madagascar
+003-010-025	Kenya
+003-010-026	Saudi Arabia
+003-010-027	Egypt
+003-010-028	Sahara
+003-010-029	Ghana
+003-010-030	South Africa
+003-010-031	Argentina
+003-010-032	Easter Island
+003-010-033	Machu Picchu
+003-010-034	Columbia
+003-010-035	Jamaica
+003-010-036	Mexico
+003-010-037	Hollywood
+003-010-038	Las Vegas
+003-010-039	Alaska
+003-010-040	Canada
+003-010-041	Greenland
+003-010-042	New York
+003-010-043	NASA
+003-010-044	Bermuda
+003-010-045	Brazil
+003-010-046	Floating Continent
+003-010-047	Moon
+003-011		Filibuster Invasion
+003-011-000	Filibuster Invasion
+003-012		ItF Ch.2 Zombie
+003-012-000	Japan
+003-012-001	Korea
+003-012-002	China
+003-012-003	Mongolia
+003-012-004	Russia
+003-012-005	Norway
+003-012-006	United Kingdom
+003-012-007	Denmark
+003-012-008	Germany
+003-012-009	France
+003-012-010	Spain
+003-012-011	Monako
+003-012-012	Italy
+003-012-013	Greece
+003-012-014	Turkey
+003-012-015	Dubai
+003-012-016	India
+003-012-017	Nepal
+003-012-018	Thailand
+003-012-019	Cambodia
+003-012-020	Philippines
+003-012-021	Singapore
+003-012-022	Australia
+003-012-023	The Great Abyss
+003-012-024	Madagascar
+003-012-025	Kenya
+003-012-026	Saudi Arabia
+003-012-027	Egypt
+003-012-028	Sahara
+003-012-029	Ghana
+003-012-030	South Africa
+003-012-031	Argentina
+003-012-032	Easter Island
+003-012-033	Machu Picchu
+003-012-034	Columbia
+003-012-035	Jamaica
+003-012-036	Mexico
+003-012-037	Hollywood
+003-012-038	Las Vegas
+003-012-039	Alaska
+003-012-040	Canada
+003-012-041	Greenland
+003-012-042	New York
+003-012-043	NASA
+003-012-044	Bermuda
+003-012-045	Brazil
+003-012-046	Floating Continent
+003-012-047	Moon
+003-013		ItF Ch.3 Zombie
+003-013-000	Japan
+003-013-001	Korea
+003-013-002	China
+003-013-003	Mongolia
+003-013-004	Russia
+003-013-005	Norway
+003-013-006	United Kingdom
+003-013-007	Denmark
+003-013-008	Germany
+003-013-009	France
+003-013-010	Spain
+003-013-011	Monako
+003-013-012	Italy
+003-013-013	Greece
+003-013-014	Turkey
+003-013-015	Dubai
+003-013-016	India
+003-013-017	Nepal
+003-013-018	Thailand
+003-013-019	Cambodia
+003-013-020	Philippines
+003-013-021	Singapore
+003-013-022	Australia
+003-013-023	The Great Abyss
+003-013-024	Madagascar
+003-013-025	Kenya
+003-013-026	Saudi Arabia
+003-013-027	Egypt
+003-013-028	Sahara
+003-013-029	Ghana
+003-013-030	South Africa
+003-013-031	Argentina
+003-013-032	Easter Island
+003-013-033	Machu Picchu
+003-013-034	Columbia
+003-013-035	Jamaica
+003-013-036	Mexico
+003-013-037	Hollywood
+003-013-038	Las Vegas
+003-013-039	Alaska
+003-013-040	Canada
+003-013-041	Greenland
+003-013-042	New York
+003-013-043	NASA
+003-013-044	Bermuda
+003-013-045	Brazil
+003-013-046	Floating Continent
+003-013-047	Moon
+004			Extra
+004-000		Growing Green
+004-000-000	Catfruit Jubilee
+004-000-001	Catfruit Jubilee
+004-000-002	Catfruit Jubilee
+004-001		Growing Purple
+004-001-000	Catfruit Jubilee
+004-001-001	Catfruit Jubilee
+004-001-002	Catfruit Jubilee
+004-002		Growing Red
+004-002-000	Catfruit Jubilee
+004-002-001	Catfruit Jubilee
+004-002-002	Catfruit Jubilee
+004-003		Growing Blue
+004-003-000	Catfruit Jubilee
+004-003-001	Catfruit Jubilee
+004-003-002	Catfruit Jubilee
+004-004		Growing Yellow
+004-004-000	Catfruit Jubilee
+004-004-001	Catfruit Jubilee
+004-004-002	Catfruit Jubilee
+004-005		Bad to Worse
+004-005-000	Doom Paradise (Insane)
+004-006		Day of Judgement
+004-006-000	Acts of Cat-God (Insane)
+004-007		Techneurosis
+004-007-000	Space is the Place (Insane)
+004-008		Catfruit Buffet
+004-008-000	Violet Flash (Hard)
+004-009		Catfruit Buffet
+004-009-000	Red Passions (Hard)
+004-010		Catfruit Buffet
+004-010-000	Blue Illusion (Hard)
+004-011		Catfruit Buffet
+004-011-000	Rays of Gold (Hard)
+004-012		Catfruit Buffet
+004-012-000	Violet Flash (Expert)
+004-013		Catfruit Buffet
+004-013-000	Red Passions (Expert)
+004-014		Catfruit Buffet
+004-014-000	Blue Illusion (Expert)
+004-015		Catfruit Buffet
+004-015-000	Rays of Gold (Expert)
+004-016		Catfruit Buffet
+004-016-000	Violet Flash (Insane)
+004-017		Catfruit Buffet
+004-017-000	Red Passions (Insane)
+004-018		Catfruit Buffet
+004-018-000	Blue Illusion (Insane)
+004-019		Catfruit Buffet
+004-019-000	Rays of Gold (Insane)
+004-020		Catfruit Buffet
+004-020-000	Catfruit Jubilee
+004-020-001	Catfruit Jubilee
+004-020-002	Catfruit Jubilee
+004-021		Crazed Moneko
+004-021-000	in THE MOON
+004-022		Growing Strange
+004-022-000	Color of Blood (Merciless)
+004-022-001	Fear of Flying (Merciless)
+004-022-002	Hearts of Darkness (Merciless)
+004-022-003	Holy Wrath (Merciless)
+004-022-004	Galactic Threat (Merciless)
+004-022-005	Clash of Steel (Merciless)
+004-022-006	Seas of Death (Merciless)
+
+006			Catclaw Dogo
+006-000
+
+007			Heavenly Tower
+007-000		Heavenly Tower
+007-000-000	Floor 1
+007-000-001	Floor 2
+007-000-002	Floor 3
+007-000-003	Floor 4
+007-000-004	Floor 5   
+007-000-005	Floor 6
+007-000-006	Floor 7
+007-000-007	Floor 8
+007-000-008	Floor 9
+007-000-009	Floor 10
+007-000-010	Floor 11
+007-000-011	Floor 12
+007-000-012	Floor 13
+007-000-013	Floor 14
+007-000-014	Floor 15
+007-000-015	Floor 16
+007-000-016	Floor 17
+007-000-017	Floor 18
+007-000-018	Floor 19
+007-000-019	Floor 20
+007-000-020	Floor 21
+007-000-021	Floor 22
+007-000-022	Floor 23
+007-000-023	Floor 24
+007-000-024	Floor 25
+007-000-025	Floor 26
+007-000-026	Floor 27
+007-000-027	Floor 28
+007-000-028	Floor 29
+007-000-029	Floor 30
+007-000-030	Floor 31
+007-000-031	Floor 32
+007-000-032	Floor 33
+007-000-033	Floor 34
+007-000-034	Floor 35
+007-000-035	Floor 36
+007-000-036	Floor 37
+007-000-037	Floor 38
+007-000-038	Floor 39
+007-000-039	Floor 40
+007-000-040	Floor 41
+007-000-041	Floor 42
+007-000-042	Floor 43
+007-000-043	Floor 44
+007-000-044	Floor 45
+007-000-045	Floor 46
+007-000-046	Floor 47
+007-000-047	Floor 48
+007-000-048	Floor 49
+007-000-049	Floor 50
+
+011			Ranking Dojo Stages
+011-000
+
+012			Challenge Mode
+012-000		Challenge
+012-000-000	Challenge
+
+013			Uncanny Legends
+013-000		A New Legend
+013-000-000	An Ancient Curse
+013-001		Here Be Dragons
+013-001-000	Pilaf Field
+013-001-001	Nyandaria
+013-001-002	Annin Pass
+013-001-003	Ajillo Highlands
+013-001-004	Pasta Desert
+013-001-005	Mince Hill
+013-002		The Endless Wood
+013-002-000	Kosamin Ruins
+013-002-001	Shallow Sea Green
+013-002-002	Playing Bandits
+013-002-003	Buggy Hollows
+013-002-004	Thriller Grin
+013-002-005	John Gool
+013-003		Primeval Currents
+013-003-000	Marine Town
+013-003-001	Wandering Conch
+013-003-002	Palcaccio Waters
+013-003-003	Utsubobo Seamount
+013-003-004	Frontier Dawn
+013-003-005	Rutsborg Vortex
+013-004		Barking Bay
+013-004-000	Crowded Surf
+013-004-001	Mutinous Waves
+013-004-002	Buoys & Gills
+013-004-003	On the Rocks
+013-004-004	Seahorse Siren
+013-004-005	Young Cuttlefish
+013-005		Abyss Gazers
+013-005-000	Deadly Weapons
+013-005-001	Inspirational Mural
+013-005-002	Sunlit Caves
+013-005-003	Glittering Peaks
+013-005-004	Murmuring Evil
+013-005-005	Languid Lakeside
+013-006		Neo-Necropolis
+013-006-000	Midnight Lycopene
+013-006-001	Metroasis
+013-006-002	Paper Skyscraper
+013-006-003	Rogue's Twilight
+013-006-004	Concrete Ocean
+013-006-005	Unmanned Station
+013-007		Law of the Wildlands
+013-007-000	Panic Tower
+013-007-001	Lady in the Clink
+013-007-002	No Hope Ranch
+013-007-003	Hunter's Hills
+013-007-004	Morbid Mesa
+013-007-005	Revolver Ridge
+013-008		Pararila Peninsula
+013-008-000	Escolar Coast
+013-008-001	Project Walrus
+013-008-002	Loach Breach
+013-008-003	Seagull Reserve
+013-008-004	Roe Row
+013-008-005	Heron's Call
+013-009		Coup de Chat
+013-009-000	Cricket Ideology
+013-009-001	Gutter Lord
+013-009-002	Veggie Friends
+013-009-003	Snitches Get Stitches
+013-009-004	Shocking Exile
+013-009-005	The Red Cat Gambit
+013-010		Cherry Isles
+013-010-000	Magma Bath
+013-010-001	Pyroclastic Flow
+013-010-002	Ashen Rain
+013-010-003	Sage of the Peak
+013-010-004	Raging Caldera
+013-010-005	Supervolcano
+013-011		Depths of My Heart
+013-011-000	A Joyful Song
+013-011-001	Cave Maidens
+013-011-002	Good Spirits
+013-011-003	Woods of Resentment
+013-011-004	Hermit Chatterbox
+013-011-005	Primitive Souls
+013-012		Ghost Sea
+013-012-000	Iwa Rock Reef
+013-012-001	Nautilus Tomb
+013-012-002	Lost Sailors
+013-012-003	Caged Carp
+013-012-004	Quay of Camels
+013-012-005	Endless Dead Zone
+013-013		Exile's Resort
+013-013-000	Holiday Atonement
+013-013-001	A Private Rainforest
+013-013-002	Rude on the Beach
+013-013-003	13th Ward Resident
+013-013-004	Spa of Ascension
+013-013-005	Wonders of Nature
+013-014		Roads of Torment
+013-014-000	Pulling Hair
+013-014-001	Mermaid Sauce
+013-014-002	Lord's Lecture
+013-014-003	Cracked Column
+013-014-004	Guardian of Innocence
+013-014-005	Total Myopia
+013-015		Heaven's Back Alley
+013-015-000	Eager Entryway
+013-015-001	Fainting Porch
+013-015-002	Hangover Couch
+013-015-003	Tidy Kitchen
+013-015-004	Bathtub of Whimsy
+013-015-005	Lamb's Boudoir
+013-016		Battle in the Bath
+013-016-000	Steamworks Ltd.
+013-016-001	Sticky Shower
+013-016-002	Standing Sauna
+013-016-003	Chilly Pool
+013-016-004	Umibozu's House
+013-016-005	Hot Spring Reception
+013-017		Ancient Mountains
+013-017-000	Famine Village
+013-017-001	The Night of Claws
+013-017-002	Rocky Surface
+013-017-003	Exaggeration Falls
+013-017-004	Abandoned Desire
+013-017-005	Slave to Instinct
+013-018		Marine Ministry
+013-018-000	Beachhead Invasion
+013-018-001	Forever Fishing
+013-018-002	Triton's Cave
+013-018-003	Nighttime Lure
+013-018-004	The Bloody Wharf
+013-018-005	Multitetrapod
+013-019		The Devils' Academy
+013-019-000	A Classroom in Ruins
+013-019-001	Lonely Goldfish
+013-019-002	Demon COO
+013-019-003	Principal's Rebellion
+013-019-004	Bell Collector
+013-019-005	Campus Law
+013-020		The Gelatin Mines
+013-020-000	Furry Cavern
+013-020-001	Mandatory Fun
+013-020-002	Gas-Powered Birds
+013-020-003	Stars in the Sewers
+013-020-004	Postapocalypse Panic
+013-020-005	Lifesaving Shovel
+013-021		Drunken Foundry
+013-021-000	Proletarian Box
+013-021-001	Collapse Checker
+013-021-002	Unmoving Conveyer
+013-021-003	VIP Warehouse
+013-021-004	Rebel Scraps
+013-021-005	Smokestack to Heaven
+013-022		Unearthed Artifacts
+013-022-000	Loser's Complaint
+013-022-001	Brave Dog's Bone
+013-022-002	Poison Bog Cure
+013-022-003	Patience Prevails
+013-022-004	A Boat Too Far
+013-022-005	Cursing the Curser
+013-023		Realm of Whyworry
+013-023-000	Authority and Gravity
+013-023-001	Slave to Energy
+013-023-002	Raise Your Torches
+013-023-003	Despotism at Home
+013-023-004	Unauthorized Breathing
+013-023-005	Bare Fangs at the Throne
+013-024		Pumping Titanium
+013-024-000	Treadmill Powered
+013-024-001	Vengeful Sandbag
+013-024-002	Protein Cartel
+013-024-003	Anaerobic Cycling
+013-024-004	Sauna Handstands
+013-024-005	Lakeside Bootcamp
+013-025-000	Curry Comet
+013-025-001	Icarus' Instinct
+013-025-002	Rainbow Bridge Toll
+013-025-003	Planetarium Love
+013-025-004	Meteor Disco
+013-025-005	Cats in the Stars
+013-026		In the Sleeping Forest
+013-026-000	The Prince's Woods
+013-026-001	Aria of the Princess
+013-026-002	Wicked Beauty
+013-026-003	Glass Slippers
+013-026-004	Guild of Masks
+013-026-005	Happily Ever After
+014			Night Stages
+014-000		Growing Yellow
+014-000-000	Rays of Gold (Hard)
+014-000-001	Rays of Gold (Veteran)
+014-000-002	Rays of Gold (Insane)
+014-001		Growing Blue
+014-001-000	Blue Illusion (Hard)
+014-001-001	Blue Illusion (Expert)
+014-001-002	Blue Illusion (Insane)
+014-002		Growing Red
+014-002-000	Red Passions (Hard)
+014-002-001	Red Passions (Expert)
+014-002-002	Red Passions (Insane)
+014-003		Growing Purple
+014-003-000	Violet Flash (Hard)
+014-003-001	Violet Flash (Expert)
+014-003-002	Violet Flash (Insane)
+014-004		Growing Green
+014-004-000	Green Envy (Hard)
+014-004-001	Green Envy (Expert)
+014-004-002	Green Envy (Insane)
+014-005		Facing Danger
+014-005-000	Steel Visage (Deadly)
+014-006		Seige of Hippoe!
+014-006-000	Super Metal Hippoe (Expert)
+014-007		Cat Ticket Chance!
+014-007-000	Love, Metal Hippoe (Hard)
+014-008		Merciless XP!
+014-008-000	Taste of Success (Merciless)
+014-009		XP Colosseum
+014-009-000	Tempered in Flame (Deadly)
+014-010		XP Megablitz!
+014-010-000	Refined Palate (Insane)
+014-011		XP Stage
+014-011-000	Sweet XP (Easy)
+014-011-001	Sweet XP (Medium)
+014-011-002	Sweet XP (Hard)
+014-011-003	Sweet XP (Veteran)
+014-011-004	Sweet XP (Expert)
+014-011-005	Sweet XP (Insane)
+014-012		Clionel Ascendant
+014-012-000	No Plan A (Deadly)	
+014-013		River Styx
+014-013-000	Realm of Carnage (Deadly)
+014-014		Queen's Coronation
+014-014-000	Honey Trap (Deadly)
+014-015		Dead on Debut
+014-015-000	Parade of the Dead (Deadly)
+014-016		King Wahwah's Revenge
+014-016-000	N-1 Grand Prix (Deadly)
+014-017		Deeply Dreaming
+014-017-000	Bombergirl (Deadly)
+014-018		Crimson Catastrophe
+014-018-000	Attack on R-Cyclone (Expert)
+014-019		Heaven of Darkness
+014-019-000	Attack on B-Cyclone (Expert)
+014-020		Peerless
+014-020-000	Attack on W-Cyclone (Expert)
+014-021		Wrath of Heaven
+014-021-000	Oncoming Maelstrom (Expert)
+014-022		Sweet Irony
+014-022-000	Attack on Titanium (Insane)
+014-023		Dimension of Despair
+014-023-000	Black Hole Rising (Insane)
+014-024		The Crazed Cat
+014-024-000	Dark Souls (Insane)
+014-025		The Crazed Tank
+014-025-000	Absolute Defence (Insane)
+014-026		The Crazed Axe
+014-026-000	Berserk (Insane)
+014-027		The Crazed Gross
+014-027-000	Festival Gross (Insane)
+014-028		The Crazed Cow
+014-028-000	Head Shaker (Insane)
+014-029		The Crazed Bird
+014-029-000	Flappy Cat (Insane)
+014-030		The Crazed Fish
+014-030-000	Fish Hell (Insane)
+014-031		The Crazed Lizard
+014-031-000	Mammals? (Insane)
+014-032		The Crazed Titan
+014-032-000	Crazy Cats (Insane)
+024			Baron Boss Stages
+024-000		Baron Seal Strikes!
+024-000-000	Red Alert 1
+024-000-001	Red Alert 2
+024-000-002	Red Alert 3
+024-000-003	Red Alert 4
+024-000-004	Red Alert 5
+024-000-005	Red Alert 6
+024-000-006	Red Alert 7
+024-000-007	Red Alert 8
+024-000-008	Red Alert 9
+024-000-009	Red Alert 10
+024-000-010	Red Alert 11
+024-000-011	Red Alert 12
+024-000-012	Red Alert 13
+024-000-013	Red Alert 14
+024-000-014	Red Alert 15
+024-000-015	Red Alert 16
+024-000-016	Red Alert 17
+024-000-017	Red Alert 18
+024-000-018	Red Alert 19
+024-000-019	Red Alert 20
+024-001		Baron Seal Strikes!!
+024-001-000	Red Alert 21
+024-001-001	Red Alert 22
+024-001-002	Red Alert 23
+024-001-003	Red Alert 24
+024-001-004	Red Alert 25
+024-001-005	Red Alert 26
+024-001-006	Red Alert 27
+024-001-007	Red Alert 28
+024-001-008	Red Alert 29
+024-001-009	Red Alert 30
+024-001-010	Red Alert 31
+024-001-011	Red Alert 32
+024-001-012	Red Alert 33
+024-001-013	Red Alert 34
+024-001-014	Red Alert 35
+024-001-015	Red Alert 36
+024-001-016	Red Alert 37
+024-001-017	Red Alert 38
+024-001-018	Red Alert 39
+024-001-019	Red Alert 40
+024-002		Baron Seal Strikes!!!
+024-002-000	Red Alert 41
+024-002-001	Red Alert 42
+024-002-002	Red Alert 43
+024-002-003	Red Alert 44
+024-002-004	Red Alert 45
+024-002-005	Red Alert 46
+024-002-006	Red Alert 47
+024-002-007	Red Alert 48
+024-002-008	Red Alert 49
+024-002-009	Red Alert 50
+024-002-010	Red Alert 51
+024-002-011	Red Alert 52
+024-002-012	Red Alert 53
+024-002-013	Red Alert 54
+024-002-014	Red Alert 55
+024-002-015	Red Alert 56
+024-002-016	Red Alert 57
+024-002-017	Red Alert 58
+024-002-018	Red Alert 59
+024-002-019	Red Alert 60
+024-003		Le'Grim Strikes!
+024-003-000	Rampage Lv1
+024-003-001	Rampage Lv2
+024-003-002	Rampage Lv3
+024-003-003	Rampage Lv4
+024-003-004	Rampage Lv5
+024-003-005	Rampage Lv6
+024-003-006	Rampage Lv7
+024-003-007	Rampage Lv8
+024-003-008	Rampage Lv9
+024-003-009	Rampage Lv10
+024-003-010	Rampage Lv11
+024-003-011	Rampage Lv12
+024-003-012	Rampage Lv13
+024-003-013	Rampage Lv14
+024-003-014	Rampage Lv15
+024-003-015	Rampage Lv16
+024-003-016	Rampage Lv17
+024-003-017	Rampage Lv18
+024-003-018	Rampage Lv19
+024-003-019	Rampage Lv20
+024-004		Le'Grim Strikes!!
+024-004-000	Rampage Lv21
+024-004-001	Rampage Lv22
+024-004-002	Rampage Lv23
+024-004-003	Rampage Lv24
+024-004-004	Rampage Lv25
+024-004-005	Rampage Lv26
+024-004-006	Rampage Lv27
+024-004-007	Rampage Lv28
+024-004-008	Rampage Lv29
+024-004-009	Rampage Lv30
+024-004-010	Rampage Lv31
+024-004-011	Rampage Lv32
+024-004-012	Rampage Lv33
+024-004-013	Rampage Lv34
+024-004-014	Rampage Lv35
+024-004-015	Rampage Lv36
+024-004-016	Rampage Lv37
+024-004-017	Rampage Lv38
+024-004-018	Rampage Lv39
+024-004-019	Rampage Lv40
+024-005		Le'Grim Strikes!!!
+024-005-000	Rampage Lv41
+024-005-001	Rampage Lv42
+024-005-002	Rampage Lv43
+024-005-003	Rampage Lv44
+024-005-004	Rampage Lv45
+024-005-005	Rampage Lv46
+024-005-006	Rampage Lv47
+024-005-007	Rampage Lv48
+024-005-008	Rampage Lv49
+024-005-009	Rampage Lv50
+024-005-010	Rampage Lv51
+024-005-011	Rampage Lv52
+024-005-012	Rampage Lv53
+024-005-013	Rampage Lv54
+024-005-014	Rampage Lv55
+024-005-015	Rampage Lv56
+024-005-016	Rampage Lv57
+024-005-017	Rampage Lv58
+024-005-018	Rampage Lv59
+024-005-019	Rampage Lv60
+024-006		Mega Menace!
+024-006-000	On Mighty Wings Lv1
+024-006-001	On Mighty Wings Lv2
+024-006-002	On Mighty Wings Lv3
+024-006-003	On Mighty Wings Lv4
+024-006-004	On Mighty Wings Lv5
+024-006-005	On Mighty Wings Lv6
+024-006-006	On Mighty Wings Lv7
+024-006-007	On Mighty Wings Lv8
+024-006-008	On Mighty Wings Lv9
+024-006-009	On Mighty Wings Lv10
+024-006-010	On Mighty Wings Lv11
+024-006-011	On Mighty Wings Lv12
+024-006-012	On Mighty Wings Lv13
+024-006-013	On Mighty Wings Lv14
+024-006-014	On Mighty Wings Lv15
+024-006-015	On Mighty Wings Lv16
+024-006-016	On Mighty Wings Lv17
+024-006-017	On Mighty Wings Lv18
+024-006-018	On Mighty Wings Lv19
+024-006-019	On Mighty Wings Lv20
+024-007		Mega Menace!!
+024-007-000	On Mighty Wings Lv21
+024-007-001	On Mighty Wings Lv22
+024-007-002	On Mighty Wings Lv23
+024-007-003	On Mighty Wings Lv24
+024-007-004	On Mighty Wings Lv25
+024-007-005	On Mighty Wings Lv26
+024-007-006	On Mighty Wings Lv27
+024-007-007	On Mighty Wings Lv28
+024-007-008	On Mighty Wings Lv29
+024-007-009	On Mighty Wings Lv30
+024-007-010	On Mighty Wings Lv31
+024-007-011	On Mighty Wings Lv32
+024-007-012	On Mighty Wings Lv33
+024-007-013	On Mighty Wings Lv34
+024-007-014	On Mighty Wings Lv35
+024-007-015	On Mighty Wings Lv36
+024-007-016	On Mighty Wings Lv37
+024-007-017	On Mighty Wings Lv38
+024-007-018	On Mighty Wings Lv39
+024-007-019	On Mighty Wings Lv40
+024-008		Mega Menace!!!
+024-008-000	On Mighty Wings Lv41
+024-008-001	On Mighty Wings Lv42
+024-008-002	On Mighty Wings Lv43
+024-008-003	On Mighty Wings Lv44
+024-008-004	On Mighty Wings Lv45
+024-008-005	On Mighty Wings Lv46
+024-008-006	On Mighty Wings Lv47
+024-008-007	On Mighty Wings Lv48
+024-008-008	On Mighty Wings Lv49
+024-008-009	On Mighty Wings Lv50
+024-008-010	On Mighty Wings Lv51
+024-008-011	On Mighty Wings Lv52
+024-008-012	On Mighty Wings Lv53
+024-008-013	On Mighty Wings Lv54
+024-008-014	On Mighty Wings Lv55
+024-008-015	On Mighty Wings Lv56
+024-008-016	On Mighty Wings Lv57
+024-008-017	On Mighty Wings Lv58
+024-008-018	On Mighty Wings Lv59
+024-008-019	On Mighty Wings Lv60
+024-009		Horrorpotamus!
+024-009-000	Cosmic Juggernaut Lv.1
+024-009-001	Cosmic Juggernaut Lv.2
+024-009-002	Cosmic Juggernaut Lv.3
+024-009-003	Cosmic Juggernaut Lv.4
+024-009-004	Cosmic Juggernaut Lv.5
+024-009-005	Cosmic Juggernaut Lv.6
+024-009-006	Cosmic Juggernaut Lv.7
+024-009-007	Cosmic Juggernaut Lv.8
+024-009-008	Cosmic Juggernaut Lv.9
+024-009-009	Cosmic Juggernaut Lv.10
+024-009-010	Cosmic Juggernaut Lv.11
+024-009-011	Cosmic Juggernaut Lv.12
+024-009-012	Cosmic Juggernaut Lv.13
+024-009-013	Cosmic Juggernaut Lv.14
+024-009-014	Cosmic Juggernaut Lv.15
+024-009-015	Cosmic Juggernaut Lv.16
+024-009-016	Cosmic Juggernaut Lv.17
+024-009-017	Cosmic Juggernaut Lv.18
+024-009-018	Cosmic Juggernaut Lv.19
+024-009-019	Cosmic Juggernaut Lv.20
+024-010		Horrorpotamus!!
+024-010-000	Cosmic Juggernaut Lv.21
+024-010-001	Cosmic Juggernaut Lv.22
+024-010-002	Cosmic Juggernaut Lv.23
+024-010-003	Cosmic Juggernaut Lv.24
+024-010-004	Cosmic Juggernaut Lv.25
+024-010-005	Cosmic Juggernaut Lv.26
+024-010-006	Cosmic Juggernaut Lv.27
+024-010-007	Cosmic Juggernaut Lv.28
+024-010-008	Cosmic Juggernaut Lv.29
+024-010-009	Cosmic Juggernaut Lv.30
+024-010-010	Cosmic Juggernaut Lv.31
+024-010-011	Cosmic Juggernaut Lv.32
+024-010-012	Cosmic Juggernaut Lv.33
+024-010-013	Cosmic Juggernaut Lv.34
+024-010-014	Cosmic Juggernaut Lv.35
+024-010-015	Cosmic Juggernaut Lv.36
+024-010-016	Cosmic Juggernaut Lv.37
+024-010-017	Cosmic Juggernaut Lv.38
+024-010-018	Cosmic Juggernaut Lv.39
+024-010-019	Cosmic Juggernaut Lv.40
+024-011		Horrorpotamus!!!
+024-011-000	Cosmic Juggernaut Lv.41
+024-011-001	Cosmic Juggernaut Lv.42
+024-011-002	Cosmic Juggernaut Lv.43
+024-011-003	Cosmic Juggernaut Lv.44
+024-011-004	Cosmic Juggernaut Lv.45
+024-011-005	Cosmic Juggernaut Lv.46
+024-011-006	Cosmic Juggernaut Lv.47
+024-011-007	Cosmic Juggernaut Lv.48
+024-011-008	Cosmic Juggernaut Lv.49
+024-011-009	Cosmic Juggernaut Lv.50
+024-011-010	Cosmic Juggernaut Lv.51
+024-011-011	Cosmic Juggernaut Lv.52
+024-011-012	Cosmic Juggernaut Lv.53
+024-011-013	Cosmic Juggernaut Lv.54
+024-011-014	Cosmic Juggernaut Lv.55
+024-011-015	Cosmic Juggernaut Lv.56
+024-011-016	Cosmic Juggernaut Lv.57
+024-011-017	Cosmic Juggernaut Lv.58
+024-011-018	Cosmic Juggernaut Lv.59
+024-011-019	Cosmic Juggernaut Lv.60
+025			Enigma Stages
+025-000		Aitum Fields
+025-000-000	Trench Warfare (Insane)
+025-001		Vitamin Valley
+025-001-000	The Precipice (Insane)
+025-002		Ticket Hunter
+025-002-000	Beastly Roost (Deadly)
+025-003		Shack of Spirit
+025-003-000	An Hour's Training (Insane)
+025-004		Cave of Spirit
+025-004-000	A Month's Training (Deadly)
+025-005		Labyrinth of Spirit
+025-005-000	A Year's Training (Deadly)
+025-006		Cymophane Cave
+025-006-000	10 Meters Deep (Deadly)
+025-007		Vitamin Volcano
+025-007-000	Lake of Lava (Insane)
+025-008		Ticket Hunter G
+025-008-000	Monster's Nest (Deadly)
+025-009		Red Cradle
+025-009-000	Cradle Shrine (Deadly)
+025-010		Red Summit
+025-010-000	Summit Shrine (Merciless)
+025-011		Red Frontier
+025-011-000	Frontier Shrine (Merciless)
+025-012		Sky Cradle
+025-012-000	Cradle Shrine (Deadly)
+025-013		Sky Summit
+025-013-000	Summit Shrine (Merciless)
+025-014		Sky Frontier
+025-014-000	Frontier Shrine (Merciless)
+025-015		Black Cradle
+025-015-000	Cradle Shrine (Deadly)
+025-016		Black Summit
+025-016-000	Summit Shrine (Merciless)
+025-017		Black Frontier
+025-017-000	Frontier Shrine (Merciless)
+025-018		Holy Cradle
+025-018-000	Cradle Shrine (Deadly)
+025-019		Holy Summit
+025-019-000	Summit Shrine (Merciless)
+025-020		Holy Frontier
+025-020-000	Frontier Shrine (Merciless)
+025-021		Cosmic Cradle
+025-021-000	Cradle Shrine (Deadly)
+025-022		Cosmic Summit
+025-022-000	Summit Shrine (Merciless)
+025-023		Cosmic Frontier
+025-023-000	Frontier Shrine (Merciless)
+025-024		Necro Cradle
+025-024-000	Cradle Shrine (Deadly)
+025-025		Necro Summit
+025-025-000	Summit Shrine (Merciless)
+025-026		Necro Frontier
+025-026-000	Frontier Shrine (Merciless)
+025-027		Steel Cradle
+025-027-000	Cradle Shrine (Deadly)
+025-028		Steel Summit
+025-028-000	Summit Shrine (Merciless)
+025-029		Steel Frontier
+025-029-000	Frontier Shrine (Merciless)
+027			Collab Baron Stages
+027-000		Messier's Assault
+027-000-000	Land of Dreams Lv1
+027-000-001	Land of Dreams Lv2
+027-000-002	Land of Dreams Lv3
+027-000-003	Land of Dreams Lv4
+027-000-004	Land of Dreams Lv5
+027-000-005	Land of Dreams Lv6
+027-000-006	Land of Dreams Lv7
+027-000-007	Land of Dreams Lv8
+027-000-008	Land of Dreams Lv9
+027-000-009	Land of Dreams Lv10
+027-000-010	Land of Dreams Lv11
+027-000-011	Land of Dreams Lv12
+027-000-012	Land of Dreams Lv13
+027-000-013	Land of Dreams Lv14
+027-000-014	Land of Dreams Lv15
+027-000-015	Land of Dreams Lv16
+027-000-016	Land of Dreams Lv17
+027-000-017	Land of Dreams Lv18
+027-000-018	Land of Dreams Lv19
+027-000-019	Land of Dreams Lv20

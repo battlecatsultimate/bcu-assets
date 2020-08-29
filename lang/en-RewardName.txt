@@ -1,0 +1,469 @@
+0	Speed Up
+1	Treasure Radar
+2	Rich Cat
+3	Cat CPU
+4	Cat Jobs
+5	Sniper The Cat
+6	XP
+11	Silver Ticket
+12	Gold Ticket
+13	Cat food
+23	Lucky Ticket
+26	Lucky Ticket
+27	Lucky Ticket
+28	Lucky Ticket
+29	Platinum Ticket
+30	Purple Catfruit Seed
+31	Red Catfruit Seed
+32	Blue Catfruit Seed
+33	Green Catfruit Seed
+34	Yellow Catfruit Seed
+35	Purple Catfruit
+36	Red Catfruit
+37	Blue Catfruit
+38	Green Catfruit
+39	Yellow Catfruit
+40	Epic Catfruit
+41	Elder Catfruit Seed
+42	Elder Catfruit
+43	Epic Catfruit Seed
+45	Lucky Ticket
+46	Lucky Ticket
+47	Lucky Ticket
+48	Lucky Ticket
+49	Lucky Ticket
+50	Catseye [Special]
+51	Catseye [Rare]
+52	Catseye [Super Rare]
+53	Catseye [Uber Rare]
+54	Catseye [Legend]
+55	Catamin [A]
+56	Catamin [B]
+57	Catamin [C]
+75	Lucky Ticket
+76	Lucky Ticket
+77	G Ticket
+78	XP 100000
+85	Bricks
+86	Feathers
+87	Coal
+88	Sprockets
+89	Gold
+90	Meteorite
+91	Beast Bones
+92	Engineers
+93	Lucky Ticket
+94	G Ticket
+95	G Ticket
+96	G Ticket
+97	G Ticket
+98	G Ticket
+99	Lucky Ticket
+100	G Ticket
+101	Lucky Ticket
+102	G Ticket
+103	G Ticket
+104	Lucky Ticket
+105	Leadership
+106	G Ticket
+107	Lucky Ticket
+108	G Ticket
+109	G Ticket
+110	Lucky Ticket
+112	Lucky Ticket
+113	G Ticket
+114	G Ticket
+115	G Ticket
+116	Lucky Ticket
+117	Lucky Ticket
+118	G Ticket
+119	G Ticket
+120	G Ticket
+121	G Ticket
+122	Lucky Ticket
+124	G Ticket
+125	G Ticket
+126	Lucky Ticket
+127	Lucky Ticket
+128	G Ticket
+129	G Ticket
+130	G Ticket
+131	G Ticket
+132	Lucky Ticket
+133	G Ticket
+134	Lucky Ticket
+135	G Ticket
+136	Lucky Ticket
+138	G Ticket
+139	Lucky Ticket
+140	Ammonite
+1005	Bronze Cat
+1100	Bronze Cat
+1001	Sports Day Cat
+1003	Salaryman Cat
+1004	Reindeer Fish Cat
+1006	Droid Cat
+1007	Adult Cat
+1008	Evil Cat
+1009	Doll Cats
+1101	Space Cat
+1102	Rope Jump Cat
+1103	Crazed Cat
+1104	Crazed Tank Cat
+1105	Crazed Axe Cat
+1106	Crazed Gross Cat
+1107	Crazed Cow Cat
+1108	Crazed Bird Cat
+1109	Crazed Fish Cat
+1110	Crazed Lizard Cat
+1111	Crazed Titan Cat
+1010	Maiden Cat
+1012	Koi Cat
+1033	Cat Bros
+1013	Madam Bride
+1112	Healer
+1014	Vacation Queen
+1114	Clockwork Cat
+1015	Vengeful Cat
+1113	Ururun Wolf
+1016	Kung Fu Cat X
+1035	Squish Ball Cat
+1116	Hoop Cat
+1018	Marshmallow Cat
+1118	Li'l Nyandam
+1119	Takuya ＆ Yuki
+1019	Cat Kart R
+1120	Drumcorps Cat
+1020	Baozi Cat
+1021	Catburger
+1121	HYAKUTARO
+1022	Pumpcat
+1023	A Gift of Cats
+1024	Catway
+1130	Catornado
+1131	Red Riding Mina
+1132	Funghi
+1025	Awa-Odori Cat
+1026	Express Cat
+1027	Little Leaguer Cat
+1134	Li'l Madoka
+1135	Kyubey Cat
+1028	Food Stall Cat
+1029	Cheerleader Cat
+1137	PIKOTARO
+1030	Killer Cat
+1031	Curling Cat
+1139	Miyamoku Musashi
+1032	Eggy Cat
+1140	Redhead Yuki Cat
+1142	Li'l Shirou
+1036	Volley Cat
+1037	Glass Cat
+1143	Akio Yabe
+1144	Karin Nekozuka
+1145	Misaki Konno
+1146	Sairi Nijitani
+1147	Ren Katagiri
+1148	Mentori
+1149	Shinji & Cat
+1150	Giraffe Unit-01
+1038	Crazed Moneko
+1151	Pokota
+1152	Ovis
+1153	Coco
+1157	Mecha-Bun
+1039	Slug Jockey Cat
+1158	Betakkuma
+1040	Lone Cat and Kitten
+1041	Primordial Cat
+1160	Meowla Meowla
+1042	Dogumaru
+1164	Kano ＆ Souma
+1043	Cat Bros
+1044	Mightycat
+1167	Ryu Cat
+1168	Akuma Giraffe
+1045	Medusa Cat
+1046	Slime Cat
+1047	Cossack Cat
+1048	Teacher BearCat
+1049	Urs & Fenrir
+1170	Miku Cat
+1050	Rugby Cat
+1051	Phantom Cat
+1052	Bakery Cat
+19001	Mohawk Cat
+19002	Eraser Cat
+19003	Dark Cat
+19004	Macho Leg Cat
+19005	Lion Cat
+19006	The Flying Cat
+19007	Island Cat
+19008	King Dragon Cat
+19009	Jamiera Cat
+10010	Beefcake Cat
+10011	Dancer Cat
+10012	Hyper Mr.
+10013	Ultimate Bondage Cat
+10014	Dark Lazer
+10015	Heavy Assault C.A.T.
+10016	Lollycat
+10018	Unicycle Cat
+10019	Flying Ninja Cat
+10020	Skelecat
+10021	Pastry Cat
+10022	Riceball Cat
+10023	Gato Amigo
+10024	Loincloth Cat
+18025	Holy Valkyrie Cat
+18026	Awakened Bahamut Cat
+15031	Tathagata Cat
+15032	Ultra Delinquent Cat
+15033	Can Can Cat
+15034	Octopus Cat
+15035	Ultralan Pasalan
+15036	Cyberpunk Cat
+15037	Fishman Cat
+15038	Jiangshi Cat
+15039	Chill Cat
+15040	iCat
+15041	Luxury Bath Cat
+15042	Cyborg Cat
+15043	Ice Crystal Cat
+15044	Cat Machine Mk 3
+15045	Balrog Cat
+15047	Catasaurus
+15048	Maximum the Fighter
+15049	Dread Pirate Catley
+15050	Goemon Cat
+15051	Sanzo Cat
+15052	Doctor Cat
+15053	Necro-Dancer Cat
+15056	Enchantress Cat
+15057	Cataur
+15058	Paladin Cat
+15059	Elemental Duelist Cat
+15060	Cats in the Cradle
+10061	Quizmaster Cat
+15062	Roe Cat
+10064	Rampage Cats
+10071	Ritual Cat
+15072	Immortal Yukimura
+15073	Immortal Keiji
+15074	Immortal Nobunaga
+10075	Xmas Pudding Cat
+15076	Divine Windy
+15077	Divine Thundia
+10079	Space Marine Cat
+10080	Prisoner Cat
+10081	Gentleman Bros.
+10082	Nyalladin
+15084	God-Emperor Sodom
+15085	God-Emperor Megidora
+15086	God-Emperor Vars
+15087	God-Emperor Kamukura
+15088	God-Emperor Raiden
+10089	Noodle Cats
+10092	Manic Mohawk Cat
+10093	Manic Eraser Cat
+10094	Manic Dark Cat
+10095	Manic Macho Legs
+10096	Manic Lion Cat
+10097	Manic Flying Cat
+10098	Manic Island Cat
+10099	Manic King Dragon
+10100	Manic Jamiera Cat
+10101	Wrestling Cat
+10105	Kiss and Koi
+15106	Divine Kuu
+15107	Divine Kai
+15108	Divine Coppermine
+10110	Madam the Savannah
+10120	Healer Cat CC
+10122	Merc & Cat CC
+10123	Call Center Cat
+15125	Immortal Masamune
+15126	Immortal Shingen
+10127	Puppetmaster & Charley
+10128	Bombercat
+10129	Kite Cat
+16131	Awakened Ururun
+10133	Iron Claw X
+15135	King Gamereon
+15136	Ultima Galaxy Cosmo
+15137	The Peach Devils
+15138	Jizo's Mega-Castle
+15139	The Chaos Moon
+15144	Joyful Nurse Cat
+15146	Rodeo Cat
+15147	Acrobat Cats
+15148	Robocat
+15149	Ramen Cat
+15150	Cameraman Cat
+15151	Juliet the Maiko
+15152	Pizza Cat
+15153	Slapstick Cats
+15154	Catophone
+10155	Hoopmaster Cat
+15159	Immortal Kenshin
+15160	Divine Kalisa
+15169	Assassinlan Pasalan
+15170	E. Kubilan Pasalan
+15170	Lufalan Pasalan
+15172	Piccolan Pasalan
+16173	Schoolbus Nyandam
+15178	God-Emperor Dioramos
+10180	Takuya＆ Lovely Yuki
+15181	Mystery Catgirl Yuki
+10184	Cat Kart P
+15186	Revolutionary Hearscht CC
+15188	Holiday Juvens CC
+10192	Titi Cat CC
+15195	Inferno Akira
+15196	Mission Control Mekako
+15197	Ultimate Catman
+15198	Corrupted Psychocat
+15199	Thaumaturge Cat
+15200	Seafarer Cat
+10202	Mochi Cat
+15204	Kachiyama Assault Brigade
+10210	Li'l Mohawk Cat
+10211	Li'l Eraser Cat
+10212	Li'l Dark Cat
+15213	The Grey Fox
+10214	Value Meal Cat
+15227	Mad Doctor Klay
+15241	Shishilan Pasalan
+10246	Li'l Macho Legs Cat
+10247	Li'l Lion Cat
+10248	Li'l Flying Cat
+10261	Time Traveller Cat
+15262	Akuma Hayabusa
+10268	Catyphoon
+16269	Awakened Mina
+15271	Crazed Catgirl Yuki
+10274	Soba Cat
+10285	Bullet Train Cat
+10288	Golfer Cat
+10300	Li'l Ultimate Madoka
+10301	Li'l Devil Homura
+15305	CAT-8 Behemoth
+15306	B.C.S. Tigerclaw
+15307	NEK-02 Air Citadel
+15308	Housewife Cat
+15309	Weedwacker Cat
+10312	Li'l Island Cat
+10313	Li'l King Dragon Cat
+10314	Li'l Jamiera Cat
+15323	The One-Hit Wonders
+16324	Awakened Musashi
+10325	Green Shell Cat
+15326	Ectoweight Cat
+15335	Fox Queen Himeyuri
+15336	Mer-Queen Ruri
+15337	Eternal Reika
+15339	Immortal Yoshimoto
+15342	Lost World Catgirl Yuki
+15345	Artist Orthos CC
+15346	Naptime Michelia CC
+15352	Divine Twinstars
+15356	Orbital Annihilator Ragnarok
+15358	Jester Queen Deale
+15359	Opulent Verbena
+15360	Bazibastra
+15361	Mizuririn
+15362	Aervanta
+15363	Saber Alter CC
+10370	Saber Alter Cat
+15371	Dreaming Sakura Cat
+15377	Catellite
+15378	The Kitty of Liberty
+10380	Curry Cat
+10383	Macho Crystal Cat
+10386	Akio & Gunder CC
+15391	Baseball Mask α
+15392	Baseball Mask β
+15393	Baseball Mask γ
+15394	Samba Saki CC
+15395	Dark Subaru CC
+15396	Baseball Mask δ
+15397	Ganglion the Unleashed
+15402	Gigavolta
+10403	Plug Suit Shinji Black
+10406	Moon Kaworu
+15411	Eyepatch Li'l Asuka
+15415	Unit-02, Code 777
+15418	Subterra Sentinels
+16427	Ultimate Mecha-Bun
+15428	Cat Quest Heroes
+15432	Section Chief Gravicci
+15437	Mystican Pasalan
+10443	Tourist Cat
+15497	Immortal Kaihime
+15503	Divine Myrcia
+15506	God-Emperor Gladios
+30000	Attack Up D: Red
+30001	Attack Up C: Red
+30002	Attack Up B: Red
+30003	Attack Up A: Red
+30004	Attack Up S: Red
+30005	Defense Up D: Red
+30006	Defense Up C: Red
+30007	Defense Up B: Red
+30008	Defense Up A: Red
+30009	Defense Up S: Red
+30010	Attack Up D: Float
+30011	Attack Up C: Float
+30012	Attack Up B: Float
+30013	Attack Up A: Float
+30014	Attack Up S: Float
+30015	Defense Up D: Float
+30016	Defense Up C: Float
+30017	Defense Up B: Float
+30018	Defense Up A: Float
+30019	Defense Up S: Float
+30020	Attack Up D: Black
+30021	Attack Up C: Black
+30022	Attack Up B: Black
+30023	Attack Up A: Black
+30024	Attack Up S: Black
+30025	Defense Up D: Black
+30026	Defense Up C: Black
+30027	Defense Up B: Black
+30028	Defense Up A: Black
+30029	Defense Up S: Black
+30030	Defense Up D: Metal
+30031	Defense Up C: Metal
+30032	Defense Up B: Metal
+30033	Defense Up A: Metal
+30034	Defense Up S: Metal
+30035	Attack Up D: Angel
+30036	Attack Up C: Angel
+30037	Attack Up B: Angel
+30038	Attack Up A: Angel
+30039	Attack Up S: Angel
+30040	Defense Up D: Angel
+30041	Defense Up C: Angel
+30042	Defense Up B: Angel
+30043	Defense Up A: Angel
+30044	Defense Up S: Angel
+30045	Attack Up D: Alien
+30046	Attack Up C: Alien
+30047	Attack Up B: Alien
+30048	Attack Up A: Alien
+30049	Attack Up S: Alien
+30050	Defense Up D: Alien
+30051	Defense Up C: Alien
+30052	Defense Up B: Alien
+30053	Defense Up A: Alien
+30054	Defense Up S: Alien
+30055	Attack Up D: Zombie
+30056	Attack Up C: Zombie
+30057	Attack Up B: Zombie
+30058	Attack Up A: Zombie
+30059	Attack Up S: Zombie
+30060	Defense Up D: Zombie
+30061	Defense Up C: Zombie
+30062	Defense Up B: Zombie
+30063	Defense Up A: Zombie
+30064	Defense Up S: Zombie
