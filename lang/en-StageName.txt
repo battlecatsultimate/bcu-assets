@@ -757,7 +757,6 @@
 001-110-000	Resident Feline (Insane)
 001-111		Bad To Worse
 001-111-000	Tragedy in Red (Insane)
-001-111-001	Doom Paradise (Insane)
 001-112		Day of Judgement
 001-112-000	Explosion in the Sky (Insane)
 001-112-001	Acts of Cat-God (Insane)
