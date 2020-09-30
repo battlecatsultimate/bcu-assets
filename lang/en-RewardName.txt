@@ -94,9 +94,11 @@
 134	Lucky Ticket
 135	G Ticket
 136	Lucky Ticket
+137	Bikkuriman Choco
 138	G Ticket
 139	Lucky Ticket
 140	Ammonite
+141	G Ticket
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -178,6 +180,7 @@
 1041	Primordial Cat
 1160	Meowla Meowla
 1042	Dogumaru
+1162	Prince Yamato
 1164	Kano ＆ Souma
 1043	Cat Bros
 1044	Mightycat
@@ -192,6 +195,7 @@
 1050	Rugby Cat
 1051	Phantom Cat
 1052	Bakery Cat
+1172	Idi:N
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -295,6 +299,7 @@
 15138	Jizo's Mega-Castle
 15139	The Chaos Moon
 15144	Joyful Nurse Cat
+15145	Cat Base Ultra
 15146	Rodeo Cat
 15147	Acrobat Cats
 15148	Robocat
@@ -333,6 +338,9 @@
 15213	The Grey Fox
 10214	Value Meal Cat
 15227	Mad Doctor Klay
+15238	Headmaster Cat Jobs
+15239	Richest Cat
+15240	Sniper the Deadeye
 15241	Shishilan Pasalan
 10246	Li'l Macho Legs Cat
 10247	Li'l Lion Cat
@@ -399,9 +407,15 @@
 15432	Section Chief Gravicci
 15437	Mystican Pasalan
 10443	Tourist Cat
+15468	Super S-Zeus
+15469	Head Rococo
+15470	Super D-Devil
+10474	Rampaging Yamato
+10475	Strike Angel
 15497	Immortal Kaihime
 15503	Divine Myrcia
 15506	God-Emperor Gladios
+15557	Ghost Alibaba
 30000	Attack Up D: Red
 30001	Attack Up C: Red
 30002	Attack Up B: Red

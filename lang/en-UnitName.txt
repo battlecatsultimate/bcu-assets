@@ -142,7 +142,7 @@
 141	God	Secret God	
 142			
 143	Nurse Cat	Heartful Nurse Cat	Joyful Nurse Cat
-144	Cat Base Mini	Cat Base Jr.	
+144	Cat Base Mini	Cat Base Jr.	Cat Base Ultra
 145	Cat Gunslinger	Cat Eastwood	Rodeo Cat
 146	Stilts Cat	Totem Cat	Acrobat Cats
 147	Tin Cat	Plane Cat	Robocat
@@ -235,9 +235,9 @@
 234			
 235			
 236			
-237	Freshman Cat Jobs	Prof. Cat Jobs	
-238	Rich Cat III	Rich Cat Sr.	
-239	Sniper the Recruit	Sniper the Heavy	
+237	Freshman Cat Jobs	Prof. Cat Jobs	Headmaster Cat Jobs
+238	Rich Cat III	Rich Cat Sr.	Richest Cat
+239	Sniper the Recruit	Sniper the Heavy	Sniper the Deadeye
 240	Togeluga	Togelan Pasalan	Shishilan Pasalan
 241	Frosty Kai	Frosty Kai, type μ	
 242	Santa Kuu	Santa Kuu, type γ	
@@ -464,18 +464,18 @@
 463	Mighty Kristul Muu	Doom Engine Pandora	
 464	Dogumaru	Doguemon	
 465			
-466			
-467			
-468			
-469			
-470			
-471			
-472			
-473			
-474			
-475			
-476			
-477			
+466	Black Zeus	Dark Lord Zeus	
+467	Super Zeus	All-Powerful Super Zeus	Super S-Zeus
+468	Holy Phoenix	Holy Warrior Phoenix	Head Rococo
+469	Super Devil	Imposter Super Devil	Super D-Devil
+470	Satanmaria	Wondermaria	
+471	Heracrist	Perfect Heracrist	
+472	Fiendish Nero	Beastly Nero	
+473	Prince Yamato	Holy Yamato	Rampaging Yamato
+474	Rosary Angel	Cross Angel	Strike Angel
+475	Wakamiko Cat	Warrior King Cat	
+476	Devil Cat	Infernal Cat	
+477	Nekonosuke	Old Guardian Cat	
 478	Lumina	Luminalia	
 479			
 480			
@@ -553,9 +553,9 @@
 552			
 553	Bakery Cat	Boomerang Cat	
 554	Master Uril	Mystic Uril	
-555			
-556			
-557			
+555	Shaman Khan	All-Loving Shaman Khan	
+556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba
+557	Heavenly Jack	Heavenly Lord Jack	
 558	Gacha Cat	Lucky Gacha Cat	
 559	Hell Warden Emma	Hell Sentinel Emma	
 560	Megurine Luka	Megurine Luka CC	
@@ -565,3 +565,5 @@
 564	Summerluga	Bikinilan Pasalan	
 565	Suntan Cat	Macho Suntan Cat	
 566	Lifeguard Cats	Sweet Bro Cats	
+567			
+568	Idi:N	Idi:N2	

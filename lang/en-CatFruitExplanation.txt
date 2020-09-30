@@ -142,7 +142,7 @@
 141	<br><br>
 142	<br><br>
 143	True Form evolution greatly increases<br>movement speed! Plus, defense, attack<br>and range increases!
-144	<br><br>
+144	True Fom evolution gains larger<br>attack Area, stronger attack damage,<br>and longer Wave attack range!
 145	True Form evolution gains improved<br>defense, range and attack power. Plus,<br>Black enemies are Slowed for longer.
 146	True Form evolution gains significant<br>attack power and increased defense.<br>Increased chance of knockback vs Angels
 147	True Form evolution slows movement<br>speed, but gives a big boost to defense,<br>attack power, and attack range.
@@ -235,9 +235,9 @@
 234	<br><br>
 235	<br><br>
 236	<br><br>
-237	<br><br>
-238	<br><br>
-239	<br><br>
+237	True Fom evolution gains faster move<br>speed, Surge Attack ability, and the<br>ability to Survive one lethal strike.
+238	True Fom evolution gains<br>greatly improved attack power!<br>
+239	True Fom evolution gains faster attack<br>speed, larger attack area, and the<br>ability to Slow non-Metal enemies.
 240	True Form evolution gains improved <br>attack speed and much better defense.<br>Plus, greater attack power gains!
 241	<br><br>
 242	<br><br>
@@ -465,9 +465,9 @@
 464	<br><br>
 465	<br><br>
 466	<br><br>
-467	<br><br>
-468	<br><br>
-469	<br><br>
+467	True Fom evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
+468	True Fom evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Black enemies!
+469	True Fom evolution gains improved<br>defense and knock-back rate!<br>Plus, faster movement speed!
 470	<br><br>
 471	<br><br>
 472	<br><br>
@@ -554,7 +554,7 @@
 553	<br><br>
 554	<br><br>
 555	<br><br>
-556	<br><br>
+556	True Fom evolution gains big changes<br>to its abilities, including massive damage<br>to Angels and resistance to Knockback.
 557	<br><br>
 558	<br><br>
 559	<br><br>
@@ -565,3 +565,5 @@
 564	<br><br>
 565	<br><br>
 566	<br><br>
+567	<br><br>
+568	<br><br>

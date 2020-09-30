@@ -83,3 +83,5 @@
 82	Clear "Total War: Fall Special"
 83	Clear "Total War: Winter Special"
 84	Clear all Total War season maps
+85	Clear all 4 ★ Stories of Legend maps
+86	Defeat Idi:Re and clear her stage.
