@@ -255,9 +255,9 @@
 254	<br><br>
 255	<br><br>
 256	<br><br>
-257	<br><br>
-258	<br><br>
-259	<br><br>
+257	True Form evolution gains improved <br>defense and attack power!<br>
+258	True Form evolution gains improved <br>defense and attack power! Also, gains<br>immunity to Knockback from enemy attacks.
+259	True Form evolution gains improved defense!<br><br>
 260	<br><br>
 261	True Form evolution gains chance to<br>Knockback and Slow Zombie enemies.<br>Plus, gains the Zombie Killer ability!
 262	<br><br>
@@ -269,8 +269,8 @@
 268	True Form evolution gains improved attack<br>power and defense. Plus, becomes immune <br>to Curses and weakens Relic enemies
 269	<br><br>
 270	True Form evolution gains increased<br>Defense, Move Speed, and Attack Power!<br>Plus, gains the Immune to Slow ability!
-271	<br><br>
-272	<br><br>
+271	True Form gains improved attack power!<br><br>
+272	True Form evolution gains improved<br>defense! Plus, attack power gained<br>after taking damage is increased!
 273	<br><br>
 274	<br><br>
 275	<br><br>
@@ -314,7 +314,7 @@
 313	<br><br>
 314	<br><br>
 315	<br><br>
-316	<br><br>
+316	True Form evolution gains improved<br>defense, move speed, and attack power!<br>
 317	<br><br>
 318	<br><br>
 319	<br><br>
@@ -437,7 +437,7 @@
 436	True Form evolution has deploy cost halved!<br>Recovery time after deploy also reduced!<br>
 437	<br><br>
 438	<br><br>
-439	<br><br>
+439	True Form evolution gains improved<br>defense and attack power! Plus,<br>gains immunity to enemy Warp effects!
 440	<br><br>
 441	<br><br>
 442	<br><br>
@@ -532,7 +532,7 @@
 531	<br><br>
 532	<br><br>
 533	<br><br>
-534	<br><br>
+534	True Form evolution gains<br>immunity to Slow and Knockback<br>effects from enemy attacks!
 535	<br><br>
 536	<br><br>
 537	<br><br>
@@ -567,3 +567,5 @@
 566	<br><br>
 567	<br><br>
 568	<br><br>
+569	<br><br>
+570	<br><br>

@@ -1134,6 +1134,9 @@
 001-242-000	Quarterfinals (Deadly)
 001-242-001	Semifinals (Deadly)
 001-242-002	Finals (Deadly)
+001-243		Top of the Bog
+001-243-000	Guided by Currents (Merciless)
+001-243-001	Water Conservancy (Merciless)
 002			Collaboration Stages
 002-003		To the Future
 002-003-000	Architecture
@@ -2411,6 +2414,13 @@
 013-027-003	Swamp of Ignorance
 013-027-004	Microscope Bridge
 013-027-005	Burning Blue
+013-028		Forgotten Graves
+013-028-000	Slumbering Cavern
+013-028-001	Cozy Corpses
+013-028-002	Second Unlife
+013-028-003	Defaced Tombstone
+013-028-004	Botanical Burial
+013-028-005	Sodden Bones
 014			Night Stages
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)

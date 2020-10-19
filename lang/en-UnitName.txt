@@ -255,9 +255,9 @@
 254			
 255			
 256			
-257	Thunder God Zeus	The Majestic Zeus	
-258	Anubis the Protector	Anubis the Unblemished	
-259	Radiant Aphrodite	Megaphrodite	
+257	Thunder God Zeus	The Majestic Zeus	Almighty Zeus
+258	Anubis the Protector	Anubis the Unblemished	Almighty Anubis
+259	Radiant Aphrodite	Megaphrodite	Almighty Aphrodite
 260	Catway	Drone Cat	Time Traveller Cat
 261	Hayabusa	Oni Hayabusa	Akuma Hayabusa
 262			
@@ -269,8 +269,8 @@
 268	Red Riding Mina	Crimson Mina	Awakened Mina
 269	Baby Gao	Mighty Lord Gao	
 270	Crazed Yuki	Crazed Yuki ＆ Cat	Crazed Catgirl Yuki
-271	Shining Amaterasu	Glorious Amaterasu	
-272	Splendid Ganesha	Exalted Ganesha	
+271	Shining Amaterasu	Glorious Amaterasu	Almighty Amaterasu
+272	Splendid Ganesha	Exalted Ganesha	Almighty Ganesha
 273	Cheerleader Cat	Waitress Cat	Soba Cat
 274	Tropical Kalisa	Tropical Kalisa, type X	
 275	Midsummer Rabbit	Midsummer Cat	
@@ -314,7 +314,7 @@
 313	Li'l Titan Cat	Li'l Mythical Titan	Li'l Jamiera Cat
 314	Years-End Neneko	New Year Neneko	
 315	PIKOTARO	NEKOTARO	
-316	Wrathful Poseidon	Valiant Poseidon	
+316	Wrathful Poseidon	Valiant Poseidon	Almighty Poseidon
 317	CPAC	PPAP	
 318	Miko Mitama	Mitama the Oracle	
 319	Killer Cat	True Killer Cat	
@@ -437,7 +437,7 @@
 436	Nobiluga	Nobilan Pasalan	Mystican Pasalan
 437	Cat God the Great	Cat God the Awesome	
 438	Waverider Kuu	Waverider Kuu, type γ	
-439	Empress Chronos	Chronos the Infinite	
+439	Empress Chronos	Chronos the Infinite	Almighty Chronos
 440	Bebe	Nagisa & Cat	
 441	D'arktanyan	Valiant D'arktanyan	
 442	Lone Cat and Kitten	Vendor Cat and Kitten	Tourist Cat
@@ -529,10 +529,10 @@
 528	Cossack Cat	Vodka Cat	
 529	Kasli the Scourge	Ritual Saint Kasli	
 530			
-531	Teacher BearCat	Assassin BearCat	
+531	Teacher BearCat	Assassin BearCat	Cadaver BearCat
 532	Urs & Fenrir	Urs & Minka	
 533	Sharpshooter Saki	Nighthunter Saki	
-534	Hades the Punisher	Hades the Deathdealer	
+534	Hades the Punisher	Hades the Deathdealer	Almighty Hades
 535	Hatsune Miku	Hatsune Miku CC	
 536	Sakura Miku	Sakura Miku CC	
 537	Kagamine Rin & Len	Kagamine Rin & Len CC	
@@ -567,3 +567,5 @@
 566	Lifeguard Cats	Sweet Bro Cats	
 567			
 568	Idi:N	Idi:N2	
+569	Gravi	Gravolo	
+570	Skull Rider Vars	Nightmare King Vars	

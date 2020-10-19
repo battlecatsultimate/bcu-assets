@@ -99,6 +99,8 @@
 139	Lucky Ticket
 140	Ammonite
 141	G Ticket
+142	G Ticket
+143	Lucky Ticket
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -345,11 +347,16 @@
 10246	Li'l Macho Legs Cat
 10247	Li'l Lion Cat
 10248	Li'l Flying Cat
+15258	Almighty Zeus
+15259	Almighty Anubis
+15260	Almighty Aphrodite
 10261	Time Traveller Cat
 15262	Akuma Hayabusa
 10268	Catyphoon
 16269	Awakened Mina
 15271	Crazed Catgirl Yuki
+15272	Almighty Amaterasu
+15273	Almighty Ganesha
 10274	Soba Cat
 10285	Bullet Train Cat
 10288	Golfer Cat
@@ -363,6 +370,7 @@
 10312	Li'l Island Cat
 10313	Li'l King Dragon Cat
 10314	Li'l Jamiera Cat
+15317	Almighty Poseidon
 15323	The One-Hit Wonders
 16324	Awakened Musashi
 10325	Green Shell Cat
@@ -406,6 +414,7 @@
 15428	Cat Quest Heroes
 15432	Section Chief Gravicci
 15437	Mystican Pasalan
+15440	Almighty Chronos
 10443	Tourist Cat
 15468	Super S-Zeus
 15469	Head Rococo
@@ -415,6 +424,8 @@
 15497	Immortal Kaihime
 15503	Divine Myrcia
 15506	God-Emperor Gladios
+10532	Cadaver BearCat
+15535	Almighty Hades
 15557	Ghost Alibaba
 30000	Attack Up D: Red
 30001	Attack Up C: Red
