@@ -27,6 +27,7 @@
 41	Elder Catfruit Seed
 42	Elder Catfruit
 43	Epic Catfruit Seed
+44	Gold Catfruit
 45	Lucky Ticket
 46	Lucky Ticket
 47	Lucky Ticket
@@ -101,6 +102,7 @@
 141	G Ticket
 142	G Ticket
 143	Lucky Ticket
+144	G Ticket
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -358,6 +360,7 @@
 15272	Almighty Amaterasu
 15273	Almighty Ganesha
 10274	Soba Cat
+15284	Pai-Pai DX
 10285	Bullet Train Cat
 10288	Golfer Cat
 10300	Li'l Ultimate Madoka
@@ -414,6 +417,7 @@
 15428	Cat Quest Heroes
 15432	Section Chief Gravicci
 15437	Mystican Pasalan
+15438	Cat God the Golden
 15440	Almighty Chronos
 10443	Tourist Cat
 15468	Super S-Zeus

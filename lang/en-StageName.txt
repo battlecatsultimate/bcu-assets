@@ -2395,6 +2395,7 @@
 013-024-003	Anaerobic Cycling
 013-024-004	Sauna Handstands
 013-024-005	Lakeside Bootcamp
+013-025		Morningstar Isle
 013-025-000	Curry Comet
 013-025-001	Icarus' Instinct
 013-025-002	Rainbow Bridge Toll
@@ -2421,6 +2422,13 @@
 013-028-003	Defaced Tombstone
 013-028-004	Botanical Burial
 013-028-005	Sodden Bones
+013-029		Dawn of the Beginning
+013-029-000	A Dutiful Prayer
+013-029-001	Dilemma of Birth
+013-029-002	The Ivory Oracle
+013-029-003	Persona's Blooming
+013-029-004	Passionate Release
+013-029-005	Buried Hypocrisy
 014			Night Stages
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)

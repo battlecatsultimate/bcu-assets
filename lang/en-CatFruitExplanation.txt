@@ -281,7 +281,7 @@
 280	<br><br>
 281	<br><br>
 282	<br><br>
-283	<br><br>
+283	True Form Evolution gains increased<br>attack speed. Plus, gains even tougher<br>defense against Red enemies!
 284	<br><br>
 285	<br><br>
 286	<br><br>
@@ -435,7 +435,7 @@
 434	<br><br>
 435	<br><br>
 436	True Form evolution has deploy cost halved!<br>Recovery time after deploy also reduced!<br>
-437	<br><br>
+437	Y'know, I'm kinda thinkin' about evolving <br>myself. But I don't think anything but a <br>Gold Catfruit will do. Maybe try the Shrine?
 438	<br><br>
 439	True Form evolution gains improved<br>defense and attack power! Plus,<br>gains immunity to enemy Warp effects!
 440	<br><br>
@@ -569,3 +569,14 @@
 568	<br><br>
 569	<br><br>
 570	<br><br>
+571	<br><br>
+572	<br><br>
+573	<br><br>
+574	<br><br>
+575	<br><br>
+576	<br><br>
+577	<br><br>
+578	<br><br>
+579	<br><br>
+580	<br><br>
+581	<br><br>

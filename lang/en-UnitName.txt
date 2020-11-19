@@ -281,7 +281,7 @@
 280	Fortressy	Castley	
 281			
 282	Awa-Odori Cat	So-Ran Cat	
-283	Pai-Pai	Pai-Pai Z	
+283	Pai-Pai	Pai-Pai Z	Pai-Pai DX
 284	Express Cat	Maglev Cat	Bullet Train Cat
 285			
 286	Strike Unit R.E.I.	Assault Unit R.E.I.	
@@ -435,7 +435,7 @@
 434			
 435	Li'l Valkyrie	Wind Dancer Valkyrie	
 436	Nobiluga	Nobilan Pasalan	Mystican Pasalan
-437	Cat God the Great	Cat God the Awesome	
+437	Cat God the Great	Cat God the Awesome	Cat God the Golden
 438	Waverider Kuu	Waverider Kuu, type γ	
 439	Empress Chronos	Chronos the Infinite	Almighty Chronos
 440	Bebe	Nagisa & Cat	
@@ -569,3 +569,14 @@
 568	Idi:N	Idi:N2	
 569	Gravi	Gravolo	
 570	Skull Rider Vars	Nightmare King Vars	
+571			
+572			
+573			
+574			
+575			
+576			
+577			
+578			
+579			
+580			
+581			

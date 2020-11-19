@@ -281,7 +281,7 @@
 280	A mobile fortress able to defend<br>against attacks from any direction.<br>Tough unit able to withstand siege.	The fortress has been redesigned<br>for extra appeal to the Internet.<br>Tough unit able to withstand siege.	
 281			
 282	Whether a dancing Cat or a watching Cat,<br>everyone's a Cat, so why not just dance?!<br>Super cheap to allow for big parades.	Heave, ho! Heave, ho! A dance for fish,<br>of course Cats can get behind this tradition!<br>Super cheap to allow for extra big catches.	
-283	Poster girl for a famous dim sum restaurant.<br>Always carries her heirloom Scarlet Hammer.<br>Resists Red attacks, massive area damage.	Mystic seals were broken, unleashing the<br>sexy power of the Red Panda Hammer.<br>Resists Red attacks, massive area damage.	
+283	Poster girl for a famous dim sum restaurant.<br>Always carries her heirloom Scarlet Hammer.<br>Resists Red attacks, massive area damage.	Mystic seals were broken, unleashing the<br>sexy power of the Red Panda Hammer.<br>Resists Red attacks, massive area damage.	Obliterates rivals in the underground arena with<br>the crushing power of the Master Panda Hammer!<br>Resists Red attacks, massive Area damage.
 284	1-car train with a max speed of 222kph<br>120% of seats were filled today.<br>Extra money when defeating enemies!	222-Cat seater with a max speed of<br>2222kph, a blessing for all Cat commuters.<br>Extra money when defeating enemies!	Can take a maximum of 2222 passengers on<br>a round-the-world journey at 20,000,000 km/h<br>Extra money when defeating enemies!
 285			
 286	Cheerful young mech, built for anti-air warfare<br>using future tech forbidden by international law.<br>Resistant to/Massive area damage vs Floating.	After an upgrade, escaped from govt. custody<br>to use her powerful arsenal to help the innocent.<br>Resistant to/Massive area damage vs Floating.	
@@ -435,7 +435,7 @@
 434			
 435	Valkyrie's younger sister. Top agent of Valhalla,<br>entrusted with high-risk missions to defend the<br>mortal realms. Area atk might break Barriers.	Valkyrie's youngest sister. Nature itself has<br>blessed her with command over all forces of<br>the Earth. Area attacks might break Barriers.	
 436	Not sure if this is a Cat...<br>There's just something about<br>that cool 'stache...	I can't stand it anymore...<br>Seems like this one is immune to<br>Wave attacks. (Long Range Area Attack)	Monster? Magician? ...Or just a Cat?<br>No one can explain how its powers work.<br>Immune to Wave attacks (Long-Range Area)
-437	At long last, Cat God has joined the fight!<br>His holy sneeze knocks back all but Metal<br>enemies, and his Omni-strikes are pretty cool too.	Shining with glorious purpose and divine charisma.<br>His holy sneeze knocks back all but Metal<br>enemies, and his Omni-strikes are pretty cool too.	
+437	At long last, Cat God has joined the fight!<br>His holy sneeze knocks back all but Metal<br>enemies, and his Omni-strikes are pretty cool too.	Shining with glorious purpose and divine charisma.<br>His holy sneeze knocks back all but Metal<br>enemies, and his Omni-strikes are pretty cool too.	A deity so resplendent that it's actually obnoxious.<br>His holy sneeze knocks back all but Metal<br>enemies, and his Omni-strikes are pretty cool too.
 438	A fiery lass who runs a tiki bar by the sea.<br>Boys at the beach don't seem to mind her abuse<br>too much? Strong vs. Zombies/Floating (Area Atk)	A rowdy beach babe who keeps the seaside bullies<br>in check by patrolling on her custom speedboard.<br>Strong vs. Zombies/Floating (Area Atk)	
 439	An almighty titaness who rescued the universe from<br>chaos, keeping order with her Timepiece of Destiny.<br>Freezes any traited enemy with long-range area atks.	Molded our reality from primordial matter using her<br>mastery of the Divine Timepiece. Don't mess with her.<br>Freezes any traited enemy with long-range area atks.	With the power of the fruit of creation, holds back<br>the chaos that threatens to consume the universe.<br>Long-Range Area attacks Freeze Traited enemies.
 440	From Madoka Magica The Movie -Rebellion-!<br>Mami's adorable, cheese-loving partner.<br>Area attacks Weaken Aliens and Zombies.	From Madoka Magica The Movie -Rebellion-!<br>New Magical Girl who appears before Madoka.<br>Area attacks Weaken Aliens and Zombies.	
@@ -569,3 +569,14 @@
 568	Mystery lifeform that seems to be analyzing<br>the Cats. No one knows why it has joined<br>their army. Massive Area damage to Relics.	Appears out of nowhere to perform scans<br>of powerful Cats. Its mission is still unknown.<br>Massive Area damage to Relics.	
 569	A stone spirit who traversed the universe,<br>gathering cosmic power as it soared through space.<br>100% chance of Wave Attack.	Stone spirit who commands the latent energies of<br>meteorites and asteroids to smash threats to the Cats.<br>Tough vs Aliens, 100% chance of Wave Attack.	
 570	A long-dead dragon lord who made a pact with a<br>skeletal beast to gain vast power (and lots of candy)<br>Area Attacks Slow & Knockback Aliens/Zombies.	Specter of a dragon lord who appears screaming<br>through the skies on moonless Halloween nights.<br>Area Attacks Slow & Knockback Aliens/Zombies.	
+571			
+572			
+573			
+574			
+575			
+576			
+577			
+578			
+579			
+580			
+581			
