@@ -142,7 +142,7 @@
 141	<br><br>
 142	<br><br>
 143	True Form evolution greatly increases<br>movement speed! Plus, defense, attack<br>and range increases!
-144	True Fom evolution gains larger<br>attack Area, stronger attack damage,<br>and longer Wave attack range!
+144	True Form evolution gains larger<br>attack Area, stronger attack damage,<br>and longer Wave attack range!
 145	True Form evolution gains improved<br>defense, range and attack power. Plus,<br>Black enemies are Slowed for longer.
 146	True Form evolution gains significant<br>attack power and increased defense.<br>Increased chance of knockback vs Angels
 147	True Form evolution slows movement<br>speed, but gives a big boost to defense,<br>attack power, and attack range.
@@ -395,7 +395,7 @@
 394	True Form evolution has a slower attack<br>rate but gains increased defense, attack<br>power and attack range!
 395	True Form evolution greatly increases<br>attack power and defense!<br>Plus, becomes immune to wave effects!
 396	True Form evolution gains improved<br>defense and pushbacks against enemies!<br>
-397	<br><br>
+397	True Form Evolution gains<br>Insanely Tough defense<br>against Metal enemies!
 398	<br><br>
 399	<br><br>
 400	<br><br>
@@ -509,7 +509,7 @@
 508	<br><br>
 509	<br><br>
 510	<br><br>
-511	<br><br>
+511	True Form Evolution gains increased<br>chance of Savage Blow, with stronger<br>attacks after taking damage!
 512	<br><br>
 513	<br><br>
 514	<br><br>
@@ -580,3 +580,8 @@
 579	<br><br>
 580	<br><br>
 581	<br><br>
+582	<br><br>
+583	<br><br>
+584	<br><br>
+585	<br><br>
+586	<br><br>

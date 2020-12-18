@@ -1137,6 +1137,13 @@
 001-243		Top of the Bog
 001-243-000	Guided by Currents (Merciless)
 001-243-001	Water Conservancy (Merciless)
+001-245		Most Appearances 2020
+001-245-000	Congrats on #5
+001-245-001	#4 As Expected
+001-245-002	Somehow #3
+001-245-003	#2 Out of Nowhere
+001-245-004	#1 Thanks to You!
+001-245-005	No New Appearances
 002			Collaboration Stages
 002-003		To the Future
 002-003-000	Architecture
@@ -1448,6 +1455,96 @@
 002-131-002	Sakura Dance
 002-134		Hatsune Miku's Birthday!
 002-134-000	♪Birthday Party♪
+002-135		Street Fighter (Easy)
+002-135-000	Warrior of Nature
+002-135-001	Illuminating Flame
+002-135-002	Rush & Blaze
+002-135-003	BONUS STAGE
+002-135-004	Blue Jade
+002-135-005	Iron Cyclone
+002-135-006	Impregnable Fortress
+002-135-007	Invincible Fist
+002-135-008	Fists of Avarice
+002-135-009	The Clawed Rondo
+002-135-010	Solitary Emperor
+002-135-011	The Supreme Evil
+002-136		Street Fighter (Normal)
+002-136-000	Pride & Passion
+002-136-001	Iron Cyclone
+002-136-002	Blue Jade
+002-136-003	BONUS STAGE
+002-136-004	Rush & Blaze
+002-136-005	Illuminating Flame
+002-136-006	Invincible Fist
+002-136-007	Impregnable Fortress
+002-136-008	Warrior of Nature
+002-136-009	The Clawed Rondo
+002-136-010	Solitary Emperor
+002-136-011	The Supreme Evil
+002-137		Street Fighter (Hard)
+002-137-000	Iron Cyclone
+002-137-001	Impregnable Fortress
+002-137-002	Rush & Blaze
+002-137-003	BONUS STAGE
+002-137-004	Illuminating Flame
+002-137-005	Blue Jade
+002-137-006	Invincible Fist
+002-137-007	Warrior of Nature
+002-137-008	Fists of Avarice
+002-137-009	The Clawed Rondo
+002-137-010	Pride & Passion
+002-137-011	The Supreme Evil
+002-138		New Challenger
+002-138-000	VS E. HONDA (Easy)
+002-139		New Challenger
+002-139-000	VS E. HONDA (Expert)
+002-140		New Challenger
+002-140-000	VS BALROG (Normal)
+002-141		New Challenger
+002-141-000	VS BALROG (Insane)
+002-142		New Challenger
+002-142-000	VS VEGA(Normal)
+002-143		New Challenger
+002-143-000	VS VEGA (Insane)
+002-144		New Challenger
+002-144-000	VS SAGAT (Normal)
+002-145		New Challenger
+002-145-000	VS SAGAT (Insane)
+002-146		New Challenger
+002-146-000	VS M. BISON (Normal)
+002-147		New Challenger
+002-147-000	VS M. BISON (Insane)
+002-148		New Challenger
+002-148-000	VS RYU (Easy)
+002-149		New Challenger
+002-149-000	VS RYU (Expert)
+002-150		New Challenger
+002-150-000	VS CHUN-LI (Easy)
+002-151		New Challenger
+002-151-000	VS CHUN-LI (Expert)
+002-152		New Challenger
+002-152-000	VS GUILE (Easy)
+002-153		New Challenger
+002-153-000	VS GUILE (Expert)
+002-154		New Challenger
+002-154-000	VS ZANGIEF (Easy)
+002-155		New Challenger
+002-155-000	VS ZANGIEF (Expert)
+002-156		New Challenger
+002-156-000	VS BLANKA (Easy)
+002-157		New Challenger
+002-157-000	VS BLANKA (Expert)
+002-158		New Challenger
+002-158-000	VS DHALSIM (Easy)
+002-159		New Challenger
+002-159-000	VS DHALSIM (Expert)
+002-160		New Challenger
+002-160-000	VS KEN (Easy)
+002-161		New Challenger
+002-161-000	VS KEN (Expert)
+002-162		New Challenger
+002-162-000	Master of the Fist (Veteran)
+002-162-001	Sekia Goshoha (Deadly)
 004			Extra Stages
 004-000
 004-001
@@ -2160,6 +2257,10 @@
 004-022-004	Galactic Threat (Merciless)
 004-022-005	Clash of Steel (Merciless)
 004-022-006	Seas of Death (Merciless)
+004-025		Growing Epic
+004-025-000	Miracle Iris (Deadly)
+004-026		Laboratory of Relics
+004-026-000	Eldritch Forces
 
 006			Catclaw Dogo
 006-000
@@ -2409,6 +2510,7 @@
 013-026-003	Glass Slippers
 013-026-004	Guild of Masks
 013-026-005	Happily Ever After
+013-027		Laboratory Island
 013-027-000	Flask Hill
 013-027-001	Anatomy Forest
 013-027-002	Formalin Marina
@@ -2429,6 +2531,13 @@
 013-029-003	Persona's Blooming
 013-029-004	Passionate Release
 013-029-005	Buried Hypocrisy
+013-030		The Happy Lucky Temple
+013-030-000	Pilgrim Agitators
+013-030-001	The Belated Priest
+013-030-002	Choir Battle
+013-030-003	Adventurer's Journal
+013-030-004	Chapel Transfer
+013-030-005	Dark Lord's Decree
 014			Night Stages
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)
@@ -2764,6 +2873,17 @@
 024-011-017	Cosmic Juggernaut Lv.58
 024-011-018	Cosmic Juggernaut Lv.59
 024-011-019	Cosmic Juggernaut Lv.60
+024-012		A Colossal New Year!
+024-012-000	Year of the Ox  Lv.1
+024-012-001	Year of the Ox Lv.2
+024-012-002	Year of the Ox Lv.3
+024-012-003	Year of the Ox Lv.4
+024-012-004	Year of the Ox Lv.5
+024-012-005	Year of the Ox Lv.6
+024-012-006	Year of the Ox Lv.7
+024-012-007	Year of the Ox Lv.8
+024-012-008	Year of the Ox Lv.9
+024-012-009	Year of the Ox Lv.10
 025			Enigma Stages
 025-000		Aitum Fields
 025-000-000	Trench Warfare (Insane)
@@ -2889,3 +3009,24 @@
 027-003-017	Heaven's Gate Lv.18
 027-003-018	Heaven's Gate Lv.19
 027-003-019	Heaven's Gate Lv.20
+027-005		Electric Diva Strikes!
+027-005-000	1st Song
+027-005-001	2nd Song
+027-005-002	3rd Song
+027-005-003	4th Song
+027-005-004	5th Song
+027-005-005	6th Song
+027-005-006	7th Song
+027-005-007	8th Song
+027-005-008	9th Song
+027-005-009	10th Song
+027-005-010	11th Song
+027-005-011	12th Song
+027-005-012	13th Song
+027-005-013	14th Song
+027-005-014	15th Song
+027-005-015	16th Song
+027-005-016	17th Song
+027-005-017	18th Song
+027-005-018	19th Song
+027-005-019	Last Song

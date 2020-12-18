@@ -103,6 +103,9 @@
 142	G Ticket
 143	Lucky Ticket
 144	G Ticket
+146	G Ticket
+147	Lucky Ticket
+148	Lucky Ticket
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -407,6 +410,7 @@
 15395	Dark Subaru CC
 15396	Baseball Mask δ
 15397	Ganglion the Unleashed
+15398	Sacred Blade Sakura
 15402	Gigavolta
 10403	Plug Suit Shinji Black
 10406	Moon Kaworu
@@ -428,6 +432,7 @@
 15497	Immortal Kaihime
 15503	Divine Myrcia
 15506	God-Emperor Gladios
+15512	Kage
 10532	Cadaver BearCat
 15535	Almighty Hades
 15557	Ghost Alibaba

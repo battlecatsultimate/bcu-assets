@@ -395,7 +395,7 @@
 394	Subaru Hoshi	Subaru Hoshi CC	Dark Subaru CC
 395	Miyabi Oyama	Miyabi Oyama CC	Baseball Mask δ
 396	Ganglion	Ganglion the Ancient	Ganglion the Unleashed
-397	Sakura Sonic	Afterschool Sakura	
+397	Sakura Sonic	Afterschool Sakura	Sacred Blade Sakura
 398			
 399	Mentori	Mentori CC	
 400	Imoto	Imoto CC	
@@ -474,7 +474,7 @@
 473	Prince Yamato	Holy Yamato	Rampaging Yamato
 474	Rosary Angel	Cross Angel	Strike Angel
 475	Wakamiko Cat	Warrior King Cat	
-476	Devil Cat	Infernal Cat	
+476	Cat Devil	Infernal Cat	
 477	Nekonosuke	Old Guardian Cat	
 478	Lumina	Luminalia	
 479			
@@ -509,7 +509,7 @@
 508	Ryu Cat	Ryu Cat CC	
 509	Chun-Li Cat	Chun-Li Cat CC	
 510	Akuma	Akuma CC	
-511	Ryu	Ryu CC	
+511	Ryu	Ryu CC	Kage
 512	Chun-Li	Chun-Li CC	
 513	Guile	Guile CC	
 514	Zangief	Zangief CC	
@@ -569,14 +569,19 @@
 568	Idi:N	Idi:N2	
 569	Gravi	Gravolo	
 570	Skull Rider Vars	Nightmare King Vars	
-571			
-572			
-573			
-574			
-575			
-576			
-577			
-578			
-579			
-580			
+571	E. Honda	E. Honda CC	
+572	Balrog	Balrog CC	
+573	Vega	Vega CC	
+574	Sagat	Sagat CC	
+575	M. Bison	M. Bison CC	
+576	C. Honda	C. Honda CC	
+577	Balrog Cat	Balrog Cat CC	
+578	Vega Cat	Vega Cat CC	
+579	Sagat Cat	Sagat Cat CC	
+580	M. Bison Cat	M. Bison Cat CC	
 581			
+582	Hatsune Miku: MM2020 Osaka	Hatsune Miku CC: MM2020 Osaka	
+583	Hatsune Miku: MM2020 Tokyo	Hatsune Miku CC: MM2020 Tokyo	
+584	Keiji Claus	Maeda Christmas	
+585	Baby Garu	Mighty Aegis Garu	
+586	Emperor Cat	Tyrant Cat	
