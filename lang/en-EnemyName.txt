@@ -60,12 +60,12 @@
 059	Sir Metal Seal
 060	
 061	
-062	
-063	
+062	Chief Peng
+063	Dark Emperor Santa
 064	Red Cyclone
-065	
-066	
-067	
+065	Lione Hippoe
+066	Lucky Sloth
+067	Audience Bears
 068	
 069	White Cyclone
 070	Black Cyclone
@@ -73,19 +73,19 @@
 072	
 073	
 074	
-075	
-076	
-077	
-078	
-079	
-080	
-081	
-082	
-083	
-084	
-085	
-086	
-087	
+075	Crazed Cat
+076	Crazed Tank Cat
+077	Crazed Axe Cat
+078	Crazed Gross Cat
+079	Crazed Cow Cat
+080	Crazed Bird Cat
+081	Crazed Fish Cat
+082	Crazed Lizard Cat
+083	Crazed Titan Cat
+084	Teacher A.
+085	Samurai Doggy
+086	Mega Cat
+087	Gory Groom
 088	
 089	
 090	
@@ -97,19 +97,19 @@
 096	
 097	
 098	
-099	
-100	
-101	
-102	
-103	
-104	
-105	
+099	Sunny Celeboodle
+100	Bearkini
+101	Lord Enma
+102	Leggsy
+103	Ecto Doge
+104	Ecto Snache
+105	Ecto Baa Baa
 106	
 107	
-108	
-109	
-110	
-111	
+108	Mighty Gui Zuli
+109	Hermit Peng
+110	Master Da Xun
+111	Pigge Back
 112	Divine Cyclone
 113	Heavenly Hippoe
 114	Gabriel
@@ -125,20 +125,20 @@
 124	Dark Otter
 125	Angelic Sleipnir
 126	
-127	
-128	
-129	
-130	
-131	
-132	
-133	
-134	
-135	
-136	
-137	
-138	
-139	
-140	
+127	Beefcake Cat
+128	Dancer Cat
+129	Hyper Mr.
+130	Ultimate Bondage Cat
+131	Dark Lazer
+132	Heavy Assault C.A.T.
+133	Lollycat
+134	Unicycle Cat
+135	Flying Ninja Cat
+136	Skelecat
+137	Pastry Cat
+138	Riceball Cat
+139	Gato Amigo
+140	Loincloth Cat
 141	
 142	
 143	
@@ -154,7 +154,7 @@
 153	
 154	
 155	
-156	
+156	Martin
 157	
 158	
 159	
@@ -195,9 +195,9 @@
 194	
 195	
 196	
-197	
-198	
-199	
+197	Pumpdoge
+198	Drac-owl-la
+199	Sa-bat
 200	
 201	
 202	
@@ -211,7 +211,7 @@
 210	Elder Sloth
 211	Bun Bun Symbiote
 212	Raging Bahamut Cat
-213	
+213	Blitzen
 214	
 215	
 216	
@@ -228,11 +228,11 @@
 227	
 228	
 229	
-230	
-231	
+230	Prisoner Cat
+231	Gentleman Bros.
 232	Cruel Angel Clionel
-233	
-234	
+233	Nyalladin
+234	Wrestling Cat
 235	Mr. Mole
 236	The Perfect Cyclone
 237	
@@ -240,35 +240,35 @@
 239	
 240	
 241	
-242	
-243	
-244	
-245	
-246	
-247	
-248	
-249	
-250	
-251	
-252	
-253	
+242	Manic Mohawk Cat
+243	Manic Eraser Cat
+244	Manic Dark Cat
+245	Manic Macho Legs
+246	Manic Lion Cat
+247	Manic Flying Cat
+248	Manic Island Cat
+249	Manic King Dragon
+250	Manic Jamiera Cat
+251	Kiss and Koi
+252	Madam the Savannah
+253	Call Center Cat
 254	Mr. Angel
 255	Two Can
 256	Tackey
 257	King Wahwah
 258	Codename "Red Riding"
 259	
-260	
+260	Kite Cat
 261	Boraphim
-262	
-263	
+262	Drummer Doge
+263	Carny Otta
 264	
-265	
+265	Iron Claw X
 266	Henry
 267	Hannya
 268	
 269	
-270	
+270	Rampage Cats
 271	Queen B
 272	Li'l Bun Bun
 273	
@@ -277,10 +277,10 @@
 276	
 277	
 278	
-279	
+279	Ritual Cat
 280	Razorback
 281	
-282	
+282	Chicka Fry
 283	
 284	Zoge
 285	Znache
@@ -293,8 +293,8 @@
 292	Zroco
 293	Lord Gravey
 294	Zyclone
-295	
-296	
+295	Xmas Pudding Cat
+296	Mega Cat EX
 297	
 298	
 299	
@@ -304,45 +304,45 @@
 303	Miss Haka
 304	Big Sal
 305	
-306	
-307	
-308	
+306	Mammothe
+307	Ice Doge
+308	Snowball
 309	Coffin Zoge
 310	Zamelle
-311	
+311	Killer Cat
 312	
 313	
 314	
-315	
+315	Doge Base
 316	Inumusha
 317	Daboo of the Dead
 318	Dolphina
 319	
 320	
 321	
-322	
-323	
-324	
-325	
-326	
-327	
-328	
-329	
-330	
-331	
-332	
+322	Li'l Mohawk Cat
+323	Li'l Eraser Cat
+324	Li'l Dark Cat
+325	Li'l Macho Legs Cat
+326	Li'l Lion Cat
+327	Li'l Flying Cat
+328	Li'l Island Cat
+329	Li'l King Dragon Cat
+330	Li'l Jamiera Cat
+331	Easter Duche
+332	Easter Bunny
 333	
 334	
 335	
-336	
-337	
-338	
+336	Goldoge
+337	Sir Hippoe
+338	Gold R. Ost
 339	
 340	Cala Maria
-341	
-342	
-343	
-344	
+341	Sluggy (Red)
+342	Sluggy (Black)
+343	Sluggy (Angel)
+344	Cat Kart P
 345	
 346	
 347	
@@ -354,10 +354,10 @@
 353	
 354	Hermit Cat
 355	Croakley
-356	
-357	
-358	
-359	
+356	Gory Jr.
+357	Value Meal Cat
+358	Steel Snache
+359	Mercury Sloth
 360	Shibalien Elite
 361	Star Peng
 362	General GreGory
@@ -387,15 +387,15 @@
 386	
 387	Hackey
 388	UltraBaaBaa
-389	
-390	
+389	Pigge Victorious
+390	Bang-Bang
 391	
 392	
 393	
 394	
 395	
-396	
-397	
+396	Crazed Moneko
+397	Corrupted Moneko
 398	
 399	
 400	
@@ -409,45 +409,45 @@
 408	
 409	
 410	
-411	
+411	Gorilliam
 412	Sir Rel
 413	Oldhorn
 414	Othom
 415	
-416	
+416	Selena
 417	Kid Tappa
 418	Ribbo
 419	Cat God
 420	Loris
-421	
-422	
+421	Le'saint
+422	The Red Menace
 423	Lowkey
 424	M. Ost
-425	
-426	
+425	Dead Donny Dash
+426	CTO Seal
 427	Cadaver Bear
 428	Dread Bore
 429	
-430	
+430	Satan Claus
 431	Bakoo
 432	
 433	
-434	
+434	Sister Lione
 435	
 436	
-437	
+437	Lucky Dags
 438	Primeval Cyclone
 439	
-440	
+440	Variety Bears
 441	
-442	
+442	Ms. Madonna
 443	Mesocosmocyclone
 444	Gardeneel Bros.
 445	Axoloty
 446	Final Boss Giga-God
 447	Filibuster Obstructa
 448	
-449	
+449	HaterBaa 2.0
 450	Dogumaru
 451	
 452	
@@ -455,7 +455,7 @@
 454	
 455	
 456	
-457	
+457	Gummy Cat
 458	
 459	
 460	
@@ -497,7 +497,7 @@
 496	Urs & Fenrir
 497	Croconator
 498	Gobble
-499	
+499	Baron Seal
 500	
 501	
 502	
@@ -508,22 +508,22 @@
 507	
 508	
 509	
-510	
+510	Le'Grim
 511	Death Angel Z-Onel
 512	Li'l Zyclone
 513	St. Dober
 514	Doremi
-515	
+515	Mega-Mooth
 516	Master Uril
 517	Koronium
 518	
 519	
 520	
 521	Johnnyleon
-522	
+522	Curseblast Doge Base
 523	
-524	
-525	
+524	Surge Doge Base
+525	Super Hyppoh
 526	Idi:Re
 527	Zollow
 528	
