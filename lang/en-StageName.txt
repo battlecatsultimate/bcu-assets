@@ -2541,7 +2541,7 @@
 014			Night Stages
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)
-014-000-001	Rays of Gold (Veteran)
+014-000-001	Rays of Gold (Expert)
 014-000-002	Rays of Gold (Insane)
 014-001		Growing Blue
 014-001-000	Blue Illusion (Hard)
