@@ -1,4 +1,4 @@
-﻿000			Stories of Legend
+﻿000			Story of Legends
 000-000		The Legend Begins
 000-000-000	Earthshaker
 000-000-001	Return of Terror
@@ -1144,6 +1144,8 @@
 001-245-003	#2 Out of Nowhere
 001-245-004	#1 Thanks to You!
 001-245-005	No New Appearances
+001-246		Prelude to Ruin
+001-246-000	Possessed by Evil (Merciless)
 002			Collaboration Stages
 002-003		To the Future
 002-003-000	Architecture
@@ -1550,7 +1552,7 @@
 004-001
 004-002
 004-003
-3			Empire of Cats
+003			Empire of Cats
 003-000		EoC Ch.1 Zombie
 003-000-000	Korea
 003-000-001	Mongolia
@@ -2192,7 +2194,7 @@
 003-013-045	Brazil
 003-013-046	Floating Continent
 003-013-047	Moon
-004			Extra
+004			Extra Stages
 004-000		Growing Green
 004-000-000	Catfruit Jubilee
 004-000-001	Catfruit Jubilee
@@ -2538,6 +2540,13 @@
 013-030-003	Adventurer's Journal
 013-030-004	Chapel Transfer
 013-030-005	Dark Lord's Decree
+013-031		Theatre of Fear
+013-031-000	Spiralling Ring
+013-031-001	Payday the 13th
+013-031-002	Normal Activity
+013-031-003	Darkened House
+013-031-004	Internal Scream
+013-031-005	A Pile of Guts
 014			Night Stages
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)
@@ -3030,3 +3039,24 @@
 027-005-017	18th Song
 027-005-018	19th Song
 027-005-019	Last Song
+027-007		Heralds of The End
+027-007-000	WARNING Lv.1
+027-007-001	WARNING Lv.2
+027-007-002	WARNING Lv.3
+027-007-003	WARNING Lv.4
+027-007-004	WARNING Lv.5
+027-007-005	WARNING Lv.6
+027-007-006	WARNING Lv.7
+027-007-007	WARNING Lv.8
+027-007-008	WARNING Lv.9
+027-007-009	WARNING Lv.10
+027-007-010	WARNING Lv.11
+027-007-011	WARNING Lv.12
+027-007-012	WARNING Lv.13
+027-007-013	WARNING Lv.14
+027-007-014	WARNING Lv.15
+027-007-015	WARNING Lv.16
+027-007-016	WARNING Lv.17
+027-007-017	WARNING Lv.18
+027-007-018	WARNING Lv.19
+027-007-019	WARNING Lv.20
