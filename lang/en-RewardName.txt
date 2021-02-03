@@ -106,6 +106,8 @@
 146	G Ticket
 147	Lucky Ticket
 148	Lucky Ticket
+149	G Ticket
+150	G Ticket
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -203,6 +205,7 @@
 1051	Phantom Cat
 1052	Bakery Cat
 1172	Idi:N
+1053	Stone Cat
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -242,7 +245,7 @@
 15042	Cyborg Cat
 15043	Ice Crystal Cat
 15044	Cat Machine Mk 3
-15045	Balrog Cat
+15045	Greater Balrog Cat
 15047	Catasaurus
 15048	Maximum the Fighter
 15049	Dread Pirate Catley
@@ -365,6 +368,7 @@
 10274	Soba Cat
 15284	Pai-Pai DX
 10285	Bullet Train Cat
+15287	Flight Unit R.E.I.
 10288	Golfer Cat
 10300	Li'l Ultimate Madoka
 10301	Li'l Devil Homura

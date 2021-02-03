@@ -42,7 +42,7 @@
 041	Salon Cat	Paris Cat	Cyborg Cat
 042	Ice Cat	Ice Queen Cat	Ice Crystal Cat
 043	Cat Machine	Cat Machine Mk 2	Cat Machine Mk 3
-044	Lesser Demon Cat	Greater Demon Cat	Balrog Cat
+044	Lesser Demon Cat	Greater Demon Cat	Greater Balrog Cat
 045	Maiko Cat	Geisha Cat	
 046	Jurassic Cat	Jurassic Cat Sitter	Catasaurus
 047	Viking Cat	Thor Cat	Maximum the Fighter
@@ -284,7 +284,7 @@
 283	Pai-Pai	Pai-Pai Z	Pai-Pai DX
 284	Express Cat	Maglev Cat	Bullet Train Cat
 285			
-286	Strike Unit R.E.I.	Assault Unit R.E.I.	
+286	Strike Unit R.E.I.	Assault Unit R.E.I.	Flight Unit R.E.I.
 287	Little Leaguer Cat	Major Leaguer Cat	Golfer Cat
 288	Madoka Kaname	Madoka & Cat	
 289	Homura Akemi	Homura & Cat	
@@ -545,12 +545,12 @@
 544	Kyosaka Nanaho	True Kyosaka Nanaho	
 545	Phantom Cat	Miasma Cat	
 546	Papaluga	Papalan Pasalan	
-547			
-548			
-549			
-550			
-551			
-552			
+547	Night Oracle Rei	Heavenly Herald Rei	
+548	The 4th Angel	4th Angel Cat	
+549	The 6th Angel	6th Angel Cat	
+550	The 10th Angel	10th Angel Cat	
+551	The 9th Angel	9th Angel Cat	
+552	Kaworu Cat	Moon Kaworu Cat	
 553	Bakery Cat	Boomerang Cat	
 554	Master Uril	Mystic Uril	
 555	Shaman Khan	All-Loving Shaman Khan	
@@ -579,9 +579,12 @@
 578	Vega Cat	Vega Cat CC	
 579	Sagat Cat	Sagat Cat CC	
 580	M. Bison Cat	M. Bison Cat CC	
-581			
+581	Stone Cat	Boulder Cat	
 582	Hatsune Miku: MM2020 Osaka	Hatsune Miku CC: MM2020 Osaka	
 583	Hatsune Miku: MM2020 Tokyo	Hatsune Miku CC: MM2020 Tokyo	
 584	Keiji Claus	Maeda Christmas	
 585	Baby Garu	Mighty Aegis Garu	
 586	Emperor Cat	Tyrant Cat	
+587	Sweet Aphrodite	Chocoladite	
+588	First-Love Myrcia	First-Love Myrcia ξ	
+589	Valentine's Neneko	Sweetheart Neneko	
