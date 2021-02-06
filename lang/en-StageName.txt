@@ -798,10 +798,26 @@
 001-124		XP Colosseum
 001-124-000	Tempered in Flame (Deadly)
 001-125		Cats in the Snow
+001-125-000	Langue de Chat
+001-125-001	White Dove
+001-125-002	Snow at Dawn
+001-125-003	Buddha of Romance
+001-125-004	Icy Desire
 001-126		You Nears!
+001-126-000	Year's First Dawn
 001-127		Day of the Cat
+001-127-000	Savage Instinct
+001-127-001	Bloodstained Claws
+001-127-002	The 222 Incident
 001-128		Dead on Debut
+001-128-000	Parade of the Dead (Deadly)
 001-129		Spring Sprang Sprung
+001-129-000	Season of Rebirth
+001-129-001	Bunny Bros.
+001-129-002	Island Egg Hunt
+001-129-003	Native Cultures
+001-129-004	Most Ancient
+001-129-005	Rongorongo
 001-130		Li’l Cat Awakens!
 001-130-000	Tiny Meows (Deadly)
 001-131		Li’l Tank Awakens!
@@ -828,34 +844,69 @@
 001-140-002	Golden Age's Dawn
 001-140-003	Never Not Shovelin'
 001-140-004	Dreams Come False
-001-141
 001-142		Sliming to Victory
+001-142-000	Rainy Day Races
+001-142-001	Tinpot Trophy
+001-142-002	Stormcloud Stakes
+001-142-003	Paradise Derby
+001-142-004	Slimy Stallions
 001-143		Cat Kart Awakens!
-001-144
+001-143-000	Kartopia (Expert)
+001-143-001	Kartopia (Insane)
 001-145		30M Celebration Gifts Galore!
+001-145-000	Joy of 30 Million!
 001-146		Event All-Stars Grand Jubilee!
+001-146-000	Megaton Blast (Insane)
 001-147		Watch & Earn
+001-147-000	None More Squishy
 001-148		Flower Cat Awakens!
+001-148-000	Bloomin' Brightly (Easy)
 001-149		Summer Lesson
+001-149-000	Kids At School
+001-149-001	I Am A Cat
+001-149-002	c2 ＝ a2 ＋ b2
+001-149-003	War of the Roses
+001-149-004	N2+3H2→2NH3
 001-150		Cavern of Comets
+001-150-000	Impact Site (Normal)
+001-150-001	Impact Site (Veteran)
+001-150-002	Impact Site (Insane)
 001-151		Island of Ash
+001-151-000	Brushfire (Normal)
+001-151-001	Brushfire (Veteran)
+001-151-002	Brushfire (Insane)
 001-152		Strait of Wings
+001-152-000	Ancient Ruins (Normal)
+001-152-001	Ancient Ruins (Veteran)
+001-152-002	Ancient Ruins (Insane)
 001-153		Catburger Awakens!
+001-153-000	Value Ordeal (Normal)
 001-154		Silver Week
+001-154-000	No Shame in 2nd
+001-154-001	Silver Anniversary
+001-154-002	A Distant Road
 001-155		Merciless XP!
 001-155-000	Taste of Success (Merciless)
 001-156		Birthday Present!
+001-156-000	Five Years of Fun!!
 001-157		The 2nd Dimension
+001-157-000	The Wormhole Opens (Deadly)
 001-158		King Wahwah’s Revenge
+001-158-000	N-1 Grand Prix (Deadly)
 001-159		You Nears!
+001-159-000	Year's First Dawn
 001-160		Go Go Graduates
+001-160-000	Pencil Launcher
+001-160-001	Demon Drill Sgt
+001-160-002	One-Use Cannon
+001-160-003	Sanitary Corps
+001-160-004	Cat Army's Day Off
 001-161		Crazed Moneko
 001-161-000	in JAPAN
 001-161-001	in LONDON
 001-161-002	in NEW YORK
 001-162		Growing Strange
 001-162-000	An Elder Secret (Merciless)
-001-163
 001-164		Sliming to Victory
 001-164-000	Rainy Day Races
 001-164-001	Tinpot Trophy
