@@ -402,10 +402,10 @@
 001-006-000	Love, Metal Hippoe (Hard)
 001-007		Seige of Hippoe!
 001-007-000	Super Metal Hippoe (Expert)
-001-008		Autumn = Sports Day! (unused)
-001-008-000	激アツ！運動会
-001-008-001	アンチハロウィン
-001-008-002	勝者と敗者
+001-008		Autumn = Sports Day
+001-008-000	Athletic Meet
+001-008-001	Anti Halloween
+001-008-002	Winning and Losing
 001-009		Loving Labour
 001-009-000	Weeklong Meetings
 001-009-001	Co-workers don't work
@@ -574,8 +574,8 @@
 001-045-000	Taking The Stage (Expert)
 001-045-001	Taking The Stage (Insane)
 001-046		Kung-Fu Awakens!
-001-045-000	Path of Kung-Fu (Expert)
-001-045-001	Path of Kung-Fu (Insane)
+001-046-000	Path of Kung-Fu (Expert)
+001-046-001	Path of Kung-Fu (Insane)
 001-047		Mr. Awakens!
 001-047-000	Mr.-ious Evolution (Expert)
 001-047-001	Mr.-ious Evolution (Insane)
@@ -637,8 +637,6 @@
 001-065-007	At Nintendo eShop!
 001-066		Dimension of Despair
 001-066-000	Black Hole Rising (Insane)
-001-067		Taiwan Version Special Stage
-001-067-000	TWその1 (Source: wikia, may be incorrect)
 001-068		20 Million Downloads Special Gift!
 001-068-000	Joy of 20 Million!
 001-069		Deadly Carnival
@@ -647,6 +645,7 @@
 001-070		Monthly Event All-Stars Wonderful Celebration!
 001-070-000	Wonderful Conquest (Insane)
 001-071		Minced Meet-Up
+001-071-000	Faster Than Fast Food
 001-072		All Hallows Road
 001-072-000	Sweet Samhain
 001-072-001	Lantern O’Jack
@@ -677,6 +676,7 @@
 001-081-003	Coup d’Workshop
 001-081-004	War on Xmas
 001-082		Auld Lang Syne!
+001-082-000	Year's First Dawn!
 001-083		Adult Cat Awakes!
 001-083-000	Growing Up (Expert)
 001-083-001	Growing Up (Insane)
@@ -752,7 +752,7 @@
 001-108		Fish Maniac
 001-108-000	Ogre Island (Insane)
 001-109		Lizard Maniac
-001-110-000	Draconian (Insane)
+001-109-000	Draconian (Insane)
 001-110		Titan Maniac
 001-110-000	Resident Feline (Insane)
 001-111		Bad To Worse
@@ -795,6 +795,7 @@
 001-122		The Rolling Dead	  
 001-122-000	Unholy Tempest (Insane)  
 001-123		Birthday Present!
+001-123-000	Four Years of Fun!!
 001-124		XP Colosseum
 001-124-000	Tempered in Flame (Deadly)
 001-125		Cats in the Snow
@@ -984,7 +985,8 @@
 001-181-000	Ruins of the North
 001-182		Event All-Stars Super Present DX
 001-182-000	Presents of Mind (Insane)
-001-183
+001-183		B-Day Gifts
+001-183-000	6 Years of Fun!!
 001-184		Another New Year
 001-184-000	Chores Unending
 001-184-001	Unknown Relatives
@@ -1045,14 +1047,9 @@
 001-199		River Acheron
 001-199-000	Wrath of Carnage (Deadly)
 001-199-001	Revenge of Carnage (Merciless)
-001-200		
-001-200-000	
 001-201		Queen's Condemnation
 001-201-000	Honey Drip (Deadly)
 001-201-001	Royal Jelly Hell (Merciless)
-001-202		
-001-202-000	
-001-202-001	
 001-203		The 3rd Dimension
 001-203-000	Revenge of the Wormhole (Merciless)
 001-203-001	Wrath of the Wormhole (Merciless)
