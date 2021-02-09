@@ -2941,6 +2941,27 @@
 024-012-007	Year of the Ox Lv.8
 024-012-008	Year of the Ox Lv.9
 024-012-009	Year of the Ox Lv.10
+024-013		A Colossal Valentine's
+024-013-000	Choco Chaos Lv.1
+024-013-001	Choco Chaos Lv.2
+024-013-002	Choco Chaos Lv.3
+024-013-003	Choco Chaos Lv.4
+024-013-004	Choco Chaos Lv.5
+024-013-005	Choco Chaos Lv.6
+024-013-006	Choco Chaos Lv.7
+024-013-007	Choco Chaos Lv.8
+024-013-008	Choco Chaos Lv.9
+024-013-009	Choco Chaos Lv.10
+024-013-010	Choco Chaos Lv.11
+024-013-011	Choco Chaos Lv.12
+024-013-012	Choco Chaos Lv.13
+024-013-013	Choco Chaos Lv.14
+024-013-014	Choco Chaos Lv.15
+024-013-015	Choco Chaos Lv.16
+024-013-016	Choco Chaos Lv.17
+024-013-017	Choco Chaos Lv.18
+024-013-018	Choco Chaos Lv.19
+024-013-019	Choco Chaos Lv.20
 025			Enigma Stages
 025-000		Aitum Fields
 025-000-000	Trench Warfare (Insane)
