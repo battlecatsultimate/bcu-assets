@@ -571,7 +571,7 @@
 001-044		Happy 2015!
 001-044-000	New Year’s Dawn
 001-045		Actress Awakens!
-001-045-000	Taking The Stage (Expert)
+001-045-000	Taking the Stage (Veteran)
 001-045-001	Taking The Stage (Insane)
 001-046		Kung-Fu Awakens!
 001-046-000	Path of Kung-Fu (Expert)
@@ -610,7 +610,7 @@
 001-057-000	Boogie Up (Expert)
 001-057-001	Boogie Up (Insane)
 001-058		Skirt Awakens!
-001-058-000	Skirting Danger (Expert)
+001-058-000	Skirting Danger (Veteran)
 001-058-001	Skirting Danger (Insane)
 001-059		XP Megablitz!
 001-059-000	Refined Palate (Insane)
