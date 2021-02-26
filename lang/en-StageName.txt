@@ -595,13 +595,13 @@
 001-052-000	Hell on 3 Wheels (Expert)
 001-052-001	Hell on 3 Wheels (Insane)
 001-053		Ninja Awakens!
-001-053-000	Way of the Ninja (Expert)
+001-053-000	Way of the Ninja (Veteran)
 001-053-001	Way of the Ninja (Insane)
 001-054		Zombie Awakens!
 001-054-000	Shambling Along (Expert)
 001-054-001	Shambling Along (Insane)
 001-055		Samurai Awakens!
-001-055-000	Way of the Samurai (Expert)
+001-055-000	Way of the Samurai (Veteran)
 001-055-001	Way of the Samurai (Insane)
 001-056		Sumo Awakens!
 001-056-000	Oh Yokozuna! (Expert)
