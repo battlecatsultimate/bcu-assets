@@ -337,7 +337,7 @@
 336	Queen Reika	Pharoah Reika	Eternal Reika
 337			
 338	Imagawa Yoshimoto	Wargod Yoshimoto	Immortal Yoshimoto
-339	Iron Wall		
+339			
 340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	
 341	Lost World Yuki	Lost World Yuki ＆ Cat	Lost World Catgirl Yuki
 342	Maneki Cat	Neo Maneki Cat	
@@ -450,7 +450,7 @@
 449	Headmistress Jeanne	Headmistress Jeanne ψ	
 450	High Lord Babel	Babel the Darkflame	
 451	Ushiwakamaru	Colossal Benkei	
-452	Primordial Cat	Modern Cat	
+452	Primordial Cat	Modern Cat	Future Cat
 453			
 454			
 455	Wonder MOMOCO	Cutie MOMOCO	
@@ -523,7 +523,7 @@
 522	Nymph Cat	Medalist Cat	
 523	Wushu Cat	Sifu Cat	
 524			
-525	Kintaro	Kinrangers RoboForce	
+525	Kintaro	Kinrangers RoboForce	Kinrangers GigaForce
 526	Snow Angel Twinstars	Snow Angel Twinstars, type Φ	
 527	Slime Cat	Jellycat	
 528	Cossack Cat	Vodka Cat	
@@ -588,3 +588,9 @@
 587	Sweet Aphrodite	Chocoladite	
 588	First-Love Myrcia	First-Love Myrcia ξ	
 589	Valentine's Neneko	Sweetheart Neneko	
+590	Snow Miku 2021	Snow Miku CC 2021	
+591	Kaito & Cat	Kaito & Cat CC	
+592	Neko Rin	Neko Rin CC	
+593	Neko Len	Neko Len CC	
+594	Mighty Aethur Ltd.	Atlantis Logistix	
+595	Blooming Kamukura	Everbloom Kamukura	

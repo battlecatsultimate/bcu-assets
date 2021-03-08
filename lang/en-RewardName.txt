@@ -108,6 +108,10 @@
 148	Lucky Ticket
 149	G Ticket
 150	G Ticket
+151	Endless Rich Cats for 3 hours
+152	Endless Cat CPUs for 3 hours
+153	Endless Sniper the Cats for 3 hours
+154	G Ticket
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -428,6 +432,7 @@
 15438	Cat God the Golden
 15440	Almighty Chronos
 10443	Tourist Cat
+10453	Future Cat
 15468	Super S-Zeus
 15469	Head Rococo
 15470	Super D-Devil
@@ -437,6 +442,7 @@
 15503	Divine Myrcia
 15506	God-Emperor Gladios
 15512	Kage
+15526	Kinrangers GigaForce
 10532	Cadaver BearCat
 15535	Almighty Hades
 15557	Ghost Alibaba
