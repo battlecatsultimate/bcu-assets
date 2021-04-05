@@ -1,0 +1,88 @@
+0	★ Builder of Empires ★
+1	★ Builder of Empires 2 ★
+2	★ Builder of Empires 3 ★
+3	★ Undead Slayer ★
+4	★ Undead Slayer 2 ★
+5	★ Undead Slayer 3 ★
+6	★ The Future Is Ours ★
+7	★ The Future Is Ours 2 ★
+8	★ The Future Is Ours 3 ★
+9	★ ...And Stay Dead ★
+10	★ ...And Stay Dead 2 ★
+11	★ Cosmos Conquistador ★
+12	★ Cosmos Conquistador 2 ★
+13	★ Cosmos Conquistador 3 ★
+14	★ No More Worlds to Conquer? ★
+15	★ I Am Legend ★
+16	★ I Am Legend 2 ★
+17	★ I Am Legend 3 ★
+18	★ Red Horizon ★
+19	★ Dark Skies ★
+20	★ White Winds ★
+21	★ Holy Squall ★
+22	★ Storm of Steel ★
+23	★ Alien Weather ★
+24	★ Perfect Threat ★
+25	★ Typhoon Z ★
+26	★ Dimensional Rift ★
+27	★ Ancient Tempest ★
+28	★ Angel's Cruelty ★
+29	★ Charon's Crossing ★
+30	★ Uncrowned ★
+31	★ The Big Z ★
+32	★ Usurper ★
+33	★ Time to Wake Up ★
+34	★ Comet Celeb ★
+35	★ Crazy Enough to Work ★
+36	★ Manic Episodes ★
+37	★ Your Own Size ★
+38	★ Another Year ★
+39	★ Ritually Speaking ★
+40	★ Unbearable ★
+41	★ Young Love ★
+42	★ Ambition's End ★
+43	★ Man and Wife? ★
+44	★ Holidays in the Sun ★
+45	★ Who You Gonna Call? ★
+46	★ Respect Your Elders ★
+47	★ Work Up a Sweat ★
+48	★ On Strike ★
+49	★ A Catsmas Miracle ★
+50	★ Floor 30 ★
+51	★ Floor 40 ★
+52	★ A True Master ★
+53	★ Making Money ★
+54	★ Making Money 2 ★
+55	★ Nouveau Riche ★
+56	★ Nouveau Riche 2 ★
+57	★ One Percenter ★
+58	★ One Percenter 2 ★
+59	★ World Traveller ★
+60	★ Innovator ★
+61	★ Ranked ★
+62	★ May I Assist You? ★
+63	★ Forest Child ★
+64	★ Tiny Nemesis ★
+65	★ Under the Hood ★
+66	★ Ronin's Redemption ★
+67	★ Buns of Steel ★
+68	★ Heart of Clay ★
+69	★ Tormented ★
+70	★ Ancient Dynasty ★
+71	★ Vox Deus ★
+72	★ Murky Details ★
+73	★ Clan Urs ★
+74	★ Frenzied Family ★
+75	★ Cosmic Wanwan ★
+76	★ ...And Stay Dead 3 ★
+77	★ Angel of Undeath ★
+78	★ Helping Out ★
+79	★ Floor 50 ★
+80	★ Rites of Spring ★
+81	★ Song of Summer ★
+82	★ Feast of Fall ★
+83	★ Dance of Winter ★
+84	★ Year-Round ★
+85	★ I Am Legend 4 ★
+86	★ Elder Annihilator ★
+87	★ Road to Ruin ★

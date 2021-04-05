@@ -1,0 +1,596 @@
+000	<br><br>
+001	<br><br>
+002	<br><br>
+003	<br><br>
+004	<br><br>
+005	<br><br>
+006	<br><br>
+007	<br><br>
+008	<br><br>
+009	<br><br>
+010	<br><br>
+011	<br><br>
+012	<br><br>
+013	<br><br>
+014	<br><br>
+015	<br><br>
+016	<br><br>
+017	<br><br>
+018	<br><br>
+019	<br><br>
+020	<br><br>
+021	<br><br>
+022	<br><br>
+023	<br><br>
+024	<br><br>
+025	<br><br>
+026	<br><br>
+027	<br><br>
+028	<br><br>
+029	<br><br>
+030	True Form evolution increases Range!<br>Also gains a chance to decrease the<br>attack power of Floating enemies!
+031	True Form evolution increases all stats!<br>Plus, gains the power to freeze Relic enemies<br>and becomes immune to enemy Curses.
+032	True Form evolution increases defense<br>and attack! Blocks Warp, and slows <br>Red enemy movement even further!
+033	True Form evolution increases attack<br>speed and power! Plus, now negates<br>Wave attack effects and damage!
+034	True Form evolution increases Attack!<br>Also gains a 100% chance to freeze the<br>movement of non-Metal enemies!
+035	True Form evolution increases Attack!<br>Also gains the ability to Slow down<br>non-Metal enemies for a short time.
+036	True Form evolution increases Attack,<br>Defense, Movement Speed and Range!<br>
+037	True Form evolution increases Attack,<br>decreased deploy Cost, and adds the<br>ability to survive one lethal blow!
+038	True Form evolution increases Range<br>and Attack! Also gains a shortened<br>recovery time after deployment!
+039	True Form evolution gains Area<br>Attack! Also gains a 100% chance to<br>freeze Red enemy movement!
+040	True Form evolution increases Defense!<br>Attack speed is also increased!<br>
+041	True Form evolution increases<br>attack power! Plus, negates<br>enemy attacks' Weaken effects.
+042	True Form evolution increases Range<br>and Attack! Also gains a 100% chance to<br>freeze Red enemy movement!
+043	True Form evolution increases all traits.<br>Also grants resistance to wave attacks<br>while protecting units behind as well!
+044	True Form evolution increases Defense<br>and grants a hugely powerful single attack.<br>
+045	<br><br>
+046	True Form evolution increases Defense<br>and Attack power. Also gains increased<br>critical chance and range!
+047	True Form evolution increases Defense<br>by a large amount and gives Area Attack!<br>
+048	True Form evolution increases Range<br>and Defense, and grants a greater<br>chance of Knockback vs Red enemies
+049	True Form evolution increases<br>range and attack power. <br>Also grants Area Attack!
+050	True Form evolution increases<br>defense, range and attack power. <br>Attacks also gain Area effect!
+051	True Form evolution increases Defense!<br>Also grants a much greater chance of<br>Knockback vs Floating enemies.
+052	True Form evolution increases attack<br>power and range. Plus, increases<br>time enemies become frozen.
+053	<br><br>
+054	<br><br>
+055	True Form evolution increases Defense and<br>Attack Range. Also increases the length of<br>time Red enemies' movement is slowed.
+056	True Form evolution increases Defense,<br>movement speed, Attack, and Range!<br>
+057	True Form evolution increases all traits<br>and critical attack chance! Also grants<br>resistance to enemy attacks' knockback.
+058	True Form evolution improves<br>Defense and Attack Power!<br>
+059	True Form evolution increases all traits<br>and grants Wave Attack abilities!<br>
+060	<br><br>
+061	True form gets much stronger defense!<br><br>
+062	<br><br>
+063	<br><br>
+064	<br><br>
+065	<br><br>
+066	<br><br>
+067	<br><br>
+068	<br><br>
+069	<br><br>
+070	<br><br>
+071	True Form evolution increases Attack!<br>Also gains faster movement speed.<br>
+072	True Form evolution increases<br>all traits, and allows greater<br>attack power gains.
+073	True Form greatly increases defense!<br>Plus, improves attack power and increases<br>the time Freeze will affect Black enemies!
+074	<br><br>
+075	True Form evolution greatly increases<br>defense and movement speed, as well<br>as increasing attack power and range.
+076	True Form evolution increases Defense<br>and movement speed, as well as Attack<br>power and Attack range!
+077	<br><br>
+078	<br><br>
+079	<br><br>
+080	<br><br>
+081	<br><br>
+082	<br><br>
+083	True Form evolution increases all<br>traits, and gains the ability to 100%<br>knockback Floating enemies.
+084	True Form evolution increases Defense,<br>movement speed, Attack, and Range!<br>
+085	True Form evolution increases<br>Defense, Attack, and Range!<br>
+086	True Form evolution increases defense,<br>attack range, and attack speed!<br>
+087	True Form evolution increases defense,<br>movement speed and attack range!<br>Stronger against Red enemies too!
+088	<br><br>
+089	<br><br>
+090	<br><br>
+091	<br><br>
+092	<br><br>
+093	<br><br>
+094	<br><br>
+095	<br><br>
+096	<br><br>
+097	<br><br>
+098	<br><br>
+099	<br><br>
+100	<br><br>
+101	<br><br>
+102	<br><br>
+103	<br><br>
+104	<br><br>
+105	True Form evolution increases Defense,<br>Attack, Range, and Attack Speed, plus<br>gains resistance to Weaken!
+106	True Form evolution increases Attack!<br>Defense and move speed also hugely<br>increased, and immune to knockback!
+107	True Form evolution increases<br>defense, range and attack power. <br>Easier to freeze Floating enemies too!
+108	<br><br>
+109	<br><br>
+110	<br><br>
+111	<br><br>
+112	<br><br>
+113	<br><br>
+114	<br><br>
+115	<br><br>
+116	<br><br>
+117	<br><br>
+118	<br><br>
+119	<br><br>
+120	<br><br>
+121	<br><br>
+122	<br><br>
+123	<br><br>
+124	True Form evolution increases<br>attack power and range and defense!<br>
+125	True Form evolution increases<br>attack power and range and defense!<br>
+126	<br><br>
+127	<br><br>
+128	<br><br>
+129	<br><br>
+130	True Form evolution gains improved<br>defense, range and attack power. Plus,<br>becomes immune to enemy Curses.
+131	<br><br>
+132	<br><br>
+133	<br><br>
+134	True Form evolution increases defense,<br>attack power and attack range! Also,<br>immune to enemies' Weaken effects!
+135	True Form evolution increases attack<br>power! Also gains 100% chance to freeze<br>Floating/Angelic enemy movement!
+136	True Form evolution increases all<br>traits! Also gains a higher chance to<br>freeze Red/Angelic enemy movement!
+137	True Form evolution increases defense<br>and range! Also increases attack rate!<br>
+138	True Form evolution increases all traits<br>and adds the ability to 100% slow<br>movement of Angel and Metal enemies
+139	<br><br>
+140	<br><br>
+141	<br><br>
+142	<br><br>
+143	True Form evolution greatly increases<br>movement speed! Plus, defense, attack<br>and range increases!
+144	True Form evolution gains larger<br>attack Area, stronger attack damage,<br>and longer Wave attack range!
+145	True Form evolution gains improved<br>defense, range and attack power. Plus,<br>Black enemies are Slowed for longer.
+146	True Form evolution gains significant<br>attack power and increased defense.<br>Increased chance of knockback vs Angels
+147	True Form evolution slows movement<br>speed, but gives a big boost to defense,<br>attack power, and attack range.
+148	True Form evolution increases Defense,<br>and attack power!<br>
+149	True Form evolution increases<br>defense, range and movement speed. <br>Attacks also gain Area effect!
+150	True Form evolution increases attack<br>range and shortens production time.<br>Angels are frozen for longer too!
+151	True Form evolution increases attack,<br>defense and attack range!<br>
+152	True Form evolution gains improved attack<br>power and defense. Plus, becomes immune <br>to Curses and is Strong vs Relic enemies
+153	True Form evolution increases Defense,<br>and Attack and gains Barrier Breaker!<br>Slows Angels for even longer!
+154	<br><br>
+155	<br><br>
+156	<br><br>
+157	<br><br>
+158	True form evolution increases defense,<br>movement speed, and attack speed!<br>
+159	True form evolution gets improved<br>attack power and range!<br>
+160	<br><br>
+161	<br><br>
+162	<br><br>
+163	<br><br>
+164	<br><br>
+165	<br><br>
+166	<br><br>
+167	<br><br>
+168	True Form evolution gives a huge<br>increase to attack range.<br>
+169	True Form evolution loses knockback<br>effect, but both normal and Wave <br>attacks gain 100% Critical chance!
+170	True Form evolution increases attack<br>range and chance of critical attacks!<br>
+171	True Form evolution gains the ability to<br>weaken enemies. Plus, the length of time<br>enemies are frozen is now longer!
+172	True Form evolution improves all traits!<br>Plus, has a higher chance to Slow, and<br>becomes immune to enemy Curses.
+173	<br><br>
+174	<br><br>
+175	<br><br>
+176	<br><br>
+177	True form increases all stats and<br>gains Barrier Breaker, plus Slow <br>and Knockback versus Angels!
+178	<br><br>
+179	<br><br>
+180	True Form evolution increases Attack<br>Range and Attack Speed! Plus, gains<br>the Immune to Weaken ability!
+181	<br><br>
+182	<br><br>
+183	<br><br>
+184	<br><br>
+185	True Form evolution gains improved<br>defense, move speed, and attack range!<br>Critical attack chance is also improved!
+186	<br><br>
+187	True Form evolution gains improved defense<br>and attack speed, but attack power is<br>weakened. Might Dodge Angel attacks!
+188	<br><br>
+189	<br><br>
+190	<br><br>
+191	<br><br>
+192	<br><br>
+193	<br><br>
+194	True Form evolution is Strong<br>against Alien enemies and grants<br>immunity to Wave Attacks.
+195	True Form evolution increases<br>attack power vs Alien enemies. <br>Also gains 100% Slow vs Aliens!
+196	True Form evolution delivers massive<br>damage to Aliens and Relics, and <br>becomes immune to enemy Curses.
+197	True form evolution gets faster<br>movement speed, plus improved<br>defense and attack speed!
+198	True form evolution gains greater<br>defense. Also gains the ability to weaken<br>enemy attack power!
+199	True Form evolution increases Defense.<br>Also gains more effective Freeze vs Aliens <br>and the ability to survive a lethal strike!
+200	<br><br>
+201	<br><br>
+202	<br><br>
+203	True Form increases movement speed!<br>Plus, gains Strong vs. Angels & Aliens!<br>
+204	<br><br>
+205	<br><br>
+206	<br><br>
+207	<br><br>
+208	<br><br>
+209	<br><br>
+210	<br><br>
+211	<br><br>
+212	True Form Evolution gains the<br>ability to knockback and weaken<br>Red and Alien enemies!
+213	<br><br>
+214	<br><br>
+215	<br><br>
+216	<br><br>
+217	<br><br>
+218	<br><br>
+219	<br><br>
+220	<br><br>
+221	<br><br>
+222	<br><br>
+223	<br><br>
+224	<br><br>
+225	<br><br>
+226	True Form evolution can attack only Aliens,<br>but defense & attack power is massively <br>increased! Also resists repeated debuffs.
+227	<br><br>
+228	<br><br>
+229	<br><br>
+230	<br><br>
+231	<br><br>
+232	<br><br>
+233	<br><br>
+234	<br><br>
+235	<br><br>
+236	<br><br>
+237	True Fom evolution gains faster move<br>speed, Surge Attack ability, and the<br>ability to Survive one lethal strike.
+238	True Fom evolution gains<br>greatly improved attack power!<br>
+239	True Fom evolution gains faster attack<br>speed, larger attack area, and the<br>ability to Slow non-Metal enemies.
+240	True Form evolution gains improved <br>attack speed and much better defense.<br>Plus, greater attack power gains!
+241	<br><br>
+242	<br><br>
+243	<br><br>
+244	<br><br>
+245	<br><br>
+246	<br><br>
+247	<br><br>
+248	<br><br>
+249	<br><br>
+250	<br><br>
+251	<br><br>
+252	<br><br>
+253	<br><br>
+254	<br><br>
+255	<br><br>
+256	<br><br>
+257	True Form evolution gains improved <br>defense and attack power!<br>
+258	True Form evolution gains improved <br>defense and attack power! Also, gains<br>immunity to Knockback from enemy attacks.
+259	True Form evolution gains improved defense!<br><br>
+260	<br><br>
+261	True Form evolution gains chance to<br>Knockback and Slow Zombie enemies.<br>Plus, gains the Zombie Killer ability!
+262	<br><br>
+263	<br><br>
+264	<br><br>
+265	<br><br>
+266	<br><br>
+267	<br><br>
+268	True Form evolution gains improved attack<br>power and defense. Plus, becomes immune <br>to Curses and weakens Relic enemies
+269	<br><br>
+270	True Form evolution gains increased<br>Defense, Move Speed, and Attack Power!<br>Plus, gains the Immune to Slow ability!
+271	True Form gains improved attack power!<br><br>
+272	True Form evolution gains improved<br>defense! Plus, attack power gained<br>after taking damage is increased!
+273	<br><br>
+274	<br><br>
+275	<br><br>
+276	<br><br>
+277	<br><br>
+278	<br><br>
+279	<br><br>
+280	<br><br>
+281	<br><br>
+282	<br><br>
+283	True Form Evolution gains increased<br>attack speed. Plus, gains even tougher<br>defense against Red enemies!
+284	<br><br>
+285	<br><br>
+286	True Form Evolution gains improved attack<br>speed, and defense versus Floating enemies<br>is improved from Tough to Insanely Tough!
+287	<br><br>
+288	<br><br>
+289	<br><br>
+290	<br><br>
+291	<br><br>
+292	<br><br>
+293	<br><br>
+294	<br><br>
+295	<br><br>
+296	<br><br>
+297	<br><br>
+298	<br><br>
+299	<br><br>
+300	<br><br>
+301	<br><br>
+302	<br><br>
+303	<br><br>
+304	True Form evolution improves attack<br>distance and attack area range!<br>
+305	True Form evolution improves<br>attack speed!<br>
+306	True Form evolution improves<br>defense and knockback rate!<br>
+307	True form greatly increases defense and<br>movement speed! Plus, Slow effects against<br>Zombies will last for longer!
+308	True form greatly increases defense!<br>Attack range also improves, and<br>freeze time versus zombies increases!
+309	<br><br>
+310	<br><br>
+311	<br><br>
+312	<br><br>
+313	<br><br>
+314	<br><br>
+315	<br><br>
+316	True Form evolution gains improved<br>defense, move speed, and attack power!<br>
+317	<br><br>
+318	<br><br>
+319	<br><br>
+320	<br><br>
+321	<br><br>
+322	True Form evolution gains improved<br>defense and attack speed! Plus, gains<br>immunity to enemy Weaken effects.
+323	True Form evolution gains improved attack<br>power and defense. Plus, becomes immune <br>to Curses and might Freeze Relic enemies
+324	<br><br>
+325	True Form evolution gains improved defense.<br>Plus, attack range also improves!<br>
+326	<br><br>
+327	<br><br>
+328	<br><br>
+329	<br><br>
+330	<br><br>
+331	<br><br>
+332	<br><br>
+333	<br><br>
+334	True Form evolution improves all stats!<br>Plus, Floating and Angel enemies are<br>slowed for longer period of time!
+335	True Form evolution gains improved attack<br>power and defense! Plus, Red enemies are<br>weakened for an even longer time!
+336	True form gains improved attack speed<br>and number of pushbacks against enemies.<br>
+337	<br><br>
+338	True Form evolution gains improved defense<br>and attack range. Plus, weakens Black<br>enemies for longer lengths of time.
+339	<br><br>
+340	<br><br>
+341	True Form evolution increases Defense and<br>Attack Power! Gains immunity to Knockback<br>and the Barrier Breaker ability!
+342	<br><br>
+343	<br><br>
+344	True Form evolution gets<br>improvements to all stats.<br>
+345	True Form evolution gains improved<br>defense and attack power! Attack speed is<br>slowed, but gains 100% Freeze vs Floating.
+346	<br><br>
+347	<br><br>
+348	<br><br>
+349	<br><br>
+350	<br><br>
+351	True Form evolution has shorter recovery<br>after deployment. Attack power and move<br>speed increases, plus immune to Weaken.
+352	<br><br>
+353	<br><br>
+354	<br><br>
+355	True Form evolution gains improved<br>attack power and Omnistrike!<br>
+356	<br><br>
+357	True form gains improved attack speed!<br><br>
+358	True form evolution gains improved Defense!<br>Critical chance is also increased!<br>
+359	True Form evolution increases<br>attack power and defense!<br>
+360	True Form evolution improves<br>attack power and defense!<br>
+361	True Form evolution improves<br>attack power and defense!<br>
+362	True Form evolution increases attack,<br>defense and attack range!<br>
+363	<br><br>
+364	<br><br>
+365	<br><br>
+366	<br><br>
+367	<br><br>
+368	<br><br>
+369	<br><br>
+370	True Form evolution gains improved<br>defense and a chance to<br>knockback Metal enemies.
+371	<br><br>
+372	<br><br>
+373	<br><br>
+374	<br><br>
+375	<br><br>
+376	True Form gains a boost in all stats!<br>Plus, becomes immune to enemy<br>Weaken and Slow abilities!
+377	True Form evolution gains improved<br>defense, attack power, and attack speed.<br>Plus, attack warm-up completes faster.
+378	<br><br>
+379	<br><br>
+380	<br><br>
+381	<br><br>
+382	<br><br>
+383	<br><br>
+384	<br><br>
+385	<br><br>
+386	<br><br>
+387	<br><br>
+388	<br><br>
+389	<br><br>
+390	True Form evolution has slower attack<br>rate but greatly increased attack area!<br>Plus, able to attack at even longer ranges.
+391	True Form evolution gains greatly<br>increased attack speed and area!<br>
+392	True Form evolution increases<br>defense and attack range!<br>Plus, gains area attack!
+393	True Form evolution greatly increases  <br>attack power/speed and defense!<br>Plus, becomes immune to slow effects!
+394	True Form evolution has a slower attack<br>rate but gains increased defense, attack<br>power and attack range!
+395	True Form evolution greatly increases<br>attack power and defense!<br>Plus, becomes immune to wave effects!
+396	True Form evolution gains improved<br>defense and pushbacks against enemies!<br>
+397	True Form Evolution gains<br>Insanely Tough defense<br>against Metal enemies!
+398	<br><br>
+399	<br><br>
+400	<br><br>
+401	True Form evolution gains improved<br>defense and attack. Plus, increased<br>length of Freeze effect vs Alien enemies!
+402	<br><br>
+403	<br><br>
+404	<br><br>
+405	<br><br>
+406	<br><br>
+407	<br><br>
+408	<br><br>
+409	<br><br>
+410	True Form evolution gains improved<br>defense and attack. Plus, gains chance<br>of knockback vs. Red enemies!
+411	<br><br>
+412	<br><br>
+413	<br><br>
+414	True Form evolution gains improved attack <br>rate. Plus, attack buildup is shorter, and<br>gets more powerful after taking damage!
+415	<br><br>
+416	<br><br>
+417	True Form evolution gains improved attack!<br><br>
+418	<br><br>
+419	<br><br>
+420	<br><br>
+421	<br><br>
+422	<br><br>
+423	<br><br>
+424	<br><br>
+425	<br><br>
+426	True Form evolution gains improved attack<br>power and defense. Plus, immune to <br>Curses, and Strong against Relic enemies.
+427	True form improves defense and even<br>longer debuff effects. Weakens Relics,<br>and gains immunity to Curses.
+428	<br><br>
+429	<br><br>
+430	<br><br>
+431	True form gains improved attack speed!<br>Plus, gains 100% chance of Freeze<br>and Strong vs Zombie enemies.
+432	<br><br>
+433	<br><br>
+434	<br><br>
+435	<br><br>
+436	True Form evolution has deploy cost halved!<br>Recovery time after deploy also reduced!<br>
+437	Y'know, I'm kinda thinkin' about evolving <br>myself. But I don't think anything but a <br>Gold Catfruit will do. Maybe try the Shrine?
+438	<br><br>
+439	True Form evolution gains improved<br>defense and attack power! Plus,<br>gains immunity to enemy Warp effects!
+440	<br><br>
+441	<br><br>
+442	<br><br>
+443	<br><br>
+444	<br><br>
+445	<br><br>
+446	<br><br>
+447	<br><br>
+448	<br><br>
+449	<br><br>
+450	<br><br>
+451	<br><br>
+452	<br><br>
+453	<br><br>
+454	<br><br>
+455	<br><br>
+456	<br><br>
+457	<br><br>
+458	<br><br>
+459	<br><br>
+460	<br><br>
+461	<br><br>
+462	<br><br>
+463	<br><br>
+464	<br><br>
+465	<br><br>
+466	<br><br>
+467	True Fom evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
+468	True Fom evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Black enemies!
+469	True Fom evolution gains improved<br>defense and knock-back rate!<br>Plus, faster movement speed!
+470	<br><br>
+471	<br><br>
+472	<br><br>
+473	<br><br>
+474	<br><br>
+475	<br><br>
+476	<br><br>
+477	<br><br>
+478	<br><br>
+479	<br><br>
+480	<br><br>
+481	<br><br>
+482	<br><br>
+483	<br><br>
+484	<br><br>
+485	<br><br>
+486	<br><br>
+487	<br><br>
+488	<br><br>
+489	<br><br>
+490	<br><br>
+491	<br><br>
+492	<br><br>
+493	<br><br>
+494	<br><br>
+495	<br><br>
+496	True Form evolution greatly increases <br>Defense! Plus, chance of Savage Blows<br> will also increase!
+497	<br><br>
+498	<br><br>
+499	<br><br>
+500	<br><br>
+501	<br><br>
+502	True Form evolution gains hugely improved<br>defense and a wider Wave Attack area!<br>
+503	<br><br>
+504	<br><br>
+505	True Form evolution gains improved<br>defense. Plus, gains 100% Knockback<br>and Slow vs Traitless enemies!
+506	<br><br>
+507	<br><br>
+508	<br><br>
+509	<br><br>
+510	<br><br>
+511	True Form Evolution gains increased<br>chance of Savage Blow, with stronger<br>attacks after taking damage!
+512	<br><br>
+513	<br><br>
+514	<br><br>
+515	<br><br>
+516	<br><br>
+517	<br><br>
+518	<br><br>
+519	<br><br>
+520	<br><br>
+521	<br><br>
+522	<br><br>
+523	<br><br>
+524	<br><br>
+525	True Form evolution gains improved Defense<br>& Attack, plus Curse attack vs. Angels!<br>
+526	<br><br>
+527	<br><br>
+528	<br><br>
+529	<br><br>
+530	<br><br>
+531	<br><br>
+532	<br><br>
+533	<br><br>
+534	True Form evolution gains<br>immunity to Slow and Knockback<br>effects from enemy attacks!
+535	<br><br>
+536	<br><br>
+537	<br><br>
+538	<br><br>
+539	<br><br>
+540	<br><br>
+541	<br><br>
+542	<br><br>
+543	<br><br>
+544	<br><br>
+545	<br><br>
+546	<br><br>
+547	<br><br>
+548	<br><br>
+549	<br><br>
+550	<br><br>
+551	<br><br>
+552	<br><br>
+553	<br><br>
+554	<br><br>
+555	<br><br>
+556	True Fom evolution gains big changes<br>to its abilities, including massive damage<br>to Angels and resistance to Knockback.
+557	<br><br>
+558	<br><br>
+559	<br><br>
+560	<br><br>
+561	<br><br>
+562	<br><br>
+563	<br><br>
+564	<br><br>
+565	<br><br>
+566	<br><br>
+567	<br><br>
+568	<br><br>
+569	<br><br>
+570	<br><br>
+571	<br><br>
+572	<br><br>
+573	<br><br>
+574	<br><br>
+575	<br><br>
+576	<br><br>
+577	<br><br>
+578	<br><br>
+579	<br><br>
+580	<br><br>
+581	<br><br>
+582	<br><br>
+583	<br><br>
+584	<br><br>
+585	<br><br>
+586	<br><br>
+587	<br><br>
+588	<br><br>
+589	<br><br>
+590	<br><br>
+591	<br><br>
+592	<br><br>
+593	<br><br>
+594	<br><br>
+595	<br><br>
