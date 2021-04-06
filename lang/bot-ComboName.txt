@@ -189,3 +189,5 @@
 74	Ninjutsu Cute
 333	Clear Skies
 334	Drinking Age
+75	Witch Trial
+76	Breakfast in Undies

@@ -1197,6 +1197,10 @@
 001-247		Typhoon Nihil
 001-247-000	Creation's Gyre (Merciless)
 001-247-001	Extinction's Vortex (Merciless)
+001-248		Duel Under the Sea
+001-248-000	Vanguard (Deadly)
+001-248-001	Elite (Deadly)
+001-248-002	Commander (Merciless)
 002			Collaboration Stages
 002-003		To the Future
 002-003-000	Architecture
@@ -1602,6 +1606,18 @@
 002-163-000	World of Snow
 002-163-001	The Diva of Ice
 002-163-002	Light in the Cold
+002-164		Rumble in the Tendo Dojo
+002-164-000	Betrothed from China
+002-164-001	Girl Hates Guys
+002-164-002	Disoriented Warrior
+002-164-003	An Amazon's Courtship
+002-164-004	Dirty Tricks
+002-165		The Cursed Springs
+002-165-000	Famed Pilgrimage
+002-165-001	100 Legendary Pools
+002-165-002	Tragically Drowned
+002-165-003	Horror of the Waters
+002-165-004	Bewitched Bodies
 004			Extra Stages
 004-000		Growing Green
 004-000-000	Catfruit Jubilee
@@ -2440,7 +2456,46 @@
 007-000-049	Floor 50
 
 011			Ranking Dojo Stages
-011-000
+011-000		Arena of Honor
+011-000-000	Crimson Trial
+011-001		Arena of Honor
+011-001-000	Shadow Trial
+011-002		Arena of Honor
+011-002-000	Phoenix Trial
+011-003		Arena of Honor
+011-003-000	Five Year Plan
+011-004		Arena of Honor
+011-004-000	Weak of Sprit
+011-005		Arena of Honor
+011-005-000	Six Years Strong
+011-006		Arena of Honor
+011-006-000	Into the Fray: Servants Strike!
+011-007		Arena of Honor
+011-007-000	Aqua Paradiso
+011-010		Arena of Honor
+011-010-000	Attack of the Shakurels
+011-011		Arena of Honor
+011-011-000	Council of the Vampires
+011-012		Arena of Honor
+011-012-000	Dance in the Sky
+011-013		Arena of Honor
+011-013-000	The Dead from Space
+011-014		Arena of Honor
+011-014-000	I Seek the Strongest
+011-016		Arena of Honor
+011-016-000	MikuMiku Music Fest
+011-017		Arena of Honor
+011-017-000	Tearful Tournament
+011-018		Arena of Honor
+011-018-000	I Seek the Strongest
+011-020		Tales of Honor
+011-020-000	Crimson Trial
+011-021		Tales of Honor
+011-021-000	Shadow Trial
+011-022		Tales of Honor
+011-022-000	Phoenix Trial
+
+
 
 012			Challenge Mode
 012-000		Challenge
@@ -2673,6 +2728,13 @@
 013-032-003	Love Refinery
 013-032-004	Overnight Overtime
 013-032-005	Cathode Influencer
+013-033		Nasi-Go-Round
+013-033-000	Angkor S.W.A.T.
+013-033-001	Tropical Garden
+013-033-002	Kuala Lum-Pool
+013-033-003	Poison on Rice
+013-033-004	Khao Man Guys
+013-033-005	Fish-Legged Beauty
 014			Night Stages
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)
@@ -3186,6 +3248,27 @@
 027-003-017	Heaven's Gate Lv.18
 027-003-018	Heaven's Gate Lv.19
 027-003-019	Heaven's Gate Lv.20
+027-004		Trials of Merc Storia!
+027-004-000	Healer & Co. Lv.1
+027-004-001	Healer & Co. Lv.2
+027-004-002	Healer & Co. Lv.3
+027-004-003	Healer & Co. Lv.4
+027-004-004	Healer & Co. Lv.5
+027-004-005	Healer & Co. Lv.6
+027-004-006	Healer & Co. Lv.7
+027-004-007	Healer & Co. Lv.8
+027-004-008	Healer & Co. Lv.9
+027-004-009	Healer & Co. Lv.10
+027-004-010	Healer & Co. Lv.11
+027-004-011	Healer & Co. Lv.12
+027-004-012	Healer & Co. Lv.13
+027-004-013	Healer & Co. Lv.14
+027-004-014	Healer & Co. Lv.15
+027-004-015	Healer & Co. Lv.16
+027-004-016	Healer & Co. Lv.17
+027-004-017	Healer & Co. Lv.18
+027-004-018	Healer & Co. Lv.19
+027-004-019	Healer & Co. Lv.20
 027-005		Electric Diva Strikes!
 027-005-000	1st Song
 027-005-001	2nd Song
@@ -3228,3 +3311,24 @@
 027-007-017	WARNING Lv.18
 027-007-018	WARNING Lv.19
 027-007-019	WARNING Lv.20
+027-008		Test of Might: Ranma 1/2
+027-008-000	Showdown! : Part 1
+027-008-001	Showdown! : Part 2
+027-008-002	Showdown! : Part 3
+027-008-003	Showdown! : Part 4
+027-008-004	Showdown! : Part 5
+027-008-005	Showdown! : Part 6
+027-008-006	Showdown! : Part 7
+027-008-007	Showdown! : Part 8
+027-008-008	Showdown! : Part 9
+027-008-009	Showdown! : Part 10
+027-008-010	Showdown! : Part 11
+027-008-011	Showdown! : Part 12
+027-008-012	Showdown! : Part 13
+027-008-013	Showdown! : Part 14
+027-008-014	Showdown! : Part 15
+027-008-015	Showdown! : Part 16
+027-008-016	Showdown! : Part 17
+027-008-017	Showdown! : Part 18
+027-008-018	Showdown! : Part 19
+027-008-019	Showdown! : Part 20

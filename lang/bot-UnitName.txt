@@ -594,16 +594,16 @@
 593	Neko Len	Neko Len CC	
 594	Mighty Aethur Ltd.	Atlantis Logistix	
 595	Blooming Kamukura	Everbloom Kamukura	
-596	Ranma Saotome (Male)	Ranma Saotome (Female)	
-597	Akane Tendo	Akane Tendo (Dojo)	
-598	Ryoga Hibiki (Pig)	Ryoga Hibiki	
-599	Shampoo (Cat)	Shampoo
-600	Mousse (Duck)	Mousse
-601	Happosai	Happosai (Erotic Old Man)
-602	Ukyo Kuonji (Menswear)	Ukyo Kuonji	
-603	Tatewaki Kuno (Keikogi)	Tatewaki Kuno
-604	Ranma Cat (Male)	Ranma Cat (Female)
-605	Akane Cat	Akane Cat (Dojo)
-606	Panda Cat	Genma Cat
-607	Kanna    	Adventurer Kanna
+596	Ranma Saotome (M)	Ranma Saotome (F)	
+597	Akane Tendo	Akane Tendo (Gi)	
+598	Hibiki Ryoga (Pig)	Hibiki Ryoga	
+599	Shampoo (Cat)	Shampoo	
+600	Mousse (Duck)	Mousse	
+601	Happosai	Happosai (Lewd)	
+602	Ukyo Kuonji (GR)	Ukyo Kuonji	
+603	Tatewaki Kuno (Gi)	Tatewaki Kuno	
+604	Ranma Cat (M)	Ranma Cat (F)	
+605	Akane Cat	Akane Cat (Gi)	
+606	Panda Cat	Genma Cat	
+607	Adventurer Kanna	Swashbuckler Kanna	
 608	Wafer Cat	Big Wafer Cat	

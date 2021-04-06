@@ -60,7 +60,7 @@
 59	Send Gamatoto to explore for over 1000 hours.
 60	Complete 5 Cat Base Weapons
 61	Reach User Rank 1000
-62	Recruit a top-class Gamatoto helper.
+62	Recruit an Assistant-grade Gamatoto helper.
 63	Unlock Ururun Wolf
 64	Unlock Li'l Nyandam
 65	Unlock Red Riding Mina

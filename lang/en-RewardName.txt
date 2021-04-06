@@ -112,6 +112,8 @@
 152	Endless Cat CPUs for 3 hours
 153	Endless Sniper the Cats for 3 hours
 154	G Ticket
+155	Lucky Ticket
+156	G Ticket
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -210,6 +212,7 @@
 1052	Bakery Cat
 1172	Idi:N
 1053	Stone Cat
+1173	Ranma Cat (M)
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -331,6 +334,8 @@
 15170	Lufalan Pasalan
 15172	Piccolan Pasalan
 16173	Schoolbus Nyandam
+15174	Citizen Mola
+15175	Master of the Pacific
 15178	God-Emperor Dioramos
 10180	Takuya＆ Lovely Yuki
 15181	Mystery Catgirl Yuki
@@ -442,6 +447,7 @@
 15503	Divine Myrcia
 15506	God-Emperor Gladios
 15512	Kage
+15520	Lasvoss Reborn
 15526	Kinrangers GigaForce
 10532	Cadaver BearCat
 15535	Almighty Hades

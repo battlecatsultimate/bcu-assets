@@ -171,8 +171,8 @@
 170	True Form evolution increases attack<br>range and chance of critical attacks!<br>
 171	True Form evolution gains the ability to<br>weaken enemies. Plus, the length of time<br>enemies are frozen is now longer!
 172	True Form evolution improves all traits!<br>Plus, has a higher chance to Slow, and<br>becomes immune to enemy Curses.
-173	<br><br>
-174	<br><br>
+173	True form evolution shortens<br>cooldown time after deployments!<br>
+174	True form evolution increases attack range!<br><br>
 175	<br><br>
 176	<br><br>
 177	True form increases all stats and<br>gains Barrier Breaker, plus Slow <br>and Knockback versus Angels!
@@ -517,7 +517,7 @@
 516	<br><br>
 517	<br><br>
 518	<br><br>
-519	<br><br>
+519	True form evolution increases Defense &<br>Attack power, plus improved Strengthen<br>and immunity to Toxic and Surge Attacks!
 520	<br><br>
 521	<br><br>
 522	<br><br>
@@ -594,3 +594,16 @@
 593	<br><br>
 594	<br><br>
 595	<br><br>
+596	<br><br>
+597	<br><br>
+598	<br><br>
+599	<br><br>
+600	<br><br>
+601	<br><br>
+602	<br><br>
+603	<br><br>
+604	<br><br>
+605	<br><br>
+606	<br><br>
+607	<br><br>
+608	<br><br>
