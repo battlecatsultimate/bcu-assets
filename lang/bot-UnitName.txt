@@ -172,7 +172,7 @@
 171	Balaluga	Balalan Pasalan	Piccolan Pasalan
 172	Li'l Nyandam	Dark Emperor Catdam	Schoolbus Nyandam
 173	Baby Mola	Young Man Mola	
-174	Mola King	Living Legend	
+174	Mola King	Living Legend	Master of the Pacific	
 175	Meowla Meowla	Catorpedo	
 176	Marshmallow Cat	Creepmallow	
 177	Dioramos	Archdragon Dioramos	God-Emperor Dioramos
