@@ -2456,7 +2456,46 @@
 007-000-049	Floor 50
 
 011			Ranking Dojo Stages
-011-000
+011-000		Arena of Honor
+011-000-000	Crimson Trial
+011-001		Arena of Honor
+011-001-000	Shadow Trial
+011-002		Arena of Honor
+011-002-000	Phoenix Trial
+011-003		Arena of Honor
+011-003-000	Five Year Plan
+011-004		Arena of Honor
+011-004-000	Weak of Sprit
+011-005		Arena of Honor
+011-005-000	Six Years Strong
+011-006		Arena of Honor
+011-006-000	Into the Fray: Servants Strike!
+011-007		Arena of Honor
+011-007-000	Aqua Paradiso
+011-010		Arena of Honor
+011-010-000	Attack of the Shakurels
+011-011		Arena of Honor
+011-011-000	Council of the Vampires
+011-012		Arena of Honor
+011-012-000	Dance in the Sky
+011-013		Arena of Honor
+011-013-000	The Dead from Space
+011-014		Arena of Honor
+011-014-000	I Seek the Strongest
+011-016		Arena of Honor
+011-016-000	MikuMiku Music Fest
+011-017		Arena of Honor
+011-017-000	Tearful Tournament
+011-018		Arena of Honor
+011-018-000	I Seek the Strongest
+011-020		Tales of Honor
+011-020-000	Crimson Trial
+011-021		Tales of Honor
+011-021-000	Shadow Trial
+011-022		Tales of Honor
+011-022-000	Phoenix Trial
+
+
 
 012			Challenge Mode
 012-000		Challenge
