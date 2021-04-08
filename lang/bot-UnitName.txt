@@ -517,7 +517,7 @@
 516	Dhalsim	Dhalsim CC	
 517	Ken	Ken CC	
 518	Akuma Giraffe	Akuma Lion	
-519	Lasvoss	Ultimate Lasvoss 	Final Lasvoss
+519	Lasvoss	Ultimate Lasvoss 	Lasvoss Reborn
 520	Good-Luck Ebisu	Bad-Luck Ebisu	
 521	Medusa Cat	Twintail Medusa Cat	
 522	Nymph Cat	Medalist Cat	
