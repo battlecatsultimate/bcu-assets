@@ -521,7 +521,7 @@
 520	Good-Luck Ebisu	Bad-Luck Ebisu	
 521	Medusa Cat	Twintail Medusa Cat	
 522	Nymph Cat	Medalist Cat	
-523	Wushu Cat	Sifu Cat	
+523	Wushu Cat	Sifu Cat	Master Wushu Cat	
 524			
 525	Kintaro	Kinrangers RoboForce	Kinrangers GigaForce
 526	Snow Angel Twinstars	Snow Angel Twinstars, type Φ	
@@ -608,4 +608,4 @@
 607	Adventurer Kanna	Swashbuckler Kanna	
 608	Wafer Cat	Big Wafer Cat	
 609	Shadow Garu	Diabolic Garu
-610	Gold Bar Cat	Gold Stack Cat	Pharoah Cat
+610	Gold Bar Cat	Gold Stack Cat	Pharaoh Cat
