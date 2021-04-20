@@ -607,3 +607,5 @@
 606	Panda Cat	Genma Cat	
 607	Adventurer Kanna	Swashbuckler Kanna	
 608	Wafer Cat	Big Wafer Cat	
+609	Shadow Garu	Diabolic Garu
+610	Gold Bar Cat	Gold Stack Cat	Pharoah Cat
