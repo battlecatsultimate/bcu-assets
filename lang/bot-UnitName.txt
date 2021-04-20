@@ -531,7 +531,7 @@
 530			
 531	Teacher BearCat	Assassin BearCat	Cadaver BearCat
 532	Urs & Fenrir	Urs & Minka	
-533	Sharpshooter Saki	Nighthunter Saki	
+533	Sharpshooter Saki	Nighthunter Saki	Laserbuster Saki	
 534	Hades the Punisher	Hades the Deathdealer	Almighty Hades
 535	Hatsune Miku	Hatsune Miku CC	
 536	Sakura Miku	Sakura Miku CC	
