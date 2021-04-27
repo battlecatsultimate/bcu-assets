@@ -1870,7 +1870,7 @@
 003-003-031	Argentina
 003-003-032	Easter Island
 003-003-033	Machu Picchu
-003-003-034	Columbia
+003-003-034	Colombia
 003-003-035	Jamaica
 003-003-036	Mexico
 003-003-037	Hollywood
@@ -1919,7 +1919,7 @@
 003-004-031	Argentina
 003-004-032	Easter Island
 003-004-033	Machu Picchu
-003-004-034	Columbia
+003-004-034	Colombia
 003-004-035	Jamaica
 003-004-036	Mexico
 003-004-037	Hollywood
@@ -1968,7 +1968,7 @@
 003-005-031	Argentina
 003-005-032	Easter Island
 003-005-033	Machu Picchu
-003-005-034	Columbia
+003-005-034	Colombia
 003-005-035	Jamaica
 003-005-036	Mexico
 003-005-037	Hollywood
@@ -2215,7 +2215,7 @@
 003-010-031	Argentina
 003-010-032	Easter Island
 003-010-033	Machu Picchu
-003-010-034	Columbia
+003-010-034	Colombia
 003-010-035	Jamaica
 003-010-036	Mexico
 003-010-037	Hollywood
@@ -2266,7 +2266,7 @@
 003-012-031	Argentina
 003-012-032	Easter Island
 003-012-033	Machu Picchu
-003-012-034	Columbia
+003-012-034	Colombia
 003-012-035	Jamaica
 003-012-036	Mexico
 003-012-037	Hollywood
@@ -2315,7 +2315,7 @@
 003-013-031	Argentina
 003-013-032	Easter Island
 003-013-033	Machu Picchu
-003-013-034	Columbia
+003-013-034	Colombia
 003-013-035	Jamaica
 003-013-036	Mexico
 003-013-037	Hollywood
