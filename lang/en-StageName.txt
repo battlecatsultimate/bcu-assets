@@ -2399,7 +2399,7 @@
 004-026		Laboratory of Relics
 004-026-000	Eldritch Forces
 
-006			Catclaw Dogo
+006			Catclaw Dojo
 006-000
 
 007			Heavenly Tower
