@@ -2735,6 +2735,13 @@
 013-033-003	Poison on Rice
 013-033-004	Khao Man Guys
 013-033-005	Fish-Legged Beauty
+013-34		DNA Plantation
+013-34-000	Banana Genomes
+013-34-001	Artificial Strawberries
+013-34-002	Organic Chromosomes
+013-34-003	Nano-Grapes
+013-34-004	Cloned Farmers
+013-34-005	Gene Salesmen
 014			Night Stages
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)

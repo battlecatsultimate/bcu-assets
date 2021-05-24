@@ -521,7 +521,7 @@
 520	Good-Luck Ebisu	Bad-Luck Ebisu	
 521	Medusa Cat	Twintail Medusa Cat	
 522	Nymph Cat	Medalist Cat	
-523	Wushu Cat	Sifu Cat	Master Wushu Cat	
+523	Wushu Cat	Sifu Cat	Shigong Cat	
 524			
 525	Kintaro	Kinrangers RoboForce	Kinrangers GigaForce
 526	Snow Angel Twinstars	Snow Angel Twinstars, type Φ	
@@ -531,7 +531,7 @@
 530			
 531	Teacher BearCat	Assassin BearCat	Cadaver BearCat
 532	Urs & Fenrir	Urs & Minka	
-533	Sharpshooter Saki	Nighthunter Saki	Laserbuster Saki	
+533	Sharpshooter Saki	Nighthunter Saki	Bad Blaster Saki
 534	Hades the Punisher	Hades the Deathdealer	Almighty Hades
 535	Hatsune Miku	Hatsune Miku CC	
 536	Sakura Miku	Sakura Miku CC	
@@ -596,7 +596,7 @@
 595	Blooming Kamukura	Everbloom Kamukura	
 596	Ranma Saotome (M)	Ranma Saotome (F)	
 597	Akane Tendo	Akane Tendo (Gi)	
-598	Hibiki Ryoga (Pig)	Hibiki Ryoga	
+598	Hibiki Ryoga (Pig)	Ryoga Hibik	
 599	Shampoo (Cat)	Shampoo	
 600	Mousse (Duck)	Mousse	
 601	Happosai	Happosai (Lewd)	
@@ -608,4 +608,4 @@
 607	Adventurer Kanna	Swashbuckler Kanna	
 608	Wafer Cat	Big Wafer Cat	
 609	Shadow Garu	Diabolic Garu
-610	Gold Bar Cat	Gold Stack Cat	Pharaoh Cat
+610	Gold Brick Cat	King Ingot Cat	King Nekokhamen
