@@ -191,3 +191,5 @@
 334	Drinking Age
 75	Witch Trial
 76	Breakfast in Undies
+77	Street Bazaar
+145	Working Vacation

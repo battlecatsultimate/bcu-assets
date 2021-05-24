@@ -521,7 +521,7 @@
 520	<br><br>
 521	<br><br>
 522	<br><br>
-523	<br><br>
+523	True Form evolution gains improved<br>defense and Immunity to Slow!<br>
 524	<br><br>
 525	True Form evolution gains improved Defense<br>& Attack, plus Curse attack vs. Angels!<br>
 526	<br><br>
@@ -531,7 +531,7 @@
 530	<br><br>
 531	<br><br>
 532	<br><br>
-533	<br><br>
+533	True Form evolution can only attack<br>Alien/Relic enemies, but gains Immunity<br>to Curses that block allied abilities!
 534	True Form evolution gains<br>immunity to Slow and Knockback<br>effects from enemy attacks!
 535	<br><br>
 536	<br><br>
@@ -607,3 +607,5 @@
 606	<br><br>
 607	<br><br>
 608	<br><br>
+609	<br><br>
+610	True Form evolution gains increased<br>defense, plus immunity to Toxic!<br>

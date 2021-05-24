@@ -1201,6 +1201,10 @@
 001-248-000	Vanguard (Deadly)
 001-248-001	Elite (Deadly)
 001-248-002	Commander (Merciless)
+001-250		The Proving Grounds
+001-250-000	First Round (Easy)
+001-250-001	First Round (Expert)
+001-250-002	First Round (Deadly)
 002			Collaboration Stages
 002-003		To the Future
 002-003-000	Architecture
@@ -2398,6 +2402,42 @@
 004-025-000	Miracle Iris (Deadly)
 004-026		Laboratory of Relics
 004-026-000	Eldritch Forces
+004-027		The Proving Grounds
+004-027-000	2nd Round: Dawn (Normal)
+004-027-001	2nd Round: Dusk (Normal)
+004-028		The Proving Grounds
+004-028-000	3rd Round: Dawn (Hard)
+004-028-001	3rd Round: Dusk (Hard)
+004-029		The Proving Grounds
+004-029-000	4th Round: Dawn (Veteran)
+004-029-001	4th Round: Dusk (Veteran)
+004-030		The Proving Grounds
+004-030-000	Last Round: Dawn (Veteran)
+004-030-001	Last Round: Dawn (Veteran)
+004-031		The Proving Grounds
+004-031-000	2nd Round: Dawn (Expert)
+004-031-001	2nd Round: Dusk (Expert)
+004-032		The Proving Grounds
+004-032-000	3rd Round: Dawn (Insane)
+004-032-001	3rd Round: Dusk (Insane)
+004-033		The Proving Grounds
+004-033-000	4th Round: Dawn (Deadly)
+004-033-001	4th Round: Dusk (Deadly)
+004-034		The Proving Grounds
+004-034-000	Last Round: Dawn (Deadly)
+004-034-001	Last Round: Dawn (Deadly)
+004-035		The Proving Grounds
+004-035-000	2nd Round: Dawn (Deadly)
+004-035-001	2nd Round: Dusk (Deadly)
+004-036		The Proving Grounds
+004-036-000	3rd Round: Dawn (Deadly)
+004-036-001	3rd Round: Dusk (Deadly)
+004-037		The Proving Grounds
+004-037-000	4th Round: Dawn (Merciless)
+004-037-001	4th Round: Dusk (Merciless)
+004-038		The Proving Grounds
+004-038-000	Last Round: Dawn (Merciless)
+004-038-001	Last Round: Dawn (Merciless)
 
 006			Catclaw Dojo
 006-000
@@ -2454,6 +2494,61 @@
 007-000-047	Floor 48
 007-000-048	Floor 49
 007-000-049	Floor 50
+007-001		Red Citadel
+007-001-000	Floor 1
+007-001-001	Floor 2
+007-001-002	Floor 3
+007-001-003	Floor 4
+007-001-004	Floor 5
+007-001-005	Floor 6
+007-001-006	Floor 7
+007-001-007	Floor 8
+007-001-008	Floor 9
+007-001-009	Top Floor
+007-002		Black Citadel
+007-002-000	Floor 1
+007-002-001	Floor 2
+007-002-002	Floor 3
+007-002-003	Floor 4
+007-002-004	Floor 5
+007-002-005	Floor 6
+007-002-006	Floor 7
+007-002-007	Floor 8
+007-002-008	Floor 9
+007-002-009	Top Floor
+007-003		Angel Citadel
+007-003-000	Floor 1
+007-003-001	Floor 2
+007-003-002	Floor 3
+007-003-003	Floor 4
+007-003-004	Floor 5
+007-003-005	Floor 6
+007-003-006	Floor 7
+007-003-007	Floor 8
+007-003-008	Floor 9
+007-003-009	Top Floor
+007-004		Alien Citadel
+007-004-000	Floor 1
+007-004-001	Floor 2
+007-004-002	Floor 3
+007-004-003	Floor 4
+007-004-004	Floor 5
+007-004-005	Floor 6
+007-004-006	Floor 7
+007-004-007	Floor 8
+007-004-008	Floor 9
+007-004-009	Top Floor
+007-005		Zombie Citadel
+007-005-000	Floor 1
+007-005-001	Floor 2
+007-005-002	Floor 3
+007-005-003	Floor 4
+007-005-004	Floor 5
+007-005-005	Floor 6
+007-005-006	Floor 7
+007-005-007	Floor 8
+007-005-008	Floor 9
+007-005-009	Top Floor
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -2494,8 +2589,6 @@
 011-021-000	Shadow Trial
 011-022		Tales of Honor
 011-022-000	Phoenix Trial
-
-
 
 012			Challenge Mode
 012-000		Challenge
@@ -2735,13 +2828,14 @@
 013-033-003	Poison on Rice
 013-033-004	Khao Man Guys
 013-033-005	Fish-Legged Beauty
-013-34		DNA Plantation
-013-34-000	Banana Genomes
-013-34-001	Artificial Strawberries
-013-34-002	Organic Chromosomes
-013-34-003	Nano-Grapes
-013-34-004	Cloned Farmers
-013-34-005	Gene Salesmen
+013-034		DNA Plantation
+013-034-000	Banana Genomes
+013-034-001	Artificial Strawberries
+013-034-002	Organic Chromosomes
+013-034-003	Nano-Grapes
+013-034-004	Cloned Farmers
+013-034-005	Gene Salesmen
+
 014			Night Stages
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)
