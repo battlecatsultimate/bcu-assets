@@ -609,3 +609,6 @@
 608	Wafer Cat	Big Wafer Cat	
 609	Shadow Garu	Diabolic Garu
 610	Gold Brick Cat	King Ingot Cat	King Nekokhamen
+611	Godzilla Cat	Shin Godzilla Cat	
+612	Princess Cat	Queen Cat	
+613	Ancient God's Face Doron	Cat God's Face Doron	
