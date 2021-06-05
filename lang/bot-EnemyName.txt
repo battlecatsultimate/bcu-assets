@@ -23,12 +23,12 @@
 022	Mooth
 023	Dark Emperor Nyandam
 024	Teacher Bun Bun
-025	
-026	
-027	
-028	
-029	
-030	
+025	Swordsman
+026	Chibigau
+027	Kerihime
+028	Swordsman (Form 2)
+029	Chibigau (Form 2)
+030	Kerihime (Form 2)
 031	Master A.
 032	R.Ost
 033	Otta-smack-u
@@ -59,7 +59,7 @@
 058	CyberFace
 059	Sir Metal Seal
 060	
-061	
+061	Princess Head
 062	Chief Peng
 063	Dark Emperor Santa
 064	Red Cyclone
@@ -437,7 +437,7 @@
 436	
 437	Lucky Dags
 438	Primeval Cyclone
-439	
+439	Li'l Bore
 440	Variety Bears
 441	
 442	Ms. Madonna
@@ -487,23 +487,23 @@
 486	Ken
 487	
 488	Akuma
-489	
+489	7th Anniversary Cake
 490	
 491	Black Okame
 492	Heavenly Herald Papuu
 493	Queen Mother V
-494	
+494	Rat Doge
 495	Kappy Jr.
 496	Urs & Fenrir
 497	Croconator
 498	Gobble
 499	Baron Seal
-500	
-501	
-502	
-503	
-504	
-505	
+500	Hatsune Miku
+501	Sakura Miku
+502	Kagamine Rin & Len
+503	Miku Doge
+504	Miku Gory
+505	Miku Bear
 506	Everlord Wanwan
 507	Messier
 508	
@@ -531,14 +531,14 @@
 530	Vega
 531	Sagat
 532	M. Bison
-533	
+533	8th Aniiversary Cake
 534	
 535	Evil Emperor Cat
 536	Megurine Luka
-537	
+537	Cow Doge
 538	Bore Jr.
-539	
-540	
+539	Chocolate Doge
+540	Snow Miku
 541	Raynard
 542	Ranma Saotome (Male)
 543	Akane Tendo
