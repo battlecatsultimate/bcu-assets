@@ -2437,7 +2437,7 @@
 004-037-001	4th Round: Dusk (Merciless)
 004-038		The Proving Grounds
 004-038-000	Last Round: Dawn (Merciless)
-004-038-001	Last Round: Dawn (Merciless)
+004-038-001	Last Round: Dusk (Merciless)
 
 006			Catclaw Dojo
 006-000
