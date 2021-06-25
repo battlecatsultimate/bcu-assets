@@ -1,0 +1,2659 @@
+000			Story of Legends
+000-000		La leggenda comincia
+000-000-000	Scuotiterra
+000-000-001	Ritorno del terrore
+000-000-002	Blues al tramonto
+000-000-003	Umida malinconia
+000-000-004	Parco dei salti
+000-000-005	Sorriso gentile
+000-000-006	Guardiano del ranch
+000-000-007	Leone addormentato
+000-001		Terra di passioni
+000-001-000	Nyandalusia
+000-001-001	Campo Paella
+000-001-002	Flamencoscuro
+000-001-003	Fiume Sangria
+000-001-004	Altipiano Gazpacho
+000-001-005	Serata churro
+000-001-006	Giardino Osso asciutto
+000-001-007	Deserto Tapas
+000-002		Deserto Glucosamina
+000-002-000	Dune di condroitina
+000-002-001	Rovine Sesamina
+000-002-002	Antro Isoflavone
+000-002-003	Collina Catechina
+000-002-004	Tramonto licopene
+000-002-005	Oasi Propoli
+000-002-006	Distesa Peptide
+000-002-007	Montagna Ialuronica
+000-003		Gatti nuotatori
+000-003-000	Lancio prematuro
+000-003-001	Blu scuro oceano
+000-003-002	Baia Sirena
+000-003-003	Laguna Caos
+000-003-004	Pirati che passione
+000-003-005	Il dilemma del pescatore
+000-003-006	Alghe basse
+000-003-007	Acqua salata
+000-004		Territorio osé
+000-004-000	Minerali adorabili
+000-004-001	Caverne armoniose
+000-004-002	Tunnel che attirano
+000-004-003	Cavità spugnose
+000-004-004	Vette gemelle
+000-004-005	Ponte sinistro
+000-005		Strada a ovest
+000-005-000	Alba di Gunman
+000-005-001	Rifugio del cowboy
+000-005-002	Notte da ricercati
+000-005-003	Maccheronopoli
+000-005-004	Viaggiatore errante
+000-005-005	Guardiano deluso
+000-005-006	Monte del cowboy
+000-005-007	Serata rodeo
+000-006		Mare del tonno
+000-006-000	Costa Tonno rosso
+000-006-001	Molo nuovo
+000-006-002	Oceano blu
+000-006-003	Acque di Carpaccio
+000-006-004	Mar economico
+000-006-005	Tonno da guerra
+000-006-006	Fronte del tonno surgelato
+000-006-007	Filetto dell'antro
+000-007		Isola di Bambù
+000-007-000	Campo Spinoso
+000-007-001	Costa bambù
+000-007-002	Giungla serial killer
+000-007-003	Palude disgustosa
+000-007-004	Antro tozzo
+000-007-005	Strada fatata
+000-007-006	Rupe fungina
+000-007-007	Spirito di confine
+000-008		Antro morbido
+000-008-000	Tunnel latteo
+000-008-001	Arma oscura coccolosa
+000-008-002	Murale del diavolo
+000-008-003	Il vento soffia
+000-008-004	Giovane killer
+000-008-005	Pietra sottosopra
+000-008-006	Antro allagato
+000-008-007	Ciccio B. Goode
+000-009		Vulcano Vulkano
+000-009-000	Bagno bollente
+000-009-001	Geyser gentile
+000-009-002	Magma denso
+000-009-003	Gabbia di fuoco
+000-009-004	Difensore vulcanico
+000-009-005	Caldera in fiamme
+000-010		La storia infelina
+000-010-000	Strada del potenziale
+000-010-001	Albero tetro
+000-010-002	Canzone al vento
+000-010-003	Strada dei filosofi
+000-010-004	Campana di confine
+000-010-005	Fiumi di lacrime
+000-010-006	Via luccicante
+000-010-007	Prove profonde
+000-011		Castello del pesce
+000-011-000	Il mare bisbiglia
+000-011-001	Isola delle onde
+000-011-002	Mar Polpo
+000-011-003	Il riposo di Poseidone
+000-011-004	Lido Chiaro di luna
+000-011-005	Barriera cora-corallina
+000-011-006	L'Arco della luna
+000-011-007	Sardine killer
+000-012		Isola Sushi
+000-012-000	Campo Tonno
+000-012-001	Campo Granchio
+000-012-002	Antro Salmone
+000-012-003	Antro Riccio di mare
+000-012-004	Boschi Caviale
+000-012-005	Baia Soia
+000-012-006	Foresta Halibut
+000-012-007	Confine del gambero
+000-013		Il graffiatoio
+000-013-000	Corridoio di cartone
+000-013-001	Sogno di erba gatta
+000-013-002	Muro croccante
+000-013-003	Trucioli ovunque
+000-013-004	Pilastro croccante
+000-013-005	Gigante disapprova
+000-014		Partenone
+000-014-000	L'altare di Zeus
+000-014-001	Spada di Achille
+000-014-002	Strada di Eros
+000-014-003	La nascita di Gaia
+000-014-004	Porte di Afrodite
+000-014-005	Labirinto di Ade
+000-015		Lido Bassamarea
+000-015-000	Baia umidiccia
+000-015-001	Mammiferi spiaggiati
+000-015-002	Territorio del bikini
+000-015-003	Pesca della mela in mare
+000-015-004	Campo Parasole
+000-015-005	Antico costume intero
+000-015-006	Sabbia trasparente
+000-015-007	Oceano di stelle
+000-016		Alcatraz
+000-016-000	Costa del gabbiano
+000-016-001	Isola del Pellicano
+000-016-002	Base sotterranea
+000-016-003	Giungla dei cattivi
+000-016-004	Gioco del pollo
+000-016-005	Prova del Gatto
+000-016-006	Prateria Prigione
+000-016-007	Carceriere in obitorio
+000-017		Tunnel d'evasione
+000-017-000	Peccato e punizione
+000-017-001	Sentenza in prigione
+000-017-002	Tunnel Harry
+000-017-003	Cascate mortali
+000-017-004	Zona di trappole
+000-017-005	La grande fuga
+000-018		Cella di Capone
+000-018-000	Diario di evasione
+000-018-001	L'ultima gang
+000-018-002	Prigione distrutta
+000-018-003	Re della libertà
+000-018-004	Il fato del bugiardo
+000-018-005	Il tabù del porcile
+000-019		Via della seta
+000-019-000	La pace di Gandara
+000-019-001	L'utopia è di là
+000-019-002	Passo Godiego
+000-019-003	Magia scimmiesca
+000-019-004	Il cancello dell'estraneo
+000-019-005	Strada Marco Po
+000-019-006	Sbobba del maiale
+000-019-007	Sudore freddo del folletto
+000-020		Scalata alle tenebre
+000-020-000	Sicuro e non dispiaciuto
+000-020-001	Claustronictofobia
+000-020-002	Allarme Rosso
+000-020-003	Trappole della vita
+000-020-004	Coprifuoco sottile
+000-020-005	Sotterranei
+000-021		Principe delle tenebre
+000-021-000	Il tappeto rosso
+000-021-001	Il bagno
+000-021-002	La sala VIP
+000-021-003	Sala delle torture
+000-021-004	Giardino del dittatore
+000-021-005	Stanza di Satana
+000-022		Notte senza futuro
+000-022-000	Festino del tradimento
+000-022-001	Fine della catarsi
+000-022-002	Premonizione nera
+000-022-003	Maschera rotta
+000-022-004	Gabbia di Agape
+000-022-005	Volpe santa
+000-023		Battaglia campale
+000-023-000	Sua altezza, Tè con latte
+000-023-001	Lite furiosa
+000-023-002	Orribile canzone
+000-023-003	Trappola di codardi
+000-023-004	Nemesi oscura
+000-023-005	Odore di sangue e pesce
+000-024		Cicatrici di guerra
+000-024-000	Piana della valchiria
+000-024-001	Campo minato
+000-024-002	Kugel Schreiber
+000-024-003	Trincea fangosa
+000-024-004	Cecchino nella giungla
+000-024-005	Soldato al tramonto
+000-024-006	Padre è tornato
+000-024-007	Rivincita
+000-025		Mari inquinati
+000-025-000	Piattaforma petrolifera
+000-025-001	Lacrime e aldeide
+000-025-002	Prova antica
+000-025-003	Ti tengo d'occhio
+000-025-004	Discarica sulla costa
+000-025-005	Campo di benzene
+000-025-006	Guardiano del governo
+000-025-007	Porte girevoli galleggianti
+000-026		Anima e corpo
+000-026-000	Tramonto del gufo
+000-026-001	Gestalt, declino
+000-026-002	L'alba del guerriero
+000-026-003	Tormente tormentate
+000-026-004	Segno del Gatto
+000-026-005	Disperazione
+000-026-006	Sindrome metabolica
+000-026-007	Amore e morte
+000-027		Leggermente acido
+000-027-000	Perlomeno sono un gatto
+000-027-001	Cavalieri della tavola
+000-027-002	Catarsi felina
+000-027-003	Fantastico finale
+000-027-004	Basta brutti sogni
+000-027-005	Imparare ad amare
+000-028		Gatti intrepidi
+000-028-000	Conflitto rinnovato
+000-028-001	Ordine misterioso
+000-028-002	Birdwatching
+000-028-003	Dialogo spinoso
+000-028-004	Darkweb
+000-029		Cosmopoli oscura
+000-029-000	Foresta affamata
+000-029-001	Ambiziosi al centro
+000-029-002	Orario di punta
+000-029-003	Massacro al molo
+000-029-004	Stalker sotterraneo
+000-029-005	Lord dell'abisso
+000-030		Galapagotico
+000-030-000	DNA & DHA
+000-030-001	Cacciatori serali
+000-030-002	Mandria superstite
+000-030-003	Ecologia aliena
+000-030-004	Creature celestiali
+000-030-005	Pastori del mare
+000-031		Capo Kombu
+000-031-000	Frangivento Rinrin
+000-031-001	Piana iberica
+000-031-002	Dune piangenti
+000-031-003	Strada d'oro
+000-031-004	Viale piede pesante
+000-031-005	Problemi in villa
+000-032		Asse del male
+000-032-000	Gerarchia
+000-032-001	Tecnocrazia
+000-032-002	Offensiva spietata
+000-032-003	Mari celestiali
+000-032-004	Incontri ravvicinati
+000-032-005	La spia che mi accarezzava
+000-033		Periferia dei morti
+000-033-000	Casa dolce mausoleo
+000-033-001	Palude del sacrificio
+000-033-002	Le segrete dei sogni
+000-033-003	Strada del fantasma
+000-033-004	Giardini dalle luci spettrali
+000-033-005	Miagolio taciuto
+000-034		Isole in quarantena
+000-034-000	Trafficanti di virus
+000-034-001	Alga bionica
+000-034-002	Modi ancestrali
+000-034-003	Alta vedetta
+000-034-004	Fronte del tonno
+000-034-005	Il re infetto
+000-035		Topolandia
+000-035-000	Accoglienza alle porte
+000-035-001	Ottovolante traballante
+000-035-002	Incubo virtuale
+000-035-003	50 sfumature di caldo
+000-035-004	Pollaio irresistibile
+000-035-005	Trivani infestato
+000-036		Walk of Fame
+000-036-000	Paradiso di paparazzi
+000-036-001	Gossip feroce
+000-036-002	Scoop a Beverly Hills
+000-036-003	Amore filiale
+000-036-004	Scandali succosi
+000-036-005	Multiversal Studios
+000-037		Costa Borsaiolo
+000-037-000	Incontro di nuoto
+000-037-001	Salone brezza marina
+000-037-002	Morte in alto mare
+000-037-003	Parata di procrastinatori
+000-037-004	Grande mostra
+000-037-005	Voli di sola andata
+000-038		Sopra e sotto
+000-038-000	Bagno elettrico
+000-038-001	Sorgente bollente
+000-038-002	Trattamento minerale
+000-038-003	Bolle di sapone
+000-038-004	I tipi della sauna
+000-038-005	Cotti al vapore
+000-039		Isola senza vento
+000-039-000	Moli stretti
+000-039-001	Autostrada del cuore
+000-039-002	Massaggiatore ubriaco
+000-039-003	Gulag d'amore
+000-039-004	Stanza del profumo
+000-039-005	Case sacre
+000-040		Catacombe informatiche
+000-040-000	Custode dei numeri primi
+000-040-001	Sogni al telefono
+000-040-002	Il trono telefonico
+000-040-003	SO Tombale
+000-040-004	Il sacro exploit
+000-040-005	Presagi a banda larga
+000-041		Galleria grottesca
+000-041-000	Crimini cubisti
+000-041-001	Surrealisti sinistri
+000-041-002	Guazzi di gul
+000-041-003	Dipartita da Dada
+000-041-004	Bestie barocche
+000-041-005	Atroce déco
+000-042		Area 22
+000-042-000	Incidente di Roswell
+000-042-001	Rapimento felino
+000-042-002	Come Adamski
+000-042-003	Viva il Chupacabra
+000-042-004	Evento di Tunguska
+000-042-005	Infinitamente stanco
+000-043		Oltre la savana
+000-043-000	Divora il debole
+000-043-001	Nikumanjaro
+000-043-002	La nobile tribù
+000-043-003	Stagione secca
+000-043-004	Elettrosafari
+000-043-005	Oasi paradisiaca
+000-044		Viale Ventoso
+000-044-000	Bivio Tremore
+000-044-001	Tunnel gocciolante
+000-044-002	Parco Gelone
+000-044-003	Caldo Casello
+000-044-004	Semafori Sonnolenti
+000-044-005	Casello incenerito
+000-045		Borgo Singolarità
+000-045-000	Vendite onnipresenti
+000-045-001	Raccolto virtuale
+000-045-002	Case indossabili
+000-045-003	Fertilizzante 8K
+000-045-004	Crepuscolo Blockchain
+000-045-005	Genoma spettrale
+000-046		Confini del mondo
+000-046-000	Santuario finale
+000-046-001	Valle al confine
+000-046-002	Torre finale
+000-046-003	Ultimo labirinto
+000-046-004	Antro conclusivo
+000-046-005	Tempio Apocalisse
+000-047		La leggenda finisce
+000-047-000	La resa dei conti
+000-047-001	Sete di vendetta
+000-047-002	Gloria delle glorie
+000-047-003	Un momento di serenità
+000-047-004	Falso ritorno
+000-047-005	Calice del Giuramento
+000-047-006	Brezza serale
+000-047-007	Promesse infrante
+000-048		Laboratorio di cimeli
+000-048-000	Forze arcane
+
+001			Regular event stages
+001-000		Livello lunedì
+001-000-000	Gatto riccone (Facile)
+001-000-001	Gatto riccone (Normale)
+001-000-002	Gatto riccone (Difficile)
+001-001		Livello martedì
+001-001-000	Gatto lesto (Facile)
+001-001-001	Gatto lesto (Normale)
+001-001-002	Gatto lesto (Difficile)
+001-002		Livello mercoledì
+001-002-000	Gatto secchione (Facile)
+001-002-001	Gatto secchione (Normale)
+001-002-002	Gatto secchione (Difficile)
+001-003		Livello giovedì
+001-003-000	Gatto cecchino (Facile)
+001-003-001	Gatto cecchino (Normale)
+001-003-002	Gatto cecchino (Difficile)
+001-004		Livello venerdì
+001-004-000	Gatto utile (Facile)
+001-004-001	Gatto utile (Normale)
+001-004-002	Gatto utile (Difficile)
+001-005		Livello del weekend
+001-005-000	Dolci XP (Facile)
+001-005-001	Dolci XP (Normale)
+001-005-002	Dolci XP (Difficile)
+001-006		Miaobiglietto da occasione!
+001-006-000	Baci, Metallippo (Difficile)
+001-007		L'assedio di Ippo!
+001-007-000	Super Metallippo (Esperti)
+001-008		Autunno = Giorno sportivo
+001-008-000	Gara sportiva
+001-008-001	Anti Halloween
+001-008-002	Vittorie e sconfitte
+001-009		Viva il lavoro
+001-009-000	Riunioni di una settimana
+001-009-001	Colleghi fannulloni
+001-009-002	Stress antistress
+001-009-003	Sicurezza sul lavoro
+001-009-004	Paga senza ferie
+001-009-005	L'ultimo minuto vale
+001-010		Gatto del ciel
+001-010-000	Quella notte
+001-010-001	Quella canzone
+001-010-002	Stufato
+001-010-003	Gatto e neve
+001-010-004	Babbo Natale part time
+001-010-005	Santa o Satana?
+001-010-006	Babbo ha lo stipendio
+001-010-007	Buon Natale
+001-011		Felice anno nuovo?
+001-011-000	Niente buone feste
+001-011-001	A dieta per le feste
+001-011-002	Basta buoni propositi
+001-011-003	Un ultimo drink
+001-011-004	After After Party
+001-011-005	Dimentica il countdown
+001-011-006	Blackout
+001-011-007	Sbronza
+001-012		Felicità rituale
+001-012-000	Diavolo angelico
+001-012-001	Dracula dona il sangue
+001-012-002	Lupacchiotto mannaro
+001-012-003	Mummie al sole
+001-012-004	Anima a noleggio
+001-012-005	Lucifero ama sorridere
+001-012-006	Zombi salutari
+001-012-007	Gli umani fanno paura
+001-013		Orsi e rimorsi
+001-013-000	Orso alla griglia
+001-013-001	Fuori concorso
+001-013-002	Un kg di imbottiture
+001-013-003	A caccia di miele
+001-013-004	Orsi armati
+001-013-005	Diventare bipolari
+001-013-006	Lotta a zampe nude
+001-013-007	Rimorsi insopportabili
+001-014		Catastrofe cremisi
+001-014-000	Attacco al Ciclone-R (Esperti)
+001-015		Paradiso delle tenebre
+001-015-000	Attacco al Ciclone-N (Esperti)
+001-016		Ineguagliabile
+001-016-000	Attacco al Ciclone-B (Esperti)
+001-017		Il Gatto matto
+001-017-000	Anime oscure (Folle)
+001-018		Il panzer matto
+001-018-000	Difesa assoluta (Folle)
+001-019		L'ascia matta
+001-019-000	Berserker (Folle)
+001-020		L'alto matto
+001-020-000	Alto in festa (Folle)
+001-021		La mucca matta
+001-021-000	Scuotitesta (Folle)
+001-022		L'uccello matto
+001-022-000	Gatto in volo (Folle)
+001-023		Il pesce matto
+001-023-000	Inferno ittico (Folle)
+001-024		La lucertola matta
+001-024-000	Mammiferi? (Folle)
+001-025		Il Titano matto
+001-025-000	Gatti pazzi (Folle)
+001-026		Professore! È primavera!
+001-026-000	Gat School Musical
+001-026-001	È amore
+001-026-002	Le pagine della nostra micia
+001-026-003	P.S. Ti Gatto ancora
+001-026-004	100 Gatti insieme
+001-026-005	Lamenti
+001-026-006	T A
+001-026-007	Ricominciamo
+001-027		Livello del weekend
+001-027-000	Dolci XP (Facile)
+001-027-001	Dolci XP (Normale)
+001-027-002	Dolci XP (Difficile)
+001-027-003	Dolci XP (Veterani)
+001-027-004	Dolci XP (Esperti)
+001-027-005	Dolci XP (Folle)
+001-028		Livello XP
+001-028-000	Dolci XP (Facile)
+001-028-001	Dolci XP (Normale)
+001-028-002	Dolci XP (Difficile)
+001-028-003	Dolci XP (Veterani)
+001-028-004	Dolci XP (Esperti)
+001-028-005	Dolci XP (Folle)
+001-029		L'amore è un malore
+001-029-000	Amo l'amore
+001-029-001	Basta smorfie!
+001-029-002	Nessuna risposta
+001-029-003	Incontri online!
+001-029-004	Bloccato su FB!
+001-029-005	O me o il lavoro!
+001-029-006	Rimaniamo amici
+001-029-007	Non arrenderti!
+001-030		La sposa proibita
+001-030-000	Fatiche nuziali
+001-030-001	Mando un amico
+001-030-002	Macarena in sottofondo
+001-030-003	Il bouquet in acqua
+001-030-004	Drammi familiari
+001-030-005	Nome della sposa errato
+001-030-006	L'ex: "Mi oppongo"
+001-030-007	No, non voglio
+001-031		Estate mai!
+001-031-000	Il ghiottone della porta accanto
+001-031-001	È già estate?
+001-031-002	A proposito dei Gatti
+001-031-003	Frullato estivo
+001-031-004	Affamati in estate
+001-031-005	Giovani in carne
+001-031-006	Sabbia sul mantello
+001-031-007	Proprio qui, proprio miao
+001-032		あの世からの帰省ラッシュ！
+001-032-000	Papà ci perseguita
+001-032-001	Ma siamo in vacanza
+001-032-002	Non attraversi i muri?
+001-032-003	Punta in alto!
+001-032-004	Sperperare eredità
+001-032-005	Piagnucoloni a noleggio
+001-032-006	La tomba è di plastica...
+001-032-007	Non sono più qui.
+001-033		Evento All-Star mensile Festeggiamento speciale!
+001-033-000	Grazie mille! (Folle)
+001-034		Evento All-Star mensile Festeggiamento ultra!
+001-034-000	Ultra Stress! (Folle)
+001-035		Evento All-Star mensile Festeggiamo il miracolo!
+001-035-000	Tattiche miracolose! (Folle)
+001-036		Vegliardi in centro
+001-036-000	Jogging all'alba
+001-036-001	Giorno feriale = Boxer
+001-036-002	Fuga da casa
+001-036-003	300 anni di libertà vigilata
+001-036-004	Attaccabrighe barbuto
+001-036-005	Mogli trofeo
+001-036-006	Vivere il sogno
+001-036-007	Comanda sempre mia moglie
+001-038		Autunno = Giorno sportivo
+001-038-000	Prima devo riscaldarmi
+001-038-001	Ingresso goffo
+001-038-002	Papà, niente video!
+001-038-003	La corsa coi sacchi
+001-038-004	Velocista scalzo
+001-038-005	Uovo-Colla-Cucchiaio
+001-038-006	Corsa dei polli
+001-038-007	Vincono tutti
+001-039		Ira del paradiso
+001-039-000	Tornado in arrivo (Esperti)
+001-040		Buon compleanno! N. 1
+001-040-000	Auguri! 2 anni!
+001-041		Buon compleanno! N. 2
+001-041-000	Auguri! 2 anni!
+001-042		Buon compleanno! N. 3
+001-042-000	Auguri! 2 anni!
+001-043		Dolce ironia
+001-043-000	Attacco su Titano (Folle)
+001-044		Felice 2015!
+001-044-000	Prima alba!
+001-045		Arriva Gattrice!
+001-045-000	Salire sul palco (Veterani)
+001-045-001	Salire sul palco (Folle)
+001-046		Arriva Kung Fu!
+001-046-000	Via del Kung Fu (Esperti)
+001-046-001	Via del Kung Fu (Folle)
+001-047		Arriva Mr.!
+001-047-000	Evoluzione Mr.iosa (Esperti)
+001-047-001	Evoluzione Mr.iosa (Folle)
+001-048		Arriva Bondage!
+001-048-000	Legami evoluti (Esperti)
+001-048-001	Legami evoluti (Folle)
+001-049		Arriva Domigattrix!
+001-049-000	Colpo di frusta (Esperti)
+001-049-001	Colpo di frusta (Folle)
+001-050		Arrivano Gatti in scatola!
+001-050-000	A scatola chiusa (Esperti)
+001-050-001	A scatola chiusa (Folle)
+001-051		Arriva Slip!
+001-051-000	Niente fronzoli (Esperti)
+001-051-001	Niente fronzoli (Folle)
+001-052		Arriva Triciclo!
+001-052-000	Inferno su 3 ruote (Esperti)
+001-052-001	Inferno su 3 ruote (Folle)
+001-053		Arriva Ninja!
+001-053-000	La via del ninja (Veterani)
+001-053-001	La via del ninja (Folle)
+001-054		Arriva Zombi!
+001-054-000	Passi incerti (Esperti)
+001-054-001	Passi incerti (Folle)
+001-055		Arriva Samurai!
+001-055-000	La via del samurai (Veterani)
+001-055-001	La via del samurai (Folle)
+001-056		Arriva Sumo!
+001-056-000	Peso massimo (Esperti)
+001-056-001	Peso massimo (Folle)
+001-057		Arriva Febbre!
+001-057-000	Boogie-woogie (Esperti)
+001-057-001	Boogie-woogie (Folle)
+001-058		Arriva Gonnellina!
+001-058-000	Pericolo evitato (Veterani)
+001-058-001	Pericolo evitato (Folle)
+001-059		Megablitz di XP!
+001-059-000	Palato raffinato (Folle)
+001-060		Dolce Dolore
+001-060-000	Marzomellow
+001-060-001	Marzipena
+001-060-002	Carie in agguato
+001-061		Discesa oscura
+001-061-000	Antro dell'est
+001-062		Discesa oscura II
+001-062-000	Passo a ovest
+001-063		Discesa oscura III
+001-063-000	Forte del sud
+001-064		Discesa oscura ∞
+001-064-000	Voragine a nord
+001-065		The Battle Cats POP!
+001-065-000	Poppin' in 3D!
+001-065-001	Fight your Friends!
+001-065-002	Player VS Player
+001-065-003	Pay Only Once!
+001-065-004	No I-A-P!
+001-065-005	Get Those Ubers
+001-065-006	Conquer the Galaxy
+001-065-007	At Nintendo eShop!
+001-066		Dimensione disperata
+001-066-000	Ascesa del buco nero (Folle)
+001-068		
+001-068-000	Gioia da 20 milioni!
+001-069		Fiera letale
+001-069-000	Fiera nel ciclone (Letale)
+001-069-001	Risveglio della Fiera (Letale)
+001-070		Evento All-Star mensile Super festeggiamento
+001-070-000	Super conquista (Folle)
+001-071		
+001-071-000	Più veloce di un panino
+001-072		Arriva Halloween
+001-072-000	Sereno Samhain
+001-072-001	Lanterna di Jack
+001-072-002	Fiera di cosplay
+001-072-003	Trattamento o scherzetto!
+001-072-004	Ehi ehi Halloween
+001-072-005	Festival del raccolto
+001-073		Livello Blitz lun.
+001-073-000	Gatto riccone (Veterani)
+001-074		Livello Blitz mar.
+001-074-000	Gatto lesto (Veterani)
+001-075		Livello Blitz mer.
+001-075-000	Gatto secchione (Veterani)
+001-076		Livello Blitz giov.
+001-076-000	Gatto cecchino (Veterani)
+001-077		Livello Blitz ven.
+001-077-000	Gatto utile (Veterani)
+001-078		Pericolo imminente
+001-078-000	Faccia d'acciaio (Letale)
+001-079		Evento All-Star Festeggiamento eccellente!
+001-079-000	Corpo d'élite (Folle)
+001-080		Regalo di compleanno!
+001-080-000	Auguri! 3 anni!
+001-081		Buon S. Nicola
+001-081-000	Arriva in città!
+001-081-001	Renne monelle
+001-081-002	Frustare a neve
+001-081-003	Golpe tra gli elfi
+001-081-004	Guerra a Natale
+001-082		Auld Lang Syne!
+001-082-000	L'alba dell'anno!
+001-083		Arriva Gattadulto!
+001-083-000	Crescere (Esperti)
+001-083-001	Crescere (Folle)
+001-084		Arriva Gattivo!
+001-084-000	Pura malvagità (Esperti)
+001-084-001	Pura malvagità (Folle)
+001-085		Arrivano Miambole!
+001-085-000	Imbambolati (Esperti)
+001-085-001	Imbambolati (Folle)
+001-086		Arriva Lady!
+001-086-000	Lady di ferro (Esperti)
+001-086-001	Lady di ferro (Folle)
+001-087		Arriva Koi!
+001-087-000	Carpa diem (Esperti)
+001-087-001	Carpa diem (Folle)
+001-088		Arriva Sposa!
+001-088-000	Blues nuziale (Esperti)
+001-088-001	Blues nuziale (Folle)
+001-089		Vacanze finite
+001-089-000	Vacanze finite (Esperti)
+001-089-001	Vacanze finite (Folle)
+001-090		Arriva Vendetta!
+001-090-000	Niente maledizioni! (Esperti)
+001-090-001	Niente maledizioni! (Folle)
+001-091		Arriva Kung Fu!
+001-091-000	Vecchio maestro (Esperti)
+001-091-001	Vecchio maestro (Folle)
+001-092		Arriva Giorno sportivo!
+001-092-000	Lacrime e sudore (Esperti)
+001-092-001	Lacrime e sudore (Folle)
+001-093		Arriva Dipendente!
+001-093-000	La febbre dell'impiegato (Esperti)
+001-093-001	La febbre dell'impiegato (Folle)
+001-094		Arriva Pescegatto Renna!
+001-094-000	Strada della renna (Esperti)
+001-094-001	Strada della renna (Folle)
+001-095		Clionel Ascendente
+001-095-000	Nessun piano A (Letale)
+001-096		Rosso di mattina
+001-096-000	Tempesta in arrivo (Folle)
+001-097		Verde rigoglioso
+001-097-000	Verde invidia (Difficile)
+001-097-001	Verde invidia (Esperti)
+001-097-002	Verde invidia (Folle)
+001-098		Viola rigoglioso
+001-098-000	Viola fluo (Difficile)
+001-098-001	Viola fluo (Esperti)
+001-098-002	Viola fluo (Folle)
+001-099		Rosso rigoglioso
+001-099-000	Rosso passione (Difficile)
+001-099-001	Rosso passione (Esperti)
+001-099-002	Rosso passione (Folle)
+001-100		Blu rigoglioso
+001-100-000	Blu illusione (Difficile)
+001-100-001	Blu illusione (Esperti)
+001-100-002	Blu illusione (Folle)
+001-101		Giallo rigoglioso
+001-101-000	Raggi d'oro (Difficile)
+001-101-001	Raggi d'oro (Esperti)
+001-101-002	Raggi d'oro (Folle)
+001-102		Pazzi per i Gatti
+001-102-000	Morthawk (Letale)
+001-103		Pazzi per il panzer
+001-103-000	Vulcanizzatore (Letale)
+001-104		Pazzi per l'ascia
+001-104-000	Guerra ingiusta (Letale)
+001-105		Pazzi per gli alti
+001-105-000	Bicipite party (Letale)
+001-106		Pazzi per la mucca
+001-106-000	Leoni a iosa (Letale)
+001-107		Uccello pazzo
+001-107-000	Bestie boschive (Letale)
+001-108		Pazzi per il pesce
+001-108-000	Isola dell'orco (Letale)
+001-109		Lucertola pazza
+001-109-000	Draconiano (Letale)
+001-110		Pazzi per il Titano
+001-110-000	Felino residente (Letale)
+001-111		Di male in peggio
+001-111-000	Tragedia in rosso (Folle)
+001-112		Giorno del Giudizio
+001-112-000	Esplosione nel cielo (Folle)
+001-114		Nevrosi-tech
+001-114-000	Dadi e bulloni (Esperti)
+001-115		Diario estivo
+001-115-000	Pantaloncini-ini
+001-115-001	Guerra di pistole ad acqua
+001-115-002	Caramelle e odontoiatri
+001-115-003	Inferno di zanzare
+001-115-004	Paradiso di stelline
+001-115-005	BBQ nel cortile
+001-116		Pack misterioso
+001-116-000	Mittente anonimo
+001-117		Fiume Stige
+001-117-000	Regno del massacro (Letale)
+001-118		Buffet di miagrumi
+001-118-000	Verde invidia (Difficile)
+001-118-001	Verde invidia (Esperti)
+001-118-002	Verde invidia (Folle)
+001-119		Incoronazione regale
+001-119-000	Specchietto per allodole (Letale)
+001-120		Fiera letale II
+001-120-000	Fiera nel ciclone II (Letale)
+001-120-001	Risveglio della Fiera II (Letale)
+001-121		Festival gourmet
+001-121-000	Salsicce vegane
+001-121-001	Aria fritta
+001-121-002	Bruciato a puntino
+001-121-003	Non proprio bio
+001-121-004	Cambia rotta...
+001-121-005	Sempre in rosso
+001-122		Morti rotolanti
+001-122-000	Tempesta empia (Folle)
+001-123		Regalo di compleanno!
+001-123-000	4 anni di divertimento!
+001-124		Colosseo di XP
+001-124-000	Temprato dalle fiamme (Letale)
+001-125		Gatti sulla neve
+001-125-000	Lingua di gatto
+001-125-001	Colomba bianca
+001-125-002	Neve all'alba
+001-125-003	Buddha romantico
+001-125-004	Desiderio gelato
+001-126		Nanno Uovo!
+001-126-000	L'alba dell'anno
+001-127		Giorno del Gatto
+001-127-000	Istinto selvaggio
+001-127-001	Artigli insanguinati
+001-127-002	L'incidente 222
+001-128		Debutto da morti
+001-128-000	Parata di morti (Letale)
+001-129		Un gatto fa primavera
+001-129-000	Stagione di rinascita
+001-129-001	Fratelli conigli
+001-129-002	Caccia alle uova sull'isola
+001-129-003	Cultura indigena
+001-129-004	Antichità
+001-129-005	Rongorongo
+001-130		Arriva Mini Gatto!
+001-130-000	Piccoli miagolii (Letale)
+001-131		Arriva Mini Panzer!
+001-131-000	Piccolo desiderio (Letale)
+001-132		Arriva Mini Ascia!
+001-132-000	Piccola mannaia (Letale)
+001-133		Arriva Mini Alto!
+001-133-000	Piccolo rampicante (Letale)
+001-134		Arriva Mini Mucca!
+001-134-000	Piccole corna (Letale)
+001-135		Arriva Mini Uccello!
+001-135-000	Piccole ali (Letale)
+001-136		Arriva Mini Pesce!
+001-136-000	Piccole pinne (Letale)
+001-137		Arriva Mini Lucertola!
+001-137-000	Piccola coda (Letale)
+001-138		Arriva Mini Titano!
+001-138-000	Piccoli pugni (Letale)
+001-139		Per i fan
+001-139-000	Siamo i numeri uno
+001-140		Il tocco di Mida
+001-140-000	Oro in una miniera di carbone
+001-140-001	Professione: minatore
+001-140-002	L'alba dell'età dell'oro
+001-140-003	Spalando no-stop
+001-140-004	Sogni diventati irrealtà
+001-142		Sbavare per vincere
+001-142-000	Gare piovose
+001-142-001	Trofeo di plastica
+001-142-002	Previsioni di pioggia
+001-142-003	Derby in paradiso
+001-142-004	Viscidi stalloni
+001-143		Arriva Gatto Kart!
+001-143-000	Kartopia (Esperti)
+001-143-001	Kartopia (Folle)
+001-145		
+001-145-000	Gioia da 30 milioni!
+001-146		Evento All-Star Gran Giubileo!
+001-146-000	Scoppio del megatone (Folle)
+001-147		Guarda & ottieni
+001-147-000	Morbidezza unica
+001-148		Arriva Gatto Fiore!
+001-148-000	Splendida fioritura (Facile)
+001-149		Lezione estiva
+001-149-000	Tutti a scuola
+001-149-001	Sono un Gatto
+001-149-002	c2 ＝ a2 ＋ b2
+001-149-003	La guerra delle Rose
+001-149-004	N2+3H2→2NH3
+001-150		Caverna di comete
+001-150-000	Sito di impatto (Normale)
+001-150-001	Sito di impatto (Veterani)
+001-150-002	Sito di impatto (Folle)
+001-151		Isola di Cenere
+001-151-000	Incendio (Normale)
+001-151-001	Incendio (Veterani)
+001-151-002	Incendio (Folle)
+001-152		Stretto delle ali
+001-152-000	Antiche rovine (Normale)
+001-152-001	Antiche rovine (Veterani)
+001-152-002	Antiche rovine (Folle)
+001-153		Arriva Miaoburger!
+001-153-000	Avventura di valore (Normale)
+001-154		Silver Week
+001-154-000	Il 2° posto è ok
+001-154-001	Anniversario d'argento
+001-154-002	Una strada lontana
+001-155		XP spietati!
+001-155-000	Sapore del successo (Spietato)
+001-156		Regalo di compleanno!
+001-156-000	5 anni di divertimento!
+001-157		La seconda dimensione
+001-157-000	Si apre il wormhole (Letale)
+001-158		Vendetta di re Wahwah
+001-158-000	Gran premio N-1 (Letale)
+001-159		Nanno Uovo!
+001-159-000	L'alba dell'anno
+001-160		Viva i diplomandi!
+001-160-000	Lanciamatite
+001-160-001	Sergente Demone
+001-160-002	Cannone monouso
+001-160-003	Team medico
+001-160-004	Armata Felina in pausa
+001-161		Folle Moneko
+001-161-000	in GIAPPONE
+001-161-001	a LONDRA
+001-161-002	a NEW YORK
+001-162		Più strani
+001-162-000	Un segreto antico (Spietato)
+001-164		Sbavare per vincere
+001-164-000	Gare piovose
+001-164-001	Trofeo di plastica
+001-164-002	Previsioni di pioggia
+001-164-003	Derby in paradiso
+001-164-004	Viscidi stalloni
+001-165		La sposa proibita II
+001-165-000	Appare l'ex
+001-165-001	Goffo consorte
+001-165-002	Faida familiare
+001-165-003	Doppia proposta
+001-165-004	Mostrami le stelle
+001-166		Mai no estate!
+001-166-000	Anno pipestile
+001-166-001	Gatti di ieri
+001-166-002	Blues rovente
+001-166-003	Pigro domani
+001-166-004	Giovane Nyan
+001-167		Estranei Spettrali
+001-167-000	Papà in paradiso
+001-167-001	Lunga attesa da Cerbero
+001-167-002	Caronte fa overbooking
+001-167-003	Sempre in vacanza
+001-167-004	All'anno prossimo
+001-168		Vegliardi in centro
+001-168-000	Shuffleboard notturno
+001-168-001	Vagare al crepuscolo
+001-168-002	5 famiglie segrete
+001-168-003	2 anni maledetti
+001-168-004	La moglie vince sempre
+001-169		Vendetta cremisi
+001-169-000	Ira del Ciclone-R (Folle)
+001-169-001	Vendetta del Ciclone-R (Letale)
+001-170		Notte sportiva
+001-170-000	Cimitero invitante
+001-170-001	2 corpi, 0 gambe
+001-170-002	Bouquet tombale
+001-170-003	Prete perduto
+001-170-004	Ore prima dell'alba
+001-171		Rivoluzione al lavoro
+001-171-000	Venerdì premium
+001-171-001	Super professionale
+001-171-002	L'ORA DECISIVA
+001-171-003	Per sempre in maternità
+001-171-004	Riorganizzazione notturna
+001-172		NEO Cieli oscuri
+001-172-000	Ira del Ciclone-N (Folle)
+001-172-001	Vendetta del Ciclone-N (Letale)
+001-173		Vendetta del cyborso
+001-173-000	Fatto per uccidere (Letale)
+001-174		Festival gourmet
+001-174-000	Salsicce vegane
+001-174-001	Aria fritta
+001-174-002	Bruciato a puntino
+001-174-003	Non proprio bio
+001-174-004	Cambia rotta...
+001-174-005	Sempre in rosso
+001-175		Natale spaziale
+001-175-000	Non è Babbo Natale
+001-175-001	Natale infernale
+001-175-002	Astro dell'infern...
+001-175-003	A caccia di doni
+001-175-004	Natale cosmico
+001-176		Anche ineguagliabile
+001-176-000	Ira del Ciclone-B (Folle)
+001-176-001	Vendetta del Ciclone-B (Letale)
+001-177		Sogno profondo
+001-177-000	Bombarola (Letale)
+001-178		Vedo rosso
+001-178-000	Sabbia dell'est
+001-179		Vedo rosso II
+001-179-000	Rovine dell'ovest
+001-180		Vedo rosso III
+001-180-000	Vette del sud
+001-181		Vedo rosso ∞
+001-181-000	Rovine del nord
+001-182		Evento All-Star Regalo super DLX
+001-182-000	Presenza di spirito (Folle)
+001-183		Regali compleanno
+001-183-000	6 anni di divertimento!
+001-184		Un altro anno nuovo
+001-184-000	Rogne infinite
+001-184-001	Parenti sconosciuti
+001-184-002	Spero sia Ultra
+001-184-003	Diverso dallo spot
+001-184-004	Quello che volevo
+001-185		Ira del Divino
+001-185-000	Ira del Ciclone-A (Folle)
+001-185-001	Vendetta del Ciclone-A (Letale)
+001-186		Confusione rituale
+001-186-000	Affidati alla felicità
+001-186-001	Famiglia silente
+001-186-002	Mangia il sushi
+001-186-003	Gioia scaduta
+001-186-004	Peccati e benedizioni
+001-187		Amara ironia
+001-187-000	Ira di Titano (Letale)
+001-187-001	Vendetta di Titano (Letale)
+001-188		Nanno Uovo!
+001-188-000	Alba di capodanno
+001-189		Tifone Nemo
+001-189-000	Bocca di Charybdis (Spietato)
+001-190		Fiera letale III
+001-190-000	Fiera nel ciclone III (Letale)
+001-190-001	Risveglio della Fiera III (Letale)
+001-191		
+001-191-000	Gioia da 40 milioni!
+001-192		Orsi e ri-rimorsi
+001-192-000	Fine ibernazione
+001-192-001	Fin troppo orsi
+001-192-002	Veterani bruni
+001-192-003	Che succede nei boschi
+001-192-004	Nessun rimOrso
+001-193		Dimensione delirante
+001-193-000	Ira del buco nero (Letale)
+001-193-001	Vendetta del buco nero (Letale)
+001-194		La primavera del Sensei
+001-194-000	Cambio facoltà
+001-194-001	La piastra di Petri
+001-194-002	Equazioni pericolose
+001-194-003	Prove d'amore
+001-194-004	Tu + io = fotosintesi
+001-195		Rosso di sera
+001-195-000	Ira del cielo rosso (Letale)
+001-195-001	Vendetta del cielo rosso (Spietato)
+001-196		Clionel Dominante
+001-196-000	Nuovo Testamento (Letale)
+001-196-001	Un Gatto grida amore (Spietato)
+001-197		Malato d'amore
+001-197-000	Pene d'amore
+001-197-001	Swipe a destra no
+001-197-002	Matrimonio combinato
+001-197-003	Orologio biologico
+001-197-004	Impegnarsi
+001-198		I morti ritornano
+001-198-000	Ira dell'Empio (Letale)
+001-198-001	Vendetta dell'Empio (Letale)
+001-199		Fiume Acheronte
+001-199-000	Carneficina furiosa (Letale)
+001-199-001	Carneficina vendicata (Spietato)
+001-201		Condanna regale
+001-201-000	Goccia di miele (Letale)
+001-201-001	Inferno di pappa reale (Spietato)
+001-203		La terza dimensione
+001-203-000	Vendetta del wormhole (Spietato)
+001-203-001	Ira del wormhole (Spietato)
+001-204		Pack misterioso
+001-204-000	Mittente anonimo
+001-205		Morte da bis
+001-205-000	Progressi del prigioniero (Spiet.)
+001-205-001	Marcia alla morte (Spietato)
+001-206		The Battle Cats Together!
+001-206-000	Play Battle Cats Together!
+001-206-001	Team Up & Win!
+001-206-002	Over 350 Cats!
+001-206-003	Play All You Want!
+001-206-004	Legend Stages Too!
+001-206-005	Minigames Galore!
+001-206-006	At the Nintendo eShop!
+001-206-007	But the App's Fun Too :)
+001-207		Ritorno di re Wahwah
+001-207-000	Vendetta di N-1 (Spietato)
+001-207-001	Ira del Cagnord (Spietato)
+001-208		Clan dei pazzi
+001-208-000	Danza folle (Letale)
+001-208-001	Ritmi folli (Spietato)
+001-209		Giorno miao miao
+001-209-000	GIORNO DEL GATTO
+001-210		Duello sulla prateria
+001-210-000	Avanguardia (Facile)
+001-210-001	Élite (Facile)
+001-210-002	Comandante (Facile)
+001-211		Duello al tramonto
+001-211-000	Avanguardia (Normale)
+001-211-001	Élite (Normale)
+001-211-002	Comandante (Difficile)
+001-212		Duello sotto le stelle
+001-212-000	Avanguardia (Difficile)
+001-212-001	Élite (Difficile)
+001-212-002	Comandante (Veterani)
+001-213		Duello sulle dune
+001-213-000	Avanguardia (Veterani)
+001-213-001	Élite (Esperti)
+001-213-002	Comandante (Folle)
+001-214		Sogno più profondo
+001-214-000	Ira del sognatore (Letale)
+001-214-001	Vendetta del sognatore (Spietato)
+001-215		Impatto blu
+001-215-000	Pianeta Palla (Spietato)
+001-216		Regali compleanno
+001-216-000	7 anni di divertimento!
+001-217		Tribunale del Tormento
+001-217-000	La terra pura (Spietato)
+001-219		Paradiso di Papuu
+001-219-000	Santa sorella (Spietato)
+001-220		Vecchia regina
+001-220-000	Vita da insetti (Spietato)
+001-221		Nanno Uovo!
+001-221-000	Felice 2020!
+001-222		Più epici
+001-222-000	Spettro del vero (Letale)
+001-223		Più sconfitti 2019
+001-223-000	Sorprendente #5
+001-223-001	Non inconsueto #4
+001-223-002	Come previsto #3
+001-223-003	Finalista #2
+001-223-004	Incredibile #1
+001-223-005	Non visto nel 2019
+001-224		Capodanno lunare
+001-224-000	Gioia e prosperità
+001-225		Pack misterioso
+001-225-000	Mittente anonimo
+001-226		Fondo della palude
+001-226-000	Segui il flusso (Spietato)
+001-227		Duello ai Campi di lava
+001-227-000	Avanguardia (Folle)
+001-227-001	Élite (Letale)
+001-227-002	Comandante (Letale)
+001-228		
+001-228-000	Gioia da 50 milioni!
+001-229		Gloria di Wanwan
+001-229-000	Bauville (Spietata)
+001-230		Regali compleanno
+001-230-000	Speciale Golden Week!
+001-231		Il ritorno di Z-Onel!
+001-231-000	Ultimo dei morti (Spietato)
+001-232		Prima faccenda
+001-232-000	Finto bebè (Spietato)
+001-233		Isola del Signore delle mappe
+001-233-000	Monte Bussola (Letale)
+001-233-001	Atlante archeologico (Letale)
+001-233-002	Chiesa del Mercatore (Spietato)
+001-234		Guerra totale: Speciale primaverile
+001-234-000	Riti di primavera: base (Veterani)
+001-234-001	Riti di primavera: standard (Esp.)
+001-234-002	Riti di primavera: avanzato (Folle)
+001-234-003	Riti di primavera: estremo (Letale)
+001-234-004	Riti di primavera: supremo (Letale)
+001-235		Guerra totale: Speciale estivo
+001-235-000	Canzone estiva: base (Esperti)
+001-235-001	Canzone estiva: standard (Folle)
+001-235-002	Canzone estiva: avanzato (Letale)
+001-235-003	Canzone estiva: estremo (Letale)
+001-235-004	Canzone estiva: supremo (Spietato)
+001-236		Guerra totale: Speciale autunnale
+001-236-000	Festa d'autunno: base (Folle)
+001-236-001	Festa d'autunno: standard (Letale)
+001-236-002	Festa d'autunno: avanzato (Letale)
+001-236-003	Festa d'autunno: estremo (Spietato)
+001-236-004	Festa d'autunno: supremo (Spietato)
+001-237		Guerra totale: Speciale invernale
+001-237-000	Danza invernale: base (Letale)
+001-237-001	Danza invernale: standard (Letale)
+001-237-002	Danza invernale: avanzato (Spiet.)
+001-237-003	Danza invernale: estremo (Spietato)
+001-237-004	Danza invernale: supremo (Spietato)
+001-238		Tag Arena: novellini
+001-238-000	Quarti di finale (Facile)
+001-238-001	Semifinali (Facile)
+001-238-002	Finali (Facile)
+001-239		Tag Arena: principianti
+001-239-000	Quarti di finale (Normale)
+001-239-001	Semifinali (Difficile)
+001-239-002	Finali (Veterani)
+001-240		Tag Arena: adepti
+001-240-000	Quarti di finale (Veterani)
+001-240-001	Semifinali (Veterani)
+001-240-002	Finali (Esperti)
+001-241		Tag Arena: esperti
+001-241-000	Quarti di finale (Esperti)
+001-241-001	Semifinali (Folle)
+001-241-002	Finali (Letale)
+001-242		Tag Arena: esperti
+001-242-000	Quarti di finale (Letale)
+001-242-001	Semifinali (Letale)
+001-242-002	Finali (Letale)
+001-243		Meglio del peggio
+001-243-000	Portato dalle correnti (Spietato)
+001-243-001	Tutela idrica (Spietato)
+001-245		Più presenze 2020
+001-245-000	#5 Complimenti
+001-245-001	#4 come previsto
+001-245-002	#3 In qualche modo
+001-245-003	#2 uscito dal nulla
+001-245-004	#1 grazie a te!
+001-245-005	Nessuna nuova presenza
+001-246		Preludio della fine
+001-246-000	Possessione malefica (Spietato)
+001-247		Tifone Nihil
+001-247-000	Gorgo della creazione (Spietato)
+001-247-001	Vortice dell'estinzione (Spietato)
+001-248		Duello in fondo al mare
+001-248-000	Avanguardia (Letale)
+001-248-001	Élite (Letale)
+001-248-002	Comandante (Spietata)
+001-250		Terreni di prova
+001-250-000	Primo round (Facile)
+001-250-001	Primo round (Esperti)
+001-250-002	Primo round (Letale)
+001-251		L'angelo e il demone
+001-251-000	Nessun piano A (Letale)
+001-251-001	Regno del massacro (Letale)
+001-252		La regina e il morto
+001-252-000	Specchietto per allodole (Letale)
+001-252-001	Parata di morti (Letale)
+001-253		Il re e la fanciulla
+001-253-000	Gran premio N-1 (Letale)
+001-253-001	Bombarola (Letale)
+001-254		Festeggiamenti 60M! Regali a fiumi
+001-254-000	Gioia da 60 milioni!
+
+002			Collaboration Stages
+002-003		To the Future
+002-003-000	Architecture
+002-003-001	Cloud Services
+002-003-002	Storage Servers
+002-003-003	On Demand
+002-003-004	Bug Squashing
+002-003-005	Bookmarkers
+002-003-006	Solid State Rock
+002-003-007	Fiber Cookie
+002-007		Merc Storia: Inferno
+002-007-000	A City Aflame (Insane)
+002-008		Merc Storia: Showdown
+002-008-000	Cats After All
+002-008-001	Healer's Journey
+002-008-002	Teraphobic
+002-008-003	A Strange Bottled Girl
+002-008-004	Subjugated Cats
+002-008-005	Lost Memories
+002-008-006	Threads of Love
+002-008-007	300 Yard Strike
+002-009		
+002-009-000	20-on-20
+002-009-001	Cat Battle
+002-009-002	Nyanko Coliseum
+002-011		Survive! Mola Mola!
+002-011-000	Squid Bender
+002-011-001	Mean Morning Sunbeams
+002-011-002	Life Ain't Easy, Kid
+002-012		Droid Awakes!
+002-012-000	ParaDroid (Expert)
+002-012-001	ParaDroid (Insane)
+002-018		Healer Awakens!
+002-018-000	Healer Awakens (Expert)
+002-018-001	Healer Awakens (Insane)
+002-021		Matal Slug Defense
+002-021-000	Immortal Allen O'Neill
+002-021-001	Attack on Huge Hermit
+002-021-002	Jupiter King Convoy
+002-022		Super Matal Slug Defense
+002-022-000	Devils on the Doorstep (Insane)
+002-028		Takuya & Yuki Awaken
+002-028-000	Takuya ＆ Yuki Awaken! (Veteran)
+002-028-001	Takuya ＆ Yuki Awaken! (Insane)
+002-029		A Fungal Challenge
+002-029-000	Fungal Dominance
+002-029-001	King of the Table
+002-029-002	Funghi Wasn't Built in a Day…
+002-031		Puella Magi Madoka Magica
+002-031-000	Make A Contract With Me
+002-031-001	Become a Magical Girl
+002-031-002	You Can Change Fate Itself
+002-031-003	I Don't Understand You
+002-031-004	Do You Intend To Be a God?
+002-032		Witch's Labyrinth
+002-032-000	The Rose Garden Witch (Easy)
+002-032-001	The Rose Garden Witch (Veteran)
+002-033		Witch's Labyrinth
+002-033-000	The Dessert Witch (Normal)
+002-033-001	The Dessert Witch (Expert)
+002-034		Witch's Labyrinth
+002-034-000	The Box Witch (Hard)
+002-034-001	The Box Witch (Insane)
+002-035		Walpurgisnacht
+002-035-000	The Stagebuilding Witch (Deadly)
+002-038		PIKOTARO
+002-038-000	PPAP
+002-041		Gates of ALICE
+002-041-000	Virus of Love
+002-041-001	Explosive Escape
+002-041-002	Order/Disorder
+002-042		Moonlit City
+002-042-000	Converging Rays
+002-042-001	Fever Time!
+002-042-002	World War ALICE
+002-045		The Lost World
+002-045-000	Another Mystery Girl
+002-045-001	Don't Act Like You Know Me
+002-045-002	All Worlds Will End
+002-046		Merc Awakens!
+002-046-000	Merc Awakens (Veteran)
+002-046-001	Merc Awakens (Insane)
+002-047		Titi Awakens!
+002-047-000	Titi Awakens (Veteran)
+002-047-001	Titi Awakens (Insane)
+002-052		The Holy Grail War
+002-052-000	Schoolyard Clash
+002-052-001	Midnight Interception
+002-052-002	Manor Ruins
+002-052-003	Inconspicuous Trap
+002-052-004	Beginning of the End
+002-053		Holy War: Saber
+002-053-000	Fated Night (Easy)
+002-053-001	Fated Night (Expert)
+002-054		Holy War: Lancer
+002-054-000	Assault from Above (Easy)
+002-054-001	Assault from Above (Expert)
+002-055		Holy War: Archer
+002-055-000	Unlimited Bladeworks (Easy)
+002-055-001	Unlimited Bladeworks (Expert)
+002-056		Holy War: Rider
+002-056-000	Blood Temple (Easy)
+002-056-001	Blood Temple (Expert)
+002-057		Holy War: Gilgamesh
+002-057-000	King of Heroes (Veteran)
+002-057-001	King of Heroes (Deadly)
+002-058		Sophomore Summer
+002-058-000	Round 1 (Easy)
+002-058-001	Round 2 (Normal)
+002-058-002	Final Round (Hard)
+002-059		Prof. Wild's Challenge
+002-059-000	Willing Sacrifice (Veteran)
+002-059-001	Willing Sacrifice (Deadly)
+002-060		Date Chance: Karin
+002-060-000	Iron Will (Easy)
+002-060-001	Iron Will (Expert)
+002-061		Date Chance: Misaki
+002-061-000	Warm Smile (Easy)
+002-061-001	Warm Smile (Expert)
+002-062		Date Chance: Sairi
+002-062-000	No. 1 Angel (Easy)
+002-062-001	No. 1 Angel (Expert)
+002-063		Date Chance: Ren
+002-063-000	Burning Love (Easy)
+002-063-001	Burning Love (Expert)
+002-064		Mentori's Masterplan
+002-064-000	Mental Manipulations
+002-064-001	Not a Penguin
+002-065		Evangelion Activates!
+002-065-000	State of Emergency
+002-065-001	NERV
+002-065-002	I Mustn't Run Away…
+002-066		Decisive Battle!
+002-066-000	Futagoyama Fortress
+002-066-001	Pre-fire Sequence
+002-066-002	High-Order Energy
+002-066-003	Don't Say Farewell
+002-066-004	Start by Smiling
+002-067		The 9th Angel Strikes!
+002-067-000	Asuka On Board (Easy)
+002-067-001	Asuka On Board (Expert)
+002-068		The 10th Angel Strikes!
+002-068-000	Refusal Type (Hard)
+002-068-001	Refusal Type (Merciless)
+002-069		Poko Forest Friends!
+002-069-000	Rabbit's Mischief
+002-069-001	Sheep's Bravado
+002-069-002	Bear's Bashfulness
+002-070		Trio from the Woods
+002-070-000	Puzzle Attack!
+002-070-001	Collecting Cherries
+002-070-002	Rainbow Blast!
+002-075		City of Souls
+002-075-000	Blackened Soul
+002-075-001	The Two Yukis
+002-075-002	Three Destinies
+002-079		Groove Like A Bear
+002-079-000	Weird
+002-079-001	Furious
+002-079-002	Funky
+002-081		A Fake Mitakihara
+002-081-000	The Nutcracker Witch (Veteran)
+002-081-001	The Nutcracker Witch (Merciless)
+002-082		Queen Rampant
+002-082-000	Sudden Rampage (Normal)
+002-082-001	Synthetic Hubris (Hard)
+002-082-002	Chaos Construct (Veteran)
+002-082-003	Abandoned Future (Expert)
+002-082-004	Tangible Existence (Deadly)
+002-085		Merc Storia: Attack
+002-085-000	Alois: Cowards Flight
+002-085-001	Cornelia: Heaven's Grace
+002-085-002	Hearscht: Silver Beast
+002-086		Merc Storia: Mystery
+002-086-000	Feathered
+002-086-001	On Holy Wings
+002-086-002	Blade Ritual
+002-087		Holy War: Saber Alter
+002-087-000	Consumed by Shadow (Veteran)
+002-087-001	Consumed by Shadow (Deadly)
+002-088		Survive! Mola Mola!
+002-088-000	Squid Bender
+002-088-001	Mean Morning Sunbeams
+002-088-002	Life Ain't Easy, Kid
+002-089		300 Million Dead Molas
+002-089-000	Only Brother Left
+002-089-001	Life's Hard Mode
+002-089-002	Sardine Bones
+002-089-003	SUDDEN DEATH
+002-089-004	One Step from Heaven
+002-092		Spirit War
+002-092-000	Heaven in Decline
+002-092-001	A Journey of Hope
+002-092-002	World at War
+002-093		Bikkuriman Choco
+002-093-000	Hidden Stickers
+002-093-001	Devils & Angels
+002-093-002	Sticky Situation
+002-093-003	A Box of Dreams
+002-093-004	Shining Surprise
+002-094		Devilish Illusion
+002-094-000	A Tower Piercing the Sky (Hard)
+002-094-001	A Tower Piercing the Sky (Insane)
+002-095		Yamato Awakens!
+002-095-000	Inherited Ambition (Veteran)
+002-095-001	Inherited Ambition (Deadly)
+002-098		Annihilated City
+002-098-000	A Post-Apocalypse Tale
+002-098-001	Deliveryman Takuya
+002-098-002	A Mystery Girl
+002-098-003	Good Cats, Bad Cats
+002-098-004	A Bothersome Cat
+002-098-005	The Nyanko Plan
+002-098-006	LOST (Insane)
+002-099		The World Beyond
+002-099-000	An Encounter With Sin
+002-099-001	Foolish Wanderer Kano
+002-099-002	Wishing for Happiness
+002-102		Unit-13 Strikes!
+002-102-000	It's Not Your Fault (Veteran)
+002-102-001	We'll Meet Again (Merciless)
+002-105		Shakurel Planet
+002-105-000	The Jaws of Nature
+002-105-001	Gnawin' Bones
+002-105-002	Chompin' Trees
+002-105-003	Munchin' Rocks
+002-105-004	The Future Is Chins
+002-107		Street Fighter (Easy)
+002-107-000	Warrior of Nature
+002-107-001	Illuminating Flame
+002-107-002	Rush & Blaze
+002-107-003	BONUS STAGE
+002-107-004	Blue Jade
+002-107-005	Iron Cyclone
+002-107-006	Impregnable Fortress
+002-107-007	Invincible Fist
+002-108		Street Fighter (Normal)
+002-108-000	Illuminating Flame
+002-108-001	Iron Cyclone
+002-108-002	Blue Jade
+002-108-003	BONUS STAGE
+002-108-004	Rush & Blaze
+002-108-005	Warrior of Nature
+002-108-006	Invincible Fist
+002-108-007	Impregnable Fortress
+002-109		Street Fighter (Hard)
+002-109-000	Iron Cyclone
+002-109-001	Impregnable Fortress
+002-109-002	Rush & Blaze
+002-109-003	BONUS STAGE
+002-109-004	Illuminating Flame
+002-109-005	Blue Jade
+002-109-006	Invincible Fist
+002-109-007	Warrior of Nature
+002-110		New Challenger
+002-110-000	VS RYU (Easy)
+002-111		New Challenger
+002-111-000	VS RYU (Expert)
+002-112		New Challenger
+002-112-000	VS CHUN-LI (Easy)
+002-113		New Challenger
+002-113-000	VS CHUN-LI (Expert)
+002-114		New Challenger
+002-114-000	VS GUILE (Easy)
+002-115		New Challenger
+002-115-000	VS GUILE (Expert)
+002-116		New Challenger
+002-116-000	VS ZANGIEF (Easy)
+002-117		New Challenger
+002-117-000	VS ZANGIEF (Expert)
+002-118		New Challenger
+002-118-000	VS BLANKA (Easy)
+002-119		New Challenger
+002-119-000	VS BLANKA (Expert)
+002-120		New Challenger
+002-120-000	VS DHALSIM (Easy)
+002-121		New Challenger
+002-121-000	VS DHALSIM (Expert)
+002-122		New Challenger
+002-122-000	VS KEN (Easy)
+002-123		New Challenger
+002-123-000	VS KEN (Expert)
+002-124		New Challenger
+002-124-000	Master of the Fist (Veteran)
+002-124-001	Sekia Goshoha (Deadly)
+002-126		Hatsune Miku
+002-126-000	Electric Diva
+002-126-001	Sing with a Smile
+002-126-002	Future is Virtual
+002-127		MIKU EXPO
+002-127-000	in INDONESIA
+002-127-001	in TAIWAN
+002-127-002	in JAPAN
+002-127-003	in USA
+002-127-004	in EUROPE
+002-128		MIKU CHERRY
+002-128-000	Spring Popstar
+002-128-001	Scent of Blossoms
+002-128-002	Sakura Dance
+002-134		Hatsune Miku's Birthday!
+002-134-000	♪ Birthday Party ♪
+002-135		ストリートファイター EASY
+002-135-000	Warrior of Nature
+002-135-001	Illuminating Flame
+002-135-002	Rush & Blaze
+002-135-003	BONUS STAGE
+002-135-004	Blue Jade
+002-135-005	Iron Cyclone
+002-135-006	Impregnable Fortress
+002-135-007	Invincible Fist
+002-135-008	Fists of Avarice
+002-135-009	The Clawed Rondo
+002-135-010	Solitary Emperor
+002-135-011	The Supreme Evil
+002-136		ストリートファイター NORMAL
+002-136-000	Pride & Passion
+002-136-001	Iron Cyclone
+002-136-002	Blue Jade
+002-136-003	BONUS STAGE
+002-136-004	Rush & Blaze
+002-136-005	Illuminating Flame
+002-136-006	Invincible Fist
+002-136-007	Impregnable Fortress
+002-136-008	Warrior of Nature
+002-136-009	The Clawed Rondo
+002-136-010	Solitary Emperor
+002-136-011	The Supreme Evil
+002-137		ストリートファイター HARD
+002-137-000	Iron Cyclone
+002-137-001	Impregnable Fortress
+002-137-002	Rush & Blaze
+002-137-003	BONUS STAGE
+002-137-004	Illuminating Flame
+002-137-005	Blue Jade
+002-137-006	Invincible Fist
+002-137-007	Warrior of Nature
+002-137-008	Fists of Avarice
+002-137-009	The Clawed Rondo
+002-137-010	Pride & Passion
+002-137-011	The Supreme Evil
+002-138		New Challenger
+002-138-000	VS E. HONDA (Easy)
+002-139		New Challenger
+002-139-000	VS E. HONDA (Expert)
+002-140		New Challenger
+002-140-000	VS BALROG (Normal)
+002-141		New Challenger
+002-141-000	VS BALROG (Insane)
+002-142		New Challenger
+002-142-000	VS VEGA(Normal)
+002-143		New Challenger
+002-143-000	VS VEGA (Insane)
+002-144		New Challenger
+002-144-000	VS SAGAT (Normal)
+002-145		New Challenger
+002-145-000	VS SAGAT (Insane)
+002-146		New Challenger
+002-146-000	VS M. BISON (Normal)
+002-147		New Challenger
+002-147-000	VS M. BISON (Insane)
+002-148		New Challenger
+002-148-000	VS RYU (Easy)
+002-149		New Challenger
+002-149-000	VS RYU (Expert)
+002-150		New Challenger
+002-150-000	VS CHUN-LI (Easy)
+002-151		New Challenger
+002-151-000	VS CHUN-LI (Expert)
+002-152		New Challenger
+002-152-000	VS GUILE (Easy)
+002-153		New Challenger
+002-153-000	VS GUILE (Expert)
+002-154		New Challenger
+002-154-000	VS ZANGIEF (Easy)
+002-155		New Challenger
+002-155-000	VS ZANGIEF (Expert)
+002-156		New Challenger
+002-156-000	VS BLANKA (Easy)
+002-157		New Challenger
+002-157-000	VS BLANKA (Expert)
+002-158		New Challenger
+002-158-000	VS DHALSIM (Easy)
+002-159		New Challenger
+002-159-000	VS DHALSIM (Expert)
+002-160		New Challenger
+002-160-000	VS KEN (Easy)
+002-161		New Challenger
+002-161-000	VS KEN (Expert)
+002-162		New Challenger
+002-162-000	Master of the Fist (Veteran)
+002-162-001	Sekia Goshoha (Deadly)
+002-163		SNOW MIKU
+002-163-000	World of Snow
+002-163-001	The Diva of Ice
+002-163-002	Light in the Cold
+002-164		Rumble in the Tendo Dojo
+002-164-000	Betrothed from China
+002-164-001	Girl Hates Guys
+002-164-002	Disoriented Warrior
+002-164-003	An Amazon's Courtship
+002-164-004	Dirty Tricks
+002-165		The Cursed Springs
+002-165-000	Famed Pilgrimage
+002-165-001	100 Legendary Pools
+002-165-002	Tragically Drowned
+002-165-003	Horror of the Waters
+002-165-004	Bewitched Bodies
+002-166		Annihilated City
+002-166-000	A Post-Apocalypse Tale
+002-166-001	Deliveryman Takuya
+002-166-002	A Mystery Girl
+002-166-003	Good Cats, Bad Cats
+002-166-004	A Bothersome Cat
+002-166-005	The Nyanko Plan
+002-166-006	LOST (Insane)
+002-167		Takuya & Yuki Awaken
+002-167-000	Takuya ＆ Yuki Awaken! (Veteran)
+002-167-001	Takuya ＆ Yuki Awaken! (Insane)
+002-168		The Lost World
+002-168-000	Another Mystery Girl
+002-168-001	Don't Act Like You Know Me
+002-168-002	All Worlds Will End
+002-169		City of Souls
+002-169-000	Blackened Soul
+002-169-001	The Two Yukis
+002-169-002	Three Destinies
+002-170		The World Beyond
+002-170-000	An Encounter With Sin
+002-170-001	Foolish Wanderer Kano
+002-170-002	Wishing for Happiness
+002-171		The World Beyond
+002-171-000	God of Destruction (Merciless)
+002-172		The World Beyond
+002-172-000	The Leviathan Rises
+002-172-001	Disaster Response HQ
+002-172-002	Climactic Cat Clash
+
+004			Extra Stages
+
+007			Heavenly Tower
+007-000		Torre celestiale
+007-000-000	1° piano
+007-000-001	2° piano
+007-000-002	3° piano
+007-000-003	4° piano
+007-000-004	5° piano
+007-000-005	6° piano
+007-000-006	7° piano
+007-000-007	8° piano
+007-000-008	9° piano
+007-000-009	10° piano
+007-000-010	11° piano
+007-000-011	12° piano
+007-000-012	13° piano
+007-000-013	14° piano
+007-000-014	15° piano
+007-000-015	16° piano
+007-000-016	17° piano
+007-000-017	18° piano
+007-000-018	19° piano
+007-000-019	20° piano
+007-000-020	21° piano
+007-000-021	22° piano
+007-000-022	23° piano
+007-000-023	24° piano
+007-000-024	25° piano
+007-000-025	26° piano
+007-000-026	27° piano
+007-000-027	28° piano
+007-000-028	29° piano
+007-000-029	30° piano
+007-000-030	31° piano
+007-000-031	32° piano
+007-000-032	33° piano
+007-000-033	34° piano
+007-000-034	35° piano
+007-000-035	36° piano
+007-000-036	37° piano
+007-000-037	38° piano
+007-000-038	39° piano
+007-000-039	40° piano
+007-000-040	41° piano
+007-000-041	42° piano
+007-000-042	43° piano
+007-000-043	44° piano
+007-000-044	45° piano
+007-000-045	46° piano
+007-000-046	47° piano
+007-000-047	48° piano
+007-000-048	49° piano
+007-000-049	50° piano
+007-001		Roccaforte rossa
+007-001-000	1° piano
+007-001-001	2° piano
+007-001-002	3° piano
+007-001-003	4° piano
+007-001-004	5° piano
+007-001-005	6° piano
+007-001-006	7° piano
+007-001-007	8° piano
+007-001-008	9° piano
+007-001-009	Ultimo piano
+007-002		Roccaforte nera
+007-002-000	1° piano
+007-002-001	2° piano
+007-002-002	3° piano
+007-002-003	4° piano
+007-002-004	5° piano
+007-002-005	6° piano
+007-002-006	7° piano
+007-002-007	8° piano
+007-002-008	9° piano
+007-002-009	Ultimo piano
+007-003		Roccaforte angelica
+007-003-000	1° piano
+007-003-001	2° piano
+007-003-002	3° piano
+007-003-003	4° piano
+007-003-004	5° piano
+007-003-005	6° piano
+007-003-006	7° piano
+007-003-007	8° piano
+007-003-008	9° piano
+007-003-009	Ultimo piano
+007-004		Roccaforte aliena
+007-004-000	1° piano
+007-004-001	2° piano
+007-004-002	3° piano
+007-004-003	4° piano
+007-004-004	5° piano
+007-004-005	6° piano
+007-004-006	7° piano
+007-004-007	8° piano
+007-004-008	9° piano
+007-004-009	Ultimo piano
+007-005		Roccaforte zombi
+007-005-000	1° piano
+007-005-001	2° piano
+007-005-002	3° piano
+007-005-003	4° piano
+007-005-004	5° piano
+007-005-005	6° piano
+007-005-006	7° piano
+007-005-007	8° piano
+007-005-008	9° piano
+007-005-009	Ultimo piano
+
+012			Challenge Mode
+012-000		Battaglia sfida
+012-000-000	Miglior punteggio
+
+013			Uncanny Legends
+013-000		Una nuova leggenda
+013-000-000	Maledizione antica
+013-001		Saranno dragoni
+013-001-000	Campo Pilaf
+013-001-001	Nyandaria
+013-001-002	Passo Annin
+013-001-003	Altipiani Agliosi
+013-001-004	Deserto Pasta
+013-001-005	Collina Ragù
+013-002		Il bosco senza fine
+013-002-000	Rovine Kosamin
+013-002-001	Verde fondale
+013-002-002	Passione banditi
+013-002-003	Cavità infestate
+013-002-004	Ghigno sinistro
+013-002-005	John Gool
+013-003		Correnti primordiali
+013-003-000	Città marina
+013-003-001	Strombo errante
+013-003-002	Acque di Palcaccio
+013-003-003	Promontorio Utsobobo
+013-003-004	Alba di confine
+013-003-005	Vortice Rutsborg
+013-004		Baia bau
+013-004-000	Surf affollato
+013-004-001	Onde ribelli
+013-004-002	Boe e branchie
+013-004-003	Sugli scogli
+013-004-004	Sirena dal mare
+013-004-005	Giovane seppia
+013-005		Occhi sull'abisso
+013-005-000	Armi letali
+013-005-001	Murale motivante
+013-005-002	Antri luminosi
+013-005-003	Vette luccicanti
+013-005-004	Male mormorante
+013-005-005	Lago languido
+013-006		Neo-necropoli
+013-006-000	Notte al licopene
+013-006-001	Metroasi
+013-006-002	Carta-cielo
+013-006-003	Crepuscolo ribelle
+013-006-004	Mare di cemento
+013-006-005	Stazione deserta
+013-007		Le Terre Selvagge
+013-007-000	Torre terrore
+013-007-001	Lady in gattabuia
+013-007-002	Ranch Desperado
+013-007-003	Colle Cacciatore
+013-007-004	Mesa Macabra
+013-007-005	Costa Rivoltella
+013-008		Penisola Pararila
+013-008-000	Costa dell'escolar
+013-008-001	Progetto Tricheco
+013-008-002	Breccia del cobite
+013-008-003	Riserva del gabbiano
+013-008-004	Uova in fila
+013-008-005	Richiamo dell'airone
+013-009		Colpo di gatto
+013-009-000	Ideologia del cricket
+013-009-001	Lord Fogna
+013-009-002	Amici vegetali
+013-009-003	Chi fa la spia...
+013-009-004	Esilio scioccante
+013-009-005	Mossa del Gatto Rosso
+013-010		Isole Ciliegia
+013-010-000	Bagno di lava
+013-010-001	Flusso piroclastico
+013-010-002	Piove cenere
+013-010-003	Saggio della vetta
+013-010-004	Caldera furiosa
+013-010-005	Supervulcano
+013-011		Cuore profondo
+013-011-000	Canzone gioiosa
+013-011-001	Donne dell'antro
+013-011-002	Spiriti buoni
+013-011-003	Boschi del rancore
+013-011-004	Eremita chiacchierone
+013-011-005	Anime primitive
+013-012		Mare fantasma
+013-012-000	Spiaggia Iwa Rock
+013-012-001	Tomba di Nautilo
+013-012-002	Marinai persi
+013-012-003	Carpa in gabbia
+013-012-004	Molo dei Cammelli
+013-012-005	Zona morta infinita
+013-013		Resort d'esilio
+013-013-000	Espiazione vacanziera
+013-013-001	Foresta pluviale privata
+013-013-002	Maleducazione balneare
+013-013-003	Ospite del reparto 13
+013-013-004	Spa dell'ascensione
+013-013-005	Meraviglie della natura
+013-014		Strade del Tormento
+013-014-000	Strapparsi i capelli
+013-014-001	Salsa di sirena
+013-014-002	Lezione del Signore
+013-014-003	Colonna crepata
+013-014-004	Guardiano dell'innocenza
+013-014-005	Miaopia totale
+013-015		Il retro del paradiso
+013-015-000	Avido ingresso
+013-015-001	Svenire in veranda
+013-015-002	Divano da sbronza
+013-015-003	Cucina linda
+013-015-004	Vasca bizzarra
+013-015-005	Salottino dell'agnellino
+013-016		Battaglia nel bagno
+013-016-000	Al Vapore s.r.l.
+013-016-001	Appicci-doccia
+013-016-002	Sauna in piedi
+013-016-003	Pozza fredda
+013-016-004	Casa di Umibozu
+013-016-005	Reception Terme
+013-017		
+013-017-000	Villaggio Fame
+013-017-001	Artigli notturni
+013-017-002	Crosta rocciosa
+013-017-003	Cascate esagerate
+013-017-004	Brama abbandonata
+013-017-005	Servi dell'istinto
+013-018		Ministero marino
+013-018-000	Invasione in spiaggia
+013-018-001	Pesca eterna
+013-018-002	Antro del Tritone
+013-018-003	Esca notturna
+013-018-004	Molo insanguinato
+013-018-005	Multitetrapode
+013-019		Accademia del diavolo
+013-019-000	Una classe in rovina
+013-019-001	Pesce solitario
+013-019-002	Demone COO
+013-019-003	Il preside ribelle
+013-019-004	Il cogli-campane
+013-019-005	Regole scolastiche
+013-020		Miniere gelatina
+013-020-000	Folta caverna
+013-020-001	Spasso obbligato
+013-020-002	Uccelli a gas
+013-020-003	Stelle nelle fogne
+013-020-004	Panico postapocalittico
+013-020-005	Pala di salvataggio
+013-021		Fonderia ubriaca
+013-021-000	Scatola proletaria
+013-021-001	Controllo-crolli
+013-021-002	Nastro immobile
+013-021-003	Magazzino VIP
+013-021-004	Scarti ribelli
+013-021-005	Ciminiera celestiale
+013-022		Artefatti scoperti
+013-022-000	Lamento del perdente
+013-022-001	Osso del prode cane
+013-022-002	Cura torba velenosa
+013-022-003	Prevale la pazienza
+013-022-004	Una nave lontana
+013-022-005	Maledire il maledetto
+013-023		Regno del Nontemere
+013-023-000	Autorità e gravità
+013-023-001	Servi dell'energia
+013-023-002	In alto le fiaccole
+013-023-003	Tirannia domestica
+013-023-004	Respiri non autorizzati
+013-023-005	Artigli sul trono
+013-024		Palestra di titanio
+013-024-000	Energia da tapis roulant
+013-024-001	Sacco vendicativo
+013-024-002	Cartello delle proteine
+013-024-003	Bici anaerobica
+013-024-004	Sauna in verticale
+013-024-005	Addestramento al lago
+013-025		Isola Stella del mattino
+013-025-000	Cometa curry
+013-025-001	Istinto di Icaro
+013-025-002	Pedaggio del ponte arcobaleno
+013-025-003	Amore al planetario
+013-025-004	Disco meteora
+013-025-005	Gatti sulle stelle
+013-026		Nella Foresta addormentata
+013-026-000	Il bosco del principe
+013-026-001	Melodia della principessa
+013-026-002	Bellezza malvagia
+013-026-003	Pantofole di cristallo
+013-026-004	Gilda mascherata
+013-026-005	Felici e contenti
+013-027		Isola del laboratorio
+013-027-000	Collina della fiaschetta
+013-027-001	Foresta dell'anatomia
+013-027-002	Marina in formalina
+013-027-003	Palude dell'ignoranza
+013-027-004	Ponte microscopico
+013-027-005	Blu bruciante
+013-028		Tombe dimenticate
+013-028-000	Caverna del sonno
+013-028-001	Corpi caldi
+013-028-002	Non-non-vita
+013-028-003	Lapide deturpata
+013-028-004	Sepoltura botanica
+013-028-005	Ossa fradice
+013-029		Alba dell'inizio
+013-029-000	Preghiera devota
+013-029-001	Dilemma di nascita
+013-029-002	L'oracolo d'avorio
+013-029-003	Scoppio di personalità
+013-029-004	Rilascio appassionato
+013-029-005	Ipocrisia sepolta
+013-030		Tempio della Buona Sorte
+013-030-000	Agitatori pellegrini
+013-030-001	Prete in ritardo
+013-030-002	Lotta corale
+013-030-003	Diario d'avventura
+013-030-004	Tutti in cappella
+013-030-005	Il Verbo dell'Oscuro
+013-031		Teatro dell'incubo
+013-031-000	Anello a spirale
+013-031-001	Venerdì 13 di paga
+013-031-002	Attività normale
+013-031-003	Casa oscurata
+013-031-004	Urlo interiore
+013-031-005	Tante budella
+013-032		Città in apnea
+013-032-000	Diversità, alcalinità
+013-032-001	Lido Ruggirena
+013-032-002	Arcobaleno chimico
+013-032-003	Amore raffinato
+013-032-004	Straordinari notturni
+013-032-005	Influenza catodica
+013-033		Nasi Go-ramengo
+013-033-000	Angkor S.W.A.T.
+013-033-001	Giardino tropicale
+013-033-002	Kuala Lum-Pozza
+013-033-003	Riso e veleno
+013-033-004	Khao Man Gang
+013-033-005	Bellezza con le pinne
+013-034		Campo di DNA
+013-034-000	Genomi di banane
+013-034-001	Fragole artificiali
+013-034-002	Cromosomi biologici
+013-034-003	Nano-uva
+013-034-004	Agricoltori clonati
+013-034-005	Venditori di geni
+013-035		Labirinto antica foresta
+013-035-000	La porta di edera
+013-035-001	Anello reincarnante
+013-035-002	Torri rigogliose
+013-035-003	Ciborio
+013-035-004	Passo della linfa
+013-035-005	Il volto divino
+
+014			Drink Stages
+014-000		Giallo rigoglioso
+014-000-000	Raggi d'oro (Difficile)
+014-000-001	Raggi d'oro (Esperti)
+014-000-002	Raggi d'oro (Folle)
+014-001		Blu rigoglioso
+014-001-000	Blu illusione (Difficile)
+014-001-001	Blu illusione (Esperti)
+014-001-002	Blu illusione (Folle)
+014-002		Rosso rigoglioso
+014-002-000	Rosso passione (Difficile)
+014-002-001	Rosso passione (Esperti)
+014-002-002	Rosso passione (Folle)
+014-003		Viola rigoglioso
+014-003-000	Viola fluo (Difficile)
+014-003-001	Viola fluo (Esperti)
+014-003-002	Viola fluo (Folle)
+014-004		Verde rigoglioso
+014-004-000	Verde invidia (Difficile)
+014-004-001	Verde invidia (Esperti)
+014-004-002	Verde invidia (Folle)
+014-005		Pericolo imminente
+014-005-000	Faccia d'acciaio (Letale)
+014-006		L'assedio di Ippo!
+014-006-000	Super Metallippo (Esperti)
+014-007		Miaobiglietto da occasione!
+014-007-000	Baci, Metallippo (Difficile)
+014-008		XP spietati!
+014-008-000	Sapore del successo (Spietato)
+014-009		Colosseo di XP
+014-009-000	Temprato dalle fiamme (Letale)
+014-010		Megablitz di XP!
+014-010-000	Palato raffinato (Folle)
+014-011		Livello XP
+014-011-000	Dolci XP (Facile)
+014-011-001	Dolci XP (Normale)
+014-011-002	Dolci XP (Difficile)
+014-011-003	Dolci XP (Veterani)
+014-011-004	Dolci XP (Esperti)
+014-011-005	Dolci XP (Folle)
+014-012		Clionel Ascendente
+014-012-000	Nessun piano A (Letale)
+014-013		Fiume Stige
+014-013-000	Regno del massacro (Letale)
+014-014		Incoronazione regale
+014-014-000	Specchietto per allodole (Letale)
+014-015		Debutto da morti
+014-015-000	Parata di morti (Letale)
+014-016		Vendetta di re Wahwah
+014-016-000	Gran premio N-1 (Letale)
+014-017		Sogno profondo
+014-017-000	Bombarola (Letale)
+014-018		Catastrofe cremisi
+014-018-000	Attacco al Ciclone-R (Esperti)
+014-019		Paradiso delle tenebre
+014-019-000	Attacco al Ciclone-N (Esperti)
+014-020		Ineguagliabile
+014-020-000	Attacco al Ciclone-B (Esperti)
+014-021		Ira del paradiso
+014-021-000	Tornado in arrivo (Esperti)
+014-022		Dolce ironia
+014-022-000	Attacco su Titano (Folle)
+014-023		Dimensione disperata
+014-023-000	Ascesa del buco nero (Folle)
+014-024		Il Gatto matto
+014-024-000	Anime oscure (Folle)
+014-025		Il panzer matto
+014-025-000	Difesa assoluta (Folle)
+014-026		L'ascia matta
+014-026-000	Berserker (Folle)
+014-027		L'alto matto
+014-027-000	Alto in festa (Folle)
+014-028		La mucca matta
+014-028-000	Scuotitesta (Folle)
+014-029		L'uccello matto
+014-029-000	Gatto in volo (Folle)
+014-030		Il pesce matto
+014-030-000	Inferno ittico (Folle)
+014-031		La lucertola matta
+014-031-000	Mammiferi? (Folle)
+014-032		Il Titano matto
+014-032-000	Gatti pazzi (Folle)
+
+024			Baron Boss Stages
+024-000		Baron Foca colpisce.
+024-000-000	Allarme Rosso 1
+024-000-001	Allarme Rosso 2
+024-000-002	Allarme Rosso 3
+024-000-003	Allarme Rosso 4
+024-000-004	Allarme Rosso 5
+024-000-005	Allarme Rosso 6
+024-000-006	Allarme Rosso 7
+024-000-007	Allarme Rosso 8
+024-000-008	Allarme Rosso 9
+024-000-009	Allarme Rosso 10
+024-000-010	Allarme Rosso 11
+024-000-011	Allarme Rosso 12
+024-000-012	Allarme Rosso 13
+024-000-013	Allarme Rosso 14
+024-000-014	Allarme Rosso 15
+024-000-015	Allarme Rosso 16
+024-000-016	Allarme Rosso 17
+024-000-017	Allarme Rosso 18
+024-000-018	Allarme Rosso 19
+024-000-019	Allarme Rosso 20
+024-001		Baron Foca colpisce!
+024-001-000	Allarme Rosso 21
+024-001-001	Allarme Rosso 22
+024-001-002	Allarme Rosso 23
+024-001-003	Allarme Rosso 24
+024-001-004	Allarme Rosso 25
+024-001-005	Allarme Rosso 26
+024-001-006	Allarme Rosso 27
+024-001-007	Allarme Rosso 28
+024-001-008	Allarme Rosso 29
+024-001-009	Allarme Rosso 30
+024-001-010	Allarme Rosso 31
+024-001-011	Allarme Rosso 32
+024-001-012	Allarme Rosso 33
+024-001-013	Allarme Rosso 34
+024-001-014	Allarme Rosso 35
+024-001-015	Allarme Rosso 36
+024-001-016	Allarme Rosso 37
+024-001-017	Allarme Rosso 38
+024-001-018	Allarme Rosso 39
+024-001-019	Allarme Rosso 40
+024-002		Baron Foca colpisce!!!
+024-002-000	Allarme Rosso 41
+024-002-001	Allarme Rosso 42
+024-002-002	Allarme Rosso 43
+024-002-003	Allarme Rosso 44
+024-002-004	Allarme Rosso 45
+024-002-005	Allarme Rosso 46
+024-002-006	Allarme Rosso 47
+024-002-007	Allarme Rosso 48
+024-002-008	Allarme Rosso 49
+024-002-009	Allarme Rosso 50
+024-002-010	Allarme Rosso 51
+024-002-011	Allarme Rosso 52
+024-002-012	Allarme Rosso 53
+024-002-013	Allarme Rosso 54
+024-002-014	Allarme Rosso 55
+024-002-015	Allarme Rosso 56
+024-002-016	Allarme Rosso 57
+024-002-017	Allarme Rosso 58
+024-002-018	Allarme Rosso 59
+024-002-019	Allarme Rosso 60
+024-003		Ele-tale attacca!
+024-003-000	Furia Liv. 1
+024-003-001	Furia Liv. 2
+024-003-002	Furia Liv. 3
+024-003-003	Furia Liv. 4
+024-003-004	Furia Liv. 5
+024-003-005	Furia Liv. 6
+024-003-006	Furia Liv. 7
+024-003-007	Furia Liv. 8
+024-003-008	Furia Liv. 9
+024-003-009	Furia Liv. 10
+024-003-010	Furia Liv. 11
+024-003-011	Furia Liv. 12
+024-003-012	Furia Liv. 13
+024-003-013	Furia Liv. 14
+024-003-014	Furia Liv. 15
+024-003-015	Furia Liv. 16
+024-003-016	Furia Liv. 17
+024-003-017	Furia Liv. 18
+024-003-018	Furia Liv. 19
+024-003-019	Furia Liv. 20
+024-004		Ele-tale attacca!!
+024-004-000	Furia Liv. 21
+024-004-001	Furia Liv. 22
+024-004-002	Furia Liv. 23
+024-004-003	Furia Liv. 24
+024-004-004	Furia Liv. 25
+024-004-005	Furia Liv. 26
+024-004-006	Furia Liv. 27
+024-004-007	Furia Liv. 28
+024-004-008	Furia Liv. 29
+024-004-009	Furia Liv. 30
+024-004-010	Furia Liv. 31
+024-004-011	Furia Liv. 32
+024-004-012	Furia Liv. 33
+024-004-013	Furia Liv. 34
+024-004-014	Furia Liv. 35
+024-004-015	Furia Liv. 36
+024-004-016	Furia Liv. 37
+024-004-017	Furia Liv. 38
+024-004-018	Furia Liv. 39
+024-004-019	Furia Liv. 40
+024-005		Ele-tale attacca!!!
+024-005-000	Furia Liv. 41
+024-005-001	Furia Liv. 42
+024-005-002	Furia Liv. 43
+024-005-003	Furia Liv. 44
+024-005-004	Furia Liv. 45
+024-005-005	Furia Liv. 46
+024-005-006	Furia Liv. 47
+024-005-007	Furia Liv. 48
+024-005-008	Furia Liv. 49
+024-005-009	Furia Liv. 50
+024-005-010	Furia Liv. 51
+024-005-011	Furia Liv. 52
+024-005-012	Furia Liv. 53
+024-005-013	Furia Liv. 54
+024-005-014	Furia Liv. 55
+024-005-015	Furia Liv. 56
+024-005-016	Furia Liv. 57
+024-005-017	Furia Liv. 58
+024-005-018	Furia Liv. 59
+024-005-019	Furia Liv. 60
+024-006		Mega minaccia!
+024-006-000	Su ali possenti Liv. 1
+024-006-001	Su ali possenti Liv. 2
+024-006-002	Su ali possenti Liv. 3
+024-006-003	Su ali possenti Liv. 4
+024-006-004	Su ali possenti Liv. 5
+024-006-005	Su ali possenti Liv. 6
+024-006-006	Su ali possenti Liv. 7
+024-006-007	Su ali possenti Liv. 8
+024-006-008	Su ali possenti Liv. 9
+024-006-009	Su ali possenti Liv. 10
+024-006-010	Su ali possenti Liv. 11
+024-006-011	Su ali possenti Liv. 12
+024-006-012	Su ali possenti Liv. 13
+024-006-013	Su ali possenti Liv. 14
+024-006-014	Su ali possenti Liv. 15
+024-006-015	Su ali possenti Liv. 16
+024-006-016	Su ali possenti Liv. 17
+024-006-017	Su ali possenti Liv. 18
+024-006-018	Su ali possenti Liv. 19
+024-006-019	Su ali possenti Liv. 20
+024-007		Mega minaccia!!
+024-007-000	Su ali possenti Liv. 21
+024-007-001	Su ali possenti Liv. 22
+024-007-002	Su ali possenti Liv. 23
+024-007-003	Su ali possenti Liv. 24
+024-007-004	Su ali possenti Liv. 25
+024-007-005	Su ali possenti Liv. 26
+024-007-006	Su ali possenti Liv. 27
+024-007-007	Su ali possenti Liv. 28
+024-007-008	Su ali possenti Liv. 29
+024-007-009	Su ali possenti Liv. 30
+024-007-010	Su ali possenti Liv. 31
+024-007-011	Su ali possenti Liv. 32
+024-007-012	Su ali possenti Liv. 33
+024-007-013	Su ali possenti Liv. 34
+024-007-014	Su ali possenti Liv. 35
+024-007-015	Su ali possenti Liv. 36
+024-007-016	Su ali possenti Liv. 37
+024-007-017	Su ali possenti Liv. 38
+024-007-018	Su ali possenti Liv. 39
+024-007-019	Su ali possenti Liv. 40
+024-008		Mega minaccia!!!
+024-008-000	Su ali possenti Liv. 41
+024-008-001	Su ali possenti Liv. 42
+024-008-002	Su ali possenti Liv. 43
+024-008-003	Su ali possenti Liv. 44
+024-008-004	Su ali possenti Liv. 45
+024-008-005	Su ali possenti Liv. 46
+024-008-006	Su ali possenti Liv. 47
+024-008-007	Su ali possenti Liv. 48
+024-008-008	Su ali possenti Liv. 49
+024-008-009	Su ali possenti Liv. 50
+024-008-010	Su ali possenti Liv. 51
+024-008-011	Su ali possenti Liv. 52
+024-008-012	Su ali possenti Liv. 53
+024-008-013	Su ali possenti Liv. 54
+024-008-014	Su ali possenti Liv. 55
+024-008-015	Su ali possenti Liv. 56
+024-008-016	Su ali possenti Liv. 57
+024-008-017	Su ali possenti Liv. 58
+024-008-018	Su ali possenti Liv. 59
+024-008-019	Su ali possenti Liv. 60
+024-009		Orrorpotamo!
+024-009-000	Furia cosmica Liv. 1
+024-009-001	Furia cosmica Liv. 2
+024-009-002	Furia cosmica Liv. 3
+024-009-003	Furia cosmica Liv. 4
+024-009-004	Furia cosmica Liv. 5
+024-009-005	Furia cosmica Liv. 6
+024-009-006	Furia cosmica Liv. 7
+024-009-007	Furia cosmica Liv. 8
+024-009-008	Furia cosmica Liv. 9
+024-009-009	Furia cosmica Liv. 10
+024-009-010	Furia cosmica Liv. 11
+024-009-011	Furia cosmica Liv. 12
+024-009-012	Furia cosmica Liv. 13
+024-009-013	Furia cosmica Liv. 14
+024-009-014	Furia cosmica Liv. 15
+024-009-015	Furia cosmica Liv. 16
+024-009-016	Furia cosmica Liv. 17
+024-009-017	Furia cosmica Liv. 18
+024-009-018	Furia cosmica Liv. 19
+024-009-019	Furia cosmica Liv. 20
+024-010		Orrorpotamo!!
+024-010-000	Furia cosmica Liv. 21
+024-010-001	Furia cosmica Liv. 22
+024-010-002	Furia cosmica Liv. 23
+024-010-003	Furia cosmica Liv. 24
+024-010-004	Furia cosmica Liv. 25
+024-010-005	Furia cosmica Liv. 26
+024-010-006	Furia cosmica Liv. 27
+024-010-007	Furia cosmica Liv. 28
+024-010-008	Furia cosmica Liv. 29
+024-010-009	Furia cosmica Liv. 30
+024-010-010	Furia cosmica Liv. 31
+024-010-011	Furia cosmica Liv. 32
+024-010-012	Furia cosmica Liv. 33
+024-010-013	Furia cosmica Liv. 34
+024-010-014	Furia cosmica Liv. 35
+024-010-015	Furia cosmica Liv. 36
+024-010-016	Furia cosmica Liv. 37
+024-010-017	Furia cosmica Liv. 38
+024-010-018	Furia cosmica Liv. 39
+024-010-019	Furia cosmica Liv. 40
+024-011		Orrorpotamo!!!
+024-011-000	Furia cosmica Liv. 41
+024-011-001	Furia cosmica Liv. 42
+024-011-002	Furia cosmica Liv. 43
+024-011-003	Furia cosmica Liv. 44
+024-011-004	Furia cosmica Liv. 45
+024-011-005	Furia cosmica Liv. 46
+024-011-006	Furia cosmica Liv. 47
+024-011-007	Furia cosmica Liv. 48
+024-011-008	Furia cosmica Liv. 49
+024-011-009	Furia cosmica Liv. 50
+024-011-010	Furia cosmica Liv. 51
+024-011-011	Furia cosmica Liv. 52
+024-011-012	Furia cosmica Liv. 53
+024-011-013	Furia cosmica Liv. 54
+024-011-014	Furia cosmica Liv. 55
+024-011-015	Furia cosmica Liv. 56
+024-011-016	Furia cosmica Liv. 57
+024-011-017	Furia cosmica Liv. 58
+024-011-018	Furia cosmica Liv. 59
+024-011-019	Furia cosmica Liv. 60
+024-012		Un colossale anno nuovo!
+024-012-000	Anno del bufalo Liv. 1
+024-012-001	Anno del bufalo Liv. 2
+024-012-002	Anno del bufalo Liv. 3
+024-012-003	Anno del bufalo Liv. 4
+024-012-004	Anno del bufalo Liv. 5
+024-012-005	Anno del bufalo Liv. 6
+024-012-006	Anno del bufalo Liv. 7
+024-012-007	Anno del bufalo Liv. 8
+024-012-008	Anno del bufalo Liv. 9
+024-012-009	Anno del bufalo Liv. 10
+024-013		Un colossale San Valentino!
+024-013-000	Cioccocaos Liv. 1
+024-013-001	Cioccocaos Liv. 2
+024-013-002	Cioccocaos Liv. 3
+024-013-003	Cioccocaos Liv. 4
+024-013-004	Cioccocaos Liv. 5
+024-013-005	Cioccocaos Liv. 6
+024-013-006	Cioccocaos Liv. 7
+024-013-007	Cioccocaos Liv. 8
+024-013-008	Cioccocaos Liv. 9
+024-013-009	Cioccocaos Liv. 10
+024-013-010	Cioccocaos Liv. 11
+024-013-011	Cioccocaos Liv. 12
+024-013-012	Cioccocaos Liv. 13
+024-013-013	Cioccocaos Liv. 14
+024-013-014	Cioccocaos Liv. 15
+024-013-015	Cioccocaos Liv. 16
+024-013-016	Cioccocaos Liv. 17
+024-013-017	Cioccocaos Liv. 18
+024-013-018	Cioccocaos Liv. 19
+024-013-019	Cioccocaos Liv. 20
+024-014		Primavera sofferta!
+024-014-000	Uova del caos Liv. 1
+024-014-001	Uova del caos Liv. 2
+024-014-002	Uova del caos Liv. 3
+024-014-003	Uova del caos Liv. 4
+024-014-004	Uova del caos Liv. 5
+024-014-005	Uova del caos Liv. 6
+024-014-006	Uova del caos Liv. 7
+024-014-007	Uova del caos Liv. 8
+024-014-008	Uova del caos Liv. 9
+024-014-009	Uova del caos Liv. 10
+024-014-010	Uova del caos Liv. 11
+024-014-011	Uova del caos Liv. 12
+024-014-012	Uova del caos Liv. 13
+024-014-013	Uova del caos Liv. 14
+024-014-014	Uova del caos Liv. 15
+024-014-015	Uova del caos Liv. 16
+024-014-016	Uova del caos Liv. 17
+024-014-017	Uova del caos Liv. 18
+024-014-018	Uova del caos Liv. 19
+024-014-019	Uova del caos Liv. 20
+024-015		Sfida di giugno
+024-015-000	Proibito Liv. 1
+024-015-001	Proibito Liv. 2
+024-015-002	Proibito Liv. 3
+024-015-003	Proibito Liv. 4
+024-015-004	Proibito Liv. 5
+024-015-005	Proibito Liv. 6
+024-015-006	Proibito Liv. 7
+024-015-007	Proibito Liv. 8
+024-015-008	Proibito Liv. 9
+024-015-009	Proibito Liv. 10
+024-016		Sfida di giugno II
+024-016-000	Proibito II Liv. 11
+024-016-001	Proibito II Liv. 12
+024-016-002	Proibito II Liv. 13
+024-016-003	Proibito II Liv. 14
+024-016-004	Proibito II Liv. 15
+024-016-005	Proibito II Liv. 16
+024-016-006	Proibito II Liv. 17
+024-016-007	Proibito II Liv. 18
+024-016-008	Proibito II Liv. 19
+024-016-009	Proibito II Liv. MAX
+024-017		Sfida di luglio
+024-017-000	Estate Liv. 1
+024-017-001	Estate Liv. 2
+024-017-002	Estate Liv. 3
+024-017-003	Estate Liv. 4
+024-017-004	Estate Liv. 5
+024-017-005	Estate Liv. 6
+024-017-006	Estate Liv. 7
+024-017-007	Estate Liv. 8
+024-017-008	Estate Liv. 9
+024-017-009	Estate Liv. 10
+024-018		Sfida di luglio II
+024-018-000	No estate Liv. 11
+024-018-001	No estate Liv. 12
+024-018-002	No estate Liv. 13
+024-018-003	No estate Liv. 14
+024-018-004	No estate Liv. 15
+024-018-005	No estate Liv. 16
+024-018-006	No estate Liv. 17
+024-018-007	No estate Liv. 18
+024-018-008	No estate Liv. 19
+024-018-009	No estate Liv. MAX
+
+025			Enigma Stages
+025-000		Campi Aitum
+025-000-000	Guerra in trincea (Folle)
+025-001		Valle Vitamina
+025-001-000	Il precipizio (Folle)
+025-002		Trova-biglietti
+025-002-000	Pollaio bestiale (Letale)
+025-003		Riparo spirituale
+025-003-000	Allenamento di un'ora (Folle)
+025-004		Antro spirituale
+025-004-000	Allenamento di un mese (Letale)
+025-005		Labirinto spirituale
+025-005-000	Allenamento di un anno (Letale)
+025-006		Antro Cimofane
+025-006-000	10 metri di profondità (Letale)
+025-007		Vulcano Vitamina
+025-007-000	Lago di lava (Folle)
+025-008		Trova-biglietti G
+025-008-000	Nido del mostro (Letale)
+025-009		Culla rossa
+025-009-000	Santuario della culla (Letale)
+025-010		Cima rossa
+025-010-000	Santuario della cima (Spietato)
+025-011		Confine rosso
+025-011-000	Santuario di confine (Spietato)
+025-012		Culla del cielo
+025-012-000	Santuario della culla (Letale)
+025-013		Cima del cielo
+025-013-000	Santuario della cima (Spietato)
+025-014		Confine del cielo
+025-014-000	Santuario di confine (Spietato)
+025-015		Culla nera
+025-015-000	Santuario della culla (Letale)
+025-016		Cima nera
+025-016-000	Santuario della cima (Spietato)
+025-017		Confine nero
+025-017-000	Santuario di confine (Spietato)
+025-018		Culla sacra
+025-018-000	Santuario della culla (Letale)
+025-019		Cima sacra
+025-019-000	Santuario della cima (Spietato)
+025-020		Confine sacro
+025-020-000	Santuario di confine (Spietato)
+025-021		Culla cosmica
+025-021-000	Santuario della culla (Letale)
+025-022		Cima cosmica
+025-022-000	Santuario della cima (Spietato)
+025-023		Confine cosmico
+025-023-000	Santuario di confine (Spietato)
+025-024		Necro-culla
+025-024-000	Santuario della culla (Letale)
+025-025		Necro-cima
+025-025-000	Santuario della cima (Spietato)
+025-026		Necro-confine
+025-026-000	Santuario di confine (Spietato)
+025-027		Culla di ferro
+025-027-000	Santuario della culla (Letale)
+025-028		Cima di ferro
+025-028-000	Santuario della cima (Spietato)
+025-029		Confine di ferro
+025-029-000	Santuario di confine (Spietato)
+
+027			Collab Baron Stages
+027-000		Messier's Assault
+027-000-000	Terra dei sogni Liv. 1
+027-000-001	Terra dei sogni Liv. 2
+027-000-002	Terra dei sogni Liv. 3
+027-000-003	Terra dei sogni Liv. 4
+027-000-004	Terra dei sogni Liv. 5
+027-000-005	Terra dei sogni Liv. 6
+027-000-006	Terra dei sogni Liv. 7
+027-000-007	Terra dei sogni Liv. 8
+027-000-008	Terra dei sogni Liv. 9
+027-000-009	Terra dei sogni Liv. 10
+027-000-010	Terra dei sogni Liv. 11
+027-000-011	Terra dei sogni Liv. 12
+027-000-012	Terra dei sogni Liv. 13
+027-000-013	Terra dei sogni Liv. 14
+027-000-014	Terra dei sogni Liv. 15
+027-000-015	Terra dei sogni Liv. 16
+027-000-016	Terra dei sogni Liv. 17
+027-000-017	Terra dei sogni Liv. 18
+027-000-018	Terra dei sogni Liv. 19
+027-000-019	Terra dei sogni Liv. 20
+027-002		The Devils Strike!
+027-002-000	Nether Reaches Lv.1
+027-002-001	Nether Reaches Lv.2
+027-002-002	Nether Reaches Lv.3
+027-002-003	Nether Reaches Lv.4
+027-002-004	Nether Reaches Lv.5
+027-002-005	Nether Reaches Lv.6
+027-002-006	Nether Reaches Lv.7
+027-002-007	Nether Reaches Lv.8
+027-002-008	Nether Reaches Lv.9
+027-002-009	Nether Reaches Lv.10
+027-002-010	Nether Reaches Lv.11
+027-002-011	Nether Reaches Lv.12
+027-002-012	Nether Reaches Lv.13
+027-002-013	Nether Reaches Lv.14
+027-002-014	Nether Reaches Lv.15
+027-002-015	Nether Reaches Lv.16
+027-002-016	Nether Reaches Lv.17
+027-002-017	Nether Reaches Lv.18
+027-002-018	Nether Reaches Lv.19
+027-002-019	Nether Reaches Lv.20
+027-003		The Angels Strike!
+027-003-000	Heaven's Gate Lv.1
+027-003-001	Heaven's Gate Lv.2
+027-003-002	Heaven's Gate Lv.3
+027-003-003	Heaven's Gate Lv.4
+027-003-004	Heaven's Gate Lv.5
+027-003-005	Heaven's Gate Lv.6
+027-003-006	Heaven's Gate Lv.7
+027-003-007	Heaven's Gate Lv.8
+027-003-008	Heaven's Gate Lv.9
+027-003-009	Heaven's Gate Lv.10
+027-003-010	Heaven's Gate Lv.11
+027-003-011	Heaven's Gate Lv.12
+027-003-012	Heaven's Gate Lv.13
+027-003-013	Heaven's Gate Lv.14
+027-003-014	Heaven's Gate Lv.15
+027-003-015	Heaven's Gate Lv.16
+027-003-016	Heaven's Gate Lv.17
+027-003-017	Heaven's Gate Lv.18
+027-003-018	Heaven's Gate Lv.19
+027-003-019	Heaven's Gate Lv.20
+027-004		Trials of Merc Storia!
+027-004-000	Healer & Co. Lv.1
+027-004-001	Healer & Co. Lv.2
+027-004-002	Healer & Co. Lv.3
+027-004-003	Healer & Co. Lv.4
+027-004-004	Healer & Co. Lv.5
+027-004-005	Healer & Co. Lv.6
+027-004-006	Healer & Co. Lv.7
+027-004-007	Healer & Co. Lv.8
+027-004-008	Healer & Co. Lv.9
+027-004-009	Healer & Co. Lv.10
+027-004-010	Healer & Co. Lv.11
+027-004-011	Healer & Co. Lv.12
+027-004-012	Healer & Co. Lv.13
+027-004-013	Healer & Co. Lv.14
+027-004-014	Healer & Co. Lv.15
+027-004-015	Healer & Co. Lv.16
+027-004-016	Healer & Co. Lv.17
+027-004-017	Healer & Co. Lv.18
+027-004-018	Healer & Co. Lv.19
+027-004-019	Healer & Co. Lv.20
+027-005		Electric Diva Strikes!
+027-005-000	1st Song
+027-005-001	2nd Song
+027-005-002	3rd Song
+027-005-003	4th Song
+027-005-004	5th Song
+027-005-005	6th Song
+027-005-006	7th Song
+027-005-007	8th Song
+027-005-008	9th Song
+027-005-009	10th Song
+027-005-010	11th Song
+027-005-011	12th Song
+027-005-012	13th Song
+027-005-013	14th Song
+027-005-014	15th Song
+027-005-015	16th Song
+027-005-016	17th Song
+027-005-017	18th Song
+027-005-018	19th Song
+027-005-019	Last Song
+027-007		Heralds of The End
+027-007-000	WARNING Lv.1
+027-007-001	WARNING Lv.2
+027-007-002	WARNING Lv.3
+027-007-003	WARNING Lv.4
+027-007-004	WARNING Lv.5
+027-007-005	WARNING Lv.6
+027-007-006	WARNING Lv.7
+027-007-007	WARNING Lv.8
+027-007-008	WARNING Lv.9
+027-007-009	WARNING Lv.10
+027-007-010	WARNING Lv.11
+027-007-011	WARNING Lv.12
+027-007-012	WARNING Lv.13
+027-007-013	WARNING Lv.14
+027-007-014	WARNING Lv.15
+027-007-015	WARNING Lv.16
+027-007-016	WARNING Lv.17
+027-007-017	WARNING Lv.18
+027-007-018	WARNING Lv.19
+027-007-019	WARNING Lv.20
+027-008		Test of Might: Ranma 1/2
+027-008-000	Showdown! : Part 1
+027-008-001	Showdown! : Part 2
+027-008-002	Showdown! : Part 3
+027-008-003	Showdown! : Part 4
+027-008-004	Showdown! : Part 5
+027-008-005	Showdown! : Part 6
+027-008-006	Showdown! : Part 7
+027-008-007	Showdown! : Part 8
+027-008-008	Showdown! : Part 9
+027-008-009	Showdown! : Part 10
+027-008-010	Showdown! : Part 11
+027-008-011	Showdown! : Part 12
+027-008-012	Showdown! : Part 13
+027-008-013	Showdown! : Part 14
+027-008-014	Showdown! : Part 15
+027-008-015	Showdown! : Part 16
+027-008-016	Showdown! : Part 17
+027-008-017	Showdown! : Part 18
+027-008-018	Showdown! : Part 19
+027-008-019	Showdown! : Part 20

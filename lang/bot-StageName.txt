@@ -1622,75 +1622,7 @@
 002-165-002	Tragically Drowned
 002-165-003	Horror of the Waters
 002-165-004	Bewitched Bodies
-004			Extra Stages
-004-000		Growing Green
-004-000-000	Catfruit Jubilee
-004-000-001	Catfruit Jubilee
-004-000-002	Catfruit Jubilee
-004-001		Growing Purple
-004-001-000	Catfruit Jubilee
-004-001-001	Catfruit Jubilee
-004-001-002	Catfruit Jubilee
-004-002		Growing Red
-004-002-000	Catfruit Jubilee
-004-002-001	Catfruit Jubilee
-004-002-002	Catfruit Jubilee
-004-003		Growing Blue
-004-003-000	Catfruit Jubilee
-004-003-001	Catfruit Jubilee
-004-003-002	Catfruit Jubilee
-004-004		Growing Yellow
-004-004-000	Catfruit Jubilee
-004-004-001	Catfruit Jubilee
-004-004-002	Catfruit Jubilee
-004-005		Bad to Worse
-004-005-000	Doom Paradise (Insane)
-004-006		Day of Judgement
-004-006-000	Acts of Cat-God (Insane)
-004-007		Techneurosis
-004-007-000	Space is the Place (Insane)
-004-008		Catfruit Buffet
-004-008-000	Violet Flash (Hard)
-004-009		Catfruit Buffet
-004-009-000	Red Passions (Hard)
-004-010		Catfruit Buffet
-004-010-000	Blue Illusion (Hard)
-004-011		Catfruit Buffet
-004-011-000	Rays of Gold (Hard)
-004-012		Catfruit Buffet
-004-012-000	Violet Flash (Expert)
-004-013		Catfruit Buffet
-004-013-000	Red Passions (Expert)
-004-014		Catfruit Buffet
-004-014-000	Blue Illusion (Expert)
-004-015		Catfruit Buffet
-004-015-000	Rays of Gold (Expert)
-004-016		Catfruit Buffet
-004-016-000	Violet Flash (Insane)
-004-017		Catfruit Buffet
-004-017-000	Red Passions (Insane)
-004-018		Catfruit Buffet
-004-018-000	Blue Illusion (Insane)
-004-019		Catfruit Buffet
-004-019-000	Rays of Gold (Insane)
-004-020		Catfruit Buffet
-004-020-000	Catfruit Jubilee
-004-020-001	Catfruit Jubilee
-004-020-002	Catfruit Jubilee
-004-021		Crazed Moneko
-004-021-000	in THE MOON
-004-022		Growing Strange
-004-022-000	Color of Blood (Merciless)
-004-022-001	Fear of Flying (Merciless)
-004-022-002	Hearts of Darkness (Merciless)
-004-022-003	Holy Wrath (Merciless)
-004-022-004	Galactic Threat (Merciless)
-004-022-005	Clash of Steel (Merciless)
-004-022-006	Seas of Death (Merciless)
-004-025		Growing Epic
-004-025-000	Miracle Iris (Deadly)
-004-026		Laboratory of Relics
-004-026-000	Eldritch Forces
+
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
 003-000-000	Korea
@@ -2333,6 +2265,7 @@
 003-013-045	Brazil
 003-013-046	Floating Continent
 003-013-047	Moon
+
 004			Extra Stages
 004-000		Growing Green
 004-000-000	Catfruit Jubilee
@@ -2836,7 +2769,7 @@
 013-034-004	Cloned Farmers
 013-034-005	Gene Salesmen
 
-014			Night Stages
+014			Drink Stages
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)
 014-000-001	Rays of Gold (Expert)
