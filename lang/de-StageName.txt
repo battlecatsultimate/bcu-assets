@@ -755,13 +755,10 @@
 001-110-000	Katzenbewohner (Tödlich)
 001-111		Immer schlimmer
 001-111-000	Tragödie in Rot (Irre)
-001-111-001	Unheilparadies (Irre)
 001-112		Tag der Gerechtigkeit
 001-112-000	Explosion am Himmel (Irre)
-001-112-001	Höhere Katzwalt (Irre)
 001-114		Techneurose
 001-114-000	Mutter & Bolzen (Experte)
-001-114-001	Das All ist alles (Irre)
 001-115		Sommertagebuch
 001-115-000	Kurze Hosen
 001-115-001	Wasserpistolenschlacht
@@ -903,7 +900,6 @@
 001-161-000	in JAPAN
 001-161-001	in LONDON
 001-161-002	in NEW YORK
-001-161-003	auf DEM MOND
 001-162		Seltsames Sprießen
 001-162-000	Ein altes Geheimnis (Gnadenlos)
 001-164		Schleimiges Rennen
@@ -1107,7 +1103,6 @@
 001-221-000	Frohes Jahr 2020!
 001-222		Episches Sprießen
 001-222-000	Wahrheitsspektrum (Tödlich)
-001-222-001	Wunderiris (Tödlich)
 001-223		Größte Verlierer 2019
 001-223-000	Überraschende Nr. 5
 001-223-001	Nicht ungewöhnliche Nr. 4
@@ -1208,13 +1203,10 @@
 001-250-002	Erste Runde (Tödl.)
 001-251		Engel & Teufel
 001-251-000	Kein Plan A (Tödlich)
-001-251-001	Reich des Gemetzels (Tödlich)
 001-252		Königin & Tote
 001-252-000	Honigtopf (Tödlich)
-001-252-001	Parade der Toten (Tödlich)
 001-253		König & Jungfrau
 001-253-000	N-1 Grand Prix (Tödlich)
-001-253-001	Junge Bomberin (Tödlich)
 001-254		Geschenke für alle zur Feier von 60 Mio.!
 001-254-000	60 Millionen, hurra!
 
@@ -1705,8 +1697,706 @@
 003-000-045	Alaska
 003-000-046	Hawaii
 003-000-047	Mond
+003-001		EoC Ch.2 Zombie
+003-001-000	Korea
+003-001-001	Mongolei
+003-001-002	China
+003-001-003	Thailand
+003-001-004	Kambodscha
+003-001-005	Philippinen
+003-001-006	Japan
+003-001-007	Australien
+003-001-008	Singapur
+003-001-009	Malediven
+003-001-010	Indien
+003-001-011	Nepal
+003-001-012	Dubai
+003-001-013	Saudi-Arabien
+003-001-014	Kenia
+003-001-015	Madagaskar
+003-001-016	Südafrika
+003-001-017	Ghana
+003-001-018	Sahara
+003-001-019	Ägypten
+003-001-020	Türkei
+003-001-021	Russland
+003-001-022	Griechenland
+003-001-023	Italien
+003-001-024	Monaco
+003-001-025	Spanien
+003-001-026	Frankreich
+003-001-027	Deutschland
+003-001-028	Dänemark
+003-001-029	Norwegen
+003-001-030	Großbritannien
+003-001-031	Grönland
+003-001-032	Kanada
+003-001-033	New York
+003-001-034	Bermuda
+003-001-035	Jamaika
+003-001-036	Kolumbien
+003-001-037	Brasilien
+003-001-038	Argentinien
+003-001-039	Machu Picchu
+003-001-040	Osterinsel
+003-001-041	Mexiko
+003-001-042	NASA
+003-001-043	Las Vegas
+003-001-044	Hollywood
+003-001-045	Alaska
+003-001-046	Hawaii
+003-001-047	Mond
+003-002		EoC Ch.3 Zombie
+003-002-000	Korea
+003-002-001	Mongolei
+003-002-002	China
+003-002-003	Thailand
+003-002-004	Kambodscha
+003-002-005	Philippinen
+003-002-006	Japan
+003-002-007	Australien
+003-002-008	Singapur
+003-002-009	Malediven
+003-002-010	Indien
+003-002-011	Nepal
+003-002-012	Dubai
+003-002-013	Saudi-Arabien
+003-002-014	Kenia
+003-002-015	Madagaskar
+003-002-016	Südafrika
+003-002-017	Ghana
+003-002-018	Sahara
+003-002-019	Ägypten
+003-002-020	Türkei
+003-002-021	Russland
+003-002-022	Griechenland
+003-002-023	Italien
+003-002-024	Monaco
+003-002-025	Spanien
+003-002-026	Frankreich
+003-002-027	Deutschland
+003-002-028	Dänemark
+003-002-029	Norwegen
+003-002-030	Großbritannien
+003-002-031	Grönland
+003-002-032	Kanada
+003-002-033	New York
+003-002-034	Bermuda
+003-002-035	Jamaika
+003-002-036	Kolumbien
+003-002-037	Brasilien
+003-002-038	Argentinien
+003-002-039	Machu Picchu
+003-002-040	Osterinsel
+003-002-041	Mexiko
+003-002-042	NASA
+003-002-043	Las Vegas
+003-002-044	Hollywood
+003-002-045	Alaska
+003-002-046	Hawaii
+003-002-047	Mond
+003-003		ItF Ch.1
+003-003-000	Japan
+003-003-001	Korea
+003-003-002	China
+003-003-003	Mongolei
+003-003-004	Russland
+003-003-005	Norwegen
+003-003-006	Großbritannien
+003-003-007	Dänemark
+003-003-008	Deutschland
+003-003-009	Frankreich
+003-003-010	Spanien
+003-003-011	Monaco
+003-003-012	Italien
+003-003-013	Griechenland
+003-003-014	Türkei
+003-003-015	Dubai
+003-003-016	Indien
+003-003-017	Nepal
+003-003-018	Thailand
+003-003-019	Kambodscha
+003-003-020	Philippinen
+003-003-021	Singapur
+003-003-022	Australien
+003-003-023	Der große Graben
+003-003-024	Madagaskar
+003-003-025	Kenia
+003-003-026	Saudi-Arabien
+003-003-027	Ägypten
+003-003-028	Sahara
+003-003-029	Ghana
+003-003-030	Südafrika
+003-003-031	Argentinien
+003-003-032	Osterinsel
+003-003-033	Machu Picchu
+003-003-034	Kolumbien
+003-003-035	Jamaika
+003-003-036	Mexiko
+003-003-037	Hollywood
+003-003-038	Las Vegas
+003-003-039	Alaska
+003-003-040	Kanada
+003-003-041	Grönland
+003-003-042	New York
+003-003-043	NASA
+003-003-044	Bermuda
+003-003-045	Brasilien
+003-003-046	Schwebender Kontinent
+003-003-047	Mond
+003-004		ItF Ch.2
+003-004-000	Japan
+003-004-001	Korea
+003-004-002	China
+003-004-003	Mongolei
+003-004-004	Russland
+003-004-005	Norwegen
+003-004-006	Großbritannien
+003-004-007	Dänemark
+003-004-008	Deutschland
+003-004-009	Frankreich
+003-004-010	Spanien
+003-004-011	Monaco
+003-004-012	Italien
+003-004-013	Griechenland
+003-004-014	Türkei
+003-004-015	Dubai
+003-004-016	Indien
+003-004-017	Nepal
+003-004-018	Thailand
+003-004-019	Kambodscha
+003-004-020	Philippinen
+003-004-021	Singapur
+003-004-022	Australien
+003-004-023	Der große Graben
+003-004-024	Madagaskar
+003-004-025	Kenia
+003-004-026	Saudi-Arabien
+003-004-027	Ägypten
+003-004-028	Sahara
+003-004-029	Ghana
+003-004-030	Südafrika
+003-004-031	Argentinien
+003-004-032	Osterinsel
+003-004-033	Machu Picchu
+003-004-034	Kolumbien
+003-004-035	Jamaika
+003-004-036	Mexiko
+003-004-037	Hollywood
+003-004-038	Las Vegas
+003-004-039	Alaska
+003-004-040	Kanada
+003-004-041	Grönland
+003-004-042	New York
+003-004-043	NASA
+003-004-044	Bermuda
+003-004-045	Brasilien
+003-004-046	Schwebender Kontinent
+003-004-047	Mond
+003-005		ItF Ch.3
+003-005-000	Japan
+003-005-001	Korea
+003-005-002	China
+003-005-003	Mongolei
+003-005-004	Russland
+003-005-005	Norwegen
+003-005-006	Großbritannien
+003-005-007	Dänemark
+003-005-008	Deutschland
+003-005-009	Frankreich
+003-005-010	Spanien
+003-005-011	Monaco
+003-005-012	Italien
+003-005-013	Griechenland
+003-005-014	Türkei
+003-005-015	Dubai
+003-005-016	Indien
+003-005-017	Nepal
+003-005-018	Thailand
+003-005-019	Kambodscha
+003-005-020	Philippinen
+003-005-021	Singapur
+003-005-022	Australien
+003-005-023	Der große Graben
+003-005-024	Madagaskar
+003-005-025	Kenia
+003-005-026	Saudi-Arabien
+003-005-027	Ägypten
+003-005-028	Sahara
+003-005-029	Ghana
+003-005-030	Südafrika
+003-005-031	Argentinien
+003-005-032	Osterinsel
+003-005-033	Machu Picchu
+003-005-034	Kolumbien
+003-005-035	Jamaika
+003-005-036	Mexiko
+003-005-037	Hollywood
+003-005-038	Las Vegas
+003-005-039	Alaska
+003-005-040	Kanada
+003-005-041	Grönland
+003-005-042	New York
+003-005-043	NASA
+003-005-044	Bermuda
+003-005-045	Brasilien
+003-005-046	Schwebender Kontinent
+003-005-047	Mond
+003-006		CotC Ch.1
+003-006-000	Erde
+003-006-001	Mars
+003-006-002	Jupiter
+003-006-003	Saturn
+003-006-004	Venus
+003-006-005	Merkur
+003-006-006	Sonne
+003-006-007	Uranus
+003-006-008	Neptun
+003-006-009	Triton
+003-006-010	Pluto
+003-006-011	Roter Rechtecknebel
+003-006-012	Eskimonebel
+003-006-013	Katzenaugennebel
+003-006-014	Eier-Nebel
+003-006-015	„Faules Ei“-Nebel
+003-006-016	Altair
+003-006-017	Sirius
+003-006-018	Canopus
+003-006-019	Vega
+003-006-020	Aldebaran
+003-006-021	Beteigeuze
+003-006-022	Deneb
+003-006-023	Kosmische Lounge
+003-006-024	Sichter-Stern
+003-006-025	Kaiou
+003-006-026	Magellansche Wolke
+003-006-027	Buutara
+003-006-028	Moskandag
+003-006-029	Lichthof
+003-006-030	Soba IV
+003-006-031	Pflaumenkern
+003-006-032	Darararah
+003-006-033	Danke, tschüs
+003-006-034	Mertoz
+003-006-035	Urura
+003-006-036	Aguham
+003-006-037	Somolon
+003-006-038	Ababwa
+003-006-039	Titan
+003-006-040	Skelling
+003-006-041	Gorigori
+003-006-042	Broton
+003-006-043	Blutroter Stern
+003-006-044	N77-Nebel
+003-006-045	Andromeda
+003-006-046	Schwarzes Loch
+003-006-047	Der Urknall
+003-007		CotC Ch.1
+003-007-000	Erde
+003-007-001	Mars
+003-007-002	Jupiter
+003-007-003	Saturn
+003-007-004	Venus
+003-007-005	Merkur
+003-007-006	Sonne
+003-007-007	Uranus
+003-007-008	Neptun
+003-007-009	Triton
+003-007-010	Pluto
+003-007-011	Roter Rechtecknebel
+003-007-012	Eskimonebel
+003-007-013	Katzenaugennebel
+003-007-014	Eier-Nebel
+003-007-015	„Faules Ei“-Nebel
+003-007-016	Altair
+003-007-017	Sirius
+003-007-018	Canopus
+003-007-019	Vega
+003-007-020	Aldebaran
+003-007-021	Beteigeuze
+003-007-022	Deneb
+003-007-023	Kosmische Lounge
+003-007-024	Sichter-Stern
+003-007-025	Kaiou
+003-007-026	Magellansche Wolke
+003-007-027	Buutara
+003-007-028	Moskandag
+003-007-029	Lichthof
+003-007-030	Soba IV
+003-007-031	Pflaumenkern
+003-007-032	Darararah
+003-007-033	Danke, tschüs
+003-007-034	Mertoz
+003-007-035	Urura
+003-007-036	Aguham
+003-007-037	Somolon
+003-007-038	Ababwa
+003-007-039	Titan
+003-007-040	Skelling
+003-007-041	Gorigori
+003-007-042	Broton
+003-007-043	Blutroter Stern
+003-007-044	N77-Nebel
+003-007-045	Andromeda
+003-007-046	Schwarzes Loch
+003-007-047	Der Urknall
+003-008		CotC Ch.3
+003-008-000	Erde
+003-008-001	Mars
+003-008-002	Jupiter
+003-008-003	Saturn
+003-008-004	Venus
+003-008-005	Merkur
+003-008-006	Sonne
+003-008-007	Uranus
+003-008-008	Neptun
+003-008-009	Triton
+003-008-010	Pluto
+003-008-011	Roter Rechtecknebel
+003-008-012	Eskimonebel
+003-008-013	Katzenaugennebel
+003-008-014	Eier-Nebel
+003-008-015	„Faules Ei“-Nebel
+003-008-016	Altair
+003-008-017	Sirius
+003-008-018	Canopus
+003-008-019	Vega
+003-008-020	Aldebaran
+003-008-021	Beteigeuze
+003-008-022	Deneb
+003-008-023	Kosmische Lounge
+003-008-024	Sichter-Stern
+003-008-025	Kaiou
+003-008-026	Magellansche Wolke
+003-008-027	Buutara
+003-008-028	Moskandag
+003-008-029	Lichthof
+003-008-030	Soba IV
+003-008-031	Pflaumenkern
+003-008-032	Darararah
+003-008-033	Danke, tschüs
+003-008-034	Mertoz
+003-008-035	Urura
+003-008-036	Aguham
+003-008-037	Somolon
+003-008-038	Ababwa
+003-008-039	Titan
+003-008-040	Skelling
+003-008-041	Gorigori
+003-008-042	Broton
+003-008-043	Blutroter Stern
+003-008-044	N77-Nebel
+003-008-045	Andromeda
+003-008-046	Schwarzes Loch
+003-008-047	Der Urknall
+003-009		EoC
+003-009-000	Korea
+003-009-001	Mongolei
+003-009-002	China
+003-009-003	Thailand
+003-009-004	Kambodscha
+003-009-005	Philippinen
+003-009-006	Japan
+003-009-007	Australien
+003-009-008	Singapur
+003-009-009	Malediven
+003-009-010	Indien
+003-009-011	Nepal
+003-009-012	Dubai
+003-009-013	Saudi-Arabien
+003-009-014	Kenia
+003-009-015	Madagaskar
+003-009-016	Südafrika
+003-009-017	Ghana
+003-009-018	Sahara
+003-009-019	Ägypten
+003-009-020	Türkei
+003-009-021	Russland
+003-009-022	Griechenland
+003-009-023	Italien
+003-009-024	Monaco
+003-009-025	Spanien
+003-009-026	Frankreich
+003-009-027	Deutschland
+003-009-028	Dänemark
+003-009-029	Norwegen
+003-009-030	Großbritannien
+003-009-031	Grönland
+003-009-032	Kanada
+003-009-033	New York
+003-009-034	Bermuda
+003-009-035	Jamaika
+003-009-036	Kolumbien
+003-009-037	Brasilien
+003-009-038	Argentinien
+003-009-039	Machu Picchu
+003-009-040	Osterinsel
+003-009-041	Mexiko
+003-009-042	NASA
+003-009-043	Las Vegas
+003-009-044	Hollywood
+003-009-045	Alaska
+003-009-046	Hawaii
+003-009-047	Mond
+003-010		ItF Ch.1 Zombie
+003-010-000	Japan
+003-010-001	Korea
+003-010-002	China
+003-010-003	Mongolei
+003-010-004	Russland
+003-010-005	Norwegen
+003-010-006	Großbritannien
+003-010-007	Dänemark
+003-010-008	Deutschland
+003-010-009	Frankreich
+003-010-010	Spanien
+003-010-011	Monaco
+003-010-012	Italien
+003-010-013	Griechenland
+003-010-014	Türkei
+003-010-015	Dubai
+003-010-016	Indien
+003-010-017	Nepal
+003-010-018	Thailand
+003-010-019	Kambodscha
+003-010-020	Philippinen
+003-010-021	Singapur
+003-010-022	Australien
+003-010-023	Der große Graben
+003-010-024	Madagaskar
+003-010-025	Kenia
+003-010-026	Saudi-Arabien
+003-010-027	Ägypten
+003-010-028	Sahara
+003-010-029	Ghana
+003-010-030	Südafrika
+003-010-031	Argentinien
+003-010-032	Osterinsel
+003-010-033	Machu Picchu
+003-010-034	Kolumbien
+003-010-035	Jamaika
+003-010-036	Mexiko
+003-010-037	Hollywood
+003-010-038	Las Vegas
+003-010-039	Alaska
+003-010-040	Kanada
+003-010-041	Grönland
+003-010-042	New York
+003-010-043	NASA
+003-010-044	Bermuda
+003-010-045	Brasilien
+003-010-046	Schwebender Kontinent
+003-010-047	Mond
+003-012		ItF Ch.2 Zombie
+003-012-000	Japan
+003-012-001	Korea
+003-012-002	China
+003-012-003	Mongolei
+003-012-004	Russland
+003-012-005	Norwegen
+003-012-006	Großbritannien
+003-012-007	Dänemark
+003-012-008	Deutschland
+003-012-009	Frankreich
+003-012-010	Spanien
+003-012-011	Monaco
+003-012-012	Italien
+003-012-013	Griechenland
+003-012-014	Türkei
+003-012-015	Dubai
+003-012-016	Indien
+003-012-017	Nepal
+003-012-018	Thailand
+003-012-019	Kambodscha
+003-012-020	Philippinen
+003-012-021	Singapur
+003-012-022	Australien
+003-012-023	Der große Graben
+003-012-024	Madagaskar
+003-012-025	Kenia
+003-012-026	Saudi-Arabien
+003-012-027	Ägypten
+003-012-028	Sahara
+003-012-029	Ghana
+003-012-030	Südafrika
+003-012-031	Argentinien
+003-012-032	Osterinsel
+003-012-033	Machu Picchu
+003-012-034	Kolumbien
+003-012-035	Jamaika
+003-012-036	Mexiko
+003-012-037	Hollywood
+003-012-038	Las Vegas
+003-012-039	Alaska
+003-012-040	Kanada
+003-012-041	Grönland
+003-012-042	New York
+003-012-043	NASA
+003-012-044	Bermuda
+003-012-045	Brasilien
+003-012-046	Schwebender Kontinent
+003-012-047	Mond
+003-013		ItF Ch.3 Zombie
+003-013-000	Japan
+003-013-001	Korea
+003-013-002	China
+003-013-003	Mongolei
+003-013-004	Russland
+003-013-005	Norwegen
+003-013-006	Großbritannien
+003-013-007	Dänemark
+003-013-008	Deutschland
+003-013-009	Frankreich
+003-013-010	Spanien
+003-013-011	Monaco
+003-013-012	Italien
+003-013-013	Griechenland
+003-013-014	Türkei
+003-013-015	Dubai
+003-013-016	Indien
+003-013-017	Nepal
+003-013-018	Thailand
+003-013-019	Kambodscha
+003-013-020	Philippinen
+003-013-021	Singapur
+003-013-022	Australien
+003-013-023	Der große Graben
+003-013-024	Madagaskar
+003-013-025	Kenia
+003-013-026	Saudi-Arabien
+003-013-027	Ägypten
+003-013-028	Sahara
+003-013-029	Ghana
+003-013-030	Südafrika
+003-013-031	Argentinien
+003-013-032	Osterinsel
+003-013-033	Machu Picchu
+003-013-034	Kolumbien
+003-013-035	Jamaika
+003-013-036	Mexiko
+003-013-037	Hollywood
+003-013-038	Las Vegas
+003-013-039	Alaska
+003-013-040	Kanada
+003-013-041	Grönland
+003-013-042	New York
+003-013-043	NASA
+003-013-044	Bermuda
+003-013-045	Brasilien
+003-013-046	Schwebender Kontinent
+003-013-047	Mond
 
 004			Extra Stages
+004-000		Grünes Sprießen
+004-000-000	Katzenfrucht-Jubiläum
+004-000-001	Katzenfrucht-Jubiläum
+004-000-002	Katzenfrucht-Jubiläum
+004-001		Lila Sprießen
+004-001-000	Katzenfrucht-Jubiläum
+004-001-001	Katzenfrucht-Jubiläum
+004-001-002	Katzenfrucht-Jubiläum
+004-002		Rotes Sprießen
+004-002-000	Katzenfrucht-Jubiläum
+004-002-001	Katzenfrucht-Jubiläum
+004-002-002	Katzenfrucht-Jubiläum
+004-003		Blaues Sprießen
+004-003-000	Katzenfrucht-Jubiläum
+004-003-001	Katzenfrucht-Jubiläum
+004-003-002	Katzenfrucht-Jubiläum
+004-004		Gelbes Sprießen
+004-004-000	Katzenfrucht-Jubiläum
+004-004-001	Katzenfrucht-Jubiläum
+004-004-002	Katzenfrucht-Jubiläum
+004-005		Immer schlimmer
+004-005-000	Unheilparadies (Irre)
+004-006		Tag der Gerechtigkeit
+004-006-000	Höhere Katzwalt (Irre)
+004-007		Techneurose
+004-007-000	Das All ist alles (Irre)
+004-008		Katzenfrucht-Buffet
+004-008-000	Lila Blitz (Schwierig)
+004-009		Katzenfrucht-Buffet
+004-009-000	Rote Leidenschaft (Schwierig)
+004-010		Katzenfrucht-Buffet
+004-010-000	Blaue Illusion (Schwierig)
+004-011		Katzenfrucht-Buffet
+004-011-000	Goldstrahlen (Schwierig)
+004-012		Katzenfrucht-Buffet
+004-012-000	Lila Blitz (Experte)
+004-013		Katzenfrucht-Buffet
+004-013-000	Rote Leidenschaft (Experte)
+004-014		Katzenfrucht-Buffet
+004-014-000	Blaue Illusion (Experte)
+004-015		Katzenfrucht-Buffet
+004-015-000	Goldstrahlen (Experte)
+004-016		Katzenfrucht-Buffet
+004-016-000	Lila Blitz (Irre)
+004-017		Katzenfrucht-Buffet
+004-017-000	Rote Leidenschaft (Irre)
+004-018		Katzenfrucht-Buffet
+004-018-000	Blaue Illusion (Irre)
+004-019		Katzenfrucht-Buffet
+004-019-000	Goldstrahlen (Irre)
+004-020		Katzenfrucht-Buffet
+004-020-000	Katzenfrucht-Jubiläum
+004-020-001	Katzenfrucht-Jubiläum
+004-020-002	Katzenfrucht-Jubiläum
+004-021		Verrückte Moneko
+004-021-000	auf DEM MOND
+004-022		Seltsames Sprießen
+004-022-000	Blutrot (Tödlich)
+004-022-001	Flugangst (Tödlich)
+004-022-002	Dunkles Herz (Tödlich)
+004-022-003	Heiliger Zorn (Tödlich)
+004-022-004	Galaktische Bedrohung (Tödlich)
+004-022-005	Stahl auf Stahl (Tödlich)
+004-022-006	Meere des Todes (Tödlich)
+004-025		Wahrheitsspektrum (Tödlich)
+004-025-000	Wunderiris (Tödlich)
+004-026		Labor der Relikte
+004-026-000	Geisterkräfte
+004-027		Das Versuchsgelände
+004-027-000	2. Rd.: Morgendämmerung (Normal)
+004-027-001	2. Rd.: Abenddämmerung (Normal)
+004-028		Das Versuchsgelände
+004-028-000	3. Rd.: Morgendämmerung (Schw.)
+004-028-001	3. Rd.: Abenddämmerung (Schw.)
+004-029		Das Versuchsgelände
+004-029-000	4. Rd.: Morgendämmerung (Vet.)
+004-029-001	4. Rd.: Abenddämmerung (Vet.)
+004-030		Das Versuchsgelände
+004-030-000	Ltzt. Rd.: Morgendämmerung (Vet.)
+004-030-001	Ltzt. Rd.: Abenddämmerung (Vet.)
+004-031		Das Versuchsgelände
+004-031-000	2. Rd.: Morgendämmerung (Experte)
+004-031-001	2. Rd.: Abenddämmerung (Experte)
+004-032		Das Versuchsgelände
+004-032-000	3. Rd.: Morgendämmerung (Irre)
+004-032-001	3. Rd.: Abenddämmerung (Irre)
+004-033		Das Versuchsgelände
+004-033-000	4. Rd.: Morgendämmerung (Tödl.)
+004-033001	4. Rd.: Abenddämmerung (Tödl.)
+004-034		Das Versuchsgelände
+004-034-000	Ltzt. Rd.: Morgendämmerung (Tödl.)
+004-034-001	Ltzt. Rd.: Abenddämmerung (Tödl.)
+004-035		Das Versuchsgelände
+004-035-000	2. Rd.: Morgendämmerung (Tödl.)
+004-035-001	2. Rd.: Abenddämmerung (Tödl.)
+004-036		Das Versuchsgelände
+004-036-000	3. Rd.: Morgendämmerung (Tödl.)
+004-036-001	3. Rd.: Abenddämmerung (Tödl.)
+004-037		Das Versuchsgelände
+004-037-000	4. Rd.: Morgendämmerung (Gnadenl.)
+004-037001	4. Rd.: Abenddämmerung (Gnadenl.)
+004-038		Das Versuchsgelände
+004-038-000	Ltzt. Rd.: Morgendämmerung (Gnad.)
+004-038-001	Ltzt. Rd.: Abenddämmerung (Gnad.)
+004-039		Engel & Teufel
+004-039-000	Reich des Gemetzels (Tödlich)
+004-040		Königin & Tote
+004-040-000	Parade der Toten (Tödlich)
+004-041		König & Jungfrau
+004-041-000	Junge Bomberin (Tödlich)
 
 007			Heavenly Tower
 007-000		Himmlischer Turm
@@ -1815,6 +2505,48 @@
 007-005-007	Ebene 8
 007-005-008	Ebene 9
 007-005-009	Oberste Ebene
+
+011			Ranking Dojo Stages
+011-000		Arena of Honor
+011-000-000	Blutrote Prüfung
+011-001		Arena of Honor
+011-001-000	Schattenprüfung
+011-002		Arena of Honor
+011-002-000	Phönixprüfung
+011-003		Arena of Honor
+011-003-000	5-Jahres-Plan
+011-004		Arena of Honor
+011-004-000	Weak of Spirit
+011-005		Arena of Honor
+011-005-000	Sechs Jahre stark
+011-006		Arena of Honor
+011-006-000	Into the Fray: Servants Strike!
+011-007		Arena of Honor
+011-007-000	Aqua Paradiso
+011-010		Arena of Honor
+011-010-000	Angriff der Shakurels
+011-011		Arena of Honor
+011-011-000	Hof der Vampire
+011-012		Arena of Honor
+011-012-000	Tanz im Himmel
+011-013		Arena of Honor
+011-013-000	Tote aus dem All
+011-014		Arena of Honor
+011-014-000	I Seek the Strongest
+011-015		Arena of Honor
+011-015-000	Glückszahl 7
+011-016		Arena of Honor
+011-016-000	MikuMiku Music Fest
+011-017		Arena of Honor
+011-017-000	Tränenturnier
+011-018		Arena of Honor
+011-018-000	I Seek the Strongest
+011-020		Geschichten der Ehre
+011-020-000	Blutrote Prüfung
+011-021		Geschichten der Ehre
+011-021-000	Schattenprüfung
+011-022		Geschichten der Ehre
+011-022-000	Phönixprüfung
 
 012			Challenge Mode
 012-000		Herausforderungskampf

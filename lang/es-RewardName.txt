@@ -463,68 +463,68 @@
 15557	Ghost Alibaba
 15570	Petrolodón
 15611	Rey Nekokhamen
-30000	Attack Up D: Red
-30001	Attack Up C: Red
-30002	Attack Up B: Red
-30003	Attack Up A: Red
-30004	Attack Up S: Red
-30005	Defense Up D: Red
-30006	Defense Up C: Red
-30007	Defense Up B: Red
-30008	Defense Up A: Red
-30009	Defense Up S: Red
-30010	Attack Up D: Float
-30011	Attack Up C: Float
-30012	Attack Up B: Float
-30013	Attack Up A: Float
-30014	Attack Up S: Float
-30015	Defense Up D: Float
-30016	Defense Up C: Float
-30017	Defense Up B: Float
-30018	Defense Up A: Float
-30019	Defense Up S: Float
-30020	Attack Up D: Black
-30021	Attack Up C: Black
-30022	Attack Up B: Black
-30023	Attack Up A: Black
-30024	Attack Up S: Black
-30025	Defense Up D: Black
-30026	Defense Up C: Black
-30027	Defense Up B: Black
-30028	Defense Up A: Black
-30029	Defense Up S: Black
-30030	Defense Up D: Metal
-30031	Defense Up C: Metal
-30032	Defense Up B: Metal
-30033	Defense Up A: Metal
-30034	Defense Up S: Metal
-30035	Attack Up D: Angel
-30036	Attack Up C: Angel
-30037	Attack Up B: Angel
-30038	Attack Up A: Angel
-30039	Attack Up S: Angel
-30040	Defense Up D: Angel
-30041	Defense Up C: Angel
-30042	Defense Up B: Angel
-30043	Defense Up A: Angel
-30044	Defense Up S: Angel
-30045	Attack Up D: Alien
-30046	Attack Up C: Alien
-30047	Attack Up B: Alien
-30048	Attack Up A: Alien
-30049	Attack Up S: Alien
-30050	Defense Up D: Alien
-30051	Defense Up C: Alien
-30052	Defense Up B: Alien
-30053	Defense Up A: Alien
-30054	Defense Up S: Alien
-30055	Attack Up D: Zombie
-30056	Attack Up C: Zombie
-30057	Attack Up B: Zombie
-30058	Attack Up A: Zombie
-30059	Attack Up S: Zombie
-30060	Defense Up D: Zombie
-30061	Defense Up C: Zombie
-30062	Defense Up B: Zombie
-30063	Defense Up A: Zombie
-30064	Defense Up S: Zombie
+30000	Aumento de ataque D: Rojos
+30001	Aumento de ataque C: Rojos
+30002	Aumento de ataque B: Rojos
+30003	Aumento de ataque A: Rojos
+30004	Aumento de ataque S: Rojos
+30005	Mejora de defensa D: Rojos
+30006	Mejora de defensa C: Rojos
+30007	Mejora de defensa B: Rojos
+30008	Mejora de defensa A: Rojos
+30009	Mejora de defensa S: Rojos
+30010	Aumento de ataque D: Voladores
+30011	Aumento de ataque C: Voladores
+30012	Aumento de ataque B: Voladores
+30013	Aumento de ataque A: Voladores
+30014	Aumento de ataque S: Voladores
+30015	Mejora de defensa D: Voladores
+30016	Mejora de defensa C: Voladores
+30017	Mejora de defensa B: Voladores
+30018	Mejora de defensa A: Voladores
+30019	Mejora de defensa S: Voladores
+30020	Aumento de ataque D: Negros
+30021	Aumento de ataque C: Negros
+30022	Aumento de ataque B: Negros
+30023	Aumento de ataque A: Negros
+30024	Aumento de ataque S: Negros
+30025	Mejora de defensa D: Negros
+30026	Mejora de defensa C: Negros
+30027	Mejora de defensa B: Negros
+30028	Mejora de defensa A: Negros
+30029	Mejora de defensa S: Negros
+30030	Mejora de defensa D: Metálicos
+30031	Mejora de defensa C: Metálicos
+30032	Mejora de defensa B: Metálicos
+30033	Mejora de defensa A: Metálicos
+30034	Mejora de defensa S: Metálicos
+30035	Aumento de ataque D: Ángeles
+30036	Aumento de ataque C: Ángeles
+30037	Aumento de ataque B: Ángeles
+30038	Aumento de ataque A: Ángeles
+30039	Aumento de ataque S: Ángeles
+30040	Mejora de defensa D: Ángeles
+30041	Mejora de defensa C: Ángeles
+30042	Mejora de defensa B: Ángeles
+30043	Mejora de defensa A: Ángeles
+30044	Mejora de defensa S: Ángeles
+30045	Aumento de ataque D: Álienes
+30046	Aumento de ataque C: Álienes
+30047	Aumento de ataque B: Álienes
+30048	Aumento de ataque A: Álienes
+30049	Aumento de ataque S: Álienes
+30050	Mejora de defensa D: Álienes
+30051	Mejora de defensa C: Álienes
+30052	Mejora de defensa B: Álienes
+30053	Mejora de defensa A: Álienes
+30054	Mejora de defensa S: Álienes
+30055	Aumento de ataque D: Zombis
+30056	Aumento de ataque C: Zombis
+30057	Aumento de ataque B: Zombis
+30058	Aumento de ataque A: Zombis
+30059	Aumento de ataque S: Zombis
+30060	Mejora de defensa D: Zombis
+30061	Mejora de defensa C: Zombis
+30062	Mejora de defensa B: Zombis
+30063	Mejora de defensa A: Zombis
+30064	Mejora de defensa S: Zombis
