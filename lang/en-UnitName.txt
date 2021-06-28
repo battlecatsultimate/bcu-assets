@@ -441,11 +441,11 @@
 440	Bebe	Nagisa & Cat	
 441	D'arktanyan	Valiant D'arktanyan	
 442	Lone Cat and Kitten	Vendor Cat and Kitten	Tourist Cat
-443	Driller Cat	Power Driller Cat	
-444	Piledriver Cat	Power Piledriver Cat	
-445	Cutter Cat	Power Cutter Cat	
-446	Backhoe Cat	Power Backhoe Cat	
-447	Miter Saw Cat	Power Saw Cat	
+443	Driller Cat	Power Driller Cat	Neo Driller Cat
+444	Piledriver Cat	Power Piledriver Cat	Neo Piledriver Cat
+445	Cutter Cat	Power Cutter Cat	Neo Cutter Cat
+446	Backhoe Cat	Power Backhoe Cat	Neo Backhoe Cat
+447	Miter Saw Cat	Power Saw Cat	Neo Saw Cat
 448	Musashi Miyamoto	Wargod Miyamoto	
 449	Headmistress Jeanne	Headmistress Jeanne ψ	
 450	High Lord Babel	Babel the Darkflame	
@@ -567,7 +567,7 @@
 566	Lifeguard Cats	Sweet Bro Cats	
 567			
 568	Idi:N	Idi:N2	
-569	Gravi	Gravolo	
+569	Gravi	Gravolo	Gravolodon
 570	Skull Rider Vars	Nightmare King Vars	
 571	E. Honda	E. Honda CC	
 572	Balrog	Balrog CC	
@@ -607,5 +607,8 @@
 606	Panda Cat	Genma Cat	
 607	Adventurer Kanna	Swashbuckler Kanna	
 608			
-609			
+609	Dark Aegis Garu	Dark Beastlord Garu	
 610	Gold Brick Cat	King Ingot Cat	King Nekokhamen
+611	Godzilla Cat	Shin Godzilla Cat	
+612	Princess Cat	Empress Cat	
+613	Elder Mask Doron	Cat Mask Doron	

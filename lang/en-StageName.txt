@@ -1205,6 +1205,14 @@
 001-250-000	First Round (Easy)
 001-250-001	First Round (Expert)
 001-250-002	First Round (Deadly)
+001-251		The Angel & The Demon
+001-251-000	No Plan A (Deadly)
+001-252		The Queen & The Dead
+001-252-000	Honey Trap (Deadly)
+001-253		The King & The Maiden
+001-253-000	N-1 Grand Prix (Deadly)
+001-254		60M Celebration Gifts Galore!
+001-254-000	Joy of 60 Million!
 002			Collaboration Stages
 002-003		To the Future
 002-003-000	Architecture
@@ -2371,6 +2379,12 @@
 004-038		The Proving Grounds
 004-038-000	Last Round: Dawn (Merciless)
 004-038-001	Last Round: Dusk (Merciless)
+004-039		The Angel & The Demon
+004-039-000	Realm of Carnage (Deadly)
+004-040		The Queen & The Dead
+004-040-000	Parade of the Dead (Deadly)
+004-041		The King & The Maiden
+004-041-000	Bombergirl (Deadly)
 
 006			Catclaw Dojo
 006-000
@@ -2768,6 +2782,13 @@
 013-034-003	Nano-Grapes
 013-034-004	Cloned Farmers
 013-034-005	Gene Salesmen
+013-035		Ancient Forest Labyrinth
+013-035-000	The Ivy-Sealed Door
+013-035-001	Reincarnation Ring
+013-035-002	Re-Leaf Towers
+013-035-003	Canopy Altar
+013-035-004	Sappy Underpass
+013-035-005	The Face of God
 
 014			Drink Stages
 014-000		Growing Yellow
@@ -2851,6 +2872,7 @@
 014-031-000	Mammals? (Insane)
 014-032		The Crazed Titan
 014-032-000	Crazy Cats (Insane)
+
 024			Baron Boss Stages
 024-000		Baron Seal Strikes!
 024-000-000	Red Alert 1
@@ -3157,6 +3179,29 @@
 024-014-017	Eggs of Chaos Lv. 18
 024-014-018	Eggs of Chaos Lv. 19
 024-014-019	Eggs of Chaos Lv. 20
+024-015		June Gauntlet
+024-015-000	Forbidden Lv.1
+024-015-001	Forbidden Lv.2
+024-015-002	Forbidden Lv.3
+024-015-003	Forbidden Lv.4
+024-015-004	Forbidden Lv.5
+024-015-005	Forbidden Lv.6
+024-015-006	Forbidden Lv.7
+024-015-007	Forbidden Lv.8
+024-015-008	Forbidden Lv.9
+024-015-009	Forbidden Lv.10
+024-016		June Gauntlet II
+024-016-000	Forbidden II Lv.11
+024-016-001	Forbidden II Lv.12
+024-016-002	Forbidden II Lv.13
+024-016-003	Forbidden II Lv.14
+024-016-004	Forbidden II Lv.15
+024-016-005	Forbidden II Lv.16
+024-016-006	Forbidden II Lv.17
+024-016-007	Forbidden II Lv.18
+024-016-008	Forbidden II Lv.19
+024-016-009	Forbidden II Lv.Max
+
 025			Enigma Stages
 025-000		Aitum Fields
 025-000-000	Trench Warfare (Insane)
@@ -3218,6 +3263,7 @@
 025-028-000	Summit Shrine (Merciless)
 025-029		Steel Frontier
 025-029-000	Frontier Shrine (Merciless)
+
 027			Collab Baron Stages
 027-000		Messier's Assault
 027-000-000	Land of Dreams Lv1

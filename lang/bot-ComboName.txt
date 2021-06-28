@@ -193,3 +193,8 @@
 76	Breakfast in Undies
 77	Street Bazaar
 145	Working Vacation
+78	Dragon Driller
+79	Mythic Driver
+80	Brave Cutter
+81	Whale Digger
+82	Sexy Sawer

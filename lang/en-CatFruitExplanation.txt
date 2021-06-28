@@ -441,11 +441,11 @@
 440	<br><br>
 441	<br><br>
 442	<br><br>
-443	<br><br>
-444	<br><br>
-445	<br><br>
-446	<br><br>
-447	<br><br>
+443	True form evolution gains faster<br>attack speed, and the Strong<br>ability vs Traitless enemies!
+444	True form evolution gains increased<br>Attack power, and also shortened<br>cooldown time between deployments!
+445	True form evolution gains<br>increased Attack power, and<br>Immunity to Wave Attacks!
+446	True form evolution gains<br>Surge Attack abilities!<br>
+447	True form evolution increases<br>Defense & Attack power, and<br>gains Barrier Breaker abilities!
 448	<br><br>
 449	<br><br>
 450	<br><br>
@@ -567,7 +567,7 @@
 566	<br><br>
 567	<br><br>
 568	<br><br>
-569	<br><br>
+569	True Form evolution gains improved<br>Defense and Attack Power!<br>Also gains a wider Wave Attack area!
 570	<br><br>
 571	<br><br>
 572	<br><br>
@@ -609,3 +609,6 @@
 608	<br><br>
 609	<br><br>
 610	True Form evolution gains increased<br>defense, plus immunity to Toxic!<br>
+611	<br><br>
+612	<br><br>
+613	<br><br>

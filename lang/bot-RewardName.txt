@@ -114,6 +114,7 @@
 154	G Ticket
 155	Lucky Ticket
 156	G Ticket
+157	Platinum Shard
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -213,6 +214,7 @@
 1172	Idi:N
 1053	Stone Cat
 1173	Ranma Cat (M)
+1054	Elder Mask Doron
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -437,6 +439,11 @@
 15438	Cat God the Golden
 15440	Almighty Chronos
 10443	Tourist Cat
+15444	Neo Driller Cat
+15445	Neo Piledriver Cat
+15446	Neo Cutter Cat
+15447	Neo Backhoe Cat
+15448	Neo Saw Cat
 10453	Future Cat
 15468	Super S-Zeus
 15469	Head Rococo
@@ -454,6 +461,7 @@
 15534	Bad Blaster Saki
 15535	Almighty Hades
 15557	Ghost Alibaba
+15570	Gravolodon
 15611	King Nekokhamen
 30000	Attack Up D: Red
 30001	Attack Up C: Red
