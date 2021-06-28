@@ -1,0 +1,89 @@
+0	★ Bâtisseur d’empires ★
+1	★ Bâtisseur d’empires 2 ★
+2	★ Bâtisseur d’empires 3 ★
+3	★ Fléau des morts-vivants ★
+4	★ Fléau des morts-vivants 2 ★
+5	★ Fléau des morts-vivants 3 ★
+6	★ Le futur nous appartient ★
+7	★ Le futur nous appartient 2 ★
+8	★ Le futur nous appartient 3 ★
+9	★ Meurs et re-meurs ★
+10	★ Meurs et re-meurs 2 ★
+11	★ Conquistador du cosmos ★
+12	★ Conquistador du cosmos 2 ★
+13	★ Conquistador du cosmos 3 ★
+14	★ Plus de mondes à conquérir ? ★
+15	★ Je suis une légende ★
+16	★ Je suis une légende 2 ★
+17	★ Je suis une légende 3 ★
+18	★ Horizon rouge ★
+19	★ Sombres cieux ★
+20	★ Vents blancs ★
+21	★ Bourrasque sacrée ★
+22	★ Orage d’acier ★
+23	★ Météo alien ★
+24	★ Menace parfaite ★
+25	★ Typhon Z ★
+26	★ Faille dimensionnelle ★
+27	★ Tempête ancestrale ★
+28	★ Cruauté angélique ★
+29	★ Traversée de Charon ★
+30	★ Sans couronne ★
+31	★ Le grand Z ★
+32	★ Usurpateur ★
+33	★ L’heure du réveil ★
+34	★ Étoile filante ★
+35	★ Assez fou pour bosser ★
+36	★ Épisodes déments ★
+37	★ À ta taille ★
+38	★ Une autre année ★
+39	★ Question de rituel ★
+40	★ Mon amour d’ours ★
+41	★ Amour de jeunesse ★
+42	★ La fin d’une ambition ★
+43	★ Mari et femme ? ★
+44	★ Vacances au soleil ★
+45	★ SOS fantômes ★
+46	★ Respect des anciens ★
+47	★ Mouiller le maillot ★
+48	★ En grève ★
+49	★ Miracle de Noël ★
+50	★ 30e étage ★
+51	★ 40e étage ★
+52	★ Maîtrise absolue ★
+53	★ Faire de l’argent ★
+54	★ Faire de l’argent 2 ★
+55	★ Nouveau riche ★
+56	★ Nouveau riche 2 ★
+57	★ Dans les 1 % ★
+58	★ Dans les 1 % 2 ★
+59	★ Routard ★
+60	★ Innovateur ★
+61	★ Bon classement ★
+62	★ Je peux vous aider ? ★
+63	★ Enfant de la forêt ★
+64	★ Mini némésis ★
+65	★ Sous la capuche ★
+66	★ Rédemption du ronin ★
+67	★ Bun d’acier ★
+68	★ Cœur d’argile ★
+69	★ Dans la tourmente ★
+70	★ Dynastie ancienne ★
+71	★ Vox Deus ★
+72	★ Détails glauques ★
+73	★ Le clan Urs ★
+74	★ Famille frénétique ★
+75	★ Wanwan cosmique ★
+76	★ Meurs et re-meurs 3 ★
+77	★ Ange des morts-vivants ★
+78	★ Coup de main ★
+79	★ 50e étage ★
+80	★ Rites printaniers ★
+81	★ Chanson d’été ★
+82	★ Festin d’automne ★
+83	★ Danse hivernale ★
+84	★ Toute l’année ★
+85	★ Je suis une légende 4 ★
+86	★ Annihilateur ancestral ★
+87	★ Route vers la ruine ★
+88	★ Tous avec Doron ★

@@ -1,0 +1,552 @@
+000	Cane
+001	Serpe
+002	Essi
+003	Ippo
+004	Suino
+005	Jackie Ping
+006	Gory
+007	Bee Bee
+008	Sir Foca
+009	Eleboin
+010	Kang Uro
+011	Cornetto
+012	Professor Orso
+013	Cocco
+014	B.B.Bunny
+015	Scoiattolero
+016	Orso assassino
+017	Timidone
+018	La faccia
+019	
+020	
+021	Miss. Cartello
+022	Falena
+023	Imperatore Oscuro Nyandam
+024	Professor Bum-bum
+025	
+026	
+027	
+028	
+029	
+030	
+031	Maestro F.
+032	S. Truzzo
+033	Lontraccia
+034	Kory
+035	Gobbetta
+036	Oca
+037	Gufotto
+038	Cinghio
+039	IL BRADIPO
+040	Rennana
+041	Bassetto
+042	Celebribau
+043	I. Ena
+044	Dober
+045	Lupo Ururun
+046	Cane oscuro
+047	Metallippo
+048	San Suino II
+049	J.K. Bum-bum
+050	Bum-bum nero
+051	Gory nero
+052	Pugile K oscuro
+053	Kurosawah il regista
+054	Super Metallippo
+055	
+056	Metallornetto
+057	Professor Cyberorso
+058	Cyberfaccia
+059	Sir Metallifoca
+060	
+061	
+062	
+063	
+064	Ciclone rosso
+065	
+066	
+067	
+068	
+069	Ciclone bianco
+070	Ciclone nero
+071	Metalliciclone
+072	
+073	
+074	
+075	
+076	
+077	
+078	
+079	
+080	
+081	
+082	
+083	
+084	
+085	
+086	
+087	
+088	
+089	
+090	
+091	
+092	
+093	
+094	
+095	
+096	
+097	
+098	
+099	
+100	
+101	
+102	
+103	
+104	
+105	
+106	
+107	
+108	
+109	
+110	
+111	
+112	Ciclone divino
+113	Ippo celestiale
+114	Gabriello
+115	Gory angelico
+116	Fanboy angelico
+117	Cane Muro
+118	Serpe rossa
+119	Persico Jones
+120	
+121	
+122	
+123	Impiccione
+124	Lontra oscura
+125	Sleipnir angelico
+126	
+127	
+128	
+129	
+130	
+131	
+132	
+133	
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	
+144	
+145	
+146	Blogger troll
+147	Metallicane
+148	Mini Nyandam
+149	Elenoir
+150	
+151	
+152	
+153	
+154	
+155	
+156	
+157	
+158	
+159	
+160	Pulcino A
+161	
+162	
+163	
+164	
+165	
+166	
+167	Shibalieno
+168	Kokko
+169	Yppo
+170	Foca imperatrice
+171	Falana
+172	LeMurr
+173	Helmut Grank
+174	L.F. Accia
+175	Orsa maggiore
+176	Cli-One
+177	Cinghio Nimoy
+178	Elisabetta LVI
+179	Ciclone cosmico
+180	Signore Galattico Nyandam
+181	Valchiria corrotta
+182	Forbiciuro
+183	Cybercorno
+184	Signora Celebribau
+185	Dottor F.
+186	
+187	
+188	
+189	
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	Capy
+206	Berserkory
+207	Rondinone
+208	Calamary
+209	Alpacky
+210	Bradipo stagionato
+211	Bum-bum simbionte
+212	Gatto Bahamut furioso
+213	
+214	
+215	
+216	
+217	
+218	
+219	
+220	
+221	
+222	
+223	
+224	
+225	
+226	
+227	
+228	
+229	
+230	
+231	
+232	Clionel angelico crudele
+233	
+234	
+235	Mr. Talpa
+236	Il Ciclone Perfetto
+237	
+238	
+239	
+240	
+241	
+242	
+243	
+244	
+245	
+246	
+247	
+248	
+249	
+250	
+251	
+252	
+253	
+254	Mr. Angelo
+255	Tu Can
+256	Neruccio
+257	Re Wahwah
+258	Nome in codice "Cappuccetto"
+259	
+260	
+261	Cinghiafino
+262	
+263	
+264	
+265	
+266	Henry
+267	Hannya
+268	
+269	
+270	
+271	ReginA
+272	Mini Bum-bum
+273	
+274	
+275	
+276	
+277	
+278	
+279	
+280	Cinghiale selvatico
+281	
+282	
+283	
+284	Zane
+285	Zerpe
+286	Zippo
+287	Zuino
+288	Zackie Ping
+289	Zory
+290	Zir Foca
+291	Zang Uro
+292	Zroco
+293	Lord Tomby
+294	Ziclone
+295	
+296	
+297	
+298	
+299	
+300	
+301	
+302	
+303	Miss Haka
+304	Sal il Grosso
+305	
+306	
+307	
+308	
+309	Zane Bara
+310	Zobbetta
+311	
+312	
+313	
+314	
+315	
+316	Inumusha
+317	Babau dei morti
+318	Delfina
+319	
+320	
+321	
+322	
+323	
+324	
+325	
+326	
+327	
+328	
+329	
+330	
+331	
+332	
+333	
+334	
+335	
+336	
+337	
+338	
+339	
+340	Cala Maria
+341	
+342	
+343	
+344	
+345	
+346	
+347	
+348	
+349	
+350	
+351	
+352	
+353	
+354	Gatto Eremita
+355	Gracchio
+356	
+357	
+358	
+359	
+360	Shibalieno Élite
+361	Ping Astro
+362	Generale GreGory
+363	Elesolare
+364	Progetto F
+365	Caporale Sterry
+366	Astrico Jones
+367	Il Gatto divino
+368	
+369	
+370	
+371	
+372	
+373	
+374	
+375	Tuca
+376	
+377	Super ciclone cosmico
+378	
+379	Suino con le ali
+380	Mistica maschera Yulala
+381	
+382	
+383	
+384	
+385	
+386	
+387	Rossuccio
+388	UltraBeeBee
+389	
+390	
+391	
+392	
+393	
+394	
+395	
+396	
+397	
+398	
+399	
+400	
+401	
+402	
+403	
+404	
+405	Mech-Bum
+406	Bum-bum antico
+407	Cane Antico
+408	
+409	
+410	
+411	
+412	Sir Codone
+413	Vecchiorno
+414	Notturna
+415	
+416	
+417	Astro Beluga
+418	Ribbo
+419	Gatto divino
+420	Loris
+421	
+422	
+423	Moderato
+424	S. Pruzzo
+425	
+426	
+427	Orso cadavere
+428	Cinghio del terrore
+429	
+430	
+431	Tapiro
+432	
+433	
+434	
+435	
+436	
+437	
+438	Ciclone primordiale
+439	
+440	
+441	
+442	
+443	Mesocosmociclone
+444	Fratelli Anguilla
+445	Assolotty
+446	Giga dio boss finale
+447	Ostruzione Obstructa
+448	
+449	
+450	Canumaru
+451	
+452	
+453	
+454	
+455	
+456	
+457	
+458	
+459	
+460	
+461	
+462	
+463	
+464	
+465	
+466	
+467	
+468	Zoca
+469	Thrillerz
+470	
+471	
+472	
+473	
+474	
+475	
+476	
+477	Mr. Puff-puff
+478	
+479	Cometa di Puffsley
+480	
+481	
+482	
+483	
+484	
+485	
+486	
+487	
+488	
+489	
+490	
+491	Okame nera
+492	Papuu araldo celestiale
+493	Regina Madre V
+494	
+495	Kappy Jr.
+496	Urs e Fenrir
+497	Cocconator
+498	Tacchia
+499	
+500	
+501	
+502	
+503	
+504	
+505	
+506	Signore Supremo Wanwan
+507	
+508	
+509	
+510	
+511	Z-Onel angelo della morte
+512	Mini Ziclone
+513	San Dober
+514	Doremi
+515	
+516	Maestro Uril
+517	Koronio
+518	
+519	
+520	
+521	Johnnyleonte
+522	
+523	
+524	
+525	
+526	Idi:Re
+527	Zondine
+528	
+529	
+530	
+531	
+532	
+533	
+534	
+535	Gattivo imperatore
+536	
+537	
+538	Cinghio jr.
+539	
+540	
+541	Raynard
+542	
+543	
+544	
+545	
+546	
+547	Mister Mer
+548	
+549	Gory furioso
+550	
+551	Doron in fiamme stagionato

@@ -1,0 +1,89 @@
+0	★ Alzamiento de imperios ★
+1	★ Alzamiento de imperios 2 ★
+2	★ Alzamiento de imperios 3 ★
+3	★ Remuertos ★
+4	★ Requetemuertos ★
+5	★ Requetemuertísimos ★
+6	★ El futuro es nuestro ★
+7	★ El futuro es nuestro 2 ★
+8	★ El futuro es nuestro 3 ★
+9	★ ¡Y nada de resucitar! ★
+10	★ ¡Y nada de resucitar! 2 ★
+11	★ La conquista del espacio ★
+12	★ La conquista del espacio 2 ★
+13	★ La conquista del espacio 3 ★
+14	★ No quedan mundos que conquistar ★
+15	★ Soy leyenda ★
+16	★ Soy leyenda 2 ★
+17	★ Soy leyenda 3 ★
+18	★ Números rojos ★
+19	★ Magia negra ★
+20	★ Blanco y en botella ★
+21	★ ¡Por todos los cielos! ★
+22	★ Telón de acero ★
+23	★ Nublado con probabilidad de álienes ★
+24	★ Amenaza perfecta ★
+25	★ Apocalipsis Z ★
+26	★ Falla dimensional ★
+27	★ La tormenta perfecta ★
+28	★ Crueldad angelical ★
+29	★ La barca de Caronte ★
+30	★ Descoronada ★
+31	★ De la A a la Z ★
+32	★ Usurpador ★
+33	★ ¡Despierta! ★
+34	★ Como caído del cielo ★
+35	★ ¡Que estoy muy loco! ★
+36	★ Todos tenemos nuestras manías ★
+37	★ De tu propio tamaño ★
+38	★ Un año más ★
+39	★ Percal ritual ★
+40	★ Asuntos sospechosos ★
+41	★ Amor de juventud ★
+42	★ El fin de la ambición ★
+43	★ ¿Recién... casados? ★
+44	★ Vacaciones en el mar ★
+45	★ ¿A quién vas a llamar? ★
+46	★ Respeto por los mayores ★
+47	★ Sudar la camiseta ★
+48	★ ¡Huelga! ★
+49	★ Miaulagro de Navidad ★
+50	★ Piso 30 ★
+51	★ Piso 40 ★
+52	★ Hasta el final ★
+53	★ Hasta el último céntimo ★
+54	★ Hasta el último céntimo 2 ★
+55	★ Nuevos ricos ★
+56	★ Nuevos ricos 2 ★
+57	★ Tío Gilito ★
+58	★ Tío Gilito 2 ★
+59	★ De mochilero ★
+60	★ Innovando, que es gerundio ★
+61	★ Clasificación ★
+62	★ ¿En qué puedo ayudarle? ★
+63	★ Hijo del bosque ★
+64	★ Mininémesis ★
+65	★ Bajo la capucha ★
+66	★ Redención de ronin ★
+67	★ Puños de acero ★
+68	★ Corazón de barro ★
+69	★ ¡Qué tormento! ★
+70	★ Dinastía ancestral ★
+71	★ Vox Dei ★
+72	★ Asuntos cenagosos ★
+73	★ Clan Ursus ★
+74	★ Familia de locos ★
+75	★ Ladrido cósmico ★
+76	★ ¡Y nada de resucitar! 3 ★
+77	★ Ángel de la No Muerte ★
+78	★ Una ayudita ★
+79	★ Piso 50 ★
+80	★ Rito Primaveral ★
+81	★ Cantar Estival ★
+82	★ Festín Otoñal ★
+83	★ Danza Invernal ★
+84	★ Todo el Año ★
+85	★ Soy leyenda 4 ★
+86	★ Aniquilación arcaica ★
+87	★ Camino a la Ruina ★
+88	★ Adelante con Doron ★

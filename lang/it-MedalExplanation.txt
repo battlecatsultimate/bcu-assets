@@ -1,0 +1,89 @@
+0	Trova ogni tesoro superiore in Impero dei Gatti Cap. 1
+1	Trova ogni tesoro superiore in Impero dei Gatti Cap. 2
+2	Trova ogni tesoro superiore in Impero dei Gatti Cap. 3
+3	Supera ogni invasione zombi in Impero dei Gatti Cap. 1
+4	Supera ogni invasione zombi in Impero dei Gatti Cap. 2
+5	Supera ogni invasione zombi in Impero dei Gatti Cap. 3
+6	Trova ogni tesoro superiore in Verso il futuro Cap. 1
+7	Trova ogni tesoro superiore in Verso il futuro Cap. 2
+8	Trova ogni tesoro superiore in Verso il futuro Cap. 3
+9	Supera ogni invasione zombi in Verso il futuro Cap. 1
+10	Supera ogni invasione zombi in Verso il futuro Cap. 2
+11	Trova ogni tesoro superiore in Gatti del Cosmo Cap. 1
+12	Trova ogni tesoro superiore in Gatti del Cosmo Cap. 2
+13	Trova ogni tesoro superiore in Gatti del Cosmo Cap. 3
+14	Sconfiggi Ostruzione Obstructa.
+15	Supera ogni mappa da 1 ★ delle Saghe leggendarie
+16	Supera ogni mappa da 2 ★ delle Saghe leggendarie
+17	Supera ogni mappa da 3 ★ delle Saghe leggendarie
+18	Supera "Catastrofe cremisi"
+19	Supera "Paradiso delle tenebre"
+20	Supera "Ineguagliabile"
+21	Supera "Ira del paradiso"
+22	Supera "Dolce ironia"
+23	Supera "Dimensione disperata"
+24	Supera "Rosso di mattina"
+25	Supera "Morti rotolanti"
+26	Supera "La seconda dimensione"
+27	Supera "Tifone Nemo"
+28	Supera "Clionel Ascendente"
+29	Supera "Fiume Stige"
+30	Supera "Incoronazione regale"
+31	Supera "Babau dei morti"
+32	Supera "Vendetta di re Wahwah"
+33	Supera "Sogno profondo"
+34	Supera "Impatto blu"
+35	Supera ogni livello di tipo "matto".
+36	Supera ogni livello "pazzi per".
+37	Supera ogni livello "mini".
+38	Supera "Felice anno nuovo?"
+39	Supera "Felicità rituale"
+40	Supera "Orsi e rimorsi"
+41	Supera "Professore! È primavera!"
+42	Supera "L'amore è un malore"
+43	Supera "La sposa proibita"
+44	Supera "Estate mai!"
+45	Supera "Ospiti Spettrali"
+46	Supera "Vegliardi in città"
+47	Supera "Autunno = Giorno sportivo"
+48	Supera "Viva il lavoro"
+49	Supera "Gatto del ciel"
+50	Supera il 30° piano della Torre celestiale
+51	Supera il 40° piano della Torre celestiale
+52	Completa l'ULTIMO LIVELLO dell'Impresa leggendaria.
+53	Guadagna un totale di 1.000.000 ￠
+54	Guadagna un totale di 5.000.000 ￠
+55	Guadagna un totale di 10.000.000 ￠
+56	Guadagna un totale di 50.000.000 ￠
+57	Guadagna un totale di 100.000.000 ￠
+58	Guadagna un totale di 200.000.000 ￠
+59	Manda Gamatoto in esplorazione per più di 1000 ore.
+60	Completa 5 armi per la Base felina
+61	Raggiungi il Grado giocatore 1000
+62	Recluta un aiutante di Gamatoto di prima categoria.
+63	Sblocca Lupo Ururun
+64	Sblocca Mini Nyandam
+65	Sblocca Cappuccetto Mina
+66	Sblocca Miyamoku Musashi
+67	Sblocca Mech-Bum
+68	Sblocca Canumaru
+69	Supera "Tribunale del Tormento"
+70	Supera "Vecchia regina"
+71	Supera "Paradiso di Papuu"
+72	Supera "Fondo della palude"
+73	Sblocca Urs e Fenrir
+74	Supera "Clan dei pazzi"
+75	Supera "Gloria di Wanwan"
+76	Supera ogni invasione zombi in Verso il futuro Cap. 3
+77	Supera "Il ritorno di Z-Onel!"
+78	Supera "Prima faccenda"
+79	Supera il 50° piano della Torre celestiale.
+80	Supera "Guerra totale: Speciale primaverile"
+81	Supera "Guerra totale: Speciale estivo"
+82	Supera "Guerra totale: Speciale autunnale"
+83	Supera "Guerra totale: Speciale invernale"
+84	Supera tutte le mappe stagionali di Guerra totale
+85	Supera ogni mappa da 4 ★ delle Saghe leggendarie
+86	Sconfiggi Idi:Re e supera il suo livello.
+87	Supera "Preludio della fine"
+88	Sblocca Doron in maschera stagionato

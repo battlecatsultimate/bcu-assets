@@ -1,0 +1,89 @@
+0	Sammle alle ausgezeichneten Schätze aus Katzenimperium Kapitel 1.
+1	Sammle alle ausgezeichneten Schätze aus Katzenimperium Kapitel 2.
+2	Sammle alle ausgezeichneten Schätze aus Katzenimperium Kapitel 3.
+3	Schließe alle Zombieausbruch-Level in Katzenimperium Kapitel 1 ab.
+4	Schließe alle Zombieausbruch-Level in Katzenimperium Kapitel 2 ab.
+5	Schließe alle Zombieausbruch-Level in Katzenimperium Kapitel 3 ab.
+6	Sammle alle ausgezeichneten Schätze aus Zukunftsreise Kapitel 1.
+7	Sammle alle ausgezeichneten Schätze aus Zukunftsreise Kapitel 2.
+8	Sammle alle ausgezeichneten Schätze aus Zukunftsreise Kapitel 3.
+9	Schließe alle Zombieausbruch-Level in Zukunftsreise Kapitel 1 ab.
+10	Schließe alle Zombieausbruch-Level in Zukunftsreise Kapitel 2 ab.
+11	Sammle alle ausgezeichneten Schätze aus Kosmische Katzen Kapitel 1.
+12	Sammle alle ausgezeichneten Schätze aus Kosmische Katzen Kapitel 2.
+13	Sammle alle ausgezeichneten Schätze aus Kosmische Katzen Kapitel 3.
+14	Besiege Filibuster Obstructa.
+15	Schließe alle 1-★-Karten von Legenden ab.
+16	Schließe alle 2-★-Karten von Legenden ab.
+17	Schließe alle 3-★-Karten von Legenden ab.
+18	Schließe „Blutrote Katastrophe“ ab.
+19	Schließe „Himmel der Dunkelheit“ ab.
+20	Schließe „Unvergleichlich“ ab.
+21	Schließe „Zorn des Himmels“ ab.
+22	Schließe „Süße Ironie“ ab.
+23	Schließe „Dimension der Verzweiflung“ ab.
+24	Schließe „Morgenrot“ ab.
+25	Schließe „Wandelnde Tote“ ab.
+26	Schließe „Die 2. Dimension“ ab.
+27	Schließe „Taifun-Nemo“ ab.
+28	Schließe „Aufsteigender Clionel“ ab.
+29	Schließe „Fluss Styx“ ab.
+30	Schließe „Krönung der Königin“ ab.
+31	Schließe „Tödliches Debüt“ ab.
+32	Schließe „König Wahwahs Rache“ ab.
+33	Schließe „Tiefschlaf“ ab.
+34	Schließe „Blauer Schlag“ ab.
+35	Schließe alle verrückten Level ab.
+36	Schließe alle irren Level ab.
+37	Schließe alle kleinen Level ab.
+38	Schließe „Frohes neues Jahr?“ ab.
+39	Schließe „Glücksritual“ ab.
+40	Schließe „Bärenstarke Bären“ ab.
+41	Schließe „Professor! Es ist Frühling!“ ab.
+42	Schließe „Liebe macht krank“ ab.
+43	Schließe „Die verbotene Braut“ ab.
+44	Schließe „Niemals Sommer!“ ab.
+45	Schließe „Geisterhafte Gäste“ ab.
+46	Schließe „Alte Dorfknacker“ ab.
+47	Schließe „Herbst = Sporttag!“ ab.
+48	Schließe „Arbeitsliebe“ ab.
+49	Schließe „Weihkatzglocken“ ab.
+50	Schließe Ebene 30 von „Himmlischer Turm“ ab.
+51	Schließe Ebene 40 von „Himmlischer Turm“ ab.
+52	Beende die SCHLUSSSTUFE von „Legenden-Quest“.
+53	Verdiene 1.000.000￠.
+54	Verdiene 5.000.000￠.
+55	Verdiene 10.000.000￠.
+56	Verdiene 50.000.000￠.
+57	Verdiene 100.000.000￠.
+58	Verdiene 200.000.000￠.
+59	Lass Gamatoto über 1.000 Stunden lang erkunden.
+60	Stelle 5 Katzenbasis-Waffen fertig.
+61	Erreiche Benutzerrang 1.000.
+62	Rekrutiere einen erstklassigen Gamatoto-Helfer.
+63	Schalte Ururun-Wolf frei.
+64	Schalte Kleiner Nyandam frei.
+65	Schalte Rotkäppchen-Mina frei.
+66	Schalte Miyamoku Musashi frei.
+67	Schalte Mecha-Bun frei.
+68	Schalte Dogumaru frei.
+69	Schließe „Hof der Pein“ ab.
+70	Schließe „Die alte Königin“ ab.
+71	Schließe „Papuus Paradies“ ab.
+72	Schließe „Grund des Sumpfs“ ab.
+73	Schalte Urs & Fenrir frei.
+74	Schließe „Clan der Irren“ ab.
+75	Schließe „Wanwans Ruhm“ ab.
+76	Schließe alle Zombieausbruch-Level in Zukunftsreise Kapitel 3 ab.
+77	Schließe „Z-Clionel erhebt sich!“ ab.
+78	Schließe „Erster Botengang“ ab.
+79	Schließe Ebene 50 von „Himmlischer Turm“ ab.
+80	Schließe „Krieg: Frühlingseinsatz“ ab.
+81	Schließe „Krieg: Sommereinsatz“ ab.
+82	Schließe „Krieg: Herbsteinsatz“ ab.
+83	Schließe „Krieg: Wintereinsatz“ ab.
+84	Schließe alle Kriegsjahreszeitkarten ab.
+85	Schließe alle 4-★-Karten von Legenden ab.
+86	Besiege Idi:Re und schließe ihr Level ab.
+87	Schließe „Auftakt zum Ruin“ ab.
+88	Schalte Ältestenmaske Doron frei.

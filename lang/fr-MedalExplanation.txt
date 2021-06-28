@@ -1,0 +1,89 @@
+0	Récupère tous les trésors suprêmes de L’empire des Chats ch. 1
+1	Récupère tous les trésors suprêmes de L’empire des Chats ch. 2
+2	Récupère tous les trésors suprêmes de L’empire des Chats ch. 3
+3	Repousse toutes les invasions zombies de L’empire des Chats ch. 1.
+4	Repousse toutes les invasions zombies de L’empire des Chats ch. 2.
+5	Repousse toutes les invasions zombies de L’empire des Chats ch. 3.
+6	Récupère tous les trésors suprêmes de Vers le futur ch. 1
+7	Récupère tous les trésors suprêmes de Vers le futur ch. 2
+8	Récupère tous les trésors suprêmes de Vers le futur ch. 3
+9	Repousse toutes les invasions zombies de Vers le futur ch. 1.
+10	Repousse toutes les invasions zombies de Vers le futur ch. 2.
+11	Récupère tous les trésors suprêmes dans Les Chats du cosmos ch. 1
+12	Récupère tous les trésors suprêmes dans Les Chats du cosmos ch. 2
+13	Récupère tous les trésors suprêmes dans Les Chats du cosmos ch. 3
+14	Viens à bout de l’Obstructeur chalien
+15	Termine tous les niveaux 1 ★ des Histoires légendaires
+16	Termine tous les niveaux 2 ★ des Histoires légendaires
+17	Termine tous les niveaux 3 ★ des Histoires légendaires
+18	Termine Catastrophe écarlate
+19	Termine Paradis des ténèbres
+20	Termine Sans égal
+21	Termine Colère des cieux
+22	Termine Douce ironie
+23	Termine Dimension désespoir
+24	Termine Rouge levant
+25	Termine La mort qui roule
+26	Termine 2e dimension
+27	Termine Ouragan Némo
+28	Termine Clionel ascendant
+29	Termine Fleuve Styx
+30	Termine Couronnement de la reine
+31	Termine Mort pour sa première
+32	Termine Revanche du Roi Wahwah
+33	Termine Profonde rêverie
+34	Termine Impact bleu
+35	Termine tous les niveaux mabouls
+36	Termine tous les niveaux déments
+37	Termine tous les niveaux des P’tits
+38	Termine Bonne année ?
+39	Termine Bonheur rituel
+40	Termine Les ursidés
+41	Termine Professeur ! C’est le printemps !
+42	Termine L’amour donne des ailes
+43	Termine La noce interdite
+44	Termine Jamais l’été !
+45	Termine Intrus d’outre-tombe
+46	Termine Le club du 3e âge
+47	Termine Automne = Jour des sports !
+48	Termine L’amour du travail
+49	Termine Petit Chachat Noël
+50	Termine le 30e étage de la Tour céleste
+51	Termine le 40e étage de la Tour céleste
+52	Termine le dernier niveau des Quêtes légendaires
+53	Gagne un total de 1 000 000 ￠
+54	Gagne un total de 5 000 000 ￠
+55	Gagne un total de 10 000 000 ￠
+56	Gagne un total de 50 000 000 ￠
+57	Gagne un total de 100 000 000 ￠
+58	Gagne un total de 200 000 000 ￠
+59	Envoie Gamatoto en exploration pendant plus de 1 000 heures
+60	Termine 5 armes pour la base féline
+61	Atteins le rang joueur 1 000
+62	Recrute un auxiliaire de haut niveau pour Gamatoto
+63	Débloque Ururun et Loup
+64	Débloque P’tit Nyandam
+65	Débloque Chaperon Mina
+66	Débloque Miyamoku Musashi
+67	Débloque Méca-Bun
+68	Débloque Toutoumaru
+69	Termine Tribunal du tourment
+70	Termine La vieille reine
+71	Termine Paradis de Papuu
+72	Termine Au fond du marais
+73	Débloque Urs et Fenrir
+74	Termine Clan des déments
+75	Termine Gloire de Wanwan
+76	Termine toutes les invasions zombies de Vers le futur ch. 3.
+77	Termine Ascension de Z-Onel.
+78	Termine Première course
+79	Termine le 50e étage de la Tour céleste
+80	Termine Guerre totale : spécial printemps
+81	Termine Guerre totale : spécial été
+82	Termine Guerre totale : spécial automne
+83	Termine Guerre totale : spécial hiver
+84	Termine toutes les cartes de saison Guerre totale
+85	Termine toutes les cartes 4 ★ des Niveaux légendaires
+86	Viens à bout d’Idi:Re et termine son niveau.
+87	Termine Prélude à la ruine
+88	Débloque Doron masque ancestral

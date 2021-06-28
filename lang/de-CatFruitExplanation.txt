@@ -1,0 +1,614 @@
+000	<br><br>
+001	<br><br>
+002	<br><br>
+003	<br><br>
+004	<br><br>
+005	<br><br>
+006	<br><br>
+007	<br><br>
+008	<br><br>
+009	<br><br>
+010	<br><br>
+011	<br><br>
+012	<br><br>
+013	<br><br>
+014	<br><br>
+015	<br><br>
+016	<br><br>
+017	<br><br>
+018	<br><br>
+019	<br><br>
+020	<br><br>
+021	<br><br>
+022	<br><br>
+023	<br><br>
+024	<br><br>
+025	<br><br>
+026	<br><br>
+027	<br><br>
+028	<br><br>
+029	<br><br>
+030	Wahre-Form-Entwicklung erhöht Reichweite!<br>Gewährt zudem die Chance, die Angriffskraft<br>von fliegenden Feinden zu senken!
+031	Wahre-Form-Entwicklung erhöht alle Werte!<br>Erhält zudem die Fähigkeit, Relikt-Feinde<br>einzufrieren & wird immun gg. feindl. Flüche.
+032	Wahre-Form-Entwicklung erhöht die Vert.<br>und den Angriff! Blockiert Teleport und lähmt<br>rote Feinde noch mehr!
+033	Wahre-Form-Entwicklung erhöht Angriffs-<br>tempo und -kraft! Negiert außerdem Effekte<br>und Schaden durch Wellenangriffe!
+034	Wahre-Form-Entwicklung verstärkt Angriffe!<br>Friert zudem garantiert nicht-eiserne Feinde<br>in der Bewegung ein!
+035	Wahre-Form-Entwicklung verstärkt Angriffe!<br>Kann zudem nicht-eiserne Feinde für kurze<br>Zeit lähmen.
+036	Wahre-Form-Entwicklung verstärkt Angriffe,<br>Vert., Bewegungstempo und Reichweite!<br>
+037	Wahre-Form-Entwicklung verstärkt Angriffe,<br>senkt Einsatzkosten und ermöglicht das<br>Überleben eines tödlichen Schlages!
+038	Wahre Form verbessert Reichweite<br>und Angriffe! Erhält zudem eine verkürzte<br>Abklingzeit nach dem Einsatz!
+039	Wahre-Form-Entwicklung gewährt Flächen-<br>angriffe! Friert zudem garantiert rote Feinde<br>in der Bewegung ein!
+040	Wahre-Form-Entwicklung erhöht<br>Verteidigung und Angriffstempo!<br>
+041	Wahre Form erhöht Angriffskraft!<br>Negiert zudem Schwächungs-Effekte<br>von feindlichen Angriffen.
+042	Wahre-Form-Entwicklung erhöht Reichweite<br>und Angriff! Friert zudem garantiert rote<br>Feinde in der Bewegung ein!
+043	Wahre-Form-Entwicklung erhöht alle Werte.<br>Gewährt zudem Resistenz gg. Wellenangriffe<br>und schützt auch Einheiten hinter sich!
+044	Wahre-Form-Entwicklung erhöht Vert. &<br>gewährt äußerst mächtige einfache Angriffe.<br>
+045	<br><br>
+046	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffskraft. Gewährt eine erhöhte<br>Haudrauf-Chance und Reichweite!
+047	Wahre-Form-Entwicklung erhöht deutlich die<br>Verteidigung und gewährt Flächenangriffe!<br>
+048	Wahre Form verbessert Reichweite<br>und Verteidigung und erhöht die Chance,<br>rote Feinde zurückzustoßen.
+049	Wahre-Form-Entwicklung erhöht Reichweite<br>und Angriffskraft.<br>Gewährt außerdem Flächenangriff!
+050	Wahre-Form-Entwicklung erhöht Vert.,<br>Reichweite und Angriffskraft.<br>Angriffe erhalten einen Flächeneffekt!
+051	Wahre Form erhöht Verteidigung!<br>Erhöht zudem deutlich die Chance, fliegende<br>Feinde zurückzustoßen.
+052	Wahre Form erhöht Angriffskraft<br>und -reichweite. Erhöht zudem die Zeit,<br>die Feinde eingefroren sind.
+053	<br><br>
+054	<br><br>
+055	Wahre Form erhöht Verteidigung und<br>Angriffsreichweite. Erhöht die Zeit, für<br>die rote Feinde verlangsamt sind.
+056	Wahre-Form-Entwicklung erhöht Vert.,<br>Bewegungstempo, Angriff und Reichweite!<br>
+057	Wahre-Form-Entwicklung erhöht alle Werte<br>und Chance auf Haudrauf-Treffer! Gewährt<br>dazu Resistenz gegen feindliche Rückstöße.
+058	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffskraft!<br>
+059	Wahre-Form-Entwicklung erhöht alle Werte<br>und gewährt Wellenangriff-Fähigkeiten!<br>
+060	<br><br>
+061	Wahre Form bietet stärkere Verteidigung!<br><br>
+062	<br><br>
+063	<br><br>
+064	<br><br>
+065	<br><br>
+066	<br><br>
+067	<br><br>
+068	<br><br>
+069	<br><br>
+070	<br><br>
+071	Wahre-Form-Entwicklung verstärkt Angriffe!<br>Erhöht zudem das Bewegungstempo.<br>
+072	Wahre-Form-Entwicklung erhöht alle Werte<br>ermöglicht höheren Angriffskraftzuwachs<br>und gewährt Wellenangriff-Immunität!
+073	Wahre Form erhöht Verteidigung!<br>Erhöht auch Angriffskraft sowie die Zeit, für<br>die schwarze Feinde eingefroren bleiben!
+074	<br><br>
+075	Wahre-Form-Entwicklung erhöht Vert.<br>und Bewegungstempo deutlich und erhöht<br>Angriffskraft und -reichweite.
+076	Wahre-Form-Entwicklung erhöht Vert.<br>und Bewegungstempo sowie Angriffskraft<br>und Angriffsreichweite!
+077	<br><br>
+078	<br><br>
+079	<br><br>
+080	<br><br>
+081	<br><br>
+082	<br><br>
+083	Wahre-Form-Entwicklung erhöht alle Werte<br>und gewährt die Fähigkeit, fliegende Feinde<br>garantiert zurückzustoßen.
+084	Wahre-Form-Entwicklung erhöht Vert.,<br>Bewegungstempo, Angriff und Reichweite!<br>
+085	Wahre-Form-Entwicklung erhöht<br>Verteidigung, Angriff und Reichweite!<br>
+086	Wahre-Form-Entwicklung erhöht Vert.,<br>Angriffsreichweite und Angriffstempo!<br>
+087	Wahre-Form-Entwicklung erhöht Vert.,<br>Bewegungstempo und Angriffsreichweite!<br>Ist zudem stärker gegen rote Feinde!
+088	<br><br>
+089	<br><br>
+090	<br><br>
+091	<br><br>
+092	<br><br>
+093	<br><br>
+094	<br><br>
+095	<br><br>
+096	<br><br>
+097	<br><br>
+098	<br><br>
+099	<br><br>
+100	<br><br>
+101	<br><br>
+102	<br><br>
+103	<br><br>
+104	<br><br>
+105	Wahre-Form-Entwicklung erhöht Vert.,<br>Angriff, Reichweite und Angriffstempo und<br>gewährt Schwächen-Resistenz!
+106	Wahre-Form-Entwicklung verstärkt Angriffe!<br>Verteidigung und Bewegungstempo sind<br>deutlich verstärkt, immun gegen Rückstoß!
+107	Wahre-Form-Entwicklung erhöht<br>Verteidigung, Reichweite und Angriffskraft.<br>Friert fliegende Feinde zudem einfacher ein!
+108	<br><br>
+109	<br><br>
+110	<br><br>
+111	<br><br>
+112	<br><br>
+113	<br><br>
+114	<br><br>
+115	<br><br>
+116	<br><br>
+117	<br><br>
+118	<br><br>
+119	<br><br>
+120	<br><br>
+121	<br><br>
+122	<br><br>
+123	<br><br>
+124	Wahre-Form-Entwicklung erhöht<br>Angriffskraft/-reichweite und Verteidigung!<br>
+125	Wahre-Form-Entwicklung erhöht<br>Angriffskraft/-reichweite und Verteidigung!<br>
+126	<br><br>
+127	<br><br>
+128	<br><br>
+129	<br><br>
+130	Wahre-Form-Entwicklung verbessert<br>Verteidigung, Reichweite und Angriffskraft.<br>Wird zudem immun gegen feindliche Flüche.
+131	<br><br>
+132	<br><br>
+133	<br><br>
+134	Wahre-Form-Entwicklung erhöht Vert.,<br>Angriffskraft und Angriffsreichweite! Wird<br>immun gg. feindliche Schwächen-Effekte!
+135	Wahre-Form-Entwicklung erhöht Angriff!<br>Friert zudem fliegende und Engel-Feinde<br>garantiert in der Bewegung ein!
+136	Wahre-Form-Entwicklung erhöht alle Werte!<br>Gewährt zudem eine höhere Chance, rote<br>und Engel-Feinde einzufrieren!
+137	Wahre-Form-Entwicklung erhöht Vert.,<br>Reichweite und zudem das Angriffstempo!<br>
+138	Wahre-Form-Entwicklung erhöht alle Werte<br>& gewährt die Fähigkeit, eiserne und Engel-<br>Feinde garantiert zu lähmen.
+139	<br><br>
+140	<br><br>
+141	<br><br>
+142	<br><br>
+143	Wahre-Form-Entwicklung erh. Bewegungs-<br>tempo deutlich! Erhöht zudem Verteidigung,<br>Angriff und Reichweite!
+144	Wahre-Form-Entwicklung erhält größere<br>Angriffsfläche, stärkeren Angriffsschaden<br>und höhere Reichweite für Wellenangriffe!
+145	Wahre-Form-Entw. erhöht Verteidigung,<br>Reichweite und Angriffskraft. Schwarze<br>Feinde werden länger verlangsamt.
+146	Wahre-Form-Entwicklung gewährt deutlich<br>erhöhte Angriffskraft und Verteidigung.<br>Erhöhte Chance, Engel zurückzustoßen.
+147	Wahre Form senkt Bewegungstempo,<br>aber erhöht Verteidigung, Angriffskraft und<br>Angriffsreichweite deutlich.
+148	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffskraft!<br>
+149	Wahre-Form-Entwicklung erhöht Vert.,<br>Reichweite und Bewegungstempo.<br>Angriffe erhalten einen Flächeneffekt!
+150	Wahre-Form-Entwicklung erhöht Angriffs-<br>reichweite und verkürzt Produktionsdauer.<br>Engel sind zudem länger eingefroren!
+151	Wahre-Form-Entwicklung verstärkt Angriffe,<br>Verteidigung und Angriffsreichweite!<br>
+152	Wahre-Form-Entwicklung gewährt erhöhte<br>Angriffskraft und Verteidigung. Wird zudem<br>immun gg. Flüche und stark gg. Relikte.
+153	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriff und gewährt Abwehrbrecher!<br>Verlangsamt Engel noch länger!
+154	<br><br>
+155	<br><br>
+156	<br><br>
+157	<br><br>
+158	Wahre-Form-Entwicklung erhöht Vert.,<br>Bewegungstempo und Angriffstempo!<br>
+159	Wahre-Form-Entwicklung bietet verbesserte<br>Angriffskraft und Reichweite!<br>
+160	<br><br>
+161	<br><br>
+162	<br><br>
+163	<br><br>
+164	<br><br>
+165	<br><br>
+166	<br><br>
+167	<br><br>
+168	Wahre-Form-Entwicklung erhöht Angriffs-<br>reichweite deutlich.<br>
+169	Wahre-Form-Entwicklung entfernt Rückstoß-<br>Effekt, aber normale und Wellenangriffe<br>sind garantiert Haudrauf-Angriffe!
+170	Wahre-Form-Entwicklung erhöht Angriffs-<br>reichweite & Chance auf Haudrauf-Angriffe!<br>
+171	Wahre-Form-Entwicklung gewährt Fähigkeit,<br>Feinde zu schwächen. Außerdem bleiben<br>Feinde nun länger eingefroren.
+172	Wahre-Form-Entwicklung erhöht alle Werte!<br>Gewährt zudem eine höhere Chance auf<br>Lähmen und Immunität gegen feindl. Flüche.
+173	True form evolution shortens<br>cooldown time after deployments!<br>
+174	True form evolution increases attack range!<br><br>
+175	<br><br>
+176	<br><br>
+177	Wahre Form erhöht alle Werte und gewährt<br>Abwehrbrecher sowie Verlangsamen<br>und Rückstoß gegen Engel!
+178	<br><br>
+179	<br><br>
+180	True Form evolution increases Attack<br>Range and Attack Speed! Plus, gains<br>the Immune to Weaken ability!
+181	<br><br>
+182	<br><br>
+183	<br><br>
+184	<br><br>
+185	Wahre-Form-Entwicklung erhöht Vert.<br>Bewegungstempo und Angriffsreichweite!<br>Chance auf Haudrauf-Treffer ist zudem erhöht!
+186	<br><br>
+187	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffstempo, aber Angriffskraft ist<br>niedriger. Kann Engel-Angriffen ausweichen!
+188	<br><br>
+189	<br><br>
+190	<br><br>
+191	<br><br>
+192	<br><br>
+193	<br><br>
+194	Wahre-Form-Entwicklung ist stark gegen<br>Alien-Feinde und gewährt Immunität gegen<br>Wellenangriffe.
+195	Wahre-Form-Entwicklung erhöht Angriff<br>gegen Alien-Feinde.<br>Verlangsamt zudem Aliens garantiert!
+196	Wahre-Form-Entwicklung fügt Aliens und<br>Relikten heftigen Schaden zu. Wird immun<br>gegen feindliche Flüche.
+197	Wahre-Form-Entwicklung bietet erhöhtes<br>Bewegungstempo und steigert Verteidigung<br>und Angriffstempo!
+198	Wahre Form erhöht Verteidigung.<br>Gewährt zudem die Fähigkeit, die feindliche<br>Angriffskraft zu schwächen!
+199	Wahre-Form-Entwicklung erhöht Vert.<br>Gewährt effektiveres Einfrieren gg. Aliens &<br>die Fähigkeit, einen Todesstoß zu überleben!
+200	<br><br>
+201	<br><br>
+202	<br><br>
+203	Wahre Form erhöht Bewegungstempo!<br>Wird stark gegen Engel und Aliens!<br>
+204	<br><br>
+205	<br><br>
+206	<br><br>
+207	<br><br>
+208	<br><br>
+209	<br><br>
+210	<br><br>
+211	<br><br>
+212	Wahre-Form-Entwicklung gewährt Fähigkeit,<br>rote und Alien-Feinde zurückzustoßen und<br>zu schwächen!
+213	<br><br>
+214	<br><br>
+215	<br><br>
+216	<br><br>
+217	<br><br>
+218	<br><br>
+219	<br><br>
+220	<br><br>
+221	<br><br>
+222	<br><br>
+223	<br><br>
+224	<br><br>
+225	<br><br>
+226	Wahre Form greift nur Aliens an,<br>aber Verteidigung & Angriffskraft sind höher!<br>Resistent gegen wiederholte Schwächungen.
+227	<br><br>
+228	<br><br>
+229	<br><br>
+230	<br><br>
+231	<br><br>
+232	<br><br>
+233	<br><br>
+234	<br><br>
+235	<br><br>
+236	<br><br>
+237	Wahre-Form-Entwicklung erh. Bewegungs-<br>tempo, gewährt Zufallsangriff und die<br>Fähigkeit, einen tödl. Schlag zu überleben.
+238	Wahre-Form-Entwicklung erhält<br>stark erhöhte Angriffskraft!<br>
+239	Wahre-Form-Entwicklung vergr. Angriffs-<br>tempo & Angriffsfläche & verleiht Fähigkeit,<br>nicht-eiserne Feinde zu verlangsamen.
+240	Wahre-Form-Entwicklung erhöht Angriffs-<br>tempo und deutlich die Verteidigung.<br>Ermöglicht höheren Angriffskraftzuwachs!
+241	<br><br>
+242	<br><br>
+243	<br><br>
+244	<br><br>
+245	<br><br>
+246	<br><br>
+247	<br><br>
+248	<br><br>
+249	<br><br>
+250	<br><br>
+251	<br><br>
+252	<br><br>
+253	<br><br>
+254	<br><br>
+255	<br><br>
+256	<br><br>
+257	Wahre-Form-Entwicklung erhöht<br>Verteidigung und Angriffskraft!<br>
+258	Wahre-Form-Entwicklung erhöht<br>Verteidigung und Angriffskraft! Zusätzlich<br>immun gg. Rückstoß durch feindl. Angriffe.
+259	Wahre-Form-Entwicklung erhöht<br>Verteidigung!<br>
+260	<br><br>
+261	Wahre-Form-Entwicklung gewährt Chance,<br>Zombies zurückzustoßen und zu verlangs.<br>Gewährt zudem die Zombietöter-Fähigkeit!
+262	<br><br>
+263	<br><br>
+264	<br><br>
+265	<br><br>
+266	<br><br>
+267	<br><br>
+268	Wahre-Form-Entwicklung steigert Angriff<br>und Verteidigung. Wird zudem immun gegen<br>Flüche und schwächt Relikt-Feinde.
+269	<br><br>
+270	True Form evolution gains increased<br>Defense, Move Speed, and Attack Power!<br>Plus, gains the Immune to Slow ability!
+271	Wahre-Form-Entwicklung erhöht<br>Angriffskraft!<br>
+272	Wahre-Form-Entwicklung erhöht<br>Verteidigung! Zudem erh. erlittener Schaden<br>die Angriffskraft noch stärker!
+273	<br><br>
+274	<br><br>
+275	<br><br>
+276	<br><br>
+277	<br><br>
+278	<br><br>
+279	<br><br>
+280	<br><br>
+281	<br><br>
+282	<br><br>
+283	Wahre-Form-Entwicklung erhöht<br>Angriffstempo! Erhöht zudem die<br>Verteidigung gegen rote Feinde noch mehr.
+284	<br><br>
+285	<br><br>
+286	Wahre-Form-Entwicklung gewährt erhöhtes<br>Angriffstempo. Verteidigung gg. fliegende<br>Feinde von robust zu irre robust verbessert.
+287	<br><br>
+288	<br><br>
+289	<br><br>
+290	<br><br>
+291	<br><br>
+292	<br><br>
+293	<br><br>
+294	<br><br>
+295	<br><br>
+296	<br><br>
+297	<br><br>
+298	<br><br>
+299	<br><br>
+300	<br><br>
+301	<br><br>
+302	<br><br>
+303	<br><br>
+304	Wahre-Form-Entwicklung erhöht Angriffs-<br>reichweite und Angriffsflächengröße!<br>
+305	Wahre-Form-Entwicklung erhöht<br>Angriffstempo!<br>
+306	Wahre-Form-Entwicklung erhöht Vert.<br>und Rückstoß-Rate!<br>
+307	Wahre Form erhöht Vert. und Bewegungs-<br>tempo deutlich! Zudem halten bei<br>Zombies Verlangsamen-Effekte länger an!
+308	Wahre Form erhöht Verteidigung deutlich!<br>Auch die Angriffsreichweite wird erhöht und<br>die Einfrierdauer bei Zombies steigt!
+309	<br><br>
+310	<br><br>
+311	<br><br>
+312	<br><br>
+313	<br><br>
+314	<br><br>
+315	<br><br>
+316	Wahre-Form-Entwicklung erhöht<br>Verteidig., Bewegungstempo & Angriffskraft!<br>
+317	<br><br>
+318	<br><br>
+319	<br><br>
+320	<br><br>
+321	<br><br>
+322	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffstempo! Gewährt Immunität<br>gegen feindliche Schwächen-Effekte.
+323	Wahre-Form-Entwicklung steigert Angriff<br>und Verteidigung. Gewährt zudem Immunität<br>gegen Flüche & kann Relikte einfrieren.
+324	<br><br>
+325	Wahre Form erhöht Verteidigung.<br>Erhöht zudem die Angriffsreichweite!<br>
+326	<br><br>
+327	<br><br>
+328	<br><br>
+329	<br><br>
+330	<br><br>
+331	<br><br>
+332	<br><br>
+333	<br><br>
+334	Wahre-Form-Entwicklung erhöht alle Werte!<br>Lähmt zudem fliegende und Engel-Feinde<br>für längere Zeit!
+335	Wahre-Form-Entwicklung steigert Angriff<br>und Verteidigung! Schwächt rote Feinde<br>für noch längere Zeit!
+336	Wahre-Form-Entwicklung steigert Angriffs-<br>tempo und Anzahl der Rückstöße gg. Feinde.<br>
+337	<br><br>
+338	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffsreichweite. Schwächt schwarze<br>Feinde zudem für längere Zeit.
+339	<br><br>
+340	<br><br>
+341	True Form evolution increases Defense and<br>Attack Power! Gains immunity to Knockback<br>and the Barrier Breaker ability!
+342	<br><br>
+343	<br><br>
+344	Wahre-Form-Entwicklung erhöht<br>alle Werte.<br>
+345	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffskraft! Angriffstempo sinkt, aber<br>flieg. Feinde werden garantiert eingefroren.
+346	<br><br>
+347	<br><br>
+348	<br><br>
+349	<br><br>
+350	<br><br>
+351	Wahre-Form-Entwicklung verkürzt Abkling-<br>zeit nach Einsatz. Erhöht Angriffskraft und<br>Bewegungstempo. Immun gg. Schwächen.
+352	<br><br>
+353	<br><br>
+354	<br><br>
+355	Wahre-Form-Entwicklung erhöht Angriff<br>und gewährt Rundumschlag!<br>
+356	<br><br>
+357	Wahre Form steigert Angriffstempo!<br><br>
+358	Wahre-Form-Entwicklung erhöht Verteidi-<br>gung und Chance auf Haudrauf-Treffer!<br>
+359	Wahre-Form-Entwicklung erhöht Angriff<br>und Verteidigung!<br>
+360	Wahre-Form-Entwicklung erhöht Angriff<br>und Verteidigung!<br>
+361	Wahre-Form-Entwicklung erhöht Angriff<br>und Verteidigung!<br>
+362	Wahre-Form-Entwicklung verstärkt Angriffe,<br>Verteidigung und Angriffsreichweite!<br>
+363	<br><br>
+364	<br><br>
+365	<br><br>
+366	<br><br>
+367	<br><br>
+368	<br><br>
+369	<br><br>
+370	Wahre-Form-Entwicklung erhöht Vert.<br>und gewährt eine Chance, eiserne Feinde<br>zurückzustoßen.
+371	<br><br>
+372	<br><br>
+373	<br><br>
+374	<br><br>
+375	<br><br>
+376	Wahre Form steigert alle Werte!<br>Wird immun gegen feindliche Schwächen-<br>und Verlangsamen-Fähigkeiten!
+377	Wahre-Form-Entwicklung erhöht Vert.,<br>Angriffskraft und Angriffstempo.<br>Schließt Angriffsaufbau schneller ab.
+378	<br><br>
+379	<br><br>
+380	<br><br>
+381	<br><br>
+382	<br><br>
+383	<br><br>
+384	<br><br>
+385	<br><br>
+386	<br><br>
+387	<br><br>
+388	<br><br>
+389	<br><br>
+390	Wahre-Form-Entwicklung senkt die Angriffsrate,<br>aber erhöht die Angriffsfläche deutlich!<br>Kann zudem auf noch größere Distanz angreifen.
+391	Wahre-Form-Entwicklung erhöht Angriffstempo<br>und -fläche deutlich!<br>
+392	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffsreichweite!<br>Gewährt zudem Flächenangriff!
+393	Wahre-Form-Entwicklung erhöht Angriffskraft<br>und -tempo sowie Verteidigung!<br>Wird zudem immun gegen Verlangsamen!
+394	Wahre-Form-Entwicklung senkt die Angriffsrate,<br>aber steigert Verteidigung, Angriffskraft und<br>Angriffsreichweite!
+395	Wahre-Form-Entwicklung erhöht Angriffskraft<br>und Verteidigung!<br>Wird zudem immun gegen Welleneffekte!
+396	Wahre-Form-Entwicklung erhöht Vert.,<br>und stärkt Rückstöße gegen Feinde!<br>
+397	Wahre-Form-Entwicklung gewährt<br>Irre robuste Verteidigung<br>gegen eiserne Feinde!
+398	<br><br>
+399	<br><br>
+400	<br><br>
+401	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriff. Erhöht zudem die Wirkdauer des<br>Einfrieren-Effekts gegen Alien-Feinde!
+402	<br><br>
+403	<br><br>
+404	<br><br>
+405	<br><br>
+406	<br><br>
+407	<br><br>
+408	<br><br>
+409	<br><br>
+410	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriff. Gewährt zudem die Chance,<br>rote Feinde zurückzustoßen!
+411	<br><br>
+412	<br><br>
+413	<br><br>
+414	Wahre-Form-Entwicklung steigert Angriffsrate.<br>Angriffsaufbau dauert kürzer und wird stärker,<br>nachdem Schaden erlitten wurde!
+415	<br><br>
+416	<br><br>
+417	Wahre-Form-Entwicklung steigert Angriff!<br><br>
+418	<br><br>
+419	<br><br>
+420	<br><br>
+421	<br><br>
+422	<br><br>
+423	<br><br>
+424	<br><br>
+425	<br><br>
+426	Wahre-Form-Entwicklung steigert Angriff<br>und Verteidigung. Gewährt zudem Immunität<br>gegen Flüche. Stark gegen Relikt-Feinde.
+427	Wahre Form erhöht Vert. und gewährt<br>längere Schwächungseffekte. Schwächt<br>Relikte und gewährt Immunität gg. Flüche.
+428	<br><br>
+429	<br><br>
+430	<br><br>
+431	Wahre-Form-Entwicklung steigert Angriffs-<br>tempo! Friert zudem Feinde garantiert ein.<br>Stark gegen Zombie-Feinde.
+432	<br><br>
+433	<br><br>
+434	<br><br>
+435	<br><br>
+436	Wahre Form halbiert Einsatzkosten und<br>verringert Abklingzeit nach dem Einsatz!<br>
+437	Also, ich überleg' ja auch, ob ich mich mal<br>entwickeln sollte. Aber nur mit goldener<br>Katzenfrucht. Gibt's vielleicht am Schrein?
+438	<br><br>
+439	Wahre-Form-Entwicklung erhöht<br>Verteidigung und Angriffskraft! Wird zudem<br>immun gegen feindliche Teleport-Effekte!
+440	<br><br>
+441	<br><br>
+442	<br><br>
+443	Wahre-Form-Entwicklung gewährt erhöhtes<br>Angriffstempo und die Fähigkeit<br>„Stark gegen wertelose Feinde“!
+444	Wahre-Form-Entwicklung erhöht<br>Angriffskraft und verkürzt die<br>Abklingzeit zwischen Einsätzen!
+445	Wahre-Form-Entwicklung erhöht<br>Angriffskraft und gewährt<br>Immunität gegen Wellen!
+446	Wahre-Form-Entwicklung gewährt<br>Zufallsangriff-Fähigkeiten!<br>
+447	Wahre-Form-Entwicklung erhöht<br>Verteidigung & Angriffskraft und<br>gewährt Abwehrbrecher-Fähigkeiten!
+448	<br><br>
+449	<br><br>
+450	<br><br>
+451	<br><br>
+452	<br><br>
+453	<br><br>
+454	<br><br>
+455	<br><br>
+456	<br><br>
+457	<br><br>
+458	<br><br>
+459	<br><br>
+460	<br><br>
+461	<br><br>
+462	<br><br>
+463	<br><br>
+464	<br><br>
+465	<br><br>
+466	<br><br>
+467	True Fom evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
+468	True Fom evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Black enemies!
+469	True Fom evolution gains improved<br>defense and knock-back rate!<br>Plus, faster movement speed!
+470	<br><br>
+471	<br><br>
+472	<br><br>
+473	<br><br>
+474	<br><br>
+475	<br><br>
+476	<br><br>
+477	<br><br>
+478	<br><br>
+479	<br><br>
+480	<br><br>
+481	<br><br>
+482	<br><br>
+483	<br><br>
+484	<br><br>
+485	<br><br>
+486	<br><br>
+487	<br><br>
+488	<br><br>
+489	<br><br>
+490	<br><br>
+491	<br><br>
+492	<br><br>
+493	<br><br>
+494	<br><br>
+495	<br><br>
+496	Wahre-Form-Entwicklung erhöht<br>Verteidigung deutlich! Außerdem steigt<br>die Chance auf wilde Schläge!
+497	<br><br>
+498	<br><br>
+499	<br><br>
+500	<br><br>
+501	<br><br>
+502	Wahre-Form-Entwicklung erhöht deutlich<br>Verteidigung und die Wellenangriffsfläche!<br>
+503	<br><br>
+504	<br><br>
+505	Wahre-Form-Entwicklung erhöht<br>Verteidigung. Gewährt zudem garantierten<br>Rückstoß und verlangs. wertelose Feinde!
+506	<br><br>
+507	<br><br>
+508	<br><br>
+509	<br><br>
+510	<br><br>
+511	True Form Evolution gains increased<br>chance of Savage Blow, with stronger<br>attacks after taking damage!
+512	<br><br>
+513	<br><br>
+514	<br><br>
+515	<br><br>
+516	<br><br>
+517	<br><br>
+518	<br><br>
+519	Wahre-Form-Entwicklung erhöht Angriffs- &<br>Verteidigungskraft, verbessert Willensstärke.<br>Immunität gg. Gift- und Zufallsangriffe!
+520	<br><br>
+521	<br><br>
+522	<br><br>
+523	Wahre-Form-Entwicklung erhöht Vert.<br>und gewährt Immunität gg. Verlangsamen!<br>
+524	<br><br>
+525	Wahre-Form-Entwicklung erhöht<br>Verteidigungs- & Angriffskraft.<br>Erhält zudem Fluchangriff gg. Engel!
+526	<br><br>
+527	<br><br>
+528	<br><br>
+529	<br><br>
+530	<br><br>
+531	<br><br>
+532	<br><br>
+533	Wahre Form greift nur Relikte/Aliens an,<br>Ist aber immun gegen Flüche, die Fähigk.<br>Verbündeter blockieren!
+534	Wahre-Form-Entwicklung gewährt<br>Immunität gegen feindliche<br>Verlangsamungs- und Rückstoßeffekte!
+535	<br><br>
+536	<br><br>
+537	<br><br>
+538	<br><br>
+539	<br><br>
+540	<br><br>
+541	<br><br>
+542	<br><br>
+543	<br><br>
+544	<br><br>
+545	<br><br>
+546	<br><br>
+547	<br><br>
+548	<br><br>
+549	<br><br>
+550	<br><br>
+551	<br><br>
+552	<br><br>
+553	<br><br>
+554	<br><br>
+555	<br><br>
+556	True Fom evolution gains big changes<br>to its abilities, including massive damage<br>to Angels and resistance to Knockback.
+557	<br><br>
+558	<br><br>
+559	<br><br>
+560	<br><br>
+561	<br><br>
+562	<br><br>
+563	<br><br>
+564	<br><br>
+565	<br><br>
+566	<br><br>
+567	<br><br>
+568	<br><br>
+569	Wahre-Form-Entwicklung erhöht Vert.,<br>und Angriffskraft!<br>Verteidigung und die Wellenangriffsfläche!
+570	<br><br>
+571	<br><br>
+572	<br><br>
+573	<br><br>
+574	<br><br>
+575	<br><br>
+576	<br><br>
+577	<br><br>
+578	<br><br>
+579	<br><br>
+580	<br><br>
+581	<br><br>
+582	<br><br>
+583	<br><br>
+584	<br><br>
+585	<br><br>
+586	<br><br>
+587	<br><br>
+588	<br><br>
+589	<br><br>
+590	<br><br>
+591	<br><br>
+592	<br><br>
+593	<br><br>
+594	<br><br>
+595	<br><br>
+596	<br><br>
+597	<br><br>
+598	<br><br>
+599	<br><br>
+600	<br><br>
+601	<br><br>
+602	<br><br>
+603	<br><br>
+604	<br><br>
+605	<br><br>
+606	<br><br>
+607	<br><br>
+608	<br><br>
+609	<br><br>
+610	Wahre-Form-Entwicklung erhöht<br>Verteidigung, zudem immun gegen Gifte!<br>
+611	<br><br>
+612	<br><br>
+613	<br><br>

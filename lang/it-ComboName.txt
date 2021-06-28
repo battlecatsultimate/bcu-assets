@@ -1,0 +1,200 @@
+0	Armata felina
+1	A porte chiuse
+2	Capitano Achab
+3	Rock letale
+4	Giappone chic
+5	Bagnanti
+6	Rumore di ali
+7	Elicotteri
+8	Mele e arance
+9	Fai un inchino
+10	Suore in fuga
+11	Angeli del caos
+12	Speciale lingerie
+13	In fiore
+14	Amici d'infanzia
+15	Cuoio caldo
+16	Gilda dei burattinai
+17	Pyon Pyon per due
+18	Aiuto provvidenziale
+19	Innamorarsi
+20	Principe ranocchio
+21	Nipotino adorato
+22	Niente paura in scena
+23	Rischio biologico
+24	Sole di mezza estate
+25	Il dono della renna
+26	Grande schermo
+27	Gambe lunghe
+28	Anima della festa
+29	Bravissimo!
+30	Tredici
+31	Ricchezze urticanti
+100	L'attacco dei Mini
+101	X-Files
+102	Gambe per giorni
+103	Storia dell'arte
+104	Moby Dick
+105	Ritorno a scuola
+106	Occhio del ciclone
+107	Moicani
+108	Dischi volanti
+109	Mech
+110	Macho Man
+111	Quattro salti
+112	Tirare i fili
+113	Re e regina
+114	Entra il ninja
+115	Gioventù problematica
+116	Duetto
+117	Segnale antincendio
+118	Riso e maiale
+119	Sorrisi ai gatti
+120	Re leone
+121	Pesca e banana
+122	Maledizione di Honnoji
+123	Fresco nell'arsura
+124	Missione Apollo
+125	Osso ossuto
+126	Cavalleria e dolciumi
+127	Graduatoria competitiva
+128	Gatti e panzer
+129	Fascia per capelli
+130	Guarda come frusto
+131	Mascherata
+200	Cuori matti
+201	Potere delle tenebre
+202	Che schifo!
+203	Nyanko, Inc.
+204	Stagioni d'amore
+205	Fuoco di paglia
+206	Fioritura
+207	Speciale Bento
+208	Parlando del diavolo
+209	Arti classiche
+210	Donna sportiva
+211	Gentiluomini
+212	Spinner
+213	Colli lunghi
+214	Senti che ritmo
+215	Trattamento speciale
+216	Film horror
+217	Scuola di gatti
+218	Lance incrociate
+219	Battito cardiaco
+300	Amanti dei lecca-lecca
+301	Maestro e apprendista
+302	Tre re
+303	Innocenti ragazzate
+304	Fusi di testa
+305	Sbruffoni
+306	Dolci
+307	Sezioni acuminate
+308	Nemico del passato
+309	Pugnopugnopugno!
+310	Sete di battaglia
+311	Punisci le oscenità
+312	Team di due
+313	Doppio tifone
+314	Inganno del vento
+315	Quelli del seminterrato
+316	Ricognizione aerea
+317	In arresto
+318	Circo felino
+319	Camicia a scacchi
+1000	Doppio appuntamento
+1001	Oziando
+1002	Maledizione!
+1003	Modestia immodesta
+1004	Studio Jibbly
+1005	Pantaloni di zucca
+1006	Attività paranormale
+1007	Problemi di fegato
+1008	Era dei dinosauri
+32	Giocherellando
+33	Ricchi e poveri
+34	Koi e il drago
+35	Giochi mortali
+132	Come sopra, anche sotto
+320	Futuro di guerra
+321	Bazooka Bros.
+322	Rivalità
+323	Re celestiali
+36	Tabula rasa
+37	Salvatori d'acciaio
+38	Viaggio intergalattico
+133	Colpito dal fulmine
+134	Chic senza collo
+135	Laguna blu
+220	Dei dei cani
+324	Furia vulcanica
+39	Forza maledetta
+40	Agenzia segreta
+41	Vita d'amore
+136	Donne della giungla
+137	Sognando di volare
+138	Offerte agli dei
+221	Forza benedetta
+325	Banda di assassini
+42	Copricapo classico
+139	Un braccio al giorno
+222	Come un disco, baby
+326	Affari benedetti
+43	Il mio carissimo amico
+44	Caldo, genuino e veloce
+327	Vita da pendolare
+328	Portami fuori
+45	Pollice verde
+46	Cuore viola
+47	Turismo marittimo
+48	Motore a pedali
+140	Nazionali
+141	Treni che passione
+223	Corsa al brunch
+49	Bianco e nero
+50	Sommergibilista reale
+224	Avanguardia
+225	Gara dei campioni
+329	Metti sotto ghiaccio
+330	Spadoni
+51	Grazie di tutto
+52	Troverai la felicità
+53	Prestazione miracolosa
+54	Marshmallow arrostito
+55	Miagolii sotto la pioggia
+142	Possibilità di tornado
+226	Alta tensione
+56	Due in uno
+57	Uovo sodo
+58	Cuore imbroglione?
+227	Colleghi part-time
+59	Tribunale imperiale
+60	Morbido e flessibile
+61	Più siamo, meglio stiamo
+143	Abiti audaci
+144	Fan del cosplay
+62	Postapocalisse
+63	Campioni in kimono
+64	Scatto di crescita
+65	Dragoni vecchi e giovani
+66	Le ruote del destino
+67	Giorno dell'indipendenza
+68	Preda del giorno
+69	Scudi di tutti i tipi
+70	Modalità coop
+331	Cattivoni
+332	Orecchie di gatto
+72	Testacoda
+73	Conti offshore
+74	Ninjutsu carino
+333	Cielo limpido
+334	Età per bere
+75	Prova della strega
+76	Colazione in mutande
+77	Bazar urbano
+145	Vacanza di lavoro
+78	Trivella del drago
+79	Battipalo mitica
+80	Tagliatutto coraggioso
+81	Scavatore orca
+82	Motosega sexy

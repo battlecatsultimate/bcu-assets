@@ -1,0 +1,552 @@
+000	Chucho
+001	Serpi
+002	Pandilla
+003	Hipo
+004	Cerdi
+005	Ping Pong
+006	Gori
+007	Bee-Bee
+008	Señor Foca
+009	L'Fante
+010	Kan Gu
+011	Ceronte
+012	Profeoso
+013	Kodri
+014	Lali Ebre
+015	Ardi
+016	Asesinoso
+017	Timidín
+018	Careto
+019	
+020	
+021	Señora Cartelia
+022	Pol Illa
+023	Emperador Nyandam
+024	Profe Bun Bun
+025	
+026	
+027	
+028	
+029	
+030	
+031	Jefe H.
+032	A. Vestruz
+033	Nutri Ente
+034	Kory
+035	Camelle
+036	Pati Difuso
+037	Lechuzo
+038	Javi Li
+039	Pérez Oso
+040	Mac. Reno
+041	Perrito Caliente
+042	Celebriche
+043	H. Nah
+044	Dóberman Poli
+045	Lobo Ururun
+046	Chucho Oscuro
+047	Hipo Metálico
+048	Sir Cerdi II
+049	J. K. Bun Bun
+050	Bun Bun Negro
+051	Gori Negro
+052	Kan Gu Sombra
+053	Emperador Nyandam Oscuro
+054	Hipo Supermetálico
+055	
+056	Ceronte Metálico
+057	Profe Ciberoso
+058	Cibercareto
+059	Señor Foca Metálica
+060	
+061	
+062	
+063	
+064	Ciclón Rojo
+065	
+066	
+067	
+068	
+069	Ciclón Blanco
+070	Ciclón Negro
+071	Ciclón Metálico
+072	
+073	
+074	
+075	
+076	
+077	
+078	
+079	
+080	
+081	
+082	
+083	
+084	
+085	
+086	
+087	
+088	
+089	
+090	
+091	
+092	
+093	
+094	
+095	
+096	
+097	
+098	
+099	
+100	
+101	
+102	
+103	
+104	
+105	
+106	
+107	
+108	
+109	
+110	
+111	
+112	Ciclón Divino
+113	Hipo Angelical
+114	Gabriel
+115	Gori Angelical
+116	Fan de Ángeles
+117	Perromuro
+118	Serpi Roji
+119	Pez Lunángel
+120	
+121	
+122	
+123	Paloma Pacifista
+124	Nutri Negro
+125	Pegaso Angelical
+126	
+127	
+128	
+129	
+130	
+131	
+132	
+133	
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	
+144	
+145	
+146	Pandillero Bloguero
+147	Chucho Metálico
+148	Mininyandam
+149	L. Fante Negro
+150	
+151	
+152	
+153	
+154	
+155	
+156	
+157	
+158	
+159	
+160	Pollito Ángel
+161	
+162	
+163	
+164	
+165	
+166	
+167	Chucho Alien
+168	Kodri Alien
+169	Hipo Alien
+170	Señor Focalien
+171	Pol Illalien
+172	L. Murr
+173	Ermitaño Tacaño
+174	Careto, el Octavo Pasajero
+175	Osa Mayor
+176	Clio Nel
+177	Javi Li Espacial
+178	Elizabeth LVI
+179	Ciclón Espacial
+180	Nyandam Galáctico
+181	Valquiria Corrupta
+182	Kan Gu Manostijeras
+183	Ciberceronte
+184	Señorita Celebriche
+185	Profe H.
+186	
+187	
+188	
+189	
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	Capi B. Ara
+206	Kory Salvaje
+207	Golondrino
+208	Calamardi
+209	Alfaca
+210	Perezoso Viejuno
+211	Bun Bun Cuatrojos
+212	Gato Bégimo Alien
+213	
+214	
+215	
+216	
+217	
+218	
+219	
+220	
+221	
+222	
+223	
+224	
+225	
+226	
+227	
+228	
+229	
+230	
+231	
+232	Clionel Ángel Cruel
+233	
+234	
+235	Sr. Topo
+236	Ciclón Perfecto
+237	
+238	
+239	
+240	
+241	
+242	
+243	
+244	
+245	
+246	
+247	
+248	
+249	
+250	
+251	
+252	
+253	
+254	Sr. Ángel
+255	Tu Can Can
+256	Caballito del Mar Negro
+257	Rey Guau
+258	Caperucita Espía
+259	
+260	
+261	Don Javier Li
+262	
+263	
+264	
+265	
+266	Henry
+267	Careto con Careta
+268	
+269	
+270	
+271	Abeja Reina
+272	Minibunbun
+273	
+274	
+275	
+276	
+277	
+278	
+279	
+280	Javi Li Rebelde
+281	
+282	
+283	
+284	Chucho Z.
+285	Zerpi
+286	Zipo
+287	Zerdi
+288	Ping Pong Z.
+289	Gori Zombi
+290	Zeñor Foca
+291	Kan Zu
+292	Kodrizzz
+293	Zeñor Lápido
+294	Ziclón
+295	
+296	
+297	
+298	
+299	
+300	
+301	
+302	
+303	Zeñora Lápida
+304	Pérez Ozo
+305	
+306	
+307	
+308	
+309	Chucho Féretro
+310	Camelle Casiviva
+311	
+312	
+313	
+314	
+315	
+316	Inumusha
+317	Muerti No Muerto
+318	Delfina
+319	
+320	
+321	
+322	
+323	
+324	
+325	
+326	
+327	
+328	
+329	
+330	
+331	
+332	
+333	
+334	
+335	
+336	
+337	
+338	
+339	
+340	Cala María
+341	
+342	
+343	
+344	
+345	
+346	
+347	
+348	
+349	
+350	
+351	
+352	
+353	
+354	Gato Ermitaño
+355	Mar Rana
+356	
+357	
+358	
+359	
+360	Chucho Alien de Élite
+361	Ping Pong Estrella
+362	General Gori
+363	L. Fante Solar
+364	Proyecto H.
+365	Cabo Topo
+366	Pez Luna Estrellada
+367	Misidiós
+368	
+369	
+370	
+371	
+372	
+373	
+374	
+375	Tu Tu Can Can
+376	
+377	Ciclón Supercósmico
+378	
+379	Cerdi Alado
+380	Máscara Mística Yulala
+381	
+382	
+383	
+384	
+385	
+386	
+387	Caballito del Mar Rojo
+388	Ultraborrego
+389	
+390	
+391	
+392	
+393	
+394	
+395	
+396	
+397	
+398	
+399	
+400	
+401	
+402	
+403	
+404	
+405	Bun Bun Mecánico
+406	Bun Bun Reliquia
+407	Chucho Reliquia
+408	
+409	
+410	
+411	
+412	Ardi Reliquio
+413	Ceronte Arcano
+414	Alli Lop
+415	
+416	
+417	Delfi Nal
+418	Rano
+419	Misidiós
+420	Loris
+421	
+422	
+423	K. Reto
+424	A. B. Struz
+425	
+426	
+427	Oso Cadaveroso
+428	Javi Malacara
+429	
+430	
+431	Bakoo
+432	
+433	
+434	
+435	
+436	
+437	
+438	Ciclón Primigenio
+439	
+440	
+441	
+442	
+443	Mesocosmociclón
+444	Hermanos Angui
+445	Ajoloti
+446	Gigadiós Jefe Final
+447	Filiembustero Espacial
+448	
+449	
+450	Chuchomaru
+451	
+452	
+453	
+454	
+455	
+456	
+457	
+458	
+459	
+460	
+461	
+462	
+463	
+464	
+465	
+466	
+467	
+468	Patito Feo
+469	Pandilla Thriller
+470	
+471	
+472	
+473	
+474	
+475	
+476	
+477	Sr. Globi
+478	
+479	Cometa Globo
+480	
+481	
+482	
+483	
+484	
+485	
+486	
+487	
+488	
+489	
+490	
+491	Careto Okame
+492	Papuu Heraldo Divino
+493	Abeja Reina Madre
+494	
+495	Pati Jr.
+496	Urs y Fenrir
+497	Kodrinator
+498	Gluglú
+499	
+500	
+501	
+502	
+503	
+504	
+505	
+506	Chihuahui Gobernador
+507	
+508	
+509	
+510	
+511	Clionel Zombi Ángel Letal
+512	Miniziclón
+513	San Dóber
+514	Doremi
+515	
+516	Maestro Uril
+517	Koatálico
+518	
+519	
+520	
+521	Juanleón
+522	
+523	
+524	
+525	
+526	Idi:Re
+527	Zolondrina
+528	
+529	
+530	
+531	
+532	
+533	
+534	
+535	Gato Emperador Malvado
+536	
+537	
+538	Javi Li Joven
+539	
+540	
+541	Raynardo
+542	
+543	
+544	
+545	
+546	
+547	Cabaleón de Mar
+548	
+549	Gloria Furiosa
+550	
+551	Llama Doron Viejuna

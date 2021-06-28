@@ -1,0 +1,552 @@
+000	Hund
+001	Schlänge
+002	Die Anderen
+003	Nilpferd
+004	Schwein
+005	Jackie Peng
+006	Gorilla
+007	Mäh-Mäh
+008	Sir Robbe
+009	Le'boin
+010	Käng Ru
+011	Einhorn
+012	Lehrerbär
+013	Kroko
+014	B.B.Bunny
+015	Eich Horn
+016	Meuchlerbär
+017	Schüchtermann
+018	Das Gesicht
+019	
+020	
+021	Frl. Schild
+022	Mootte
+023	Finsterer Herrscher Nyandam
+024	Lehrer Bun Bun
+025	
+026	
+027	
+028	
+029	
+030	
+031	Meister A.
+032	V. Strauß
+033	Klopper-Otter
+034	Kory
+035	Camelle
+036	Ente
+037	Eulheul
+038	Ebär
+039	DAS FAULTIER
+040	Ren T.
+041	Dachshund
+042	Promi-Pudel
+043	H. Nee
+044	Dober P.D
+045	Ururun-Wolf
+046	Finsterhund
+047	Eisernes Nilpferd
+048	St. Schwein II.
+049	J.K. Bun Bun
+050	Bun Bun Schwarz
+051	Schwarzer Gorilla
+052	Schattenboxer K
+053	Regisseur Kurosawah
+054	Supereisernes Nilpferd
+055	
+056	Eisernes Einhorn
+057	Lehrer-Cybär
+058	Cyber-Gesicht
+059	Sir Eisenrobbe
+060	
+061	
+062	
+063	
+064	Roter Zyklon
+065	
+066	
+067	
+068	
+069	Weißer Zyklon
+070	Schwarzer Zyklon
+071	Eiserner Zyklon
+072	
+073	
+074	
+075	
+076	
+077	
+078	
+079	
+080	
+081	
+082	
+083	
+084	
+085	
+086	
+087	
+088	
+089	
+090	
+091	
+092	
+093	
+094	
+095	
+096	
+097	
+098	
+099	
+100	
+101	
+102	
+103	
+104	
+105	
+106	
+107	
+108	
+109	
+110	
+111	
+112	Göttlicher Zyklon
+113	Himmlisches Nilpferd
+114	Gabriel
+115	Engelhafter Gorilla
+116	Engelsfan
+117	Wallhund
+118	Rote Schlänge
+119	Mondfisch Jones
+120	
+121	
+122	
+123	Taubitze
+124	Dunkler Otter
+125	Engelhafter Sleipnir
+126	
+127	
+128	
+129	
+130	
+131	
+132	
+133	
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	
+144	
+145	
+146	Trolly Blogger
+147	Eisenhund
+148	Kleiner Nyandam
+149	Le’noir
+150	
+151	
+152	
+153	
+154	
+155	
+156	
+157	
+158	
+159	
+160	Küken E
+161	
+162	
+163	
+164	
+165	
+166	
+167	Shibalien
+168	Kroxo
+169	Nüllpferd
+170	Imperator Rohb
+171	Moohthe
+172	LeMurr
+173	Helmut Krabbe
+174	Binge Sicht
+175	Ursamajor
+176	Cli-One
+177	Nimoy-Ebär
+178	Elizabeth LVI.
+179	Kosmischer Zyklon
+180	Galaktischer Oberaufseher Nyandam
+181	Verdorbene Walküre
+182	Scheruru
+183	Cyberhorn
+184	Prinzessin Promi-Pudel
+185	Professor A.
+186	
+187	
+188	
+189	
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	Capy
+206	Berserkory
+207	Brolbe
+208	Calamary
+209	Alpacky
+210	Altes Faultier
+211	Bun Bun Symbiont
+212	Rasende Bahamut-Katze
+213	
+214	
+215	
+216	
+217	
+218	
+219	
+220	
+221	
+222	
+223	
+224	
+225	
+226	
+227	
+228	
+229	
+230	
+231	
+232	Grausamer Engel Clionel
+233	
+234	
+235	Mr. Maulwurf
+236	Der perfekte Zyklon
+237	
+238	
+239	
+240	
+241	
+242	
+243	
+244	
+245	
+246	
+247	
+248	
+249	
+250	
+251	
+252	
+253	
+254	Mr. Engel
+255	Tu Kahn
+256	Tacki
+257	König Wahwah
+258	Codename Rotkäppchen
+259	
+260	
+261	Ebärphim
+262	
+263	
+264	
+265	
+266	Henry
+267	Hannya
+268	
+269	
+270	
+271	Königin B
+272	Kleiner Bun Bun
+273	
+274	
+275	
+276	
+277	
+278	
+279	
+280	Klingenrücken
+281	
+282	
+283	
+284	Zund
+285	Zlänge
+286	Zomboe
+287	Zwein
+288	Zackie Peng
+289	Zory
+290	Zir Robbe
+291	Zäng Ru
+292	Zroco
+293	Lord Grabi
+294	Zyklombie
+295	
+296	
+297	
+298	
+299	
+300	
+301	
+302	
+303	Fräulein Haka
+304	Zalamander
+305	
+306	
+307	
+308	
+309	Sarg-Zund
+310	Zamelle
+311	
+312	
+313	
+314	
+315	
+316	Inumusha
+317	Daboo von den Toten
+318	Delfina
+319	
+320	
+321	
+322	
+323	
+324	
+325	
+326	
+327	
+328	
+329	
+330	
+331	
+332	
+333	
+334	
+335	
+336	
+337	
+338	
+339	
+340	Cala Maria
+341	
+342	
+343	
+344	
+345	
+346	
+347	
+348	
+349	
+350	
+351	
+352	
+353	
+354	Eremiten-Katze
+355	Quakley
+356	
+357	
+358	
+359	
+360	Shibalien-Elite
+361	Sternenpeng
+362	General GreGorilla
+363	Le'Solar
+364	Projekt A
+365	Korporal Weyland
+366	Raumfisch Jones
+367	Der Katzengott
+368	
+369	
+370	
+371	
+372	
+373	
+374	
+375	Dukann
+376	
+377	Superkosmischer Zyklon
+378	
+379	Flügelschwein
+380	Mystische Maske Yulala
+381	
+382	
+383	
+384	
+385	
+386	
+387	Hacki
+388	UltraMähMäh
+389	
+390	
+391	
+392	
+393	
+394	
+395	
+396	
+397	
+398	
+399	
+400	
+401	
+402	
+403	
+404	
+405	Mecha Bun
+406	Relikt Bun Bun
+407	Relikt-Hund
+408	
+409	
+410	
+411	
+412	Streich Horn
+413	Althorn
+414	Ettomo
+415	
+416	
+417	Kid Tappa
+418	Unko
+419	Katzengott
+420	Loris
+421	
+422	
+423	Low-Key
+424	M. Strauß
+425	
+426	
+427	Totengräbär
+428	Schreckensebär
+429	
+430	
+431	Baku
+432	
+433	
+434	
+435	
+436	
+437	
+438	Ur-Zyklon
+439	
+440	
+441	
+442	
+443	Mesokosmozyklon
+444	Gebrüder Röhrenaal
+445	Axoloty
+446	Endgegner Giga-Gott
+447	Filibuster Obstructa
+448	
+449	
+450	Dogumaru
+451	
+452	
+453	
+454	
+455	
+456	
+457	
+458	
+459	
+460	
+461	
+462	
+463	
+464	
+465	
+466	
+467	
+468	Zente
+469	The Thrillerz
+470	
+471	
+472	
+473	
+474	
+475	
+476	
+477	Herr Kugelisch
+478	
+479	Kuglis Komet
+480	
+481	
+482	
+483	
+484	
+485	
+486	
+487	
+488	
+489	
+490	
+491	Schwarz-Okame
+492	Himmelsbotin Papuu
+493	Königinmutter V
+494	
+495	Kappy Jr.
+496	Urs & Fenrir
+497	Krokonator
+498	Gubbel
+499	
+500	
+501	
+502	
+503	
+504	
+505	
+506	Immerfürst Wanwan
+507	
+508	
+509	
+510	
+511	Todesengel Z-Clionel
+512	Kleiner Zyklombie
+513	St. Dober
+514	Doremi
+515	
+516	Meister Uril
+517	Koronium
+518	
+519	
+520	
+521	Johnnyleon
+522	
+523	
+524	
+525	
+526	Idi:Re
+527	Zolbe
+528	
+529	
+530	
+531	
+532	
+533	
+534	
+535	Böse Kaiserkatze
+536	
+537	
+538	Ebär Jr.
+539	
+540	
+541	Raynard
+542	
+543	
+544	
+545	
+546	
+547	Mr. Meer
+548	
+549	Tobender Gorilla
+550	
+551	Ältestenflamme Doron

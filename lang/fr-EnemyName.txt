@@ -1,0 +1,552 @@
+000	Toutou
+001	Serpan
+002	Les trois gars
+003	Hippo
+004	Porca
+005	Jackie Peng
+006	Gory
+007	Bêê Bêê
+008	Sire Phoque
+009	Élèfe
+010	Kang Rou
+011	Monocorne
+012	Professeur Ours
+013	Croco
+014	Lapro
+015	Écurieux
+016	Ours assassin
+017	Timide
+018	La Tête
+019	
+020	
+021	Miss Panneau
+022	Fa Lèn
+023	Sombre empereur Nyandam
+024	Professeur Bun Bun
+025	
+026	
+027	
+028	
+029	
+030	
+031	Maître Taman
+032	Autrux
+033	Otaroc
+034	Koko
+035	Camela
+036	Kanar
+037	Hibougre
+038	Sangrillé
+039	Laparesse
+040	Rennato
+041	Telquel
+042	Caniche starlette
+043	Hi Yen
+044	Dobert
+045	Loup ururun
+046	Sombre toutou
+047	Hippo métal
+048	Sainte Porca II
+049	Rouge Bun Bun
+050	Noir Bun Bun
+051	Gory noir
+052	Sombrourou
+053	Réal Kurosawah
+054	Super hippo métal
+055	
+056	Monocorne métal
+057	Professeur Cybours
+058	Cyberface
+059	Sire Phoque métal
+060	
+061	
+062	
+063	
+064	Cyclone rouge
+065	
+066	
+067	
+068	
+069	Cyclone blanc
+070	Cyclone noir
+071	Cyclone métal
+072	
+073	
+074	
+075	
+076	
+077	
+078	
+079	
+080	
+081	
+082	
+083	
+084	
+085	
+086	
+087	
+088	
+089	
+090	
+091	
+092	
+093	
+094	
+095	
+096	
+097	
+098	
+099	
+100	
+101	
+102	
+103	
+104	
+105	
+106	
+107	
+108	
+109	
+110	
+111	
+112	Cyclone divin
+113	Hippo céleste
+114	Gabriel
+115	Gory angélique
+116	Fan des anges
+117	Toutou mur
+118	Vipèrouge
+119	Gégé poisson-lune
+120	
+121	
+122	
+123	Pigeon de sable
+124	Sombrotarie
+125	Sleipnir angélique
+126	
+127	
+128	
+129	
+130	
+131	
+132	
+133	
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	
+144	
+145	
+146	Troll des blogs
+147	Toutou métal
+148	P’tit Nyandam
+149	Éléfombre
+150	
+151	
+152	
+153	
+154	
+155	
+156	
+157	
+158	
+159	
+160	Poussinange
+161	
+162	
+163	
+164	
+165	
+166	
+167	Extratoutou
+168	Crocalien
+169	Hyppalien
+170	Imperatus Foc
+171	Falien
+172	Lémurios
+173	Bernard-l’alien
+174	Visalien
+175	Grande ourse
+176	Cli-On
+177	Sangrillé Nimoy
+178	Elizabête
+179	Cyclone cosmique
+180	Maître galactique Nyandam
+181	Valkyrie corrompue
+182	Cisaillourou
+183	Cybercornu
+184	Dame caniche
+185	Professeur Taman
+186	
+187	
+188	
+189	
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	Caby
+206	Berserkoko
+207	Piaf
+208	Calamary
+209	Alpadrom
+210	Ancêtre paresseux
+211	Symbiote Bun Bun
+212	Chat Bahamut enragé
+213	
+214	
+215	
+216	
+217	
+218	
+219	
+220	
+221	
+222	
+223	
+224	
+225	
+226	
+227	
+228	
+229	
+230	
+231	
+232	Ange cruel Clionel
+233	
+234	
+235	Mr. Taupe
+236	Parfait cyclone
+237	
+238	
+239	
+240	
+241	
+242	
+243	
+244	
+245	
+246	
+247	
+248	
+249	
+250	
+251	
+252	
+253	
+254	Mr. Ange
+255	Toukan
+256	Hippoka noir
+257	Roi Wahwah
+258	Chaperon à roquettes
+259	
+260	
+261	Sangriphin
+262	
+263	
+264	
+265	
+266	Henry
+267	Hannya
+268	
+269	
+270	
+271	Apis Regina
+272	P’tit Bun Bun
+273	
+274	
+275	
+276	
+277	
+278	
+279	
+280	Zanglier
+281	
+282	
+283	
+284	Zombitou
+285	Zerpan
+286	Zombippo
+287	Zombiporca
+288	Zackie Peng
+289	Zory
+290	Zire phoque
+291	Zang Rou
+292	Zombicroc
+293	Toutombeau
+294	Zyclone
+295	
+296	
+297	
+298	
+299	
+300	
+301	
+302	
+303	RIP toutou
+304	Salamoindre
+305	
+306	
+307	
+308	
+309	Chiencueil
+310	Zamela
+311	
+312	
+313	
+314	
+315	
+316	Inumusha
+317	Dabouh des morts
+318	Dolphina
+319	
+320	
+321	
+322	
+323	
+324	
+325	
+326	
+327	
+328	
+329	
+330	
+331	
+332	
+333	
+334	
+335	
+336	
+337	
+338	
+339	
+340	Cala Maria
+341	
+342	
+343	
+344	
+345	
+346	
+347	
+348	
+349	
+350	
+351	
+352	
+353	
+354	Chat ermite
+355	Croapaud
+356	
+357	
+358	
+359	
+360	Extratoutou d’élite
+361	Peng étoilé
+362	Général GréGory
+363	Étoiléfante
+364	Projet Taman
+365	Caporal Topox
+366	Spatio-poisson
+367	Le Dieu des Chats
+368	
+369	
+370	
+371	
+372	
+373	
+374	
+375	Cantou
+376	
+377	Cyclone super cosmique
+378	
+379	Porca ailée
+380	Masque mystique Yulala
+381	
+382	
+383	
+384	
+385	
+386	
+387	Hippoka rouge
+388	UltraBêêBêê
+389	
+390	
+391	
+392	
+393	
+394	
+395	
+396	
+397	
+398	
+399	
+400	
+401	
+402	
+403	
+404	
+405	Méca-Bun
+406	Bun Bun relique
+407	Toutou relique
+408	
+409	
+410	
+411	
+412	Écurelique
+413	Cornevieux
+414	Papïeul
+415	
+416	
+417	Globivraison
+418	Crapalien
+419	Dieu des Chats
+420	Loris
+421	
+422	
+423	Fossilus
+424	Autruxia
+425	
+426	
+427	Cadavrours
+428	Rastaglier
+429	
+430	
+431	Bakoo
+432	
+433	
+434	
+435	
+436	
+437	
+438	Cyclone primitif
+439	
+440	
+441	
+442	
+443	Mesocosmocyclone
+444	Franguilles
+445	Axoloty
+446	Boss final Méga-Dieu
+447	Obstructeur chalien
+448	
+449	
+450	Toutoumaru
+451	
+452	
+453	
+454	
+455	
+456	
+457	
+458	
+459	
+460	
+461	
+462	
+463	
+464	
+465	
+466	
+467	
+468	Zanard
+469	Les Thrillerz
+470	
+471	
+472	
+473	
+474	
+475	
+476	
+477	Mr. Globulo
+478	
+479	Astroglobe
+480	
+481	
+482	
+483	
+484	
+485	
+486	
+487	
+488	
+489	
+490	
+491	Okame noir
+492	Dabouh lectrice céleste
+493	Relica Regina
+494	
+495	Kappy Junior
+496	Urs et Fenrir
+497	Croconator
+498	Dinguedon
+499	
+500	
+501	
+502	
+503	
+504	
+505	
+506	Sa Seigneurie Wanwan
+507	
+508	
+509	
+510	
+511	Z-Onel ange de la mort
+512	P’tit Zyclone
+513	St. Dobert
+514	Dorémi
+515	
+516	Maître Uril
+517	Koronium
+518	
+519	
+520	
+521	Johnnyléon
+522	
+523	
+524	
+525	
+526	Idi:Re
+527	Zollow
+528	
+529	
+530	
+531	
+532	
+533	
+534	
+535	Chat empereur du mal
+536	
+537	
+538	Sangrillé junior
+539	
+540	
+541	Raynard
+542	
+543	
+544	
+545	
+546	
+547	M. Mer
+548	
+549	Gory déchaîné
+550	
+551	Doron flamme ancienne

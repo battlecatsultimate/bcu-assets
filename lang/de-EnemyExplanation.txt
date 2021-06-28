@@ -1,0 +1,552 @@
+000	Ein netter Shiba Inu und Rivale der Kampfkatzen.<br>Versucht, sich dieses Jahr an der Uni einzuschreiben.<br>Sehr aufmerksam und sendet der Katze<br>jedes Jahr Geburtstagsgeschenke.
+001	Benutzt Wasserfarben als Körperbemalung.<br>... Ist also natürlich gegen Wasser anfällig.<br>Diese Information hat überhaupt nichts<br>mit dem Spielinhalt zu tun.
+002	Mehrere Feiglinge, die gerne zusammen losziehen.<br>Sie haben sich übers Internet kennengelernt.<br>Überraschenderweise<br>sind sie alle ziemlich reich.
+003	Dieses gefährliche Nilpferd vertraut auf<br>seine Ausdauer und seine Kraft.<br>Es kann mehrfach angreifen.<br>Wir wissen nicht, ob es ein er oder eine sie ist.
+004	Liebt es, ins Solarium zu gehen,<br>daher ist seine Haut so rot.<br>Wurde auf einer Biofarm mit Freilauf geboren.<br>Wusstest du, dass sich Schweine gerne putzen?
+005	Schaut sich unglaublich gerne Kung-Fu-Filme an<br>und will gerne in Hollywood groß rauskommen.<br>Setzt Kung-Fu ein, das er sich selbst beigebracht hat.<br>
+006	Wurde aus dem Zoo geworfen, weil<br>sein Gesicht zu furchteinflößend war.<br>Hat weder Arbeit noch Bildung, also hat er sich dem<br>Alkohol und den Glücksspielen zugewandt.
+007	Abgedroschener Name. Abgedroschenes Aussehen.<br>Hat Komplexe, weil es Angst hat, zu normal zu sein.<br>Versucht, sie mithilfe von Stand-up-Comedy-Stunden<br>an der Theaterschule zu überwinden.
+008	Kam von der ruhigen Küste<br>in die große Stadt.<br>Wollte mehr Aufmerksamkeit, also hat er<br>seinen Körper rot gefärbt.
+009	Verfügt über äußerst hohe Reichweite.<br>Mag Frauen mit Kurven. Mit großen Kurven.<br>Sammelt viele Zeitschriften.<br>... Du willst nicht wissen, welcher Art.
+010	Hat immer davon geträumt, ein Boxer zu sein.<br>Hat es aber nie geschafft,<br>weil es ... nun ja, eben ein Känguru ist.<br>Traurig aber wahr.
+011	Hilft gern anderen.<br>Arbeitet in Teilzeit bei der Feuerwehr.<br>Es ist jedoch so langsam auf den Beinen,<br>dass es nie rechtzeitig am Feuer ankommt.
+012	Ein Erzieher im Kindergarten. Er LIEBT Kinder.<br>Seine scharfen Klauen sind nicht für diese Arbeit geeignet.<br>Hat nichts mit einem bekannten anderen Bären zu tun.<br>Niemand kennt seinen wahren Namen.
+013	Wurde von Dundee gerettet.<br>Ist Feuer und Flamme für Fernunterricht.<br>Hat sich mehrere Abschlüsse angeeignet.<br>Arbeiten mit Word, Zertifikat für Fortgeschrittene.
+014	Hat bei einem wichtigen Unternehmen gekündigt<br>und führt jetzt 4 Unternehmen selbst.<br>Will eines Tages Bürgermeister werden.<br>
+015	Es spricht in einem altenglischen Dialekt?<br>Nein, im Ernst, es klingt wie Englisch, aber<br>es ist einfach unverständlich, was es sagt.<br>Arbeitet bei der Englischschule neben der Tankstelle.
+016	Hat die Lizenz zum Töten.<br>Die weltweite Finanzkrise arbeitet allerdings nicht gerade<br>für ihn. Bitte lies dir seine Flyer durch.<br>Er bietet mittlerweile 1 Million pro Kill an.
+017	Äußerst schüchtern.<br>Er liebt es, zu singen, aber<br>hat noch nie in jemandes Gegenwart gesungen.<br>... Zählt vorm Spiegel? Oder Solo-Karaoke?
+018	Eine zu strikte Ernährung führte zu akutem Körperverlust.<br>Keiner weiß, warum er fliegt.<br>Irgendwelche Ideen?<br>(Nicht zuhause nachmachen)
+019	
+020	
+021	Ihre ideale Familiensituation ist<br>Vater, Mutter, Bruder und ein „Papa“.<br>Will unbedingt so schnell wie möglich heiraten.<br>Sie kommt, wenn du zu lange brauchst.
+022	Hat davon geträumt, dass er ein<br>wunderschöner Schmetterling werden wird.<br>Hat mittlerweile die Wahrheit erfahren und<br>kämpft nun gegen seine Natur an.
+023	Wütend, weil er keinen Alkohol<br>trinken darf.<br>Gibt an, indem er so tut, als würde er trinken.<br>Im Glas ist tatsächlich Kaffeegelee.
+024	Der alte Lehrmeister des Lehrerbären.<br>Seine körperliche Strafe besteht aus Liebe.<br>Denk nicht – FÜHLE!<br>
+025	
+026	
+027	
+028	
+029	
+030	
+031	Kennt alle schmutzigen Geschichten.<br>Seine Freunde in der Realschule<br>sehen zu ihm auf und nennen ihn den „Meister“.<br>Dating-Erfahrung: Null.
+032	Hat in letzter Zeit viel Haar verloren und ist besorgt.<br>Ja, er heißt wirklich „Strauß“ mit Nachnamen.<br>Sein Vorname lautet „Rich“.<br>Haudrauf-Angriffe möglich.
+033	Hat seinen Spitznamen dadurch verdient, indem er<br>sein Ziel buchstäblich einfach verkloppt hat.<br>Bewahrt das Erinnerungsstück früherer Generationen auf:<br>Bloß ein gewöhnlicher Stein.
+034	Ein richtig exzentrischer Koalabär.<br>Er wurde aus dem Zoo geworfen, weil seine Essensrechnung<br>zu hoch war. Jetzt schmarotzt er sich beim Gorilla durch.<br>Und der Gorilla wird ihn auch bald rauswerfen.
+035	Wurde in Arabien geboren und liebt es, in die Sauna zu gehen.<br>Seine Spezialfähigkeit ist es, seine Nasenlöcher zu<br>verschließen. Er weiß nicht, dass alle Kamele das können,<br>weil er keine Freunde hat.
+036	Hat sich dem Journalismus verschrieben.<br>Schreibt viele Artikel, die aber aus irgendeinem<br>Grund niemand ernst nimmt.<br>Bitte gib ihr eine Chance.
+037	Man sieht ihr ihr Alter nicht an. Sie ist 78 Jahre alt.<br>Der Arzt hat ihr geraten, mehr zu laufen.<br>Sie beschwert sich oft, weil sie wie ein fliegender Feind<br>behandelt wird, wenn sie doch eigentlich zu Fuß geht.
+038	Dachte immer, dass sein Name tatsächlich<br>so geschrieben wird.<br>Ist richtig rot geworden, nachdem er es bemerkt hat.<br>Ist tatsächlich weder ein Bär noch elektronisch.
+039	Das furchteinflößendste Tier von allen<br>schafft es, vom Baum herabzusteigen ...<br>Leider war die Bewegung zu viel,<br>also möchte er jetzt lieber nach Hause gehen.
+040	Wird richtig depressiv, wenn Weihnachten naht.<br>Hasst alles Rote.<br>Frag nicht, wieso.<br>Lass den armen Kerl in Ruhe.
+041	Gibt sein Bestes, menschlich zu erscheinen.<br>Jetzt muss er nur noch seine Arme nach vorne halten,<br>sich im Kreis drehen und sprechen.<br>Bitte gib ihm etwas zu Essen, wenn er das tut.
+042	Eine Hochschulstudentin, die<br>am liebsten jeden Nachmittag mit ihren<br>Mädels in angesagten Cafés plaudert.<br>Ihre Freunde hassen sie insgeheim.
+043	Ihr Vorname lautet „Hü-ä“.<br>Sagt immer: „Nein“.<br>Bleibt ewig allein. Sagt Nein zu allen.<br>Jeder bleibt ihr fern.
+044	Wellenangriffe möglich.<br>Hat sich kürzlich vom Polizeidienst zur Ruhe gesetzt.<br>(Wurde tatsächlich von einem Deutschen Schäferhund ersetzt.)<br>Wurde in der Gegenwart von Promi-Pudel gesehen ... oft.
+045	Sag es nicht weiter, aber ich habe gehört, dass sie aus der<br>Vorstadt stammt. Sie wollte einen Streuner aus dem Tierheim<br>adoptieren ... Sie fand einen ungewöhnlichen Mischling!<br>
+046	Der Hund hat eines Tages einen Flyer gefunden und<br>Arbeit als Teilzeit-Killer gefunden.<br>Ist täglich fleißig bei der Arbeit, um das Geld zu verdienen,<br>sich eine Weiterbildung leisten zu können.
+047	Eine gewisse Organisation hat sich entschieden,<br>den Körper des Nilpferds durch Metall auszutauschen.<br>Haudrauf-Angriffe scheinen seine Schwäche zu sein.<br>
+048	Vorfahrin des Schweins.<br>Zweite Königin des Schweinekönigreichs.<br>Wird in ein paar Tagen als Bio-Schinken<br>verkauft (Sie weiß davon allerdings noch nichts).
+049	Ein berühmter Autor. Hat großen Einfluss auf<br>Lehrer Bun Bun. Seine wichtigsten Werke sind<br>Strafe und Vorurteil (1868)<br>Les Pénitents (1875)
+050	LIEBE BRINGT DICH IN DEN HIMMEL #LIEBE<br>Das sagt er, wenn er Leute verprügelt. Manche sagen, dass<br>man das Himmelreich sieht, wenn man einen seiner<br>Treffer einsteckt – leider gibt es keine Erfahrungsberichte.
+051	Der Gorilla hat endlich eine Stelle gefunden!<br>Er lässt sein altes Leben hinter sich und<br>freut sich darauf, seine Familie wiederzusehen,<br>wenn sie wieder einzieht.
+052	Du bist bereits tot – S. K.<br>Wirft ständig mit abgedroschenen Phrasen um sich.<br>Man hat etwas Mitleid mit dem armen Knirps, der<br>das im Beutel einfach ertragen muss.
+053	Ein gescheiterter Regisseur, der dafür bekannt ist,<br>einen berühmteren Filmregisseur nachzuahmen.<br>Seine gesamten Werke sind gefloppt, aber<br>er ist für seine anzüglichen Szenen berühmt.
+054	Das eiserne Nilpferd hat sich zu großzügig an<br>Freeware bedient und sich dabei einen fiesen<br>Trojaner eingefangen, jetzt ist es außer Kontrolle.<br>Haudrauf-Angriffe scheinen seine Schwäche zu sein.
+055	
+056	Das Einhorn ließ sich kybernetisch verbessern.<br>Er kann jetzt Radiowellen abfangen<br>und ist praktisch ohne Verzögerung einsatzbereit.<br>Kommt trotzdem stets zu spät.
+057	Der Lehrerbär hat ein paar experimentelle kybernetische<br>Implantate erhalten, um besser und effizienter zu<br>unterrichten. Seine Stunden sind nun zu anstrengend für<br>die Kinder und er musste auf die Berufsschule wechseln.
+058	Ein Relikt aus dem letzten Krieg der Menschheit. Dieser<br>Cyborg zermalmt alle mit seinem verstärkten Kiefer.<br>Scheint zu schweben, aber huscht tatsächlich auf Duzenden<br>Plasmabeinen, die mit bloßem Auge unsichtbar sind, umher.
+059	Eine Robbe, die in die Stadt gereist ist<br>und davon geträumt hat, ein Star zu sein.<br>Wollte mehr Aufmerksamkeit, also hat sie<br>sich völlig in einen Cyborg verwandelt.
+060	
+061	
+062	
+063	
+064	Das unerbittliche Andrängen des Windes<br>hält nervöse Zuschauer fern.<br>Wenn man es doch nur aufhalten oder<br>betäuben könnte – um einen Konter auszuführen?
+065	
+066	
+067	
+068	
+069	Greift kontinuierlich an, während es sich bewegt,<br>also kann niemand seine Zyklonenkraft stoppen.<br>Scheint einige Aufmerksamkeit auf sich zu ziehen,<br>wahrscheinlich durch bestimmte Vakuen.
+070	Greift kontinuierlich an, während es sich bewegt,<br>also kann niemand seine Zyklonenkraft stoppen.<br>Verfügt über hohe Schubkraft.<br>... Oder ist es Saugkraft?
+071	Greift kontinuierlich an, während es sich bewegt,<br>also kann niemand seine Zyklonenkraft stoppen.<br>Ein Mahlstrom fliegender Metallsplitter.<br>Sein schwerer Körper hindert es am Fliegen.
+072	
+073	
+074	
+075	
+076	
+077	
+078	
+079	
+080	
+081	
+082	
+083	
+084	
+085	
+086	
+087	
+088	
+089	
+090	
+091	
+092	
+093	
+094	
+095	
+096	
+097	
+098	
+099	
+100	
+101	
+102	
+103	
+104	
+105	
+106	
+107	
+108	
+109	
+110	
+111	
+112	Ein zorniges Wesen, das das Böse<br>mit der Kraft eines Taifuns läutert.<br>Obacht: Engel erleiden keinen Schaden durch<br>Angriffe gegen fliegende Feinde!
+113	Ein Nilpferd, das sich nach einem Heiligenschein sehnt.<br>Hat seine Haare in Form von Flügeln frisiert.<br>Dadurch wird es quasi zu einem Pegasus.<br>Stimmt’s?
+114	Der Großgroßpapa des Hundeklans.<br>Sorgt dafür, dass seine Nachfahren in den<br>Lehrstunden aufpassen: Wer im Unterricht einschläft,<br>wird vom alten Mann gebissen!
+115	Wegen seiner hässlichen Fratze wurde dieser Kerl<br>aus dem Himmel verjagt.<br>Ein gefallener Engel im alten Stil, der seine Brötchen<br>verdient, indem er bei Spielautomaten abhängt.
+116	Hat seine Ersparnisse für Engel-Zubehör ausgegeben.<br>Hat herausgefunden, dass Engel tatsächlich<br>keine fliegenden Feinde sind, nachdem er fanatisch<br>seltene Katzenkapseln gesammelt hatte.
+117	Ein Hund, der die Masche der Wallkatze geklaut hat<br>und sich selbst in eine Mauer verwandelt hat.<br>Konnte nicht ahnen, dass die anderen Hunde ihn<br>nutzen würden, um fehlende Dominos zu ersetzen.
+118	Seine schicken roten Locken waren Anlass für eine<br>Masterarbeit zum Thema „Haarpflege für Reptilien“.<br>Die Haarfarbe besteht immer noch aus Wasserfarbe und<br>dieser Hinweis ist immer noch unwichtig.
+119	Ein Mondfisch namens Jones. Ja, und?<br>Hat die Form eines Tarnbombers und<br>bleibt daher vor Radarsystemen verborgen.<br>So hat er es übrigens in den Himmel geschafft.
+120	
+121	
+122	
+123	Schreckt nie davor zurück, den Kampf zu führen,<br>um ihre pazifistischen Ideale zu verteidigen.<br>Verkloppt Katzeninvasoren mit Freude<br>und mit ihrem scharfen Schnabel der Diplomatie.
+124	Trägt die ultimative Familienwaffe:<br>Der gewöhnliche Stein, Schrecken aller Muscheln.<br>Es ist eigentlich ein Pflaumenkern, aber sag besser nichts,<br>sonst rastet er aus.
+125	Das achtbeinige Götterpferd aus der nordischen Mythologie.<br>Der größte Teil seines Gehalts geht für schicke Hufeisen<br>drauf, also verbringt es seine Wochenenden<br>zu Hause und im Garten.
+126	
+127	
+128	
+129	
+130	
+131	
+132	
+133	
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	
+144	
+145	
+146	Hat auf seinem persönlichen Blog „Die reine Wahrheit“<br>über seine Freunde abgelästert.<br>War zu beliebt und jetzt ruft ihn niemand mehr<br>an – das Internet vergisst nie!
+147	Auf dem Heimweg von der Grundschule erschien<br>eine riesige silberne Scheibe am Himmel.<br>Er weiß nicht, was als Nächstes geschah, aber jetzt<br>scheint er nur noch silberne Overalls zu tragen ...?
+148	Durch eine Quantenverschiebung wurde er wieder zum Kind.<br>Die Leute wissen nicht, was sie davon halten sollen, wenn<br>dieses ledrige Gesicht wegen Süßigkeiten weint, aber er<br>muss trotzdem den vollen Preis fürs Kino zahlen.
+149	Dieser tintenschwarze Moppel ist ein manischer Sammler<br>von Herrenfilmen. Er hat Angst, dass<br>sein Hobby ans Tageslicht kommen könnte, also<br>haut er alle um, die seiner Sammlung zu nahe kommen.
+150	
+151	
+152	
+153	
+154	
+155	
+156	
+157	
+158	
+159	
+160	Ein quietschfideler Neuling. Heute ist ihr zweiter<br>Tag in ihrem himmlischen Job. Ihre Freundin Ente<br>hat langsam die Nase gestrichen voll, davon zu hören,<br>wie toll die neue Wohnung im Paradies ist.
+161	
+162	
+163	
+164	
+165	
+166	
+167	Ein liebenswürdiger Hund, der von den Invasoren genetisch<br>verändert wurde, um der perfekte Infanterist zu sein!<br>Sagt immer „Wir denken“, aber ist äußerst egoistisch.<br>Deshalb streitet er mit seinen Mitbewohnern.
+168	Hat seine Sehprobleme überwunden, um einen Abschluss<br>in Innenarchitektur zu machen. Seine Philosophie ist „Einfach<br>ist Trumpf“. Wie sich herausstellt, streicht er einfach alles<br>blau und nimmt sich den Rest der Woche frei.
+169	Dieses Nilpferd wird jeden Monat von Aliens entführt.<br>Es trug ein Trauma von dem Ding, das auf seinem Kopf wächst,<br>davon und seine Haut wurde so blau wie sein Herz.<br>Und es hat seinen Namen geändert.
+170	Ein Walross-Kriegsherr, der aus dem Weltraum kam, um<br>gegen die roten Robben der Erde zu kämpfen. Hat keine Hände,<br>aber versucht trotzdem den Handschlag, um höflich zu sein.<br>Über einen Herrn mit so viel Klasse würde ich nie lügen.
+171	Ein Popidol von einem Käferplaneten, das für stilvolle,<br>sexy und auffällige Outfits bekannt ist. Viele Fans kamen<br>für seine Tour auf der Erde, aber nicht ein Mensch hat<br>überlebt. Kann Katzeneinheiten einfrieren.
+172	Seine Augen sind groß genug, um zwei Lichtjahre<br>weit zu sehen. Das Tageslicht ist aber zu hell, also muss<br>er bis zur Dämmerung drinnen warten. Trägt Spezial-<br>kontaktlinsen, die Angriffe von Katzeneinheiten schwächen.
+173	Hat einen Kredit mit einer 45-jährigen Laufzeit aufgenommen,<br>um ein stabiles Haus zu kaufen, das DAS DING hinten<br>überdeckt. Verbringt trotzdem jedes Wochenende mit<br>Hausbesichtigungen. Überlebt einen tödlichen Schlag.
+174	Ein Überraschungsgast der Hitshow „Face Force 5“.<br>Kam auf die Erde, um sie zu schützen, aber hat sich<br>abgewandt, nachdem Leute mit Smartphones ihn beim<br>Abendessen ignoriert hatten. Kann Katzen einfrieren.
+175	Hat die Erde auf einer Kreuzfahrt kennengelernt, aber die<br>Tourgruppe verlassen und wurde zurückgelassen. Arbeitet<br>für die NASA und hofft, sich an Bord einer Rakete schleichen<br>zu können. Wird durch erlittenen Schaden stärker.
+176	Ihre Mission: Die Apokalypse einleiten und jegliches<br>menschliche Leben ausradieren. Ist aus Versehen auf dem<br>Mond gelandet. Hinterlässt jetzt Krater aus reiner<br>Langeweile. Schwächt Katzenangriffe.
+177	Seine Topffrisur hilft ihm, die Kraft seines Verstandes<br>unter Kontrolle zu halten. Sucht nach einem schneidigen<br>Raumschiffkapitän, der ihm die Welt der Gefühle näher<br>bringen kann. Bahnt sich mit Logik und Stoßzähnen einen Weg.
+178	Liz ist ein Abkömmling des Cyber-Schweinestalls und wäre<br>fast gestorben, nachdem sie sich an einem Pilz verschluckt<br>hatte. Sie ist auch heute immer noch blau.<br>Setzt mächtige Wellenangriffe ein.
+179	Ein stürmischer Sternnebel, der aus einem Schwarzen Loch<br>entstand. Er zerreißt alles, was zu nahe kommt.<br>Blocke besser und greif ihn aus der Deckung an!<br>Greift stärker an, nachdem er Schaden erlitten hat.
+180	Verfügt über die albtraumhafte Kraft, in Zukunft all deine<br>E-Mails an eine zufällige Adresse weiterzuleiten. Du wirst<br>nie erfahren, warum dich all deine Freunde vergessen haben.<br>Angriffe können die Bewegung verlangsamen.
+181	Hat die Hundelanze „Wuffnir“ als albernes Geschenk zum<br>Junggesellinnenabschied bekommen. Ihr Geist ist jetzt von<br>Zorn gegen alles Katzenhafte vernebelt ...<br>Wird stärker, nachdem sie Schaden erlitten hat.
+182	Früherer Weltergewichtschampion von Gliese 832c.<br>Ihr wurde der Titel aberkannt, nachdem die Schiedsrichter<br>bemerkten, dass sie in Runde 4 unzulässige Handschuhe trug.<br>Die Handschuhe verhelfen ihr zu einem starken Rückstoß.
+183	Eine Killermaschine, die nur einen Zweck verfolgt:<br>verhindern, dass weitere Katzenbilder im Internet<br>veröffentlicht werden. Wollte schon in Kapitel 1 mitmachen,<br>aber war zu langsam und hat den Bus verpasst.
+184	Die einzige Tochter aus dem politisch einflussreichsten Hause<br>von Centauri im Jahr 1192. Schönheit, Klugheit, Gerissenheit.<br>Und trotzdem hat sie einen Chihuahua, der Reality-TV-„Star“<br>ist, geheiratet. Wird nach erlittenem Schaden stärker.
+185	Obwohl er noch zur Uni geht, ist seine Forschung in<br>schmuddeligen Dingen so weit vorangeschritten, dass<br>seine Freunde ihn Professor nennen.<br>Dating-Erfahrung hat er irgendwie immer noch keine.
+186	
+187	
+188	
+189	
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	Pelzige brasilianische Sportskanone. Geht zweimal täglich<br>ins Fitnessstudio und kaut ihr Essen stets gründlich.<br>Ihre Muskeln sind sehr schwer und sie ist langsamer als sie<br>aussieht, aber ihre Haudrauf-Angriffe tun ordentlich weh ...
+206	Eines Tages erwachte ich von einem Nickerchen und fand einen<br>Kory in meiner Küche, wo es Eintopf kochte. Nachdem ich ihn<br>für den Überfall auf meinen Kühlschrank rauswarf, erweckte<br>die Sonne auf seinem Rücken verborgene dunkle Mächte.
+207	KANNST DU ÜBERHAUPT PUMPEN??? Er lebt glutenfrei, aber<br>verpasst keine Chance, die Mädels mit seinen Krümeln von<br>der Bio-Bäckerei zu beeindrucken.<br>Gehirn der Größe einer Cashewnuss, aber wirkt anziehend.
+208	Notlandete mit ihrem Schiff beim berühmten Fischmarkt<br>in Tsukiji. Sie hat einen neuen transparenten Stil<br>eingeführt, der jetzt am Hafen äußerst angesagt ist.<br>Schwächt feindliche Angriffe deutlich.
+209	Camelle hat sich Baumwollbäusche angeklebt, um ein Alpaka<br>zu werden. Sie ist allergisch gegen die Fasern und muss daher<br>ständig husten und spucken, aber sie ist zu stolz,<br>um zuzugeben, dass sie einen Fehler begangen hat.
+210	Der Großvater des FAULTIERS hat einen lebenslang gültigen<br>Pass für das Thermalspa gekauft. Heilende Mineralien im<br>Wasser, in dem der all seine Zeit verbringt, haben ihm<br>Supertempo und mächtige Rückstoßkraft verliehen!
+211	Bun Buns DNS hat sich mit einem außerirdischen Wesen<br>gemischt. Auch Schüler wurden davon infiziert, nun ähnelt die<br>Schule einem Schwarmbewusstsein (Quelle: Nilpferd).<br>Feuert gelegentlich mächtige Energiewellen ab.
+212	Hat endlich den Reißverschluss seines Kostüms aufbekommen<br>und ist jetzt frei und unaufhaltsam! Kann die zerstörerischen<br>Impulse, die ihn zwingen, alles, was ihn umgibt,<br>ins Chaos zu stürzen, nicht kontrollieren!
+213	
+214	
+215	
+216	
+217	
+218	
+219	
+220	
+221	
+222	
+223	
+224	
+225	
+226	
+227	
+228	
+229	
+230	
+231	
+232	Dieses mystische Wesen ist die Rettung der Menschheit ...<br>oder ihr Untergang. Aber im Moment ist es zu beschäftigt,<br>sich überfürsorglich um seinen Nachwuchs zu kümmern und<br>ihn mit Ultra-Distanzangriffen zu beschützen.
+233	
+234	
+235	„Ich suche einen würdigen Rivalen! #MaulwurfKampf“ ist der<br>einzige Tweet von diesem aufstrebenden Kampfkünstler.<br>Seine Geheimtechnik „Aufsteigende Maulwurffaust“ stößt<br>Feinde aus gewaltiger Distanz zurück.
+236	Ein Sturm der Stärke 5 ist gewaltig gewachsen, indem er<br>kleinere Zyklone in sich aufgenommen hat. Wehrt Bedrohungen<br>über äußerst große Distanz ab. Meteorologen sagen, dass<br>der Rückstoß aufhört, wenn man seinem Auge nahekommt.
+237	
+238	
+239	
+240	
+241	
+242	
+243	
+244	
+245	
+246	
+247	
+248	
+249	
+250	
+251	
+252	
+253	
+254	Treibt alle in seiner Nähe mit seinen selbstgefälligen<br>Ratschlägen in den Wahnsinn. Tu am besten so, als würdest<br>du zuhören, sonst haut er dir ordentlich eine rein:<br>Du wirst mir dafür eines Tages danken!
+255	Hat früher eine bekannte Spielshow moderiert.<br>Dieser rastlose Wanderer bereist nun die Welt und<br>spielt Golf. Er kehrt heim, um im Fernsehen aufzutreten, wenn<br>ihm das Geld ausgegangen ist. Feuert Wellen der Gier ab.
+256	Ein skrupelloser halbprofessioneller Pitcher, der alles tut,<br>um ein Spiel zu gewinnen.<br>Wirft illegale Bälle aus weiter Entfernung, um die<br>Batter von Auswärtsmannschaften einzuschüchtern.
+257	Im Jahr 1196 des kosmischen Kalenders geboren. Er hat durch<br>seinen Militärdienst und seine Errungenschaften für die<br>Wissenschaft eine Krone verliehen bekommen. Er ist sauer,<br>weil sein Bruder in einer Realityshow bekannter wurde.
+258	Ein umherwanderndes Mädchen aus dem Wald, das von der<br>Hundearmee als Auftragsmörder angeheuert wurde. Wird von der<br>Katzenarmee gefürchtet, weil sie jede Taktik einsetzt, um zu<br>töten. Selbst eine Panzerfaust mit hoher Reichweite!
+259	
+260	
+261	Führender Assistent des berühmtesten Record-Label-Produzenten<br>im Himmel. Ghostwriter für zwei One-Hit-Wonder:<br>„Können Katzen Sünde sein“ und<br>„C. P. U. (Intelligenz der Zukunft Teil II)“
+262	
+263	
+264	
+265	
+266	Hat eine 9-jährige Auszeit genommen, bevor er sich traute,<br>sich an der Uni einzuschreiben. Will einen Abschluss in<br>Nuklearphysik machen, um seinen Partikelstrahl besser zu<br>kontrollieren, aber Papa will, dass er Buchhalter wird.
+267	Hat zum Spaß eine gruselige Maske getragen, die ihn in einen<br>fleischfressenden Dämon verwandelte. So etwas passiert.<br>Speit reine Verderbtheit, die aus rachsüchtigem Hass<br>entstand. Das normale Gesicht ist gar nicht so übel, was?
+268	
+269	
+270	
+271	Eine ausgestoßene Prinzessin wurde zur Elite auf den<br>Straßen der großen Stadt. Ihre schlechte Erziehung ist der<br>Grund für ihr schlechtes Temperament. Komm ihr nicht zu nahe,<br>sonst hört sie nicht auf zu sticheln.
+272	Großer Champion des Problemkindpokals, Schrecken eines<br>jeden Kindergartens.<br>Vielleicht hat Papa ihn die russischen Klassiker zu früh<br>lesen lassen? Lieblingswort = LIEBE.
+273	
+274	
+275	
+276	
+277	
+278	
+279	
+280	Nach jahrelanger Wanderung durch das Ödland<br>haben sich sein Pelz und seine Seele von der Korruption der<br>Welt schwarz gefärbt. Erhält Preise für lückenlose<br>Anwesenheit am Arbeitsplatz.
+281	
+282	
+283	
+284	Der verstorbene und vor einigen Jahren begrabene Vater des<br>Hundes. Selbst im Grab macht er sich Sorgen über die Noten<br>seiner Kinder. Nur ein ordentliches Zeugnis kann ihm<br>ewige Ruhe schenken.
+285	Eine schlüpfrige Kreatur, die Wasserfarben als<br>Horror-Schminke verwendet (ist aber schon tot).<br>Du musst nur wissen, dass sie über gewaltige<br>Flächenangriffskraft verfügt.
+286	Ist eines Nachts über ein giftiges Moor gewandert<br>und ist später tot aufgewacht.<br>Es macht ihm allerdings nicht aus, wie es scheint.<br>Nun werden wir nie erfahren, ob es ein er oder eine sie ist.
+287	Selbst nach dem Tod wird dieses königliche Schwein den<br>Thron nicht aufgeben. Trägt einen stilvollen Schädel, bis<br>ihre geraubte Krone geborgen wird.<br>Ich faule nicht, ich reife nur wie feiner Wein.
+288	Nachdem sein Debütfilm ein Desaster war, blieb nur ein großes<br>Loch übrig, wo Pengs Herz früher einmal schlug.<br>Selbst der Tod stoppt seine Rache an undankbaren<br>Zuschauern nicht!
+289	Nachdem er wegen seiner Fratze am Himmelstor<br>abgewiesen wurde, schreitet der Gorilla nun auf Erden.<br>Jemand hat ihn beim Glücksspiel skalpiert, weil er dachte,<br>er trüge ein Toupet. Das hat sicher wehgetan.
+290	Im Morgennebel wurde ich einer Robbe gewahr.<br>Sie rief nach mir, ihre Stimme war weder lebendig noch tot.<br>Sie beschwor mich, sie zu einer fernen Küste in<br>einer unheimlichen Welt zu begleiten ...
+291	Nach 50 Jahren als Boxerin kam ihr Körper mit<br>dem Dopen nicht mehr zurecht.<br>Wie dem auch sei, die Pillen waren so effektiv, dass ihr<br>Körper auch nach ihrem Tod noch weiterboxt.
+292	Ein armer Alligator, der verhungerte.<br>Ist zu schwach, um über den Fluss Styx zu schwimmen, daher<br>kam er als halber Geist auf diese Welt zurück.<br>Wird manchmal mit einer Hantel verwechselt.
+293	Ein Hausbesetzer hat sich in Zunds Grab niedergelassen!<br>Wie unhöflich! Wem auch immer der geheimnisvolle<br>Kadaver gehört, der Wille auf den Putz zu hauen<br>ist durch und durch lebendig.
+294	Die Geister der von den Kampfkatzen Besiegten haben<br>sich zu einem rachsüchtigen Sturm vereint.<br>Wie kann man einen Wirbelwind besiegen,<br>der bereits tot ist?
+295	
+296	
+297	
+298	
+299	
+300	
+301	
+302	
+303	Zunds Frau sollte hier begraben werden,<br>aber sie ist 158 Jahre alt und immer noch<br>am Leben. Jemand anderes hat sich offenbar<br>die freie Lagerfläche gekrallt.
+304	Lass diesen Faulpelz am besten in Ruhe, er beißt jeden,<br>der sein Nickerchen unterbricht. Oder schlimmer noch:<br>Er erzählt endlose Geschichten über seine Baseballkarriere<br>in der Minor League.
+305	
+306	
+307	
+308	
+309	Ein uralter Held der Hundearmee.<br>Hat sich letztes Jahr als bedrohte Tierart registriert ...<br>Die älteren Toten fristen ein einsames Dasein.<br>Lateinischer Name: Canis Mausus Totus.
+310	Ist nach einer missglückten Schönheitsoperation an ihrem<br>unvorteilhaften Buckel verstorben. Ist eine hübsche Leiche.<br>Das erste untote Covergirl!<br>Verliere kein Wort über ihren unnatürlichen Fellton ...
+311	
+312	
+313	
+314	
+315	
+316	Der Geist eines Hundekriegers hat von einem aufstrebenden<br>jungen Schauspieler Besitz ergriffen, der seine Person in<br>einem Theaterstück über seine Legende darstellte. Komm ihm<br>nicht zu nahe – das verfluchte Schloss könnte zuschlagen.
+317	Der beste Zombie ist ein gebildeter Zombie, hat Papa immer<br>gesagt. Hinter dem ominösen Cover verbergen sich nur<br>billige Horror-Comics.<br>Immun gegen alle negativen Effekte.
+318	Nimmt oft nach einer durchzechten Nacht den<br>letzten Zug nach Hause. Denkt jetzt über ihre achtlos<br>vergeudete Jugend nach und schwört, sich zu bessern.<br>Hat letzte Woche die Arbeit nur 3-mal verschlafen.
+319	
+320	
+321	
+322	
+323	
+324	
+325	
+326	
+327	
+328	
+329	
+330	
+331	
+332	
+333	
+334	
+335	
+336	
+337	
+338	
+339	
+340	Ein himmlischer Leckerbissen aus dem Meer, der allen mit<br>reinem Herzen als religiöse Vision des Katzengottes<br>erscheint. Das kulinarische Paradies erwartet jene,<br>die diese Glaubensprüfung bestehen können.
+341	
+342	
+343	
+344	
+345	
+346	
+347	
+348	
+349	
+350	
+351	
+352	
+353	
+354	Diese lebende Legende der Kampfkunst erwartet alle<br>würdigen Besucher an der Spitze des Himmlischen Turms.<br>Liebt es, reiche Sprösslinge in die Schranken zu weisen, die<br>versuchen, Erleuchtung einfach zu kaufen. Liebt rosa Limo.
+355	Berüchtigter professioneller eSports-Spieler, der während<br>Turnieren mit seiner Zunge Reset-Knöpfe drückt, um zu<br>ragequitten. Das ist wohl eine Möglichkeit,<br>eine perfekte Sieg-Niederlage-Statistik zu erreichen.
+356	
+357	
+358	
+359	
+360	Offiziershund der außerirdischen Marines.<br>Hatte beste Noten in der Akademie und<br>sein Fachgebiet sind Teleport-Angriffe.<br>Aber der Arbeitsmarkt ist heutzutage schwierig.
+361	Der Begründer der Teleportfeldtaktik.<br>Das Volk der Peng ist ein stolzer Kriegerstamm, der<br>wissenschaftlich sehr fortschrittlich ist, weil sie nämlich<br>allesamt täglich ein Sudoku lösen.
+362	Ein mächtiger Taktiker, der wegen seines Gesichts noch<br>immer single ist. Er ist tatsächlich ein ausgezeichneter Koch<br>und kann in sechs Oktaven singen, aber er ist zu schüchtern,<br>um irgendwen an seinen Talenten teilhaben zu lassen.
+363	Die Mutter aller Le'Boins. Sie beschützt ihre<br>süßen Kinder mit eiserner Abwehr.<br>Marschiert in mindestens drei Planeten pro Woche ein, um<br>ihre ansprechenden Kurven zu wahren.
+364	Er kann all deine schmutzigen Gedanken erraten.<br>Bewahre reine Gedanken in seiner Gegenwart, sonst<br>werden ihn die unzüchtigen Energien nur stärken.<br>Er hat überhaupt keine Erfahrung.
+365	Ein stolzer Soldat der großartigen Maulwurfarmee, der<br>den Frieden und die Liebe im ganzen Kosmos wahrt.<br>Sein Antimaterie-Aufwärtshaken katapultiert Katzen<br>in eine andere Dimension.
+366	Eine von Weltraumhunden gezüchtete Biowaffe, die für<br>Überfälle auf Katzenaußenposten gemacht ist. Unsichtbar<br>von vorne, aber da das Spiel von der Seite abläuft,<br>ist die Tarnung nicht besonders effektiv.
+367	He, ich bin’s, Katzengott.<br>Es scheint dir Spaß zu machen, meinen Beschreibungstext<br>zu lesen.<br>Es ist aber fast Zeit für mein Bad, also ...
+368	
+369	
+370	
+371	
+372	
+373	
+374	
+375	Ein äußerst selbstbewusster Vogel, der von Eltern benannt<br>wurde, die wollten, dass er immer an sich glaubt. Seine<br>Arroganz ist so extrem, dass sie seine Heimatdimension<br>ausgefüllt und ihn in diese getrieben hat.
+376	
+377	Ein Riss in Zeit und Raum, der sich in einem Nebel<br>geöffnet hat. Manipuliert das Kontinuum, um Katzen<br>wegzuteleportieren. Ein Sieg ist möglich, wenn du ihn aus<br>der Entfernung angreifst ...
+378	
+379	Ein nettes Schwein mit einer niedlichen, herzförmigen Nase.<br>Sie will mit ihrem fröhlichen Gehüpfe niemandem schaden,<br>aber es wird deinen Kampfwillen brechen.<br>Will bloß zu ihrer himmlischen Familie zurückkehren.
+380	Heiliger Wächter des Himmlischen Turms. Nur jene, die seine<br>Prüfung bestehen, werden als würdig angesehen.<br>Da er in letzter Zeit weniger Besucher hatte, arbeitet er<br>nebenher als Lehrer für Modern Dance für Kindergartenkinder.
+381	
+382	
+383	
+384	
+385	
+386	
+387	Ambitionierter Pitcher, dessen brennende Leidenschaft<br>oft nur den Strand, aber sonst nicht viel, entflammt.<br>Hofft, eines Tages die Wucht hinter seinen kräftigen,<br>weitreichenden Fastball-Angriffen vorzeigen zu können!
+388	Sternschaf mit einer mächtigen Barrierenabwehr.<br>Die stachelige Erscheinung ist tatsächlich nur eine Frisch-<br>aus-dem-Bett-Frisur. Da jeder auf Distanz bleibt, macht es<br>sich Sorgen darüber, ob es Mundgeruch hat.
+389	
+390	
+391	
+392	
+393	
+394	
+395	
+396	
+397	
+398	
+399	
+400	
+401	
+402	
+403	
+404	
+405	Überbleibsel eines uralten Imperiums, das einst die Erde<br>regierte. Eine dunkle Hunde-Vereinigung hat diese furchtbare<br>Macht wiedererweckt, aber zum Glück müssen sich alle Piloten<br>die einzige Ausgabe des Benutzerhandbuchs teilen!
+406	Ein unaufhaltbares Artefakt, das gnadenlos jeden Eindringling<br>im Reich der Uralten zermalmt. Den Prophezeiungen zufolge<br>gibt es Helden, die den üblen Flüchen widerstehen können,<br>die dieser Wächter seinen Feinden auferlegt.
+407	Angestammter Erzfeind des Katzenimperiums.<br>Seriös und fleißig wie alle Hunde, aber manchmal rutscht ihm<br>ein Fluch raus, wenn er sich zu sehr konzentriert.<br>Hoppla, tut mir leid!
+408	
+409	
+410	
+411	
+412	Spricht nur Altenglisch. Das bedeutet,<br>es ist ein sehr junges Relikt.<br>Wenn die Katzen richtig aufpassen würden,<br>könnten sie einiges von diesem Kerlchen lernen.
+413	Ein uralter Prophet, der von nahendem Unheil erfährt, indem<br>er durch die Zeit reist. Seine Zeitreisen sind nicht sehr<br>zielgenau, deshalb ist die schlimme Zukunft bereits<br>eingetreten, bevor er wieder zuhause ist ...
+414	Bürgermeister des alten Herzogtums Lepidoptera.<br>Die Einwohner hassen seine langen, ausschweifenden<br>Geschichten, mit denen er die morgendlichen<br>Stadtratssitzungen bis in die Abendstunden hinzieht.
+415	
+416	
+417	Eillieferung ans Ende der Galaxis!<br>Seine Freundin findet, dass er sich eine echte Stelle<br>suchen sollte, also hat er sich einem außerirdischen<br>Elite-Stoßtrupp angeschlossen.
+418	Unterschätzter, genialer Koch, der in einem Sternerestaurant<br>arbeitet. Er teleportiert alles, was unappetitlich aussieht,<br>zurück in die Küche. Welchen Wein serviert man am besten<br>zu Katze?
+419	Hallo! Ich bin’s, der allseits beliebte Katzengott!<br>Ich hoffe, dir hat das 2. Kapitel des Kosmos gefallen!<br>Das Leben in der echten Welt ist ziemlich hart ... Ich musste<br>letzte Woche wieder bei meiner Mutter einziehen ...
+420	Die beliebteste Berühmtheit des letzten Jahres, die für ihre<br>ausgefallenen Augenbedeckungen bekannt ist. Aber eigentlich<br>sehen nur ihre Augen merkwürdig aus ... Schon komisch, dass<br>sie sie so werfen kann. Relikte – einfach unverbesserlich.
+421	
+422	
+423	Lebensform, deren Zweck darin besteht, die Katzen<br>auszulöschen. Man dachte, er wurde vor Jahrtausenden in<br>einer großen Schlacht mit der ursprünglichen Katzenarmee<br>zerstört. Kleinster und hübschester der Gesichtoiden(?)
+424	Ein Strauß, der außerdem erfahrener Stand-up-Comedian ist.<br>Eine Inspiration für jüngere Komiker, aber der<br>Altersunterschied innerhalb der Szene wird ihm immer<br>mehr bewusst.
+425	
+426	
+427	Wurde aus den stärksten Teilen ausgedienter Lehrerbären<br>hergestellt. Der Kopf wollte nicht recht passen, also<br>wurde er festgenietet.<br>Sein Wunsch zu Töten scheint zu wachsen ...
+428	Dieses Schwein wurde durch einen tragischen Unfall mit<br>einer Haartrockenhaube mit einer schicken Dreadlock-Frisur<br>gesegnet ... und ist jetzt ein Ex-Ebär.<br>So schnell kann man sein Image ändern.
+429	
+430	
+431	Ein verträumter süßer Fratz, der im Halbschlaf umherwandert.<br>Sie trägt noch immer eine Windel, obwohl sie schon<br>vierzehn ist. Stör diese zarte Schlafwandlerin nicht,<br>egal, wie laut sie auch schnarchen mag.
+432	
+433	
+434	
+435	
+436	
+437	
+438	Der älteste aller Zyklone, der aus dem Urknall selbst<br>entstanden ist. Hat nicht abgenommen, auch nachdem<br>er die Dinosaurier verschlungen hat. Verflucht und wird<br>nach erlittenem Schaden stärker.
+439	
+440	
+441	
+442	
+443	Man sagt sich, dass dies das geheime Kind eines berühmten<br>Sturmes ist. Es ist allerdings unmöglich zu sagen, von<br>welchem genau. Teleportiert alle, die ihm nahe kommen.<br>Hält nicht viel aus, also gib alles!
+444	Dieses fiese Trio aalglatter Schurken hat es satt, dass<br>die Katzen in ihrem Gebiet für Ärger sorgen.<br>Sie sind bereit, auch die schmutzigen Tricks auszupacken!<br>Bezeichne sie nicht als Schlangen, das mögen sie nicht.
+445	Ein Weltraumsalamander mit einer Katzenallergie.<br>Kleine Katzen sollten die mächtigen Böen, die sein<br>unaufhörliches Niesen entfesselt, meiden, sonst könnten<br>sie in eine andere Dimension gepustet werden.
+446	Oho, so sehen wir uns wieder! Der Katzengott gibt nicht<br>einfach klein bei! Ja, du hast dich im letzten Kosmoskapitel<br>gut geschlagen, schätze ich. Vielleicht hast du dich endlich<br>dafür qualifiziert, mein Helferlein zu sein ...
+447	Nachdem sie Jahrtausende zwischen den Sternen verloren war,<br>stiftet diese seltsame Macht wieder Chaos im galaktischen<br>Katzenimperium. Die chaotische Kraft, die hier zum Einsatz<br>kommt, könnte die Gesetze der Realität neu schreiben.
+448	
+449	
+450	Ein uralter Kämpfer, der von Hunden ausgegraben wurde.<br>Der Tonkörper sieht schwach aus, aber er ist durch Relikt-<br>kraft verstärkt. Sein menschlicher Torso wurde aus Versehen<br>an einen Pferdekörper befestigt, aber er funktioniert noch.
+451	
+452	
+453	
+454	
+455	
+456	
+457	
+458	
+459	
+460	
+461	
+462	
+463	
+464	
+465	
+466	
+467	
+468	Ein irrer Wissenschaftler hat seinen Schweif angezündet,<br>um die Grenzen der Geflügelkraft zu testen.<br>Panik hat ihm die Stärke gegeben, die er braucht,<br>um in den Himmel zu fliegen.
+469	Die Anderen sind nie allein, im Leben wie im Tode.<br>Zum Glück gibt es einen Shuttle-Service, der vom Friedhof<br>zum Schlachtfeld fährt.<br>Der Untod macht einen nicht weniger abhängig von anderen.
+470	
+471	
+472	
+473	
+474	
+475	
+476	
+477	Filialleiter einer Unterwasserhandelsfirma.<br>Früher war er für seine giftige Art bekannt, aber<br>er hat geheiratet und ist jetzt deutlich umgänglicher,<br>obwohl er immer noch aussieht, als würde er gern sticheln.
+478	
+479	Ein ehrgeiziges Idol, das einmal alle 100 Jahre erscheint<br>und lange für einen Asteroiden gehalten wurde.<br>Seine treuen Fans bilden einen leuchtenden Schweif,<br>den man lichtjahreweit sehen kann.
+480	
+481	
+482	
+483	
+484	
+485	
+486	
+487	
+488	
+489	
+490	
+491	Ein fieser Ausdruck verbirgt sich hinter dieser<br>traditionellen Maske einer unschuldigen Jungfer.<br>Will sich an all jenen rächen, die seine jugendliche<br>Leichtgläubigkeit ausgenutzt haben.
+492	Ihre Aufnahmeprüfung als Erzengel steht an, also schleift<br>sie ihr Lehrbuch überallhin mit.<br>Jede Katze, die sie beim Lernen unterbricht, wird mit ihrer<br>Giftmagie bestraft. Pssst!
+493	Königin der Bühne, die vor 888 Jahren als bescheidene<br>Hintergrundtänzerin begann. Der ganze Schwarm liebt sie,<br>auch in ihrem hohen Alter noch. Einige Drohnen sagen sogar,<br>dass sie die einzig wahre Herrscherin ist ...!
+494	
+495	Dieses kleine Monster sieht immer so friedlich aus, wenn<br>es Gurken im Teich verschnabuliert.<br>Zumindest bis es zubeißt und dich mit einem wilden<br>Zufallsangriff attackiert!
+496	Wächter der unangetasteten Wildnis.<br>Niemand, der je in ihren heiligen Wald eingedrungen ist, hat<br>ihn lebend wieder verlassen. Nur jene, die sie besiegen,<br>dürfen einen Blick hinter die Maske wagen.
+497	Kroko hat sich freiwillig gemeldet, um zum Cyborg und damit<br>zum mächtigsten Mitglied seines Clans zu werden. Leider ist<br>mittendrin das Geld ausgegangen, aber er schafft,<br>dass es ganz ordentlich aussieht.
+498	Dieser Truthahn ist nebenbei ein hervorragender Verkäufer.<br>Im Oktober ließ er sich aus der Hand lesen und hat sehr<br>schlechte Neuigkeiten über seine Zukunft erfahren.<br>Er versucht ihr zu entkommen, indem er davonflattert.
+499	
+500	
+501	
+502	
+503	
+504	
+505	
+506	Der größte Gigolo des Universums, dem alle einsamen<br>Damen der Galaxis verfallen sind.<br>Nur ein paar süße Worte von ihm und schon sehen<br>bald alle Sterne.
+507	
+508	
+509	
+510	
+511	Clionel-artiges Wesen, das die vernichtende Verschmutzung der<br>Ozeane seiner Welt irgendwie überlebt (?) hat.<br>Bleib mir und meinen Söhnen von jetzt an fern.<br>Es heißt, es kann Katzen mit Furcht lähmen.
+512	Geliebter Neffe des kinderlosen Onkel Zyklombie.<br>Verfügt über die Härte seiner Mutter und der Bescheidenheit<br>seines Vaters, wodurch ein hungriger, kleiner Sturm entsteht,<br>der sich bei der kleinsten Gefahr verkriecht.
+513	Er ist treu bis zum bitteren Ende und wartet am Himmelstor<br>auf die Ankunft seines Meisters.<br>Eine berühmte Statue von ihm beim Zufallsangriff ist ein<br>beliebter Treffpunkt für Jugendliche.
+514	Ein Veteranenbaby, das 7 Jahre Erfahrung in der Infanterie<br>gesammelt hat. Kann perfekt auf Kommando weinen und<br>Fremde bewusstlos schlagen. Wurde deswegen von zwei<br>Kindergärten abgelehnt.
+515	
+516	Oberhaupt eines mächtigen Klans im Ruhestand, das insgeheim<br>noch immer regiert. Hat im hohen Turm ein Versteck errichtet,<br>wo er mit seiner Freundin entspannt (bis die unhöflichen<br>Katzen das Versteck stürmen!)
+517	Maskottchen/Trainer der NLB-Champions „Koala-Knüppler“.<br>Hat öfter erzwungen, dass Spiele wiederholt wurden, indem<br>er das Spiel gestört hat, wenn sein Team am verlieren war.<br>Alle fürchten seine gnadenlosen Trainingsmethoden.
+518	
+519	
+520	
+521	Ein U-Bahn-Straßenkünstler, der seinen Wert ändert, indem er<br>sich auf ein anderes Bild konzentriert. Ursprünglich Mitglied<br>einer beliebten Band, aber hat sie verlassen, um Solo<br>durchzustarten – kurz darauf war die Band ein Welterfolg.
+522	
+523	
+524	
+525	
+526	Subjekt 002 (paläobakterielle Lebensform)<br>Kampfpotenzial: Unermesslich.<br>Trotz Aussehens ist Eigenschaft „Fliegend“ nicht vorhanden.<br>Leistung entspricht geschwächter Kapazität
+527	Dieser Vogel ist so stark, dass er nach Belieben selbst durch<br>den Fluss Styx schwimmen kann.<br>Unglücklich, weil seine sorgsam kultivierten Muskeln trotz<br>aller Maßnahmen einfach verrotten.
+528	
+529	
+530	
+531	
+532	
+533	
+534	
+535	Der verheißene Herr der Katzen, vom Stolz auf seine<br>Meisterschaft über uralte Waldzauber verzehrt.<br>Ist jetzt König der Zerstörung und straft diese dekadente<br>Welt mit wütenden Zufallsangriffen und Flüchen.
+536	
+537	
+538	"DIESER Ebär wird nie rot", sagt dieser junge Rebell gern,<br>bevor er auf seinem Motorrad davonbraust.<br>Die Urteile der Erwachsenengesellschaft sind ihm egal,<br>er will nur die offene Straße befahren.
+539	
+540	
+541	Während er gerade in einem Online-Kurs Zufallsangriffe<br>lernte, traf dieser Fuchs das Schwein versehentlich mit<br>einer Welle, während er verbotenerweise im Park übte. Jetzt<br>getarnt, um nicht von der Polizei entdeckt zu werden …
+542	
+543	
+544	
+545	
+546	
+547	Identifiziert sich nicht als Löwe.<br>... aber wieso? Man hat ihn gefragt,<br>aber er wurde sofort wütend und<br>ließ einen Mini-Wellenangriff los.
+548	
+549	Bürohengst, der sich einem fiesen Multi verschworen hat.<br>Nach ewigen Überstunden sind seine Augen blutunterlaufen,<br>und als der Neue um Punkt fünf Uhr gegangen ist,<br>ist er einfach durchgedreht.
+550	
+551	Tief im Uralten Wald lebt der Doron-Stamm und versteckt seine<br>Gesichter hinter von Göttern gesegneten Masken. Wird die<br>Maske zerbrochen, wird eine tödliche Welle aus göttlicher<br>Macht freigesetzt.

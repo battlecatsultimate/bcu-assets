@@ -1,0 +1,530 @@
+0	Speed Up
+1	Treasure Radar
+2	Rich Cat
+3	Cat CPU
+4	Cat Jobs
+5	Sniper The Cat
+6	XP
+11	Silver Ticket
+12	Gold Ticket
+13	Cat food
+23	Glücksticket
+26	Glücksticket
+27	Glücksticket
+28	Glücksticket
+29	Platinticket
+30	Lila Katzenfruchtkern
+31	Roter Katzenfruchtkern
+32	Blauer Katzenfruchtkern
+33	Grüner Katzenfruchtkern
+34	Gelber Katzenfruchtkern
+35	Lila Katzenfrucht
+36	Rote Katzenfrucht
+37	Blaue Katzenfrucht
+38	Grüne Katzenfrucht
+39	Gelbe Katzenfrucht
+40	Epische Katzenfrucht
+41	Gereifter Katzenfruchtkern
+42	Gereifte Katzenfrucht
+43	Epischer Katzenfruchtkern
+44	Goldene Katzenfrucht
+45	Glücksticket
+46	Glücksticket
+47	Glücksticket
+48	Glücksticket
+49	Glücksticket
+50	Katzenauge [Besonders]
+51	Katzenauge [Selten]
+52	Katzenauge [Superselten]
+53	Katzenauge [Megaselten]
+54	Katzenauge [Legendär]
+55	Katzamin [A]
+56	Katzamin [B]
+57	Katzamin [C]
+75	Glücksticket
+76	Glücksticket
+77	Glücksticket G
+78	100.000 XP
+85	Ziegel
+86	Federn
+87	Kohle
+88	Zahnräder
+89	Gold
+90	Meteorit
+91	Tierknochen
+92	Ingenieure
+93	Glücksticket
+94	Glücksticket G
+95	Glücksticket G
+96	Glücksticket G
+97	Glücksticket G
+98	Glücksticket G
+99	Glücksticket
+100	Glücksticket G
+101	Glücksticket
+102	Glücksticket G
+103	Glücksticket G
+104	Glücksticket
+105	Führung
+106	Glücksticket G
+107	Glücksticket
+108	Glücksticket G
+109	Glücksticket G
+110	Glücksticket
+112	Glücksticket
+113	Glücksticket G
+114	Glücksticket G
+115	Glücksticket G
+116	Glücksticket
+117	Glücksticket
+118	Glücksticket G
+119	Glücksticket G
+120	Glücksticket G
+121	Glücksticket G
+122	Glücksticket
+124	Glücksticket G
+125	Glücksticket G
+126	Glücksticket
+127	Glücksticket
+128	Glücksticket G
+129	Glücksticket G
+130	Glücksticket G
+131	Glücksticket G
+132	Glücksticket
+133	Glücksticket G
+134	Glücksticket
+135	Glücksticket G
+136	Glücksticket
+137	Bikkuriman Choco
+138	Glücksticket G
+139	Glücksticket
+140	Muninit
+141	Glücksticket G
+142	Glücksticket G
+143	Glücksticket
+144	Glücksticket G
+146	Glücksticket G
+147	Glücksticket
+148	Glücksticket
+149	Glücksticket G
+150	Glücksticket G
+151	Unbeg. reiche Katzen/3 Std.
+152	Unbeg. Katzencomputer/3 Std.
+153	Unbeg. Katzenschützen/3 Std.
+154	Glücksticket G
+155	Glücksticket
+156	Glücksticket G
+157	Platinsplitter
+1005	Bronzekatze
+1100	Bronzekatze
+1001	Sporttagkatze
+1003	Angestellten-Katze
+1004	Rentierfisch-Katze
+1006	Droid-Katze
+1007	Erwachsene Katze
+1008	Böse Katze
+1009	Puppenkatzen
+1101	Weltraumkatze
+1102	Seilhüpfkatze
+1103	Verrückte Katze
+1104	Verrückte Panzer-Katze
+1105	Verrückte Axtkatze
+1106	Verrückte Stelzenkatze
+1107	Verrückte Kuhkatze
+1108	Verrückte Vogelkatze
+1109	Verrückte Fischkatze
+1110	Verrückte Echsenkatze
+1111	Verrückte Titanenkatze
+1010	Mädchen-Katze
+1012	Koi-Katze
+1033	Katzengeschwister
+1013	Die Braut
+1112	Healer
+1014	Urlaubskönigin
+1114	Aufziehkatze
+1015	Rache-Katze
+1113	Ururun-Wolf
+1016	Kung-Fu-Katze X
+1035	Squish Ball Cat
+1116	Hula-Katze
+1018	Marshmallow-Katze
+1118	Kleiner Nyandam
+1119	Takuya ＆ Yuki
+1019	Cat Kart R
+1120	Trommlerkatze
+1020	Baozi Cat
+1021	Catburger
+1121	HYAKUTARO
+1022	Kürbiskatze
+1023	Katzengeschenk
+1024	Katzway
+1130	Katzornado
+1131	Rotkäppchen-Mina
+1132	Funghi
+1025	Awa-Odori-Katze
+1026	Expresskatze
+1027	Little-League-Katze
+1134	Li'l Madoka
+1135	Kyubey Cat
+1028	Essensstandkatze
+1029	Cheerleader-Katze
+1137	PIKOTARO
+1030	Killer-Katze
+1031	Curling-Katze
+1139	Miyamoku Musashi
+1032	Eierkatze
+1140	Redhead Yuki Cat
+1142	Li'l Shirou
+1036	Volley-Katze
+1037	Glaskatze
+1143	Akio Yabe
+1144	Karin Nekozuka
+1145	Misaki Konno
+1146	Sairi Nijitani
+1147	Ren Katagiri
+1148	Mentori
+1149	Shinji & Cat
+1150	Giraffe Unit-01
+1038	Verrückte Moneko
+1151	Pokota
+1152	Ovis
+1153	Coco
+1157	Mecha-Bun
+1039	Schneckenreiter-Katze
+1158	Betakkuma
+1040	Einsame Katze und Kätzchen
+1041	Urkatze
+1160	Meowla Meowla
+1042	Dogumaru
+1162	Prince Yamato
+1164	Kano ＆ Souma
+1043	Cat Bros
+1044	Machtkatze
+1167	Ryu Cat
+1168	Akuma Giraffe
+1045	Medusa-Katze
+1046	Schleimkatze
+1047	Kosakenkatze
+1048	Lehrerbärkatze
+1049	Urs & Fenrir
+1170	Miku Cat
+1050	Rugbykatze
+1051	Phantomkatze
+1052	Bäckereikatze
+1172	Idi:N
+1053	Steinkatze
+1173	Ranma Cat (M)
+1054	Ältestenmaske Doron
+19001	Irokatze
+19002	Radierkatze
+19003	Dunkle Katze
+19004	Beinmuskelkater
+19005	Löwenkatze
+19006	Die Flugkatze
+19007	Inselkatze
+19008	Königsdrachenkatze
+19009	Jamierakatze
+10010	Muskelprotz-Katze
+10011	Tänzerkatze
+10012	Hyper-Mr.
+10013	Ultimative Fessel-Katze
+10014	Darth Laser
+10015	Offensiver C.A.T.
+10016	Lolli-Katze
+10018	Einradkatze
+10019	Fliegende Ninja-Katze
+10020	Skelett-Katze
+10021	Bäcker-Katze
+10022	Reisbällchen-Katze
+10023	Gato Amigo
+10024	Lendenschurz-Katze
+18025	Heilige Walkürenkatze
+18026	Erwachte Bahamut-Katze
+15031	Tathagata-Katze
+15032	Ultra-Verbrecher-Katze
+15033	Cancan-Katze
+15034	Tintenfischkatze
+15035	Ultralan Pasalan
+15036	Cyberpunk-Katze
+15037	Nöck-Katze
+15038	Jiangshi-Katze
+15039	Relaxte Katze
+15040	iCat
+15041	Luxus-Badekatze
+15042	Cyborg-Katze
+15043	Eiskristall-Katze
+15044	Katzenmaschine, 3. Auflage
+15045	Oberbalrogkatze
+15047	Katzasaurus
+15048	Maximum der Kämpfer
+15049	Schreckenspirat Katzley
+15050	Goemon-Katze
+15051	Sanzo-Katze
+15052	Arztkatze
+15053	Nekrotänzerkatze
+15056	Verzauberinkatze
+15057	Katzaur
+15058	Paladinkatze
+15059	Elementduellant-Katze
+15060	Katzen in der Wiege
+10061	Rätselmeisterkatze
+15062	Rogenkatze
+10064	Amokkatzen
+10071	Ritualkatze
+15072	Unsterblicher Yukimura
+15073	Unsterblicher Keiji
+15074	Unsterblicher Nobunaga
+10075	Weihnachtsdessert-Katze
+15076	Himmlische Windie
+15077	Himmlische Donneria
+10079	Space-Marine-Katze
+10080	Gefangenenkatze
+10081	Gentleman-Brüder
+10082	Nyaladdin
+15084	Sodom der Gottkaiser
+15085	Megidora der Gottkaiser
+15086	Vars der Gottkaiser
+15087	Kamukura der Gottkaiser
+15088	Raiden der Gottkaiser
+10089	Nudelkatze
+10092	Irre Irokatze
+10093	Irre Radierkatze
+10094	Irre dunkle Katze
+10095	Irre Muskelbein-Katze
+10096	Irre Löwenkatze
+10097	Irre Flugkatze
+10098	Irre Inselkatze
+10099	Irrer Königsdrache
+10100	Irre Jamierakatze
+10101	Ringer-Katze
+10105	Koikuss
+15106	Himmlische Kuu
+15107	Himmlische Kai
+15108	Himmlische Cupruma
+10110	Die Savannah-Königin
+10120	Healer Cat CC
+10122	Merc & Cat CC
+10123	Callcenter-Katze
+15125	Unsterblicher Masamune
+15126	Unsterblicher Shingen
+10127	Puppenspieler und Charlie
+10128	Bomberkatze
+10129	Fesseldrachenkatze
+16131	Erwachte Ururun
+10133	Eisenklaue X
+15135	König Gamereon
+15136	Ultimativer Galaxis-Kosmo
+15137	Die Pfirsichteufel
+15138	Jizos Mega-Schloss
+15139	Der Chaosmond
+15144	Fröhliche Schwesternkatze
+15145	Katzenbasis Ultra
+15146	Rodeo-Katze
+15147	Akrobatenkatzen
+15148	Roboter-Katze
+15149	Ramen-Katze
+15150	Fotografen-Katze
+15151	Julia die Maiko
+15152	Pizza-Katze
+15153	Slapstick-Katzen
+15154	Katzophon
+10155	Hula-Meister-Katze
+15159	Unsterbliche Kenshin
+15160	Himmlische Kalisa
+15169	Assassinlan Pasalan
+15170	E. Kubilan Pasalan
+15170	Lufalan Pasalan
+15172	Piccolan Pasalan
+16173	Schulbus-Nyandam
+15174	Citizen Mola
+15175	Master of the Pacific
+15178	Dioramos der Gottkaiser
+10180	Takuya＆ Lovely Yuki
+15181	Mystery Catgirl Yuki
+10184	Cat Kart P
+15186	Revolutionary Hearscht CC
+15188	Holiday Juvens CC
+10192	Titi Cat CC
+15195	Inferno-Akira
+15196	Raketen-Mekako
+15197	Ultimativer Catman
+15198	Korrumpierte Psychokatze
+15199	Thaumaturgen-Katze
+15200	Seefahrer-Katze
+10202	Mochi-Katze
+15204	Kachiyama-Sturmabteilung
+10210	Kleine Irokatze
+10211	Kleine Radierkatze
+10212	Kleine dunkle Katze
+15213	Grauer Fuchs
+10214	Menü-Katze
+15227	Irrer Doktor Klay
+15238	Rektor Dr. Katze
+15239	Reichste Katze
+15240	Katzenscharfschütze
+15241	Shishilan Pasalan
+10246	Kleiner Beinmuskelkater
+10247	Kleine Löwenkatze
+10248	Kleine Flugkatze
+15258	Allmächtiger Zeus
+15259	Allmächtiger Anubis
+15260	Allmächtige Aphrodite
+10261	Zeitreisende Katze
+15262	Akuma-Hayabusa
+10268	Katzentaifun
+16269	Erwachte Mina
+15271	Crazed Catgirl Yuki
+15272	Allmächtige Amaterasu
+15273	Allmächtiger Ganesha
+10274	Soba-Katze
+15284	Pai-Pai DX
+10285	ICE-Katze
+15287	Flugeinheit R.E.I.
+10288	Golfkatze
+10300	Li'l Ultimate Madoka
+10301	Li'l Devil Homura
+15305	KATZ-8-Behemoth
+15306	K.K.S. Tigerklaue
+15307	NEK-02-Luftzitadelle
+15308	Hausfrauenkatze
+15309	Unkrautjäter-Katze
+10312	Kleine Inselkatze
+10313	Kleine Königsdrachenkatze
+10314	Kleine Jamierakatze
+15317	Allmächtiger Poseidon
+15323	Die One-Hit-Wonders
+16324	Erwachter Musashi
+10325	Grüner-Panzer-Katze
+15326	Ektogewicht-Katze
+15335	Fuchskönigin Himeyuri
+15336	Meerkönigin Ruri
+15337	Ewige Reika
+15339	Unsterblicher Yoshimoto
+15342	Lost World Catgirl Yuki
+15345	Artist Orthos CC
+15346	Naptime Michelia CC
+15352	Himmlische Zwillinge
+15356	Orbitalzerstörer „Ragnarök“
+15358	Narrenkönigin Deale
+15359	Opulente Verbena
+15360	Bazibastra
+15361	Mizuririn
+15362	Aervanta
+15363	Saber Alter CC
+10370	Saber Alter Cat
+15371	Dreaming Sakura Cat
+15377	Katzellit
+15378	Die Freiheitskatze
+10380	Curry-Katze
+10383	Macho-Kristallkatze
+10386	Akio & Gunder CC
+15391	Baseball Mask α
+15392	Baseball Mask β
+15393	Baseball Mask γ
+15394	Samba Saki CC
+15395	Dark Subaru CC
+15396	Baseball Mask δ
+15397	Ganglion der Entfesselte
+15398	Heilige-Klinge-Sakura
+15402	Gigavolta
+10403	Plug Suit Shinji Black
+10406	Moon Kaworu
+15411	Eyepatch Li'l Asuka
+15415	Unit-02, Code 777
+15418	Subterra-Späher
+16427	Ultimativer Mecha-Bun
+15428	Katzenquesthelden
+15432	Bereichsleiter Gravicci
+15437	Mystican Pasalan
+15438	Katzengott der Goldene
+15440	Allmächtige Chronos
+10443	Touristenkatze
+15444	Neo-Bohrerkatze
+15445	Neo-Ramme-Katze
+15446	Neo-Schneidekatze
+15447	Neo-Tiefbagger-Katze
+15448	Neo-Sägenkatze
+10453	Zukunftskatze
+15468	Super S-Zeus
+15469	Head Rococo
+15470	Super D-Devil
+10474	Rampaging Yamato
+10475	Strike Angel
+15497	Unsterbliche Kaihime
+15503	Himmlische Myrcia
+15506	Gladios der Gottkaiser
+15512	Kage
+15520	Wiedergeborener Lasvoss
+15524	Shigong-Katze
+15526	Kinrangers-Gigakämpfer
+10532	Totengräbärkatze
+15534	Riesenblaster-Saki
+15535	Allmächtiger Hades
+15557	Ghost Alibaba
+15570	Kiesolodon
+15611	König Nekokhamen
+30000	Attack Up D: Red
+30001	Attack Up C: Red
+30002	Attack Up B: Red
+30003	Attack Up A: Red
+30004	Attack Up S: Red
+30005	Defense Up D: Red
+30006	Defense Up C: Red
+30007	Defense Up B: Red
+30008	Defense Up A: Red
+30009	Defense Up S: Red
+30010	Attack Up D: Float
+30011	Attack Up C: Float
+30012	Attack Up B: Float
+30013	Attack Up A: Float
+30014	Attack Up S: Float
+30015	Defense Up D: Float
+30016	Defense Up C: Float
+30017	Defense Up B: Float
+30018	Defense Up A: Float
+30019	Defense Up S: Float
+30020	Attack Up D: Black
+30021	Attack Up C: Black
+30022	Attack Up B: Black
+30023	Attack Up A: Black
+30024	Attack Up S: Black
+30025	Defense Up D: Black
+30026	Defense Up C: Black
+30027	Defense Up B: Black
+30028	Defense Up A: Black
+30029	Defense Up S: Black
+30030	Defense Up D: Metal
+30031	Defense Up C: Metal
+30032	Defense Up B: Metal
+30033	Defense Up A: Metal
+30034	Defense Up S: Metal
+30035	Attack Up D: Angel
+30036	Attack Up C: Angel
+30037	Attack Up B: Angel
+30038	Attack Up A: Angel
+30039	Attack Up S: Angel
+30040	Defense Up D: Angel
+30041	Defense Up C: Angel
+30042	Defense Up B: Angel
+30043	Defense Up A: Angel
+30044	Defense Up S: Angel
+30045	Attack Up D: Alien
+30046	Attack Up C: Alien
+30047	Attack Up B: Alien
+30048	Attack Up A: Alien
+30049	Attack Up S: Alien
+30050	Defense Up D: Alien
+30051	Defense Up C: Alien
+30052	Defense Up B: Alien
+30053	Defense Up A: Alien
+30054	Defense Up S: Alien
+30055	Attack Up D: Zombie
+30056	Attack Up C: Zombie
+30057	Attack Up B: Zombie
+30058	Attack Up A: Zombie
+30059	Attack Up S: Zombie
+30060	Defense Up D: Zombie
+30061	Defense Up C: Zombie
+30062	Defense Up B: Zombie
+30063	Defense Up A: Zombie
+30064	Defense Up S: Zombie

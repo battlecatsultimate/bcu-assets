@@ -1,0 +1,614 @@
+000	<br><br>
+001	<br><br>
+002	<br><br>
+003	<br><br>
+004	<br><br>
+005	<br><br>
+006	<br><br>
+007	<br><br>
+008	<br><br>
+009	<br><br>
+010	<br><br>
+011	<br><br>
+012	<br><br>
+013	<br><br>
+014	<br><br>
+015	<br><br>
+016	<br><br>
+017	<br><br>
+018	<br><br>
+019	<br><br>
+020	<br><br>
+021	<br><br>
+022	<br><br>
+023	<br><br>
+024	<br><br>
+025	<br><br>
+026	<br><br>
+027	<br><br>
+028	<br><br>
+029	<br><br>
+030	La forma final tiene un mayor alcance.<br>Tiene la probabilidad de mermar el poder<br>de ataque de los enemigos voladores.
+031	La forma final tiene mejores estadísticas.<br>Además, paraliza a los enemigos reliquias<br>y es inmune a las maldiciones.
+032	La forma final tiene mayor defensa<br>y poder de ataque. Bloquea las abducciones<br>y ralentiza más tiempo a los enemigos rojos.
+033	La forma final tiene más poder<br>y velocidad de ataque. Además, anula<br>el efecto y el daño de las oleadas.
+034	La forma final tiene más poder de ataque.<br>Además, siempre paraliza a los<br>enemigos no metálicos.
+035	La forma final tiene más poder de ataque.<br>Además, ralentiza durante un tiempo<br>a los enemigos no metálicos.
+036	La forma final tiene más poder de ataque,<br>defensa, velocidad de movimiento y alcance.<br>
+037	La forma final tiene más poder de ataque.<br>Además, cuesta menos y obtiene<br>la habilidad de sobrevivir a un golpe mortal.
+038	La forma final tiene un mayor alcance<br>y más poder de ataque. Además,<br>se reduce su tiempo de recuperación.
+039	La forma final tiene más poder de ataque<br>de área. Además, siempre paraliza<br>a los enemigos rojos.
+040	La forma final tiene una mayor defensa.<br>Además, aumenta su velocidad de ataque.<br>
+041	La forma final tiene más<br>poder de ataque y anula el<br>desgaste de los ataques enemigos.
+042	La forma final tiene un mayor alcance.<br>Además, tiene más poder de ataque<br>y siempre paraliza a los enemigos rojos.
+043	La forma final tiene mejores rasgos.<br>Además, resiste mejor los ataques de oleada<br>y actúa de parapeto para las demás unidades.
+044	La forma final tiene una mayor defensa.<br>Además, su ataque individual se refuerza.<br>
+045	<br><br>
+046	La forma final tiene una mayor defensa.<br>Su poder de ataque crece, su alcance y<br>su probabilidad de infligir daño crítico.
+047	La forma final tiene una defensa aún mayor.<br>Además, puede realizar ataques de área.<br>
+048	La forma final tiene mayor alcance<br>y defensa. Además, aumenta su<br>probabilidad de repeler a los enemigos rojos.
+049	La forma final tiene más<br>poder de ataque y alcance.<br>Además, puede realizar ataques de área.
+050	La forma final tiene más<br>poder de ataque, defensa y alcance.<br>Además, puede realizar ataques de área.
+051	La forma final tiene una mayor defensa.<br>Además, aumenta su probabilidad<br>de repeler a los enemigos voladores.
+052	La forma final tiene más poder de ataque<br>y alcance. Además, paraliza a los<br>enemigos durante más tiempo.
+053	<br><br>
+054	<br><br>
+055	La forma final tiene una mayor defensa<br>y más alcance. Además, ralentiza a los<br>enemigos rojos durante más tiempo.
+056	La forma final tiene mayor defensa,<br>velocidad de movimiento, ataque y alcance.<br>
+057	La forma final tiene mejores rasgos.<br>Además, aumenta su probabilidad de ataque<br>crítico y se vuelve resistente a la repulsión.
+058	La forma final tiene mayor<br>defensa y poder de ataque.<br>
+059	La forma final tiene mejores rasgos.<br>Además, ahora puede atacar en oleada.<br>
+060	<br><br>
+061	La forma final tiene una defensa aún mayor.<br><br>
+062	<br><br>
+063	<br><br>
+064	<br><br>
+065	<br><br>
+066	<br><br>
+067	<br><br>
+068	<br><br>
+069	<br><br>
+070	<br><br>
+071	La forma final tiene más poder de ataque.<br>Su velocidad de movimiento mejora.<br>
+072	La forma final tiene mejores<br>rasgos. Además, aumenta<br>su poder de ataque.
+073	La forma final tiene una mayor defensa.<br>Su poder de ataque mejora y paraliza<br>a los enemigos negros durante más tiempo.
+074	<br><br>
+075	La forma final tiene una defensa aún mayor.<br>Su velocidad de movimiento mejora.<br>su poder de ataque y su alcance.
+076	La forma final tiene una mayor defensa.<br>Además, mejora su velocidad de movimiento,<br>su poder de ataque y su alcance.
+077	<br><br>
+078	<br><br>
+079	<br><br>
+080	<br><br>
+081	<br><br>
+082	<br><br>
+083	La forma final tiene mejores rasgos.<br>Además, obtiene la habilidad de repeler<br>siempre a los enemigos voladores.
+084	La forma final tiene más defensa,<br>velocidad de movimiento, ataque y alcance.<br>
+085	La forma final tiene más poder<br>de ataque, de defensa y alcance.<br>
+086	La forma final tiene más defensa,<br>velocidad de ataque y alcance.<br>
+087	La forma final tiene más defensa,<br>velocidad de movimiento y alcance.<br>Es más eficaz contra enemigos rojos.
+088	<br><br>
+089	<br><br>
+090	<br><br>
+091	<br><br>
+092	<br><br>
+093	<br><br>
+094	<br><br>
+095	<br><br>
+096	<br><br>
+097	<br><br>
+098	<br><br>
+099	<br><br>
+100	<br><br>
+101	<br><br>
+102	<br><br>
+103	<br><br>
+104	<br><br>
+105	La forma final tiene más defensa,<br>ataque, alcance y velocidad de ataque.<br>Además, es resistente al desgaste.
+106	La forma final tiene más poder de ataque.<br>Su defensa y su velocidad mejoran mucho<br>de movimiento, y es inmune a la repulsión.
+107	La forma final tiene más<br>poder de ataque, defensa y alcance.<br>Además, paraliza a los enemigos voladores.
+108	<br><br>
+109	<br><br>
+110	<br><br>
+111	<br><br>
+112	<br><br>
+113	<br><br>
+114	<br><br>
+115	<br><br>
+116	<br><br>
+117	<br><br>
+118	<br><br>
+119	<br><br>
+120	<br><br>
+121	<br><br>
+122	<br><br>
+123	<br><br>
+124	La forma final tiene más<br>poder de ataque, defensa y alcance.<br>
+125	La forma final tiene más<br>poder de ataque, defensa y alcance.<br>
+126	<br><br>
+127	<br><br>
+128	<br><br>
+129	<br><br>
+130	La forma final tiene más<br>poder de ataque, defensa y alcance.<br>Además, es inmune a las maldiciones.
+131	<br><br>
+132	<br><br>
+133	<br><br>
+134	La forma final tiene más defensa,<br>poder de ataque y alcance.<br>Además, es inmune al desgaste.
+135	La forma final tiene más poder de ataque.<br>Además, siempre paraliza a los<br>enemigos voladores y ángeles.
+136	La forma final tiene mejores rasgos.<br>Además, tiene más probabilidades de<br>paralizar a enemigos rojos y ángeles.
+137	La forma final tiene más defensa<br>y alcance. Además, ataca más rápido.<br>
+138	La forma final tiene mejores rasgos.<br>Además, siempre ralentiza a los<br>enemigos ángeles y metálicos.
+139	<br><br>
+140	<br><br>
+141	<br><br>
+142	<br><br>
+143	La forma final tiene mucha más<br>velocidad de movimiento. Además aumenta<br>su poder de ataque, defensa y alcance.
+144	La forma final tiene un área de ataque<br>más amplia, un ataque más eficaz<br>y oleadas de mayor alcance.
+145	La forma final tiene más<br>poder de ataque, defensa y alcance. Además,<br>ralentiza más tiempo a los enemigos negros.
+146	La forma final tiene mayor<br>poder de ataque y defensa. Aumenta<br>su probabilidad de repeler a ángeles.
+147	La forma final tiene menos velocidad de<br>movimiento. A cambio, aumenta su defensa,<br>su poder de ataque y su alcance.
+148	La forma final tiene mayor defensa<br>y poder de ataque.<br>
+149	La forma final tiene mayor<br>defensa, alcance y velocidad de movimiento.<br>Además, puede realizar ataques de área.
+150	La forma final tiene un mayor alcance<br>y un menor tiempo de recuperación.<br>También paraliza más tiempo a los ángeles.
+151	La forma final tiene más poder de ataque.<br>También mejora su defensa y su alcance.<br>
+152	La forma final tiene más poder de ataque<br>y defensa. Es inmune a las maldiciones<br>y eficaz contra enemigos reliquias.
+153	La forma final tiene más poder de ataque<br>y de defensa. Se vuelve rompebarreras<br>y ralentiza a los ángeles durante más tiempo.
+154	<br><br>
+155	<br><br>
+156	<br><br>
+157	<br><br>
+158	La forma final tiene una mayor defensa<br>y más velocidad de ataque y de movimiento.<br>
+159	La forma final tiene más<br>poder de ataque y alcance.<br>
+160	<br><br>
+161	<br><br>
+162	<br><br>
+163	<br><br>
+164	<br><br>
+165	<br><br>
+166	<br><br>
+167	<br><br>
+168	La forma final tiene un alcance<br>mucho mayor.<br>
+169	La forma final pierde su habilidad de<br>repulsión. A cambio, sus ataques normales<br>y de oleada siempre infligen daño crítico.
+170	La forma final tiene más alcance y una<br>mayor probabilidad de infligir daño crítico.<br>
+171	La forma final obtiene la habilidad de<br>desgaste. Además, paraliza a los enemigos<br>durante más tiempo.
+172	La forma final tiene mejores rasgos.<br>Además, su probabilidad de ralentizar<br>aumenta y es inmune a las maldiciones.
+173	True form evolution shortens<br>cooldown time after deployments!<br>
+174	True form evolution increases attack range!<br><br>
+175	<br><br>
+176	<br><br>
+177	La forma final tiene mejores estadísticas.<br>Además, es rompebarreras<br>y ralentiza y repele a ángeles.
+178	<br><br>
+179	<br><br>
+180	True Form evolution increases Attack<br>Range and Attack Speed! Plus, gains<br>the Immune to Weaken ability!
+181	<br><br>
+182	<br><br>
+183	<br><br>
+184	<br><br>
+185	La forma final tiene más defensa,<br>velocidad de movimiento y alcance, además de<br>mayor probabilidad de infligir daño crítico.
+186	<br><br>
+187	La forma final tiene más defensa<br>y velocidad de ataque, pero se reduce su<br>poder. Puede esquivar ataques de ángeles.
+188	<br><br>
+189	<br><br>
+190	<br><br>
+191	<br><br>
+192	<br><br>
+193	<br><br>
+194	La forma final es eficaz<br>contra álienes y se vuelve<br>inmune a las oleadas.
+195	La forma final tiene más<br>poder de ataque contra álienes.<br>Además, siempre los ralentiza.
+196	La forma final es superfuerte<br>contra enemigos reliquias y álienes.<br>Además, es inmune a las maldiciones.
+197	La forma final tiene más<br>velocidad de movimiento y de ataque,<br>además de una mayor defensa.
+198	La forma final tiene una mayor<br>defensa y la habilidad de desgastar<br>el poder de ataque de los enemigos.
+199	La forma final tiene una mayor defensa.<br>Además, paraliza más tiempo a los álienes<br>y puede sobrevivir a un golpe mortal.
+200	<br><br>
+201	<br><br>
+202	<br><br>
+203	La forma final se mueve más rápido<br>y es más eficaz contra ángeles y álienes.<br>
+204	<br><br>
+205	<br><br>
+206	<br><br>
+207	<br><br>
+208	<br><br>
+209	<br><br>
+210	<br><br>
+211	<br><br>
+212	La forma final tiene las habilidades<br>de repeler y desgastar<br>a enemigos rojos y álienes.
+213	<br><br>
+214	<br><br>
+215	<br><br>
+216	<br><br>
+217	<br><br>
+218	<br><br>
+219	<br><br>
+220	<br><br>
+221	<br><br>
+222	<br><br>
+223	<br><br>
+224	<br><br>
+225	<br><br>
+226	La forma final solo ataca a álienes,<br>pero tiene una defensa y un poder de ataque<br>mucho mayores y resiste a penalizaciones.
+227	<br><br>
+228	<br><br>
+229	<br><br>
+230	<br><br>
+231	<br><br>
+232	<br><br>
+233	<br><br>
+234	<br><br>
+235	<br><br>
+236	<br><br>
+237	La forma final se mueve más rápido<br>y es capaz de causar réplicas<br>y sobrevivir a un golpe mortal.
+238	La forma final tiene mucho más<br>poder de ataque.<br>
+239	La forma final tiene más velocidad de<br>ataque, un área de ataque más amplia<br>y puede ralentizar a enemigos no metálicos.
+240	La forma final tiene una mayor defensa<br>y más velocidad de ataque.<br>Además, aumenta su poder de ataque.
+241	<br><br>
+242	<br><br>
+243	<br><br>
+244	<br><br>
+245	<br><br>
+246	<br><br>
+247	<br><br>
+248	<br><br>
+249	<br><br>
+250	<br><br>
+251	<br><br>
+252	<br><br>
+253	<br><br>
+254	<br><br>
+255	<br><br>
+256	<br><br>
+257	La forma final tiene una mayor defensa<br>y más poder de ataque.<br>
+258	La forma final tiene una mayor defensa<br>y más poder de ataque. También es inmune<br>a la repulsión de los ataques enemigos.
+259	La forma final tiene una mayor defensa.<br><br>
+260	<br><br>
+261	La forma final mejora su probabilidad<br>de repeler y ralentizar a zombis.<br>Además, obtiene la habilidad matazombis.
+262	<br><br>
+263	<br><br>
+264	<br><br>
+265	<br><br>
+266	<br><br>
+267	<br><br>
+268	La forma final tiene más poder de ataque<br>y defensa. Es inmune a las maldiciones<br>y desgasta a enemigos reliquias.
+269	<br><br>
+270	True Form evolution gains increased<br>Defense, Move Speed, and Attack Power!<br>Plus, gains the Immune to Slow ability!
+271	La forma final tiene mejor poder de ataque.<br><br>
+272	La forma final tiene una mayor defensa<br>y su poder de ataque aumenta<br>tras sufrir daño.
+273	<br><br>
+274	<br><br>
+275	<br><br>
+276	<br><br>
+277	<br><br>
+278	<br><br>
+279	<br><br>
+280	<br><br>
+281	<br><br>
+282	<br><br>
+283	La forma final tiene una mayor velocidad<br>de ataque y una defensa más dura contra<br>enemigos rojos.
+284	<br><br>
+285	<br><br>
+286	La forma final ataca más rápido<br>y su defensa contra enemigos voladores<br>pasa de ser dura a superdura.
+287	<br><br>
+288	<br><br>
+289	<br><br>
+290	<br><br>
+291	<br><br>
+292	<br><br>
+293	<br><br>
+294	<br><br>
+295	<br><br>
+296	<br><br>
+297	<br><br>
+298	<br><br>
+299	<br><br>
+300	<br><br>
+301	<br><br>
+302	<br><br>
+303	<br><br>
+304	La forma final tiene mejor distancia<br>de ataque y alcance de área.<br>
+305	La forma final tiene más<br>velocidad de ataque.<br>
+306	La forma final tiene una mayor<br>defensa y más probabilidades de repeler.<br>
+307	La forma final tiene una mayor defensa<br>y más velocidad de movimiento. Ralentiza<br>a los zombis durante más tiempo.
+308	La forma final tiene una mayor defensa<br>y más alcance. Además, paraliza<br>a los zombis durante más tiempo.
+309	<br><br>
+310	<br><br>
+311	<br><br>
+312	<br><br>
+313	<br><br>
+314	<br><br>
+315	<br><br>
+316	La forma final tiene una mayor defensa,<br>velocidad de movimiento y poder de ataque.<br>
+317	<br><br>
+318	<br><br>
+319	<br><br>
+320	<br><br>
+321	<br><br>
+322	La forma final tiene una mayor<br>defensa y más velocidad de ataque.<br>Además, es inmune al desgaste.
+323	La forma final tiene más poder de ataque<br>y defensa. Es inmune a las maldiciones<br>y puede paralizar a enemigos reliquias.
+324	<br><br>
+325	La forma final tiene una mayor defensa.<br>Además, mejora su alcance.<br>
+326	<br><br>
+327	<br><br>
+328	<br><br>
+329	<br><br>
+330	<br><br>
+331	<br><br>
+332	<br><br>
+333	<br><br>
+334	La forma final tiene mejores estadísticas.<br>Además, ralentiza durante más tiempo<br>a enemigos voladores y ángeles.
+335	La forma final tiene más poder de ataque<br>y defensa. Además, desgasta durante<br>más tiempo a enemigos rojos.
+336	La forma final tiene mejor velocidad<br>de ataque y repele más a menudo.<br>
+337	<br><br>
+338	La forma final tiene una mayor defensa<br>y más alcance. Además, desgasta durante<br>más tiempo a enemigos negros.
+339	<br><br>
+340	<br><br>
+341	True Form evolution increases Defense and<br>Attack Power! Gains immunity to Knockback<br>and the Barrier Breaker ability!
+342	<br><br>
+343	<br><br>
+344	La forma final tiene<br>mejores estadísticas.<br>
+345	La forma final tiene una mayor defensa<br>y ataque. Aunque ataca más lento,<br>a cambio siempre paraliza a voladores.
+346	<br><br>
+347	<br><br>
+348	<br><br>
+349	<br><br>
+350	<br><br>
+351	La forma final se recupera más<br>pronto. Además, aumentan su ataque<br>y su velocidad y es inmune al desgaste.
+352	<br><br>
+353	<br><br>
+354	<br><br>
+355	La forma final tiene mejor ataque<br>y omniataque.<br>
+356	<br><br>
+357	La forma final tiene más velocidad de ataque.<br><br>
+358	La forma final tiene una mayor defensa<br>y más probabilidad de infligir daño crítico.<br>
+359	La forma final tiene más<br>poder de ataque y defensa.<br>
+360	La forma final tiene más<br>poder de ataque y defensa.<br>
+361	La forma final tiene más<br>poder de ataque y defensa.<br>
+362	La forma final tiene más poder de ataque.<br>También mejora su defensa y su alcance.<br>
+363	<br><br>
+364	<br><br>
+365	<br><br>
+366	<br><br>
+367	<br><br>
+368	<br><br>
+369	<br><br>
+370	La forma final tiene mejor defensa.<br>También obtiene la probabilidad<br>de repeler a enemigos metálicos.
+371	<br><br>
+372	<br><br>
+373	<br><br>
+374	<br><br>
+375	<br><br>
+376	La forma final tiene mejores estadísticas.<br>Además, es inmune al<br>desgaste y a la ralentización.
+377	La forma final tiene mejor defensa.<br>También mejora su poder y velocidad<br>de ataque y tarda menos en atacar.
+378	<br><br>
+379	<br><br>
+380	<br><br>
+381	<br><br>
+382	<br><br>
+383	<br><br>
+384	<br><br>
+385	<br><br>
+386	<br><br>
+387	<br><br>
+388	<br><br>
+389	<br><br>
+390	La forma final ataca más lento, pero a cambio<br>aumenta el alcance de su ataque de área.<br>Además, ataca a una distancia mayor.
+391	La forma final tiene más velocidad de ataque<br>y mejor ataque de área.<br>
+392	La forma final tiene más<br>defensa y rango de ataque.<br>Además, puede realizar ataques de área.
+393	La forma final tiene mucha más velocidad<br>de ataque y poder. Además, mejora su<br>defensa y se hace inmune a ralentización.
+394	La forma final ataca más lento, pero a cambio<br>mejora su defensa, su poder de ataque<br>y su alcance.
+395	La forma final tiene mucho más<br>poder de ataque y defensa.<br>Además, se hace inmune a oleadas.
+396	La forma final tiene mejor defensa.<br>Además, mejora su habilidad de repulsión.<br>
+397	La forma final tiene<br>una defensa superdura<br>contra enemigos metálicos.
+398	<br><br>
+399	<br><br>
+400	<br><br>
+401	La forma final tiene mejor defensa.<br>Además, mejora su ataque y paraliza durante<br>más tiempo a los álienes.
+402	<br><br>
+403	<br><br>
+404	<br><br>
+405	<br><br>
+406	<br><br>
+407	<br><br>
+408	<br><br>
+409	<br><br>
+410	La forma final tiene mejor defensa.<br>Además, mejora su ataque y obtiene<br>la probabilidad de repeler a enemigos rojos.
+411	<br><br>
+412	<br><br>
+413	<br><br>
+414	La forma final ataca más rápido y más<br>a menudo. Además, se fortalece<br>tras sufrir daño.
+415	<br><br>
+416	<br><br>
+417	La forma final tiene más poder de ataque.<br><br>
+418	<br><br>
+419	<br><br>
+420	<br><br>
+421	<br><br>
+422	<br><br>
+423	<br><br>
+424	<br><br>
+425	<br><br>
+426	La forma final tiene más poder de ataque<br>y defensa. Es inmune a las maldiciones y es<br>más eficaz contra los enemigos reliquias.
+427	La forma final tiene mayor defensa y resiste<br>más tiempo a penalizaciones. Desgasta<br>a reliquias y es inmune a las maldiciones.
+428	<br><br>
+429	<br><br>
+430	<br><br>
+431	La forma final tiene más velocidad de ataque.<br>Además, siempre paraliza a zombis y es<br>más eficaz contra ellos.
+432	<br><br>
+433	<br><br>
+434	<br><br>
+435	<br><br>
+436	La forma final cuesta la mitad.<br>Su tiempo de recuperación se reduce.<br>
+437	Pues mira, pensaba en mutar, ¿sabes?<br>Pero creo que no voy a poder sin una fruta<br>felina dorada. ¿Y si probamos el templo?
+438	<br><br>
+439	La forma final tiene una mayor defensa<br>y más poder de ataque. También es inmune<br>a los efectos de abducción enemigos.
+440	<br><br>
+441	<br><br>
+442	<br><br>
+443	La forma final tiene mayor velocidad<br>de ataque y se vuelve eficaz<br>contra enemigos sin rasgos.
+444	La forma final tiene más<br>poder de ataque y se recarga<br>más rápido.
+445	La forma final tiene más<br>poder de ataque y se vuelve<br>inmune a las oleadas.
+446	La forma final<br>puede atacar con réplicas.<br>
+447	La forma final tiene más defensa<br>y poder de ataque. Además, obtiene<br>la habilidad de rompebarreras.
+448	<br><br>
+449	<br><br>
+450	<br><br>
+451	<br><br>
+452	<br><br>
+453	<br><br>
+454	<br><br>
+455	<br><br>
+456	<br><br>
+457	<br><br>
+458	<br><br>
+459	<br><br>
+460	<br><br>
+461	<br><br>
+462	<br><br>
+463	<br><br>
+464	<br><br>
+465	<br><br>
+466	<br><br>
+467	True Fom evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
+468	True Fom evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Black enemies!
+469	True Fom evolution gains improved<br>defense and knock-back rate!<br>Plus, faster movement speed!
+470	<br><br>
+471	<br><br>
+472	<br><br>
+473	<br><br>
+474	<br><br>
+475	<br><br>
+476	<br><br>
+477	<br><br>
+478	<br><br>
+479	<br><br>
+480	<br><br>
+481	<br><br>
+482	<br><br>
+483	<br><br>
+484	<br><br>
+485	<br><br>
+486	<br><br>
+487	<br><br>
+488	<br><br>
+489	<br><br>
+490	<br><br>
+491	<br><br>
+492	<br><br>
+493	<br><br>
+494	<br><br>
+495	<br><br>
+496	La forma final tiene aún más<br>defensa y también aumentan sus<br>probabilidades de asestar golpetazos.
+497	<br><br>
+498	<br><br>
+499	<br><br>
+500	<br><br>
+501	<br><br>
+502	La forma final tiene una mayor defensa<br>y un área de efecto de oleada más amplia.<br>
+503	<br><br>
+504	<br><br>
+505	La forma final tiene una mayor defensa<br>y siempre repele y ralentiza<br>a enemigos sin rasgos.
+506	<br><br>
+507	<br><br>
+508	<br><br>
+509	<br><br>
+510	<br><br>
+511	True Form Evolution gains increased<br>chance of Savage Blow, with stronger<br>attacks after taking damage!
+512	<br><br>
+513	<br><br>
+514	<br><br>
+515	<br><br>
+516	<br><br>
+517	<br><br>
+518	<br><br>
+519	La forma final tiene mayor poder de defensa<br>y de ataque, así como arrebato mejorado.<br>Además, es inmune a toxicidad y a réplicas.
+520	<br><br>
+521	<br><br>
+522	<br><br>
+523	La forma final tiene una mayor defensa<br>e inmunidad a la ralentización.<br>
+524	<br><br>
+525	La forma final tiene una mayor defensa<br>y poder de ataque, y maldice a los ángeles.<br>
+526	<br><br>
+527	<br><br>
+528	<br><br>
+529	<br><br>
+530	<br><br>
+531	<br><br>
+532	<br><br>
+533	La forma final solo ataca a álienes y<br>reliquias, pero se hace inmune a maldiciones<br>que bloquean las habilidades de los aliados.
+534	La forma final es inmune a los efectos<br>de ralentización y repulsión<br>de los ataques enemigos.
+535	<br><br>
+536	<br><br>
+537	<br><br>
+538	<br><br>
+539	<br><br>
+540	<br><br>
+541	<br><br>
+542	<br><br>
+543	<br><br>
+544	<br><br>
+545	<br><br>
+546	<br><br>
+547	<br><br>
+548	<br><br>
+549	<br><br>
+550	<br><br>
+551	<br><br>
+552	<br><br>
+553	<br><br>
+554	<br><br>
+555	<br><br>
+556	True Fom evolution gains big changes<br>to its abilities, including massive damage<br>to Angels and resistance to Knockback.
+557	<br><br>
+558	<br><br>
+559	<br><br>
+560	<br><br>
+561	<br><br>
+562	<br><br>
+563	<br><br>
+564	<br><br>
+565	<br><br>
+566	<br><br>
+567	<br><br>
+568	<br><br>
+569	La forma final tiene más defensa,<br>defensa y poder de ataque.<br>y un área de efecto de oleada más amplia.
+570	<br><br>
+571	<br><br>
+572	<br><br>
+573	<br><br>
+574	<br><br>
+575	<br><br>
+576	<br><br>
+577	<br><br>
+578	<br><br>
+579	<br><br>
+580	<br><br>
+581	<br><br>
+582	<br><br>
+583	<br><br>
+584	<br><br>
+585	<br><br>
+586	<br><br>
+587	<br><br>
+588	<br><br>
+589	<br><br>
+590	<br><br>
+591	<br><br>
+592	<br><br>
+593	<br><br>
+594	<br><br>
+595	<br><br>
+596	<br><br>
+597	<br><br>
+598	<br><br>
+599	<br><br>
+600	<br><br>
+601	<br><br>
+602	<br><br>
+603	<br><br>
+604	<br><br>
+605	<br><br>
+606	<br><br>
+607	<br><br>
+608	<br><br>
+609	<br><br>
+610	La forma final tiene una mayor<br>defensa y es inmune a toxicidad.<br>
+611	<br><br>
+612	<br><br>
+613	<br><br>
