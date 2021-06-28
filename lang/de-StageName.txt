@@ -1656,6 +1656,55 @@
 002-172-002	Climactic Cat Clash
 
 003			
+003-000		EoC Ch.1 Zombie
+003-000-000	Korea
+003-000-001	Mongolei
+003-000-002	China
+003-000-003	Thailand
+003-000-004	Kambodscha
+003-000-005	Philippinen
+003-000-006	Japan
+003-000-007	Australien
+003-000-008	Singapur
+003-000-009	Malediven
+003-000-010	Indien
+003-000-011	Nepal
+003-000-012	Dubai
+003-000-013	Saudi-Arabien
+003-000-014	Kenia
+003-000-015	Madagaskar
+003-000-016	Südafrika
+003-000-017	Ghana
+003-000-018	Sahara
+003-000-019	Ägypten
+003-000-020	Türkei
+003-000-021	Russland
+003-000-022	Griechenland
+003-000-023	Italien
+003-000-024	Monaco
+003-000-025	Spanien
+003-000-026	Frankreich
+003-000-027	Deutschland
+003-000-028	Dänemark
+003-000-029	Norwegen
+003-000-030	Großbritannien
+003-000-031	Grönland
+003-000-032	Kanada
+003-000-033	New York
+003-000-034	Bermuda
+003-000-035	Jamaika
+003-000-036	Kolumbien
+003-000-037	Brasilien
+003-000-038	Argentinien
+003-000-039	Machu Picchu
+003-000-040	Osterinsel
+003-000-041	Mexiko
+003-000-042	NASA
+003-000-043	Las Vegas
+003-000-044	Hollywood
+003-000-045	Alaska
+003-000-046	Hawaii
+003-000-047	Mond
 
 004			Extra Stages
 
