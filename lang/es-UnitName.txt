@@ -439,7 +439,7 @@
 438	Kuu Surfera	Kuu Surfera (γ)	
 439	Emperatriz Chronos	Chronos Infinita	Chronos Todopoderosa
 440	Bebe	Nagisa & Cat	
-441	D'Artamiau	D'Artamiau Valiente	
+441	D’Artamiau Oscuro	D'Artamiau Valiente	
 442	Gato Solitario y Gatito	Gata Vendedora y Gatito	Gato Turista
 443	Gato Taladrador	Gato Supertaladrador	Neogato Taladrador
 444	Gato Martinete	Gato Supermartinete	Neogato Martinete
@@ -612,3 +612,6 @@
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Gata Princesa	Gata Emperatriz	
 613	Máscara Doron Viejuna	Máscara Doron	
+614	Kaguya Costera	Sol Sureño	
+615	Gato Kabuto	Gato Kabuto Dorado	
+616	Gato Kuwagata	Rey Gato Kuwagata	

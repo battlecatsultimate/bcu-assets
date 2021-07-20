@@ -612,3 +612,6 @@
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Principessa Gatta	Imperatrice Gatta	
 613	Doron in maschera stagionato	Doron in maschera da Gatto	
+614	Kaguya costiera	Il Sole del sud	
+615	Gatto Kabuto	Gatto Kabuto oro	
+616	Gatto Kuwagata	Gatto Re Kuwagata	

@@ -115,6 +115,8 @@
 155	Biglietto fortuna
 156	Biglietto fortuna G
 157	Pezzo di platino
+158	Rete leggendaria
+159	5.000 XP
 1005	Busto di Gatto
 1100	Busto di Gatto
 1001	Gatto sportivo
@@ -214,6 +216,7 @@
 1172	Idi:N
 1053	Gatto Sasso
 1173	Ranma Cat (M)
+1174	Godzilla Cat
 1054	Doron in maschera stagionato
 19001	Gatto punk
 19002	Gatto gomma
@@ -463,68 +466,158 @@
 15557	Ghost Alibaba
 15570	Gravolodon
 15611	Re Nekokhamen
-30000	Attack Up D: Red
-30001	Attack Up C: Red
-30002	Attack Up B: Red
-30003	Attack Up A: Red
-30004	Attack Up S: Red
-30005	Defense Up D: Red
-30006	Defense Up C: Red
-30007	Defense Up B: Red
-30008	Defense Up A: Red
-30009	Defense Up S: Red
-30010	Attack Up D: Float
-30011	Attack Up C: Float
-30012	Attack Up B: Float
-30013	Attack Up A: Float
-30014	Attack Up S: Float
-30015	Defense Up D: Float
-30016	Defense Up C: Float
-30017	Defense Up B: Float
-30018	Defense Up A: Float
-30019	Defense Up S: Float
-30020	Attack Up D: Black
-30021	Attack Up C: Black
-30022	Attack Up B: Black
-30023	Attack Up A: Black
-30024	Attack Up S: Black
-30025	Defense Up D: Black
-30026	Defense Up C: Black
-30027	Defense Up B: Black
-30028	Defense Up A: Black
-30029	Defense Up S: Black
-30030	Defense Up D: Metal
-30031	Defense Up C: Metal
-30032	Defense Up B: Metal
-30033	Defense Up A: Metal
-30034	Defense Up S: Metal
-30035	Attack Up D: Angel
-30036	Attack Up C: Angel
-30037	Attack Up B: Angel
-30038	Attack Up A: Angel
-30039	Attack Up S: Angel
-30040	Defense Up D: Angel
-30041	Defense Up C: Angel
-30042	Defense Up B: Angel
-30043	Defense Up A: Angel
-30044	Defense Up S: Angel
-30045	Attack Up D: Alien
-30046	Attack Up C: Alien
-30047	Attack Up B: Alien
-30048	Attack Up A: Alien
-30049	Attack Up S: Alien
-30050	Defense Up D: Alien
-30051	Defense Up C: Alien
-30052	Defense Up B: Alien
-30053	Defense Up A: Alien
-30054	Defense Up S: Alien
-30055	Attack Up D: Zombie
-30056	Attack Up C: Zombie
-30057	Attack Up B: Zombie
-30058	Attack Up A: Zombie
-30059	Attack Up S: Zombie
-30060	Defense Up D: Zombie
-30061	Defense Up C: Zombie
-30062	Defense Up B: Zombie
-30063	Defense Up A: Zombie
-30064	Defense Up S: Zombie
+30000	Più attacco D: Rosso
+30001	Più attacco C: Rosso
+30002	Più attacco B: Rosso
+30003	Più attacco A: Rosso
+30004	Più attacco S: Rosso
+30005	Aumento difesa D: Rosso
+30006	Aumento difesa C: Rosso
+30007	Aumento difesa B: Rosso
+30008	Aumento difesa A: Rosso
+30009	Aumento difesa S: Rosso
+30010	Più attacco D: Fluttuante
+30011	Più attacco C: Fluttuante
+30012	Più attacco B: Fluttuante
+30013	Più attacco A: Fluttuante
+30014	Più attacco S: Fluttuante
+30015	Aumento difesa D: Fluttuante
+30016	Aumento difesa C: Fluttuante
+30017	Aumento difesa B: Fluttuante
+30018	Aumento difesa A: Fluttuante
+30019	Aumento difesa S: Fluttuante
+30020	Più attacco D: Nero
+30021	Più attacco C: Nero
+30022	Più attacco B: Nero
+30023	Più attacco A: Nero
+30024	Più attacco S: Nero
+30025	Aumento difesa D: Nero
+30026	Aumento difesa C: Nero
+30027	Aumento difesa B: Nero
+30028	Aumento difesa A: Nero
+30029	Aumento difesa S: Nero
+30030	Aumento difesa D: Metallico
+30031	Aumento difesa C: Metallico
+30032	Aumento difesa B: Metallico
+30033	Aumento difesa A: Metallico
+30034	Aumento difesa S: Metallico
+30035	Più attacco D: Angelico
+30036	Più attacco C: Angelico
+30037	Più attacco B: Angelico
+30038	Più attacco A: Angelico
+30039	Più attacco S: Angelico
+30040	Aumento difesa D: Angelico
+30041	Aumento difesa C: Angelico
+30042	Aumento difesa B: Angelico
+30043	Aumento difesa A: Angelico
+30044	Aumento difesa S: Angelico
+30045	Più attacco D: Alieno
+30046	Più attacco C: Alieno
+30047	Più attacco B: Alieno
+30048	Più attacco A: Alieno
+30049	Più attacco S: Alieno
+30050	Aumento difesa D: Alieno
+30051	Aumento difesa C: Alieno
+30052	Aumento difesa B: Alieno
+30053	Aumento difesa A: Alieno
+30054	Aumento difesa S: Alieno
+30055	Più attacco D: Zombi
+30056	Più attacco C: Zombi
+30057	Più attacco B: Zombi
+30058	Più attacco A: Zombi
+30059	Più attacco S: Zombi
+30060	Aumento difesa D: Zombi
+30061	Aumento difesa C: Zombi
+30062	Aumento difesa B: Zombi
+30063	Aumento difesa A: Zombi
+30064	Aumento difesa S: Zombi
+30065	Effetto Efficace + D: Rosso
+30066	Effetto Efficace + C: Rosso
+30067	Effetto Efficace + B: Rosso
+30068	Effetto Efficace + A: Rosso
+30069	Effetto Efficace + S: Rosso
+30070	Danni enormi + D: Rosso
+30071	Danni enormi + C: Rosso
+30072	Danni enormi + B: Rosso
+30073	Danni enormi + A: Rosso
+30074	Danni enormi + S: Rosso
+30075	Effetto Resistente + D: Rosso
+30076	Effetto Resistente + C: Rosso
+30077	Effetto Resistente + B: Rosso
+30078	Effetto Resistente + A: Rosso
+30079	Effetto Resistente + S: Rosso
+30080	Effetto Efficace + D: Fluttuante
+30081	Effetto Efficace + C: Fluttuante
+30082	Effetto Efficace + B: Fluttuante
+30083	Effetto Efficace + A: Fluttuante
+30084	Effetto Efficace + S: Fluttuante
+30085	Danni enormi + D: Fluttuante
+30086	Danni enormi + C: Fluttuante
+30087	Danni enormi + B: Fluttuante
+30088	Danni enormi + A: Fluttuante
+30089	Danni enormi + S: Fluttuante
+30090	Effetto Resistente + D: Fluttuante
+30091	Effetto Resistente + C: Fluttuante
+30092	Effetto Resistente + B: Fluttuante
+30093	Effetto Resistente + A: Fluttuante
+30094	Effetto Resistente + S: Fluttuante
+30095	Effetto Efficace + D: Nero
+30096	Effetto Efficace + C: Nero
+30097	Effetto Efficace + B: Nero
+30098	Effetto Efficace + A: Nero
+30099	Effetto Efficace + S: Nero
+30100	Danni enormi + D: Nero
+30101	Danni enormi + C: Nero
+30102	Danni enormi + B: Nero
+30103	Danni enormi + A: Nero
+30104	Danni enormi + S: Nero
+30105	Effetto Resistente + D: Nero
+30106	Effetto Resistente + C: Nero
+30107	Effetto Resistente + B: Nero
+30108	Effetto Resistente + A: Nero
+30109	Effetto Resistente + S: Nero
+30110	Effetto Efficace + D: Angelico
+30111	Effetto Efficace + C: Angelico
+30112	Effetto Efficace + B: Angelico
+30113	Effetto Efficace + A: Angelico
+30114	Effetto Efficace + S: Angelico
+30115	Danni enormi + D: Angelico
+30116	Danni enormi + C: Angelico
+30117	Danni enormi + B: Angelico
+30118	Danni enormi + A: Angelico
+30119	Danni enormi + S: Angelico
+30120	Effetto Resistente + D: Angelico
+30121	Effetto Resistente + C: Angelico
+30122	Effetto Resistente + B: Angelico
+30123	Effetto Resistente + A: Angelico
+30124	Effetto Resistente + S: Angelico
+30125	Effetto Efficace + D: Alieno
+30126	Effetto Efficace + C: Alieno
+30127	Effetto Efficace + B: Alieno
+30128	Effetto Efficace + A: Alieno
+30129	Effetto Efficace + S: Alieno
+30130	Danni enormi + D: Alieno
+30131	Danni enormi + C: Alieno
+30132	Danni enormi + B: Alieno
+30133	Danni enormi + A: Alieno
+30134	Danni enormi + S: Alieno
+30135	Effetto Resistente + D: Alieno
+30136	Effetto Resistente + C: Alieno
+30137	Effetto Resistente + B: Alieno
+30138	Effetto Resistente + A: Alieno
+30139	Effetto Resistente + S: Alieno
+30140	Effetto Efficace + D: Zombi
+30141	Effetto Efficace + C: Zombi
+30142	Effetto Efficace + B: Zombi
+30143	Effetto Efficace + A: Zombi
+30144	Effetto Efficace + S: Zombi
+30145	Danni enormi + D: Zombi
+30146	Danni enormi + C: Zombi
+30147	Danni enormi + B: Zombi
+30148	Danni enormi + A: Zombi
+30149	Danni enormi + S: Zombi
+30150	Effetto Resistente + D: Zombi
+30151	Effetto Resistente + C: Zombi
+30152	Effetto Resistente + B: Zombi
+30153	Effetto Resistente + A: Zombi
+30154	Effetto Resistente + S: Zombi

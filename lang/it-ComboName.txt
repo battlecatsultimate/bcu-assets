@@ -198,3 +198,6 @@
 80	Tagliatutto coraggioso
 81	Scavatore orca
 82	Motosega sexy
+83	Mini-Sauro
+84	Guerrieri piccini
+85	Micro combattenti

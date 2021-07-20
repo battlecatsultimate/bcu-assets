@@ -2800,6 +2800,13 @@
 013-035-003	Blätterdachaltar
 013-035-004	Saftgrüne Unterführung
 013-035-005	Das Antlitz Gottes
+013-036		Burg der Wächter
+013-036-000	Konfrontation mit dem Tyrannen
+013-036-001	Katastrophenzyklus
+013-036-002	Drei böse Brüder
+013-036-003	Zurückhaltende Runde
+013-036-004	Grenze zwischen Welten
+013-036-005	Halle der vier Könige
 
 014			Drink Stages
 014-000		Gelbes Sprießen
@@ -3234,6 +3241,70 @@
 024-018-007	Nicht Sommer St. 18
 024-018-008	Nicht Sommer St. 19
 024-018-009	Nicht Sommer St. MAX
+024-019		Sommerferienkatzen
+024-019-000	Sommeranfang
+024-019-001	Abendkonzert
+024-019-002	Überbordendes Licht
+024-019-003	Verstecktes Baumhaus
+024-019-004	Essen ist fertig
+024-019-005	Citronelladuft
+024-019-006	Late-Night-Spezial
+024-019-007	Schnapp dein Netz
+024-019-008	Schatz am Meeresgrund
+024-019-009	Mückenspray
+024-019-010	Schulball
+024-019-011	Eine attraktive Dame
+024-019-012	Gebräunter Junge
+024-019-013	Musik in der Ferne
+024-019-014	Ein verlorener Freund
+024-019-015	Langschläfer
+024-019-016	Eine geheime Bucht
+024-019-017	Herbstvorboten
+024-019-018	Letztes Feuerwerk
+024-019-019	Schnelle Hausaufgaben
+024-020		
+024-020-000	Roter Alarm 1
+024-020-001	Roter Alarm 2
+024-020-002	Roter Alarm 3
+024-020-003	Roter Alarm 4
+024-020-004	Roter Alarm 5
+024-020-005	Roter Alarm 6
+024-020-006	Roter Alarm 7
+024-020-007	Roter Alarm 8
+024-020-008	Roter Alarm 9
+024-020-009	Roter Alarm 10
+024-020-010	Roter Alarm 11
+024-020-011	Roter Alarm 12
+024-020-012	Roter Alarm 13
+024-020-013	Roter Alarm 14
+024-020-014	Roter Alarm 15
+024-020-015	Roter Alarm 16
+024-020-016	Roter Alarm 17
+024-020-017	Roter Alarm 18
+024-020-018	Roter Alarm 19
+024-020-019	Roter Alarm St. MAX
+024-021		August-Turnier
+024-021-000	Hausgäste St. 1
+024-021-001	Hausgäste St. 2
+024-021-002	Hausgäste St. 3
+024-021-003	Hausgäste St. 4
+024-021-004	Hausgäste St. 5
+024-021-005	Hausgäste St. 6
+024-021-006	Hausgäste St. 7
+024-021-007	Hausgäste St. 8
+024-021-008	Hausgäste St. 9
+024-021-009	Hausgäste St. 10
+024-022		August-Turnier II
+024-022-000	Fremde St. 11
+024-022-001	Fremde St. 12
+024-022-002	Fremde St. 13
+024-022-003	Fremde St. 14
+024-022-004	Fremde St. 15
+024-022-005	Fremde St. 16
+024-022-006	Fremde St. 17
+024-022-007	Fremde St. 18
+024-022-008	Fremde St. 19
+024-022-009	Fremde St. MAX
 
 025			Enigma Stages
 025-000		Atium-Felder
@@ -3296,6 +3367,12 @@
 025-028-000	Gipfelschrein (Gnadenlos)
 025-029		Stahlgrenze
 025-029-000	Grenzschrein (Gnadenlos)
+025-030		Schäbiges Versteck
+025-030-000	Insektenjagd am Nachmittag
+025-031		Stilvolles Versteck
+025-031-000	Insektenjagd am Abend
+025-032		Perfektes Versteck
+025-032-000	Insektenjagd bei Nacht
 
 027			Collab Baron Stages
 027-000		Messier's Assault

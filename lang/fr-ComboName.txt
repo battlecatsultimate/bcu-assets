@@ -198,3 +198,6 @@
 80	Courageux coupeur
 81	Creuse-baleine
 82	Scie sexy
+83	Minisaure
+84	Petits guerriers
+85	Micro combattants

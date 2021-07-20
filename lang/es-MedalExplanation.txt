@@ -13,9 +13,9 @@
 12	Reúne los tesoros superiores en Gatos Galácticos cap. 2.
 13	Reúne los tesoros superiores en Gatos Galácticos cap. 3.
 14	Vence a Filiembustero Espacial.
-15	Supera todas las fases de 1 ★ en las fases legendarias.
-16	Supera todas las fases de 2 ★ en las fases legendarias.
-17	Supera todas las fases de 3 ★ en las fases legendarias.
+15	Supera el nivel 1 de todas las Etapas de Leyenda.
+16	Supera el nivel 2 de todas las Etapas de Leyenda.
+17	Supera el nivel 3 de todas las Etapas de Leyenda.
 18	Supera Catástrofe Carmesí.
 19	Supera Paraíso de Oscuridad.
 20	Supera Inigualable.
@@ -83,7 +83,7 @@
 82	Supera Guerra Total: Especial de Otoño.
 83	Supera Guerra Total: Especial de Invierno.
 84	Supera todos los mapas de Guerra Total.
-85	Supera todas las fases de 4★ en las fases legendarias.
+85	Supera el nivel 4 de todas las Etapas de Leyenda.
 86	Vence a Idi:Re y supera la fase.
 87	Supera Preludio de Ruina.
 88	Desbloquea a Máscara Doron Viejuna.

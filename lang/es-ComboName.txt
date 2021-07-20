@@ -198,3 +198,6 @@
 80	Cortadores valientes
 81	Excavadores balleneros
 82	Serradores sexis
+83	Minisaurios
+84	Guerreritos
+85	Luchadorcitos

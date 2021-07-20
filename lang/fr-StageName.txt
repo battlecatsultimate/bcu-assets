@@ -2801,6 +2801,13 @@
 013-035-003	Autel canopée
 013-035-004	Passage végétal
 013-035-005	Visage divin
+013-036		Château des sentinelles
+013-036-000	Face au tyran
+013-036-001	Cycle désastreux
+013-036-002	Trois mauvais frères
+013-036-003	Bagarre en douceur
+013-036-004	Frontière entre deux mondes
+013-036-005	Chambre des quatre rois
 
 014			Night Stages
 014-000		Croissance jaune
@@ -3235,6 +3242,70 @@
 024-018-007	Pas l'été niv. 18
 024-018-008	Pas l'été niv. 19
 024-018-009	Pas l'été niv. max
+024-019		Chats de vacances d'été
+024-019-000	Début d'été
+024-019-001	Chorus du crépuscule
+024-019-002	Marée lumineuse
+024-019-003	Cabane cachée
+024-019-004	Appel à dîner
+024-019-005	Parfum de citronnelle
+024-019-006	Spécial fin de soirée
+024-019-007	Agrippe ton filet
+024-019-008	Trésor marin
+024-019-009	Brume insecticide
+024-019-010	Danse de kermesse
+024-019-011	Une dame charmante
+024-019-012	Garçon bronzé
+024-019-013	Musique au loin
+024-019-014	Un ami perdu
+024-019-015	Réveil à midi
+024-019-016	Un recoin secret
+024-019-017	Des airs d'automne
+024-019-018	Bouquet final
+024-019-019	Devoirs de dernière minute
+024-020		
+024-020-000	Alerte rouge 1
+024-020-001	Alerte rouge 2
+024-020-002	Alerte rouge 3
+024-020-003	Alerte rouge 4
+024-020-004	Alerte rouge 5
+024-020-005	Alerte rouge 6
+024-020-006	Alerte rouge 7
+024-020-007	Alerte rouge 8
+024-020-008	Alerte rouge 9
+024-020-009	Alerte rouge 10
+024-020-010	Alerte rouge 11
+024-020-011	Alerte rouge 12
+024-020-012	Alerte rouge 13
+024-020-013	Alerte rouge 14
+024-020-014	Alerte rouge 15
+024-020-015	Alerte rouge 16
+024-020-016	Alerte rouge 17
+024-020-017	Alerte rouge 18
+024-020-018	Alerte rouge 19
+024-020-019	Alerte rouge niv. max.
+024-021		Défi d'août
+024-021-000	Invités niv. 1
+024-021-001	Invités niv. 2
+024-021-002	Invités niv. 3
+024-021-003	Invités niv. 4
+024-021-004	Invités niv. 5
+024-021-005	Invités niv. 6
+024-021-006	Invités niv. 7
+024-021-007	Invités niv. 8
+024-021-008	Invités niv. 9
+024-021-009	Invités niv. 10
+024-022		Défi d'août II
+024-022-000	Étrangers niv. 11
+024-022-001	Étrangers niv. 12
+024-022-002	Étrangers niv. 13
+024-022-003	Étrangers niv. 14
+024-022-004	Étrangers niv. 15
+024-022-005	Étrangers niv. 16
+024-022-006	Étrangers niv. 17
+024-022-007	Étrangers niv. 18
+024-022-008	Étrangers niv. 19
+024-022-009	Étrangers niv. max.
 
 025			Enigma Stages
 025-000		Champs Aitum
@@ -3297,6 +3368,12 @@
 025-028-000	Sanctuaire de sommet (sans répit)
 025-029		Frontière d’acier
 025-029-000	Sanctuaire de frontière (sans répit)
+025-030		Cachette délabrée
+025-030-000	Chasse aux insectes (après-midi)
+025-031		Cachette stylée
+025-031-000	Chasse aux insectes (soir)
+025-032		Cachette parfaite
+025-032-000	Chasse aux insectes (minuit)
 
 027			Collab Baron Stages
 027-000		Messier's Assault

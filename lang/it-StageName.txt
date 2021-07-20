@@ -2800,6 +2800,13 @@
 013-035-003	Ciborio
 013-035-004	Passo della linfa
 013-035-005	Il volto divino
+013-036		Castello delle sentinelle
+013-036-000	Affronta il tiranno
+013-036-001	Ciclo disastroso
+013-036-002	Tre fratelli malvagi
+013-036-003	Incontro di pugilato
+013-036-004	Confine tra mondi
+013-036-005	Sala dei quattro re
 
 014			Drink Stages
 014-000		Giallo rigoglioso
@@ -3234,6 +3241,70 @@
 024-018-007	No estate Liv. 18
 024-018-008	No estate Liv. 19
 024-018-009	No estate Liv. MAX
+024-019		Gatti estivi
+024-019-000	Inizio dell'estate
+024-019-001	Coro al tramonto
+024-019-002	Luce traboccante
+024-019-003	Casetta celata
+024-019-004	Tutti a cena
+024-019-005	Odore di citronella
+024-019-006	Speciale notturno
+024-019-007	Tieni la rete
+024-019-008	Tesoro sul fondale
+024-019-009	Profumo di insetticida
+024-019-010	Ballo a ricreazione
+024-019-011	Signora seducente
+024-019-012	Ragazzo abbronzato
+024-019-013	Musica in lontananza
+024-019-014	Un amico perduto
+024-019-015	Camminata a mezzodì
+024-019-016	Covo segreto
+024-019-017	Indizi autunnali
+024-019-018	Fuochi d'artificio finali
+024-019-019	Compiti all'ultimo minuto
+024-020		
+024-020-000	Allarme Rosso 1
+024-020-001	Allarme Rosso 2
+024-020-002	Allarme Rosso 3
+024-020-003	Allarme Rosso 4
+024-020-004	Allarme Rosso 5
+024-020-005	Allarme Rosso 6
+024-020-006	Allarme Rosso 7
+024-020-007	Allarme Rosso 8
+024-020-008	Allarme Rosso 9
+024-020-009	Allarme Rosso 10
+024-020-010	Allarme Rosso 11
+024-020-011	Allarme Rosso 12
+024-020-012	Allarme Rosso 13
+024-020-013	Allarme Rosso 14
+024-020-014	Allarme Rosso 15
+024-020-015	Allarme Rosso 16
+024-020-016	Allarme Rosso 17
+024-020-017	Allarme Rosso 18
+024-020-018	Allarme Rosso 19
+024-020-019	Allarme Rosso MAX
+024-021		Sfida di agosto
+024-021-000	Ospiti Liv. 1
+024-021-001	Ospiti Liv. 2
+024-021-002	Ospiti Liv. 3
+024-021-003	Ospiti Liv. 4
+024-021-004	Ospiti Liv. 5
+024-021-005	Ospiti Liv. 6
+024-021-006	Ospiti Liv. 7
+024-021-007	Ospiti Liv. 8
+024-021-008	Ospiti Liv. 9
+024-021-009	Ospiti Liv. 10
+024-022		Sfida di agosto II
+024-022-000	Estranei Liv. 11
+024-022-001	Estranei Liv. 12
+024-022-002	Estranei Liv. 13
+024-022-003	Estranei Liv. 14
+024-022-004	Estranei Liv. 15
+024-022-005	Estranei Liv. 16
+024-022-006	Estranei Liv. 17
+024-022-007	Estranei Liv. 18
+024-022-008	Estranei Liv. 19
+024-022-009	Estranei Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -3296,6 +3367,12 @@
 025-028-000	Santuario della cima (Spietato)
 025-029		Confine di ferro
 025-029-000	Santuario di confine (Spietato)
+025-030		Nascondiglio fatiscente
+025-030-000	Insetticida pomeridiano
+025-031		Nascondiglio stiloso
+025-031-000	Insetticida serale
+025-032		Nascondiglio perfetto
+025-032-000	Insetticida di mezzanotte
 
 027			Collab Baron Stages
 027-000		Messier's Assault

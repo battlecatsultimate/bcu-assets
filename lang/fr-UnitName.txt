@@ -612,3 +612,6 @@
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Princesse féline	Impératrice féline	
 613	Doron masque ancestral	Doron masque de Chat	
+614	Kaguya de la côte	Le Soleil méridional	
+615	Chat Kabuto	Chat Kabuto doré	
+616	Chat Kuwagata	Chat roi Kuwagata	

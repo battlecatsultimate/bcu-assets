@@ -115,6 +115,8 @@
 155	Tique de la suerte
 156	Tique de la suerte G
 157	Fragmento de platino
+158	Red legendaria
+159	5 000 XP
 1005	Gato de Bronce
 1100	Gato de Bronce
 1001	Gato Deportista
@@ -214,6 +216,7 @@
 1172	Idi:N
 1053	Gato Piedra
 1173	Ranma Cat (M)
+1174	Godzilla Cat
 1054	Máscara Doron Viejuna
 19001	Gato Crestado
 19002	Gato Borrador
@@ -528,3 +531,93 @@
 30062	Mejora de defensa B: Zombis
 30063	Mejora de defensa A: Zombis
 30064	Mejora de defensa S: Zombis
+30065	Mayor efecto «Eficacia» D: Rojos
+30066	Mayor efecto «Eficacia» C: Rojos
+30067	Mayor efecto «Eficacia» B: Rojos
+30068	Mayor efecto «Eficacia» A: Rojos
+30069	Mayor efecto «Eficacia» S: Rojos
+30070	Mayor efecto «Superfuerza» D: Rojos
+30071	Mayor efecto «Superfuerza» C: Rojos
+30072	Mayor efecto «Superfuerza» B: Rojos
+30073	Mayor efecto «Superfuerza» A: Rojos
+30074	Mayor efecto «Superfuerza» S: Rojos
+30075	Mayor efecto «Resistencia» D: Rojos
+30076	Mayor efecto «Resistencia» C: Rojos
+30077	Mayor efecto «Resistencia» B: Rojos
+30078	Mayor efecto «Resistencia» A: Rojos
+30079	Mayor efecto «Resistencia» S: Rojos
+30080	Mayor efecto «Eficacia» D: Voladores
+30081	Mayor efecto «Eficacia» C: Voladores
+30082	Mayor efecto «Eficacia» B: Voladores
+30083	Mayor efecto «Eficacia» A: Voladores
+30084	Mayor efecto «Eficacia» S: Voladores
+30085	Mayor efecto «Superfuerza» D: Voladores
+30086	Mayor efecto «Superfuerza» C: Voladores
+30087	Mayor efecto «Superfuerza» B: Voladores
+30088	Mayor efecto «Superfuerza» A: Voladores
+30089	Mayor efecto «Superfuerza» S: Voladores
+30090	Mayor efecto «Resistencia» D: Voladores
+30091	Mayor efecto «Resistencia» C: Voladores
+30092	Mayor efecto «Resistencia» B: Voladores
+30093	Mayor efecto «Resistencia» A: Voladores
+30094	Mayor efecto «Resistencia» S: Voladores
+30095	Mayor efecto «Eficacia» D: Negros
+30096	Mayor efecto «Eficacia» C: Negros
+30097	Mayor efecto «Eficacia» B: Negros
+30098	Mayor efecto «Eficacia» A: Negros
+30099	Mayor efecto «Eficacia» S: Negros
+30100	Mayor efecto «Superfuerza» D: Negros
+30101	Mayor efecto «Superfuerza» C: Negros
+30102	Mayor efecto «Superfuerza» B: Negros
+30103	Mayor efecto «Superfuerza» A: Negros
+30104	Mayor efecto «Superfuerza» S: Negros
+30105	Mayor efecto «Resistencia» D: Negros
+30106	Mayor efecto «Resistencia» C: Negros
+30107	Mayor efecto «Resistencia» B: Negros
+30108	Mayor efecto «Resistencia» A: Negros
+30109	Mayor efecto «Resistencia» S: Negros
+30110	Mayor efecto «Eficacia» D: Ángeles
+30111	Mayor efecto «Eficacia» C: Ángeles
+30112	Mayor efecto «Eficacia» B: Ángeles
+30113	Mayor efecto «Eficacia» A: Ángeles
+30114	Mayor efecto «Eficacia» S: Ángeles
+30115	Mayor efecto «Superfuerza» D: Ángeles
+30116	Mayor efecto «Superfuerza» C: Ángeles
+30117	Mayor efecto «Superfuerza» B: Ángeles
+30118	Mayor efecto «Superfuerza» A: Ángeles
+30119	Mayor efecto «Superfuerza» S: Ángeles
+30120	Mayor efecto «Resistencia» D: Ángeles
+30121	Mayor efecto «Resistencia» C: Ángeles
+30122	Mayor efecto «Resistencia» B: Ángeles
+30123	Mayor efecto «Resistencia» A: Ángeles
+30124	Mayor efecto «Resistencia» S: Ángeles
+30125	Mayor efecto «Eficacia» D: Álienes
+30126	Mayor efecto «Eficacia» C: Álienes
+30127	Mayor efecto «Eficacia» B: Álienes
+30128	Mayor efecto «Eficacia» A: Álienes
+30129	Mayor efecto «Eficacia» S: Álienes
+30130	Mayor efecto «Superfuerza» D: Álienes
+30131	Mayor efecto «Superfuerza» C: Álienes
+30132	Mayor efecto «Superfuerza» B: Álienes
+30133	Mayor efecto «Superfuerza» A: Álienes
+30134	Mayor efecto «Superfuerza» S: Álienes
+30135	Mayor efecto «Resistencia» D: Álienes
+30136	Mayor efecto «Resistencia» C: Álienes
+30137	Mayor efecto «Resistencia» B: Álienes
+30138	Mayor efecto «Resistencia» A: Álienes
+30139	Mayor efecto «Resistencia» S: Álienes
+30140	Mayor efecto «Eficacia» D: Zombis
+30141	Mayor efecto «Eficacia» C: Zombis
+30142	Mayor efecto «Eficacia» B: Zombis
+30143	Mayor efecto «Eficacia» A: Zombis
+30144	Mayor efecto «Eficacia» S: Zombis
+30145	Mayor efecto «Superfuerza» D: Zombis
+30146	Mayor efecto «Superfuerza» C: Zombis
+30147	Mayor efecto «Superfuerza» B: Zombis
+30148	Mayor efecto «Superfuerza» A: Zombis
+30149	Mayor efecto «Superfuerza» S: Zombis
+30150	Mayor efecto «Resistencia» D: Zombis
+30151	Mayor efecto «Resistencia» C: Zombis
+30152	Mayor efecto «Resistencia» B: Zombis
+30153	Mayor efecto «Resistencia» A: Zombis
+30154	Mayor efecto «Resistencia» S: Zombis

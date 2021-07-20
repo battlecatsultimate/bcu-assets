@@ -198,3 +198,6 @@
 80	Brave Cutter
 81	Whale Digger
 82	Sexy Sawer
+83	Mini-Saurus
+84	Little Warriors
+85	Micro Fighters

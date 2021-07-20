@@ -612,3 +612,6 @@
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Princess Cat	Empress Cat	
 613	Elder Mask Doron	Cat Mask Doron	
+614	Kaguya of the Coast	The Southern Sun	
+615	Kabuto Cat	Golden Kabuto Cat	
+616	Kuwagata Cat	King Kuwagata Cat	

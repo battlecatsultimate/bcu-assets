@@ -115,6 +115,8 @@
 155	Ticket chance
 156	Ticket chance G
 157	Éclat platine
+158	Filet légendaire
+159	5 000 XP
 1005	Chat en bronze
 1100	Chat en bronze
 1001	Chat Jour des sports
@@ -214,6 +216,7 @@
 1172	Idi:N
 1053	Chat de pierre
 1173	Ranma Cat (M)
+1174	Godzilla Cat
 1054	Doron masque ancestral
 19001	Chat punk
 19002	Chat gomme
@@ -528,3 +531,93 @@
 30062	Défense aug. B: Zombie
 30063	Défense aug. A: Zombie
 30064	Défense aug. S: Zombie
+30065	Effet Assure ↑ D: Rouge
+30066	Effet Assure ↑ C: Rouge
+30067	Effet Assure ↑ B: Rouge
+30068	Effet Assure ↑ A: Rouge
+30069	Effet Assure ↑ S: Rouge
+30070	Dégâts massifs ↑ D: Rouge
+30071	Dégâts massifs ↑ C: Rouge
+30072	Dégâts massifs ↑ B: Rouge
+30073	Dégâts massifs ↑ A: Rouge
+30074	Dégâts massifs ↑ S: Rouge
+30075	Effet Résistance ↑ D: Rouge
+30076	Effet Résistance ↑ C: Rouge
+30077	Effet Résistance ↑ B: Rouge
+30078	Effet Résistance ↑ A: Rouge
+30079	Effet Résistance ↑ S: Rouge
+30080	Effet Assure ↑ D: Flottant
+30081	Effet Assure ↑ C: Flottant
+30082	Effet Assure ↑ B: Flottant
+30083	Effet Assure ↑ A: Flottant
+30084	Effet Assure ↑ S: Flottant
+30085	Dégâts massifs ↑ D: Flottant
+30086	Dégâts massifs ↑ C: Flottant
+30087	Dégâts massifs ↑ B: Flottant
+30088	Dégâts massifs ↑ A: Flottant
+30089	Dégâts massifs ↑ S: Flottant
+30090	Effet Résistance ↑ D: Flottant
+30091	Effet Résistance ↑ C: Flottant
+30092	Effet Résistance ↑ B: Flottant
+30093	Effet Résistance ↑ A: Flottant
+30094	Effet Résistance ↑ S: Flottant
+30095	Effet Assure ↑ D: Noir
+30096	Effet Assure ↑ C: Noir
+30097	Effet Assure ↑ B: Noir
+30098	Effet Assure ↑ A: Noir
+30099	Effet Assure ↑ S: Noir
+30100	Dégâts massifs ↑ D: Noir
+30101	Dégâts massifs ↑ C: Noir
+30102	Dégâts massifs ↑ B: Noir
+30103	Dégâts massifs ↑ A: Noir
+30104	Dégâts massifs ↑ S: Noir
+30105	Effet Résistance ↑ D: Noir
+30106	Effet Résistance ↑ C: Noir
+30107	Effet Résistance ↑ B: Noir
+30108	Effet Résistance ↑ A: Noir
+30109	Effet Résistance ↑ S: Noir
+30110	Effet Assure ↑ D: Ange
+30111	Effet Assure ↑ C: Ange
+30112	Effet Assure ↑ B: Ange
+30113	Effet Assure ↑ A: Ange
+30114	Effet Assure ↑ S: Ange
+30115	Dégâts massifs ↑ D: Ange
+30116	Dégâts massifs ↑ C: Ange
+30117	Dégâts massifs ↑ B: Ange
+30118	Dégâts massifs ↑ A: Ange
+30119	Dégâts massifs ↑ S: Ange
+30120	Effet Résistance ↑ D: Ange
+30121	Effet Résistance ↑ C: Ange
+30122	Effet Résistance ↑ B: Ange
+30123	Effet Résistance ↑ A: Ange
+30124	Effet Résistance ↑ S: Ange
+30125	Effet Assure ↑ D: Alien
+30126	Effet Assure ↑ C: Alien
+30127	Effet Assure ↑ B: Alien
+30128	Effet Assure ↑ A: Alien
+30129	Effet Assure ↑ S: Alien
+30130	Dégâts massifs ↑ D: Alien
+30131	Dégâts massifs ↑ C: Alien
+30132	Dégâts massifs ↑ B: Alien
+30133	Dégâts massifs ↑ A: Alien
+30134	Dégâts massifs ↑ S: Alien
+30135	Effet Résistance ↑ D: Alien
+30136	Effet Résistance ↑ C: Alien
+30137	Effet Résistance ↑ B: Alien
+30138	Effet Résistance ↑ A: Alien
+30139	Effet Résistance ↑ S: Alien
+30140	Effet Assure ↑ D: Zombie
+30141	Effet Assure ↑ C: Zombie
+30142	Effet Assure ↑ B: Zombie
+30143	Effet Assure ↑ A: Zombie
+30144	Effet Assure ↑ S: Zombie
+30145	Dégâts massifs ↑ D: Zombie
+30146	Dégâts massifs ↑ C: Zombie
+30147	Dégâts massifs ↑ B: Zombie
+30148	Dégâts massifs ↑ A: Zombie
+30149	Dégâts massifs ↑ S: Zombie
+30150	Effet Résistance ↑ D: Zombie
+30151	Effet Résistance ↑ C: Zombie
+30152	Effet Résistance ↑ B: Zombie
+30153	Effet Résistance ↑ A: Zombie
+30154	Effet Résistance ↑ S: Zombie

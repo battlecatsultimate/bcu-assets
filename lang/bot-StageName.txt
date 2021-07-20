@@ -1630,6 +1630,35 @@
 002-165-002	Tragically Drowned
 002-165-003	Horror of the Waters
 002-165-004	Bewitched Bodies
+002-166		Annihilated City
+002-166-000	A Post-Apocalypse Tale
+002-166-001	Deliveryman Takuya
+002-166-002	A Mystery Girl
+002-166-003	Good Cats, Bad Cats
+002-166-004	A Bothersome Cat
+002-166-005	The Nyanko Plan
+002-166-006	LOST (Insane)
+002-167		Takuya & Yuki Awaken
+002-167-000	Takuya ＆ Yuki Awaken! (Veteran)
+002-167-001	Takuya ＆ Yuki Awaken! (Insane)
+002-168		The Lost World
+002-168-000	Another Mystery Girl
+002-168-001	Don't Act Like You Know Me
+002-168-002	All Worlds Will End
+002-169		City of Souls
+002-169-000	Blackened Soul
+002-169-001	The Two Yukis
+002-169-002	Three Destinies
+002-170		The World Beyond
+002-170-000	An Encounter With Sin
+002-170-001	Foolish Wanderer Kano
+002-170-002	Wishing for Happiness
+002-171		Godzilla: Final Assault
+002-171-000	God of Destruction (Merciless)
+002-172		Godzilla vs Cats
+002-172-000	The Leviathan Rises
+002-172-001	Disaster Response HQ
+002-172-002	Climactic Cat Clash
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -2386,9 +2415,6 @@
 004-041		The King & The Maiden
 004-041-000	Bombergirl (Deadly)
 
-006			Catclaw Dojo
-006-000
-
 007			Heavenly Tower
 007-000		Heavenly Tower
 007-000-000	Floor 1
@@ -2789,6 +2815,13 @@
 013-035-003	Canopy Altar
 013-035-004	Sappy Underpass
 013-035-005	The Face of God
+013-036		Castle of the Sentinels
+013-036-000	Confront the Tyrant
+013-036-001	Disaster Cycle
+013-036-002	Three Evil Brothers
+013-036-003	Pulled Punch Bout
+013-036-004	Border Between Worlds
+013-036-005	Hall of the Four Kings
 
 014			Drink Stages
 014-000		Growing Yellow
@@ -3201,6 +3234,92 @@
 024-016-007	Forbidden II Lv.18
 024-016-008	Forbidden II Lv.19
 024-016-009	Forbidden II Lv.Max
+024-017		July Gauntlet
+024-017-000	Summer Lv.1
+024-017-001	Summer Lv.2
+024-017-002	Summer Lv.3
+024-017-003	Summer Lv.4
+024-017-004	Summer Lv.5
+024-017-005	Summer Lv.6
+024-017-006	Summer Lv.7
+024-017-007	Summer Lv.8
+024-017-008	Summer Lv.9
+024-017-009	Summer Lv.10
+024-018		July Gauntlet II
+024-018-000	Not Summer Lv.11
+024-018-001	Not Summer Lv.12
+024-018-002	Not Summer Lv.13
+024-018-003	Not Summer Lv.14
+024-018-004	Not Summer Lv.15
+024-018-005	Not Summer Lv.16
+024-018-006	Not Summer Lv.17
+024-018-007	Not Summer Lv.18
+024-018-008	Not Summer Lv.19
+024-018-009	Not Summer Lv.MAX
+024-019		Summer Break Cats
+024-019-000	Start of Summer
+024-019-001	Sundown Chorus
+024-019-002	Light Overflowing
+024-019-003	Hidden Treehouse
+024-019-004	Call to Dinner
+024-019-005	Citronella Scent
+024-019-006	Late Nite Special
+024-019-007	Grip Your Net
+024-019-008	Sea Floor Treasure
+024-019-009	Bug Spray Mist
+024-019-010	Schoolyard Dance
+024-019-011	An Alluring Lady
+024-019-012	Suntanned Boy
+024-019-013	Music in the Distance
+024-019-014	A Lost Friend
+024-019-015	Waking at Noon
+024-019-016	A Secret Cove
+024-019-017	Hints of Autumn
+024-019-018	Final Fireworks
+024-019-019	Last-Minute Homework
+024-020		
+024-020-000	Red Alert 1
+024-020-001	Red Alert 2
+024-020-002	Red Alert 3
+024-020-003	Red Alert 4
+024-020-004	Red Alert 5
+024-020-005	Red Alert 6
+024-020-006	Red Alert 7
+024-020-007	Red Alert 8
+024-020-008	Red Alert 9
+024-020-009	Red Alert 10
+024-020-010	Red Alert 11
+024-020-011	Red Alert 12
+024-020-012	Red Alert 13
+024-020-013	Red Alert 14
+024-020-014	Red Alert 15
+024-020-015	Red Alert 16
+024-020-016	Red Alert 17
+024-020-017	Red Alert 18
+024-020-018	Red Alert 19
+024-020-019	Red Alert MAX
+024-021		August Gauntlet
+024-021-000	Houseguests Lv.1
+024-021-001	Houseguests Lv.2
+024-021-002	Houseguests Lv.3
+024-021-003	Houseguests Lv.4
+024-021-004	Houseguests Lv.5
+024-021-005	Houseguests Lv.6
+024-021-006	Houseguests Lv.7
+024-021-007	Houseguests Lv.8
+024-021-008	Houseguests Lv.9
+024-021-009	Houseguests Lv.10
+024-022		August Gauntlet II
+024-022-000	Strangers Lv.11
+024-022-001	Strangers Lv.12
+024-022-002	Strangers Lv.13
+024-022-003	Strangers Lv.14
+024-022-004	Strangers Lv.15
+024-022-005	Strangers Lv.16
+024-022-006	Strangers Lv.17
+024-022-007	Strangers Lv.18
+024-022-008	Strangers Lv.19
+024-022-009	Strangers Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -3263,6 +3382,12 @@
 025-028-000	Summit Shrine (Merciless)
 025-029		Steel Frontier
 025-029-000	Frontier Shrine (Merciless)
+025-030		Rundown Hideout
+025-030-000	Afternoon Bug Hunt
+025-031		Stylish Hideout
+025-031-000	Evening Bug Hunt
+025-032		Perfect Hideout
+025-032-000	Midnight Bug Hunt
 
 027			Collab Baron Stages
 027-000		Messier's Assault

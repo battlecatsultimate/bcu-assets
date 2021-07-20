@@ -2800,6 +2800,13 @@
 013-035-003	Altar de Dosel Arbóreo
 013-035-004	Paso Subterráneo de Savia
 013-035-005	La Cara de Dios
+013-036		Castillo de Centinelas
+013-036-000	Enfrentamiento con el Tirano
+013-036-001	Ciclo del Desastre
+013-036-002	Tres Hermanos Malvados
+013-036-003	Fin del Partido
+013-036-004	Frontera Entre Mundos
+013-036-005	Sala de los Cuatro Reyes
 
 014			Drink Stages
 014-000		Cultivo Amarillo
@@ -3234,6 +3241,70 @@
 024-018-007	No Verano (nvl. 18)
 024-018-008	No Verano (nvl. 19)
 024-018-009	No Verano (nvl. máx.)
+024-019		Gatos Estivales
+024-019-000	Inicio del Verano
+024-019-001	Coro del Ocaso
+024-019-002	Desbordamiento de Luz
+024-019-003	Casa del Árbol Secreta
+024-019-004	A Cenar
+024-019-005	Aroma a Citronela
+024-019-006	Especial de Noche
+024-019-007	Agarra la Red
+024-019-008	Tesoro Marino
+024-019-009	Repelente para Mosquitos
+024-019-010	Baile Escolar
+024-019-011	La Seductora
+024-019-012	El Bronceado
+024-019-013	Música Distante
+024-019-014	Amigos Perdidos
+024-019-015	Paseo al Mediodía
+024-019-016	Cala Secreta
+024-019-017	Indicios del Otoño
+024-019-018	Fuegos Artificiales
+024-019-019	Deberes de Última Hora
+024-020		
+024-020-000	Alerta Roja 1
+024-020-001	Alerta Roja 2
+024-020-002	Alerta Roja 3
+024-020-003	Alerta Roja 4
+024-020-004	Alerta Roja 5
+024-020-005	Alerta Roja 6
+024-020-006	Alerta Roja 7
+024-020-007	Alerta Roja 8
+024-020-008	Alerta Roja 9
+024-020-009	Alerta Roja 10
+024-020-010	Alerta Roja 11
+024-020-011	Alerta Roja 12
+024-020-012	Alerta Roja 13
+024-020-013	Alerta Roja 14
+024-020-014	Alerta Roja 15
+024-020-015	Alerta Roja 16
+024-020-016	Alerta Roja 17
+024-020-017	Alerta Roja 18
+024-020-018	Alerta Roja 19
+024-020-019	Alerta Roja (nvl. máx.)
+024-021		Desafío de Agosto
+024-021-000	Invitados (nvl. 1)
+024-021-001	Invitados (nvl. 2)
+024-021-002	Invitados (nvl. 3)
+024-021-003	Invitados (nvl. 4)
+024-021-004	Invitados (nvl. 5)
+024-021-005	Invitados (nvl. 6)
+024-021-006	Invitados (nvl. 7)
+024-021-007	Invitados (nvl. 8)
+024-021-008	Invitados (nvl. 9)
+024-021-009	Invitados (nvl. 10)
+024-022		Desafío de Agosto II
+024-022-000	Extraños (nvl. 11)
+024-022-001	Extraños (nvl. 12)
+024-022-002	Extraños (nvl. 13)
+024-022-003	Extraños (nvl. 14)
+024-022-004	Extraños (nvl. 15)
+024-022-005	Extraños (nvl. 16)
+024-022-006	Extraños (nvl. 17)
+024-022-007	Extraños (nvl. 18)
+024-022-008	Extraños (nvl. 19)
+024-022-009	Extraños (nvl. máx.)
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -3296,6 +3367,12 @@
 025-028-000	Santuario Cima (Inhumano)
 025-029		Frontera Metálica
 025-029-000	Santuario Frontera (Inhumano)
+025-030		Escondite Ruinoso
+025-030-000	Caza de Bichos Vespertina
+025-031		Escondite Estiloso
+025-031-000	Caza de Bichos Nocturna
+025-032		Escondite Perfecto
+025-032-000	Caza de Bichos a Medianoche
 
 027			Collab Baron Stages
 027-000		Messier's Assault

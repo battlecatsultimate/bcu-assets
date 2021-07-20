@@ -115,6 +115,8 @@
 155	Lucky Ticket
 156	G Ticket
 157	Platinum Shard
+158	Legend Net
+159	5000 XP
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -214,6 +216,7 @@
 1172	Idi:N
 1053	Stone Cat
 1173	Ranma Cat (M)
+1174	Godzilla Cat
 1054	Elder Mask Doron
 19001	Mohawk Cat
 19002	Eraser Cat
@@ -528,3 +531,93 @@
 30062	Defense Up B: Zombie
 30063	Defense Up A: Zombie
 30064	Defense Up S: Zombie
+30065	Strong Effect Up D: Red
+30066	Strong Effect Up C: Red
+30067	Strong Effect Up B: Red
+30068	Strong Effect Up A: Red
+30069	Strong Effect Up S: Red
+30070	Massive Damage Up D: Red
+30071	Massive Damage Up C: Red
+30072	Massive Damage Up B: Red
+30073	Massive Damage Up A: Red
+30074	Massive Damage Up S: Red
+30075	Resistant Effect Up D: Red
+30076	Resistant Effect Up C: Red
+30077	Resistant Effect Up B: Red
+30078	Resistant Effect Up A: Red
+30079	Resistant Effect Up S: Red
+30080	Strong Effect Up D: Float
+30081	Strong Effect Up C: Float
+30082	Strong Effect Up B: Float
+30083	Strong Effect Up A: Float
+30084	Strong Effect Up S: Float
+30085	Massive Damage Up D: Float
+30086	Massive Damage Up C: Float
+30087	Massive Damage Up B: Float
+30088	Massive Damage Up A: Float
+30089	Massive Damage Up S: Float
+30090	Resistant Effect Up D: Float
+30091	Resistant Effect Up C: Float
+30092	Resistant Effect Up B: Float
+30093	Resistant Effect Up A: Float
+30094	Resistant Effect Up S: Float
+30095	Strong Effect Up D: Black
+30096	Strong Effect Up C: Black
+30097	Strong Effect Up B: Black
+30098	Strong Effect Up A: Black
+30099	Strong Effect Up S: Black
+30100	Massive Damage Up D: Black
+30101	Massive Damage Up C: Black
+30102	Massive Damage Up B: Black
+30103	Massive Damage Up A: Black
+30104	Massive Damage Up S: Black
+30105	Resistant Effect Up D: Black
+30106	Resistant Effect Up C: Black
+30107	Resistant Effect Up B: Black
+30108	Resistant Effect Up A: Black
+30109	Resistant Effect Up S: Black
+30110	Strong Effect Up D: Angel
+30111	Strong Effect Up C: Angel
+30112	Strong Effect Up B: Angel
+30113	Strong Effect Up A: Angel
+30114	Strong Effect Up S: Angel
+30115	Massive Damage Up D: Angel
+30116	Massive Damage Up C: Angel
+30117	Massive Damage Up B: Angel
+30118	Massive Damage Up A: Angel
+30119	Massive Damage Up S: Angel
+30120	Resistant Effect Up D: Angel
+30121	Resistant Effect Up C: Angel
+30122	Resistant Effect Up B: Angel
+30123	Resistant Effect Up A: Angel
+30124	Resistant Effect Up S: Angel
+30125	Strong Effect Up D: Alien
+30126	Strong Effect Up C: Alien
+30127	Strong Effect Up B: Alien
+30128	Strong Effect Up A: Alien
+30129	Strong Effect Up S: Alien
+30130	Massive Damage Up D: Alien
+30131	Massive Damage Up C: Alien
+30132	Massive Damage Up B: Alien
+30133	Massive Damage Up A: Alien
+30134	Massive Damage Up S: Alien
+30135	Resistant Effect Up D: Alien
+30136	Resistant Effect Up C: Alien
+30137	Resistant Effect Up B: Alien
+30138	Resistant Effect Up A: Alien
+30139	Resistant Effect Up S: Alien
+30140	Strong Effect Up D: Zombie
+30141	Strong Effect Up C: Zombie
+30142	Strong Effect Up B: Zombie
+30143	Strong Effect Up A: Zombie
+30144	Strong Effect Up S: Zombie
+30145	Massive Damage Up D: Zombie
+30146	Massive Damage Up C: Zombie
+30147	Massive Damage Up B: Zombie
+30148	Massive Damage Up A: Zombie
+30149	Massive Damage Up S: Zombie
+30150	Resistant Effect Up D: Zombie
+30151	Resistant Effect Up C: Zombie
+30152	Resistant Effect Up B: Zombie
+30153	Resistant Effect Up A: Zombie
+30154	Resistant Effect Up S: Zombie
