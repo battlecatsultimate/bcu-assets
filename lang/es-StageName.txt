@@ -2398,6 +2398,10 @@
 004-041		El Rey y la Doncella
 004-041-000	Bombardera (Mortal)
 
+006			Dojo Afilagarras
+006-000		Sala de Iniciados
+006-000-000	Prueba del Viajero (Fase 1)
+
 007			Heavenly Tower
 007-000		Torre Celestial
 007-000-000	Piso 1

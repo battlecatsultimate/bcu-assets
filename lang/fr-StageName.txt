@@ -2399,6 +2399,10 @@
 004-041		Le roi et la jeune fille
 004-041-000	Poseuse de bombe (mortel)
 
+006			Dojo Griffélin
+006-000		Salle des initiés
+006-000-000	Épreuve du vagabond (niveau 1)
+
 007			Heavenly Tower
 007-000		Tour céleste
 007-000-000	1er étage

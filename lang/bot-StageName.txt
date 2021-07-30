@@ -2415,6 +2415,10 @@
 004-041		The King & The Maiden
 004-041-000	Bombergirl (Deadly)
 
+006			Catclaw Dojo
+006-000		Hall of Initiates
+006-000-000	Wanderer's Trial (Stage 1)
+
 007			Heavenly Tower
 007-000		Heavenly Tower
 007-000-000	Floor 1

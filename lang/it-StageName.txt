@@ -2398,6 +2398,10 @@
 004-041		Il re e la fanciulla
 004-041-000	Bombarola (Letale)
 
+006			Dojo miciodiale
+006-000		Sala degli iniziati
+006-000-000	La prova del vagabondo (Livello 1)
+
 007			Heavenly Tower
 007-000		Torre celestiale
 007-000-000	1° piano

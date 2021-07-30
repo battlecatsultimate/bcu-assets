@@ -2398,6 +2398,10 @@
 004-041		König & Jungfrau
 004-041-000	Junge Bomberin (Tödlich)
 
+006			Katzenkrallendojo
+006-000		Halle der Initianden
+006-000-000	Prüfung des Wanderers
+
 007			Heavenly Tower
 007-000		Himmlischer Turm
 007-000-000	Ebene 1
