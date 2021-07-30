@@ -615,3 +615,8 @@
 614	Kaguya of the Coast	The Southern Sun	
 615	Kabuto Cat	Golden Kabuto Cat
 616	Kuwagata Cat	King Kuwagata Cat
+617			
+618	Amakusa Shirou	Devil God Amakusa Shirou	
+619	Youkai Girl Ririn	Youkai Girl Ririn Type π	
+620			
+621	Devil Researcher	Evil Devil Researcher	
