@@ -493,7 +493,7 @@
 492			
 493	Gaia the Creator	Gaia the Supreme	
 494	Seabreeze Coppermine	Seabreeze Coppermine, type κ	
-495	Matador Cat	Flamenco Cat	
+495	Matador Cat	Flamenco Cat	Exotic Cat
 496	Narita Kaihime	Wargod Kaihime	Immortal Kaihime
 497	Shakurel Cat	Shakurel Macho Cat	
 498	Shakurel Lion	Shakurel Lion CC	
@@ -607,7 +607,7 @@
 606	Panda Cat	Genma Cat	
 607	Adventurer Kanna	Swashbuckler Kanna	
 608	Wafer Cat	Big Wafer Cat	
-609	Shadow Garu	Diabolic Garu
+609	Dark Aegis Garu	Dark Beastlord Garu	
 610	Gold Brick Cat	King Ingot Cat	King Nekokhamen
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Princess Cat	Empress Cat	
