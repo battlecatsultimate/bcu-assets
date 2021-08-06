@@ -297,7 +297,7 @@
 000-037-002	Deep Sea Dying
 000-037-003	Procrastinator Parade
 000-037-004	Grand Exhibition
-000-037-005	No return flights
+000-037-005	No Return Flights
 000-038		Above & Below
 000-038-000	Electric Bath
 000-038-001	Boiling Spring
@@ -915,17 +915,17 @@
 001-164-003	Paradise Derby
 001-164-004	Slimy Stallions
 001-165		Forbidden Bride Pt II
-001-167-000	The Ex Appears
-001-167-001	Awkward S.O.
-001-167-002	Family Feuding
-001-167-003	Double Proposal
-001-167-004	Show Me The Stars
+001-165-000	The Ex Appears
+001-165-001	Awkward S.O.
+001-165-002	Family Feuding
+001-165-003	Double Proposal
+001-165-004	Show Me The Stars
 001-166		Never Not Summer!
-001-167-000	Leak Year
-001-167-001	Cats of Yesterday
-001-167-002	Heat Wave Blues
-001-167-003	Lazy Tomorrow
-001-167-004	See You Next Year
+001-166-000	Leak Year
+001-166-001	Cats of Yesterday
+001-166-002	Heat Wave Blues
+001-166-003	Lazy Tomorrow
+001-166-004	See You Next Year
 001-167		Ghostly Strangers
 001-167-000	Dad's Back to Heaven
 001-167-001	Long Line at Cerberus
@@ -959,11 +959,11 @@
 001-173		Cybear’s Vengeance
 001-173-000	Forged to Kill (Deadly)
 001-174		A Cultured Festival
-000-174-000	Meatless Wieners
-000-174-000	Deep Fried Air
-000-174-000	Burnt to Perfection
-000-174-000	Not Quite Organic
-000-174-000	Outta Change...
+001-174-000	Meatless Wieners
+001-174-000	Deep Fried Air
+001-174-000	Burnt to Perfection
+001-174-000	Not Quite Organic
+001-174-000	Outta Change...
 001-175		Christmas in Space
 001-175-000	That's Not Santa...
 001-175-001	Jingle Hell
