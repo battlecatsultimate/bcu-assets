@@ -960,10 +960,11 @@
 001-173-000	Forged to Kill (Deadly)
 001-174		A Cultured Festival
 001-174-000	Meatless Wieners
-001-174-000	Deep Fried Air
-001-174-000	Burnt to Perfection
-001-174-000	Not Quite Organic
-001-174-000	Outta Change...
+001-174-001	Deep Fried Air
+001-174-002	Burnt to Perfection
+001-174-003	Not Quite Organic
+001-174-004	Outta Change...
+001-174-005	Always In the Red
 001-175		Christmas in Space
 001-175-000	That's Not Santa...
 001-175-001	Jingle Hell
