@@ -949,10 +949,10 @@
 001-170-000	Hours 'Til Morning
 001-171		Worker’s Revolution
 001-171-000	Premium Friday
-001-171-000	Total Professional
-001-171-000	CORE TIME
-001-171-000	Maternity Leave Forever
-001-171-000	Late Nite Shake-Up
+001-171-001	Total Professional
+001-171-002	CORE TIME
+001-171-003	Maternity Leave Forever
+001-171-004	Late Nite Shake-Up
 001-172		NEO Darkness Heaven
 001-172-000	Wrath of B-Cyclone (Insane)
 001-172-001	Revenge of B-Cyclone (Deadly)
@@ -960,10 +960,11 @@
 001-173-000	Forged to Kill (Deadly)
 001-174		A Cultured Festival
 001-174-000	Meatless Wieners
-001-174-000	Deep Fried Air
-001-174-000	Burnt to Perfection
-001-174-000	Not Quite Organic
-001-174-000	Outta Change...
+001-174-001	Deep Fried Air
+001-174-002	Burnt to Perfection
+001-174-003	Not Quite Organic
+001-174-004	Outta Change...
+001-174-005	Always In the Red
 001-175		Christmas in Space
 001-175-000	That's Not Santa...
 001-175-001	Jingle Hell
@@ -1010,8 +1011,8 @@
 001-189		Typhoon Nemo
 001-189-000	Charybdis' Mouth (Merciless)
 001-190		Deadly Carnival III
-000-190-000	Tornado Carnival III (Deadly)
-000-190-001	Awakened Carnival III (Deadly)
+001-190-000	Tornado Carnival III (Deadly)
+001-190-001	Awakened Carnival III (Deadly)
 001-191		40M Celebration Gifts Galore!
 001-191-000	Joy of 40 Million!
 001-192		Bears Be Back

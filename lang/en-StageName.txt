@@ -949,10 +949,10 @@
 001-170-000	Hours 'Til Morning
 001-171		Worker’s Revolution
 001-171-000	Premium Friday
-001-171-000	Total Professional
-001-171-000	CORE TIME
-001-171-000	Maternity Leave Forever
-001-171-000	Late Nite Shake-Up
+001-171-001	Total Professional
+001-171-002	CORE TIME
+001-171-003	Maternity Leave Forever
+001-171-004	Late Nite Shake-Up
 001-172		NEO Darkness Heaven
 001-172-000	Wrath of B-Cyclone (Insane)
 001-172-001	Revenge of B-Cyclone (Deadly)
@@ -1011,8 +1011,8 @@
 001-189		Typhoon Nemo
 001-189-000	Charybdis' Mouth (Merciless)
 001-190		Deadly Carnival III
-000-190-000	Tornado Carnival III (Deadly)
-000-190-001	Awakened Carnival III (Deadly)
+001-190-000	Tornado Carnival III (Deadly)
+001-190-001	Awakened Carnival III (Deadly)
 001-191		40M Celebration Gifts Galore!
 001-191-000	Joy of 40 Million!
 001-192		Bears Be Back
