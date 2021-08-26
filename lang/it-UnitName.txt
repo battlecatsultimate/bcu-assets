@@ -60,7 +60,7 @@
 059	Micetto	Micetti	Gatti in culla
 060	Busto di Gatto	Miaochelangelo	Gatto concorrente
 061	Gatto sushi	Gatto tempura	Gatto tobiko
-062	Capsule Cat	Vendor Cat	
+062	Toy Machine Cat	Vendor Cat	
 063	Gatto sportivo	Gatti rapitori	Gatti furenti
 064			
 065			
@@ -493,7 +493,7 @@
 492			
 493	Gaia la creatrice	Gaia la suprema	
 494	Ramina Brezzamarina	Ramina Brezzamarina κ	
-495	Gatto Matador	Flamengatto	
+495	Gatto Matador	Flamengatto	Gatta Danza del ventre
 496	Narita Kaihime	Kaihime dea della guerra	Kaihime Immortale
 497	Shakurel Cat	Shakurel Macho Cat	
 498	Shakurel Lion	Shakurel Lion CC	
@@ -615,3 +615,8 @@
 614	Kaguya costiera	Il Sole del sud	
 615	Gatto Kabuto	Gatto Kabuto oro	
 616	Gatto Kuwagata	Gatto Re Kuwagata	
+617			
+618	Shiro Amakusa	Amakusa Dio della guerra	
+619	Lilin	Lilin π	
+620			
+621	Ricercatore di Aku	Ricercatore di Aku malvagio	

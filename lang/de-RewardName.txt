@@ -115,6 +115,8 @@
 155	Glücksticket
 156	Glücksticket G
 157	Platinsplitter
+158	Legendennetz
+159	5.000 XP
 1005	Bronzekatze
 1100	Bronzekatze
 1001	Sporttagkatze
@@ -214,7 +216,9 @@
 1172	Idi:N
 1053	Steinkatze
 1173	Ranma Cat (M)
+1174	Godzilla Cat
 1054	Ältestenmaske Doron
+1055	Aku-Forscher
 19001	Irokatze
 19002	Radierkatze
 19003	Dunkle Katze
@@ -450,6 +454,7 @@
 15470	Super D-Devil
 10474	Rampaging Yamato
 10475	Strike Angel
+15496	Bauchtanzkatze
 15497	Unsterbliche Kaihime
 15503	Himmlische Myrcia
 15506	Gladios der Gottkaiser

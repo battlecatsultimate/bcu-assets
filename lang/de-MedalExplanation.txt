@@ -13,9 +13,9 @@
 12	Sammle alle ausgezeichneten Schätze aus Kosmische Katzen Kapitel 2.
 13	Sammle alle ausgezeichneten Schätze aus Kosmische Katzen Kapitel 3.
 14	Besiege Filibuster Obstructa.
-15	Schließe alle 1-★-Karten von Legenden ab.
-16	Schließe alle 2-★-Karten von Legenden ab.
-17	Schließe alle 3-★-Karten von Legenden ab.
+15	Schließe alle legendären Level der Stufe 1 ab.
+16	Schließe alle legendären Level der Stufe 2 ab.
+17	Schließe alle legendären Level der Stufe 3 ab.
 18	Schließe „Blutrote Katastrophe“ ab.
 19	Schließe „Himmel der Dunkelheit“ ab.
 20	Schließe „Unvergleichlich“ ab.
@@ -83,7 +83,8 @@
 82	Schließe „Krieg: Herbsteinsatz“ ab.
 83	Schließe „Krieg: Wintereinsatz“ ab.
 84	Schließe alle Kriegsjahreszeitkarten ab.
-85	Schließe alle 4-★-Karten von Legenden ab.
+85	Schließe alle legendären Level der Stufe 4 ab.
 86	Besiege Idi:Re und schließe ihr Level ab.
 87	Schließe „Auftakt zum Ruin“ ab.
 88	Schalte Ältestenmaske Doron frei.
+89	Schließe „Der große Diablo“ ab.

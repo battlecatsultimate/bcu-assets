@@ -60,7 +60,7 @@
 059	Chat bébé	Chats bébés	Chats au berceau
 060	Chat en bronze	Michal-Ange	Chanimateur
 061	Chats sushi	Chats crevette frite	Chats œufs de poisson
-062	Capsule Cat	Vendor Cat	
+062	Toy Machine Cat	Vendor Cat	
 063	Chat Jour des sports	Chats ravisseurs	Chats déchaînés
 064			
 065			
@@ -493,7 +493,7 @@
 492			
 493	Gaïa créatrice	Gaïa suprême	
 494	Mine marine	Mine marine, type κ	
-495	Chat matador	Chat flamenco	
+495	Chat matador	Chat flamenco	Chatte danseuse du ventre
 496	Narita Kaihime	Kaihime déesse guerrière	Kaihime immortelle
 497	Shakurel Cat	Shakurel Macho Cat	
 498	Shakurel Lion	Shakurel Lion CC	
@@ -615,3 +615,8 @@
 614	Kaguya de la côte	Le Soleil méridional	
 615	Chat Kabuto	Chat Kabuto doré	
 616	Chat Kuwagata	Chat roi Kuwagata	
+617			
+618	Shiro Amakusa	Amakusa dieu de la guerre	
+619	Lilin	Lilin π	
+620			
+621	Chercheur d'ennemis Akus	Chercheur d'ennemis Akus démoniaque	Chercheur en Akus démoniaque

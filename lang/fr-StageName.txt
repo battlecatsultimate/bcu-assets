@@ -1210,6 +1210,24 @@
 001-253-000	Grand Prix N-1 (mortel)
 001-254		Avalanche de cadeaux Céléb. des 60 millions !
 001-254-000	60 millions d’heureux !
+001-255		Confluence arcanique
+001-255-000	Archives interdites
+001-255-001	Les plaines astrales
+001-255-002	Brûlures rituelles
+001-255-003	Prairie d'outre-monde
+001-256		Serviteur des ténèbres
+001-256-000	Faille dimensionnelle
+001-256-001	Château bleu outremer
+001-256-002	Brousse dangereuse
+001-256-003	Friche sinistre
+001-257		Chat méchant
+001-257-000	Tanière du démon
+001-257-001	Chats du mal
+001-258		Tank méchant
+001-258-000	Tanière du démon
+001-258-001	Mur du démon
+001-259		Le Grand Diablo
+001-259-000	Colère des Enfers (mortel)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -1510,6 +1528,19 @@
 002-128-000	Spring Popstar
 002-128-001	Scent of Blossoms
 002-128-002	Sakura Dance
+002-129		Manbosaki Strikes!
+002-129-000	Sudden Death Lv.1
+002-129-001	Sudden Death Lv.2
+002-129-002	Sudden Death Lv.3
+002-129-003	Sudden Death Lv.4
+002-129-004	Sudden Death Lv.5
+002-129-005	Sudden Death Lv.6
+002-129-006	Sudden Death Lv.7
+002-129-007	Sudden Death Lv.8
+002-129-008	Sudden Death Lv.9
+002-129-009	Sudden Death Lv.10
+002-129-010	Sudden Death Lv.11
+002-129-011	Sudden Death Lv.12
 002-134		Hatsune Miku's Birthday!
 002-134-000	♪ Birthday Party ♪
 002-135		ストリートファイター EASY
@@ -2812,6 +2843,13 @@
 013-036-003	Bagarre en douceur
 013-036-004	Frontière entre deux mondes
 013-036-005	Chambre des quatre rois
+013-037		Distorsion spatiotemporelle
+013-037-000	Le grand souffrant
+013-037-001	Patient renard rouge
+013-037-002	Le mal fraîchement appris
+013-037-003	Studios sur plusieurs plans
+013-037-004	Forces infernales
+013-037-005	Étoiles de l'Enfer
 
 014			Night Stages
 014-000		Croissance jaune
@@ -3310,6 +3348,28 @@
 024-022-007	Étrangers niv. 18
 024-022-008	Étrangers niv. 19
 024-022-009	Étrangers niv. max.
+024-023		Défi de septembre
+024-023-000	En ville niv. 1
+024-023-001	En ville niv. 2
+024-023-002	En ville niv. 3
+024-023-003	En ville niv. 4
+024-023-004	En ville niv. 5
+024-023-005	En ville niv. 6
+024-023-006	En ville niv. 7
+024-023-007	En ville niv. 8
+024-023-008	En ville niv. 9
+024-023-009	En ville niv. 10
+024-024		Défi de septembre II
+024-024-000	Dans la cité niv. 11
+024-024-001	Dans la cité niv. 12
+024-024-002	Dans la cité niv. 13
+024-024-003	Dans la cité niv. 14
+024-024-004	Dans la cité niv. 15
+024-024-005	Dans la cité niv. 16
+024-024-006	Dans la cité niv. 17
+024-024-007	Dans la cité niv. 18
+024-024-008	Dans la cité niv. 19
+024-024-009	Dans la cité niv. max
 
 025			Enigma Stages
 025-000		Champs Aitum
@@ -3378,6 +3438,24 @@
 025-031-000	Chasse aux insectes (soir)
 025-032		Cachette parfaite
 025-032-000	Chasse aux insectes (minuit)
+025-051		Cachette délabrée
+025-051-000	Chasse aux insectes (après-midi)
+025-052		Cachette délabrée
+025-052-000	Chasse aux insectes (après-midi)
+025-053		Cachette délabrée
+025-053-000	Chasse aux insectes (après-midi)
+025-054		Cachette stylée
+025-054-000	Chasse aux insectes (soir)
+025-055		Cachette stylée
+025-055-000	Chasse aux insectes (soir)
+025-056		Cachette stylée
+025-056-000	Chasse aux insectes (soir)
+025-057		Cachette parfaite
+025-057-000	Chasse aux insectes (minuit)
+025-058		Cachette parfaite
+025-058-000	Chasse aux insectes (minuit)
+025-059		Cachette parfaite
+025-059-000	Chasse aux insectes (minuit)
 
 027			Collab Baron Stages
 027-000		Messier's Assault

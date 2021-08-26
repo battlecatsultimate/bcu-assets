@@ -87,3 +87,4 @@
 86	Viens à bout d’Idi:Re et termine son niveau.
 87	Termine Prélude à la ruine
 88	Débloque Doron masque ancestral
+89	Termine Le Grand Diablo

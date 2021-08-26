@@ -1214,6 +1214,25 @@
 001-253-000	N-1 Grand Prix (Deadly)
 001-254		60M Celebration Gifts Galore!
 001-254-000	Joy of 60 Million!
+001-255		Arcane Confluence
+001-255-000	Forbidden Archives
+001-255-001	The Astral Plains
+001-255-002	Ritual Burns
+001-255-003	Otherworld Meadow
+001-256		Servant of Darkness
+001-256-000	Dimension Rift
+001-256-001	Ultramarine Castle
+001-256-002	Dangerous Backwater
+001-256-003	Sinister Wasteland
+001-257		Wicked Cat
+001-257-000	Devil's Nest
+001-257-001	Cats of Evil
+001-258		Wicked Tank
+001-258-000	Devil's Nest
+001-258-001	Demon's Wall
+001-259		The Great Diablo
+001-259-000	Wrath of Hell (Deadly)
+
 002			Collaboration Stages
 002-003		To the Future
 002-003-000	Architecture
@@ -1513,6 +1532,19 @@
 002-128-000	Spring Popstar
 002-128-001	Scent of Blossoms
 002-128-002	Sakura Dance
+002-129		Manbosaki Strikes!
+002-129-000	Sudden Death Lv.1
+002-129-001	Sudden Death Lv.2
+002-129-002	Sudden Death Lv.3
+002-129-003	Sudden Death Lv.4
+002-129-004	Sudden Death Lv.5
+002-129-005	Sudden Death Lv.6
+002-129-006	Sudden Death Lv.7
+002-129-007	Sudden Death Lv.8
+002-129-008	Sudden Death Lv.9
+002-129-009	Sudden Death Lv.10
+002-129-010	Sudden Death Lv.11
+002-129-011	Sudden Death Lv.12
 002-130		MIKU EXPO
 002-130-000	in INDONESIA
 002-130-001	in TAIWAN
@@ -2827,6 +2859,13 @@
 013-036-003	Pulled Punch Bout
 013-036-004	Border Between Worlds
 013-036-005	Hall of the Four Kings
+013-037		Spacetime Distortion
+013-037-000	The Great Sufferer
+013-037-001	Patient Red Fox
+013-037-002	Learned to Hate
+013-037-003	Multiplanar Studios
+013-037-004	Infernal Forces
+013-037-005	Hell's All-Stars
 
 014			Drink Stages
 014-000		Growing Yellow
@@ -3325,6 +3364,28 @@
 024-022-007	Strangers Lv.18
 024-022-008	Strangers Lv.19
 024-022-009	Strangers Lv.MAX
+024-023		September Gauntlet
+024-023-000	About Town Lv.1
+024-023-001	About Town Lv.2
+024-023-002	About Town Lv.3
+024-023-003	About Town Lv.4
+024-023-004	About Town Lv.5
+024-023-005	About Town Lv.6
+024-023-006	About Town Lv.7
+024-023-007	About Town Lv.8
+024-023-008	About Town Lv.9
+024-023-009	About Town Lv.10
+024-024		September Gauntlet II
+024-024-000	In the City Lv.11
+024-024-001	In the City Lv.12
+024-024-002	In the City Lv.13
+024-024-003	In the City Lv.14
+024-024-004	In the City Lv.15
+024-024-005	In the City Lv.16
+024-024-006	In the City Lv.17
+024-024-007	In the City Lv.18
+024-024-008	In the City Lv.19
+024-024-009	In the City Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -3393,6 +3454,24 @@
 025-031-000	Evening Bug Hunt
 025-032		Perfect Hideout
 025-032-000	Midnight Bug Hunt
+025-051		Rundown Hideout
+025-051-000	Afternoon Bug Hunt
+025-052		Rundown Hideout
+025-052-000	Afternoon Bug Hunt
+025-053		Rundown Hideout
+025-053-000	Afternoon Bug Hunt
+025-054		Stylish Hideout
+025-054-000	Evening Bug Hunt
+025-055		Stylish Hideout
+025-055-000	Evening Bug Hunt
+025-056		Stylish Hideout
+025-056-000	Evening Bug Hunt
+025-057		Perfect Hideout
+025-057-000	Midnight Bug Hunt
+025-058		Perfect Hideout
+025-058-000	Midnight Bug Hunt
+025-059		Perfect Hideout
+025-059-000	Midnight Bug Hunt
 
 027			Collab Baron Stages
 027-000		Messier's Assault

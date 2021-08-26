@@ -550,14 +550,14 @@
 549	Ragin' Gory (Black)
 550	Shin Godzilla
 551	Elder Flame Doron
-552	Devil Doge
+552	Aku Doge
 553	
-554	Devil Those Guys
+554	Cerberus Kids
 555	
-556	Hell Gorilla
+556	Aku Gory
 557	
 558	
 559	
-560	Devil Cyclone
-561	Devil Cat
-562	Devil Tank Cat
+560	Aku Cyclone
+561	Aku Cat
+562	Aku Tank Cat

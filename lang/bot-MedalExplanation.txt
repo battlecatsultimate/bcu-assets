@@ -87,3 +87,4 @@
 86	Defeat Idi:Re and clear her stage.
 87	Clear "Prelude to Ruin"
 88	Unlock Elder Mask Doron
+89	Clear "The Great Diablo"

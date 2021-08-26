@@ -1209,6 +1209,24 @@
 001-253-000	Grand Prix N1 (Mortal)
 001-254		Regalos de los 60 M
 001-254-000	¡Alegría de los 60 M!
+001-255		Confluencia Arcana
+001-255-000	Archivos Prohibidos
+001-255-001	Planicies Astrales
+001-255-002	Quemadura Ritual
+001-255-003	Pradera de Otro Mundo
+001-256		Sirviente de la Oscuridad
+001-256-000	Grieta Dimensional
+001-256-001	Castillo de Ultramar
+001-256-002	Remanso Peligroso
+001-256-003	Erial Siniestro
+001-257		Gato Maligno
+001-257-000	Nido del Demonio
+001-257-001	Gatos Malignos
+001-258		Tanque Maligno
+001-258-000	Nido del Demonio
+001-258-001	Muro Demoníaco
+001-259		El Gran Diablo
+001-259-000	Ira del Infierno (Mortal)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -1509,6 +1527,19 @@
 002-128-000	Spring Popstar
 002-128-001	Scent of Blossoms
 002-128-002	Sakura Dance
+002-129		Manbosaki Strikes!
+002-129-000	Sudden Death Lv.1
+002-129-001	Sudden Death Lv.2
+002-129-002	Sudden Death Lv.3
+002-129-003	Sudden Death Lv.4
+002-129-004	Sudden Death Lv.5
+002-129-005	Sudden Death Lv.6
+002-129-006	Sudden Death Lv.7
+002-129-007	Sudden Death Lv.8
+002-129-008	Sudden Death Lv.9
+002-129-009	Sudden Death Lv.10
+002-129-010	Sudden Death Lv.11
+002-129-011	Sudden Death Lv.12
 002-134		Hatsune Miku's Birthday!
 002-134-000	♪ Birthday Party ♪
 002-135		ストリートファイター EASY
@@ -2811,6 +2842,13 @@
 013-036-003	Fin del Partido
 013-036-004	Frontera Entre Mundos
 013-036-005	Sala de los Cuatro Reyes
+013-037		Distorsión Espaciotemporal
+013-037-000	El Gran Sufridor
+013-037-001	Zorro Rojo Paciente
+013-037-002	Aprender a Odiar
+013-037-003	Estudios Multiplanar
+013-037-004	Fuerzas Infernales
+013-037-005	Estrellas del Infierno
 
 014			Drink Stages
 014-000		Cultivo Amarillo
@@ -3309,6 +3347,28 @@
 024-022-007	Extraños (nvl. 18)
 024-022-008	Extraños (nvl. 19)
 024-022-009	Extraños (nvl. máx.)
+024-023		Desafío de Septiembre
+024-023-000	Por el Pueblo (nvl. 1)
+024-023-001	Por el Pueblo (nvl. 2)
+024-023-002	Por el Pueblo (nvl. 3)
+024-023-003	Por el Pueblo (nvl. 4)
+024-023-004	Por el Pueblo (nvl. 5)
+024-023-005	Por el Pueblo (nvl. 6)
+024-023-006	Por el Pueblo (nvl. 7)
+024-023-007	Por el Pueblo (nvl. 8)
+024-023-008	Por el Pueblo (nvl. 9)
+024-023-009	Por el Pueblo (nvl. 10)
+024-024		Desafío de Septiembre II
+024-024-000	En la Ciudad (nvl. 11)
+024-024-001	En la Ciudad (nvl. 12)
+024-024-002	En la Ciudad (nvl. 13)
+024-024-003	En la Ciudad (nvl. 14)
+024-024-004	En la Ciudad (nvl. 15)
+024-024-005	En la Ciudad (nvl. 16)
+024-024-006	En la Ciudad (nvl. 17)
+024-024-007	En la Ciudad (nvl. 18)
+024-024-008	En la Ciudad (nvl. 19)
+024-024-009	En la Ciudad (nvl. máx.)
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -3377,6 +3437,24 @@
 025-031-000	Caza de Bichos Nocturna
 025-032		Escondite Perfecto
 025-032-000	Caza de Bichos a Medianoche
+025-051		Escondite Ruinoso
+025-051-000	Caza de Bichos Vespertina
+025-052		Escondite Ruinoso
+025-052-000	Caza de Bichos Vespertina
+025-053		Escondite Ruinoso
+025-053-000	Caza de Bichos Vespertina
+025-054		Escondite Estiloso
+025-054-000	Caza de Bichos Nocturna
+025-055		Escondite Estiloso
+025-055-000	Caza de Bichos Nocturna
+025-056		Escondite Estiloso
+025-056-000	Caza de Bichos Nocturna
+025-057		Escondite Perfecto
+025-057-000	Caza de Bichos a Medianoche
+025-058		Escondite Perfecto
+025-058-000	Caza de Bichos a Medianoche
+025-059		Escondite Perfecto
+025-059-000	Caza de Bichos a Medianoche
 
 027			Collab Baron Stages
 027-000		Messier's Assault

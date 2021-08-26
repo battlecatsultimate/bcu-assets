@@ -218,6 +218,7 @@
 1173	Ranma Cat (M)
 1174	Godzilla Cat
 1054	Doron masque ancestral
+1055	Chercheur d'ennemis Akus
 19001	Chat punk
 19002	Chat gomme
 19003	Chat de l’ombre
@@ -453,6 +454,7 @@
 15470	Super D-Devil
 10474	Rampaging Yamato
 10475	Strike Angel
+15496	Chatte danseuse du ventre
 15497	Kaihime immortelle
 15503	Myrcia divine
 15506	Dieu empereur Gladios

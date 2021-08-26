@@ -218,6 +218,7 @@
 1173	Ranma Cat (M)
 1174	Godzilla Cat
 1054	Elder Mask Doron
+1055	Aku Researcher
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -453,6 +454,7 @@
 15470	Super D-Devil
 10474	Rampaging Yamato
 10475	Strike Angel
+15496	Bellydance Cat
 15497	Immortal Kaihime
 15503	Divine Myrcia
 15506	God-Emperor Gladios

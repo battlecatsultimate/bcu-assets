@@ -218,6 +218,7 @@
 1173	Ranma Cat (M)
 1174	Godzilla Cat
 1054	Máscara Doron Viejuna
+1055	Investigador Aku
 19001	Gato Crestado
 19002	Gato Borrador
 19003	Gato Oscuro
@@ -453,6 +454,7 @@
 15470	Super D-Devil
 10474	Rampaging Yamato
 10475	Strike Angel
+15496	Gato Danza del Vientre
 15497	Kaihime Inmortal
 15503	Myrcia Divina
 15506	Gladios, Dios Emperador

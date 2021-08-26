@@ -87,3 +87,4 @@
 86	Vence a Idi:Re y supera la fase.
 87	Supera Preludio de Ruina.
 88	Desbloquea a Máscara Doron Viejuna.
+89	Supera El Gran Diablo.

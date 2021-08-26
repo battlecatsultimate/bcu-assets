@@ -60,7 +60,7 @@
 059	Babykatze	Babykatzen	Katzen in der Wiege
 060	Bronzekatze	Michelangelo-Katze	Rätselmeisterkatze
 061	Sushi-Katze	Pfannengarnelen-Katze	Rogenkatze
-062	Capsule Cat	Vendor Cat	
+062	Toy Machine Cat	Vendor Cat	
 063	Sporttagkatze	Kidnapper-Katze	Amokkatzen
 064			
 065			
@@ -493,7 +493,7 @@
 492			
 493	Gaia die Schöpferin	Gaia die Erhabene	
 494	Meeresbrise-Cupruma	Meeresbrise-Cupruma, Typ κ	
-495	Matadorkatze	Flamenco-Katze	
+495	Matadorkatze	Flamenco-Katze	Bauchtanzkatze
 496	Narita Kaihime	Kriegsgöttin Kaihime	Unsterbliche Kaihime
 497	Shakurel Cat	Shakurel Macho Cat	
 498	Shakurel Lion	Shakurel Lion CC	
@@ -612,3 +612,11 @@
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Prinzessin Katze	Kaiserin Katze	
 613	Ältestenmaske Doron	Katzenmaske Doron	
+614	Kaguya von der Küste	Die Sonne des Südens	
+615	Kabutokatze	Goldene Kabutokatze	
+616	Kuwagatakatze	Königs-Kuwagatakatze	
+617			
+618	Shiro Amakusa	Kriegsgott Amakusa	
+619	Lilin	Lilin π	
+620			
+621	Aku-Forscher	Böser Aku-Forscher	

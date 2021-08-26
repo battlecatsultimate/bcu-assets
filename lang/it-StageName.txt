@@ -1209,6 +1209,24 @@
 001-253-000	Gran premio N-1 (Letale)
 001-254		Festeggiamenti 60M! Regali a fiumi
 001-254-000	Gioia da 60 milioni!
+001-255		Confluenza arcana
+001-255-000	Archivi proibiti
+001-255-001	Pianure astrali
+001-255-002	Fiamme rituali
+001-255-003	Prato ultraterreno
+001-256		Servo delle tenebre
+001-256-000	Varco dimensionale
+001-256-001	Castello blu oltremare
+001-256-002	Landa pericolosa
+001-256-003	Distesa sinistra
+001-257		Gatto malvagio
+001-257-000	Nido del diavolo
+001-257-001	Gatti del male
+001-258		Panzer malvagio
+001-258-000	Nido del diavolo
+001-258-001	Muro del demone
+001-259		Il grande diablo
+001-259-000	Ira dell'inferno (Letale)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -1508,6 +1526,19 @@
 002-128		MIKU CHERRY
 002-128-000	Spring Popstar
 002-128-001	Scent of Blossoms
+002-129		Manbosaki Strikes!
+002-129-000	Sudden Death Lv.1
+002-129-001	Sudden Death Lv.2
+002-129-002	Sudden Death Lv.3
+002-129-003	Sudden Death Lv.4
+002-129-004	Sudden Death Lv.5
+002-129-005	Sudden Death Lv.6
+002-129-006	Sudden Death Lv.7
+002-129-007	Sudden Death Lv.8
+002-129-008	Sudden Death Lv.9
+002-129-009	Sudden Death Lv.10
+002-129-010	Sudden Death Lv.11
+002-129-011	Sudden Death Lv.12
 002-128-002	Sakura Dance
 002-134		Hatsune Miku's Birthday!
 002-134-000	♪ Birthday Party ♪
@@ -2811,6 +2842,13 @@
 013-036-003	Incontro di pugilato
 013-036-004	Confine tra mondi
 013-036-005	Sala dei quattro re
+013-037		Spazio-tempo distorto
+013-037-000	Il grande afflitto
+013-037-001	Volpe paziente
+013-037-002	Imparare ad odiare
+013-037-003	Multiplanar Studios
+013-037-004	Forze infernali
+013-037-005	All-Stars infernale
 
 014			Drink Stages
 014-000		Giallo rigoglioso
@@ -3309,6 +3347,28 @@
 024-022-007	Estranei Liv. 18
 024-022-008	Estranei Liv. 19
 024-022-009	Estranei Liv. MAX
+024-023		Sfida di settembre
+024-023-000	In città Liv.1
+024-023-001	In città Liv.2
+024-023-002	In città Liv.3
+024-023-003	In città Liv.4
+024-023-004	In città Liv.5
+024-023-005	In città Liv.6
+024-023-006	In città Liv.7
+024-023-007	In città Liv.8
+024-023-008	In città Liv.9
+024-023-009	In città Liv.10
+024-024		Sfida di settembre II
+024-024-000	In centro Liv.11
+024-024-001	In centro Liv.12
+024-024-002	In centro Liv.13
+024-024-003	In centro Liv.14
+024-024-004	In centro Liv.15
+024-024-005	In centro Liv.16
+024-024-006	In centro Liv.17
+024-024-007	In centro Liv.18
+024-024-008	In centro Liv.19
+024-024-009	In centro Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -3377,6 +3437,24 @@
 025-031-000	Insetticida serale
 025-032		Nascondiglio perfetto
 025-032-000	Insetticida di mezzanotte
+025-051		Nascondiglio fatiscente
+025-051-000	Insetticida pomeridiano
+025-052		Nascondiglio fatiscente
+025-052-000	Insetticida pomeridiano
+025-053		Nascondiglio fatiscente
+025-053-000	Insetticida pomeridiano
+025-054		Nascondiglio stiloso
+025-054-000	Insetticida serale
+025-055		Nascondiglio stiloso
+025-055-000	Insetticida serale
+025-056		Nascondiglio stiloso
+025-056-000	Insetticida serale
+025-057		Nascondiglio perfetto
+025-057-000	Insetticida di mezzanotte
+025-058		Nascondiglio perfetto
+025-058-000	Insetticida di mezzanotte
+025-059		Nascondiglio perfetto
+025-059-000	Insetticida di mezzanotte
 
 027			Collab Baron Stages
 027-000		Messier's Assault

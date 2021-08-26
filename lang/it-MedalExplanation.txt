@@ -87,3 +87,4 @@
 86	Sconfiggi Idi:Re e supera il suo livello.
 87	Supera "Preludio della fine"
 88	Sblocca Doron in maschera stagionato
+89	Supera "Il grande diablo"

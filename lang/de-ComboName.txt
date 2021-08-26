@@ -198,3 +198,6 @@
 80	Kühner Schneider
 81	Walbagger
 82	Sexy Säger
+83	Mini-Saurus
+84	Kleine Krieger
+85	Mikrokämpfer

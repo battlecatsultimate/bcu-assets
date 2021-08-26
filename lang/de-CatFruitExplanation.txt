@@ -465,9 +465,9 @@
 464	<br><br>
 465	<br><br>
 466	<br><br>
-467	True Fom evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
-468	True Fom evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Black enemies!
-469	True Fom evolution gains improved<br>defense and knock-back rate!<br>Plus, faster movement speed!
+467	True Form evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
+468	True Form evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Black enemies!
+469	True Form evolution gains improved<br>defense and knock-back rate!<br>Plus, faster movement speed!
 470	<br><br>
 471	<br><br>
 472	<br><br>
@@ -493,7 +493,7 @@
 492	<br><br>
 493	<br><br>
 494	<br><br>
-495	<br><br>
+495	True Form evolution gains tougher<br>Plus, faster movement speed!<br>
 496	Wahre-Form-Entwicklung erhöht<br>Verteidigung deutlich! Außerdem steigt<br>die Chance auf wilde Schläge!
 497	<br><br>
 498	<br><br>
@@ -554,7 +554,7 @@
 553	<br><br>
 554	<br><br>
 555	<br><br>
-556	True Fom evolution gains big changes<br>to its abilities, including massive damage<br>to Angels and resistance to Knockback.
+556	True Form evolution gains big changes<br>to its abilities, including massive damage<br>to Angels and resistance to Knockback.
 557	<br><br>
 558	<br><br>
 559	<br><br>
@@ -612,3 +612,11 @@
 611	<br><br>
 612	<br><br>
 613	<br><br>
+614	<br><br>
+615	<br><br>
+616	<br><br>
+617	<br><br>
+618	<br><br>
+619	<br><br>
+620	<br><br>
+621	<br><br>

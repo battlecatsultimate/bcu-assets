@@ -60,7 +60,7 @@
 059	Baby Cat	Baby Cats	Cats in the Cradle
 060	Bronze Cat	Michelangelo Cat	Quizmaster Cat
 061	Sushi Cat	Fried Shrimp Cat	Roe Cat
-062	Capsule Cat	Vendor Cat	
+062	Toy Machine Cat	Vendor Cat	
 063	Sports Day Cat	Kidnapper Cats	Rampage Cats
 064			
 065			
@@ -493,7 +493,7 @@
 492			
 493	Gaia the Creator	Gaia the Supreme	
 494	Seabreeze Coppermine	Seabreeze Coppermine, type κ	
-495	Matador Cat	Flamenco Cat	
+495	Matador Cat	Flamenco Cat	Bellydance Cat
 496	Narita Kaihime	Wargod Kaihime	Immortal Kaihime
 497	Shakurel Cat	Shakurel Macho Cat	
 498	Shakurel Lion	Shakurel Lion CC	
@@ -615,3 +615,8 @@
 614	Kaguya of the Coast	The Southern Sun	
 615	Kabuto Cat	Golden Kabuto Cat	
 616	Kuwagata Cat	King Kuwagata Cat	
+617			
+618	Shiro Amakusa	Wargod Amakusa	
+619	Lilin	Lilin π	
+620			
+621	Aku Researcher	Evil Aku Researcher	

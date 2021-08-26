@@ -218,6 +218,7 @@
 1173	Ranma Cat (M)
 1174	Godzilla Cat
 1054	Doron in maschera stagionato
+1055	Ricercatore di Aku
 19001	Gatto punk
 19002	Gatto gomma
 19003	Gatto oscuro
@@ -453,6 +454,7 @@
 15470	Super D-Devil
 10474	Rampaging Yamato
 10475	Strike Angel
+15496	Gatta Danza del ventre
 15497	Kaihime Immortale
 15503	Myrcia Divina
 15506	Gladios Dio-Imperatore

@@ -60,7 +60,7 @@
 059	Gato Bebé	Gatos Bebés	Cuna de Gatos
 060	Gato de Bronce	Gato Miguel Ángel	Gato Concursante
 061	Gato Sushi	Gato Gamba Frita	Gato Huevas
-062	Capsule Cat	Vendor Cat	
+062	Toy Machine Cat	Vendor Cat	
 063	Gato Deportista	Gatos Secuestradores	Gatos Violentos
 064			
 065			
@@ -493,7 +493,7 @@
 492			
 493	Gaia Creadora	Gaia Suprema	
 494	Cobrina Brisamarina	Cobrina Brisamarina (κ)	
-495	Gato Matador	Gato Flamenco	
+495	Gato Matador	Gato Flamenco	Gato Danza del Vientre
 496	Narita Kaihime	Diosa de la Guerra Kaihime	Kaihime Inmortal
 497	Shakurel Cat	Shakurel Macho Cat	
 498	Shakurel Lion	Shakurel Lion CC	
@@ -615,3 +615,8 @@
 614	Kaguya Costera	Sol Sureño	
 615	Gato Kabuto	Gato Kabuto Dorado	
 616	Gato Kuwagata	Rey Gato Kuwagata	
+617			
+618	Amakusa Shiro	Dios de la Guerra Amakusa	
+619	Lilin	Lilin π	
+620			
+621	Investigador Aku	Investigador Aku Malvado	

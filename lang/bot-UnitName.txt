@@ -493,7 +493,7 @@
 492			
 493	Gaia the Creator	Gaia the Supreme	
 494	Seabreeze Coppermine	Seabreeze Coppermine, type κ	
-495	Matador Cat	Flamenco Cat	Exotic Cat
+495	Matador Cat	Flamenco Cat	Bellydance Cat
 496	Narita Kaihime	Wargod Kaihime	Immortal Kaihime
 497	Shakurel Cat	Shakurel Macho Cat	
 498	Shakurel Lion	Shakurel Lion CC	
@@ -616,7 +616,7 @@
 615	Kabuto Cat	Golden Kabuto Cat
 616	Kuwagata Cat	King Kuwagata Cat
 617			
-618	Amakusa Shirou	Devil God Amakusa Shirou	
-619	Youkai Girl Ririn	Youkai Girl Ririn Type π	
+618	Shiro Amakusa	Wargod Amakusa	
+619	Lilin	Lilin π	
 620			
-621	Devil Researcher	Evil Devil Researcher	
+621	Aku Researcher	Evil Aku Researcher	
