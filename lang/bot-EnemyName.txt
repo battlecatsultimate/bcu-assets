@@ -551,13 +551,31 @@
 550	Shin Godzilla
 551	Elder Flame Doron
 552	Aku Doge
-553	
+553	Aku Snache
 554	Cerberus Kids
-555	
+555	Aku Peng
 556	Aku Gory
-557	
-558	
-559	
+557	Aku Le'Boin
+558	Aku Bear
+559	Aku Face
 560	Aku Cyclone
-561	Aku Cat
-562	Aku Tank Cat
+561	Wicked Cat
+562	Wicked Tank Cat
+562	Wicked Axe Cat
+563	
+564	
+565	
+566	
+567	
+568	
+569	
+570	Priest Mamon
+571	Great Priest Mamon
+572	Destruction God Jagando
+573	Aku Empress Cat
+574	Woke Aku Base
+575	Inactive Aku Base
+576	White Ball
+577	Red Ball
+578	Metal Ball
+579	Kyubey
