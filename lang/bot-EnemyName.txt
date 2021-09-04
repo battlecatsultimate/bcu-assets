@@ -561,8 +561,7 @@
 560	Aku Cyclone
 561	Wicked Cat
 562	Wicked Tank Cat
-562	Wicked Axe Cat
-563	
+563	Wicked Axe Cat
 564	
 565	
 566	
