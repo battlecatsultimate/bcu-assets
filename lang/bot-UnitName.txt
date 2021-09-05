@@ -615,8 +615,12 @@
 614	Kaguya of the Coast	The Southern Sun	
 615	Kabuto Cat	Golden Kabuto Cat
 616	Kuwagata Cat	King Kuwagata Cat
-617			
+617	Summoner Boy Satoru	Devil Summoner Satoru	
 618	Shiro Amakusa	Wargod Amakusa	
 619	Lilin	Lilin π	
-620			
+620	Evil Dragon Heavyjerk	Evil King Dragon Heavyjerk	
 621	Aku Researcher	Evil Aku Researcher	
+622	Jagando Jr	God of Destruction Jagando Jr	
+623	Hamelin Cat	Komusou Cat	
+624	Hot-Blooded Tough Guy Kunio-Kun	Dodgeball Club Kunio-Kun	
+625	Okoluga	Okolan Pasalan
