@@ -498,9 +498,9 @@
 497	Croconator
 498	Gobble
 499	Baron Seal
-500	
-501	
-502	
+500	Hatsune Miku
+501	Sakura Miku
+502	Kagamine Rin & Len
 503	
 504	
 505	
@@ -538,13 +538,13 @@
 537	
 538	Bore Jr.
 539	
-540	
+540	Snow Miku 2021
 541	Raynard
-542	
-543	
-544	
-545	
-546	
+542	Ranma Saotome
+543	Akane Tendo
+544	Ryoga Hibiki
+545	Shampoo
+546	Mousse
 547	Mr. Mer
 548	
 549	Ragin' Gory
