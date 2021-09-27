@@ -88,3 +88,5 @@
 87	Supera "Preludio della fine"
 88	Sblocca Doron in maschera stagionato
 89	Supera "Il grande diablo"
+90	Supera tutti i livelli de "I regni Aku"
+91	Supera "Sinfonia della tentazione"

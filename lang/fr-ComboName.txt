@@ -201,3 +201,7 @@
 83	Minisaure
 84	Petits guerriers
 85	Micro combattants
+86	Minicyclone
+87	Chasseur de gros gibier
+88	Club Mystère
+89	Ne me cherche pas !

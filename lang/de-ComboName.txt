@@ -201,3 +201,7 @@
 83	Mini-Saurus
 84	Kleine Krieger
 85	Mikrokämpfer
+86	Mini-Zyklon
+87	Großwildjäger
+88	Club der Geheimnisse
+89	Leg dich nicht mit mir an

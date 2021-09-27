@@ -520,7 +520,7 @@
 519	Wahre-Form-Entwicklung erhöht Angriffs- &<br>Verteidigungskraft, verbessert Willensstärke.<br>Immunität gg. Gift- und Zufallsangriffe!
 520	<br><br>
 521	<br><br>
-522	<br><br>
+522	Wahre-Form-Entwicklung erhöht Vert.<br>Verteidigung und Rückstoß gegen Aku.<br>
 523	Wahre-Form-Entwicklung erhöht Vert.<br>und gewährt Immunität gg. Verlangsamen!<br>
 524	<br><br>
 525	Wahre-Form-Entwicklung erhöht<br>Verteidigungs- & Angriffskraft.<br>Erhält zudem Fluchangriff gg. Engel!
@@ -620,3 +620,7 @@
 619	<br><br>
 620	<br><br>
 621	<br><br>
+622	<br><br>
+623	<br><br>
+624	<br><br>
+625	<br><br>

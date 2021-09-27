@@ -88,3 +88,5 @@
 87	Schließe „Auftakt zum Ruin“ ab.
 88	Schalte Ältestenmaske Doron frei.
 89	Schließe „Der große Diablo“ ab.
+90	Schließe alle Level in „Das Reich der Aku“ ab
+91	Schließe „Symphonie der Versuchung“ ab

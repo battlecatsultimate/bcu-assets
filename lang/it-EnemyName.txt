@@ -551,13 +551,30 @@
 550	
 551	Doron in fiamme stagionato
 552	Cane Aku
-553	
+553	Serpe peccatrice
 554	Amici di Cerbero
-555	
+555	Ping condannato
 556	Gory Aku
-557	
-558	
-559	
+557	Le Behemoth
+558	Orso perduto
+559	Faccia malvagia
 560	Ciclone Aku
 561	
 562	
+563	
+564	
+565	
+566	
+567	
+568	
+569	
+570	Prete oscuro Mamon
+571	Sommo Prete Mamon
+572	Jagando Sig. della Rovina
+573	Principessa posseduta
+574	
+575	
+576	
+577	
+578	
+579	

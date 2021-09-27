@@ -88,3 +88,5 @@
 87	Termine Prélude à la ruine
 88	Débloque Doron masque ancestral
 89	Termine Le Grand Diablo
+90	Termine tous les niveaux du Royaume Aku
+91	Termine Symphonie de la tentation

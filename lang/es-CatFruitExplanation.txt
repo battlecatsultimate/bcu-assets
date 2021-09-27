@@ -520,7 +520,7 @@
 519	La forma final tiene mayor poder de defensa<br>y de ataque, así como arrebato mejorado.<br>Además, es inmune a toxicidad y a réplicas.
 520	<br><br>
 521	<br><br>
-522	<br><br>
+522	La forma final tiene una mayor defensa<br>(Ataque de área a distancia).<br>
 523	La forma final tiene una mayor defensa<br>e inmunidad a la ralentización.<br>
 524	<br><br>
 525	La forma final tiene una mayor defensa<br>y poder de ataque, y maldice a los ángeles.<br>
@@ -620,3 +620,7 @@
 619	<br><br>
 620	<br><br>
 621	<br><br>
+622	<br><br>
+623	<br><br>
+624	<br><br>
+625	<br><br>

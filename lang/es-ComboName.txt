@@ -201,3 +201,7 @@
 83	Minisaurios
 84	Guerreritos
 85	Luchadorcitos
+86	Miniciclón
+87	Caza mayor
+88	Club misterioso
+89	¡No te metas conmigo!

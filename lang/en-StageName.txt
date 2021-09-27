@@ -1232,6 +1232,55 @@
 001-258-001	Demon's Wall
 001-259		The Great Diablo
 001-259-000	Wrath of Hell (Deadly)
+001-260		Hotblooded Ball-Rolling
+001-260-000	Runaway Ball
+001-260-001	Kinetic Power
+001-260-002	Special 100kg Ball
+001-260-003	Red vs White
+001-260-004	Whose Ball is This?
+001-260-005	Covered in Dust
+001-260-006	Hats Blown Away
+001-260-007	Can't Stop Now
+001-261		Hotblooded Challenge Course
+001-261-000	Aim for the Top
+001-261-001	Power On Through
+001-261-002	Overcome The Odds
+001-261-003	Mistakes Don't Matter
+001-261-004	Good Effort
+001-262		Hotblooded Three-Leg Race ①
+001-262-000	VS Team White
+001-262-001	VS Team Red
+001-262-002	VS Team Black
+001-263		Hotblooded Three-Leg Race ②
+001-263-000	VS Team White
+001-263-001	VS Team Red
+001-263-002	VS Team Black
+001-264		Hotblooded Three-Leg Race ③
+001-264-000	VS Team White
+001-264-001	VS Team Red
+001-264-002	VS Team Black
+001-265		Demon's Park
+001-265-000	Frozen Wisdom
+001-265-001	Cursed Lake
+001-265-002	Cave of Magics
+001-265-003	Otherworld Forest
+001-266		Wicked Axe
+001-266-000	Aku's Nest
+001-266-001	The Devil War
+001-268		Unleashing the Cats
+001-268-000	The Gates of Aku
+001-269		Empress' Report 1
+001-269-000	Aku Studies 101: Intro
+001-269-001	Aku Studies 101: Methods
+001-269-002	Aku Studies 101: Field Research
+001-269-003	Aku Studies 101: Inquiry
+001-270		Empress' Report 2
+001-270-000	Aku Studies 201: Intro
+001-270-001	Aku Studies 201: Methods
+001-270-002	Aku Studies 201: Field Research
+001-270-003	Aku Studies 201: Inquiry
+001-272		Temptation's Symphony
+001-272-000	Aku's Melody (Merciless)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -1692,6 +1741,42 @@
 002-172-000	The Leviathan Rises
 002-172-001	Disaster Response HQ
 002-172-002	Climactic Cat Clash
+002-173		Be a Magical Girl
+002-173-000	Make A Contract With Me
+002-173-001	I Want You to Be a Magical Girl
+002-173-002	Any Wish You Have
+002-173-003	I Can Make It Come True
+002-173-004	Make a Contract Now!
+002-174		Be a Magical Girl II
+002-174-000	Decide What You Want, Now
+002-174-001	I Don't Understand You
+002-174-002	You Are Naive About War
+002-174-003	So, What Do You Wish For?
+002-174-004	Do You Intend To Be a God?
+002-175		Witch's Labyrinth: Rose Garden Witch
+002-175-000	Allow Me To Introduce Myself
+002-175-001	But Before That
+002-175-002	Some Cleaning Up
+002-175-003	Is In Order
+002-175-004	Tiro Finale!
+002-176		Witch's Labyrinth: Dessert Witch
+002-176-000	My Body Is Light
+002-176-001	With Such Joy
+002-176-002	A Battle Like This
+002-176-003	I'm Afraid of Nothing
+002-176-004	I'm Not Alone Anymore
+002-177		Witch's Labyrinth: Box Witch
+002-177-000	I Know My Wish
+002-177-001	Miracles and Magic Are Real
+002-177-002	Did I Do Well?
+002-177-003	I Have No Regrets
+002-177-004	You'll Be Happy, Won't You
+002-178		Nutcracker Witch
+002-178-000	This is My Despair
+002-178-001	How Did it Come to This?
+002-178-002	Thank You For Coming
+002-178-003	Just Couldn't Say Goodbye
+002-178-004	I'm Sorry
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -2335,6 +2420,56 @@
 003-013-045	Brazil
 003-013-046	Floating Continent
 003-013-047	Moon
+003-014		The Aku Realms
+003-014-000	Korea
+003-014-001	Mongolia
+003-014-002	China
+003-014-003	Thailand
+003-014-004	Cambodia
+003-014-005	Philippines
+003-014-006	Japan
+003-014-007	Australia
+003-014-008	Singapore
+003-014-009	Maldives
+003-014-010	India
+003-014-011	Nepal
+003-014-012	Dubai
+003-014-013	Saudi Arabia
+003-014-014	Kenya
+003-014-015	Madagascar
+003-014-016	South Africa
+003-014-017	Ghana
+003-014-018	Sahara
+003-014-019	Egypt
+003-014-020	Turkey
+003-014-021	Russia
+003-014-022	Greece
+003-014-023	Italy
+003-014-024	Monaco
+003-014-025	Spain
+003-014-026	France
+003-014-027	Germany
+003-014-028	Denmark
+003-014-029	Mount Aku
+003-014-030	Norway
+003-014-031	United Kingdom
+003-014-032	Greenland
+003-014-033	Canada
+003-014-034	New York
+003-014-035	Bermuda
+003-014-036	Jamaica
+003-014-037	Colombia
+003-014-038	Brazil
+003-014-039	Argentina
+003-014-040	Machu Picchu
+003-014-041	Easter Island
+003-014-042	Mexico
+003-014-043	NASA
+003-014-044	Las Vegas
+003-014-045	Hollywood
+003-014-046	Alaska
+003-014-047	Hawaii
+003-014-048	Moon
 
 004			Extra Stages
 004-000		Growing Green
@@ -2447,6 +2582,8 @@
 004-040-000	Parade of the Dead (Deadly)
 004-041		The King & The Maiden
 004-041-000	Bombergirl (Deadly)
+004-042		The Aku Realms
+004-042-000	Mount Aku
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
@@ -2866,6 +3003,8 @@
 013-037-003	Multiplanar Studios
 013-037-004	Infernal Forces
 013-037-005	Hell's All-Stars
+013-038		Imminent Disaster
+013-038-000	Aku Altar's Seal
 
 014			Drink Stages
 014-000		Growing Yellow
@@ -3386,6 +3525,28 @@
 024-024-007	In the City Lv.18
 024-024-008	In the City Lv.19
 024-024-009	In the City Lv.MAX
+024-025		October Gauntlet
+024-025-000	Sports Day Lv.1
+024-025-001	Sports Day Lv.2
+024-025-002	Sports Day Lv.3
+024-025-003	Sports Day Lv.4
+024-025-004	Sports Day Lv.5
+024-025-005	Sports Day Lv.6
+024-025-006	Sports Day Lv.7
+024-025-007	Sports Day Lv.8
+024-025-008	Sports Day Lv.9
+024-025-009	Sports Day Lv.10
+024-026		October Gauntlet II
+024-026-000	Sports Night Lv.11
+024-026-001	Sports Night Lv.12
+024-026-002	Sports Night Lv.13
+024-026-003	Sports Night Lv.14
+024-026-004	Sports Night Lv.15
+024-026-005	Sports Night Lv.16
+024-026-006	Sports Night Lv.17
+024-026-007	Sports Night Lv.18
+024-026-008	Sports Night Lv.19
+024-026-009	Sports Night Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -3621,3 +3782,14 @@
 027-008-017	Showdown! : Part 18
 027-008-018	Showdown! : Part 19
 027-008-019	Showdown! : Part 20
+027-009		Walpurgisnacht
+027-009-000	Stagebuilding Witch: Cycle 1
+027-009-001	Stagebuilding Witch: Cycle 2
+027-009-002	Stagebuilding Witch: Cycle 3
+027-009-003	Stagebuilding Witch: Cycle 4
+027-009-004	Stagebuilding Witch: Cycle 5
+027-009-005	Stagebuilding Witch: Cycle 6
+027-009-006	Stagebuilding Witch: Cycle 7
+027-009-007	Stagebuilding Witch: Cycle 8
+027-009-008	Stagebuilding Witch: Cycle 9
+027-009-009	Stagebuilding Witch: Cycle XX

@@ -551,15 +551,14 @@
 550	Shin Godzilla
 551	Elder Flame Doron
 552	Aku Doge
-553	Infrenache
+553	Sinner Snache
 554	Cerberus Kids
-555	Guilty Peng
+555	Condemned Peng
 556	Aku Gory
-557	Devil Behemoth
-558	Lord Akuma
-559	Ego King
+557	Le'Behemoth
+558	Fallen Bear
+559	Wicked Face
 560	Aku Cyclone
-561	Wicked Cat
 562	Wicked Tank Cat
 563	Wicked Axe Cat
 564	
@@ -568,10 +567,10 @@
 567	
 568	
 569	
-570	Priest Mamon
+570	Dark Priest Mamon
 571	High Priest Mamon
-572	God of Destruction Jagando
-573	Manipulated Empress Cat
+572	Lord of Ruin Jagando
+573	Possessed Empress
 574	Woke Aku Base
 575	Inactive Aku Base
 576	White Ball

@@ -493,7 +493,7 @@
 492			
 493	Gaïa créatrice	Gaïa suprême	
 494	Mine marine	Mine marine, type κ	
-495	Chat matador	Chat flamenco	Chatte danseuse du ventre
+495	Chat matador	Chatte flamenco	Chatte danseuse du ventre
 496	Narita Kaihime	Kaihime déesse guerrière	Kaihime immortelle
 497	Shakurel Cat	Shakurel Macho Cat	
 498	Shakurel Lion	Shakurel Lion CC	
@@ -520,7 +520,7 @@
 519	Lasvoss	Lasvoss ultime	Lasvoss ressuscité
 520	Ebisu porte-bonheur	Ebisu porte-malheur	
 521	Chatte Médusa	Chatte Médusa à couettes	Méduse féline à couettes
-522	Nymphe féline	Médaillée féline	
+522	Nymphe féline	Médaillée féline	Chat démoniaque
 523	Chat wushu	Chat sifu	Chat Shigong
 524			
 525	Kintaro	Kinrangers RoboForce	Kinrangers GigaForce
@@ -615,8 +615,12 @@
 614	Kaguya de la côte	Le Soleil méridional	
 615	Chat Kabuto	Chat Kabuto doré	
 616	Chat Kuwagata	Chat roi Kuwagata	
-617			
+617	Satoru invocateur	Satoru sombre invocateur	
 618	Shiro Amakusa	Amakusa dieu de la guerre	
 619	Lilin	Lilin π	
-620			
+620	Hevijack le malfaisant	Roi Hevijack malfaisant	
 621	Chercheur d'ennemis Akus	Chercheur d'ennemis Akus démoniaque	Chercheur en Akus démoniaque
+622	Jagando Jr.	Seigneur Ruine Jagando Jr.	
+623	Chat joueur de flûte	Chat Komuso	
+624	Kunio-kun	Dodgeball Kunio-kun	
+625	Furiluga	Furilan Pasalan	

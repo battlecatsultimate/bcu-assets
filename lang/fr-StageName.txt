@@ -1228,6 +1228,47 @@
 001-258-001	Mur du démon
 001-259		Le Grand Diablo
 001-259-000	Colère des Enfers (mortel)
+001-260		Jeu de balle passionné
+001-260-000	Balle fugueuse
+001-260-001	Force cinétique
+001-260-002	Balle spéciale 100 kg
+001-260-003	Rouge contre blanc
+001-260-004	À qui est la balle ?
+001-260-005	Couvert de poussière
+001-260-006	Envol des chapeaux
+001-260-007	Arrêt impossible
+001-261		Hotblooded Challenge Course
+001-261-000	Aim for the Top
+001-261-001	Power On Through
+001-261-002	Overcome The Odds
+001-261-003	Mistakes Don't Matter
+001-261-004	Good Effort
+001-262		Course à trois jambes passionnée ①
+001-262-000	VS équipe blanche
+001-262-001	VS équipe rouge
+001-262-002	VS équipe noire
+001-265		Parc du démon
+001-265-000	Sagesse congelée
+001-265-001	Lac maudit
+001-265-002	Grotte des magies
+001-265-003	Forêt d’outre-monde
+001-266		Chat borgne méchant
+001-266-000	Nid d'Akus
+001-266-001	La guerre du démon
+001-268		Chat en liberté
+001-268-000	Portail du royaume Aku
+001-269		Rapport de l'impératrice 1
+001-269-000	Études Aku 101 : Introduction
+001-269-001	Études Aku 101 : Méthodes
+001-269-002	Études Aku 101 : Recherche terrain
+001-269-003	Études Aku 101 : Enquête
+001-270		Rapport de l'impératrice 2
+001-270-000	Études Aku 201 : Introduction
+001-270-001	Études Aku 201 : Méthodes
+001-270-002	Études Aku 201 : Recherche terrain
+001-270-003	Études Aku 201 : Enquête
+001-272		Symphonie de la tentation
+001-272-000	Mélodie Aku (sans répit)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -1678,6 +1719,42 @@
 002-172-000	The Leviathan Rises
 002-172-001	Disaster Response HQ
 002-172-002	Climactic Cat Clash
+002-173		Be a Magical Girl
+002-173-000	Make A Contract With Me
+002-173-001	I Want You to Be a Magical Girl
+002-173-002	Any Wish You Have
+002-173-003	I Can Make It Come True
+002-173-004	Make a Contract Now!
+002-174		Be a Magical Girl II
+002-174-000	Decide What You Want, Now
+002-174-001	I Don't Understand You
+002-174-002	You Are Naive About War
+002-174-003	So, What Do You Wish For?
+002-174-004	Do You Intend To Be a God?
+002-175		Witch's Labyrinth: Rose Garden Witch
+002-175-000	Allow Me To Introduce Myself
+002-175-001	But Before That
+002-175-002	Some Cleaning Up
+002-175-003	Is In Order
+002-175-004	Tiro Finale!
+002-176		Witch's Labyrinth: Dessert Witch
+002-176-000	My Body Is Light
+002-176-001	With Such Joy
+002-176-002	A Battle Like This
+002-176-003	I'm Afraid of Nothing
+002-176-004	I'm Not Alone Anymore
+002-177		Witch's Labyrinth: Box Witch
+002-177-000	I Know My Wish
+002-177-001	Miracles and Magic Are Real
+002-177-002	Did I Do Well?
+002-177-003	I Have No Regrets
+002-177-004	You'll Be Happy, Won't You
+002-178		Nutcracker Witch
+002-178-000	This is My Despair
+002-178-001	How Did it Come to This?
+002-178-002	Thank You For Coming
+002-178-003	Just Couldn't Say Goodbye
+002-178-004	I'm Sorry
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -2317,6 +2394,56 @@
 003-013-045	Brésil
 003-013-046	Continent flottant
 003-013-047	Lune
+003-014		Les Royaumes Aku
+003-014-000	Corée
+003-014-001	Mongolie
+003-014-002	Chine
+003-014-003	Thaïlande
+003-014-004	Cambodge
+003-014-005	Philippines
+003-014-006	Japon
+003-014-007	Australie
+003-014-008	Singapour
+003-014-009	Maldives
+003-014-010	Inde
+003-014-011	Népal
+003-014-012	Dubaï
+003-014-013	Arabie Saoudite
+003-014-014	Kenya
+003-014-015	Madagascar
+003-014-016	Afrique du Sud
+003-014-017	Ghana
+003-014-018	Sahara
+003-014-019	Égypte
+003-014-020	Turquie
+003-014-021	Russie
+003-014-022	Grèce
+003-014-023	Italie
+003-014-024	Monaco
+003-014-025	Espagne
+003-014-026	France
+003-014-027	Allemagne
+003-014-028	Danemark
+003-014-029	Mont Aku
+003-014-030	Norvège
+003-014-031	Royaume-Uni
+003-014-032	Groenland
+003-014-033	Canada
+003-014-034	New York
+003-014-035	Bermudes
+003-014-036	Jamaïque
+003-014-037	Colombie
+003-014-038	Brésil
+003-014-039	Argentine
+003-014-040	Machu Picchu
+003-014-041	Île de Pâques
+003-014-042	Mexique
+003-014-043	NASA
+003-014-044	Las Vegas
+003-014-045	Hollywood
+003-014-046	Alaska
+003-014-047	Hawaï
+003-014-048	Lune
 
 004			Extra Stages
 004-000		Croissance verte
@@ -2429,6 +2556,8 @@
 004-040-000	Défilé des morts (mortel)
 004-041		Le roi et la jeune fille
 004-041-000	Poseuse de bombe (mortel)
+004-042		Les Royaumes Aku
+004-042-000	Mont Aku
 
 006			Dojo Griffélin
 006-000		Salle des initiés
@@ -2850,6 +2979,8 @@
 013-037-003	Studios sur plusieurs plans
 013-037-004	Forces infernales
 013-037-005	Étoiles de l'Enfer
+013-038		Désastre imminent
+013-038-000	Sceau de l’Autel Aku
 
 014			Night Stages
 014-000		Croissance jaune
@@ -3370,6 +3501,28 @@
 024-024-007	Dans la cité niv. 18
 024-024-008	Dans la cité niv. 19
 024-024-009	Dans la cité niv. max
+024-025		Défi d'octobre
+024-025-000	Jour des sports niv. 1
+024-025-001	Jour des sports niv. 2
+024-025-002	Jour des sports niv. 3
+024-025-003	Jour des sports niv. 4
+024-025-004	Jour des sports niv. 5
+024-025-005	Jour des sports niv. 6
+024-025-006	Jour des sports niv. 7
+024-025-007	Jour des sports niv. 8
+024-025-008	Jour des sports niv. 9
+024-025-009	Jour des sports niv. 10
+024-026		Défi d'octobre II
+024-026-000	Nuit des sports niv. 11
+024-026-001	Nuit des sports niv. 12
+024-026-002	Nuit des sports niv. 13
+024-026-003	Nuit des sports niv. 14
+024-026-004	Nuit des sports niv. 15
+024-026-005	Nuit des sports niv. 16
+024-026-006	Nuit des sports niv. 17
+024-026-007	Nuit des sports niv. 18
+024-026-008	Nuit des sports niv. 19
+024-026-009	Nuit des sports niv. max
 
 025			Enigma Stages
 025-000		Champs Aitum
@@ -3605,3 +3758,14 @@
 027-008-017	Showdown! : Part 18
 027-008-018	Showdown! : Part 19
 027-008-019	Showdown! : Part 20
+027-009		Walpurgisnacht
+027-009-000	Stagebuilding Witch: Cycle 1
+027-009-001	Stagebuilding Witch: Cycle 2
+027-009-002	Stagebuilding Witch: Cycle 3
+027-009-003	Stagebuilding Witch: Cycle 4
+027-009-004	Stagebuilding Witch: Cycle 5
+027-009-005	Stagebuilding Witch: Cycle 6
+027-009-006	Stagebuilding Witch: Cycle 7
+027-009-007	Stagebuilding Witch: Cycle 8
+027-009-008	Stagebuilding Witch: Cycle 9
+027-009-009	Stagebuilding Witch: Cycle XX

@@ -520,7 +520,7 @@
 519	Lasvoss	Ultimate Lasvoss	Lasvoss Reborn
 520	Good-Luck Ebisu	Bad-Luck Ebisu	
 521	Medusa Cat	Twintail Medusa Cat	
-522	Nymph Cat	Medalist Cat	
+522	Nymph Cat	Medalist Cat	Fiend Cat
 523	Wushu Cat	Sifu Cat	Shigong Cat
 524			
 525	Kintaro	Kinrangers RoboForce	Kinrangers GigaForce
@@ -615,8 +615,12 @@
 614	Kaguya of the Coast	The Southern Sun	
 615	Kabuto Cat	Golden Kabuto Cat	
 616	Kuwagata Cat	King Kuwagata Cat	
-617			
+617	Summoner Satoru	Dark Summoner Satoru	
 618	Shiro Amakusa	Wargod Amakusa	
 619	Lilin	Lilin π	
-620			
+620	Hevijak the Wicked	Wicked King Hevijak	
 621	Aku Researcher	Evil Aku Researcher	
+622	Jagando Jr.	Lord of Ruin Jagando Jr.	
+623	Pied Piper Cat	Komuso Cat	
+624	Kunio-kun	Dodgeball Kunio-kun	
+625	Furiluga	Furilan Pasalan	

@@ -201,3 +201,7 @@
 83	Mini-Saurus
 84	Little Warriors
 85	Micro Fighters
+86	Minicyclone
+87	Big Game Hunter
+88	Mystery Club
+89	Don't Mess With Me!

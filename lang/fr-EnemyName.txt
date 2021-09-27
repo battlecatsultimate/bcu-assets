@@ -551,13 +551,30 @@
 550	
 551	Doron flamme ancienne
 552	Toutou Aku
-553	
+553	Serpan voyou
 554	Enfants de Cerbère
-555	
+555	Peng condamné
 556	Gory Aku
-557	
-558	
-559	
+557	Le’Béhémoth
+558	Ours déchu
+559	Vilain visage
 560	Cyclone Aku
 561	
 562	
+563	
+564	
+565	
+566	
+567	
+568	
+569	
+570	Sombre prêtre Mamon
+571	Haut prêtre Mamon
+572	Seigneur Ruine Jagando
+573	Princesse possédée
+574	
+575	
+576	
+577	
+578	
+579	

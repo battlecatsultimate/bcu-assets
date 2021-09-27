@@ -88,3 +88,5 @@
 87	Clear "Prelude to Ruin"
 88	Unlock Elder Mask Doron
 89	Clear "The Great Diablo"
+90	Clear all stages in "The Aku Realms"
+91	Clear "Temptation's Symphony"

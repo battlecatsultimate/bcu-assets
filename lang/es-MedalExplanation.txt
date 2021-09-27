@@ -88,3 +88,5 @@
 87	Supera Preludio de Ruina.
 88	Desbloquea a Máscara Doron Viejuna.
 89	Supera El Gran Diablo.
+90	Supera todas las fases de Los reinos de akus.
+91	Supera Sinfonía de Tentaciones.

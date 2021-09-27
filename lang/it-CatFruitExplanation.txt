@@ -520,7 +520,7 @@
 519	La Forma Reale aumenta difesa e<br>potenza attacco, migliora "Rafforza" e<br>dà immunità da veleno e attacchi a valanga!
 520	<br><br>
 521	<br><br>
-522	<br><br>
+522	La Forma Reale ottiene maggiore<br>difesa Aku e Respinta vs Aku.<br>
 523	La Forma Reale ottiene maggiore<br>difesa e immunità da rallentamento!<br>
 524	<br><br>
 525	La Forma Reale ottiene maggiori potenza<br>d'attacco e difesa. più maledizione angelici!<br>
@@ -620,3 +620,7 @@
 619	<br><br>
 620	<br><br>
 621	<br><br>
+622	<br><br>
+623	<br><br>
+624	<br><br>
+625	<br><br>

@@ -520,7 +520,7 @@
 519	True form evolution increases Defense &<br>Attack power, plus improved Strengthen<br>and immunity to Toxic and Surge Attacks!
 520	<br><br>
 521	<br><br>
-522	<br><br>
+522	True Form evolution gains improved<br>defense and Knockback vs Aku.<br>
 523	True Form evolution gains improved<br>defense and Immunity to Slow!<br>
 524	<br><br>
 525	True Form evolution gains improved Defense<br>& Attack, plus Curse attack vs. Angels!<br>
@@ -620,3 +620,7 @@
 619	<br><br>
 620	<br><br>
 621	<br><br>
+622	<br><br>
+623	<br><br>
+624	<br><br>
+625	<br><br>

@@ -520,7 +520,7 @@
 519	Lasvoss	Ultimativer Lasvoss	Wiedergeborener Lasvoss
 520	Glücks-Ebisu	Unglücks-Ebisu	
 521	Medusa-Katze	Zöpfchen-Medusa-Katze	
-522	Nymphenkatze	Medaillenkatze	
+522	Nymphenkatze	Medaillenkatze	Unholdkatze
 523	Wushu-Katze	Sifu-Katze	Shigong-Katze
 524			
 525	Kintaro	Kinrangers-Robokämpfer	Kinrangers-Gigakämpfer
@@ -615,8 +615,12 @@
 614	Kaguya von der Küste	Die Sonne des Südens	
 615	Kabutokatze	Goldene Kabutokatze	
 616	Kuwagatakatze	Königs-Kuwagatakatze	
-617			
+617	Beschwörer Satoru	Dunkler Beschwörer Satoru	
 618	Shiro Amakusa	Kriegsgott Amakusa	
 619	Lilin	Lilin π	
-620			
+620	Hevijak der Böse	Böser König Hevijak	
 621	Aku-Forscher	Böser Aku-Forscher	
+622	Jagando Jr.	Jagando Jr., Herr d. Zerst.	
+623	Rattenfänger-Katze	Komuso-Katze	
+624	Kunio-kun	Dodgeball Kunio-kun	
+625	Furiluga	Furilan Pasalan	

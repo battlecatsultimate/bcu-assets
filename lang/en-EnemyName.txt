@@ -551,13 +551,30 @@
 550	
 551	Elder Flame Doron
 552	Aku Doge
-553	
+553	Sinner Snache
 554	Cerberus Kids
-555	
+555	Condemned Peng
 556	Aku Gory
-557	
-558	
-559	
+557	Le'Behemoth
+558	Fallen Bear
+559	Wicked Face
 560	Aku Cyclone
 561	
 562	
+563	
+564	
+565	
+566	
+567	
+568	
+569	
+570	Dark Priest Mamon
+571	High Priest Mamon
+572	Lord of Ruin Jagando
+573	Possessed Empress
+574	
+575	
+576	
+577	
+578	
+579	

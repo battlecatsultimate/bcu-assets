@@ -551,13 +551,30 @@
 550	
 551	Ältestenflamme Doron
 552	Aku-Hund
-553	
+553	Sünder-Schlänge
 554	Cerberus-Kids
-555	
+555	Verdammter Peng
 556	Aku-Gorilla
-557	
-558	
-559	
+557	Le’Behemoth
+558	Gefallener Bär
+559	Böse Fratze
 560	Aku-Zyklon
 561	
 562	
+563	
+564	
+565	
+566	
+567	
+568	
+569	
+570	Dunkler Priester Mamon
+571	Hohepriester Mamon
+572	Jagando, Herr der Zerstörung
+573	Besessene Prinzessin
+574	
+575	
+576	
+577	
+578	
+579	

@@ -520,7 +520,7 @@
 519	Lasvoss	Lasvoss Definitivo	Lasvoss Renacido
 520	Ebisu de Buena Suerte	Ebisu de Mala Suerte	
 521	Gato Medusa	Gato Medusa con Coletas	
-522	Gata Ninfa	Gata Medallista	
+522	Gata Ninfa	Gata Medallista	Gato Endemoniado
 523	Gato Wushu	Gato Cinturón Negro	Gato Shigong
 524			
 525	Kintaro	Robotropa de Kinrangers	Supertropa de Kinrangers
@@ -615,8 +615,12 @@
 614	Kaguya Costera	Sol Sureño	
 615	Gato Kabuto	Gato Kabuto Dorado	
 616	Gato Kuwagata	Rey Gato Kuwagata	
-617			
+617	Invocador Satoru	Invocador Satoru Oscuro	
 618	Amakusa Shiro	Dios de la Guerra Amakusa	
 619	Lilin	Lilin π	
-620			
+620	Hevijak el Maligno	Hevijak el Rey Maligno	
 621	Investigador Aku	Investigador Aku Malvado	
+622	Majado Jr.	Señor de la Ruina Majado Jr.	
+623	Gato de Hamelín	Gato Komuso	
+624	Kunio-kun	Dodgeball Kunio-kun	
+625	Furiluga	Furilan Pasalan	

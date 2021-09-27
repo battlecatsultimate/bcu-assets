@@ -117,6 +117,8 @@
 157	Platinsplitter
 158	Legendennetz
 159	5.000 XP
+160	Aku-Katzenfruchtkern
+161	Aku-Katzenfrucht
 1005	Bronzekatze
 1100	Bronzekatze
 1001	Sporttagkatze
@@ -219,6 +221,7 @@
 1174	Godzilla Cat
 1054	Ältestenmaske Doron
 1055	Aku-Forscher
+1056	Rattenfänger-Katze
 19001	Irokatze
 19002	Radierkatze
 19003	Dunkle Katze
@@ -460,6 +463,7 @@
 15506	Gladios der Gottkaiser
 15512	Kage
 15520	Wiedergeborener Lasvoss
+15523	Unholdkatze
 15524	Shigong-Katze
 15526	Kinrangers-Gigakämpfer
 10532	Totengräbärkatze

@@ -551,13 +551,35 @@
 550	
 551	Loin dans la forêt ancienne, la tribu des<br>Dorons vit cachée derrière des masques<br>bénis par les dieux. Briser le masque libère<br>une attaque mortelle de puissance divine.
 552	Fatigué du lycée, le frère de Toutou<br>a rejoint les rangs des ennemis Akus.<br>Son clan le considère comme un traître,<br>mais il paie les frais scolaires de Toutou.
-553	
+553	Serpan marqué de la flamme bleue du pouvoir Aku.<br>Inflige une réplique au moment de mourir.<br>Sans doute faible contre l’eau, mais cette information<br>n’a vraiment aucune utilité dans ce jeu.
 554	Accros du Web qui ont vendu leurs âmes<br>via un spam de recrutement des ennemis Akus.<br>Jadis rouges de bas niveau, ils sont désormais des<br>entrepreneurs à succès investissant dans le mal.
-555	
+555	Célèbre pour son rôle dans « Peng l’insomniaque ».<br>Pour garder sa place dans la suite, il a négocié un corps<br>infatigable auprès des Akus. Ils ont même ajouté un<br>rayon qu’il peut tirer depuis son front.
 556	Viré du paradis pour avoir trop gaffé,<br>il a vite été recruté par les ennemis Akus grâce<br>à sa gueule effrayante. Diffuse en continu<br>son quotidien dans le vortex des ennemis Akus.
-557	
-558	
-559	
+557	A passé un marché avec les Akus : son âme contre<br>des photos très dures à trouver... pas d’autres<br>questions, merci. A développé un bouclier pour mieux<br>protéger son inestimable collection de photos.
+558	Un ambassadeur d’élite du Royaume Aku.<br>Poignée de main ferme et large sourire,<br>son physique est absolument irréprochable.<br>Si ça tourne mal... sait aussi se la jouer atomique.
+559	Personne n’ose approcher ce tout-puissant Aku !<br>En effet, il a non seulement un caractère détestable<br>mais il est aussi porteur de tout un tas de<br>bactéries malsaines. (Source : Chercheur en Akus)
 560	Tempête démoniaque qui dévore tout. Les<br>âmes attirées partent chez les ennemis Akus et<br>rejoignent leur armée. Perce son bouclier<br>et tu auras peut-être une chance.
 561	
 562	
+563	
+564	
+565	
+566	
+567	
+568	
+569	
+570	Prête maléfique au rêve insensé : régner sur<br>le Royaume Aku. A construit des Autels pour sceller<br>le pouvoir de ses ennemis et les vider de leurs forces<br>afin d’accomplir tous ses sombres projets.
+571	Un mage puissant qui vole l’énergie vitale pour l’utiliser<br>dans le rituel de résurrection du Seigneur Ruine.<br>Le monde parfait dont il rêve adviendra-t-il,<br>ou bien y aura-t-il des coûts imprévus ?
+572	Dieu maléfique de la destruction, jadis scellé par<br>de grands héros, désormais ressuscité par les rituels<br>d’un prêtre sombre. Un âge de dévastation oublié<br>depuis longtemps est sur le point de revenir...
+573	Dans ses recherches obsessionnelles, l’Impératrice a ouvert<br>un grimoire maudit et s’est retrouvée possédée par un mal<br>suprême. Son âme est souillée et elle guide l’Empire<br>sur le chemin de la pire des calamités.
+574	
+575	
+576	
+577	
+578	
+579	
+580	
+581	
+582	
+583	
+584	

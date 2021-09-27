@@ -1227,6 +1227,57 @@
 001-258-001	Muro del demone
 001-259		Il grande diablo
 001-259-000	Ira dell'inferno (Letale)
+001-260		Inizio impulsivo
+001-260-000	Sfera in fuga
+001-260-001	Potenza cinetica
+001-260-002	Sfera da 100 kg speciale
+001-260-003	Rossi vs. bianchi
+001-260-004	Di chi è questa sfera?
+001-260-005	Polvere ovunque
+001-260-006	Cappelli volati via
+001-260-007	Impossibile fermarsi
+001-261		Hotblooded Challenge Course
+001-261-000	Aim for the Top
+001-261-001	Power On Through
+001-261-002	Overcome The Odds
+001-261-003	Mistakes Don't Matter
+001-261-004	Good Effort
+001-262		Gara in tre tappe impulsiva ①
+001-262-000	VS squadra bianca
+001-262-001	VS squadra rossa
+001-262-002	VS squadra nera
+001-265		Parco del demone
+001-265-000	Saggezza surgelata
+001-265-001	Lago maledetto
+001-265-002	Antro magico
+001-265-003	Foresta ultraterrena
+001-266		Gatto ascia liberato
+001-266-000	Nido Aku
+001-266-001	Guerra del diavolo
+001-267		Gatto ascia liberato
+001-267-000	267-00
+001-267-001	267-01
+001-267-002	267-02
+001-267-003	267-03
+001-268		Gatto liberato
+001-268-000	I cancelli di Aku
+001-269		Resoconto dell'imperatrice 1
+001-269-000	Corso base sugli Aku: introduzione
+001-269-001	Corso base sugli Aku: tecniche
+001-269-002	Corso base sugli Aku: ricerca
+001-269-003	Corso base sugli Aku: inchiesta
+001-270		Resoconto dell'imperatrice 2
+001-270-000	Corso avanzato sugli Aku: introd.
+001-270-001	Corso avanzato sugli Aku: tecniche
+001-270-002	Corso avanzato sugli Aku: ricerca
+001-270-003	Corso avanzato sugli Aku: inchiesta
+001-271		Resoconto dell'imperatrice 2
+001-271-000	271-00
+001-271-001	271-01
+001-271-002	271-02
+001-271-003	271-03
+001-272		Sinfonia della tentazione
+001-272-000	Melodia Aku (Spietato)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -1677,6 +1728,42 @@
 002-172-000	The Leviathan Rises
 002-172-001	Disaster Response HQ
 002-172-002	Climactic Cat Clash
+002-173		Be a Magical Girl
+002-173-000	Make A Contract With Me
+002-173-001	I Want You to Be a Magical Girl
+002-173-002	Any Wish You Have
+002-173-003	I Can Make It Come True
+002-173-004	Make a Contract Now!
+002-174		Be a Magical Girl II
+002-174-000	Decide What You Want, Now
+002-174-001	I Don't Understand You
+002-174-002	You Are Naive About War
+002-174-003	So, What Do You Wish For?
+002-174-004	Do You Intend To Be a God?
+002-175		Witch's Labyrinth: Rose Garden Witch
+002-175-000	Allow Me To Introduce Myself
+002-175-001	But Before That
+002-175-002	Some Cleaning Up
+002-175-003	Is In Order
+002-175-004	Tiro Finale!
+002-176		Witch's Labyrinth: Dessert Witch
+002-176-000	My Body Is Light
+002-176-001	With Such Joy
+002-176-002	A Battle Like This
+002-176-003	I'm Afraid of Nothing
+002-176-004	I'm Not Alone Anymore
+002-177		Witch's Labyrinth: Box Witch
+002-177-000	I Know My Wish
+002-177-001	Miracles and Magic Are Real
+002-177-002	Did I Do Well?
+002-177-003	I Have No Regrets
+002-177-004	You'll Be Happy, Won't You
+002-178		Nutcracker Witch
+002-178-000	This is My Despair
+002-178-001	How Did it Come to This?
+002-178-002	Thank You For Coming
+002-178-003	Just Couldn't Say Goodbye
+002-178-004	I'm Sorry
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -2316,6 +2403,56 @@
 003-013-045	Brasile
 003-013-046	Continente fluttuante
 003-013-047	Luna
+003-014		I regni Aku
+003-014-000	Corea
+003-014-001	Mongolia
+003-014-002	Cina
+003-014-003	Thailandia
+003-014-004	Cambogia
+003-014-005	Filippine
+003-014-006	Giappone
+003-014-007	Australia
+003-014-008	Singapore
+003-014-009	Maldive
+003-014-010	India
+003-014-011	Nepal
+003-014-012	Dubai
+003-014-013	Arabia Saudita
+003-014-014	Kenya
+003-014-015	Madagascar
+003-014-016	Sudafrica
+003-014-017	Ghana
+003-014-018	Sahara
+003-014-019	Egitto
+003-014-020	Turchia
+003-014-021	Russia
+003-014-022	Grecia
+003-014-023	Italia
+003-014-024	Principato di Monaco
+003-014-025	Spagna
+003-014-026	Francia
+003-014-027	Germania
+003-014-028	Danimarca
+003-014-029	Monte Aku
+003-014-030	Norvegia
+003-014-031	Regno Unito
+003-014-032	Groenlandia
+003-014-033	Canada
+003-014-034	New York
+003-014-035	Bermuda
+003-014-036	Giamaica
+003-014-037	Colombia
+003-014-038	Brasile
+003-014-039	Argentina
+003-014-040	Machu Picchu
+003-014-041	Isola di Pasqua
+003-014-042	Messico
+003-014-043	NASA
+003-014-044	Las Vegas
+003-014-045	Hollywood
+003-014-046	Alaska
+003-014-047	Hawaii
+003-014-048	Luna
 
 004			Extra Stages
 004-000		Tempesta in arrivo (Folle)
@@ -2428,6 +2565,8 @@
 004-040-000	Parata di morti (Letale)
 004-041		Il re e la fanciulla
 004-041-000	Bombarola (Letale)
+004-042		I regni Aku
+004-042-000	Monte Aku
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -2849,6 +2988,8 @@
 013-037-003	Multiplanar Studios
 013-037-004	Forze infernali
 013-037-005	All-Stars infernale
+013-038		Disastro Imminente
+013-038-000	Blocco dell'altare Aku
 
 014			Drink Stages
 014-000		Giallo rigoglioso
@@ -3369,6 +3510,28 @@
 024-024-007	In centro Liv.18
 024-024-008	In centro Liv.19
 024-024-009	In centro Liv. MAX
+024-025		Sfida di ottobre
+024-025-000	Giorno sportivo Liv. 1
+024-025-001	Giorno sportivo Liv. 2
+024-025-002	Giorno sportivo Liv. 3
+024-025-003	Giorno sportivo Liv. 4
+024-025-004	Giorno sportivo Liv. 5
+024-025-005	Giorno sportivo Liv. 6
+024-025-006	Giorno sportivo Liv. 7
+024-025-007	Giorno sportivo Liv. 8
+024-025-008	Giorno sportivo Liv. 9
+024-025-009	Giorno sportivo Liv. 10
+024-026		Sfida di ottobre II
+024-026-000	Notte sportiva Liv. 11
+024-026-001	Notte sportiva Liv. 12
+024-026-002	Notte sportiva Liv. 13
+024-026-003	Notte sportiva Liv. 14
+024-026-004	Notte sportiva Liv. 15
+024-026-005	Notte sportiva Liv. 16
+024-026-006	Notte sportiva Liv. 17
+024-026-007	Notte sportiva Liv. 18
+024-026-008	Notte sportiva Liv. 19
+024-026-009	Notte sportiva Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -3604,3 +3767,14 @@
 027-008-017	Showdown! : Part 18
 027-008-018	Showdown! : Part 19
 027-008-019	Showdown! : Part 20
+027-009		Walpurgisnacht
+027-009-000	Stagebuilding Witch: Cycle 1
+027-009-001	Stagebuilding Witch: Cycle 2
+027-009-002	Stagebuilding Witch: Cycle 3
+027-009-003	Stagebuilding Witch: Cycle 4
+027-009-004	Stagebuilding Witch: Cycle 5
+027-009-005	Stagebuilding Witch: Cycle 6
+027-009-006	Stagebuilding Witch: Cycle 7
+027-009-007	Stagebuilding Witch: Cycle 8
+027-009-008	Stagebuilding Witch: Cycle 9
+027-009-009	Stagebuilding Witch: Cycle XX

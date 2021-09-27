@@ -117,6 +117,8 @@
 157	Fragmento de platino
 158	Red legendaria
 159	5 000 XP
+160	Semilla felina de Aku
+161	Fruta felina de Aku
 1005	Gato de Bronce
 1100	Gato de Bronce
 1001	Gato Deportista
@@ -219,6 +221,7 @@
 1174	Godzilla Cat
 1054	Máscara Doron Viejuna
 1055	Investigador Aku
+1056	Gato de Hamelín
 19001	Gato Crestado
 19002	Gato Borrador
 19003	Gato Oscuro
@@ -460,6 +463,7 @@
 15506	Gladios, Dios Emperador
 15512	Kage
 15520	Lasvoss Renacido
+15523	Gato Endemoniado
 15524	Gato Shigong
 15526	Supertropa de Kinrangers
 10532	Gato Cadaveroso
