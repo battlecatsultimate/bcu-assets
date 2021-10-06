@@ -578,3 +578,8 @@
 577	Red Ball
 578	Metal Ball
 579	Kyubey
+580	White Wind
+581	Red Wind
+582	Black Wind
+583	Mr. Merdusa
+584	Sister Aku
