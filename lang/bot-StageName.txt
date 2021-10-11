@@ -3460,7 +3460,7 @@
 024-019-017	Hints of Autumn
 024-019-018	Final Fireworks
 024-019-019	Last-Minute Homework
-024-020		
+024-020		Baron Seal Strikes
 024-020-000	Red Alert 1
 024-020-001	Red Alert 2
 024-020-002	Red Alert 3
