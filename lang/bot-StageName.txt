@@ -943,10 +943,10 @@
 001-169-001	Revenge of R-Cyclone (Deadly)
 001-170		Sports Night
 001-170-000	Inviting Cemetary
-001-170-000	2 Bodies, 0 Legs
-001-170-000	Grave Bouquet
-001-170-000	Fallen Priest
-001-170-000	Hours 'Til Morning
+001-170-001	2 Bodies, 0 Legs
+001-170-002	Grave Bouquet
+001-170-003	Fallen Priest
+001-170-004	Hours 'Til Morning
 001-171		Worker’s Revolution
 001-171-000	Premium Friday
 001-171-001	Total Professional
