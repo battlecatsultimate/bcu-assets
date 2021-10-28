@@ -103,6 +103,7 @@
 142	Ticket chance G
 143	Ticket chance
 144	Ticket chance G
+145	Ticket légendaire
 146	Ticket chance G
 147	Ticket chance
 148	Ticket chance
@@ -390,6 +391,7 @@
 10288	Chat golfeur
 10300	Li'l Ultimate Madoka
 10301	Li'l Devil Homura
+15303	Reine succube
 15305	Béhémoth CHAT-8
 15306	Navire Griffe de tigre
 15307	Citadelle aérienne NEK-02

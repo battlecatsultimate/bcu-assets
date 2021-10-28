@@ -1279,8 +1279,23 @@
 001-270-001	Aku Studies 201: Methods
 001-270-002	Aku Studies 201: Field Research
 001-270-003	Aku Studies 201: Inquiry
+001-271		Empress' Report 3
+001-271-000	Aku Studies 301: Intro
+001-271-001	Aku Studies 301: Methods
+001-271-002	Aku Studies 301: Field Research
+001-271-003	Aku Studies 301: Inquiry
 001-272		Temptation's Symphony
 001-272-000	Aku's Melody (Merciless)
+001-274		Growing Evil
+001-274-000	Aku's Murmur (Insane)
+001-274-001	Aku's Murmur (Deadly)
+001-274-002	Aku's Whisper (Deadly)
+001-274-003	Aku's Whisper (Merciless)
+001-275		Empress' Report 4
+001-275-000	Aku Studies 401: Intro
+001-275-001	Aku Studies 401: Methods
+001-275-002	Aku Studies 401: Field Research
+001-275-003	Aku Studies 401: Inquiry
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3547,6 +3562,49 @@
 024-026-007	Sports Night Lv.18
 024-026-008	Sports Night Lv.19
 024-026-009	Sports Night Lv.MAX
+024-027		Le'Grim Strikes
+024-027-000	Rampage Lv1
+024-027-001	Rampage Lv2
+024-027-002	Rampage Lv3
+024-027-003	Rampage Lv4
+024-027-004	Rampage Lv5
+024-027-005	Rampage Lv6
+024-027-006	Rampage Lv7
+024-027-007	Rampage Lv8
+024-027-008	Rampage Lv9
+024-027-009	Rampage Lv10
+024-027-010	Rampage Lv11
+024-027-011	Rampage Lv12
+024-027-012	Rampage Lv13
+024-027-013	Rampage Lv14
+024-027-014	Rampage Lv15
+024-027-015	Rampage Lv16
+024-027-016	Rampage Lv17
+024-027-017	Rampage Lv18
+024-027-018	Rampage Lv19
+024-027-019	Rampage Lv.MAX
+024-028		November Gauntlet
+024-028-000	Labour Lv.1
+024-028-001	Labour Lv.2
+024-028-002	Labour Lv.3
+024-028-003	Labour Lv.4
+024-028-004	Labour Lv.5
+024-028-005	Labour Lv.6
+024-028-006	Labour Lv.7
+024-028-007	Labour Lv.8
+024-028-008	Labour Lv.9
+024-028-009	Labour Lv.10
+024-029		November Gauntlet II
+024-029-000	Revolution Lv.11
+024-029-001	Revolution Lv.12
+024-029-002	Revolution Lv.13
+024-029-003	Revolution Lv.14
+024-029-004	Revolution Lv.15
+024-029-005	Revolution Lv.16
+024-029-006	Revolution Lv.17
+024-029-007	Revolution Lv.18
+024-029-008	Revolution Lv.19
+024-029-009	Revolution Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields

@@ -205,3 +205,6 @@
 87	Chasseur de gros gibier
 88	Club Mystère
 89	Ne me cherche pas !
+91	Petite danse, petit Miam
+92	Mini chasse à l'ancienne
+93	Étoile minimum

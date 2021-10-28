@@ -300,7 +300,7 @@
 299	<br><br>
 300	<br><br>
 301	<br><br>
-302	<br><br>
+302	La forme ultime améliore<br>la puissance d’attaque et la portée !<br>Obtient la capacité d'immobiliser les Akus.
 303	<br><br>
 304	La forme ultime améliore la distance<br>d’attaque et la portée d’attaque de zone !<br>
 305	La forme ultime améliore<br>la vitesse d’attaque !<br>
@@ -624,3 +624,10 @@
 623	<br><br>
 624	<br><br>
 625	<br><br>
+626	<br><br>
+627	<br><br>
+628	<br><br>
+629	<br><br>
+630	<br><br>
+631	<br><br>
+632	<br><br>

@@ -205,3 +205,6 @@
 87	Caza mayor
 88	Club misterioso
 89	¡No te metas conmigo!
+91	Bailecito y tentempié
+92	Minicaza antigua
+93	Estrellita del lugar

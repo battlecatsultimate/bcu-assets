@@ -300,7 +300,7 @@
 299	<br><br>
 300	<br><br>
 301	<br><br>
-302	<br><br>
+302	Wahre-Form-Entwicklung erhöht<br>Angriffskraft und Reichweite!<br>Erhält die Fähigkeit, Aku einzufrieren.
 303	<br><br>
 304	Wahre-Form-Entwicklung erhöht Angriffs-<br>reichweite und Angriffsflächengröße!<br>
 305	Wahre-Form-Entwicklung erhöht<br>Angriffstempo!<br>
@@ -624,3 +624,10 @@
 623	<br><br>
 624	<br><br>
 625	<br><br>
+626	<br><br>
+627	<br><br>
+628	<br><br>
+629	<br><br>
+630	<br><br>
+631	<br><br>
+632	<br><br>

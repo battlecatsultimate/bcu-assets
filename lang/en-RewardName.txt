@@ -103,6 +103,7 @@
 142	G Ticket
 143	Lucky Ticket
 144	G Ticket
+145	Legend Ticket 
 146	G Ticket
 147	Lucky Ticket
 148	Lucky Ticket
@@ -390,6 +391,7 @@
 10288	Golfer Cat
 10300	Li'l Ultimate Madoka
 10301	Li'l Devil Homura
+15303	Queen Succubus Cat
 15305	CAT-8 Behemoth
 15306	B.C.S. Tigerclaw
 15307	NEK-02 Air Citadel

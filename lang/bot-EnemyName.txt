@@ -581,5 +581,5 @@
 580	White Wind
 581	Red Wind
 582	Black Wind
-583	Mr. Merdusa
-584	Sister Aku
+583	Medu-san
+584	Miz Devil

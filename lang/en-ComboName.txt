@@ -205,3 +205,6 @@
 87	Big Game Hunter
 88	Mystery Club
 89	Don't Mess With Me!
+91	Dance a Little, Eat a Little
+92	Tiny Ancient Hunt
+93	Étoile minimum

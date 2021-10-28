@@ -103,6 +103,7 @@
 142	Biglietto fortuna G
 143	Biglietto fortuna
 144	Biglietto fortuna G
+145	Biglietto leggenda
 146	Biglietto fortuna G
 147	Biglietto fortuna
 148	Biglietto fortuna
@@ -390,6 +391,7 @@
 10288	Gatto Golf
 10300	Li'l Ultimate Madoka
 10301	Li'l Devil Homura
+15303	Gatta Succubo regina
 15305	GAT-8 Behemoth
 15306	Nave Artiglio
 15307	Aeroccaforte NEK-02

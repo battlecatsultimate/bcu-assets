@@ -103,6 +103,7 @@
 142	Tique de la suerte G
 143	Tique de la suerte
 144	Tique de la suerte G
+145	Tique legendario
 146	Tique de la suerte G
 147	Tique de la suerte
 148	Tique de la suerte
@@ -390,6 +391,7 @@
 10288	Gato Golfista
 10300	Li'l Ultimate Madoka
 10301	Li'l Devil Homura
+15303	Gata Reina Súcubo
 15305	Mastodonte de Asalto
 15306	BCS Garra de Tigre
 15307	MIAU-02 Ciudadela Aérea

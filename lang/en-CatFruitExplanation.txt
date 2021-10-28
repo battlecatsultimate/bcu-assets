@@ -300,7 +300,7 @@
 299	<br><br>
 300	<br><br>
 301	<br><br>
-302	<br><br>
+302	True Form evolution improves<br>attack power and range! Plus,<br>gains the ability to Freeze Aku.
 303	<br><br>
 304	True Form evolution improves attack<br>distance and attack area range!<br>
 305	True Form evolution improves<br>attack speed!<br>
@@ -624,3 +624,10 @@
 623	<br><br>
 624	<br><br>
 625	<br><br>
+626	<br><br>
+627	<br><br>
+628	<br><br>
+629	<br><br>
+630	<br><br>
+631	<br><br>
+632	<br><br>

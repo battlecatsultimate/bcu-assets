@@ -300,7 +300,7 @@
 299	Li'l Madoka	Li'l Magical Girl Madoka	Li'l Ultimate Madoka
 300	Li'l Homura	Li'l Magical Girl Homura	Li'l Devil Homura
 301	Kyubey Cat	Tank Kyubey Cat	
-302	Lilith Cat	Succubus Cat	
+302	Lilith Cat	Succubus Cat	Queen Succubus Cat
 303	Food Stall Cat	Delivery Cat	
 304	Mighty Kat-A-Pult	CAT-6 Siege Engine	CAT-8 Behemoth
 305	Mighty Drednot	B.C.S. Lionheart	B.C.S. Tigerclaw
@@ -624,3 +624,10 @@
 623	Pied Piper Cat	Komuso Cat	
 624	Kunio-kun	Dodgeball Kunio-kun	
 625	Furiluga	Furilan Pasalan	
+626			
+627			
+628			
+629	Brainwashed Cat	Brainwashed Macho Cat	
+630			
+631	Yamii	Yaminoir	
+632	Mighty Deth-Troy-R	Siege Walker Diabolosa	

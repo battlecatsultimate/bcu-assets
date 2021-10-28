@@ -300,7 +300,7 @@
 299	<br><br>
 300	<br><br>
 301	<br><br>
-302	<br><br>
+302	La Forma Reale migliora la<br>d'attacco e raggio migliorati!<br>dà l'abilità di immobilizzare Aku.
 303	<br><br>
 304	La Forma Reale migliora la distanza<br>d'attacco e il raggio degli attacchi ad area!<br>
 305	La Forma Reale migliora la<br>velocità d'attacco!<br>
@@ -624,3 +624,10 @@
 623	<br><br>
 624	<br><br>
 625	<br><br>
+626	<br><br>
+627	<br><br>
+628	<br><br>
+629	<br><br>
+630	<br><br>
+631	<br><br>
+632	<br><br>

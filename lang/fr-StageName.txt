@@ -1267,8 +1267,23 @@
 001-270-001	Études Aku 201 : Méthodes
 001-270-002	Études Aku 201 : Recherche terrain
 001-270-003	Études Aku 201 : Enquête
+001-271		Rapport de l'impératrice 3
+001-271-000	Études Aku 301 : Introduction
+001-271-001	Études Aku 301 : Méthodes
+001-271-002	Études Aku 301 : Recherche sur le terrain
+001-271-003	Études Aku 301 : Enquête
 001-272		Symphonie de la tentation
 001-272-000	Mélodie Aku (sans répit)
+001-274		Mal grandissant
+001-274-000	Murmure des Akus (maniaque)
+001-274-001	Murmure des Akus (mortel)
+001-274-002	Chuchotis des Akus (mortel)
+001-274-003	Chuchotis des Akus (sans répit)
+001-275		Rapport de l'impératrice 4
+001-275-000	Études Aku 401 : Introduction
+001-275-001	Études Aku 401 : Méthodes
+001-275-002	Études Aku 401 : Recherche sur le terrain
+001-275-003	Études Aku 401 : Enquête
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3523,6 +3538,49 @@
 024-026-007	Nuit des sports niv. 18
 024-026-008	Nuit des sports niv. 19
 024-026-009	Nuit des sports niv. max
+024-027		Éléphunèbre frappe
+024-027-000	Saccage niv. 1
+024-027-001	Saccage niv. 2
+024-027-002	Saccage niv. 3
+024-027-003	Saccage niv. 4
+024-027-004	Saccage niv. 5
+024-027-005	Saccage niv. 6
+024-027-006	Saccage niv. 7
+024-027-007	Saccage niv. 8
+024-027-008	Saccage niv. 9
+024-027-009	Saccage niv. 10
+024-027-010	Saccage niv. 11
+024-027-011	Saccage niv. 12
+024-027-012	Saccage niv. 13
+024-027-013	Saccage niv. 14
+024-027-014	Saccage niv. 15
+024-027-015	Saccage niv. 16
+024-027-016	Saccage niv. 17
+024-027-017	Saccage niv. 18
+024-027-018	Saccage niv. 19
+024-027-019	Saccage niv. max
+024-028		Défi de novembre
+024-028-000	Travail niv. 1
+024-028-001	Travail niv. 2
+024-028-002	Travail niv. 3
+024-028-003	Travail niv. 4
+024-028-004	Travail niv. 5
+024-028-005	Travail niv. 6
+024-028-006	Travail niv. 7
+024-028-007	Travail niv. 8
+024-028-008	Travail niv. 9
+024-028-009	Travail niv. 10
+024-029		Défi de novembre II
+024-029-000	Révolution niv. 11
+024-029-001	Révolution niv. 12
+024-029-002	Révolution niv. 13
+024-029-003	Révolution niv. 14
+024-029-004	Révolution niv. 15
+024-029-005	Révolution niv. 16
+024-029-006	Révolution niv. 17
+024-029-007	Révolution niv. 18
+024-029-008	Révolution niv. 19
+024-029-009	Révolution niv. max.
 
 025			Enigma Stages
 025-000		Champs Aitum

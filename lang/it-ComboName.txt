@@ -205,3 +205,6 @@
 87	Caccia grossa
 88	Club misterioso
 89	Non scherzare con me!
+91	Balla un po', mangia un po'
+92	Piccola caccia antica
+93	Étoile minimo

@@ -103,6 +103,7 @@
 142	Glücksticket G
 143	Glücksticket
 144	Glücksticket G
+145	Legenden-Ticket
 146	Glücksticket G
 147	Glücksticket
 148	Glücksticket
@@ -390,6 +391,7 @@
 10288	Golfkatze
 10300	Li'l Ultimate Madoka
 10301	Li'l Devil Homura
+15303	Königin Succubus-Katze
 15305	KATZ-8-Behemoth
 15306	K.K.S. Tigerklaue
 15307	NEK-02-Luftzitadelle

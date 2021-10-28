@@ -1271,13 +1271,23 @@
 001-270-001	Corso avanzato sugli Aku: tecniche
 001-270-002	Corso avanzato sugli Aku: ricerca
 001-270-003	Corso avanzato sugli Aku: inchiesta
-001-271		Resoconto dell'imperatrice 2
-001-271-000	271-00
-001-271-001	271-01
-001-271-002	271-02
-001-271-003	271-03
+001-271		Resoconto dell'imperatrice 3
+001-271-000	Corso approfondito sugli Aku: introduzione
+001-271-001	Corso approfondito sugli Aku: tecniche
+001-271-002	Corso approfondito sugli Aku: ricerca
+001-271-003	Corso approfondito sugli Aku: inchiesta
 001-272		Sinfonia della tentazione
 001-272-000	Melodia Aku (Spietato)
+001-274		Più cattivi
+001-274-000	Mormorio Aku (Folle)
+001-274-001	Mormorio Aku (Letale)
+001-274-002	Sussurro Aku (Letale)
+001-274-003	Sussurro Aku (Spietato)
+001-275		Resoconto dell'imperatrice 4
+001-275-000	Corso specialistico sugli Aku: introduzione
+001-275-001	Corso specialistico sugli Aku: tecniche
+001-275-002	Corso specialistico sugli Aku: ricerca
+001-275-003	Corso specialistico sugli Aku: inchiesta
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3532,6 +3542,49 @@
 024-026-007	Notte sportiva Liv. 18
 024-026-008	Notte sportiva Liv. 19
 024-026-009	Notte sportiva Liv. MAX
+024-027		Ele-tale attacca
+024-027-000	Furia Liv. 1
+024-027-001	Furia Liv. 2
+024-027-002	Furia Liv. 3
+024-027-003	Furia Liv. 4
+024-027-004	Furia Liv. 5
+024-027-005	Furia Liv. 6
+024-027-006	Furia Liv. 7
+024-027-007	Furia Liv. 8
+024-027-008	Furia Liv. 9
+024-027-009	Furia Liv. 10
+024-027-010	Furia Liv. 11
+024-027-011	Furia Liv. 12
+024-027-012	Furia Liv. 13
+024-027-013	Furia Liv. 14
+024-027-014	Furia Liv. 15
+024-027-015	Furia Liv. 16
+024-027-016	Furia Liv. 17
+024-027-017	Furia Liv. 18
+024-027-018	Furia Liv. 19
+024-027-019	Furia Liv. MAX
+024-028		Sfida di novembre
+024-028-000	Lavoro Liv. 1
+024-028-001	Lavoro Liv. 2
+024-028-002	Lavoro Liv. 3
+024-028-003	Lavoro Liv. 4
+024-028-004	Lavoro Liv. 5
+024-028-005	Lavoro Liv. 6
+024-028-006	Lavoro Liv. 7
+024-028-007	Lavoro Liv. 8
+024-028-008	Lavoro Liv. 9
+024-028-009	Lavoro Liv. 10
+024-029		Sfida di novembre II
+024-029-000	Rivoluzione Liv. 11
+024-029-001	Rivoluzione Liv. 12
+024-029-002	Rivoluzione Liv. 13
+024-029-003	Rivoluzione Liv. 14
+024-029-004	Rivoluzione Liv. 15
+024-029-005	Rivoluzione Liv. 16
+024-029-006	Rivoluzione Liv. 17
+024-029-007	Rivoluzione Liv. 18
+024-029-008	Rivoluzione Liv. 19
+024-029-009	Rivoluzione Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum

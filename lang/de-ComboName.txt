@@ -205,3 +205,6 @@
 87	Großwildjäger
 88	Club der Geheimnisse
 89	Leg dich nicht mit mir an
+91	Etwas tanzen, etwas essen
+92	Winzige uralte Jagd
+93	Étoile Minimum

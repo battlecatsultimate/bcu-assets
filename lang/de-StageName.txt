@@ -1266,8 +1266,23 @@
 001-270-001	Aku für Fortgeschrittene: Methoden
 001-270-002	Aku f. Fortgeschr.: Feldforschung
 001-270-003	Aku f. Fortgeschr.: Fragestellung
+001-271		Bericht der Kaiserin 3
+001-271-000	Aku für Experten: Einführung
+001-271-001	Aku für Experten: Methoden
+001-271-002	Aku für Experten: Forschung
+001-271-003	Aku für Experten: Fragestellung
 001-272		Symphonie der Versuchung
 001-272-000	Aku-Melodie (Gnadenlos)
+001-274		Böses Sprießen
+001-274-000	Murmeln der Aku (Irre)
+001-274-001	Murmeln der Aku (Tödlich)
+001-274-002	Flüstern der Aku (Tödlich)
+001-274-003	Flüstern der Aku (Gnadenlos)
+001-275		Bericht der Kaiserin 4
+001-275-000	Aku für Meister: Einführung
+001-275-001	Aku für Meister: Methoden
+001-275-002	Aku für Meister: Forschung
+001-275-003	Aku für Meister: Fragestellung
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3521,6 +3536,49 @@
 024-026-007	Sportnacht St. 18
 024-026-008	Sportnacht St. 19
 024-026-009	Sportnacht St. MAX
+024-027		Grummelfant schlägt zu
+024-027-000	Randale, St. 1
+024-027-001	Randale, St. 2
+024-027-002	Randale, St. 3
+024-027-003	Randale, St. 4
+024-027-004	Randale, St. 5
+024-027-005	Randale, St. 6
+024-027-006	Randale, St. 7
+024-027-007	Randale, St. 8
+024-027-008	Randale, St. 9
+024-027-009	Randale, St. 10
+024-027-010	Randale, St. 11
+024-027-011	Randale, St. 12
+024-027-012	Randale, St. 13
+024-027-013	Randale, St. 14
+024-027-014	Randale, St. 15
+024-027-015	Randale, St. 16
+024-027-016	Randale, St. 17
+024-027-017	Randale, St. 18
+024-027-018	Randale, St. 19
+024-027-019	Randale, St. MAX
+024-028		November-Turnier
+024-028-000	Arbeit St. 1
+024-028-001	Arbeit St. 2
+024-028-002	Arbeit St. 3
+024-028-003	Arbeit St. 4
+024-028-004	Arbeit St. 5
+024-028-005	Arbeit St. 6
+024-028-006	Arbeit St. 7
+024-028-007	Arbeit St. 8
+024-028-008	Arbeit St. 9
+024-028-009	Arbeit St. 10
+024-029		November-Turnier II
+024-029-000	Revolution St. 11
+024-029-001	Revolution St. 12
+024-029-002	Revolution St. 13
+024-029-003	Revolution St. 14
+024-029-004	Revolution St. 15
+024-029-005	Revolution St. 16
+024-029-006	Revolution St. 17
+024-029-007	Revolution St. 18
+024-029-008	Revolution St. 19
+024-029-009	Revolution St. MAX
 
 025			Enigma Stages
 025-000		Atium-Felder

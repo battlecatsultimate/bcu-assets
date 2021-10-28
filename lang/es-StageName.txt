@@ -1268,6 +1268,23 @@
 001-270-003	Aku: Consulta Avanzada
 001-272		Sinfonía de Tentaciones
 001-272-000	Melodía de Akus (Inhumano)
+001-271		Informe de Emperatriz 3
+001-271-000	Aku: Introducción Experta
+001-271-001	Aku: Método Experto
+001-271-002	Aku: Investigación Experta
+001-271-003	Aku: Consulta Experta
+001-272		Sinfonía de Tentaciones
+001-272-000	Melodía de Akus (Inhumano)
+001-274		Mal Proliferante
+001-274-000	Murmullo de Aku (Demencial)
+001-274-001	Murmullo de Aku (Mortal)
+001-274-002	Susurro de Aku (Mortal)
+001-274-003	Susurro de Aku (Inhumano)
+001-275		Informe de Emperatriz 4
+001-275-000	Aku: Introducción Doctorada
+001-275-001	Aku: Método Doctorado
+001-275-002	Aku: Investigación Doctorada
+001-275-003	Aku: Consulta Doctorada
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3522,6 +3539,49 @@
 024-026-007	Noche Deportiva (nvl. 18)
 024-026-008	Noche Deportiva (nvl. 19)
 024-026-009	Noche Deportiva (nvl. máx.)
+024-027		Ataque de L. Fante Letal
+024-027-000	Violencia (nvl. 1)
+024-027-001	Violencia (nvl. 2)
+024-027-002	Violencia (nvl. 3)
+024-027-003	Violencia (nvl. 4)
+024-027-004	Violencia (nvl. 5)
+024-027-005	Violencia (nvl. 6)
+024-027-006	Violencia (nvl. 7)
+024-027-007	Violencia (nvl. 8)
+024-027-008	Violencia (nvl. 9)
+024-027-009	Violencia (nvl. 10)
+024-027-010	Violencia (nvl. 11)
+024-027-011	Violencia (nvl. 12)
+024-027-012	Violencia (nvl. 13)
+024-027-013	Violencia (nvl. 14)
+024-027-014	Violencia (nvl. 15)
+024-027-015	Violencia (nvl. 16)
+024-027-016	Violencia (nvl. 17)
+024-027-017	Violencia (nvl. 18)
+024-027-018	Violencia (nvl. 19)
+024-027-019	Violencia (nvl. máx.)
+024-028		Desafío de Noviembre
+024-028-000	Trabajo (nvl. 1)
+024-028-001	Trabajo (nvl. 2)
+024-028-002	Trabajo (nvl. 3)
+024-028-003	Trabajo (nvl. 4)
+024-028-004	Trabajo (nvl. 5)
+024-028-005	Trabajo (nvl. 6)
+024-028-006	Trabajo (nvl. 7)
+024-028-007	Trabajo (nvl. 8)
+024-028-008	Trabajo (nvl. 9)
+024-028-009	Trabajo (nvl. 10)
+024-029		Desafío de Noviembre II
+024-029-000	Revolución (nvl. 11)
+024-029-001	Revolución (nvl. 12)
+024-029-002	Revolución (nvl. 13)
+024-029-003	Revolución (nvl. 14)
+024-029-004	Revolución (nvl. 15)
+024-029-005	Revolución (nvl. 16)
+024-029-006	Revolución (nvl. 17)
+024-029-007	Revolución (nvl. 18)
+024-029-008	Revolución (nvl. 19)
+024-029-009	Revolución (nvl. máx.)
 
 025			Enigma Stages
 025-000		Campos de Aitum
