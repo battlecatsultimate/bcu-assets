@@ -2574,6 +2574,14 @@
 004-041-000	Bombardera (Mortal)
 004-042		Los reinos de akus
 004-042-000	Monte Aku
+004-043		¡Barón Foca Ataca
+004-043-000	Naturaleza Base (Mortal)
+004-043-001	Naturaleza Cima (Inhumano)
+004-043-002	Naturaleza Frontera (Inhumano)
+004-044		Ataque de L. Fante Letal
+004-044-000	Naturaleza Base (Mortal)
+004-044-001	Naturaleza Cima (Inhumano)
+004-044-002	Naturaleza Frontera (Inhumano)
 
 006			Dojo Afilagarras
 006-000		Sala de Iniciados
@@ -3452,7 +3460,7 @@
 024-019-017	Indicios del Otoño
 024-019-018	Fuegos Artificiales
 024-019-019	Deberes de Última Hora
-024-020		
+024-020		¡Barón Foca Ataca
 024-020-000	Alerta Roja 1
 024-020-001	Alerta Roja 2
 024-020-002	Alerta Roja 3

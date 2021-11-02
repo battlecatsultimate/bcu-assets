@@ -2599,6 +2599,14 @@
 004-041-000	Bombergirl (Deadly)
 004-042		The Aku Realms
 004-042-000	Mount Aku
+004-043		Baron Seal Strikes
+004-043-000	Cradle Wilderness (Deadly)
+004-043-001	Summit Wilderness (Merciless)
+004-043-002	Frontier Wilderness (Merciless)
+004-044		Le'Grim Strikes
+004-044-000	Cradle Wilderness (Deadly)
+004-044-001	Summit Wilderness (Merciless)
+004-044-002	Frontier Wilderness (Merciless)
 
 006			Catclaw Dojo
 006-000		Hall of Initiates

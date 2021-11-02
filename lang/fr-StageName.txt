@@ -2573,6 +2573,14 @@
 004-041-000	Poseuse de bombe (mortel)
 004-042		Les Royaumes Aku
 004-042-000	Mont Aku
+004-043		Attaque du Baron phoque
+004-043-000	Nature au berceau (mortel)
+004-043-001	Nature au sommet (sans répit)
+004-043-002	Nature frontière (sans répit)
+004-044		Éléphunèbre frappe
+004-044-000	Nature au berceau (mortel)
+004-044-001	Nature au sommet (sans répit)
+004-044-002	Nature frontière (sans répit)
 
 006			Dojo Griffélin
 006-000		Salle des initiés
@@ -3451,7 +3459,7 @@
 024-019-017	Des airs d'automne
 024-019-018	Bouquet final
 024-019-019	Devoirs de dernière minute
-024-020		
+024-020		Attaque du Baron phoque
 024-020-000	Alerte rouge 1
 024-020-001	Alerte rouge 2
 024-020-002	Alerte rouge 3

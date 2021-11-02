@@ -2571,6 +2571,14 @@
 004-041-000	Junge Bomberin (Tödlich)
 004-042		Das Reich der Aku
 004-042-000	Akuberg
+004-043		Baron Robbe schlägt zu
+004-043-000	Hortwildnis (Tödlich)
+004-043-001	Gipfelwildnis (Gnadenlos)
+004-043-002	Grenzwildnis (Gnadenlos)
+004-044		Grummelfant schlägt zu
+004-044-000	Hortwildnis (Tödlich)
+004-044-001	Gipfelwildnis (Gnadenlos)
+004-044-002	Grenzwildnis (Gnadenlos)
 
 006			Katzenkrallendojo
 006-000		Halle der Initianden
@@ -3449,7 +3457,7 @@
 024-019-017	Herbstvorboten
 024-019-018	Letztes Feuerwerk
 024-019-019	Schnelle Hausaufgaben
-024-020		
+024-020		Baron Robbe schlägt zu
 024-020-000	Roter Alarm 1
 024-020-001	Roter Alarm 2
 024-020-002	Roter Alarm 3

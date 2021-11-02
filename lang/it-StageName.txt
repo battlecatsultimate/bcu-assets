@@ -2577,6 +2577,14 @@
 004-041-000	Bombarola (Letale)
 004-042		I regni Aku
 004-042-000	Monte Aku
+004-043		Baron Foca colpisce
+004-043-000	Culla selvaggia (Letale)
+004-043-001	Cima selvaggia (Spietato)
+004-043-002	Confine selvaggio (Spietato)
+004-044		Ele-tale attacca
+004-044-000	Culla selvaggia (Letale)
+004-044-001	Cima selvaggia (Spietato)
+004-044-002	Confine selvaggio (Spietato)
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -3455,7 +3463,7 @@
 024-019-017	Indizi autunnali
 024-019-018	Fuochi d'artificio finali
 024-019-019	Compiti all'ultimo minuto
-024-020		
+024-020		Baron Foca colpisce
 024-020-000	Allarme Rosso 1
 024-020-001	Allarme Rosso 2
 024-020-002	Allarme Rosso 3
