@@ -66,13 +66,13 @@
 065	Lione Hippoe
 066	Lucky Sloth
 067	Audience Bears
-068	
+068	Monkey King
 069	White Cyclone
 070	Black Cyclone
 071	Metal Cyclone
-072	
-073	
-074	
+072	Nimue
+073	Neutralization Type Nimue
+074	SSS Monkey King
 075	Crazed Cat
 076	Crazed Tank Cat
 077	Crazed Axe Cat
@@ -159,8 +159,8 @@
 158	Takuya
 159	Yuki
 160	Chickful A
-161	
-162	
+161	Mob Cat
+162	Yakuza Vampire
 163	Hearscht
 164	Cornelia
 165	Alois
@@ -430,8 +430,8 @@
 429	Homulilly
 430	Satan Claus
 431	Bakoo
-432	
-433	
+432	Hikakin
+433	Mukyakin
 434	Sister Lione
 435	
 436	
@@ -548,7 +548,7 @@
 547	Mr. Mer
 548	
 549	Ragin' Gory
-550	
+550	Shin Godzilla
 551	Elder Flame Doron
 552	Aku Doge
 553	Sinner Snache
@@ -559,9 +559,9 @@
 558	Fallen Bear
 559	Wicked Face
 560	Aku Cyclone
-561	
-562	
-563	
+561	Wicked Cat
+562	Wicked Tank Cat
+563	Wicked Axe Cat
 564	
 565	
 566	
@@ -572,12 +572,12 @@
 571	High Priest Mamon
 572	Lord of Ruin Jagando
 573	Possessed Empress
-574	
-575	
+574	Aku Altar
+575	Inactive Aku Altar
 576	
 577	
 578	
-579	
+579	Kyubey
 580	
 581	
 582	
