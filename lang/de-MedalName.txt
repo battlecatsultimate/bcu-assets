@@ -90,3 +90,5 @@
 89	★ Sturm des Bösen ★
 90	★ Welt der Dunkelheit ★
 91	★ Betörende Komposition ★
+92	★ Versperrt die Tore ★
+93	★ Inferno 30 ★

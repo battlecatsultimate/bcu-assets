@@ -14,7 +14,7 @@
 013	<br><br>
 014	<br><br>
 015	<br><br>
-016	<br><br>
+016	Wahre-Form-Entwicklung erhöht<br>Verteidigung, höhere Chance auf Haudrauf-<br>Angriffe und erhält Mini-Welle-Fähigkeit.
 017	<br><br>
 018	<br><br>
 019	<br><br>
@@ -308,7 +308,7 @@
 307	Wahre Form erhöht Vert. und Bewegungs-<br>tempo deutlich! Zudem halten bei<br>Zombies Verlangsamen-Effekte länger an!
 308	Wahre Form erhöht Verteidigung deutlich!<br>Auch die Angriffsreichweite wird erhöht und<br>die Einfrierdauer bei Zombies steigt!
 309	<br><br>
-310	<br><br>
+310	Wahre-Form-Entwicklung erhöht<br>Verteidigung + Rückstoß und<br>Lähmen gg. Aku-Feinde!
 311	<br><br>
 312	<br><br>
 313	<br><br>
@@ -582,7 +582,7 @@
 581	<br><br>
 582	<br><br>
 583	<br><br>
-584	<br><br>
+584	Wahre-Form-Entwicklung erhöht Vert.,<br>Verteidigung gegen Aku-Feinde und<br>bessere Stärke-Erhöhungen!
 585	<br><br>
 586	<br><br>
 587	<br><br>
@@ -631,3 +631,7 @@
 630	<br><br>
 631	<br><br>
 632	<br><br>
+633	<br><br>
+634	<br><br>
+635	<br><br>
+636	<br><br>

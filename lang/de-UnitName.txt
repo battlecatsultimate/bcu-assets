@@ -14,7 +14,7 @@
 013	Dom-Katze	Henker	Darth Laser
 014	Kistenkatzen	Katzenbande	Offensiver C.A.T.
 015	Höschen-Katze	Blattkatze	Lolli-Katze
-016	Moneko	Fräulein Moneko	
+016	Moneko	Fräulein Moneko	Superstar MONEKO
 017	Dreiradkatze	Motorradkatze	Einradkatze
 018	Ninja-Katze	Ninja-Froschkatze	Fliegende Ninja-Katze
 019	Zombie-Katze	Teufelskatze	Skelett-Katze
@@ -308,7 +308,7 @@
 307	Hochsprungkatze	Stabsprungkatze	Hausfrauenkatze
 308	Gärtnerkatze	Holzfällerkatze	Unkrautjäter-Katze
 309			
-310	Julfestschwester	Jul-Ordensschwester	
+310	Julfestschwester	Jul-Ordensschwester	Julstimmungsschwester
 311	Kleine Fischkatze	Kleine Walkatze	Kleine Inselkatze
 312	Kleine Echsenkatze	Kleine Drachenkatze	Kleine Königsdrachenkatze
 313	Kleine Titanenkatze	Kleine mythische Titanenkatze	Kleine Jamierakatze
@@ -350,7 +350,7 @@
 349			
 350			
 351	Zwillinge	Zwillinge, Typ Φ	Himmlische Zwillinge
-352	Eremiten-Katze	Großmeisterkatze	
+352	Eremiten-Katze	Großmeisterkatze	Maskierte Großmeisterkatze
 353			
 354	Strand-Kai	Strand-Kai, Typ μ	
 355	Mächtige Aufklärer	Orbitalbasis „Armageddon“	Orbitalzerstörer „Ragnarök“
@@ -582,7 +582,7 @@
 581	Steinkatze	Felskatze	
 582	Hatsune Miku: MM2020 Osaka	Hatsune Miku CC: MM2020 Osaka	
 583	Hatsune Miku: MM2020 Tokyo	Hatsune Miku CC: MM2020 Tokyo	
-584	Keiji Claus	Weihnachts-Maeda	
+584	Keiji Claus	Weihnachts-Maeda	Weihnachts-Maeda DX
 585	Baby-Garu	Mächtiger Aegis-Garu	
 586	Kaiserkatze	Tyrannenkatze	
 587	Süße Aphrodite	Schokodite	
@@ -628,6 +628,10 @@
 627			
 628			
 629	Gehirngewaschene Katze	Gehirngewaschene Macho-Katze	
-630			
+630	Kalligraphie-Katze	Teemeister-Katze	
 631	Yamii	Yaminoir	
 632	Mächtiger Zer-Nicht-R	Belagerungsläufer Diabolosa	
+633	Shitakari-Spatz	Chunchun-Spuker	
+634	Weißer-Ritter-Zyklop	Schwarzer-Ritter-Zyklop	
+635			
+636	Beeinflusste Panzer-Katze	Beeinflusste Wallkatze	

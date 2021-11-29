@@ -120,6 +120,7 @@
 159	5 000 XP
 160	Semilla felina de Aku
 161	Fruta felina de Aku
+164	Semilla Felina Dorada
 1005	Gato de Bronce
 1100	Gato de Bronce
 1001	Gato Deportista
@@ -223,6 +224,7 @@
 1054	Máscara Doron Viejuna
 1055	Investigador Aku
 1056	Gato de Hamelín
+1057	Gato Calígrafo
 19001	Gato Crestado
 19002	Gato Borrador
 19003	Gato Oscuro
@@ -239,6 +241,7 @@
 10014	Eladio Oscuro
 10015	Gato de Asalto
 10016	Gatopiruleta
+15017	Moneko Superestrella
 10018	Gato Monociclo
 10019	Gato Ninja Volador
 10020	Esquelegato
@@ -397,6 +400,7 @@
 15307	MIAU-02 Ciudadela Aérea
 15308	Gata Ama de Casa
 15309	Gato Desbrozador
+15311	Enfermera Navideña
 10312	Minigato Isleño
 10313	Minigato Dragón Rey
 10314	Minimiautante
@@ -413,6 +417,7 @@
 15345	Artist Orthos CC
 15346	Naptime Michelia CC
 15352	Astrogemelas Divinas
+10353	Gato Gran Maestro Disfrazado
 15356	Plataforma Orbital Asoladora
 15358	Deale Reina Bufona
 15359	Verbena Opulenta
@@ -473,6 +478,7 @@
 15535	Hades Todopoderoso
 15557	Ghost Alibaba
 15570	Petrolodón
+15585	Maeda Navideño DX
 15611	Rey Nekokhamen
 30000	Aumento de ataque D: Rojos
 30001	Aumento de ataque C: Rojos

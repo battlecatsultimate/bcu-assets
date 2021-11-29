@@ -14,7 +14,7 @@
 013	Chatte dom	Chadique	Dark Lasor
 014	Chats dans un carton	Gang de Chats	Chartillerie lourde
 015	Chat culotte	Chat feuille	Chat sucette
-016	Moneko	Miss Moneko	
+016	Moneko	Miss Moneko	Moneko Superstar
 017	Chat tricycle	Chat motard	Chat monocycle
 018	Chat ninja	Chat ninja grenouille	Chat ninja volant
 019	Chat zombie	Chat diable	Chat squelette
@@ -308,7 +308,7 @@
 307	Chatte perchiste	Chatte sauteuse	Chatte au foyer
 308	Chardinier	Bûcharon	Charticulteur
 309			
-310	Félinfirmière de Noël	Félinfirmière chevaleresque	
+310	Félinfirmière de Noël	Félinfirmière chevaleresque	Félinfirmière de Noël
 311	P’tit Chat poisson	P’tit Chat baleine	P’tit Chat île
 312	P’tit Chat lézard	P’tit Chat dragon	P’tit Chat roi dragon
 313	P’tit Chat titan	P’tit Chat titan mythique	P’tit Chat Jamilar
@@ -350,7 +350,7 @@
 349			
 350			
 351	Jumelles	Jumelles, type Φ	Jumelles divines
-352	Chat ermite	Grand maître Chat	
+352	Chat ermite	Grand maître Chat	Grand maître Chat masqué
 353			
 354	Kai océane	Kai océane, type μ	
 355	Puissant corps chalactique	Station orbitale Armageddon	Destructeur orbital Ragnarök
@@ -582,7 +582,7 @@
 581	Chat de pierre	Chat rocher	
 582	Hatsune Miku: MM2020 Osaka	Hatsune Miku CC: MM2020 Osaka	
 583	Hatsune Miku: MM2020 Tokyo	Hatsune Miku CC: MM2020 Tokyo	
-584	Papa Keiji	Maeda Noël	
+584	Papa Keiji	Maeda Noël	Maeda Noël de luxe
 585	Bébé Garu	Puissant Aegis Garu	
 586	Chat empereur	Chat tyran	
 587	Douce Aphrodite	Chocoladite	
@@ -628,6 +628,10 @@
 627			
 628			
 629	Chat sous contrôle	Chat macho sous contrôle	
-630			
+630	Challigraphe	Chat maître du thé	
 631	Yamii	Yaminoir	
 632	Puissant Dess-truk-teur	Diabolosa brise-siège	
+633	Moineau shitakiri	Chasseurs Chunchun	
+634	Cyclope chevalier blanc	Cyclope chevalier noir	
+635			
+636	Chat tank sous contrôle	Chat mur sous contrôle	

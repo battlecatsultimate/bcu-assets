@@ -120,6 +120,7 @@
 159	5.000 XP
 160	Seme miagrume Aku
 161	Miagrume Aku
+164	Seme miagrume oro
 1005	Busto di Gatto
 1100	Busto di Gatto
 1001	Gatto sportivo
@@ -223,6 +224,7 @@
 1054	Doron in maschera stagionato
 1055	Ricercatore di Aku
 1056	Gatto pifferaio
+1057	Gatto calligrafo
 19001	Gatto punk
 19002	Gatto gomma
 19003	Gatto oscuro
@@ -239,6 +241,7 @@
 10014	Lazer oscuro
 10015	G.A.T.T.O. d'assalto
 10016	Gatto Lecca-lecca
+15017	MONEKO Superstar
 10018	Gatto monociclo
 10019	Gatto ninja volante
 10020	Schelegatto
@@ -397,6 +400,7 @@
 15307	Aeroccaforte NEK-02
 15308	Gatta casalinga
 15309	Gattosaerba
+15311	Tata spirito di Natale
 10312	Mini Gattisola
 10313	Mini Gatto Re Dragone
 10314	Mini Gatto Jamiera
@@ -413,6 +417,7 @@
 15345	Artist Orthos CC
 15346	Naptime Michelia CC
 15352	Stelle gemelle dee
+10353	Gran Miaoestro mascherato
 15356	Destroyer orbitale Ragnarok
 15358	Deale regina giullare
 15359	Verbena Opulenta
@@ -473,6 +478,7 @@
 15535	Ade Onnipotente
 15557	Ghost Alibaba
 15570	Gravolodon
+15585	Maeda Natale DX
 15611	Re Nekokhamen
 30000	Più attacco D: Rosso
 30001	Più attacco C: Rosso

@@ -90,3 +90,5 @@
 89	★ Tempesta del male ★
 90	★ Mondo delle tenebre ★
 91	★ Composizione seducente ★
+92	★ Chiudi i cancelli ★
+93	★ Inferno 30 ★

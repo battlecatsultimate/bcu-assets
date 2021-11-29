@@ -1285,6 +1285,8 @@
 001-271-002	Aku Studies 301: Field Research
 001-271-003	Aku Studies 301: Inquiry
 001-272		Temptation's Symphony
+001-273		Rashomon
+001-273-000	Aku Reincarnation (Merciless)
 001-272-000	Aku's Melody (Merciless)
 001-274		Growing Evil
 001-274-000	Aku's Murmur (Insane)
@@ -1296,6 +1298,11 @@
 001-275-001	Aku Studies 401: Methods
 001-275-002	Aku Studies 401: Field Research
 001-275-003	Aku Studies 401: Inquiry
+001-276		Empress' Report 5
+001-276-000	Aku Studies 501: Intro
+001-276-001	Aku Studies 501: Methods
+001-276-002	Aku Studies 501: Field Research
+001-276-003	Aku Studies 501: Inquiry
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2607,6 +2614,14 @@
 004-044-000	Cradle Wilderness (Deadly)
 004-044-001	Summit Wilderness (Merciless)
 004-044-002	Frontier Wilderness (Merciless)
+004-045		Mega Menace
+004-045-000	Cradle Wilderness (Deadly)
+004-045-001	Summit Wilderness (Merciless)
+004-045-002	Frontier Wilderness (Merciless)
+004-046		Horrorpotamus
+004-046-000	Cradle Wilderness (Deadly)
+004-046-001	Summit Wilderness (Merciless)
+004-046-002	Frontier Wilderness (Merciless)
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
@@ -2719,6 +2734,37 @@
 007-005-007	Floor 8
 007-005-008	Floor 9
 007-005-009	Top Floor
+007-006		Infernal Tower
+007-006-000	Floor 1
+007-006-001	Floor 2
+007-006-002	Floor 3
+007-006-003	Floor 4
+007-006-004	Floor 5
+007-006-005	Floor 6
+007-006-006	Floor 7
+007-006-007	Floor 8
+007-006-008	Floor 9
+007-006-009	Floor 10
+007-006-010	Floor 11
+007-006-011	Floor 12
+007-006-012	Floor 13
+007-006-013	Floor 14
+007-006-014	Floor 15
+007-006-015	Floor 16
+007-006-016	Floor 17
+007-006-017	Floor 18
+007-006-018	Floor 19
+007-006-019	Floor 20
+007-006-020	Floor 21
+007-006-021	Floor 22
+007-006-022	Floor 23
+007-006-023	Floor 24
+007-006-024	Floor 25
+007-006-025	Floor 26
+007-006-026	Floor 27
+007-006-027	Floor 28
+007-006-028	Floor 29
+007-006-029	Floor 30
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -3028,6 +3074,13 @@
 013-037-005	Hell's All-Stars
 013-038		Imminent Disaster
 013-038-000	Aku Altar's Seal
+013-039		Bikura, Harbor of Evil
+013-039-000	Toy Boat Graveyard
+013-039-001	Breathtaking Waves
+013-039-002	Dried Fish Market
+013-039-003	Breakwater Blood Feud
+013-039-004	Fishermen On Strike
+013-039-005	Seahorses Caught
 
 014			Drink Stages
 014-000		Growing Yellow
@@ -3613,6 +3666,92 @@
 024-029-007	Revolution Lv.18
 024-029-008	Revolution Lv.19
 024-029-009	Revolution Lv.MAX
+024-030		December Gauntlet
+024-030-000	Jingle Cat Lv.1
+024-030-001	Jingle Cat Lv.2
+024-030-002	Jingle Cat Lv.3
+024-030-003	Jingle Cat Lv.4
+024-030-004	Jingle Cat Lv.5
+024-030-005	Jingle Cat Lv.6
+024-030-006	Jingle Cat Lv.7
+024-030-007	Jingle Cat Lv.8
+024-030-008	Jingle Cat Lv.9
+024-030-009	Jingle Cat Lv.10
+024-031		December Gauntlet II
+024-031-000	In Space Lv.11
+024-031-001	In Space Lv.12
+024-031-002	In Space Lv.13
+024-031-003	In Space Lv.14
+024-031-004	In Space Lv.15
+024-031-005	In Space Lv.16
+024-031-006	In Space Lv.17
+024-031-007	In Space Lv.18
+024-031-008	In Space Lv.19
+024-031-009	In Space Lv.MAX
+024-032		January Gauntlet
+024-032-000	New Year? Lv.1
+024-032-001	New Year? Lv.2
+024-032-002	New Year? Lv.3
+024-032-003	New Year? Lv.4
+024-032-004	New Year? Lv.5
+024-032-005	New Year? Lv.6
+024-032-006	New Year? Lv.7
+024-032-007	New Year? Lv.8
+024-032-008	New Year? Lv.9
+024-032-009	New Year? Lv.10
+024-033		January Gauntlet II
+024-033-000	Another Year Lv.11
+024-033-001	Another Year Lv.12
+024-033-002	Another Year Lv.13
+024-033-003	Another Year Lv.14
+024-033-004	Another Year Lv.15
+024-033-005	Another Year Lv.16
+024-033-006	Another Year Lv.17
+024-033-007	Another Year Lv.18
+024-033-008	Another Year Lv.19
+024-033-009	Another Year Lv.MAX
+024-034		Mega Menace
+024-034-000	On Mighty Wings Lv1
+024-034-001	On Mighty Wings Lv2
+024-034-002	On Mighty Wings Lv3
+024-034-003	On Mighty Wings Lv4
+024-034-004	On Mighty Wings Lv5
+024-034-005	On Mighty Wings Lv6
+024-034-006	On Mighty Wings Lv7
+024-034-007	On Mighty Wings Lv8
+024-034-008	On Mighty Wings Lv9
+024-034-009	On Mighty Wings Lv10
+024-034-010	On Mighty Wings Lv11
+024-034-011	On Mighty Wings Lv12
+024-034-012	On Mighty Wings Lv13
+024-034-013	On Mighty Wings Lv14
+024-034-014	On Mighty Wings Lv15
+024-034-015	On Mighty Wings Lv16
+024-034-016	On Mighty Wings Lv17
+024-034-017	On Mighty Wings Lv18
+024-034-018	On Mighty Wings Lv19
+024-034-019	On Mighty Wings Lv.MAX
+024-035		Horrorpotamus
+024-035-000	Cosmic Juggernaut Lv.1
+024-035-001	Cosmic Juggernaut Lv.2
+024-035-002	Cosmic Juggernaut Lv.3
+024-035-003	Cosmic Juggernaut Lv.4
+024-035-004	Cosmic Juggernaut Lv.5
+024-035-005	Cosmic Juggernaut Lv.6
+024-035-006	Cosmic Juggernaut Lv.7
+024-035-007	Cosmic Juggernaut Lv.8
+024-035-008	Cosmic Juggernaut Lv.9
+024-035-009	Cosmic Juggernaut Lv.10
+024-035-010	Cosmic Juggernaut Lv.11
+024-035-011	Cosmic Juggernaut Lv.12
+024-035-012	Cosmic Juggernaut Lv.13
+024-035-013	Cosmic Juggernaut Lv.14
+024-035-014	Cosmic Juggernaut Lv.15
+024-035-015	Cosmic Juggernaut Lv.16
+024-035-016	Cosmic Juggernaut Lv.17
+024-035-017	Cosmic Juggernaut Lv.18
+024-035-018	Cosmic Juggernaut Lv.19
+024-035-019	Cosmic Juggernaut Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields

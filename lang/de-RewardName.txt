@@ -120,6 +120,7 @@
 159	5.000 XP
 160	Aku-Katzenfruchtkern
 161	Aku-Katzenfrucht
+164	Goldener Katzenfruchtkern
 1005	Bronzekatze
 1100	Bronzekatze
 1001	Sporttagkatze
@@ -223,6 +224,7 @@
 1054	Ältestenmaske Doron
 1055	Aku-Forscher
 1056	Rattenfänger-Katze
+1057	Kalligraphie-Katze
 19001	Irokatze
 19002	Radierkatze
 19003	Dunkle Katze
@@ -239,6 +241,7 @@
 10014	Darth Laser
 10015	Offensiver C.A.T.
 10016	Lolli-Katze
+15017	Superstar MONEKO
 10018	Einradkatze
 10019	Fliegende Ninja-Katze
 10020	Skelett-Katze
@@ -397,6 +400,7 @@
 15307	NEK-02-Luftzitadelle
 15308	Hausfrauenkatze
 15309	Unkrautjäter-Katze
+15311	Julstimmungsschwester
 10312	Kleine Inselkatze
 10313	Kleine Königsdrachenkatze
 10314	Kleine Jamierakatze
@@ -413,6 +417,7 @@
 15345	Artist Orthos CC
 15346	Naptime Michelia CC
 15352	Himmlische Zwillinge
+10353	Maskierte Großmeisterkatze
 15356	Orbitalzerstörer „Ragnarök“
 15358	Narrenkönigin Deale
 15359	Opulente Verbena
@@ -473,6 +478,7 @@
 15535	Allmächtiger Hades
 15557	Ghost Alibaba
 15570	Kiesolodon
+15585	Weihnachts-Maeda DX
 15611	König Nekokhamen
 30000	Angriff + D: Rot
 30001	Angriff + C: Rot

@@ -90,3 +90,5 @@
 89	Schließe „Der große Diablo“ ab.
 90	Schließe alle Level in „Das Reich der Aku“ ab
 91	Schließe „Symphonie der Versuchung“ ab
+92	Schließe „Rashomon“ ab.
+93	Schließe Ebene 30 des Höllischen Turms ab.

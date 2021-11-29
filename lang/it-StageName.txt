@@ -1278,6 +1278,8 @@
 001-271-003	Corso approfondito sugli Aku: inchiesta
 001-272		Sinfonia della tentazione
 001-272-000	Melodia Aku (Spietato)
+001-273		Rashomon
+001-273-000	Reincarnazione Aku (Spietato)
 001-274		Più cattivi
 001-274-000	Mormorio Aku (Folle)
 001-274-001	Mormorio Aku (Letale)
@@ -1288,6 +1290,11 @@
 001-275-001	Corso specialistico sugli Aku: tecniche
 001-275-002	Corso specialistico sugli Aku: ricerca
 001-275-003	Corso specialistico sugli Aku: inchiesta
+001-276		Resoconto dell'imperatrice 5
+001-276-000	Corso superiore sugli Aku: introd.
+001-276-001	Corso superiore sugli Aku: tecniche
+001-276-002	Corso superiore sugli Aku: ricerca
+001-276-003	Corso super. sugli Aku: inchiesta
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2585,6 +2592,14 @@
 004-044-000	Culla selvaggia (Letale)
 004-044-001	Cima selvaggia (Spietato)
 004-044-002	Confine selvaggio (Spietato)
+004-045		Mega minaccia
+004-045-000	Culla selvaggia (Letale)
+004-045-001	Cima selvaggia (Spietato)
+004-045-002	Confine selvaggio (Spietato)
+004-046		Orrorpotamo
+004-046-000	Culla selvaggia (Letale)
+004-046-001	Cima selvaggia (Spietato)
+004-046-002	Confine selvaggio (Spietato)
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -2697,6 +2712,37 @@
 007-005-007	8° piano
 007-005-008	9° piano
 007-005-009	Ultimo piano
+007-006		Torre infernale
+007-006-000	1° piano
+007-006-001	2° piano
+007-006-002	3° piano
+007-006-003	4° piano
+007-006-004	5° piano
+007-006-005	6° piano
+007-006-006	7° piano
+007-006-007	8° piano
+007-006-008	9° piano
+007-006-009	10° piano
+007-006-010	11° piano
+007-006-011	12° piano
+007-006-012	13° piano
+007-006-013	14° piano
+007-006-014	15° piano
+007-006-015	16° piano
+007-006-016	17° piano
+007-006-017	18° piano
+007-006-018	19° piano
+007-006-019	20° piano
+007-006-020	21° piano
+007-006-021	22° piano
+007-006-022	23° piano
+007-006-023	24° piano
+007-006-024	25° piano
+007-006-025	26° piano
+007-006-026	27° piano
+007-006-027	28° piano
+007-006-028	29° piano
+007-006-029	30° piano
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -3008,6 +3054,13 @@
 013-037-005	All-Stars infernale
 013-038		Disastro Imminente
 013-038-000	Blocco dell'altare Aku
+013-039		Bikura, rifugio del male
+013-039-000	Relitti di barchette
+013-039-001	Ondate mozzafiato
+013-039-002	Mercato del baccalà
+013-039-003	Faida tra i flutti
+013-039-004	Pescatori in sciopero
+013-039-005	Campo di ippocampi
 
 014			Drink Stages
 014-000		Giallo rigoglioso
@@ -3593,6 +3646,92 @@
 024-029-007	Rivoluzione Liv. 18
 024-029-008	Rivoluzione Liv. 19
 024-029-009	Rivoluzione Liv. MAX
+024-030		Sfida di dicembre
+024-030-000	Gatto del ciel Liv. 1
+024-030-001	Gatto del ciel Liv. 2
+024-030-002	Gatto del ciel Liv. 3
+024-030-003	Gatto del ciel Liv. 4
+024-030-004	Gatto del ciel Liv. 5
+024-030-005	Gatto del ciel Liv. 6
+024-030-006	Gatto del ciel Liv. 7
+024-030-007	Gatto del ciel Liv. 8
+024-030-008	Gatto del ciel Liv. 9
+024-030-009	Gatto del ciel Liv. 10
+024-031		Sfida di dicembre II
+024-031-000	Spaziale Liv. 11
+024-031-001	Spaziale Liv. 12
+024-031-002	Spaziale Liv. 13
+024-031-003	Spaziale Liv. 14
+024-031-004	Spaziale Liv. 15
+024-031-005	Spaziale Liv. 16
+024-031-006	Spaziale Liv. 17
+024-031-007	Spaziale Liv. 18
+024-031-008	Spaziale Liv. 19
+024-031-009	Spaziale Liv. MAX
+024-032		Sfida di gennaio
+024-032-000	Anno nuovo? Liv. 1
+024-032-001	Anno nuovo? Liv. 2
+024-032-002	Anno nuovo? Liv. 3
+024-032-003	Anno nuovo? Liv. 4
+024-032-004	Anno nuovo? Liv. 5
+024-032-005	Anno nuovo? Liv. 6
+024-032-006	Anno nuovo? Liv. 7
+024-032-007	Anno nuovo? Liv. 8
+024-032-008	Anno nuovo? Liv. 9
+024-032-009	Anno nuovo? Liv. 10
+024-033		Sfida di gennaio II
+024-033-000	Un altro anno Liv. 11
+024-033-001	Un altro anno Liv. 12
+024-033-002	Un altro anno Liv. 13
+024-033-003	Un altro anno Liv. 14
+024-033-004	Un altro anno Liv. 15
+024-033-005	Un altro anno Liv. 16
+024-033-006	Un altro anno Liv. 17
+024-033-007	Un altro anno Liv. 18
+024-033-008	Un altro anno Liv. 19
+024-033-009	Un altro anno Liv. MAX
+024-034		Mega minaccia
+024-034-000	Su ali possenti Liv. 1
+024-034-001	Su ali possenti Liv. 2
+024-034-002	Su ali possenti Liv. 3
+024-034-003	Su ali possenti Liv. 4
+024-034-004	Su ali possenti Liv. 5
+024-034-005	Su ali possenti Liv. 6
+024-034-006	Su ali possenti Liv. 7
+024-034-007	Su ali possenti Liv. 8
+024-034-008	Su ali possenti Liv. 9
+024-034-009	Su ali possenti Liv. 10
+024-034-010	Su ali possenti Liv. 11
+024-034-011	Su ali possenti Liv. 12
+024-034-012	Su ali possenti Liv. 13
+024-034-013	Su ali possenti Liv. 14
+024-034-014	Su ali possenti Liv. 15
+024-034-015	Su ali possenti Liv. 16
+024-034-016	Su ali possenti Liv. 17
+024-034-017	Su ali possenti Liv. 18
+024-034-018	Su ali possenti Liv. 19
+024-034-019	Su ali possenti Liv. MAX
+024-035		Orrorpotamo
+024-035-000	Furia cosmica Liv. 1
+024-035-001	Furia cosmica Liv. 2
+024-035-002	Furia cosmica Liv. 3
+024-035-003	Furia cosmica Liv. 4
+024-035-004	Furia cosmica Liv. 5
+024-035-005	Furia cosmica Liv. 6
+024-035-006	Furia cosmica Liv. 7
+024-035-007	Furia cosmica Liv. 8
+024-035-008	Furia cosmica Liv. 9
+024-035-009	Furia cosmica Liv. 10
+024-035-010	Furia cosmica Liv. 11
+024-035-011	Furia cosmica Liv. 12
+024-035-012	Furia cosmica Liv. 13
+024-035-013	Furia cosmica Liv. 14
+024-035-014	Furia cosmica Liv. 15
+024-035-015	Furia cosmica Liv. 16
+024-035-016	Furia cosmica Liv. 17
+024-035-017	Furia cosmica Liv. 18
+024-035-018	Furia cosmica Liv. 19
+024-035-019	Furia cosmica Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum

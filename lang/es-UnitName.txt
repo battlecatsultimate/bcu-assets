@@ -14,7 +14,7 @@
 013	Domigatriz	Verdugo	Eladio Oscuro
 014	Caja de Gatitos	Gatos Pandilleros	Gato de Asalto
 015	Gato Braguitas	Gato Hoja	Gatopiruleta
-016	Moneko	Miss Moneko	
+016	Moneko	Miss Moneko	Moneko Superestrella
 017	Gato Triciclo	Gato Motero	Gato Monociclo
 018	Gato Ninja	Gato Ninja en Rana	Gato Ninja Volador
 019	Gato Zombi	Gato Demonio	Esquelegato
@@ -308,7 +308,7 @@
 307	Gato con Pértiga	Gata con Pértiga	Gata Ama de Casa
 308	Gato Jardinero	Gato Leñador	Gato Desbrozador
 309			
-310	Enfermera Candela	Enfermera Candelaria	
+310	Enfermera Candela	Enfermera Candelaria	Enfermera Navideña
 311	Minipescado	Miniballegato	Minigato Isleño
 312	Minilagarto	Minigato Dragón	Minigato Dragón Rey
 313	Minititán	Minigato Titán Mítico	Minimiautante
@@ -350,7 +350,7 @@
 349			
 350			
 351	Astrogemelas	Astrogemelas (Φ)	Astrogemelas Divinas
-352	Gato Ermitaño	Gato Gran Maestro	
+352	Gato Ermitaño	Gato Gran Maestro	Gato Gran Maestro Disfrazado
 353			
 354	Kai Playera	Kai Playera (μ)	
 355	Cuerpo Explorador Brutal	Armagedón Plataforma Orbital	Plataforma Orbital Asoladora
@@ -582,7 +582,7 @@
 581	Gato Piedra	Gato Peñasco	
 582	Hatsune Miku: MM2020 Osaka	Hatsune Miku CC: MM2020 Osaka	
 583	Hatsune Miku: MM2020 Tokyo	Hatsune Miku CC: MM2020 Tokyo	
-584	Keiji Noel	Maeda Navideño	
+584	Keiji Noel	Maeda Navideño	Maeda Navideño DX
 585	Garu Bebé	Aegis Garu Todopoderoso	
 586	Gato Emperador	Gato Tirano	
 587	Dulce Afrodita	Chocoladita	
@@ -628,6 +628,10 @@
 627			
 628			
 629	Gato Adoctrinado	Gato Mazado Adoctrinado	
-630			
+630	Gato Calígrafo	Gato Maestro del Té	
 631	Yamii	Yaminoir	
 632	Dez-Troyer-R Brutal	Diabolosa Cruzaasedios	
+633	Gorrión Cazatesoros	Cazadores Chunchun	
+634	Cíclope Caballero Blanco	Cíclope Caballero Negro	
+635			
+636	Gato Defensor Adoctrinado	Gato Muro Adoctrinado	

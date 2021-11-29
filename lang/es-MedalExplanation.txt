@@ -90,3 +90,5 @@
 89	Supera El Gran Diablo.
 90	Supera todas las fases de Los reinos de akus.
 91	Supera Sinfonía de Tentaciones.
+92	Supera Rashomon.
+93	Supera el piso 30 de la Torre Infernal.

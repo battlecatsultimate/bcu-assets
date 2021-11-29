@@ -14,7 +14,7 @@
 013	Domigattrix	Boia	Lazer oscuro
 014	Gatti in scatola	Gang felina	G.A.T.T.O. d'assalto
 015	Gatto Slip	Gatto Foglia	Gatto Lecca-lecca
-016	Moneko	Miss MONEKO	
+016	Moneko	Miss MONEKO	MONEKO Superstar
 017	Gatto triciclo	Gatto biker	Gatto monociclo
 018	Gatto ninja	Gatto ninja rana	Gatto ninja volante
 019	Gatto zombi	Gatto diavolo	Schelegatto
@@ -308,7 +308,7 @@
 307	Gatta con l'asta	Gatta astista	Gatta casalinga
 308	Gatto giardiniere	Gattaiolo	Gattosaerba
 309			
-310	Tata Candela	Tata Yule guerriera	
+310	Tata Candela	Tata Yule guerriera	Tata spirito di Natale
 311	Mini Pescegatto	Mini Gattorca	Mini Gattisola
 312	Mini Lucertogatto	Mini Gatto Dragone	Mini Gatto Re Dragone
 313	Mini Gatto Titano	Mini Titano mitico	Mini Gatto Jamiera
@@ -350,7 +350,7 @@
 349			
 350			
 351	Stelle gemelle	Stelle gemelle Φ	Stelle gemelle dee
-352	Gatto Eremita	Gran Miaoestro	
+352	Gatto Eremita	Gran Miaoestro	Gran Miaoestro mascherato
 353			
 354	Kai Marina	Kai Marina μ	
 355	Esploratori possenti	Stazione orbitale Armageddon	Destroyer orbitale Ragnarok
@@ -582,7 +582,7 @@
 581	Gatto Sasso	Gatto Masso	
 582	Hatsune Miku: MM2020 Osaka	Hatsune Miku CC: MM2020 Osaka	
 583	Hatsune Miku: MM2020 Tokyo	Hatsune Miku CC: MM2020 Tokyo	
-584	Babbo Keiji	Maeda Natale	
+584	Babbo Keiji	Maeda Natale	Maeda Natale DX
 585	Baby Garu	Garu la poderosa egida	
 586	Gatto imperatore	Gatto tiranno	
 587	Afrodite Dolce	Cioccoladite	
@@ -628,6 +628,10 @@
 627			
 628			
 629	Gatto plagiato	Gatto macho plagiato	
-630			
+630	Gatto calligrafo	Gatto maestro del tè	
 631	Yamii	Yaminoir	
 632	Deth-Troy-R possente	Mech da assedio Diabolosa	
+633	Passero Shitakiri	Acchiappafantasmi	
+634	Cavaliere bianco ciclope	Cavaliere nero ciclope	
+635			
+636	Gatto Panzer plagiato	Gatto muro plagiato	

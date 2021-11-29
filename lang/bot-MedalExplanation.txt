@@ -90,3 +90,5 @@
 89	Clear "The Great Diablo"
 90	Clear all stages in "The Aku Realms"
 91	Clear "Temptation's Symphony"
+92	Clear "Rashomon"
+93	Clear Floor 30 of the Infernal Tower

@@ -120,6 +120,7 @@
 159	5000 XP
 160	Aku Catfruit Seed
 161	Aku Catfruit
+164	Gold Catfruit Seed
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -223,6 +224,7 @@
 1054	Elder Mask Doron
 1055	Aku Researcher
 1056	Pied Piper Cat
+1057	Calligraphy Cat
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -239,6 +241,7 @@
 10014	Dark Lazer
 10015	Heavy Assault C.A.T.
 10016	Lollycat
+15017	Superstar MONEKO
 10018	Unicycle Cat
 10019	Flying Ninja Cat
 10020	Skelecat
@@ -397,6 +400,7 @@
 15307	NEK-02 Air Citadel
 15308	Housewife Cat
 15309	Weedwacker Cat
+15311	Xmas Spirit Nurse
 10312	Li'l Island Cat
 10313	Li'l King Dragon Cat
 10314	Li'l Jamiera Cat
@@ -413,6 +417,7 @@
 15345	Artist Orthos CC
 15346	Naptime Michelia CC
 15352	Divine Twinstars
+10353	Masked Grandmaster Cat
 15356	Orbital Annihilator Ragnarok
 15358	Jester Queen Deale
 15359	Opulent Verbena
@@ -473,6 +478,7 @@
 15535	Almighty Hades
 15557	Ghost Alibaba
 15570	Gravolodon
+15585	Maeda Christmas DX
 15611	King Nekokhamen
 30000	Attack Up D: Red
 30001	Attack Up C: Red

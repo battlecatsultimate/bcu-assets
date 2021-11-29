@@ -120,6 +120,7 @@
 159	5 000 XP
 160	Graine de Chagrume Aku
 161	Chagrume Aku
+164	Graine de Chagrume doré
 1005	Chat en bronze
 1100	Chat en bronze
 1001	Chat Jour des sports
@@ -223,6 +224,7 @@
 1054	Doron masque ancestral
 1055	Chercheur d'ennemis Akus
 1056	Chat joueur de flûte
+1057	Challigraphe
 19001	Chat punk
 19002	Chat gomme
 19003	Chat de l’ombre
@@ -239,6 +241,7 @@
 10014	Dark Lasor
 10015	Chartillerie lourde
 10016	Chat sucette
+15017	Moneko Superstar
 10018	Chat monocycle
 10019	Chat ninja volant
 10020	Chat squelette
@@ -397,6 +400,7 @@
 15307	Citadelle aérienne NEK-02
 15308	Chatte au foyer
 15309	Charticulteur
+15311	Félinfirmière de Noël
 10312	P’tit Chat île
 10313	P’tit Chat roi dragon
 10314	P’tit Chat Jamilar
@@ -413,6 +417,7 @@
 15345	Artist Orthos CC
 15346	Naptime Michelia CC
 15352	Jumelles divines
+10353	Grand maître Chat masqué
 15356	Destructeur orbital Ragnarök
 15358	Louve comique
 15359	Verveine opulente
@@ -473,6 +478,7 @@
 15535	Hadès Tout-puissant
 15557	Ghost Alibaba
 15570	Gravolodon
+15585	Maeda Noël de luxe
 15611	Roi Nekokhamen
 30000	Attaque aug. D: Rouge
 30001	Attaque aug. C: Rouge

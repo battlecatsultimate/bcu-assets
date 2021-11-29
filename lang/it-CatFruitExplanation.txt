@@ -14,7 +14,7 @@
 013	<br><br>
 014	<br><br>
 015	<br><br>
-016	<br><br>
+016	La Forma Reale ottiene maggiore<br>Difesa, più possibilità di danni critici<br>e in più ottiene l'abilità di mini-ondate.
 017	<br><br>
 018	<br><br>
 019	<br><br>
@@ -308,7 +308,7 @@
 307	La Forma Reale aumenta molto la difesa<br>e la velocità di movimento! Il rallentamento<br>sugli zombi dura più a lungo!
 308	La Forma Reale aumenta molto la difesa!<br>Aumenta anche il raggio d'attacco,<br>e l'immobilità sugli zombi dura di più!
 309	<br><br>
-310	<br><br>
+310	La Forma Reale ottiene maggiore<br>Difesa, più respinta e<br>rallentamento vs Aku!
 311	<br><br>
 312	<br><br>
 313	<br><br>
@@ -582,7 +582,7 @@
 581	<br><br>
 582	<br><br>
 583	<br><br>
-584	<br><br>
+584	La Forma Reale aumenta la difesa,<br>Difesa contro Aku e<br>notevoli miglioramenti nella forza!
 585	<br><br>
 586	<br><br>
 587	<br><br>
@@ -631,3 +631,7 @@
 630	<br><br>
 631	<br><br>
 632	<br><br>
+633	<br><br>
+634	<br><br>
+635	<br><br>
+636	<br><br>

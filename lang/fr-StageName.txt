@@ -1274,6 +1274,8 @@
 001-271-003	Études Aku 301 : Enquête
 001-272		Symphonie de la tentation
 001-272-000	Mélodie Aku (sans répit)
+001-273		Rashomon
+001-273-000	Réincarnation des Akus (sans répit)
 001-274		Mal grandissant
 001-274-000	Murmure des Akus (maniaque)
 001-274-001	Murmure des Akus (mortel)
@@ -1284,6 +1286,11 @@
 001-275-001	Études Aku 401 : Méthodes
 001-275-002	Études Aku 401 : Recherche sur le terrain
 001-275-003	Études Aku 401 : Enquête
+001-276		Rapport de l'impératrice 5
+001-276-000	Études Aku 501 : Introduction
+001-276-001	Études Aku 501 : Méthodes
+001-276-002	Études Aku 501 : Recherche sur le terrain
+001-276-003	Études Aku 501 : Enquête
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2581,6 +2588,14 @@
 004-044-000	Nature au berceau (mortel)
 004-044-001	Nature au sommet (sans répit)
 004-044-002	Nature frontière (sans répit)
+004-045		Méga menace
+004-045-000	Nature au berceau (mortel)
+004-045-001	Nature au sommet (sans répit)
+004-045-002	Nature frontière (sans répit)
+004-046		Hippoporreur
+004-046-000	Nature au berceau (mortel)
+004-046-001	Nature au sommet (sans répit)
+004-046-002	Nature frontière (sans répit)
 
 006			Dojo Griffélin
 006-000		Salle des initiés
@@ -2693,6 +2708,37 @@
 007-005-007	8e étage
 007-005-008	9e étage
 007-005-009	Dernier étage
+007-006		Tour infernale
+007-006-000	1er étage
+007-006-001	2e étage
+007-006-002	3e étage
+007-006-003	4e étage
+007-006-004	5e étage
+007-006-005	6e étage
+007-006-006	7e étage
+007-006-007	8e étage
+007-006-008	9e étage
+007-006-009	10e étage
+007-006-010	11e étage
+007-006-011	12e étage
+007-006-012	13e étage
+007-006-013	14e étage
+007-006-014	15e étage
+007-006-015	16e étage
+007-006-016	17e étage
+007-006-017	18e étage
+007-006-018	19e étage
+007-006-019	20e étage
+007-006-020	21e étage
+007-006-021	22e étage
+007-006-022	23e étage
+007-006-023	24e étage
+007-006-024	25e étage
+007-006-025	26e étage
+007-006-026	27e étage
+007-006-027	28e étage
+007-006-028	29e étage
+007-006-029	30e étage
 
 011			Ranking Dojo Stages
 011-000		Arène de l'honneur
@@ -3004,6 +3050,13 @@
 013-037-005	Étoiles de l'Enfer
 013-038		Désastre imminent
 013-038-000	Sceau de l’Autel Aku
+013-039		Bikura, Asile du mal
+013-039-000	Cimetière des petits bateaux
+013-039-001	Vagues époustouflantes
+013-039-002	Marché au poisson séché
+013-039-003	Querelle brise-lames
+013-039-004	Grève des pécheurs
+013-039-005	Hippocampes attrapés
 
 014			Night Stages
 014-000		Croissance jaune
@@ -3589,6 +3642,92 @@
 024-029-007	Révolution niv. 18
 024-029-008	Révolution niv. 19
 024-029-009	Révolution niv. max.
+024-030		Défi de décembre
+024-030-000	Chachat Noël niv. 1
+024-030-001	Chachat Noël niv. 2
+024-030-002	Chachat Noël niv. 3
+024-030-003	Chachat Noël niv. 4
+024-030-004	Chachat Noël niv. 5
+024-030-005	Chachat Noël niv. 6
+024-030-006	Chachat Noël niv. 7
+024-030-007	Chachat Noël niv. 8
+024-030-008	Chachat Noël niv. 9
+024-030-009	Chachat Noël niv. 10
+024-031		Défi de décembre II
+024-031-000	Dans l'espace niv. 11
+024-031-001	Dans l'espace niv. 12
+024-031-002	Dans l'espace niv. 13
+024-031-003	Dans l'espace niv. 14
+024-031-004	Dans l'espace niv. 15
+024-031-005	Dans l'espace niv. 16
+024-031-006	Dans l'espace niv. 17
+024-031-007	Dans l'espace niv. 18
+024-031-008	Dans l'espace niv. 19
+024-031-009	Dans l'espace niv. max
+024-032		Défi de janvier
+024-032-000	Nouvel An ? niv. 1
+024-032-001	Nouvel An ? niv. 2
+024-032-002	Nouvel An ? niv. 3
+024-032-003	Nouvel An ? niv. 4
+024-032-004	Nouvel An ? niv. 5
+024-032-005	Nouvel An ? niv. 6
+024-032-006	Nouvel An ? niv. 7
+024-032-007	Nouvel An ? niv. 8
+024-032-008	Nouvel An ? niv. 9
+024-032-009	Nouvel An ? niv. 10
+024-033		Défi de janvier II
+024-033-000	Une autre année niv. 11
+024-033-001	Une autre année niv. 12
+024-033-002	Une autre année niv. 13
+024-033-003	Une autre année niv. 14
+024-033-004	Une autre année niv. 15
+024-033-005	Une autre année niv. 16
+024-033-006	Une autre année niv. 17
+024-033-007	Une autre année niv. 18
+024-033-008	Une autre année niv. 19
+024-033-009	Une autre année niv. max
+024-034		Méga menace
+024-034-000	À tire-d’aile niv. 1
+024-034-001	À tire-d’aile niv. 2
+024-034-002	À tire-d’aile niv. 3
+024-034-003	À tire-d’aile niv. 4
+024-034-004	À tire-d’aile niv. 5
+024-034-005	À tire-d’aile niv. 6
+024-034-006	À tire-d’aile niv. 7
+024-034-007	À tire-d’aile niv. 8
+024-034-008	À tire-d’aile niv. 9
+024-034-009	À tire-d’aile niv. 10
+024-034-010	À tire-d’aile niv. 11
+024-034-011	À tire-d’aile niv. 12
+024-034-012	À tire-d’aile niv. 13
+024-034-013	À tire-d’aile niv. 14
+024-034-014	À tire-d’aile niv. 15
+024-034-015	À tire-d’aile niv. 16
+024-034-016	À tire-d’aile niv. 17
+024-034-017	À tire-d’aile niv. 18
+024-034-018	À tire-d’aile niv. 19
+024-034-019	À tire-d’aile niv. max.
+024-035		Hippoporreur
+024-035-000	Mastodonte cosmique niv. 1
+024-035-001	Mastodonte cosmique niv. 2
+024-035-002	Mastodonte cosmique niv. 3
+024-035-003	Mastodonte cosmique niv. 4
+024-035-004	Mastodonte cosmique niv. 5
+024-035-005	Mastodonte cosmique niv. 6
+024-035-006	Mastodonte cosmique niv. 7
+024-035-007	Mastodonte cosmique niv. 8
+024-035-008	Mastodonte cosmique niv. 9
+024-035-009	Mastodonte cosmique niv. 10
+024-035-010	Mastodonte cosmique niv. 11
+024-035-011	Mastodonte cosmique niv. 12
+024-035-012	Mastodonte cosmique niv. 13
+024-035-013	Mastodonte cosmique niv. 14
+024-035-014	Mastodonte cosmique niv. 15
+024-035-015	Mastodonte cosmique niv. 16
+024-035-016	Mastodonte cosmique niv. 17
+024-035-017	Mastodonte cosmique niv. 18
+024-035-018	Mastodonte cosmique niv. 19
+024-035-019	Mastodonte cosmique niv. max.
 
 025			Enigma Stages
 025-000		Champs Aitum

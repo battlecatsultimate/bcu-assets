@@ -14,7 +14,7 @@
 013	Dom Cat	Executioner	Dark Lazer
 014	Cats in a Box	Cat Gang	Heavy Assault C.A.T.
 015	Panties Cat	Leaf Cat	Lollycat
-016	Moneko	Miss MONEKO	
+016	Moneko	Miss MONEKO	Superstar MONEKO
 017	Tricycle Cat	Biker Cat	Unicycle Cat
 018	Ninja Cat	Ninja Frog Cat	Flying Ninja Cat
 019	Zombie Cat	Devil Cat	Skelecat
@@ -308,7 +308,7 @@
 307	Vaulter Cat	Polevaulter Cat	Housewife Cat
 308	Gardener Cat	Lumbercat	Weedwacker Cat
 309			
-310	Yuletide Nurse	Yule Knight Nurse	
+310	Yuletide Nurse	Yule Knight Nurse	Xmas Spirit Nurse
 311	Li'l Fish Cat	Li'l Whale Cat	Li'l Island Cat
 312	Li'l Lizard Cat	Li'l Dragon Cat	Li'l King Dragon Cat
 313	Li'l Titan Cat	Li'l Mythical Titan	Li'l Jamiera Cat
@@ -350,7 +350,7 @@
 349			
 350			
 351	Twinstars	Twinstars, type Φ	Divine Twinstars
-352	Hermit Cat	Grandmaster Cat	
+352	Hermit Cat	Grandmaster Cat	Masked Grandmaster Cat
 353			
 354	Seashore Kai	Seashore Kai, type μ	
 355	Mighty Rekon Korps	Orbital Platform Armageddon	Orbital Annihilator Ragnarok
@@ -582,7 +582,7 @@
 581	Stone Cat	Boulder Cat	
 582	Hatsune Miku: MM2020 Osaka	Hatsune Miku CC: MM2020 Osaka	
 583	Hatsune Miku: MM2020 Tokyo	Hatsune Miku CC: MM2020 Tokyo	
-584	Keiji Claus	Maeda Christmas	
+584	Keiji Claus	Maeda Christmas	Maeda Christmas DX
 585	Baby Garu	Mighty Aegis Garu	
 586	Emperor Cat	Tyrant Cat	
 587	Sweet Aphrodite	Chocoladite	
@@ -628,6 +628,10 @@
 627			
 628			
 629	Brainwashed Cat	Brainwashed Macho Cat	
-630			
+630	Calligraphy Cat	Tea Master Cat	
 631	Yamii	Yaminoir	
 632	Mighty Deth-Troy-R	Siege Walker Diabolosa	
+633	Shitakiri Sparrow	Chunchun Haunters	
+634	White Knight Cyclops	Black Knight Kyklops	
+635			
+636	Brainwashed Tank Cat	Brainwashed Wall Cat	

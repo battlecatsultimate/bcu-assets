@@ -14,7 +14,7 @@
 013	<br><br>
 014	<br><br>
 015	<br><br>
-016	<br><br>
+016	La forma final tiene una mayor<br>defensa y mayor probabilidad de infligir<br>daño crítico. Puede lanzar minioleadas.
 017	<br><br>
 018	<br><br>
 019	<br><br>
@@ -308,7 +308,7 @@
 307	La forma final tiene una mayor defensa<br>y más velocidad de movimiento. Ralentiza<br>a los zombis durante más tiempo.
 308	La forma final tiene una mayor defensa<br>y más alcance. Además, paraliza<br>a los zombis durante más tiempo.
 309	<br><br>
-310	<br><br>
+310	La forma final tiene una mayor defensa<br>y la habilidad de repulsión.<br>Además, puede ralentizar a akus.
 311	<br><br>
 312	<br><br>
 313	<br><br>
@@ -582,7 +582,7 @@
 581	<br><br>
 582	<br><br>
 583	<br><br>
-584	<br><br>
+584	La forma final tiene más defensa,<br>contra akus<br>y fuerza mejorada.
 585	<br><br>
 586	<br><br>
 587	<br><br>
@@ -631,3 +631,7 @@
 630	<br><br>
 631	<br><br>
 632	<br><br>
+633	<br><br>
+634	<br><br>
+635	<br><br>
+636	<br><br>

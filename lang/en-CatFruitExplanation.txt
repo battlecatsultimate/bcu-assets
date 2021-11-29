@@ -14,7 +14,7 @@
 013	<br><br>
 014	<br><br>
 015	<br><br>
-016	<br><br>
+016	True Form evolution gains improved<br>Defense, better chance of Critical,<br>and also gains Mini-Wave ability.
 017	<br><br>
 018	<br><br>
 019	<br><br>
@@ -308,7 +308,7 @@
 307	True form greatly increases defense and<br>movement speed! Plus, Slow effects against<br>Zombies will last for longer!
 308	True form greatly increases defense!<br>Attack range also improves, and<br>freeze time versus zombies increases!
 309	<br><br>
-310	<br><br>
+310	True Form evolution gains improved<br>Defense, plus Knockback and <br>Slow vs Aku enemies!
 311	<br><br>
 312	<br><br>
 313	<br><br>
@@ -582,7 +582,7 @@
 581	<br><br>
 582	<br><br>
 583	<br><br>
-584	<br><br>
+584	True Form evolution gains improved<br>defense against Aku enemies, and<br>better strength improvements!
 585	<br><br>
 586	<br><br>
 587	<br><br>
@@ -631,3 +631,7 @@
 630	<br><br>
 631	<br><br>
 632	<br><br>
+633	<br><br>
+634	<br><br>
+635	<br><br>
+636	<br><br>

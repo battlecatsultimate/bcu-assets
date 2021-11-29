@@ -583,10 +583,10 @@
 582	Black Wind
 583	Medu-san
 584	Miz Devil
-585	Satankhamun Mk.VIII
-586	Midnight D.
-587	Aku Tackey
-588	Death Kory
+585	Sathankhamun VIII
+586	Midnite D.
+587	Ackey
+588	Deathkory
 589	Masked Hermit Cat
 590	9th Anniversary Cake
 591	9th Anniversary Dojo Base

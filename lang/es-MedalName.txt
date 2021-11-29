@@ -90,3 +90,5 @@
 89	★ Tormenta Malvada ★
 90	★ Mundo de oscuridad ★
 91	★ Composición seductora ★
+92	★ Cierre de puertas ★
+93	★ Infierno 30 ★

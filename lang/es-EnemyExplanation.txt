@@ -583,4 +583,10 @@
 582	
 583	Una aku que sufre una crisis de identidad.<br>A los viajeros les pregunta si es serpiente, león o pez,<br>y a quien no contesta correctamente lo convierte en piedra.<br>Extremadamente peligrosa y ataca con réplicas.
 584	Arpía «experta» en romances que aprovecha<br>cualquier oportunidad para dar malos consejos amorosos<br>y provocar desamores. Suele estar por el centro de la ciudad,<br>arruinando cualquier primera cita que vaya mínimamente bien.
-585	
+585	Este aku fue creado por una máscara maldita<br>para luchar por la resurrección del gran aku.<br>Los miasmas malvados que emite la máscara<br>absorben la vida a cualquiera que se acerque.
+586	Es primo de Reno, pero con la cornamenta negra.<br>Todos se reían de él por eso, así que ahora<br>ha jurado venganza y no parará hasta que<br>se le ponga la nariz roja como un tomate.
+587	Era la estrella del béisbol en el instituto, pero tiene<br>el corazón tan frío que vendió el alma de su hermano<br>a los akus a cambio de una victoria en un partido.<br>Ahora lo quieren reclutar para la primera división.
+588	Este Kory anárquico es el líder de una banda de metal.<br>No tiene miedo a saltar al público y, de hecho,<br>le han prohibido la entrada a varias salas por lanzar<br>ataques de oleada a los asistentes de sus conciertos.
+589	
+590	
+591	

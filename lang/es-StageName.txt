@@ -1268,6 +1268,8 @@
 001-270-003	Aku: Consulta Avanzada
 001-272		Sinfonía de Tentaciones
 001-272-000	Melodía de Akus (Inhumano)
+001-273		Rashomon
+001-273-000	Reencarnación de Akus (Inhumano)
 001-271		Informe de Emperatriz 3
 001-271-000	Aku: Introducción Experta
 001-271-001	Aku: Método Experto
@@ -1285,6 +1287,11 @@
 001-275-001	Aku: Método Doctorado
 001-275-002	Aku: Investigación Doctorada
 001-275-003	Aku: Consulta Doctorada
+001-276		Informe de Emperatriz 5
+001-276-000	Akus: Introducción Profesional
+001-276-001	Akus: Método Profesional
+001-276-002	Akus: Investigación Profesional
+001-276-003	Akus: Consulta Profesional
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2582,6 +2589,14 @@
 004-044-000	Naturaleza Base (Mortal)
 004-044-001	Naturaleza Cima (Inhumano)
 004-044-002	Naturaleza Frontera (Inhumano)
+004-045		Megaamenaza
+004-045-000	Naturaleza Base (Mortal)
+004-045-001	Naturaleza Cima (Inhumano)
+004-045-002	Naturaleza Frontera (Inhumano)
+004-046		Horrorpótamo
+004-046-000	Naturaleza Base (Mortal)
+004-046-001	Naturaleza Cima (Inhumano)
+004-046-002	Naturaleza Frontera (Inhumano)
 
 006			Dojo Afilagarras
 006-000		Sala de Iniciados
@@ -2694,6 +2709,37 @@
 007-005-007	Piso 8
 007-005-008	Piso 9
 007-005-009	Último Piso
+007-006		Torre Infernal
+007-006-000	Piso 1
+007-006-001	Piso 2
+007-006-002	Piso 3
+007-006-003	Piso 4
+007-006-004	Piso 5
+007-006-005	Piso 6
+007-006-006	Piso 7
+007-006-007	Piso 8
+007-006-008	Piso 9
+007-006-009	Piso 10
+007-006-010	Piso 11
+007-006-011	Piso 12
+007-006-012	Piso 13
+007-006-013	Piso 14
+007-006-014	Piso 15
+007-006-015	Piso 16
+007-006-016	Piso 17
+007-006-017	Piso 18
+007-006-018	Piso 19
+007-006-019	Piso 20
+007-006-020	Piso 21
+007-006-021	Piso 22
+007-006-022	Piso 23
+007-006-023	Piso 24
+007-006-024	Piso 25
+007-006-025	Piso 26
+007-006-026	Piso 27
+007-006-027	Piso 28
+007-006-028	Piso 29
+007-006-029	Piso 30
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -3005,6 +3051,13 @@
 013-037-005	Estrellas del Infierno
 013-038		Disastre Inminente
 013-038-000	Sello del Altar de Akus
+013-039		Bikura, Asilo del Mal
+013-039-000	Cementerio de Barquitos
+013-039-001	Olas Impresionantes
+013-039-002	Mercado de Mojama
+013-039-003	Reyerta de Marineros
+013-039-004	Pescadores en Huelga
+013-039-005	Caballitos de Mar
 
 014			Drink Stages
 014-000		Cultivo Amarillo
@@ -3590,6 +3643,92 @@
 024-029-007	Revolución (nvl. 18)
 024-029-008	Revolución (nvl. 19)
 024-029-009	Revolución (nvl. máx.)
+024-030		Desafío de Diciembre
+024-030-000	Los Gatos en el Río (nvl. 1)
+024-030-001	Los Gatos en el Río (nvl. 2)
+024-030-002	Los Gatos en el Río (nvl. 3)
+024-030-003	Los Gatos en el Río (nvl. 4)
+024-030-004	Los Gatos en el Río (nvl. 5)
+024-030-005	Los Gatos en el Río (nvl. 6)
+024-030-006	Los Gatos en el Río (nvl. 7)
+024-030-007	Los Gatos en el Río (nvl. 8)
+024-030-008	Los Gatos en el Río (nvl. 9)
+024-030-009	Los Gatos en el Río (nvl. 10)
+024-031		Desafío de Diciembre II
+024-031-000	En el Espacio (nvl. 11)
+024-031-001	En el Espacio (nvl. 12)
+024-031-002	En el Espacio (nvl. 13)
+024-031-003	En el Espacio (nvl. 14)
+024-031-004	En el Espacio (nvl. 15)
+024-031-005	En el Espacio (nvl. 16)
+024-031-006	En el Espacio (nvl. 17)
+024-031-007	En el Espacio (nvl. 18)
+024-031-008	En el Espacio (nvl. 19)
+024-031-009	En el Espacio (nvl. máx.)
+024-032		Desafío de Enero
+024-032-000	¿Año Nuevo? (nvl. 1)
+024-032-001	¿Año Nuevo? (nvl. 2)
+024-032-002	¿Año Nuevo? (nvl. 3)
+024-032-003	¿Año Nuevo? (nvl. 4)
+024-032-004	¿Año Nuevo? (nvl. 5)
+024-032-005	¿Año Nuevo? (nvl. 6)
+024-032-006	¿Año Nuevo? (nvl. 7)
+024-032-007	¿Año Nuevo? (nvl. 8)
+024-032-008	¿Año Nuevo? (nvl. 9)
+024-032-009	¿Año Nuevo? (nvl. 10)
+024-033		Desafío de Enero II
+024-033-000	Un Año Más (nvl. 11)
+024-033-001	Un Año Más (nvl. 12)
+024-033-002	Un Año Más (nvl. 13)
+024-033-003	Un Año Más (nvl. 14)
+024-033-004	Un Año Más (nvl. 15)
+024-033-005	Un Año Más (nvl. 16)
+024-033-006	Un Año Más (nvl. 17)
+024-033-007	Un Año Más (nvl. 18)
+024-033-008	Un Año Más (nvl. 19)
+024-033-009	Un Año Más (nvl. máx.)
+024-034		Megaamenaza
+024-034-000	Alas Poderosas (nvl. 1)
+024-034-001	Alas Poderosas (nvl. 2)
+024-034-002	Alas Poderosas (nvl. 3)
+024-034-003	Alas Poderosas (nvl. 4)
+024-034-004	Alas Poderosas (nvl. 5)
+024-034-005	Alas Poderosas (nvl. 6)
+024-034-006	Alas Poderosas (nvl. 7)
+024-034-007	Alas Poderosas (nvl. 8)
+024-034-008	Alas Poderosas (nvl. 9)
+024-034-009	Alas Poderosas (nvl. 10)
+024-034-010	Alas Poderosas (nvl. 11)
+024-034-011	Alas Poderosas (nvl. 12)
+024-034-012	Alas Poderosas (nvl. 13)
+024-034-013	Alas Poderosas (nvl. 14)
+024-034-014	Alas Poderosas (nvl. 15)
+024-034-015	Alas Poderosas (nvl. 16)
+024-034-016	Alas Poderosas (nvl. 17)
+024-034-017	Alas Poderosas (nvl. 18)
+024-034-018	Alas Poderosas (nvl. 19)
+024-034-019	Alas Poderosas (nvl. máx.)
+024-035		Horrorpótamo
+024-035-000	Juggernaut Cósmico (nvl. 1)
+024-035-001	Juggernaut Cósmico (nvl. 2)
+024-035-002	Juggernaut Cósmico (nvl. 3)
+024-035-003	Juggernaut Cósmico (nvl. 4)
+024-035-004	Juggernaut Cósmico (nvl. 5)
+024-035-005	Juggernaut Cósmico (nvl. 6)
+024-035-006	Juggernaut Cósmico (nvl. 7)
+024-035-007	Juggernaut Cósmico (nvl. 8)
+024-035-008	Juggernaut Cósmico (nvl. 9)
+024-035-009	Juggernaut Cósmico (nvl. 10)
+024-035-010	Juggernaut Cósmico (nvl. 11)
+024-035-011	Juggernaut Cósmico (nvl. 12)
+024-035-012	Juggernaut Cósmico (nvl. 13)
+024-035-013	Juggernaut Cósmico (nvl. 14)
+024-035-014	Juggernaut Cósmico (nvl. 15)
+024-035-015	Juggernaut Cósmico (nvl. 16)
+024-035-016	Juggernaut Cósmico (nvl. 17)
+024-035-017	Juggernaut Cósmico (nvl. 18)
+024-035-018	Juggernaut Cósmico (nvl. 19)
+024-035-019	Juggernaut Cósmico (nvl. máx.)
 
 025			Enigma Stages
 025-000		Campos de Aitum

@@ -90,3 +90,5 @@
 89	Supera "Il grande diablo"
 90	Supera tutti i livelli de "I regni Aku"
 91	Supera "Sinfonia della tentazione"
+92	Supera "Rashomon"
+93	Supera il 30° piano della Torre infernale
