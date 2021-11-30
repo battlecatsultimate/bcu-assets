@@ -1,0 +1,640 @@
+000	Die Nekoluga-Familie
+001	Höchstexplosiv
+002	
+003	Vajiras
+004	Galaxis-Girls
+005	Die Nekoluga-Familie
+006	Höchstexplosiv
+007	Vajiras
+008	Galaxis-Girls
+009	Drachenkaiser
+010	Drachenkaiser
+011	
+012	
+013	
+014	Rotsprenger
+015	Event: Uralte Helden: Megaseelen
+016	Event: Uralte Helden: Megaseelen
+017	Die Nekoluga-Familie
+018	Die Nekoluga-Familie
+019	Drachenkaiser
+020	Drachenkaiser
+021	Rotsprenger
+022	Mola Mola Capsules
+023	Shoumetsu Toshi Collab Capsules
+024	Merc Storia Collab Capsules
+025	Die Nekoluga-Familie
+026	Die Nekoluga-Familie
+027	Höchstexplosiv
+028	Höchstexplosiv
+029	Vajiras
+030	Vajiras
+031	Galaxis-Girls
+032	Galaxis-Girls
+033	Drachenkaiser
+034	Drachenkaiser
+035	Rotsprenger
+036	Rotsprenger
+037	Event: Uralte Helden: Megaseelen
+038	Event: Uralte Helden: Megaseelen
+039	Dunkle Helden
+040	Dunkle Helden
+041	Event: Uralte Helden: Megaseelen
+042	Event: Uralte Helden: Megaseelen
+043	Dunkle Helden
+044	Dunkle Helden
+045	
+046	Halloween-Karneval
+047	Dunkle Helden
+048	Dunkle Helden
+049	
+050	Die Nekoluga-Familie
+051	Die Nekoluga-Familie
+052	Die Nekoluga-Familie
+053	Höchstexplosiv
+054	Vajiras
+055	Galaxis-Girls
+056	Drachenkaiser
+057	Rotsprenger
+058	Rotsprenger
+059	Rotsprenger
+060	Event: Uralte Helden: Megaseelen
+061	Dunkle Helden
+062	Mola Mola Capsules
+063	Mola Mola Capsules
+064	Weihnachtsdamen
+065	Tschüss 2020!
+066	Willkommen 2021!
+067	Die Allmächtigen: Majestätischer Zeus
+068	Die Allmächtigen: Majestätischer Zeus
+069	Die Allmächtigen: Majestätischer Zeus
+070	Dunkle Helden
+071	Dunkle Helden
+072	Dunkle Helden
+073	Megafest
+074	Megafest
+075	Megafest
+076	Shoumetsu Toshi Collab Capsules
+077	Shoumetsu Toshi Collab Capsules
+078	Die Allmächtigen: Majestätischer Zeus
+079	Die Allmächtigen: Majestätischer Zeus
+080	Die Allmächtigen: Majestätischer Zeus
+081	Megafest
+082	Die Allmächtigen: Majestätischer Zeus
+083	Die Allmächtigen: Majestätischer Zeus
+084	Die Allmächtigen: Majestätischer Zeus
+085	Sommermädchen
+086	Platinkapseln
+087	Platinkapseln
+088	Megafest
+089	Rotsprenger
+090	Rotsprenger
+091	Rotsprenger
+092	Luftsprenger
+093	Rotsprenger
+094	Puella Magi Madoka Magica Capsules
+095	Puella Magi Madoka Magica Capsules
+096	Halloween-Karneval
+097	Die Nekoluga-Familie
+098	Die Nekoluga-Familie
+099	Die Nekoluga-Familie
+100	Höchstexplosiv
+101	Höchstexplosiv
+102	Höchstexplosiv
+103	Vajiras
+104	Vajiras
+105	Vajiras
+106	Galaxis-Girls
+107	Galaxis-Girls
+108	Galaxis-Girls
+109	Drachenkaiser
+110	Drachenkaiser
+111	Drachenkaiser
+112	Event: Uralte Helden: Megaseelen
+113	Event: Uralte Helden: Megaseelen
+114	Event: Uralte Helden: Megaseelen
+115	Dunkle Helden
+116	Dunkle Helden
+117	Dunkle Helden
+118	Die Allmächtigen: Majestätischer Zeus
+119	Die Allmächtigen: Majestätischer Zeus
+120	Die Allmächtigen: Majestätischer Zeus
+121	Eisenlegion
+122	Eisenlegion
+123	Eisenlegion
+124	Rotsprenger
+125	Luftsprenger
+126	Megafest
+127	Weihnachtsdamen
+128	Platinkapseln
+129	Die Allmächtigen: Majestätischer Zeus
+130	Die Allmächtigen: Majestätischer Zeus
+131	Die Allmächtigen: Majestätischer Zeus
+132	Tschüss 2020!
+133	Willkommen 2021!
+134	Megafest
+135	Platinkapseln
+136	Rotsprenger
+137	Megafest
+138	Platinkapseln
+139	Die Nekoluga-Familie
+140	Die Nekoluga-Familie
+141	Die Nekoluga-Familie
+142	Höchstexplosiv
+143	Höchstexplosiv
+144	Höchstexplosiv
+145	Vajiras
+146	Vajiras
+147	Vajiras
+148	Galaxis-Girls
+149	Galaxis-Girls
+150	Galaxis-Girls
+151	Drachenkaiser
+152	Drachenkaiser
+153	Drachenkaiser
+154	Event: Uralte Helden: Megaseelen
+155	Event: Uralte Helden: Megaseelen
+156	Event: Uralte Helden: Megaseelen
+157	Dunkle Helden
+158	Dunkle Helden
+159	Dunkle Helden
+160	Die Allmächtigen: Majestätischer Zeus
+161	Die Allmächtigen: Majestätischer Zeus
+162	Die Allmächtigen: Majestätischer Zeus
+163	Eisenlegion
+164	Eisenlegion
+165	Eisenlegion
+166	Rotsprenger
+167	Luftsprenger
+168	Megafest
+169	Platinkapseln
+170	Crash Fever Collab Capsules
+171	Crash Fever Collab Capsules
+172	Osterkarneval
+173	Episches Fest
+174	Platinkapseln
+175	Mädchen & Monster
+176	
+177	Vajiras
+178	Vajiras
+179	Vajiras
+180	Shoumetsu Toshi Collab Capsules
+181	Shoumetsu Toshi Collab Capsules
+182	Megafest
+183	Episches Fest
+184	Platinkapseln
+185	Merc Storia Collab Capsules
+186	
+187	
+188	Galaxis-Girls
+189	Galaxis-Girls
+190	Galaxis-Girls
+191	Mega Auswahl
+192	Wunder Auswahl
+193	Megafest
+194	Episches Fest
+195	Platinkapseln
+196	
+197	Sommermädchen
+198	Eisenlegion
+199	Eisenlegion
+200	Eisenlegion
+201	Megafest
+202	Episches Fest
+203	Platinkapseln
+204	Mädchen & Monster
+205	Eisensprenger
+206	Mädchen & Monster
+207	Mädchen & Monster
+208	Elementfeen
+209	Elementfeen
+210	Elementfeen
+211	Megafest
+212	Episches Fest
+213	Platinkapseln
+214	Fate/Stay Night Capsules
+215	Die Nekoluga-Familie
+216	Die Nekoluga-Familie
+217	Die Nekoluga-Familie
+218	Höchstexplosiv
+219	Höchstexplosiv
+220	Höchstexplosiv
+221	Vajiras
+222	Vajiras
+223	Vajiras
+224	Galaxis-Girls
+225	Galaxis-Girls
+226	Galaxis-Girls
+227	Drachenkaiser
+228	Drachenkaiser
+229	Drachenkaiser
+230	Event: Uralte Helden: Megaseelen
+231	Event: Uralte Helden: Megaseelen
+232	Event: Uralte Helden: Megaseelen
+233	Dunkle Helden
+234	Dunkle Helden
+235	Dunkle Helden
+236	Die Allmächtigen: Majestätischer Zeus
+237	Die Allmächtigen: Majestätischer Zeus
+238	Die Allmächtigen: Majestätischer Zeus
+239	Eisenlegion
+240	Eisenlegion
+241	Eisenlegion
+242	Elementfeen
+243	Elementfeen
+244	Elementfeen
+245	Rotsprenger
+246	Luftsprenger
+247	Eisensprenger
+248	Mädchen & Monster
+249	Mädchen & Monster
+250	Mädchen & Monster
+251	Mega Auswahl
+252	Wunder Auswahl
+253	Crème De La Crème
+254	Megafest
+255	Episches Fest
+256	Platinkapseln
+257	Halloween-Karneval
+258	Weihnachtsdamen
+259	Osterkarneval
+260	Sommermädchen
+261	Megafest
+262	Tschüss 2020!
+263	Willkommen 2021!
+264	Platinkapseln
+265	Powerpro Baseball Collab Capsules
+266	Drachenkaiser
+267	Drachenkaiser
+268	Drachenkaiser
+269	Eisensprenger
+270	Megafest
+271	Episches Fest
+272	Platinkapseln
+273	Eisensprenger
+274	Platinkapseln
+275	Platinkapseln
+276	Elementfeen
+277	Elementfeen
+278	Elementfeen
+279	Megafest
+280	Episches Fest
+281	Platinkapseln
+282	Evangelion Collab Capsules
+283	Eisenlegion
+284	Eisenlegion
+285	Eisenlegion
+286	Megafest
+287	Episches Fest
+288	Platinkapseln
+289	Höchstexplosiv
+290	Höchstexplosiv
+291	Höchstexplosiv
+292	Megafest
+293	Episches Fest
+294	Platinkapseln
+295	Shoumetsu Toshi Collab Capsules
+296	
+297	
+298	Dunkle Helden
+299	Dunkle Helden
+300	Dunkle Helden
+301	Megafest
+302	Episches Fest
+303	Platinkapseln
+304	Die Nekoluga-Familie
+305	Die Nekoluga-Familie
+306	Die Nekoluga-Familie
+307	Crème De La Crème
+308	Megafest
+309	Episches Fest
+310	Platinkapseln
+311	Die Allmächtigen: Majestätischer Zeus
+312	Die Allmächtigen: Majestätischer Zeus
+313	Die Allmächtigen: Majestätischer Zeus
+314	Sommermädchen
+315	Megafest
+316	Episches Fest
+317	Platinkapseln
+318	Puella Magi Madoka Magica Capsules
+319	Episches Fest
+320	Platinkapseln
+321	Crash Fever Collab Capsules
+322	Crash Fever Collab Capsules
+323	Puella Magi Madoka Magica Capsules
+324	Die Nekoluga-Familie
+325	Die Nekoluga-Familie
+326	Die Nekoluga-Familie
+327	Höchstexplosiv
+328	Höchstexplosiv
+329	Höchstexplosiv
+330	Vajiras
+331	Vajiras
+332	Vajiras
+333	Galaxis-Girls
+334	Galaxis-Girls
+335	Galaxis-Girls
+336	Drachenkaiser
+337	Drachenkaiser
+338	Drachenkaiser
+339	Event: Uralte Helden: Megaseelen
+340	Event: Uralte Helden: Megaseelen
+341	Event: Uralte Helden: Megaseelen
+342	Dunkle Helden
+343	Dunkle Helden
+344	Dunkle Helden
+345	Die Allmächtigen: Majestätischer Zeus
+346	Die Allmächtigen: Majestätischer Zeus
+347	Die Allmächtigen: Majestätischer Zeus
+348	Eisenlegion
+349	Eisenlegion
+350	Eisenlegion
+351	Elementfeen
+352	Elementfeen
+353	Elementfeen
+354	Mädchen & Monster
+355	Mädchen & Monster
+356	Mädchen & Monster
+357	Crème De La Crème
+358	Mega Auswahl
+359	Wunder Auswahl
+360	Megafest
+361	Episches Fest
+362	Event: Uralte Helden: Megaseelen
+363	Event: Uralte Helden: Megaseelen
+364	Event: Uralte Helden: Megaseelen
+365	Tschüss 2020!
+366	Willkommen 2021!
+367	Megafest
+368	Fate/Stay Night Capsules
+369	Höchstexplosiv
+370	Höchstexplosiv
+371	Höchstexplosiv
+372	Die Nekoluga-Familie
+373	Die Nekoluga-Familie
+374	Die Nekoluga-Familie
+375	Mola Mola Capsules
+376	Mola Mola Capsules
+377	Eisenlegion
+378	Eisenlegion
+379	Eisenlegion
+380	Elementfeen
+381	Elementfeen
+382	Elementfeen
+383	Bikkuriman Collab Capsules
+384	Dunkle Helden
+385	Dunkle Helden
+386	Dunkle Helden
+387	Shoumetsu Toshi Collab Capsules
+388	Neue Crème De La Crème
+389	Crème De La Crème
+390	
+391	Evangelion Collab Capsules
+392	Die Allmächtigen: Majestätischer Zeus
+393	Die Allmächtigen: Majestätischer Zeus
+394	Die Allmächtigen: Majestätischer Zeus
+395	Sommermädchen
+396	Vajiras
+397	Vajiras
+398	Vajiras
+399	Megafest
+400	Episches Fest
+401	Platinkapseln
+402	Galaxis-Girls
+403	Galaxis-Girls
+404	Galaxis-Girls
+405	Megafest
+406	Episches Fest
+407	Platinkapseln
+408	Drachenkaiser
+409	Drachenkaiser
+410	Drachenkaiser
+411	Megafest
+412	Episches Fest
+413	Platinkapseln
+414	Merc Storia Collab Capsules
+415	Street Fighter V: Arcade Edition Collab Capsules
+416	Höchstexplosiv
+417	Höchstexplosiv
+418	Höchstexplosiv
+419	Megafest
+420	Episches Fest
+421	Die Nekoluga-Familie
+422	Die Nekoluga-Familie
+423	Die Nekoluga-Familie
+424	Höchstexplosiv
+425	Höchstexplosiv
+426	Höchstexplosiv
+427	Vajiras
+428	Vajiras
+429	Vajiras
+430	Galaxis-Girls
+431	Galaxis-Girls
+432	Galaxis-Girls
+433	Drachenkaiser
+434	Drachenkaiser
+435	Drachenkaiser
+436	Event: Uralte Helden: Megaseelen
+437	Event: Uralte Helden: Megaseelen
+438	Event: Uralte Helden: Megaseelen
+439	Dunkle Helden
+440	Dunkle Helden
+441	Dunkle Helden
+442	Die Allmächtigen: Majestätischer Zeus
+443	Die Allmächtigen: Majestätischer Zeus
+444	Die Allmächtigen: Majestätischer Zeus
+445	Eisenlegion
+446	Eisenlegion
+447	Eisenlegion
+448	Elementfeen
+449	Elementfeen
+450	Elementfeen
+451	Rotsprenger
+452	Luftsprenger
+453	Eisensprenger
+454	Mädchen & Monster
+455	Mädchen & Monster
+456	Mädchen & Monster
+457	Halloween-Karneval
+458	Osterkarneval
+459	Sommermädchen
+460	Crème De La Crème
+461	Neue Crème De La Crème
+462	Mega Auswahl
+463	Wunder Auswahl
+464	Mega Auswahl
+465	Wunder Auswahl
+466	Mega Auswahl
+467	Wunder Auswahl
+468	Exzellente Auswahl
+469	Megafest
+470	Episches Fest
+471	Platinkapseln
+472	Weihnachtsdamen
+473	Tschüss 2020!
+474	Willkommen 2021!
+475	Event: Uralte Helden: Megaseelen
+476	Event: Uralte Helden: Megaseelen
+477	Event: Uralte Helden: Megaseelen
+478	Megafest
+479	Episches Fest
+480	Platinkapseln
+481	Megafest
+482	
+483	Megafest
+484	Platinkapseln
+485	Mola Mola Capsules
+486	Mola Mola Capsules
+487	Dunkle Helden
+488	Dunkle Helden
+489	Dunkle Helden
+490	Megafest
+491	Episches Fest
+492	Platinkapseln
+493	Superfest
+494	Hatsune Miku Collab Capsules
+495	Mola Mola Capsules
+496	Mola Mola Capsules
+497	Die Allmächtigen: Majestätischer Zeus
+498	Die Allmächtigen: Majestätischer Zeus
+499	Die Allmächtigen: Majestätischer Zeus
+500	Megafest
+501	Episches Fest
+502	Osterkarneval
+503	Superfest
+504	Platinkapseln
+505	Shoumetsu Toshi Collab Capsules
+506	Mädchen & Monster
+507	Mädchen & Monster
+508	Mädchen & Monster
+509	Episches Fest
+510	Platinkapseln
+511	Shoumetsu Toshi Collab Capsules
+512	Superfest
+513	Evangelion Collab Capsules
+514	Evangelion Collab Capsules
+515	Evangelion Collab Capsules
+516	Evangelion Collab Capsules
+517	Die Nekoluga-Familie
+518	Die Nekoluga-Familie
+519	Die Nekoluga-Familie
+520	Megafest
+521	Episches Fest
+522	Platinkapseln
+523	Wellenbrecher
+524	Bikkuriman Collab Capsules
+525	Platinkapseln
+526	Crème De La Crème
+527	Neue Crème De La Crème
+528	Mega Auswahl
+529	Wunder Auswahl
+530	Mega Auswahl
+531	Wunder Auswahl
+532	Hatsune Miku Collab Capsules
+533	Sommermädchen
+534	Sommermädchen
+535	Hatsune Miku Collab Capsules
+536	Superfest
+537	Bikkuriman Collab Capsules
+538	Elementfeen
+539	Elementfeen
+540	Elementfeen
+541	Megafest
+542	Episches Fest
+543	Platinkapseln
+544	Halloween-Karneval
+545	Halloween-Karneval
+546	Crash Fever Collab Capsules
+547	Crème De La Crème
+548	Neue Crème De La Crème
+549	Street Fighter V: Arcade Edition Collab Capsules
+550	Street Fighter V: Arcade Edition Collab Capsules
+551	Legendäre Kapseln
+552	Mega Auswahl
+553	Wunder Auswahl
+554	Exzellente Auswahl
+555	Megafest
+556	Platinkapseln
+557	Legendäre Kapseln
+558	Legendäre Kapseln
+559	Superfest
+560	Willkommen 2021!
+561	Willkommen 2021!
+562	Dynastiefest
+563	Hatsune Miku Collab Capsules
+564	Hatsune Miku Collab Capsules
+565	Weihnachtsdamen
+566	Dynastiefest
+567	Valentinsmädchen
+568	Valentinsmädchen
+569	Evangelion Collab Capsules
+570	Evangelion Collab Capsules
+571	Superfest
+572	Eisenlegion
+573	Eisenlegion
+574	Eisenlegion
+575	Megafest
+576	Episches Fest
+577	Platinkapseln
+578	Legendäre Kapseln
+579	Osterkarneval
+580	Osterkarneval
+581	Dynastiefest
+582	Dynastiefest
+583	Hatsune Miku Collab Capsules
+584	Hatsune Miku Collab Capsules
+585	Mädchen & Monster
+586	Mädchen & Monster
+587	Mädchen & Monster
+588	Ranma 1/2 Collab Capsules
+589	Ranma 1/2 Collab Capsules
+590	Episches Fest
+591	Superfest
+592	Platinkapseln
+593	Legendäre Kapseln
+594	Crème De La Crème
+595	Neue Crème De La Crème
+596	Mega Auswahl
+597	Wunder Auswahl
+598	Exzellente Auswahl
+599	Mega Auswahl
+600	Wunder Auswahl
+601	Exzellente Auswahl
+602	Fest Royale
+603	Platinkapseln
+604	Legendäre Kapseln
+607	Sommermädchen
+608	Vajiras
+609	Vajiras
+610	Vajiras
+611	Galaxis-Girls
+612	Galaxis-Girls
+613	Galaxis-Girls
+614	Megafest
+615	Episches Fest
+616	Platinkapseln
+617	Platinkapseln
+618	Legendäre Kapseln
+619	Legendäre Kapseln
+620	Heißblütiges Aufeinandertreffen
+622	Superfest
+623	Dynastiefest
+624	Die Nekoluga-Familie
+625	Die Nekoluga-Familie
+626	Die Nekoluga-Familie
+627	Höchstexplosiv
+628	Höchstexplosiv
+629	Höchstexplosiv
+630	Drachenkaiser
+631	Drachenkaiser
+632	Drachenkaiser
+633	Megafest
+635	Platinkapseln
+636	Platinkapseln
+637	Platinkapseln
+638	Legendäre Kapseln
+639	Legendäre Kapseln
+640	Legendäre Kapseln
+641	Episches Fest
+642	Puella Magi Madoka Magica Capsules
+650	Halloween-Karneval

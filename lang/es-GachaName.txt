@@ -1,0 +1,640 @@
+000	Familia De Nekolugas
+001	Los Dinamitas
+002	
+003	Vajiras
+004	Galaxichicas
+005	Familia De Nekolugas
+006	Los Dinamitas
+007	Vajiras
+008	Galaxichicas
+009	Dragones Emperadores
+010	Dragones Emperadores
+011	
+012	
+013	
+014	Antirrojos
+015	Ultraalmas
+016	Ultraalmas
+017	Familia De Nekolugas
+018	Familia De Nekolugas
+019	Dragones Emperadores
+020	Dragones Emperadores
+021	Antirrojos
+022	Mola Mola Capsules
+023	Shoumetsu Toshi Collab Capsules
+024	Merc Storia Collab Capsules
+025	Familia De Nekolugas
+026	Familia De Nekolugas
+027	Los Dinamitas
+028	Los Dinamitas
+029	Vajiras
+030	Vajiras
+031	Galaxichicas
+032	Galaxichicas
+033	Dragones Emperadores
+034	Dragones Emperadores
+035	Antirrojos
+036	Antirrojos
+037	Ultraalmas
+038	Ultraalmas
+039	Héroes Sombríos
+040	Héroes Sombríos
+041	Ultraalmas
+042	Ultraalmas
+043	Héroes Sombríos
+044	Héroes Sombríos
+045	
+046	Carnaval De Halloween
+047	Héroes Sombríos
+048	Héroes Sombríos
+049	
+050	Familia De Nekolugas
+051	Familia De Nekolugas
+052	Familia De Nekolugas
+053	Los Dinamitas
+054	Vajiras
+055	Galaxichicas
+056	Dragones Emperadores
+057	Antirrojos
+058	Antirrojos
+059	Antirrojos
+060	Ultraalmas
+061	Héroes Sombríos
+062	Mola Mola Capsules
+063	Mola Mola Capsules
+064	Navidamas
+065	¡Adiós, 2020!
+066	¡Hola, 2021!
+067	Los Todopoderosos: Zeus El Majestuoso
+068	Los Todopoderosos: Zeus El Majestuoso
+069	Los Todopoderosos: Zeus El Majestuoso
+070	Héroes Sombríos
+071	Héroes Sombríos
+072	Héroes Sombríos
+073	Megafesti
+074	Megafesti
+075	Megafesti
+076	Shoumetsu Toshi Collab Capsules
+077	Shoumetsu Toshi Collab Capsules
+078	Los Todopoderosos: Zeus El Majestuoso
+079	Los Todopoderosos: Zeus El Majestuoso
+080	Los Todopoderosos: Zeus El Majestuoso
+081	Megafesti
+082	Los Todopoderosos: Zeus El Majestuoso
+083	Los Todopoderosos: Zeus El Majestuoso
+084	Los Todopoderosos: Zeus El Majestuoso
+085	Chicas De Verano
+086	Bolas De Platino
+087	Bolas De Platino
+088	Megafesti
+089	Antirrojos
+090	Antirrojos
+091	Antirrojos
+092	Antiaéreos
+093	Antirrojos
+094	Puella Magi Madoka Magica Capsules
+095	Puella Magi Madoka Magica Capsules
+096	Carnaval De Halloween
+097	Familia De Nekolugas
+098	Familia De Nekolugas
+099	Familia De Nekolugas
+100	Los Dinamitas
+101	Los Dinamitas
+102	Los Dinamitas
+103	Vajiras
+104	Vajiras
+105	Vajiras
+106	Galaxichicas
+107	Galaxichicas
+108	Galaxichicas
+109	Dragones Emperadores
+110	Dragones Emperadores
+111	Dragones Emperadores
+112	Ultraalmas
+113	Ultraalmas
+114	Ultraalmas
+115	Héroes Sombríos
+116	Héroes Sombríos
+117	Héroes Sombríos
+118	Los Todopoderosos: Zeus El Majestuoso
+119	Los Todopoderosos: Zeus El Majestuoso
+120	Los Todopoderosos: Zeus El Majestuoso
+121	Legión Férrea
+122	Legión Férrea
+123	Legión Férrea
+124	Antirrojos
+125	Antiaéreos
+126	Megafesti
+127	Navidamas
+128	Bolas De Platino
+129	Los Todopoderosos: Zeus El Majestuoso
+130	Los Todopoderosos: Zeus El Majestuoso
+131	Los Todopoderosos: Zeus El Majestuoso
+132	¡Adiós, 2020!
+133	¡Hola, 2021!
+134	Megafesti
+135	Bolas De Platino
+136	Antirrojos
+137	Megafesti
+138	Bolas De Platino
+139	Familia De Nekolugas
+140	Familia De Nekolugas
+141	Familia De Nekolugas
+142	Los Dinamitas
+143	Los Dinamitas
+144	Los Dinamitas
+145	Vajiras
+146	Vajiras
+147	Vajiras
+148	Galaxichicas
+149	Galaxichicas
+150	Galaxichicas
+151	Dragones Emperadores
+152	Dragones Emperadores
+153	Dragones Emperadores
+154	Ultraalmas
+155	Ultraalmas
+156	Ultraalmas
+157	Héroes Sombríos
+158	Héroes Sombríos
+159	Héroes Sombríos
+160	Los Todopoderosos: Zeus El Majestuoso
+161	Los Todopoderosos: Zeus El Majestuoso
+162	Los Todopoderosos: Zeus El Majestuoso
+163	Legión Férrea
+164	Legión Férrea
+165	Legión Férrea
+166	Antirrojos
+167	Antiaéreos
+168	Megafesti
+169	Bolas De Platino
+170	Crash Fever Collab Capsules
+171	Crash Fever Collab Capsules
+172	Carnaval Primaveral
+173	Hiperfesti
+174	Bolas De Platino
+175	Chicas Y Monstruos
+176	
+177	Vajiras
+178	Vajiras
+179	Vajiras
+180	Shoumetsu Toshi Collab Capsules
+181	Shoumetsu Toshi Collab Capsules
+182	Megafesti
+183	Hiperfesti
+184	Bolas De Platino
+185	Merc Storia Collab Capsules
+186	
+187	
+188	Galaxichicas
+189	Galaxichicas
+190	Galaxichicas
+191	Ultraselección
+192	Selección Milagrosa
+193	Megafesti
+194	Hiperfesti
+195	Bolas De Platino
+196	
+197	Chicas De Verano
+198	Legión Férrea
+199	Legión Férrea
+200	Legión Férrea
+201	Megafesti
+202	Hiperfesti
+203	Bolas De Platino
+204	Chicas Y Monstruos
+205	Antimetálicos
+206	Chicas Y Monstruos
+207	Chicas Y Monstruos
+208	Hadas Elementales
+209	Hadas Elementales
+210	Hadas Elementales
+211	Megafesti
+212	Hiperfesti
+213	Bolas De Platino
+214	Fate/Stay Night Capsules
+215	Familia De Nekolugas
+216	Familia De Nekolugas
+217	Familia De Nekolugas
+218	Los Dinamitas
+219	Los Dinamitas
+220	Los Dinamitas
+221	Vajiras
+222	Vajiras
+223	Vajiras
+224	Galaxichicas
+225	Galaxichicas
+226	Galaxichicas
+227	Dragones Emperadores
+228	Dragones Emperadores
+229	Dragones Emperadores
+230	Ultraalmas
+231	Ultraalmas
+232	Ultraalmas
+233	Héroes Sombríos
+234	Héroes Sombríos
+235	Héroes Sombríos
+236	Los Todopoderosos: Zeus El Majestuoso
+237	Los Todopoderosos: Zeus El Majestuoso
+238	Los Todopoderosos: Zeus El Majestuoso
+239	Legión Férrea
+240	Legión Férrea
+241	Legión Férrea
+242	Hadas Elementales
+243	Hadas Elementales
+244	Hadas Elementales
+245	Antirrojos
+246	Antiaéreos
+247	Antimetálicos
+248	Chicas Y Monstruos
+249	Chicas Y Monstruos
+250	Chicas Y Monstruos
+251	Ultraselección
+252	Selección Milagrosa
+253	Flor Y Nata
+254	Megafesti
+255	Hiperfesti
+256	Bolas De Platino
+257	Carnaval De Halloween
+258	Navidamas
+259	Carnaval Primaveral
+260	Chicas De Verano
+261	Megafesti
+262	¡Adiós, 2020!
+263	¡Hola, 2021!
+264	Bolas De Platino
+265	Powerpro Baseball Collab Capsules
+266	Dragones Emperadores
+267	Dragones Emperadores
+268	Dragones Emperadores
+269	Antimetálicos
+270	Megafesti
+271	Hiperfesti
+272	Bolas De Platino
+273	Antimetálicos
+274	Bolas De Platino
+275	Bolas De Platino
+276	Hadas Elementales
+277	Hadas Elementales
+278	Hadas Elementales
+279	Megafesti
+280	Hiperfesti
+281	Bolas De Platino
+282	Evangelion Collab Capsules
+283	Legión Férrea
+284	Legión Férrea
+285	Legión Férrea
+286	Megafesti
+287	Hiperfesti
+288	Bolas De Platino
+289	Los Dinamitas
+290	Los Dinamitas
+291	Los Dinamitas
+292	Megafesti
+293	Hiperfesti
+294	Bolas De Platino
+295	Shoumetsu Toshi Collab Capsules
+296	
+297	
+298	Héroes Sombríos
+299	Héroes Sombríos
+300	Héroes Sombríos
+301	Megafesti
+302	Hiperfesti
+303	Bolas De Platino
+304	Familia De Nekolugas
+305	Familia De Nekolugas
+306	Familia De Nekolugas
+307	Flor Y Nata
+308	Megafesti
+309	Hiperfesti
+310	Bolas De Platino
+311	Los Todopoderosos: Zeus El Majestuoso
+312	Los Todopoderosos: Zeus El Majestuoso
+313	Los Todopoderosos: Zeus El Majestuoso
+314	Chicas De Verano
+315	Megafesti
+316	Hiperfesti
+317	Bolas De Platino
+318	Puella Magi Madoka Magica Capsules
+319	Hiperfesti
+320	Bolas De Platino
+321	Crash Fever Collab Capsules
+322	Crash Fever Collab Capsules
+323	Puella Magi Madoka Magica Capsules
+324	Familia De Nekolugas
+325	Familia De Nekolugas
+326	Familia De Nekolugas
+327	Los Dinamitas
+328	Los Dinamitas
+329	Los Dinamitas
+330	Vajiras
+331	Vajiras
+332	Vajiras
+333	Galaxichicas
+334	Galaxichicas
+335	Galaxichicas
+336	Dragones Emperadores
+337	Dragones Emperadores
+338	Dragones Emperadores
+339	Ultraalmas
+340	Ultraalmas
+341	Ultraalmas
+342	Héroes Sombríos
+343	Héroes Sombríos
+344	Héroes Sombríos
+345	Los Todopoderosos: Zeus El Majestuoso
+346	Los Todopoderosos: Zeus El Majestuoso
+347	Los Todopoderosos: Zeus El Majestuoso
+348	Legión Férrea
+349	Legión Férrea
+350	Legión Férrea
+351	Hadas Elementales
+352	Hadas Elementales
+353	Hadas Elementales
+354	Chicas Y Monstruos
+355	Chicas Y Monstruos
+356	Chicas Y Monstruos
+357	Flor Y Nata
+358	Ultraselección
+359	Selección Milagrosa
+360	Megafesti
+361	Hiperfesti
+362	Ultraalmas
+363	Ultraalmas
+364	Ultraalmas
+365	¡Adiós, 2020!
+366	¡Hola, 2021!
+367	Megafesti
+368	Fate/Stay Night Capsules
+369	Los Dinamitas
+370	Los Dinamitas
+371	Los Dinamitas
+372	Familia De Nekolugas
+373	Familia De Nekolugas
+374	Familia De Nekolugas
+375	Mola Mola Capsules
+376	Mola Mola Capsules
+377	Legión Férrea
+378	Legión Férrea
+379	Legión Férrea
+380	Hadas Elementales
+381	Hadas Elementales
+382	Hadas Elementales
+383	Bikkuriman Collab Capsules
+384	Héroes Sombríos
+385	Héroes Sombríos
+386	Héroes Sombríos
+387	Shoumetsu Toshi Collab Capsules
+388	Neo Flor Y Nata
+389	Flor Y Nata
+390	
+391	Evangelion Collab Capsules
+392	Los Todopoderosos: Zeus El Majestuoso
+393	Los Todopoderosos: Zeus El Majestuoso
+394	Los Todopoderosos: Zeus El Majestuoso
+395	Chicas De Verano
+396	Vajiras
+397	Vajiras
+398	Vajiras
+399	Megafesti
+400	Hiperfesti
+401	Bolas De Platino
+402	Galaxichicas
+403	Galaxichicas
+404	Galaxichicas
+405	Megafesti
+406	Hiperfesti
+407	Bolas De Platino
+408	Dragones Emperadores
+409	Dragones Emperadores
+410	Dragones Emperadores
+411	Megafesti
+412	Hiperfesti
+413	Bolas De Platino
+414	Merc Storia Collab Capsules
+415	Street Fighter V: Arcade Edition Collab Capsules
+416	Los Dinamitas
+417	Los Dinamitas
+418	Los Dinamitas
+419	Megafesti
+420	Hiperfesti
+421	Familia De Nekolugas
+422	Familia De Nekolugas
+423	Familia De Nekolugas
+424	Los Dinamitas
+425	Los Dinamitas
+426	Los Dinamitas
+427	Vajiras
+428	Vajiras
+429	Vajiras
+430	Galaxichicas
+431	Galaxichicas
+432	Galaxichicas
+433	Dragones Emperadores
+434	Dragones Emperadores
+435	Dragones Emperadores
+436	Ultraalmas
+437	Ultraalmas
+438	Ultraalmas
+439	Héroes Sombríos
+440	Héroes Sombríos
+441	Héroes Sombríos
+442	Los Todopoderosos: Zeus El Majestuoso
+443	Los Todopoderosos: Zeus El Majestuoso
+444	Los Todopoderosos: Zeus El Majestuoso
+445	Legión Férrea
+446	Legión Férrea
+447	Legión Férrea
+448	Hadas Elementales
+449	Hadas Elementales
+450	Hadas Elementales
+451	Antirrojos
+452	Antiaéreos
+453	Antimetálicos
+454	Chicas Y Monstruos
+455	Chicas Y Monstruos
+456	Chicas Y Monstruos
+457	Carnaval De Halloween
+458	Carnaval Primaveral
+459	Chicas De Verano
+460	Flor Y Nata
+461	Neo Flor Y Nata
+462	Ultraselección
+463	Selección Milagrosa
+464	Ultraselección
+465	Selección Milagrosa
+466	Ultraselección
+467	Selección Milagrosa
+468	Gran Selección
+469	Megafesti
+470	Hiperfesti
+471	Bolas De Platino
+472	Navidamas
+473	¡Adiós, 2020!
+474	¡Hola, 2021!
+475	Ultraalmas
+476	Ultraalmas
+477	Ultraalmas
+478	Megafesti
+479	Hiperfesti
+480	Bolas De Platino
+481	Megafesti
+482	
+483	Megafesti
+484	Bolas De Platino
+485	Mola Mola Capsules
+486	Mola Mola Capsules
+487	Héroes Sombríos
+488	Héroes Sombríos
+489	Héroes Sombríos
+490	Megafesti
+491	Hiperfesti
+492	Bolas De Platino
+493	Macrofesti
+494	Hatsune Miku Collab Capsules
+495	Mola Mola Capsules
+496	Mola Mola Capsules
+497	Los Todopoderosos: Zeus El Majestuoso
+498	Los Todopoderosos: Zeus El Majestuoso
+499	Los Todopoderosos: Zeus El Majestuoso
+500	Megafesti
+501	Hiperfesti
+502	Carnaval Primaveral
+503	Macrofesti
+504	Bolas De Platino
+505	Shoumetsu Toshi Collab Capsules
+506	Chicas Y Monstruos
+507	Chicas Y Monstruos
+508	Chicas Y Monstruos
+509	Hiperfesti
+510	Bolas De Platino
+511	Shoumetsu Toshi Collab Capsules
+512	Macrofesti
+513	Evangelion Collab Capsules
+514	Evangelion Collab Capsules
+515	Evangelion Collab Capsules
+516	Evangelion Collab Capsules
+517	Familia De Nekolugas
+518	Familia De Nekolugas
+519	Familia De Nekolugas
+520	Megafesti
+521	Hiperfesti
+522	Bolas De Platino
+523	Antioleada
+524	Bikkuriman Collab Capsules
+525	Bolas De Platino
+526	Flor Y Nata
+527	Neo Flor Y Nata
+528	Ultraselección
+529	Selección Milagrosa
+530	Ultraselección
+531	Selección Milagrosa
+532	Hatsune Miku Collab Capsules
+533	Chicas De Verano
+534	Chicas De Verano
+535	Hatsune Miku Collab Capsules
+536	Macrofesti
+537	Bikkuriman Collab Capsules
+538	Hadas Elementales
+539	Hadas Elementales
+540	Hadas Elementales
+541	Megafesti
+542	Hiperfesti
+543	Bolas De Platino
+544	Carnaval De Halloween
+545	Carnaval De Halloween
+546	Crash Fever Collab Capsules
+547	Flor Y Nata
+548	Neo Flor Y Nata
+549	Street Fighter V: Arcade Edition Collab Capsules
+550	Street Fighter V: Arcade Edition Collab Capsules
+551	Bolas Legendarias
+552	Ultraselección
+553	Selección Milagrosa
+554	Gran Selección
+555	Megafesti
+556	Bolas De Platino
+557	Bolas Legendarias
+558	Bolas Legendarias
+559	Macrofesti
+560	¡Hola, 2021!
+561	¡Hola, 2021!
+562	Festival De Dinastías
+563	Hatsune Miku Collab Capsules
+564	Hatsune Miku Collab Capsules
+565	Navidamas
+566	Festival De Dinastías
+567	Chicas De San Valentín
+568	Chicas De San Valentín
+569	Evangelion Collab Capsules
+570	Evangelion Collab Capsules
+571	Macrofesti
+572	Legión Férrea
+573	Legión Férrea
+574	Legión Férrea
+575	Megafesti
+576	Hiperfesti
+577	Bolas De Platino
+578	Bolas Legendarias
+579	Carnaval Primaveral
+580	Carnaval Primaveral
+581	Festival De Dinastías
+582	Festival De Dinastías
+583	Hatsune Miku Collab Capsules
+584	Hatsune Miku Collab Capsules
+585	Chicas Y Monstruos
+586	Chicas Y Monstruos
+587	Chicas Y Monstruos
+588	Ranma 1/2 Collab Capsules
+589	Ranma 1/2 Collab Capsules
+590	Hiperfesti
+591	Macrofesti
+592	Bolas De Platino
+593	Bolas Legendarias
+594	Flor Y Nata
+595	Neo Flor Y Nata
+596	Ultraselección
+597	Selección Milagrosa
+598	Gran Selección
+599	Ultraselección
+600	Selección Milagrosa
+601	Gran Selección
+602	Festival Real
+603	Bolas De Platino
+604	Bolas Legendarias
+607	Chicas De Verano
+608	Vajiras
+609	Vajiras
+610	Vajiras
+611	Galaxichicas
+612	Galaxichicas
+613	Galaxichicas
+614	Megafesti
+615	Hiperfesti
+616	Bolas De Platino
+617	Bolas De Platino
+618	Bolas Legendarias
+619	Bolas Legendarias
+620	Choque Impulsivo
+622	Macrofesti
+623	Festival De Dinastías
+624	Familia De Nekolugas
+625	Familia De Nekolugas
+626	Familia De Nekolugas
+627	Los Dinamitas
+628	Los Dinamitas
+629	Los Dinamitas
+630	Dragones Emperadores
+631	Dragones Emperadores
+632	Dragones Emperadores
+633	Megafesti
+635	Bolas De Platino
+636	Bolas De Platino
+637	Bolas De Platino
+638	Bolas Legendarias
+639	Bolas Legendarias
+640	Bolas Legendarias
+641	Hiperfesti
+642	Puella Magi Madoka Magica Capsules
+650	Carnaval De Halloween

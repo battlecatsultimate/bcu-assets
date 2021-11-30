@@ -1,0 +1,531 @@
+002	ケリ姫ガチャ（※元3.4.0。4.6.0でバナー画像追加改修）
+027	The Dynamites 
+028	The Dynamites 
+029	Wargods Vajiras
+030	Wargods Vajiras
+031	Galaxy Gals 
+032	Galaxy Gals 
+033	Dragon Emperors 
+034	Dragon Emperors 
+041	Ultra Souls
+042	Ultra Souls
+045	Metal Slug Defense Collab Capsules
+046	ハロウィン
+047	Dark Heroes 
+048	Dark Heroes 
+050	The Nekoluga Family
+051	The Nekoluga Family
+052	The Nekoluga Family
+053	The Dynamites 
+054	Wargods Vajiras
+055	Galaxy Gals 
+056	Dragon Emperors 
+057	Red Busters 
+058	Red Busters 
+059	Red Busters 
+060	Ultra Souls
+061	Dark Heroes 
+062	『＋４キャラ』生きろ！マンボウ！
+063	『支援隊入り』生きろ！マンボウ！
+064	クリスマスギャルズ
+065	『＋４キャラ』2015忘年会ガチャ
+066	『支援隊入り』正月めでたいガチャ
+067	The Almighties
+068	The Almighties
+069	The Almighties
+070	Dark Heroes 
+071	Dark Heroes 
+072	Dark Heroes 
+073	Uberfest
+074	Uberfest
+075	Uberfest 
+076	『＋４キャラ』消滅都市_En
+077	『支援隊入り』消滅都市_En
+078	The Almighties
+079	The Almighties
+080	The Almighties
+081	Uberfest 
+082	The Almighties
+083	The Almighties
+084	The Almighties
+085	Gals Of Summer
+086	En_プラチナガチャ（レイなし）
+087	En_プラチナガチャ（レイあり）
+088	Uberfest 
+089	Red Busters 
+090	En_レッドバスターズ_キャラ追加 + 4キャラ
+091	En_レッドバスターズ_キャラ追加 + 支援隊
+092	Air Busters 
+093	Red Busters 
+096	Halloween Carnival
+097	The Nekoluga Family
+098	The Nekoluga Family
+099	The Nekoluga Family
+100	The Dynamites 
+101	The Dynamites 
+102	The Dynamites 
+103	Wargods Vajiras
+104	Wargods Vajiras
+105	Wargods Vajiras
+106	Galaxy Gals 
+107	Galaxy Gals 
+108	Galaxy Gals 
+109	Dragon Emperors 
+110	Dragon Emperors 
+111	Dragon Emperors 
+112	Ultra Souls
+113	Ultra Souls
+114	Ultra Souls
+115	Dark Heroes 
+116	Dark Heroes 
+117	Dark Heroes 
+118	The Almighties
+119	The Almighties
+120	The Almighties
+121	Iron Legion
+122	Iron Legion
+123	Iron Legion
+124	Red Busters 
+125	Air Busters 
+126	Uberfest 
+127	Xmas Gals
+128	Platinum Capsules
+129	The Almighties
+130	The Almighties
+131	The Almighties
+132	Goodbye 2016!
+133	Welcome 2017!
+136	Red Busters 
+137	Uberfest 
+138	Platinum Capsules
+139	The Nekoluga Family
+140	The Nekoluga Family
+141	The Nekoluga Family
+142	The Dynamites 
+143	The Dynamites 
+144	The Dynamites 
+145	Wargods Vajiras
+146	Wargods Vajiras
+147	Wargods Vajiras
+148	Galaxy Gals 
+149	Galaxy Gals 
+150	Galaxy Gals 
+151	Dragon Emperors 
+152	Dragon Emperors 
+153	Dragon Emperors 
+154	Ultra Souls
+155	Ultra Souls
+156	Ultra Souls
+157	Dark Heroes 
+158	Dark Heroes 
+159	Dark Heroes 
+160	The Almighties
+161	The Almighties
+162	The Almighties
+163	Iron Legion
+164	Iron Legion
+165	Iron Legion
+166	Red Busters 
+167	Air Busters 
+168	Uberfest 
+169	Platinum Capsules
+170	Crash Fever Collab Capsules
+171	Crash Fever Collab Capsules
+172	Easter Carnival
+173	Epicfest 
+174	Platinum Capsules
+175	Girls & Monsters
+177	Wargods Vajiras
+178	Wargods Vajiras
+179	Wargods Vajiras
+182	Uberfest 
+183	Epicfest 
+184	Platinum Capsules
+188	Galaxy Gals 
+189	Galaxy Gals 
+190	Galaxy Gals 
+191	Ultra Selection
+192	Miracle Chance
+193	Uberfest 
+194	Epicfest 
+195	Platinum Capsules
+197	Gals Of Summer
+198	Iron Legion
+199	Iron Legion
+200	Iron Legion
+201	Uberfest 
+202	Epicfest 
+203	Platinum Capsules
+204	Girls & Monsters
+205	Metal Busters 
+206	Girls & Monsters
+207	Girls & Monsters
+208	Elemental Pixies
+209	Elemental Pixies
+210	Elemental Pixies
+215	The Nekoluga Family
+216	The Nekoluga Family
+217	The Nekoluga Family
+218	The Dynamites 
+219	The Dynamites 
+220	The Dynamites 
+221	Wargods Vajiras
+222	Wargods Vajiras
+223	Wargods Vajiras
+224	Galaxy Gals 
+225	Galaxy Gals 
+226	Galaxy Gals 
+227	Dragon Emperors 
+228	Dragon Emperors 
+229	Dragon Emperors 
+230	Ultra Souls
+231	Ultra Souls
+232	Ultra Souls
+233	Dark Heroes 
+234	Dark Heroes 
+235	Dark Heroes 
+236	The Almighties
+237	The Almighties
+238	The Almighties
+239	Iron Legion
+240	Iron Legion
+241	Iron Legion
+242	Elemental Pixies
+243	Elemental Pixies
+244	Elemental Pixies
+245	Red Busters 
+246	Air Busters 
+247	Metal Busters 
+248	Girls & Monsters
+249	Girls & Monsters
+250	Girls & Monsters
+251	Ultra Selection
+252	Miracle Chance
+253	Best Of The Best 
+254	Uberfest 
+255	Epicfest 
+256	Platinum Capsules
+257	Halloween Carnival
+258	Xmas Gals
+259	Easter Carnival
+260	Gals Of Summer
+261	Uberfest 
+262	Goodbye 2017!
+263	Welcome 2018!
+264	Platinum Capsules
+265	Powerpro Baseball Collab Capsules
+266	Dragon Emperors 
+267	Dragon Emperors 
+268	Dragon Emperors 
+270	Uberfest 
+271	Epicfest 
+272	Platinum Capsules
+273	Metal Busters 
+274	Platinum Capsules
+275	Platinum Capsules
+276	Elemental Pixies
+277	Elemental Pixies
+278	Elemental Pixies
+279	Uberfest 
+280	Epicfest 
+281	Platinum Capsules
+282	Evangelion Collab Capsules
+283	Iron Legion
+284	Iron Legion
+285	Iron Legion
+286	Uberfest 
+287	Epicfest 
+288	Platinum Capsules
+289	The Dynamites 
+290	The Dynamites 
+291	The Dynamites 
+292	Uberfest 
+293	Epicfest 
+294	Platinum Capsules
+298	Dark Heroes 
+299	Dark Heroes 
+300	Dark Heroes 
+301	Uberfest 
+302	Epicfest 
+303	Platinum Capsules
+304	The Nekoluga Family
+305	The Nekoluga Family
+306	The Nekoluga Family
+307	Best Of The Best 
+308	Uberfest 
+309	Epicfest 
+310	Platinum Capsules
+311	The Almighties
+312	The Almighties
+313	The Almighties
+314	Gals Of Summer
+315	Uberfest 
+316	Epicfest 
+317	Platinum Capsules
+318	Puella Magi Madoka Magica Capsules
+319	Epicfest 
+320	Platinum Capsules
+321	Crash Fever Collab Capsules
+322	Crash Fever Collab Capsules
+323	Puella Magi Madoka Magica Capsules
+324	The Nekoluga Family
+325	The Nekoluga Family
+326	The Nekoluga Family
+327	The Dynamites 
+328	The Dynamites 
+329	The Dynamites 
+330	Wargods Vajiras
+331	Wargods Vajiras
+332	Wargods Vajiras
+333	Galaxy Gals 
+334	Galaxy Gals 
+335	Galaxy Gals 
+336	Dragon Emperors 
+337	Dragon Emperors 
+338	Dragon Emperors 
+339	Ultra Souls
+340	Ultra Souls
+341	Ultra Souls
+342	Dark Heroes 
+343	Dark Heroes 
+344	Dark Heroes 
+345	The Almighties
+346	The Almighties
+347	The Almighties
+348	Iron Legion
+349	Iron Legion
+350	Iron Legion
+351	Elemental Pixies
+352	Elemental Pixies
+353	Elemental Pixies
+354	Girls & Monsters
+355	Girls & Monsters
+356	Girls & Monsters
+360	Uberfest 
+361	Epicfest 
+362	Ultra Souls
+363	Ultra Souls
+364	Ultra Souls
+365	Goodbye 2018!
+366	Welcome 2019!
+367	Uberfest 
+368	Fate/Stay Night Capsules
+369	The Dynamites 
+370	The Dynamites 
+371	The Dynamites 
+372	The Nekoluga Family
+373	The Nekoluga Family
+374	The Nekoluga Family
+375	Mola Mola Capsules
+376	Mola Mola Capsules
+377	Iron Legion
+378	Iron Legion
+379	Iron Legion
+380	Elemental Pixies
+381	Elemental Pixies
+382	Elemental Pixies
+384	Dark Heroes 
+385	Dark Heroes 
+386	Dark Heroes 
+388	Neo Best Of The Best 
+389	Best Of The Best 
+391	Evangelion Collab Capsules
+392	The Almighties
+393	The Almighties
+394	The Almighties
+395	Gals Of Summer
+396	Wargods Vajiras
+397	Wargods Vajiras
+398	Wargods Vajiras
+399	Uberfest 
+400	Epicfest 
+401	Platinum Capsules
+402	Galaxy Gals 
+403	Galaxy Gals 
+404	Galaxy Gals 
+405	Uberfest 
+406	Epicfest 
+407	Platinum Capsules
+408	Dragon Emperors 
+409	Dragon Emperors 
+410	Dragon Emperors 
+411	Uberfest 
+412	Epicfest 
+413	Platinum Capsules
+414	Merc Storia Collab Capsules
+415	Street Fighter Capsules
+416	The Dynamites 
+417	The Dynamites 
+418	The Dynamites 
+421	The Nekoluga Family
+422	The Nekoluga Family
+423	The Nekoluga Family
+424	The Dynamites 
+425	The Dynamites 
+426	The Dynamites 
+427	Wargods Vajiras
+428	Wargods Vajiras
+429	Wargods Vajiras
+430	Galaxy Gals 
+431	Galaxy Gals 
+432	Galaxy Gals 
+433	Dragon Emperors 
+434	Dragon Emperors 
+435	Dragon Emperors 
+436	Ultra Souls
+437	Ultra Souls
+438	Ultra Souls
+439	Dark Heroes 
+440	Dark Heroes 
+441	Dark Heroes 
+442	The Almighties
+443	The Almighties
+444	The Almighties
+445	Iron Legion
+446	Iron Legion
+447	Iron Legion
+448	Elemental Pixies
+449	Elemental Pixies
+450	Elemental Pixies
+451	Red Busters 
+452	Air Busters 
+453	Metal Busters 
+454	Girls & Monsters
+455	Girls & Monsters
+456	Girls & Monsters
+457	Halloween Carnival
+458	Easter Carnival
+459	Gals Of Summer
+469	Uberfest 
+470	Epicfest 
+471	Platinum Capsules
+472	Xmas Gals
+473	Goodbye 2019!
+474	Welcome 2020!
+475	Ultra Souls
+476	Ultra Souls
+477	Ultra Souls
+478	Uberfest 
+479	Epicfest 
+480	Platinum Capsules
+481	Uberfest 
+483	Uberfest 
+484	Platinum Capsules
+485	Mola Mola Capsules
+486	Mola Mola Capsules
+487	Dark Heroes 
+488	Dark Heroes 
+489	Dark Heroes 
+490	Uberfest 
+491	Epicfest 
+492	Platinum Capsules
+494	Hatsune Miku Collab Capsules
+496	Mola Mola Capsules
+497	The Almighties
+498	The Almighties
+499	The Almighties
+500	Uberfest 
+501	Epicfest 
+502	Easter Carnival
+503	Superfest 
+504	Platinum Capsules
+505	Shoumetsu Toshi Collab Capsules
+506	Girls & Monsters
+507	Girls & Monsters
+508	Girls & Monsters
+509	Epicfest 
+510	Platinum Capsules
+511	Shoumetsu Toshi Collab Capsules
+515	Evangelion Collab Capsules
+516	Evangelion Collab Capsules
+517	The Nekoluga Family
+518	The Nekoluga Family
+519	The Nekoluga Family
+520	Uberfest 
+521	Epicfest 
+522	Platinum Capsules
+523	Wave Busters
+525	Platinum Capsules
+526	Best Of The Best 
+527	Neo Best Of The Best 
+530	Ultra Selection
+531	Miracle Chance
+534	Gals Of Summer
+535	Hatsune Miku Collab Capsules
+536	Superfest
+537	Bikkuriman Collab Capsules
+538	Elemental Pixies
+539	Elemental Pixies
+540	Elemental Pixies
+541	Uberfest
+542	Epicfest
+543	Platinum Capsules
+544	Halloween Carnival
+545	Halloween Carnival
+546	Crash Fever Collab Capsules
+547	Best Of The Best
+548	Neo Best Of The Best
+550	Street Fighter Capsules
+555	Uberfest
+556	Platinum Capsules
+564	Hatsune Miku Collab Capsules
+565	Xmas Gals
+566	Dynasty Fest
+568	Valentine Gals
+570	Evangelion Collab Capsules
+571	Superfest
+572	Iron Legion
+573	Iron Legion
+574	Iron Legion
+575	Uberfest
+576	Epicfest
+577	Platinum Capsules
+580	Easter Carnival
+584	Hatsune Miku Collab Capsules
+585	Girls & Monsters
+586	Girls & Monsters
+587	Girls & Monsters
+589	Ranma 1/2 Collab Capsules
+590	Epicfest
+592	Platinum Capsules
+594	Best Of The Best
+595	Neo Best Of The Best
+599	Ultra Selection
+600	Miracle Selection
+601	Excellent Selection
+602	Royalfest
+603	Platinum Capsules
+607	Gals Of Summer
+608	Wargods Vajiras
+609	Wargods Vajiras
+610	Wargods Vajiras
+611	Galaxy Gals
+612	Galaxy Gals
+613	Galaxy Gals
+614	Uberfest
+615	Epicfest
+616	Platinum Capsules
+617	Platinum Capsules
+618	Legendary Capsules
+619	Legendary Capsules
+622	Superfest
+623	Dynasty Fest
+624	The Nekoluga Family
+625	The Nekoluga Family
+626	The Nekoluga Family
+627	The Dynamites
+628	The Dynamites
+629	The Dynamites
+630	Dragon Emperors
+631	Dragon Emperors
+632	Dragon Emperors
+633	Uberfest
+635	Platinum Capsules
+636	Platinum Capsules
+637	Platinum Capsules
+638	Legendary Capsules
+639	Legendary Capsules
+640	Legendary Capsules
+641	Epicfest
+642	Puella Magi Madoka Magica Capsules
+650	Halloween Carnival

@@ -1,0 +1,640 @@
+000	La Famiglia Nekoluga
+001	Evento Miaocapsula Rara Le Dinamiti
+002	
+003	Vajiras
+004	Evento Miaocapsula Rara Ragazze Galattiche
+005	La Famiglia Nekoluga
+006	Evento Miaocapsula Rara Le Dinamiti
+007	Vajiras
+008	Evento Miaocapsula Rara Ragazze Galattiche
+009	Evento Miaocapsula Rara Dragoni Imperatori
+010	Evento Miaocapsula Rara Dragoni Imperatori
+011	
+012	
+013	
+014	Evento Miaocapsula Rara Antirossi
+015	Ultra Spiriti
+016	Ultra Spiriti
+017	La Famiglia Nekoluga
+018	La Famiglia Nekoluga
+019	Evento Miaocapsula Rara Dragoni Imperatori
+020	Evento Miaocapsula Rara Dragoni Imperatori
+021	Evento Miaocapsula Rara Antirossi
+022	Mola Mola Capsules
+023	Shoumetsu Toshi Collab Capsules
+024	Merc Storia Collab Capsules
+025	La Famiglia Nekoluga
+026	La Famiglia Nekoluga
+027	Evento Miaocapsula Rara Le Dinamiti
+028	Evento Miaocapsula Rara Le Dinamiti
+029	Vajiras
+030	Vajiras
+031	Evento Miaocapsula Rara Ragazze Galattiche
+032	Evento Miaocapsula Rara Ragazze Galattiche
+033	Evento Miaocapsula Rara Dragoni Imperatori
+034	Evento Miaocapsula Rara Dragoni Imperatori
+035	Evento Miaocapsula Rara Antirossi
+036	Evento Miaocapsula Rara Antirossi
+037	Ultra Spiriti
+038	Ultra Spiriti
+039	Evento Miaocapsula Rara Eroi Oscuri
+040	Evento Miaocapsula Rara Eroi Oscuri
+041	Ultra Spiriti
+042	Ultra Spiriti
+043	Evento Miaocapsula Rara Eroi Oscuri
+044	Evento Miaocapsula Rara Eroi Oscuri
+045	
+046	Fiera Di Halloween
+047	Evento Miaocapsula Rara Eroi Oscuri
+048	Evento Miaocapsula Rara Eroi Oscuri
+049	
+050	La Famiglia Nekoluga
+051	La Famiglia Nekoluga
+052	La Famiglia Nekoluga
+053	Evento Miaocapsula Rara Le Dinamiti
+054	Vajiras
+055	Evento Miaocapsula Rara Ragazze Galattiche
+056	Evento Miaocapsula Rara Dragoni Imperatori
+057	Evento Miaocapsula Rara Antirossi
+058	Evento Miaocapsula Rara Antirossi
+059	Evento Miaocapsula Rara Antirossi
+060	Ultra Spiriti
+061	Evento Miaocapsula Rara Eroi Oscuri
+062	Mola Mola Capsules
+063	Mola Mola Capsules
+064	Ragazze Natalizie
+065	Addio 2020!
+066	Benvenuto 2021!
+067	Gli Onnipotenti: Il Divino Zeus
+068	Gli Onnipotenti: Il Divino Zeus
+069	Gli Onnipotenti: Il Divino Zeus
+070	Evento Miaocapsula Rara Eroi Oscuri
+071	Evento Miaocapsula Rara Eroi Oscuri
+072	Evento Miaocapsula Rara Eroi Oscuri
+073	Evento Miaocapsula Rara Festival Ultra
+074	Evento Miaocapsula Rara Festival Ultra
+075	Evento Miaocapsula Rara Festival Ultra
+076	Shoumetsu Toshi Collab Capsules
+077	Shoumetsu Toshi Collab Capsules
+078	Gli Onnipotenti: Il Divino Zeus
+079	Gli Onnipotenti: Il Divino Zeus
+080	Gli Onnipotenti: Il Divino Zeus
+081	Evento Miaocapsula Rara Festival Ultra
+082	Gli Onnipotenti: Il Divino Zeus
+083	Gli Onnipotenti: Il Divino Zeus
+084	Gli Onnipotenti: Il Divino Zeus
+085	Ragazze Estive
+086	Capsule Platino
+087	Capsule Platino
+088	Evento Miaocapsula Rara Festival Ultra
+089	Evento Miaocapsula Rara Antirossi
+090	Evento Miaocapsula Rara Antirossi
+091	Evento Miaocapsula Rara Antirossi
+092	Evento Miaocapsula Rara Antiaerei
+093	Evento Miaocapsula Rara Antirossi
+094	Puella Magi Madoka Magica Capsules
+095	Puella Magi Madoka Magica Capsules
+096	Fiera Di Halloween
+097	La Famiglia Nekoluga
+098	La Famiglia Nekoluga
+099	La Famiglia Nekoluga
+100	Evento Miaocapsula Rara Le Dinamiti
+101	Evento Miaocapsula Rara Le Dinamiti
+102	Evento Miaocapsula Rara Le Dinamiti
+103	Vajiras
+104	Vajiras
+105	Vajiras
+106	Evento Miaocapsula Rara Ragazze Galattiche
+107	Evento Miaocapsula Rara Ragazze Galattiche
+108	Evento Miaocapsula Rara Ragazze Galattiche
+109	Evento Miaocapsula Rara Dragoni Imperatori
+110	Evento Miaocapsula Rara Dragoni Imperatori
+111	Evento Miaocapsula Rara Dragoni Imperatori
+112	Ultra Spiriti
+113	Ultra Spiriti
+114	Ultra Spiriti
+115	Evento Miaocapsula Rara Eroi Oscuri
+116	Evento Miaocapsula Rara Eroi Oscuri
+117	Evento Miaocapsula Rara Eroi Oscuri
+118	Gli Onnipotenti: Il Divino Zeus
+119	Gli Onnipotenti: Il Divino Zeus
+120	Gli Onnipotenti: Il Divino Zeus
+121	Legione Di Ferro
+122	Legione Di Ferro
+123	Legione Di Ferro
+124	Evento Miaocapsula Rara Antirossi
+125	Evento Miaocapsula Rara Antiaerei
+126	Evento Miaocapsula Rara Festival Ultra
+127	Ragazze Natalizie
+128	Capsule Platino
+129	Gli Onnipotenti: Il Divino Zeus
+130	Gli Onnipotenti: Il Divino Zeus
+131	Gli Onnipotenti: Il Divino Zeus
+132	Addio 2020!
+133	Benvenuto 2021!
+134	Evento Miaocapsula Rara Festival Ultra
+135	Capsule Platino
+136	Evento Miaocapsula Rara Antirossi
+137	Evento Miaocapsula Rara Festival Ultra
+138	Capsule Platino
+139	La Famiglia Nekoluga
+140	La Famiglia Nekoluga
+141	La Famiglia Nekoluga
+142	Evento Miaocapsula Rara Le Dinamiti
+143	Evento Miaocapsula Rara Le Dinamiti
+144	Evento Miaocapsula Rara Le Dinamiti
+145	Vajiras
+146	Vajiras
+147	Vajiras
+148	Evento Miaocapsula Rara Ragazze Galattiche
+149	Evento Miaocapsula Rara Ragazze Galattiche
+150	Evento Miaocapsula Rara Ragazze Galattiche
+151	Evento Miaocapsula Rara Dragoni Imperatori
+152	Evento Miaocapsula Rara Dragoni Imperatori
+153	Evento Miaocapsula Rara Dragoni Imperatori
+154	Ultra Spiriti
+155	Ultra Spiriti
+156	Ultra Spiriti
+157	Evento Miaocapsula Rara Eroi Oscuri
+158	Evento Miaocapsula Rara Eroi Oscuri
+159	Evento Miaocapsula Rara Eroi Oscuri
+160	Gli Onnipotenti: Il Divino Zeus
+161	Gli Onnipotenti: Il Divino Zeus
+162	Gli Onnipotenti: Il Divino Zeus
+163	Legione Di Ferro
+164	Legione Di Ferro
+165	Legione Di Ferro
+166	Evento Miaocapsula Rara Antirossi
+167	Evento Miaocapsula Rara Antiaerei
+168	Evento Miaocapsula Rara Festival Ultra
+169	Capsule Platino
+170	Crash Fever Collab Capsules
+171	Crash Fever Collab Capsules
+172	Fiera Pasquale
+173	Evento Miaocapsula Rara Festival Epico
+174	Capsule Platino
+175	Ragazze E Mostri
+176	
+177	Vajiras
+178	Vajiras
+179	Vajiras
+180	Shoumetsu Toshi Collab Capsules
+181	Shoumetsu Toshi Collab Capsules
+182	Evento Miaocapsula Rara Festival Ultra
+183	Evento Miaocapsula Rara Festival Epico
+184	Capsule Platino
+185	Merc Storia Collab Capsules
+186	
+187	
+188	Evento Miaocapsula Rara Ragazze Galattiche
+189	Evento Miaocapsula Rara Ragazze Galattiche
+190	Evento Miaocapsula Rara Ragazze Galattiche
+191	Selezione Ultra
+192	Selezione Miracolo
+193	Evento Miaocapsula Rara Festival Ultra
+194	Evento Miaocapsula Rara Festival Epico
+195	Capsule Platino
+196	
+197	Ragazze Estive
+198	Legione Di Ferro
+199	Legione Di Ferro
+200	Legione Di Ferro
+201	Evento Miaocapsula Rara Festival Ultra
+202	Evento Miaocapsula Rara Festival Epico
+203	Capsule Platino
+204	Ragazze E Mostri
+205	Evento Miaocapsula Rara Antimetallici
+206	Ragazze E Mostri
+207	Ragazze E Mostri
+208	Fate Elementali
+209	Fate Elementali
+210	Fate Elementali
+211	Evento Miaocapsula Rara Festival Ultra
+212	Evento Miaocapsula Rara Festival Epico
+213	Capsule Platino
+214	Fate/Stay Night Capsules
+215	La Famiglia Nekoluga
+216	La Famiglia Nekoluga
+217	La Famiglia Nekoluga
+218	Evento Miaocapsula Rara Le Dinamiti
+219	Evento Miaocapsula Rara Le Dinamiti
+220	Evento Miaocapsula Rara Le Dinamiti
+221	Vajiras
+222	Vajiras
+223	Vajiras
+224	Evento Miaocapsula Rara Ragazze Galattiche
+225	Evento Miaocapsula Rara Ragazze Galattiche
+226	Evento Miaocapsula Rara Ragazze Galattiche
+227	Evento Miaocapsula Rara Dragoni Imperatori
+228	Evento Miaocapsula Rara Dragoni Imperatori
+229	Evento Miaocapsula Rara Dragoni Imperatori
+230	Ultra Spiriti
+231	Ultra Spiriti
+232	Ultra Spiriti
+233	Evento Miaocapsula Rara Eroi Oscuri
+234	Evento Miaocapsula Rara Eroi Oscuri
+235	Evento Miaocapsula Rara Eroi Oscuri
+236	Gli Onnipotenti: Il Divino Zeus
+237	Gli Onnipotenti: Il Divino Zeus
+238	Gli Onnipotenti: Il Divino Zeus
+239	Legione Di Ferro
+240	Legione Di Ferro
+241	Legione Di Ferro
+242	Fate Elementali
+243	Fate Elementali
+244	Fate Elementali
+245	Evento Miaocapsula Rara Antirossi
+246	Evento Miaocapsula Rara Antiaerei
+247	Evento Miaocapsula Rara Antimetallici
+248	Ragazze E Mostri
+249	Ragazze E Mostri
+250	Ragazze E Mostri
+251	Selezione Ultra
+252	Selezione Miracolo
+253	Evento Miaocapsula Rara Meglio Del Meglio
+254	Evento Miaocapsula Rara Festival Ultra
+255	Evento Miaocapsula Rara Festival Epico
+256	Capsule Platino
+257	Fiera Di Halloween
+258	Ragazze Natalizie
+259	Fiera Pasquale
+260	Ragazze Estive
+261	Evento Miaocapsula Rara Festival Ultra
+262	Addio 2020!
+263	Benvenuto 2021!
+264	Capsule Platino
+265	Powerpro Baseball Collab Capsules
+266	Evento Miaocapsula Rara Dragoni Imperatori
+267	Evento Miaocapsula Rara Dragoni Imperatori
+268	Evento Miaocapsula Rara Dragoni Imperatori
+269	Evento Miaocapsula Rara Antimetallici
+270	Evento Miaocapsula Rara Festival Ultra
+271	Evento Miaocapsula Rara Festival Epico
+272	Capsule Platino
+273	Evento Miaocapsula Rara Antimetallici
+274	Capsule Platino
+275	Capsule Platino
+276	Fate Elementali
+277	Fate Elementali
+278	Fate Elementali
+279	Evento Miaocapsula Rara Festival Ultra
+280	Evento Miaocapsula Rara Festival Epico
+281	Capsule Platino
+282	Evangelion Collab Capsules
+283	Legione Di Ferro
+284	Legione Di Ferro
+285	Legione Di Ferro
+286	Evento Miaocapsula Rara Festival Ultra
+287	Evento Miaocapsula Rara Festival Epico
+288	Capsule Platino
+289	Evento Miaocapsula Rara Le Dinamiti
+290	Evento Miaocapsula Rara Le Dinamiti
+291	Evento Miaocapsula Rara Le Dinamiti
+292	Evento Miaocapsula Rara Festival Ultra
+293	Evento Miaocapsula Rara Festival Epico
+294	Capsule Platino
+295	Shoumetsu Toshi Collab Capsules
+296	
+297	
+298	Evento Miaocapsula Rara Eroi Oscuri
+299	Evento Miaocapsula Rara Eroi Oscuri
+300	Evento Miaocapsula Rara Eroi Oscuri
+301	Evento Miaocapsula Rara Festival Ultra
+302	Evento Miaocapsula Rara Festival Epico
+303	Capsule Platino
+304	La Famiglia Nekoluga
+305	La Famiglia Nekoluga
+306	La Famiglia Nekoluga
+307	Evento Miaocapsula Rara Meglio Del Meglio
+308	Evento Miaocapsula Rara Festival Ultra
+309	Evento Miaocapsula Rara Festival Epico
+310	Capsule Platino
+311	Gli Onnipotenti: Il Divino Zeus
+312	Gli Onnipotenti: Il Divino Zeus
+313	Gli Onnipotenti: Il Divino Zeus
+314	Ragazze Estive
+315	Evento Miaocapsula Rara Festival Ultra
+316	Evento Miaocapsula Rara Festival Epico
+317	Capsule Platino
+318	Puella Magi Madoka Magica Capsules
+319	Evento Miaocapsula Rara Festival Epico
+320	Capsule Platino
+321	Crash Fever Collab Capsules
+322	Crash Fever Collab Capsules
+323	Puella Magi Madoka Magica Capsules
+324	La Famiglia Nekoluga
+325	La Famiglia Nekoluga
+326	La Famiglia Nekoluga
+327	Evento Miaocapsula Rara Le Dinamiti
+328	Evento Miaocapsula Rara Le Dinamiti
+329	Evento Miaocapsula Rara Le Dinamiti
+330	Vajiras
+331	Vajiras
+332	Vajiras
+333	Evento Miaocapsula Rara Ragazze Galattiche
+334	Evento Miaocapsula Rara Ragazze Galattiche
+335	Evento Miaocapsula Rara Ragazze Galattiche
+336	Evento Miaocapsula Rara Dragoni Imperatori
+337	Evento Miaocapsula Rara Dragoni Imperatori
+338	Evento Miaocapsula Rara Dragoni Imperatori
+339	Ultra Spiriti
+340	Ultra Spiriti
+341	Ultra Spiriti
+342	Evento Miaocapsula Rara Eroi Oscuri
+343	Evento Miaocapsula Rara Eroi Oscuri
+344	Evento Miaocapsula Rara Eroi Oscuri
+345	Gli Onnipotenti: Il Divino Zeus
+346	Gli Onnipotenti: Il Divino Zeus
+347	Gli Onnipotenti: Il Divino Zeus
+348	Legione Di Ferro
+349	Legione Di Ferro
+350	Legione Di Ferro
+351	Fate Elementali
+352	Fate Elementali
+353	Fate Elementali
+354	Ragazze E Mostri
+355	Ragazze E Mostri
+356	Ragazze E Mostri
+357	Evento Miaocapsula Rara Meglio Del Meglio
+358	Selezione Ultra
+359	Selezione Miracolo
+360	Evento Miaocapsula Rara Festival Ultra
+361	Evento Miaocapsula Rara Festival Epico
+362	Ultra Spiriti
+363	Ultra Spiriti
+364	Ultra Spiriti
+365	Addio 2020!
+366	Benvenuto 2021!
+367	Evento Miaocapsula Rara Festival Ultra
+368	Fate/Stay Night Capsules
+369	Evento Miaocapsula Rara Le Dinamiti
+370	Evento Miaocapsula Rara Le Dinamiti
+371	Evento Miaocapsula Rara Le Dinamiti
+372	La Famiglia Nekoluga
+373	La Famiglia Nekoluga
+374	La Famiglia Nekoluga
+375	Mola Mola Capsules
+376	Mola Mola Capsules
+377	Legione Di Ferro
+378	Legione Di Ferro
+379	Legione Di Ferro
+380	Fate Elementali
+381	Fate Elementali
+382	Fate Elementali
+383	Bikkuriman Collab Capsules
+384	Evento Miaocapsula Rara Eroi Oscuri
+385	Evento Miaocapsula Rara Eroi Oscuri
+386	Evento Miaocapsula Rara Eroi Oscuri
+387	Shoumetsu Toshi Collab Capsules
+388	Evento Miaocapsula Rara Neo Meglio Del Meglio
+389	Evento Miaocapsula Rara Meglio Del Meglio
+390	
+391	Evangelion Collab Capsules
+392	Gli Onnipotenti: Il Divino Zeus
+393	Gli Onnipotenti: Il Divino Zeus
+394	Gli Onnipotenti: Il Divino Zeus
+395	Ragazze Estive
+396	Vajiras
+397	Vajiras
+398	Vajiras
+399	Evento Miaocapsula Rara Festival Ultra
+400	Evento Miaocapsula Rara Festival Epico
+401	Capsule Platino
+402	Evento Miaocapsula Rara Ragazze Galattiche
+403	Evento Miaocapsula Rara Ragazze Galattiche
+404	Evento Miaocapsula Rara Ragazze Galattiche
+405	Evento Miaocapsula Rara Festival Ultra
+406	Evento Miaocapsula Rara Festival Epico
+407	Capsule Platino
+408	Evento Miaocapsula Rara Dragoni Imperatori
+409	Evento Miaocapsula Rara Dragoni Imperatori
+410	Evento Miaocapsula Rara Dragoni Imperatori
+411	Evento Miaocapsula Rara Festival Ultra
+412	Evento Miaocapsula Rara Festival Epico
+413	Capsule Platino
+414	Merc Storia Collab Capsules
+415	Street Fighter V: Arcade Edition Collab Capsules
+416	Evento Miaocapsula Rara Le Dinamiti
+417	Evento Miaocapsula Rara Le Dinamiti
+418	Evento Miaocapsula Rara Le Dinamiti
+419	Evento Miaocapsula Rara Festival Ultra
+420	Evento Miaocapsula Rara Festival Epico
+421	La Famiglia Nekoluga
+422	La Famiglia Nekoluga
+423	La Famiglia Nekoluga
+424	Evento Miaocapsula Rara Le Dinamiti
+425	Evento Miaocapsula Rara Le Dinamiti
+426	Evento Miaocapsula Rara Le Dinamiti
+427	Vajiras
+428	Vajiras
+429	Vajiras
+430	Evento Miaocapsula Rara Ragazze Galattiche
+431	Evento Miaocapsula Rara Ragazze Galattiche
+432	Evento Miaocapsula Rara Ragazze Galattiche
+433	Evento Miaocapsula Rara Dragoni Imperatori
+434	Evento Miaocapsula Rara Dragoni Imperatori
+435	Evento Miaocapsula Rara Dragoni Imperatori
+436	Ultra Spiriti
+437	Ultra Spiriti
+438	Ultra Spiriti
+439	Evento Miaocapsula Rara Eroi Oscuri
+440	Evento Miaocapsula Rara Eroi Oscuri
+441	Evento Miaocapsula Rara Eroi Oscuri
+442	Gli Onnipotenti: Il Divino Zeus
+443	Gli Onnipotenti: Il Divino Zeus
+444	Gli Onnipotenti: Il Divino Zeus
+445	Legione Di Ferro
+446	Legione Di Ferro
+447	Legione Di Ferro
+448	Fate Elementali
+449	Fate Elementali
+450	Fate Elementali
+451	Evento Miaocapsula Rara Antirossi
+452	Evento Miaocapsula Rara Antiaerei
+453	Evento Miaocapsula Rara Antimetallici
+454	Ragazze E Mostri
+455	Ragazze E Mostri
+456	Ragazze E Mostri
+457	Fiera Di Halloween
+458	Fiera Pasquale
+459	Ragazze Estive
+460	Evento Miaocapsula Rara Meglio Del Meglio
+461	Evento Miaocapsula Rara Neo Meglio Del Meglio
+462	Selezione Ultra
+463	Selezione Miracolo
+464	Selezione Ultra
+465	Selezione Miracolo
+466	Selezione Ultra
+467	Selezione Miracolo
+468	Selezione Eccellente
+469	Evento Miaocapsula Rara Festival Ultra
+470	Evento Miaocapsula Rara Festival Epico
+471	Capsule Platino
+472	Ragazze Natalizie
+473	Addio 2020!
+474	Benvenuto 2021!
+475	Ultra Spiriti
+476	Ultra Spiriti
+477	Ultra Spiriti
+478	Evento Miaocapsula Rara Festival Ultra
+479	Evento Miaocapsula Rara Festival Epico
+480	Capsule Platino
+481	Evento Miaocapsula Rara Festival Ultra
+482	
+483	Evento Miaocapsula Rara Festival Ultra
+484	Capsule Platino
+485	Mola Mola Capsules
+486	Mola Mola Capsules
+487	Evento Miaocapsula Rara Eroi Oscuri
+488	Evento Miaocapsula Rara Eroi Oscuri
+489	Evento Miaocapsula Rara Eroi Oscuri
+490	Evento Miaocapsula Rara Festival Ultra
+491	Evento Miaocapsula Rara Festival Epico
+492	Capsule Platino
+493	Evento Miaocapsula Rara Festival Super
+494	Hatsune Miku Collab Capsules
+495	Mola Mola Capsules
+496	Mola Mola Capsules
+497	Gli Onnipotenti: Il Divino Zeus
+498	Gli Onnipotenti: Il Divino Zeus
+499	Gli Onnipotenti: Il Divino Zeus
+500	Evento Miaocapsula Rara Festival Ultra
+501	Evento Miaocapsula Rara Festival Epico
+502	Fiera Pasquale
+503	Evento Miaocapsula Rara Festival Super
+504	Capsule Platino
+505	Shoumetsu Toshi Collab Capsules
+506	Ragazze E Mostri
+507	Ragazze E Mostri
+508	Ragazze E Mostri
+509	Evento Miaocapsula Rara Festival Epico
+510	Capsule Platino
+511	Shoumetsu Toshi Collab Capsules
+512	Evento Miaocapsula Rara Festival Super
+513	Evangelion Collab Capsules
+514	Evangelion Collab Capsules
+515	Evangelion Collab Capsules
+516	Evangelion Collab Capsules
+517	La Famiglia Nekoluga
+518	La Famiglia Nekoluga
+519	La Famiglia Nekoluga
+520	Evento Miaocapsula Rara Festival Ultra
+521	Evento Miaocapsula Rara Festival Epico
+522	Capsule Platino
+523	Antiondate
+524	Bikkuriman Collab Capsules
+525	Capsule Platino
+526	Evento Miaocapsula Rara Meglio Del Meglio
+527	Evento Miaocapsula Rara Neo Meglio Del Meglio
+528	Selezione Ultra
+529	Selezione Miracolo
+530	Selezione Ultra
+531	Selezione Miracolo
+532	Hatsune Miku Collab Capsules
+533	Ragazze Estive
+534	Ragazze Estive
+535	Hatsune Miku Collab Capsules
+536	Evento Miaocapsula Rara Festival Super
+537	Bikkuriman Collab Capsules
+538	Fate Elementali
+539	Fate Elementali
+540	Fate Elementali
+541	Evento Miaocapsula Rara Festival Ultra
+542	Evento Miaocapsula Rara Festival Epico
+543	Capsule Platino
+544	Fiera Di Halloween
+545	Fiera Di Halloween
+546	Crash Fever Collab Capsules
+547	Evento Miaocapsula Rara Meglio Del Meglio
+548	Evento Miaocapsula Rara Neo Meglio Del Meglio
+549	Street Fighter V: Arcade Edition Collab Capsules
+550	Street Fighter V: Arcade Edition Collab Capsules
+551	Capsule Leggendarie
+552	Selezione Ultra
+553	Selezione Miracolo
+554	Selezione Eccellente
+555	Evento Miaocapsula Rara Festival Ultra
+556	Capsule Platino
+557	Capsule Leggendarie
+558	Capsule Leggendarie
+559	Evento Miaocapsula Rara Festival Super
+560	Benvenuto 2021!
+561	Benvenuto 2021!
+562	Festival Dinastico
+563	Hatsune Miku Collab Capsules
+564	Hatsune Miku Collab Capsules
+565	Ragazze Natalizie
+566	Festival Dinastico
+567	Ragazze In Amore
+568	Ragazze In Amore
+569	Evangelion Collab Capsules
+570	Evangelion Collab Capsules
+571	Evento Miaocapsula Rara Festival Super
+572	Legione Di Ferro
+573	Legione Di Ferro
+574	Legione Di Ferro
+575	Evento Miaocapsula Rara Festival Ultra
+576	Evento Miaocapsula Rara Festival Epico
+577	Capsule Platino
+578	Capsule Leggendarie
+579	Fiera Pasquale
+580	Fiera Pasquale
+581	Festival Dinastico
+582	Festival Dinastico
+583	Hatsune Miku Collab Capsules
+584	Hatsune Miku Collab Capsules
+585	Ragazze E Mostri
+586	Ragazze E Mostri
+587	Ragazze E Mostri
+588	Ranma 1/2 Collab Capsules
+589	Ranma 1/2 Collab Capsules
+590	Evento Miaocapsula Rara Festival Epico
+591	Evento Miaocapsula Rara Festival Super
+592	Capsule Platino
+593	Capsule Leggendarie
+594	Evento Miaocapsula Rara Meglio Del Meglio
+595	Evento Miaocapsula Rara Neo Meglio Del Meglio
+596	Selezione Ultra
+597	Selezione Miracolo
+598	Selezione Eccellente
+599	Selezione Ultra
+600	Selezione Miracolo
+601	Selezione Eccellente
+602	Festival Regale
+603	Capsule Platino
+604	Capsule Leggendarie
+607	Ragazze Estive
+608	Vajiras
+609	Vajiras
+610	Vajiras
+611	Evento Miaocapsula Rara Ragazze Galattiche
+612	Evento Miaocapsula Rara Ragazze Galattiche
+613	Evento Miaocapsula Rara Ragazze Galattiche
+614	Evento Miaocapsula Rara Festival Ultra
+615	Evento Miaocapsula Rara Festival Epico
+616	Capsule Platino
+617	Capsule Platino
+618	Capsule Leggendarie
+619	Capsule Leggendarie
+620	Scontro Impulsivo
+622	Evento Miaocapsula Rara Festival Super
+623	Festival Dinastico
+624	La Famiglia Nekoluga
+625	La Famiglia Nekoluga
+626	La Famiglia Nekoluga
+627	Evento Miaocapsula Rara Le Dinamiti
+628	Evento Miaocapsula Rara Le Dinamiti
+629	Evento Miaocapsula Rara Le Dinamiti
+630	Evento Miaocapsula Rara Dragoni Imperatori
+631	Evento Miaocapsula Rara Dragoni Imperatori
+632	Evento Miaocapsula Rara Dragoni Imperatori
+633	Evento Miaocapsula Rara Festival Ultra
+635	Capsule Platino
+636	Capsule Platino
+637	Capsule Platino
+638	Capsule Leggendarie
+639	Capsule Leggendarie
+640	Capsule Leggendarie
+641	Evento Miaocapsula Rara Festival Epico
+642	Puella Magi Madoka Magica Capsules
+650	Fiera Di Halloween

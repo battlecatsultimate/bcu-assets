@@ -1,0 +1,640 @@
+000	La Famille Nekoluga
+001	Les Dynamites
+002	
+003	Vajiras
+004	Minettes Galactiques
+005	La Famille Nekoluga
+006	Les Dynamites
+007	Vajiras
+008	Minettes Galactiques
+009	Empereurs Dragons
+010	Empereurs Dragons
+011	
+012	
+013	
+014	Chasseurs De Rouges
+015	Ultra Âmes
+016	Ultra Âmes
+017	La Famille Nekoluga
+018	La Famille Nekoluga
+019	Empereurs Dragons
+020	Empereurs Dragons
+021	Chasseurs De Rouges
+022	Mola Mola Capsules
+023	Shoumetsu Toshi Collab Capsules
+024	Merc Storia Collab Capsules
+025	La Famille Nekoluga
+026	La Famille Nekoluga
+027	Les Dynamites
+028	Les Dynamites
+029	Vajiras
+030	Vajiras
+031	Minettes Galactiques
+032	Minettes Galactiques
+033	Empereurs Dragons
+034	Empereurs Dragons
+035	Chasseurs De Rouges
+036	Chasseurs De Rouges
+037	Ultra Âmes
+038	Ultra Âmes
+039	Héros De L’Ombre
+040	Héros De L’Ombre
+041	Ultra Âmes
+042	Ultra Âmes
+043	Héros De L’Ombre
+044	Héros De L’Ombre
+045	
+046	Carnaval D’Halloween
+047	Héros De L’Ombre
+048	Héros De L’Ombre
+049	
+050	La Famille Nekoluga
+051	La Famille Nekoluga
+052	La Famille Nekoluga
+053	Les Dynamites
+054	Vajiras
+055	Minettes Galactiques
+056	Empereurs Dragons
+057	Chasseurs De Rouges
+058	Chasseurs De Rouges
+059	Chasseurs De Rouges
+060	Ultra Âmes
+061	Héros De L’Ombre
+062	Mola Mola Capsules
+063	Mola Mola Capsules
+064	Minettes De Noël
+065	Au Revoir 2020 !
+066	Bienvenue 2021 !
+067	Les Immortels : Zeus Tout-Puissant
+068	Les Immortels : Zeus Tout-Puissant
+069	Les Immortels : Zeus Tout-Puissant
+070	Héros De L’Ombre
+071	Héros De L’Ombre
+072	Héros De L’Ombre
+073	Maxi-Fête
+074	Maxi-Fête
+075	Maxi-Fête
+076	Shoumetsu Toshi Collab Capsules
+077	Shoumetsu Toshi Collab Capsules
+078	Les Immortels : Zeus Tout-Puissant
+079	Les Immortels : Zeus Tout-Puissant
+080	Les Immortels : Zeus Tout-Puissant
+081	Maxi-Fête
+082	Les Immortels : Zeus Tout-Puissant
+083	Les Immortels : Zeus Tout-Puissant
+084	Les Immortels : Zeus Tout-Puissant
+085	Minettes Estivales
+086	Chapsules Platine
+087	Chapsules Platine
+088	Maxi-Fête
+089	Chasseurs De Rouges
+090	Chasseurs De Rouges
+091	Chasseurs De Rouges
+092	Chasseurs De Flottants
+093	Chasseurs De Rouges
+094	Puella Magi Madoka Magica Capsules
+095	Puella Magi Madoka Magica Capsules
+096	Carnaval D’Halloween
+097	La Famille Nekoluga
+098	La Famille Nekoluga
+099	La Famille Nekoluga
+100	Les Dynamites
+101	Les Dynamites
+102	Les Dynamites
+103	Vajiras
+104	Vajiras
+105	Vajiras
+106	Minettes Galactiques
+107	Minettes Galactiques
+108	Minettes Galactiques
+109	Empereurs Dragons
+110	Empereurs Dragons
+111	Empereurs Dragons
+112	Ultra Âmes
+113	Ultra Âmes
+114	Ultra Âmes
+115	Héros De L’Ombre
+116	Héros De L’Ombre
+117	Héros De L’Ombre
+118	Les Immortels : Zeus Tout-Puissant
+119	Les Immortels : Zeus Tout-Puissant
+120	Les Immortels : Zeus Tout-Puissant
+121	Légion De Fer
+122	Légion De Fer
+123	Légion De Fer
+124	Chasseurs De Rouges
+125	Chasseurs De Flottants
+126	Maxi-Fête
+127	Minettes De Noël
+128	Chapsules Platine
+129	Les Immortels : Zeus Tout-Puissant
+130	Les Immortels : Zeus Tout-Puissant
+131	Les Immortels : Zeus Tout-Puissant
+132	Au Revoir 2020 !
+133	Bienvenue 2021 !
+134	Maxi-Fête
+135	Chapsules Platine
+136	Chasseurs De Rouges
+137	Maxi-Fête
+138	Chapsules Platine
+139	La Famille Nekoluga
+140	La Famille Nekoluga
+141	La Famille Nekoluga
+142	Les Dynamites
+143	Les Dynamites
+144	Les Dynamites
+145	Vajiras
+146	Vajiras
+147	Vajiras
+148	Minettes Galactiques
+149	Minettes Galactiques
+150	Minettes Galactiques
+151	Empereurs Dragons
+152	Empereurs Dragons
+153	Empereurs Dragons
+154	Ultra Âmes
+155	Ultra Âmes
+156	Ultra Âmes
+157	Héros De L’Ombre
+158	Héros De L’Ombre
+159	Héros De L’Ombre
+160	Les Immortels : Zeus Tout-Puissant
+161	Les Immortels : Zeus Tout-Puissant
+162	Les Immortels : Zeus Tout-Puissant
+163	Légion De Fer
+164	Légion De Fer
+165	Légion De Fer
+166	Chasseurs De Rouges
+167	Chasseurs De Flottants
+168	Maxi-Fête
+169	Chapsules Platine
+170	Crash Fever Collab Capsules
+171	Crash Fever Collab Capsules
+172	Carnaval De Pâques
+173	Événement Chapsule Rare Méga-Fête
+174	Chapsules Platine
+175	Les Filles Et Les Monstres
+176	
+177	Vajiras
+178	Vajiras
+179	Vajiras
+180	Shoumetsu Toshi Collab Capsules
+181	Shoumetsu Toshi Collab Capsules
+182	Maxi-Fête
+183	Événement Chapsule Rare Méga-Fête
+184	Chapsules Platine
+185	Merc Storia Collab Capsules
+186	
+187	
+188	Minettes Galactiques
+189	Minettes Galactiques
+190	Minettes Galactiques
+191	Ultra Rares Au Choix
+192	Choix Miraculeux
+193	Maxi-Fête
+194	Événement Chapsule Rare Méga-Fête
+195	Chapsules Platine
+196	
+197	Minettes Estivales
+198	Légion De Fer
+199	Légion De Fer
+200	Légion De Fer
+201	Maxi-Fête
+202	Événement Chapsule Rare Méga-Fête
+203	Chapsules Platine
+204	Les Filles Et Les Monstres
+205	Chasseurs De Métal
+206	Les Filles Et Les Monstres
+207	Les Filles Et Les Monstres
+208	Farfadets Élémentaires
+209	Farfadets Élémentaires
+210	Farfadets Élémentaires
+211	Maxi-Fête
+212	Événement Chapsule Rare Méga-Fête
+213	Chapsules Platine
+214	Fate/Stay Night Capsules
+215	La Famille Nekoluga
+216	La Famille Nekoluga
+217	La Famille Nekoluga
+218	Les Dynamites
+219	Les Dynamites
+220	Les Dynamites
+221	Vajiras
+222	Vajiras
+223	Vajiras
+224	Minettes Galactiques
+225	Minettes Galactiques
+226	Minettes Galactiques
+227	Empereurs Dragons
+228	Empereurs Dragons
+229	Empereurs Dragons
+230	Ultra Âmes
+231	Ultra Âmes
+232	Ultra Âmes
+233	Héros De L’Ombre
+234	Héros De L’Ombre
+235	Héros De L’Ombre
+236	Les Immortels : Zeus Tout-Puissant
+237	Les Immortels : Zeus Tout-Puissant
+238	Les Immortels : Zeus Tout-Puissant
+239	Légion De Fer
+240	Légion De Fer
+241	Légion De Fer
+242	Farfadets Élémentaires
+243	Farfadets Élémentaires
+244	Farfadets Élémentaires
+245	Chasseurs De Rouges
+246	Chasseurs De Flottants
+247	Chasseurs De Métal
+248	Les Filles Et Les Monstres
+249	Les Filles Et Les Monstres
+250	Les Filles Et Les Monstres
+251	Ultra Rares Au Choix
+252	Choix Miraculeux
+253	Nec Plus Ultra
+254	Maxi-Fête
+255	Événement Chapsule Rare Méga-Fête
+256	Chapsules Platine
+257	Carnaval D’Halloween
+258	Minettes De Noël
+259	Carnaval De Pâques
+260	Minettes Estivales
+261	Maxi-Fête
+262	Au Revoir 2020 !
+263	Bienvenue 2021 !
+264	Chapsules Platine
+265	Powerpro Baseball Collab Capsules
+266	Empereurs Dragons
+267	Empereurs Dragons
+268	Empereurs Dragons
+269	Chasseurs De Métal
+270	Maxi-Fête
+271	Événement Chapsule Rare Méga-Fête
+272	Chapsules Platine
+273	Chasseurs De Métal
+274	Chapsules Platine
+275	Chapsules Platine
+276	Farfadets Élémentaires
+277	Farfadets Élémentaires
+278	Farfadets Élémentaires
+279	Maxi-Fête
+280	Événement Chapsule Rare Méga-Fête
+281	Chapsules Platine
+282	Evangelion Collab Capsules
+283	Légion De Fer
+284	Légion De Fer
+285	Légion De Fer
+286	Maxi-Fête
+287	Événement Chapsule Rare Méga-Fête
+288	Chapsules Platine
+289	Les Dynamites
+290	Les Dynamites
+291	Les Dynamites
+292	Maxi-Fête
+293	Événement Chapsule Rare Méga-Fête
+294	Chapsules Platine
+295	Shoumetsu Toshi Collab Capsules
+296	
+297	
+298	Héros De L’Ombre
+299	Héros De L’Ombre
+300	Héros De L’Ombre
+301	Maxi-Fête
+302	Événement Chapsule Rare Méga-Fête
+303	Chapsules Platine
+304	La Famille Nekoluga
+305	La Famille Nekoluga
+306	La Famille Nekoluga
+307	Nec Plus Ultra
+308	Maxi-Fête
+309	Événement Chapsule Rare Méga-Fête
+310	Chapsules Platine
+311	Les Immortels : Zeus Tout-Puissant
+312	Les Immortels : Zeus Tout-Puissant
+313	Les Immortels : Zeus Tout-Puissant
+314	Minettes Estivales
+315	Maxi-Fête
+316	Événement Chapsule Rare Méga-Fête
+317	Chapsules Platine
+318	Puella Magi Madoka Magica Capsules
+319	Événement Chapsule Rare Méga-Fête
+320	Chapsules Platine
+321	Crash Fever Collab Capsules
+322	Crash Fever Collab Capsules
+323	Puella Magi Madoka Magica Capsules
+324	La Famille Nekoluga
+325	La Famille Nekoluga
+326	La Famille Nekoluga
+327	Les Dynamites
+328	Les Dynamites
+329	Les Dynamites
+330	Vajiras
+331	Vajiras
+332	Vajiras
+333	Minettes Galactiques
+334	Minettes Galactiques
+335	Minettes Galactiques
+336	Empereurs Dragons
+337	Empereurs Dragons
+338	Empereurs Dragons
+339	Ultra Âmes
+340	Ultra Âmes
+341	Ultra Âmes
+342	Héros De L’Ombre
+343	Héros De L’Ombre
+344	Héros De L’Ombre
+345	Les Immortels : Zeus Tout-Puissant
+346	Les Immortels : Zeus Tout-Puissant
+347	Les Immortels : Zeus Tout-Puissant
+348	Légion De Fer
+349	Légion De Fer
+350	Légion De Fer
+351	Farfadets Élémentaires
+352	Farfadets Élémentaires
+353	Farfadets Élémentaires
+354	Les Filles Et Les Monstres
+355	Les Filles Et Les Monstres
+356	Les Filles Et Les Monstres
+357	Nec Plus Ultra
+358	Ultra Rares Au Choix
+359	Choix Miraculeux
+360	Maxi-Fête
+361	Événement Chapsule Rare Méga-Fête
+362	Ultra Âmes
+363	Ultra Âmes
+364	Ultra Âmes
+365	Au Revoir 2020 !
+366	Bienvenue 2021 !
+367	Maxi-Fête
+368	Fate/Stay Night Capsules
+369	Les Dynamites
+370	Les Dynamites
+371	Les Dynamites
+372	La Famille Nekoluga
+373	La Famille Nekoluga
+374	La Famille Nekoluga
+375	Mola Mola Capsules
+376	Mola Mola Capsules
+377	Légion De Fer
+378	Légion De Fer
+379	Légion De Fer
+380	Farfadets Élémentaires
+381	Farfadets Élémentaires
+382	Farfadets Élémentaires
+383	Bikkuriman Collab Capsules
+384	Héros De L’Ombre
+385	Héros De L’Ombre
+386	Héros De L’Ombre
+387	Shoumetsu Toshi Collab Capsules
+388	Néo Nec Plus Ultra
+389	Nec Plus Ultra
+390	
+391	Evangelion Collab Capsules
+392	Les Immortels : Zeus Tout-Puissant
+393	Les Immortels : Zeus Tout-Puissant
+394	Les Immortels : Zeus Tout-Puissant
+395	Minettes Estivales
+396	Vajiras
+397	Vajiras
+398	Vajiras
+399	Maxi-Fête
+400	Événement Chapsule Rare Méga-Fête
+401	Chapsules Platine
+402	Minettes Galactiques
+403	Minettes Galactiques
+404	Minettes Galactiques
+405	Maxi-Fête
+406	Événement Chapsule Rare Méga-Fête
+407	Chapsules Platine
+408	Empereurs Dragons
+409	Empereurs Dragons
+410	Empereurs Dragons
+411	Maxi-Fête
+412	Événement Chapsule Rare Méga-Fête
+413	Chapsules Platine
+414	Merc Storia Collab Capsules
+415	Street Fighter V: Arcade Edition Collab Capsules
+416	Les Dynamites
+417	Les Dynamites
+418	Les Dynamites
+419	Maxi-Fête
+420	Événement Chapsule Rare Méga-Fête
+421	La Famille Nekoluga
+422	La Famille Nekoluga
+423	La Famille Nekoluga
+424	Les Dynamites
+425	Les Dynamites
+426	Les Dynamites
+427	Vajiras
+428	Vajiras
+429	Vajiras
+430	Minettes Galactiques
+431	Minettes Galactiques
+432	Minettes Galactiques
+433	Empereurs Dragons
+434	Empereurs Dragons
+435	Empereurs Dragons
+436	Ultra Âmes
+437	Ultra Âmes
+438	Ultra Âmes
+439	Héros De L’Ombre
+440	Héros De L’Ombre
+441	Héros De L’Ombre
+442	Les Immortels : Zeus Tout-Puissant
+443	Les Immortels : Zeus Tout-Puissant
+444	Les Immortels : Zeus Tout-Puissant
+445	Légion De Fer
+446	Légion De Fer
+447	Légion De Fer
+448	Farfadets Élémentaires
+449	Farfadets Élémentaires
+450	Farfadets Élémentaires
+451	Chasseurs De Rouges
+452	Chasseurs De Flottants
+453	Chasseurs De Métal
+454	Les Filles Et Les Monstres
+455	Les Filles Et Les Monstres
+456	Les Filles Et Les Monstres
+457	Carnaval D’Halloween
+458	Carnaval De Pâques
+459	Minettes Estivales
+460	Nec Plus Ultra
+461	Néo Nec Plus Ultra
+462	Ultra Rares Au Choix
+463	Choix Miraculeux
+464	Ultra Rares Au Choix
+465	Choix Miraculeux
+466	Ultra Rares Au Choix
+467	Choix Miraculeux
+468	Excellent Choix
+469	Maxi-Fête
+470	Événement Chapsule Rare Méga-Fête
+471	Chapsules Platine
+472	Minettes De Noël
+473	Au Revoir 2020 !
+474	Bienvenue 2021 !
+475	Ultra Âmes
+476	Ultra Âmes
+477	Ultra Âmes
+478	Maxi-Fête
+479	Événement Chapsule Rare Méga-Fête
+480	Chapsules Platine
+481	Maxi-Fête
+482	
+483	Maxi-Fête
+484	Chapsules Platine
+485	Mola Mola Capsules
+486	Mola Mola Capsules
+487	Héros De L’Ombre
+488	Héros De L’Ombre
+489	Héros De L’Ombre
+490	Maxi-Fête
+491	Événement Chapsule Rare Méga-Fête
+492	Chapsules Platine
+493	Super-Fête
+494	Hatsune Miku Collab Capsules
+495	Mola Mola Capsules
+496	Mola Mola Capsules
+497	Les Immortels : Zeus Tout-Puissant
+498	Les Immortels : Zeus Tout-Puissant
+499	Les Immortels : Zeus Tout-Puissant
+500	Maxi-Fête
+501	Événement Chapsule Rare Méga-Fête
+502	Carnaval De Pâques
+503	Super-Fête
+504	Chapsules Platine
+505	Shoumetsu Toshi Collab Capsules
+506	Les Filles Et Les Monstres
+507	Les Filles Et Les Monstres
+508	Les Filles Et Les Monstres
+509	Événement Chapsule Rare Méga-Fête
+510	Chapsules Platine
+511	Shoumetsu Toshi Collab Capsules
+512	Super-Fête
+513	Evangelion Collab Capsules
+514	Evangelion Collab Capsules
+515	Evangelion Collab Capsules
+516	Evangelion Collab Capsules
+517	La Famille Nekoluga
+518	La Famille Nekoluga
+519	La Famille Nekoluga
+520	Maxi-Fête
+521	Événement Chapsule Rare Méga-Fête
+522	Chapsules Platine
+523	Chasseurs De Vagues
+524	Bikkuriman Collab Capsules
+525	Chapsules Platine
+526	Nec Plus Ultra
+527	Néo Nec Plus Ultra
+528	Ultra Rares Au Choix
+529	Choix Miraculeux
+530	Ultra Rares Au Choix
+531	Choix Miraculeux
+532	Hatsune Miku Collab Capsules
+533	Minettes Estivales
+534	Minettes Estivales
+535	Hatsune Miku Collab Capsules
+536	Super-Fête
+537	Bikkuriman Collab Capsules
+538	Farfadets Élémentaires
+539	Farfadets Élémentaires
+540	Farfadets Élémentaires
+541	Maxi-Fête
+542	Événement Chapsule Rare Méga-Fête
+543	Chapsules Platine
+544	Carnaval D’Halloween
+545	Carnaval D’Halloween
+546	Crash Fever Collab Capsules
+547	Nec Plus Ultra
+548	Néo Nec Plus Ultra
+549	Street Fighter V: Arcade Edition Collab Capsules
+550	Street Fighter V: Arcade Edition Collab Capsules
+551	Chapsules Légendaires
+552	Ultra Rares Au Choix
+553	Choix Miraculeux
+554	Excellent Choix
+555	Maxi-Fête
+556	Chapsules Platine
+557	Chapsules Légendaires
+558	Chapsules Légendaires
+559	Super-Fête
+560	Bienvenue 2021 !
+561	Bienvenue 2021 !
+562	Fête Dynastique
+563	Hatsune Miku Collab Capsules
+564	Hatsune Miku Collab Capsules
+565	Minettes De Noël
+566	Fête Dynastique
+567	Valentinettes
+568	Valentinettes
+569	Evangelion Collab Capsules
+570	Evangelion Collab Capsules
+571	Super-Fête
+572	Légion De Fer
+573	Légion De Fer
+574	Légion De Fer
+575	Maxi-Fête
+576	Événement Chapsule Rare Méga-Fête
+577	Chapsules Platine
+578	Chapsules Légendaires
+579	Carnaval De Pâques
+580	Carnaval De Pâques
+581	Fête Dynastique
+582	Fête Dynastique
+583	Hatsune Miku Collab Capsules
+584	Hatsune Miku Collab Capsules
+585	Les Filles Et Les Monstres
+586	Les Filles Et Les Monstres
+587	Les Filles Et Les Monstres
+588	Ranma 1/2 Collab Capsules
+589	Ranma 1/2 Collab Capsules
+590	Événement Chapsule Rare Méga-Fête
+591	Super-Fête
+592	Chapsules Platine
+593	Chapsules Légendaires
+594	Nec Plus Ultra
+595	Néo Nec Plus Ultra
+596	Ultra Rares Au Choix
+597	Choix Miraculeux
+598	Excellent Choix
+599	Ultra Rares Au Choix
+600	Choix Miraculeux
+601	Excellent Choix
+602	Fête Royale
+603	Chapsules Platine
+604	Chapsules Légendaires
+607	Minettes Estivales
+608	Vajiras
+609	Vajiras
+610	Vajiras
+611	Minettes Galactiques
+612	Minettes Galactiques
+613	Minettes Galactiques
+614	Maxi-Fête
+615	Événement Chapsule Rare Méga-Fête
+616	Chapsules Platine
+617	Chapsules Platine
+618	Chapsules Légendaires
+619	Chapsules Légendaires
+620	Clash Passionné
+622	Super-Fête
+623	Fête Dynastique
+624	La Famille Nekoluga
+625	La Famille Nekoluga
+626	La Famille Nekoluga
+627	Les Dynamites
+628	Les Dynamites
+629	Les Dynamites
+630	Empereurs Dragons
+631	Empereurs Dragons
+632	Empereurs Dragons
+633	Maxi-Fête
+635	Chapsules Platine
+636	Chapsules Platine
+637	Chapsules Platine
+638	Chapsules Légendaires
+639	Chapsules Légendaires
+640	Chapsules Légendaires
+641	Événement Chapsule Rare Méga-Fête
+642	Puella Magi Madoka Magica Capsules
+650	Carnaval D’Halloween
