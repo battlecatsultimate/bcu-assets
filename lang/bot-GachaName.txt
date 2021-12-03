@@ -1,66 +1,7 @@
-002	ケリ姫ガチャ（※元3.4.0。4.6.0でバナー画像追加改修）
-027	The Dynamites 
-028	The Dynamites 
-029	Wargods Vajiras
-030	Wargods Vajiras
-031	Galaxy Gals 
-032	Galaxy Gals 
-033	Dragon Emperors 
-034	Dragon Emperors 
-041	Ultra Souls
-042	Ultra Souls
-045	Metal Slug Defense Collab Capsules
-046	ハロウィン
-047	Dark Heroes 
-048	Dark Heroes 
-050	The Nekoluga Family
-051	The Nekoluga Family
-052	The Nekoluga Family
-053	The Dynamites 
-054	Wargods Vajiras
-055	Galaxy Gals 
-056	Dragon Emperors 
-057	Red Busters 
-058	Red Busters 
-059	Red Busters 
-060	Ultra Souls
-061	Dark Heroes 
-062	『＋４キャラ』生きろ！マンボウ！
-063	『支援隊入り』生きろ！マンボウ！
-064	クリスマスギャルズ
-065	『＋４キャラ』2015忘年会ガチャ
-066	『支援隊入り』正月めでたいガチャ
-067	The Almighties
-068	The Almighties
-069	The Almighties
-070	Dark Heroes 
-071	Dark Heroes 
-072	Dark Heroes 
-073	Uberfest
-074	Uberfest
-075	Uberfest 
-076	『＋４キャラ』消滅都市_En
-077	『支援隊入り』消滅都市_En
-078	The Almighties
-079	The Almighties
-080	The Almighties
-081	Uberfest 
-082	The Almighties
-083	The Almighties
-084	The Almighties
-085	Gals Of Summer
-086	En_プラチナガチャ（レイなし）
-087	En_プラチナガチャ（レイあり）
-088	Uberfest 
-089	Red Busters 
-090	En_レッドバスターズ_キャラ追加 + 4キャラ
-091	En_レッドバスターズ_キャラ追加 + 支援隊
-092	Air Busters 
-093	Red Busters 
-096	Halloween Carnival
-097	The Nekoluga Family
-098	The Nekoluga Family
-099	The Nekoluga Family
+2	Item Capsules
+3	Catfruit Capsules
+4	Catamin Capsules
+5	Cats Eye Capsules
 100	The Dynamites 
 101	The Dynamites 
 102	The Dynamites 
