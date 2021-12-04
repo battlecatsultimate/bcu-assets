@@ -1,0 +1,654 @@
+0	Level up one Cat the Upgrade menu! (Tap the Upgrade! button below any Cat)
+1	Activate the Energy Drink in "Battle Cats Rising"! (Get bonus abilities by collecting the first 7 Treasures)
+2	Raise your User Rank by 10!
+3	Draw one Cat Capsule at the Cat Base! (Get a free Cat Ticket each day and use it once)
+4	Recruit a Gamatoto Assistant! (Discover Assistants as Gamatoto expedition rewards)
+5	Clear a stage while using a CatCombo! (Deploy a set grouping of Cats in your formation!)
+6	Challenge the Catclaw Dojo! (Play any stage at the Dojo once)
+7	Unlock the True Form of any Normal Cat! (Evolve a Normal Cat level 30)
+8	Clear Japan in "Battle Cats Rising"! (Complete the 7th stage in Empire of Cats Ch. 1)
+9	Clear India in "Battle Cats Rising"! (Complete the 11th stage in Empire of Cats Ch. 1)
+10	Clear Madagascar in "Battle Cats Rising"! (Complete the 16th stage in Empire of Cats Ch. 1)
+11	Clear Greece in "Battle Cats Rising"! (Complete the 23rd stage in Empire of Cats Ch. 1)
+12	Clear Greenland in "Battle Cats Rising"! (Complete the 32nd stage in Empire of Cats Ch. 1)
+13	Clear Argentina in "Battle Cats Rising"! (Complete the 39th stage in Empire of Cats Ch. 1)
+14	Clear Hollywood in "Battle Cats Rising"! (Complete the 45th stage in Empire of Cats Ch. 1)
+15	Clear the Moon in "Battle Cats Rising"! (Complete the final stage of Empire of Cats Ch. 1)
+16	Clear all stages in "The Emperor of Darkness"! (Complete the final stage of Empire of Cats Ch. 2)
+17	Clear all stages in "Revival of Bahamut Cat"! (Complete the final stage of Empire of Cats Ch. 3)
+18	Clear all stages in "Time Enough For Cats"! (Complete the final stage of Into the Future Ch. 1)
+19	Clear all stages in "Alien Intrigue"! (Complete the final stage of Into the Future Ch. 2)
+20	Clear all stages in "The Ancients Arise"! (Complete the final stage of Into the Future Ch. 3)
+22	Clear all stages in "Beyond the Exosphere"! (Complete the final stage of Cats of the Cosmos Ch. 1)
+23	Clear all stages in "The Passion of Catgod"! (Complete the final stage of Cats of the Cosmos Ch. 2)
+24	6th Anniversary Mission. Clear Empire of Cats Ch. 1 during this event!
+25	Clear all stages in "Even Stars Burn Out"! (Complete the final stage of Cats of the Cosmos Ch. 3)
+26	7th Anniversary Mission. Clear Empire of Cats Ch. 1 during this event!
+27	Clear all Level 2 Legend Stages. to complete this mission
+28	Clear all Level 3 Legend Stages. to complete this mission
+8000	Clear Cat Ticket reward stages 3 times!
+8001	Clear XP reward stages 5 times!
+8002	Clear 5 Stories of Legend stages!
+8003	Send Gamatoto on 7 successful expeditions!
+8004	Clear all weekly missions!
+8005	Clear Cat Ticket reward stages 3 times!
+8006	Clear XP reward stages 5 times!
+8007	Send Gamatoto on 10 successful expeditions!
+8008	Clear Catfruit reward stages 3 times!
+8009	Clear 10 Stories of Legend stages!
+8010	Clear all weekly missions!
+8011	Clear all weekly missions!
+9000	Defeat the 30th floor of the Heavenly Tower. (This reward can only be claimed once.)
+9001	Clear Summer Lesson stages 5 times!
+9002	Clear Summer Lesson stages 10 times!
+9003	Clear Summer Lesson stages 20 times!
+9004	Collect the Rare Unit: Awa Odori Cat! (Available from any Summer Diary stage.)
+9005	Clear all Special missions!
+9011	Clear Silver Week stages 5 times
+9012	Clear Silver Week stages 10 times
+9013	Clear Silver Week stages 20 times
+9014	Clear all Silver Week Missions
+9015	Score 5000 or more on "Immortal Allen O'Neill"! Receive your score upon stage clear
+9016	Score 5000 or more on "Attack On Huge Hermit"! Receive your score upon stage clear
+9017	Score 5000 or more on "Jupiter King Convoy"! Receive your score upon stage clear
+9018	Score 3000 or more on "Devils on the Doorstep"! Receive your score upon stage clear
+9019	Clear "Five Years of Fun!!" 5 times!
+9020	Score 5555 pts in "Five Year Plan"! Find this Ranking Stage at the Catclaw Dojo!
+9021	Evolve Coin Cat! (You must evolve the Cat before the event ends!)
+9022	Score 4000 or more on "Schoolyard Clash"! Receive your score upon stage clear
+9023	Score 3500 or more on "Midnight Interception"! Receive your score upon stage clear
+9024	Score 3000 or more on "Manor Ruins"! Receive your score upon stage clear
+9025	Score 2500 or more on "Inconspicuous Trap"! Receive your score upon stage clear
+9026	Score 1500 or more on "Beginning of the End"! Receive your score upon stage clear
+9027	Clear daily blitz collab stages 5 times!
+9028	Clear the Heavenly Tower's 40th floor! ※Rewards can only be received once
+9029	Score more than 2500 points when. clearing the "Coming to Town!" stage!
+9030	Score more than 2000 points on the. "Reindeer Games" stage!
+9031	Score more than 2000 points on the. "Whipped Cream" stage!
+9032	Score more than 2000 points on the. "Coup d'Workshop" stage!
+9033	Score more than 1500 points on the. "War on Xmas" stage!
+9034	Clear "Cats in the Snow" 5 times!
+9035	Clear "Cats in the Snow" 10 times!
+9036	Clear "Cats in the Snow" 20 times!
+9037	Score more than 3000 points on the. PowerPro collab stage "Round 1 (Easy)"!
+9038	Score more than 6000 points on the. PowerPro collab stage "Round 2 (Normal)"!
+9039	Score more than 6500 points on the. PowerPro collab stage "Final Round (Hard)"!
+9040	Score more than 2000 points on the. Limited Stage "Mallow March"!
+9041	Score more than 5000 points on the. Limited Stage "Marzi Pain"!
+9042	Score more than 6000 points on the. Limited Stage "Cavity Creeping"!
+9043	Clear "Go Go Graduates" 5 times!
+9044	Clear "Go Go Graduates" 10 times!
+9045	Clear "Go Go Graduates" 20 times!
+9046	Score more than 2000 points on the. Special Stage "Mallow March"!
+9047	Score more than 5000 points on the. Special Stage "Marzi Pain"!
+9048	Score more than 6000 points on the. Special Stage "Cavity Creeping"!
+9049	Upgrade Egg Cat to Level 10! (You must evolve the Cat before the event ends!)
+9050	Upgrade Shinji & Cat to Level 10! (You must evolve the Cat before the event ends!)
+9051	Clear "Decisive Battle!" 5 times!
+9052	Clear "Decisive Battle!" 10 times!
+9053	Clear "Decisive Battle!" 20 times!
+9054	Clear a stage using a catcombo with "Eva Angel Killer" effect! Use Shinji and ??? together (after Empire Ch. 1)
+9055	Destroy the 4th Angel. Encounter this enemy at "State of Emergency"
+9056	Destroy the 6th Angel. Encounter this enemy at "Futagoyama Fortress"
+9057	Destroy the 9th Angel. Encounter this enemy at "Asuka On Board (Easy)"
+9058	Destroy the 10th Angel. Encounter this enemy at "Refusal Type (Hard)"
+9059	Destroy all Angels
+9060	Evolve Pokota at Level 10! This mission can only be completed during the LINE Pokopang! collab event!
+9061	Evolve Ovis at Level 10! This mission can only be completed during the LINE Pokopang! collab event!
+9062	Evolve Coco at Level 10! This mission can only be completed during the LINE Pokopang! collab event!
+9063	Clear "Trio from the Woods" 5 times!
+9064	Clear "Trio from the Woods" 10 times!
+9065	Clear "Trio from the Woods" 20 times!
+9072	Clear "The Midas Touch" 5 times!
+9073	Clear "The Midas Touch" 10 times!
+9074	Clear "The Midas Touch" 20 times!
+9075	Clear "City of Souls" 5 times!
+9076	Clear "City of Souls" 10 times!
+9077	Clear "City of Souls" 20 times!
+9078	Upgrade Yuki Cat to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
+9079	Upgrade Takuya ＆ Yuki to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
+9080	Upgrade Redhead Yuki Cat to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
+9085	Clear "Sliming to Victory" 5 times!
+9086	Clear "Sliming to Victory" 10 times!
+9087	Clear "Sliming to Victory" 20 times!
+9088	Evolve Slug Jockey Cat Level 10! This mission can only be completed during the Slimy Stallions event!
+9089	Clear "The Forbidden Bride Pt II" 5 times!
+9090	Clear "The Forbidden Bride Pt II" 10 times!
+9091	Clear "The Forbidden Bride Pt II" 20 times!
+9092	Evolve Madam Bride at Level 10! This mission can only be completed during the June Monthly Event!
+9093	Clear "The Battle Cats POP!" 5 times!
+9094	Clear "The Battle Cats POP!" 10 times!
+9095	Clear "The Battle Cats POP!" 20 times!
+9096	Clear "The Battle Cats POP!" 32 times!
+9097	Evolve Betakkuma at Level 10! This mission can only be completed during the Betakkuma Collab Event!
+9098	Clear "Never Not Summer!" 5 times!
+9099	Clear "Never Not Summer!" 10 times!
+9100	Clear "Never Not Summer!" 20 times!
+9101	Evolve Vacation Queen at Level 10! This mission can only be completed during the July Monthly Event!
+9111	Clear "Ghostly Strangers" 5 times!
+9112	Clear "Ghostly Strangers" 10 times!
+9113	Clear "Ghostly Strangers" 20 times!
+9114	Evolve Vengeful Cat Level 10! This mission can only be completed while the Ghostly stages are available!
+9115	Clear "Old Guys in the City" 5 times!
+9116	Clear "Old Guys in the City" 10 times!
+9117	Clear "Old Guys in the City" 20 times!
+9118	Evolve Kung Fu Cat X at Level 10! This mission can only be completed while the Old Guys stages are available!
+9119	Clear "Summer Lesson" 5 times!
+9120	Clear "Summer Lesson" 10 times!
+9121	Clear "Summer Lesson" 20 times!
+9122	Evolve Awa Odori Cat Level 10! This mission can only be completed while Summer Diary stages are available!
+9123	Defeat the Rose Garden Witch. Find this enemy at the "The Rose Garden Witch (Easy)" stage
+9124	Defeat the Dessert Witch. Find this enemy at the "The Dessert Witch (Normal)" stage
+9125	Defeat the Box Witch. Find this enemy at the "The Box Witch (Hard)" stage
+9126	Defeat the Stagebuilding Witch. Find this enemy at the "The Stagebuilding Witch (Deadly)" stage
+9127	Defeat the Nutcracker Witch. Find this enemy at the "The Nutcracker Witch (Veteran)" stage
+9128	Destroy all Witches
+9129	Evolve Li'l Madoka at Level 10! This mission can only be completed while the Puella Magi Madoka Magica collab is available!
+9130	Evolve Kyubey Cat Level 10! This mission can only be completed while the Puella Magi Madoka Magica collab is available!
+9131	Clear "Queen Rampant" 5 times!
+9132	Clear "Queen Rampant" 10 times!
+9133	Clear "Queen Rampant" 20 times!
+9134	Clear "Sports Night" 5 times!
+9135	Clear "Sports Night" 10 times!
+9136	Clear "Sports Night" 20 times!
+9137	Evolve Sports Day Cat Level 10! This mission can only be completed while "Autumn = Sports Day" stages are available!
+9138	Clear "Worker's Revolution" 5 times!
+9139	Clear "Worker's Revolution" 10 times!
+9140	Clear "Worker's Revolution" 20 times!
+9141	Evolve Salaryman Cat Level 10! This mission can only be completed while "Loving Labor" stages are available!
+9142	Clear "Merc Storia: Attack" stages 5 times!
+9143	Clear "Merc Storia: Attack" stages 10 times!
+9144	Clear "Merc Storia: Attack" stages 20 times!
+9145	Challenge the Ranking Stage "Weak of Spirit"!  Select this stage at the Catclaw Dojo!
+9146	Evolve Healer at Level 10! This mission can only be completed during the Merc Storia Collab Event!
+9147	Clear "A Cultured Festival" 5 times!
+9148	Clear "A Cultured Festival" 10 times!
+9149	Clear "A Cultured Festival" 20 times!
+9150	Evolve Food Stall Cat Level 10! This mission can only be completed while "A Cultured Festival" stages are available!
+9151	Clear "Christmas in Space" 5 times!
+9152	Clear "Christmas in Space" 10 times!
+9153	Clear "Christmas in Space" 20 times!
+9154	Evolve Reindeer Cat Level 10! This mission can only be completed while December stages are available!
+9155	Evolve Pumpcat Level 10! This mission can only be completed while All Hallows Road stages are available!
+9156	Evolve A Gift of Cats at Level 10! This mission can only be completed while Jolly St. Nick stages are available!
+9157	Clear "Another New Year" stages 5 times!
+9158	Clear "Another New Year" stages 10 times!
+9159	Clear "Another New Year" stages 20 times!
+9160	Evolve Adult Cat Level 10! This mission can only be completed while January stages are available!
+9161	Invasion Event Missions. Clear the "Clionel Ascendant" stage!
+9162	Invasion Event Missions. Clear the "River Styx" stage!
+9163	Invasion Event Missions. Clear the "Queen's Coronation" stage!
+9164	Invasion Event Missions. Clear the "Dead on Debut" stage!
+9165	Invasion Event Missions. Clear the "King Wahwah's Revenge" stage!
+9166	Invasion Event Missions. Clear the "Deeply Dreaming" stage!
+9167	Clear all Limited Festival stages once each!
+9168	Clear "Six Years" stages 6 times!
+9169	Score 6666 pts in "Six Years Strong"! Find this Ranking Stage at the Catclaw Dojo!
+9170	Clear "Ritual Confusion" stages 5 times!
+9171	Clear "Ritual Confusion" stages 10 times!
+9172	Clear "Ritual Confusion" stages 20 times!
+9173	Evolve Evil Cat Level 10! This mission can only be completed while February stages are available!
+9174	Clear "Bears Be Back" stages 5 times!
+9175	Clear "Bears Be Back" stages 10 times!
+9176	Clear "Bears Be Back" stages 20 times!
+9177	Evolve Doll Cats at Level 10! This mission can only be completed while March stages are available!
+9178	Evolve Shirou the Cat Level 10! This mission can only be completed during the Fate/stay night [HF] event!
+9179	Clear "Spring for Sensei" stages 5 times!
+9180	Clear "Spring for Sensei" stages 10 times!
+9181	Clear "Spring for Sensei" stages 20 times!
+9182	Evolve Maiden Cat Level 10! This mission can only be completed during the April monthly event!
+9183	Evolve Meowla Meowla at Level 10! This mission can only be completed during the Survive! Mola Mola event!
+9184	Clear "Lovesick Again" stages 5 times!
+9185	Clear "Lovesick Again" stages 10 times!
+9186	Clear "Lovesick Again" stages 20 times!
+9187	Evolve Koi Cat Level 10! This mission can only be completed during the May monthly event!
+9191	Upgrade Prince Yamato to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
+9192	Upgrade Rosary Angel to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
+9193	Clear the first "Devilish Illusion" stage! You must earn a victory on "A Tower Piercing the Sky (Hard)"
+9194	Clear the first "Yamato Awakens!" stage! You must earn a victory on "Inherited Ambition (Veteran)"
+9195	Clear "Bikkuriman Choco" stages 5 times!
+9196	Clear "Bikkuriman Choco" stages 10 times!
+9197	Clear "Bikkuriman Choco" stages 20 times!
+9198	Upgrade Kano ＆ Souma to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
+9199	Clear "Shakurel Planet" 5 times!
+9200	Clear "Shakurel Planet" 10 times!
+9201	Clear "Shakurel Planet" 15 times!
+9202	Upgrade Shakurel Cat to Level 10! (You must evolve the Cat before the event ends!)
+17001	Clear all Monthly Missions!
+17002	Clear all Monthly Missions!
+17003	Clear all Monthly Missions!
+17004	Clear all Monthly Missions!
+17005	Clear all Monthly Missions!
+17006	Clear all Monthly Missions!
+17007	Clear all Monthly Missions!
+17008	Clear all Monthly Missions!
+1000	Defeat Hippoe at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1001	Defeat Pigge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1002	Defeat Jackie Peng at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1003	Defeat Gory at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1004	Defeat Baa Baa at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1005	Defeat Sir Seal at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1006	Defeat Croco at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1007	Defeat Le'boin at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1008	Defeat B.B.Bunny at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1009	Defeat Kang Roo at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1010	Defeat Squire Rel at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1011	Defeat Mooth at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1012	Defeat One Horn at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1013	Defeat Teacher Bear at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1014	Defeat Dark Emperor Nyandam at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1100	Defeat Hippoe at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1101	Defeat Pigge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1102	Defeat Jackie Peng at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1103	Defeat Gory at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1104	Defeat Baa Baa at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1105	Defeat Sir Seal at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1106	Defeat Croco at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1107	Defeat Le'boin at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1108	Defeat B.B.Bunny at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1109	Defeat Kang Roo at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1110	Defeat Squire Rel at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1111	Defeat Mooth at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1112	Defeat One Horn at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1113	Defeat Teacher Bear at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1114	Defeat Teacher Bun Bun at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1200	Defeat Hippoe at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1201	Defeat Pigge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1202	Defeat Jackie Peng at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1203	Defeat Gory at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1204	Defeat Croco at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1205	Defeat Sir Seal at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1206	Defeat Hyppoh at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1207	Defeat One Horn at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1208	Defeat Mooth at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1209	Defeat Kang Roo at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1210	Defeat Teacher Bear at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1211	Defeat Helmut Krabbe at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1212	Defeat Le'boin at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1213	Defeat Metal Hippoe at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1214	Defeat Imperator Sael at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1215	Defeat Doge Dark at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1216	Defeat Maawth at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1217	Defeat Shy Boy at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1218	Defeat I.M. Phace at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1219	Defeat Gabriel at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1220	Defeat Gory Black at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1221	Defeat Ursamajor at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1222	Defeat Heavenly Hippoe at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1223	Defeat Shadow Boxer K at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1224	Defeat The Face at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1225	Defeat Kroxo at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1226	Defeat LeMurr at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1227	Defeat Elizabeth the LVIth at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1228	Defeat Nimoy Bore at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1229	Defeat Cli-One at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1300	Defeat Scissoroo at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1301	Defeat Kang Roo at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1302	Defeat Teacher Bear at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1303	Defeat Helmut Krabbe at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1304	Defeat Ursamajor at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1305	Defeat Cyberhorn at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1306	Defeat Mistress Celeboodle at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1307	Defeat Shy Boy at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1308	Defeat Gory Black at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1309	Defeat Ginger Snache at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1310	Defeat Shadow Boxer K at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1311	Defeat Trolly Blogger at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1312	Defeat The Face at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1313	Defeat Dark Otter at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1314	Defeat Elizabeth the LVIth at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1315	Defeat I.M. Phace at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1316	Defeat Nimoy Bore at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1317	Defeat Corrupted Valkyrie at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1318	Defeat "St. Pigge the 2nd" at. a Level 1 Legend Stage!
+1319	Defeat "Doge Dark" at. a Level 1 Legend Stage!
+1320	Defeat "Master A." at. a Level 1 Legend Stage!
+1321	Defeat "Dagshund" at. a Level 1 Legend Stage!
+1322	Defeat "Celeboodle" at. a Level 1 Legend Stage!
+1323	Defeat "THE SLOTH" at. a Level 1 Legend Stage!
+1324	Defeat "Otta-smack-u" at. a Level 1 Legend Stage!
+1325	Defeat "J.K Bun Bun" at. a Level 1 Legend Stage!
+1326	Defeat "Bore" at. a Level 1 Legend Stage!
+1327	Defeat "Owlbrow" at. a Level 1 Legend Stage!
+1328	Defeat "Camelle" at. a Level 1 Legend Stage!
+1329	Defeat "Kory" at. a Level 1 Legend Stage!
+1330	Defeat "Director Kurosawah" at. a Level 1 Legend Stage!
+1331	Defeat "Metal One Horn" at. a Level 1 Legend Stage!
+1332	Defeat "H. Nah" at. a Level 1 Legend Stage!
+1333	Defeat "Ururun Wolf" at. a Level 1 Legend Stage!
+1334	Defeat Red Cyclone at Crimson Catastrophe. (Once at any Crimson Catastrophe stage)
+1335	Defeat Black Cyclone at Heaven of Darkness. (Once at any Heaven of Darkness stage)
+1400	Defeat Mistress Celeboodle at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1401	Defeat Scissoroo at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1402	Defeat Kang Roo at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1403	Defeat Calamary at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1404	Defeat Cyberhorn at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1405	Defeat Teacher Bear at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1406	Defeat Ursamajor at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1407	Defeat Alpacky at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1408	Defeat Elizabeth the LVIth at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1409	Defeat Shadow Boxer K at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1410	Defeat I.M. Phace at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1411	Defeat The Face at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1412	Defeat Shy Boy at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1413	Defeat Elder Sloth at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1414	Defeat Dark Otter at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1415	Defeat Nimoy Bore at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1416	Defeat Raging Bahamut Cat at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1417	Defeat "Dober P.D" at. a Level 1 Legend Stage!
+1418	Defeat "R.Ost" at. a Level 1 Legend Stage!
+1419	Defeat "Sunfish Jones" at. a Level 1 Legend Stage!
+1420	Defeat "Super Metal Hippoe" at. a Level 1 Legend Stage!
+1421	Defeat "Wall Doge" at. a Level 1 Legend Stage!
+1422	Defeat "Pigeon de Sable" at. a Level 1 Legend Stage!
+1423	Defeat "Angelic Sleipnir" at. a Level 1 Legend Stage!
+1424	Defeat "Li'l Nyandam" at. a Level 1 Legend Stage!
+1425	Defeat "Chickful A" at. a Level 1 Legend Stage!
+1426	Defeat "Capy" at. a Level 1 Legend Stage!
+1427	Defeat "Brollow" at. a Level 1 Legend Stage!
+1428	Defeat "Berserkory" at. a Level 1 Legend Stage!
+1429	Defeat "Mr. Mole" at. a Level 1 Legend Stage!
+1430	Defeat "Two Can" at. a Level 1 Legend Stage!
+1431	Defeat "Codename "Red Riding"" at. a Level 1 Legend Stage!
+1432	Defeat "Tackey" at. a Level 1 Legend Stage!
+1433	Defeat "Boraphim" at. a Level 1 Legend Stage!
+1434	Defeat White Cyclone at Peerless. (Once at any Peerless stage)
+1435	Defeat Divine Cyclone at Wrath of Heaven. (Once at any Wrath of Heaven stage)
+1500	Defeat Shibalien Elite at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1501	Defeat One Horn at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1502	Defeat Pigge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1503	Defeat Star Peng at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1504	Defeat General GreGory at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1505	Defeat Elizabeth the LVIth at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1506	Defeat Le'Solar at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1507	Defeat Angelic Gory at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1508	Defeat Gabriel at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1509	Defeat Project A at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1510	Defeat Shadow Boxer K at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1511	Defeat Heavenly Hippoe at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1512	Defeat Corporal Weyland at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1513	Defeat Gory at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1514	Defeat Spacefish Jones at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1515	Defeat Metal Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1516	Defeat The Cat God at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1517	Defeat "THE SLOTH" at. a Level 2 Legend Stage!
+1518	Defeat "Shy Boy" at. a Level 2 Legend Stage!
+1519	Defeat "J.K Bun Bun" at. a Level 2 Legend Stage!
+1520	Defeat "Dark Emperor Nyandam" at. a Level 2 Legend Stage!
+1521	Defeat "Teacher Bun Bun" at. a Level 2 Legend Stage!
+1522	Defeat "Bore" at. a Level 2 Legend Stage!
+1523	Defeat "Kory" at. a Level 2 Legend Stage!
+1524	Defeat "Director Kurosawah" at. a Level 2 Legend Stage!
+1525	Defeat "R.Ost" at. a Level 2 Legend Stage!
+1526	Defeat "Ururun Wolf" at. a Level 2 Legend Stage!
+1527	Defeat "Angelic Sleipnir" at. a Level 2 Legend Stage!
+1528	Defeat "Li'l Nyandam" at. a Level 2 Legend Stage!
+1529	Defeat "Berserkory" at. a Level 2 Legend Stage!
+1530	Defeat "Rain D." at. a Level 2 Legend Stage!
+1531	Defeat "Camelle" at. a Level 2 Legend Stage!
+1532	Defeat "H. Nah" at. a Level 2 Legend Stage!
+1533	Defeat "Dober P.D" at. a Level 2 Legend Stage!
+1534	Defeat Metal Cyclone at Sweet Irony. (Once at any Sweet Irony stage)
+1535	Defeat Cosmic Cyclone at Dimension of Despair. (Once at any Dimension of Despair stage)
+1600	Defeat UltraBaaBaa at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1601	Defeat Shibalien Elite at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1602	Defeat Star Peng at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1603	Defeat Corporal Weyland at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1604	Defeat General GreGory at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1605	Defeat Kid Tappa at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1606	Defeat Ginger Snache at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1607	Defeat Le'Solar at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1608	Defeat Gabriel at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1609	Defeat Angelic Gory at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1610	Defeat Ribbo at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1611	Defeat Project A at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1612	Defeat Shadow Boxer K at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1613	Defeat Galactic Overseer Nyandam at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1614	Defeat Spacefish Jones at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1615	Defeat Bore at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1616	Defeat Cli-One at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1617	Defeat Gory at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1618	Defeat Metal One Horn at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1619	Defeat Cat God at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1620	Defeat "Mr. Angel" at. a Level 1 Legend Stage!
+1621	Defeat "Henry" at. a Level 1 Legend Stage!
+1622	Defeat "Li'l Bun Bun" at. a Level 1 Legend Stage!
+1623	Defeat "Professor A." at. a Level 1 Legend Stage!
+1624	Defeat "Razorback" at. a Level 1 Legend Stage!
+1625	Defeat "Zoge" at. a Level 1 Legend Stage!
+1626	Defeat "Zomboe" at. a Level 1 Legend Stage!
+1627	Defeat "Zigge" at. a Level 1 Legend Stage!
+1628	Defeat "Zackie Peng" at. a Level 1 Legend Stage!
+1629	Defeat "Lord Gravey" at. a Level 1 Legend Stage!
+1630	Defeat "Big Sal" at. a Level 1 Legend Stage!
+1631	Defeat "Coffin Zoge" at. a Level 1 Legend Stage!
+1632	Defeat "Zamelle" at. a Level 1 Legend Stage!
+1633	Defeat "Miss Haka" at. a Level 1 Legend Stage!
+1634	Defeat The Perfect Cyclone at Red Sky at Morning. (Once at any Red Sky at Morning stage)
+1635	Defeat Zyclone at The Rolling Dead. (Once at any The Rolling Dead stage)
+1700	Defeat Mesocosmocyclone at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1701	Defeat Kid Tappa at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1702	Defeat Shibalien Elite at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1703	Defeat Star Peng at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1704	Defeat General GreGory at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1705	Defeat Ribbo at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1706	Defeat Corporal Weyland at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1707	Defeat Le'Solar at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1708	Defeat Gardeneel Bros. at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1709	Defeat UltraBaaBaa at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1710	Defeat Cyberhorn at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1711	Defeat Shadow Boxer K at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1712	Defeat Angelic Gory at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1713	Defeat Axoloty at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1714	Defeat Project A at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1715	Defeat Spacefish Jones at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1716	Defeat Bore at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1717	Defeat Alpacky at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1718	Defeat Metal Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1719	Defeat Final Boss Giga-God at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1720	Defeat "Sir Metal Seal" at. a Level 1 Legend Stage!
+1721	Defeat "Metal Doge" at. a Level 1 Legend Stage!
+1722	Defeat "Le'noir" at. a Level 1 Legend Stage!
+1723	Defeat "Zroco" at. a Level 1 Legend Stage!
+1724	Defeat "Zory" at. a Level 1 Legend Stage!
+1725	Defeat "Zir Zeal" at. a Level 1 Legend Stage!
+1726	Defeat "Zang Roo" at. a Level 1 Legend Stage!
+1727	Defeat "Inumusha" at. a Level 1 Legend Stage!
+1728	Defeat "Dolphina" at. a Level 1 Legend Stage!
+1729	Defeat "Cala Maria" at. a Level 1 Legend Stage!
+1730	Defeat "Croakley" at. a Level 1 Legend Stage!
+1731	Defeat "Youcan" at. a Level 1 Legend Stage!
+1732	Defeat "Winged Pigge" at. a Level 1 Legend Stage!
+1733	Defeat "Hackey" at. a Level 1 Legend Stage!
+1734	Defeat "Mecha-Bun" at. a Level 1 Legend Stage!
+1735	Defeat Super Cosmic Cyclone at The 2nd Dimension. (Once at any The 2nd Dimension stage)
+1800	Defeat "Ururun Wolf" at. a Level 3 Legend Stage!
+1801	Defeat "Li'l Nyandam" at. a Level 3 Legend Stage!
+1802	Defeat "Berserkory" at. a Level 3 Legend Stage!
+1803	Defeat "Codename "Red Riding"" at. a Level 3 Legend Stage!
+1804	Defeat "Tackey" at. a Level 3 Legend Stage!
+1805	Defeat "Boraphim" at. a Level 3 Legend Stage!
+1806	Defeat "Henry" at. a Level 3 Legend Stage!
+1807	Defeat "Li'l Bun Bun" at. a Level 3 Legend Stage!
+1808	Defeat "Professor A." at. a Level 3 Legend Stage!
+1809	Defeat "Razorback" at. a Level 3 Legend Stage!
+1810	Defeat "Zoge" at. a Level 3 Legend Stage!
+1811	Defeat "Zang Roo" at. a Level 3 Legend Stage!
+1812	Defeat "Zroco" at. a Level 3 Legend Stage!
+1813	Defeat "Zackie Peng" at. a Level 3 Legend Stage!
+1814	Defeat "Zory" at. a Level 3 Legend Stage!
+1815	Defeat "Zir Zeal" at. a Level 3 Legend Stage!
+1816	Defeat "Lord Gravey" at. a Level 3 Legend Stage!
+1817	Defeat "Big Sal" at. a Level 3 Legend Stage!
+1818	Defeat "Coffin Zoge" at. a Level 3 Legend Stage!
+1819	Defeat "Zamelle" at. a Level 3 Legend Stage!
+1820	Defeat "Miss Haka" at. a Level 3 Legend Stage!
+1821	Defeat "Inumusha" at. a Level 3 Legend Stage!
+1822	Defeat "Dolphina" at. a Level 3 Legend Stage!
+1823	Defeat "Cala Maria" at. a Level 3 Legend Stage!
+1824	Defeat "Croakley" at. a Level 3 Legend Stage!
+1825	Defeat "Youcan" at. a Level 3 Legend Stage!
+1826	Defeat "Winged Pigge" at. a Level 3 Legend Stage!
+1827	Defeat "Shibalien Elite" at. a Level 3 Legend Stage!
+1828	Defeat "Corporal Weyland" at. a Level 3 Legend Stage!
+1829	Defeat "Spacefish Jones" at. a Level 3 Legend Stage!
+1830	Defeat "Project A" at. a Level 3 Legend Stage!
+1831	Defeat "General GreGory" at. a Level 3 Legend Stage!
+1832	Defeat "Star Peng" at. a Level 3 Legend Stage!
+1833	Defeat "Hackey" at. a Level 3 Legend Stage!
+1834	Defeat "UltraBaaBaa" at. a Level 3 Legend Stage!
+1835	Defeat "Mecha-Bun" at. a Level 3 Legend Stage!
+1900	Defeat "J.K Bun Bun" at. a Level 4 Legend Stage!
+1901	Defeat "Bore" at. a Level 4 Legend Stage!
+1902	Defeat "Teacher Bun Bun" at. a Level 4 Legend Stage!
+1903	Defeat "Kory" at. a Level 4 Legend Stage!
+1904	Defeat "Director Kurosawah" at. a Level 4 Legend Stage!
+1905	Defeat "Bun Bun Black" at. a Level 4 Legend Stage!
+1906	Defeat "R.Ost" at. a Level 4 Legend Stage!
+1907	Defeat "Ururun Wolf" at. a Level 4 Legend Stage!
+1908	Defeat "Wall Doge" at. a Level 4 Legend Stage!
+1909	Defeat "Angelic Sleipnir" at. a Level 4 Legend Stage!
+1910	Defeat "Metal Doge" at. a Level 4 Legend Stage!
+1911	Defeat "Li'l Nyandam" at at. a Level 4 Legend Stage!
+1912	Defeat "Berserkory". a Level 4 Legend Stage!
+1913	Defeat "Mr. Mole" at. a Level 4 Legend Stage!
+1914	Defeat "Codename "Red Riding"" at. a Level 4 Legend Stage!
+1915	Defeat "Two Can" at. a Level 4 Legend Stage!
+1916	Defeat "Tackey" at. a Level 4 Legend Stage!
+1917	Defeat "Boraphim" at. a Level 4 Legend Stage!
+1918	Defeat "Henry" at. a Level 4 Legend Stage!
+1919	Defeat "Li'l Bun Bun" at. a Level 4 Legend Stage!
+1920	Defeat "Professor A." at. a Level 4 Legend Stage!
+1921	Defeat "Razorback" at. a Level 4 Legend Stage!
+1922	Defeat "Zoge" at. a Level 4 Legend Stage!
+1923	Defeat "Zang Roo" at. a Level 4 Legend Stage!
+1924	Defeat "Zory" at. a Level 4 Legend Stage!
+1925	Defeat "Coffin Zoge" at. a Level 4 Legend Stage!
+1926	Defeat "Inumusha" at. a Level 4 Legend Stage!
+1927	Defeat "Dolphina" at. a Level 4 Legend Stage!
+1928	Defeat "Cala Maria" at. a Level 4 Legend Stage!
+1929	Defeat "Croakley" at. a Level 4 Legend Stage!
+1930	Defeat "Winged Pigge" at. a Level 4 Legend Stage!
+1931	Defeat "Shibalien Elite" at. a Level 4 Legend Stage!
+1932	Defeat "Corporal Weyland" at. a Level 4 Legend Stage!
+1933	Defeat "Spacefish Jones" at. a Level 4 Legend Stage!
+1934	Defeat "General GreGory" at. a Level 4 Legend Stage!
+1935	Defeat "Star Peng" at. a Level 4 Legend Stage!
+2000	Defeat "The Face" at. a Level 4 Legend Stage!
+2001	Defeat "Shy Boy" at. a Level 4 Legend Stage!
+2002	Defeat "Otta-smack-u" at. a Level 4 Legend Stage!
+2003	Defeat "Camelle" at. a Level 4 Legend Stage!
+2004	Defeat "Duche" at. a Level 4 Legend Stage!
+2005	Defeat "Owlbrow" at. a Level 4 Legend Stage!
+2006	Defeat "THE SLOTH" at. a Level 4 Legend Stage!
+2007	Defeat "Rain D." at. a Level 4 Legend Stage!
+2008	Defeat "Celeboodle" at. a Level 4 Legend Stage!
+2009	Defeat "Dark Emperor Nyandam" at. a Level 4 Legend Stage!
+2010	Defeat "Master A." at. a Level 4 Legend Stage!
+2011	Defeat "Scissoroo" at. a Level 4 Legend Stage!
+2012	Defeat "H. Nah" at. a Level 4 Legend Stage!
+2013	Defeat "Dober P.D" at. a Level 4 Legend Stage!
+2014	Defeat "Metal Hippoe" at. a Level 4 Legend Stage!
+2015	Defeat "St. Pigge the 2nd" at. a Level 4 Legend Stage!
+2016	Defeat "Sunfish Jones" at. a Level 4 Legend Stage!
+2017	Defeat "Pigeon de Sable" at. a Level 4 Legend Stage!
+2018	Defeat "Znache" at. a Level 4 Legend Stage!
+2019	Defeat "Zomboe" at. a Level 4 Legend Stage!
+2020	Defeat "Zigge" at. a Level 4 Legend Stage!
+2021	Defeat "Zackie Peng" at. a Level 4 Legend Stage!
+2022	Defeat "Mistress Celeboodle" at. a Level 4 Legend Stage!
+2023	Defeat "Zir Zeal" at. a Level 4 Legend Stage!
+2024	Defeat "Zroco" at. a Level 4 Legend Stage!
+2025	Defeat "Lord Gravey" at. a Level 4 Legend Stage!
+2026	Defeat "Dagshund" at. a Level 4 Legend Stage!
+2027	Defeat "Gory Black" at. a Level 4 Legend Stage!
+2028	Defeat "Le'Solar" at. a Level 4 Legend Stage!
+2029	Defeat "Project A" at. a Level 4 Legend Stage!
+2030	Defeat "Shadow Boxer K" at. a Level 4 Legend Stage!
+2031	Defeat "Super Metal Hippoe" at. a Level 4 Legend Stage!
+2032	Defeat "Dark Otter" at. a Level 4 Legend Stage!
+2033	Defeat "Chickful A" at. a Level 4 Legend Stage!
+2034	Defeat "Nimoy Bore" at. a Level 4 Legend Stage!
+2035	Defeat "Elizabeth the LVIth" at. a Level 4 Legend Stage!
+9205	Upgrade Akuma Giraffe to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
+9206	Upgrade Ryu Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
+9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
+9208	Clear "7 Years of Fun!!" stages 7 times!
+9209	Score 7777 pts in "Lucky Number 7"! Find this Ranking Stage at the Catclaw Dojo!
+9211	Invasion Event Missions. Clear the "Blue Impact" stage!
+9212	Clear all 7 Invasion Event Missions!
+9213	Upgrade Miku Cat to Level 10! (You must evolve the Cat before the Hatsune Miku collab ends!)
+9214	Clear "MIKU EXPO" 5 times!
+9215	Clear "MIKU EXPO" 10 times!
+9216	Clear "MIKU EXPO" 20 times!
+9221	Complete 5 Gamatoto Expeditions during
+9222	Clear the Heavenly Tower's 50th floor! ※Rewards can only be received once
+9223	Upgrade Heavenly Jack to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
+9226	Upgrade Ranma Cat (M) to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
+9227	Upgrade Panda Cat to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
+9228	Clear "The Cursed Springs" 5 times!
+9229	Clear "The Cursed Springs" 10 times!
+9230	Clear "The Cursed Springs" 20 times!
+30	Get all Superior Treasure from Empire Ch. 1
+31	Get all Superior Treasure from Empire Ch. 2
+32	Get all Superior Treasure from Empire Ch. 3
+33	Get all Superior Treasure from Future Ch. 1
+34	Get all Superior Treasure from Future Ch. 2
+35	Get all Superior Treasure from Future Ch. 3
+36	Get all Superior Treasure from Cosmos Ch. 1
+37	Get all Superior Treasure from Cosmos Ch. 2
+38	Get all Superior Treasure from Cosmos Ch. 3
+9231	Invasion Event Missions. Clear "River Styx" 1 times using 8 or more Normal Cats
+9232	Invasion Event Missions. Clear "Daboo of the Dead" 1 times using 8 or more Special Cats
+9233	Invasion Event Missions. Clear "King Wahwah's Revenge" 1 times using all 9 Normal Cats
+9234	Invasion Event Missions. Clear "Blue Impact" 1 times using only 2nd Forms
+9235	Invasion Event Missions. Clear "Deeply Dreaming" 1 times using only unevolved 1st Forms
+9236	Clear all 5 Invasion Event Missions!
+9237	Clear the "The Angel & The Demon" stage! You must also clear the Continuation Stage
+9238	Clear the "The Queen & The Dead" stage! You must also clear the Continuation Stage
+9239	Clear the "The King & The Maiden" stage! You must also clear the Continuation Stage
+9240	Summer Homework ①: Choose a Journal Topic. Clear 5 Summer Break Cats stages
+9241	Summer Homework ②: Choose 2nd Journal Topic. Clear 10 Summer Break Cats stages
+9242	Summer Homework ③: Choose 3rd Journal Topic. Clear 30 Summer Break Cats stages
+9243	Summer Homework ④: Write your Journal. Clear Rundown Hideout 5 times
+9244	Summer Homework ⑤: Rewrite your journal stylishly. Clear Stylish Hideout 5 times
+9245	Summer Homework ⑥: Rewrite your journal to be perfect. Clear Perfect Hideout 5 times
+9246	Extra Credit ①: Capture Insect Specimens. Upgrade Kabuto Cat to Level 10
+9247	Extra Credit ②: Capture Insect Specimens. Upgrade Kuwagata Cat to Level 10
+9248	Extra Credit ③: Observe Insect Specimens. Upgrade Kabuto Cat to Level 20
+9249	Extra Credit ④: Observe Insect Specimens. Upgrade Kuwagata Cat to Level 20
+9250	Extra Extra Credit ①: Further Observation. Clear "Summer Diary" Stage 1 with Kabuto Cat
+9251	Extra Extra Credit ②: Further Observation. Clear "Summer Diary" Stage 2 with Kuwagata Cat
+9252	Extra Extra Credit ③: Further Observation. Clear "Summer Diary" Stage 4 with Kabuto Cat
+9253	Extra Extra Credit ④: Further Observation. Clear "Summer Diary" Stage 6 with Kuwagata Cat
+9254	Summer School ①: Literature. Clear 5 Summer Lesson stages
+9255	Summer School ②: Algebra. Clear 10 Summer Lesson stages
+9256	Summer School ③: Social Studies. Clear 15 Summer Lesson stages
+9257	Summer School ④: School Assembly. Clear 20 Summer Lesson stages
+9258	Mega-Extra Credit ①: Sea-Life Research. Clear "Survive! Mola Mola!" Stage 1 with Kabuto Cat
+9259	Mega-Extra Credit ②: Sea-Life Research. Clear "Survive! Mola Mola!" Stage 3 with Kuwagata Cat
+9260	Mega-Extra Credit ③: Further Sea Research. Clear "300 Million Dead Molas" 3 times with Kabuto Cat
+9261	Mega-Extra Credit ④: Further Sea Research. Clear "300 Million Dead Molas" 5 times with Kuwagata Cat
+39	Empress' Research 1: Heretical Spellbooks by. Clear "Arcane Confluence" and "Wicked Cat"!
+40	Empress' Research 2: Agents of Aku. Clear "Servant of Darkness" and "Wicked Tank"
+9262	Clear "Hotblooded Ball-Rolling" 5 times!
+9263	Clear "Hotblooded Ball-Rolling" 10 times!
+9264	Clear "Hotblooded Challenge Course" 5 times!
+9265	Clear stages from "Hotblooded Challenge Course"
+9266	Defeat Jackie Peng at Hotblooded Three-Leg Race. (Once at any Hotblooded Three-Leg Race stage)
+9267	Defeat Doge Dark at Hotblooded Three-Leg Race. (Once at any Hotblooded Three-Leg Race stage)
+9268	Clear all 6 Hotblooded Clash Limited  Missions!
+9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
+9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!
+9271	Defeat the Box Witch! Find this Witch at the "Witch's Labyrinth: Box Witch" map!
+9272	Defeat the Nutcracker Witch! Find this Witch at the "Witch's Labyrinth: Nutcracker Witch" map!
+9273	Defeat all Witches! Complete all 4 Witch missions!
+9274	Upgrade Li'l Madoka to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
+9275	Upgrade Kyubey Cat to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
+41	Empress' Research 3: Sorcery's Cost. Clear "Demon's Park" and "Wicked Axe"
+42	Complete all 3 Empress' Research 1~3 missions!
+43	Empress' Call to Arms: Liberate the corrupted Cats! Clear "Unleashing the Cats" (The gates open...)
+44	Clear "The Aku Realms". Complete by clearing all stages in The Aku Realms
+45	Clear "The Aku Realms". Complete by clearing all stages in The Aku Realms
+9305	Clear Floor 30 of the Infernal Tower. ※ Reward can only be collected once
+47	Empress' Report: Aku Research. Clear Empress' Report 1 - 5 stages 5 times each

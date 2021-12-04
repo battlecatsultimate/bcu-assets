@@ -1,0 +1,654 @@
+0	Fai salire di livello un gatto dal menu Potenzia! (Tocca il pulsante Potenzia! sotto un gatto.)
+1	Attiva l'energy drink in "L'ascesa dei Battle Cats"! (Ottieni abilità bonus raccogliendo i primi 7 tesori.)
+2	Alza il tuo Grado giocatore di 10!
+3	Sorteggia una Miaocapsula alla Base felina! (Ottieni un. miaobiglietto gratis ogni giorno da usare una volta.)
+4	Recluta un assistente di Gamatoto! (Trovi gli assistenti. tra le ricompense delle Spedizioni di Gamatoto.)
+5	Supera un livello mentre usi una combo felina! (Schiera. un particolare insieme di gatti nella tua formazione!)
+6	Sfida il Dojo miciodiale! (Affronta una volta un livello del Dojo.)
+7	Sblocca la Forma Reale di un gatto normale! (Fai evolvere un gatto normale a livello 30.)
+8	Supera il Giappone in "L'ascesa dei Battle Cats"! (Completa il 7° livello in Impero dei Gatti Cap. 1.)
+9	Supera l'India in "L'ascesa dei Battle Cats"! (Completa l'11° livello in Impero dei Gatti Cap. 1.)
+10	Supera il Madagascar in "L'ascesa dei Battle Cats"! (Completa il 16° livello in Impero dei Gatti Cap. 1.)
+11	Supera la Grecia in "L'ascesa dei Battle Cats"! (Completa il 23° livello in Impero dei Gatti Cap. 1.)
+12	Supera la Groenlandia in "L'ascesa dei Battle Cats"! (Completa il 32° livello in Impero dei Gatti Cap. 1.)
+13	Supera l'Argentina in "L'ascesa dei Battle Cats"! (Completa il 39° livello in Impero dei Gatti Cap. 1.)
+14	Supera Hollywood in "L'ascesa dei Battle Cats"! (Completa il 45° livello in Impero dei Gatti Cap. 1.)
+15	Supera la Luna in "L'ascesa dei Battle Cats"! (Completa l'ultimo livello di Impero dei Gatti Cap. 1.)
+16	Supera ogni livello in "L'imperatore delle tenebre"! (Completa l'ultimo livello di Impero dei Gatti Cap. 2.)
+17	Supera ogni livello in "Il risveglio di Gatto Bahamut"! (Completa l'ultimo livello di Impero dei Gatti Cap. 3.)
+18	Supera ogni livello in "Abbastanza tempo per i Gatti"! (Completa l'ultimo livello di Verso il futuro Cap. 1.)
+19	Supera ogni livello in "Intrigo alieno"! (Completa l'ultimo livello di Verso il futuro Cap. 2.)
+20	Supera ogni livello in "Il ritorno degli Antichi"! (Completa l'ultimo livello di Verso il futuro Cap. 3.)
+22	Supera ogni livello in "Oltre l'esosfera"! (Completa l'ultimo livello di Gatti del Cosmo Cap. 1.)
+23	Supera ogni livello in "La passione del Gatto Divino"! (Completa l'ultimo livello di Gatti del Cosmo Cap. 2.)
+24	Missione del sesto anniversario. Supera Impero dei Gatti Cap. 1 durante questo evento!
+25	Supera ogni livello in "Anche le stelle si scottano"! (Completa l'ultimo livello di Gatti del Cosmo Cap. 3.)
+26	Missione del settimo anniversario. Supera Impero dei Gatti Cap. 1 durante questo evento!
+27	Supera tutti i Livelli leggendari di livello 2. per completare questa missione
+28	Supera tutti i Livelli leggendari di livello 3. per completare questa missione
+8000	Supera livelli con in premio miaobiglietti 3 volte! (Controlla la validità nei dettagli delle missioni)
+8001	Supera livelli con in premio XP 5 volte! (Controlla la validità nei dettagli delle missioni)
+8002	Supera 5 livelli delle Saghe leggendarie! (Completa 5 livelli SL gialli)
+8003	Manda Gamatoto in 7 spedizioni riuscite! (Termina 7 spedizioni complete in un'area Gamatoto)
+8004	Supera tutte le missioni settimanali! (Completa. tutte e 4 le sfide settimanali disponibili)
+8005	Supera livelli con in premio miaobiglietti 3 volte! (Controlla la validità nei dettagli delle missioni)
+8006	Supera livelli con in premio XP 5 volte! (Controlla la validità nei dettagli delle missioni)
+8007	Manda Gamatoto in 10 spedizioni riuscite! (Termina 10 spedizioni complete in un'area Gamatoto)
+8008	Supera livelli con in premio miagrumi 3 volte! (Controlla la validità nei dettagli delle missioni)
+8009	Supera 10 livelli delle Saghe leggendarie! (Completa 10 livelli SL gialli)
+8010	Supera tutte le missioni settimanali! (Completa. tutte e 4 le sfide settimanali disponibili)
+8011	Supera tutte le missioni settimanali! (Completa. tutte e 4 le sfide settimanali disponibili)
+9000	Supera il 30° piano della Torre celestiale. (Questa ricompensa può essere riscattata una volta sola.)
+9001	Supera livelli di Lezione estiva 5 volte! (Completa livelli di Lezione estiva)
+9002	Supera livelli di Lezione estiva 10 volte! (Completa livelli di Lezione estiva)
+9003	Supera livelli di Lezione estiva 20 volte! (Completa livelli di Lezione estiva)
+9004	Ottieni l'unità rara: Gatto Awa Odori! (Disponibile nei livelli di Diario estivo.)
+9005	Supera ogni missione speciale! (Completa tutte e 4 le missioni evento estive)
+9011	Supera livelli Silver Week 5 volte. Livelli Silver Week superati
+9012	Supera livelli Silver Week 10 volte. Livelli Silver Week superati
+9013	Supera livelli Silver Week 20 volte. Livelli Silver Week superati
+9014	Supera ogni missione Silver Week. 3 missioni Silver Week superate
+9015	Score 5000 or more on "Immortal Allen O'Neill"! Receive your score upon stage clear
+9016	Score 5000 or more on "Attack On Huge Hermit"! Receive your score upon stage clear
+9017	Score 5000 or more on "Jupiter King Convoy"! Receive your score upon stage clear
+9018	Score 3000 or more on "Devils on the Doorstep"! Receive your score upon stage clear
+9019	Supera "5 anni di divertimento!" 5 volte! Livelli e premi si azzerano ogni giorno! Superato
+9020	Ottieni 5555 punti in "Piano quinquennale"! Cerca questo livello classificato nel Dojo miciodiale!
+9021	Fai evolvere Gatto moneta! (Deve evolvere prima che finisca l'evento!)
+9022	Score 4000 or more on "Schoolyard Clash"! Receive your score upon stage clear
+9023	Score 3500 or more on "Midnight Interception"! Receive your score upon stage clear
+9024	Score 3000 or more on "Manor Ruins"! Receive your score upon stage clear
+9025	Score 2500 or more on "Inconspicuous Trap"! Receive your score upon stage clear
+9026	Score 1500 or more on "Beginning of the End"! Receive your score upon stage clear
+9027	Supera livelli collaborazione Blitz giornalieri 5 volte! Supera livelli di Guerra santa
+9028	Supera il 40° piano della Torre celestiale! * Le ricompense possono essere riscattate una volta sola
+9029	Ottieni più di 2500 punti quando. superi il livello "Arriva in città!"!
+9030	Ottieni più di 2000 punti nel. livello "Renne monelle"!
+9031	Ottieni più di 2000 punti nel. livello "Frustare a neve"!
+9032	Ottieni più di 2000 punti nel. livello "Golpe tra gli elfi"!
+9033	Ottieni più di 1500 punti nel. livello "Guerra a Natale"!
+9034	Supera "Gatti sulla neve" 5 volte! Supera livelli di Gatti sulla neve
+9035	Supera "Gatti sulla neve" 10 volte! Supera livelli di Gatti sulla neve
+9036	Supera "Gatti sulla neve" 20 volte! Supera livelli di Gatti sulla neve
+9037	Score more than 3000 points on the. PowerPro collab stage "Round 1 (Easy)"!
+9038	Score more than 6000 points on the. PowerPro collab stage "Round 2 (Normal)"!
+9039	Score more than 6500 points on the. PowerPro collab stage "Final Round (Hard)"!
+9040	Ottieni più di 2000 punti nel. livello limitato "Marzomellow"!
+9041	Ottieni più di 5000 punti nel. livello limitato "Marzipena"!
+9042	Ottieni più di 6000 punti nel. livello limitato "Carie in agguato"!
+9043	Supera "Viva i diplomandi" 5 volte! Supera livelli di Viva i diplomandi
+9044	Supera "Viva i diplomandi" 10 volte! Supera livelli di Viva i diplomandi
+9045	Supera "Viva i diplomandi" 20 volte! Supera livelli di Viva i diplomandi
+9046	Ottieni più di 2000 punti nel. livello speciale "Marzomellow"!
+9047	Ottieni più di 5000 punti nel. livello speciale "Marzipena"!
+9048	Ottieni più di 6000 punti nel. livello speciale "Carie in agguato"!
+9049	Potenzia Gattuovo a livello 10! (Deve evolvere prima che finisca l'evento!)
+9050	Upgrade Shinji & Cat to Level 10! (You must evolve the Cat before the event ends!)
+9051	Clear "Decisive Battle!" 5 times!
+9052	Clear "Decisive Battle!" 10 times!
+9053	Clear "Decisive Battle!" 20 times!
+9054	Clear a stage using a catcombo with "Eva Angel Killer" effect! Use Shinji and ??? together (after Empire Ch. 1)
+9055	Destroy the 4th Angel. Encounter this enemy at "State of Emergency"
+9056	Destroy the 6th Angel. Encounter this enemy at "Futagoyama Fortress"
+9057	Destroy the 9th Angel. Encounter this enemy at "Asuka On Board (Easy)"
+9058	Destroy the 10th Angel. Encounter this enemy at "Refusal Type (Hard)"
+9059	Destroy all Angels
+9060	Evolve Pokota at Level 10! This mission can only be completed during the LINE Pokopang! collab event!
+9061	Evolve Ovis at Level 10! This mission can only be completed during the LINE Pokopang! collab event!
+9062	Evolve Coco at Level 10! This mission can only be completed during the LINE Pokopang! collab event!
+9063	Clear "Trio from the Woods" 5 times!
+9064	Clear "Trio from the Woods" 10 times!
+9065	Clear "Trio from the Woods" 20 times!
+9072	Supera "Il tocco di Mida" 5 volte! Supera livelli di Il tocco di Mida
+9073	Supera "Il tocco di Mida" 10 volte! Supera livelli di Il tocco di Mida
+9074	Supera "Il tocco di Mida" 20 volte! Supera livelli di Il tocco di Mida
+9075	Clear "City of Souls" 5 times!
+9076	Clear "City of Souls" 10 times!
+9077	Clear "City of Souls" 20 times!
+9078	Upgrade Yuki Cat to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
+9079	Upgrade Takuya ＆ Yuki to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
+9080	Upgrade Redhead Yuki Cat to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
+9085	Supera "Sbavare per vincere" 5 volte! Supera livelli di Sbavare per vincere
+9086	Supera "Sbavare per vincere" 10 volte! Supera livelli di Sbavare per vincere
+9087	Supera "Sbavare per vincere" 20 volte! Supera livelli di Sbavare per vincere
+9088	Fai evolvere Gatto fantino al livello 10! Completabile solo durante l'evento Viscidi stalloni!
+9089	Supera "La sposa proibita II" 5 volte! Supera livelli di La sposa proibita II
+9090	Supera "La sposa proibita II" 10 volte! Supera livelli di La sposa proibita II
+9091	Supera "La sposa proibita II" 20 volte! Supera livelli di La sposa proibita II
+9092	Fai evolvere Sposa comare al livello 10! Completabile solo durante l'evento mensile di giugno!
+9093	Supera "The Battle Cats POP!" 5 volte! Supera livelli di The Battle Cats POP!
+9094	Supera "The Battle Cats POP!" 10 volte! Supera livelli di The Battle Cats POP!
+9095	Supera "The Battle Cats POP!" 20 volte! Supera livelli di The Battle Cats POP!
+9096	Supera "The Battle Cats POP!" 32 volte! Supera livelli di The Battle Cats POP!
+9097	Fai evolvere Betakkuma al livello 10! Completabile solo durante l'evento collaborazione Betakkuma!
+9098	Supera "Mai no estate!" 5 volte! Supera livelli di Mai no estate!
+9099	Supera "Mai no estate!" 10 volte! Supera livelli di Mai no estate!
+9100	Supera "Mai no estate!" 20 volte! Supera livelli di Mai no estate!
+9101	Fai evolvere Regina Vacanziera al livello 10! Completabile solo durante l'evento mensile di luglio!
+9111	Supera "Estranei Spettrali" 5 volte! Supera livelli di Estranei Spettrali
+9112	Supera "Estranei Spettrali" 10 volte! Supera livelli di Estranei Spettrali
+9113	Supera "Estranei Spettrali" 20 volte! Supera livelli di Estranei Spettrali
+9114	Fai evolvere Gatta vendicativa al livello 10! Completabile solo in presenza di livelli Spettrali!
+9115	Supera "Vegliardi in centro" 5 volte! Supera i livelli di Vegliardi in centro
+9116	Supera "Vegliardi in centro" 10 volte! Supera i livelli di Vegliardi in centro
+9117	Supera "Vegliardi in centro" 20 volte! Supera i livelli di Vegliardi in centro
+9118	Fai evolvere Gatto Kung Fu X al livello 10! Completabile solo in presenza di livelli Vegliardi!
+9119	Supera "Lezione estiva" 5 volte! Supera livelli di Lezione estiva
+9120	Supera "Lezione estiva" 10 volte! Supera livelli di Lezione estiva
+9121	Supera "Lezione estiva" 20 volte! Supera livelli di Lezione estiva
+9122	Fai evolvere Gatto Awa Odori al livello 10! Completabile solo in presenza di livelli Diario estivo!
+9123	Defeat the Rose Garden Witch. Find this enemy at the "The Rose Garden Witch (Easy)" stage
+9124	Defeat the Dessert Witch. Find this enemy at the "The Dessert Witch (Normal)" stage
+9125	Defeat the Box Witch. Find this enemy at the "The Box Witch (Hard)" stage
+9126	Defeat the Stagebuilding Witch. Find this enemy at the "The Stagebuilding Witch (Deadly)" stage
+9127	Defeat the Nutcracker Witch. Find this enemy at the "The Nutcracker Witch (Veteran)" stage
+9128	Destroy all Witches
+9129	Evolve Li'l Madoka at Level 10! This mission can only be completed while the Puella Magi Madoka Magica collab is available!
+9130	Evolve Kyubey Cat Level 10! This mission can only be completed while the Puella Magi Madoka Magica collab is available!
+9131	Clear "Queen Rampant" 5 times!
+9132	Clear "Queen Rampant" 10 times!
+9133	Clear "Queen Rampant" 20 times!
+9134	Supera "Notte sportiva" 5 volte! Supera livelli di Notte sportiva
+9135	Supera "Notte sportiva" 10 volte! Supera livelli di Notte sportiva
+9136	Supera "Notte sportiva" 20 volte! Supera livelli di Notte sportiva
+9137	Fai evolvere Gatto sportivo al livello 10! Completabile solo con i livelli "Autunno = Giorno sportivo"!
+9138	Supera "Rivoluzione al lavoro" 5 volte! Supera livelli di Rivoluzione al lavoro
+9139	Supera "Rivoluzione al lavoro" 10 volte! Supera livelli di Rivoluzione al lavoro
+9140	Supera "Rivoluzione al lavoro" 20 volte! Supera livelli di Rivoluzione al lavoro
+9141	Fai evolvere Gatto dipendente al livello 10! Completabile solo in presenza di livelli "Viva il lavoro"!
+9142	Clear "Merc Storia: Attack" stages 5 times!
+9143	Clear "Merc Storia: Attack" stages 10 times!
+9144	Clear "Merc Storia: Attack" stages 20 times!
+9145	Challenge the Ranking Stage "Weak of Spirit"!  Select this stage at the Catclaw Dojo!
+9146	Evolve Healer at Level 10! This mission can only be completed during the Merc Storia Collab Event!
+9147	Supera "Festival gourmet" 5 volte! Supera livelli di Festival gourmet
+9148	Supera "Festival gourmet" 10 volte! Supera livelli di Festival gourmet
+9149	Supera "Festival gourmet" 20 volte! Supera livelli di Festival gourmet
+9150	Fai evolvere Street food miao al livello 10! Completabile solo in presenza di livelli "Festival gourmet"!
+9151	Supera "Natale spaziale" 5 volte! Supera livelli di Natale spaziale
+9152	Supera "Natale spaziale" 10 volte! Supera livelli di Natale spaziale
+9153	Supera "Natale spaziale" 20 volte! Supera livelli di Natale spaziale
+9154	Fai evolvere Pescegatto Renna al livello 10! Completabile solo in presenza dei livelli di dicembre!
+9155	Fai evolvere Zuccatto al livello 10! Completabile solo in presenza di livelli Arriva Halloween!
+9156	Fai evolvere Gatto regalo al livello 10! Completabile solo in presenza di livelli Buon S. Nicola!
+9157	Supera livelli "Un altro anno nuovo" 5 volte! Supera livelli di Un altro anno nuovo
+9158	Supera livelli "Un altro anno nuovo" 10 volte! Supera livelli di Un altro anno nuovo
+9159	Supera livelli "Un altro anno nuovo" 20 volte! Supera livelli di Un altro anno nuovo
+9160	Fai evolvere Gattadulto al livello 10! Completabile solo in presenza dei livelli di gennaio!
+9161	Missioni dell'evento d'invasione. Supera il livello "Clionel Ascendente"!
+9162	Missioni dell'evento d'invasione . Supera il livello "Fiume Stige"!
+9163	Missioni dell'evento d'invasione . Supera il livello "Incoronazione regale"!
+9164	Missioni dell'evento d'invasione . Supera il livello "Babau dei morti"!
+9165	Missioni dell'evento d'invasione . Supera il livello "Vendetta di re Wahwah"!
+9166	Missioni dell'evento d'invasione. Supera il livello "Sogno profondo"!
+9167	Supera una volta tutti i livelli Festival limitato! Supera tutte le 6 missioni di Festival limitato
+9168	Supera livelli "Sei anni" 6 volte! Supera qualsiasi livello di Sei anni
+9169	Ottieni 6666 punti in "Forti da sei anni"! Cerca questo livello classificato nel Dojo miciodiale!
+9170	Supera livelli "Confusione rituale" 5 volte! Supera livelli di Confusione rituale
+9171	Supera livelli "Confusione rituale" 10 volte! Supera livelli di Confusione rituale
+9172	Supera livelli "Confusione rituale" 20 volte! Supera livelli di Confusione rituale
+9173	Fai evolvere Gattivo al livello 10! Completabile solo in presenza dei livelli di febbraio!
+9174	Supera livelli "Orsi e ri-rimorsi" 5 volte! Supera livelli di Orsi e ri-rimorsi
+9175	Supera livelli "Orsi e ri-rimorsi" 10 volte! Supera livelli di Orsi e ri-rimorsi
+9176	Supera livelli "Orsi e ri-rimorsi" 20 volte! Supera livelli di Orsi e ri-rimorsi
+9177	Fai evolvere Miambole al livello 10! Completabile solo in presenza dei livelli di marzo!
+9178	Evolve Shirou the Cat Level 10! This mission can only be completed during the Fate/stay night [HF] event!
+9179	Supera livelli "La primavera del Sensei" 5 volte! Supera livelli di La primavera del Sensei
+9180	Supera livelli "La primavera del Sensei" 10 volte! Supera livelli di La primavera del Sensei
+9181	Supera livelli "La primavera del Sensei" 20 volte! Supera livelli di La primavera del Sensei
+9182	Fai evolvere Lady Gatto al livello 10! Completabile solo durante l'evento mensile di aprile!
+9183	Evolve Meowla Meowla at Level 10! This mission can only be completed during the Survive! Mola Mola event!
+9184	Supera livelli "Malato d'amore" 5 volte! Supera livelli di Malato d'amore
+9185	Supera livelli "Malato d'amore" 10 volte! Supera livelli di Malato d'amore
+9186	Supera livelli "Malato d'amore" 20 volte! Supera livelli di Malato d'amore
+9187	Fai evolvere Gatto koi al livello 10! Completabile solo durante l'evento mensile di maggio!
+9191	Upgrade Prince Yamato to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
+9192	Upgrade Rosary Angel to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
+9193	Clear the first "Devilish Illusion" stage! You must earn a victory on "A Tower Piercing the Sky (Hard)"
+9194	Clear the first "Yamato Awakens!" stage! You must earn a victory on "Inherited Ambition (Veteran)"
+9195	Clear "Bikkuriman Choco" stages 5 times!
+9196	Clear "Bikkuriman Choco" stages 10 times!
+9197	Clear "Bikkuriman Choco" stages 20 times!
+9198	Upgrade Kano ＆ Souma to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
+9199	Supera "Shakurel Planet" 5 volte! Supera livelli di Shakurel Planet
+9200	Supera "Shakurel Planet" 10 volte! Supera livelli di Shakurel Planet
+9201	Supera "Shakurel Planet" 15 volte! Supera livelli di Shakurel Planet
+9202	Potenzia Gatto Shakurel a livello 10! (Deve evolvere prima che finisca l'evento!)
+17001	Supera tutte le missioni mensili! (Completa tutte le 3 sfide mensili disponibili)
+17002	Supera tutte le missioni mensili! (Completa tutte le 6 sfide mensili disponibili)
+17003	Supera tutte le missioni mensili! (Completa tutte le 9 sfide mensili disponibili)
+17004	Supera tutte le missioni mensili! (Completa tutte le 12 sfide mensili disponibili)
+17005	Supera tutte le missioni mensili! (Completa tutte le 15 sfide mensili disponibili)
+17006	Supera tutte le missioni mensili! (Completa tutte le 20 sfide mensili disponibili)
+17007	Supera tutte le missioni mensili! (Completa tutte le 25 sfide mensili disponibili)
+17008	Supera tutte le missioni mensili! (Completa tutte le 30 sfide mensili disponibili)
+1000	Sconfiggi Ippo in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1001	Sconfiggi Suino in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1002	Sconfiggi Jackie Ping in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1003	Sconfiggi Gory in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1004	Sconfiggi Bee Bee in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1005	Sconfiggi Sir Foca in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1006	Sconfiggi Cocco in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1007	Sconfiggi Eleboin in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1008	Sconfiggi B.B.Bunny in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1009	Sconfiggi Kang Uro in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1010	Sconfiggi Scoiattolero in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1011	Sconfiggi Falena in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1012	Sconfiggi Cornetto in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1013	Sconfiggi Professor Orso in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1014	Sconfiggi Imperatore Oscuro Nyandam in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1100	Sconfiggi Ippo in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1101	Sconfiggi Suino in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1102	Sconfiggi Jackie Ping in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1103	Sconfiggi Gory in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1104	Sconfiggi Bee Bee in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1105	Sconfiggi Sir Foca in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1106	Sconfiggi Cocco in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1107	Sconfiggi Eleboin in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1108	Sconfiggi B.B.Bunny in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1109	Sconfiggi Kang Uro in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1110	Sconfiggi Scoiattolero in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1111	Sconfiggi Falena in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1112	Sconfiggi Cornetto in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1113	Sconfiggi Professor Orso in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1114	Sconfiggi Professor Bum-bum in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1200	Sconfiggi Ippo in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1201	Sconfiggi Suino in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1202	Sconfiggi Jackie Ping in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1203	Sconfiggi Gory in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1204	Sconfiggi Cocco in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1205	Sconfiggi Sir Foca in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1206	Sconfiggi Yppo in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1207	Sconfiggi Cornetto in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1208	Sconfiggi Falena in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1209	Sconfiggi Kang Uro in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1210	Sconfiggi Professor Orso in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1211	Sconfiggi Helmut Grank in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1212	Sconfiggi Eleboin in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1213	Sconfiggi Metallippo in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1214	Sconfiggi Foca imperatrice in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1215	Sconfiggi Cane oscuro in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1216	Sconfiggi Falana in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1217	Sconfiggi Timidone in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1218	Sconfiggi L.F. Accia in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1219	Sconfiggi Gabriello in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1220	Sconfiggi Gory nero in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1221	Sconfiggi Orsa maggiore in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1222	Sconfiggi Ippo celestiale in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1223	Sconfiggi Pugile K oscuro in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1224	Sconfiggi La faccia in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1225	Sconfiggi Kokko in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1226	Sconfiggi LeMurr in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1227	Sconfiggi Elisabetta LVI in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1228	Sconfiggi Cinghio Nimoy in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1229	Sconfiggi Cli-One in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1300	Sconfiggi Forbiciuro in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1301	Sconfiggi Kang Uro in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1302	Sconfiggi Professor Orso in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1303	Sconfiggi Helmut Grank in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1304	Sconfiggi Orsa maggiore in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1305	Sconfiggi Cybercorno in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1306	Sconfiggi Signora Celebribau in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1307	Sconfiggi Timidone in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1308	Sconfiggi Gory nero in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1309	Sconfiggi Serpe rossa in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1310	Sconfiggi Pugile K oscuro in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1311	Sconfiggi Blogger troll in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1312	Sconfiggi La faccia in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1313	Sconfiggi Lontra oscura in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1314	Sconfiggi Elisabetta LVI in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1315	Sconfiggi L.F. Accia in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1316	Sconfiggi Cinghio Nimoy in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1317	Sconfiggi Valchiria corrotta in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1318	Sconfiggi "San Suino II". al livello 1 dei Livelli leggendari!
+1319	Sconfiggi "Cane oscuro". al livello 1 dei Livelli leggendari!
+1320	Sconfiggi "Maestro F.". al livello 1 dei Livelli leggendari!
+1321	Sconfiggi "Bassetto". al livello 1 dei Livelli leggendari!
+1322	Sconfiggi "Celebribau". al livello 1 dei Livelli leggendari!
+1323	Sconfiggi "IL BRADIPO". al livello 1 dei Livelli leggendari!
+1324	Sconfiggi "Lontraccia". al livello 1 dei Livelli leggendari!
+1325	Sconfiggi "J.K. Bum-bum". al livello 1 dei Livelli leggendari!
+1326	Sconfiggi "Cinghio". al livello 1 dei Livelli leggendari!
+1327	Sconfiggi "Gufotto". al livello 1 dei Livelli leggendari!
+1328	Sconfiggi "Gobbetta". al livello 1 dei Livelli leggendari!
+1329	Sconfiggi "Kory". al livello 1 dei Livelli leggendari!
+1330	Sconfiggi "Kurosawah il regista". al livello 1 dei Livelli leggendari!
+1331	Sconfiggi "Metallornetto". al livello 1 dei Livelli leggendari!
+1332	Sconfiggi "I. Ena". al livello 1 dei Livelli leggendari!
+1333	Sconfiggi "Lupo Ururun". al livello 1 dei Livelli leggendari!
+1334	Sconfiggi Ciclone rosso in Catastrofe cremisi. (Una volta in un livello di Catastrofe cremisi.)
+1335	Sconfiggi Ciclone nero in Paradiso delle tenebre. (Una volta in un livello di Paradiso delle tenebre.)
+1400	Sconfiggi Signora Celebribau in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1401	Sconfiggi Forbiciuro in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1402	Sconfiggi Kang Uro in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1403	Sconfiggi Calamary in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1404	Sconfiggi Cybercorno in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1405	Sconfiggi Professor Orso in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1406	Sconfiggi Orsa maggiore in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1407	Sconfiggi Alpacky in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1408	Sconfiggi Elisabetta LVI in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1409	Sconfiggi Pugile K oscuro in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1410	Sconfiggi L.F. Accia in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1411	Sconfiggi La faccia in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1412	Sconfiggi Timidone in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1413	Sconfiggi Bradipo stagionato in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1414	Sconfiggi Lontra oscura in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1415	Sconfiggi Cinghio Nimoy in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1416	Sconfiggi Gatto Bahamut furioso in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1417	Sconfiggi "Dober". al livello 1 dei Livelli leggendari!
+1418	Sconfiggi "S. Truzzo". al livello 1 dei Livelli leggendari!
+1419	Sconfiggi "Persico Jones". al livello 1 dei Livelli leggendari!
+1420	Sconfiggi "Super Metallippo". al livello 1 dei Livelli leggendari!
+1421	Sconfiggi "Cane Muro". al livello 1 dei Livelli leggendari!
+1422	Sconfiggi "Impiccione". al livello 1 dei Livelli leggendari!
+1423	Sconfiggi "Sleipnir angelico". al livello 1 dei Livelli leggendari!
+1424	Sconfiggi "Mini Nyandam". al livello 1 dei Livelli leggendari!
+1425	Sconfiggi "Pulcino A". al livello 1 dei Livelli leggendari!
+1426	Sconfiggi "Capy". al livello 1 dei Livelli leggendari!
+1427	Sconfiggi "Rondinone". al livello 1 dei Livelli leggendari!
+1428	Sconfiggi "Berserkory". al livello 1 dei Livelli leggendari!
+1429	Sconfiggi "Mr. Talpa". al livello 1 dei Livelli leggendari!
+1430	Sconfiggi "Tu Can". al livello 1 dei Livelli leggendari!
+1431	Sconfiggi "Nome in codice "Cappuccetto"". al livello 1 dei Livelli leggendari!
+1432	Sconfiggi "Neruccio". al livello 1 dei Livelli leggendari!
+1433	Sconfiggi "Cinghiafino". al livello 1 dei Livelli leggendari!
+1434	Sconfiggi Ciclone bianco in Ineguagliabile. (Una volta in un livello di Ineguagliabile.)
+1435	Sconfiggi Ciclone divino in Ira del paradiso. (Una volta in ogni livello di Ira del paradiso.)
+1500	Sconfiggi Shibalieno Élite in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1501	Sconfiggi Cornetto in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1502	Sconfiggi Suino in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1503	Sconfiggi Ping Astro in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1504	Sconfiggi Generale GreGory in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1505	Sconfiggi Elisabetta LVI in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1506	Sconfiggi Elesolare in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1507	Sconfiggi Gory angelico in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1508	Sconfiggi Gabriello in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1509	Sconfiggi Progetto F in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1510	Sconfiggi Pugile K oscuro in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1511	Sconfiggi Ippo celestiale in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1512	Sconfiggi Caporale Sterry in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1513	Sconfiggi Gory in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1514	Sconfiggi Astrico Jones in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1515	Sconfiggi Metallicane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1516	Sconfiggi Il Gatto divino in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1517	Sconfiggi "IL BRADIPO". al livello 2 dei Livelli leggendari!
+1518	Sconfiggi "Timidone". al livello 2 dei Livelli leggendari!
+1519	Sconfiggi "J.K. Bum-bum". al livello 2 dei Livelli leggendari!
+1520	Sconfiggi "Imperatore Oscuro Nyandam". al livello 2 dei Livelli leggendari!
+1521	Sconfiggi "Professor Bum-bum". al livello 2 dei Livelli leggendari!
+1522	Sconfiggi "Cinghio". al livello 2 dei Livelli leggendari!
+1523	Sconfiggi "Kory". al livello 2 dei Livelli leggendari!
+1524	Sconfiggi "Kurosawah il regista". al livello 2 dei Livelli leggendari!
+1525	Sconfiggi "S. Truzzo". al livello 2 dei Livelli leggendari!
+1526	Sconfiggi "Lupo Ururun". al livello 2 dei Livelli leggendari!
+1527	Sconfiggi "Sleipnir angelico". al livello 2 dei Livelli leggendari!
+1528	Sconfiggi "Mini Nyandam". al livello 2 dei Livelli leggendari!
+1529	Sconfiggi "Berserkory". al livello 2 dei Livelli leggendari!
+1530	Sconfiggi "Rennana". al livello 2 dei Livelli leggendari!
+1531	Sconfiggi "Gobbetta". al livello 2 dei Livelli leggendari!
+1532	Sconfiggi "I. Ena". al livello 2 dei Livelli leggendari!
+1533	Sconfiggi "Dober". al livello 2 dei Livelli leggendari!
+1534	Sconfiggi Metalliciclone in Dolce ironia. (Una volta in un livello di Dolce ironia.)
+1535	Sconfiggi Ciclone cosmico in Dimensione disperata. (Una volta in un livello di Dimensione disperata.)
+1600	Sconfiggi UltraBeeBee in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1601	Sconfiggi Shibalieno Élite in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1602	Sconfiggi Ping Astro in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1603	Sconfiggi Caporale Sterry in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1604	Sconfiggi Generale GreGory in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1605	Sconfiggi Astro Beluga in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1606	Sconfiggi Serpe rossa in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1607	Sconfiggi Elesolare in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1608	Sconfiggi Gabriello in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1609	Sconfiggi Gory angelico in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1610	Sconfiggi Ribbo in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1611	Sconfiggi Progetto F in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1612	Sconfiggi Pugile K oscuro in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1613	Sconfiggi Signore Galattico Nyandam in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1614	Sconfiggi Astrico Jones in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1615	Sconfiggi Cinghio in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1616	Sconfiggi Cli-One in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1617	Sconfiggi Gory in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1618	Sconfiggi Metallornetto in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1619	Sconfiggi Gatto divino in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1620	Sconfiggi "Mr. Angelo". al livello 1 dei Livelli leggendari!
+1621	Sconfiggi "Henry". al livello 1 dei Livelli leggendari!
+1622	Sconfiggi "Mini Bum-bum". al livello 1 dei Livelli leggendari!
+1623	Sconfiggi "Dottor F.". al livello 1 dei Livelli leggendari!
+1624	Sconfiggi "Cinghiale selvatico". al livello 1 dei Livelli leggendari!
+1625	Sconfiggi "Zane". al livello 1 dei Livelli leggendari!
+1626	Sconfiggi "Zippo". al livello 1 dei Livelli leggendari!
+1627	Sconfiggi "Zuino". al livello 1 dei Livelli leggendari!
+1628	Sconfiggi "Zackie Ping". al livello 1 dei Livelli leggendari!
+1629	Sconfiggi "Lord Tomby". al livello 1 dei Livelli leggendari!
+1630	Sconfiggi "Sal il Grosso". al livello 1 dei Livelli leggendari!
+1631	Sconfiggi "Zane Bara". al livello 1 dei Livelli leggendari!
+1632	Sconfiggi "Zobbetta". al livello 1 dei Livelli leggendari!
+1633	Sconfiggi "Miss Haka". al livello 1 dei Livelli leggendari!
+1634	Sconfiggi Il Ciclone Perfetto in Rosso di mattina. (Una volta in un livello di Rosso di mattina.)
+1635	Sconfiggi Ziclone in Morti rotolanti. (Una volta in un livello di Morti rotolanti.)
+1700	Sconfiggi Mesocosmociclone in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1701	Sconfiggi Astro Beluga in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1702	Sconfiggi Shibalieno Élite in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1703	Sconfiggi Ping Astro in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1704	Sconfiggi Generale GreGory in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1705	Sconfiggi Ribbo in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1706	Sconfiggi Caporale Sterry in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1707	Sconfiggi Elesolare in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1708	Sconfiggi Fratelli Anguilla in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1709	Sconfiggi UltraBeeBee in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1710	Sconfiggi Cybercorno in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1711	Sconfiggi Pugile K oscuro in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1712	Sconfiggi Gory angelico in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1713	Sconfiggi Assolotty in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1714	Sconfiggi Progetto F in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1715	Sconfiggi Astrico Jones in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1716	Sconfiggi Cinghio in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1717	Sconfiggi Alpacky in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1718	Sconfiggi Metallicane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1719	Sconfiggi Giga dio boss finale in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1720	Sconfiggi "Sir Metallifoca". al livello 1 dei Livelli leggendari!
+1721	Sconfiggi "Metallicane". al livello 1 dei Livelli leggendari!
+1722	Sconfiggi "Elenoir". al livello 1 dei Livelli leggendari!
+1723	Sconfiggi "Zroco". al livello 1 dei Livelli leggendari!
+1724	Sconfiggi "Zory". al livello 1 dei Livelli leggendari!
+1725	Sconfiggi "Zir Foca". al livello 1 dei Livelli leggendari!
+1726	Sconfiggi "Zang Uro". al livello 1 dei Livelli leggendari!
+1727	Sconfiggi "Inumusha". al livello 1 dei Livelli leggendari!
+1728	Sconfiggi "Delfina". al livello 1 dei Livelli leggendari!
+1729	Sconfiggi "Cala Maria". al livello 1 dei Livelli leggendari!
+1730	Sconfiggi "Gracchio". al livello 1 dei Livelli leggendari!
+1731	Sconfiggi "Tuca". al livello 1 dei Livelli leggendari!
+1732	Sconfiggi "Suino con le ali". al livello 1 dei Livelli leggendari!
+1733	Sconfiggi "Rossuccio". al livello 1 dei Livelli leggendari!
+1734	Sconfiggi "Mech-Bum". al livello 1 dei Livelli leggendari!
+1735	Sconfiggi Super ciclone cosmico in La seconda dimensione. (Una volta in un livello di La seconda dimensione.)
+1800	Sconfiggi "Lupo Ururun". al livello 3 dei Livelli leggendari!
+1801	Sconfiggi "Mini Nyandam". al livello 3 dei Livelli leggendari!
+1802	Sconfiggi "Berserkory". al livello 3 dei Livelli leggendari!
+1803	Sconfiggi "Nome in codice "Cappuccetto"". al livello 3 dei Livelli leggendari!
+1804	Sconfiggi "Neruccio". al livello 3 dei Livelli leggendari!
+1805	Sconfiggi "Cinghiafino". al livello 3 dei Livelli leggendari!
+1806	Sconfiggi "Henry". al livello 3 dei Livelli leggendari!
+1807	Sconfiggi "Mini Bum-bum". al livello 3 dei Livelli leggendari!
+1808	Sconfiggi "Dottor F.". al livello 3 dei Livelli leggendari!
+1809	Sconfiggi "Cinghiale selvatico". al livello 3 dei Livelli leggendari!
+1810	Sconfiggi "Zane". al livello 3 dei Livelli leggendari!
+1811	Sconfiggi "Zang Uro". al livello 3 dei Livelli leggendari!
+1812	Sconfiggi "Zroco". al livello 3 dei Livelli leggendari!
+1813	Sconfiggi "Zackie Ping". al livello 3 dei Livelli leggendari!
+1814	Sconfiggi "Zory". al livello 3 dei Livelli leggendari!
+1815	Sconfiggi "Zir Foca". al livello 3 dei Livelli leggendari!
+1816	Sconfiggi "Lord Tomby". al livello 3 dei Livelli leggendari!
+1817	Sconfiggi "Sal il Grosso". al livello 3 dei Livelli leggendari!
+1818	Sconfiggi "Zane Bara". al livello 3 dei Livelli leggendari!
+1819	Sconfiggi "Zobbetta". al livello 3 dei Livelli leggendari!
+1820	Sconfiggi "Miss Haka". al livello 3 dei Livelli leggendari!
+1821	Sconfiggi "Inumusha". al livello 3 dei Livelli leggendari!
+1822	Sconfiggi "Delfina". al livello 3 dei Livelli leggendari!
+1823	Sconfiggi "Cala Maria". al livello 3 dei Livelli leggendari!
+1824	Sconfiggi "Gracchio". al livello 3 dei Livelli leggendari!
+1825	Sconfiggi "Tuca". al livello 3 dei Livelli leggendari!
+1826	Sconfiggi "Suino con le ali". al livello 3 dei Livelli leggendari!
+1827	Sconfiggi "Shibalieno Élite". al livello 3 dei Livelli leggendari!
+1828	Sconfiggi "Caporale Sterry". al livello 3 dei Livelli leggendari!
+1829	Sconfiggi "Astrico Jones". al livello 3 dei Livelli leggendari!
+1830	Sconfiggi "Progetto F". al livello 3 dei Livelli leggendari!
+1831	Sconfiggi "Generale GreGory". al livello 3 dei Livelli leggendari!
+1832	Sconfiggi "Ping Astro". al livello 3 dei Livelli leggendari!
+1833	Sconfiggi "Rossuccio". al livello 3 dei Livelli leggendari!
+1834	Sconfiggi "UltraBeeBee". al livello 3 dei Livelli leggendari!
+1835	Sconfiggi "Mech-Bum". al livello 3 dei Livelli leggendari!
+1900	Sconfiggi "J.K. Bum-bum". al livello 4 dei Livelli leggendari!
+1901	Sconfiggi "Cinghio". al livello 4 dei Livelli leggendari!
+1902	Sconfiggi "Professor Bum-bum". al livello 4 dei Livelli leggendari!
+1903	Sconfiggi "Kory". al livello 4 dei Livelli leggendari!
+1904	Sconfiggi "Kurosawah il regista". al livello 4 dei Livelli leggendari!
+1905	Sconfiggi "Bum-bum nero". al livello 4 dei Livelli leggendari!
+1906	Sconfiggi "S. Truzzo". al livello 4 dei Livelli leggendari!
+1907	Sconfiggi "Lupo Ururun". al livello 4 dei Livelli leggendari!
+1908	Sconfiggi "Cane Muro". al livello 4 dei Livelli leggendari!
+1909	Sconfiggi "Sleipnir angelico". al livello 4 dei Livelli leggendari!
+1910	Sconfiggi "Metallicane". al livello 4 dei Livelli leggendari!
+1911	Sconfiggi "Mini Nyandam". al livello 4 dei Livelli leggendari!
+1912	Sconfiggi "Berserkory". al livello 4 dei Livelli leggendari!
+1913	Sconfiggi "Mr. Talpa". al livello 4 dei Livelli leggendari!
+1914	Sconfiggi "Nome in codice "Cappuccetto"". al livello 4 dei Livelli leggendari!
+1915	Sconfiggi "Tu Can". al livello 4 dei Livelli leggendari!
+1916	Sconfiggi "Neruccio". al livello 4 dei Livelli leggendari!
+1917	Sconfiggi "Cinghiafino". al livello 4 dei Livelli leggendari!
+1918	Sconfiggi "Henry". al livello 4 dei Livelli leggendari!
+1919	Sconfiggi "Mini Bum-bum". al livello 4 dei Livelli leggendari!
+1920	Sconfiggi "Dottor F.". al livello 4 dei Livelli leggendari!
+1921	Sconfiggi "Cinghiale selvatico". al livello 4 dei Livelli leggendari!
+1922	Sconfiggi "Zane". al livello 4 dei Livelli leggendari!
+1923	Sconfiggi "Zang Uro". al livello 4 dei Livelli leggendari!
+1924	Sconfiggi "Zory". al livello 4 dei Livelli leggendari!
+1925	Sconfiggi "Zane Bara". al livello 4 dei Livelli leggendari!
+1926	Sconfiggi "Inumusha". al livello 4 dei Livelli leggendari!
+1927	Sconfiggi "Delfina". al livello 4 dei Livelli leggendari!
+1928	Sconfiggi "Cala Maria". al livello 4 dei Livelli leggendari!
+1929	Sconfiggi "Gracchio". al livello 4 dei Livelli leggendari!
+1930	Sconfiggi "Suino con le ali". al livello 4 dei Livelli leggendari!
+1931	Sconfiggi "Shibalieno Élite". al livello 4 dei Livelli leggendari!
+1932	Sconfiggi "Caporale Sterry". al livello 4 dei Livelli leggendari!
+1933	Sconfiggi "Astrico Jones". al livello 4 dei Livelli leggendari!
+1934	Sconfiggi "Generale GreGory". al livello 4 dei Livelli leggendari!
+1935	Sconfiggi "Ping Astro". al livello 4 dei Livelli leggendari!
+2000	Sconfiggi "La faccia". al livello 4 dei Livelli leggendari!
+2001	Sconfiggi "Timidone". al livello 4 dei Livelli leggendari!
+2002	Sconfiggi "Lontraccia". al livello 4 dei Livelli leggendari!
+2003	Sconfiggi "Gobbetta". al livello 4 dei Livelli leggendari!
+2004	Sconfiggi "Oca". al livello 4 dei Livelli leggendari!
+2005	Sconfiggi "Gufotto". al livello 4 dei Livelli leggendari!
+2006	Sconfiggi "IL BRADIPO". al livello 4 dei Livelli leggendari!
+2007	Sconfiggi "Rennana". al livello 4 dei Livelli leggendari!
+2008	Sconfiggi "Celebribau". al livello 4 dei Livelli leggendari!
+2009	Sconfiggi "Imperatore Oscuro Nyandam". al livello 4 dei Livelli leggendari!
+2010	Sconfiggi "Maestro F.". al livello 4 dei Livelli leggendari!
+2011	Sconfiggi "Forbiciuro". al livello 4 dei Livelli leggendari!
+2012	Sconfiggi "I. Ena". al livello 4 dei Livelli leggendari!
+2013	Sconfiggi "Dober". al livello 4 dei Livelli leggendari!
+2014	Sconfiggi "Metallippo". al livello 4 dei Livelli leggendari!
+2015	Sconfiggi "San Suino II". al livello 4 dei Livelli leggendari!
+2016	Sconfiggi "Persico Jones". al livello 4 dei Livelli leggendari!
+2017	Sconfiggi "Impiccione". al livello 4 dei Livelli leggendari!
+2018	Sconfiggi "Zerpe". al livello 4 dei Livelli leggendari!
+2019	Sconfiggi "Zippo". al livello 4 dei Livelli leggendari!
+2020	Sconfiggi "Zuino". al livello 4 dei Livelli leggendari!
+2021	Sconfiggi "Zackie Ping". al livello 4 dei Livelli leggendari!
+2022	Sconfiggi "Signora Celebribau". al livello 4 dei Livelli leggendari!
+2023	Sconfiggi "Zir Foca". al livello 4 dei Livelli leggendari!
+2024	Sconfiggi "Zroco". al livello 4 dei Livelli leggendari!
+2025	Sconfiggi "Lord Tomby". al livello 4 dei Livelli leggendari!
+2026	Sconfiggi "Bassetto". al livello 4 dei Livelli leggendari!
+2027	Sconfiggi "Gory nero". al livello 4 dei Livelli leggendari!
+2028	Sconfiggi "Elesolare". al livello 4 dei Livelli leggendari!
+2029	Sconfiggi "Progetto F". al livello 4 dei Livelli leggendari!
+2030	Sconfiggi "Pugile K oscuro". al livello 4 dei Livelli leggendari!
+2031	Sconfiggi "Super Metallippo". al livello 4 dei Livelli leggendari!
+2032	Sconfiggi "Lontra oscura". al livello 4 dei Livelli leggendari!
+2033	Sconfiggi "Pulcino A". al livello 4 dei Livelli leggendari!
+2034	Sconfiggi "Cinghio Nimoy". al livello 4 dei Livelli leggendari!
+2035	Sconfiggi "Elisabetta LVI". al livello 4 dei Livelli leggendari!
+9205	Upgrade Akuma Giraffe to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
+9206	Upgrade Ryu Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
+9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
+9208	Clear "7 Years of Fun!!" stages 7 times!
+9209	Score 7777 pts in "Lucky Number 7"! Find this Ranking Stage at the Catclaw Dojo!
+9211	Missioni dell'evento d'invasione. Supera il livello "Impatto blu"!
+9212	Supera tutte 7 le missioni dell'evento d'invasione!
+9213	Upgrade Miku Cat to Level 10! (You must evolve the Cat before the Hatsune Miku collab ends!)
+9214	Clear "MIKU EXPO" 5 times!
+9215	Clear "MIKU EXPO" 10 times!
+9216	Clear "MIKU EXPO" 20 times!
+9221	Complete 5 Gamatoto Expeditions during
+9222	Supera il 50° piano della Torre celestiale! * Le ricompense possono essere riscattate una volta sola
+9223	Upgrade Heavenly Jack to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
+9226	Upgrade Ranma Cat (M) to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
+9227	Upgrade Panda Cat to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
+9228	Clear "The Cursed Springs" 5 times!
+9229	Clear "The Cursed Springs" 10 times!
+9230	Clear "The Cursed Springs" 20 times!
+30	Prendi ogni tesoro superiore in Impero dei Gatti Cap. 1
+31	Prendi ogni tesoro superiore in Impero dei Gatti Cap. 2
+32	Prendi ogni tesoro superiore in Impero dei Gatti Cap. 3
+33	Prendi ogni tesoro superiore in Verso il futuro Cap. 1
+34	Prendi ogni tesoro superiore in Verso il futuro Cap. 2
+35	Prendi ogni tesoro superiore in Verso il futuro Cap. 3
+36	Prendi ogni tesoro superiore in Gatti del Cosmo Cap. 1
+37	Prendi ogni tesoro superiore in Gatti del Cosmo Cap. 2
+38	Prendi ogni tesoro superiore in Gatti del Cosmo Cap. 3
+9231	Missioni dell'evento d'invasione: Supera "Fiume Stige". 1 volte usando 8 o più Gatti normali
+9232	Missioni dell'evento d'invasione: Supera "Babau dei morti". 1 volte usando 8 o più Gatti speciali
+9233	Missioni dell'evento d'invasione: Supera "Vendetta di re. Wahwah" 1 volte usando tutti e 9 i Gatti normali
+9234	Missioni dell'evento d'invasione: Supera "Impatto blu". 1 volte usando solamente seconde forme
+9235	Missioni dell'evento d'invasione: Supera "Sogno profondo". 1 volte usando solamente prime forme
+9236	Supera tutte 5 le missioni dell'evento d'invasione!
+9237	Supera il livello "L'angelo e il demone"! Devi anche superare il livello speciale corrispondente
+9238	Supera il livello "La regina e il morto"! Devi anche superare il livello speciale corrispondente
+9239	Supera il livello "Il re e la fanciulla"! Devi anche superare il livello speciale corrispondente
+9240	Compito per le vacanze ①: Scegli un argomento per il diario. Supera 5 livelli di Gatti estivi
+9241	Compito per le vacanze ②: Scegli il 2° argomento. Supera 10 livelli di Gatti estivi
+9242	Compito per le vacanze ③: Scegli il 3° argomento. Supera 30 livelli di Gatti estivi
+9243	Compito per le vacanze ④: Scrivi il diario. Supera Nascondiglio fatiscente 5 volte
+9244	Compito per le vacanze ⑤: Riscrivi il diario con stile. Supera Nascondiglio stiloso 5 volte
+9245	Compito per le vacanze ⑥: Riscrivi il diario alla perfezione. Supera Nascondiglio perfetto 5 volte
+9246	Crediti extra ①: Cattura esemplari di insetti. Potenzia Gatto Kabuto al livello 10
+9247	Crediti extra ②: Cattura esemplari di insetti. Potenzia Gatto Kuwagata al livello 10
+9248	Crediti extra ③: Osserva esemplari di insetti. Potenzia Gatto Kabuto al livello 20
+9249	Crediti extra ④: Osserva esemplari di insetti. Potenzia Gatto Kuwagata al livello 20
+9250	Crediti extra extra ①: Osservazione approfondita. Supera il livello 1 di Diario estivo con Gatto Kabuto
+9251	Crediti extra extra ②: Osservazione approfondita. Supera il livello 2 di Diario estivo con Gatto Kuwagata
+9252	Crediti extra extra ③: Osservazione approfondita. Supera il livello 4 di Diario estivo con Gatto Kabuto
+9253	Crediti extra extra ④: Osservazione approfondita. Supera il livello 6 di Diario estivo con Gatto Kuwagata
+9254	Scuola estiva ①: Letteratura. Supera 5 livelli di Lezione estiva
+9255	Scuola estiva ②: Algebra. Supera 10 livelli di Lezione estiva
+9256	Scuola estiva ③: Educazione civica. Supera 15 livelli di Lezione estiva
+9257	Scuola estiva ④: Assemblea scolastica. Supera 20 livelli di Lezione estiva
+9258	Crediti super extra ①: Ricerca sulla fauna marina. Supera il liv. 1 di Survive! Mola Mola! con Gatto Kabuto
+9259	Crediti super extra ②: Ricerca sulla fauna marina. Supera il liv. 3 di Survive! Mola Mola! con Gatto Kuwagata
+9260	Crediti super extra ③: Ricerca approfondita. Supera. 300 Million Dead Molas 3 volte con Gatto Kabuto
+9261	Crediti super extra ④: Ricerca approfondita. Supera. 300 Million Dead Molas 5 volte con Gatto Kuwagata
+39	Ricerca dell'imperatrice 1: Incantesimi eretici. Supera "Confluenza arcana" e "Gatto malvagio"!
+40	Ricerca dell'imperatrice 2: Agenti Aku. Supera "Servo delle tenebre" e "Panzer malvagio"
+9262	Supera "Inizio impulsivo" 5 volte!
+9263	Supera "Inizio impulsivo" 10 volte!
+9264	Supera "Avventura impulsiva" 5 volte!
+9265	Supera livelli di "Avventura impulsiva". 1 volte con 9 Gatti normali!
+9266	Sconfiggi Jackie Ping alla Gara in tre tappe impulsiva. (Una volta per ogni livello della Gara)
+9267	Sconfiggi Cane oscuro alla Gara in tre tappe impulsiva. (Una volta per ogni livello della Gara)
+9268	Supera tutte le 6 missioni limitate di Scontro impulsivo!
+9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
+9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!
+9271	Defeat the Box Witch! Find this Witch at the "Witch's Labyrinth: Box Witch" map!
+9272	Defeat the Nutcracker Witch! Find this Witch at the "Witch's Labyrinth: Nutcracker Witch" map!
+9273	Defeat all Witches!  Complete all 4 Witch missions!
+9274	Upgrade Li'l Madoka to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
+9275	Upgrade Kyubey Cat to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
+41	Ricerca dell'imperatrice 3: Il prezzo della stregoneria. Supera "Parco del demone" e "Ascia malvagia"
+42	Completa tutte le 3 missioni di. Ricerca dell'imperatrice 1-3!
+43	Chiamata alle armi dell'imperatrice! Supera Liberare i Gatti (I cancelli si aprono...)
+44	Supera "I regni Aku". Completa superando tutti i livelli di I regni Aku
+45	Supera "I regni Aku". Completa superando tutti i livelli di I regni Aku
+9305	Supera il 30° piano della Torre infernale. * Puoi ricevere la ricompensa solo una volta
+47	Resoconto dell'imperatrice: Ricerca di Aku. Resoconto dell'imperatrice 1: supera 5 liv. 5 volte.
