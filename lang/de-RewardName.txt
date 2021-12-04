@@ -8,6 +8,8 @@
 11	Silver Ticket
 12	Gold Ticket
 13	Cat food
+20	Silver Ticket
+22	Cat food
 23	Glücksticket
 26	Glücksticket
 27	Glücksticket
