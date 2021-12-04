@@ -7,7 +7,10 @@
 6	XP
 11	Silver Ticket
 12	Gold Ticket
-13	Cat food
+13	Cat Food
+20	Silver Ticket
+21	Gold Ticket
+22	Cat Food
 23	Lucky Ticket
 26	Lucky Ticket
 27	Lucky Ticket
