@@ -8,6 +8,9 @@
 11	Silver Ticket
 12	Gold Ticket
 13	Cat food
+20	Silver Ticket
+21	Gold Ticket
+22	Cat Food
 23	Ticket chance
 26	Ticket chance
 27	Ticket chance
