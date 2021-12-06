@@ -1,7 +1,3 @@
-2	Item Capsules
-3	Catfruit Capsules
-4	Catamin Capsules
-5	Cats Eye Capsules
 100	The Dynamites 
 101	The Dynamites 
 102	The Dynamites 

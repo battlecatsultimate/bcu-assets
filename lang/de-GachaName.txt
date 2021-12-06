@@ -313,7 +313,7 @@
 412	Episches Fest
 413	Platinkapseln
 414	Merc Storia Collab Capsules
-415	Street Fighter V: Arcade Edition Collab Capsules
+415	Street Fighter Capsules
 416	Höchstexplosiv
 417	Höchstexplosiv
 418	Höchstexplosiv
@@ -447,8 +447,8 @@
 546	Crash Fever Collab Capsules
 547	Crème De La Crème
 548	Neue Crème De La Crème
-549	Street Fighter V: Arcade Edition Collab Capsules
-550	Street Fighter V: Arcade Edition Collab Capsules
+549	Street Fighter Capsules
+550	Street Fighter Capsules
 551	Legendäre Kapseln
 552	Mega Auswahl
 553	Wunder Auswahl

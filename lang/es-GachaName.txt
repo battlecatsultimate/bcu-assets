@@ -313,7 +313,7 @@
 412	Hiperfesti
 413	Bolas De Platino
 414	Merc Storia Collab Capsules
-415	Street Fighter V: Arcade Edition Collab Capsules
+415	Street Fighter Capsules
 416	Los Dinamitas
 417	Los Dinamitas
 418	Los Dinamitas
@@ -447,8 +447,8 @@
 546	Crash Fever Collab Capsules
 547	Flor Y Nata
 548	Neo Flor Y Nata
-549	Street Fighter V: Arcade Edition Collab Capsules
-550	Street Fighter V: Arcade Edition Collab Capsules
+549	Street Fighter Capsules
+550	Street Fighter Capsules
 551	Bolas Legendarias
 552	Ultraselección
 553	Selección Milagrosa

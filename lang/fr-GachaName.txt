@@ -313,7 +313,7 @@
 412	Événement Chapsule Rare Méga-Fête
 413	Chapsules Platine
 414	Merc Storia Collab Capsules
-415	Street Fighter V: Arcade Edition Collab Capsules
+415	Street Fighter Capsules
 416	Les Dynamites
 417	Les Dynamites
 418	Les Dynamites
@@ -447,8 +447,8 @@
 546	Crash Fever Collab Capsules
 547	Nec Plus Ultra
 548	Néo Nec Plus Ultra
-549	Street Fighter V: Arcade Edition Collab Capsules
-550	Street Fighter V: Arcade Edition Collab Capsules
+549	Street Fighter Capsules
+550	Street Fighter Capsules
 551	Chapsules Légendaires
 552	Ultra Rares Au Choix
 553	Choix Miraculeux

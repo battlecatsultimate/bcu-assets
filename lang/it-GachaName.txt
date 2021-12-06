@@ -313,7 +313,7 @@
 412	Evento Miaocapsula Rara Festival Epico
 413	Capsule Platino
 414	Merc Storia Collab Capsules
-415	Street Fighter V: Arcade Edition Collab Capsules
+415	Street Fighter Capsules
 416	Evento Miaocapsula Rara Le Dinamiti
 417	Evento Miaocapsula Rara Le Dinamiti
 418	Evento Miaocapsula Rara Le Dinamiti
@@ -447,8 +447,8 @@
 546	Crash Fever Collab Capsules
 547	Evento Miaocapsula Rara Meglio Del Meglio
 548	Evento Miaocapsula Rara Neo Meglio Del Meglio
-549	Street Fighter V: Arcade Edition Collab Capsules
-550	Street Fighter V: Arcade Edition Collab Capsules
+549	Street Fighter Capsules
+550	Street Fighter Capsules
 551	Capsule Leggendarie
 552	Selezione Ultra
 553	Selezione Miracolo
