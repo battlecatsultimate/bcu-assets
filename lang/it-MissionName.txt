@@ -222,354 +222,354 @@
 17006	Supera tutte le missioni mensili! (Completa tutte le 20 sfide mensili disponibili)
 17007	Supera tutte le missioni mensili! (Completa tutte le 25 sfide mensili disponibili)
 17008	Supera tutte le missioni mensili! (Completa tutte le 30 sfide mensili disponibili)
-1000	Sconfiggi Ippo in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1001	Sconfiggi Suino in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1002	Sconfiggi Jackie Ping in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1003	Sconfiggi Gory in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1004	Sconfiggi Bee Bee in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1005	Sconfiggi Sir Foca in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1006	Sconfiggi Cocco in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1007	Sconfiggi Eleboin in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1008	Sconfiggi B.B.Bunny in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1009	Sconfiggi Kang Uro in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1010	Sconfiggi Scoiattolero in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1011	Sconfiggi Falena in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1012	Sconfiggi Cornetto in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1013	Sconfiggi Professor Orso in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1014	Sconfiggi Imperatore Oscuro Nyandam in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1100	Sconfiggi Ippo in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1101	Sconfiggi Suino in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1102	Sconfiggi Jackie Ping in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1103	Sconfiggi Gory in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1104	Sconfiggi Bee Bee in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1105	Sconfiggi Sir Foca in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1106	Sconfiggi Cocco in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1107	Sconfiggi Eleboin in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1108	Sconfiggi B.B.Bunny in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1109	Sconfiggi Kang Uro in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1110	Sconfiggi Scoiattolero in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1111	Sconfiggi Falena in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1112	Sconfiggi Cornetto in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1113	Sconfiggi Professor Orso in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1114	Sconfiggi Professor Bum-bum in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1200	Sconfiggi Ippo in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1201	Sconfiggi Suino in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1202	Sconfiggi Jackie Ping in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1203	Sconfiggi Gory in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1204	Sconfiggi Cocco in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1205	Sconfiggi Sir Foca in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1206	Sconfiggi Yppo in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1207	Sconfiggi Cornetto in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1208	Sconfiggi Falena in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1209	Sconfiggi Kang Uro in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1210	Sconfiggi Professor Orso in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1211	Sconfiggi Helmut Grank in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1212	Sconfiggi Eleboin in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1213	Sconfiggi Metallippo in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1214	Sconfiggi Foca imperatrice in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1215	Sconfiggi Cane oscuro in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1216	Sconfiggi Falana in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1217	Sconfiggi Timidone in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1218	Sconfiggi L.F. Accia in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1219	Sconfiggi Gabriello in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1220	Sconfiggi Gory nero in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1221	Sconfiggi Orsa maggiore in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1222	Sconfiggi Ippo celestiale in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1223	Sconfiggi Pugile K oscuro in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1224	Sconfiggi La faccia in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1225	Sconfiggi Kokko in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1226	Sconfiggi LeMurr in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1227	Sconfiggi Elisabetta LVI in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1228	Sconfiggi Cinghio Nimoy in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1229	Sconfiggi Cli-One in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1300	Sconfiggi Forbiciuro in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1301	Sconfiggi Kang Uro in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1302	Sconfiggi Professor Orso in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1303	Sconfiggi Helmut Grank in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1304	Sconfiggi Orsa maggiore in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1305	Sconfiggi Cybercorno in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1306	Sconfiggi Signora Celebribau in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1307	Sconfiggi Timidone in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1308	Sconfiggi Gory nero in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1309	Sconfiggi Serpe rossa in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1310	Sconfiggi Pugile K oscuro in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1311	Sconfiggi Blogger troll in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1312	Sconfiggi La faccia in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1313	Sconfiggi Lontra oscura in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1314	Sconfiggi Elisabetta LVI in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1315	Sconfiggi L.F. Accia in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1316	Sconfiggi Cinghio Nimoy in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1317	Sconfiggi Valchiria corrotta in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1318	Sconfiggi "San Suino II". al livello 1 dei Livelli leggendari!
-1319	Sconfiggi "Cane oscuro". al livello 1 dei Livelli leggendari!
-1320	Sconfiggi "Maestro F.". al livello 1 dei Livelli leggendari!
-1321	Sconfiggi "Bassetto". al livello 1 dei Livelli leggendari!
-1322	Sconfiggi "Celebribau". al livello 1 dei Livelli leggendari!
-1323	Sconfiggi "IL BRADIPO". al livello 1 dei Livelli leggendari!
-1324	Sconfiggi "Lontraccia". al livello 1 dei Livelli leggendari!
-1325	Sconfiggi "J.K. Bum-bum". al livello 1 dei Livelli leggendari!
-1326	Sconfiggi "Cinghio". al livello 1 dei Livelli leggendari!
-1327	Sconfiggi "Gufotto". al livello 1 dei Livelli leggendari!
-1328	Sconfiggi "Gobbetta". al livello 1 dei Livelli leggendari!
-1329	Sconfiggi "Kory". al livello 1 dei Livelli leggendari!
-1330	Sconfiggi "Kurosawah il regista". al livello 1 dei Livelli leggendari!
-1331	Sconfiggi "Metallornetto". al livello 1 dei Livelli leggendari!
-1332	Sconfiggi "I. Ena". al livello 1 dei Livelli leggendari!
-1333	Sconfiggi "Lupo Ururun". al livello 1 dei Livelli leggendari!
-1334	Sconfiggi Ciclone rosso in Catastrofe cremisi. (Una volta in un livello di Catastrofe cremisi.)
-1335	Sconfiggi Ciclone nero in Paradiso delle tenebre. (Una volta in un livello di Paradiso delle tenebre.)
-1400	Sconfiggi Signora Celebribau in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1401	Sconfiggi Forbiciuro in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1402	Sconfiggi Kang Uro in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1403	Sconfiggi Calamary in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1404	Sconfiggi Cybercorno in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1405	Sconfiggi Professor Orso in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1406	Sconfiggi Orsa maggiore in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1407	Sconfiggi Alpacky in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1408	Sconfiggi Elisabetta LVI in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1409	Sconfiggi Pugile K oscuro in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1410	Sconfiggi L.F. Accia in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1411	Sconfiggi La faccia in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1412	Sconfiggi Timidone in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1413	Sconfiggi Bradipo stagionato in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1414	Sconfiggi Lontra oscura in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1415	Sconfiggi Cinghio Nimoy in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1416	Sconfiggi Gatto Bahamut furioso in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1417	Sconfiggi "Dober". al livello 1 dei Livelli leggendari!
-1418	Sconfiggi "S. Truzzo". al livello 1 dei Livelli leggendari!
-1419	Sconfiggi "Persico Jones". al livello 1 dei Livelli leggendari!
-1420	Sconfiggi "Super Metallippo". al livello 1 dei Livelli leggendari!
-1421	Sconfiggi "Cane Muro". al livello 1 dei Livelli leggendari!
-1422	Sconfiggi "Impiccione". al livello 1 dei Livelli leggendari!
-1423	Sconfiggi "Sleipnir angelico". al livello 1 dei Livelli leggendari!
-1424	Sconfiggi "Mini Nyandam". al livello 1 dei Livelli leggendari!
-1425	Sconfiggi "Pulcino A". al livello 1 dei Livelli leggendari!
-1426	Sconfiggi "Capy". al livello 1 dei Livelli leggendari!
-1427	Sconfiggi "Rondinone". al livello 1 dei Livelli leggendari!
-1428	Sconfiggi "Berserkory". al livello 1 dei Livelli leggendari!
-1429	Sconfiggi "Mr. Talpa". al livello 1 dei Livelli leggendari!
-1430	Sconfiggi "Tu Can". al livello 1 dei Livelli leggendari!
-1431	Sconfiggi "Nome in codice "Cappuccetto"". al livello 1 dei Livelli leggendari!
-1432	Sconfiggi "Neruccio". al livello 1 dei Livelli leggendari!
-1433	Sconfiggi "Cinghiafino". al livello 1 dei Livelli leggendari!
-1434	Sconfiggi Ciclone bianco in Ineguagliabile. (Una volta in un livello di Ineguagliabile.)
-1435	Sconfiggi Ciclone divino in Ira del paradiso. (Una volta in ogni livello di Ira del paradiso.)
-1500	Sconfiggi Shibalieno Élite in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1501	Sconfiggi Cornetto in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1502	Sconfiggi Suino in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1503	Sconfiggi Ping Astro in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1504	Sconfiggi Generale GreGory in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1505	Sconfiggi Elisabetta LVI in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1506	Sconfiggi Elesolare in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1507	Sconfiggi Gory angelico in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1508	Sconfiggi Gabriello in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1509	Sconfiggi Progetto F in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1510	Sconfiggi Pugile K oscuro in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1511	Sconfiggi Ippo celestiale in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1512	Sconfiggi Caporale Sterry in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1513	Sconfiggi Gory in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1514	Sconfiggi Astrico Jones in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1515	Sconfiggi Metallicane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1516	Sconfiggi Il Gatto divino in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1517	Sconfiggi "IL BRADIPO". al livello 2 dei Livelli leggendari!
-1518	Sconfiggi "Timidone". al livello 2 dei Livelli leggendari!
-1519	Sconfiggi "J.K. Bum-bum". al livello 2 dei Livelli leggendari!
-1520	Sconfiggi "Imperatore Oscuro Nyandam". al livello 2 dei Livelli leggendari!
-1521	Sconfiggi "Professor Bum-bum". al livello 2 dei Livelli leggendari!
-1522	Sconfiggi "Cinghio". al livello 2 dei Livelli leggendari!
-1523	Sconfiggi "Kory". al livello 2 dei Livelli leggendari!
-1524	Sconfiggi "Kurosawah il regista". al livello 2 dei Livelli leggendari!
-1525	Sconfiggi "S. Truzzo". al livello 2 dei Livelli leggendari!
-1526	Sconfiggi "Lupo Ururun". al livello 2 dei Livelli leggendari!
-1527	Sconfiggi "Sleipnir angelico". al livello 2 dei Livelli leggendari!
-1528	Sconfiggi "Mini Nyandam". al livello 2 dei Livelli leggendari!
-1529	Sconfiggi "Berserkory". al livello 2 dei Livelli leggendari!
-1530	Sconfiggi "Rennana". al livello 2 dei Livelli leggendari!
-1531	Sconfiggi "Gobbetta". al livello 2 dei Livelli leggendari!
-1532	Sconfiggi "I. Ena". al livello 2 dei Livelli leggendari!
-1533	Sconfiggi "Dober". al livello 2 dei Livelli leggendari!
-1534	Sconfiggi Metalliciclone in Dolce ironia. (Una volta in un livello di Dolce ironia.)
-1535	Sconfiggi Ciclone cosmico in Dimensione disperata. (Una volta in un livello di Dimensione disperata.)
-1600	Sconfiggi UltraBeeBee in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1601	Sconfiggi Shibalieno Élite in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1602	Sconfiggi Ping Astro in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1603	Sconfiggi Caporale Sterry in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1604	Sconfiggi Generale GreGory in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1605	Sconfiggi Astro Beluga in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1606	Sconfiggi Serpe rossa in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1607	Sconfiggi Elesolare in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1608	Sconfiggi Gabriello in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1609	Sconfiggi Gory angelico in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1610	Sconfiggi Ribbo in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1611	Sconfiggi Progetto F in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1612	Sconfiggi Pugile K oscuro in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1613	Sconfiggi Signore Galattico Nyandam in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1614	Sconfiggi Astrico Jones in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1615	Sconfiggi Cinghio in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1616	Sconfiggi Cli-One in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1617	Sconfiggi Gory in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1618	Sconfiggi Metallornetto in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1619	Sconfiggi Gatto divino in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1620	Sconfiggi "Mr. Angelo". al livello 1 dei Livelli leggendari!
-1621	Sconfiggi "Henry". al livello 1 dei Livelli leggendari!
-1622	Sconfiggi "Mini Bum-bum". al livello 1 dei Livelli leggendari!
-1623	Sconfiggi "Dottor F.". al livello 1 dei Livelli leggendari!
-1624	Sconfiggi "Cinghiale selvatico". al livello 1 dei Livelli leggendari!
-1625	Sconfiggi "Zane". al livello 1 dei Livelli leggendari!
-1626	Sconfiggi "Zippo". al livello 1 dei Livelli leggendari!
-1627	Sconfiggi "Zuino". al livello 1 dei Livelli leggendari!
-1628	Sconfiggi "Zackie Ping". al livello 1 dei Livelli leggendari!
-1629	Sconfiggi "Lord Tomby". al livello 1 dei Livelli leggendari!
-1630	Sconfiggi "Sal il Grosso". al livello 1 dei Livelli leggendari!
-1631	Sconfiggi "Zane Bara". al livello 1 dei Livelli leggendari!
-1632	Sconfiggi "Zobbetta". al livello 1 dei Livelli leggendari!
-1633	Sconfiggi "Miss Haka". al livello 1 dei Livelli leggendari!
-1634	Sconfiggi Il Ciclone Perfetto in Rosso di mattina. (Una volta in un livello di Rosso di mattina.)
-1635	Sconfiggi Ziclone in Morti rotolanti. (Una volta in un livello di Morti rotolanti.)
-1700	Sconfiggi Mesocosmociclone in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1701	Sconfiggi Astro Beluga in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1702	Sconfiggi Shibalieno Élite in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1703	Sconfiggi Ping Astro in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1704	Sconfiggi Generale GreGory in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1705	Sconfiggi Ribbo in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1706	Sconfiggi Caporale Sterry in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1707	Sconfiggi Elesolare in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1708	Sconfiggi Fratelli Anguilla in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1709	Sconfiggi UltraBeeBee in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1710	Sconfiggi Cybercorno in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1711	Sconfiggi Pugile K oscuro in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1712	Sconfiggi Gory angelico in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1713	Sconfiggi Assolotty in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1714	Sconfiggi Progetto F in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1715	Sconfiggi Astrico Jones in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1716	Sconfiggi Cinghio in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1717	Sconfiggi Alpacky in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1718	Sconfiggi Metallicane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1719	Sconfiggi Giga dio boss finale in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1720	Sconfiggi "Sir Metallifoca". al livello 1 dei Livelli leggendari!
-1721	Sconfiggi "Metallicane". al livello 1 dei Livelli leggendari!
-1722	Sconfiggi "Elenoir". al livello 1 dei Livelli leggendari!
-1723	Sconfiggi "Zroco". al livello 1 dei Livelli leggendari!
-1724	Sconfiggi "Zory". al livello 1 dei Livelli leggendari!
-1725	Sconfiggi "Zir Foca". al livello 1 dei Livelli leggendari!
-1726	Sconfiggi "Zang Uro". al livello 1 dei Livelli leggendari!
-1727	Sconfiggi "Inumusha". al livello 1 dei Livelli leggendari!
-1728	Sconfiggi "Delfina". al livello 1 dei Livelli leggendari!
-1729	Sconfiggi "Cala Maria". al livello 1 dei Livelli leggendari!
-1730	Sconfiggi "Gracchio". al livello 1 dei Livelli leggendari!
-1731	Sconfiggi "Tuca". al livello 1 dei Livelli leggendari!
-1732	Sconfiggi "Suino con le ali". al livello 1 dei Livelli leggendari!
-1733	Sconfiggi "Rossuccio". al livello 1 dei Livelli leggendari!
-1734	Sconfiggi "Mech-Bum". al livello 1 dei Livelli leggendari!
-1735	Sconfiggi Super ciclone cosmico in La seconda dimensione. (Una volta in un livello di La seconda dimensione.)
-1800	Sconfiggi "Lupo Ururun". al livello 3 dei Livelli leggendari!
-1801	Sconfiggi "Mini Nyandam". al livello 3 dei Livelli leggendari!
-1802	Sconfiggi "Berserkory". al livello 3 dei Livelli leggendari!
-1803	Sconfiggi "Nome in codice "Cappuccetto"". al livello 3 dei Livelli leggendari!
-1804	Sconfiggi "Neruccio". al livello 3 dei Livelli leggendari!
-1805	Sconfiggi "Cinghiafino". al livello 3 dei Livelli leggendari!
-1806	Sconfiggi "Henry". al livello 3 dei Livelli leggendari!
-1807	Sconfiggi "Mini Bum-bum". al livello 3 dei Livelli leggendari!
-1808	Sconfiggi "Dottor F.". al livello 3 dei Livelli leggendari!
-1809	Sconfiggi "Cinghiale selvatico". al livello 3 dei Livelli leggendari!
-1810	Sconfiggi "Zane". al livello 3 dei Livelli leggendari!
-1811	Sconfiggi "Zang Uro". al livello 3 dei Livelli leggendari!
-1812	Sconfiggi "Zroco". al livello 3 dei Livelli leggendari!
-1813	Sconfiggi "Zackie Ping". al livello 3 dei Livelli leggendari!
-1814	Sconfiggi "Zory". al livello 3 dei Livelli leggendari!
-1815	Sconfiggi "Zir Foca". al livello 3 dei Livelli leggendari!
-1816	Sconfiggi "Lord Tomby". al livello 3 dei Livelli leggendari!
-1817	Sconfiggi "Sal il Grosso". al livello 3 dei Livelli leggendari!
-1818	Sconfiggi "Zane Bara". al livello 3 dei Livelli leggendari!
-1819	Sconfiggi "Zobbetta". al livello 3 dei Livelli leggendari!
-1820	Sconfiggi "Miss Haka". al livello 3 dei Livelli leggendari!
-1821	Sconfiggi "Inumusha". al livello 3 dei Livelli leggendari!
-1822	Sconfiggi "Delfina". al livello 3 dei Livelli leggendari!
-1823	Sconfiggi "Cala Maria". al livello 3 dei Livelli leggendari!
-1824	Sconfiggi "Gracchio". al livello 3 dei Livelli leggendari!
-1825	Sconfiggi "Tuca". al livello 3 dei Livelli leggendari!
-1826	Sconfiggi "Suino con le ali". al livello 3 dei Livelli leggendari!
-1827	Sconfiggi "Shibalieno Élite". al livello 3 dei Livelli leggendari!
-1828	Sconfiggi "Caporale Sterry". al livello 3 dei Livelli leggendari!
-1829	Sconfiggi "Astrico Jones". al livello 3 dei Livelli leggendari!
-1830	Sconfiggi "Progetto F". al livello 3 dei Livelli leggendari!
-1831	Sconfiggi "Generale GreGory". al livello 3 dei Livelli leggendari!
-1832	Sconfiggi "Ping Astro". al livello 3 dei Livelli leggendari!
-1833	Sconfiggi "Rossuccio". al livello 3 dei Livelli leggendari!
-1834	Sconfiggi "UltraBeeBee". al livello 3 dei Livelli leggendari!
-1835	Sconfiggi "Mech-Bum". al livello 3 dei Livelli leggendari!
-1900	Sconfiggi "J.K. Bum-bum". al livello 4 dei Livelli leggendari!
-1901	Sconfiggi "Cinghio". al livello 4 dei Livelli leggendari!
-1902	Sconfiggi "Professor Bum-bum". al livello 4 dei Livelli leggendari!
-1903	Sconfiggi "Kory". al livello 4 dei Livelli leggendari!
-1904	Sconfiggi "Kurosawah il regista". al livello 4 dei Livelli leggendari!
-1905	Sconfiggi "Bum-bum nero". al livello 4 dei Livelli leggendari!
-1906	Sconfiggi "S. Truzzo". al livello 4 dei Livelli leggendari!
-1907	Sconfiggi "Lupo Ururun". al livello 4 dei Livelli leggendari!
-1908	Sconfiggi "Cane Muro". al livello 4 dei Livelli leggendari!
-1909	Sconfiggi "Sleipnir angelico". al livello 4 dei Livelli leggendari!
-1910	Sconfiggi "Metallicane". al livello 4 dei Livelli leggendari!
-1911	Sconfiggi "Mini Nyandam". al livello 4 dei Livelli leggendari!
-1912	Sconfiggi "Berserkory". al livello 4 dei Livelli leggendari!
-1913	Sconfiggi "Mr. Talpa". al livello 4 dei Livelli leggendari!
-1914	Sconfiggi "Nome in codice "Cappuccetto"". al livello 4 dei Livelli leggendari!
-1915	Sconfiggi "Tu Can". al livello 4 dei Livelli leggendari!
-1916	Sconfiggi "Neruccio". al livello 4 dei Livelli leggendari!
-1917	Sconfiggi "Cinghiafino". al livello 4 dei Livelli leggendari!
-1918	Sconfiggi "Henry". al livello 4 dei Livelli leggendari!
-1919	Sconfiggi "Mini Bum-bum". al livello 4 dei Livelli leggendari!
-1920	Sconfiggi "Dottor F.". al livello 4 dei Livelli leggendari!
-1921	Sconfiggi "Cinghiale selvatico". al livello 4 dei Livelli leggendari!
-1922	Sconfiggi "Zane". al livello 4 dei Livelli leggendari!
-1923	Sconfiggi "Zang Uro". al livello 4 dei Livelli leggendari!
-1924	Sconfiggi "Zory". al livello 4 dei Livelli leggendari!
-1925	Sconfiggi "Zane Bara". al livello 4 dei Livelli leggendari!
-1926	Sconfiggi "Inumusha". al livello 4 dei Livelli leggendari!
-1927	Sconfiggi "Delfina". al livello 4 dei Livelli leggendari!
-1928	Sconfiggi "Cala Maria". al livello 4 dei Livelli leggendari!
-1929	Sconfiggi "Gracchio". al livello 4 dei Livelli leggendari!
-1930	Sconfiggi "Suino con le ali". al livello 4 dei Livelli leggendari!
-1931	Sconfiggi "Shibalieno Élite". al livello 4 dei Livelli leggendari!
-1932	Sconfiggi "Caporale Sterry". al livello 4 dei Livelli leggendari!
-1933	Sconfiggi "Astrico Jones". al livello 4 dei Livelli leggendari!
-1934	Sconfiggi "Generale GreGory". al livello 4 dei Livelli leggendari!
-1935	Sconfiggi "Ping Astro". al livello 4 dei Livelli leggendari!
-2000	Sconfiggi "La faccia". al livello 4 dei Livelli leggendari!
-2001	Sconfiggi "Timidone". al livello 4 dei Livelli leggendari!
-2002	Sconfiggi "Lontraccia". al livello 4 dei Livelli leggendari!
-2003	Sconfiggi "Gobbetta". al livello 4 dei Livelli leggendari!
-2004	Sconfiggi "Oca". al livello 4 dei Livelli leggendari!
-2005	Sconfiggi "Gufotto". al livello 4 dei Livelli leggendari!
-2006	Sconfiggi "IL BRADIPO". al livello 4 dei Livelli leggendari!
-2007	Sconfiggi "Rennana". al livello 4 dei Livelli leggendari!
-2008	Sconfiggi "Celebribau". al livello 4 dei Livelli leggendari!
-2009	Sconfiggi "Imperatore Oscuro Nyandam". al livello 4 dei Livelli leggendari!
-2010	Sconfiggi "Maestro F.". al livello 4 dei Livelli leggendari!
-2011	Sconfiggi "Forbiciuro". al livello 4 dei Livelli leggendari!
-2012	Sconfiggi "I. Ena". al livello 4 dei Livelli leggendari!
-2013	Sconfiggi "Dober". al livello 4 dei Livelli leggendari!
-2014	Sconfiggi "Metallippo". al livello 4 dei Livelli leggendari!
-2015	Sconfiggi "San Suino II". al livello 4 dei Livelli leggendari!
-2016	Sconfiggi "Persico Jones". al livello 4 dei Livelli leggendari!
-2017	Sconfiggi "Impiccione". al livello 4 dei Livelli leggendari!
-2018	Sconfiggi "Zerpe". al livello 4 dei Livelli leggendari!
-2019	Sconfiggi "Zippo". al livello 4 dei Livelli leggendari!
-2020	Sconfiggi "Zuino". al livello 4 dei Livelli leggendari!
-2021	Sconfiggi "Zackie Ping". al livello 4 dei Livelli leggendari!
-2022	Sconfiggi "Signora Celebribau". al livello 4 dei Livelli leggendari!
-2023	Sconfiggi "Zir Foca". al livello 4 dei Livelli leggendari!
-2024	Sconfiggi "Zroco". al livello 4 dei Livelli leggendari!
-2025	Sconfiggi "Lord Tomby". al livello 4 dei Livelli leggendari!
-2026	Sconfiggi "Bassetto". al livello 4 dei Livelli leggendari!
-2027	Sconfiggi "Gory nero". al livello 4 dei Livelli leggendari!
-2028	Sconfiggi "Elesolare". al livello 4 dei Livelli leggendari!
-2029	Sconfiggi "Progetto F". al livello 4 dei Livelli leggendari!
-2030	Sconfiggi "Pugile K oscuro". al livello 4 dei Livelli leggendari!
-2031	Sconfiggi "Super Metallippo". al livello 4 dei Livelli leggendari!
-2032	Sconfiggi "Lontra oscura". al livello 4 dei Livelli leggendari!
-2033	Sconfiggi "Pulcino A". al livello 4 dei Livelli leggendari!
-2034	Sconfiggi "Cinghio Nimoy". al livello 4 dei Livelli leggendari!
-2035	Sconfiggi "Elisabetta LVI". al livello 4 dei Livelli leggendari!
+1000	Sconfiggi Ippo in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1001	Sconfiggi Suino in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1002	Sconfiggi Jackie Ping in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1003	Sconfiggi Gory in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1004	Sconfiggi Bee Bee in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1005	Sconfiggi Sir Foca in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1006	Sconfiggi Cocco in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1007	Sconfiggi Eleboin in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1008	Sconfiggi B.B.Bunny in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1009	Sconfiggi Kang Uro in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1010	Sconfiggi Scoiattolero in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1011	Sconfiggi Falena in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1012	Sconfiggi Cornetto in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1013	Sconfiggi Professor Orso in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1014	Sconfiggi Imperatore Oscuro Nyandam in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
+1100	Sconfiggi Ippo in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1101	Sconfiggi Suino in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1102	Sconfiggi Jackie Ping in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1103	Sconfiggi Gory in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1104	Sconfiggi Bee Bee in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1105	Sconfiggi Sir Foca in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1106	Sconfiggi Cocco in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1107	Sconfiggi Eleboin in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1108	Sconfiggi B.B.Bunny in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1109	Sconfiggi Kang Uro in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1110	Sconfiggi Scoiattolero in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1111	Sconfiggi Falena in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1112	Sconfiggi Cornetto in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1113	Sconfiggi Professor Orso in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1114	Sconfiggi Professor Bum-bum in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
+1200	Sconfiggi Ippo in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1201	Sconfiggi Suino in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1202	Sconfiggi Jackie Ping in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1203	Sconfiggi Gory in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1204	Sconfiggi Cocco in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1205	Sconfiggi Sir Foca in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1206	Sconfiggi Yppo in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1207	Sconfiggi Cornetto in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1208	Sconfiggi Falena in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1209	Sconfiggi Kang Uro in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1210	Sconfiggi Professor Orso in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1211	Sconfiggi Helmut Grank in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1212	Sconfiggi Eleboin in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1213	Sconfiggi Metallippo in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1214	Sconfiggi Foca imperatrice in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1215	Sconfiggi Cane oscuro in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1216	Sconfiggi Falana in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1217	Sconfiggi Timidone in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1218	Sconfiggi L.F. Accia in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1219	Sconfiggi Gabriello in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1220	Sconfiggi Gory nero in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1221	Sconfiggi Orsa maggiore in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1222	Sconfiggi Ippo celestiale in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1223	Sconfiggi Pugile K oscuro in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1224	Sconfiggi La faccia in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1225	Sconfiggi Kokko in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1226	Sconfiggi LeMurr in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1227	Sconfiggi Elisabetta LVI in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1228	Sconfiggi Cinghio Nimoy in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1229	Sconfiggi Cli-One in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
+1300	Sconfiggi Forbiciuro in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1301	Sconfiggi Kang Uro in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1302	Sconfiggi Professor Orso in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1303	Sconfiggi Helmut Grank in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1304	Sconfiggi Orsa maggiore in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1305	Sconfiggi Cybercorno in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1306	Sconfiggi Signora Celebribau in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1307	Sconfiggi Timidone in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1308	Sconfiggi Gory nero in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1309	Sconfiggi Serpe rossa in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1310	Sconfiggi Pugile K oscuro in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1311	Sconfiggi Blogger troll in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1312	Sconfiggi La faccia in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1313	Sconfiggi Lontra oscura in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1314	Sconfiggi Elisabetta LVI in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1315	Sconfiggi L.F. Accia in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1316	Sconfiggi Cinghio Nimoy in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1317	Sconfiggi Valchiria corrotta in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1318	Sconfiggi "San Suino II". al livello 1 dei Livelli leggendari!
+1319	Sconfiggi "Cane oscuro". al livello 1 dei Livelli leggendari!
+1320	Sconfiggi "Maestro F.". al livello 1 dei Livelli leggendari!
+1321	Sconfiggi "Bassetto". al livello 1 dei Livelli leggendari!
+1322	Sconfiggi "Celebribau". al livello 1 dei Livelli leggendari!
+1323	Sconfiggi "IL BRADIPO". al livello 1 dei Livelli leggendari!
+1324	Sconfiggi "Lontraccia". al livello 1 dei Livelli leggendari!
+1325	Sconfiggi "J.K. Bum-bum". al livello 1 dei Livelli leggendari!
+1326	Sconfiggi "Cinghio". al livello 1 dei Livelli leggendari!
+1327	Sconfiggi "Gufotto". al livello 1 dei Livelli leggendari!
+1328	Sconfiggi "Gobbetta". al livello 1 dei Livelli leggendari!
+1329	Sconfiggi "Kory". al livello 1 dei Livelli leggendari!
+1330	Sconfiggi "Kurosawah il regista". al livello 1 dei Livelli leggendari!
+1331	Sconfiggi "Metallornetto". al livello 1 dei Livelli leggendari!
+1332	Sconfiggi "I. Ena". al livello 1 dei Livelli leggendari!
+1333	Sconfiggi "Lupo Ururun". al livello 1 dei Livelli leggendari!
+1334	Sconfiggi Ciclone rosso in Catastrofe cremisi. (Una volta in un livello di Catastrofe cremisi.)
+1335	Sconfiggi Ciclone nero in Paradiso delle tenebre. (Una volta in un livello di Paradiso delle tenebre.)
+1400	Sconfiggi Signora Celebribau in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1401	Sconfiggi Forbiciuro in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1402	Sconfiggi Kang Uro in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1403	Sconfiggi Calamary in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1404	Sconfiggi Cybercorno in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1405	Sconfiggi Professor Orso in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1406	Sconfiggi Orsa maggiore in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1407	Sconfiggi Alpacky in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1408	Sconfiggi Elisabetta LVI in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1409	Sconfiggi Pugile K oscuro in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1410	Sconfiggi L.F. Accia in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1411	Sconfiggi La faccia in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1412	Sconfiggi Timidone in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1413	Sconfiggi Bradipo stagionato in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1414	Sconfiggi Lontra oscura in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1415	Sconfiggi Cinghio Nimoy in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1416	Sconfiggi Gatto Bahamut furioso in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1417	Sconfiggi "Dober". al livello 1 dei Livelli leggendari!
+1418	Sconfiggi "S. Truzzo". al livello 1 dei Livelli leggendari!
+1419	Sconfiggi "Persico Jones". al livello 1 dei Livelli leggendari!
+1420	Sconfiggi "Super Metallippo". al livello 1 dei Livelli leggendari!
+1421	Sconfiggi "Cane Muro". al livello 1 dei Livelli leggendari!
+1422	Sconfiggi "Impiccione". al livello 1 dei Livelli leggendari!
+1423	Sconfiggi "Sleipnir angelico". al livello 1 dei Livelli leggendari!
+1424	Sconfiggi "Mini Nyandam". al livello 1 dei Livelli leggendari!
+1425	Sconfiggi "Pulcino A". al livello 1 dei Livelli leggendari!
+1426	Sconfiggi "Capy". al livello 1 dei Livelli leggendari!
+1427	Sconfiggi "Rondinone". al livello 1 dei Livelli leggendari!
+1428	Sconfiggi "Berserkory". al livello 1 dei Livelli leggendari!
+1429	Sconfiggi "Mr. Talpa". al livello 1 dei Livelli leggendari!
+1430	Sconfiggi "Tu Can". al livello 1 dei Livelli leggendari!
+1431	Sconfiggi "Nome in codice "Cappuccetto"". al livello 1 dei Livelli leggendari!
+1432	Sconfiggi "Neruccio". al livello 1 dei Livelli leggendari!
+1433	Sconfiggi "Cinghiafino". al livello 1 dei Livelli leggendari!
+1434	Sconfiggi Ciclone bianco in Ineguagliabile. (Una volta in un livello di Ineguagliabile.)
+1435	Sconfiggi Ciclone divino in Ira del paradiso. (Una volta in ogni livello di Ira del paradiso.)
+1500	Sconfiggi Shibalieno Élite in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1501	Sconfiggi Cornetto in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1502	Sconfiggi Suino in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1503	Sconfiggi Ping Astro in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1504	Sconfiggi Generale GreGory in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1505	Sconfiggi Elisabetta LVI in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1506	Sconfiggi Elesolare in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1507	Sconfiggi Gory angelico in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1508	Sconfiggi Gabriello in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1509	Sconfiggi Progetto F in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1510	Sconfiggi Pugile K oscuro in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1511	Sconfiggi Ippo celestiale in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1512	Sconfiggi Caporale Sterry in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1513	Sconfiggi Gory in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1514	Sconfiggi Astrico Jones in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1515	Sconfiggi Metallicane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1516	Sconfiggi Il Gatto divino in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1517	Sconfiggi "IL BRADIPO". al livello 2 dei Livelli leggendari!
+1518	Sconfiggi "Timidone". al livello 2 dei Livelli leggendari!
+1519	Sconfiggi "J.K. Bum-bum". al livello 2 dei Livelli leggendari!
+1520	Sconfiggi "Imperatore Oscuro Nyandam". al livello 2 dei Livelli leggendari!
+1521	Sconfiggi "Professor Bum-bum". al livello 2 dei Livelli leggendari!
+1522	Sconfiggi "Cinghio". al livello 2 dei Livelli leggendari!
+1523	Sconfiggi "Kory". al livello 2 dei Livelli leggendari!
+1524	Sconfiggi "Kurosawah il regista". al livello 2 dei Livelli leggendari!
+1525	Sconfiggi "S. Truzzo". al livello 2 dei Livelli leggendari!
+1526	Sconfiggi "Lupo Ururun". al livello 2 dei Livelli leggendari!
+1527	Sconfiggi "Sleipnir angelico". al livello 2 dei Livelli leggendari!
+1528	Sconfiggi "Mini Nyandam". al livello 2 dei Livelli leggendari!
+1529	Sconfiggi "Berserkory". al livello 2 dei Livelli leggendari!
+1530	Sconfiggi "Rennana". al livello 2 dei Livelli leggendari!
+1531	Sconfiggi "Gobbetta". al livello 2 dei Livelli leggendari!
+1532	Sconfiggi "I. Ena". al livello 2 dei Livelli leggendari!
+1533	Sconfiggi "Dober". al livello 2 dei Livelli leggendari!
+1534	Sconfiggi Metalliciclone in Dolce ironia. (Una volta in un livello di Dolce ironia.)
+1535	Sconfiggi Ciclone cosmico in Dimensione disperata. (Una volta in un livello di Dimensione disperata.)
+1600	Sconfiggi UltraBeeBee in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1601	Sconfiggi Shibalieno Élite in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1602	Sconfiggi Ping Astro in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1603	Sconfiggi Caporale Sterry in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1604	Sconfiggi Generale GreGory in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1605	Sconfiggi Astro Beluga in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1606	Sconfiggi Serpe rossa in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1607	Sconfiggi Elesolare in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1608	Sconfiggi Gabriello in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1609	Sconfiggi Gory angelico in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1610	Sconfiggi Ribbo in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1611	Sconfiggi Progetto F in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1612	Sconfiggi Pugile K oscuro in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1613	Sconfiggi Signore Galattico Nyandam in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1614	Sconfiggi Astrico Jones in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1615	Sconfiggi Cinghio in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1616	Sconfiggi Cli-One in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1617	Sconfiggi Gory in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1618	Sconfiggi Metallornetto in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1619	Sconfiggi Gatto divino in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1620	Sconfiggi "Mr. Angelo". al livello 1 dei Livelli leggendari!
+1621	Sconfiggi "Henry". al livello 1 dei Livelli leggendari!
+1622	Sconfiggi "Mini Bum-bum". al livello 1 dei Livelli leggendari!
+1623	Sconfiggi "Dottor F.". al livello 1 dei Livelli leggendari!
+1624	Sconfiggi "Cinghiale selvatico". al livello 1 dei Livelli leggendari!
+1625	Sconfiggi "Zane". al livello 1 dei Livelli leggendari!
+1626	Sconfiggi "Zippo". al livello 1 dei Livelli leggendari!
+1627	Sconfiggi "Zuino". al livello 1 dei Livelli leggendari!
+1628	Sconfiggi "Zackie Ping". al livello 1 dei Livelli leggendari!
+1629	Sconfiggi "Lord Tomby". al livello 1 dei Livelli leggendari!
+1630	Sconfiggi "Sal il Grosso". al livello 1 dei Livelli leggendari!
+1631	Sconfiggi "Zane Bara". al livello 1 dei Livelli leggendari!
+1632	Sconfiggi "Zobbetta". al livello 1 dei Livelli leggendari!
+1633	Sconfiggi "Miss Haka". al livello 1 dei Livelli leggendari!
+1634	Sconfiggi Il Ciclone Perfetto in Rosso di mattina. (Una volta in un livello di Rosso di mattina.)
+1635	Sconfiggi Ziclone in Morti rotolanti. (Una volta in un livello di Morti rotolanti.)
+1700	Sconfiggi Mesocosmociclone in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1701	Sconfiggi Astro Beluga in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1702	Sconfiggi Shibalieno Élite in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1703	Sconfiggi Ping Astro in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1704	Sconfiggi Generale GreGory in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1705	Sconfiggi Ribbo in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1706	Sconfiggi Caporale Sterry in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1707	Sconfiggi Elesolare in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1708	Sconfiggi Fratelli Anguilla in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1709	Sconfiggi UltraBeeBee in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1710	Sconfiggi Cybercorno in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1711	Sconfiggi Pugile K oscuro in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1712	Sconfiggi Gory angelico in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1713	Sconfiggi Assolotty in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1714	Sconfiggi Progetto F in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1715	Sconfiggi Astrico Jones in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1716	Sconfiggi Cinghio in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1717	Sconfiggi Alpacky in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1718	Sconfiggi Metallicane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1719	Sconfiggi Giga dio boss finale in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1720	Sconfiggi "Sir Metallifoca". al livello 1 dei Livelli leggendari!
+1721	Sconfiggi "Metallicane". al livello 1 dei Livelli leggendari!
+1722	Sconfiggi "Elenoir". al livello 1 dei Livelli leggendari!
+1723	Sconfiggi "Zroco". al livello 1 dei Livelli leggendari!
+1724	Sconfiggi "Zory". al livello 1 dei Livelli leggendari!
+1725	Sconfiggi "Zir Foca". al livello 1 dei Livelli leggendari!
+1726	Sconfiggi "Zang Uro". al livello 1 dei Livelli leggendari!
+1727	Sconfiggi "Inumusha". al livello 1 dei Livelli leggendari!
+1728	Sconfiggi "Delfina". al livello 1 dei Livelli leggendari!
+1729	Sconfiggi "Cala Maria". al livello 1 dei Livelli leggendari!
+1730	Sconfiggi "Gracchio". al livello 1 dei Livelli leggendari!
+1731	Sconfiggi "Tuca". al livello 1 dei Livelli leggendari!
+1732	Sconfiggi "Suino con le ali". al livello 1 dei Livelli leggendari!
+1733	Sconfiggi "Rossuccio". al livello 1 dei Livelli leggendari!
+1734	Sconfiggi "Mech-Bum". al livello 1 dei Livelli leggendari!
+1735	Sconfiggi Super ciclone cosmico in La seconda dimensione. (Una volta in un livello di La seconda dimensione.)
+1800	Sconfiggi "Lupo Ururun". al livello 3 dei Livelli leggendari!
+1801	Sconfiggi "Mini Nyandam". al livello 3 dei Livelli leggendari!
+1802	Sconfiggi "Berserkory". al livello 3 dei Livelli leggendari!
+1803	Sconfiggi "Nome in codice "Cappuccetto"". al livello 3 dei Livelli leggendari!
+1804	Sconfiggi "Neruccio". al livello 3 dei Livelli leggendari!
+1805	Sconfiggi "Cinghiafino". al livello 3 dei Livelli leggendari!
+1806	Sconfiggi "Henry". al livello 3 dei Livelli leggendari!
+1807	Sconfiggi "Mini Bum-bum". al livello 3 dei Livelli leggendari!
+1808	Sconfiggi "Dottor F.". al livello 3 dei Livelli leggendari!
+1809	Sconfiggi "Cinghiale selvatico". al livello 3 dei Livelli leggendari!
+1810	Sconfiggi "Zane". al livello 3 dei Livelli leggendari!
+1811	Sconfiggi "Zang Uro". al livello 3 dei Livelli leggendari!
+1812	Sconfiggi "Zroco". al livello 3 dei Livelli leggendari!
+1813	Sconfiggi "Zackie Ping". al livello 3 dei Livelli leggendari!
+1814	Sconfiggi "Zory". al livello 3 dei Livelli leggendari!
+1815	Sconfiggi "Zir Foca". al livello 3 dei Livelli leggendari!
+1816	Sconfiggi "Lord Tomby". al livello 3 dei Livelli leggendari!
+1817	Sconfiggi "Sal il Grosso". al livello 3 dei Livelli leggendari!
+1818	Sconfiggi "Zane Bara". al livello 3 dei Livelli leggendari!
+1819	Sconfiggi "Zobbetta". al livello 3 dei Livelli leggendari!
+1820	Sconfiggi "Miss Haka". al livello 3 dei Livelli leggendari!
+1821	Sconfiggi "Inumusha". al livello 3 dei Livelli leggendari!
+1822	Sconfiggi "Delfina". al livello 3 dei Livelli leggendari!
+1823	Sconfiggi "Cala Maria". al livello 3 dei Livelli leggendari!
+1824	Sconfiggi "Gracchio". al livello 3 dei Livelli leggendari!
+1825	Sconfiggi "Tuca". al livello 3 dei Livelli leggendari!
+1826	Sconfiggi "Suino con le ali". al livello 3 dei Livelli leggendari!
+1827	Sconfiggi "Shibalieno Élite". al livello 3 dei Livelli leggendari!
+1828	Sconfiggi "Caporale Sterry". al livello 3 dei Livelli leggendari!
+1829	Sconfiggi "Astrico Jones". al livello 3 dei Livelli leggendari!
+1830	Sconfiggi "Progetto F". al livello 3 dei Livelli leggendari!
+1831	Sconfiggi "Generale GreGory". al livello 3 dei Livelli leggendari!
+1832	Sconfiggi "Ping Astro". al livello 3 dei Livelli leggendari!
+1833	Sconfiggi "Rossuccio". al livello 3 dei Livelli leggendari!
+1834	Sconfiggi "UltraBeeBee". al livello 3 dei Livelli leggendari!
+1835	Sconfiggi "Mech-Bum". al livello 3 dei Livelli leggendari!
+1900	Sconfiggi "J.K. Bum-bum". al livello 4 dei Livelli leggendari!
+1901	Sconfiggi "Cinghio". al livello 4 dei Livelli leggendari!
+1902	Sconfiggi "Professor Bum-bum". al livello 4 dei Livelli leggendari!
+1903	Sconfiggi "Kory". al livello 4 dei Livelli leggendari!
+1904	Sconfiggi "Kurosawah il regista". al livello 4 dei Livelli leggendari!
+1905	Sconfiggi "Bum-bum nero". al livello 4 dei Livelli leggendari!
+1906	Sconfiggi "S. Truzzo". al livello 4 dei Livelli leggendari!
+1907	Sconfiggi "Lupo Ururun". al livello 4 dei Livelli leggendari!
+1908	Sconfiggi "Cane Muro". al livello 4 dei Livelli leggendari!
+1909	Sconfiggi "Sleipnir angelico". al livello 4 dei Livelli leggendari!
+1910	Sconfiggi "Metallicane". al livello 4 dei Livelli leggendari!
+1911	Sconfiggi "Mini Nyandam". al livello 4 dei Livelli leggendari!
+1912	Sconfiggi "Berserkory". al livello 4 dei Livelli leggendari!
+1913	Sconfiggi "Mr. Talpa". al livello 4 dei Livelli leggendari!
+1914	Sconfiggi "Nome in codice "Cappuccetto"". al livello 4 dei Livelli leggendari!
+1915	Sconfiggi "Tu Can". al livello 4 dei Livelli leggendari!
+1916	Sconfiggi "Neruccio". al livello 4 dei Livelli leggendari!
+1917	Sconfiggi "Cinghiafino". al livello 4 dei Livelli leggendari!
+1918	Sconfiggi "Henry". al livello 4 dei Livelli leggendari!
+1919	Sconfiggi "Mini Bum-bum". al livello 4 dei Livelli leggendari!
+1920	Sconfiggi "Dottor F.". al livello 4 dei Livelli leggendari!
+1921	Sconfiggi "Cinghiale selvatico". al livello 4 dei Livelli leggendari!
+1922	Sconfiggi "Zane". al livello 4 dei Livelli leggendari!
+1923	Sconfiggi "Zang Uro". al livello 4 dei Livelli leggendari!
+1924	Sconfiggi "Zory". al livello 4 dei Livelli leggendari!
+1925	Sconfiggi "Zane Bara". al livello 4 dei Livelli leggendari!
+1926	Sconfiggi "Inumusha". al livello 4 dei Livelli leggendari!
+1927	Sconfiggi "Delfina". al livello 4 dei Livelli leggendari!
+1928	Sconfiggi "Cala Maria". al livello 4 dei Livelli leggendari!
+1929	Sconfiggi "Gracchio". al livello 4 dei Livelli leggendari!
+1930	Sconfiggi "Suino con le ali". al livello 4 dei Livelli leggendari!
+1931	Sconfiggi "Shibalieno Élite". al livello 4 dei Livelli leggendari!
+1932	Sconfiggi "Caporale Sterry". al livello 4 dei Livelli leggendari!
+1933	Sconfiggi "Astrico Jones". al livello 4 dei Livelli leggendari!
+1934	Sconfiggi "Generale GreGory". al livello 4 dei Livelli leggendari!
+1935	Sconfiggi "Ping Astro". al livello 4 dei Livelli leggendari!
+2000	Sconfiggi "La faccia". al livello 4 dei Livelli leggendari!
+2001	Sconfiggi "Timidone". al livello 4 dei Livelli leggendari!
+2002	Sconfiggi "Lontraccia". al livello 4 dei Livelli leggendari!
+2003	Sconfiggi "Gobbetta". al livello 4 dei Livelli leggendari!
+2004	Sconfiggi "Oca". al livello 4 dei Livelli leggendari!
+2005	Sconfiggi "Gufotto". al livello 4 dei Livelli leggendari!
+2006	Sconfiggi "IL BRADIPO". al livello 4 dei Livelli leggendari!
+2007	Sconfiggi "Rennana". al livello 4 dei Livelli leggendari!
+2008	Sconfiggi "Celebribau". al livello 4 dei Livelli leggendari!
+2009	Sconfiggi "Imperatore Oscuro Nyandam". al livello 4 dei Livelli leggendari!
+2010	Sconfiggi "Maestro F.". al livello 4 dei Livelli leggendari!
+2011	Sconfiggi "Forbiciuro". al livello 4 dei Livelli leggendari!
+2012	Sconfiggi "I. Ena". al livello 4 dei Livelli leggendari!
+2013	Sconfiggi "Dober". al livello 4 dei Livelli leggendari!
+2014	Sconfiggi "Metallippo". al livello 4 dei Livelli leggendari!
+2015	Sconfiggi "San Suino II". al livello 4 dei Livelli leggendari!
+2016	Sconfiggi "Persico Jones". al livello 4 dei Livelli leggendari!
+2017	Sconfiggi "Impiccione". al livello 4 dei Livelli leggendari!
+2018	Sconfiggi "Zerpe". al livello 4 dei Livelli leggendari!
+2019	Sconfiggi "Zippo". al livello 4 dei Livelli leggendari!
+2020	Sconfiggi "Zuino". al livello 4 dei Livelli leggendari!
+2021	Sconfiggi "Zackie Ping". al livello 4 dei Livelli leggendari!
+2022	Sconfiggi "Signora Celebribau". al livello 4 dei Livelli leggendari!
+2023	Sconfiggi "Zir Foca". al livello 4 dei Livelli leggendari!
+2024	Sconfiggi "Zroco". al livello 4 dei Livelli leggendari!
+2025	Sconfiggi "Lord Tomby". al livello 4 dei Livelli leggendari!
+2026	Sconfiggi "Bassetto". al livello 4 dei Livelli leggendari!
+2027	Sconfiggi "Gory nero". al livello 4 dei Livelli leggendari!
+2028	Sconfiggi "Elesolare". al livello 4 dei Livelli leggendari!
+2029	Sconfiggi "Progetto F". al livello 4 dei Livelli leggendari!
+2030	Sconfiggi "Pugile K oscuro". al livello 4 dei Livelli leggendari!
+2031	Sconfiggi "Super Metallippo". al livello 4 dei Livelli leggendari!
+2032	Sconfiggi "Lontra oscura". al livello 4 dei Livelli leggendari!
+2033	Sconfiggi "Pulcino A". al livello 4 dei Livelli leggendari!
+2034	Sconfiggi "Cinghio Nimoy". al livello 4 dei Livelli leggendari!
+2035	Sconfiggi "Elisabetta LVI". al livello 4 dei Livelli leggendari!
 9205	Upgrade Akuma Giraffe to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9206	Upgrade Ryu Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
@@ -635,8 +635,8 @@
 9263	Supera "Inizio impulsivo" 10 volte!
 9264	Supera "Avventura impulsiva" 5 volte!
 9265	Supera livelli di "Avventura impulsiva". 1 volte con 9 Gatti normali!
-9266	Sconfiggi Jackie Ping alla Gara in tre tappe impulsiva. (Una volta per ogni livello della Gara)
-9267	Sconfiggi Cane oscuro alla Gara in tre tappe impulsiva. (Una volta per ogni livello della Gara)
+9266	Sconfiggi Jackie Ping alla Gara in tre tappe impulsiva. (Una volta per ogni livello della Gara)
+9267	Sconfiggi Cane oscuro alla Gara in tre tappe impulsiva. (Una volta per ogni livello della Gara)
 9268	Supera tutte le 6 missioni limitate di Scontro impulsivo!
 9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
 9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!

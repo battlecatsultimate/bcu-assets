@@ -222,354 +222,354 @@
 17006	Clear all Monthly Missions!
 17007	Clear all Monthly Missions!
 17008	Clear all Monthly Missions!
-1000	Defeat Hippoe at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1001	Defeat Pigge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1002	Defeat Jackie Peng at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1003	Defeat Gory at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1004	Defeat Baa Baa at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1005	Defeat Sir Seal at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1006	Defeat Croco at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1007	Defeat Le'boin at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1008	Defeat B.B.Bunny at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1009	Defeat Kang Roo at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1010	Defeat Squire Rel at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1011	Defeat Mooth at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1012	Defeat One Horn at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1013	Defeat Teacher Bear at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1014	Defeat Dark Emperor Nyandam at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1100	Defeat Hippoe at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1101	Defeat Pigge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1102	Defeat Jackie Peng at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1103	Defeat Gory at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1104	Defeat Baa Baa at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1105	Defeat Sir Seal at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1106	Defeat Croco at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1107	Defeat Le'boin at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1108	Defeat B.B.Bunny at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1109	Defeat Kang Roo at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1110	Defeat Squire Rel at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1111	Defeat Mooth at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1112	Defeat One Horn at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1113	Defeat Teacher Bear at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1114	Defeat Teacher Bun Bun at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1200	Defeat Hippoe at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1201	Defeat Pigge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1202	Defeat Jackie Peng at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1203	Defeat Gory at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1204	Defeat Croco at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1205	Defeat Sir Seal at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1206	Defeat Hyppoh at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1207	Defeat One Horn at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1208	Defeat Mooth at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1209	Defeat Kang Roo at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1210	Defeat Teacher Bear at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1211	Defeat Helmut Krabbe at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1212	Defeat Le'boin at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1213	Defeat Metal Hippoe at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1214	Defeat Imperator Sael at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1215	Defeat Doge Dark at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1216	Defeat Maawth at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1217	Defeat Shy Boy at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1218	Defeat I.M. Phace at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1219	Defeat Gabriel at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1220	Defeat Gory Black at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1221	Defeat Ursamajor at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1222	Defeat Heavenly Hippoe at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1223	Defeat Shadow Boxer K at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1224	Defeat The Face at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1225	Defeat Kroxo at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1226	Defeat LeMurr at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1227	Defeat Elizabeth the LVIth at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1228	Defeat Nimoy Bore at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1229	Defeat Cli-One at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1300	Defeat Scissoroo at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1301	Defeat Kang Roo at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1302	Defeat Teacher Bear at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1303	Defeat Helmut Krabbe at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1304	Defeat Ursamajor at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1305	Defeat Cyberhorn at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1306	Defeat Mistress Celeboodle at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1307	Defeat Shy Boy at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1308	Defeat Gory Black at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1309	Defeat Ginger Snache at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1310	Defeat Shadow Boxer K at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1311	Defeat Trolly Blogger at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1312	Defeat The Face at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1313	Defeat Dark Otter at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1314	Defeat Elizabeth the LVIth at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1315	Defeat I.M. Phace at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1316	Defeat Nimoy Bore at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1317	Defeat Corrupted Valkyrie at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1318	Defeat "St. Pigge the 2nd" at. a Level 1 Legend Stage!
-1319	Defeat "Doge Dark" at. a Level 1 Legend Stage!
-1320	Defeat "Master A." at. a Level 1 Legend Stage!
-1321	Defeat "Dagshund" at. a Level 1 Legend Stage!
-1322	Defeat "Celeboodle" at. a Level 1 Legend Stage!
-1323	Defeat "THE SLOTH" at. a Level 1 Legend Stage!
-1324	Defeat "Otta-smack-u" at. a Level 1 Legend Stage!
-1325	Defeat "J.K Bun Bun" at. a Level 1 Legend Stage!
-1326	Defeat "Bore" at. a Level 1 Legend Stage!
-1327	Defeat "Owlbrow" at. a Level 1 Legend Stage!
-1328	Defeat "Camelle" at. a Level 1 Legend Stage!
-1329	Defeat "Kory" at. a Level 1 Legend Stage!
-1330	Defeat "Director Kurosawah" at. a Level 1 Legend Stage!
-1331	Defeat "Metal One Horn" at. a Level 1 Legend Stage!
-1332	Defeat "H. Nah" at. a Level 1 Legend Stage!
-1333	Defeat "Ururun Wolf" at. a Level 1 Legend Stage!
-1334	Defeat Red Cyclone at Crimson Catastrophe. (Once at any Crimson Catastrophe stage)
-1335	Defeat Black Cyclone at Heaven of Darkness. (Once at any Heaven of Darkness stage)
-1400	Defeat Mistress Celeboodle at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1401	Defeat Scissoroo at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1402	Defeat Kang Roo at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1403	Defeat Calamary at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1404	Defeat Cyberhorn at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1405	Defeat Teacher Bear at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1406	Defeat Ursamajor at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1407	Defeat Alpacky at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1408	Defeat Elizabeth the LVIth at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1409	Defeat Shadow Boxer K at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1410	Defeat I.M. Phace at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1411	Defeat The Face at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1412	Defeat Shy Boy at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1413	Defeat Elder Sloth at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1414	Defeat Dark Otter at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1415	Defeat Nimoy Bore at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1416	Defeat Raging Bahamut Cat at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1417	Defeat "Dober P.D" at. a Level 1 Legend Stage!
-1418	Defeat "R.Ost" at. a Level 1 Legend Stage!
-1419	Defeat "Sunfish Jones" at. a Level 1 Legend Stage!
-1420	Defeat "Super Metal Hippoe" at. a Level 1 Legend Stage!
-1421	Defeat "Wall Doge" at. a Level 1 Legend Stage!
-1422	Defeat "Pigeon de Sable" at. a Level 1 Legend Stage!
-1423	Defeat "Angelic Sleipnir" at. a Level 1 Legend Stage!
-1424	Defeat "Li'l Nyandam" at. a Level 1 Legend Stage!
-1425	Defeat "Chickful A" at. a Level 1 Legend Stage!
-1426	Defeat "Capy" at. a Level 1 Legend Stage!
-1427	Defeat "Brollow" at. a Level 1 Legend Stage!
-1428	Defeat "Berserkory" at. a Level 1 Legend Stage!
-1429	Defeat "Mr. Mole" at. a Level 1 Legend Stage!
-1430	Defeat "Two Can" at. a Level 1 Legend Stage!
-1431	Defeat "Codename "Red Riding"" at. a Level 1 Legend Stage!
-1432	Defeat "Tackey" at. a Level 1 Legend Stage!
-1433	Defeat "Boraphim" at. a Level 1 Legend Stage!
-1434	Defeat White Cyclone at Peerless. (Once at any Peerless stage)
-1435	Defeat Divine Cyclone at Wrath of Heaven. (Once at any Wrath of Heaven stage)
-1500	Defeat Shibalien Elite at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1501	Defeat One Horn at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1502	Defeat Pigge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1503	Defeat Star Peng at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1504	Defeat General GreGory at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1505	Defeat Elizabeth the LVIth at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1506	Defeat Le'Solar at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1507	Defeat Angelic Gory at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1508	Defeat Gabriel at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1509	Defeat Project A at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1510	Defeat Shadow Boxer K at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1511	Defeat Heavenly Hippoe at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1512	Defeat Corporal Weyland at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1513	Defeat Gory at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1514	Defeat Spacefish Jones at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1515	Defeat Metal Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1516	Defeat The Cat God at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1517	Defeat "THE SLOTH" at. a Level 2 Legend Stage!
-1518	Defeat "Shy Boy" at. a Level 2 Legend Stage!
-1519	Defeat "J.K Bun Bun" at. a Level 2 Legend Stage!
-1520	Defeat "Dark Emperor Nyandam" at. a Level 2 Legend Stage!
-1521	Defeat "Teacher Bun Bun" at. a Level 2 Legend Stage!
-1522	Defeat "Bore" at. a Level 2 Legend Stage!
-1523	Defeat "Kory" at. a Level 2 Legend Stage!
-1524	Defeat "Director Kurosawah" at. a Level 2 Legend Stage!
-1525	Defeat "R.Ost" at. a Level 2 Legend Stage!
-1526	Defeat "Ururun Wolf" at. a Level 2 Legend Stage!
-1527	Defeat "Angelic Sleipnir" at. a Level 2 Legend Stage!
-1528	Defeat "Li'l Nyandam" at. a Level 2 Legend Stage!
-1529	Defeat "Berserkory" at. a Level 2 Legend Stage!
-1530	Defeat "Rain D." at. a Level 2 Legend Stage!
-1531	Defeat "Camelle" at. a Level 2 Legend Stage!
-1532	Defeat "H. Nah" at. a Level 2 Legend Stage!
-1533	Defeat "Dober P.D" at. a Level 2 Legend Stage!
-1534	Defeat Metal Cyclone at Sweet Irony. (Once at any Sweet Irony stage)
-1535	Defeat Cosmic Cyclone at Dimension of Despair. (Once at any Dimension of Despair stage)
-1600	Defeat UltraBaaBaa at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1601	Defeat Shibalien Elite at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1602	Defeat Star Peng at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1603	Defeat Corporal Weyland at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1604	Defeat General GreGory at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1605	Defeat Kid Tappa at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1606	Defeat Ginger Snache at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1607	Defeat Le'Solar at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1608	Defeat Gabriel at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1609	Defeat Angelic Gory at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1610	Defeat Ribbo at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1611	Defeat Project A at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1612	Defeat Shadow Boxer K at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1613	Defeat Galactic Overseer Nyandam at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1614	Defeat Spacefish Jones at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1615	Defeat Bore at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1616	Defeat Cli-One at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1617	Defeat Gory at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1618	Defeat Metal One Horn at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1619	Defeat Cat God at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1620	Defeat "Mr. Angel" at. a Level 1 Legend Stage!
-1621	Defeat "Henry" at. a Level 1 Legend Stage!
-1622	Defeat "Li'l Bun Bun" at. a Level 1 Legend Stage!
-1623	Defeat "Professor A." at. a Level 1 Legend Stage!
-1624	Defeat "Razorback" at. a Level 1 Legend Stage!
-1625	Defeat "Zoge" at. a Level 1 Legend Stage!
-1626	Defeat "Zomboe" at. a Level 1 Legend Stage!
-1627	Defeat "Zigge" at. a Level 1 Legend Stage!
-1628	Defeat "Zackie Peng" at. a Level 1 Legend Stage!
-1629	Defeat "Lord Gravey" at. a Level 1 Legend Stage!
-1630	Defeat "Big Sal" at. a Level 1 Legend Stage!
-1631	Defeat "Coffin Zoge" at. a Level 1 Legend Stage!
-1632	Defeat "Zamelle" at. a Level 1 Legend Stage!
-1633	Defeat "Miss Haka" at. a Level 1 Legend Stage!
-1634	Defeat The Perfect Cyclone at Red Sky at Morning. (Once at any Red Sky at Morning stage)
-1635	Defeat Zyclone at The Rolling Dead. (Once at any The Rolling Dead stage)
-1700	Defeat Mesocosmocyclone at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1701	Defeat Kid Tappa at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1702	Defeat Shibalien Elite at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1703	Defeat Star Peng at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1704	Defeat General GreGory at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1705	Defeat Ribbo at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1706	Defeat Corporal Weyland at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1707	Defeat Le'Solar at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1708	Defeat Gardeneel Bros. at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1709	Defeat UltraBaaBaa at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1710	Defeat Cyberhorn at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1711	Defeat Shadow Boxer K at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1712	Defeat Angelic Gory at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1713	Defeat Axoloty at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1714	Defeat Project A at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1715	Defeat Spacefish Jones at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1716	Defeat Bore at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1717	Defeat Alpacky at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1718	Defeat Metal Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1719	Defeat Final Boss Giga-God at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1720	Defeat "Sir Metal Seal" at. a Level 1 Legend Stage!
-1721	Defeat "Metal Doge" at. a Level 1 Legend Stage!
-1722	Defeat "Le'noir" at. a Level 1 Legend Stage!
-1723	Defeat "Zroco" at. a Level 1 Legend Stage!
-1724	Defeat "Zory" at. a Level 1 Legend Stage!
-1725	Defeat "Zir Zeal" at. a Level 1 Legend Stage!
-1726	Defeat "Zang Roo" at. a Level 1 Legend Stage!
-1727	Defeat "Inumusha" at. a Level 1 Legend Stage!
-1728	Defeat "Dolphina" at. a Level 1 Legend Stage!
-1729	Defeat "Cala Maria" at. a Level 1 Legend Stage!
-1730	Defeat "Croakley" at. a Level 1 Legend Stage!
-1731	Defeat "Youcan" at. a Level 1 Legend Stage!
-1732	Defeat "Winged Pigge" at. a Level 1 Legend Stage!
-1733	Defeat "Hackey" at. a Level 1 Legend Stage!
-1734	Defeat "Mecha-Bun" at. a Level 1 Legend Stage!
-1735	Defeat Super Cosmic Cyclone at The 2nd Dimension. (Once at any The 2nd Dimension stage)
-1800	Defeat "Ururun Wolf" at. a Level 3 Legend Stage!
-1801	Defeat "Li'l Nyandam" at. a Level 3 Legend Stage!
-1802	Defeat "Berserkory" at. a Level 3 Legend Stage!
-1803	Defeat "Codename "Red Riding"" at. a Level 3 Legend Stage!
-1804	Defeat "Tackey" at. a Level 3 Legend Stage!
-1805	Defeat "Boraphim" at. a Level 3 Legend Stage!
-1806	Defeat "Henry" at. a Level 3 Legend Stage!
-1807	Defeat "Li'l Bun Bun" at. a Level 3 Legend Stage!
-1808	Defeat "Professor A." at. a Level 3 Legend Stage!
-1809	Defeat "Razorback" at. a Level 3 Legend Stage!
-1810	Defeat "Zoge" at. a Level 3 Legend Stage!
-1811	Defeat "Zang Roo" at. a Level 3 Legend Stage!
-1812	Defeat "Zroco" at. a Level 3 Legend Stage!
-1813	Defeat "Zackie Peng" at. a Level 3 Legend Stage!
-1814	Defeat "Zory" at. a Level 3 Legend Stage!
-1815	Defeat "Zir Zeal" at. a Level 3 Legend Stage!
-1816	Defeat "Lord Gravey" at. a Level 3 Legend Stage!
-1817	Defeat "Big Sal" at. a Level 3 Legend Stage!
-1818	Defeat "Coffin Zoge" at. a Level 3 Legend Stage!
-1819	Defeat "Zamelle" at. a Level 3 Legend Stage!
-1820	Defeat "Miss Haka" at. a Level 3 Legend Stage!
-1821	Defeat "Inumusha" at. a Level 3 Legend Stage!
-1822	Defeat "Dolphina" at. a Level 3 Legend Stage!
-1823	Defeat "Cala Maria" at. a Level 3 Legend Stage!
-1824	Defeat "Croakley" at. a Level 3 Legend Stage!
-1825	Defeat "Youcan" at. a Level 3 Legend Stage!
-1826	Defeat "Winged Pigge" at. a Level 3 Legend Stage!
-1827	Defeat "Shibalien Elite" at. a Level 3 Legend Stage!
-1828	Defeat "Corporal Weyland" at. a Level 3 Legend Stage!
-1829	Defeat "Spacefish Jones" at. a Level 3 Legend Stage!
-1830	Defeat "Project A" at. a Level 3 Legend Stage!
-1831	Defeat "General GreGory" at. a Level 3 Legend Stage!
-1832	Defeat "Star Peng" at. a Level 3 Legend Stage!
-1833	Defeat "Hackey" at. a Level 3 Legend Stage!
-1834	Defeat "UltraBaaBaa" at. a Level 3 Legend Stage!
-1835	Defeat "Mecha-Bun" at. a Level 3 Legend Stage!
-1900	Defeat "J.K Bun Bun" at. a Level 4 Legend Stage!
-1901	Defeat "Bore" at. a Level 4 Legend Stage!
-1902	Defeat "Teacher Bun Bun" at. a Level 4 Legend Stage!
-1903	Defeat "Kory" at. a Level 4 Legend Stage!
-1904	Defeat "Director Kurosawah" at. a Level 4 Legend Stage!
-1905	Defeat "Bun Bun Black" at. a Level 4 Legend Stage!
-1906	Defeat "R.Ost" at. a Level 4 Legend Stage!
-1907	Defeat "Ururun Wolf" at. a Level 4 Legend Stage!
-1908	Defeat "Wall Doge" at. a Level 4 Legend Stage!
-1909	Defeat "Angelic Sleipnir" at. a Level 4 Legend Stage!
-1910	Defeat "Metal Doge" at. a Level 4 Legend Stage!
-1911	Defeat "Li'l Nyandam" at at. a Level 4 Legend Stage!
-1912	Defeat "Berserkory". a Level 4 Legend Stage!
-1913	Defeat "Mr. Mole" at. a Level 4 Legend Stage!
-1914	Defeat "Codename "Red Riding"" at. a Level 4 Legend Stage!
-1915	Defeat "Two Can" at. a Level 4 Legend Stage!
-1916	Defeat "Tackey" at. a Level 4 Legend Stage!
-1917	Defeat "Boraphim" at. a Level 4 Legend Stage!
-1918	Defeat "Henry" at. a Level 4 Legend Stage!
-1919	Defeat "Li'l Bun Bun" at. a Level 4 Legend Stage!
-1920	Defeat "Professor A." at. a Level 4 Legend Stage!
-1921	Defeat "Razorback" at. a Level 4 Legend Stage!
-1922	Defeat "Zoge" at. a Level 4 Legend Stage!
-1923	Defeat "Zang Roo" at. a Level 4 Legend Stage!
-1924	Defeat "Zory" at. a Level 4 Legend Stage!
-1925	Defeat "Coffin Zoge" at. a Level 4 Legend Stage!
-1926	Defeat "Inumusha" at. a Level 4 Legend Stage!
-1927	Defeat "Dolphina" at. a Level 4 Legend Stage!
-1928	Defeat "Cala Maria" at. a Level 4 Legend Stage!
-1929	Defeat "Croakley" at. a Level 4 Legend Stage!
-1930	Defeat "Winged Pigge" at. a Level 4 Legend Stage!
-1931	Defeat "Shibalien Elite" at. a Level 4 Legend Stage!
-1932	Defeat "Corporal Weyland" at. a Level 4 Legend Stage!
-1933	Defeat "Spacefish Jones" at. a Level 4 Legend Stage!
-1934	Defeat "General GreGory" at. a Level 4 Legend Stage!
-1935	Defeat "Star Peng" at. a Level 4 Legend Stage!
-2000	Defeat "The Face" at. a Level 4 Legend Stage!
-2001	Defeat "Shy Boy" at. a Level 4 Legend Stage!
-2002	Defeat "Otta-smack-u" at. a Level 4 Legend Stage!
-2003	Defeat "Camelle" at. a Level 4 Legend Stage!
-2004	Defeat "Duche" at. a Level 4 Legend Stage!
-2005	Defeat "Owlbrow" at. a Level 4 Legend Stage!
-2006	Defeat "THE SLOTH" at. a Level 4 Legend Stage!
-2007	Defeat "Rain D." at. a Level 4 Legend Stage!
-2008	Defeat "Celeboodle" at. a Level 4 Legend Stage!
-2009	Defeat "Dark Emperor Nyandam" at. a Level 4 Legend Stage!
-2010	Defeat "Master A." at. a Level 4 Legend Stage!
-2011	Defeat "Scissoroo" at. a Level 4 Legend Stage!
-2012	Defeat "H. Nah" at. a Level 4 Legend Stage!
-2013	Defeat "Dober P.D" at. a Level 4 Legend Stage!
-2014	Defeat "Metal Hippoe" at. a Level 4 Legend Stage!
-2015	Defeat "St. Pigge the 2nd" at. a Level 4 Legend Stage!
-2016	Defeat "Sunfish Jones" at. a Level 4 Legend Stage!
-2017	Defeat "Pigeon de Sable" at. a Level 4 Legend Stage!
-2018	Defeat "Znache" at. a Level 4 Legend Stage!
-2019	Defeat "Zomboe" at. a Level 4 Legend Stage!
-2020	Defeat "Zigge" at. a Level 4 Legend Stage!
-2021	Defeat "Zackie Peng" at. a Level 4 Legend Stage!
-2022	Defeat "Mistress Celeboodle" at. a Level 4 Legend Stage!
-2023	Defeat "Zir Zeal" at. a Level 4 Legend Stage!
-2024	Defeat "Zroco" at. a Level 4 Legend Stage!
-2025	Defeat "Lord Gravey" at. a Level 4 Legend Stage!
-2026	Defeat "Dagshund" at. a Level 4 Legend Stage!
-2027	Defeat "Gory Black" at. a Level 4 Legend Stage!
-2028	Defeat "Le'Solar" at. a Level 4 Legend Stage!
-2029	Defeat "Project A" at. a Level 4 Legend Stage!
-2030	Defeat "Shadow Boxer K" at. a Level 4 Legend Stage!
-2031	Defeat "Super Metal Hippoe" at. a Level 4 Legend Stage!
-2032	Defeat "Dark Otter" at. a Level 4 Legend Stage!
-2033	Defeat "Chickful A" at. a Level 4 Legend Stage!
-2034	Defeat "Nimoy Bore" at. a Level 4 Legend Stage!
-2035	Defeat "Elizabeth the LVIth" at. a Level 4 Legend Stage!
+1000	Defeat Hippoe at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1001	Defeat Pigge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1002	Defeat Jackie Peng at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1003	Defeat Gory at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1004	Defeat Baa Baa at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1005	Defeat Sir Seal at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1006	Defeat Croco at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1007	Defeat Le'boin at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1008	Defeat B.B.Bunny at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1009	Defeat Kang Roo at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1010	Defeat Squire Rel at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1011	Defeat Mooth at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1012	Defeat One Horn at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1013	Defeat Teacher Bear at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1014	Defeat Dark Emperor Nyandam at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
+1100	Defeat Hippoe at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1101	Defeat Pigge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1102	Defeat Jackie Peng at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1103	Defeat Gory at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1104	Defeat Baa Baa at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1105	Defeat Sir Seal at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1106	Defeat Croco at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1107	Defeat Le'boin at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1108	Defeat B.B.Bunny at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1109	Defeat Kang Roo at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1110	Defeat Squire Rel at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1111	Defeat Mooth at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1112	Defeat One Horn at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1113	Defeat Teacher Bear at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1114	Defeat Teacher Bun Bun at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
+1200	Defeat Hippoe at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1201	Defeat Pigge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1202	Defeat Jackie Peng at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1203	Defeat Gory at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1204	Defeat Croco at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1205	Defeat Sir Seal at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1206	Defeat Hyppoh at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1207	Defeat One Horn at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1208	Defeat Mooth at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1209	Defeat Kang Roo at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1210	Defeat Teacher Bear at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1211	Defeat Helmut Krabbe at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1212	Defeat Le'boin at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1213	Defeat Metal Hippoe at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1214	Defeat Imperator Sael at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1215	Defeat Doge Dark at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1216	Defeat Maawth at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1217	Defeat Shy Boy at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1218	Defeat I.M. Phace at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1219	Defeat Gabriel at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1220	Defeat Gory Black at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1221	Defeat Ursamajor at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1222	Defeat Heavenly Hippoe at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1223	Defeat Shadow Boxer K at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1224	Defeat The Face at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1225	Defeat Kroxo at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1226	Defeat LeMurr at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1227	Defeat Elizabeth the LVIth at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1228	Defeat Nimoy Bore at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1229	Defeat Cli-One at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
+1300	Defeat Scissoroo at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1301	Defeat Kang Roo at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1302	Defeat Teacher Bear at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1303	Defeat Helmut Krabbe at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1304	Defeat Ursamajor at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1305	Defeat Cyberhorn at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1306	Defeat Mistress Celeboodle at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1307	Defeat Shy Boy at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1308	Defeat Gory Black at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1309	Defeat Ginger Snache at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1310	Defeat Shadow Boxer K at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1311	Defeat Trolly Blogger at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1312	Defeat The Face at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1313	Defeat Dark Otter at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1314	Defeat Elizabeth the LVIth at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1315	Defeat I.M. Phace at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1316	Defeat Nimoy Bore at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1317	Defeat Corrupted Valkyrie at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1318	Defeat "St. Pigge the 2nd" at. a Level 1 Legend Stage!
+1319	Defeat "Doge Dark" at. a Level 1 Legend Stage!
+1320	Defeat "Master A." at. a Level 1 Legend Stage!
+1321	Defeat "Dagshund" at. a Level 1 Legend Stage!
+1322	Defeat "Celeboodle" at. a Level 1 Legend Stage!
+1323	Defeat "THE SLOTH" at. a Level 1 Legend Stage!
+1324	Defeat "Otta-smack-u" at. a Level 1 Legend Stage!
+1325	Defeat "J.K Bun Bun" at. a Level 1 Legend Stage!
+1326	Defeat "Bore" at. a Level 1 Legend Stage!
+1327	Defeat "Owlbrow" at. a Level 1 Legend Stage!
+1328	Defeat "Camelle" at. a Level 1 Legend Stage!
+1329	Defeat "Kory" at. a Level 1 Legend Stage!
+1330	Defeat "Director Kurosawah" at. a Level 1 Legend Stage!
+1331	Defeat "Metal One Horn" at. a Level 1 Legend Stage!
+1332	Defeat "H. Nah" at. a Level 1 Legend Stage!
+1333	Defeat "Ururun Wolf" at. a Level 1 Legend Stage!
+1334	Defeat Red Cyclone at Crimson Catastrophe. (Once at any Crimson Catastrophe stage)
+1335	Defeat Black Cyclone at Heaven of Darkness. (Once at any Heaven of Darkness stage)
+1400	Defeat Mistress Celeboodle at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1401	Defeat Scissoroo at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1402	Defeat Kang Roo at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1403	Defeat Calamary at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1404	Defeat Cyberhorn at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1405	Defeat Teacher Bear at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1406	Defeat Ursamajor at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1407	Defeat Alpacky at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1408	Defeat Elizabeth the LVIth at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1409	Defeat Shadow Boxer K at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1410	Defeat I.M. Phace at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1411	Defeat The Face at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1412	Defeat Shy Boy at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1413	Defeat Elder Sloth at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1414	Defeat Dark Otter at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1415	Defeat Nimoy Bore at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1416	Defeat Raging Bahamut Cat at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1417	Defeat "Dober P.D" at. a Level 1 Legend Stage!
+1418	Defeat "R.Ost" at. a Level 1 Legend Stage!
+1419	Defeat "Sunfish Jones" at. a Level 1 Legend Stage!
+1420	Defeat "Super Metal Hippoe" at. a Level 1 Legend Stage!
+1421	Defeat "Wall Doge" at. a Level 1 Legend Stage!
+1422	Defeat "Pigeon de Sable" at. a Level 1 Legend Stage!
+1423	Defeat "Angelic Sleipnir" at. a Level 1 Legend Stage!
+1424	Defeat "Li'l Nyandam" at. a Level 1 Legend Stage!
+1425	Defeat "Chickful A" at. a Level 1 Legend Stage!
+1426	Defeat "Capy" at. a Level 1 Legend Stage!
+1427	Defeat "Brollow" at. a Level 1 Legend Stage!
+1428	Defeat "Berserkory" at. a Level 1 Legend Stage!
+1429	Defeat "Mr. Mole" at. a Level 1 Legend Stage!
+1430	Defeat "Two Can" at. a Level 1 Legend Stage!
+1431	Defeat "Codename "Red Riding"" at. a Level 1 Legend Stage!
+1432	Defeat "Tackey" at. a Level 1 Legend Stage!
+1433	Defeat "Boraphim" at. a Level 1 Legend Stage!
+1434	Defeat White Cyclone at Peerless. (Once at any Peerless stage)
+1435	Defeat Divine Cyclone at Wrath of Heaven. (Once at any Wrath of Heaven stage)
+1500	Defeat Shibalien Elite at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1501	Defeat One Horn at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1502	Defeat Pigge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1503	Defeat Star Peng at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1504	Defeat General GreGory at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1505	Defeat Elizabeth the LVIth at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1506	Defeat Le'Solar at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1507	Defeat Angelic Gory at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1508	Defeat Gabriel at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1509	Defeat Project A at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1510	Defeat Shadow Boxer K at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1511	Defeat Heavenly Hippoe at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1512	Defeat Corporal Weyland at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1513	Defeat Gory at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1514	Defeat Spacefish Jones at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1515	Defeat Metal Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1516	Defeat The Cat God at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1517	Defeat "THE SLOTH" at. a Level 2 Legend Stage!
+1518	Defeat "Shy Boy" at. a Level 2 Legend Stage!
+1519	Defeat "J.K Bun Bun" at. a Level 2 Legend Stage!
+1520	Defeat "Dark Emperor Nyandam" at. a Level 2 Legend Stage!
+1521	Defeat "Teacher Bun Bun" at. a Level 2 Legend Stage!
+1522	Defeat "Bore" at. a Level 2 Legend Stage!
+1523	Defeat "Kory" at. a Level 2 Legend Stage!
+1524	Defeat "Director Kurosawah" at. a Level 2 Legend Stage!
+1525	Defeat "R.Ost" at. a Level 2 Legend Stage!
+1526	Defeat "Ururun Wolf" at. a Level 2 Legend Stage!
+1527	Defeat "Angelic Sleipnir" at. a Level 2 Legend Stage!
+1528	Defeat "Li'l Nyandam" at. a Level 2 Legend Stage!
+1529	Defeat "Berserkory" at. a Level 2 Legend Stage!
+1530	Defeat "Rain D." at. a Level 2 Legend Stage!
+1531	Defeat "Camelle" at. a Level 2 Legend Stage!
+1532	Defeat "H. Nah" at. a Level 2 Legend Stage!
+1533	Defeat "Dober P.D" at. a Level 2 Legend Stage!
+1534	Defeat Metal Cyclone at Sweet Irony. (Once at any Sweet Irony stage)
+1535	Defeat Cosmic Cyclone at Dimension of Despair. (Once at any Dimension of Despair stage)
+1600	Defeat UltraBaaBaa at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1601	Defeat Shibalien Elite at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1602	Defeat Star Peng at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1603	Defeat Corporal Weyland at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1604	Defeat General GreGory at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1605	Defeat Kid Tappa at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1606	Defeat Ginger Snache at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1607	Defeat Le'Solar at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1608	Defeat Gabriel at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1609	Defeat Angelic Gory at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1610	Defeat Ribbo at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1611	Defeat Project A at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1612	Defeat Shadow Boxer K at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1613	Defeat Galactic Overseer Nyandam at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1614	Defeat Spacefish Jones at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1615	Defeat Bore at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1616	Defeat Cli-One at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1617	Defeat Gory at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1618	Defeat Metal One Horn at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1619	Defeat Cat God at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1620	Defeat "Mr. Angel" at. a Level 1 Legend Stage!
+1621	Defeat "Henry" at. a Level 1 Legend Stage!
+1622	Defeat "Li'l Bun Bun" at. a Level 1 Legend Stage!
+1623	Defeat "Professor A." at. a Level 1 Legend Stage!
+1624	Defeat "Razorback" at. a Level 1 Legend Stage!
+1625	Defeat "Zoge" at. a Level 1 Legend Stage!
+1626	Defeat "Zomboe" at. a Level 1 Legend Stage!
+1627	Defeat "Zigge" at. a Level 1 Legend Stage!
+1628	Defeat "Zackie Peng" at. a Level 1 Legend Stage!
+1629	Defeat "Lord Gravey" at. a Level 1 Legend Stage!
+1630	Defeat "Big Sal" at. a Level 1 Legend Stage!
+1631	Defeat "Coffin Zoge" at. a Level 1 Legend Stage!
+1632	Defeat "Zamelle" at. a Level 1 Legend Stage!
+1633	Defeat "Miss Haka" at. a Level 1 Legend Stage!
+1634	Defeat The Perfect Cyclone at Red Sky at Morning. (Once at any Red Sky at Morning stage)
+1635	Defeat Zyclone at The Rolling Dead. (Once at any The Rolling Dead stage)
+1700	Defeat Mesocosmocyclone at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1701	Defeat Kid Tappa at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1702	Defeat Shibalien Elite at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1703	Defeat Star Peng at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1704	Defeat General GreGory at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1705	Defeat Ribbo at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1706	Defeat Corporal Weyland at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1707	Defeat Le'Solar at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1708	Defeat Gardeneel Bros. at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1709	Defeat UltraBaaBaa at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1710	Defeat Cyberhorn at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1711	Defeat Shadow Boxer K at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1712	Defeat Angelic Gory at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1713	Defeat Axoloty at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1714	Defeat Project A at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1715	Defeat Spacefish Jones at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1716	Defeat Bore at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1717	Defeat Alpacky at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1718	Defeat Metal Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1719	Defeat Final Boss Giga-God at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1720	Defeat "Sir Metal Seal" at. a Level 1 Legend Stage!
+1721	Defeat "Metal Doge" at. a Level 1 Legend Stage!
+1722	Defeat "Le'noir" at. a Level 1 Legend Stage!
+1723	Defeat "Zroco" at. a Level 1 Legend Stage!
+1724	Defeat "Zory" at. a Level 1 Legend Stage!
+1725	Defeat "Zir Zeal" at. a Level 1 Legend Stage!
+1726	Defeat "Zang Roo" at. a Level 1 Legend Stage!
+1727	Defeat "Inumusha" at. a Level 1 Legend Stage!
+1728	Defeat "Dolphina" at. a Level 1 Legend Stage!
+1729	Defeat "Cala Maria" at. a Level 1 Legend Stage!
+1730	Defeat "Croakley" at. a Level 1 Legend Stage!
+1731	Defeat "Youcan" at. a Level 1 Legend Stage!
+1732	Defeat "Winged Pigge" at. a Level 1 Legend Stage!
+1733	Defeat "Hackey" at. a Level 1 Legend Stage!
+1734	Defeat "Mecha-Bun" at. a Level 1 Legend Stage!
+1735	Defeat Super Cosmic Cyclone at The 2nd Dimension. (Once at any The 2nd Dimension stage)
+1800	Defeat "Ururun Wolf" at. a Level 3 Legend Stage!
+1801	Defeat "Li'l Nyandam" at. a Level 3 Legend Stage!
+1802	Defeat "Berserkory" at. a Level 3 Legend Stage!
+1803	Defeat "Codename "Red Riding"" at. a Level 3 Legend Stage!
+1804	Defeat "Tackey" at. a Level 3 Legend Stage!
+1805	Defeat "Boraphim" at. a Level 3 Legend Stage!
+1806	Defeat "Henry" at. a Level 3 Legend Stage!
+1807	Defeat "Li'l Bun Bun" at. a Level 3 Legend Stage!
+1808	Defeat "Professor A." at. a Level 3 Legend Stage!
+1809	Defeat "Razorback" at. a Level 3 Legend Stage!
+1810	Defeat "Zoge" at. a Level 3 Legend Stage!
+1811	Defeat "Zang Roo" at. a Level 3 Legend Stage!
+1812	Defeat "Zroco" at. a Level 3 Legend Stage!
+1813	Defeat "Zackie Peng" at. a Level 3 Legend Stage!
+1814	Defeat "Zory" at. a Level 3 Legend Stage!
+1815	Defeat "Zir Zeal" at. a Level 3 Legend Stage!
+1816	Defeat "Lord Gravey" at. a Level 3 Legend Stage!
+1817	Defeat "Big Sal" at. a Level 3 Legend Stage!
+1818	Defeat "Coffin Zoge" at. a Level 3 Legend Stage!
+1819	Defeat "Zamelle" at. a Level 3 Legend Stage!
+1820	Defeat "Miss Haka" at. a Level 3 Legend Stage!
+1821	Defeat "Inumusha" at. a Level 3 Legend Stage!
+1822	Defeat "Dolphina" at. a Level 3 Legend Stage!
+1823	Defeat "Cala Maria" at. a Level 3 Legend Stage!
+1824	Defeat "Croakley" at. a Level 3 Legend Stage!
+1825	Defeat "Youcan" at. a Level 3 Legend Stage!
+1826	Defeat "Winged Pigge" at. a Level 3 Legend Stage!
+1827	Defeat "Shibalien Elite" at. a Level 3 Legend Stage!
+1828	Defeat "Corporal Weyland" at. a Level 3 Legend Stage!
+1829	Defeat "Spacefish Jones" at. a Level 3 Legend Stage!
+1830	Defeat "Project A" at. a Level 3 Legend Stage!
+1831	Defeat "General GreGory" at. a Level 3 Legend Stage!
+1832	Defeat "Star Peng" at. a Level 3 Legend Stage!
+1833	Defeat "Hackey" at. a Level 3 Legend Stage!
+1834	Defeat "UltraBaaBaa" at. a Level 3 Legend Stage!
+1835	Defeat "Mecha-Bun" at. a Level 3 Legend Stage!
+1900	Defeat "J.K Bun Bun" at. a Level 4 Legend Stage!
+1901	Defeat "Bore" at. a Level 4 Legend Stage!
+1902	Defeat "Teacher Bun Bun" at. a Level 4 Legend Stage!
+1903	Defeat "Kory" at. a Level 4 Legend Stage!
+1904	Defeat "Director Kurosawah" at. a Level 4 Legend Stage!
+1905	Defeat "Bun Bun Black" at. a Level 4 Legend Stage!
+1906	Defeat "R.Ost" at. a Level 4 Legend Stage!
+1907	Defeat "Ururun Wolf" at. a Level 4 Legend Stage!
+1908	Defeat "Wall Doge" at. a Level 4 Legend Stage!
+1909	Defeat "Angelic Sleipnir" at. a Level 4 Legend Stage!
+1910	Defeat "Metal Doge" at. a Level 4 Legend Stage!
+1911	Defeat "Li'l Nyandam" at at. a Level 4 Legend Stage!
+1912	Defeat "Berserkory". a Level 4 Legend Stage!
+1913	Defeat "Mr. Mole" at. a Level 4 Legend Stage!
+1914	Defeat "Codename "Red Riding"" at. a Level 4 Legend Stage!
+1915	Defeat "Two Can" at. a Level 4 Legend Stage!
+1916	Defeat "Tackey" at. a Level 4 Legend Stage!
+1917	Defeat "Boraphim" at. a Level 4 Legend Stage!
+1918	Defeat "Henry" at. a Level 4 Legend Stage!
+1919	Defeat "Li'l Bun Bun" at. a Level 4 Legend Stage!
+1920	Defeat "Professor A." at. a Level 4 Legend Stage!
+1921	Defeat "Razorback" at. a Level 4 Legend Stage!
+1922	Defeat "Zoge" at. a Level 4 Legend Stage!
+1923	Defeat "Zang Roo" at. a Level 4 Legend Stage!
+1924	Defeat "Zory" at. a Level 4 Legend Stage!
+1925	Defeat "Coffin Zoge" at. a Level 4 Legend Stage!
+1926	Defeat "Inumusha" at. a Level 4 Legend Stage!
+1927	Defeat "Dolphina" at. a Level 4 Legend Stage!
+1928	Defeat "Cala Maria" at. a Level 4 Legend Stage!
+1929	Defeat "Croakley" at. a Level 4 Legend Stage!
+1930	Defeat "Winged Pigge" at. a Level 4 Legend Stage!
+1931	Defeat "Shibalien Elite" at. a Level 4 Legend Stage!
+1932	Defeat "Corporal Weyland" at. a Level 4 Legend Stage!
+1933	Defeat "Spacefish Jones" at. a Level 4 Legend Stage!
+1934	Defeat "General GreGory" at. a Level 4 Legend Stage!
+1935	Defeat "Star Peng" at. a Level 4 Legend Stage!
+2000	Defeat "The Face" at. a Level 4 Legend Stage!
+2001	Defeat "Shy Boy" at. a Level 4 Legend Stage!
+2002	Defeat "Otta-smack-u" at. a Level 4 Legend Stage!
+2003	Defeat "Camelle" at. a Level 4 Legend Stage!
+2004	Defeat "Duche" at. a Level 4 Legend Stage!
+2005	Defeat "Owlbrow" at. a Level 4 Legend Stage!
+2006	Defeat "THE SLOTH" at. a Level 4 Legend Stage!
+2007	Defeat "Rain D." at. a Level 4 Legend Stage!
+2008	Defeat "Celeboodle" at. a Level 4 Legend Stage!
+2009	Defeat "Dark Emperor Nyandam" at. a Level 4 Legend Stage!
+2010	Defeat "Master A." at. a Level 4 Legend Stage!
+2011	Defeat "Scissoroo" at. a Level 4 Legend Stage!
+2012	Defeat "H. Nah" at. a Level 4 Legend Stage!
+2013	Defeat "Dober P.D" at. a Level 4 Legend Stage!
+2014	Defeat "Metal Hippoe" at. a Level 4 Legend Stage!
+2015	Defeat "St. Pigge the 2nd" at. a Level 4 Legend Stage!
+2016	Defeat "Sunfish Jones" at. a Level 4 Legend Stage!
+2017	Defeat "Pigeon de Sable" at. a Level 4 Legend Stage!
+2018	Defeat "Znache" at. a Level 4 Legend Stage!
+2019	Defeat "Zomboe" at. a Level 4 Legend Stage!
+2020	Defeat "Zigge" at. a Level 4 Legend Stage!
+2021	Defeat "Zackie Peng" at. a Level 4 Legend Stage!
+2022	Defeat "Mistress Celeboodle" at. a Level 4 Legend Stage!
+2023	Defeat "Zir Zeal" at. a Level 4 Legend Stage!
+2024	Defeat "Zroco" at. a Level 4 Legend Stage!
+2025	Defeat "Lord Gravey" at. a Level 4 Legend Stage!
+2026	Defeat "Dagshund" at. a Level 4 Legend Stage!
+2027	Defeat "Gory Black" at. a Level 4 Legend Stage!
+2028	Defeat "Le'Solar" at. a Level 4 Legend Stage!
+2029	Defeat "Project A" at. a Level 4 Legend Stage!
+2030	Defeat "Shadow Boxer K" at. a Level 4 Legend Stage!
+2031	Defeat "Super Metal Hippoe" at. a Level 4 Legend Stage!
+2032	Defeat "Dark Otter" at. a Level 4 Legend Stage!
+2033	Defeat "Chickful A" at. a Level 4 Legend Stage!
+2034	Defeat "Nimoy Bore" at. a Level 4 Legend Stage!
+2035	Defeat "Elizabeth the LVIth" at. a Level 4 Legend Stage!
 9205	Upgrade Akuma Giraffe to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9206	Upgrade Ryu Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
@@ -635,8 +635,8 @@
 9263	Clear "Hotblooded Ball-Rolling" 10 times!
 9264	Clear "Hotblooded Challenge Course" 5 times!
 9265	Clear stages from "Hotblooded Challenge Course"
-9266	Defeat Jackie Peng at Hotblooded Three-Leg Race. (Once at any Hotblooded Three-Leg Race stage)
-9267	Defeat Doge Dark at Hotblooded Three-Leg Race. (Once at any Hotblooded Three-Leg Race stage)
+9266	Defeat Jackie Peng at Hotblooded Three-Leg Race. (Once at any Hotblooded Three-Leg Race stage)
+9267	Defeat Doge Dark at Hotblooded Three-Leg Race. (Once at any Hotblooded Three-Leg Race stage)
 9268	Clear all 6 Hotblooded Clash Limited  Missions!
 9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
 9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!

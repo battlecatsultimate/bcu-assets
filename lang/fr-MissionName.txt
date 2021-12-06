@@ -222,354 +222,354 @@
 17006	Termine toutes les missions mensuelles !
 17007	Termine toutes les missions mensuelles !
 17008	Termine toutes les missions mensuelles !
-1000	Élimine Hippo dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1001	Élimine Porca dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1002	Élimine Jackie Peng dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1003	Élimine Gory dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1004	Élimine Bêê Bêê dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1005	Élimine Sire Phoque dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1006	Élimine Croco dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1007	Élimine Élèfe dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1008	Élimine Lapro dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1009	Élimine Kang Rou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1010	Élimine Écurieux dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1011	Élimine Fa Lèn dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1012	Élimine Monocorne dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1013	Élimine Professeur Ours dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1014	Élimine Sombre empereur Nyandam dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1100	Élimine Hippo dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1101	Élimine Porca dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1102	Élimine Jackie Peng dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1103	Élimine Gory dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1104	Élimine Bêê Bêê dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1105	Élimine Sire Phoque dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1106	Élimine Croco dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1107	Élimine Élèfe dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1108	Élimine Lapro dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1109	Élimine Kang Rou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1110	Élimine Écurieux dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1111	Élimine Fa Lèn dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1112	Élimine Monocorne dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1113	Élimine Professeur Ours dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1114	Élimine Professeur Bun Bun dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1200	Élimine Hippo dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1201	Élimine Porca dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1202	Élimine Jackie Peng dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1203	Élimine Gory dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1204	Élimine Croco dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1205	Élimine Sire Phoque dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1206	Élimine Hyppalien dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1207	Élimine Monocorne dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1208	Élimine Fa Lèn dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1209	Élimine Kang Rou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1210	Élimine Professeur Ours dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1211	Élimine Bernard-l’alien dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1212	Élimine Élèfe dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1213	Élimine Hippo métal dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1214	Élimine Imperatus Foc dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1215	Élimine Sombre toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1216	Élimine Falien dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1217	Élimine Timide dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1218	Élimine Visalien dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1219	Élimine Gabriel dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1220	Élimine Gory noir dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1221	Élimine Grande ourse dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1222	Élimine Hippo céleste dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1223	Élimine Sombrourou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1224	Élimine La Tête dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1225	Élimine Crocalien dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1226	Élimine Lémurios dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1227	Élimine Elizabête dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1228	Élimine Sangrillé Nimoy dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1229	Élimine Cli-On dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1300	Élimine Cisaillourou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1301	Élimine Kang Rou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1302	Élimine Professeur Ours dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1303	Élimine Bernard-l’alien dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1304	Élimine Grande ourse dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1305	Élimine Cybercornu dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1306	Élimine Dame caniche dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1307	Élimine Timide dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1308	Élimine Gory noir dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1309	Élimine Vipèrouge dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1310	Élimine Sombrourou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1311	Élimine Troll des blogs dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1312	Élimine La Tête dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1313	Élimine Sombrotarie dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1314	Élimine Elizabête dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1315	Élimine Visalien dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1316	Élimine Sangrillé Nimoy dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1317	Élimine Valkyrie corrompue dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1318	Élimine Sainte Porca II. au niveau légendaire de niveau 1 !
-1319	Élimine Sombre toutou. au niveau légendaire de niveau 1 !
-1320	Élimine Maître Taman. au niveau légendaire de niveau 1 !
-1321	Élimine Telquel. au niveau légendaire de niveau 1 !
-1322	Élimine Caniche starlette. au niveau légendaire de niveau 1 !
-1323	Élimine Laparesse. au niveau légendaire de niveau 1 !
-1324	Élimine Otaroc. au niveau légendaire de niveau 1 !
-1325	Élimine Rouge Bun Bun. au niveau légendaire de niveau 1 !
-1326	Élimine Sangrillé. au niveau légendaire de niveau 1 !
-1327	Élimine Hibougre. au niveau légendaire de niveau 1 !
-1328	Élimine Camela. au niveau légendaire de niveau 1 !
-1329	Élimine Koko. au niveau légendaire de niveau 1 !
-1330	Élimine Réal Kurosawah. au niveau légendaire de niveau 1 !
-1331	Élimine Monocorne métal. au niveau légendaire de niveau 1 !
-1332	Élimine Hi Yen. au niveau légendaire de niveau 1 !
-1333	Élimine Loup ururun. au niveau légendaire de niveau 1 !
-1334	Élimine Cyclone rouge dans Catastrophe écarlate. ※ Une fois dans un lieu de Catastrophe écarlate
-1335	Élimine Cyclone noir dans Paradis des ténèbres. ※ Une fois dans un lieu de Paradis des ténèbres
-1400	Élimine Dame caniche dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1401	Élimine Cisaillourou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1402	Élimine Kang Rou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1403	Élimine Calamary dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1404	Élimine Cybercornu dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1405	Élimine Professeur Ours dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1406	Élimine Grande ourse dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1407	Élimine Alpadrom dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1408	Élimine Elizabête dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1409	Élimine Sombrourou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1410	Élimine Visalien dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1411	Élimine La Tête dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1412	Élimine Timide dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1413	Élimine Ancêtre paresseux dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1414	Élimine Sombrotarie dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1415	Élimine Sangrillé Nimoy dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1416	Élimine Chat Bahamut enragé dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1417	Élimine Dobert. au niveau légendaire de niveau 1 !
-1418	Élimine Autrux. au niveau légendaire de niveau 1 !
-1419	Élimine Gégé poisson-lune. au niveau légendaire de niveau 1 !
-1420	Élimine Super hippo métal. au niveau légendaire de niveau 1 !
-1421	Élimine Toutou mur. au niveau légendaire de niveau 1 !
-1422	Élimine Pigeon de sable. au niveau légendaire de niveau 1 !
-1423	Élimine Sleipnir angélique. au niveau légendaire de niveau 1 !
-1424	Élimine P’tit Nyandam. au niveau légendaire de niveau 1 !
-1425	Élimine Poussinange. au niveau légendaire de niveau 1 !
-1426	Élimine Caby. au niveau légendaire de niveau 1 !
-1427	Élimine Piaf. au niveau légendaire de niveau 1 !
-1428	Élimine Berserkoko. au niveau légendaire de niveau 1 !
-1429	Élimine Mr. Taupe. au niveau légendaire de niveau 1 !
-1430	Élimine Toukan. au niveau légendaire de niveau 1 !
-1431	Élimine Chaperon à roquettes. au niveau légendaire de niveau 1 !
-1432	Élimine Hippoka noir. au niveau légendaire de niveau 1 !
-1433	Élimine Sangriphin. au niveau légendaire de niveau 1 !
-1434	Élimine Cyclone blanc dans Sans égal. ※ Une fois dans un lieu de Sans égal
-1435	Élimine Cyclone divin dans Colère des cieux. ※ Une fois dans un lieu de Colère des dieux
-1500	Élimine Extratoutou d’élite dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1501	Élimine Monocorne dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1502	Élimine Porca dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1503	Élimine Peng étoilé dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1504	Élimine Général GréGory dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1505	Élimine Elizabête dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1506	Élimine Étoiléfante dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1507	Élimine Gory angélique dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1508	Élimine Gabriel dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1509	Élimine Projet Taman dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1510	Élimine Sombrourou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1511	Élimine Hippo céleste dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1512	Élimine Caporal Topox dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1513	Élimine Gory dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1514	Élimine Spatio-poisson dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1515	Élimine Toutou métal dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1516	Élimine Le Dieu des Chats dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1517	Élimine Laparesse. au niveau légendaire de niveau 2 !
-1518	Élimine Timide. au niveau légendaire de niveau 2 !
-1519	Élimine Rouge Bun Bun. au niveau légendaire de niveau 2 !
-1520	Élimine Sombre empereur Nyandam. au niveau légendaire de niveau 2 !
-1521	Élimine Professeur Bun Bun. au niveau légendaire de niveau 2 !
-1522	Élimine Sangrillé. au niveau légendaire de niveau 2 !
-1523	Élimine Koko. au niveau légendaire de niveau 2 !
-1524	Élimine Réal Kurosawah. au niveau légendaire de niveau 2 !
-1525	Élimine Autrux. au niveau légendaire de niveau 2 !
-1526	Élimine Loup ururun. au niveau légendaire de niveau 2 !
-1527	Élimine Sleipnir angélique. au niveau légendaire de niveau 2 !
-1528	Élimine P’tit Nyandam. au niveau légendaire de niveau 2 !
-1529	Élimine Berserkoko. au niveau légendaire de niveau 2 !
-1530	Élimine Rennato. au niveau légendaire de niveau 2 !
-1531	Élimine Camela. au niveau légendaire de niveau 2 !
-1532	Élimine Hi Yen. au niveau légendaire de niveau 2 !
-1533	Élimine Dobert. au niveau légendaire de niveau 2 !
-1534	Élimine Cyclone métal dans Douce ironie. ※ Une fois dans un lieu de Douce ironie
-1535	Élimine Cyclone cosmique dans Dimension désespoir. ※ Une fois dans un lieu de Dimension désespoir
-1600	Élimine UltraBêêBêê dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1601	Élimine Extratoutou d’élite dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1602	Élimine Peng étoilé dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1603	Élimine Caporal Topox dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1604	Élimine Général GréGory dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1605	Élimine Globivraison dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1606	Élimine Vipèrouge dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1607	Élimine Étoiléfante dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1608	Élimine Gabriel dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1609	Élimine Gory angélique dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1610	Élimine Crapalien dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1611	Élimine Projet Taman dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1612	Élimine Sombrourou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1613	Élimine Maître galactique Nyandam dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1614	Élimine Spatio-poisson dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1615	Élimine Sangrillé dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1616	Élimine Cli-On dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1617	Élimine Gory dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1618	Élimine Monocorne métal dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1619	Élimine Dieu des Chats dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1620	Élimine Mr. Ange. au niveau légendaire de niveau 1 !
-1621	Élimine Henry. au niveau légendaire de niveau 1 !
-1622	Élimine P’tit Bun Bun. au niveau légendaire de niveau 1 !
-1623	Élimine Professeur Taman. au niveau légendaire de niveau 1 !
-1624	Élimine Zanglier. au niveau légendaire de niveau 1 !
-1625	Élimine Zombitou. au niveau légendaire de niveau 1 !
-1626	Élimine Zombippo. au niveau légendaire de niveau 1 !
-1627	Élimine Zombiporca. au niveau légendaire de niveau 1 !
-1628	Élimine Zackie Peng. au niveau légendaire de niveau 1 !
-1629	Élimine Toutombeau. au niveau légendaire de niveau 1 !
-1630	Élimine Salamoindre. au niveau légendaire de niveau 1 !
-1631	Élimine Chiencueil. au niveau légendaire de niveau 1 !
-1632	Élimine Zamela. au niveau légendaire de niveau 1 !
-1633	Élimine RIP toutou. au niveau légendaire de niveau 1 !
-1634	Élimine Parfait cyclone dans Rouge levant. ※ Une fois dans un lieu de Rouge levant
-1635	Élimine Zyclone dans La mort qui roule. ※ Une fois dans un lieu de La mort qui roule
-1700	Élimine Mesocosmocyclone dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1701	Élimine Globivraison dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1702	Élimine Extratoutou d’élite dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1703	Élimine Peng étoilé dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1704	Élimine Général GréGory dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1705	Élimine Crapalien dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1706	Élimine Caporal Topox dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1707	Élimine Étoiléfante dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1708	Élimine Franguilles dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1709	Élimine UltraBêêBêê dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1710	Élimine Cybercornu dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1711	Élimine Sombrourou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1712	Élimine Gory angélique dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1713	Élimine Axoloty dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1714	Élimine Projet Taman dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1715	Élimine Spatio-poisson dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1716	Élimine Sangrillé dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1717	Élimine Alpadrom dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1718	Élimine Toutou métal dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1719	Élimine Boss final Méga-Dieu dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1720	Élimine Sire Phoque métal. au niveau légendaire de niveau 1 !
-1721	Élimine Toutou métal. au niveau légendaire de niveau 1 !
-1722	Élimine Éléfombre. au niveau légendaire de niveau 1 !
-1723	Élimine Zombicroc. au niveau légendaire de niveau 1 !
-1724	Élimine Zory. au niveau légendaire de niveau 1 !
-1725	Élimine Zire phoque. au niveau légendaire de niveau 1 !
-1726	Élimine Zang Rou. au niveau légendaire de niveau 1 !
-1727	Élimine Inumusha. au niveau légendaire de niveau 1 !
-1728	Élimine Dolphina. au niveau légendaire de niveau 1 !
-1729	Élimine Cala Maria. au niveau légendaire de niveau 1 !
-1730	Élimine Croapaud. au niveau légendaire de niveau 1 !
-1731	Élimine Cantou. au niveau légendaire de niveau 1 !
-1732	Élimine Porca ailée. au niveau légendaire de niveau 1 !
-1733	Élimine Hippoka rouge. au niveau légendaire de niveau 1 !
-1734	Élimine Méca-Bun. au niveau légendaire de niveau 1 !
-1735	Élimine Cyclone super cosmique dans 2e dimension. ※ Une fois dans un lieu de 2e dimension
-1800	Élimine Loup ururun. au niveau légendaire de niveau 3 !
-1801	Élimine P’tit Nyandam. au niveau légendaire de niveau 3 !
-1802	Élimine Berserkoko. au niveau légendaire de niveau 3 !
-1803	Élimine Chaperon à roquettes. au niveau légendaire de niveau 3 !
-1804	Élimine Hippoka noir. au niveau légendaire de niveau 3 !
-1805	Élimine Sangriphin. au niveau légendaire de niveau 3 !
-1806	Élimine Henry. au niveau légendaire de niveau 3 !
-1807	Élimine P’tit Bun Bun. au niveau légendaire de niveau 3 !
-1808	Élimine Professeur Taman. au niveau légendaire de niveau 3 !
-1809	Élimine Zanglier. au niveau légendaire de niveau 3 !
-1810	Élimine Zombitou. au niveau légendaire de niveau 3 !
-1811	Élimine Zang Rou. au niveau légendaire de niveau 3 !
-1812	Élimine Zombicroc. au niveau légendaire de niveau 3 !
-1813	Élimine Zackie Peng. au niveau légendaire de niveau 3 !
-1814	Élimine Zory. au niveau légendaire de niveau 3 !
-1815	Élimine Zire phoque. au niveau légendaire de niveau 3 !
-1816	Élimine Toutombeau. au niveau légendaire de niveau 3 !
-1817	Élimine Salamoindre. au niveau légendaire de niveau 3 !
-1818	Élimine Chiencueil. au niveau légendaire de niveau 3 !
-1819	Élimine Zamela. au niveau légendaire de niveau 3 !
-1820	Élimine RIP toutou. au niveau légendaire de niveau 3 !
-1821	Élimine Inumusha. au niveau légendaire de niveau 3 !
-1822	Élimine Dolphina. au niveau légendaire de niveau 3 !
-1823	Élimine Cala Maria. au niveau légendaire de niveau 3 !
-1824	Élimine Croapaud. au niveau légendaire de niveau 3 !
-1825	Élimine Cantou. au niveau légendaire de niveau 3 !
-1826	Élimine Porca ailée. au niveau légendaire de niveau 3 !
-1827	Élimine Extratoutou d’élite. au niveau légendaire de niveau 3 !
-1828	Élimine Caporal Topox. au niveau légendaire de niveau 3 !
-1829	Élimine Spatio-poisson. au niveau légendaire de niveau 3 !
-1830	Élimine Projet Taman. au niveau légendaire de niveau 3 !
-1831	Élimine Général GréGory. au niveau légendaire de niveau 3 !
-1832	Élimine Peng étoilé. au niveau légendaire de niveau 3 !
-1833	Élimine Hippoka rouge. au niveau légendaire de niveau 3 !
-1834	Élimine UltraBêêBêê. au niveau légendaire de niveau 3 !
-1835	Élimine Méca-Bun. au niveau légendaire de niveau 3 !
-1900	Élimine Rouge Bun Bun. au niveau légendaire de niveau 4 !
-1901	Élimine Sangrillé. au niveau légendaire de niveau 4 !
-1902	Élimine Professeur Bun Bun. au niveau légendaire de niveau 4 !
-1903	Élimine Koko. au niveau légendaire de niveau 4 !
-1904	Élimine Réal Kurosawah. au niveau légendaire de niveau 4 !
-1905	Élimine Noir Bun Bun. au niveau légendaire de niveau 4 !
-1906	Élimine Autrux. au niveau légendaire de niveau 4 !
-1907	Élimine Loup ururun. au niveau légendaire de niveau 4 !
-1908	Élimine Toutou mur. au niveau légendaire de niveau 4 !
-1909	Élimine Sleipnir angélique. au niveau légendaire de niveau 4 !
-1910	Élimine Toutou métal. au niveau légendaire de niveau 4 !
-1911	Élimine P’tit Nyandam. au niveau légendaire de niveau 4 !
-1912	Élimine Berserkoko. au niveau légendaire de niveau 4 !
-1913	Élimine Mr. Taupe. au niveau légendaire de niveau 4 !
-1914	Élimine Chaperon à roquettes. au niveau légendaire de niveau 4 !
-1915	Élimine Toukan. au niveau légendaire de niveau 4 !
-1916	Élimine Hippoka noir. au niveau légendaire de niveau 4 !
-1917	Élimine Sangriphin. au niveau légendaire de niveau 4 !
-1918	Élimine Henry. au niveau légendaire de niveau 4 !
-1919	Élimine P’tit Bun Bun. au niveau légendaire de niveau 4 !
-1920	Élimine Professeur Taman. au niveau légendaire de niveau 4 !
-1921	Élimine Zanglier. au niveau légendaire de niveau 4 !
-1922	Élimine Zombitou. au niveau légendaire de niveau 4 !
-1923	Élimine Zang Rou. au niveau légendaire de niveau 4 !
-1924	Élimine Zory. au niveau légendaire de niveau 4 !
-1925	Élimine Chiencueil. au niveau légendaire de niveau 4 !
-1926	Élimine Inumusha. au niveau légendaire de niveau 4 !
-1927	Élimine Dolphina. au niveau légendaire de niveau 4 !
-1928	Élimine Cala Maria. au niveau légendaire de niveau 4 !
-1929	Élimine Croapaud. au niveau légendaire de niveau 4 !
-1930	Élimine Porca ailée. au niveau légendaire de niveau 4 !
-1931	Élimine Extratoutou d’élite. au niveau légendaire de niveau 4 !
-1932	Élimine Caporal Topox. au niveau légendaire de niveau 4 !
-1933	Élimine Spatio-poisson. au niveau légendaire de niveau 4 !
-1934	Élimine Général GréGory. au niveau légendaire de niveau 4 !
-1935	Élimine Peng étoilé. au niveau légendaire de niveau 4 !
-2000	Élimine La Tête. au niveau légendaire de niveau 4 !
-2001	Élimine Timide. au niveau légendaire de niveau 4 !
-2002	Élimine Otaroc. au niveau légendaire de niveau 4 !
-2003	Élimine Camela. au niveau légendaire de niveau 4 !
-2004	Élimine Kanar. au niveau légendaire de niveau 4 !
-2005	Élimine Hibougre. au niveau légendaire de niveau 4 !
-2006	Élimine Laparesse. au niveau légendaire de niveau 4 !
-2007	Élimine Rennato. au niveau légendaire de niveau 4 !
-2008	Élimine Caniche starlette. au niveau légendaire de niveau 4 !
-2009	Élimine Sombre empereur Nyandam. au niveau légendaire de niveau 4 !
-2010	Élimine Maître Taman. au niveau légendaire de niveau 4 !
-2011	Élimine Cisaillourou. au niveau légendaire de niveau 4 !
-2012	Élimine Hi Yen. au niveau légendaire de niveau 4 !
-2013	Élimine Dobert. au niveau légendaire de niveau 4 !
-2014	Élimine Hippo métal. au niveau légendaire de niveau 4 !
-2015	Élimine Sainte Porca II. au niveau légendaire de niveau 4 !
-2016	Élimine Gégé poisson-lune. au niveau légendaire de niveau 4 !
-2017	Élimine Pigeon de sable. au niveau légendaire de niveau 4 !
-2018	Élimine Zerpan. au niveau légendaire de niveau 4 !
-2019	Élimine Zombippo. au niveau légendaire de niveau 4 !
-2020	Élimine Zombiporca. au niveau légendaire de niveau 4 !
-2021	Élimine Zackie Peng. au niveau légendaire de niveau 4 !
-2022	Élimine Dame caniche. au niveau légendaire de niveau 4 !
-2023	Élimine Zire phoque. au niveau légendaire de niveau 4 !
-2024	Élimine Zombicroc. au niveau légendaire de niveau 4 !
-2025	Élimine Toutombeau. au niveau légendaire de niveau 4 !
-2026	Élimine Telquel. au niveau légendaire de niveau 4 !
-2027	Élimine Gory noir. au niveau légendaire de niveau 4 !
-2028	Élimine Étoiléfante. au niveau légendaire de niveau 4 !
-2029	Élimine Projet Taman. au niveau légendaire de niveau 4 !
-2030	Élimine Sombrourou. au niveau légendaire de niveau 4 !
-2031	Élimine Super hippo métal. au niveau légendaire de niveau 4 !
-2032	Élimine Sombrotarie. au niveau légendaire de niveau 4 !
-2033	Élimine Poussinange. au niveau légendaire de niveau 4 !
-2034	Élimine Sangrillé Nimoy. au niveau légendaire de niveau 4 !
-2035	Élimine Elizabête. au niveau légendaire de niveau 4 !
+1000	Élimine Hippo dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1001	Élimine Porca dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1002	Élimine Jackie Peng dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1003	Élimine Gory dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1004	Élimine Bêê Bêê dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1005	Élimine Sire Phoque dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1006	Élimine Croco dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1007	Élimine Élèfe dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1008	Élimine Lapro dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1009	Élimine Kang Rou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1010	Élimine Écurieux dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1011	Élimine Fa Lèn dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1012	Élimine Monocorne dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1013	Élimine Professeur Ours dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1014	Élimine Sombre empereur Nyandam dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1100	Élimine Hippo dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1101	Élimine Porca dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1102	Élimine Jackie Peng dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1103	Élimine Gory dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1104	Élimine Bêê Bêê dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1105	Élimine Sire Phoque dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1106	Élimine Croco dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1107	Élimine Élèfe dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1108	Élimine Lapro dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1109	Élimine Kang Rou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1110	Élimine Écurieux dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1111	Élimine Fa Lèn dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1112	Élimine Monocorne dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1113	Élimine Professeur Ours dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1114	Élimine Professeur Bun Bun dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1200	Élimine Hippo dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1201	Élimine Porca dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1202	Élimine Jackie Peng dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1203	Élimine Gory dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1204	Élimine Croco dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1205	Élimine Sire Phoque dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1206	Élimine Hyppalien dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1207	Élimine Monocorne dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1208	Élimine Fa Lèn dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1209	Élimine Kang Rou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1210	Élimine Professeur Ours dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1211	Élimine Bernard-l’alien dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1212	Élimine Élèfe dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1213	Élimine Hippo métal dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1214	Élimine Imperatus Foc dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1215	Élimine Sombre toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1216	Élimine Falien dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1217	Élimine Timide dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1218	Élimine Visalien dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1219	Élimine Gabriel dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1220	Élimine Gory noir dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1221	Élimine Grande ourse dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1222	Élimine Hippo céleste dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1223	Élimine Sombrourou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1224	Élimine La Tête dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1225	Élimine Crocalien dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1226	Élimine Lémurios dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1227	Élimine Elizabête dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1228	Élimine Sangrillé Nimoy dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1229	Élimine Cli-On dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1300	Élimine Cisaillourou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1301	Élimine Kang Rou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1302	Élimine Professeur Ours dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1303	Élimine Bernard-l’alien dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1304	Élimine Grande ourse dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1305	Élimine Cybercornu dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1306	Élimine Dame caniche dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1307	Élimine Timide dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1308	Élimine Gory noir dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1309	Élimine Vipèrouge dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1310	Élimine Sombrourou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1311	Élimine Troll des blogs dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1312	Élimine La Tête dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1313	Élimine Sombrotarie dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1314	Élimine Elizabête dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1315	Élimine Visalien dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1316	Élimine Sangrillé Nimoy dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1317	Élimine Valkyrie corrompue dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1318	Élimine Sainte Porca II. au niveau légendaire de niveau 1 !
+1319	Élimine Sombre toutou. au niveau légendaire de niveau 1 !
+1320	Élimine Maître Taman. au niveau légendaire de niveau 1 !
+1321	Élimine Telquel. au niveau légendaire de niveau 1 !
+1322	Élimine Caniche starlette. au niveau légendaire de niveau 1 !
+1323	Élimine Laparesse. au niveau légendaire de niveau 1 !
+1324	Élimine Otaroc. au niveau légendaire de niveau 1 !
+1325	Élimine Rouge Bun Bun. au niveau légendaire de niveau 1 !
+1326	Élimine Sangrillé. au niveau légendaire de niveau 1 !
+1327	Élimine Hibougre. au niveau légendaire de niveau 1 !
+1328	Élimine Camela. au niveau légendaire de niveau 1 !
+1329	Élimine Koko. au niveau légendaire de niveau 1 !
+1330	Élimine Réal Kurosawah. au niveau légendaire de niveau 1 !
+1331	Élimine Monocorne métal. au niveau légendaire de niveau 1 !
+1332	Élimine Hi Yen. au niveau légendaire de niveau 1 !
+1333	Élimine Loup ururun. au niveau légendaire de niveau 1 !
+1334	Élimine Cyclone rouge dans Catastrophe écarlate. ※ Une fois dans un lieu de Catastrophe écarlate
+1335	Élimine Cyclone noir dans Paradis des ténèbres. ※ Une fois dans un lieu de Paradis des ténèbres
+1400	Élimine Dame caniche dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1401	Élimine Cisaillourou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1402	Élimine Kang Rou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1403	Élimine Calamary dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1404	Élimine Cybercornu dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1405	Élimine Professeur Ours dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1406	Élimine Grande ourse dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1407	Élimine Alpadrom dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1408	Élimine Elizabête dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1409	Élimine Sombrourou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1410	Élimine Visalien dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1411	Élimine La Tête dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1412	Élimine Timide dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1413	Élimine Ancêtre paresseux dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1414	Élimine Sombrotarie dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1415	Élimine Sangrillé Nimoy dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1416	Élimine Chat Bahamut enragé dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1417	Élimine Dobert. au niveau légendaire de niveau 1 !
+1418	Élimine Autrux. au niveau légendaire de niveau 1 !
+1419	Élimine Gégé poisson-lune. au niveau légendaire de niveau 1 !
+1420	Élimine Super hippo métal. au niveau légendaire de niveau 1 !
+1421	Élimine Toutou mur. au niveau légendaire de niveau 1 !
+1422	Élimine Pigeon de sable. au niveau légendaire de niveau 1 !
+1423	Élimine Sleipnir angélique. au niveau légendaire de niveau 1 !
+1424	Élimine P’tit Nyandam. au niveau légendaire de niveau 1 !
+1425	Élimine Poussinange. au niveau légendaire de niveau 1 !
+1426	Élimine Caby. au niveau légendaire de niveau 1 !
+1427	Élimine Piaf. au niveau légendaire de niveau 1 !
+1428	Élimine Berserkoko. au niveau légendaire de niveau 1 !
+1429	Élimine Mr. Taupe. au niveau légendaire de niveau 1 !
+1430	Élimine Toukan. au niveau légendaire de niveau 1 !
+1431	Élimine Chaperon à roquettes. au niveau légendaire de niveau 1 !
+1432	Élimine Hippoka noir. au niveau légendaire de niveau 1 !
+1433	Élimine Sangriphin. au niveau légendaire de niveau 1 !
+1434	Élimine Cyclone blanc dans Sans égal. ※ Une fois dans un lieu de Sans égal
+1435	Élimine Cyclone divin dans Colère des cieux. ※ Une fois dans un lieu de Colère des dieux
+1500	Élimine Extratoutou d’élite dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1501	Élimine Monocorne dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1502	Élimine Porca dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1503	Élimine Peng étoilé dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1504	Élimine Général GréGory dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1505	Élimine Elizabête dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1506	Élimine Étoiléfante dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1507	Élimine Gory angélique dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1508	Élimine Gabriel dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1509	Élimine Projet Taman dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1510	Élimine Sombrourou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1511	Élimine Hippo céleste dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1512	Élimine Caporal Topox dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1513	Élimine Gory dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1514	Élimine Spatio-poisson dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1515	Élimine Toutou métal dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1516	Élimine Le Dieu des Chats dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1517	Élimine Laparesse. au niveau légendaire de niveau 2 !
+1518	Élimine Timide. au niveau légendaire de niveau 2 !
+1519	Élimine Rouge Bun Bun. au niveau légendaire de niveau 2 !
+1520	Élimine Sombre empereur Nyandam. au niveau légendaire de niveau 2 !
+1521	Élimine Professeur Bun Bun. au niveau légendaire de niveau 2 !
+1522	Élimine Sangrillé. au niveau légendaire de niveau 2 !
+1523	Élimine Koko. au niveau légendaire de niveau 2 !
+1524	Élimine Réal Kurosawah. au niveau légendaire de niveau 2 !
+1525	Élimine Autrux. au niveau légendaire de niveau 2 !
+1526	Élimine Loup ururun. au niveau légendaire de niveau 2 !
+1527	Élimine Sleipnir angélique. au niveau légendaire de niveau 2 !
+1528	Élimine P’tit Nyandam. au niveau légendaire de niveau 2 !
+1529	Élimine Berserkoko. au niveau légendaire de niveau 2 !
+1530	Élimine Rennato. au niveau légendaire de niveau 2 !
+1531	Élimine Camela. au niveau légendaire de niveau 2 !
+1532	Élimine Hi Yen. au niveau légendaire de niveau 2 !
+1533	Élimine Dobert. au niveau légendaire de niveau 2 !
+1534	Élimine Cyclone métal dans Douce ironie. ※ Une fois dans un lieu de Douce ironie
+1535	Élimine Cyclone cosmique dans Dimension désespoir. ※ Une fois dans un lieu de Dimension désespoir
+1600	Élimine UltraBêêBêê dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1601	Élimine Extratoutou d’élite dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1602	Élimine Peng étoilé dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1603	Élimine Caporal Topox dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1604	Élimine Général GréGory dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1605	Élimine Globivraison dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1606	Élimine Vipèrouge dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1607	Élimine Étoiléfante dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1608	Élimine Gabriel dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1609	Élimine Gory angélique dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1610	Élimine Crapalien dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1611	Élimine Projet Taman dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1612	Élimine Sombrourou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1613	Élimine Maître galactique Nyandam dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1614	Élimine Spatio-poisson dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1615	Élimine Sangrillé dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1616	Élimine Cli-On dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1617	Élimine Gory dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1618	Élimine Monocorne métal dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1619	Élimine Dieu des Chats dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1620	Élimine Mr. Ange. au niveau légendaire de niveau 1 !
+1621	Élimine Henry. au niveau légendaire de niveau 1 !
+1622	Élimine P’tit Bun Bun. au niveau légendaire de niveau 1 !
+1623	Élimine Professeur Taman. au niveau légendaire de niveau 1 !
+1624	Élimine Zanglier. au niveau légendaire de niveau 1 !
+1625	Élimine Zombitou. au niveau légendaire de niveau 1 !
+1626	Élimine Zombippo. au niveau légendaire de niveau 1 !
+1627	Élimine Zombiporca. au niveau légendaire de niveau 1 !
+1628	Élimine Zackie Peng. au niveau légendaire de niveau 1 !
+1629	Élimine Toutombeau. au niveau légendaire de niveau 1 !
+1630	Élimine Salamoindre. au niveau légendaire de niveau 1 !
+1631	Élimine Chiencueil. au niveau légendaire de niveau 1 !
+1632	Élimine Zamela. au niveau légendaire de niveau 1 !
+1633	Élimine RIP toutou. au niveau légendaire de niveau 1 !
+1634	Élimine Parfait cyclone dans Rouge levant. ※ Une fois dans un lieu de Rouge levant
+1635	Élimine Zyclone dans La mort qui roule. ※ Une fois dans un lieu de La mort qui roule
+1700	Élimine Mesocosmocyclone dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1701	Élimine Globivraison dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1702	Élimine Extratoutou d’élite dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1703	Élimine Peng étoilé dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1704	Élimine Général GréGory dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1705	Élimine Crapalien dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1706	Élimine Caporal Topox dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1707	Élimine Étoiléfante dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1708	Élimine Franguilles dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1709	Élimine UltraBêêBêê dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1710	Élimine Cybercornu dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1711	Élimine Sombrourou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1712	Élimine Gory angélique dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1713	Élimine Axoloty dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1714	Élimine Projet Taman dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1715	Élimine Spatio-poisson dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1716	Élimine Sangrillé dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1717	Élimine Alpadrom dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1718	Élimine Toutou métal dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1719	Élimine Boss final Méga-Dieu dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1720	Élimine Sire Phoque métal. au niveau légendaire de niveau 1 !
+1721	Élimine Toutou métal. au niveau légendaire de niveau 1 !
+1722	Élimine Éléfombre. au niveau légendaire de niveau 1 !
+1723	Élimine Zombicroc. au niveau légendaire de niveau 1 !
+1724	Élimine Zory. au niveau légendaire de niveau 1 !
+1725	Élimine Zire phoque. au niveau légendaire de niveau 1 !
+1726	Élimine Zang Rou. au niveau légendaire de niveau 1 !
+1727	Élimine Inumusha. au niveau légendaire de niveau 1 !
+1728	Élimine Dolphina. au niveau légendaire de niveau 1 !
+1729	Élimine Cala Maria. au niveau légendaire de niveau 1 !
+1730	Élimine Croapaud. au niveau légendaire de niveau 1 !
+1731	Élimine Cantou. au niveau légendaire de niveau 1 !
+1732	Élimine Porca ailée. au niveau légendaire de niveau 1 !
+1733	Élimine Hippoka rouge. au niveau légendaire de niveau 1 !
+1734	Élimine Méca-Bun. au niveau légendaire de niveau 1 !
+1735	Élimine Cyclone super cosmique dans 2e dimension. ※ Une fois dans un lieu de 2e dimension
+1800	Élimine Loup ururun. au niveau légendaire de niveau 3 !
+1801	Élimine P’tit Nyandam. au niveau légendaire de niveau 3 !
+1802	Élimine Berserkoko. au niveau légendaire de niveau 3 !
+1803	Élimine Chaperon à roquettes. au niveau légendaire de niveau 3 !
+1804	Élimine Hippoka noir. au niveau légendaire de niveau 3 !
+1805	Élimine Sangriphin. au niveau légendaire de niveau 3 !
+1806	Élimine Henry. au niveau légendaire de niveau 3 !
+1807	Élimine P’tit Bun Bun. au niveau légendaire de niveau 3 !
+1808	Élimine Professeur Taman. au niveau légendaire de niveau 3 !
+1809	Élimine Zanglier. au niveau légendaire de niveau 3 !
+1810	Élimine Zombitou. au niveau légendaire de niveau 3 !
+1811	Élimine Zang Rou. au niveau légendaire de niveau 3 !
+1812	Élimine Zombicroc. au niveau légendaire de niveau 3 !
+1813	Élimine Zackie Peng. au niveau légendaire de niveau 3 !
+1814	Élimine Zory. au niveau légendaire de niveau 3 !
+1815	Élimine Zire phoque. au niveau légendaire de niveau 3 !
+1816	Élimine Toutombeau. au niveau légendaire de niveau 3 !
+1817	Élimine Salamoindre. au niveau légendaire de niveau 3 !
+1818	Élimine Chiencueil. au niveau légendaire de niveau 3 !
+1819	Élimine Zamela. au niveau légendaire de niveau 3 !
+1820	Élimine RIP toutou. au niveau légendaire de niveau 3 !
+1821	Élimine Inumusha. au niveau légendaire de niveau 3 !
+1822	Élimine Dolphina. au niveau légendaire de niveau 3 !
+1823	Élimine Cala Maria. au niveau légendaire de niveau 3 !
+1824	Élimine Croapaud. au niveau légendaire de niveau 3 !
+1825	Élimine Cantou. au niveau légendaire de niveau 3 !
+1826	Élimine Porca ailée. au niveau légendaire de niveau 3 !
+1827	Élimine Extratoutou d’élite. au niveau légendaire de niveau 3 !
+1828	Élimine Caporal Topox. au niveau légendaire de niveau 3 !
+1829	Élimine Spatio-poisson. au niveau légendaire de niveau 3 !
+1830	Élimine Projet Taman. au niveau légendaire de niveau 3 !
+1831	Élimine Général GréGory. au niveau légendaire de niveau 3 !
+1832	Élimine Peng étoilé. au niveau légendaire de niveau 3 !
+1833	Élimine Hippoka rouge. au niveau légendaire de niveau 3 !
+1834	Élimine UltraBêêBêê. au niveau légendaire de niveau 3 !
+1835	Élimine Méca-Bun. au niveau légendaire de niveau 3 !
+1900	Élimine Rouge Bun Bun. au niveau légendaire de niveau 4 !
+1901	Élimine Sangrillé. au niveau légendaire de niveau 4 !
+1902	Élimine Professeur Bun Bun. au niveau légendaire de niveau 4 !
+1903	Élimine Koko. au niveau légendaire de niveau 4 !
+1904	Élimine Réal Kurosawah. au niveau légendaire de niveau 4 !
+1905	Élimine Noir Bun Bun. au niveau légendaire de niveau 4 !
+1906	Élimine Autrux. au niveau légendaire de niveau 4 !
+1907	Élimine Loup ururun. au niveau légendaire de niveau 4 !
+1908	Élimine Toutou mur. au niveau légendaire de niveau 4 !
+1909	Élimine Sleipnir angélique. au niveau légendaire de niveau 4 !
+1910	Élimine Toutou métal. au niveau légendaire de niveau 4 !
+1911	Élimine P’tit Nyandam. au niveau légendaire de niveau 4 !
+1912	Élimine Berserkoko. au niveau légendaire de niveau 4 !
+1913	Élimine Mr. Taupe. au niveau légendaire de niveau 4 !
+1914	Élimine Chaperon à roquettes. au niveau légendaire de niveau 4 !
+1915	Élimine Toukan. au niveau légendaire de niveau 4 !
+1916	Élimine Hippoka noir. au niveau légendaire de niveau 4 !
+1917	Élimine Sangriphin. au niveau légendaire de niveau 4 !
+1918	Élimine Henry. au niveau légendaire de niveau 4 !
+1919	Élimine P’tit Bun Bun. au niveau légendaire de niveau 4 !
+1920	Élimine Professeur Taman. au niveau légendaire de niveau 4 !
+1921	Élimine Zanglier. au niveau légendaire de niveau 4 !
+1922	Élimine Zombitou. au niveau légendaire de niveau 4 !
+1923	Élimine Zang Rou. au niveau légendaire de niveau 4 !
+1924	Élimine Zory. au niveau légendaire de niveau 4 !
+1925	Élimine Chiencueil. au niveau légendaire de niveau 4 !
+1926	Élimine Inumusha. au niveau légendaire de niveau 4 !
+1927	Élimine Dolphina. au niveau légendaire de niveau 4 !
+1928	Élimine Cala Maria. au niveau légendaire de niveau 4 !
+1929	Élimine Croapaud. au niveau légendaire de niveau 4 !
+1930	Élimine Porca ailée. au niveau légendaire de niveau 4 !
+1931	Élimine Extratoutou d’élite. au niveau légendaire de niveau 4 !
+1932	Élimine Caporal Topox. au niveau légendaire de niveau 4 !
+1933	Élimine Spatio-poisson. au niveau légendaire de niveau 4 !
+1934	Élimine Général GréGory. au niveau légendaire de niveau 4 !
+1935	Élimine Peng étoilé. au niveau légendaire de niveau 4 !
+2000	Élimine La Tête. au niveau légendaire de niveau 4 !
+2001	Élimine Timide. au niveau légendaire de niveau 4 !
+2002	Élimine Otaroc. au niveau légendaire de niveau 4 !
+2003	Élimine Camela. au niveau légendaire de niveau 4 !
+2004	Élimine Kanar. au niveau légendaire de niveau 4 !
+2005	Élimine Hibougre. au niveau légendaire de niveau 4 !
+2006	Élimine Laparesse. au niveau légendaire de niveau 4 !
+2007	Élimine Rennato. au niveau légendaire de niveau 4 !
+2008	Élimine Caniche starlette. au niveau légendaire de niveau 4 !
+2009	Élimine Sombre empereur Nyandam. au niveau légendaire de niveau 4 !
+2010	Élimine Maître Taman. au niveau légendaire de niveau 4 !
+2011	Élimine Cisaillourou. au niveau légendaire de niveau 4 !
+2012	Élimine Hi Yen. au niveau légendaire de niveau 4 !
+2013	Élimine Dobert. au niveau légendaire de niveau 4 !
+2014	Élimine Hippo métal. au niveau légendaire de niveau 4 !
+2015	Élimine Sainte Porca II. au niveau légendaire de niveau 4 !
+2016	Élimine Gégé poisson-lune. au niveau légendaire de niveau 4 !
+2017	Élimine Pigeon de sable. au niveau légendaire de niveau 4 !
+2018	Élimine Zerpan. au niveau légendaire de niveau 4 !
+2019	Élimine Zombippo. au niveau légendaire de niveau 4 !
+2020	Élimine Zombiporca. au niveau légendaire de niveau 4 !
+2021	Élimine Zackie Peng. au niveau légendaire de niveau 4 !
+2022	Élimine Dame caniche. au niveau légendaire de niveau 4 !
+2023	Élimine Zire phoque. au niveau légendaire de niveau 4 !
+2024	Élimine Zombicroc. au niveau légendaire de niveau 4 !
+2025	Élimine Toutombeau. au niveau légendaire de niveau 4 !
+2026	Élimine Telquel. au niveau légendaire de niveau 4 !
+2027	Élimine Gory noir. au niveau légendaire de niveau 4 !
+2028	Élimine Étoiléfante. au niveau légendaire de niveau 4 !
+2029	Élimine Projet Taman. au niveau légendaire de niveau 4 !
+2030	Élimine Sombrourou. au niveau légendaire de niveau 4 !
+2031	Élimine Super hippo métal. au niveau légendaire de niveau 4 !
+2032	Élimine Sombrotarie. au niveau légendaire de niveau 4 !
+2033	Élimine Poussinange. au niveau légendaire de niveau 4 !
+2034	Élimine Sangrillé Nimoy. au niveau légendaire de niveau 4 !
+2035	Élimine Elizabête. au niveau légendaire de niveau 4 !
 9205	Upgrade Akuma Giraffe to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9206	Upgrade Ryu Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
@@ -635,8 +635,8 @@
 9263	Termine Jeu de balle passionné 10 fois !
 9264	Termine Parcours défi passionné 5 fois !
 9265	Termine Parcours défi passionné 1 fois en utilisant
-9266	Élimine Jackie Peng dans Course à trois jambes passionnée. (une fois un niveau des NL Course à trois jambes passionnée)
-9267	Élimine Sombre toutou dans Course à trois jambes passionnée. (une fois un niveau des NL Course à trois jambes passionnée)
+9266	Élimine Jackie Peng dans Course à trois jambes passionnée. (une fois un niveau des NL Course à trois jambes passionnée)
+9267	Élimine Sombre toutou dans Course à trois jambes passionnée. (une fois un niveau des NL Course à trois jambes passionnée)
 9268	Termine les 6 missions Clash passionné (durée limitée) !
 9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
 9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!
