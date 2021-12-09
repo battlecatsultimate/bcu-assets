@@ -312,7 +312,7 @@
 311	Li'l Fish Cat	Li'l Whale Cat	Li'l Island Cat
 312	Li'l Lizard Cat	Li'l Dragon Cat	Li'l King Dragon Cat
 313	Li'l Titan Cat	Li'l Mythical Titan	Li'l Jamiera Cat
-314	Years-End Neneko	New Year Neneko	
+314	Years-End Neneko	New Year Neneko	New Year Neneko TF
 315	PIKOTARO	NEKOTARO	
 316	Wrathful Poseidon	Valiant Poseidon	Almighty Poseidon
 317	CPAC	PPAP	
@@ -592,7 +592,7 @@
 591	Kaito & Cat	Kaito & Cat CC	
 592	Neko Rin	Neko Rin CC	
 593	Neko Len	Neko Len CC	
-594	Mighty Aethur Ltd.	Atlantis Logistix	
+594	Mighty Aethur Ltd.	Atlantis Logistix	Atlantis Logistix TF
 595	Blooming Kamukura	Everbloom Kamukura	
 596	Ranma Saotome (M)	Ranma Saotome (F)	
 597	Akane Tendo	Akane Tendo (Gi)	
@@ -635,3 +635,10 @@
 634	White Knight Cyclops	Black Knight Cyclops	
 635	Million Dollar Cat	Hundred-Million Dollar Cat	
 636	Brainwashed Tank Cat	Brainwashed Wall Cat	
+637	Xiaoqiong and Cat	Xiaoqiong and Cat CC
+638	Nana and Cat	Nana and Cat CC
+639	Emelia and Cat	Emelia and Cat CC
+640	Jie'er and Cat	Jie'er and Cat and CC
+641	Child Dancer Izu	Alluring Dance-Princess Izu
+642	Fallen Angel Lucifer	Grand Lucifer
+643	Superhuman Cat	Superhuman Cat Ⅱ
