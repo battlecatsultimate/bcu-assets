@@ -1,3 +1,52 @@
+-1	The Dynamites	//Dynamites
+-2	Wargods Vajiras	//Wargods
+-3	Galaxy Gals	//Galaxy Gals
+-4	Dragon Emperors	//Dragon Emperors
+-5	Ultra Souls	//Ultra Souls
+-6	Dark Heroes	//Dark Heroes
+-7	The Almighties	//Gods
+-8	Iron Wars	//Iron
+-9	Gals Monsters	//Gals Mons
+-10	Elemental Pixies	//Pixies
+-11	Luga Families	//Luga
+-100	Red Busters	//Red Bus
+-101	Air Busters	//Air Bus
+-102	Metal Busters	//Metal Bus
+-103		//Wave Bus
+-104	Platinum Gacha	//Plat
+-105	Uberfest	//Uberfest
+-106	Epicfest	//Epicfest
+-107	Legendary Gacha	//Legandary
+-108	Christmas Gacha	//Christmas 127
+-109	Easter Gacha	//Easter 172
+-110	Halloween Gacha	//Halloween 257
+-111	Summer Gals	//Summer Gals 260
+-112	Superfest	//Superfest 591
+-1000	Ultra Selection Gacha //Ultra Selection 191
+-1001	Miracla Selection Gacha	//Miracle Selection 192
+-1002	Farewell Gacha	//2017 262
+-1003	New Year Gacha	//2018 263
+-1007	超選抜祭	//6th anniv 357
+-1008	超選抜祭	//7th anniv 460
+-1009	極選抜祭	//7th anniv pt2 461
+-1010	Excellent Selection Gacha	//Excellent Selectoin 468
+-1011	Dynastyfest //Emperor Cat 562
+-1012	Royalfest	//Empress Cat 602
+-1013	New Year Gacha	//New Year
+-2000	Princess Punt Collab Gacha //Princess Punt 176
+-2001	Annihilation City COllab Gacha	//Annihilation City 180
+-2002	Merc Storia Collab Gacha	//Merc 185
+-2003	Gudetama Collab Gacha //Gudetama 186
+-2004	Fate/stay night Collab Gacha //Fate/Stay 214
+-2005	PowerPro Baseball Collab Gacha //Power Baseball thing 265
+-2006	Evangelion Collab Gacha	//Evangelion 282
+-2007	Puella Magi Madoka Magica Collab Gacha	//PMMM 318
+-2008	Mola Mola Collab Gacha	//Mola 375
+-2009	Bikkuriman Collab Gacha	//Bikkuri 383
+-2010	Street Fighter Collab Gacha	//SF 415
+-2011	Hatsune Miku Collab Gacha	//Miku 563
+-2022	Ranma 1/2 Collab Gacha	//Ranma 588
+-2023	Kunio-kun Collab Gacha	//Kunio 620
 2	Item Capsules
 3	Catfruit Capsules
 4	Catamin Capsules
@@ -470,3 +519,16 @@
 641	Epicfest
 642	Puella Magi Madoka Magica Capsules
 650	Halloween Carnival
+675	-105
+676	-106
+677	-7	642
+678	-7	642
+679	-7	642
+680	-1013
+681	-112
+682	-106
+683	-1011
+684	-104	642
+685	-104	641
+686	-107	642
+687	-107	641
