@@ -519,6 +519,24 @@
 641	Epicfest
 642	Puella Magi Madoka Magica Capsules
 650	Halloween Carnival
+657	-5	633
+658	-5	633
+659	-5	633
+660	-6	634
+661	-6	634
+662	-6	634
+663	9th Anniversary Ultra Selection
+664	9th Anniversary Miracle Selection
+665	9th Anniversary Excellent Selection
+666	9th Anniversary BOTB
+667	9th Anniversary NBOTB
+668	-108	636
+669	-105	633, 634
+670	-105	633, 634
+671	-104	634
+672	-104	633
+673	-107	634
+674	-107	633
 675	-105
 676	-106
 677	-7	642
