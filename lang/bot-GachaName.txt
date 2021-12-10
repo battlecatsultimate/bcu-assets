@@ -5,7 +5,7 @@
 -5	Ultra Souls	//Ultra Souls
 -6	Dark Heroes	//Dark Heroes
 -7	The Almighties	//Gods
--8	Iron Wars	//Iron
+-8	Iron Region	//Iron
 -9	Gals Monsters	//Gals Mons
 -10	Elemental Pixies	//Pixies
 -11	Luga Families	//Luga
@@ -518,6 +518,13 @@
 640	Legendary Capsules
 641	Epicfest
 642	Puella Magi Madoka Magica Capsules
+643	-8	632
+644	-8	632
+645	-8	632
+646	-10	631
+647	-10	631
+648	-10	631
+649	-110
 650	Halloween Carnival
 651	-105	631, 632
 652	-106	631, 632
