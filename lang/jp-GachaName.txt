@@ -12,7 +12,7 @@
 -100	レッドバスターズ	//Red Bus
 -101	エアバスターズ	//Air Bus
 -102	メタルバスターズ	//Metal Bus
--103		//Wave Bus
+-103	波動バスターズ	//Wave Bus
 -104	プラチナガチャ	//Plat
 -105	超ネコ祭	//Uberfest
 -106	極ネコ祭	//Epicfest

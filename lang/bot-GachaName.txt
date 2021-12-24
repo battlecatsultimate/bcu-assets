@@ -12,7 +12,7 @@
 -100	Red Busters	//Red Bus
 -101	Air Busters	//Air Bus
 -102	Metal Busters	//Metal Bus
--103		//Wave Bus
+-103	Wave Busters	//Wave Bus
 -104	Platinum Gacha	//Plat
 -105	Uberfest	//Uberfest
 -106	Epicfest	//Epicfest
@@ -30,7 +30,7 @@
 -1008	超選抜祭	//7th anniv 460
 -1009	極選抜祭	//7th anniv pt2 461
 -1010	Excellent Selection Gacha	//Excellent Selectoin 468
--1011	Dynastyfest //Emperor Cat 562
+-1011	Dynastyfest	//Emperor Cat 562
 -1012	Royalfest	//Empress Cat 602
 -1013	New Year Gacha	//New Year
 -2000	Princess Punt Collab Gacha //Princess Punt 176
