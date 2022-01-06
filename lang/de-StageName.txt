@@ -1290,6 +1290,31 @@
 001-276-001	Aku für Großmeister: Methoden
 001-276-002	Aku für Großmeister: Forschung
 001-276-003	Aku für Großmeister: Fragestellung
+001-285		Die 5 häufigsten Feinde 2021
+001-285-000	#5 Schlittern
+001-285-001	#4 Wegfegen
+001-285-002	#3 Genau so
+001-285-003	#2 Guter Versuch
+001-285-004	#1 Dreierkrone
+001-285-005	Ungesehen
+001-286		Neujahrs-Bling
+001-286-000	Ersehnte Geschenke
+001-286-001	Nur heute: Gesellig
+001-286-002	Mama, wo ist mein Geld?
+001-286-003	Brüderliche Einkommensdifferenz
+001-286-004	Steigende Summen
+001-286-005	Geschenkzwang
+001-286-006	Opas Handschrift
+001-286-007	Dieses Jahr kein Geschenk
+001-287		Im Schutz der Dunkelheit
+001-287-000	Höhle der Anfänge
+001-287-001	Dunkler Wald
+001-287-002	Östlicher Friedhof
+001-287-003	Westlicher Weg
+001-287-004	Südliche Festung
+001-287-005	Nördlicher Krater
+001-287-006	Kaltes Schneefeld
+001-287-007	Letztes Schlachtfeld
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2594,6 +2619,14 @@
 004-046-000	Hortwildnis (Tödlich)
 004-046-001	Gipfelwildnis (Gnadenlos)
 004-046-002	Grenzwildnis (Gnadenlos)
+004-047		Der göttliche Erzengel schlägt zu
+004-047-000	Hortwildnis (Tödlich)
+004-047-001	Gipfelwildnis (Gnadenlos)
+004-047-002	Grenzwildnis (Gnadenlos)
+004-048		Der große Peng Z schlägt zu
+004-048-000	Hortwildnis (Tödlich)
+004-048-001	Gipfelwildnis (Gnadenlos)
+004-048-002	Grenzwildnis (Gnadenlos)
 
 006			Katzenkrallendojo
 006-000		Halle der Initianden
@@ -2737,6 +2770,17 @@
 007-006-027	Ebene 28
 007-006-028	Ebene 29
 007-006-029	Ebene 30
+007-007		Eigenschaftslose Zitadelle
+007-007-000	Ebene 1
+007-007-001	Ebene 2
+007-007-002	Ebene 3
+007-007-003	Ebene 4
+007-007-004	Ebene 5
+007-007-005	Ebene 6
+007-007-006	Ebene 7
+007-007-007	Ebene 8
+007-007-008	Ebene 9
+007-007-009	Oberste Ebene
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -3055,6 +3099,13 @@
 013-039-003	Blutfehde am Hafendamm
 013-039-004	Fischerstreik
 013-039-005	Gefangenes Seepferdchen
+013-040		Unentschiedenes Land
+013-040-000	Magmasäule
+013-040-001	Scharlachrotes Feuer
+013-040-002	Kochendes Blut
+013-040-003	Höllenkrater
+013-040-004	Feuerkönigreich-Dynamit
+013-040-005	Brennender Sonnenuntergang
 
 014			Drink Stages
 014-000		Gelbes Sprießen
@@ -3726,6 +3777,81 @@
 024-035-017	Kosmischer Moloch, St. 18
 024-035-018	Kosmischer Moloch, St. 19
 024-035-019	Kosmischer Moloch, St. MAX
+024-036		Ein kolossales Neujahr!
+024-036-000	Jahr des Tigers St. 1
+024-036-001	Jahr des Tigers St. 2
+024-036-002	Jahr des Tigers St. 3
+024-036-003	Jahr des Tigers St. 4
+024-036-004	Jahr des Tigers St. 5
+024-036-005	Jahr des Tigers St. 6
+024-036-006	Jahr des Tigers St. 7
+024-036-007	Jahr des Tigers St. 8
+024-036-008	Jahr des Tigers St. 9
+024-036-009	Jahr des Tigers St. 10
+024-037		Der göttliche Erzengel schlägt zu
+024-037-000	Segen St. 1
+024-037-001	Segen St. 2
+024-037-002	Segen St. 3
+024-037-003	Segen St. 4
+024-037-004	Segen St. 5
+024-037-005	Segen St. 6
+024-037-006	Segen St. 7
+024-037-007	Segen St. 8
+024-037-008	Segen St. 9
+024-037-009	Segen St. 10
+024-037-010	Segen St. 11
+024-037-011	Segen St. 12
+024-037-012	Segen St. 13
+024-037-013	Segen St. 14
+024-037-014	Segen St. 15
+024-037-015	Segen St. 16
+024-037-016	Segen St. 17
+024-037-017	Segen St. 18
+024-037-018	Segen St. 19
+024-037-019	Segen St. MAX
+024-038		Der große Peng Z schlägt zu
+024-038-000	Wanderung St. 1
+024-038-001	Wanderung St. 2
+024-038-002	Wanderung St. 3
+024-038-003	Wanderung St. 4
+024-038-004	Wanderung St. 5
+024-038-005	Wanderung St. 6
+024-038-006	Wanderung St. 7
+024-038-007	Wanderung St. 8
+024-038-008	Wanderung St. 9
+024-038-009	Wanderung St. 10
+024-038-010	Wanderung St. 11
+024-038-011	Wanderung St. 12
+024-038-012	Wanderung St. 13
+024-038-013	Wanderung St. 14
+024-038-014	Wanderung St. 15
+024-038-015	Wanderung St. 16
+024-038-016	Wanderung St. 17
+024-038-017	Wanderung St. 18
+024-038-018	Wanderung St. 19
+024-038-019	Wanderung St. MAX
+024-039		Februar-Turnier
+024-039-000	Glückseligkeit St. 1
+024-039-001	Glückseligkeit St. 2
+024-039-002	Glückseligkeit St. 3
+024-039-003	Glückseligkeit St. 4
+024-039-004	Glückseligkeit St. 5
+024-039-005	Glückseligkeit St. 6
+024-039-006	Glückseligkeit St. 7
+024-039-007	Glückseligkeit St. 8
+024-039-008	Glückseligkeit St. 9
+024-039-009	Glückseligkeit St. 10
+024-040		Februar-Turnier II
+024-040-000	Verwirrung St. 1
+024-040-001	Verwirrung St. 2
+024-040-002	Verwirrung St. 3
+024-040-003	Verwirrung St. 4
+024-040-004	Verwirrung St. 5
+024-040-005	Verwirrung St. 6
+024-040-006	Verwirrung St. 7
+024-040-007	Verwirrung St. 8
+024-040-008	Verwirrung St. 9
+024-040-009	Verwirrung St. MAX
 
 025			Enigma Stages
 025-000		Atium-Felder

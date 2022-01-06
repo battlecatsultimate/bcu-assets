@@ -1285,9 +1285,9 @@
 001-271-002	Aku Studies 301: Field Research
 001-271-003	Aku Studies 301: Inquiry
 001-272		Temptation's Symphony
+001-272-000	Aku's Melody (Merciless)
 001-273		Rashomon
 001-273-000	Aku Reincarnation (Merciless)
-001-272-000	Aku's Melody (Merciless)
 001-274		Growing Evil
 001-274-000	Aku's Murmur (Insane)
 001-274-001	Aku's Murmur (Deadly)
@@ -1303,6 +1303,31 @@
 001-276-001	Aku Studies 501: Methods
 001-276-002	Aku Studies 501: Field Research
 001-276-003	Aku Studies 501: Inquiry
+001-285		Top 5 Most Seen Enemies, 2021!
+001-285-000	#5 Sliding
+001-285-001	#4 Blushing
+001-285-002	#3 That's Right
+001-285-003	#2 Good Try
+001-285-004	#1 Triple Crown
+001-285-005	Unseen
+001-286		New Year's Bling
+001-286-000	Long-Awaited Gifts
+001-286-001	Today Only: Sociable
+001-286-002	Where's My Money, Mom?
+001-286-003	Brotherly Income Gap
+001-286-004	Increasing Sums
+001-286-005	Gifting Burden
+001-286-006	Grandpa's Lettering
+001-286-007	No Gift This Year
+001-287		Cover of Darkness
+001-287-000	Cave of Beginnings
+001-287-001	Dark Forest
+001-287-002	Eastern Cemetery
+001-287-003	Western Walk
+001-287-004	Southern Fort
+001-287-005	Northern Crater
+001-287-006	Cold Snowfield
+001-287-007	Final Battleground
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2622,6 +2647,14 @@
 004-046-000	Cradle Wilderness (Deadly)
 004-046-001	Summit Wilderness (Merciless)
 004-046-002	Frontier Wilderness (Merciless)
+004-047		Divine Archangel Strikes
+004-047-000	Cradle Wilderness (Deadly)
+004-047-001	Summit Wilderness (Merciless)
+004-047-002	Frontier Wilderness (Merciless)
+004-028		Big Peng Z Strikes
+004-048-000	Cradle Wilderness (Deadly)
+004-048-001	Summit Wilderness (Merciless)
+004-048-002	Frontier Wilderness (Merciless)
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
@@ -2765,6 +2798,17 @@
 007-006-027	Floor 28
 007-006-028	Floor 29
 007-006-029	Floor 30
+007-007		Traitless Citadel
+007-007-000	Floor 1
+007-007-001	Floor 2
+007-007-002	Floor 3
+007-007-003	Floor 4
+007-007-004	Floor 5
+007-007-005	Floor 6
+007-007-006	Floor 7
+007-007-007	Floor 8
+007-007-008	Floor 9
+007-007-009	Top Floor
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -3081,6 +3125,13 @@
 013-039-003	Breakwater Blood Feud
 013-039-004	Fishermen On Strike
 013-039-005	Seahorses Caught
+013-040		Dead Heat Land
+013-040-000	Magma Pillar
+013-040-001	Burning Crimson
+013-040-002	Boiling Blood
+013-040-003	Hell's Crater
+013-040-004	Fire Kingdom Dynamite
+013-040-005	Burning Sunset
 
 014			Drink Stages
 014-000		Growing Yellow
@@ -3752,6 +3803,81 @@
 024-035-017	Cosmic Juggernaut Lv.18
 024-035-018	Cosmic Juggernaut Lv.19
 024-035-019	Cosmic Juggernaut Lv.MAX
+024-036		A Colossal New Year!
+024-036-000	Year of the Tiger Lv.1
+024-036-001	Year of the Tiger Lv.2
+024-036-002	Year of the Tiger Lv.3
+024-036-003	Year of the Tiger Lv.4
+024-036-004	Year of the Tiger Lv.5
+024-036-005	Year of the Tiger Lv.6
+024-036-006	Year of the Tiger Lv.7
+024-036-007	Year of the Tiger Lv.8
+024-036-008	Year of the Tiger Lv.9
+024-036-009	Year of the Tiger Lv.10
+024-037		Divine Archangel Strikes
+024-037-000	Blessing Lv.1
+024-037-001	Blessing Lv.2
+024-037-002	Blessing Lv.3
+024-037-003	Blessing Lv.4
+024-037-004	Blessing Lv.5
+024-037-005	Blessing Lv.6
+024-037-006	Blessing Lv.7
+024-037-007	Blessing Lv.8
+024-037-008	Blessing Lv.9
+024-037-009	Blessing Lv.10
+024-037-010	Blessing Lv.11
+024-037-011	Blessing Lv.12
+024-037-012	Blessing Lv.13
+024-037-013	Blessing Lv.14
+024-037-014	Blessing Lv.15
+024-037-015	Blessing Lv.16
+024-037-016	Blessing Lv.17
+024-037-017	Blessing Lv.18
+024-037-018	Blessing Lv.19
+024-037-019	Blessing Lv.MAX
+024-038		Big Peng Z Strikes
+024-038-000	Wandering Lv.1
+024-038-001	Wandering Lv.2
+024-038-002	Wandering Lv.3
+024-038-003	Wandering Lv.4
+024-038-004	Wandering Lv.5
+024-038-005	Wandering Lv.6
+024-038-006	Wandering Lv.7
+024-038-007	Wandering Lv.8
+024-038-008	Wandering Lv.9
+024-038-009	Wandering Lv.10
+024-038-010	Wandering Lv.11
+024-038-011	Wandering Lv.12
+024-038-012	Wandering Lv.13
+024-038-013	Wandering Lv.14
+024-038-014	Wandering Lv.15
+024-038-015	Wandering Lv.16
+024-038-016	Wandering Lv.17
+024-038-017	Wandering Lv.18
+024-038-018	Wandering Lv.19
+024-038-019	Wandering Lv.MAX
+024-039		February Gauntlet
+024-039-000	Happiness Lv.1
+024-039-001	Happiness Lv.2
+024-039-002	Happiness Lv.3
+024-039-003	Happiness Lv.4
+024-039-004	Happiness Lv.5
+024-039-005	Happiness Lv.6
+024-039-006	Happiness Lv.7
+024-039-007	Happiness Lv.8
+024-039-008	Happiness Lv.9
+024-039-009	Happiness Lv.10
+024-040		February Gauntlet II
+024-040-000	Confusion Lv.1
+024-040-001	Confusion Lv.2
+024-040-002	Confusion Lv.3
+024-040-003	Confusion Lv.4
+024-040-004	Confusion Lv.5
+024-040-005	Confusion Lv.6
+024-040-006	Confusion Lv.7
+024-040-007	Confusion Lv.8
+024-040-008	Confusion Lv.9
+024-040-009	Confusion Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields

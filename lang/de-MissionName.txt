@@ -600,7 +600,7 @@
 38	Sammle alle ausgezeichneten Schätze. aus Kosmische Katzen Kapitel 3
 9231	Invasionsevent-Mission: Schließe „Fluss Styx“. 1-Mal mit 8 oder mehr normalen Katzen ab
 9232	Invasionsevent-Mission: Schließe „Daboo von den Toten“. 1-Mal mit 8 oder mehr Sonderkatzen ab
-9233	Invasionsevent-Mission: Schließe „König Wahwahs Rache“. 1-Mal mit allen 9 normalen Katzen ab
+9233	Invasionsevent-Missionen: Schließe „König Wahwahs. Rache“ 1-Mal mit 9 normalen Katzen ab
 9234	Invasionsevent-Mission: Schließe „Blauer Schlag“. 1-Mal nur mit zweiten Formen ab
 9235	Invasionsevent-Mission: Schließe „Tiefschlaf“ . 1-Mal nur mit unentwickelten ersten Formen
 9236	Schließe alle 5 Invasionsevent-Missionen ab!

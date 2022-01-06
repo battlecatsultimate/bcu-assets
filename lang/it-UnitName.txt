@@ -101,7 +101,7 @@
 100	Lady Gatto	Lady Gatto sportiva	Lady Gatto wrestler
 101			
 102			
-103			
+103	Gatto cabaret	Mega Gatto	Mega Gatto Super
 104	Gatto koi	Gatto koi alto	Bacini koi
 105	Kuu	Kuu γ	Kuu divina
 106	Kai	Kai μ	Kai divina
@@ -312,7 +312,7 @@
 311	Mini Pescegatto	Mini Gattorca	Mini Gattisola
 312	Mini Lucertogatto	Mini Gatto Dragone	Mini Gatto Re Dragone
 313	Mini Gatto Titano	Mini Titano mitico	Mini Gatto Jamiera
-314	Neneko di fine anno	Neneko di Capodanno	
+314	Neneko di fine anno	Neneko di Capodanno	Neneko festiva di Capodanno
 315	PIKOTARO	NEKOTARO	
 316	Poseidone Furioso	Poseidone Valoroso	Poseidone Onnipotente
 317	CPAC	PPAP	
@@ -592,7 +592,7 @@
 591	Kaito & Cat	Kaito & Cat CC	
 592	Neko Rin	Neko Rin CC	
 593	Neko Len	Neko Len CC	
-594	Aero-Possente s.r.l.	Atlantis Logistix	
+594	Aero-Possente s.r.l.	Atlantis Logistix	Ultra Atlantis Logistix
 595	Kamukura in fiore	Kamukura sempre in fiore	
 596	Ranma Saotome (M)	Ranma Saotome (F)	
 597	Akane Tendo	Akane Tendo (Gi)	
@@ -635,3 +635,10 @@
 634	Cavaliere bianco ciclope	Cavaliere nero ciclope	
 635			
 636	Gatto Panzer plagiato	Gatto muro plagiato	
+637			
+638			
+639			
+640			
+641	Iz ballerina	Iz ballerina seducente	
+642	Lucifero caduto	Lucifero il Grande	
+643	Superfelino	Superfelino II	

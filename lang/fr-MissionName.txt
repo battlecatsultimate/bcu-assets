@@ -600,7 +600,7 @@
 38	Obtiens tous les trésors suprêmes du ch. 3 du Cosmos
 9231	Missions d'Événement d'Invasion: Termine "Fleuve Styx" . 1 fois en utilisant au moins 8 Chats classiques
 9232	Missions d'Événement d'Invasion: Termine "Dabouh des morts" . 1 fois en utilisant au moins 8 Chats spéciaux
-9233	Missions d'Événement d'Invasion: Termine "Revanche du Roi Wahwah". 1 fois en utilisant les 9 Chats classiques
+9233	Missions d'Événement d'Invasion. Achève Revanche du Roi Wahwah 1 fois avec 9 Chats normaux
 9234	Missions d'Événement d'Invasion: Termine "Impact bleu" . 1 fois en utilisant uniquement les 2è formes
 9235	Missions d'Événement d'Invasion: Termine "Profonde rêverie". 1 fois en utilisant uniquement les 1res formes non évoluées
 9236	Termine toutes les 5 missions d'Événement d'Invasion !
@@ -634,7 +634,7 @@
 9262	Termine Jeu de balle passionné 5 fois !
 9263	Termine Jeu de balle passionné 10 fois !
 9264	Termine Parcours défi passionné 5 fois !
-9265	Termine Parcours défi passionné 1 fois en utilisant
+9265	Termine Parcours défi passionné 1 fois avec
 9266	Élimine Jackie Peng dans Course à trois jambes passionnée. (une fois un niveau des NL Course à trois jambes passionnée)
 9267	Élimine Sombre toutou dans Course à trois jambes passionnée. (une fois un niveau des NL Course à trois jambes passionnée)
 9268	Termine les 6 missions Clash passionné (durée limitée) !

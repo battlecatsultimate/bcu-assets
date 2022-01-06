@@ -101,7 +101,7 @@
 100	Maiden Cat	Sportsgirl Cat	Wrestling Cat
 101			
 102			
-103			
+103	Cabaret Cat	Mega Cat	Mega Cat EX
 104	Koi Cat	Gross Koi Cat	Kiss and Koi
 105	Kuu	Kuu, type γ	Divine Kuu
 106	Kai	Kai, type μ	Divine Kai
@@ -312,7 +312,7 @@
 311	Li'l Fish Cat	Li'l Whale Cat	Li'l Island Cat
 312	Li'l Lizard Cat	Li'l Dragon Cat	Li'l King Dragon Cat
 313	Li'l Titan Cat	Li'l Mythical Titan	Li'l Jamiera Cat
-314	Years-End Neneko	New Year Neneko	
+314	Years-End Neneko	New Year Neneko	Festive New Year Neneko
 315	PIKOTARO	NEKOTARO	
 316	Wrathful Poseidon	Valiant Poseidon	Almighty Poseidon
 317	CPAC	PPAP	
@@ -592,7 +592,7 @@
 591	Kaito & Cat	Kaito & Cat CC	
 592	Neko Rin	Neko Rin CC	
 593	Neko Len	Neko Len CC	
-594	Mighty Aethur Ltd.	Atlantis Logistix	
+594	Mighty Aethur Ltd.	Atlantis Logistix	Ultra Atlantis Logistix
 595	Blooming Kamukura	Everbloom Kamukura	
 596	Ranma Saotome (M)	Ranma Saotome (F)	
 597	Akane Tendo	Akane Tendo (Gi)	
@@ -635,3 +635,10 @@
 634	White Knight Cyclops	Black Knight Kyklops	
 635			
 636	Brainwashed Tank Cat	Brainwashed Wall Cat	
+637			
+638			
+639			
+640			
+641	Iz the Dancer	Iz the Alluring Dancer	
+642	Lucifer the Fallen	Grand Lucifer	
+643	Superfeline	Superfeline II	

@@ -211,7 +211,7 @@
 210	<br><br>
 211	<br><br>
 212	La Forma Reale ottiene l'abilità<br>di respinta e indebolimento<br>su nemici rossi e alieni!
-213	<br><br>
+213	La Forma Reale ottiene maggiore<br><br>
 214	<br><br>
 215	<br><br>
 216	<br><br>
@@ -312,7 +312,7 @@
 311	<br><br>
 312	<br><br>
 313	<br><br>
-314	<br><br>
+314	La Forma Reale aumenta<br>il numero di attacchi, e diminuisce<br>il tempo di ricarica dopo lo schieramento!
 315	<br><br>
 316	La Forma Reale ottiene maggiore<br>difesa, velocità e potenza d'attacco!<br>
 317	<br><br>
@@ -592,7 +592,7 @@
 591	<br><br>
 592	<br><br>
 593	<br><br>
-594	<br><br>
+594	La Forma Reale ottiene possibilità di<br>schivare attacchi zombi, e<br>l'abilità di sopravvivere a un colpo letale!
 595	<br><br>
 596	<br><br>
 597	<br><br>
@@ -635,3 +635,10 @@
 634	<br><br>
 635	<br><br>
 636	<br><br>
+637	<br><br>
+638	<br><br>
+639	<br><br>
+640	<br><br>
+641	<br><br>
+642	<br><br>
+643	<br><br>

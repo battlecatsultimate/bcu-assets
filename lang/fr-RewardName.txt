@@ -8,9 +8,6 @@
 11	Silver Ticket
 12	Gold Ticket
 13	Cat food
-20	Silver Ticket
-21	Gold Ticket
-22	Cat Food
 23	Ticket chance
 26	Ticket chance
 27	Ticket chance
@@ -145,6 +142,7 @@
 1110	Chat lézard maboul
 1111	Chat titan maboul
 1010	Minette
+1011	Chabaret
 1012	Chat koï
 1033	Frères Chats
 1013	Madame mariée
@@ -311,6 +309,7 @@
 10099	Roi dragon dément
 10100	Chat Jamilar dément
 10101	Chatcheuse
+10104	Méga Chat EX
 10105	Bécot et koï
 15106	Kuu divine
 15107	Kai divine
@@ -407,6 +406,7 @@
 10312	P’tit Chat île
 10313	P’tit Chat roi dragon
 10314	P’tit Chat Jamilar
+15315	Neneko nouvel an festif
 15317	Poséidon Tout-puissant
 15323	Les machines à tubes
 16324	Musashi éveillé
@@ -482,6 +482,7 @@
 15557	Ghost Alibaba
 15570	Gravolodon
 15585	Maeda Noël de luxe
+15595	Ultra Atlantis Logistix
 15611	Roi Nekokhamen
 30000	Attaque aug. D: Rouge
 30001	Attaque aug. C: Rouge

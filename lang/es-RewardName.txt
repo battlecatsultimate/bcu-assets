@@ -8,9 +8,6 @@
 11	Silver Ticket
 12	Gold Ticket
 13	Cat food
-20	Silver Ticket
-21	Gold Ticket
-22	Cat Food
 23	Tique de la suerte
 26	Tique de la suerte
 27	Tique de la suerte
@@ -145,6 +142,7 @@
 1110	Gato Lagarto Demente
 1111	Gato Titán Demente
 1010	Gata Colegiala
+1011	Gato Cantante
 1012	Gato Koi
 1033	Bola de Gatos
 1013	Novia Maruja
@@ -311,6 +309,7 @@
 10099	Gato Dragón Rey Maníaco
 10100	Miautante Maníaco
 10101	Gata Luchadora
+10104	Megagato Especial
 10105	Gato Koi Estandarte
 15106	Kuu Divina
 15107	Kai Divina
@@ -482,6 +481,7 @@
 15557	Ghost Alibaba
 15570	Petrolodón
 15585	Maeda Navideño DX
+15595	Ultratlantis Logistix
 15611	Rey Nekokhamen
 30000	Aumento de ataque D: Rojos
 30001	Aumento de ataque C: Rojos

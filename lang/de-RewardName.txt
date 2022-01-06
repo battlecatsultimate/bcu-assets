@@ -8,9 +8,6 @@
 11	Silver Ticket
 12	Gold Ticket
 13	Cat food
-20	Silver Ticket
-21	Gold Ticket
-22	Cat Food
 23	Glücksticket
 26	Glücksticket
 27	Glücksticket
@@ -145,6 +142,7 @@
 1110	Verrückte Echsenkatze
 1111	Verrückte Titanenkatze
 1010	Mädchen-Katze
+1011	Kabarettkatze
 1012	Koi-Katze
 1033	Katzengeschwister
 1013	Die Braut
@@ -311,6 +309,7 @@
 10099	Irrer Königsdrache
 10100	Irre Jamierakatze
 10101	Ringer-Katze
+10104	Megakatze EX
 10105	Koikuss
 15106	Himmlische Kuu
 15107	Himmlische Kai
@@ -407,6 +406,7 @@
 10312	Kleine Inselkatze
 10313	Kleine Königsdrachenkatze
 10314	Kleine Jamierakatze
+15315	Festliche Neujahr-Neneko
 15317	Allmächtiger Poseidon
 15323	Die One-Hit-Wonders
 16324	Erwachter Musashi
@@ -482,6 +482,7 @@
 15557	Ghost Alibaba
 15570	Kiesolodon
 15585	Weihnachts-Maeda DX
+15595	Ultra Atlantis Logistix
 15611	König Nekokhamen
 30000	Angriff + D: Rot
 30001	Angriff + C: Rot
@@ -548,3 +549,93 @@
 30062	Verteidigung + B: Zombie
 30063	Verteidigung + A: Zombie
 30064	Verteidigung + S: Zombie
+30065	"Stark"-Effekt + D: Rot
+30066	"Stark"-Effekt + C: Rot
+30067	"Stark"-Effekt + B: Rot
+30068	"Stark"-Effekt + A: Rot
+30069	"Stark"-Effekt + S: Rot
+30070	Heftiger Schaden + D: Rot
+30071	Heftiger Schaden + C: Rot
+30072	Heftiger Schaden + B: Rot
+30073	Heftiger Schaden + A: Rot
+30074	Heftiger Schaden + S: Rot
+30075	„Stark“-Effekt + D: Rot
+30076	„Stark“-Effekt + C: Rot
+30077	„Stark“-Effekt + B: Rot
+30078	„Stark“-Effekt + A: Rot
+30079	„Stark“-Effekt + S: Rot
+30080	"Stark"-Effekt + D: Fliegend
+30081	"Stark"-Effekt + C: Fliegend
+30082	"Stark"-Effekt + B: Fliegend
+30083	"Stark"-Effekt + A: Fliegend
+30084	"Stark"-Effekt + S: Fliegend
+30085	Heftiger Schaden + D: Fliegend
+30086	Heftiger Schaden + C: Fliegend
+30087	Heftiger Schaden + B: Fliegend
+30088	Heftiger Schaden + A: Fliegend
+30089	Heftiger Schaden + S: Fliegend
+30090	„Stark“-Effekt + D: Fliegend
+30091	„Stark“-Effekt + C: Fliegend
+30092	„Stark“-Effekt + B: Fliegend
+30093	„Stark“-Effekt + A: Fliegend
+30094	„Stark“-Effekt + S: Fliegend
+30095	"Stark"-Effekt + D: Schwarz
+30096	"Stark"-Effekt + C: Schwarz
+30097	"Stark"-Effekt + B: Schwarz
+30098	"Stark"-Effekt + A: Schwarz
+30099	"Stark"-Effekt + S: Schwarz
+30100	Heftiger Schaden + D: Schwarz
+30101	Heftiger Schaden + C: Schwarz
+30102	Heftiger Schaden + B: Schwarz
+30103	Heftiger Schaden + A: Schwarz
+30104	Heftiger Schaden + S: Schwarz
+30105	„Stark“-Effekt + D: Schwarz
+30106	„Stark“-Effekt + C: Schwarz
+30107	„Stark“-Effekt + B: Schwarz
+30108	„Stark“-Effekt + A: Schwarz
+30109	„Stark“-Effekt + S: Schwarz
+30110	"Stark"-Effekt + D: Engel
+30111	"Stark"-Effekt + C: Engel
+30112	"Stark"-Effekt + B: Engel
+30113	"Stark"-Effekt + A: Engel
+30114	"Stark"-Effekt + S: Engel
+30115	Heftiger Schaden + D: Engel
+30116	Heftiger Schaden + C: Engel
+30117	Heftiger Schaden + B: Engel
+30118	Heftiger Schaden + A: Engel
+30119	Heftiger Schaden + S: Engel
+30120	„Stark“-Effekt + D: Engel
+30121	„Stark“-Effekt + C: Engel
+30122	„Stark“-Effekt + B: Engel
+30123	„Stark“-Effekt + A: Engel
+30124	„Stark“-Effekt + S: Engel
+30125	"Stark"-Effekt + D: Alien
+30126	"Stark"-Effekt + C: Alien
+30127	"Stark"-Effekt + B: Alien
+30128	"Stark"-Effekt + A: Alien
+30129	"Stark"-Effekt + S: Alien
+30130	Heftiger Schaden + D: Alien
+30131	Heftiger Schaden + C: Alien
+30132	Heftiger Schaden + B: Alien
+30133	Heftiger Schaden + A: Alien
+30134	Heftiger Schaden + S: Alien
+30135	„Stark“-Effekt + D: Alien
+30136	„Stark“-Effekt + C: Alien
+30137	„Stark“-Effekt + B: Alien
+30138	„Stark“-Effekt + A: Alien
+30139	„Stark“-Effekt + S: Alien
+30140	"Stark"-Effekt + D: Zombie
+30141	"Stark"-Effekt + C: Zombie
+30142	"Stark"-Effekt + B: Zombie
+30143	"Stark"-Effekt + A: Zombie
+30144	"Stark"-Effekt + S: Zombie
+30145	Heftiger Schaden + D: Zombie
+30146	Heftiger Schaden + C: Zombie
+30147	Heftiger Schaden + B: Zombie
+30148	Heftiger Schaden + A: Zombie
+30149	Heftiger Schaden + S: Zombie
+30150	„Stark“-Effekt + D: Zombie
+30151	„Stark“-Effekt + C: Zombie
+30152	„Stark“-Effekt + B: Zombie
+30153	„Stark“-Effekt + A: Zombie
+30154	„Stark“-Effekt + S: Zombie

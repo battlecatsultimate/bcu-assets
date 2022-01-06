@@ -101,7 +101,7 @@
 100	Minette	Chathlète	Chatcheuse
 101			
 102			
-103			
+103	Chabaret	Méga Chat	Méga Chat EX
 104	Chat koï	Grand Chat koï	Bécot et koï
 105	Kuu	Kuu, type γ	Kuu divine
 106	Kai	Kai, type μ	Kai divine
@@ -312,7 +312,7 @@
 311	P’tit Chat poisson	P’tit Chat baleine	P’tit Chat île
 312	P’tit Chat lézard	P’tit Chat dragon	P’tit Chat roi dragon
 313	P’tit Chat titan	P’tit Chat titan mythique	P’tit Chat Jamilar
-314	Neneko de fin d’année	Neneko nouvelle	
+314	Neneko de fin d’année	Neneko nouvelle	Neneko nouvel an festif
 315	PIKOTARO	NEKOTARO	
 316	Poséidon courroucé	Poséidon vaillant	Poséidon Tout-puissant
 317	CPAC	PPAP	
@@ -592,7 +592,7 @@
 591	Kaito & Cat	Kaito & Cat CC	
 592	Neko Rin	Neko Rin CC	
 593	Neko Len	Neko Len CC	
-594	Puissant Aethur Cie	Atlantis Logistix	
+594	Puissant Aethur Cie	Atlantis Logistix	Ultra Atlantis Logistix
 595	Kamukura en fleur	Kamukura fleur éternelle	
 596	Ranma Saotome (M)	Ranma Saotome (F)	
 597	Akane Tendo	Akane Tendo (Gi)	
@@ -635,3 +635,10 @@
 634	Cyclope chevalier blanc	Cyclope chevalier noir	
 635			
 636	Chat tank sous contrôle	Chat mur sous contrôle	
+637			
+638			
+639			
+640			
+641	Iz la danseuse	Iz la danseuse séduisante	
+642	Lucifer le déchu	Grand Lucifer	
+643	Super félin	Super félin II	

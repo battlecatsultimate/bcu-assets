@@ -1291,6 +1291,31 @@
 001-276-001	Études Aku 501 : Méthodes
 001-276-002	Études Aku 501 : Recherche sur le terrain
 001-276-003	Études Aku 501 : Enquête
+001-285		Top 5 des ennemis les plus vus de 2021 !
+001-285-000	Je glisse n° 5
+001-285-001	Je rougis n° 4
+001-285-002	C'est vrai n° 3
+001-285-003	Bien essayé n° 2
+001-285-004	Triple couronne n° 1
+001-285-005	Inaperçu
+001-286		Bling-bling du Nouvel An
+001-286-000	Cadeaux tant attendus
+001-286-001	Sociable pour un jour
+001-286-002	Maman, où est mon argent ?
+001-286-003	Conflits d'argent entre frères
+001-286-004	Sommes croissantes
+001-286-005	Le calvaire des fêtes de fin d'année
+001-286-006	La sublime écriture de papi et mamie
+001-286-007	Pas de cadeau cette année
+001-287		Couverture ténébreuse
+001-287-000	Grotte des prémices
+001-287-001	Forêt sombre
+001-287-002	Cimetière de l’est
+001-287-003	Marche occidentale
+001-287-004	Fort du sud
+001-287-005	Cratère nord
+001-287-006	Piste glacée
+001-287-007	Champ de bataille ultime
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2596,6 +2621,14 @@
 004-046-000	Nature au berceau (mortel)
 004-046-001	Nature au sommet (sans répit)
 004-046-002	Nature frontière (sans répit)
+004-047		Attaque de l'Archange divin
+004-047-000	Nature au berceau (mortel)
+004-047-001	Nature au sommet (sans répit)
+004-047-002	Nature frontière (sans répit)
+004-048		Attaque du Grand Peng Z
+004-048-000	Nature au berceau (mortel)
+004-048-001	Nature au sommet (sans répit)
+004-048-002	Nature frontière (sans répit)
 
 006			Dojo Griffélin
 006-000		Salle des initiés
@@ -2739,6 +2772,17 @@
 007-006-027	28e étage
 007-006-028	29e étage
 007-006-029	30e étage
+007-007		Citadelle sans caract.
+007-007-000	1er étage
+007-007-001	2e étage
+007-007-002	3e étage
+007-007-003	4e étage
+007-007-004	5e étage
+007-007-005	6e étage
+007-007-006	7e étage
+007-007-007	8e étage
+007-007-008	9e étage
+007-007-009	Dernier étage
 
 011			Ranking Dojo Stages
 011-000		Arène de l'honneur
@@ -3057,6 +3101,13 @@
 013-039-003	Querelle brise-lames
 013-039-004	Grève des pécheurs
 013-039-005	Hippocampes attrapés
+013-040		Chaleur mortelle
+013-040-000	Pilier magmatique
+013-040-001	Rouge brûlant
+013-040-002	Bouillon sanguin
+013-040-003	Cratère infernal
+013-040-004	Dynamite du pays du feu
+013-040-005	Crépuscule brûlant
 
 014			Night Stages
 014-000		Croissance jaune
@@ -3728,6 +3779,81 @@
 024-035-017	Mastodonte cosmique niv. 18
 024-035-018	Mastodonte cosmique niv. 19
 024-035-019	Mastodonte cosmique niv. max.
+024-036		Nouvelle année colossale !
+024-036-000	Année du tigre niv. 1
+024-036-001	Année du tigre niv. 2
+024-036-002	Année du tigre niv. 3
+024-036-003	Année du tigre niv. 4
+024-036-004	Année du tigre niv. 5
+024-036-005	Année du tigre niv. 6
+024-036-006	Année du tigre niv. 7
+024-036-007	Année du tigre niv. 8
+024-036-008	Année du tigre niv. 9
+024-036-009	Année du tigre niv. 10
+024-037		Attaque de l'Archange divin
+024-037-000	Bénédiction niv. 1
+024-037-001	Bénédiction niv. 2
+024-037-002	Bénédiction niv. 3
+024-037-003	Bénédiction niv. 4
+024-037-004	Bénédiction niv. 5
+024-037-005	Bénédiction niv. 6
+024-037-006	Bénédiction niv. 7
+024-037-007	Bénédiction niv. 8
+024-037-008	Bénédiction niv. 9
+024-037-009	Bénédiction niv. 10
+024-037-010	Bénédiction niv. 11
+024-037-011	Bénédiction niv. 12
+024-037-012	Bénédiction niv. 13
+024-037-013	Bénédiction niv. 14
+024-037-014	Bénédiction niv. 15
+024-037-015	Bénédiction niv. 16
+024-037-016	Bénédiction niv. 17
+024-037-017	Bénédiction niv. 18
+024-037-018	Bénédiction niv. 19
+024-037-019	Bénédiction niv. max
+024-038		Attaque du Grand Peng Z
+024-038-000	Errance niv. 1
+024-038-001	Errance niv. 2
+024-038-002	Errance niv. 3
+024-038-003	Errance niv. 4
+024-038-004	Errance niv. 5
+024-038-005	Errance niv. 6
+024-038-006	Errance niv. 7
+024-038-007	Errance niv. 8
+024-038-008	Errance niv. 9
+024-038-009	Errance niv. 10
+024-038-010	Errance niv. 11
+024-038-011	Errance niv. 12
+024-038-012	Errance niv. 13
+024-038-013	Errance niv. 14
+024-038-014	Errance niv. 15
+024-038-015	Errance niv. 16
+024-038-016	Errance niv. 17
+024-038-017	Errance niv. 18
+024-038-018	Errance niv. 19
+024-038-019	Errance niv. max
+024-039		Défi de février
+024-039-000	Bonheur niv. 1
+024-039-001	Bonheur niv. 2
+024-039-002	Bonheur niv. 3
+024-039-003	Bonheur niv. 4
+024-039-004	Bonheur niv. 5
+024-039-005	Bonheur niv. 6
+024-039-006	Bonheur niv. 7
+024-039-007	Bonheur niv. 8
+024-039-008	Bonheur niv. 9
+024-039-009	Bonheur niv. 10
+024-040		Défi de février II
+024-040-000	Confusion niv. 1
+024-040-001	Confusion niv. 2
+024-040-002	Confusion niv. 3
+024-040-003	Confusion niv. 4
+024-040-004	Confusion niv. 5
+024-040-005	Confusion niv. 6
+024-040-006	Confusion niv. 7
+024-040-007	Confusion niv. 8
+024-040-008	Confusion niv. 9
+024-040-009	Confusion niv. max
 
 025			Enigma Stages
 025-000		Champs Aitum

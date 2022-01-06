@@ -600,7 +600,7 @@
 38	Prendi ogni tesoro superiore in Gatti del Cosmo Cap. 3
 9231	Missioni dell'evento d'invasione: Supera "Fiume Stige". 1 volte usando 8 o più Gatti normali
 9232	Missioni dell'evento d'invasione: Supera "Babau dei morti". 1 volte usando 8 o più Gatti speciali
-9233	Missioni dell'evento d'invasione: Supera "Vendetta di re. Wahwah" 1 volte usando tutti e 9 i Gatti normali
+9233	Missioni dell'evento d'invasione: Supera "Vendetta di re. Wahwah" 1 volte usando 9 Gatti normali
 9234	Missioni dell'evento d'invasione: Supera "Impatto blu". 1 volte usando solamente seconde forme
 9235	Missioni dell'evento d'invasione: Supera "Sogno profondo". 1 volte usando solamente prime forme
 9236	Supera tutte 5 le missioni dell'evento d'invasione!

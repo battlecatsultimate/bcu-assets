@@ -600,7 +600,7 @@
 38	Get all Superior Treasure from Cosmos Ch. 3
 9231	Invasion Event Missions. Clear "River Styx" 1 times using 8 or more Normal Cats
 9232	Invasion Event Missions. Clear "Daboo of the Dead" 1 times using 8 or more Special Cats
-9233	Invasion Event Missions. Clear "King Wahwah's Revenge" 1 times using all 9 Normal Cats
+9233	Invasion Event Missions. Clear "King Wahwah's Revenge" 1 times using any 9 Normal Cats
 9234	Invasion Event Missions. Clear "Blue Impact" 1 times using only 2nd Forms
 9235	Invasion Event Missions. Clear "Deeply Dreaming" 1 times using only unevolved 1st Forms
 9236	Clear all 5 Invasion Event Missions!

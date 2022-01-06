@@ -596,7 +596,7 @@
 38	Reúne los tesoros superiores en Gatos Galácticos cap. 3
 9231	Misión del Evento de Invasión: Supera la fase Río Estigia. 1 veces con 8 gatos normales o más
 9232	Misión del Evento de Invasión: Supera la fase Muerti. No Muerto 1 veces con 8 gatos especiales o más
-9233	Misión del Evento de Invasión: Supera la fase Venganza del. Rey Guau 1 veces con los 9 gatos normales
+9233	Misión del Evento de Invasión. Supera la fase Venganza del Rey Guau 1 vez con 9 gatos normales
 9234	Misión del Evento de Invasión: Supera la fase Impacto Azul. 1 veces solo con segundas formas
 9235	Misión del Evento de Invasión: Supera la fase Sueño Profundo. 1 veces solo con primeras formas sin evolucionar
 9236	Supera las 5 misiones del Evento de Invasión

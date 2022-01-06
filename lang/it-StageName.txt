@@ -1295,6 +1295,31 @@
 001-276-001	Corso superiore sugli Aku: tecniche
 001-276-002	Corso superiore sugli Aku: ricerca
 001-276-003	Corso super. sugli Aku: inchiesta
+001-285		I 5 nemici più visti del 2021!
+001-285-000	#5 scorrevole
+001-285-001	#4 da arrossire
+001-285-002	#3 proprio così
+001-285-003	#2 bel tentativo
+001-285-004	#1 tripla corona
+001-285-005	Non visto
+001-286		Sfarzo di capodanno
+001-286-000	Regali tanto attesi
+001-286-001	Solo oggi: socievole
+001-286-002	Dove sono i miei soldi, ma'?
+001-286-003	Divario salariale fraterno
+001-286-004	Somme in aumento
+001-286-005	Il peso dei regali
+001-286-006	Lettera al nonno
+001-286-007	Niente regali
+001-287		Coltre di tenebre
+001-287-000	Antro degli inizi
+001-287-001	Foresta oscura
+001-287-002	Cimitero orientale
+001-287-003	Passo occidentale
+001-287-004	Forte del sud
+001-287-005	Voragine a nord
+001-287-006	Distesa gelida
+001-287-007	Battaglia finale
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2600,6 +2625,14 @@
 004-046-000	Culla selvaggia (Letale)
 004-046-001	Cima selvaggia (Spietato)
 004-046-002	Confine selvaggio (Spietato)
+004-047		Arcangelo divino colpisce
+004-047-000	Culla selvaggia (Letale)
+004-047-001	Cima selvaggia (Spietato)
+004-047-002	Confine selvaggio (Spietato)
+004-048		Grande Ping Z colpisce
+004-048-000	Culla selvaggia (Letale)
+004-048-001	Cima selvaggia (Spietato)
+004-048-002	Confine selvaggio (Spietato)
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -2743,6 +2776,17 @@
 007-006-027	28° piano
 007-006-028	29° piano
 007-006-029	30° piano
+007-007		Roccaforte senza tratti
+007-007-000	1° piano
+007-007-001	2° piano
+007-007-002	3° piano
+007-007-003	4° piano
+007-007-004	5° piano
+007-007-005	6° piano
+007-007-006	7° piano
+007-007-007	8° piano
+007-007-008	9° piano
+007-007-009	Ultimo piano
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -3061,6 +3105,13 @@
 013-039-003	Faida tra i flutti
 013-039-004	Pescatori in sciopero
 013-039-005	Campo di ippocampi
+013-040		Landa del caldo infernale
+013-040-000	Pilastro di lava
+013-040-001	Cremisi bruciante
+013-040-002	Sangue bollente
+013-040-003	Voragine infernale
+013-040-004	Dinamite del regno di fuoco
+013-040-005	Tramonto in fiamme
 
 014			Drink Stages
 014-000		Giallo rigoglioso
@@ -3732,6 +3783,81 @@
 024-035-017	Furia cosmica Liv. 18
 024-035-018	Furia cosmica Liv. 19
 024-035-019	Furia cosmica Liv. MAX
+024-036		Un colossale anno nuovo!
+024-036-000	Anno della tigre Liv. 1
+024-036-001	Anno della tigre Liv. 2
+024-036-002	Anno della tigre Liv. 3
+024-036-003	Anno della tigre Liv. 4
+024-036-004	Anno della tigre Liv. 5
+024-036-005	Anno della tigre Liv. 6
+024-036-006	Anno della tigre Liv. 7
+024-036-007	Anno della tigre Liv. 8
+024-036-008	Anno della tigre Liv. 9
+024-036-009	Anno della tigre Liv. 10
+024-037		Arcangelo divino colpisce
+024-037-000	Benedizione Liv. 1
+024-037-001	Benedizione Liv. 2
+024-037-002	Benedizione Liv. 3
+024-037-003	Benedizione Liv. 4
+024-037-004	Benedizione Liv. 5
+024-037-005	Benedizione Liv. 6
+024-037-006	Benedizione Liv. 7
+024-037-007	Benedizione Liv. 8
+024-037-008	Benedizione Liv. 9
+024-037-009	Benedizione Liv. 10
+024-037-010	Benedizione Liv. 11
+024-037-011	Benedizione Liv. 12
+024-037-012	Benedizione Liv. 13
+024-037-013	Benedizione Liv. 14
+024-037-014	Benedizione Liv. 15
+024-037-015	Benedizione Liv. 16
+024-037-016	Benedizione Liv. 17
+024-037-017	Benedizione Liv. 18
+024-037-018	Benedizione Liv. 19
+024-037-019	Benedizione Liv. MAX
+024-038		Grande Ping Z colpisce
+024-038-000	Vagare Liv. 1
+024-038-001	Vagare Liv. 2
+024-038-002	Vagare Liv. 3
+024-038-003	Vagare Liv. 4
+024-038-004	Vagare Liv. 5
+024-038-005	Vagare Liv. 6
+024-038-006	Vagare Liv. 7
+024-038-007	Vagare Liv. 8
+024-038-008	Vagare Liv. 9
+024-038-009	Vagare Liv. 10
+024-038-010	Vagare Liv. 11
+024-038-011	Vagare Liv. 12
+024-038-012	Vagare Liv. 13
+024-038-013	Vagare Liv. 14
+024-038-014	Vagare Liv. 15
+024-038-015	Vagare Liv. 16
+024-038-016	Vagare Liv. 17
+024-038-017	Vagare Liv. 18
+024-038-018	Vagare Liv. 19
+024-038-019	Vagare Liv. MAX
+024-039		Sfida di febbraio
+024-039-000	Felicità Liv. 1
+024-039-001	Felicità Liv. 2
+024-039-002	Felicità Liv. 3
+024-039-003	Felicità Liv. 4
+024-039-004	Felicità Liv. 5
+024-039-005	Felicità Liv. 6
+024-039-006	Felicità Liv. 7
+024-039-007	Felicità Liv. 8
+024-039-008	Felicità Liv. 9
+024-039-009	Felicità Liv. 10
+024-040		Sfida di febbraio II
+024-040-000	Confusione Liv. 1
+024-040-001	Confusione Liv. 2
+024-040-002	Confusione Liv. 3
+024-040-003	Confusione Liv. 4
+024-040-004	Confusione Liv. 5
+024-040-005	Confusione Liv. 6
+024-040-006	Confusione Liv. 7
+024-040-007	Confusione Liv. 8
+024-040-008	Confusione Liv. 9
+024-040-009	Confusione Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum

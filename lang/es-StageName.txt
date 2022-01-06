@@ -1276,6 +1276,8 @@
 001-271-002	Aku: Investigación Experta
 001-271-003	Aku: Consulta Experta
 001-272		Sinfonía de Tentaciones
+001-273-000	Reencarnación de Akus (Inhumano)
+001-274		Mal Proliferante
 001-272-000	Melodía de Akus (Inhumano)
 001-274		Mal Proliferante
 001-274-000	Murmullo de Aku (Demencial)
@@ -1292,6 +1294,31 @@
 001-276-001	Akus: Método Profesional
 001-276-002	Akus: Investigación Profesional
 001-276-003	Akus: Consulta Profesional
+001-285		5 Más Recurrentes del 2021
+001-285-000	Deslizamiento 5
+001-285-001	Sonrojo 4
+001-285-002	Correcto 3
+001-285-003	Buen Intento 2
+001-285-004	Corona Triple 1
+001-285-005	Invisible
+001-286		Ostentación de Año Nuevo
+001-286-000	Regalos Esperados
+001-286-001	Solo Hoy: Sociable
+001-286-002	¿Y Mi Dinero, Mamá?
+001-286-003	Brecha Fraternal
+001-286-004	Pagas en Aumento
+001-286-005	Responsabilidad de Regalos
+001-286-006	Caligrafía de Abuelo
+001-286-007	Año Sin Regalos
+001-287		Cubierta de Oscuridad
+001-287-000	Cueva de Comienzos
+001-287-001	Bosque Oscuro
+001-287-002	Cementerio del Este
+001-287-003	Camino del Oeste
+001-287-004	Fortín del Sur
+001-287-005	Cráter del Norte
+001-287-006	Campo de Nieve Helado
+001-287-007	Campo de Batalla Final
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2597,6 +2624,14 @@
 004-046-000	Naturaleza Base (Mortal)
 004-046-001	Naturaleza Cima (Inhumano)
 004-046-002	Naturaleza Frontera (Inhumano)
+004-047		Sr. Ángel Divino Ataca
+004-047-000	Naturaleza Base (Mortal)
+004-047-001	Naturaleza Cima (Inhumano)
+004-047-002	Naturaleza Frontera (Inhumano)
+004-048		Gran Ping Pong Z. Ataca
+004-048-000	Naturaleza Base (Mortal)
+004-048-001	Naturaleza Cima (Inhumano)
+004-048-002	Naturaleza Frontera (Inhumano)
 
 006			Dojo Afilagarras
 006-000		Sala de Iniciados
@@ -2740,6 +2775,17 @@
 007-006-027	Piso 28
 007-006-028	Piso 29
 007-006-029	Piso 30
+007-007		Ciudadela Sin Rasgos
+007-007-000	Piso 1
+007-007-001	Piso 2
+007-007-002	Piso 3
+007-007-003	Piso 4
+007-007-004	Piso 5
+007-007-005	Piso 6
+007-007-006	Piso 7
+007-007-007	Piso 8
+007-007-008	Piso 9
+007-007-009	Último Piso
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -3058,6 +3104,13 @@
 013-039-003	Reyerta de Marineros
 013-039-004	Pescadores en Huelga
 013-039-005	Caballitos de Mar
+013-040		Tierra Baldía
+013-040-000	Columna de Magma
+013-040-001	Carmesí Ardiente
+013-040-002	Sangre Hirviente
+013-040-003	Cráter del Infierno
+013-040-004	Dinamita del Reino Ígneo
+013-040-005	Atardecer Ardiente
 
 014			Drink Stages
 014-000		Cultivo Amarillo
@@ -3729,6 +3782,81 @@
 024-035-017	Juggernaut Cósmico (nvl. 18)
 024-035-018	Juggernaut Cósmico (nvl. 19)
 024-035-019	Juggernaut Cósmico (nvl. máx.)
+024-036		¡Año Nuevo Colosal!
+024-036-000	Año del Tigre (nvl. 1)
+024-036-001	Año del Tigre (nvl. 2)
+024-036-002	Año del Tigre (nvl. 3)
+024-036-003	Año del Tigre (nvl. 4)
+024-036-004	Año del Tigre (nvl. 5)
+024-036-005	Año del Tigre (nvl. 6)
+024-036-006	Año del Tigre (nvl. 7)
+024-036-007	Año del Tigre (nvl. 8)
+024-036-008	Año del Tigre (nvl. 9)
+024-036-009	Año del Tigre (nvl. 10)
+024-037		Sr. Ángel Divino Ataca
+024-037-000	Bendición (nvl. 1)
+024-037-001	Bendición (nvl. 2)
+024-037-002	Bendición (nvl. 3)
+024-037-003	Bendición (nvl. 4)
+024-037-004	Bendición (nvl. 5)
+024-037-005	Bendición (nvl. 6)
+024-037-006	Bendición (nvl. 7)
+024-037-007	Bendición (nvl. 8)
+024-037-008	Bendición (nvl. 9)
+024-037-009	Bendición (nvl. 10)
+024-037-010	Bendición (nvl. 11)
+024-037-011	Bendición (nvl. 12)
+024-037-012	Bendición (nvl. 13)
+024-037-013	Bendición (nvl. 14)
+024-037-014	Bendición (nvl. 15)
+024-037-015	Bendición (nvl. 16)
+024-037-016	Bendición (nvl. 17)
+024-037-017	Bendición (nvl. 18)
+024-037-018	Bendición (nvl. 19)
+024-037-019	Bendición (nvl. máx.)
+024-038		Gran Ping Pong Z. Ataca
+024-038-000	Paseo (nvl. 1)
+024-038-001	Paseo (nvl. 2)
+024-038-002	Paseo (nvl. 3)
+024-038-003	Paseo (nvl. 4)
+024-038-004	Paseo (nvl. 5)
+024-038-005	Paseo (nvl. 6)
+024-038-006	Paseo (nvl. 7)
+024-038-007	Paseo (nvl. 8)
+024-038-008	Paseo (nvl. 9)
+024-038-009	Paseo (nvl. 10)
+024-038-010	Paseo (nvl. 11)
+024-038-011	Paseo (nvl. 12)
+024-038-012	Paseo (nvl. 13)
+024-038-013	Paseo (nvl. 14)
+024-038-014	Paseo (nvl. 15)
+024-038-015	Paseo (nvl. 16)
+024-038-016	Paseo (nvl. 17)
+024-038-017	Paseo (nvl. 18)
+024-038-018	Paseo (nvl. 19)
+024-038-019	Paseo (nvl. máx.)
+024-039		Desafío de Febrero
+024-039-000	Felicidad (nvl. 1)
+024-039-001	Felicidad (nvl. 2)
+024-039-002	Felicidad (nvl. 3)
+024-039-003	Felicidad (nvl. 4)
+024-039-004	Felicidad (nvl. 5)
+024-039-005	Felicidad (nvl. 6)
+024-039-006	Felicidad (nvl. 7)
+024-039-007	Felicidad (nvl. 8)
+024-039-008	Felicidad (nvl. 9)
+024-039-009	Felicidad (nvl. 10)
+024-040		Desafío de Febrero II
+024-040-000	Confusión (nvl. 1)
+024-040-001	Confusión (nvl. 2)
+024-040-002	Confusión (nvl. 3)
+024-040-003	Confusión (nvl. 4)
+024-040-004	Confusión (nvl. 5)
+024-040-005	Confusión (nvl. 6)
+024-040-006	Confusión (nvl. 7)
+024-040-007	Confusión (nvl. 8)
+024-040-008	Confusión (nvl. 9)
+024-040-009	Confusión (nvl. máx.)
 
 025			Enigma Stages
 025-000		Campos de Aitum

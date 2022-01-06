@@ -8,9 +8,6 @@
 11	Silver Ticket
 12	Gold Ticket
 13	Cat food
-20	Silver Ticket
-21	Gold Ticket
-22	Cat Food
 23	Lucky Ticket
 26	Lucky Ticket
 27	Lucky Ticket
@@ -145,6 +142,7 @@
 1110	Crazed Lizard Cat
 1111	Crazed Titan Cat
 1010	Maiden Cat
+1011	Cabaret Cat
 1012	Koi Cat
 1033	Cat Bros
 1013	Madam Bride
@@ -311,6 +309,7 @@
 10099	Manic King Dragon
 10100	Manic Jamiera Cat
 10101	Wrestling Cat
+10104	Mega Cat EX
 10105	Kiss and Koi
 15106	Divine Kuu
 15107	Divine Kai
@@ -407,6 +406,7 @@
 10312	Li'l Island Cat
 10313	Li'l King Dragon Cat
 10314	Li'l Jamiera Cat
+15315	Festive New Year Neneko
 15317	Almighty Poseidon
 15323	The One-Hit Wonders
 16324	Awakened Musashi
@@ -482,6 +482,7 @@
 15557	Ghost Alibaba
 15570	Gravolodon
 15585	Maeda Christmas DX
+15595	Ultra Atlantis Logistix
 15611	King Nekokhamen
 30000	Attack Up D: Red
 30001	Attack Up C: Red

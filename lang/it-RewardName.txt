@@ -8,9 +8,6 @@
 11	Silver Ticket
 12	Gold Ticket
 13	Cat food
-20	Silver Ticket
-21	Gold Ticket
-22	Cat Food
 23	Biglietto fortuna
 26	Biglietto fortuna
 27	Biglietto fortuna
@@ -145,6 +142,7 @@
 1110	Lucertogatto matto
 1111	Gatto Titano matto
 1010	Lady Gatto
+1011	Gatto cabaret
 1012	Gatto koi
 1033	Fratelli gatti
 1013	Sposa comare
@@ -311,6 +309,7 @@
 10099	Re Dragone pazzo
 10100	Gatto Jamiera pazzo
 10101	Lady Gatto wrestler
+10104	Mega Gatto Super
 10105	Bacini koi
 15106	Kuu divina
 15107	Kai divina
@@ -407,6 +406,7 @@
 10312	Mini Gattisola
 10313	Mini Gatto Re Dragone
 10314	Mini Gatto Jamiera
+15315	Neneko festiva di Capodanno
 15317	Poseidone Onnipotente
 15323	Le meteore
 16324	Musashi risvegliato
@@ -482,6 +482,7 @@
 15557	Ghost Alibaba
 15570	Gravolodon
 15585	Maeda Natale DX
+15595	Ultra Atlantis Logistix
 15611	Re Nekokhamen
 30000	Più attacco D: Rosso
 30001	Più attacco C: Rosso

@@ -101,7 +101,7 @@
 100	Gata Colegiala	Gata Deportista	Gata Luchadora
 101			
 102			
-103			
+103	Gato Cantante	Megagato	Megagato Especial
 104	Gato Koi	Gato Koi Largo	Gato Koi Estandarte
 105	Kuu	Kuu (γ)	Kuu Divina
 106	Kai	Kai (μ)	Kai Divina
@@ -592,7 +592,7 @@
 591	Kaito & Cat	Kaito & Cat CC	
 592	Neko Rin	Neko Rin CC	
 593	Neko Len	Neko Len CC	
-594	Globo Aerostático S.r.l.	Atlantis Logistix	
+594	Globo Aerostático S.r.l.	Atlantis Logistix	Ultratlantis Logistix
 595	Kamukura Florido	Kamukura Perenne	
 596	Ranma Saotome (M)	Ranma Saotome (F)	
 597	Akane Tendo	Akane Tendo (Gi)	
@@ -635,3 +635,10 @@
 634	Cíclope Caballero Blanco	Cíclope Caballero Negro	
 635			
 636	Gato Defensor Adoctrinado	Gato Muro Adoctrinado	
+637			
+638			
+639			
+640			
+641	Iz la Bailarina	Iz la Bailarina Atractiva	
+642	Lucifer el Caído	Gran Lucifer	
+643	Superfelino	Superfelino II	

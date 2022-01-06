@@ -101,7 +101,7 @@
 100	Mädchen-Katze	Sportlerinnenkatze	Ringer-Katze
 101			
 102			
-103			
+103	Kabarettkatze	Megakatze	Megakatze EX
 104	Koi-Katze	Stelzen-Koi-Katze	Koikuss
 105	Kuu	Kuu, Typ γ	Himmlische Kuu
 106	Kai	Kai, Typ μ	Himmlische Kai
@@ -312,7 +312,7 @@
 311	Kleine Fischkatze	Kleine Walkatze	Kleine Inselkatze
 312	Kleine Echsenkatze	Kleine Drachenkatze	Kleine Königsdrachenkatze
 313	Kleine Titanenkatze	Kleine mythische Titanenkatze	Kleine Jamierakatze
-314	Silvester-Neneko	Neujahr-Neneko	
+314	Silvester-Neneko	Neujahr-Neneko	Festliche Neujahr-Neneko
 315	PIKOTARO	NEKOTARO	
 316	Zorniger Poseidon	Tapferer Poseidon	Allmächtiger Poseidon
 317	CPAC	PPAP	
@@ -592,7 +592,7 @@
 591	Kaito & Cat	Kaito & Cat CC	
 592	Neko Rin	Neko Rin CC	
 593	Neko Len	Neko Len CC	
-594	Mächtige Aethur GmbH	Atlantis Logistix	
+594	Mächtige Aethur GmbH	Atlantis Logistix	Ultra Atlantis Logistix
 595	Blühender Kamukura	Ewigblühender Kamukura	
 596	Ranma Saotome (M)	Ranma Saotome (F)	
 597	Akane Tendo	Akane Tendo (Gi)	
@@ -635,3 +635,10 @@
 634	Weißer-Ritter-Zyklop	Schwarzer-Ritter-Zyklop	
 635			
 636	Beeinflusste Panzer-Katze	Beeinflusste Wallkatze	
+637			
+638			
+639			
+640			
+641	Iz die Tänzerin	Iz die reizende Tänzerin	
+642	Luzifer der Gefallene	Großer Luzifer	
+643	Superkatze	Superkatze II	
