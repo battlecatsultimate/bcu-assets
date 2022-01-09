@@ -763,7 +763,7 @@
 001-113		BitSummit 4th Sponsorship Memorial
 001-113-000	Held in Miyako Messe!
 001-114		Techneurosis
-001-114-000	Nuts ‘n’ Bolts (Insane)
+001-114-000	Nuts ‘n’ Bolts (Expert)
 001-114-001	Space is the Place (Insane)
 001-115		Summer Diary
 001-115-000	Short Shorts
@@ -2837,6 +2837,8 @@
 011-013-000	The Dead from Space
 011-014		Arena of Honor
 011-014-000	I Seek the Strongest
+011-015		Arena of Honor
+011-015-000	Lucky Number 7
 011-016		Arena of Honor
 011-016-000	MikuMiku Music Fest
 011-017		Arena of Honor
