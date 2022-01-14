@@ -1331,6 +1331,8 @@
 002-003-005	Bookmarkers
 002-003-006	Solid State Rock
 002-003-007	Fiber Cookie
+002-006		Boss Finale colpisce?!
+002-006-000	Andiamooo! <(@0@)>
 002-007		Merc Storia: Inferno
 002-007-000	A City Aflame (Insane)
 002-008		Merc Storia: Showdown
@@ -1385,6 +1387,9 @@
 002-034-000	The Box Witch (Hard)
 002-034-001	The Box Witch (Insane)
 002-035		Walpurgisnacht
+002-037		Arriva Gatto cabaret!
+002-037-000	Crescendo (Veterani)
+002-037-001	Crescendo (Folle)
 002-035-000	The Stagebuilding Witch (Deadly)
 002-038		PIKOTARO
 002-038-000	PPAP
@@ -2625,14 +2630,14 @@
 004-046-000	Culla selvaggia (Letale)
 004-046-001	Cima selvaggia (Spietato)
 004-046-002	Confine selvaggio (Spietato)
-004-047		Arcangelo divino colpisce
-004-047-000	Culla selvaggia (Letale)
-004-047-001	Cima selvaggia (Spietato)
-004-047-002	Confine selvaggio (Spietato)
-004-048		Grande Ping Z colpisce
-004-048-000	Culla selvaggia (Letale)
-004-048-001	Cima selvaggia (Spietato)
-004-048-002	Confine selvaggio (Spietato)
+004-049		Arcangelo divino colpisce
+004-049-000	Culla selvaggia (Letale)
+004-049-001	Cima selvaggia (Spietato)
+004-049-002	Confine selvaggio (Spietato)
+004-050		Grande Ping Z colpisce
+004-050-000	Culla selvaggia (Letale)
+004-050-001	Cima selvaggia (Spietato)
+004-050-002	Confine selvaggio (Spietato)
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati

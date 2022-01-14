@@ -596,3 +596,4 @@
 595	Tiger Doge
 596	Nana
 597	Emelia
+598	Firecracker Lantern

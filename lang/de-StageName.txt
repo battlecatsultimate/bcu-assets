@@ -1326,6 +1326,8 @@
 002-003-005	Bookmarkers
 002-003-006	Solid State Rock
 002-003-007	Fiber Cookie
+002-006		Letzter Boss schlägt zu?!
+002-006-000	Jetzt aber LOOOOOS! <(@0@)>
 002-007		Merc Storia: Inferno
 002-007-000	A City Aflame (Insane)
 002-008		Merc Storia: Showdown
@@ -1381,6 +1383,9 @@
 002-034-001	The Box Witch (Insane)
 002-035		Walpurgisnacht
 002-035-000	The Stagebuilding Witch (Deadly)
+002-037		Kabarettkatze erwacht!
+002-037-000	Crescendo (Veteran)
+002-037-001	Crescendo (Irre)
 002-038		PIKOTARO
 002-038-000	PPAP
 002-041		Gates of ALICE
@@ -2619,14 +2624,14 @@
 004-046-000	Hortwildnis (Tödlich)
 004-046-001	Gipfelwildnis (Gnadenlos)
 004-046-002	Grenzwildnis (Gnadenlos)
-004-047		Der göttliche Erzengel schlägt zu
-004-047-000	Hortwildnis (Tödlich)
-004-047-001	Gipfelwildnis (Gnadenlos)
-004-047-002	Grenzwildnis (Gnadenlos)
-004-048		Der große Peng Z schlägt zu
-004-048-000	Hortwildnis (Tödlich)
-004-048-001	Gipfelwildnis (Gnadenlos)
-004-048-002	Grenzwildnis (Gnadenlos)
+004-049		Der göttliche Erzengel schlägt zu
+004-049-000	Hortwildnis (Tödlich)
+004-049-001	Gipfelwildnis (Gnadenlos)
+004-049-002	Grenzwildnis (Gnadenlos)
+004-050		Der große Peng Z schlägt zu
+004-050-000	Hortwildnis (Tödlich)
+004-050-001	Gipfelwildnis (Gnadenlos)
+004-050-002	Grenzwildnis (Gnadenlos)
 
 006			Katzenkrallendojo
 006-000		Halle der Initianden

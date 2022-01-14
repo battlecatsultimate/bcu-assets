@@ -519,7 +519,7 @@
 518	Akuma Giraffe	Akuma Lion	
 519	Lasvoss	Ultimate Lasvoss 	Lasvoss Reborn
 520	Good-Luck Ebisu	Bad-Luck Ebisu	
-521	Medusa Cat	Twintail Medusa Cat	
+521	Medusa Cat	Twintail Medusa Cat	Naga Cat
 522	Nymph Cat	Medalist Cat	Fiend Cat
 523	Wushu Cat	Sifu Cat	Shigong Cat	
 524			
@@ -587,7 +587,7 @@
 586	Emperor Cat	Tyrant Cat	
 587	Sweet Aphrodite	Chocoladite	
 588	First-Love Myrcia	First-Love Myrcia ξ	
-589	Valentine's Neneko	Sweetheart Neneko	
+589	Valentine's Neneko	Sweetheart Neneko	True Love Neneko
 590	Snow Miku 2021	Snow Miku CC 2021	
 591	Kaito & Cat	Kaito & Cat CC	
 592	Neko Rin	Neko Rin CC	
@@ -642,3 +642,7 @@
 641	Iz the Dancer	Iz the Alluring Dancer	
 642	Lucifer the Fallen	Grand Lucifer	
 643	Superfeline	Superfeline II	
+644	Valentine Mekako	Bittersweet Mekako
+645	Brainwashed Axe Cat	Brainwashed Brave Cat
+646	Firecracker Cat	Macho Firecracker Cat
+647	Hunter Girl Terun	Hunter Girl Terun Type ζ

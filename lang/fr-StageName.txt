@@ -1327,6 +1327,8 @@
 002-003-005	Bookmarkers
 002-003-006	Solid State Rock
 002-003-007	Fiber Cookie
+002-006		Le Dernier Boss arrive ?!
+002-006-000	C'est partiiii ! <(@0@)>
 002-007		Merc Storia: Inferno
 002-007-000	A City Aflame (Insane)
 002-008		Merc Storia: Showdown
@@ -1382,6 +1384,9 @@
 002-034-001	The Box Witch (Insane)
 002-035		Walpurgisnacht
 002-035-000	The Stagebuilding Witch (Deadly)
+002-037		Éveil : Chabaret
+002-037-000	Crescendo (vétéran)
+002-037-001	Crescendo (maniaque)
 002-038		PIKOTARO
 002-038-000	PPAP
 002-041		Gates of ALICE
@@ -2621,14 +2626,14 @@
 004-046-000	Nature au berceau (mortel)
 004-046-001	Nature au sommet (sans répit)
 004-046-002	Nature frontière (sans répit)
-004-047		Attaque de l'Archange divin
-004-047-000	Nature au berceau (mortel)
-004-047-001	Nature au sommet (sans répit)
-004-047-002	Nature frontière (sans répit)
-004-048		Attaque du Grand Peng Z
-004-048-000	Nature au berceau (mortel)
-004-048-001	Nature au sommet (sans répit)
-004-048-002	Nature frontière (sans répit)
+004-049		Attaque de l'Archange divin
+004-049-000	Nature au berceau (mortel)
+004-049-001	Nature au sommet (sans répit)
+004-049-002	Nature frontière (sans répit)
+004-050		Attaque du Grand Peng Z
+004-050-000	Nature au berceau (mortel)
+004-050-001	Nature au sommet (sans répit)
+004-050-002	Nature frontière (sans répit)
 
 006			Dojo Griffélin
 006-000		Salle des initiés

@@ -22,6 +22,7 @@
 -110	Halloween Gacha	//Halloween 257
 -111	Summer Gals	//Summer Gals 260
 -112	Superfest	//Superfest 591
+-113	Valentine Gacha
 -1000	Ultra Selection Gacha //Ultra Selection 191
 -1001	Miracla Selection Gacha	//Miracle Selection 192
 -1002	Farewell Gacha	//2017 262
@@ -568,4 +569,15 @@
 690	-107	632, 641
 691	-104	632, 634, 641
 692	-107	632, 634, 641
-704	-106
+693	-3	647
+694	-3	647
+695	-3	647
+696	-100	533, 620
+697	-1011	644
+698	-113	644, 645
+699	-1012	644
+700	-105	647
+701	-106	642, 647
+702	-104	647
+703	-107	647
+704	-106	642

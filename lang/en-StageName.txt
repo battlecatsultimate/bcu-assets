@@ -1339,6 +1339,8 @@
 002-003-005	Bookmarkers
 002-003-006	Solid State Rock
 002-003-007	Fiber Cookie
+002-006		Lasvoss Strikes?!
+002-006-000	Let's GOOO! <(@0@)>
 002-007		Merc Storia: Inferno
 002-007-000	A City Aflame (Insane)
 002-008		Merc Storia: Showdown
@@ -1394,6 +1396,9 @@
 002-034-001	The Box Witch (Insane)
 002-035		Walpurgisnacht
 002-035-000	The Stagebuilding Witch (Deadly)
+002-037		Cabaret Cat Awakens!
+002-037-000	Crescendo (Veteran)
+002-037-001	Crescendo (Insane)
 002-038		PIKOTARO
 002-038-000	PPAP
 002-041		Gates of ALICE
@@ -2647,14 +2652,14 @@
 004-046-000	Cradle Wilderness (Deadly)
 004-046-001	Summit Wilderness (Merciless)
 004-046-002	Frontier Wilderness (Merciless)
-004-047		Divine Archangel Strikes
-004-047-000	Cradle Wilderness (Deadly)
-004-047-001	Summit Wilderness (Merciless)
-004-047-002	Frontier Wilderness (Merciless)
-004-028		Big Peng Z Strikes
-004-048-000	Cradle Wilderness (Deadly)
-004-048-001	Summit Wilderness (Merciless)
-004-048-002	Frontier Wilderness (Merciless)
+004-049		Divine Archangel Strikes
+004-049-000	Cradle Wilderness (Deadly)
+004-049-001	Summit Wilderness (Merciless)
+004-049-002	Frontier Wilderness (Merciless)
+004-050		Big Peng Z Strikes
+004-050-000	Cradle Wilderness (Deadly)
+004-050-001	Summit Wilderness (Merciless)
+004-050-002	Frontier Wilderness (Merciless)
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
