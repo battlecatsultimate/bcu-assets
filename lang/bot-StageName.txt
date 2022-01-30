@@ -584,7 +584,7 @@
 001-048-001	Bound to Evolve (Insane)
 001-049		The Dom Awakens!
 001-049-000	Whipped into Shape (Expert)
-001-049-001	Whipper into Shape (Insane)
+001-049-001	Whipped into Shape (Insane)
 001-050		Box Cats Awakens
 001-050-000	Boxing Clever (Expert)
 001-050-001	Boxing Clever (Insane)
@@ -742,19 +742,19 @@
 001-103		Tank Maniac
 001-103-000	Vulcanizer (Deadly)
 001-104		Axe Maniac
-001-104-000	Unjust War (Insane)
+001-104-000	Unjust War (Deadly)
 001-105		Gross Maniac
-001-105-000	Muscle Party (Insane)
+001-105-000	Muscle Party (Deadly)
 001-106		Cow Maniac
-001-106-000	Lots o’ Lion (Insane)
+001-106-000	Lots O' Lion (Deadly)
 001-107		Bird Maniac
-001-107-000	Forest Beasts (Insane)
+001-107-000	Forest Beasts (Deadly)
 001-108		Fish Maniac
-001-108-000	Ogre Island (Insane)
+001-108-000	Ogre Island (Deadly)
 001-109		Lizard Maniac
-001-109-000	Draconian (Insane)
+001-109-000	Draconian (Deadly)
 001-110		Titan Maniac
-001-110-000	Resident Feline (Insane)
+001-110-000	Resident Feline (Deadly)
 001-111		Bad To Worse
 001-111-000	Tragedy in Red (Insane)
 001-112		Day of Judgement
