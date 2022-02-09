@@ -497,7 +497,7 @@
 496	Urs e Fenrir
 497	Cocconator
 498	Tacchia
-499	
+499	Baron Foca
 500	
 501	
 502	
@@ -508,12 +508,12 @@
 507	
 508	
 509	
-510	
+510	Ele-tale
 511	Z-Onel angelo della morte
 512	Mini Ziclone
 513	San Dober
 514	Doremi
-515	
+515	Mega-Falena
 516	Maestro Uril
 517	Koronio
 518	
@@ -523,7 +523,7 @@
 522	
 523	
 524	
-525	
+525	Super Yppo
 526	Idi:Re
 527	Zondine
 528	
@@ -591,8 +591,8 @@
 590	
 591	
 592	Rosso energico
-593	
-594	
+593	Arcangelo Exiel
+594	Grande Ping Z
 595	
 596	
 597	

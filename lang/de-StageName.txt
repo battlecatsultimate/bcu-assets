@@ -1315,6 +1315,34 @@
 001-287-005	Nördlicher Krater
 001-287-006	Kaltes Schneefeld
 001-287-007	Letztes Schlachtfeld
+001-289		Marsch der Flammen
+001-289-000	Höhle der Anfänge
+001-289-001	Wandererwald
+001-289-002	Östliche Sande
+001-289-003	Westliche Wüste
+001-289-004	Südliche Gipfel
+001-289-005	Nördliche Ruinen
+001-289-006	Brandstrand
+001-289-007	Letztes Schlachtfeld
+001-290		Von deinem Junior
+001-290-000	Bitte nimm das
+001-290-001	Ich habe dich beobachtet
+001-290-002	In Erwartung deiner Antwort ...
+001-291		Von deinem Senpai
+001-291-000	Vergiss mich nicht, ja?
+001-291-001	Meine selbstgemachten Süßigkeiten
+001-291-002	Ein Symbol meiner Gefühle
+001-292		Von einem Kindheitsfreund
+001-292-000	Du hast nichts bekommen?
+001-292-001	Dann nimm das hier
+001-292-002	Ich hab sowieso mehr gemacht
+001-296		Hof der Qual
+001-296-000	Himmel und Hölle (Gnadenlos)
+001-296-001	Okames Teestube (Gnadenlos)
+001-297		Hof der Qual
+001-297-000	Occupy Nachmittagsbetreuung
+001-297-001	Betteln um Schokolade
+001-297-002	Siebenminütiger Krieg
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3111,6 +3139,13 @@
 013-040-003	Höllenkrater
 013-040-004	Feuerkönigreich-Dynamit
 013-040-005	Brennender Sonnenuntergang
+013-041		Rosafarbene Straße
+013-041-000	Sprachlose Zungen
+013-041-001	Lampen hoch
+013-041-002	Asche voraus
+013-041-003	Umhang des Verbergens
+013-041-004	Halle der Bankette
+013-041-005	Grille Fleisch statt Städte
 
 014			Drink Stages
 014-000		Gelbes Sprießen
@@ -3857,6 +3892,60 @@
 024-040-007	Verwirrung St. 8
 024-040-008	Verwirrung St. 9
 024-040-009	Verwirrung St. MAX
+024-042		Katzenhorde
+024-042-000	Blutdurstig St. 1
+024-042-001	Blutdurstig St. 2
+024-042-002	Blutdurstig St. 3
+024-042-003	Blutdurstig St. 4
+024-042-004	Blutdurstig St. 5
+024-042-005	Blutdurstig St. 6
+024-042-006	Blutdurstig St. 7
+024-042-007	Blutdurstig St. 8
+024-042-008	Blutdurstig St. 9
+024-042-009	Blutdurstig St. MAX
+024-043		März-Turnier
+024-043-000	Bärenstark St. 1
+024-043-001	Bärenstark St. 2
+024-043-002	Bärenstark St. 3
+024-043-003	Bärenstark St. 4
+024-043-004	Bärenstark St. 5
+024-043-005	Bärenstark St. 6
+024-043-006	Bärenstark St. 7
+024-043-007	Bärenstark St. 8
+024-043-008	Bärenstark St. 9
+024-043-009	Bärenstark St. 10
+024-044		März-Turnier II
+024-044-000	Bärenzugabe St. 11
+024-044-001	Bärenzugabe St. 12
+024-044-002	Bärenzugabe St. 13
+024-044-003	Bärenzugabe St. 14
+024-044-004	Bärenzugabe St. 15
+024-044-005	Bärenzugabe St. 16
+024-044-006	Bärenzugabe St. 17
+024-044-007	Bärenzugabe St. 18
+024-044-008	Bärenzugabe St. 19
+024-044-009	Bärenzugabe St. MAX
+024-045		Angriff der einsamen Herzen
+024-045-000	Trostgeschenk St. 1
+024-045-001	Trostgeschenk St. 2
+024-045-002	Trostgeschenk St. 3
+024-045-003	Trostgeschenk St. 4
+024-045-004	Trostgeschenk St. 5
+024-045-005	Trostgeschenk St. 6
+024-045-006	Trostgeschenk St. 7
+024-045-007	Trostgeschenk St. 8
+024-045-008	Trostgeschenk St. 9
+024-045-009	Trostgeschenk St. 10
+024-045-010	Trostgeschenk St. 11
+024-045-011	Trostgeschenk St. 12
+024-045-012	Trostgeschenk St. 13
+024-045-013	Trostgeschenk St. 14
+024-045-014	Trostgeschenk St. 15
+024-045-015	Trostgeschenk St. 16
+024-045-016	Trostgeschenk St. 17
+024-045-017	Trostgeschenk St. 18
+024-045-018	Trostgeschenk St. 19
+024-045-019	Trostgeschenk St. MAX
 
 025			Enigma Stages
 025-000		Atium-Felder

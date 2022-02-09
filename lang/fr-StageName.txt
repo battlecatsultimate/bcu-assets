@@ -1316,6 +1316,34 @@
 001-287-005	Cratère nord
 001-287-006	Piste glacée
 001-287-007	Champ de bataille ultime
+001-289		La marche des flammes
+001-289-000	Grotte des prémices
+001-289-001	Forêt du vagabond
+001-289-002	Sables orientaux
+001-289-003	Friche occidentale
+001-289-004	Pics méridionaux
+001-289-005	Ruines septentrionales
+001-289-006	Plage brûlante
+001-289-007	Champ de bataille ultime
+001-290		De la part de ton élève
+001-290-000	Accepte ceci
+001-290-001	Je t'ai observé de loin
+001-290-002	Attendant ta réponse...
+001-291		De la part de ton senpai
+001-291-000	Ne m'oublie pas, d'accord ?
+001-291-001	Mes friandises maison
+001-291-002	Gage de mes sentiments
+001-292		D'un ami d’enfance
+001-292-000	Tu n'as rien reçu ?
+001-292-001	Dans ce cas, prends ça
+001-292-002	J'en avais fait en plus
+001-296		Tribunal de l'agonie
+001-296-000	Paradis et enfer (sans répit)
+001-296-001	Salon de thé d'Okame (sans répit)
+001-297		À bas les amoureux
+001-297-000	Occupation extrascolaire
+001-297-001	Mendier du chocolat
+001-297-002	Guerre de 7 minutes
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3113,6 +3141,13 @@
 013-040-003	Cratère infernal
 013-040-004	Dynamite du pays du feu
 013-040-005	Crépuscule brûlant
+013-041		Route couleur rose
+013-041-000	Langues muettes
+013-041-001	Hissez les lampes
+013-041-002	Cendres droit devant
+013-041-003	Cape de camouflage
+013-041-004	Salle du festin
+013-041-005	Viande grillée, villes sauves
 
 014			Night Stages
 014-000		Croissance jaune
@@ -3859,6 +3894,60 @@
 024-040-007	Confusion niv. 8
 024-040-008	Confusion niv. 9
 024-040-009	Confusion niv. max
+024-042		Horde de Chats
+024-042-000	Sanguinaire niv. 1
+024-042-001	Sanguinaire niv. 2
+024-042-002	Sanguinaire niv. 3
+024-042-003	Sanguinaire niv. 4
+024-042-004	Sanguinaire niv. 5
+024-042-005	Sanguinaire niv. 6
+024-042-006	Sanguinaire niv. 7
+024-042-007	Sanguinaire niv. 8
+024-042-008	Sanguinaire niv. 9
+024-042-009	Sanguinaire niv. max
+024-043		Défi de mars
+024-043-000	Simple appareil niv. 1
+024-043-001	Simple appareil niv. 2
+024-043-002	Simple appareil niv. 3
+024-043-003	Simple appareil niv. 4
+024-043-004	Simple appareil niv. 5
+024-043-005	Simple appareil niv. 6
+024-043-006	Simple appareil niv. 7
+024-043-007	Simple appareil niv. 8
+024-043-008	Simple appareil niv. 9
+024-043-009	Simple appareil niv. 10
+024-044		Défi de mars II
+024-044-000	De retour niv. 11
+024-044-001	De retour niv. 12
+024-044-002	De retour niv. 13
+024-044-003	De retour niv. 14
+024-044-004	De retour niv. 15
+024-044-005	De retour niv. 16
+024-044-006	De retour niv. 17
+024-044-007	De retour niv. 18
+024-044-008	De retour niv. 19
+024-044-009	De retour niv. max
+024-045		Attaque des célibataires
+024-045-000	Offert par pitié niv. 1
+024-045-001	Offert par pitié niv. 2
+024-045-002	Offert par pitié niv. 3
+024-045-003	Offert par pitié niv. 4
+024-045-004	Offert par pitié niv. 5
+024-045-005	Offert par pitié niv. 6
+024-045-006	Offert par pitié niv. 7
+024-045-007	Offert par pitié niv. 8
+024-045-008	Offert par pitié niv. 9
+024-045-009	Offert par pitié niv. 10
+024-045-010	Offert par pitié niv. 11
+024-045-011	Offert par pitié niv. 12
+024-045-012	Offert par pitié niv. 13
+024-045-013	Offert par pitié niv. 14
+024-045-014	Offert par pitié niv. 15
+024-045-015	Offert par pitié niv. 16
+024-045-016	Offert par pitié niv. 17
+024-045-017	Offert par pitié niv. 18
+024-045-018	Offert par pitié niv. 19
+024-045-019	Offert par pitié niv. max
 
 025			Enigma Stages
 025-000		Champs Aitum

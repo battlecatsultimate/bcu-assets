@@ -30,14 +30,14 @@
 8001	(Verás las fases relevantes en los detalles de la misión)
 8002	(Completa 5 fases legendarias amarillas cualesquiera)
 8003	(Completa 7 expediciones a cualquier zona)
-8004	(Completa los 4 desafíos semanales disponibles)
+8004	Supera todas las misiones semanales:
 8005	(Verás las fases relevantes en los detalles de la misión)
 8006	(Verás las fases relevantes en los detalles de la misión)
 8007	(Completa 10 expediciones a cualquier zona)
 8008	(Verás las fases relevantes en los detalles de la misión)
 8009	(Completa 10 fases legendarias amarillas)
-8010	(Completa los 4 desafíos semanales disponibles)
-8011	(Completa los 4 desafíos semanales disponibles)
+8010	Supera todas las misiones semanales:
+8011	Supera todas las misiones semanales:
 9000	Supera el piso 30 de la Torre Celestial. (Este premio solo se puede recoger una vez)
 9001	(Completa cualquier fase de Lección Veraniega)
 9002	(Completa cualquier fase de Lección Veraniega)
@@ -210,14 +210,14 @@
 9200	(Completa cualquier fase de Shakurel Planet)
 9201	(Completa cualquier fase de Shakurel Planet)
 9202	Mejora a Shakurel al nivel 10. (Debes hacerlo antes de que acabe el evento)
-17001	(Completa los 3 desafíos mensuales disponibles)
-17002	(Completa los 6 desafíos mensuales disponibles)
-17003	(Completa los 9 desafíos mensuales disponibles)
-17004	(Completa los 12 desafíos mensuales disponibles)
-17005	(Completa los 15 desafíos mensuales disponibles)
-17006	(Completa los 20 desafíos mensuales disponibles)
-17007	(Completa los 25 desafíos mensuales disponibles)
-17008	(Completa los 30 desafíos mensuales disponibles)
+17001	Supera todas las misiones mensuales:
+17002	Supera todas las misiones mensuales:
+17003	Supera todas las misiones mensuales:
+17004	Supera todas las misiones mensuales:
+17005	Supera todas las misiones mensuales:
+17006	Supera todas las misiones mensuales:
+17007	Supera todas las misiones mensuales:
+17008	Supera todas las misiones mensuales:
 1000	Vence a Hipo en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
 1001	Vence a Cerdi en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
 1002	Vence a Ping Pong en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)

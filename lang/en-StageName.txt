@@ -1328,6 +1328,34 @@
 001-287-005	Northern Crater
 001-287-006	Cold Snowfield
 001-287-007	Final Battleground
+001-289		The March of Flames
+001-289-000	Cave of Beginnings
+001-289-001	Wanderer's Forest
+001-289-002	Eastern Sands
+001-289-003	Western Wastes
+001-289-004	Southern Peaks
+001-289-005	Northern Ruins
+001-289-006	Burning Beach
+001-289-007	Final Battleground
+001-290		From Your Junior
+001-290-000	Please Accept This
+001-290-001	I've Watched You From Afar
+001-290-002	Waiting for Your Reply...
+001-291		From Your Senpai
+001-291-000	Don't Forget Me, Okay?
+001-291-001	My Homemade Sweets
+001-291-002	A Mark of My Feelings
+001-292		From A Childhood Friend
+001-292-000	You Didn't Get Anything?
+001-292-001	Well, Have This Then
+001-292-002	I Made Extra Anyhow
+001-296		Courts of Agony
+001-296-000	Heaven and Hell (Merciless)
+001-296-001	Okame's Teahouse (Merciless)
+001-297		War on Valentines
+001-297-000	Occupy Afterschool
+001-297-001	Begging for Chocolate
+001-297-002	7-Minute War
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3139,6 +3167,13 @@
 013-040-003	Hell's Crater
 013-040-004	Fire Kingdom Dynamite
 013-040-005	Burning Sunset
+013-041		Rose-Colored Road
+013-041-000	Speechless Tongues
+013-041-001	Lamps Aloft
+013-041-002	Ashes Just Ahead
+013-041-003	Cloak of Hiding
+013-041-004	Hall of Feasting
+013-041-005	Roast Meat, Not Cities
 
 014			Drink Stages
 014-000		Growing Yellow
@@ -3885,6 +3920,60 @@
 024-040-007	Confusion Lv.8
 024-040-008	Confusion Lv.9
 024-040-009	Confusion Lv.MAX
+024-042		Horde of Cats
+024-042-000	Bloodthirsty Lv.1
+024-042-001	Bloodthirsty Lv.2
+024-042-002	Bloodthirsty Lv.3
+024-042-003	Bloodthirsty Lv.4
+024-042-004	Bloodthirsty Lv.5
+024-042-005	Bloodthirsty Lv.6
+024-042-006	Bloodthirsty Lv.7
+024-042-007	Bloodthirsty Lv.8
+024-042-008	Bloodthirsty Lv.9
+024-042-009	Bloodthirsty Lv.MAX
+024-043		March Gauntlet
+024-043-000	Be Bare Lv.1
+024-043-001	Be Bare Lv.2
+024-043-002	Be Bare Lv.3
+024-043-003	Be Bare Lv.4
+024-043-004	Be Bare Lv.5
+024-043-005	Be Bare Lv.6
+024-043-006	Be Bare Lv.7
+024-043-007	Be Bare Lv.8
+024-043-008	Be Bare Lv.9
+024-043-009	Be Bare Lv.10
+024-044		March Gauntlet II
+024-044-000	Be Back Lv.11
+024-044-001	Be Back Lv.12
+024-044-002	Be Back Lv.13
+024-044-003	Be Back Lv.14
+024-044-004	Be Back Lv.15
+024-044-005	Be Back Lv.16
+024-044-006	Be Back Lv.17
+024-044-007	Be Back Lv.18
+024-044-008	Be Back Lv.19
+024-044-009	Be Back Lv.MAX
+024-045		Attack of the Lonely Hearts
+024-045-000	Pity Gift Lv.1
+024-045-001	Pity Gift Lv.2
+024-045-002	Pity Gift Lv.3
+024-045-003	Pity Gift Lv.4
+024-045-004	Pity Gift Lv.5
+024-045-005	Pity Gift Lv.6
+024-045-006	Pity Gift Lv.7
+024-045-007	Pity Gift Lv.8
+024-045-008	Pity Gift Lv.9
+024-045-009	Pity Gift Lv.10
+024-045-010	Pity Gift Lv.11
+024-045-011	Pity Gift Lv.12
+024-045-012	Pity Gift Lv.13
+024-045-013	Pity Gift Lv.14
+024-045-014	Pity Gift Lv.15
+024-045-015	Pity Gift Lv.16
+024-045-016	Pity Gift Lv.17
+024-045-017	Pity Gift Lv.18
+024-045-018	Pity Gift Lv.19
+024-045-019	Pity Gift Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields

@@ -519,7 +519,7 @@
 518	Akuma Giraffe	Akuma Lion	
 519	Lasvoss	Ultimativer Lasvoss	Wiedergeborener Lasvoss
 520	Glücks-Ebisu	Unglücks-Ebisu	
-521	Medusa-Katze	Zöpfchen-Medusa-Katze	
+521	Medusa-Katze	Zöpfchen-Medusa-Katze	Nagakatze
 522	Nymphenkatze	Medaillenkatze	Unholdkatze
 523	Wushu-Katze	Sifu-Katze	Shigong-Katze
 524			
@@ -587,7 +587,7 @@
 586	Kaiserkatze	Tyrannenkatze	
 587	Süße Aphrodite	Schokodite	
 588	Verschossene Myrcia	Verschossene Myrcia, Typ ξ	
-589	Valentins-Neneko	Liebling Neneko	
+589	Valentins-Neneko	Liebling Neneko	Wahre-Liebe-Neneko
 590	Snow Miku 2021	Snow Miku CC 2021	
 591	Kaito & Cat	Kaito & Cat CC	
 592	Neko Rin	Neko Rin CC	
@@ -642,3 +642,7 @@
 641	Iz die Tänzerin	Iz die reizende Tänzerin	
 642	Luzifer der Gefallene	Großer Luzifer	
 643	Superkatze	Superkatze II	
+644	Süße-Liebe-Mekako	Bittersüße Mekako	
+645	Gehirngewaschene Axtkatze	Gehirngewaschene Kühne Katze	
+646			
+647	Jägerin Terun	Jägerin Terun ζ	

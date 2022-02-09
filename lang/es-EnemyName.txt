@@ -497,7 +497,7 @@
 496	Urs y Fenrir
 497	Kodrinator
 498	Gluglú
-499	
+499	Barón Foca
 500	
 501	
 502	
@@ -508,12 +508,12 @@
 507	
 508	
 509	
-510	
+510	L. Fante Letal
 511	Clionel Zombi Ángel Letal
 512	Miniziclón
 513	San Dóber
 514	Doremi
-515	
+515	Mega-Pol Illa
 516	Maestro Uril
 517	Koatálico
 518	
@@ -523,7 +523,7 @@
 522	
 523	
 524	
-525	
+525	Super-Hipo
 526	Idi:Re
 527	Zolondrina
 528	
@@ -591,8 +591,8 @@
 590	
 591	
 592	EnerG Rojo
-593	
-594	
+593	Exiel Arcángel
+594	Gran Ping Pong Z.
 595	
 596	
 597	

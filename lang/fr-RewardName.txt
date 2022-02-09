@@ -473,6 +473,7 @@
 15506	Dieu empereur Gladios
 15512	Kage
 15520	Lasvoss ressuscité
+10522	Chat Naga
 15523	Chat démoniaque
 15524	Chat Shigong
 15526	Kinrangers GigaForce
@@ -482,6 +483,7 @@
 15557	Ghost Alibaba
 15570	Gravolodon
 15585	Maeda Noël de luxe
+15590	Neneko grand amour
 15595	Ultra Atlantis Logistix
 15611	Roi Nekokhamen
 30000	Attaque aug. D: Rouge

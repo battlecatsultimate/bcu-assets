@@ -208,3 +208,4 @@
 91	Petite danse, petit Miam
 92	Mini chasse à l'ancienne
 93	Étoile minimum
+94	Sacrifice

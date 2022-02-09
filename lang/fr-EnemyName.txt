@@ -497,7 +497,7 @@
 496	Urs et Fenrir
 497	Croconator
 498	Dinguedon
-499	
+499	Baron phoque
 500	
 501	
 502	
@@ -508,12 +508,12 @@
 507	
 508	
 509	
-510	
+510	Le'Grim
 511	Z-Onel ange de la mort
 512	P’tit Zyclone
 513	St. Dobert
 514	Dorémi
-515	
+515	Mega Fa Lèn
 516	Maître Uril
 517	Koronium
 518	
@@ -523,7 +523,7 @@
 522	
 523	
 524	
-525	
+525	Super Hyppalien
 526	Idi:Re
 527	Zollow
 528	
@@ -591,8 +591,8 @@
 590	
 591	
 592	NRJ rouge
-593	
-594	
+593	Archange Exiel
+594	Grand Peng Z
 595	
 596	
 597	

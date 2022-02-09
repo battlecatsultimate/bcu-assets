@@ -519,7 +519,7 @@
 518	Akuma Giraffe	Akuma Lion	
 519	Lasvoss	Lasvoss Definitivo	Lasvoss Renacido
 520	Ebisu de Buena Suerte	Ebisu de Mala Suerte	
-521	Gato Medusa	Gato Medusa con Coletas	
+521	Gato Medusa	Gato Medusa con Coletas	Gato Naga
 522	Gata Ninfa	Gata Medallista	Gato Endemoniado
 523	Gato Wushu	Gato Cinturón Negro	Gato Shigong
 524			
@@ -587,7 +587,7 @@
 586	Gato Emperador	Gato Tirano	
 587	Dulce Afrodita	Chocoladita	
 588	Myrcia Primer Amor	Myrcia Primer Amor (ξ)	
-589	Neneko de San Valentín	Neneko Amorosa	
+589	Neneko de San Valentín	Neneko Amorosa	Neneko de Amor Verdadero
 590	Snow Miku 2021	Snow Miku CC 2021	
 591	Kaito & Cat	Kaito & Cat CC	
 592	Neko Rin	Neko Rin CC	
@@ -642,3 +642,7 @@
 641	Iz la Bailarina	Iz la Bailarina Atractiva	
 642	Lucifer el Caído	Gran Lucifer	
 643	Superfelino	Superfelino II	
+644	Mekako Amante	Mekako Agridulce	
+645	Gato Hachero Adoctrinado	Gato Valiente Adoctrinado	
+646			
+647	Terun Cazadora	Terun Cazadora ζ	

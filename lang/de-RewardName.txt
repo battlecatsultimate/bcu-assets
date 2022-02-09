@@ -473,6 +473,7 @@
 15506	Gladios der Gottkaiser
 15512	Kage
 15520	Wiedergeborener Lasvoss
+10522	Nagakatze
 15523	Unholdkatze
 15524	Shigong-Katze
 15526	Kinrangers-Gigakämpfer
@@ -482,6 +483,7 @@
 15557	Ghost Alibaba
 15570	Kiesolodon
 15585	Weihnachts-Maeda DX
+15590	Wahre-Liebe-Neneko
 15595	Ultra Atlantis Logistix
 15611	König Nekokhamen
 30000	Angriff + D: Rot

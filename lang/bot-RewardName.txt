@@ -476,6 +476,7 @@
 15506	God-Emperor Gladios
 15512	Kage
 15520	Lasvoss Reborn
+10522	Naga Cat
 15523	Fiend Cat
 15524	Shigong Cat
 15526	Kinrangers GigaForce
@@ -485,6 +486,7 @@
 15557	Ghost Alibaba
 15570	Gravolodon
 15585	Maeda Christmas DX
+15590	True Love Neneko
 15595	Ultra Atlantis Logistix
 15611	King Nekokhamen
 30000	Attack Up D: Red

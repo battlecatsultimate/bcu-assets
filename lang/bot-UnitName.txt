@@ -642,7 +642,7 @@
 641	Iz the Dancer	Iz the Alluring Dancer	
 642	Lucifer the Fallen	Grand Lucifer	
 643	Superfeline	Superfeline II	
-644	Valentine Mekako	Bittersweet Mekako
-645	Brainwashed Axe Cat	Brainwashed Brave Cat
+644	Sweet Love Mekako	Bittersweet Mekako	
+645	Brainwashed Axe Cat	Brainwashed Brave Cat	
 646	Firecracker Cat	Macho Firecracker Cat
-647	Hunter Girl Terun	Hunter Girl Terun Type ζ
+647	Huntress Terun	Huntress Terun ζ

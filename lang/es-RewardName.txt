@@ -472,6 +472,7 @@
 15506	Gladios, Dios Emperador
 15512	Kage
 15520	Lasvoss Renacido
+10522	Gato Naga
 15523	Gato Endemoniado
 15524	Gato Shigong
 15526	Supertropa de Kinrangers
@@ -481,6 +482,7 @@
 15557	Ghost Alibaba
 15570	Petrolodón
 15585	Maeda Navideño DX
+15590	Neneko de Amor Verdadero
 15595	Ultratlantis Logistix
 15611	Rey Nekokhamen
 30000	Aumento de ataque D: Rojos

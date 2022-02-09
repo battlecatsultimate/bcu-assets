@@ -1319,6 +1319,34 @@
 001-287-005	Cráter del Norte
 001-287-006	Campo de Nieve Helado
 001-287-007	Campo de Batalla Final
+001-289		Marcha de Llamas
+001-289-000	Cueva de Comienzos
+001-289-001	Bosque de Nómadas
+001-289-002	Arenas del Este
+001-289-003	Páramos del Oeste
+001-289-004	Picos del Sur
+001-289-005	Ruinas del Norte
+001-289-006	Playa Ardiente
+001-289-007	Campo de Batalla Final
+001-290		De tu Alumno
+001-290-000	Acepta Esto
+001-290-001	Te He Estado Observando
+001-290-002	A la Espera de Tu Respuesta
+001-291		De tu Maestro
+001-291-000	No Me Olvides
+001-291-001	Dulces Caseros
+001-291-002	Muestra de Mis Sentimientos
+001-292		De tu Colega
+001-292-000	¿No Tienes Regalos?
+001-292-001	Pues Toma Esto
+001-292-002	He Preparado de Más
+001-296		Tribunal de Agonía
+001-296-000	Cielo e Infierno (Inhumano)
+001-296-001	Tetería de Okame (Inhumano)
+001-297		Guerra de San Valentín
+001-297-000	Ocupación de la Escuela
+001-297-001	Plegaria de Chocolate
+001-297-002	Guerra de 7 Minutos
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3116,6 +3144,13 @@
 013-040-003	Cráter del Infierno
 013-040-004	Dinamita del Reino Ígneo
 013-040-005	Atardecer Ardiente
+013-041		Camino de Rosas
+013-041-000	Sin Palabras
+013-041-001	Lámparas Arriba
+013-041-002	Cenizas Inminentes
+013-041-003	Capa de Escondite
+013-041-004	Sala de Festines
+013-041-005	Asa Carne, No Ciudades
 
 014			Drink Stages
 014-000		Cultivo Amarillo
@@ -3862,6 +3897,60 @@
 024-040-007	Confusión (nvl. 8)
 024-040-008	Confusión (nvl. 9)
 024-040-009	Confusión (nvl. máx.)
+024-042		Horda de Gatos
+024-042-000	Sed de Sangre (nvl. 1)
+024-042-001	Sed de Sangre (nvl. 2)
+024-042-002	Sed de Sangre (nvl. 3)
+024-042-003	Sed de Sangre (nvl. 4)
+024-042-004	Sed de Sangre (nvl. 5)
+024-042-005	Sed de Sangre (nvl. 6)
+024-042-006	Sed de Sangre (nvl. 7)
+024-042-007	Sed de Sangre (nvl. 8)
+024-042-008	Sed de Sangre (nvl. 9)
+024-042-009	Sed de Sangre (nvl. máx.)
+024-043		Desafío de Marzo
+024-043-000	Al Desnudo (nvl. 1)
+024-043-001	Al Desnudo (nvl. 2)
+024-043-002	Al Desnudo (nvl. 3)
+024-043-003	Al Desnudo (nvl. 4)
+024-043-004	Al Desnudo (nvl. 5)
+024-043-005	Al Desnudo (nvl. 6)
+024-043-006	Al Desnudo (nvl. 7)
+024-043-007	Al Desnudo (nvl. 8)
+024-043-008	Al Desnudo (nvl. 9)
+024-043-009	Al Desnudo (nvl. 10)
+024-044		Desafío de Marzo II
+024-044-000	El Regreso (nvl. 11)
+024-044-001	El Regreso (nvl. 12)
+024-044-002	El Regreso (nvl. 13)
+024-044-003	El Regreso (nvl. 14)
+024-044-004	El Regreso (nvl. 15)
+024-044-005	El Regreso (nvl. 16)
+024-044-006	El Regreso (nvl. 17)
+024-044-007	El Regreso (nvl. 18)
+024-044-008	El Regreso (nvl. 19)
+024-044-009	El Regreso (nvl. máx.)
+024-045		Ataque del Corazón Solitario
+024-045-000	Por Compasión (nvl. 1)
+024-045-001	Por Compasión (nvl. 2)
+024-045-002	Por Compasión (nvl. 3)
+024-045-003	Por Compasión (nvl. 4)
+024-045-004	Por Compasión (nvl. 5)
+024-045-005	Por Compasión (nvl. 6)
+024-045-006	Por Compasión (nvl. 7)
+024-045-007	Por Compasión (nvl. 8)
+024-045-008	Por Compasión (nvl. 9)
+024-045-009	Por Compasión (nvl. 10)
+024-045-010	Por Compasión (nvl. 11)
+024-045-011	Por Compasión (nvl. 12)
+024-045-012	Por Compasión (nvl. 13)
+024-045-013	Por Compasión (nvl. 14)
+024-045-014	Por Compasión (nvl. 15)
+024-045-015	Por Compasión (nvl. 16)
+024-045-016	Por Compasión (nvl. 17)
+024-045-017	Por Compasión (nvl. 18)
+024-045-018	Por Compasión (nvl. 19)
+024-045-019	Por Compasión (nvl. máx.)
 
 025			Enigma Stages
 025-000		Campos de Aitum

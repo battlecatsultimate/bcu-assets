@@ -519,7 +519,7 @@
 518	Akuma Giraffe	Akuma Lion	
 519	Lasvoss	Lasvoss ultime	Lasvoss ressuscité
 520	Ebisu porte-bonheur	Ebisu porte-malheur	
-521	Chatte Médusa	Chatte Médusa à couettes	Méduse féline à couettes
+521	Chatte Médusa	Chatte Médusa à couettes	Chat Naga
 522	Nymphe féline	Médaillée féline	Chat démoniaque
 523	Chat wushu	Chat sifu	Chat Shigong
 524			
@@ -587,7 +587,7 @@
 586	Chat empereur	Chat tyran	
 587	Douce Aphrodite	Chocoladite	
 588	Myrcia premier amour	Myrcia premier amour, type ξ	
-589	Neneko Saint-Valentin	Neneko chérie	
+589	Neneko Saint-Valentin	Neneko chérie	Neneko grand amour
 590	Snow Miku 2021	Snow Miku CC 2021	
 591	Kaito & Cat	Kaito & Cat CC	
 592	Neko Rin	Neko Rin CC	
@@ -642,3 +642,7 @@
 641	Iz la danseuse	Iz la danseuse séduisante	
 642	Lucifer le déchu	Grand Lucifer	
 643	Super félin	Super félin II	
+644	Mekako bel amour	Mekako douce-amère	
+645	Chat borgne sous contrôle	Chardi sous contrôle	
+646			
+647	Terun chasseresse	Terun chasseresse ζ	

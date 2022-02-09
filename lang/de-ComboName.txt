@@ -208,3 +208,4 @@
 91	Etwas tanzen, etwas essen
 92	Winzige uralte Jagd
 93	Étoile Minimum
+94	Aufopferung

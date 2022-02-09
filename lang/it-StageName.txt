@@ -1320,6 +1320,34 @@
 001-287-005	Voragine a nord
 001-287-006	Distesa gelida
 001-287-007	Battaglia finale
+001-289		L'avanzata delle fiamme
+001-289-000	Grotta degli inizi
+001-289-001	Foresta del vagabondo
+001-289-002	Sabbie dell'est
+001-289-003	Lande a ovest
+001-289-004	Vette del sud
+001-289-005	Rovine a nord
+001-289-006	Spiaggia in fiamme
+001-289-007	Ultimo campo di battaglia
+001-290		Dal tuo junior
+001-290-000	Accetta, per favore
+001-290-001	Ti ho osservato da lontano
+001-290-002	In attesa di una tua risposta...
+001-291		Da Senpai
+001-291-000	Non mi dimenticare, ok?
+001-291-001	Dolci fatti in casa da me
+001-291-002	Simbolo di ciò che provo
+001-292		Da un amico d'infanzia
+001-292-000	Non hai ricevuto nulla?
+001-292-001	Beh, allora tieni
+001-292-002	Ne avevo in più
+001-296		Tribunale dell'Agonia
+001-296-000	Paradiso e inferno (Spietato)
+001-296-001	Sala da tè di Okame (Spietato)
+001-297		Guerra a San Valentino
+001-297-000	Occupazione del doposcuola
+001-297-001	Implorare per il cioccolato
+001-297-002	Guerra da 7 minuti
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3117,6 +3145,13 @@
 013-040-003	Voragine infernale
 013-040-004	Dinamite del regno di fuoco
 013-040-005	Tramonto in fiamme
+013-041		Una strada tutta rosa
+013-041-000	Lingue mute
+013-041-001	Lampade in volo
+013-041-002	Cenere davanti
+013-041-003	Mantello per nascondersi
+013-041-004	Sala delle feste
+013-041-005	Arrostisci la carne, non le città
 
 014			Drink Stages
 014-000		Giallo rigoglioso
@@ -3863,6 +3898,60 @@
 024-040-007	Confusione Liv. 8
 024-040-008	Confusione Liv. 9
 024-040-009	Confusione Liv. MAX
+024-042		Orda di Gatti
+024-042-000	Sete di sangue Liv. 1
+024-042-001	Sete di sangue Liv. 2
+024-042-002	Sete di sangue Liv. 3
+024-042-003	Sete di sangue Liv. 4
+024-042-004	Sete di sangue Liv. 5
+024-042-005	Sete di sangue Liv. 6
+024-042-006	Sete di sangue Liv. 7
+024-042-007	Sete di sangue Liv. 8
+024-042-008	Sete di sangue Liv. 9
+024-042-009	Sete di sangue Liv. MAX
+024-043		Sfida di marzo
+024-043-000	Rimorsi Liv. 1
+024-043-001	Rimorsi Liv. 2
+024-043-002	Rimorsi Liv. 3
+024-043-003	Rimorsi Liv. 4
+024-043-004	Rimorsi Liv. 5
+024-043-005	Rimorsi Liv. 6
+024-043-006	Rimorsi Liv. 7
+024-043-007	Rimorsi Liv. 8
+024-043-008	Rimorsi Liv. 9
+024-043-009	Rimorsi Liv. 10
+024-044		Sfida di marzo II
+024-044-000	Ri-rimorsi Liv. 11
+024-044-001	Ri-rimorsi Liv. 12
+024-044-002	Ri-rimorsi Liv. 13
+024-044-003	Ri-rimorsi Liv. 14
+024-044-004	Ri-rimorsi Liv. 15
+024-044-005	Ri-rimorsi Liv. 16
+024-044-006	Ri-rimorsi Liv. 17
+024-044-007	Ri-rimorsi Liv. 18
+024-044-008	Ri-rimorsi Liv. 19
+024-044-009	Ri-rimorsi Liv. MAX
+024-045		L'attacco dei cuori solitari
+024-045-000	Regalo per pietà Liv.1
+024-045-001	Regalo per pietà Liv.2
+024-045-002	Regalo per pietà Liv.3
+024-045-003	Regalo per pietà Liv.4
+024-045-004	Regalo per pietà Liv.5
+024-045-005	Regalo per pietà Liv.6
+024-045-006	Regalo per pietà Liv.7
+024-045-007	Regalo per pietà Liv.8
+024-045-008	Regalo per pietà Liv.9
+024-045-009	Regalo per pietà Liv.10
+024-045-010	Regalo per pietà Liv.11
+024-045-011	Regalo per pietà Liv.12
+024-045-012	Regalo per pietà Liv.13
+024-045-013	Regalo per pietà Liv.14
+024-045-014	Regalo per pietà Liv.15
+024-045-015	Regalo per pietà Liv.16
+024-045-016	Regalo per pietà Liv.17
+024-045-017	Regalo per pietà Liv.18
+024-045-018	Regalo per pietà Liv.19
+024-045-019	Regalo per pietà Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum

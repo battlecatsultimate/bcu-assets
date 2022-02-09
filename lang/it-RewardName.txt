@@ -473,6 +473,7 @@
 15506	Gladios Dio-Imperatore
 15512	Kage
 15520	Lasvoss rinato
+10522	Gatto Naga
 15523	Gatto maligno
 15524	Gatto Shigong
 15526	Gigatruppa Kinrangers
@@ -482,6 +483,7 @@
 15557	Ghost Alibaba
 15570	Gravolodon
 15585	Maeda Natale DX
+15590	Neneko vero amore
 15595	Ultra Atlantis Logistix
 15611	Re Nekokhamen
 30000	Più attacco D: Rosso
