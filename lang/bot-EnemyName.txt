@@ -597,3 +597,7 @@
 596	Nana
 597	Emelia
 598	Firecracker Lantern
+599	Super Ancient Beast Naara
+600	Zapy
+601	Childhood Friend Base
+602	Tomboy Base

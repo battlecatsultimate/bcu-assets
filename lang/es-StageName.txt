@@ -2527,6 +2527,55 @@
 003-014-046	Alaska
 003-014-047	Hawái
 003-014-048	Luna
+003-015		CotC Ch.1 Zombie
+003-015-000	Tierra
+003-015-001	Marte
+003-015-002	Júpiter
+003-015-003	Saturno
+003-015-004	Venus
+003-015-005	Mercurio
+003-015-006	Sol
+003-015-007	Urano
+003-015-008	Neptuno
+003-015-009	Tritón
+003-015-010	Plutón
+003-015-011	Rectángulo Rojo
+003-015-012	Nebulosa Esquimal
+003-015-013	Nebulosa Gatojo
+003-015-014	Nebulosa Huevo
+003-015-015	Nebulosa Calabaz
+003-015-016	Altair
+003-015-017	Sirio
+003-015-018	Canopus
+003-015-019	Vega
+003-015-020	Aldebarán
+003-015-021	Betelgeuse
+003-015-022	Deneb
+003-015-023	Bar Cósmico
+003-015-024	Estrella Vegetal
+003-015-025	Kaito
+003-015-026	Magallánico
+003-015-027	Buutara
+003-015-028	Moskandag
+003-015-029	Regina
+003-015-030	Tallarínex IV
+003-015-031	Ciruelurno
+003-015-032	Darararah
+003-015-033	Vengachao
+003-015-034	Mertoz
+003-015-035	Urura
+003-015-036	Aguham
+003-015-037	Somolón
+003-015-038	Ababwa
+003-015-039	Titán
+003-015-040	Skelet
+003-015-041	Gorigori
+003-015-042	Brotón
+003-015-043	Estrella Carmesí
+003-015-044	Nébula N77
+003-015-045	Andrómeda
+003-015-046	Agujero Negro
+003-015-047	El Big Bang
 
 004			Extra Stages
 004-000		Cultivo Verde

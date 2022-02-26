@@ -2524,6 +2524,55 @@
 003-014-046	Alaska
 003-014-047	Hawaï
 003-014-048	Lune
+003-015		CotC Ch.1 Zombie
+003-015-000	Terre
+003-015-001	Mars
+003-015-002	Jupiter
+003-015-003	Saturne
+003-015-004	Vénus
+003-015-005	Mercure
+003-015-006	Soleil
+003-015-007	Uranus
+003-015-008	Neptune
+003-015-009	Triton
+003-015-010	Pluton
+003-015-011	Rectangle rouge
+003-015-012	Nébuleuse eskimo
+003-015-013	Nébuleuse œil de Chat
+003-015-014	Nébuleuse œuf
+003-015-015	Nébuleuse Calabash
+003-015-016	Altaïr
+003-015-017	Sirius
+003-015-018	Canopus
+003-015-019	Véga
+003-015-020	Aldébaran
+003-015-021	Bételgeuse
+003-015-022	Déneb
+003-015-023	Salon cosmique
+003-015-024	Étoile du mireur
+003-015-025	Kaïou
+003-015-026	Magellanique
+003-015-027	Buutara
+003-015-028	Oscandar
+003-015-029	Coronus
+003-015-030	Soba IV
+003-015-031	Pulplanète
+003-015-032	Darararah
+003-015-033	Mercivoir
+003-015-034	Mertoz
+003-015-035	Urura
+003-015-036	Aguham
+003-015-037	Somolon
+003-015-038	Ababwa
+003-015-039	Titan
+003-015-040	Rictus
+003-015-041	Gorigori
+003-015-042	Broton
+003-015-043	Étoile écarlate
+003-015-044	Nébuleuse N77
+003-015-045	Andromède
+003-015-046	Trou noir
+003-015-047	Le Big Bang
 
 004			Extra Stages
 004-000		Croissance verte
