@@ -121,6 +121,7 @@
 160	Semilla felina de Aku
 161	Fruta felina de Aku
 164	Semilla Felina Dorada
+166	Carta de amor
 1005	Gato de Bronce
 1100	Gato de Bronce
 1001	Gato Deportista
@@ -226,6 +227,7 @@
 1055	Investigador Aku
 1056	Gato de Hamelín
 1057	Gato Calígrafo
+1058	Bestia Naala Viejuna
 19001	Gato Crestado
 19002	Gato Borrador
 19003	Gato Oscuro
@@ -479,6 +481,7 @@
 10532	Gato Cadaveroso
 15534	Saki Dinamitera
 15535	Hades Todopoderoso
+15547	Sukelan Kakulan
 15557	Ghost Alibaba
 15570	Petrolodón
 15585	Maeda Navideño DX

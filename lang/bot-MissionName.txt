@@ -196,7 +196,7 @@
 9179	Clear "Spring for Sensei" stages 5 times!
 9180	Clear "Spring for Sensei" stages 10 times!
 9181	Clear "Spring for Sensei" stages 20 times!
-9182	Evolve Maiden Cat Level 10! This mission can only be completed during the April monthly event!
+9182	Evolve Maiden Cat to Level 10! This mission can only be completed during the April monthly event!
 9183	Evolve Meowla Meowla at Level 10! This mission can only be completed during the Survive! Mola Mola event!
 9184	Clear "Lovesick Again" stages 5 times!
 9185	Clear "Lovesick Again" stages 10 times!

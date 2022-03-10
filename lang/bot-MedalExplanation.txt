@@ -92,3 +92,5 @@
 91	Clear "Temptation's Symphony"
 92	Clear "Rashomon"
 93	Clear Floor 30 of the Infernal Tower
+94	Clear all Cats of the Cosmos Ch. 1 Zombie Outbreak Stages
+95	Unlock Elder Beast Naala

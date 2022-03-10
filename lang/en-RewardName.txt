@@ -121,6 +121,7 @@
 160	Aku Catfruit Seed
 161	Aku Catfruit
 164	Gold Catfruit Seed
+166	Love Letter
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -226,6 +227,7 @@
 1055	Aku Researcher
 1056	Pied Piper Cat
 1057	Calligraphy Cat
+1058	Elder Beast Naala
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -480,6 +482,7 @@
 10532	Cadaver BearCat
 15534	Bad Blaster Saki
 15535	Almighty Hades
+15547	Sukelan Kakulan
 15557	Ghost Alibaba
 15570	Gravolodon
 15585	Maeda Christmas DX

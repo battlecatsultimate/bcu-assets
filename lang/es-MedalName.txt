@@ -92,3 +92,5 @@
 91	★ Composición seductora ★
 92	★ Cierre de puertas ★
 93	★ Infierno 30 ★
+94	★ Estrellas Muertas ★
+95	★ Naala Que Hacer ★

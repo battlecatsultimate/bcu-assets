@@ -92,3 +92,5 @@
 91	Termine Symphonie de la tentation
 92	Terminer Rashomon
 93	Terminer le 30e étage de la Tour infernale
+94	Repousse toutes les invasions zombies dans Cosmos ch. 1
+95	Débloque la Bête ancestrale Naala

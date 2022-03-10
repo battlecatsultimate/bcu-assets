@@ -121,6 +121,7 @@
 160	Graine de Chagrume Aku
 161	Chagrume Aku
 164	Graine de Chagrume doré
+166	Lettre d'amour
 1005	Chat en bronze
 1100	Chat en bronze
 1001	Chat Jour des sports
@@ -226,6 +227,7 @@
 1055	Chercheur d'ennemis Akus
 1056	Chat joueur de flûte
 1057	Challigraphe
+1058	Bête ancestrale Naala
 19001	Chat punk
 19002	Chat gomme
 19003	Chat de l’ombre
@@ -480,6 +482,7 @@
 10532	Ours-Chat cadavre
 15534	Vil bourreau Saki
 15535	Hadès Tout-puissant
+15547	Sukelan Kakulan
 15557	Ghost Alibaba
 15570	Gravolodon
 15585	Maeda Noël de luxe

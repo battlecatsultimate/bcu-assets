@@ -121,6 +121,7 @@
 160	Seme miagrume Aku
 161	Miagrume Aku
 164	Seme miagrume oro
+166	Lettera d'amore
 1005	Busto di Gatto
 1100	Busto di Gatto
 1001	Gatto sportivo
@@ -226,6 +227,7 @@
 1055	Ricercatore di Aku
 1056	Gatto pifferaio
 1057	Gatto calligrafo
+1058	Naala bestia stagionata
 19001	Gatto punk
 19002	Gatto gomma
 19003	Gatto oscuro
@@ -480,6 +482,7 @@
 10532	Gattorso cadavere
 15534	Saki super blaster
 15535	Ade Onnipotente
+15547	Sukelan Kakulan
 15557	Ghost Alibaba
 15570	Gravolodon
 15585	Maeda Natale DX

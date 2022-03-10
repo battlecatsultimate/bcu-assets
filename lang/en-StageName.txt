@@ -1356,6 +1356,45 @@
 001-297-000	Occupy Afterschool
 001-297-001	Begging for Chocolate
 001-297-002	7-Minute War
+001-298		Season 2: Heartbeat Festival
+001-298-000	No Sleep For Days
+001-298-001	Cafe Coworkers
+001-298-002	Hands on the Check
+001-298-003	Miscalculated Bill
+001-298-004	Day's End Chime
+001-298-005	School Festival Cleanup
+001-299		Season 3: Field Trip
+001-299-000	Long-Awaited Trip
+001-299-001	Sudden Call From Your Crush
+001-299-002	Impulse Souvenir
+001-299-003	Sudden Call From Your Crush
+001-299-004	Out-of-Season Bloom
+001-299-005	Sudden Call From Your Crush
+001-299-006	The Great Pillow Fight
+001-299-007	Sudden Call From Your Crush
+001-299-008	In-Flight Slumber
+001-299-009	Sudden Call From Your Crush
+001-300		Weekend: Confession
+001-300-000	Courageous Call
+001-300-001	The Dreaded Reply
+001-300-002	"I'm Sorry, But..."
+001-301		Weekend: Confession
+001-301-000	Courageous Call
+001-301-001	The Dreaded Reply
+001-301-002	"Not My Type"
+001-302		Weekend: Confession
+001-302-000	Courageous Call
+001-302-001	The Dreaded Reply
+001-302-002	"Just Friends?"
+001-303		Season 4: Graduation Day
+001-303-000	Waiting at the Spot
+001-303-001	Rising Heart Rate
+001-303-002	She Actually Came?!
+001-303-003	One Brave Step
+001-303-004	Scattered Sakura
+001-303-005	Moral Support
+001-303-006	Unheard Confession
+001-303-007	No Longer Single?
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3223,6 +3262,13 @@
 013-041-003	Cloak of Hiding
 013-041-004	Hall of Feasting
 013-041-005	Roast Meat, Not Cities
+013-042		Behemoth's Peak
+013-042-000	Fountain of Memories
+013-042-001	Chaotic Pulse
+013-042-002	Beyond the Haze
+013-042-003	Border Soil
+013-042-004	Silver Current
+013-042-005	Immortal Zenith
 
 014			Drink Stages
 014-000		Growing Yellow
@@ -4023,6 +4069,49 @@
 024-045-017	Pity Gift Lv.18
 024-045-018	Pity Gift Lv.19
 024-045-019	Pity Gift Lv.MAX
+024-046		April Gauntlet
+024-046-000	Teacher!  Lv.1
+024-046-001	Teacher!  Lv.2
+024-046-002	Teacher!  Lv.3
+024-046-003	Teacher!  Lv.4
+024-046-004	Teacher!  Lv.5
+024-046-005	Teacher!  Lv.6
+024-046-006	Teacher!  Lv.7
+024-046-007	Teacher!  Lv.8
+024-046-008	Teacher!  Lv.9
+024-046-009	Teacher!  Lv.10
+024-047		April Gauntlet II
+024-047-000	Sensei!  Lv.11
+024-047-001	Sensei!  Lv.12
+024-047-002	Sensei!  Lv.13
+024-047-003	Sensei!  Lv.14
+024-047-004	Sensei!  Lv.15
+024-047-005	Sensei!  Lv.16
+024-047-006	Sensei!  Lv.17
+024-047-007	Sensei!  Lv.18
+024-047-008	Sensei!  Lv.19
+024-047-009	Sensei!  Lv.MAX
+024-048		Season 1: School Days
+024-048-000	Desk of Destiny
+024-048-001	Seated Next to Your Crush
+024-048-002	The Dropped Eraser
+024-048-003	Sharing Textbooks
+024-048-004	Copied Homework
+024-048-005	Furtive Whispers
+024-048-006	Classroom Daydream
+024-048-007	Dodgeball Dodger
+024-048-008	Race to the Cafeteria
+024-048-009	Studying with Her
+024-048-010	Reforming Comment
+024-048-011	Unstudied Topics
+024-048-012	Cheater Handsigns
+024-048-013	Pop Quiz Pain
+024-048-014	Barely Passing
+024-048-015	Textbook Free
+024-048-016	Cleaning with Her
+024-048-017	Always on my Mind
+024-048-018	Cram Session Failure
+024-048-019	God Willing Grades
 
 025			Enigma Stages
 025-000		Aitum Fields

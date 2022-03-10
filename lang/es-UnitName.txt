@@ -544,7 +544,7 @@
 543	Kasli el Flagelo	Kasli Hija del Caos	
 544	Kyosaka Nanaho	Kyosaka Nanaho final	
 545	Gato Fantasma	Gato Miasma	
-546	Papaluga	Papalan Pasalan	
+546	Papaluga	Papalan Pasalan	Sukelan Kakulan
 547	Night Oracle Rei	Heavenly Herald Rei	
 548	The 4th Angel	4th Angel Cat	
 549	The 6th Angel	6th Angel Cat	
@@ -646,3 +646,9 @@
 645	Gato Hachero Adoctrinado	Gato Valiente Adoctrinado	
 646			
 647	Terun Cazadora	Terun Cazadora ζ	
+648	Infrademonio Enamorado	Suprademonio Enamorado	
+649	Hattori Hanzo	Dios de la Guerra Hanzo	
+650	Gata Amante	Gata Novia	
+651	Gata Leona	Gata Leona Enmascarada	
+652	Gato Borrapizarras	Gato Borrapizarras Punk	
+653	Bestia Naala Viejuna	Bestia Naala Tormenta	

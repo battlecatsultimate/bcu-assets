@@ -92,3 +92,5 @@
 91	Supera "Sinfonia della tentazione"
 92	Supera "Rashomon"
 93	Supera il 30° piano della Torre infernale
+94	Supera ogni invasione zombi in Gatti del Cosmo Cap. 1
+95	Sblocca Naala bestia stagionata

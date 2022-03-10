@@ -497,7 +497,7 @@
 496	Guardianes de la naturaleza primigenia.<br>Ningún intruso ha salido vivo de su bosque<br>sagrado. Y solo quienes sean capaces de<br>vencerlos verán qué se esconde tras la máscara.
 497	Kodri se presentó voluntario para un experimento de<br>ciborgización para ser el miembro más poderoso de su clan.<br>El problema fue que se acabó el presupuesto a medio proyecto,<br>pero aun así, su nuevo aspecto ha hecho que merezca la pena.
 498	Este pavo también es un vendedor de categoría.<br>En octubre fue a visitar a un quiromante y recibió<br>muy malas noticias sobre su futuro. Por eso ahora<br>se está entrenando las alas para salir huyendo.
-499	
+499	Un laboratorio secreto se dedicó a modificar genoma<br>de forma poco ética para crear un Señor Foca supremo. <br>Sus ataques desgastan y paralizan, así que cuidadín.<br>Su letalidad aumenta con cada batalla.
 500	
 501	
 502	
@@ -508,12 +508,12 @@
 507	
 508	
 509	
-510	
+510	Un laboratorio secreto se dedicó a modificar genoma<br>de forma poco ética para crear un L. Fante Negro<br>enorme, muy agresivo y con ataques que ralentizan.<br>Su letalidad aumenta con cada batalla.
 511	Un ser de tipo Clionel que sobrevivió a la extinción masiva<br>de los océanos contaminados de su mundo.<br>Yo no me acercaría a él ni a sus hijos, por si acaso.<br>Los gatos se quedan paralizados de miedo al verlo.
 512	Es el sobrino favorito de Ziclón.<br>Tiene la rudeza de su madre y el carácter tímido<br>de su padre combinados en una tormentilla<br>que se esconde a la primera señal de peligro.
 513	Este can fiel hasta el final espera en las puertas<br>del cielo a que llegue su amo. Su famosa estatua<br>en la que está lanzando una réplica es el punto<br>de reunión por excelencia para los adolescentes.
 514	Un bebé veterano con más de 7 años de experiencia en temas<br>de infancia. Ha perfeccionado el arte de la rabieta y ya<br>es capaz de dejar inconscientes a los enemigos. Lo han<br>rechazado en dos guarderías de élite por su talento.
-515	
+515	Un laboratorio secreto se dedicó a modificar genoma<br>de forma poco ética para crear un Pol Illa supremo.<br>Bate sus enormes alas para repeler a su presa.<br>Su letalidad aumenta con cada batalla.
 516	El jefe de un poderoso clan que en teoría está jubilado,<br>pero en realidad sigue trabajando. Construyó un escondite<br>en lo alto de una torre para estar a solas con su novia,<br>pero los gatos los interrumpieron de la forma más grosera.
 517	Entrenador y mascota del equipo favorito de la liga, los<br>Koalas Kampeones. Tiene tendencia a liarla cuando su equipo<br>va perdiendo, lo que ha resultado en la repetición de varios<br>partidos. Sus técnicas de entrenamiento son aterradoras.
 518	
@@ -523,7 +523,7 @@
 522	
 523	
 524	
-525	
+525	Un laboratorio secreto se dedicó a modificar genoma<br>de forma poco ética para crear un Hipo Alien enorme.<br>Ralentiza a aquellos que se resisten.<br>Su letalidad aumenta con cada batalla.
 526	Sujeto 002 (organismo paleobacterial)<br>Potencial de combate: incalculable.<br>Pese a su aspecto, carece del rasgo volador.<br>Su potencia es inversamente proporcional a su capacidad.
 527	Un ave tan mazada que puede cruzar<br>el río Estigia a nado cuando le viene en gana.<br>Le da rabia no poder evitar que se le pudra la masa<br>muscular que consiguió con tanto esfuerzo y sudor.
 528	
@@ -591,8 +591,13 @@
 590	
 591	
 592	H. Nah se enganchó a la gatamina [C]<br>de contrabando y perdió el sentido de la realidad.<br>Afirma ser un berserker nacido para luchar.<br>Sus réplicas mantienen a sus enemigos a distancia.
-593	
-594	
+593	Un laboratorio secreto se dedicó a modificar genoma<br>de forma poco ética para crear un Sr. Ángel superior.<br>Guía a los pecadores desgastándolos y abduciéndolos.<br>Su letalidad aumenta con cada batalla.
+594	Un laboratorio secreto se dedicó a editar genoma<br>de forma poco ética para crear un Ping enorme.<br>Lanza toxinas hacia todas partes.<br>Su letalidad aumenta con cada batalla.
 595	
 596	
 597	
+598	
+599	Un ser primordial sagrado y la criatura<br>del bosque más anciana que se conoce.<br>Invoca rayos para poner a prueba a los intrusos.<br>Quienes superen su prueba serán considerados dignos.
+600	Capi B. Ara estaba disfrutando de sus vacaciones<br>hasta que murió inesperadamente. Es una pesada<br>que protege su rinconcito abduciendo a otros<br>visitantes y mandándolos a una zona lejana.
+601	
+602	

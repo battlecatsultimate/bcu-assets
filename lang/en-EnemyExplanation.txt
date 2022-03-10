@@ -359,7 +359,7 @@
 358	
 359	
 360	Officer-class Doge in the Alien Marines.<br>Received top marks in the academy<br>specializing in Warp attacks.<br>But the job market is tough these days.
-361	The originator of Warp-field tactics.<br>The Peng people are a proud warrior race<br>with advanced scientific knowledge, thanks<br>thanks to a culture of daily sudoku.
+361	The originator of Warp-field tactics.<br>The Peng people are a proud warrior race<br>with advanced scientific knowledge,<br>thanks to a culture of daily sudoku.
 362	A mighty tactician who's still single thanks<br>to his scary face. He is actually an excellent<br>cook and has a six-octave vocal range,<br>but he is too shy to show anyone his talents.
 363	The mother of all Le'Boins, she will protect<br>her sweet children with her iron hide.<br>Invades at least new three planets a week<br>to maintain her lovely curves.
 364	He can sense all your dirty thoughts.<br>Keep your mind pure around him, or<br>the lewd energies will make him stronger.<br>Has no real experience whatsoever.
@@ -497,7 +497,7 @@
 496	Guardians of the primeval wilderness.<br>No intruder into their sacred forest has<br>ever walked out alive. Only those who<br>defeat them can peek behind the mask.
 497	Croco volunteered for cyborgization to<br>become the most powerful member of<br>his clan. They ran out of budget partway<br>through, but he makes the look work.
 498	Turkey who is also a master salesman.<br>Went to a palm reader in October and<br>received very bad news about his future.<br>Getting ready to escape by training wings.
-499	
+499	A secret lab used unethical genome editing to<br>create a superior Seal. Extreme caution is <br>advised for attacks that Weaken and Freeze.<br>Lethality increases with each battle.
 500	
 501	
 502	
@@ -508,12 +508,12 @@
 507	
 508	
 509	
-510	
+510	A secret lab used unethical genome editing to<br>create a superior Le'noir, unparalleled in size<br>and aggression and with Slowing attacks.<br>Lethality increases with each battle.
 511	Clionel-type being who somehow survived(?)<br>the mass extinction of their world's polluted<br>oceans. Don't come near me or my sons ever<br>again. Said to paralyze Cats with fright.
 512	Beloved nephew of childless uncle Zyclone.<br>Has his mother's toughness and father's timid<br>spirit, combining them into a hungry little storm<br>who hides at the first sign of danger.
 513	Loyal to the end, he waits patiently by the<br>gates of heaven for his master to arrive.<br>A famous statue of him in mid-Surge Attack<br>is a well-known meeting spot for teenagers.
 514	A veteran baby with over 7 years of experience<br>in infancy. Perfected the fake cry, with enough<br>power to knock strangers unconcious. Rejected<br>by 2 elite kindergartens because of this "talent".
-515	
+515	A secret lab used unethical genome editing to<br>create a superior Mooth. Blasts from colossal<br>wings Knockback its prey into submission.<br>Lethality increases with each battle.
 516	Retired head of a powerful clan who still<br>rules in secret. Built a secret hideaway in<br>a high tower to enjoy time with his girlfriend<br>(before being intruded upon by rude Cats!)
 517	Mascot/base coach for the NLB Champions,<br>Koala Krushers. Forced replays of several<br>games by interfering when his team is losing.<br>His harshness during training is feared by all.
 518	
@@ -523,7 +523,7 @@
 522	
 523	
 524	
-525	
+525	A secret lab used unethical genome editing to<br>create a superior Hyppoh of enormous size<br>with the ability to Slow those who resist.<br>Lethality increases with each battle.
 526	Subject 002   (Paleobacterial Lifeform)<br>Combat Potential: Immeasurable.<br>Despite appearance, Floating trait not present<br>Output corresponds to weakened capacity
 527	A bird so ripped that it can swim across<br>the River Styx whenever it wants to.<br>Upset that he can't stop the the mass he<br>worked so hard to cultivate from rotting away.
 528	
@@ -591,8 +591,13 @@
 590	
 591	
 592	H. Nah got hooked on counterfeit<br>Catamin C and lost his grip on reality,<br>claiming to be a born-to-battle Berserker.<br>Surge Attacks keep his foes at a distance.
-593	
-594	
+593	A secret lab used unethical genome editing to<br>create a superior Mr. Angel, who guides lost<br>sinners by Weakening and Warping them to<br>salvation. Lethality increases with each battle.
+594	A secret lab used unethical genome editing<br>to create a superior Peng of gigantic scale<br>with the ability to spray toxins in all directions.<br>Lethality increases with each battle.
 595	
 596	
 597	
+598	
+599	A sacred primordial being, known as the <br>most ancient among all forest creatures.<br>Calls down lightning to test trespassers.<br>Those who survive are deemed worthy to live.
+600	Capy was having a wonderful hot spring<br>holiday... until she unexpectedly died.<br>A real jerk who protects her corner of the <br>bath by Warping other visitors far away.
+601	
+602	

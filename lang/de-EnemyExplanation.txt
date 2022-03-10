@@ -497,7 +497,7 @@
 496	Wächter der unangetasteten Wildnis.<br>Niemand, der je in ihren heiligen Wald eingedrungen ist, hat<br>ihn lebend wieder verlassen. Nur jene, die sie besiegen,<br>dürfen einen Blick hinter die Maske wagen.
 497	Kroko hat sich freiwillig gemeldet, um zum Cyborg und damit<br>zum mächtigsten Mitglied seines Clans zu werden. Leider ist<br>mittendrin das Geld ausgegangen, aber er schafft,<br>dass es ganz ordentlich aussieht.
 498	Dieser Truthahn ist nebenbei ein hervorragender Verkäufer.<br>Im Oktober ließ er sich aus der Hand lesen und hat sehr<br>schlechte Neuigkeiten über seine Zukunft erfahren.<br>Er versucht ihr zu entkommen, indem er davonflattert.
-499	
+499	Ein Geheimlabor hat unethische Genmanipulation genutzt, um<br>eine überlegene Robbe zu schaffen. Höchste Vorsicht ist vor <br>Schwächen- und Einfrieren-Angriffen geboten.<br>Tödlichkeit steigt mit jedem Kampf.
 500	
 501	
 502	
@@ -508,12 +508,12 @@
 507	
 508	
 509	
-510	
+510	Ein Geheimlabor hat unethische Genmanipulation genutzt, um<br>einen überlegenden Le’noir zu schaffen. Von unübertroffener<br>Größe und Aggression, mit lähmenden Angriffen.<br>Tödlichkeit steigt mit jedem Kampf.
 511	Clionel-artiges Wesen, das die vernichtende Verschmutzung der<br>Ozeane seiner Welt irgendwie überlebt (?) hat.<br>Bleib mir und meinen Söhnen von jetzt an fern.<br>Es heißt, es kann Katzen mit Furcht lähmen.
 512	Geliebter Neffe des kinderlosen Onkel Zyklombie.<br>Verfügt über die Härte seiner Mutter und der Bescheidenheit<br>seines Vaters, wodurch ein hungriger, kleiner Sturm entsteht,<br>der sich bei der kleinsten Gefahr verkriecht.
 513	Er ist treu bis zum bitteren Ende und wartet am Himmelstor<br>auf die Ankunft seines Meisters.<br>Eine berühmte Statue von ihm beim Zufallsangriff ist ein<br>beliebter Treffpunkt für Jugendliche.
 514	Ein Veteranenbaby, das 7 Jahre Erfahrung in der Infanterie<br>gesammelt hat. Kann perfekt auf Kommando weinen und<br>Fremde bewusstlos schlagen. Wurde deswegen von zwei<br>Kindergärten abgelehnt.
-515	
+515	Ein Geheimlabor hat unethische Genmanipulation genutzt, um<br>eine überlegene Mootte zu schaffen. Stöße der kolossalen<br>Schwingen stoßen ihre Beute bis zum Sieg zurück.<br>Tödlichkeit steigt mit jedem Kampf.
 516	Oberhaupt eines mächtigen Klans im Ruhestand, das insgeheim<br>noch immer regiert. Hat im hohen Turm ein Versteck errichtet,<br>wo er mit seiner Freundin entspannt (bis die unhöflichen<br>Katzen das Versteck stürmen!)
 517	Maskottchen/Trainer der NLB-Champions „Koala-Knüppler“.<br>Hat öfter erzwungen, dass Spiele wiederholt wurden, indem<br>er das Spiel gestört hat, wenn sein Team am verlieren war.<br>Alle fürchten seine gnadenlosen Trainingsmethoden.
 518	
@@ -523,7 +523,7 @@
 522	
 523	
 524	
-525	
+525	Ein Geheimlabor hat unethische Genmanipulation genutzt, um<br>ein überlegenes Nüllpferd zu schaffen. Enorm groß, mit der<br>Fähigkeit, jeden, der sich wehrt, zu lähmen.<br>Tödlichkeit steigt mit jedem Kampf.
 526	Subjekt 002 (paläobakterielle Lebensform)<br>Kampfpotenzial: Unermesslich.<br>Trotz Aussehens ist Eigenschaft „Fliegend“ nicht vorhanden.<br>Leistung entspricht geschwächter Kapazität
 527	Dieser Vogel ist so stark, dass er nach Belieben selbst durch<br>den Fluss Styx schwimmen kann.<br>Unglücklich, weil seine sorgsam kultivierten Muskeln trotz<br>aller Maßnahmen einfach verrotten.
 528	
@@ -591,8 +591,13 @@
 590	
 591	
 592	H. Nee ist süchtig nach gestrecktem<br>Katzamin C und leidet unter Realitätsverlust.<br>Behauptet, ein für den Kampf geborener Berserker zu sein.<br>Zufallsangriffe halten seine Feinde auf Distanz.
-593	
-594	
+593	Ein Geheimlabor hat unethische Genmanipulation genutzt, um<br>einen überlegenen Mr. Engel zu schaffen, der verlorene<br>Sünder führt, indem er sie bis zur Erlösung schwächt und<br>teleportiert. Tödlichkeit steigt mit jedem Kampf.
+594	Ein Geheimlabor hat unethische Genmanipulation genutzt, um<br>einen überragenden Peng gigantischer Ausmaße zu schaffen,<br>der Gift in alle Richtungen sprühen kann.<br>Tödlichkeit steigt mit jedem Kampf.
 595	
 596	
 597	
+598	
+599	Ein heiliges Wesen, als älteste aller Waldkreaturen<br>bekannt. Ruft den Blitz herab, um Eindringlinge zu strafen.<br>Die Überlebenden gelten als würdig,<br>weiterzuleben.
+600	Capy hatte einen wunderbaren Thermenurlaub ...<br>bis sie urplötzlich verstarb. Sie ist richtig fies und<br>schützt ihre Ecke des Bads, indem sie andere<br>Gäste weit weg teleportiert.
+601	
+602	

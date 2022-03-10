@@ -544,7 +544,7 @@
 543	Kasli die Verheerende	Kasli, Tochter des Chaos	
 544	Kyosaka Nanaho	Wahre Kyosaka Nanaho	
 545	Phantomkatze	Miasmakatze	
-546	Papaluga	Papalan Pasalan	
+546	Papaluga	Papalan Pasalan	Sukelan Kakulan
 547	Night Oracle Rei	Heavenly Herald Rei	
 548	The 4th Angel	4th Angel Cat	
 549	The 6th Angel	6th Angel Cat	
@@ -646,3 +646,9 @@
 645	Gehirngewaschene Axtkatze	Gehirngewaschene Kühne Katze	
 646			
 647	Jägerin Terun	Jägerin Terun ζ	
+648	Verliebter Unterdämon	Verliebter Oberdämon	
+649	Hattori Hanzo	Kriegsgott Hanzo	
+650	Heimlicher-Schwarm-Katze	Freundin-Katze	
+651	Wildfang-Löwenkatze	Löwenkatze in eiserner Maske	
+652	Tafelschwammkatze	Tafelschwamm-Punkkatze	
+653	Ältestenbestie Naala	Sturmbestie Naala	

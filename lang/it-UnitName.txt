@@ -544,7 +544,7 @@
 543	Kasli il Tormento	Kasli, figlia del Caos	
 544	Kyosaka Nanaho	Vera Kyosaka Nanaho	
 545	Gatto fantasma	Gatto miasma	
-546	Papaluga	Papalan Pasalan	
+546	Papaluga	Papalan Pasalan	Sukelan Kakulan
 547	Night Oracle Rei	Heavenly Herald Rei	
 548	The 4th Angel	4th Angel Cat	
 549	The 6th Angel	6th Angel Cat	
@@ -646,3 +646,9 @@
 645	Gatto ascia plagiato	Gatto prode plagiato	
 646			
 647	Terun cacciatrice	Terun cacciatrice ζ	
+648	Demone minore innamorato	Demone maggiore innamorato	
+649	Hattori Hanzo	Hanzo Dio della guerra	
+650	Gatta cotta segreta	Gatta fidanzata	
+651	Gatta leo maschiaccio	Gatta leo maschera di ferro	
+652	Gatto cancellino	Gatto cancellino punk	
+653	Naala bestia stagionata	Naala bestia tempestosa	

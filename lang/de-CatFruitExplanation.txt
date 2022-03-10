@@ -544,7 +544,7 @@
 543	<br><br>
 544	<br><br>
 545	<br><br>
-546	<br><br>
+546	Wahre-Form-Entwicklung erhöht Vert.!<br>Zudem hält der Flucheffekt länger an, plus<br>Immunität gegen Zufallsangriffe!
 547	<br><br>
 548	<br><br>
 549	<br><br>
@@ -646,3 +646,9 @@
 645	<br><br>
 646	<br><br>
 647	<br><br>
+648	<br><br>
+649	<br><br>
+650	<br><br>
+651	<br><br>
+652	<br><br>
+653	<br><br>

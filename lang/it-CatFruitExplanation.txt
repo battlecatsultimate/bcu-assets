@@ -544,7 +544,7 @@
 543	<br><br>
 544	<br><br>
 545	<br><br>
-546	<br><br>
+546	La Forma Reale ottiene maggiore difesa!<br>L'effetto della maledizione dura più a lungo<br>e ottiene immunità da attacchi a valanga!
 547	<br><br>
 548	<br><br>
 549	<br><br>
@@ -646,3 +646,9 @@
 645	<br><br>
 646	<br><br>
 647	<br><br>
+648	<br><br>
+649	<br><br>
+650	<br><br>
+651	<br><br>
+652	<br><br>
+653	<br><br>

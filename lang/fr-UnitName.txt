@@ -544,7 +544,7 @@
 543	Kasli la calamité	Kasli, fille du chaos	
 544	Kyosaka Nanaho	Véritable Kyosaka Nanaho	
 545	Chat fantôme	Chat miasme	
-546	Papaluga	Papalan Pasalan	
+546	Papaluga	Papalan Pasalan	Sukelan Kakulan
 547	Night Oracle Rei	Heavenly Herald Rei	
 548	The 4th Angel	4th Angel Cat	
 549	The 6th Angel	6th Angel Cat	
@@ -646,3 +646,9 @@
 645	Chat borgne sous contrôle	Chardi sous contrôle	
 646			
 647	Terun chasseresse	Terun chasseresse ζ	
+648	Démon inférieur amoureux	Démon supérieur amoureux	
+649	Hanzo Hattori	Hanzo dieu de la guerre	
+650	Chatte flirt secret	Chatte petite amie	
+651	Chatte lion écolière	Chatte lion masque de fer	
+652	Chat effaceur de tableau	Chat purificateur de tableau	
+653	Bête ancestrale Naala	Bête tempête Naala	

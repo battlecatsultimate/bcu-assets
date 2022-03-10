@@ -497,7 +497,7 @@
 496	Gardiens de la forêt vierge.<br>Jamais aucun intrus n’en est ressorti vivant.<br>Seuls ceux qui parviennent à les vaincre<br>peuvent voir derrière le masque.
 497	Croco s’est porté volontaire pour être transformé en cyborg<br>et devenir le membre le plus puissant de son clan.<br>Il y a eu un manque de budget à mi-chemin,<br>mais il a quand même de l’allure !
 498	Un dindon qui est aussi un commercial hors pair.<br>Il est allé voir une voyante en octobre, qui lui a prédit<br>un avenir pas joli joli...<br>Il veut y échapper en apprenant à voler.
-499	
+499	Un labo secret d'expériences génétiques douteuses<br>a créé un Phoque supérieur. Prudence maximale face à <br>ses attaques qui affaiblissent et immobilisent.<br>Sa létalité augmente à chaque combat.
 500	
 501	
 502	
@@ -508,12 +508,12 @@
 507	
 508	
 509	
-510	
+510	Un labo secret d'expériences génétiques douteuses<br>a créé un Éléfombre supérieur. Inégalé en taille comme<br>en agressivité, attaques qui ralentissent.<br>Sa létalité augmente à chaque combat.
 511	Un être de type Clionel qui a réussi à survivre<br>à l’extinction de masse dans les océans pollués<br>de son monde. Ne vous approchez plus de lui ni de<br>ses fils. On dit qu’il paralyse les Chats de peur.
 512	Neveu adoré de Zyclone, qui n’a pas d’enfants.<br>Il est dur comme sa mère et timide comme son père.<br>Cette association en fait une petite tornade affamée<br>qui se cache au moindre signe de danger.
 513	Fidèle jusqu’au bout, il attend patiemment près des<br>portes du paradis que son maître arrive.<br>Une célèbre statue de lui en pleine réplique offensive<br>est le lieu de rencontre préféré des ados.
 514	Un bébé vétéran qui a plus de 7 ans d’expérience<br>de l’enfance. Joue tellement bien les faux pleurs qu’il<br>fait tomber les inconnus dans les pommes. Rejeté de<br>2 crèches réputées à cause de son « talent »...
-515	
+515	Un labo secret d'expériences génétiques douteuses<br>a créé un Fa Lèn supérieur. Les tirs de ses ailes colossales<br>repoussent sa proie pour mieux la soumettre.<br>Sa létalité augmente à chaque combat.
 516	Chef à la retraite d’un clan puissant, il continue à tirer<br>les ficelles. Il a construit une cachette secrète dans une<br>haute tour pour passer du bon temps avec sa petite<br>amie (avant que des chats mal élevés ne le dérangent !).
 517	Mascotte et entraîneur des Koala Krushers, champions<br>de la NLB. À cause de ses interruptions quand son équipe<br>perdait, plusieurs matchs ont dû être rejoués.<br>Sa rigueur à l’entraînement est redoutée de tous.
 518	
@@ -523,7 +523,7 @@
 522	
 523	
 524	
-525	
+525	Un labo secret d'expériences génétiques douteuses<br>a créé un Hyppalien supérieur de taille gigantesque.<br>Il a la capacité de ralentir ceux qui lui résistent.<br>Sa létalité augmente à chaque combat.
 526	Sujet 002 (forme de vie paléobactérienne)<br>Potentiel de combat : incommensurable.<br>N’est pas un flottant malgré son apparence.<br>Sa puissance correspond à une capacité affaiblie.
 527	Un oiseau si décharné qu’il peut traverser<br>le Styx à la nage quand il le souhaite.<br>Ça l’énerve de ne pas pouvoir empêcher sa<br>belle masse musculaire de pourrir.
 528	
@@ -591,8 +591,13 @@
 590	
 591	
 592	Hi Yen s'est fait avoir avec de la fausse vichamine C<br>et a perdu tout sens des réalités, prétendant<br>être un berserker né pour combattre.<br>Ses répliques offensives gardent ses ennemis à distance.
-593	
-594	
+593	Un labo secret d'expériences génétiques douteuses<br>a créé un Mr. Ange supérieur, qui guide les pauvres<br>pécheurs par l'affaiblissement et la téléportation vers<br>le salut. Sa létalité augmente à chaque combat.
+594	Un labo secret d'expériences génétiques douteuses<br>a créé un Peng supérieur et gigantesque qui répand<br>des toxines dans toutes les directions.<br>Sa létalité augmente à chaque combat.
 595	
 596	
 597	
+598	
+599	Un être primordial sacré, connu comme étant la plus<br>ancienne de toutes les créatures de la forêt.<br>Invoque des éclairs pour mettre les intrus à l'épreuve.<br>Les survivants sont jugés dignes de vivre.
+600	Caby se régalait de ses vacances de printemps...<br>Jusqu'à ce que la mort la surprenne.<br>Elle protège très bêtement son coin de la baignoire<br>en téléportant très loin les autres visiteurs.
+601	
+602	

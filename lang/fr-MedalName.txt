@@ -92,3 +92,5 @@
 91	★ Charmante composition ★
 92	★ Fermer les portes ★
 93	★ Inferno 30 ★
+94	★ Étoiles mortes ★
+95	★ Trala Naala ★

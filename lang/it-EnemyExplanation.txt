@@ -497,7 +497,7 @@
 496	Guardiani delle lande primordiali.<br>Nessun intruso è mai uscito vivo dalla loro<br>foresta sacra. Solo chi li sconfigge<br>può sbirciare dietro la maschera.
 497	Cocco si offrì volontario per la cyborgizzazione<br>per diventare il membro più potente<br>del suo clan. Il budget è finito a metà<br>strada, ma lui fa funzionare il look.
 498	Tacchino che è anche un venditore provetto.<br>È andato da un veggente a ottobre e<br>ha ricevuto pessime notizie sul suo futuro.<br>Si prepara a scappare allenando le ali.
-499	
+499	Un laboratorio segreto ha modificato un genoma<br>per creare la Foca migliore. Si consiglia <br>estrema cautela: causa immobilità e indebolimento.<br>La sua letalità aumenta a ogni battaglia.
 500	
 501	
 502	
@@ -508,12 +508,12 @@
 507	
 508	
 509	
-510	
+510	Un laboratorio segreto ha modificato un genoma<br>per creare l'Elenoir migliore, di impareggiabile<br>stazza e aggressività, con attacchi che rallentano.<br>La sua letalità aumenta a ogni battaglia.
 511	Una specie di Clionel in qualche modo sopravvissuto (?)<br>all'estinzione di massa degli oceani inquinati del suo<br>mondo. Non avvicinarti mai più a me o ai miei figli.<br>Pare che paralizzi i Gatti con la paura.
 512	Amato nipote dello zio senza figli Ziclone.<br>Ha la forza della madre e lo spirito timido del<br>padre, e li unisce in una piccola tempesta affamata<br>che nasconde al primo segno di pericolo.
 513	Leale fino alla fine, attende pazientemente<br>l'arrivo del suo padrone ai cancelli del paradiso.<br>Una famosa statua che lo rappresenta durante un attacco a<br>valanga è un punto di incontro gettonato tra gli adolescenti.
 514	Un bebè esperto con oltre 7 anni di esperienza<br>nell'infanzia. Ha perfezionato il pianto finto, abbastanza<br>potente da stendere gli estranei. Rifiutato<br>da 2 asili d'élite a causa di questo "talento".
-515	
+515	Un laboratorio segreto ha modificato un genoma<br>per creare la Falena migliore. Con le sue ali<br>giganti provoca respinte ai danni delle prede.<br>La sua letalità aumenta a ogni battaglia.
 516	Capo di un potente clan in pensione, comanda<br>ancora segretamente. Ha costruito un nascondiglio segreto<br>su un'alta torre per passare del tempo con la sua ragazza,<br>prima che si intrufolassero quei Gatti cafoni!
 517	Mascotte/allenatore di base per i campioni dell'NLB, i<br>Koala Kattivi. Costringe a rigiocare tante partite<br>perché invade il campo quando la squadra sta perdendo.<br>La durezza del suo allenamento è temuta da tutti.
 518	
@@ -523,7 +523,7 @@
 522	
 523	
 524	
-525	
+525	Un laboratorio segreto ha modificato un genoma<br>per creare l'Yppo migliore, di stazza enorme<br>con l'abilità di rallentamento su chi oppone resistenza.<br>La sua letalità aumenta a ogni battaglia.
 526	Soggetto 002 (Forma di vita paleobatterica)<br>Potenziale di combattimento: Incommensurabile.<br>Nonostante l'apparenza, tratto Fluttuante non presente<br>Rendimento corrispondente a capacità ridotta
 527	Un uccello così in forma da poter attraversare<br>il Fiume Stige ogni volta che vuole.<br>Sconvolto dal fatto di non poter impedire alla massa<br>che ha coltivato tanto duramente di marcire.
 528	
@@ -591,8 +591,13 @@
 590	
 591	
 592	I. Ena ha una dipendenza da finta<br>Vitamiao C e ha perso il contatto con la realtà,<br>sostenendo di essere un Berserker fatto per la battaglia.<br>Attacchi a valanga tengono a distanza i nemici.
-593	
-594	
+593	Un laboratorio segreto ha modificato un genoma<br>per creare il Mr. Angelo migliore, che guida<br>i peccatori con indebolimento e teletrasporto verso la<br>salvezza. La sua letalità aumenta a ogni battaglia.
+594	Un laboratorio segreto ha modificato un genoma<br>per creare il Ping migliore, a scala colossale<br>con l'abilità di spruzzare tossine in ogni direzione.<br>La sua letalità aumenta a ogni battaglia.
 595	
 596	
 597	
+598	
+599	Un essere primordiale sacro, il più antico<br>tra tutte le creature della foresta.<br>Evoca i fulmini per mettere alla prova gli intrusi.<br>Chi sopravvive è ritenuto degno di vivere.
+600	Capy si stava godendo una splendida vacanza<br>alle terme... finché non è morta all'improvviso.<br>Una rompiscatole che protegge il suo angolo di<br>vasca teletrasportando lontano altri avventori.
+601	
+602	

@@ -92,3 +92,5 @@
 91	★ Alluring Composition ★
 92	★ Lock the Gates ★
 93	★ Inferno 30 ★
+94	★ Dead Stars ★
+95	★ Naala Problem ★

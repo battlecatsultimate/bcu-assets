@@ -92,3 +92,5 @@
 91	Supera Sinfonía de Tentaciones.
 92	Supera Rashomon.
 93	Supera el piso 30 de la Torre Infernal.
+94	Supera las fases zombis en Gatos Galácticos cap. 1.
+95	Desbloquea a Bestia Naala Viejuna.

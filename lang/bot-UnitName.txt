@@ -544,7 +544,7 @@
 543	Kasli the Bane	Kasli, Daughter of Chaos	
 544	Kyosaka Nanaho	True Kyosaka Nanaho	
 545	Phantom Cat	Miasma Cat	
-546	Papaluga	Papalan Pasalan	Papaluga TF
+546	Papaluga	Papalan Pasalan	Sukelan Kakulan
 547	Night Oracle Rei	Heavenly Herald Rei	
 548	The 4th Angel	4th Angel Cat	
 549	The 6th Angel	6th Angel Cat	
@@ -646,9 +646,9 @@
 645	Brainwashed Axe Cat	Brainwashed Brave Cat	
 646	Firecracker Cat	Macho Firecracker Cat
 647	Huntress Terun	Huntress Terun ζ
-648	White Day Lesser Demon	White Day Greater Demon
-649	Hattori Hanzo	Ninja God Hattori Hanzo
-650	Childhood Friend Cat	Girlfriend Cat
-651	Tomboy Lion Cat	Iron Mask Lion Cat
-652	Blackboard Eraser Cat	Deliquent Eraser Cat
-653	Ancient Beast Naara	Ancient Thunder Beast Naara
+648	Lovestruck Lesser Demon	Lovestruck Greater Demon	
+649	Hattori Hanzo	Wargod Hanzo	
+650	Secret Crush Cat	Girlfriend Cat	
+651	Tomboy Lion Cat	Iron-Masked Lion Cat	
+652	Chalkboard Eraser Cat	Chalkboard Punk Cat	
+653	Elder Beast Naala	Storm Beast Naala

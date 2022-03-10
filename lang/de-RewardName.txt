@@ -121,6 +121,7 @@
 160	Aku-Katzenfruchtkern
 161	Aku-Katzenfrucht
 164	Goldener Katzenfruchtkern
+166	Liebesbrief
 1005	Bronzekatze
 1100	Bronzekatze
 1001	Sporttagkatze
@@ -226,6 +227,7 @@
 1055	Aku-Forscher
 1056	Rattenfänger-Katze
 1057	Kalligraphie-Katze
+1058	Ältestenbestie Naala
 19001	Irokatze
 19002	Radierkatze
 19003	Dunkle Katze
@@ -480,6 +482,7 @@
 10532	Totengräbärkatze
 15534	Riesenblaster-Saki
 15535	Allmächtiger Hades
+15547	Sukelan Kakulan
 15557	Ghost Alibaba
 15570	Kiesolodon
 15585	Weihnachts-Maeda DX
