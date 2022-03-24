@@ -601,3 +601,4 @@
 600	Zapy
 601	Childhood Friend Base
 602	Tomboy Base
+603	Wild Doge
