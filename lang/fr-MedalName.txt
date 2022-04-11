@@ -94,3 +94,9 @@
 93	★ Inferno 30 ★
 94	★ Étoiles mortes ★
 95	★ Trala Naala ★
+96	★ Baron mal barré ★
+97	★ Funérailles d'Éléphunèbre ★
+98	★ Méga massacre ★
+99	★ Hippo hystérie ★
+100	★ Gros Pang sur le Grand Peng ★
+101	★ Exiel exterminé ★

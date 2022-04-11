@@ -127,7 +127,7 @@
 126	Aufziehkatze	Puppenspielerkatze	Puppenspieler und Charlie
 127	Blumenkatze	Kühlungskatze	Bomberkatze
 128	Rache-Katze	Komiker-Katze	Fesseldrachenkatze
-129	Goldkatze	Gold-Machokatze	
+129	Goldkatze	Gold-Machokatze	Glitzernde Machokatze
 130	Ururun-Wolf	Ururun-Katze	Erwachte Ururun
 131	Neneko	Fräulein Neneko	
 132	Kung-Fu-Katze X	Trunkener-Kämpfer-Katze X	Eisenklaue X
@@ -328,9 +328,9 @@
 327	Belial	Reckless Belial	
 328	Happy 100	Heartful Happy 100	
 329	Eierkatze	Osterkatze	
-330	Frühlings-Kenshin	Blütenreigen-Kenshin	
-331	Hase und Ente	Psychoentenjünger	
-332	Oster-Neneko	Häschenhüpf-Neneko	
+330	Frühlings-Kenshin	Blütenreigen-Kenshin	Frühlingsbrisen-Kenshin
+331	Hase und Ente	Psychoentenjünger	Delinquente
+332	Oster-Neneko	Häschenhüpf-Neneko	Aufblühende Neneko
 333	Schatten-Gao	Teuflischer Gao	
 334	Schwindlerin Himeyuri	Himeyuri Neunschweif	Fuchskönigin Himeyuri
 335	Meeresjungfer Ruri	Meeresherrin Ruri	Meerkönigin Ruri
@@ -593,7 +593,7 @@
 592	Neko Rin	Neko Rin CC	
 593	Neko Len	Neko Len CC	
 594	Mächtige Aethur GmbH	Atlantis Logistix	Ultra Atlantis Logistix
-595	Blühender Kamukura	Ewigblühender Kamukura	
+595	Blühender Kamukura	Ewigblühender Kamukura	Ewigblühender Lord Kamukura
 596	Ranma Saotome (M)	Ranma Saotome (F)	
 597	Akane Tendo	Akane Tendo (Gi)	
 598	Ryoga Hibiki (Pig)	Ryoga Hibiki	
@@ -652,3 +652,6 @@
 651	Wildfang-Löwenkatze	Löwenkatze in eiserner Maske	
 652	Tafelschwammkatze	Tafelschwamm-Punkkatze	
 653	Ältestenbestie Naala	Sturmbestie Naala	
+654	Gehirngew. Stelzenkatze	Gehirng. Hübsche-Beine Katze	
+655	Bliza	Blizana	
+656	Uraltes Ei N001	Mystisches Ei N001	

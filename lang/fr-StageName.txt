@@ -1291,6 +1291,11 @@
 001-276-001	Études Aku 501 : Méthodes
 001-276-002	Études Aku 501 : Recherche sur le terrain
 001-276-003	Études Aku 501 : Enquête
+001-277		Excavation de l'impératrice 1
+001-277-000	Bases d'archéologie : planification
+001-277-001	Bases d'archéologie : méthodes
+001-277-002	Bases d'archéologie : résultats
+001-277-003	Bases d'archéologie : analyse
 001-285		Top 5 des ennemis les plus vus de 2021 !
 001-285-000	Je glisse n° 5
 001-285-001	Je rougis n° 4
@@ -1344,6 +1349,23 @@
 001-297-000	Occupation extrascolaire
 001-297-001	Mendier du chocolat
 001-297-002	Guerre de 7 minutes
+001-303		À bas les amoureux
+001-303-000	Attendre son arrivée
+001-303-001	Cœur qui s'emballe
+001-303-002	Elle est vraiment venue ?!
+001-303-003	Un brin de courage
+001-303-004	Fleurs de cerisier éparses
+001-303-005	Soutien moral
+001-303-006	Confession inédite
+001-303-007	Fin du célibat ?
+001-304		Célébration des 70 millions Avalanche de cadeaux !
+001-304-000	70 millions d’heureux !
+001-305		Morts et boursouflés
+001-305-000	Défilé des morts (mortel)
+001-306		La reine et la jeune fille
+001-306-000	Piège à miel (mortel)
+001-307		Le roi et l'ange
+001-307-000	Grand Prix N-1 (mortel)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2711,6 +2733,12 @@
 004-050-000	Nature au berceau (mortel)
 004-050-001	Nature au sommet (sans répit)
 004-050-002	Nature frontière (sans répit)
+004-052		Morts et boursouflés
+004-052-000	Planète poisson (sans répit)
+004-053		La reine et la jeune fille
+004-053-000	Poseuse de bombe (mortel)
+004-054		Le roi et l'ange
+004-054-000	Pas de plan A (mortel)
 
 006			Dojo Griffélin
 006-000		Salle des initiés
@@ -3280,6 +3308,8 @@
 014-031-000	Mammifères ? (maniaque)
 014-032		Chat titan maboul
 014-032-000	Chats cinglés (maniaque)
+014-033		Impact bleu
+014-033-000	Planète poisson (sans répit)
 
 024			Baron Boss Stages
 024-000		Attaque du Baron phoque !
@@ -3997,6 +4027,71 @@
 024-045-017	Offert par pitié niv. 18
 024-045-018	Offert par pitié niv. 19
 024-045-019	Offert par pitié niv. max
+024-047		Attaque des célibataires
+024-047-000	Sensei ! niv. 11
+024-047-001	Sensei ! niv. 12
+024-047-002	Sensei ! niv. 13
+024-047-003	Sensei ! niv. 14
+024-047-004	Sensei ! niv. 15
+024-047-005	Sensei ! niv. 16
+024-047-006	Sensei ! niv. 17
+024-047-007	Sensei ! niv. 18
+024-047-008	Sensei ! niv. 19
+024-047-009	Sensei ! niv. max
+024-048		Attaque des célibataires
+024-048-000	Bureau du destin
+024-048-001	À côté de ton flirt
+024-048-002	Une gomme par terre
+024-048-003	Un livre pour deux
+024-048-004	Devoirs copiés
+024-048-005	Chuchoter en cours
+024-048-006	Rêves de classe
+024-048-007	Ballon prisonnier
+024-048-008	Premier à la cafét'
+024-048-009	Étudier avec elle
+024-048-010	Commentaire pertinent
+024-048-011	Sujets non étudiés
+024-048-012	Ruses de tricheurs
+024-048-013	Quiz douloureux
+024-048-014	Juste la moyenne
+024-048-015	La fin des cahiers
+024-048-016	Ménage avec elle
+024-048-017	Pense toujours à elle
+024-048-018	Bachotage raté
+024-048-019	Notes au petit bonheur
+024-049		Étoiles d’événement mensuel Réunion reconnaissante
+024-049-000	XP de gratitude niv. 1
+024-049-001	XP de gratitude niv. 2
+024-049-002	XP de gratitude niv. 3
+024-049-003	XP de gratitude niv. 4
+024-049-004	XP de gratitude niv. 5
+024-049-005	XP de gratitude niv. 6
+024-049-006	XP de gratitude niv. 7
+024-049-007	XP de gratitude niv. 8
+024-049-008	XP de gratitude niv. 9
+024-049-009	XP de gratitude niv. max
+024-050		Défi de mai
+024-050-000	Maladie niv. 1
+024-050-001	Maladie niv. 2
+024-050-002	Maladie niv. 3
+024-050-003	Maladie niv. 4
+024-050-004	Maladie niv. 5
+024-050-005	Maladie niv. 6
+024-050-006	Maladie niv. 7
+024-050-007	Maladie niv. 8
+024-050-008	Maladie niv. 9
+024-050-009	Maladie niv. 10
+024-051		Défi de mai II
+024-051-000	Encore niv. 11
+024-051-001	Encore niv. 12
+024-051-002	Encore niv. 13
+024-051-003	Encore niv. 14
+024-051-004	Encore niv. 15
+024-051-005	Encore niv. 16
+024-051-006	Encore niv. 17
+024-051-007	Encore niv. 18
+024-051-008	Encore niv. 19
+024-051-009	Encore niv. max
 
 025			Enigma Stages
 025-000		Champs Aitum

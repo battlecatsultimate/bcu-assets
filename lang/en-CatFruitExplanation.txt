@@ -127,7 +127,7 @@
 126	<br><br>
 127	<br><br>
 128	<br><br>
-129	<br><br>
+129	True Form evolution gains increased defense,<br>plus Immunity to Wave attacks.<br>
 130	True Form evolution gains improved<br>defense, range and attack power. Plus,<br>becomes immune to enemy Curses.
 131	<br><br>
 132	<br><br>
@@ -328,9 +328,9 @@
 327	<br><br>
 328	<br><br>
 329	<br><br>
-330	<br><br>
-331	<br><br>
-332	<br><br>
+330	True Form evolution gains<br>Colossus Slayer and Immunity<br>to enemy Weaken attacks.
+331	True Form evolution only attacks Red<br>and Aku enemies, but gains Immunity<br>to enemy Toxic and Surge attacks.
+332	True Form evolution gains the<br>ability to inflict various negative status<br>effects against Metal enemies.
 333	<br><br>
 334	True Form evolution improves all stats!<br>Plus, Floating and Angel enemies are<br>slowed for longer period of time!
 335	True Form evolution gains improved attack<br>power and defense! Plus, Red enemies are<br>weakened for an even longer time!
@@ -593,7 +593,7 @@
 592	<br><br>
 593	<br><br>
 594	True Form evolution gains chance to<br>Dodge Zombie attacks,<br>and the ability to survive a lethal strike!
-595	<br><br>
+595	True Form evolution gains Slow<br>and Knockback vs Aku enemies.<br>
 596	<br><br>
 597	<br><br>
 598	<br><br>
@@ -652,3 +652,6 @@
 651	<br><br>
 652	<br><br>
 653	<br><br>
+654	<br><br>
+655	<br><br>
+656	<br><br>

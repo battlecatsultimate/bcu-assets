@@ -1294,6 +1294,11 @@
 001-276-001	Akus: Método Profesional
 001-276-002	Akus: Investigación Profesional
 001-276-003	Akus: Consulta Profesional
+001-277		Excavación de Emperatriz 1
+001-277-000	Arqueología: Preparación Básica
+001-277-001	Arqueología: Métodos Básicos
+001-277-002	Arqueología: Resultados Básicos
+001-277-003	Arqueología: Análisis Básico
 001-285		5 Más Recurrentes del 2021
 001-285-000	Deslizamiento 5
 001-285-001	Sonrojo 4
@@ -1347,6 +1352,23 @@
 001-297-000	Ocupación de la Escuela
 001-297-001	Plegaria de Chocolate
 001-297-002	Guerra de 7 Minutos
+001-303		Guerra de San Valentín
+001-303-000	Espera en el Sitio
+001-303-001	Pulso Acelerado
+001-303-002	¡Ha Venido!
+001-303-003	Paso Valiente
+001-303-004	Cerezos por Doquier
+001-303-005	Apoyo Moral
+001-303-006	Confesión Inaudita
+001-303-007	Por Fin Juntos
+001-304		Celebración de los 70 M Regalos a Raudales
+001-304-000	¡Alegría de los 70 M!
+001-305		El Muerto y el Hinchado
+001-305-000	Desfile de Difuntos (Mortal)
+001-306		La Reina y la Doncella
+001-306-000	Trampa Sensual (Mortal)
+001-307		El Rey y el Ángel
+001-307-000	Grand Prix N1 (Mortal)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2714,6 +2736,12 @@
 004-050-000	Naturaleza Base (Mortal)
 004-050-001	Naturaleza Cima (Inhumano)
 004-050-002	Naturaleza Frontera (Inhumano)
+004-052		El Muerto y el Hinchado
+004-052-000	Planeta Globo (Inhumano)
+004-053		La Reina y la Doncella
+004-053-000	Bombardera (Mortal)
+004-054		El Rey y el Ángel
+004-054-000	Sin Plan A (Mortal)
 
 006			Dojo Afilagarras
 006-000		Sala de Iniciados
@@ -3283,6 +3311,8 @@
 014-031-000	¿Mamíferos? (Demencial)
 014-032		Gato Titán Demente
 014-032-000	Gatos Locos (Demencial)
+014-033		Impacto Azul
+014-033-000	Planeta Globo (Inhumano)
 
 024			Baron Boss Stages
 024-000		¡Barón Foca Ataca!
@@ -4000,6 +4030,82 @@
 024-045-017	Por Compasión (nvl. 18)
 024-045-018	Por Compasión (nvl. 19)
 024-045-019	Por Compasión (nvl. máx.)
+024-046		Ataque del Corazón Solitario
+024-046-000	¡Profe! (nvl. 1)
+024-046-001	¡Profe! (nvl. 2)
+024-046-002	¡Profe! (nvl. 3)
+024-046-003	¡Profe! (nvl. 4)
+024-046-004	¡Profe! (nvl. 5)
+024-046-005	¡Profe! (nvl. 6)
+024-046-006	¡Profe! (nvl. 7)
+024-046-007	¡Profe! (nvl. 8)
+024-046-008	¡Profe! (nvl. 9)
+024-046-009	¡Profe! (nvl. 10)
+024-047		Ataque del Corazón Solitario
+024-047-000	¡Maestro! (nvl. 11)
+024-047-001	¡Maestro! (nvl. 12)
+024-047-002	¡Maestro! (nvl. 13)
+024-047-003	¡Maestro! (nvl. 14)
+024-047-004	¡Maestro! (nvl. 15)
+024-047-005	¡Maestro! (nvl. 16)
+024-047-006	¡Maestro! (nvl. 17)
+024-047-007	¡Maestro! (nvl. 18)
+024-047-008	¡Maestro! (nvl. 19)
+024-047-009	¡Maestro! (nvl. máx.)
+024-048		Ataque del Corazón Solitario
+024-048-000	Escritorio del Destino
+024-048-001	Escritorio Compartido
+024-048-002	Goma de Borrar Perdida
+024-048-003	Libros Compartidos
+024-048-004	Deberes Copiados
+024-048-005	Susurros Furtivos
+024-048-006	Sueños en el Aula
+024-048-007	Evasión de Pelota
+024-048-008	Carrera a la Cafetería
+024-048-009	Quedada Para Estudiar
+024-048-010	Comentario Renovador
+024-048-011	Asuntos Desconocidos
+024-048-012	Señales de Engaño
+024-048-013	Angustia de Examen
+024-048-014	Aprobado por los Pelos
+024-048-015	Libre de Libros
+024-048-016	Limpieza Compartida
+024-048-017	Siempre en su Cabeza
+024-048-018	Sesión de Estudio Fallida
+024-048-019	Notas Inesperadas
+024-049		Evento de las Estrellas Mensual Reunión Agradecida
+024-049-000	XP Agradecida (nvl. 1)
+024-049-001	XP Agradecida (nvl. 2)
+024-049-002	XP Agradecida (nvl. 3)
+024-049-003	XP Agradecida (nvl. 4)
+024-049-004	XP Agradecida (nvl. 5)
+024-049-005	XP Agradecida (nvl. 6)
+024-049-006	XP Agradecida (nvl. 7)
+024-049-007	XP Agradecida (nvl. 8)
+024-049-008	XP Agradecida (nvl. 9)
+024-049-009	XP Agradecida (nvl. máx.)
+024-050		Desafío de Mayo
+024-050-000	Enfermedad (nvl. 1)
+024-050-001	Enfermedad (nvl. 2)
+024-050-002	Enfermedad (nvl. 3)
+024-050-003	Enfermedad (nvl. 4)
+024-050-004	Enfermedad (nvl. 5)
+024-050-005	Enfermedad (nvl. 6)
+024-050-006	Enfermedad (nvl. 7)
+024-050-007	Enfermedad (nvl. 8)
+024-050-008	Enfermedad (nvl. 9)
+024-050-009	Enfermedad (nvl. 10)
+024-051		Desafío de Mayo II
+024-051-000	De Nuevo (nvl. 11)
+024-051-001	De Nuevo (nvl. 12)
+024-051-002	De Nuevo (nvl. 13)
+024-051-003	De Nuevo (nvl. 14)
+024-051-004	De Nuevo (nvl. 15)
+024-051-005	De Nuevo (nvl. 16)
+024-051-006	De Nuevo (nvl. 17)
+024-051-007	De Nuevo (nvl. 18)
+024-051-008	De Nuevo (nvl. 19)
+024-051-009	De Nuevo (nvl. máx.)
 
 025			Enigma Stages
 025-000		Campos de Aitum

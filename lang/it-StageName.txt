@@ -1295,6 +1295,11 @@
 001-276-001	Corso superiore sugli Aku: tecniche
 001-276-002	Corso superiore sugli Aku: ricerca
 001-276-003	Corso super. sugli Aku: inchiesta
+001-277		Scavo dell'imperatrice 1
+001-277-000	Corso base di archeologia: pianificazione
+001-277-001	Corso base di archeologia: metodi
+001-277-002	Corso base di archeologia: risultati
+001-277-003	Corso base di archeologia: analisi
 001-285		I 5 nemici più visti del 2021!
 001-285-000	#5 scorrevole
 001-285-001	#4 da arrossire
@@ -1348,6 +1353,14 @@
 001-297-000	Occupazione del doposcuola
 001-297-001	Implorare per il cioccolato
 001-297-002	Guerra da 7 minuti
+001-304		Festeggiamenti 70M Regali a fiumi!
+001-304-000	Gioia da 70 milioni!
+001-305		Il morto e il gonfio
+001-305-000	Parata di morti (Letale)
+001-306		La regina e la fanciulla
+001-306-000	Specchietto per allodole (Letale)
+001-307		Il re e l'angelo
+001-307-000	Gran premio N-1 (Letale)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2715,6 +2728,12 @@
 004-050-000	Culla selvaggia (Letale)
 004-050-001	Cima selvaggia (Spietato)
 004-050-002	Confine selvaggio (Spietato)
+004-052		Il morto e il gonfio
+004-052-000	Pianeta Palla (Spietato)
+004-053		La regina e la fanciulla
+004-053-000	Bombarola (Letale)
+004-054		Il re e l'angelo
+004-054-000	Nessun piano A (Letale)
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -3284,6 +3303,8 @@
 014-031-000	Mammiferi? (Folle)
 014-032		Il Titano matto
 014-032-000	Gatti pazzi (Folle)
+014-033		Impatto blu
+014-033-000	Pianeta Palla (Spietato)
 
 024			Baron Boss Stages
 024-000		Baron Foca colpisce.
@@ -4001,6 +4022,39 @@
 024-045-017	Regalo per pietà Liv.18
 024-045-018	Regalo per pietà Liv.19
 024-045-019	Regalo per pietà Liv. MAX
+024-049		Evento All-Star mensile Grato raduno
+024-049-000	Grati XP Liv. 1
+024-049-001	Grati XP Liv. 2
+024-049-002	Grati XP Liv. 3
+024-049-003	Grati XP Liv. 4
+024-049-004	Grati XP Liv. 5
+024-049-005	Grati XP Liv. 6
+024-049-006	Grati XP Liv. 7
+024-049-007	Grati XP Liv. 8
+024-049-008	Grati XP Liv. 9
+024-049-009	Grati XP Liv. MAX
+024-050		Sfida di maggio
+024-050-000	Malore Liv. 1
+024-050-001	Malore Liv. 2
+024-050-002	Malore Liv. 3
+024-050-003	Malore Liv. 4
+024-050-004	Malore Liv. 5
+024-050-005	Malore Liv. 6
+024-050-006	Malore Liv. 7
+024-050-007	Malore Liv. 8
+024-050-008	Malore Liv. 9
+024-050-009	Malore Liv. 10
+024-051		Sfida di maggio II
+024-051-000	Ancora Liv. 11
+024-051-001	Ancora Liv. 12
+024-051-002	Ancora Liv. 13
+024-051-003	Ancora Liv. 14
+024-051-004	Ancora Liv. 15
+024-051-005	Ancora Liv. 16
+024-051-006	Ancora Liv. 17
+024-051-007	Ancora Liv. 18
+024-051-008	Ancora Liv. 19
+024-051-009	Ancora Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum

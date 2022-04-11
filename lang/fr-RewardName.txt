@@ -228,6 +228,7 @@
 1056	Chat joueur de flûte
 1057	Challigraphe
 1058	Bête ancestrale Naala
+1059	Œuf ancien N001
 19001	Chat punk
 19002	Chat gomme
 19003	Chat de l’ombre
@@ -325,6 +326,7 @@
 10127	Marionnettiste et Charly
 10128	Chat bombe à retardement
 10129	Chat cerf-volant
+15130	Chat macho scintillant
 16131	Ururun et Tama éveillés
 10133	Griffe de fer X
 15135	Roi Gamereon
@@ -414,6 +416,9 @@
 16324	Musashi éveillé
 10325	Charapace verte
 15326	Chat poids lourd
+15331	Kenshin brise printanière
+15332	Canard fou et malfaisant
+15333	Neneko du rituel de passage
 15335	Himeyuri reine renard
 15336	Ruri reine des mers
 15337	Reika éternelle
@@ -488,6 +493,7 @@
 15585	Maeda Noël de luxe
 15590	Neneko grand amour
 15595	Ultra Atlantis Logistix
+15596	Mr Kamukura fleur éternelle
 15611	Roi Nekokhamen
 30000	Attaque aug. D: Rouge
 30001	Attaque aug. C: Rouge

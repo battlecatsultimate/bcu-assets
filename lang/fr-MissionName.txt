@@ -175,12 +175,12 @@
 9158	Termine des lieux Un autre Nouvel an 10 fois !
 9159	Termine des lieux Un autre Nouvel an 20 fois !
 9160	Fais évoluer Chat adulte au niveau 10 ! Uniquement quand les lieux de janvier sont disponibles !
-9161	Mission d'Événement d'Invasion. Termine le niveau "Clionel ascendant" !
-9162	Missions d'Événement d'Invasion. Termine le niveau "Fleuve Styx" !
-9163	Missions d'Événement d'Invasion. Termine le niveau "Couronnement de la reine" !
-9164	Missions d'Événement d'Invasion. Termine le niveau "Dabouh des morts" !
-9165	Missions d'Événement d'Invasion. Termine le niveau "Revanche du Roi Wahwah" !
-9166	Missions d'Événement d'Invasion. Termine le niveau "Profonde rêverie" !
+9161	Missions d'événement Invasion à durée limitée. Termine le niveau Clionel ascendant !
+9162	Missions d'événement Invasion à durée limitée. Termine le niveau Fleuve Styx !
+9163	Missions d'événement Invasion à durée limitée. Termine le niveau Couronnement de la reine !
+9164	Missions d'événement Invasion à durée limitée. Termine le niveau Mort pour sa première !
+9165	Missions d'événement Invasion à durée limitée. Termine le niveau Revanche du Roi Wahwah !
+9166	Missions d'événement Invasion à durée limitée. Termine le niveau Profonde rêverie !
 9167	Termine une fois chaque lieu du festival ponctuel !
 9168	Termine des lieux Six ans 6 fois !
 9169	Marque 6 666 points dans Six ans de force ! Trouve ce lieu à classement dans le Dojo Griffélin !
@@ -575,8 +575,8 @@
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9208	Clear "7 Years of Fun!!" stages 7 times!
 9209	Score 7777 pts in "Lucky Number 7"! Find this Ranking Stage at the Catclaw Dojo!
-9211	Missions d'Événement d'Invasion. Termine le niveau "Impact bleu" !
-9212	Termine toutes les 7 missions d'Événement d'Invasion !
+9211	Missions d'événement Invasion à durée limitée. Termine le niveau Impact bleu !
+9212	Termine les 7 missions d'évén. Invasion à durée limitée !
 9213	Upgrade Miku Cat to Level 10! (You must evolve the Cat before the Hatsune Miku collab ends!)
 9214	Clear "MIKU EXPO" 5 times!
 9215	Clear "MIKU EXPO" 10 times!
@@ -598,15 +598,15 @@
 36	Obtiens tous les trésors suprêmes du ch. 1 du Cosmos
 37	Obtiens tous les trésors suprêmes du ch. 2 du Cosmos
 38	Obtiens tous les trésors suprêmes du ch. 3 du Cosmos
-9231	Missions d'Événement d'Invasion: Termine "Fleuve Styx" . 1 fois en utilisant au moins 8 Chats classiques
-9232	Missions d'Événement d'Invasion: Termine "Dabouh des morts" . 1 fois en utilisant au moins 8 Chats spéciaux
-9233	Missions d'Événement d'Invasion. Achève Revanche du Roi Wahwah 1 fois avec 9 Chats normaux
-9234	Missions d'Événement d'Invasion: Termine "Impact bleu" . 1 fois en utilisant uniquement les 2è formes
-9235	Missions d'Événement d'Invasion: Termine "Profonde rêverie". 1 fois en utilisant uniquement les 1res formes non évoluées
-9236	Termine toutes les 5 missions d'Événement d'Invasion !
-9237	Termine le niveau L'ange et le démon ! Tu dois aussi terminer le niveau spécial associé
-9238	Termine le niveau La reine et la mort ! Tu dois aussi terminer le niveau spécial associé
-9239	Termine le niveau Le roi et la jeune fille ! Tu dois aussi terminer le niveau spécial associé
+9231	Missions d'événement Invasion à durée limitée. Termine Fleuve Styx 1x avec 8 Chats normaux ou plus
+9232	Missions d'événement Invasion à durée limitée. Termine Mort pour sa première 1x avec 8 Chats spéciaux ou +
+9233	Missions d'événement Invasion à durée limitée. Termine Revanche du Roi Wahwah 1x avec 9 Chats normaux ou +
+9234	Missions d'événement Invasion à durée limitée. Termine Impact bleu 1x avec uniquement les 2e formes
+9235	Missions d'événement d'Invasion à durée limitée. Termine Profonde rêverie 1x avec les 1res formes non évoluées
+9236	Termine les 5 missions d'évén. Invasion à durée limitée !
+9237	【Invasion】Termine le niveau L'ange et le démon ! Tu dois aussi terminer le niveau spécial associé
+9238	【Invasion】Termine le niveau La reine et la mort ! Tu dois aussi terminer le niveau spécial associé
+9239	【Invasion】Termine le niveau Le roi et la jeune fille ! Tu dois aussi terminer le niveau spécial associé
 9240	Devoirs de vacances ① : Choisis un sujet de journal. Termine 5 niveaux Chats de vacances d'été
 9241	Devoirs de vacances ② : Choisis un 2e sujet de journal. Termine 10 niveaux Chats de vacances d'été
 9242	Devoirs de vacances ③ : Choisis un 3e sujet de journal. Termine 30 niveaux Chats de vacances d'été
@@ -652,3 +652,8 @@
 45	Termine le Royaume Aku. Réussis en terminant tous les niveaux du Royaume Aku
 9305	Termine le 30e étage de la Tour infernale. * Récompense à récupérer une seule fois
 47	Rapport de l'impératrice : Chercheur en Aku. Termine les niv. 1 à 5, 5 fois chacun
+9321	【Invasion】Termine le niveau Clionel ascendant. 1 fois en utilisant 7 Chats spéciaux ou +
+9322	【Invasion】Termine le niveau Couronnement de la reine. 1 fois en utilisant 7 Chats classiques ou +
+9323	【Invasion】Termine le niveau Morts et boursouflés ! Tu dois aussi terminer le niveau spécial associé
+9324	【Invasion】Termine le niveau La reine et la jeune fille ! Tu dois aussi terminer le niveau spécial associé
+9325	【Invasion】Termine Le roi et l'ange ! Tu dois aussi terminer le niveau spécial associé

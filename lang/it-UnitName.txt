@@ -127,7 +127,7 @@
 126	Gatto a molla	Gatto burattinaio	Burattinaio e Charley
 127	Gatto Fiore	Gatto Ventilatore	Bombagatto
 128	Gatta vendicativa	Gatto Groucho	Gatto Aquilone
-129	Gatto Oro	Gatto Oro macho	
+129	Gatto Oro	Gatto Oro macho	Gatto macho luccicante
 130	Lupo Ururun	Gatta Ururun	Ururun risvegliata
 131	Neneko	Miss NENEKO	
 132	Gatto Kung Fu X	Gatto Maestro ubriaco X	Artiglio di ferro X
@@ -328,9 +328,9 @@
 327	Belial	Reckless Belial	
 328	Happy 100	Heartful Happy 100	
 329	Gattuovo	Gatto di Pasqua	
-330	Kenshin primaverile	Kenshin in fiore	
-331	Bunny e Ducky	Discepolo Psicoducky	
-332	Neneko pasquale	Neneko Saltellina	
+330	Kenshin primaverile	Kenshin in fiore	Kenshin brezza primaverile
+331	Bunny e Ducky	Discepolo Psicoducky	Anatroccolo malefico
+332	Neneko pasquale	Neneko Saltellina	Neneko in fiore
 333	Gao Ombra	Gao Diabolico	
 334	Himeyuri Ingannatrice	Himeyuri Novecode	Himeyuri Volpe regina
 335	Ruri Sirena	Ruri Dama dei mari	Ruri Sire-gina
@@ -593,7 +593,7 @@
 592	Neko Rin	Neko Rin CC	
 593	Neko Len	Neko Len CC	
 594	Aero-Possente s.r.l.	Atlantis Logistix	Ultra Atlantis Logistix
-595	Kamukura in fiore	Kamukura sempre in fiore	
+595	Kamukura in fiore	Kamukura sempre in fiore	Lord Kamukura sempre in fiore
 596	Ranma Saotome (M)	Ranma Saotome (F)	
 597	Akane Tendo	Akane Tendo (Gi)	
 598	Ryoga Hibiki (Pig)	Ryoga Hibiki	
@@ -652,3 +652,6 @@
 651	Gatta leo maschiaccio	Gatta leo maschera di ferro	
 652	Gatto cancellino	Gatto cancellino punk	
 653	Naala bestia stagionata	Naala bestia tempestosa	
+654	Gatto alto plagiato	Gatto Gambe sexy plagiato	
+655	Bliza	Blizana	
+656	Uovo antico N001	Uovo mistico N001	

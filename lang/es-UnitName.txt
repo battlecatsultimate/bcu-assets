@@ -127,7 +127,7 @@
 126	Gato Relojero	Gato Titiritero	Titiritero y Charley
 127	Gato Flor	Gato Ventilador	Gato con Bombas
 128	Gata Vengativa	Gato Groucho	Gato Cometa
-129	Gato Dorado	Gato Dorado Mazado	
+129	Gato Dorado	Gato Dorado Mazado	Gato Mazado Brillante
 130	Lobo Ururun	Gato Ururun	Ururun Alzado
 131	Neneko	Miss Neneko	
 132	Gato de Kungfú X	Gato Maestro Borracho X	Garra de Hierro X
@@ -328,9 +328,9 @@
 327	Belial	Reckless Belial	
 328	Happy 100	Heartful Happy 100	
 329	Gato Huevo	Gato de Pascua	
-330	Kenshin Primaveral	Kenshin Floreciente	
-331	Conejito y Patosín	Psicopato Discípulo	
-332	Neneko de Pascua	Neneko Saltarina	
+330	Kenshin Primaveral	Kenshin Floreciente	Kenshin Brisa Primaveral
+331	Conejito y Patosín	Psicopato Discípulo	Pato Loco Malévolo
+332	Neneko de Pascua	Neneko Saltarina	Neneko Floreciente
 333	Gao Sombra	Gao Diabólico	
 334	Himeyuri Engatusadora	Himeyuri Nuevecolas	Himeyuri Reina
 335	Sirena Ruri	Sirena Señora Ruri	Sirerreina Ruri
@@ -593,7 +593,7 @@
 592	Neko Rin	Neko Rin CC	
 593	Neko Len	Neko Len CC	
 594	Globo Aerostático S.r.l.	Atlantis Logistix	Ultratlantis Logistix
-595	Kamukura Florido	Kamukura Perenne	
+595	Kamukura Florido	Kamukura Perenne	Lord Kamukura Perenne
 596	Ranma Saotome (M)	Ranma Saotome (F)	
 597	Akane Tendo	Akane Tendo (Gi)	
 598	Ryoga Hibiki (Pig)	Ryoga Hibiki	
@@ -652,3 +652,6 @@
 651	Gata Leona	Gata Leona Enmascarada	
 652	Gato Borrapizarras	Gato Borrapizarras Punk	
 653	Bestia Naala Viejuna	Bestia Naala Tormenta	
+654	Gatilargo Adoctrinado	Gato Muslamen Adoctrinado	
+655	Ventis	Ventiscana	
+656	Huevo Antiguo N001	Huevo Místico N001	

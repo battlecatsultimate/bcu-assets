@@ -29,7 +29,7 @@
 28	Supera "Clionel Ascendente"
 29	Supera "Fiume Stige"
 30	Supera "Incoronazione regale"
-31	Supera "Babau dei morti"
+31	Supera "Debutto da morti"
 32	Supera "Vendetta di re Wahwah"
 33	Supera "Sogno profondo"
 34	Supera "Impatto blu"
@@ -94,3 +94,9 @@
 93	Supera il 30° piano della Torre infernale
 94	Supera ogni invasione zombi in Gatti del Cosmo Cap. 1
 95	Sblocca Naala bestia stagionata
+96	Supera "Baron Foca colpisce"
+97	Supera "Ele-tale attacca"
+98	Supera "Mega minaccia"
+99	Supera "Orrorpotamo"
+100	Supera "Grande Ping Z colpisce"
+101	Supera "Arcangelo divino colpisce"

@@ -94,3 +94,9 @@
 93	★ Infierno 30 ★
 94	★ Estrellas Muertas ★
 95	★ Naala Que Hacer ★
+96	★ Barón derrotado ★
+97	★ L. Fante Letal acabado ★
+98	★ Megamasacre ★
+99	★ Hipo Alien histérico ★
+100	★ Gran Ping Pong Z. dolorido ★
+101	★ Exiel Arcángel exterminado ★

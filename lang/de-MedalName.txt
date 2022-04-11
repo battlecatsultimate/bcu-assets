@@ -94,3 +94,9 @@
 93	★ Inferno 30 ★
 94	★ Tote Sterne ★
 95	★ Naala Problemo ★
+96	★ Baron besiegt ★
+97	★ Grummelfant geschlagen ★
+98	★ Mega-Massaker ★
+99	★ Nüllpferd-Nummer ★
+100	★ Peng! Peng! Das war‘s ★
+101	★ Exiel Exterminiert ★

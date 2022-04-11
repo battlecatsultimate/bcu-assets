@@ -601,3 +601,4 @@
 600	Capy si stava godendo una splendida vacanza<br>alle terme... finché non è morta all'improvviso.<br>Una rompiscatole che protegge il suo angolo di<br>vasca teletrasportando lontano altri avventori.
 601	
 602	
+603	Questo cane si trovava ai tropici e ha sentito<br>il richiamo della natura. Allora si è licenziato,<br>lasciandosi alle spalle un fratello gemello pur di<br>trascorrere una vita alla ricerca dell'onda perfetta.

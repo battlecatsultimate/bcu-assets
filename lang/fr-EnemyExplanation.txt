@@ -601,3 +601,4 @@
 600	Caby se régalait de ses vacances de printemps...<br>Jusqu'à ce que la mort la surprenne.<br>Elle protège très bêtement son coin de la baignoire<br>en téléportant très loin les autres visiteurs.
 601	
 602	
+603	En se baladant sous les tropiques, ce Toutou<br>a entendu l'appel de la nature. Il a quitté son travail,<br>abandonnant son frère jumeau derrière lui pour<br>passer sa vie à la recherche de la vague parfaite.

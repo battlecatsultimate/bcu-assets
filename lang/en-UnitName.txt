@@ -127,7 +127,7 @@
 126	Clockwork Cat	Puppetmaster Cat	Puppetmaster & Charley
 127	Flower Cat	Cooldown Cat	Bombercat
 128	Vengeful Cat	Groucho Cat	Kite Cat
-129	Gold Cat	Gold Macho Cat	
+129	Gold Cat	Gold Macho Cat	Glittering Macho Cat
 130	Ururun Wolf	Ururun Cat	Awakened Ururun
 131	Neneko	Miss NENEKO	
 132	Kung Fu Cat X	Drunken Master Cat X	Iron Claw X
@@ -328,9 +328,9 @@
 327	Belial	Reckless Belial	
 328	Happy 100	Heartful Happy 100	
 329	Eggy Cat	Easter Cat	
-330	Springtime Kenshin	Full-Bloom Kenshin	
-331	Bunny & Canard	Disciple Psychoduck	
-332	Easter Neneko	Hoppity Neneko	
+330	Springtime Kenshin	Full-Bloom Kenshin	Spring Breeze Kenshin
+331	Bunny & Canard	Disciple Psychoduck	Malevolent Mad-Duck
+332	Easter Neneko	Hoppity Neneko	Blossoming Neneko
 333	Shadow Gao	Diabolic Gao	
 334	Trickster Himeyuri	Himeyuri Ninetails	Fox Queen Himeyuri
 335	Sea Maiden Ruri	Sea Mistress Ruri	Mer-Queen Ruri
@@ -593,7 +593,7 @@
 592	Neko Rin	Neko Rin CC	
 593	Neko Len	Neko Len CC	
 594	Mighty Aethur Ltd.	Atlantis Logistix	Ultra Atlantis Logistix
-595	Blooming Kamukura	Everbloom Kamukura	
+595	Blooming Kamukura	Everbloom Kamukura	Everbloom Lord Kamukura
 596	Ranma Saotome (M)	Ranma Saotome (F)	
 597	Akane Tendo	Akane Tendo (Gi)	
 598	Ryoga Hibiki (Pig)	Ryoga Hibiki	
@@ -652,3 +652,6 @@
 651	Tomboy Lion Cat	Iron-Masked Lion Cat	
 652	Chalkboard Eraser Cat	Chalkboard Punk Cat	
 653	Elder Beast Naala	Storm Beast Naala	
+654	Brainwashed Gross Cat	Brainwashed Sexy Legs Cat	
+655	Bliza	Blizana	
+656	Ancient Egg N001	Mystic Egg N001	

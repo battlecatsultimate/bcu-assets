@@ -1303,6 +1303,12 @@
 001-276-001	Aku Studies 501: Methods
 001-276-002	Aku Studies 501: Field Research
 001-276-003	Aku Studies 501: Inquiry
+001-277		Empress' Excavation 1
+001-277-000	Archaeology 101: Planning
+001-277-001	Archaeology 101: Methods
+001-277-002	Archaeology 101: Results
+001-277-003	Archaeology 101: Analysis
+001-285		Top 5 Most Seen Enemies, 2021!
 001-285		Top 5 Most Seen Enemies, 2021!
 001-285-000	#5 Sliding
 001-285-001	#4 Blushing
@@ -1365,15 +1371,10 @@
 001-298-005	School Festival Cleanup
 001-299		Season 3: Field Trip
 001-299-000	Long-Awaited Trip
-001-299-001	Sudden Call From Your Crush
-001-299-002	Impulse Souvenir
-001-299-003	Sudden Call From Your Crush
-001-299-004	Out-of-Season Bloom
-001-299-005	Sudden Call From Your Crush
-001-299-006	The Great Pillow Fight
-001-299-007	Sudden Call From Your Crush
-001-299-008	In-Flight Slumber
-001-299-009	Sudden Call From Your Crush
+001-299-001	Impulse Souvenir
+001-299-002	Out-of-Season Bloom
+001-299-003	The Great Pillow Fight
+001-299-004	In-Flight Slumber
 001-300		Weekend: Confession
 001-300-000	Courageous Call
 001-300-001	The Dreaded Reply
@@ -1395,6 +1396,14 @@
 001-303-005	Moral Support
 001-303-006	Unheard Confession
 001-303-007	No Longer Single?
+001-304		70M Celebration Gifts Galore!
+001-304-000	Joy of 70 Million!
+001-305		The Dead & The Bloated
+001-305-000	Parade of the Dead (Deadly)
+001-306		The Queen & The Maiden
+001-306-000	Honey Trap (Deadly)
+001-307		The King & The Angel
+001-307-000	N-1 Grand Prix (Deadly)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2776,6 +2785,18 @@
 004-050-000	Cradle Wilderness (Deadly)
 004-050-001	Summit Wilderness (Merciless)
 004-050-002	Frontier Wilderness (Merciless)
+004-051		Season 3: Field Trip
+004-051-000	Sudden Call From Your Crush
+004-051-001	Sudden Call From Your Crush
+004-051-002	Sudden Call From Your Crush
+004-051-003	Sudden Call From Your Crush
+004-051-004	Sudden Call From Your Crush
+004-052		The Dead & The Bloated
+004-052-000	Puffer Planet (Merciless)
+004-053		The Queen & The Maiden
+004-053-000	Bombergirl (Deadly)
+004-054		The King & The Angel
+004-054-000	No Plan A (Deadly)
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
@@ -3352,6 +3373,8 @@
 014-031-000	Mammals? (Insane)
 014-032		The Crazed Titan
 014-032-000	Crazy Cats (Insane)
+014-033		Blue Impact
+014-033-000	Puffer Planet (Merciless)
 
 024			Baron Boss Stages
 024-000		Baron Seal Strikes!
@@ -4112,6 +4135,39 @@
 024-048-017	Always on my Mind
 024-048-018	Cram Session Failure
 024-048-019	God Willing Grades
+024-049		Monthly Event All-Stars  Grateful Gathering
+024-049-000	Grateful XP Lv.1
+024-049-001	Grateful XP Lv.2
+024-049-002	Grateful XP Lv.3
+024-049-003	Grateful XP Lv.4
+024-049-004	Grateful XP Lv.5
+024-049-005	Grateful XP Lv.6
+024-049-006	Grateful XP Lv.7
+024-049-007	Grateful XP Lv.8
+024-049-008	Grateful XP Lv.9
+024-049-009	Grateful XP Lv.MAX
+024-050		May Gauntlet
+024-050-000	Sickness Lv.1
+024-050-001	Sickness Lv.2
+024-050-002	Sickness Lv.3
+024-050-003	Sickness Lv.4
+024-050-004	Sickness Lv.5
+024-050-005	Sickness Lv.6
+024-050-006	Sickness Lv.7
+024-050-007	Sickness Lv.8
+024-050-008	Sickness Lv.9
+024-050-009	Sickness Lv.10
+024-051		May Gauntlet II
+024-051-000	Again Lv.11
+024-051-001	Again Lv.12
+024-051-002	Again Lv.13
+024-051-003	Again Lv.14
+024-051-004	Again Lv.15
+024-051-005	Again Lv.16
+024-051-006	Again Lv.17
+024-051-007	Again Lv.18
+024-051-008	Again Lv.19
+024-051-009	Again Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields

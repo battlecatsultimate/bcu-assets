@@ -94,3 +94,9 @@
 93	Schließe Ebene 30 des Höllischen Turms ab.
 94	Schließe alle Zombielevel in Kosmische Katzen Kap. 1 ab
 95	Schalte Ältestenbestie Naala frei
+96	Schließe „Baron Robbe schlägt zu“ ab.
+97	Schließe „Grummelfant schlägt zu“ ab.
+98	Schließe „Megabedrohung“ ab.
+99	Schließe „Schreckensnilpferd“ ab.
+100	Schließe „Der große Peng Z schlägt zu“ ab.
+101	Schließe „Der göttliche Erzengel schlägt zu“ ab.

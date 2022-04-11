@@ -171,12 +171,12 @@
 9158	(Completa cualquier fase de Otro Año Nuevo)
 9159	(Completa cualquier fase de Otro Año Nuevo)
 9160	Muta al Gato Adulto en el nivel 10. (Solo en las fases exclusivas de enero)
-9161	Misión del Evento de Invasión. ¡Supera la fase Ascendente Clionel!
-9162	Misión del Evento de Invasión. ¡Supera la fase Río Estigia!
-9163	Misión del Evento de Invasión. ¡Supera la fase Coronación de Reina!
-9164	Misión del Evento de Invasión. ¡Supera la fase Muerti No Muerto!
-9165	Misión del Evento de Invasión. ¡Supera la fase Venganza del Rey Guau!
-9166	Misión del Evento de Invasión. ¡Supera la fase Sueño Profundo!
+9161	Misiones de Invasión del Festival Exclusivo. ¡Supera la fase Ascendente Clionel!
+9162	Misiones de Invasión del Festival Exclusivo. ¡Supera la fase Río Estigia!
+9163	Misiones de Invasión del Festival Exclusivo. ¡Supera la fase Coronación de Reina!
+9164	Misiones de Invasión del Festival Exclusivo. ¡Supera la fase Difunto Debutante!
+9165	Misiones de Invasión del Festival Exclusivo. ¡Supera la fase Venganza del Rey Guau!
+9166	Misiones de Invasión del Festival Exclusivo. ¡Supera la fase Sueño Profundo!
 9167	(Completa las 6 fases disponibles)
 9168	(Completa cualquier fase de Seis Años)
 9169	Gana 6666 puntos en 6 Años de Fuerza. (Es una fase de clasificación en el Dojo Afilagarras)
@@ -571,8 +571,8 @@
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9208	Clear "7 Years of Fun!!" stages 7 times!
 9209	Score 7777 pts in "Lucky Number 7"! Find this Ranking Stage at the Catclaw Dojo!
-9211	Misión del Evento de Invasión. ¡Supera la fase Impacto Azul!
-9212	Supera las 7 misiones del Evento de Invasión
+9211	Misiones de Invasión del Festival Exclusivo. ¡Supera la fase Impacto Azul!
+9212	Supera las 7 Misiones de Invasión del Festival Exclusivo
 9213	Upgrade Miku Cat to Level 10! (You must evolve the Cat before the Hatsune Miku collab ends!)
 9214	Clear "MIKU EXPO" 5 times!
 9215	Clear "MIKU EXPO" 10 times!
@@ -594,15 +594,15 @@
 36	Reúne los tesoros superiores en Gatos Galácticos cap. 1
 37	Reúne los tesoros superiores en Gatos Galácticos cap. 2
 38	Reúne los tesoros superiores en Gatos Galácticos cap. 3
-9231	Misión del Evento de Invasión: Supera la fase Río Estigia. 1 veces con 8 gatos normales o más
-9232	Misión del Evento de Invasión: Supera la fase Muerti. No Muerto 1 veces con 8 gatos especiales o más
-9233	Misión del Evento de Invasión. Supera la fase Venganza del Rey Guau 1 vez con 9 gatos normales
-9234	Misión del Evento de Invasión: Supera la fase Impacto Azul. 1 veces solo con segundas formas
-9235	Misión del Evento de Invasión: Supera la fase Sueño Profundo. 1 veces solo con primeras formas sin evolucionar
-9236	Supera las 5 misiones del Evento de Invasión
-9237	¡Supera la fase El Ángel y el Demonio! También debes superar la fase especial relacionada
-9238	¡Supera la fase La Reina y el Muerto! También debes superar la fase especial relacionada
-9239	¡Supera la fase El Rey y la Doncella! También debes superar la fase especial relacionada
+9231	¡Misiones de Invasión del Festival Exclusivo! Supera la fase. Río Estigia 1 veces con 8 gatos normales o más
+9232	¡Misiones de Invasión del Festival Exclusivo! Supera la fase. Difunto Debutante 1 veces con 8 gatos especiales o más
+9233	¡Misiones de Invasión del Festival Exclusivo! Supera la fase. Venganza del Rey Guau 1 veces con 9 gatos normales
+9234	¡Misiones de Invasión del Festival Exclusivo! Supera la fase. Impacto Azul 1 veces solo con segundas formas
+9235	¡Misiones de Invasión del Festival Exclusivo! Supera la fase. Sueño Profundo 1 veces solo con formas sin evolucionar
+9236	Supera las 5 Misiones de Invasión del Festival Exclusivo
+9237	【Invasión】¡Supera la fase El Ángel y el Demonio! También debes superar la fase de continuación relacionada
+9238	【Invasión】¡Supera la fase La Reina y el Muerto! También debes superar la fase de continuación relacionada
+9239	【Invasión】¡Supera la fase El Rey y la Doncella! También debes superar la fase de continuación relacionada
 9240	Deberes de Verano ①: Elige un tema del diario. Supera 5 fases de Gatos Estivales
 9241	Deberes de Verano ②: Elige un segundo tema del diario. Supera 10 fases de Gatos Estivales
 9242	Deberes de Verano ③: Elige un tercer tema del diario. Supera 30 fases de Gatos Estivales
@@ -648,3 +648,8 @@
 45	Supera Los reinos de akus. Completa todas las fases de Los reinos de akus
 9305	Supera el piso 30 de la Torre Infernal. (Estos premios solo se pueden recoger una vez)
 47	Informe de Emperatriz: Investigación de Aku. Supera 5 veces. las fases 1-5 de Informe de Emperatriz
+9321	【Invasión】Supera la fase. Ascendente Clionel 1 veces con 7 gatos especiales o más
+9322	【Invasión】Supera la fase Coronación de Reina. 1 veces con 7 normales o más
+9323	【Invasión】Supera la fase. El Muerto y el Hinchado 1 veces con 7 especiales o más
+9324	【Invasión】Supera la fase. La Reina y la Doncella 1 veces con 7 especiales o más
+9325	【Invasión】Supera la fase. El Rey y el Ángel 1 veces con 7 especiales o más

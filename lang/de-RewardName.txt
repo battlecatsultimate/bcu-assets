@@ -228,6 +228,7 @@
 1056	Rattenfänger-Katze
 1057	Kalligraphie-Katze
 1058	Ältestenbestie Naala
+1059	Uraltes Ei N001
 19001	Irokatze
 19002	Radierkatze
 19003	Dunkle Katze
@@ -325,6 +326,7 @@
 10127	Puppenspieler und Charlie
 10128	Bomberkatze
 10129	Fesseldrachenkatze
+15130	Glitzernde Machokatze
 16131	Erwachte Ururun
 10133	Eisenklaue X
 15135	König Gamereon
@@ -414,6 +416,9 @@
 16324	Erwachter Musashi
 10325	Grüner-Panzer-Katze
 15326	Ektogewicht-Katze
+15331	Frühlingsbrisen-Kenshin
+15332	Delinquente
+15333	Aufblühende Neneko
 15335	Fuchskönigin Himeyuri
 15336	Meerkönigin Ruri
 15337	Ewige Reika
@@ -488,6 +493,7 @@
 15585	Weihnachts-Maeda DX
 15590	Wahre-Liebe-Neneko
 15595	Ultra Atlantis Logistix
+15596	Ewigblühender Lord Kamukura
 15611	König Nekokhamen
 30000	Angriff + D: Rot
 30001	Angriff + C: Rot

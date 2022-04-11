@@ -175,12 +175,12 @@
 9158	Clear "Another New Year" stages 10 times!
 9159	Clear "Another New Year" stages 20 times!
 9160	Evolve Adult Cat Level 10! This mission can only be completed while January stages are available!
-9161	Invasion Event Missions. Clear the "Clionel Ascendant" stage!
-9162	Invasion Event Missions. Clear the "River Styx" stage!
-9163	Invasion Event Missions. Clear the "Queen's Coronation" stage!
-9164	Invasion Event Missions. Clear the "Dead on Debut" stage!
-9165	Invasion Event Missions. Clear the "King Wahwah's Revenge" stage!
-9166	Invasion Event Missions. Clear the "Deeply Dreaming" stage!
+9161	Limited Festival Invasion Missions. Clear the "Clionel Ascendant" stage!
+9162	Limited Festival Invasion Missions. Clear the "River Styx" stage!
+9163	Limited Festival Invasion Missions. Clear the "Queen's Coronation" stage!
+9164	Limited Festival Invasion Missions. Clear the "Dead on Debut" stage!
+9165	Limited Festival Invasion Missions. Clear the "King Wahwah's Revenge" stage!
+9166	Limited Festival Invasion Missions. Clear the "Deeply Dreaming" stage!
 9167	Clear all Limited Festival stages once each!
 9168	Clear "Six Years" stages 6 times!
 9169	Score 6666 pts in "Six Years Strong"! Find this Ranking Stage at the Catclaw Dojo!
@@ -575,8 +575,8 @@
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9208	Clear "7 Years of Fun!!" stages 7 times!
 9209	Score 7777 pts in "Lucky Number 7"! Find this Ranking Stage at the Catclaw Dojo!
-9211	Invasion Event Missions. Clear the "Blue Impact" stage!
-9212	Clear all 7 Invasion Event Missions!
+9211	Limited Festival Invasion Missions. Clear the "Blue Impact" stage!
+9212	Clear all 7 Limited Festival Invasion Missions!
 9213	Upgrade Miku Cat to Level 10! (You must evolve the Cat before the Hatsune Miku collab ends!)
 9214	Clear "MIKU EXPO" 5 times!
 9215	Clear "MIKU EXPO" 10 times!
@@ -598,15 +598,15 @@
 36	Get all Superior Treasure from Cosmos Ch. 1
 37	Get all Superior Treasure from Cosmos Ch. 2
 38	Get all Superior Treasure from Cosmos Ch. 3
-9231	Invasion Event Missions. Clear "River Styx" 1 times using 8 or more Normal Cats
-9232	Invasion Event Missions. Clear "Daboo of the Dead" 1 times using 8 or more Special Cats
-9233	Invasion Event Missions. Clear "King Wahwah's Revenge" 1 times using any 9 Normal Cats
-9234	Invasion Event Missions. Clear "Blue Impact" 1 times using only 2nd Forms
-9235	Invasion Event Missions. Clear "Deeply Dreaming" 1 times using only unevolved 1st Forms
-9236	Clear all 5 Invasion Event Missions!
-9237	Clear the "The Angel & The Demon" stage! You must also clear the Continuation Stage
-9238	Clear the "The Queen & The Dead" stage! You must also clear the Continuation Stage
-9239	Clear the "The King & The Maiden" stage! You must also clear the Continuation Stage
+9231	Limited Festival Invasion Missions. Clear "River Styx" 1 times using 8 or more Normal Cats
+9232	Limited Festival Invasion Missions. Clear "Dead on Debut" 1 times using 8 or more Special Cats
+9233	Limited Festival Invasion Missions. Clear "King Wahwah's Revenge" 1 times using any 9 Normal Cats
+9234	Limited Festival Invasion Missions. Clear "Blue Impact" 1 times using only 2nd Forms
+9235	Limited Festival Invasion Missions. Clear "Deeply Dreaming" 1 times using only unevolved 1st Forms
+9236	Clear all 5 Limited Festival Invasion Missions!
+9237	【Invasion】Clear the "The Angel & The Demon" stage! You must also clear the Continuation Stage
+9238	【Invasion】Clear the "The Queen & The Dead" stage! You must also clear the Continuation Stage
+9239	【Invasion】Clear the "The King & The Maiden" stage! You must also clear the Continuation Stage
 9240	Summer Homework ①: Choose a Journal Topic. Clear 5 Summer Break Cats stages
 9241	Summer Homework ②: Choose 2nd Journal Topic. Clear 10 Summer Break Cats stages
 9242	Summer Homework ③: Choose 3rd Journal Topic. Clear 30 Summer Break Cats stages
@@ -652,3 +652,8 @@
 45	Clear "The Aku Realms". Complete by clearing all stages in The Aku Realms
 9305	Clear Floor 30 of the Infernal Tower. ※ Reward can only be collected once
 47	Empress' Report: Aku Research. Clear Empress' Report 1 - 5 stages 5 times each
+9321	【Invasion】Clear "Clionel Ascendant". 1 times using 7 or more Special Cats
+9322	【Invasion】Clear "Queen's Coronation". 1 times using 7 or more Normal Cats
+9323	【Invasion】Clear "The Dead & The Bloated"! You must also clear the Continuation Stage
+9324	【Invasion】Clear "The Queen & The Maiden"! You must also clear the Continuation Stage
+9325	【Invasion】Clear "The King & The Angel"! You must also clear the Continuation Stage

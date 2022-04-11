@@ -601,3 +601,4 @@
 600	Capy hatte einen wunderbaren Thermenurlaub ...<br>bis sie urplötzlich verstarb. Sie ist richtig fies und<br>schützt ihre Ecke des Bads, indem sie andere<br>Gäste weit weg teleportiert.
 601	
 602	
+603	Auf einer Tropenreise hat dieser Hund den Ruf<br>der Wildnis gehört. Jetzt hat er gekündigt<br>und seinen Zwilling für ein Leben auf der<br>Suche nach der perfekten Welle verlassen.

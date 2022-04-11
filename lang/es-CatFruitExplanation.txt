@@ -127,7 +127,7 @@
 126	<br><br>
 127	<br><br>
 128	<br><br>
-129	<br><br>
+129	La forma final tiene más defensa<br>y es inmune a las oleadas.<br>
 130	La forma final tiene más<br>poder de ataque, defensa y alcance.<br>Además, es inmune a las maldiciones.
 131	<br><br>
 132	<br><br>
@@ -328,9 +328,9 @@
 327	<br><br>
 328	<br><br>
 329	<br><br>
-330	<br><br>
-331	<br><br>
-332	<br><br>
+330	Además, obtiene las habilidades<br>de matacolosos e inmunidad<br>a los ataques de desgaste enemigos.
+331	La forma final ataca solo a enemigos<br>rojos y akus, pero obtiene inmunidad<br>a toxicidad y a réplicas.
+332	La forma final tiene la habilidad<br>de infligir varias penalizaciones<br>a enemigos metálicos.
 333	<br><br>
 334	La forma final tiene mejores estadísticas.<br>Además, ralentiza durante más tiempo<br>a enemigos voladores y ángeles.
 335	La forma final tiene más poder de ataque<br>y defensa. Además, desgasta durante<br>más tiempo a enemigos rojos.
@@ -593,7 +593,7 @@
 592	<br><br>
 593	<br><br>
 594	La forma final mejora su probabilidad<br>de esquivar los ataques de zombis<br>y puede sobrevivir a un golpe mortal.
-595	<br><br>
+595	La forma final obtiene las habilidades<br>de ralentización y repulsión contra akus.<br>
 596	<br><br>
 597	<br><br>
 598	<br><br>
@@ -652,3 +652,6 @@
 651	<br><br>
 652	<br><br>
 653	<br><br>
+654	<br><br>
+655	<br><br>
+656	<br><br>

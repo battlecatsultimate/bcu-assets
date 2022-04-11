@@ -29,7 +29,7 @@
 28	Supera Ascendente Clionel.
 29	Supera Río Estigia.
 30	Supera Coronación de Reina.
-31	Supera Muerti No Muerto.
+31	Supera Difunto Debutante
 32	Supera Venganza del Rey Guau.
 33	Supera Sueño Profundo.
 34	Supera Impacto Azul.
@@ -94,3 +94,9 @@
 93	Supera el piso 30 de la Torre Infernal.
 94	Supera las fases zombis en Gatos Galácticos cap. 1.
 95	Desbloquea a Bestia Naala Viejuna.
+96	Supera Barón Foca Ataca.
+97	Supera Ataque de L. Fante Letal.
+98	Supera Megaamenaza.
+99	Supera Horrorpótamo.
+100	Supera Gran Ping Pong Z. Ataca.
+101	Supera Sr. Ángel Divino Ataca.

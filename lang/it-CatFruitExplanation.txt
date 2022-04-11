@@ -127,7 +127,7 @@
 126	<br><br>
 127	<br><br>
 128	<br><br>
-129	<br><br>
+129	La Forma Reale ottiene maggiore difesa,<br>più immunità da attacchi a ondata.<br>
 130	La Forma Reale ottiene maggiori<br>difesa, raggio e potenza d'attacco. In più<br>diventa immune dalle maledizioni.
 131	<br><br>
 132	<br><br>
@@ -328,9 +328,9 @@
 327	<br><br>
 328	<br><br>
 329	<br><br>
-330	<br><br>
-331	<br><br>
-332	<br><br>
+330	la Forma Reale ottiene<br>Ammazzagiganti e immunità<br>dagli attacchi di indebolimento.
+331	La Forma Reale può attaccare solo rossi<br>e Aku, ma ottiene immunità<br>da veleno e attacchi a valanga.
+332	La Forma Reale ottiene l'abilità<br>di infliggere vari effetti di stato negativi<br>contro i nemici metallici.
 333	<br><br>
 334	La Forma Reale migliora tutte le statistiche!<br>In più, fluttuanti e angelici vengono<br>rallentati per più tempo!
 335	La Forma Reale ottiene maggiori<br>potenza d'attacco e difesa! I nemici rossi<br>subiscono indebolimento più a lungo!
@@ -593,7 +593,7 @@
 592	<br><br>
 593	<br><br>
 594	La Forma Reale ottiene possibilità di<br>schivare attacchi zombi, e<br>l'abilità di sopravvivere a un colpo letale!
-595	<br><br>
+595	La Forma Reale ottiene rallentamento<br>e respinta contro i nemici Aku.<br>
 596	<br><br>
 597	<br><br>
 598	<br><br>
@@ -652,3 +652,6 @@
 651	<br><br>
 652	<br><br>
 653	<br><br>
+654	<br><br>
+655	<br><br>
+656	<br><br>

@@ -228,6 +228,7 @@
 1056	Gato de Hamelín
 1057	Gato Calígrafo
 1058	Bestia Naala Viejuna
+1059	Huevo Antiguo N001
 19001	Gato Crestado
 19002	Gato Borrador
 19003	Gato Oscuro
@@ -325,6 +326,7 @@
 10127	Titiritero y Charley
 10128	Gato con Bombas
 10129	Gato Cometa
+15130	Gato Mazado Brillante
 16131	Ururun Alzado
 10133	Garra de Hierro X
 15135	Rey Gamereon
@@ -413,6 +415,9 @@
 16324	Musashi Alzado
 10325	Gato con Caparazón Verde
 15326	Gato Peso Superpesado
+15331	Kenshin Brisa Primaveral
+15332	Pato Loco Malévolo
+15333	Neneko Floreciente
 15335	Himeyuri Reina
 15336	Sirerreina Ruri
 15337	Reika Eterna
@@ -487,6 +492,7 @@
 15585	Maeda Navideño DX
 15590	Neneko de Amor Verdadero
 15595	Ultratlantis Logistix
+15596	Lord Kamukura Perenne
 15611	Rey Nekokhamen
 30000	Aumento de ataque D: Rojos
 30001	Aumento de ataque C: Rojos

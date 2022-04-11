@@ -175,12 +175,12 @@
 9158	Supera livelli "Un altro anno nuovo" 10 volte! Supera livelli di Un altro anno nuovo
 9159	Supera livelli "Un altro anno nuovo" 20 volte! Supera livelli di Un altro anno nuovo
 9160	Fai evolvere Gattadulto al livello 10! Completabile solo in presenza dei livelli di gennaio!
-9161	Missioni dell'evento d'invasione. Supera il livello "Clionel Ascendente"!
-9162	Missioni dell'evento d'invasione . Supera il livello "Fiume Stige"!
-9163	Missioni dell'evento d'invasione . Supera il livello "Incoronazione regale"!
-9164	Missioni dell'evento d'invasione . Supera il livello "Babau dei morti"!
-9165	Missioni dell'evento d'invasione . Supera il livello "Vendetta di re Wahwah"!
-9166	Missioni dell'evento d'invasione. Supera il livello "Sogno profondo"!
+9161	Missioni d'invasione Festival limitato. Supera il livello "Clionel Ascendente"!
+9162	Missioni d'invasione Festival limitato. Supera il livello "Fiume Stige"!
+9163	Missioni d'invasione Festival limitato. Supera il livello "Incoronazione regale"!
+9164	Missioni d'invasione Festival limitato. Supera il livello "Debutto da morti"!
+9165	Missioni d'invasione Festival limitato. Supera il livello "Vendetta di re Wahwah"!
+9166	Missioni d'invasione Festival limitato. Supera il livello "Sogno profondo"!
 9167	Supera una volta tutti i livelli Festival limitato! Supera tutte le 6 missioni di Festival limitato
 9168	Supera livelli "Sei anni" 6 volte! Supera qualsiasi livello di Sei anni
 9169	Ottieni 6666 punti in "Forti da sei anni"! Cerca questo livello classificato nel Dojo miciodiale!
@@ -575,8 +575,8 @@
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9208	Clear "7 Years of Fun!!" stages 7 times!
 9209	Score 7777 pts in "Lucky Number 7"! Find this Ranking Stage at the Catclaw Dojo!
-9211	Missioni dell'evento d'invasione. Supera il livello "Impatto blu"!
-9212	Supera tutte 7 le missioni dell'evento d'invasione!
+9211	Missioni d'invasione Festival limitato. Supera il livello "Impatto blu"!
+9212	Supera le 7 missioni d'invasione Festival limitato!
 9213	Upgrade Miku Cat to Level 10! (You must evolve the Cat before the Hatsune Miku collab ends!)
 9214	Clear "MIKU EXPO" 5 times!
 9215	Clear "MIKU EXPO" 10 times!
@@ -598,15 +598,15 @@
 36	Prendi ogni tesoro superiore in Gatti del Cosmo Cap. 1
 37	Prendi ogni tesoro superiore in Gatti del Cosmo Cap. 2
 38	Prendi ogni tesoro superiore in Gatti del Cosmo Cap. 3
-9231	Missioni dell'evento d'invasione: Supera "Fiume Stige". 1 volte usando 8 o più Gatti normali
-9232	Missioni dell'evento d'invasione: Supera "Babau dei morti". 1 volte usando 8 o più Gatti speciali
-9233	Missioni dell'evento d'invasione: Supera "Vendetta di re. Wahwah" 1 volte usando 9 Gatti normali
-9234	Missioni dell'evento d'invasione: Supera "Impatto blu". 1 volte usando solamente seconde forme
-9235	Missioni dell'evento d'invasione: Supera "Sogno profondo". 1 volte usando solamente prime forme
-9236	Supera tutte 5 le missioni dell'evento d'invasione!
-9237	Supera il livello "L'angelo e il demone"! Devi anche superare il livello speciale corrispondente
-9238	Supera il livello "La regina e il morto"! Devi anche superare il livello speciale corrispondente
-9239	Supera il livello "Il re e la fanciulla"! Devi anche superare il livello speciale corrispondente
+9231	【Invasione】Supera il livello "Fiume Stige". 1 volte usando 8 o più Gatti normali
+9232	【Invasione】Supera il livello "Debutto da morti". 1 volte usando 8 o più Gatti speciali
+9233	【Invasione】Supera il livello "Vendetta di re Wahwah". 1 volte usando 9 Gatti normali
+9234	【Invasione】Supera il livello "Impatto blu". 1 volte usando solamente seconde forme
+9235	【Invasione】Supera il livello "Sogno profondo". 1 volte usando solamente prime forme
+9236	Supera le 5 missioni d'invasione Festival limitato!
+9237	【Invasione】Supera il livello "L'angelo e il demone"! Devi anche superare il livello di continuazione associato
+9238	【Invasione】Supera il livello "La regina e il morto"! Devi anche superare il livello di continuazione associato
+9239	【Invasione】Supera il livello "Il re e la fanciulla"! Devi anche superare il livello di continuazione associato
 9240	Compito per le vacanze ①: Scegli un argomento per il diario. Supera 5 livelli di Gatti estivi
 9241	Compito per le vacanze ②: Scegli il 2° argomento. Supera 10 livelli di Gatti estivi
 9242	Compito per le vacanze ③: Scegli il 3° argomento. Supera 30 livelli di Gatti estivi
@@ -652,3 +652,8 @@
 45	Supera "I regni Aku". Completa superando tutti i livelli di I regni Aku
 9305	Supera il 30° piano della Torre infernale. * Puoi ricevere la ricompensa solo una volta
 47	Resoconto dell'imperatrice: Ricerca di Aku. Resoconto dell'imperatrice 1: supera 5 liv. 5 volte.
+9321	【Invasione】Supera "Clionel Ascendente". 1 volte usando 7 o più Gatti speciali
+9322	【Invasione】Supera il livello "Incoronazione regale". 1 volte usando 7 o più Gatti normali
+9323	【Invasione】Supera il livello "Il morto e il gonfio"! Devi anche superare il livello di continuazione associato
+9324	【Invasione】Supera il livello "La regina e la fanciulla"! Devi anche superare il livello di continuazione associato
+9325	【Invasione】Supera il livello "Il re e l'angelo"! Devi anche superare il livello di continuazione associato

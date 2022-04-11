@@ -29,7 +29,7 @@
 28	Clear "Clionel Ascendant"
 29	Clear "River Styx"
 30	Clear "Queen's Coronation"
-31	Clear "Daboo of the Dead"
+31	Clear "Dead on Debut"
 32	Clear "King Wahwah's Revenge"
 33	Clear "Deeply Dreaming"
 34	Clear "Blue Impact"
@@ -94,3 +94,9 @@
 93	Clear Floor 30 of the Infernal Tower
 94	Clear all Cats of the Cosmos Ch. 1 Zombie Outbreak Stages
 95	Unlock Elder Beast Naala
+96	Clear "Baron Seal Strikes"
+97	Clear "Le'Grim Strikes"
+98	Clear "Mega Menace"
+99	Clear "Horrorpotamus"
+100	Clear "Big Peng Z Strikes"
+101	Clear "Divine Archangel Strikes"

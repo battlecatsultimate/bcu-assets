@@ -94,3 +94,9 @@
 93	★ Inferno 30 ★
 94	★ Stelle spente ★
 95	★ Naalascia stare ★
+96	★ Baron defunto ★
+97	★ Ele-tale mietuto ★
+98	★ Mega massacro ★
+99	★ Ippoisterismi ★
+100	★ Grande Ping nel fianco ★
+101	★ Sterminio celeste ★

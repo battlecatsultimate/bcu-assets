@@ -228,6 +228,7 @@
 1056	Gatto pifferaio
 1057	Gatto calligrafo
 1058	Naala bestia stagionata
+1059	Uovo antico N001
 19001	Gatto punk
 19002	Gatto gomma
 19003	Gatto oscuro
@@ -325,6 +326,7 @@
 10127	Burattinaio e Charley
 10128	Bombagatto
 10129	Gatto Aquilone
+15130	Gatto macho luccicante
 16131	Ururun risvegliata
 10133	Artiglio di ferro X
 15135	Re Gamereon
@@ -414,6 +416,9 @@
 16324	Musashi risvegliato
 10325	Gatto Guscio verde
 15326	Gatto peso spettrale
+15331	Kenshin brezza primaverile
+15332	Anatroccolo malefico
+15333	Neneko in fiore
 15335	Himeyuri Volpe regina
 15336	Ruri Sire-gina
 15337	Reika eterna
@@ -488,6 +493,7 @@
 15585	Maeda Natale DX
 15590	Neneko vero amore
 15595	Ultra Atlantis Logistix
+15596	Lord Kamukura sempre in fiore
 15611	Re Nekokhamen
 30000	Più attacco D: Rosso
 30001	Più attacco C: Rosso

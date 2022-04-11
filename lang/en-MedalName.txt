@@ -94,3 +94,9 @@
 93	★ Inferno 30 ★
 94	★ Dead Stars ★
 95	★ Naala Problem ★
+96	★ Baron Wasted ★
+97	★ Le'Grim Reaped ★
+98	★ Mega Massacre ★
+99	★ Hyppoh Hysteria ★
+100	★ Big Peng in the Neck ★
+101	★ Exiel Exterminated ★

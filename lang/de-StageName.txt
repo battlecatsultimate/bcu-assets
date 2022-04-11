@@ -1290,6 +1290,11 @@
 001-276-001	Aku für Großmeister: Methoden
 001-276-002	Aku für Großmeister: Forschung
 001-276-003	Aku für Großmeister: Fragestellung
+001-277		Ausgrabung der Kaiserin 1
+001-277-000	Archäologie für Anfänger: Planung
+001-277-001	Archäologie für Anfänger: Methoden
+001-277-002	Archäologie für Anfänger: Ergebnisse
+001-277-003	Archäologie für Anfänger: Analyse
 001-285		Die 5 häufigsten Feinde 2021
 001-285-000	#5 Schlittern
 001-285-001	#4 Wegfegen
@@ -1343,6 +1348,26 @@
 001-297-000	Occupy Nachmittagsbetreuung
 001-297-001	Betteln um Schokolade
 001-297-002	Siebenminütiger Krieg
+001-303		Hof der Qual
+001-303-000	An der Stelle warten
+001-303-001	Schnellerer Puls
+001-303-002	Sie ist wirklich gekommen?!
+001-303-003	Ein mutiger Schritt
+001-303-004	Verstreute Kirschblüten
+001-303-005	Moralische Unterstützung
+001-303-006	Unerhörtes Geständnis
+001-303-007	Nicht mehr Single?
+001-304		Wir feiern 70 Mio. Geschenke für alle!
+001-304-000	70 Millionen, hurra!
+001-305		Tot & rund
+001-305-000	Parade der Toten (Tödlich)
+001-305-001	Pusteplanet (Gnadenlos)
+001-306		Königin & Jungfrau
+001-306-000	Honigtopf (Tödlich)
+001-306-001	Junge Bomberin (Tödlich)
+001-307		König & Engel
+001-307-000	N-1 Grand Prix (Tödlich)
+001-307-001	Kein Plan A (Tödlich)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2710,6 +2735,12 @@
 004-050-000	Hortwildnis (Tödlich)
 004-050-001	Gipfelwildnis (Gnadenlos)
 004-050-002	Grenzwildnis (Gnadenlos)
+004-052		Tot & rund
+004-052-000	Pusteplanet (Gnadenlos)
+004-053		Königin & Jungfrau
+004-053-000	Junge Bomberin (Tödlich)
+004-054		König & Engel
+004-054-000	Kein Plan A (Tödlich)
 
 006			Katzenkrallendojo
 006-000		Halle der Initianden
@@ -3279,6 +3310,8 @@
 014-031-000	Säugetiere? (Irre)
 014-032		Der verrückte Titan
 014-032-000	Verrückte Katzen (Irre)
+014-033		Blauer Schlag
+014-033-000	Pusteplanet (Gnadenlos)
 
 024			Baron Boss Stages
 024-000		Baron Robbe schlägt zu!
@@ -3996,6 +4029,39 @@
 024-045-017	Trostgeschenk St. 18
 024-045-018	Trostgeschenk St. 19
 024-045-019	Trostgeschenk St. MAX
+024-049		Monatl. Event-Stars Dankbare Versammlung
+024-049-000	Dankbare XP St. 1
+024-049-001	Dankbare XP St. 2
+024-049-002	Dankbare XP St. 3
+024-049-003	Dankbare XP St. 4
+024-049-004	Dankbare XP St. 5
+024-049-005	Dankbare XP St. 6
+024-049-006	Dankbare XP St. 7
+024-049-007	Dankbare XP St. 8
+024-049-008	Dankbare XP St. 9
+024-049-009	Dankbare XP St. MAX
+024-050		Mai-Turnier
+024-050-000	Krankheit St. 1
+024-050-001	Krankheit St. 2
+024-050-002	Krankheit St. 3
+024-050-003	Krankheit St. 4
+024-050-004	Krankheit St. 5
+024-050-005	Krankheit St. 6
+024-050-006	Krankheit St. 7
+024-050-007	Krankheit St. 8
+024-050-008	Krankheit St. 9
+024-050-009	Krankheit St. 10
+024-051		Mai-Turnier II
+024-051-000	Auf ein Neues St. 11
+024-051-001	Auf ein Neues St. 12
+024-051-002	Auf ein Neues St. 13
+024-051-003	Auf ein Neues St. 14
+024-051-004	Auf ein Neues St. 15
+024-051-005	Auf ein Neues St. 16
+024-051-006	Auf ein Neues St. 17
+024-051-007	Auf ein Neues St. 18
+024-051-008	Auf ein Neues St. 19
+024-051-009	Auf ein Neues St. MAX
 
 025			Enigma Stages
 025-000		Atium-Felder

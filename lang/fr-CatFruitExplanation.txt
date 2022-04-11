@@ -127,7 +127,7 @@
 126	<br><br>
 127	<br><br>
 128	<br><br>
-129	<br><br>
+129	La forme ultime a une meilleure défense<br>et l'immunité aux vagues offensives.<br>
 130	La forme ultime améliore<br>la déf., la portée et la puissance d’att.<br>Devient immun. aux malédictions ennemies.
 131	<br><br>
 132	<br><br>
@@ -328,9 +328,9 @@
 327	<br><br>
 328	<br><br>
 329	<br><br>
-330	<br><br>
-331	<br><br>
-332	<br><br>
+330	La forme ultime gagne<br>Fléau des colosses et l'immunité<br>aux attaques d'Affaiblissement.
+331	La forme ultime n'attaque que les ennemis<br>rouges et Akus, mais gagne l'immunité aux<br>att. toxiques et aux répliques offensives.
+332	La forme ultime gagne la capacité<br>d'infliger divers effets de statut négatifs<br>aux ennemis métal.
 333	<br><br>
 334	La forme ultime améliore toutes les<br>stat. et les ralentiss. sur les ennemis<br>flottants et anges durent plus longtemps !
 335	La forme ultime améliore la puissance<br>d’attaque et la défense ! Ennemis rouges<br>affaiblis plus longtemps !
@@ -593,7 +593,7 @@
 592	<br><br>
 593	<br><br>
 594	La forme ultime gagne une chance<br>d'esquiver les attaques de zombies<br>et permet de survivre à 1 frappe fatale !
-595	<br><br>
+595	La forme ultime gagne le Ralentissement<br>et le Recul contre les Akus.<br>
 596	<br><br>
 597	<br><br>
 598	<br><br>
@@ -652,3 +652,6 @@
 651	<br><br>
 652	<br><br>
 653	<br><br>
+654	<br><br>
+655	<br><br>
+656	<br><br>

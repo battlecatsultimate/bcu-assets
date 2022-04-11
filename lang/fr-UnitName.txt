@@ -127,7 +127,7 @@
 126	Chat mécanique	Chat marionnettiste	Marionnettiste et Charly
 127	Chat fleur	Chat ventilo	Chat bombe à retardement
 128	Chat vengeur	Chat Groucho	Chat cerf-volant
-129	Chat doré	Chat doré macho	
+129	Chat doré	Chat doré macho	Chat macho scintillant
 130	Ururun et Loup	Ururun et Tama	Ururun et Tama éveillés
 131	Neneko	Miss Neneko	
 132	Chat kung-fu X	Chat éthylique expert X	Griffe de fer X
@@ -328,9 +328,9 @@
 327	Belial	Reckless Belial	
 328	Happy 100	Heartful Happy 100	
 329	Chat œuf	Chat de Pâques	
-330	Kenshin printanière	Kenshin épanouie	
-331	Lapin et Canard	Disciple psychanard	
-332	Neneko de Pâques	Neneko sautillante	
+330	Kenshin printanière	Kenshin épanouie	Kenshin brise printanière
+331	Lapin et Canard	Disciple psychanard	Canard fou et malfaisant
+332	Neneko de Pâques	Neneko sautillante	Neneko du rituel de passage
 333	Gao de l’ombre	Gao diabolique	
 334	Himeyuri filoute	Himeyuri à 9 queues	Himeyuri reine renard
 335	Ruri fille des mers	Ruri maîtresse des mers	Ruri reine des mers
@@ -593,7 +593,7 @@
 592	Neko Rin	Neko Rin CC	
 593	Neko Len	Neko Len CC	
 594	Puissant Aethur Cie	Atlantis Logistix	Ultra Atlantis Logistix
-595	Kamukura en fleur	Kamukura fleur éternelle	
+595	Kamukura en fleur	Kamukura fleur éternelle	Mr Kamukura fleur éternelle
 596	Ranma Saotome (M)	Ranma Saotome (F)	
 597	Akane Tendo	Akane Tendo (Gi)	
 598	Ryoga Hibiki (Pig)	Ryoga Hibiki	
@@ -652,3 +652,6 @@
 651	Chatte lion écolière	Chatte lion masque de fer	
 652	Chat effaceur de tableau	Chat purificateur de tableau	
 653	Bête ancestrale Naala	Bête tempête Naala	
+654	Grand Chat sous contrôle	Chat gambettes sous contrôle	
+655	Bliza	Blizana	
+656	Œuf ancien N001	Œuf mystique N001	

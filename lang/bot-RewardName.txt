@@ -231,6 +231,7 @@
 1056	Pied Piper Cat
 1057	Calligraphy Cat
 1058	Elder Beast Naala
+1059	Ancient Egg N001
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -328,6 +329,7 @@
 10127	Puppetmaster & Charley
 10128	Bombercat
 10129	Kite Cat
+15130	Glittering Macho Cat
 16131	Awakened Ururun
 10133	Iron Claw X
 15135	King Gamereon
@@ -417,6 +419,9 @@
 16324	Awakened Musashi
 10325	Green Shell Cat
 15326	Ectoweight Cat
+15331	Spring Breeze Kenshin
+15332	Malevolent Mad-Duck
+15333	Blossoming Neneko
 15335	Fox Queen Himeyuri
 15336	Mer-Queen Ruri
 15337	Eternal Reika
@@ -491,6 +496,7 @@
 15585	Maeda Christmas DX
 15590	True Love Neneko
 15595	Ultra Atlantis Logistix
+15596	Everbloom Lord Kamukura
 15611	King Nekokhamen
 30000	Attack Up D: Red
 30001	Attack Up C: Red

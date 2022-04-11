@@ -601,3 +601,4 @@
 600	Capi B. Ara estaba disfrutando de sus vacaciones<br>hasta que murió inesperadamente. Es una pesada<br>que protege su rinconcito abduciendo a otros<br>visitantes y mandándolos a una zona lejana.
 601	
 602	
+603	Mientras caminaba por los trópicos,<br>este Chucho oyó la llamada de la naturaleza,<br>así que dejó su trabajo y a su hermano gemelo<br>y se lanzó a buscar la ola perfecta.

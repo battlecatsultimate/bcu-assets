@@ -175,12 +175,12 @@
 9158	Schließe Noch ein Neujahr 10 Mal ab!
 9159	Schließe Noch ein Neujahr 20 Mal ab!
 9160	Entwickle Erwachsene Katze auf Stufe 10! Kann nur abgeschlossen werden, während Januar-Level verfügbar sind!
-9161	Invasionsevent-Mission. Schließe das Level „Aufsteigender Clionel“ ab!
-9162	Invasionsevent-Mission. Schließe das Level „Fluss Styx“ ab!
-9163	Invasionsevent-Mission. Schließe das Level „Krönung der Königin“ ab!
-9164	Invasionsevent-Mission. Schließe das Level „Daboo von den Toten“ ab!
-9165	Invasionsevent-Mission. Schließe das Level „König Wahwahs Rache“ ab!
-9166	Invasionsevent-Mission. Schließe das Level „Tiefschlaf“ ab!
+9161	Limit. Fest-Invasionsmissionen. Schließe „Aufsteigender Clionel“ ab!
+9162	Limit. Fest-Invasionsmissionen:. Schließe „Fluss Styx“ ab!
+9163	Limit. Fest-Invasionsmissionen:. Schließe „Krönung der Königin“ ab!
+9164	Limit. Fest-Invasionsmissionen:. Schließe „Tödliches Debüt“ ab!
+9165	Limit. Fest-Invasionsmissionen:. Schließe „König Wahwahs Rache“ ab!
+9166	Limit. Fest-Invasionsmissionen:. Schließe „Tiefschlaf“ ab!
 9167	Schließe alle limitierten Festival-Level einmal ab!
 9168	Schließe Sechs Jahre 6 Mal ab!
 9169	Erreiche 6666 Punkte in „Sechs Jahre stark“! Dieses Ranglistenlevel gibt es im Katzenkrallendojo!
@@ -575,8 +575,8 @@
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9208	Clear "7 Years of Fun!!" stages 7 times!
 9209	Score 7777 pts in "Lucky Number 7"! Find this Ranking Stage at the Catclaw Dojo!
-9211	Invasionsevent-Mission. Schließe das Level „Blauer Schlag“ ab!
-9212	Schließe alle 7 Invasionsevent-Missionen ab!
+9211	Limit. Fest-Invasionsmissionen:. Schließe „Blauer Schlag“ ab!
+9212	Schließe alle 7 limit. Fest-Invasionsmissionen ab!
 9213	Upgrade Miku Cat to Level 10! (You must evolve the Cat before the Hatsune Miku collab ends!)
 9214	Clear "MIKU EXPO" 5 times!
 9215	Clear "MIKU EXPO" 10 times!
@@ -598,15 +598,15 @@
 36	Sammle alle ausgezeichneten Schätze. aus Kosmische Katzen Kapitel 1
 37	Sammle alle ausgezeichneten Schätze. aus Kosmische Katzen Kapitel 2
 38	Sammle alle ausgezeichneten Schätze. aus Kosmische Katzen Kapitel 3
-9231	Invasionsevent-Mission: Schließe „Fluss Styx“. 1-Mal mit 8 oder mehr normalen Katzen ab
-9232	Invasionsevent-Mission: Schließe „Daboo von den Toten“. 1-Mal mit 8 oder mehr Sonderkatzen ab
-9233	Invasionsevent-Missionen: Schließe „König Wahwahs. Rache“ 1-Mal mit 9 normalen Katzen ab
-9234	Invasionsevent-Mission: Schließe „Blauer Schlag“. 1-Mal nur mit zweiten Formen ab
-9235	Invasionsevent-Mission: Schließe „Tiefschlaf“ . 1-Mal nur mit unentwickelten ersten Formen
-9236	Schließe alle 5 Invasionsevent-Missionen ab!
-9237	Schließe das Level „Engel & Teufel“ ab! Du musst auch das zugehörige Sonderlevel abschließen
-9238	Schließe das Level „Königin & Tote“ ab! Du musst auch das zugehörige Sonderlevel abschließen
-9239	Schließe das Level „König & Jungfrau“ ab! Du musst auch das zugehörige Sonderlevel abschließen
+9231	Limit. Fest-Invasionsmissionen:. Schließe „Fluss Styx“ 1-mal mit min. 8 normalen Katzen ab
+9232	【Invasion】Schließe „Tödliches. Debut“ 1-mal mit min. 8 Sonderkatzen ab
+9233	Limit. Fest-Invasionsmissionen: Schließe „König Wahwahs. Rache“ 1-mal mit 9 normalen Katzen ab
+9234	Limit. Fest-Invasionsmissionen: Schließe „Blauer Schlag“. 1-mal nur mit zweiten Formen ab
+9235	Limit. Fest-Invasionsmissionen: Schließe „Tiefschlaf“. 1-mal nur mit unentwickelten ersten Formen ab
+9236	Schließe alle 5 limit. Fest-Invasionsmissionen ab!
+9237	【Invasion】Schließe „Engel & Teufel“ ab! Du musst auch das zugehörige Sonderlevel abschließen
+9238	【Invasion】Schließe „Königin & Tote“ ab! Du musst auch das zugehörige Sonderlevel abschließen
+9239	【Invasion】Schließe „König & Jungfrau“ ab! Du musst auch das zugehörige Sonderlevel abschließen
 9240	Sommerhausaufgaben ①: Wähle ein Aufsatzthema! Schließe. 5 Sommerferienkatzen-Level ab
 9241	Sommerhausaufgaben ②: Wähle ein 2. Aufsatzthema! Schließe. 10 Sommerferienkatzen-Level ab
 9242	Sommerhausaufgaben ③: Wähle ein 3. Aufsatzthema! Schließe. 30 Sommerferienkatzen-Level ab
@@ -652,3 +652,8 @@
 45	Schließe „Das Reich der Aku“ ab! Meistere die Mission,. indem du alle Level in „Das Reich der Aku“ abschließt
 9305	Schließe Ebene 30 des Höllischen Turms ab. * Belohnung kann nur ein Mal eingefordert werden
 47	Bericht der Kaiserin: Aku-Forschung. Schließe „Bericht der Kaiserin 1 - 5“-Level jeweils 5 Mal ab
+9321	【Invasion】Schließe „Aufsteigender. Clionel“ 1-mal mit min. 7 Sonderkatzen ab
+9322	【Invasion】Schließe „Krönung. der Königin“ 1-mal mit min. 7 Normalen Katzen ab
+9323	【Invasion】Schließe „Tot & rund“ ab! Du musst auch das zugehörige Sonderlevel abschließen
+9324	【Invasion】Schließe „Königin & Jungfrau“ ab! Du musst auch das zugehörige Sonderlevel abschließen
+9325	【Invasion】Schließe „König & Engel“ ab! Du musst auch das zugehörige Sonderlevel abschließen

@@ -127,7 +127,7 @@
 126	<br><br>
 127	<br><br>
 128	<br><br>
-129	<br><br>
+129	Wahre-Form-Entwicklung erhöht Vert. sowie<br>Immunität gegen Wellenangriffe.<br>
 130	Wahre-Form-Entwicklung verbessert<br>Verteidigung, Reichweite und Angriffskraft.<br>Wird zudem immun gegen feindliche Flüche.
 131	<br><br>
 132	<br><br>
@@ -328,9 +328,9 @@
 327	<br><br>
 328	<br><br>
 329	<br><br>
-330	<br><br>
-331	<br><br>
-332	<br><br>
+330	Wahre-Form-Entwicklung gewährt<br>Kolosstöter und Immunität<br>gegen feindliche Schwächen-Effekte.
+331	Wahre Form greift nur Rot/Aku an,<br>erhält aber Immunität gegen<br>feindliche Gift- und Zufallsangriffe.
+332	Wahre-Form-Entwicklung gewährt Fähigkeit,<br>diverse negative Statuseffekte gegen<br>eiserne Feinde zu verursachen.
 333	<br><br>
 334	Wahre-Form-Entwicklung erhöht alle Werte!<br>Lähmt zudem fliegende und Engel-Feinde<br>für längere Zeit!
 335	Wahre-Form-Entwicklung steigert Angriff<br>und Verteidigung! Schwächt rote Feinde<br>für noch längere Zeit!
@@ -593,7 +593,7 @@
 592	<br><br>
 593	<br><br>
 594	Wahre-Form-Entwicklung gewährt Chance,<br>Zombie-Angriffen auszuweichen + Fähigkeit,<br>einen tödlichen Schlag zu überleben!
-595	<br><br>
+595	Wahre-Form-Entwicklung gewährt Lähmung<br>und Rückstoß gegen Aku.<br>
 596	<br><br>
 597	<br><br>
 598	<br><br>
@@ -652,3 +652,6 @@
 651	<br><br>
 652	<br><br>
 653	<br><br>
+654	<br><br>
+655	<br><br>
+656	<br><br>
