@@ -1,4 +1,4 @@
-﻿000			Story of Legends
+﻿000			Stories of Legend
 000-000		The Legend Begins
 000-000-000	Earthshaker
 000-000-001	Return of Terror
@@ -1906,7 +1906,7 @@
 002-178-003	Just Couldn't Say Goodbye
 002-178-004	I'm Sorry
 
-003			Empire of Cats
+003			Main Story Chapters
 003-000		EoC Ch.1 Zombie
 003-000-000	Korea
 003-000-001	Mongolia
@@ -2996,7 +2996,7 @@
 
 012			Challenge Mode
 012-000		Challenge
-012-000-000	Challenge
+012-000-000	Higher Score
 
 013			Uncanny Legends
 013-000		A New Legend
@@ -3376,7 +3376,7 @@
 014-033		Blue Impact
 014-033-000	Puffer Planet (Merciless)
 
-024			Baron Boss Stages
+024			Gauntlet Stages
 024-000		Baron Seal Strikes!
 024-000-000	Red Alert 1
 024-000-001	Red Alert 2
@@ -4255,7 +4255,7 @@
 025-059		Perfect Hideout
 025-059-000	Midnight Bug Hunt
 
-027			Collab Baron Stages
+027			Collab Gauntlet Stages
 027-000		Messier's Assault
 027-000-000	Land of Dreams Lv1
 027-000-001	Land of Dreams Lv2
