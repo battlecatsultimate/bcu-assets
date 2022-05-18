@@ -192,7 +192,7 @@
 191	<br><br>
 192	<br><br>
 193	<br><br>
-194	La Forma Reale è efficace<br>contro nemici alieni e garantisce<br>immunità da attacchi a ondata.
+194	La Forma Reale è efficace<br>contro nemici alieni.<br>
 195	La Forma Reale aumenta<br>la potenza d'attacco contro nemici alieni.<br>Ha rallentamento al 100% contro alieni!
 196	La Forma Reale infligge danni<br>enormi ad alieni e antichi, e<br>diventa immune dalle maledizioni.
 197	La Forma Reale ottiene più velocità<br>di movimento, più una migliore<br>difesa e velocità d'attacco!
@@ -317,7 +317,7 @@
 316	La Forma Reale ottiene maggiore<br>difesa, velocità e potenza d'attacco!<br>
 317	<br><br>
 318	<br><br>
-319	<br><br>
+319	La Forma Reale ottiene abilità molto<br>migliorate e Ammazza Behemoth.<br>
 320	<br><br>
 321	<br><br>
 322	La Forma Reale ottiene maggiori<br>difesa e velocità d'attacco! Ottiene<br>immunità dall'indebolimento nemico.
@@ -480,7 +480,7 @@
 479	<br><br>
 480	<br><br>
 481	<br><br>
-482	<br><br>
+482	La Forma Reale ottiene<br>rallentamento garantito contro i fluttuanti<br>e l'abilità Indebolimento!
 483	<br><br>
 484	<br><br>
 485	<br><br>
@@ -605,7 +605,7 @@
 604	<br><br>
 605	<br><br>
 606	<br><br>
-607	<br><br>
+607	La Forma Reale ottiene<br>attacchi a valanga più distanti<br>e l'abilità Ammazza Behemoth!
 608	<br><br>
 609	<br><br>
 610	La Forma Reale ottiene maggiore<br>difesa e immunità da veleno!<br>
@@ -654,4 +654,7 @@
 653	<br><br>
 654	<br><br>
 655	<br><br>
-656	<br><br>
+656	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+657	<br><br>
+658	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+659	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>

@@ -657,3 +657,32 @@
 9323	【Invasion】Schließe „Tot & rund“ ab! Du musst auch das zugehörige Sonderlevel abschließen
 9324	【Invasion】Schließe „Königin & Jungfrau“ ab! Du musst auch das zugehörige Sonderlevel abschließen
 9325	【Invasion】Schließe „König & Engel“ ab! Du musst auch das zugehörige Sonderlevel abschließen
+48	Schließe 5 Behemothjagd-Level zum ersten Mal ab
+49	Schließe 10 Behemothjagd-Level zum ersten Mal ab
+9326	Zyklonfest-Missionen. Schließe das Level „Blutrote Katastrophe“ ab!
+9327	Zyklonfest-Missionen. Schließe das Level „Himmel der Dunkelheit“ ab!
+9328	Zyklonfest-Missionen. Schließe das Level „Unvergleichlich“ ab!
+9329	Zyklonfest-Missionen. Schließe das Level „Süße Ironie“ ab!
+9330	Zyklonfest-Missionen. Schließe das Level „Zorn des Himmels“ ab!
+9331	Zyklonfest-Missionen. Schließe das Level „Dimension der Verzweiflung“ ab!
+9332	Zyklonfest-Missionen. Schließe das Level „Morgenrot“ ab!
+9333	Zyklonfest-Missionen. Schließe das Level „Wandelnde Tote“ ab!
+9334	Zyklonfest-Missionen. Schließe das Level „Die 2. Dimension“ ab!
+9335	Zyklonfest-Missionen. Schließe das Level „Taifun-Nemo“ ab!
+9336	Zyklonfest-Missionen. Beende „Blutrote Katastrophe“ 1-Mal mit min. 8 norm. Katzen
+9337	Zyklonfest-Missionen. Beende „Himmel der Dunkelheit“ 1-Mal mit min. 8 norm. Katzen
+9338	Zyklonfest-Missionen. Beende „Unvergleichlich“ 1-Mal mit min. 8 seltenen Katzen
+9339	Zyklonfest-Missionen. Beende „Süße Ironie“ 1-Mal mit min. 8 seltenen Katzen
+9340	Zyklonfest-Missionen. Beende „Zorn des Himmels“ 1-Mal mit min. 8 seltenen Katzen
+9341	Zyklonfest-Missionen. Beende „Dimension der Verzw.“ 1-Mal mit min. 8 norm. Katzen
+9342	Zyklonfest-Missionen. Beende „Morgenrot“ 1-Mal nur mit unentwickelten 1. Formen
+9343	Zyklonfest-Missionen. Beende „Wandelnde Tote“ 1-Mal nur mit unentw. 1. Formen
+9344	Zyklonfest-Missionen. Beende „Die 2. Dimension“ 1-Mal nur mit unentw. 1. Formen
+9345	Clear 1  "Annihilated City"  stages with "Yuki Cat" in your formation
+9346	Clear 1  "Annihilated City"  stages with "Takuya & Yuki" in your formation
+9347	Clear 1  "Annihilated City"  stages with "Redhead Yuki Cat" in your formation
+9348	Clear 1  "Annihilated City"  stages with "Kano & Souma" in your formation
+9349	Clear 5  Shoumetsu Toshi collab stages
+9350	Clear 15  Shoumetsu Toshi collab stages
+9351	Clear 30  Shoumetsu Toshi collab stages
+9352	Complete 5 Gamatoto expeditions! Send Gamatoto to any

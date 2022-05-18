@@ -2739,6 +2739,8 @@
 004-053-000	Poseuse de bombe (mortel)
 004-054		Le roi et l'ange
 004-054-000	Pas de plan A (mortel)
+004-055		Moneko maboule
+004-055-000	Dans la lune
 
 006			Dojo Griffélin
 006-000		Salle des initiés
@@ -3225,6 +3227,13 @@
 013-041-003	Cape de camouflage
 013-041-004	Salle du festin
 013-041-005	Viande grillée, villes sauves
+013-043		Plage modiste
+013-043-000	Étoiles dans le verre
+013-043-001	Nuit des arnaqueurs
+013-043-002	L'amour peut attendre
+013-043-003	Un chiot et des larmes
+013-043-004	Duel shinobi
+013-043-005	Blues de la mer antique
 
 014			Night Stages
 014-000		Croissance jaune
@@ -3310,6 +3319,40 @@
 014-032-000	Chats cinglés (maniaque)
 014-033		Impact bleu
 014-033-000	Planète poisson (sans répit)
+014-034		Moneko maboule
+014-034-000	Au Japon
+014-034-001	À Londres
+014-034-002	À New York
+014-035		Rouge levant
+014-035-000	Orage en approche (maniaque)
+014-036		Rouge levant
+014-036-000	Tempête impie (maniaque)
+014-037		Rouge levant
+014-037-000	Antre de Charybde (sans répit)
+014-038		Rouge levant
+014-038-000	Colère des Enfers (mortel)
+014-039		Rouge levant
+014-039-000	Coule tel un ruisseau (sans répit)
+014-040		Rouge levant
+014-040-000	Fatal faucon (mortel)
+014-041		Rouge levant
+014-041-000	Vulcaniseur (mortel)
+014-042		Rouge levant
+014-042-000	Guerre injuste (mortel)
+014-043		Rouge levant
+014-043-000	Fête du muscle (mortel)
+014-044		Rouge levant
+014-044-000	Plein de lions (mortel)
+014-045		Rouge levant
+014-045-000	Bêtes des bois (mortel)
+014-046		Rouge levant
+014-046-000	Île de l’ogre (mortel)
+014-047		Rouge levant
+014-047-000	Draconien (mortel)
+014-048		Rouge levant
+014-048-000	Résident félin (mortel)
+014-049		Rouge levant
+014-049-000	Trou de ver ouvert (mortel)
 
 024			Baron Boss Stages
 024-000		Attaque du Baron phoque !
@@ -4178,6 +4221,20 @@
 025-058-000	Chasse aux insectes (minuit)
 025-059		Cachette parfaite
 025-059-000	Chasse aux insectes (minuit)
+025-060		Cachette parfaite
+025-060-000	Forêt de pierre violette 1
+025-060-001	Forêt de pierre rouge 1
+025-061		Cachette parfaite
+025-061-000	Forêt de pierre violette 2
+025-061-001	Forêt de pierre rouge 2
+025-061-002	Désert de pierre bleue 2
+025-061-003	Désert de pierre verte 2
+025-062		Cachette parfaite
+025-062-000	Forêt de pierre violette 3
+025-062-001	Désert de pierre bleue 3
+025-062-002	Désert de pierre verte 3
+025-062-003	Forêt de pierre rouge 3
+025-062-004	Volcan de pierre jaune 3
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -4338,3 +4395,23 @@
 027-009-007	Stagebuilding Witch: Cycle 8
 027-009-008	Stagebuilding Witch: Cycle 9
 027-009-009	Stagebuilding Witch: Cycle XX
+
+031			Behemoth Culling Stages
+031-000		Forêt cachée de Gapra
+031-000-000	Zone boisée 1
+031-000-001	Zone boisée 2
+031-000-002	Zone boisée 3
+031-000-003	Zone boisée 4
+031-000-004	Zone boisée 5
+031-001		Désert d'Ashvini
+031-001-000	Zone rocailleuse 1
+031-001-001	Zone rocailleuse 2
+031-001-002	Zone rocailleuse 3
+031-001-003	Zone rocailleuse 4
+031-001-004	Zone rocailleuse 5
+031-002		Volcan de Jinfore
+031-002-000	Zone de tunnel de lave 1
+031-002-001	Zone de tunnel de lave 2
+031-002-002	Zone de tunnel de lave 3
+031-002-003	Zone de tunnel de lave 4
+031-002-004	Zone de tunnel de lave 5

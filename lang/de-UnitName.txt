@@ -317,7 +317,7 @@
 316	Zorniger Poseidon	Tapferer Poseidon	Allmächtiger Poseidon
 317	CPAC	PPAP	
 318	Miko Mitama	Mitama das Orakel	
-319	Killer-Katze	Wahre Killer-Katze	
+319	Killer-Katze	Wahre Killer-Katze	Radikale Katze
 320			
 321			
 322	Sarukani	Rock-Rächer	Die One-Hit-Wonders
@@ -480,7 +480,7 @@
 479			
 480			
 481	Doktor Himmel	Professor Abgrund	
-482	Benevolent Souma	Souma ＆ Cat	
+482	Benevolent Souma	Souma ＆ Cat	Cat-Eared Souma
 483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat	
 484	Kleine schwarze Walküre	Düsterreiter-Walküre	
 485			
@@ -605,7 +605,7 @@
 604	Ranma Cat (M)	Ranma Cat (F)	
 605	Akane Cat	Akane Cat (Gi)	
 606	Panda Cat	Genma Cat	
-607	Abenteurerin Kanna	Säbelrasslerin Kanna	
+607	Abenteurerin Kanna	Säbelrasslerin Kanna	Legendäre Abenteurerin Kanna
 608			
 609	Dunkler Aegis-Garu	Dunkler Bestienlord Garu	
 610	Goldbarrenkatze	Königsbarrenkatze	König Nekokhamen
@@ -654,4 +654,7 @@
 653	Ältestenbestie Naala	Sturmbestie Naala	
 654	Gehirngew. Stelzenkatze	Gehirng. Hübsche-Beine Katze	
 655	Bliza	Blizana	
-656	Uraltes Ei N001	Mystisches Ei N001	
+656	Uraltes Ei N001	Mystisches Ei N001	Haniwa-Katze
+657	Iz, die Tänzerin des Kummers	Iz, Dame der Trauer	
+658	Uraltes Ei: N101	Zinnober-Ei: N101	Kurierkatze
+659	Uraltes Ei: N102	Petrol-Ei: N102	Katzan

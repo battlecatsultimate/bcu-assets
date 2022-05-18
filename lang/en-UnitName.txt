@@ -317,7 +317,7 @@
 316	Wrathful Poseidon	Valiant Poseidon	Almighty Poseidon
 317	CPAC	PPAP	
 318	Miko Mitama	Mitama the Oracle	
-319	Killer Cat	True Killer Cat	
+319	Killer Cat	True Killer Cat	Radical Cat
 320			
 321			
 322	Sarukani	Rock Revengers	The One-Hit Wonders
@@ -480,7 +480,7 @@
 479			
 480			
 481	Doktor Heaven	Professor Abyss	
-482	Benevolent Souma	Souma ＆ Cat	
+482	Benevolent Souma	Souma ＆ Cat	Cat-Eared Souma
 483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat	
 484	Li'l Valkyrie Dark	Dark Rider Valkyrie	
 485			
@@ -605,7 +605,7 @@
 604	Ranma Cat (M)	Ranma Cat (F)	
 605	Akane Cat	Akane Cat (Gi)	
 606	Panda Cat	Genma Cat	
-607	Adventurer Kanna	Swashbuckler Kanna	
+607	Adventurer Kanna	Swashbuckler Kanna	Fabled Adventure Girl Kanna
 608			
 609	Dark Aegis Garu	Dark Beastlord Garu	
 610	Gold Brick Cat	King Ingot Cat	King Nekokhamen
@@ -654,4 +654,7 @@
 653	Elder Beast Naala	Storm Beast Naala	
 654	Brainwashed Gross Cat	Brainwashed Sexy Legs Cat	
 655	Bliza	Blizana	
-656	Ancient Egg N001	Mystic Egg N001	
+656	Ancient Egg N001	Mystic Egg N001	Haniwa Cat
+657	Iz the Dancer of Grief	Iz the Lady of Mourning	
+658	Ancient Egg: N101	Cinnabar Egg: N101	Courier Cat
+659	Ancient Egg: N102	Teal Egg: N102	Catarzan

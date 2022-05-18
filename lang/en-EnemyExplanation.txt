@@ -60,8 +60,8 @@
 059	A seal who traveled to the city,<br>dreaming of superstardom.<br>Wanted more attention so<br>he decided to go full cyborg.
 060	
 061	
-062	Salarycat's cruel boss.<br>Some might laugh behind his<br>back at his total focus, but<br>you can't argue with the results.
-063	Created devious magics to<br>break Cats' holiday spirit.<br>Uses cheap materials to keep<br>his Xmas profit margin low.
+062	
+063	
 064	The relentless assault of wind<br>keeps curious gawkers far away.<br>If only there was some way to stop<br>or stun it - a counterattack chance?
 065	
 066	
@@ -602,3 +602,9 @@
 601	
 602	
 603	While trekking through the tropics, this Doge<br>has heard the call of the wild. They have now<br>quit their job, leaving behind a twin brother for<br>a life spent in pursuit of the ultimate wave.
+604	A duck that fled back to nature and narrowly<br>avoided becoming foie gras. It violently rustles<br>its crests and can gore enemies with its giant<br>beak. A feral beast among feral beasts.
+605	An Owlbrow that awakened to its wild side at<br>age 79. An elder that descends onto a volcano<br>and unleashes years of pent-up anger as a <br>ball of light. Might release Surge attack.
+606	A Helmut Krabbe that has gained the irrational<br>power of love, as well as a nice place to live.<br>Its giant claws can Slow its enemies while its<br>long-range multi-attack brings the pain.
+607	This bunny fled a secret lab that used unethical <br>genome editing. The stores it manages all went<br>bankrupt during its absence, but the jewel in its<br>rear predicts good fortune in its future.
+608	Grandchild of Doge. Came from the future to<br>alter the past where its Grandpa failed a test.<br>The questions on the entry exam are so<br>different they're having trouble affecting change.
+609	A destructive weapon constructed by ancients.<br>The beam it fires is said to be able to bring ruin<br>It was sealed at the bottom of the ocean by a<br>sage. Is rumored to be floating to the surface.

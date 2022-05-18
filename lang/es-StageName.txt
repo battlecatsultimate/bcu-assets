@@ -2742,6 +2742,8 @@
 004-053-000	Bombardera (Mortal)
 004-054		El Rey y el Ángel
 004-054-000	Sin Plan A (Mortal)
+004-055		Moneko Demente
+004-055-000	en LA LUNA
 
 006			Dojo Afilagarras
 006-000		Sala de Iniciados
@@ -3228,6 +3230,13 @@
 013-041-003	Capa de Escondite
 013-041-004	Sala de Festines
 013-041-005	Asa Carne, No Ciudades
+013-043		Playa del Mal Humor
+013-043-000	Estrellas en el Vaso
+013-043-001	Noche de Estafas
+013-043-002	Amor Sin Prisas
+013-043-003	Perrito Llorica
+013-043-004	Enfrentamiento de Ninjas
+013-043-005	Canción del Mar
 
 014			Drink Stages
 014-000		Cultivo Amarillo
@@ -3313,6 +3322,40 @@
 014-032-000	Gatos Locos (Demencial)
 014-033		Impacto Azul
 014-033-000	Planeta Globo (Inhumano)
+014-034		Moneko Demente
+014-034-000	en JAPÓN
+014-034-001	en LONDRES
+014-034-002	en NUEVA YORK
+014-035		Cielo Rojo Matutino
+014-035-000	Tormenta Inminente (Demencial)
+014-036		Muertos Rodantes
+014-036-000	Tempestad Impía (Demencial)
+014-037		Tifón Nemo
+014-037-000	Boca de Caribdis (Inhumano)
+014-038		El Gran Diablo
+014-038-000	Ira del Infierno (Mortal)
+014-039		Fondo del Pantano
+014-039-000	Fluye como el Río (Inhumano)
+014-040		Gato Maníaco
+014-040-000	Matón Punkarra (Mortal)
+014-041		Defensor Maníaco
+014-041-000	Vulcanizador (Mortal)
+014-042		Hachero Maníaco
+014-042-000	Guerra Injusta (Mortal)
+014-043		Gatilargo Maníaco
+014-043-000	Fiesta de Fortachones (Mortal)
+014-044		Vaca Maníaca
+014-044-000	Lío de Leones (Mortal)
+014-045		Pájaro Maníaco
+014-045-000	Bestias del Bosque (Mortal)
+014-046		Pescado Maníaco
+014-046-000	Isla de Ogros (Mortal)
+014-047		Lagarto Maníaco
+014-047-000	Draconiano (Mortal)
+014-048		Titán Maníaco
+014-048-000	Felino del Mal (Mortal)
+014-049		La Segunda Dimensión
+014-049-000	Agujero de Gusano (Mortal)
 
 024			Baron Boss Stages
 024-000		¡Barón Foca Ataca!
@@ -4192,6 +4235,20 @@
 025-058-000	Caza de Bichos a Medianoche
 025-059		Escondite Perfecto
 025-059-000	Caza de Bichos a Medianoche
+025-060		Mapa del Cazador I
+025-060-000	Bosque de Piedras Moradas 1
+025-060-001	Bosque de Piedras Rojas 1
+025-061		Mapa del Cazador II
+025-061-000	Bosque de Piedras Moradas 2
+025-061-001	Bosque de Piedras Rojas 2
+025-061-002	Desierto de Piedras Azules 2
+025-061-003	Desierto de Piedras Verdes 2
+025-062		Mapa del Cazador III
+025-062-000	Bosque de Piedras Moradas 3
+025-062-001	Desierto de Piedras Azules 3
+025-062-002	Desierto de Piedras Verdes 3
+025-062-003	Bosque de Piedras Rojas 3
+025-062-004	Volcán de Piedras Amarillas 3
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -4352,3 +4409,23 @@
 027-009-007	Stagebuilding Witch: Cycle 8
 027-009-008	Stagebuilding Witch: Cycle 9
 027-009-009	Stagebuilding Witch: Cycle XX
+
+031			Behemoth Culling Stages
+031-000		Bosque Oculto de Gapra
+031-000-000	Zona Boscosa 1
+031-000-001	Zona Boscosa 2
+031-000-002	Zona Boscosa 3
+031-000-003	Zona Boscosa 4
+031-000-004	Zona Boscosa 5
+031-001		Desierto de Ashvini
+031-001-000	Zona Baldía 1
+031-001-001	Zona Baldía 2
+031-001-002	Zona Baldía 3
+031-001-003	Zona Baldía 4
+031-001-004	Zona Baldía 5
+031-002		Volcán Jinfore
+031-002-000	Zona del Túnel de Magma 1
+031-002-001	Zona del Túnel de Magma 2
+031-002-002	Zona del Túnel de Magma 3
+031-002-003	Zona del Túnel de Magma 4
+031-002-004	Zona del Túnel de Magma 5

@@ -657,3 +657,32 @@
 9323	【Invasion】Clear "The Dead & The Bloated"! You must also clear the Continuation Stage
 9324	【Invasion】Clear "The Queen & The Maiden"! You must also clear the Continuation Stage
 9325	【Invasion】Clear "The King & The Angel"! You must also clear the Continuation Stage
+48	Clear 5 Behemoth Culling Stages for the first time
+49	Clear 10 Behemoth Culling Stages for the first time
+9326	Cyclone Festival Missions. Clear the "Crimson Catastrophe" stage!
+9327	Cyclone Festival Missions. Clear the "Heaven of Darkness" stage!
+9328	Cyclone Festival Missions. Clear the "Peerless" stage!
+9329	Cyclone Festival Missions. Clear the "Sweet Irony" stage!
+9330	Cyclone Festival Missions. Clear the "Wrath of Heaven" stage!
+9331	Cyclone Festival Missions. Clear the "Dimension of Despair" stage!
+9332	Cyclone Festival Missions. Clear the "Red Sky at Morning" stage!
+9333	Cyclone Festival Missions. Clear the "The Rolling Dead" stage!
+9334	Cyclone Festival Missions. Clear the "The 2nd Dimension" stage!
+9335	Cyclone Festival Missions. Clear the "Typhoon Nemo" stage!
+9336	Cyclone Festival Missions. Clear "Crimson Catastrophe" 1 times using 8+ Normal Cats
+9337	Cyclone Festival Missions. Clear "Heaven of Darkness" 1 times using 8+ Normal Cats
+9338	Cyclone Festival Missions. Clear "Peerless" 1 times using 8 or more Rare Cats
+9339	Cyclone Festival Missions. Clear "Sweet Irony" 1 times using 8 or more Rare Cats
+9340	Cyclone Festival Missions. Clear "Wrath of Heaven" 1 times using 8+ Rare Cats
+9341	Cyclone Festival Missions. Clear "Dimension of Despair" 1 times using 8+ Normal Cats
+9342	Cyclone Festival Missions. Clear "Red Sky at Morning" 1 times using only 1st Forms
+9343	Cyclone Festival Missions. Clear "The Rolling Dead" 1 times using only unevolved 1st Forms
+9344	Cyclone Festival Missions. Clear "The 2nd Dimension" 1 times using only 1st Forms
+9345	Clear 1  "Annihilated City"  stages with "Yuki Cat" in your formation
+9346	Clear 1  "Annihilated City"  stages with "Takuya & Yuki" in your formation
+9347	Clear 1  "Annihilated City"  stages with "Redhead Yuki Cat" in your formation
+9348	Clear 1  "Annihilated City"  stages with "Kano & Souma" in your formation
+9349	Clear 5  Shoumetsu Toshi collab stages
+9350	Clear 15  Shoumetsu Toshi collab stages
+9351	Clear 30  Shoumetsu Toshi collab stages
+9352	Complete 5 Gamatoto expeditions! Send Gamatoto to any

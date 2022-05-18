@@ -653,3 +653,32 @@
 9323	【Invasión】Supera la fase. El Muerto y el Hinchado 1 veces con 7 especiales o más
 9324	【Invasión】Supera la fase. La Reina y la Doncella 1 veces con 7 especiales o más
 9325	【Invasión】Supera la fase. El Rey y el Ángel 1 veces con 7 especiales o más
+48	Supera 5 fases de Matanza de Mastodontes por primera vez
+49	Supera 10 fases de Matanza de Mastodontes por primera vez
+9326	Misiones del Festival de Ciclón. Supera la fase Catástrofe Carmesí
+9327	Misiones del Festival de Ciclón. Supera la fase Paraíso de Oscuridad
+9328	Misiones del Festival de Ciclón. Supera la fase Inigualable
+9329	Misiones del Festival de Ciclón. Supera la fase Dulce Ironía
+9330	Misiones del Festival de Ciclón. Supera la fase Ira de los Cielos
+9331	Misiones del Festival de Ciclón. Supera la fase Dimensión Desesperada
+9332	Misiones del Festival de Ciclón. Supera la fase Cielo Rojo Matutino
+9333	Misiones del Festival de Ciclón. Supera la fase Muertos Rodantes
+9334	Misiones del Festival de Ciclón. Supera la fase La Segunda Dimensión
+9335	Misiones del Festival de Ciclón. Supera la fase Tifón Nemo
+9336	Misiones del Festival de Ciclón. Supera Catástrofe Carmesí 1 veces con 8 normales o más
+9337	Misiones del Festival de Ciclón. Supera Paraíso de Oscuridad 1 veces con 8 normales o más
+9338	Misiones del Festival de Ciclón. Supera Inigualable 1 veces con 8 raro o más
+9339	Misiones del Festival de Ciclón. Supera Dulce Ironía 1 veces con 8 raro o más
+9340	Misiones del Festival de Ciclón. Supera Ira de los Cielos 1 veces con 8 raro o más
+9341	Misiones del Festival de Ciclón. Supera Dimensión Desesperada 1 veces con 8 normales o más
+9342	Misiones del Festival de Ciclón. Supera Cielo Rojo Matutino 1 veces con primeras formas
+9343	Misiones del Festival de Ciclón. Supera Muertos Rodantes 1 veces con primeras formas
+9344	Misiones del Festival de Ciclón. Supera La Segunda Dimensión 1 veces con primeras formas
+9345	Clear 1  "Annihilated City"  stages with "Yuki Cat" in your formation
+9346	Clear 1  "Annihilated City"  stages with "Takuya & Yuki" in your formation
+9347	Clear 1  "Annihilated City"  stages with "Redhead Yuki Cat" in your formation
+9348	Clear 1  "Annihilated City"  stages with "Kano & Souma" in your formation
+9349	Clear 5  Shoumetsu Toshi collab stages
+9350	Clear 15  Shoumetsu Toshi collab stages
+9351	Clear 30  Shoumetsu Toshi collab stages
+9352	Complete 5 Gamatoto expeditions! Send Gamatoto to any

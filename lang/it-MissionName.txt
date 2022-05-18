@@ -652,8 +652,37 @@
 45	Supera "I regni Aku". Completa superando tutti i livelli di I regni Aku
 9305	Supera il 30° piano della Torre infernale. * Puoi ricevere la ricompensa solo una volta
 47	Resoconto dell'imperatrice: Ricerca di Aku. Resoconto dell'imperatrice 1: supera 5 liv. 5 volte.
-9321	【Invasione】Supera "Clionel Ascendente". 1 volte usando 7 o più Gatti speciali
+9321	【Invasione】Supera il livello "Clionel Ascendente". 1 volte usando 7 o più Gatti speciali
 9322	【Invasione】Supera il livello "Incoronazione regale". 1 volte usando 7 o più Gatti normali
 9323	【Invasione】Supera il livello "Il morto e il gonfio"! Devi anche superare il livello di continuazione associato
 9324	【Invasione】Supera il livello "La regina e la fanciulla"! Devi anche superare il livello di continuazione associato
 9325	【Invasione】Supera il livello "Il re e l'angelo"! Devi anche superare il livello di continuazione associato
+48	Supera 5 livelli Selezione del Behemoth per la prima volta. "Info sulle sfide" per i livelli richiesti
+49	Supera 10 livelli Selezione del Behemoth per la prima volta. "Info sulle sfide" per i livelli richiesti
+9326	Missioni del Festival del Ciclone. Supera il livello "Catastrofe cremisi"!
+9327	Missioni del Festival del Ciclone. Supera il livello "Paradiso delle tenebre"!
+9328	Missioni del Festival del Ciclone. Supera il livello "Ineguagliabile"!
+9329	Missioni del Festival del Ciclone. Supera il livello "Dolce ironia"!
+9330	Missioni del Festival del Ciclone. Supera il livello "Ira del paradiso"!
+9331	Missioni del Festival del Ciclone. Supera il livello "Dimensione disperata"!
+9332	Missioni del Festival del Ciclone. Supera il livello "Rosso di mattina"!
+9333	Missioni del Festival del Ciclone. Supera il livello "Morti rotolanti"!
+9334	Missioni del Festival del Ciclone. Supera il livello "La seconda dimensione"!
+9335	Missioni del Festival del Ciclone. Supera il livello "Tifone Nemo"!
+9336	Missioni del Festival del Ciclone. Supera Catastrofe cremisi 1 volte con 8 o più Gatti normali
+9337	Missioni del Festival del Ciclone. Supera Paradiso delle tenebre 1 volte con 8 o più Gatti nor
+9338	Missioni del Festival del Ciclone. Supera Ineguagliabile 1 volte con 8 o più Gatti rari
+9339	Missioni del Festival del Ciclone. Supera Dolce ironia 1 volte con 8 o più Gatti rari
+9340	Missioni del Festival del Ciclone. Supera Ira del paradiso 1 volte con 8 o più Gatti rari
+9341	Missioni del Festival del Ciclone. Supera Dimensione disperata 1 volte con 8 o più Gatti nor
+9342	Missioni del Festival del Ciclone. Supera Rosso di mattina 1 volte con solo prime forme
+9343	Missioni del Festival del Ciclone. Supera Morti rotolanti 1 volte con solo prime forme
+9344	Missioni del Festival del Ciclone. Supera La seconda dimensione 1 volte con solo prime forme
+9345	Clear 1  "Annihilated City"  stages with "Yuki Cat" in your formation
+9346	Clear 1  "Annihilated City"  stages with "Takuya & Yuki" in your formation
+9347	Clear 1  "Annihilated City"  stages with "Redhead Yuki Cat" in your formation
+9348	Clear 1  "Annihilated City"  stages with "Kano & Souma" in your formation
+9349	Clear 5  Shoumetsu Toshi collab stages
+9350	Clear 15  Shoumetsu Toshi collab stages
+9351	Clear 30  Shoumetsu Toshi collab stages
+9352	Complete 5 Gamatoto expeditions! Send Gamatoto to any

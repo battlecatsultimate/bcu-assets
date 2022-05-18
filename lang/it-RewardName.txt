@@ -122,6 +122,11 @@
 161	Miagrume Aku
 164	Seme miagrume oro
 166	Lettera d'amore
+167	Pietra Behemoth viola
+168	Pietra Behemoth rossa
+169	Pietra Behemoth blu
+170	Pietra Behemoth verde
+171	Pietra Behemoth gialla
 1005	Busto di Gatto
 1100	Busto di Gatto
 1001	Gatto sportivo
@@ -412,6 +417,7 @@
 10314	Mini Gatto Jamiera
 15315	Neneko festiva di Capodanno
 15317	Poseidone Onnipotente
+15320	Gatto radicale
 15323	Le meteore
 16324	Musashi risvegliato
 10325	Gatto Guscio verde
@@ -474,6 +480,7 @@
 15470	Super D-Devil
 10474	Rampaging Yamato
 10475	Strike Angel
+15483	Cat-Eared Souma
 15496	Gatta Danza del ventre
 15497	Kaihime Immortale
 15503	Myrcia Divina
@@ -494,7 +501,11 @@
 15590	Neneko vero amore
 15595	Ultra Atlantis Logistix
 15596	Lord Kamukura sempre in fiore
+15608	Kanna avventuriera mitica
 15611	Re Nekokhamen
+15657	Gatto haniwa
+15659	Gatto corriere
+15660	Gattarzan
 30000	Più attacco D: Rosso
 30001	Più attacco C: Rosso
 30002	Più attacco B: Rosso

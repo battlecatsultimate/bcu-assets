@@ -209,3 +209,5 @@
 92	Winzige uralte Jagd
 93	Étoile Minimum
 94	Aufopferung
+335	Krieger der Gerechtigkeit
+95	Einfach-Fahrt zur Hölle

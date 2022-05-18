@@ -317,7 +317,7 @@
 316	Poseidone Furioso	Poseidone Valoroso	Poseidone Onnipotente
 317	CPAC	PPAP	
 318	Miko Mitama	Mitama l'Oracolo	
-319	Gatto assassino	Vero Gatto assassino	
+319	Gatto assassino	Vero Gatto assassino	Gatto radicale
 320			
 321			
 322	Sarukani	Vendicatori del rock	Le meteore
@@ -480,7 +480,7 @@
 479			
 480			
 481	Doktor Cielo	Professor Abisso	
-482	Benevolent Souma	Souma ＆ Cat	
+482	Benevolent Souma	Souma ＆ Cat	Cat-Eared Souma
 483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat	
 484	Baby Valchiria oscura	Valchiria oscura a cavallo	
 485			
@@ -605,7 +605,7 @@
 604	Ranma Cat (M)	Ranma Cat (F)	
 605	Akane Cat	Akane Cat (Gi)	
 606	Panda Cat	Genma Cat	
-607	Kanna avventuriera	Kanna spadaccina	
+607	Kanna avventuriera	Kanna spadaccina	Kanna avventuriera mitica
 608			
 609	Garu l'oscura egida	Garu l'oscura dominatrice	
 610	Gatto lingotto	Gatto Re lingotto	Re Nekokhamen
@@ -654,4 +654,7 @@
 653	Naala bestia stagionata	Naala bestia tempestosa	
 654	Gatto alto plagiato	Gatto Gambe sexy plagiato	
 655	Bliza	Blizana	
-656	Uovo antico N001	Uovo mistico N001	
+656	Uovo antico N001	Uovo mistico N001	Gatto haniwa
+657	Iz ballerina del dolore	Iz signora del pianto	
+658	Uovo antico N101	Uovo vermiglione N101	Gatto corriere
+659	Uovo antico N102	Uovo verde acqua N102	Gattarzan

@@ -1361,13 +1361,10 @@
 001-304-000	70 Millionen, hurra!
 001-305		Tot & rund
 001-305-000	Parade der Toten (Tödlich)
-001-305-001	Pusteplanet (Gnadenlos)
 001-306		Königin & Jungfrau
 001-306-000	Honigtopf (Tödlich)
-001-306-001	Junge Bomberin (Tödlich)
 001-307		König & Engel
 001-307-000	N-1 Grand Prix (Tödlich)
-001-307-001	Kein Plan A (Tödlich)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2741,6 +2738,8 @@
 004-053-000	Junge Bomberin (Tödlich)
 004-054		König & Engel
 004-054-000	Kein Plan A (Tödlich)
+004-055		Verrückte Moneko zu
+004-055-000	auf DEM MOND
 
 006			Katzenkrallendojo
 006-000		Halle der Initianden
@@ -3227,6 +3226,13 @@
 013-041-003	Umhang des Verbergens
 013-041-004	Halle der Bankette
 013-041-005	Grille Fleisch statt Städte
+013-043		Muhdistenstrand
+013-043-000	Sterne im Glas
+013-043-001	Nacht des Gauners
+013-043-002	Liebe hat keine Eile
+013-043-003	Tränenreiches Hündchen
+013-043-004	Shinobi-Showdown
+013-043-005	Urmeer-Blues
 
 014			Drink Stages
 014-000		Gelbes Sprießen
@@ -3312,6 +3318,40 @@
 014-032-000	Verrückte Katzen (Irre)
 014-033		Blauer Schlag
 014-033-000	Pusteplanet (Gnadenlos)
+014-034		Verrückte Moneko zu
+014-034-000	in JAPAN
+014-034-001	in LONDON
+014-034-002	in NEW YORK
+014-035		Morgenrot
+014-035-000	Nahender Sturm (Irre)
+014-036		Wandelnde Tote
+014-036-000	Unheiliger Sturm (Irre)
+014-037		Taifun-Nemo
+014-037-000	Charybdis' Maul (Gnadenlos)
+014-038		Der große Diablo
+014-038-000	Höllenzorn (Tödlich)
+014-039		Grund des Sumpfs
+014-039-000	Folge dem Fluss (Gnadenlos)
+014-040		Die irre Katze
+014-040-000	Todesfalke (Tödlich)
+014-041		Der irre Panzer
+014-041-000	Vulkanisator (Tödlich)
+014-042		Die irre Axt
+014-042-000	Ungerechter Krieg (Tödlich)
+014-043		Die irren Stelzen
+014-043-000	Muskelparty (Tödlich)
+014-044		Die irre Kuh
+014-044-000	Viele Löwen (Tödlich)
+014-045		Der irre Vogel
+014-045-000	Waldkreaturen (Tödlich)
+014-046		Der irre Fisch
+014-046-000	Ogerinsel (Tödlich)
+014-047		Die irre Echse
+014-047-000	Drakonisch (Tödlich)
+014-048		Der irre Titan
+014-048-000	Katzenbewohner (Tödlich)
+014-049		Die 2. Dimension
+014-049-000	Offenes Wurmloch (Tödlich)
 
 024			Baron Boss Stages
 024-000		Baron Robbe schlägt zu!
@@ -4148,6 +4188,20 @@
 025-058-000	Insektenjagd bei Nacht
 025-059		Perfektes Versteck
 025-059-000	Insektenjagd bei Nacht
+025-060		Jägerkarte I
+025-060-000	Lila Steinwald 1
+025-060-001	Roter Steinwald 1
+025-061		Jägerkarte II
+025-061-000	Lila Steinwald 2
+025-061-001	Roter Steinwald 2
+025-061-002	Blaue Steinwüste 2
+025-061-003	Grüne Steinwüste 2
+025-062		Jägerkarte III
+025-062-000	Lila Steinwald 3
+025-062-001	Blaue Steinwüste 3
+025-062-002	Grüne Steinwüste 3
+025-062-003	Roter Steinwald 3
+025-062-004	Gelber Steinvulkan 3
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -4308,3 +4362,23 @@
 027-009-007	Stagebuilding Witch: Cycle 8
 027-009-008	Stagebuilding Witch: Cycle 9
 027-009-009	Stagebuilding Witch: Cycle XX
+
+031			Behemoth Culling Stages
+031-000		Versteckter Gapra-Wald
+031-000-000	Waldgebiet 1
+031-000-001	Waldgebiet 2
+031-000-002	Waldgebiet 3
+031-000-003	Waldgebiet 4
+031-000-004	Waldgebiet 5
+031-001		Ashvini-Wüste
+031-001-000	Einöde 1
+031-001-001	Einöde 2
+031-001-002	Einöde 3
+031-001-003	Einöde 4
+031-001-004	Einöde 5
+031-002		Jinfore-Vulkan
+031-002-000	Magmatunnel 1
+031-002-001	Magmatunnel 2
+031-002-002	Magmatunnel 3
+031-002-003	Magmatunnel 4
+031-002-004	Magmatunnel 5

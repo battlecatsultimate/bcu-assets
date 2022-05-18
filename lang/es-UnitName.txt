@@ -317,7 +317,7 @@
 316	Poseidón Iracundo	Poseidón Valiente	Poseidón Todopoderoso
 317	CPAC	PPAP	
 318	Miko Mitama	Mitama Oráculo	
-319	Gato Asesino	Gato Asesino Auténtico	
+319	Gato Asesino	Gato Asesino Auténtico	Gato Radical
 320			
 321			
 322	Sarukani	Vengadores del Rock	Estrellas de Un Día
@@ -480,7 +480,7 @@
 479			
 480			
 481	Doktor Celestial	Profesor Abismo	
-482	Benevolent Souma	Souma ＆ Cat	
+482	Benevolent Souma	Souma ＆ Cat	Cat-Eared Souma
 483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat	
 484	Minivalquiria Oscura	Valquiria Jinete Oscura	
 485			
@@ -605,7 +605,7 @@
 604	Ranma Cat (M)	Ranma Cat (F)	
 605	Akane Cat	Akane Cat (Gi)	
 606	Panda Cat	Genma Cat	
-607	Kanna Aventurera	Kanna Espadachina	
+607	Kanna Aventurera	Kanna Espadachina	Kanna Aventurera de Fábula
 608			
 609	Aegis Garu Oscuro	Bestia Garu Oscuro	
 610	Gato Bloque de Oro	Rey Lingote de Oro	Rey Nekokhamen
@@ -654,4 +654,7 @@
 653	Bestia Naala Viejuna	Bestia Naala Tormenta	
 654	Gatilargo Adoctrinado	Gato Muslamen Adoctrinado	
 655	Ventis	Ventiscana	
-656	Huevo Antiguo N001	Huevo Místico N001	
+656	Huevo Antiguo N001	Huevo Místico N001	Gato Haniwa
+657	Iz la Bailarina del Dolor	Iz la Joven de Luto	
+658	Huevo Antiguo N101	Huevo Bermellón N101	Gato Mensajero
+659	Huevo Antiguo N102	Huevo Verde N102	Gatarzán

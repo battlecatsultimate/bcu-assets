@@ -122,6 +122,11 @@
 161	Aku-Katzenfrucht
 164	Goldener Katzenfruchtkern
 166	Liebesbrief
+167	Lila Behemoth-Stein
+168	Roter Behemoth-Stein
+169	Blauer Behemoth-Stein
+170	Grüner Behemoth-Stein
+171	Gelber Behemoth-Stein
 1005	Bronzekatze
 1100	Bronzekatze
 1001	Sporttagkatze
@@ -412,6 +417,7 @@
 10314	Kleine Jamierakatze
 15315	Festliche Neujahr-Neneko
 15317	Allmächtiger Poseidon
+15320	Radikale Katze
 15323	Die One-Hit-Wonders
 16324	Erwachter Musashi
 10325	Grüner-Panzer-Katze
@@ -474,6 +480,7 @@
 15470	Super D-Devil
 10474	Rampaging Yamato
 10475	Strike Angel
+15483	Cat-Eared Souma
 15496	Bauchtanzkatze
 15497	Unsterbliche Kaihime
 15503	Himmlische Myrcia
@@ -494,7 +501,11 @@
 15590	Wahre-Liebe-Neneko
 15595	Ultra Atlantis Logistix
 15596	Ewigblühender Lord Kamukura
+15608	Legendäre Abenteurerin Kanna
 15611	König Nekokhamen
+15657	Haniwa-Katze
+15659	Kurierkatze
+15660	Katzan
 30000	Angriff + D: Rot
 30001	Angriff + C: Rot
 30002	Angriff + B: Rot

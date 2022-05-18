@@ -1,4 +1,4 @@
-﻿000			Story of Legends
+﻿000			Stories of Legend
 000-000		The Legend Begins
 000-000-000	Earthshaker
 000-000-001	Return of Terror
@@ -1906,7 +1906,7 @@
 002-178-003	Just Couldn't Say Goodbye
 002-178-004	I'm Sorry
 
-003			Empire of Cats
+003			Main Story Chapters
 003-000		EoC Ch.1 Zombie
 003-000-000	Korea
 003-000-001	Mongolia
@@ -2797,6 +2797,8 @@
 004-053-000	Bombergirl (Deadly)
 004-054		The King & The Angel
 004-054-000	No Plan A (Deadly)
+004-055		Crazed Moneko Strikes
+004-055-000	in THE MOON
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
@@ -2996,7 +2998,7 @@
 
 012			Challenge Mode
 012-000		Challenge
-012-000-000	Challenge
+012-000-000	Higher Score
 
 013			Uncanny Legends
 013-000		A New Legend
@@ -3290,6 +3292,13 @@
 013-042-003	Border Soil
 013-042-004	Silver Current
 013-042-005	Immortal Zenith
+013-043		Moodist Beach
+013-043-000	Stars in the Tumbler
+013-043-001	Night of the Hustler
+013-043-002	Don't Rush Love
+013-043-003	Tear-Soaked Puppy
+013-043-004	Shinobi Showdown
+013-043-005	Ancient Sea Blues
 
 014			Drink Stages
 014-000		Growing Yellow
@@ -3375,8 +3384,42 @@
 014-032-000	Crazy Cats (Insane)
 014-033		Blue Impact
 014-033-000	Puffer Planet (Merciless)
+014-034		Crazed Moneko Strikes
+014-034-000	in JAPAN
+014-034-001	in LONDON
+014-034-002	in NEW YORK
+014-035		Red Sky at Morning
+014-035-000	Red Sky at Morning (Insane)
+014-036		Rolling Dead
+014-036-000	Unholy Tempest (Insane)
+014-037		Typhoon Nemo
+014-037-000	Charybdis' Mouth (Merciless)
+014-038		The Great Diablo
+014-038-000	Wrath of Hell (Deadly)
+014-039		Bottom of the Swamp
+014-039-000	Flow Like the Stream (Merciless)
+014-040		Cat Maniac
+014-040-000	Deathhawk (Deadly)
+014-041		Tank Maniac
+014-041-000	Vulcanizer (Deadly)
+014-042		Axe Maniac
+014-042-000	Unjust War (Deadly)
+014-043		Gross Maniac
+014-043-000	Muscle Party (Deadly)
+014-044		Cow Maniac
+014-044-000	Lots O' Lion (Deadly)
+014-045		Bird Maniac
+014-045-000	Forest Beasts (Deadly)
+014-046		Fish Maniac
+014-046-000	Ogre Island (Deadly)
+014-047		Lizard Maniac
+014-047-000	Draconian (Deadly)
+014-048		Titan Maniac
+014-048-000	Resident Feline (Deadly)
+014-049		The 2nd Dimension
+014-049-000	The Wormhole Opens (Deadly)
 
-024			Baron Boss Stages
+024			Gauntlet Stages
 024-000		Baron Seal Strikes!
 024-000-000	Red Alert 1
 024-000-001	Red Alert 2
@@ -4254,8 +4297,22 @@
 025-058-000	Midnight Bug Hunt
 025-059		Perfect Hideout
 025-059-000	Midnight Bug Hunt
+025-060		Hunter's Map I
+025-060-000	Purple Stone Forest 1
+025-060-001	Red Stone Forest 1
+025-061		Hunter's Map II
+025-061-000	Purple Stone Forest 2
+025-061-001	Red Stone Forest 2
+025-061-002	Blue Stone Desert 2
+025-061-003	Green Stone Desert 2
+025-062		Hunter's Map III
+025-062-000	Purple Stone Forest 3
+025-062-001	Blue Stone Desert 3
+025-062-002	Green Stone Desert 3
+025-062-003	Red Stone Forest 3
+025-062-004	Yellow Stone Volcano 3
 
-027			Collab Baron Stages
+027			Collab Gauntlet Stages
 027-000		Messier's Assault
 027-000-000	Land of Dreams Lv1
 027-000-001	Land of Dreams Lv2
@@ -4414,3 +4471,23 @@
 027-009-007	Stagebuilding Witch: Cycle 8
 027-009-008	Stagebuilding Witch: Cycle 9
 027-009-009	Stagebuilding Witch: Cycle XX
+
+031			Behemoth Culling Stages
+031-000		Hidden Forest of Gapra
+031-000-000	Woodlands Area 1
+031-000-001	Woodlands Area 2
+031-000-002	Woodlands Area 3
+031-000-003	Woodlands Area 4
+031-000-004	Woodlands Area 5
+031-001		Ashvini Desert
+031-001-000	Badlands Area 1
+031-001-001	Badlands Area 2
+031-001-002	Badlands Area 3
+031-001-003	Badlands Area 4
+031-001-004	Badlands Area 5
+031-002		Jinfore Volcano
+031-002-000	Magma Tunnel Area 1
+031-002-001	Magma Tunnel Area 2
+031-002-002	Magma Tunnel Area 3
+031-002-003	Magma Tunnel Area 4
+031-002-004	Magma Tunnel Area 5

@@ -209,3 +209,5 @@
 92	Mini chasse à l'ancienne
 93	Étoile minimum
 94	Sacrifice
+335	Guerriers de la justice
+95	Aller simple pour l'enfer

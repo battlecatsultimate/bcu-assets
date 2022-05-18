@@ -122,6 +122,11 @@
 161	Chagrume Aku
 164	Graine de Chagrume doré
 166	Lettre d'amour
+167	Pierre Béhémoth violette
+168	Pierre Béhémoth rouge
+169	Pierre Béhémoth bleue
+170	Pierre Béhémoth verte
+171	Pierre Béhémoth jaune
 1005	Chat en bronze
 1100	Chat en bronze
 1001	Chat Jour des sports
@@ -412,6 +417,7 @@
 10314	P’tit Chat Jamilar
 15315	Neneko nouvel an festif
 15317	Poséidon Tout-puissant
+15320	Chat radical
 15323	Les machines à tubes
 16324	Musashi éveillé
 10325	Charapace verte
@@ -474,6 +480,7 @@
 15470	Super D-Devil
 10474	Rampaging Yamato
 10475	Strike Angel
+15483	Cat-Eared Souma
 15496	Chatte danseuse du ventre
 15497	Kaihime immortelle
 15503	Myrcia divine
@@ -494,7 +501,11 @@
 15590	Neneko grand amour
 15595	Ultra Atlantis Logistix
 15596	Mr Kamukura fleur éternelle
+15608	Kanna le mythe vivant
 15611	Roi Nekokhamen
+15657	Chat haniwa
+15659	Chat coursier
+15660	Charzan
 30000	Attaque aug. D: Rouge
 30001	Attaque aug. C: Rouge
 30002	Attaque aug. B: Rouge

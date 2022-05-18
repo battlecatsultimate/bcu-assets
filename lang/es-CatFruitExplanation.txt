@@ -192,7 +192,7 @@
 191	<br><br>
 192	<br><br>
 193	<br><br>
-194	La forma final es eficaz<br>contra álienes y se vuelve<br>inmune a las oleadas.
+194	La forma final es eficaz<br>contra álienes.<br>
 195	La forma final tiene más<br>poder de ataque contra álienes.<br>Además, siempre los ralentiza.
 196	La forma final es superfuerte<br>contra enemigos reliquias y álienes.<br>Además, es inmune a las maldiciones.
 197	La forma final tiene más<br>velocidad de movimiento y de ataque,<br>además de una mayor defensa.
@@ -317,7 +317,7 @@
 316	La forma final tiene una mayor defensa,<br>velocidad de movimiento y poder de ataque.<br>
 317	<br><br>
 318	<br><br>
-319	<br><br>
+319	La forma final tiene mejores habilidades<br>y es matamastodontes.<br>
 320	<br><br>
 321	<br><br>
 322	La forma final tiene una mayor<br>defensa y más velocidad de ataque.<br>Además, es inmune al desgaste.
@@ -480,7 +480,7 @@
 479	<br><br>
 480	<br><br>
 481	<br><br>
-482	<br><br>
+482	La forma final obtiene las habilidades<br>de ralentizar a los enemigos voladores<br>y desgastar.
 483	<br><br>
 484	<br><br>
 485	<br><br>
@@ -605,7 +605,7 @@
 604	<br><br>
 605	<br><br>
 606	<br><br>
-607	<br><br>
+607	La forma final obtiene las habilidades<br>de réplica a larga distancia<br>y matamastodontes.
 608	<br><br>
 609	<br><br>
 610	La forma final tiene una mayor<br>defensa y es inmune a toxicidad.<br>
@@ -654,4 +654,7 @@
 653	<br><br>
 654	<br><br>
 655	<br><br>
-656	<br><br>
+656	La forma final revela su apariencia real<br>y es matamastodontes.<br>
+657	<br><br>
+658	La forma final revela su apariencia real<br>y es matamastodontes.<br>
+659	La forma final revela su apariencia real<br>y es matamastodontes.<br>

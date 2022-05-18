@@ -209,3 +209,5 @@
 92	Minicaza antigua
 93	Estrellita del lugar
 94	Sacrificio
+335	Guerreros justicieros
+95	Viaje al infierno

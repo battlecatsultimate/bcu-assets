@@ -209,3 +209,5 @@
 92	Tiny Ancient Hunt
 93	Étoile minimum
 94	Sacrifice
+335	Warriors of Justice
+95	One-Way Ticket to Hell

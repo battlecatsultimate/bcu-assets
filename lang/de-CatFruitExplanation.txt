@@ -192,7 +192,7 @@
 191	<br><br>
 192	<br><br>
 193	<br><br>
-194	Wahre-Form-Entwicklung ist stark gegen<br>Alien-Feinde und gewährt Immunität gegen<br>Wellenangriffe.
+194	Wahre-Form-Entwicklung ist stark gegen<br>Alien-Feinde.<br>
 195	Wahre-Form-Entwicklung erhöht Angriff<br>gegen Alien-Feinde.<br>Verlangsamt zudem Aliens garantiert!
 196	Wahre-Form-Entwicklung fügt Aliens und<br>Relikten heftigen Schaden zu. Wird immun<br>gegen feindliche Flüche.
 197	Wahre-Form-Entwicklung bietet erhöhtes<br>Bewegungstempo und steigert Verteidigung<br>und Angriffstempo!
@@ -317,7 +317,7 @@
 316	Wahre-Form-Entwicklung erhöht<br>Verteidig., Bewegungstempo & Angriffskraft!<br>
 317	<br><br>
 318	<br><br>
-319	<br><br>
+319	Wahre-Form-Entwicklung verbessert<br>Fähigk. stark und gewährt Behemothtöter.<br>
 320	<br><br>
 321	<br><br>
 322	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffstempo! Gewährt Immunität<br>gegen feindliche Schwächen-Effekte.
@@ -480,7 +480,7 @@
 479	<br><br>
 480	<br><br>
 481	<br><br>
-482	<br><br>
+482	Wahre-Form-Entwicklung gewährt<br>garantierte Lähmung gg. fliegende Feinde<br>und die Fähigkeit „Schwächen“!
 483	<br><br>
 484	<br><br>
 485	<br><br>
@@ -605,7 +605,7 @@
 604	<br><br>
 605	<br><br>
 606	<br><br>
-607	<br><br>
+607	Wahre-Form-Entwicklung gewährt<br>längere Reichweite für Zufallsang. und die<br>Fähigkeit „Behemothtöter“!
 608	<br><br>
 609	<br><br>
 610	Wahre-Form-Entwicklung erhöht<br>Verteidigung, zudem immun gegen Gifte!<br>
@@ -654,4 +654,7 @@
 653	<br><br>
 654	<br><br>
 655	<br><br>
-656	<br><br>
+656	Wahre-Form-Entwicklung enthüllt letzte Form!<br>Erhält zudem „Behemothtöter“!<br>
+657	<br><br>
+658	Wahre-Form-Entwicklung enthüllt letzte Form!<br>Erhält zudem „Behemothtöter“!<br>
+659	Wahre-Form-Entwicklung enthüllt letzte Form!<br>Erhält zudem „Behemothtöter“!<br>

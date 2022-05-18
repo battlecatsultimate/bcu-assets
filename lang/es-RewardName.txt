@@ -122,6 +122,11 @@
 161	Fruta felina de Aku
 164	Semilla Felina Dorada
 166	Carta de amor
+167	Piedra de mastodonte morada
+168	Piedra de mastodonte roja
+169	Piedra de mastodonte azul
+170	Piedra de mastodonte verde
+171	Piedra de mastodonte amarilla
 1005	Gato de Bronce
 1100	Gato de Bronce
 1001	Gato Deportista
@@ -411,6 +416,7 @@
 10313	Minigato Dragón Rey
 10314	Minimiautante
 15317	Poseidón Todopoderoso
+15320	Gato Radical
 15323	Estrellas de Un Día
 16324	Musashi Alzado
 10325	Gato con Caparazón Verde
@@ -473,6 +479,7 @@
 15470	Super D-Devil
 10474	Rampaging Yamato
 10475	Strike Angel
+15483	Cat-Eared Souma
 15496	Gato Danza del Vientre
 15497	Kaihime Inmortal
 15503	Myrcia Divina
@@ -493,7 +500,11 @@
 15590	Neneko de Amor Verdadero
 15595	Ultratlantis Logistix
 15596	Lord Kamukura Perenne
+15608	Kanna Aventurera de Fábula
 15611	Rey Nekokhamen
+15657	Gato Haniwa
+15659	Gato Mensajero
+15660	Gatarzán
 30000	Aumento de ataque D: Rojos
 30001	Aumento de ataque C: Rojos
 30002	Aumento de ataque B: Rojos

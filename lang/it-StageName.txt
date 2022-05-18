@@ -2734,6 +2734,8 @@
 004-053-000	Bombarola (Letale)
 004-054		Il re e l'angelo
 004-054-000	Nessun piano A (Letale)
+004-055		Folle Moneko
+004-055-000	sulla LUNA
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -3220,6 +3222,13 @@
 013-041-003	Mantello per nascondersi
 013-041-004	Sala delle feste
 013-041-005	Arrostisci la carne, non le città
+013-043		Lido dei lunatici
+013-043-000	Calice di stelle
+013-043-001	Notte truffaldina
+013-043-002	Amore senza fretta
+013-043-003	Cucciolo intriso di lacrime
+013-043-004	Scontro di ninja
+013-043-005	Blues del mare antico
 
 014			Drink Stages
 014-000		Giallo rigoglioso
@@ -3305,6 +3314,41 @@
 014-032-000	Gatti pazzi (Folle)
 014-033		Impatto blu
 014-033-000	Pianeta Palla (Spietato)
+014-034		Folle Moneko
+014-034-000	in GIAPPONE
+014-034-001	a LONDRA
+014-034-002	a NEW YORK
+014-034-003	sulla LUNA
+014-035		Rosso di mattina
+014-035-000	Tempesta in arrivo (Folle)
+014-036		Morti rotolanti
+014-036-000	Tempesta empia (Folle)
+014-037		Tifone Nemo
+014-037-000	Bocca di Charybdis (Spietato)
+014-038		Il grande diablo
+014-038-000	Ira dell'inferno (Letale)
+014-039		Fondo della palude
+014-039-000	Segui il flusso (Spietato)
+014-040		Pazzi per i Gatti
+014-040-000	Morthawk (Letale)
+014-041		Pazzi per il panzer
+014-041-000	Vulcanizzatore (Letale)
+014-042		Pazzi per l'ascia
+014-042-000	Guerra ingiusta (Letale)
+014-043		Pazzi per gli alti
+014-043-000	Bicipite party (Letale)
+014-044		Pazzi per la mucca
+014-044-000	Leoni a iosa (Letale)
+014-045		Pazzi per le ali
+014-045-000	Bestie boschive (Letale)
+014-046		Pazzi per il pesce
+014-046-000	Isola dell'orco (Letale)
+014-047		Pazzi per le scaglie
+014-047-000	Draconiano (Letale)
+014-048		Pazzi per il Titano
+014-048-000	Felino residente (Letale)
+014-049		La seconda dimensione
+014-049-000	Si apre il wormhole (Letale)
 
 024			Baron Boss Stages
 024-000		Baron Foca colpisce.
@@ -4141,6 +4185,20 @@
 025-058-000	Insetticida di mezzanotte
 025-059		Nascondiglio perfetto
 025-059-000	Insetticida di mezzanotte
+025-060		Mappa del cacciatore I
+025-060-000	Foresta delle pietre viola 1
+025-060-001	Foresta delle pietre rosse 1
+025-061		Mappa del cacciatore II
+025-061-000	Foresta delle pietre viola 2
+025-061-001	Foresta delle pietre rosse 2
+025-061-002	Deserto delle pietre blu 2
+025-061-003	Deserto delle pietre verdi 2
+025-062		Mappa del cacciatore III
+025-062-000	Foresta delle pietre viola 3
+025-062-001	Deserto delle pietre blu 3
+025-062-002	Deserto delle pietre verdi 3
+025-062-003	Foresta delle pietre rosse 3
+025-062-004	Vulcano delle pietre gialle 3
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -4301,3 +4359,23 @@
 027-009-007	Stagebuilding Witch: Cycle 8
 027-009-008	Stagebuilding Witch: Cycle 9
 027-009-009	Stagebuilding Witch: Cycle XX
+
+031			Behemoth Culling Stages
+031-000		Foresta segreta di Gapra
+031-000-000	Zona boschiva 1
+031-000-001	Zona boschiva 2
+031-000-002	Zona boschiva 3
+031-000-003	Zona boschiva 4
+031-000-004	Zona boschiva 5
+031-001		Deserto Ashvini
+031-001-000	Zona calanchiva 1
+031-001-001	Zona calanchiva 2
+031-001-002	Zona calanchiva 3
+031-001-003	Zona calanchiva 4
+031-001-004	Zona calanchiva 5
+031-002		Vulcano Jinfore
+031-002-000	Zona magmatica 1
+031-002-001	Zona magmatica 2
+031-002-002	Zona magmatica 3
+031-002-003	Zona magmatica 4
+031-002-004	Zona magmatica 5

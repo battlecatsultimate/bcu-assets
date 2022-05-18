@@ -657,3 +657,32 @@
 9323	【Invasion】Termine le niveau Morts et boursouflés ! Tu dois aussi terminer le niveau spécial associé
 9324	【Invasion】Termine le niveau La reine et la jeune fille ! Tu dois aussi terminer le niveau spécial associé
 9325	【Invasion】Termine Le roi et l'ange ! Tu dois aussi terminer le niveau spécial associé
+48	Termine 5 Abattage de Béhémoths pour la première fois
+49	Termine 10 Abattage de Béhémoths pour la première fois
+9326	Missions du Festival du cyclone. Termine le niveau Catastrophe écarlate !
+9327	Missions du Festival du cyclone. Termine le niveau Paradis des ténèbres !
+9328	Missions du Festival du cyclone. Termine le niveau Sans égal !
+9329	Missions du Festival du cyclone. Termine le niveau Douce ironie !
+9330	Missions du Festival du cyclone. Termine le niveau Colère des cieux !
+9331	Missions du Festival du cyclone. Termine le niveau Dimension désespoir !
+9332	Missions du Festival du cyclone. Termine le niveau Rouge levant !
+9333	Missions du Festival du cyclone. Termine le niveau La mort qui roule !
+9334	Missions du Festival du cyclone. Termine le niveau 2e dimension !
+9335	Missions du Festival du cyclone. Termine le niveau Ouragan Némo !
+9336	Missions du Festival du cyclone. Termine 1x Catastrophe écarlate avec 8 Chats normaux ou +
+9337	Missions du Festival du cyclone. Termine 1x Paradis des ténèbres avec 8 Chats normaux ou +
+9338	Missions du Festival du cyclone. Termine 1x Sans égal avec 8 Chats rare ou +
+9339	Missions du Festival du cyclone. Termine 1x Douce ironie avec 8 Chats rare ou +
+9340	Missions du Festival du cyclone. Termine 1x Colère des cieux avec 8 Chats rare ou +
+9341	Missions du Festival du cyclone. Termine 1x Dimension désespoir avec 8 Chats normaux ou +
+9342	Missions du Festival du cyclone. Termine 1x Rouge levant avec uniquement les 1res formes
+9343	Missions du Festival du cyclone. Termine 1x La mort qui roule avec uniq. les 1res formes
+9344	Missions du Festival du cyclone. Termine 1x 2e dimension avec uniquement les 1res formes
+9345	Clear 1  "Annihilated City"  stages with "Yuki Cat" in your formation
+9346	Clear 1  "Annihilated City"  stages with "Takuya & Yuki" in your formation
+9347	Clear 1  "Annihilated City"  stages with "Redhead Yuki Cat" in your formation
+9348	Clear 1  "Annihilated City"  stages with "Kano & Souma" in your formation
+9349	Clear 5  Shoumetsu Toshi collab stages
+9350	Clear 15  Shoumetsu Toshi collab stages
+9351	Clear 30  Shoumetsu Toshi collab stages
+9352	Complete 5 Gamatoto expeditions! Send Gamatoto to any

@@ -317,7 +317,7 @@
 316	Poséidon courroucé	Poséidon vaillant	Poséidon Tout-puissant
 317	CPAC	PPAP	
 318	Miko Mitama	Mitama l’oracle	
-319	Chat tueur	Chat tueur ultime	
+319	Chat tueur	Chat tueur ultime	Chat radical
 320			
 321			
 322	Sarukani	Rockeurs vengeurs	Les machines à tubes
@@ -480,7 +480,7 @@
 479			
 480			
 481	Dokteur Cieux	Professeur Abîme	
-482	Benevolent Souma	Souma ＆ Cat	
+482	Benevolent Souma	Souma ＆ Cat	Cat-Eared Souma
 483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat	
 484	P’tite Chalkyrie de l’ombre	Chalkyrie chassombre	
 485			
@@ -605,7 +605,7 @@
 604	Ranma Cat (M)	Ranma Cat (F)	
 605	Akane Cat	Akane Cat (Gi)	
 606	Panda Cat	Genma Cat	
-607	Kanna l'aventurière	Kanna la bretteuse	
+607	Kanna l'aventurière	Kanna la bretteuse	Kanna le mythe vivant
 608			
 609	Sombre Aegis Garu	Sombre Bête Seigneur Garu	
 610	Chat brique en or	Chat roi lingot	Roi Nekokhamen
@@ -654,4 +654,7 @@
 653	Bête ancestrale Naala	Bête tempête Naala	
 654	Grand Chat sous contrôle	Chat gambettes sous contrôle	
 655	Bliza	Blizana	
-656	Œuf ancien N001	Œuf mystique N001	
+656	Œuf ancien N001	Œuf mystique N001	Chat haniwa
+657	Iz la danseuse du chagrin	Iz la dame du deuil	
+658	Œuf ancien N101	Œuf cinabre N101	Chat coursier
+659	Œuf ancien N102	Œuf bleu sarcelle N102	Charzan

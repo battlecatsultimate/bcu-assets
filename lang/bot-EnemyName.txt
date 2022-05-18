@@ -602,9 +602,9 @@
 601	Childhood Friend Base
 602	Tomboy Base
 603	Wild Doge
-604	Wild Red Duche
-605	Wild Owlbrow
-606	Wild Helmut Krabbe
-607	Big B.B.Bunny
-608	Li’l Doge
-609	Relicfish Jones
+604	Casaurian Ahirujo
+605	Pterowl Hazuku
+606	Crustaceous Scissorex
+607	J.J. Jackrabbit
+608	Li'l Doge
+609	Golem Sunfish

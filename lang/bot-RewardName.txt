@@ -125,6 +125,11 @@
 161	Aku Catfruit
 164	Gold Catfruit Seed
 166	Love Letter
+167	Purple Behemoth Stone
+168	Red Behemoth Stone
+169	Blue Behemoth Stone
+170	Green Behemoth Stone
+171	Yellow Behemoth Stone
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -415,6 +420,7 @@
 10314	Li'l Jamiera Cat
 15315	Festive New Year Neneko
 15317	Almighty Poseidon
+15320	Radical Cat
 15323	The One-Hit Wonders
 16324	Awakened Musashi
 10325	Green Shell Cat
@@ -477,6 +483,7 @@
 15470	Super D-Devil
 10474	Rampaging Yamato
 10475	Strike Angel
+15483	Cat-Eared Souma
 15496	Bellydance Cat
 15497	Immortal Kaihime
 15503	Divine Myrcia
@@ -497,7 +504,11 @@
 15590	True Love Neneko
 15595	Ultra Atlantis Logistix
 15596	Everbloom Lord Kamukura
+15608	Fabled Adventure Girl Kanna
 15611	King Nekokhamen
+15657	Haniwa Cat
+15659	Courier Cat
+15660	Catarzan
 30000	Attack Up D: Red
 30001	Attack Up C: Red
 30002	Attack Up B: Red
