@@ -24,6 +24,7 @@
 -112	Superfest	//Superfest 591
 -113	Valentine Gacha
 -114	White Day Gacha
+-115	June Bride Gacha	//June Bride 731
 -1000	Ultra Selection Gacha //Ultra Selection 191
 -1001	Miracla Selection Gacha	//Miracle Selection 192
 -1002	Farewell Gacha	//2017 262
@@ -608,3 +609,9 @@
 728	-106	657
 729	-104	657
 730	-107	657
+731	-115	662
+732	-4	660
+733	-4	660
+734	-106	660
+735	-104	660
+736	-107	660

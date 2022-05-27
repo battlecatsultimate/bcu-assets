@@ -477,7 +477,7 @@
 476	Cat Devil	Infernal Cat	
 477	Nekonosuke	Old Guardian Cat	
 478	Lumina	Luminalia	
-479			
+479	Gummy Cat	Lucky Cat	Soda Gummy Cat
 480			
 481	Doktor Heaven	Professor Abyss	
 482	Benevolent Souma	Souma ＆ Cat	Cat-Eared Souma
@@ -658,3 +658,9 @@
 657	Iz the Dancer of Grief	Iz the Lady of Mourning	
 658	Ancient Egg: N101	Cinnabar Egg: N101	Courier Cat
 659	Ancient Egg: N102	Teal Egg: N102	Catarzan
+660	Sea Dragon Dariathan	Sea Dragon King Dariathan
+661	Chronos, Goddess of Blessings	Wedding Chronos
+662	Brainwashed Cow Cat	Brainwashed Giraffe Cat
+663	Ancient Egg: N103	Black Egg: N103	Gas Mask Cat
+664	Ancient Egg: N104	Green Egg: N104	Surgeon Cat
+665	Ancient Egg: N105	Evil Egg: N105	Exorcist Cat

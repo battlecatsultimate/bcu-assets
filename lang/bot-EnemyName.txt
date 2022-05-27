@@ -608,3 +608,6 @@
 607	J.J. Jackrabbit
 608	Li'l Doge
 609	Golem Sunfish
+610	Aku Sloth
+611	Dark Ahirujo
+612	Haniwa Doge
