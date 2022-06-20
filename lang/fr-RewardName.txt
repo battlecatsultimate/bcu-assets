@@ -127,6 +127,7 @@
 169	Pierre Béhémoth bleue
 170	Pierre Béhémoth verte
 171	Pierre Béhémoth jaune
+172	Eau bénite
 1005	Chat en bronze
 1100	Chat en bronze
 1001	Chat Jour des sports
@@ -388,6 +389,7 @@
 10246	P’tit Chat jambes d’acier
 10247	P’tit Chat lion
 10248	P’tit Chat volant
+15249	Chat vie bonus
 15258	Zeus Tout-puissant
 15259	Anubis Tout-puissant
 15260	Aphrodite Toute-puissante
@@ -506,6 +508,9 @@
 15657	Chat haniwa
 15659	Chat coursier
 15660	Charzan
+15664	Chat masque à gaz
+15665	Chat chirurgien
+15666	Chat exorciste
 30000	Attaque aug. D: Rouge
 30001	Attaque aug. C: Rouge
 30002	Attaque aug. B: Rouge

@@ -1369,6 +1369,29 @@
 001-306-000	Trampa Sensual (Mortal)
 001-307		El Rey y el Ángel
 001-307-000	Grand Prix N1 (Mortal)
+001-308		#02 ¿En Qué Cae el 13?
+001-308-000	Luna de Miel en el Lago
+001-308-001	Bendición del Cuervo
+001-308-002	Cabaña Ruinosa
+001-308-003	Ascuas
+001-308-004	Seguridad del Hogar
+001-309		#03 Aldea de Alaridos
+001-309-000	Luna de Miel en la Aldea
+001-309-001	Sin Cobertura
+001-309-002	Retrato Post Mortem
+001-309-003	Tatami Chirriante
+001-309-004	Juego con los Espíritus
+001-309-005	Muñeca Descolorida
+001-309-006	Vida, Muerte y Escondite
+001-309-007	Un Puñado de Sal
+001-309-008	Pozo Encurtidor
+001-309-009	Regalos para el Hogar
+001-312		Aflicción en el Bosque
+001-312-000	Mastodonte Poderosísimo
+001-313		Rarezas en el Desierto
+001-313-000	Pato Venenoso
+001-314		Peligro en el Volcán
+001-314-000	Dos Grandes Sombras
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2744,6 +2767,8 @@
 004-054-000	Sin Plan A (Mortal)
 004-055		Moneko Demente
 004-055-000	en LA LUNA
+004-056		#02 ¿En Qué Cae el 13?
+004-056-000	Iglesia entre la Bruma
 
 006			Dojo Afilagarras
 006-000		Sala de Iniciados
@@ -3237,6 +3262,13 @@
 013-043-003	Perrito Llorica
 013-043-004	Enfrentamiento de Ninjas
 013-043-005	Canción del Mar
+013-044		Aldea Antigatos
+013-044-000	Academia en Zanja
+013-044-001	Pronóstico de Cosecha
+013-044-002	Alimento para el Alma
+013-044-003	Zona de Fumadores
+013-044-004	Sacrificio de Descansos
+013-044-005	Afueras de la Aldea
 
 014			Drink Stages
 014-000		Cultivo Amarillo
@@ -4149,6 +4181,55 @@
 024-051-007	De Nuevo (nvl. 18)
 024-051-008	De Nuevo (nvl. 19)
 024-051-009	De Nuevo (nvl. máx.)
+024-052		#01 La Capilla Fantasma
+024-052-000	Encantamiento del Novio
+024-052-001	Cura Mordedor
+024-052-002	Asistente Transparente
+024-052-003	Discurso Ahogado
+024-052-004	Coro Maldito
+024-052-005	Zombi Vegetariano
+024-052-006	Órgano Autónomo
+024-052-007	Regalos de Poltergeist
+024-052-008	Agua Bendita de Grifo
+024-052-009	Descanso Eterno
+024-053		Desafío de Fases de Duelo
+024-053-000	Duelo en la Pradera (Vanguardia)
+024-053-001	Duelo en la Pradera (Élite)
+024-053-002	Duelo en la Pradera (Comandante)
+024-053-003	Duelo al Atardecer (Vanguardia)
+024-053-004	Duelo al Atardecer (Élite)
+024-053-005	Duelo al Atardecer (Comandante)
+024-053-006	Duelo bajo las Estrellas (Vanguardia)
+024-053-007	Duelo bajo las Estrellas (Élite)
+024-053-008	Duelo bajo las Estrellas (Comandante)
+024-053-009	Duelo en las Dunas (Vanguardia)
+024-053-010	Duelo en las Dunas (Élite)
+024-053-011	Duelo en las Dunas (Comandante)
+024-053-012	Duelo en Campos de Lava (Vanguardia)
+024-053-013	Duelo en Campos de Lava (Élite)
+024-053-014	Duelo en Campos de Lava (Comandante)
+024-053-015	Duelo Bajo el Mar (Vanguardia)
+024-053-016	Duelo Bajo el Mar (Élite)
+024-053-017	Duelo Bajo el Mar (Comandante)
+024-054		Desafío de Arena de Pares
+024-054-000	Cuartos de Final de Aprendiz
+024-054-001	Semifinal de Aprendiz
+024-054-002	Final de Aprendiz
+024-054-003	Cuartos de Final de Principiante
+024-054-004	Semifinal de Principiante
+024-054-005	Final de Principiante
+024-054-006	Cuartos de Final de Hábil
+024-054-007	Semifinal de Hábil
+024-054-008	Final de Hábil
+024-054-009	Cuartos de Final de Profesional
+024-054-010	Semifinal de Profesional
+024-054-011	Final de Profesional
+024-054-012	Cuartos de Final de Experto
+024-054-013	Semifinal de Experto
+024-054-014	Final de Experto
+024-054-015	Cuartos de Final de Maestro
+024-054-016	Semifinal de Maestro
+024-054-017	Final de Maestro
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -4416,16 +4497,25 @@
 031-000-001	Zona Boscosa 2
 031-000-002	Zona Boscosa 3
 031-000-003	Zona Boscosa 4
-031-000-004	Zona Boscosa 5
+031-000-004	Zona de la Jungla Profunda 5
+031-000-005	Zona de la Jungla Profunda 6
+031-000-006	Zona de la Jungla Profunda 7
+031-000-007	Zona de la Jungla Profunda 8
 031-001		Desierto de Ashvini
 031-001-000	Zona Baldía 1
 031-001-001	Zona Baldía 2
 031-001-002	Zona Baldía 3
 031-001-003	Zona Baldía 4
-031-001-004	Zona Baldía 5
+031-001-004	Zona de la Arena Ardiente 5
+031-001-005	Zona de la Arena Ardiente 6
+031-001-006	Zona de la Arena Ardiente 7
+031-001-007	Zona de la Arena Ardiente 8
 031-002		Volcán Jinfore
 031-002-000	Zona del Túnel de Magma 1
 031-002-001	Zona del Túnel de Magma 2
 031-002-002	Zona del Túnel de Magma 3
 031-002-003	Zona del Túnel de Magma 4
-031-002-004	Zona del Túnel de Magma 5
+031-002-004	Zona de las Cuevas de Lava 5
+031-002-005	Zona de las Cuevas de Lava 6
+031-002-006	Zona de las Cuevas de Lava 7
+031-002-007	Zona de las Cuevas de Lava 8

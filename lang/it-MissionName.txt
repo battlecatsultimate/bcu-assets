@@ -26,6 +26,7 @@
 26	Missione del settimo anniversario. Supera Impero dei Gatti Cap. 1 durante questo evento!
 27	Supera tutti i Livelli leggendari di livello 2. per completare questa missione
 28	Supera tutti i Livelli leggendari di livello 3. per completare questa missione
+29	Missione del 8° anniversario. Supera Impero dei Gatti Cap. 1 durante questo evento!
 8000	Supera livelli con in premio miaobiglietti 3 volte! (Controlla la validità nei dettagli delle missioni)
 8001	Supera livelli con in premio XP 5 volte! (Controlla la validità nei dettagli delle missioni)
 8002	Supera 5 livelli delle Saghe leggendarie! (Completa 5 livelli SL gialli)
@@ -584,105 +585,3 @@
 9221	Complete 5 Gamatoto Expeditions during
 9222	Supera il 50° piano della Torre celestiale! * Le ricompense possono essere riscattate una volta sola
 9223	Upgrade Heavenly Jack to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
-9226	Upgrade Ranma Cat (M) to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
-9227	Upgrade Panda Cat to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
-9228	Clear "The Cursed Springs" 5 times!
-9229	Clear "The Cursed Springs" 10 times!
-9230	Clear "The Cursed Springs" 20 times!
-30	Prendi ogni tesoro superiore in Impero dei Gatti Cap. 1
-31	Prendi ogni tesoro superiore in Impero dei Gatti Cap. 2
-32	Prendi ogni tesoro superiore in Impero dei Gatti Cap. 3
-33	Prendi ogni tesoro superiore in Verso il futuro Cap. 1
-34	Prendi ogni tesoro superiore in Verso il futuro Cap. 2
-35	Prendi ogni tesoro superiore in Verso il futuro Cap. 3
-36	Prendi ogni tesoro superiore in Gatti del Cosmo Cap. 1
-37	Prendi ogni tesoro superiore in Gatti del Cosmo Cap. 2
-38	Prendi ogni tesoro superiore in Gatti del Cosmo Cap. 3
-9231	【Invasione】Supera il livello "Fiume Stige". 1 volte usando 8 o più Gatti normali
-9232	【Invasione】Supera il livello "Debutto da morti". 1 volte usando 8 o più Gatti speciali
-9233	【Invasione】Supera il livello "Vendetta di re Wahwah". 1 volte usando 9 Gatti normali
-9234	【Invasione】Supera il livello "Impatto blu". 1 volte usando solamente seconde forme
-9235	【Invasione】Supera il livello "Sogno profondo". 1 volte usando solamente prime forme
-9236	Supera le 5 missioni d'invasione Festival limitato!
-9237	【Invasione】Supera il livello "L'angelo e il demone"! Devi anche superare il livello di continuazione associato
-9238	【Invasione】Supera il livello "La regina e il morto"! Devi anche superare il livello di continuazione associato
-9239	【Invasione】Supera il livello "Il re e la fanciulla"! Devi anche superare il livello di continuazione associato
-9240	Compito per le vacanze ①: Scegli un argomento per il diario. Supera 5 livelli di Gatti estivi
-9241	Compito per le vacanze ②: Scegli il 2° argomento. Supera 10 livelli di Gatti estivi
-9242	Compito per le vacanze ③: Scegli il 3° argomento. Supera 30 livelli di Gatti estivi
-9243	Compito per le vacanze ④: Scrivi il diario. Supera Nascondiglio fatiscente 5 volte
-9244	Compito per le vacanze ⑤: Riscrivi il diario con stile. Supera Nascondiglio stiloso 5 volte
-9245	Compito per le vacanze ⑥: Riscrivi il diario alla perfezione. Supera Nascondiglio perfetto 5 volte
-9246	Crediti extra ①: Cattura esemplari di insetti. Potenzia Gatto Kabuto al livello 10
-9247	Crediti extra ②: Cattura esemplari di insetti. Potenzia Gatto Kuwagata al livello 10
-9248	Crediti extra ③: Osserva esemplari di insetti. Potenzia Gatto Kabuto al livello 20
-9249	Crediti extra ④: Osserva esemplari di insetti. Potenzia Gatto Kuwagata al livello 20
-9250	Crediti extra extra ①: Osservazione approfondita. Supera il livello 1 di Diario estivo con Gatto Kabuto
-9251	Crediti extra extra ②: Osservazione approfondita. Supera il livello 2 di Diario estivo con Gatto Kuwagata
-9252	Crediti extra extra ③: Osservazione approfondita. Supera il livello 4 di Diario estivo con Gatto Kabuto
-9253	Crediti extra extra ④: Osservazione approfondita. Supera il livello 6 di Diario estivo con Gatto Kuwagata
-9254	Scuola estiva ①: Letteratura. Supera 5 livelli di Lezione estiva
-9255	Scuola estiva ②: Algebra. Supera 10 livelli di Lezione estiva
-9256	Scuola estiva ③: Educazione civica. Supera 15 livelli di Lezione estiva
-9257	Scuola estiva ④: Assemblea scolastica. Supera 20 livelli di Lezione estiva
-9258	Crediti super extra ①: Ricerca sulla fauna marina. Supera il liv. 1 di Survive! Mola Mola! con Gatto Kabuto
-9259	Crediti super extra ②: Ricerca sulla fauna marina. Supera il liv. 3 di Survive! Mola Mola! con Gatto Kuwagata
-9260	Crediti super extra ③: Ricerca approfondita. Supera. 300 Million Dead Molas 3 volte con Gatto Kabuto
-9261	Crediti super extra ④: Ricerca approfondita. Supera. 300 Million Dead Molas 5 volte con Gatto Kuwagata
-39	Ricerca dell'imperatrice 1: Incantesimi eretici. Supera "Confluenza arcana" e "Gatto malvagio"!
-40	Ricerca dell'imperatrice 2: Agenti Aku. Supera "Servo delle tenebre" e "Panzer malvagio"
-9262	Supera "Inizio impulsivo" 5 volte!
-9263	Supera "Inizio impulsivo" 10 volte!
-9264	Supera "Avventura impulsiva" 5 volte!
-9265	Supera livelli di "Avventura impulsiva". 1 volte con 9 Gatti normali!
-9266	Sconfiggi Jackie Ping alla Gara in tre tappe impulsiva. (Una volta per ogni livello della Gara)
-9267	Sconfiggi Cane oscuro alla Gara in tre tappe impulsiva. (Una volta per ogni livello della Gara)
-9268	Supera tutte le 6 missioni limitate di Scontro impulsivo!
-9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
-9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!
-9271	Defeat the Box Witch! Find this Witch at the "Witch's Labyrinth: Box Witch" map!
-9272	Defeat the Nutcracker Witch! Find this Witch at the "Witch's Labyrinth: Nutcracker Witch" map!
-9273	Defeat all Witches!  Complete all 4 Witch missions!
-9274	Upgrade Li'l Madoka to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
-9275	Upgrade Kyubey Cat to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
-41	Ricerca dell'imperatrice 3: Il prezzo della stregoneria. Supera "Parco del demone" e "Ascia malvagia"
-42	Completa tutte le 3 missioni di. Ricerca dell'imperatrice 1-3!
-43	Chiamata alle armi dell'imperatrice! Supera Liberare i Gatti (I cancelli si aprono...)
-44	Supera "I regni Aku". Completa superando tutti i livelli di I regni Aku
-45	Supera "I regni Aku". Completa superando tutti i livelli di I regni Aku
-9305	Supera il 30° piano della Torre infernale. * Puoi ricevere la ricompensa solo una volta
-47	Resoconto dell'imperatrice: Ricerca di Aku. Resoconto dell'imperatrice 1: supera 5 liv. 5 volte.
-9321	【Invasione】Supera il livello "Clionel Ascendente". 1 volte usando 7 o più Gatti speciali
-9322	【Invasione】Supera il livello "Incoronazione regale". 1 volte usando 7 o più Gatti normali
-9323	【Invasione】Supera il livello "Il morto e il gonfio"! Devi anche superare il livello di continuazione associato
-9324	【Invasione】Supera il livello "La regina e la fanciulla"! Devi anche superare il livello di continuazione associato
-9325	【Invasione】Supera il livello "Il re e l'angelo"! Devi anche superare il livello di continuazione associato
-48	Supera 5 livelli Selezione del Behemoth per la prima volta. "Info sulle sfide" per i livelli richiesti
-49	Supera 10 livelli Selezione del Behemoth per la prima volta. "Info sulle sfide" per i livelli richiesti
-9326	Missioni del Festival del Ciclone. Supera il livello "Catastrofe cremisi"!
-9327	Missioni del Festival del Ciclone. Supera il livello "Paradiso delle tenebre"!
-9328	Missioni del Festival del Ciclone. Supera il livello "Ineguagliabile"!
-9329	Missioni del Festival del Ciclone. Supera il livello "Dolce ironia"!
-9330	Missioni del Festival del Ciclone. Supera il livello "Ira del paradiso"!
-9331	Missioni del Festival del Ciclone. Supera il livello "Dimensione disperata"!
-9332	Missioni del Festival del Ciclone. Supera il livello "Rosso di mattina"!
-9333	Missioni del Festival del Ciclone. Supera il livello "Morti rotolanti"!
-9334	Missioni del Festival del Ciclone. Supera il livello "La seconda dimensione"!
-9335	Missioni del Festival del Ciclone. Supera il livello "Tifone Nemo"!
-9336	Missioni del Festival del Ciclone. Supera Catastrofe cremisi 1 volte con 8 o più Gatti normali
-9337	Missioni del Festival del Ciclone. Supera Paradiso delle tenebre 1 volte con 8 o più Gatti nor
-9338	Missioni del Festival del Ciclone. Supera Ineguagliabile 1 volte con 8 o più Gatti rari
-9339	Missioni del Festival del Ciclone. Supera Dolce ironia 1 volte con 8 o più Gatti rari
-9340	Missioni del Festival del Ciclone. Supera Ira del paradiso 1 volte con 8 o più Gatti rari
-9341	Missioni del Festival del Ciclone. Supera Dimensione disperata 1 volte con 8 o più Gatti nor
-9342	Missioni del Festival del Ciclone. Supera Rosso di mattina 1 volte con solo prime forme
-9343	Missioni del Festival del Ciclone. Supera Morti rotolanti 1 volte con solo prime forme
-9344	Missioni del Festival del Ciclone. Supera La seconda dimensione 1 volte con solo prime forme
-9345	Clear 1  "Annihilated City"  stages with "Yuki Cat" in your formation
-9346	Clear 1  "Annihilated City"  stages with "Takuya & Yuki" in your formation
-9347	Clear 1  "Annihilated City"  stages with "Redhead Yuki Cat" in your formation
-9348	Clear 1  "Annihilated City"  stages with "Kano & Souma" in your formation
-9349	Clear 5  Shoumetsu Toshi collab stages
-9350	Clear 15  Shoumetsu Toshi collab stages
-9351	Clear 30  Shoumetsu Toshi collab stages
-9352	Complete 5 Gamatoto expeditions! Send Gamatoto to any

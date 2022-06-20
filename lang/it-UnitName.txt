@@ -246,7 +246,7 @@
 245	Mini Gatto alto	Mini Gatto Gambe sexy	Mini Gatto Gambe macho
 246	Mini Gatto mucca	Mini Gatto giraffa	Mini Gatto leo
 247	Mini Gatto uccello	Mini Gatto UFO	Mini Gatto volante
-248	Gatto non morto	Bake-Nyanko	
+248	Gatto non morto	Bake-Nyanko	Gatto vita extra
 249			
 250			
 251			
@@ -658,3 +658,9 @@
 657	Iz ballerina del dolore	Iz signora del pianto	
 658	Uovo antico N101	Uovo vermiglione N101	Gatto corriere
 659	Uovo antico N102	Uovo verde acqua N102	Gattarzan
+660	Daliasan serpente marino	Daliasan re del mare	
+661	Chronos la sposa	Chronos nuziale	
+662	Gatto mucca plagiato	Gatto giraffa plagiato	
+663	Uovo antico N103	Uovo nero N103	Gatto maschera antigas
+664	Uovo antico N104	Uovo verde N104	Gatto chirurgo
+665	Uovo antico N201	Uovo oscuro N201	Gattorcista

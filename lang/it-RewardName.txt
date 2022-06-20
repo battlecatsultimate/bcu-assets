@@ -127,6 +127,7 @@
 169	Pietra Behemoth blu
 170	Pietra Behemoth verde
 171	Pietra Behemoth gialla
+172	Acqua santa
 1005	Busto di Gatto
 1100	Busto di Gatto
 1001	Gatto sportivo
@@ -388,6 +389,7 @@
 10246	Mini Gatto Gambe macho
 10247	Mini Gatto leo
 10248	Mini Gatto volante
+15249	Gatto vita extra
 15258	Zeus Onnipotente
 15259	Anubi Onnipotente
 15260	Afrodite Onnipotente
@@ -506,6 +508,9 @@
 15657	Gatto haniwa
 15659	Gatto corriere
 15660	Gattarzan
+15664	Gatto maschera antigas
+15665	Gatto chirurgo
+15666	Gattorcista
 30000	Più attacco D: Rosso
 30001	Più attacco C: Rosso
 30002	Più attacco B: Rosso

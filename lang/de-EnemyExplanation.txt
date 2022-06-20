@@ -608,3 +608,6 @@
 607	Dieses Häschen ist aus einem Geheimen, unethischen Genlabor<br>geflohen. Alle seine Läden sind bankrott gegangen, aber<br>das Juwel in seinem Hinterteil sagt ihm in<br>Zukunft viel Glück voraus.
 608	Enkel des Hundes. Kommt aus der Zukunft, um die Vergangen-<br>heit zu ändern, in der sein Opa in einem Test durchgefallen ist.<br>Die Fragen in der Zulassungsprüfung sind so anders, dass<br>es kaum einen Unterschied gemacht hat.
 609	Eine von den Uralten erbaute, zerstörerische Waffe.<br>Der Strahl, den sie abfeuert, soll Zerstörung bringen können.<br>Wurde von einem Weisen am Meeresgrund versiegelt.<br>Soll angeblich zur Oberfläche auftreiben.
+610	Ein mächtiger Behemoth, der dämonisch wurde, als er sein<br>Heim verlor. Die Bäume im umgebenden Dschungel gefallen ihm <br>gar nicht. Kann Stachel aus seinem Schwanz feuern, die<br>alle Bewegung einfrieren.
+611	Der dritte der drei Vogelbrüder. Lebt in<br>Dunkelheit und hat gefährliche Pflanzen kultiviert. Das<br>munkelt man jedenfalls. Kann jeden Feind mit unablässigen<br>Schnabelstößen besiegen. Ruft Gifteffekt hervor.
+612	Ein Hund aus Ton, der Häuser bewachen soll.<br>Verfügt über Stör- und Blockadefunktionen, um niemanden in<br>die Nähe des Hauses zu lassen. Beste Eigenschaft:<br>Ähnelt seinem Besitzer.

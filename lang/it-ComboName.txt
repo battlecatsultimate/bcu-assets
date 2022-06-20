@@ -211,3 +211,4 @@
 94	Sacrificio
 335	Guerrieri della giustizia
 95	Sola andata per l'inferno
+146	Diventare di pietra

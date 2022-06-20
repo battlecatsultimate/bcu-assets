@@ -246,7 +246,7 @@
 245	P’tit Grand Chat	P’tit Chat gambettes	P’tit Chat jambes d’acier
 246	P’tit Chat vache	P’tit Chat girafe	P’tit Chat lion
 247	P’tit Chat oiseau	P’tit Chat OVNI	P’tit Chat volant
-248	Chat mort-vivant	Bake-Nyanko	
+248	Chat mort-vivant	Bake-Nyanko	Chat vie bonus
 249			
 250			
 251			
@@ -658,3 +658,9 @@
 657	Iz la danseuse du chagrin	Iz la dame du deuil	
 658	Œuf ancien N101	Œuf cinabre N101	Chat coursier
 659	Œuf ancien N102	Œuf bleu sarcelle N102	Charzan
+660	Daliasan serpent de mer	Daliasan roi des mers	
+661	Chronos mariée	Chronos nuptiale	
+662	Chat vache sous contrôle	Chat girafe sous contrôle	
+663	Œuf ancien N103	Œuf noir N103	Chat masque à gaz
+664	Œuf ancien N104	Œuf vert N104	Chat chirurgien
+665	Œuf ancien N201	Œuf sombre N201	Chat exorciste

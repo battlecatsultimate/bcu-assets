@@ -246,7 +246,7 @@
 245	<br><br>
 246	<br><br>
 247	<br><br>
-248	<br><br>
+248	La Forma Reale aumenta la difesa<br>e ottiene Fitta al cuore!<br>
 249	<br><br>
 250	<br><br>
 251	<br><br>
@@ -658,3 +658,9 @@
 657	<br><br>
 658	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 659	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+660	<br><br>
+661	<br><br>
+662	<br><br>
+663	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+664	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+665	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>

@@ -246,7 +246,7 @@
 245	<br><br>
 246	<br><br>
 247	<br><br>
-248	<br><br>
+248	Wahre-Form-Entiwcklung erhöht<br>Verteidigung und gewährt Seelenstoß!<br>
 249	<br><br>
 250	<br><br>
 251	<br><br>
@@ -658,3 +658,9 @@
 657	<br><br>
 658	Wahre-Form-Entwicklung enthüllt letzte Form!<br>Erhält zudem „Behemothtöter“!<br>
 659	Wahre-Form-Entwicklung enthüllt letzte Form!<br>Erhält zudem „Behemothtöter“!<br>
+660	<br><br>
+661	<br><br>
+662	<br><br>
+663	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
+664	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
+665	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!

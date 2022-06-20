@@ -1404,6 +1404,29 @@
 001-306-000	Honey Trap (Deadly)
 001-307		The King & The Angel
 001-307-000	N-1 Grand Prix (Deadly)
+001-308		#02 ??? the 13th
+001-308-000	Foggy Lake Honeymoon
+001-308-001	Crow Murder's Blessing
+001-308-002	Dilapidated Cottage
+001-308-003	Dying Embers
+001-308-004	All Home Safe
+001-309		#03 Yowling Village
+001-309-000	Hidden Village Honeymoon
+001-309-001	No Reception Ahead
+001-309-002	Post-Mortem Portrait
+001-309-003	Creaking Tatami
+001-309-004	Playtime with the Spirits
+001-309-005	Dolly With a Fade
+001-309-006	Life, Death, Hide, Seek
+001-309-007	Salt by the Mouthful
+001-309-008	The Pickling Well
+001-309-009	Home Bearing Gifts
+001-312		Affliction in the Forest
+001-312-000	The Strongest Behemoth
+001-313		Oddity in the Desert
+001-313-000	Venomous Duck
+001-314		Peril in the Volcano
+001-314-000	Two Great Shadows
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2799,6 +2822,8 @@
 004-054-000	No Plan A (Deadly)
 004-055		Crazed Moneko Strikes
 004-055-000	in THE MOON
+004-056		#02 ??? the 13th
+004-056-000	In the Mist-Shrouded Church
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
@@ -3299,6 +3324,13 @@
 013-043-003	Tear-Soaked Puppy
 013-043-004	Shinobi Showdown
 013-043-005	Ancient Sea Blues
+013-044		Cat-Chasing Village
+013-044-000	Pithouse Academy
+013-044-001	Local Harvest Forecast
+013-044-002	Clay Pot Soul Food
+013-044-003	Chiefs' Smoking Area
+013-044-004	Rest Stop Sacrifice
+013-044-005	Outta This Village
 
 014			Drink Stages
 014-000		Growing Yellow
@@ -4211,6 +4243,36 @@
 024-051-007	Again Lv.18
 024-051-008	Again Lv.19
 024-051-009	Again Lv.MAX
+024-052		#01 The Ghost Chapel
+024-052-000	Haunted by the Groom
+024-052-001	The Biting Priest
+024-052-002	Transparent Attendant
+024-052-003	A Drowned-Out Speech
+024-052-004	Cursed Choir
+024-052-005	Vegetarian Zombie
+024-052-006	Self-Playing Organ
+024-052-007	Poltergeist Gift Exchange
+024-052-008	Holy Water from the Tap
+024-052-009	Laid to Friendly Rest
+024-053		Duel Stages Challenge
+024-053-000	Duel on the Prarie (Vanguard)
+024-053-001	Duel on the Prarie (Elite)
+024-053-002	Duel on the Prarie (Commander)
+024-053-003	Duel at Sunset (Vanguard)
+024-053-004	Duel at Sunset (Elite)
+024-053-005	Duel at Sunset (Commander)
+024-053-006	Duel Under the Stars (Vanguard)
+024-053-007	Duel Under the Stars (Elite)
+024-053-008	Duel Under the Stars (Commander)
+024-053-009	Duel on the Dunes (Vanguard)
+024-053-010	Duel on the Dunes (Elite)
+024-053-011	Duel on the Dunes (Commander)
+024-053-012	Duel at the Lava Fields (Vanguard)
+024-053-013	Duel at the Lava Fields (Elite)
+024-053-014	Duel at the Lava Fields (Commander)
+024-053-015	Duel Under the Sea (Vanguard)
+024-053-016	Duel Under the Sea (Elite)
+024-053-017	Duel Under the Sea (Commander)
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -4478,16 +4540,25 @@
 031-000-001	Woodlands Area 2
 031-000-002	Woodlands Area 3
 031-000-003	Woodlands Area 4
-031-000-004	Woodlands Area 5
+031-000-004	Deep Jungle Area 5
+031-000-005	Deep Jungle Area 6
+031-000-006	Deep Jungle Area 7
+031-000-007	Deep Jungle Area 8
 031-001		Ashvini Desert
 031-001-000	Badlands Area 1
 031-001-001	Badlands Area 2
 031-001-002	Badlands Area 3
 031-001-003	Badlands Area 4
-031-001-004	Badlands Area 5
+031-001-004	Burning Sands Area 5
+031-001-005	Burning Sands Area 6
+031-001-006	Burning Sands Area 7
+031-001-007	Burning Sands Area 8
 031-002		Jinfore Volcano
 031-002-000	Magma Tunnel Area 1
 031-002-001	Magma Tunnel Area 2
 031-002-002	Magma Tunnel Area 3
 031-002-003	Magma Tunnel Area 4
-031-002-004	Magma Tunnel Area 5
+031-002-004	Lava Caves Area 5
+031-002-005	Lava Caves Area 6
+031-002-006	Lava Caves Area 7
+031-002-007	Lava Caves Area 8

@@ -608,3 +608,6 @@
 607	Questo coniglietto è scappato da un laboratorio segreto<br>che modificava il genoma. I negozi che gestiva sono<br>falliti durante la sua assenza, ma i gioielli<br>sul suo didietro sono di buon auspicio.
 608	Nipote di Cane. Viene dal futuro per modificare<br>il passato, in cui suo nonno fu bocciato a un esame.<br>Le domande al test di ingresso sono così<br>diverse che sta avendo problemi a modificare il passato.
 609	Un'arma distruttiva costruita dagli antichi.<br>Dicono che il suo raggio sia capace di grandi distruzioni.<br>Un saggio l'aveva nascosta sul fondo dell'oceano.<br>Dicono stia galleggiando in superficie.
+610	Un Behemoth potente diventato demoniaco dopo aver<br>perso la propria casa. Non gli piacciono gli <br>alberi della giungla in cui si trova. Può sparare<br>aculei dalla coda che immobilizzano i movimenti.
+611	Il terzo dei tre Fratelli Uccelli. A casa nell'oscurità,<br>ha coltivato piante pericolose, o almeno così<br>dicono. Può abbattere i nemici con ripetuti<br>colpi del becco e infliggere veleno.
+612	Un cane di argilla creato per fare da guardia alle case.<br>Ha una serie di funzionalità di interferenza e disturbo<br>per impedire a chiunque di raggiungere la casa.<br>Miglior caratteristica: assomiglia al padrone.

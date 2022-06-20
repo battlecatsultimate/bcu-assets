@@ -608,3 +608,6 @@
 607	Ce lapin a fui un labo secret pratiquant des expériences<br>génétiques douteuses. Gérant d'un magasin qui a fait<br>faillite pendant son absence, mais le bijou qu'il<br>porte derrière lui prédit un avenir radieux.
 608	Descendant de Toutou. Venu du futur pour altérer le<br>moment du passé où son grand-père a raté un examen.<br>Hélas, il n'a pas été en mesure de répondre<br>aux questions du concours d'entrée.
 609	Une arme destructrice issue d'un peuple ancien.<br>Son rayon est censé ne rien laisser debout.<br>Elle a été scellée au fond d'un océan par un sage.<br>La rumeur prétend qu'elle flotte maintenant à la surface.
+610	Un puissant Béhémoth devenu démoniaque après avoir<br>perdu sa maison. Il n'aime pas trop les arbres de la jungle <br>qui l'entoure. Peut tirer des piques avec sa queue<br>pour immobiliser tout mouvement.
+611	Un des trois Frères Oiseaux. Se sent bien dans l'obscurité<br>et aime cultiver ses plantes dangereuses. Selon la rumeur,<br>en tout cas. Peut éliminer les ennemis avec ses coups<br>de bec répétés et leur infliger des dégâts toxiques.
+612	Un chien créé à partir d'argile pour garder les maisons.<br>Il dispose de fonctions d'interférence et de brouillage<br>pour empêcher quiconque d'atteindre la maison.<br>Meilleur pouvoir: ressembler à son maître.

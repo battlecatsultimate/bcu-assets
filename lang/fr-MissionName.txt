@@ -26,6 +26,7 @@
 26	Mission du 7e anniversaire. Termine L’empire des Chats ch. 1 pendant cet événement !
 27	Termine tous les Niveaux légendaires. de niveau 2 pour accomplir cette mission
 28	Termine tous les Niveaux légendaires. de niveau 3 pour accomplir cette mission
+29	Mission du 8e anniversaire. Termine L’empire des Chats ch. 1 pendant cet événement !
 8000	Termine des lieux à récompenses tickets Chapsules 3 fois !
 8001	Termine des lieux à récompenses XP 5 fois !
 8002	Termine 5 lieux des Histoires légendaires !
@@ -584,6 +585,8 @@
 9221	Complete 5 Gamatoto Expeditions during
 9222	Termine le 50e étage de la Tour céleste ! ※ Les récompenses ne sont remises qu’une fois
 9223	Upgrade Heavenly Jack to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
+9224	Termine des lieux 8 ans de rigolade ! 8 fois !
+9225	Marque plus de 8 888 points dans 8 ne suffisent pas ! Trouve ce lieu à classement dans le Dojo Griffélin !
 9226	Upgrade Ranma Cat (M) to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
 9227	Upgrade Panda Cat to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
 9228	Clear "The Cursed Springs" 5 times!
@@ -686,3 +689,16 @@
 9350	Clear 15  Shoumetsu Toshi collab stages
 9351	Clear 30  Shoumetsu Toshi collab stages
 9352	Complete 5 Gamatoto expeditions! Send Gamatoto to any
+50	Termine 15 niveaux Abattage de Béhémoths pour la 1re fois
+51	Termine 20 niveaux Abattage de Béhémoths pour la 1re fois
+9353	Gagne un Œuf ancien N201 dans. les Chapsules de la Mariée du démon de juin
+9354	Termine un niveau de #01 La chapelle fantôme
+9355	Termine un niveau de #01 La chapelle fantôme
+9356	Termine un niveau de #01 La chapelle fantôme
+9357	Termine un niveau de #01 La chapelle fantôme
+9358	Termine un niveau de #02 ??? le 13e
+9359	Termine un niveau de #02 ??? le 13e
+9360	Termine le niveau suite des niveaux de
+9361	Termine un niveau de #03 Village miaulant
+9362	Termine un niveau de #03 Village miaulant
+9363	Termine un niveau de #03 Village miaulant

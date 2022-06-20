@@ -608,3 +608,6 @@
 607	J. J. Jackonejo
 608	Minichucho
 609	Lunángel Gólem
+610	Folívoro
+611	Casaurian Darkjo
+612	Haniguau

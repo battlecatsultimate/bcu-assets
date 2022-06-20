@@ -246,7 +246,7 @@
 245	Minigatilargo	Minigato Muslamen	Minigato Piernacas
 246	Minivaca	Minijirafelino	Minigatoleón
 247	Minipájaro	Minigatovni	Minigato Volador
-248	Gato No Muerto	Bake-Nyanko	
+248	Gato No Muerto	Bake-Nyanko	Gato Vida Extra
 249			
 250			
 251			
@@ -658,3 +658,9 @@
 657	Iz la Bailarina del Dolor	Iz la Joven de Luto	
 658	Huevo Antiguo N101	Huevo Bermellón N101	Gato Mensajero
 659	Huevo Antiguo N102	Huevo Verde N102	Gatarzán
+660	Daliasan Serpiente Marina	Daliasan Rey de los Mares	
+661	Chronos Novia	Chronos de Boda	
+662	Gato Lechero Adoctrinado	Jirafelino Adoctrinado	
+663	Huevo Antiguo N103	Huevo Negro N103	Gato con Máscara de Gas
+664	Huevo Antiguo N104	Huevo Verde N104	Gato Cirujano
+665	Huevo Antiguo N201	Huevo Negro N201	Gato Exorcista

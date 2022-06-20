@@ -1366,6 +1366,29 @@
 001-306-000	Piège à miel (mortel)
 001-307		Le roi et l'ange
 001-307-000	Grand Prix N-1 (mortel)
+001-308		#02 ??? le 13e
+001-308-000	Lune de miel au lac brumeux
+001-308-001	Bénédiction du Tue-corbeau
+001-308-002	Cottage dilapidé
+001-308-003	Braises mourantes
+001-308-004	Tous bien rentrés
+001-309		#03 Village miaulant
+001-309-000	Lune de miel au village caché
+001-309-001	Aucune réception
+001-309-002	Portrait post-mortem
+001-309-003	Tatami grinçant
+001-309-004	Un jeu avec les esprits
+001-309-005	Poupée avec dégradé
+001-309-006	Cache-cache mort-vie
+001-309-007	Du sel plein la bouche
+001-309-008	Le puits vinaigré
+001-309-009	Cadeaux faits maison
+001-312		Affliction forestière
+001-312-000	Le meilleur Béhémoth
+001-313		Étrangeté du désert
+001-313-000	Canard venimeux
+001-314		Péril dans le volcan
+001-314-000	Deux grandes ombres
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2741,6 +2764,8 @@
 004-054-000	Pas de plan A (mortel)
 004-055		Moneko maboule
 004-055-000	Dans la lune
+004-056		#02 ??? le 13e
+004-056-000	Dans l'église embrumée
 
 006			Dojo Griffélin
 006-000		Salle des initiés
@@ -3234,6 +3259,13 @@
 013-043-003	Un chiot et des larmes
 013-043-004	Duel shinobi
 013-043-005	Blues de la mer antique
+013-044		Village chasse-Chats
+013-044-000	Académie troglodyte
+013-044-001	Prévision de récolte
+013-044-002	Soul food en argile
+013-044-003	Zone fumeur du chef
+013-044-004	Sacrifice d'aire de repos
+013-044-005	Sors de ce village
 
 014			Night Stages
 014-000		Croissance jaune
@@ -4135,6 +4167,55 @@
 024-051-007	Encore niv. 18
 024-051-008	Encore niv. 19
 024-051-009	Encore niv. max
+024-052		#01 La chapelle fantôme
+024-052-000	Hanté par le marié
+024-052-001	Prêtre mordant
+024-052-002	Convive transparent
+024-052-003	Discours inaudible
+024-052-004	Chorale maudite
+024-052-005	Zombie végétarien
+024-052-006	Orgue doué de vie
+024-052-007	Cadeaux d'esprit frappeur
+024-052-008	Eau bénite du robinet
+024-052-009	Repos final mais amical
+024-053		Défi Niveaux duel
+024-053-000	Duel dans la prairie (Avant-garde)
+024-053-001	Duel dans la prairie (Élite)
+024-053-002	Duel dans la prairie (Commandant)
+024-053-003	Duel au crépuscule (Avant-garde)
+024-053-004	Duel au crépuscule (Élite)
+024-053-005	Duel au crépuscule (Commandant)
+024-053-006	Duel sous les étoiles (Avant-garde)
+024-053-007	Duel sous les étoiles (Élite)
+024-053-008	Duel sous les étoiles (Commandant)
+024-053-009	Duel sur les dunes (Avant-garde)
+024-053-010	Duel sur les dunes (Élite)
+024-053-011	Duel sur les dunes (Commandant)
+024-053-012	Duel aux champs de lave (Avant-garde)
+024-053-013	Duel aux champs de lave (Élite)
+024-053-014	Duel aux champs de lave (Commandant)
+024-053-015	Duel sous la mer (Avant-garde)
+024-053-016	Duel sous la mer (Élite)
+024-053-017	Duel sous la mer (Commandant)
+024-054		Défi Arène féline
+024-054-000	Quarts de finale Novice
+024-054-001	Demi-finales Novice
+024-054-002	Finales Novice
+024-054-003	Quarts de finale Débutant
+024-054-004	Demi-finales Débutant
+024-054-005	Finales Débutant
+024-054-006	Quarts de finale Adepte
+024-054-007	Demi-finales Adepte
+024-054-008	Finales Adepte
+024-054-009	Quarts de finale Pro
+024-054-010	Demi-finales Pro
+024-054-011	Finales Pro
+024-054-012	Quarts de finale Expert
+024-054-013	Demi-finales Expert
+024-054-014	Finales Expert
+024-054-015	Quarts de finale Maître
+024-054-016	Demi-finales Maître
+024-054-017	Finales Maître
 
 025			Enigma Stages
 025-000		Champs Aitum
@@ -4402,16 +4483,25 @@
 031-000-001	Zone boisée 2
 031-000-002	Zone boisée 3
 031-000-003	Zone boisée 4
-031-000-004	Zone boisée 5
+031-000-004	Zone jungle profonde 5
+031-000-005	Zone jungle profonde 6
+031-000-006	Zone jungle profonde 7
+031-000-007	Zone jungle profonde 8
 031-001		Désert d'Ashvini
 031-001-000	Zone rocailleuse 1
 031-001-001	Zone rocailleuse 2
 031-001-002	Zone rocailleuse 3
 031-001-003	Zone rocailleuse 4
-031-001-004	Zone rocailleuse 5
+031-001-004	Zone sable brûlant 5
+031-001-005	Zone sable brûlant 6
+031-001-006	Zone sable brûlant 7
+031-001-007	Zone sable brûlant 8
 031-002		Volcan de Jinfore
 031-002-000	Zone de tunnel de lave 1
 031-002-001	Zone de tunnel de lave 2
 031-002-002	Zone de tunnel de lave 3
 031-002-003	Zone de tunnel de lave 4
-031-002-004	Zone de tunnel de lave 5
+031-002-004	Zone grottes de lave 5
+031-002-005	Zone grottes de lave 6
+031-002-006	Zone grottes de lave 7
+031-002-007	Zone grottes de lave 8

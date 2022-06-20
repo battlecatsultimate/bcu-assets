@@ -608,3 +608,6 @@
 607	Roger le lièvre
 608	P'tit Toutou
 609	Poisson-lune golem
+610	Le Folivore
+611	Darkjo casoar
+612	Haniwanwan

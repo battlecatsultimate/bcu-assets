@@ -246,7 +246,7 @@
 245	Kleine Stelzenkatze	Kleine Hübsche-Beine-Katze	Kleiner Beinmuskelkater
 246	Kleine Kuhkatze	Kleine Giraffenkatze	Kleine Löwenkatze
 247	Kleine Vogelkatze	Kleine UFO-Katze	Kleine Flugkatze
-248	Untote Katze	Bake-Nyanko	
+248	Untote Katze	Bake-Nyanko	Extraleben-Katze
 249			
 250			
 251			
@@ -658,3 +658,9 @@
 657	Iz, die Tänzerin des Kummers	Iz, Dame der Trauer	
 658	Uraltes Ei: N101	Zinnober-Ei: N101	Kurierkatze
 659	Uraltes Ei: N102	Petrol-Ei: N102	Katzan
+660	Seeschlange Daliasan	Seekönig Daliasan	
+661	Chronos die Braut	Hochzeits-Chronos	
+662	Gehirngewaschene Kuhkatze	Gehirngew. Giraffenkatze	
+663	Uraltes Ei: N103	Schwarzes Ei: N103	Gasmaskenkatze
+664	Uraltes Ei: N104	Grünes Ei: N104	Chirurgen-Katze
+665	Uraltes Ei: N201	Dunkles Ei: N201	Exorzistenkatze

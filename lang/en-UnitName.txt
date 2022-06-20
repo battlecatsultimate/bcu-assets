@@ -246,7 +246,7 @@
 245	Li'l Gross Cat	Li'l Sexy Legs Cat	Li'l Macho Legs Cat
 246	Li'l Cow Cat	Li'l Giraffe Cat	Li'l Lion Cat
 247	Li'l Bird Cat	Li'l UFO Cat	Li'l Flying Cat
-248	Undead Cat	Bake-Nyanko	
+248	Undead Cat	Bake-Nyanko	Extra-Life Cat
 249			
 250			
 251			
@@ -658,3 +658,9 @@
 657	Iz the Dancer of Grief	Iz the Lady of Mourning	
 658	Ancient Egg: N101	Cinnabar Egg: N101	Courier Cat
 659	Ancient Egg: N102	Teal Egg: N102	Catarzan
+660	Sea Serpent Daliasan	Sea King Daliasan	
+661	Chronos the Bride	Wedding Chronos	
+662	Brainwashed Cow Cat	Brainwashed Giraffe Cat	
+663	Ancient Egg: N103	Black Egg: N103	Gas Mask Cat
+664	Ancient Egg: N104	Green Egg: N104	Surgeon Cat
+665	Ancient Egg: N201	Dark Egg: N201	Exorcist Cat

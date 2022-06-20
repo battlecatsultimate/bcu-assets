@@ -26,6 +26,7 @@
 26	Misión del 7.º aniversario. ¡Supera el Imperio de los Gatos (cap. 1) durante el evento!
 27	Para completar esta misión, supera el nivel 2. de todas las Etapas de Leyenda
 28	Para completar esta misión, supera el nivel 3. de todas las Etapas de Leyenda
+29	Misión del 8.º aniversario. ¡Supera el Imperio de los Gatos (cap. 1) durante el evento!
 8000	(Verás las fases relevantes en los detalles de la misión)
 8001	(Verás las fases relevantes en los detalles de la misión)
 8002	(Completa 5 fases legendarias amarillas cualesquiera)
@@ -580,6 +581,7 @@
 9221	Complete 5 Gamatoto Expeditions during
 9222	Supera el piso 50 de la Torre Celestial. (Estos premios solo se pueden recoger una vez)
 9223	Upgrade Heavenly Jack to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
+9225	Gana 8888 puntos en 8 No Son Suficientes. (Es una fase de clasificación en el Dojo Afilagarras)
 9226	Upgrade Ranma Cat (M) to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
 9227	Upgrade Panda Cat to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
 9228	Clear "The Cursed Springs" 5 times!
@@ -653,8 +655,8 @@
 9323	【Invasión】Supera la fase. El Muerto y el Hinchado 1 veces con 7 especiales o más
 9324	【Invasión】Supera la fase. La Reina y la Doncella 1 veces con 7 especiales o más
 9325	【Invasión】Supera la fase. El Rey y el Ángel 1 veces con 7 especiales o más
-48	Supera 5 fases de Matanza de Mastodontes por primera vez
-49	Supera 10 fases de Matanza de Mastodontes por primera vez
+48	Supera 5 fases de Matanza de Mastodontes por primera vez:
+49	Supera 10 fases de Matanza de Mastodontes por primera vez:
 9326	Misiones del Festival de Ciclón. Supera la fase Catástrofe Carmesí
 9327	Misiones del Festival de Ciclón. Supera la fase Paraíso de Oscuridad
 9328	Misiones del Festival de Ciclón. Supera la fase Inigualable
@@ -682,3 +684,16 @@
 9350	Clear 15  Shoumetsu Toshi collab stages
 9351	Clear 30  Shoumetsu Toshi collab stages
 9352	Complete 5 Gamatoto expeditions! Send Gamatoto to any
+50	Supera 15 fases de Matanza de Mastodontes por primera vez:
+51	Supera 20 fases de Matanza de Mastodontes por primera vez:
+9353	Gana un Huevo Antiguo N201. en las bolas de Novia del Diablo de Junio
+9354	Supera cualquier fase de #01 La Capilla Fantasma 5 veces:
+9355	Supera cualquier fase de #01 La Capilla Fantasma 10 veces:
+9356	Supera cualquier fase de #01 La Capilla Fantasma 15 veces:
+9357	Supera cualquier fase de #01 La Capilla Fantasma 20 veces:
+9358	Supera cualquier fase de #02 ¿En Qué Cae el 13? 3 veces:
+9359	Supera cualquier fase de #02 ¿En Qué Cae el 13? 5 veces:
+9360	Supera la fase de continuación
+9361	Supera cualquier fase de #03 Aldea de Alaridos 3 veces:
+9362	Supera cualquier fase de #03 Aldea de Alaridos 5 veces:
+9363	Supera cualquier fase de #03 Aldea de Alaridos 10 veces:

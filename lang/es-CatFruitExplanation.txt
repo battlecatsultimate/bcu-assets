@@ -246,7 +246,7 @@
 245	<br><br>
 246	<br><br>
 247	<br><br>
-248	<br><br>
+248	La forma final tiene una mayor defensa<br>y más poder de ataque.<br>
 249	<br><br>
 250	<br><br>
 251	<br><br>
@@ -658,3 +658,9 @@
 657	<br><br>
 658	La forma final revela su apariencia real<br>y es matamastodontes.<br>
 659	La forma final revela su apariencia real<br>y es matamastodontes.<br>
+660	<br><br>
+661	<br><br>
+662	<br><br>
+663	La forma final revela su apariencia real<br>y es matamastodontes.<br>
+664	La forma final revela su apariencia real<br>y es matamastodontes.<br>
+665	La forma final revela su apariencia real<br>y es matamastodontes.<br>

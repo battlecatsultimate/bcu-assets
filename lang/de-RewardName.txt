@@ -127,6 +127,7 @@
 169	Blauer Behemoth-Stein
 170	Grüner Behemoth-Stein
 171	Gelber Behemoth-Stein
+172	Weihwasser
 1005	Bronzekatze
 1100	Bronzekatze
 1001	Sporttagkatze
@@ -388,6 +389,7 @@
 10246	Kleiner Beinmuskelkater
 10247	Kleine Löwenkatze
 10248	Kleine Flugkatze
+15249	Extraleben-Katze
 15258	Allmächtiger Zeus
 15259	Allmächtiger Anubis
 15260	Allmächtige Aphrodite
@@ -506,6 +508,9 @@
 15657	Haniwa-Katze
 15659	Kurierkatze
 15660	Katzan
+15664	Gasmaskenkatze
+15665	Chirurgen-Katze
+15666	Exorzistenkatze
 30000	Angriff + D: Rot
 30001	Angriff + C: Rot
 30002	Angriff + B: Rot

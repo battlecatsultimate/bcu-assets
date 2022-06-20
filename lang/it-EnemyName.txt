@@ -608,3 +608,6 @@
 607	J.J. Jackoniglio
 608	Mini Cane
 609	Pesce luna Golem
+610	IL FOLIVORO
+611	Anatravvelenatrice
+612	Cane haniwa

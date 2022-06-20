@@ -246,7 +246,7 @@
 245	<br><br>
 246	<br><br>
 247	<br><br>
-248	<br><br>
+248	La forme ultime a une meilleure<br>défense, et gagne Impact spirituel !<br>
 249	<br><br>
 250	<br><br>
 251	<br><br>
@@ -658,3 +658,9 @@
 657	<br><br>
 658	La forme ultime révèle son aspect final<br>et gagne Fléau des Béhémoths !<br>
 659	La forme ultime révèle son aspect final<br>et gagne Fléau des Béhémoths !<br>
+660	<br><br>
+661	<br><br>
+662	<br><br>
+663	La forme ultime révèle son aspect final<br>et gagne Fléau des Béhémoths !<br>
+664	La forme ultime révèle son aspect final<br>et gagne Fléau des Béhémoths !<br>
+665	La forme ultime révèle son aspect final<br>et gagne Fléau des Béhémoths !<br>

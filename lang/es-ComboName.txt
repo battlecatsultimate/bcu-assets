@@ -211,3 +211,4 @@
 94	Sacrificio
 335	Guerreros justicieros
 95	Viaje al infierno
+146	A pedradas

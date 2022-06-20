@@ -246,7 +246,7 @@
 245	<br><br>
 246	<br><br>
 247	<br><br>
-248	<br><br>
+248	True Form evolution gains increased<br>defense, plus gains Soulstrike!<br>
 249	<br><br>
 250	<br><br>
 251	<br><br>
@@ -658,3 +658,9 @@
 657	<br><br>
 658	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 659	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+660	<br><br>
+661	<br><br>
+662	<br><br>
+663	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+664	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+665	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>

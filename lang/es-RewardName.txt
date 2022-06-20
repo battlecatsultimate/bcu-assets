@@ -127,6 +127,7 @@
 169	Piedra de mastodonte azul
 170	Piedra de mastodonte verde
 171	Piedra de mastodonte amarilla
+172	Agua bendita
 1005	Gato de Bronce
 1100	Gato de Bronce
 1001	Gato Deportista
@@ -388,6 +389,7 @@
 10246	Minigato Piernacas
 10247	Minigatoleón
 10248	Minigato Volador
+15249	Gato Vida Extra
 15258	Zeus Todopoderoso
 15259	Anubis Todopoderoso
 15260	Afrodita Todopoderosa
@@ -505,6 +507,9 @@
 15657	Gato Haniwa
 15659	Gato Mensajero
 15660	Gatarzán
+15664	Gato con Máscara de Gas
+15665	Gato Cirujano
+15666	Gato Exorcista
 30000	Aumento de ataque D: Rojos
 30001	Aumento de ataque C: Rojos
 30002	Aumento de ataque B: Rojos

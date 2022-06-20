@@ -1361,6 +1361,29 @@
 001-306-000	Specchietto per allodole (Letale)
 001-307		Il re e l'angelo
 001-307-000	Gran premio N-1 (Letale)
+001-308		02: ??? 13
+001-308-000	Luna di miele sul lago nebbioso
+001-308-001	La benedizione dei corvi
+001-308-002	Casolare fatiscente
+001-308-003	Braci morenti
+001-308-004	Sani e salvi a casa
+001-309		03: Villaggio ululante
+001-309-000	Luna di miele al villaggio perduto
+001-309-001	Senza ricezione
+001-309-002	Ritratto post-mortem
+001-309-003	Tatami scricchiolante
+001-309-004	Ricreazione con gli spiriti
+001-309-005	Bambola sbiadita
+001-309-006	Vita, morte e nascondino
+001-309-007	Sale in bocca
+001-309-008	Il pozzo della salamoia
+001-309-009	Regali per la casa
+001-312		Sofferenze nella foresta
+001-312-000	Il Behemoth più forte
+001-313		Stranezze nel deserto
+001-313-000	Anatra velenosa
+001-314		Pericoli nel vulcano
+001-314-000	Due grandi ombre
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2736,6 +2759,8 @@
 004-054-000	Nessun piano A (Letale)
 004-055		Folle Moneko
 004-055-000	sulla LUNA
+004-056		02: ??? 13
+004-056-000	La chiesa in un manto di foschia
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -3229,6 +3254,13 @@
 013-043-003	Cucciolo intriso di lacrime
 013-043-004	Scontro di ninja
 013-043-005	Blues del mare antico
+013-044		Villaggio Acchiappagatti
+013-044-000	Accademia della casa a fossa
+013-044-001	Previsioni del raccolto locale
+013-044-002	Cibo per l’anima in argilla
+013-044-003	Area fumatori per capi
+013-044-004	Riposo e sacrificio
+013-044-005	Via dal villaggio
 
 014			Drink Stages
 014-000		Giallo rigoglioso
@@ -4099,6 +4131,55 @@
 024-051-007	Ancora Liv. 18
 024-051-008	Ancora Liv. 19
 024-051-009	Ancora Liv. MAX
+024-052		01: La cappella fantasma
+024-052-000	Perseguitati dallo sposo
+024-052-001	Il prete che morde
+024-052-002	Assistente trasparente
+024-052-003	Un discorso soffocato
+024-052-004	Coro maledetto
+024-052-005	Zombi vegano
+024-052-006	Organo automatico
+024-052-007	Scambio regali con poltergeist
+024-052-008	Acqua santa dal rubinetto
+024-052-009	Eterno riposo tra amici
+024-053		Sfida Livelli duello
+024-053-000	Duello sulla prateria (Avanguardia)
+024-053-001	Duello sulla prateria (Élite)
+024-053-002	Duello sulla prateria (Comandante)
+024-053-003	Duello al tramonto (Avanguardia)
+024-053-004	Duello al tramonto (Élite)
+024-053-005	Duello al tramonto (Comandante)
+024-053-006	Duello sotto le stelle (Avanguardia)
+024-053-007	Duello sotto le stelle (Élite)
+024-053-008	Duello sotto le stelle (Comandante)
+024-053-009	Duello sulle dune (Avanguardia)
+024-053-010	Duello sulle dune (Élite)
+024-053-011	Duello sulle dune (Comandante)
+024-053-012	Duello ai Campi di lava (Avanguardia)
+024-053-013	Duello ai Campi di lava (Élite)
+024-053-014	Duello ai Campi di lava (Comandante)
+024-053-015	Duello in fondo al mare (Avanguardia)
+024-053-016	Duello in fondo al mare (Élite)
+024-053-017	Duello in fondo al mare (Comandante)
+024-054		Sfida Tag Arena
+024-054-000	Quarti di finale novellini
+024-054-001	Semifinale novellini
+024-054-002	Finale novellini
+024-054-003	Quarti di finale principianti
+024-054-004	Semifinale principianti
+024-054-005	Finale principianti
+024-054-006	Quarti di finale adepti
+024-054-007	Semifinale adepti
+024-054-008	Finale adepti
+024-054-009	Quarti di finale pro
+024-054-010	Semifinale pro
+024-054-011	Finale pro
+024-054-012	Quarti di finale esperti
+024-054-013	Semifinale esperti
+024-054-014	Finale esperti
+024-054-015	Quarti di finale maestri
+024-054-016	Semifinale maestri
+024-054-017	Finale maestri
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -4366,16 +4447,25 @@
 031-000-001	Zona boschiva 2
 031-000-002	Zona boschiva 3
 031-000-003	Zona boschiva 4
-031-000-004	Zona boschiva 5
+031-000-004	Zona della giungla nera 5
+031-000-005	Zona della giungla nera 6
+031-000-006	Zona della giungla nera 7
+031-000-007	Zona della giungla nera 8
 031-001		Deserto Ashvini
 031-001-000	Zona calanchiva 1
 031-001-001	Zona calanchiva 2
 031-001-002	Zona calanchiva 3
 031-001-003	Zona calanchiva 4
-031-001-004	Zona calanchiva 5
+031-001-004	Zona delle sabbie ardenti 5
+031-001-005	Zona delle sabbie ardenti 6
+031-001-006	Zona delle sabbie ardenti 7
+031-001-007	Zona delle sabbie ardenti 8
 031-002		Vulcano Jinfore
 031-002-000	Zona magmatica 1
 031-002-001	Zona magmatica 2
 031-002-002	Zona magmatica 3
 031-002-003	Zona magmatica 4
-031-002-004	Zona magmatica 5
+031-002-004	Zona delle grotte laviche 5
+031-002-005	Zona delle grotte laviche 6
+031-002-006	Zona delle grotte laviche 7
+031-002-007	Zona delle grotte laviche 8

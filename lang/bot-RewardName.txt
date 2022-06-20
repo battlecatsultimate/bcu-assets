@@ -130,6 +130,7 @@
 169	Blue Behemoth Stone
 170	Green Behemoth Stone
 171	Yellow Behemoth Stone
+172	Holy Water
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -391,6 +392,7 @@
 10246	Li'l Macho Legs Cat
 10247	Li'l Lion Cat
 10248	Li'l Flying Cat
+15249	Extra-Life Cat
 15258	Almighty Zeus
 15259	Almighty Anubis
 15260	Almighty Aphrodite
@@ -509,6 +511,9 @@
 15657	Haniwa Cat
 15659	Courier Cat
 15660	Catarzan
+15664	Gas Mask Cat
+15665	Surgeon Cat
+15666	Exorcist Cat
 30000	Attack Up D: Red
 30001	Attack Up C: Red
 30002	Attack Up B: Red

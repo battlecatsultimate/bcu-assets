@@ -1365,6 +1365,29 @@
 001-306-000	Honigtopf (Tödlich)
 001-307		König & Engel
 001-307-000	N-1 Grand Prix (Tödlich)
+001-308		#02 ??? der 13.
+001-308-000	Nebelsee-Flitterwochen
+001-308-001	Segen des Krähenschwarms
+001-308-002	Verfallenes Häuschen
+001-308-003	Verglimmende Glut
+001-308-004	Alle sicher zu Hause
+001-309		#03 Maunzerdorf
+001-309-000	Flitterwochen im versteckten Dorf
+001-309-001	Kein Empfang geplant
+001-309-002	Postmortem-Porträt
+001-309-003	Knisternde Tatami
+001-309-004	Spiele mit Geistern
+001-309-005	Das Püppchen verblasst
+001-309-006	Leben, Tod, Verstecken, Suchen
+001-309-007	Münder voll Salz
+001-309-008	Der Einlegebrunnen
+001-309-009	Mit Geschenken nach Hause
+001-312		Heimsuchung im Wald
+001-312-000	Der stärkste Behemoth
+001-313		Kuriosität in der Wüste
+001-313-000	Giftige Ente
+001-314		Gefahr im Vulkan
+001-314-000	Zwei große Schatten
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2740,6 +2763,8 @@
 004-054-000	Kein Plan A (Tödlich)
 004-055		Verrückte Moneko zu
 004-055-000	auf DEM MOND
+004-056		#02 ??? der 13.
+004-056-000	In der nebelverhüllten Kirche
 
 006			Katzenkrallendojo
 006-000		Halle der Initianden
@@ -3233,6 +3258,13 @@
 013-043-003	Tränenreiches Hündchen
 013-043-004	Shinobi-Showdown
 013-043-005	Urmeer-Blues
+013-044		Katzenjägerdorf
+013-044-000	Grubenhaus-Akademie
+013-044-001	Örtliche Erntevorhersage
+013-044-002	Tontopf-Soulfood
+013-044-003	Rauchgebiet des Häuptlings
+013-044-004	Raststättenopfer
+013-044-005	Raus aus dem Dorf
 
 014			Drink Stages
 014-000		Gelbes Sprießen
@@ -4102,6 +4134,55 @@
 024-051-007	Auf ein Neues St. 18
 024-051-008	Auf ein Neues St. 19
 024-051-009	Auf ein Neues St. MAX
+024-052		#01 Die Geisterkapelle
+024-052-000	Vom Bräutigam verfolgt
+024-052-001	Der bissige Priester
+024-052-002	Transparenter Messdiener
+024-052-003	Eine übertönte Rede
+024-052-004	Verfluchter Chor
+024-052-005	Vegetarier-Zombie
+024-052-006	Selbstspielende Orgel
+024-052-007	Poltergeist-Geschenketausch
+024-052-008	Weihwasser aus dem Hahn
+024-052-009	Zur netten Ruhe gebettet
+024-053		Duell-Level-Herausforderung!
+024-053-000	Duell in der Prärie (Vorreiter)
+024-053-001	Duell in der Prärie (Elite)
+024-053-002	Duell in der Prärie (Kommandant)
+024-053-003	Duell bei Dämmerung (Vorreiter)
+024-053-004	Duell bei Dämmerung (Elite)
+024-053-005	Duell bei Dämmerung (Kommandant)
+024-053-006	Duell unter den Sternen (Vorreiter)
+024-053-007	Duell unter den Sternen (Elite)
+024-053-008	Duell unter den Sternen (Kommandant)
+024-053-009	Duell auf den Dünen (Vorreiter)
+024-053-010	Duell auf den Dünen (Elite)
+024-053-011	Duell auf den Dünen (Kommandant)
+024-053-012	Duell im Lavafeld (Vorreiter)
+024-053-013	Duell im Lavafeld (Elite)
+024-053-014	Duell im Lavafeld (Kommandant)
+024-053-015	Duell unter dem Meer (Vorreiter)
+024-053-016	Duell unter dem Meer (Elite)
+024-053-017	Duell unter dem Meer (Kommandant)
+024-054		Duoarena-Herausforderung
+024-054-000	Neuling-Viertelfinale
+024-054-001	Neuling-Halbfinale
+024-054-002	Neuling-Finale
+024-054-003	Anfänger-Viertelfinale
+024-054-004	Anfänger-Halbfinale
+024-054-005	Anfänger-Finale
+024-054-006	Lehrling-Viertelfinale
+024-054-007	Lehrling-Halbfinale
+024-054-008	Lehrling-Finale
+024-054-009	Profi-Viertelfinale
+024-054-010	Profi-Halbfinale
+024-054-011	Profi-Finale
+024-054-012	Experten-Viertelfinale
+024-054-013	Experten-Halbfinale
+024-054-014	Experten-Finale
+024-054-015	Meister-Viertelfinale
+024-054-016	Meister-Halbfinale
+024-054-017	Meister-Finale
 
 025			Enigma Stages
 025-000		Atium-Felder
@@ -4369,16 +4450,25 @@
 031-000-001	Waldgebiet 2
 031-000-002	Waldgebiet 3
 031-000-003	Waldgebiet 4
-031-000-004	Waldgebiet 5
+031-000-004	Tiefes Dschungelgebiet 5
+031-000-005	Tiefes Dschungelgebiet 6
+031-000-006	Tiefes Dschungelgebiet 7
+031-000-007	Tiefes Dschungelgebiet 8
 031-001		Ashvini-Wüste
 031-001-000	Einöde 1
 031-001-001	Einöde 2
 031-001-002	Einöde 3
 031-001-003	Einöde 4
-031-001-004	Einöde 5
+031-001-004	Brennendes Sandgebiet 5
+031-001-005	Brennendes Sandgebiet 6
+031-001-006	Brennendes Sandgebiet 7
+031-001-007	Brennendes Sandgebiet 8
 031-002		Jinfore-Vulkan
 031-002-000	Magmatunnel 1
 031-002-001	Magmatunnel 2
 031-002-002	Magmatunnel 3
 031-002-003	Magmatunnel 4
-031-002-004	Magmatunnel 5
+031-002-004	Lavahöhlengebiet 5
+031-002-005	Lavahöhlengebiet 6
+031-002-006	Lavahöhlengebiet 7
+031-002-007	Lavahöhlengebiet 8

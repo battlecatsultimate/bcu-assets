@@ -26,6 +26,7 @@
 26	Mission zum 7. Jubiläum. Schließe während dieses Events „Katzenimperium Kap. 1“ ab!
 27	Schließe alle legendären Level der Stufe 2 ab,. um diese Mission abzuschließen
 28	Schließe alle legendären Level der Stufe 3 ab,. um diese Mission abzuschließen
+29	8. Jubiläum-Mission. Schließe „Katzenimperium Kapitel 1“ im Event ab!
 8000	Schließe Katzenticket-Belohnungslevel 3 Mal ab!
 8001	Schließe XP-Belohnungslevel 5 Mal ab!
 8002	Schließe 5 Legenden-Level ab!
@@ -584,6 +585,8 @@
 9221	Complete 5 Gamatoto Expeditions during
 9222	Schließe die 50. Ebene des Himmlischen Turms ab. *Belohnungen können nur einmal abgeholt werden
 9223	Upgrade Heavenly Jack to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
+9224	Schließe beliebige Level von „8 Jahre Spaß!“ ab!
+9225	Erreiche 8888 Punkte in „8 sind nicht genug“. Dieses Ranglistenlevel gibt es im Katzenkrallendojo!
 9226	Upgrade Ranma Cat (M) to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
 9227	Upgrade Panda Cat to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
 9228	Clear "The Cursed Springs" 5 times!

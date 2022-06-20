@@ -26,6 +26,7 @@
 26	7th Anniversary Mission. Clear Empire of Cats Ch. 1 during this event!
 27	Clear all Level 2 Legend Stages. to complete this mission
 28	Clear all Level 3 Legend Stages. to complete this mission
+29	8th Anniversary Mission. Clear Empire of Cats Ch. 1 during this event!
 8000	Clear Cat Ticket reward stages 3 times!
 8001	Clear XP reward stages 5 times!
 8002	Clear 5 Stories of Legend stages!
@@ -584,6 +585,8 @@
 9221	Complete 5 Gamatoto Expeditions during
 9222	Clear the Heavenly Tower's 50th floor! ※Rewards can only be received once
 9223	Upgrade Heavenly Jack to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
+9224	Clear "8 Years of Fun!" stages 8 times!
+9225	Score 8888 pts or more in "8 Ain't Enough"! Find this Ranking Stage at the Catclaw Dojo!
 9226	Upgrade Ranma Cat (M) to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
 9227	Upgrade Panda Cat to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
 9228	Clear "The Cursed Springs" 5 times!
@@ -686,3 +689,16 @@
 9350	Clear 15  Shoumetsu Toshi collab stages
 9351	Clear 30  Shoumetsu Toshi collab stages
 9352	Complete 5 Gamatoto expeditions! Send Gamatoto to any
+50	Clear 15 Behemoth Culling stages for the first time
+51	Clear 20 of Behemoth Culling stages for the first time
+9353	Earn one Ancient Egg: N201 from . the June Bride of the Devil capsules!
+9354	Clear any "#01 The Ghost Chapel"
+9355	Clear any "#01 The Ghost Chapel"
+9356	Clear any "#01 The Ghost Chapel"
+9357	Clear any "#01 The Ghost Chapel"
+9358	Clear any "#02 ??? the 13th"
+9359	Clear any "#02 ??? the 13th"
+9360	Clear the Continuation stage following
+9361	Clear any "#03 Yowling Village"
+9362	Clear any "#03 Yowling Village"
+9363	Clear any "#03 Yowling Village"
