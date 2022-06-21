@@ -26,12 +26,11 @@
 -114	White Day Gacha
 -115	June Bride Gacha	//June Bride 731
 -1000	Ultra Selection Gacha //Ultra Selection 191
--1001	Miracla Selection Gacha	//Miracle Selection 192
+-1001	Miracle Selection Gacha	//Miracle Selection 192
 -1002	Farewell Gacha	//2017 262
 -1003	New Year Gacha	//2018 263
--1007	超選抜祭	//6th anniv 357
--1008	超選抜祭	//7th anniv 460
--1009	極選抜祭	//7th anniv pt2 461
+-1007	Best of the Best Gacha	//BOTB
+-1008	Neo Best of the Best Gacha	//NBOTB
 -1010	Excellent Selection Gacha	//Excellent Selectoin 468
 -1011	Dynastyfest	//Emperor Cat 562
 -1012	Royalfest	//Empress Cat 602
@@ -541,11 +540,11 @@
 660	-6	634
 661	-6	634
 662	-6	634
-663	9th Anniversary Ultra Selection
-664	9th Anniversary Miracle Selection
-665	9th Anniversary Excellent Selection
-666	9th Anniversary BOTB
-667	9th Anniversary NBOTB
+663	-1000
+664	-1001
+665	-1010
+666	-1007
+667	-1008
 668	-108	636
 669	-105	633, 634
 670	-105	633, 634
@@ -615,3 +614,6 @@
 734	-106	660
 735	-104	660
 736	-107	660
+737	-1000
+738	-1001
+739	-1010
