@@ -274,7 +274,7 @@
 273	Cheerleader Cat	Waitress Cat	Soba Cat
 274	Tropical Kalisa	Tropical Kalisa, type X	
 275	Midsummer Rabbit	Midsummer Cat	
-276	Sunny Neneko	Seaside Neneko	
+276	Sunny Neneko	Seaside Neneko	Beachside Summer Neneko	
 277	Funghi	Funghi 'n' Cat	
 278	Tanky	Tanky 'n' Cat	
 279	White Cat	Gross White Cat	
@@ -562,9 +562,9 @@
 561	MEIKO & Cat	MEIKO & Cat CC	
 562	Luka Cat	Luka Cat CC	
 563	Squirtgun Saki	Aquabuster Saki	
-564	Summerluga	Bikinilan Pasalan	
-565	Suntan Cat	Macho Suntan Cat	
-566	Lifeguard Cats	Sweet Bro Cats	
+564	Summerluga	Bikinilan Pasalan	Fabulous Pasalan	
+565	Suntan Cat	Macho Suntan Cat	Permed Suntan Cat
+566	Lifeguard Cats	Sweet Bro Cats	Gelato Cat
 567			
 568	Idi:N	Idi:N2	
 569	Gravi	Gravolo	Gravolodon
@@ -612,7 +612,7 @@
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Princess Cat	Empress Cat	
 613	Elder Mask Doron	Cat Mask Doron	
-614	Kaguya of the Coast	The Southern Sun	
+614	Kaguya of the Coast	The Southern Sun	Summer Kaguya TF
 615	Kabuto Cat	Golden Kabuto Cat
 616	Kuwagata Cat	King Kuwagata Cat
 617	Summoner Satoru	Dark Summoner Satoru	
@@ -630,7 +630,7 @@
 629	Brainwashed Cat	Brainwashed Macho Cat
 630	Calligraphy Cat	Tea Master Cat
 631	Yamii	Yaminoir	
-632	Mighty Deth-Troy-R	Siege Walker Diabolosa	
+632	Mighty Deth-Troy-R	Siege Walker Diabolosa	Diabolosa TF
 633	Shitakiri Sparrow	Chunchun Haunters	
 634	White Knight Cyclops	Black Knight Cyclops	
 635	Million Dollar Cat	Hundred-Million Dollar Cat	
@@ -664,3 +664,11 @@
 663	Ancient Egg: N103	Black Egg: N103	Gas Mask Cat
 664	Ancient Egg: N104	Green Egg: N104	Surgeon Cat
 665	Ancient Egg: N201	Dark Egg: N201	Exorcist Cat
+666	Night Beach Lilin	Night Beach Lilin π
+667	Brainwashed Bird Cat	Brainwashed UFO Cat
+668	Tengu Cat	Greater Tengu Cat
+669	Ancient Egg: N003	Dark Egg: N003	Cactus Cat
+670	Ancient Egg: N202	Cinnabar Egg: N202	Armored Firefly Cat
+671	Ranma Saotome (Leotard)	Ranma Saotome (Cheerleader)
+672	Genma Saotome (Panda)	Genma Saotome
+673	Cheetah Cat	Cheetah Cat
