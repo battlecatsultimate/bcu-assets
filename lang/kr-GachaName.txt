@@ -25,7 +25,7 @@
 -113	발렌타인 뽑기	//Valentine Gals 567
 -114	화이트 데이 뽑기
 -115	쥰 브라이드 뽑기	//June Bride 731
--1000	울트라 셀렉션 뽑기 //Ultra Selection 191
+-1000	울트라 셀렉션 뽑기	//Ultra Selection 191
 -1001	미라클 셀렉션 뽑기	//Miracle Selection 192
 -1002	연말 뽑기	//2017 262
 -1003	신년 뽑기	//2018 263

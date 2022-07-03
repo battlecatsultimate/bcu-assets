@@ -25,7 +25,7 @@
 -113	Valentine Gacha
 -114	White Day Gacha
 -115	June Bride Gacha	//June Bride 731
--1000	Ultra Selection Gacha //Ultra Selection 191
+-1000	Ultra Selection Gacha	//Ultra Selection 191
 -1001	Miracle Selection Gacha	//Miracle Selection 192
 -1002	Farewell Gacha	//2017 262
 -1003	New Year Gacha	//2018 263
