@@ -49,10 +49,78 @@
 -2011	Hatsune Miku Collab Gacha	//Miku 563
 -2022	Ranma 1/2 Collab Gacha	//Ranma 588
 -2023	Kunio-kun Collab Gacha	//Kunio 620
-2	Item Capsules
-3	Catfruit Capsules
-4	Catamin Capsules
-5	Cats Eye Capsules
+E12	Bikkuriman Chocolate Capsules
+E13	Bikkuriman Chocolate Capsules
+E14	Summer Break Capsules
+E15	JRA Capsules
+E16	9th Anniversary Special Capsules
+E17	New Moon Capsules
+E18	Love Letter Capsules
+E19	June Bride of Devil Capsules
+E20	Summer Break Capsules
+N2	Item Capsules
+N3	Catfruit Capsules
+N4	Catamin Capsules
+N5	Cats Eye Capsules
+N6	Lucky Ticket Capsules
+N7	G Ticket Capsules
+N8	Lucky Ticket Capsules
+N9	G Ticket Capsules
+N10	Lucky Ticket Capsules
+N11	G Ticket Capsules
+N12	G Ticket Capsules
+N13	G Ticket Capsules
+N14	G Ticket Capsules
+N15	Lucky Ticket Capsules
+N16	G Ticket Capsules
+N17	Lucky Ticket Capsules
+N18	G Ticket Capsules
+N19	G Ticket Capsules
+N20	Lucky Ticket Capsules
+N21	G Ticket Capsules
+N22	Lucky Ticket Capsules
+N23	G Ticket Capsules
+N24	G Ticket Capsules
+N25	Lucky Ticket Capsules
+N26	Lucky Ticket Capsules
+N27	G Ticket Capsules
+N28	G Ticket Capsules
+N29	G Ticket Capsules
+N30	Lucky Ticket Capsules
+N31	Lucky Ticket Capsules
+N32	G Ticket Capsules
+N33	G Ticket Capsules
+N34	G Ticket Capsules
+N35	G Ticket Capsules
+N36	Lucky Ticket Capsules
+N37	G Ticket Capsules
+N38	G Ticket Capsules
+N39	Lucky Ticket Capsules
+N40	Lucky Ticket Capsules
+N41	G Ticket Capsules
+N42	G Ticket Capsules
+N43	G Ticket Capsules
+N44	G Ticket Capsules
+N45	Lucky Ticket Capsules
+N46	G Ticket Capsules
+N47	Lucky Ticket Capsules
+N48	G Ticket Capsules
+N49	Lucky Ticket Capsules
+N50	G Ticket Capsules
+N51	Lucky Ticket Capsules
+N52	G Ticket Capsules
+N53	G Ticket Capsules
+N54	Lucky Ticket Capsules
+N55	G Ticket Capsules
+N56	G Ticket Capsules
+N57	Lucky Ticket Capsules
+N58	Lucky Ticket Capsules
+N59	G Ticket Capsules
+N60	G Ticket Capsules
+N61	G Ticket Capsules
+N62	Lucky Ticket Capsules
+N63	G Ticket Capsules
+N64	Silver + Capsules
 100	The Dynamites 
 101	The Dynamites 
 102	The Dynamites 
