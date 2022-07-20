@@ -702,3 +702,12 @@
 9361	Clear any "#03 Yowling Village"
 9362	Clear any "#03 Yowling Village"
 9363	Clear any "#03 Yowling Village"
+9364	Summer Homework Part 1 ①: Study insect lifeforms.  Obtain 1 Kabuto Cat from the Event Capsules!
+9365	Summer Homework Part 1 ②: Study insect lifeforms.  Obtain 1 Kuwagata Cat from the Event Capsules!
+9366	Summer Homework Part 1 ③: Study insect lifeforms.  Obtain 1 Ancient Egg: N202 from the Event Capsules!
+9367	Summer Homework Part 1 ④: Study insect lifeforms.  Obtain 3 Kabuto Cats from the Event Capsules!
+9368	Summer Homework Part 1 ⑤: Study insect lifeforms.  Obtain 3 Kuwagata Cats from the Event Capsules!
+9369	Summer Homework Part 1 ⑥: Study insect lifeforms.  Obtain 3 Ancient Egg: N202s from the Event Capsules!
+9370	Summer Homework Part 1 ⑦: Study insect lifeforms.  Obtain 5 Kabuto Cats from the Event Capsules!
+9371	Summer Homework Part 1 ⑧: Study insect lifeforms.  Obtain 5 Kuwagata Cats from the Event Capsules!
+9372	Summer Homework Part 1 ⑨: Study insect lifeforms.  Obtain 5 Ancient Egg: N202s from the Event Capsules!

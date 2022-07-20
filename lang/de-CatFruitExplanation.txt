@@ -274,7 +274,7 @@
 273	<br><br>
 274	<br><br>
 275	<br><br>
-276	<br><br>
+276	Wahre Form erhöht<br>Angriffskraft!<br>
 277	<br><br>
 278	<br><br>
 279	<br><br>
@@ -561,10 +561,10 @@
 560	<br><br>
 561	<br><br>
 562	<br><br>
-563	<br><br>
-564	<br><br>
-565	<br><br>
-566	<br><br>
+563	Wahre Form kann nur<br>fliegende Feinde und Engel anvisieren,<br>fügt ihnen aber mehr Schaden zu!
+564	Wahre Form gewährt<br>länger andauernden Zufallsangriff!<br>
+565	Wahre Form gewährt erhöhte<br>Verteidigung und schnelleres Tempo!<br>
+566	Wahre Form gewährt Behemothtöter!<br><br>
 567	<br><br>
 568	<br><br>
 569	Wahre-Form-Entwicklung erhöht Vert.,<br>und Angriffskraft!<br>Verteidigung und die Wellenangriffsfläche!
@@ -605,14 +605,14 @@
 604	<br><br>
 605	<br><br>
 606	<br><br>
-607	Wahre-Form-Entwicklung gewährt<br>längere Reichweite für Zufallsang. und die<br>Fähigkeit „Behemothtöter“!
+607	Wahre-Form-Entwicklung gewährt<br>länger andauernden Zufallsangriff und<br>die Fähigkeit „Behemothtöter“!
 608	<br><br>
 609	<br><br>
 610	Wahre-Form-Entwicklung erhöht<br>Verteidigung, zudem immun gegen Gifte!<br>
 611	<br><br>
 612	<br><br>
 613	<br><br>
-614	<br><br>
+614	Wahre Form gewährt<br>garantierte Lähmung von Aku und Chance,<br>Schilde von Aku-Feinden zu durchdringen!
 615	<br><br>
 616	<br><br>
 617	<br><br>
@@ -630,7 +630,7 @@
 629	<br><br>
 630	<br><br>
 631	<br><br>
-632	<br><br>
+632	Wahre Form erhöht Angriff!<br>Immun gegen feindlichen Einfrieren-Effekt!<br>
 633	<br><br>
 634	<br><br>
 635	<br><br>
@@ -664,3 +664,11 @@
 663	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
 664	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
 665	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
+666	<br><br>
+667	<br><br>
+668	<br><br>
+669	Wahre Form enthüllt letzte Form!<br>Zudem Immunität gegen Zufallsangriffe!<br>
+670	Wahre Form enthüllt letzte Form!<br>Erhält zudem „Behemothtöter“!<br>
+671	<br><br>
+672	<br><br>
+673	<br><br>

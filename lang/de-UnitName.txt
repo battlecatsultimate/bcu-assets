@@ -274,7 +274,7 @@
 273	Cheerleader-Katze	Kellner-Katze	Soba-Katze
 274	Tropische Kalisa	Tropische Kalisa, Typ χ	
 275	Mittsommerhase	Mittsommerkatze	
-276	Sonnige Neneko	Strand-Neneko	
+276	Sonnige Neneko	Strand-Neneko	Frühsommer-Neneko
 277	Funghi	Funghi 'n' Cat	
 278	Tanky	Tanky 'n' Cat	
 279	White Cat	Gross White Cat	
@@ -561,10 +561,10 @@
 560	Megurine Luka	Megurine Luka CC	
 561	MEIKO & Cat	MEIKO & Cat CC	
 562	Luka Cat	Luka Cat CC	
-563	Wasserpistolen-Saki	Wasserbomben-Saki	
-564	Sommerluga	Bikinilan Pasalan	
-565	Gebräunte Katze	Gebräunte Macho-Katze	
-566	Rettungsschwimmerkatzen	Süße Brüderkatzen	
+563	Wasserpistolen-Saki	Wasserbomben-Saki	Wasserblaster-Saki
+564	Sommerluga	Bikinilan Pasalan	Grandiose Pasalan
+565	Gebräunte Katze	Gebräunte Macho-Katze	Lockige gebräunte Katze
+566	Rettungsschwimmerkatzen	Süße Brüderkatzen	Gelato-Brüderkatzen
 567	Kleines Zyklopenkatzenei	Kleine Zyklopenkatze	
 568	Idi:N	Idi:N2	
 569	Kiesi	Kiesolo	Kiesolodon
@@ -612,7 +612,7 @@
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Prinzessin Katze	Kaiserin Katze	
 613	Ältestenmaske Doron	Katzenmaske Doron	
-614	Kaguya von der Küste	Die Sonne des Südens	
+614	Kaguya von der Küste	Die Sonne des Südens	Die Sonnenglut des Südens
 615	Kabutokatze	Goldene Kabutokatze	
 616	Kuwagatakatze	Königs-Kuwagatakatze	
 617	Beschwörer Satoru	Dunkler Beschwörer Satoru	
@@ -630,7 +630,7 @@
 629	Gehirngewaschene Katze	Gehirngewaschene Macho-Katze	
 630	Kalligraphie-Katze	Teemeister-Katze	
 631	Yamii	Yaminoir	
-632	Mächtiger Zer-Nicht-R	Belagerungsläufer Diabolosa	
+632	Mächtiger Zer-Nicht-R	Belagerungsläufer Diabolosa	Auslöscher Diabolosa
 633	Shitakari-Spatz	Chunchun-Spuker	
 634	Weißer-Ritter-Zyklop	Schwarzer-Ritter-Zyklop	
 635			
@@ -664,3 +664,11 @@
 663	Uraltes Ei: N103	Schwarzes Ei: N103	Gasmaskenkatze
 664	Uraltes Ei: N104	Grünes Ei: N104	Chirurgen-Katze
 665	Uraltes Ei: N201	Dunkles Ei: N201	Exorzistenkatze
+666	Nachtstrand-Lilin	Nachtstrand-Lilin π	
+667	Gehirngewaschene Vogelkatze	Gehirngewaschenes UFO	
+668	Katzen-Tengu	Großer Yokai-Tengu	
+669	Uraltes Ei: N003	Böses Ei: N003	Katzenkaktus
+670	Uraltes Ei: N202	Zinnober-Ei: N202	Gepanzerte Glühwürmchenkatze
+671			
+672			
+673	ネコチーター	ネコチーター	

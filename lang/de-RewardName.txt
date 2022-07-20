@@ -128,6 +128,7 @@
 170	Grüner Behemoth-Stein
 171	Gelber Behemoth-Stein
 172	Weihwasser
+173	Legendennetze
 1005	Bronzekatze
 1100	Bronzekatze
 1001	Sporttagkatze
@@ -235,6 +236,7 @@
 1057	Kalligraphie-Katze
 1058	Ältestenbestie Naala
 1059	Uraltes Ei N001
+1060	Uraltes Ei: N003
 19001	Irokatze
 19002	Radierkatze
 19003	Dunkle Katze
@@ -401,6 +403,7 @@
 15272	Allmächtige Amaterasu
 15273	Allmächtiger Ganesha
 10274	Soba-Katze
+15277	Frühsommer-Neneko
 15284	Pai-Pai DX
 10285	ICE-Katze
 15287	Flugeinheit R.E.I.
@@ -498,6 +501,10 @@
 15535	Allmächtiger Hades
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
+15564	Wasserblaster-Saki
+15565	Grandiose Pasalan
+15566	Lockige gebräunte Katze
+15567	Gelato-Brüderkatzen
 15570	Kiesolodon
 15585	Weihnachts-Maeda DX
 15590	Wahre-Liebe-Neneko
@@ -505,12 +512,16 @@
 15596	Ewigblühender Lord Kamukura
 15608	Legendäre Abenteurerin Kanna
 15611	König Nekokhamen
+15615	Die Sonnenglut des Südens
+15633	Auslöscher Diabolosa
 15657	Haniwa-Katze
 15659	Kurierkatze
 15660	Katzan
 15664	Gasmaskenkatze
 15665	Chirurgen-Katze
 15666	Exorzistenkatze
+15670	Katzenkaktus
+15671	Gepanzerte Glühwürmchenkatze
 30000	Angriff + D: Rot
 30001	Angriff + C: Rot
 30002	Angriff + B: Rot

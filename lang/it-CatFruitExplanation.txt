@@ -274,7 +274,7 @@
 273	<br><br>
 274	<br><br>
 275	<br><br>
-276	<br><br>
+276	La Forma Reale ha maggiore<br>potenza d'attacco!<br>
 277	<br><br>
 278	<br><br>
 279	<br><br>
@@ -561,10 +561,10 @@
 560	<br><br>
 561	<br><br>
 562	<br><br>
-563	<br><br>
-564	<br><br>
-565	<br><br>
-566	<br><br>
+563	La Forma Reale ha come obiettivo<br>solo fluttuanti e angelici,<br>ma a loro infligge più danni!
+564	La Forma Reale ottiene<br>attacco a valanga più duraturo!<br>
+565	La Forma Reale ha maggiore<br>difesa e velocità!<br>
+566	La Forma Reale ottiene Ammazza Behemoth!<br><br>
 567	<br><br>
 568	<br><br>
 569	La Forma Reale aumenta la difesa,<br>la difesa e la potenza d'attacco!<br>maggiore e un att. ondata con area più ampia!
@@ -605,14 +605,14 @@
 604	<br><br>
 605	<br><br>
 606	<br><br>
-607	La Forma Reale ottiene<br>attacchi a valanga più distanti<br>e l'abilità Ammazza Behemoth!
+607	La Forma Reale ottiene<br>attacchi a valanga più duraturi<br>e l'abilità Ammazza Behemoth!
 608	<br><br>
 609	<br><br>
 610	La Forma Reale ottiene maggiore<br>difesa e immunità da veleno!<br>
 611	<br><br>
 612	<br><br>
 613	<br><br>
-614	<br><br>
+614	La Forma Reale ottiene<br>rallenta al 100% gli Aku e<br>può perforare scudi Aku!
 615	<br><br>
 616	<br><br>
 617	<br><br>
@@ -630,7 +630,7 @@
 629	<br><br>
 630	<br><br>
 631	<br><br>
-632	<br><br>
+632	Forma Reale ha maggiore potenza d'attacco!<br>Immune all'effetto Immobilità dei nemici!<br>
 633	<br><br>
 634	<br><br>
 635	<br><br>
@@ -664,3 +664,11 @@
 663	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 664	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 665	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+666	<br><br>
+667	<br><br>
+668	<br><br>
+669	La Forma Reale rivela la sua forma finale!<br>Ottiene immunità da attacchi a valanga!<br>
+670	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+671	<br><br>
+672	<br><br>
+673	<br><br>

@@ -212,3 +212,5 @@
 335	Krieger der Gerechtigkeit
 95	Einfach-Fahrt zur Hölle
 146	Steine in Bewegung
+96	Katzentransport
+147	Traumkiste

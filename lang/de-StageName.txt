@@ -1295,6 +1295,11 @@
 001-277-001	Archäologie für Anfänger: Methoden
 001-277-002	Archäologie für Anfänger: Ergebnisse
 001-277-003	Archäologie für Anfänger: Analyse
+001-278		Ausgrabung der Kaiserin 2
+001-278-000	Archäologie f. Fortgeschr.: Planung
+001-278-001	Archäologie f. Fortgeschr.: Methoden
+001-278-002	Archäologie f. Fortgeschr.: Ergebnisse
+001-278-003	Archäologie f. Fortgeschr.: Analyse
 001-285		Die 5 häufigsten Feinde 2021
 001-285-000	#5 Schlittern
 001-285-001	#4 Wegfegen
@@ -1388,6 +1393,14 @@
 001-313-000	Giftige Ente
 001-314		Gefahr im Vulkan
 001-314-000	Zwei große Schatten
+001-315		Käfersumo-Vorrunde
+001-315-000	Kampf: Jonokuchi
+001-316		Käfersumo-Viertelfinale
+001-316-000	Kampf: Juuryou
+001-317		Käfersumo-Halbfinale
+001-317-000	Kampf: Ozeki
+001-318		Käfersumo-Finale
+001-318-000	Kampf: Yokozuna
 
 002			Collaboration Stages
 002-003		To the Future
@@ -4443,6 +4456,27 @@
 027-009-007	Stagebuilding Witch: Cycle 8
 027-009-008	Stagebuilding Witch: Cycle 9
 027-009-009	Stagebuilding Witch: Cycle XX
+027-013		Manbosaki Strikes!
+027-013-000	Sudden Death Lv.1
+027-013-001	Sudden Death Lv.2
+027-013-002	Sudden Death Lv.3
+027-013-003	Sudden Death Lv.4
+027-013-004	Sudden Death Lv.5
+027-013-005	Sudden Death Lv.6
+027-013-006	Sudden Death Lv.7
+027-013-007	Sudden Death Lv.8
+027-013-008	Sudden Death Lv.9
+027-013-009	Sudden Death Lv.10
+027-013-010	Sudden Death Lv.11
+027-013-011	Sudden Death Lv.12
+027-013-012	Sudden Death Lv.13
+027-013-013	Sudden Death Lv.14
+027-013-014	Sudden Death Lv.15
+027-013-015	Sudden Death Lv.16
+027-013-016	Sudden Death Lv.17
+027-013-017	Sudden Death Lv.18
+027-013-018	Sudden Death Lv.19
+027-013-019	Sudden Death Lv.MAX
 
 031			Behemoth Culling Stages
 031-000		Versteckter Gapra-Wald

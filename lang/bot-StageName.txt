@@ -1308,6 +1308,11 @@
 001-277-001	Archaeology 101: Methods
 001-277-002	Archaeology 101: Results
 001-277-003	Archaeology 101: Analysis
+001-278		Empress' Excavation 2
+001-278-000	Archaeology 201: Planning
+001-278-001	Archaeology 201: Methods
+001-278-002	Archaeology 201: Results
+001-278-003	Archaeology 201: Analysis
 001-285		Top 5 Most Seen Enemies, 2021!
 001-285		Top 5 Most Seen Enemies, 2021!
 001-285-000	#5 Sliding
@@ -1427,6 +1432,14 @@
 001-313-000	Venomous Duck
 001-314		Peril in the Volcano
 001-314-000	Two Great Shadows
+001-315		Bug Sumo Preliminaries
+001-315-000	Match: Jonokuchi
+001-316		Bug Sumo Quarterfinals
+001-316-000	Match: Juuryou
+001-317		Bug Sumo Semifinals
+001-317-000	Match: Ozeki
+001-318		Bug Sumo Finals
+001-318-000	Match: Yokozuna
 
 002			Collaboration Stages
 002-003		To the Future
@@ -4533,6 +4546,27 @@
 027-009-007	Stagebuilding Witch: Cycle 8
 027-009-008	Stagebuilding Witch: Cycle 9
 027-009-009	Stagebuilding Witch: Cycle XX
+027-013		Manbosaki Strikes!
+027-013-000	Sudden Death Lv.1
+027-013-001	Sudden Death Lv.2
+027-013-002	Sudden Death Lv.3
+027-013-003	Sudden Death Lv.4
+027-013-004	Sudden Death Lv.5
+027-013-005	Sudden Death Lv.6
+027-013-006	Sudden Death Lv.7
+027-013-007	Sudden Death Lv.8
+027-013-008	Sudden Death Lv.9
+027-013-009	Sudden Death Lv.10
+027-013-010	Sudden Death Lv.11
+027-013-011	Sudden Death Lv.12
+027-013-012	Sudden Death Lv.13
+027-013-013	Sudden Death Lv.14
+027-013-014	Sudden Death Lv.15
+027-013-015	Sudden Death Lv.16
+027-013-016	Sudden Death Lv.17
+027-013-017	Sudden Death Lv.18
+027-013-018	Sudden Death Lv.19
+027-013-019	Sudden Death Lv.MAX
 
 031			Behemoth Culling Stages
 031-000		Hidden Forest of Gapra

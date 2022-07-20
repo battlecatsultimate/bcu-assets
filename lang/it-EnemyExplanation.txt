@@ -611,3 +611,4 @@
 610	Un Behemoth potente diventato demoniaco dopo aver<br>perso la propria casa. Non gli piacciono gli <br>alberi della giungla in cui si trova. Può sparare<br>aculei dalla coda che immobilizzano i movimenti.
 611	Il terzo dei tre Fratelli Uccelli. A casa nell'oscurità,<br>ha coltivato piante pericolose, o almeno così<br>dicono. Può abbattere i nemici con ripetuti<br>colpi del becco e infliggere veleno.
 612	Un cane di argilla creato per fare da guardia alle case.<br>Ha una serie di funzionalità di interferenza e disturbo<br>per impedire a chiunque di raggiungere la casa.<br>Miglior caratteristica: assomiglia al padrone.
+613	Sovrano della natura con un volto spaventoso che<br>nasconde il suo cuore gentile e il desiderio di proteggere<br>l'ambiente. Con ondate, valanghe e il suo sacro<br>pugno, sconfigge i malvagi bracconieri.

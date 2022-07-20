@@ -274,7 +274,7 @@
 273	Pom-pom Chatte	Serveuse féline	Soba féline
 274	Kalisa tropicale	Kalisa tropicale, type χ	
 275	Le Lapin blanc d'été	Le Chat noir d'été	
-276	Neneko estivale	Neneko océane	
+276	Neneko estivale	Neneko océane	Neneko début d'été
 277	Funghi	Funghi 'n' Cat	
 278	Tanky	Tanky 'n' Cat	
 279	White Cat	Gross White Cat	
@@ -561,10 +561,10 @@
 560	Megurine Luka	Megurine Luka CC	
 561	MEIKO & Cat	MEIKO & Cat CC	
 562	Luka Cat	Luka Cat CC	
-563	Pistol’eau Saki	Super pistol’eau Saki	
-564	Luga d’été	Bikinilan Pasalan	
-565	Chat bronzé	Chat bronzé macho	
-566	Chats sauveteurs	Chats frangins	
+563	Pistol’eau Saki	Super pistol’eau Saki	Méga pistol’eau Saki
+564	Luga d’été	Bikinilan Pasalan	Fabuleuse Pasalan
+565	Chat bronzé	Chat bronzé macho	Chat bronzé à la permanente
+566	Chats sauveteurs	Chats frangins	Chats frangins gelato
 567	Œuf de Chat P’tit Clops	Chat P’tit Clops	
 568	Idi:N	Idi:N2	
 569	Gravi	Gravolo	Gravolodon
@@ -612,7 +612,7 @@
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Princesse féline	Impératrice féline	
 613	Doron masque ancestral	Doron masque de Chat	
-614	Kaguya de la côte	Le Soleil méridional	
+614	Kaguya de la côte	Le Soleil méridional	L'éclat du soleil méridional
 615	Chat Kabuto	Chat Kabuto doré	
 616	Chat Kuwagata	Chat roi Kuwagata	
 617	Satoru invocateur	Satoru sombre invocateur	
@@ -630,7 +630,7 @@
 629	Chat sous contrôle	Chat macho sous contrôle	
 630	Challigraphe	Chat maître du thé	
 631	Yamii	Yaminoir	
-632	Puissant Dess-truk-teur	Diabolosa brise-siège	
+632	Puissant Dess-truk-teur	Diabolosa brise-siège	Diabolosa oblitératrice
 633	Moineau shitakiri	Chasseurs Chunchun	
 634	Cyclope chevalier blanc	Cyclope chevalier noir	
 635			
@@ -664,3 +664,11 @@
 663	Œuf ancien N103	Œuf noir N103	Chat masque à gaz
 664	Œuf ancien N104	Œuf vert N104	Chat chirurgien
 665	Œuf ancien N201	Œuf sombre N201	Chat exorciste
+666	Lilin plage nocturne	Lilin plage nocturne π	
+667	Chat oiseau sous contrôle	OVNI sous contrôle	
+668	Chat Tengu	Tengu grand yokai	
+669	Œuf ancien N003	Œuf diabolique N003	Chat cactus
+670	Œuf ancien N202	Œuf cinabre N202	Chat luciole blindé
+671			
+672			
+673	ネコチーター	ネコチーター	

@@ -212,3 +212,5 @@
 335	Guerreros justicieros
 95	Viaje al infierno
 146	A pedradas
+96	Transporte felino
+147	Caja de sueños

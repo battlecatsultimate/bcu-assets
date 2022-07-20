@@ -274,7 +274,7 @@
 273	Gata Animadora	Gata Camarera	Gata Restauradora
 274	Kalisa Tropical	Kalisa Tropical X	
 275	Conejita Veraniega	Gata Veraniega	
-276	Neneko Nadadora	Neneko Playera	
+276	Neneko Nadadora	Neneko Playera	Neneko Veraniega
 277	Funghi	Funghi 'n' Cat	
 278	Tanky	Tanky 'n' Cat	
 279	White Cat	Gross White Cat	
@@ -561,10 +561,10 @@
 560	Megurine Luka	Megurine Luka CC	
 561	MEIKO & Cat	MEIKO & Cat CC	
 562	Luka Cat	Luka Cat CC	
-563	Saki con Pistola de Agua	Saki con Bazuca de Agua	
-564	Veraniluga	Bikinilan Pasalan	
-565	Gato Bronceado	Gato Bronceado Mazado	
-566	Gatos Socorristas	Gatos Apilados	
+563	Saki con Pistola de Agua	Saki con Bazuca de Agua	Saki con Cañón de Agua
+564	Veraniluga	Bikinilan Pasalan	Fabulosa Pasalan
+565	Gato Bronceado	Gato Bronceado Mazado	Gato Bronceado con Permanente
+566	Gatos Socorristas	Gatos Apilados	Gatos Gelatos
 567	Huevo de Minigatíclope	Minigatíclope	
 568	Idi:N	Idi:N2	
 569	Petro	Petrolo	Petrolodón
@@ -612,7 +612,7 @@
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Gata Princesa	Gata Emperatriz	
 613	Máscara Doron Viejuna	Máscara Doron	
-614	Kaguya Costera	Sol Sureño	
+614	Kaguya Costera	Sol Sureño	Sol Sureño Destellante
 615	Gato Kabuto	Gato Kabuto Dorado	
 616	Gato Kuwagata	Rey Gato Kuwagata	
 617	Invocador Satoru	Invocador Satoru Oscuro	
@@ -630,7 +630,7 @@
 629	Gato Adoctrinado	Gato Mazado Adoctrinado	
 630	Gato Calígrafo	Gato Maestro del Té	
 631	Yamii	Yaminoir	
-632	Dez-Troyer-R Brutal	Diabolosa Cruzaasedios	
+632	Dez-Troyer-R Brutal	Diabolosa Cruzaasedios	Diabolosa Destructora
 633	Gorrión Cazatesoros	Cazadores Chunchun	
 634	Cíclope Caballero Blanco	Cíclope Caballero Negro	
 635			
@@ -664,3 +664,11 @@
 663	Huevo Antiguo N103	Huevo Negro N103	Gato con Máscara de Gas
 664	Huevo Antiguo N104	Huevo Verde N104	Gato Cirujano
 665	Huevo Antiguo N201	Huevo Negro N201	Gato Exorcista
+666	Lilin Playa Nocturna	Lilin Playa Nocturna π	
+667	Gato Pájaro Adoctrinado	Gatovni Adoctrinado	
+668	Gatengu	Gran Tengu Yokai	
+669	Huevo Antiguo: N003	Huevo Malvado: N003	Gactus
+670	Huevo Antiguo: N202	Huevo Bermellón: N202	Gato Luciérnaga Blindado
+671			
+672			
+673	ネコチーター	ネコチーター	

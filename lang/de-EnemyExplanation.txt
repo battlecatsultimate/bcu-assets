@@ -611,3 +611,4 @@
 610	Ein mächtiger Behemoth, der dämonisch wurde, als er sein<br>Heim verlor. Die Bäume im umgebenden Dschungel gefallen ihm <br>gar nicht. Kann Stachel aus seinem Schwanz feuern, die<br>alle Bewegung einfrieren.
 611	Der dritte der drei Vogelbrüder. Lebt in<br>Dunkelheit und hat gefährliche Pflanzen kultiviert. Das<br>munkelt man jedenfalls. Kann jeden Feind mit unablässigen<br>Schnabelstößen besiegen. Ruft Gifteffekt hervor.
 612	Ein Hund aus Ton, der Häuser bewachen soll.<br>Verfügt über Stör- und Blockadefunktionen, um niemanden in<br>die Nähe des Hauses zu lassen. Beste Eigenschaft:<br>Ähnelt seinem Besitzer.
+613	Herrscher über die Natur selbst. Sein gruseliges Gesicht<br>täuscht über sein gütiges Herz und seinen Wunsch, die Umwelt<br>zu schützen, hinweg. Setzt bösen Wilderern mit<br>Wellen, Zufallsangriffen und seinen heiligen Fäusten zu.

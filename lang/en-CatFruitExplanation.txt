@@ -274,7 +274,7 @@
 273	<br><br>
 274	<br><br>
 275	<br><br>
-276	<br><br>
+276	True Form gains improved<br>attack power!<br>
 277	<br><br>
 278	<br><br>
 279	<br><br>
@@ -561,10 +561,10 @@
 560	<br><br>
 561	<br><br>
 562	<br><br>
-563	<br><br>
-564	<br><br>
-565	<br><br>
-566	<br><br>
+563	True Form can only target<br>Floating enemies and Angels,<br>but deals more damage to them!
+564	True Form gains<br>longer-lasting Surge Attack!<br>
+565	True Form gains increased<br>defense and faster movement speed!<br>
+566	True Form gains Behemoth Slayer!<br><br>
 567	<br><br>
 568	<br><br>
 569	True Form evolution gains improved<br>Defense and Attack Power!<br>Also gains a wider Wave Attack area!
@@ -605,14 +605,14 @@
 604	<br><br>
 605	<br><br>
 606	<br><br>
-607	True Form evolution gains<br>longer range Surge and gains <br>the Behemoth Slayer ability!
+607	True Form evolution gains<br>longer-lasting Surge and gains <br>the Behemoth Slayer ability!
 608	<br><br>
 609	<br><br>
 610	True Form evolution gains increased<br>defense, plus immunity to Toxic!<br>
 611	<br><br>
 612	<br><br>
 613	<br><br>
-614	<br><br>
+614	True Form gains<br>100% chance to Slow Aku and<br>might Shield Pierce vs. Aku enemies!
 615	<br><br>
 616	<br><br>
 617	<br><br>
@@ -630,7 +630,7 @@
 629	<br><br>
 630	<br><br>
 631	<br><br>
-632	<br><br>
+632	True Form gains increased attack!<br>Also gains immunity to enemy Freeze effect!<br>
 633	<br><br>
 634	<br><br>
 635	<br><br>
@@ -664,3 +664,11 @@
 663	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 664	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 665	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+666	<br><br>
+667	<br><br>
+668	<br><br>
+669	True Form evolution reveals its final form!<br>Also gains immunity to Surge Attacks!<br>
+670	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+671	<br><br>
+672	<br><br>
+673	<br><br>

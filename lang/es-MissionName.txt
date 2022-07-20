@@ -697,3 +697,12 @@
 9361	Supera cualquier fase de #03 Aldea de Alaridos 3 veces:
 9362	Supera cualquier fase de #03 Aldea de Alaridos 5 veces:
 9363	Supera cualquier fase de #03 Aldea de Alaridos 10 veces:
+9364	Deberes de Verano (Parte 1) ①: Estudia los insectos. ¡Consigue 1 Gato Kabuto en el evento!
+9365	Deberes de Verano (Parte 1) ②: Estudia los insectos. ¡Consigue 1 Gato Kuwagata en el evento!
+9366	Deberes de Verano (Parte 1) ③: Estudia los insectos. ¡Consigue 1 Huevo Antiguo: N202 en el evento!
+9367	Deberes de Verano (Parte 1) ④: Estudia los insectos. ¡Consigue 3 Gatos Kabuto en el evento!
+9368	Deberes de Verano (Parte 1) ⑤: Estudia los insectos. ¡Consigue 3 Gatos Kuwagata en el evento!
+9369	Deberes de Verano (Parte 1) ⑥: Estudia los insectos. ¡Consigue 3 Huevos Antiguos: N202 en el evento!
+9370	Deberes de Verano (Parte 1) ⑦: Estudia los insectos. ¡Consigue 5 Gatos Kabuto en el evento!
+9371	Deberes de Verano (Parte 1) ⑧: Estudia los insectos. ¡Consigue 5 Gatos Kuwagata en el evento!
+9372	Deberes de Verano (Parte 1) ⑨: Estudia los insectos. ¡Consigue 5 Huevos Antiguos: N202 en el evento!

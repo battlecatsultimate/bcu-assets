@@ -128,6 +128,7 @@
 170	Pierre Béhémoth verte
 171	Pierre Béhémoth jaune
 172	Eau bénite
+173	Filets légendaires
 1005	Chat en bronze
 1100	Chat en bronze
 1001	Chat Jour des sports
@@ -235,6 +236,7 @@
 1057	Challigraphe
 1058	Bête ancestrale Naala
 1059	Œuf ancien N001
+1060	Œuf ancien N003
 19001	Chat punk
 19002	Chat gomme
 19003	Chat de l’ombre
@@ -401,6 +403,7 @@
 15272	Amaterasu Toute-puissante
 15273	Ganesh Tout-puissant
 10274	Soba féline
+15277	Neneko début d'été
 15284	Pai-Pai DX
 10285	Chat TGV
 15287	Unité volante R.E.I.
@@ -498,6 +501,10 @@
 15535	Hadès Tout-puissant
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
+15564	Méga pistol’eau Saki
+15565	Fabuleuse Pasalan
+15566	Chat bronzé à la permanente
+15567	Chats frangins gelato
 15570	Gravolodon
 15585	Maeda Noël de luxe
 15590	Neneko grand amour
@@ -505,12 +512,16 @@
 15596	Mr Kamukura fleur éternelle
 15608	Kanna le mythe vivant
 15611	Roi Nekokhamen
+15615	L'éclat du soleil méridional
+15633	Diabolosa oblitératrice
 15657	Chat haniwa
 15659	Chat coursier
 15660	Charzan
 15664	Chat masque à gaz
 15665	Chat chirurgien
 15666	Chat exorciste
+15670	Chat cactus
+15671	Chat luciole blindé
 30000	Attaque aug. D: Rouge
 30001	Attaque aug. C: Rouge
 30002	Attaque aug. B: Rouge

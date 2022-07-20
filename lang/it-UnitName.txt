@@ -274,7 +274,7 @@
 273	Ragatta pon pon	Gattameriera	Gatta soba
 274	Kalisa Tropicale	Kalisa Tropicale X	
 275	Coniglietta Estiva	Gatta Estiva	
-276	Neneko al sole	Neneko Marina	
+276	Neneko al sole	Neneko Marina	Neneko di inizio estate
 277	Funghi	Funghi 'n' Cat	
 278	Tanky	Tanky 'n' Cat	
 279	White Cat	Gross White Cat	
@@ -561,10 +561,10 @@
 560	Megurine Luka	Megurine Luka CC	
 561	MEIKO & Cat	MEIKO & Cat CC	
 562	Luka Cat	Luka Cat CC	
-563	Saki pistolera ad acqua	Saki spara-acqua	
-564	Estateluga	Bikinilan Pasalan	
-565	Gatto abbronzato	Gatto abbronzato macho	
-566	Gatti bagnini	Gatti dolci fratelli	
+563	Saki pistolera ad acqua	Saki spara-acqua	Saki acqua blaster
+564	Estateluga	Bikinilan Pasalan	Pasalan Favolosa
+565	Gatto abbronzato	Gatto abbronzato macho	Gatto abbronzato con la permanente
+566	Gatti bagnini	Gatti dolci fratelli	Gatti fratelli gelati
 567	Uovo di Mini Gattlope	Mini Gattlope	
 568	Idi:N	Idi:N2	
 569	Gravi	Gravolo	Gravolodon
@@ -612,7 +612,7 @@
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Principessa Gatta	Imperatrice Gatta	
 613	Doron in maschera stagionato	Doron in maschera da Gatto	
-614	Kaguya costiera	Il Sole del sud	
+614	Kaguya costiera	Il Sole del sud	Il Bagliore del sud
 615	Gatto Kabuto	Gatto Kabuto oro	
 616	Gatto Kuwagata	Gatto Re Kuwagata	
 617	Satoru invocatore	Satoru invocatore oscuro	
@@ -630,7 +630,7 @@
 629	Gatto plagiato	Gatto macho plagiato	
 630	Gatto calligrafo	Gatto maestro del tè	
 631	Yamii	Yaminoir	
-632	Deth-Troy-R possente	Mech da assedio Diabolosa	
+632	Deth-Troy-R possente	Mech da assedio Diabolosa	Diabolosa obliterante
 633	Passero Shitakiri	Acchiappafantasmi	
 634	Cavaliere bianco ciclope	Cavaliere nero ciclope	
 635			
@@ -664,3 +664,11 @@
 663	Uovo antico N103	Uovo nero N103	Gatto maschera antigas
 664	Uovo antico N104	Uovo verde N104	Gatto chirurgo
 665	Uovo antico N201	Uovo oscuro N201	Gattorcista
+666	Lilin spiaggia notturna	Lillin spiaggia notturna π	
+667	Gatto uccello plagiato	UFO plagiato	
+668	Gatto Tengu	Gran Yokai Tengu	
+669	Uovo antico N003	Uovo malvagio N003	Gatto cactus
+670	Uovo antico N202	Uovo vermiglione N202	Gatto lucciola corazzato
+671			
+672			
+673	ネコチーター	ネコチーター	

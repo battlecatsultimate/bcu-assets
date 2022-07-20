@@ -131,6 +131,7 @@
 170	Green Behemoth Stone
 171	Yellow Behemoth Stone
 172	Holy Water
+173	Legend Net
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -238,6 +239,7 @@
 1057	Calligraphy Cat
 1058	Elder Beast Naala
 1059	Ancient Egg N001
+1060	Ancient Egg: N003
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -404,6 +406,7 @@
 15272	Almighty Amaterasu
 15273	Almighty Ganesha
 10274	Soba Cat
+15277	Early Summer Neneko
 15284	Pai-Pai DX
 10285	Bullet Train Cat
 15287	Flight Unit R.E.I.
@@ -501,6 +504,10 @@
 15535	Almighty Hades
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
+15564	Aquablaster Saki
+15565	Fabulous Pasalan
+15566	Permed Suntan Cat
+15567	Gelato Bro Cats
 15570	Gravolodon
 15585	Maeda Christmas DX
 15590	True Love Neneko
@@ -508,12 +515,16 @@
 15596	Everbloom Lord Kamukura
 15608	Fabled Adventure Girl Kanna
 15611	King Nekokhamen
+15615	The Southern Sunflare
+15633	Obliterator Diabolosa
 15657	Haniwa Cat
 15659	Courier Cat
 15660	Catarzan
 15664	Gas Mask Cat
 15665	Surgeon Cat
 15666	Exorcist Cat
+15670	Cat Cactus
+15671	Armored Firefly Cat
 30000	Attack Up D: Red
 30001	Attack Up C: Red
 30002	Attack Up B: Red

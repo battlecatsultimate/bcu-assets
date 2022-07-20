@@ -128,6 +128,7 @@
 170	Piedra de mastodonte verde
 171	Piedra de mastodonte amarilla
 172	Agua bendita
+173	Redes legendarias
 1005	Gato de Bronce
 1100	Gato de Bronce
 1001	Gato Deportista
@@ -235,6 +236,7 @@
 1057	Gato Calígrafo
 1058	Bestia Naala Viejuna
 1059	Huevo Antiguo N001
+1060	Huevo Antiguo: N003
 19001	Gato Crestado
 19002	Gato Borrador
 19003	Gato Oscuro
@@ -401,6 +403,7 @@
 15272	Amaterasu Todopoderosa
 15273	Ganesha Todopoderoso
 10274	Gata Restauradora
+15277	Neneko Veraniega
 15284	Pai-Pai DX
 10285	Gato Tren Bala
 15287	Unidad Voladora R. E. I.
@@ -497,6 +500,10 @@
 15535	Hades Todopoderoso
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
+15564	Saki con Cañón de Agua
+15565	Fabulosa Pasalan
+15566	Gato Bronceado con Permanente
+15567	Gatos Gelatos
 15570	Petrolodón
 15585	Maeda Navideño DX
 15590	Neneko de Amor Verdadero
@@ -504,12 +511,16 @@
 15596	Lord Kamukura Perenne
 15608	Kanna Aventurera de Fábula
 15611	Rey Nekokhamen
+15615	Sol Sureño Destellante
+15633	Diabolosa Destructora
 15657	Gato Haniwa
 15659	Gato Mensajero
 15660	Gatarzán
 15664	Gato con Máscara de Gas
 15665	Gato Cirujano
 15666	Gato Exorcista
+15670	Gactus
+15671	Gato Luciérnaga Blindado
 30000	Aumento de ataque D: Rojos
 30001	Aumento de ataque C: Rojos
 30002	Aumento de ataque B: Rojos

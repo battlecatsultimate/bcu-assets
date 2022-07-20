@@ -611,3 +611,4 @@
 610	Un mastodonte muy poderoso que se volvió<br>demoníaco después de perder su hogar. No le <br>gustan los árboles de la jungla en la que vive.<br>Puede disparar lanzas paralizantes con la cola.
 611	El tercero de los hermanos pájaros. Su hogar<br>es la oscuridad, donde cultiva peligrosas plantas,<br>o eso dicen por ahí. Puede atacar repetidamente<br>con potentes picotazos e infligir toxicidad.
 612	Un perro creado a partir de barro para proteger hogares.<br>Tiene varios mecanismos de interferencia y bloqueo<br>para que nadie se acerque a la casa.<br>Lo mejor es que se parece muchísimo a su dueño.
+613	Es el rey de la naturaleza, pero tiene un rostro aterrador<br>que contrasta con su gran corazón y su deseo de proteger<br>el medio ambiente. Provoca oleadas y réplicas y, con su puño<br>sagrado, atiza a los malvados cazadores furtivos.

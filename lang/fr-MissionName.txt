@@ -662,25 +662,25 @@
 9325	【Invasion】Termine Le roi et l'ange ! Tu dois aussi terminer le niveau spécial associé
 48	Termine 5 Abattage de Béhémoths pour la première fois
 49	Termine 10 Abattage de Béhémoths pour la première fois
-9326	Missions du Festival du cyclone. Termine le niveau Catastrophe écarlate !
-9327	Missions du Festival du cyclone. Termine le niveau Paradis des ténèbres !
-9328	Missions du Festival du cyclone. Termine le niveau Sans égal !
-9329	Missions du Festival du cyclone. Termine le niveau Douce ironie !
-9330	Missions du Festival du cyclone. Termine le niveau Colère des cieux !
-9331	Missions du Festival du cyclone. Termine le niveau Dimension désespoir !
-9332	Missions du Festival du cyclone. Termine le niveau Rouge levant !
-9333	Missions du Festival du cyclone. Termine le niveau La mort qui roule !
-9334	Missions du Festival du cyclone. Termine le niveau 2e dimension !
-9335	Missions du Festival du cyclone. Termine le niveau Ouragan Némo !
-9336	Missions du Festival du cyclone. Termine 1x Catastrophe écarlate avec 8 Chats normaux ou +
-9337	Missions du Festival du cyclone. Termine 1x Paradis des ténèbres avec 8 Chats normaux ou +
-9338	Missions du Festival du cyclone. Termine 1x Sans égal avec 8 Chats rare ou +
-9339	Missions du Festival du cyclone. Termine 1x Douce ironie avec 8 Chats rare ou +
-9340	Missions du Festival du cyclone. Termine 1x Colère des cieux avec 8 Chats rare ou +
-9341	Missions du Festival du cyclone. Termine 1x Dimension désespoir avec 8 Chats normaux ou +
-9342	Missions du Festival du cyclone. Termine 1x Rouge levant avec uniquement les 1res formes
-9343	Missions du Festival du cyclone. Termine 1x La mort qui roule avec uniq. les 1res formes
-9344	Missions du Festival du cyclone. Termine 1x 2e dimension avec uniquement les 1res formes
+9326	Missions du Festival du Cyclone. Termine le niveau Catastrophe écarlate !
+9327	Missions du Festival du Cyclone. Termine le niveau Paradis des ténèbres !
+9328	Missions du Festival du Cyclone. Termine le niveau Sans égal !
+9329	Missions du Festival du Cyclone. Termine le niveau Douce ironie !
+9330	Missions du Festival du Cyclone. Termine le niveau Colère des cieux !
+9331	Missions du Festival du Cyclone. Termine le niveau Dimension désespoir !
+9332	Missions du Festival du Cyclone. Termine le niveau Rouge levant !
+9333	Missions du Festival du Cyclone. Termine le niveau La mort qui roule !
+9334	Missions du Festival du Cyclone. Termine le niveau 2e dimension !
+9335	Missions du Festival du Cyclone. Termine le niveau Ouragan Némo !
+9336	Missions du Festival du Cyclone. Termine 1x Catastrophe écarlate avec 8 Chats normaux ou +
+9337	Missions du Festival du Cyclone. Termine 1x Paradis des ténèbres avec 8 Chats normaux ou +
+9338	Missions du Festival du Cyclone. Termine 1x Sans égal avec 8 Chats rare ou +
+9339	Missions du Festival du Cyclone. Termine 1x Douce ironie avec 8 Chats rare ou +
+9340	Missions du Festival du Cyclone. Termine 1x Colère des cieux avec 8 Chats rare ou +
+9341	Missions du Festival du Cyclone. Termine 1x Dimension désespoir avec 8 Chats normaux ou +
+9342	Missions du Festival du Cyclone. Termine 1x Rouge levant avec uniquement les 1res formes
+9343	Missions du Festival du Cyclone. Termine 1x La mort qui roule avec uniq. les 1res formes
+9344	Missions du Festival du Cyclone. Termine 1x 2e dimension avec uniquement les 1res formes
 9345	Clear 1  "Annihilated City"  stages with "Yuki Cat" in your formation
 9346	Clear 1  "Annihilated City"  stages with "Takuya & Yuki" in your formation
 9347	Clear 1  "Annihilated City"  stages with "Redhead Yuki Cat" in your formation
@@ -702,3 +702,12 @@
 9361	Termine un niveau de #03 Village miaulant
 9362	Termine un niveau de #03 Village miaulant
 9363	Termine un niveau de #03 Village miaulant
+9364	Devoirs de vacances Part. 1 ① : Étudier des insectes. Obtiens 1 Chat Kabuto auprès du Chachapsule d'événement !
+9365	Devoirs de vacances Part. 1 ② : Étudier des insectes. Obtiens 1 Chat Kuwagata auprès du Chachapsule d'événement !
+9366	Devoirs de vacances Part. 1 ③ : Étudier des insectes. Obtiens 1 Œuf ancien N202 avec Chachapsule d'événement !
+9367	Devoirs de vacances Part. 1 ④ : Étudier des insectes. Obtiens 3 Chats Kabuto auprès du Chachapsule d'événement !
+9368	Devoirs de vacances Part. 1 ⑤ : Étudier des insectes. Obtiens 3 Chats Kuwagata auprès du Chachapsule d'événement !
+9369	Devoirs de vacances Part. 1 ⑥ : Étudier des insectes. Obtiens 3 Œufs anciens N202 avec Chachapsule d'événement !
+9370	Devoirs de vacances Part. 1 ⑦ : Étudier des insectes. Obtiens 5 Chats Kabuto auprès du Chachapsule d'événement !
+9371	Devoirs de vacances Part. 1 ⑧ : Étudier des insectes. Obtiens 5 Chats Kuwagata auprès du Chachapsule d'événement !
+9372	Devoirs de vacances Part. 1 ⑨ : Étudier des insectes. Obtiens 5 Œufs anciens N202 auprès du Chachapsule d'événement !

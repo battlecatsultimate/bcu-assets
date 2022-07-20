@@ -274,7 +274,7 @@
 273	<br><br>
 274	<br><br>
 275	<br><br>
-276	<br><br>
+276	La forme ultime améliore<br>la puissance d’attaque.<br>
 277	<br><br>
 278	<br><br>
 279	<br><br>
@@ -561,10 +561,10 @@
 560	<br><br>
 561	<br><br>
 562	<br><br>
-563	<br><br>
-564	<br><br>
-565	<br><br>
-566	<br><br>
+563	La forme ultime ne peut viser<br>que les flottants et les anges<br>mais leur inflige plus de dégâts.
+564	La forme ultime gagne<br>une réplique offensive plus longue.<br>
+565	La forme ultime augmente ses<br>vitesses de défense et de déplacement.<br>
+566	La forme ultime gagne Fléau de Béhémoths !<br><br>
 567	<br><br>
 568	<br><br>
 569	La forme ultime augmente la défense,<br>la défense et la puissance d’attaque !<br>la défense et élargit la vague offensive.
@@ -605,14 +605,14 @@
 604	<br><br>
 605	<br><br>
 606	<br><br>
-607	La forme ultime gagne<br>une meilleure portée aux répliques<br>et la capacité Fléau des Béhémoths.
+607	La forme ultime gagne<br>une réplique offensive plus longue <br>et la capacité Fléau des Béhémoths.
 608	<br><br>
 609	<br><br>
 610	La forme ultime gagne une défense<br>accrue, plus l'immunité toxique !<br>
 611	<br><br>
 612	<br><br>
 613	<br><br>
-614	<br><br>
+614	La forme ultime gagne<br>100 % de chances de ralentir les Akus<br>et peut perforer les boucliers contre eux !
 615	<br><br>
 616	<br><br>
 617	<br><br>
@@ -630,7 +630,7 @@
 629	<br><br>
 630	<br><br>
 631	<br><br>
-632	<br><br>
+632	La forme ultime améliore son attaque et<br>l'immunise vs les effets d'immobilisation !<br>
 633	<br><br>
 634	<br><br>
 635	<br><br>
@@ -664,3 +664,11 @@
 663	La forme ultime révèle son aspect final<br>et gagne Fléau des Béhémoths !<br>
 664	La forme ultime révèle son aspect final<br>et gagne Fléau des Béhémoths !<br>
 665	La forme ultime révèle son aspect final<br>et gagne Fléau des Béhémoths !<br>
+666	<br><br>
+667	<br><br>
+668	<br><br>
+669	La forme ultime révèle son aspect final !<br>Et l'immunise contre répliques offensives.<br>
+670	La forme ultime révèle son aspect final !<br>Et gagne Fléau des Béhémoths !<br>
+671	<br><br>
+672	<br><br>
+673	<br><br>

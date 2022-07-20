@@ -212,3 +212,5 @@
 335	Guerriers de la justice
 95	Aller simple pour l'enfer
 146	En avant les pierres
+96	Transport de Chat
+147	Boîte de rêve

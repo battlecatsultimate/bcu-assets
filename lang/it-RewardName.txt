@@ -128,6 +128,7 @@
 170	Pietra Behemoth verde
 171	Pietra Behemoth gialla
 172	Acqua santa
+173	Reti leggendarie
 1005	Busto di Gatto
 1100	Busto di Gatto
 1001	Gatto sportivo
@@ -235,6 +236,7 @@
 1057	Gatto calligrafo
 1058	Naala bestia stagionata
 1059	Uovo antico N001
+1060	Uovo antico N003
 19001	Gatto punk
 19002	Gatto gomma
 19003	Gatto oscuro
@@ -401,6 +403,7 @@
 15272	Amaterasu Onnipotente
 15273	Ganesh Onnipotente
 10274	Gatta soba
+15277	Neneko di inizio estate
 15284	Pai-Pai DX
 10285	Gatto Shinkansen
 15287	Intercettore R.E.I.
@@ -498,6 +501,10 @@
 15535	Ade Onnipotente
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
+15564	Saki acqua blaster
+15565	Pasalan Favolosa
+15566	Gatto abbronzato con la permanente
+15567	Gatti fratelli gelati
 15570	Gravolodon
 15585	Maeda Natale DX
 15590	Neneko vero amore
@@ -505,12 +512,16 @@
 15596	Lord Kamukura sempre in fiore
 15608	Kanna avventuriera mitica
 15611	Re Nekokhamen
+15615	Il Bagliore del sud
+15633	Diabolosa obliterante
 15657	Gatto haniwa
 15659	Gatto corriere
 15660	Gattarzan
 15664	Gatto maschera antigas
 15665	Gatto chirurgo
 15666	Gattorcista
+15670	Gatto cactus
+15671	Gatto lucciola corazzato
 30000	Più attacco D: Rosso
 30001	Più attacco C: Rosso
 30002	Più attacco B: Rosso

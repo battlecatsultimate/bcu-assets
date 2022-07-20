@@ -274,7 +274,7 @@
 273	<br><br>
 274	<br><br>
 275	<br><br>
-276	<br><br>
+276	La forma final tiene más<br>poder de ataque.<br>
 277	<br><br>
 278	<br><br>
 279	<br><br>
@@ -561,10 +561,10 @@
 560	<br><br>
 561	<br><br>
 562	<br><br>
-563	<br><br>
-564	<br><br>
-565	<br><br>
-566	<br><br>
+563	La forma final solo ataca<br>a enemigos voladores y ángeles,<br>¡pero les inflige mucho daño!
+564	La forma final tiene<br>réplicas más duraderas.<br>
+565	La forma final tiene más<br>defensa y velocidad de movimiento.<br>
+566	La forma final es matamastodontes.<br><br>
 567	<br><br>
 568	<br><br>
 569	La forma final tiene más defensa,<br>defensa y poder de ataque.<br>y un área de efecto de oleada más amplia.
@@ -605,14 +605,14 @@
 604	<br><br>
 605	<br><br>
 606	<br><br>
-607	La forma final obtiene las habilidades<br>de réplica a larga distancia<br>y matamastodontes.
+607	La forma final tiene<br>réplicas más duraderas<br>y es matamastodontes.
 608	<br><br>
 609	<br><br>
 610	La forma final tiene una mayor<br>defensa y es inmune a toxicidad.<br>
 611	<br><br>
 612	<br><br>
 613	<br><br>
-614	<br><br>
+614	La forma final<br>siempre ralentiza a akus<br>y puede atravesar sus escudos.
 615	<br><br>
 616	<br><br>
 617	<br><br>
@@ -630,7 +630,7 @@
 629	<br><br>
 630	<br><br>
 631	<br><br>
-632	<br><br>
+632	La forma final tiene más ataque.<br>También es inmune a la paralización.<br>
 633	<br><br>
 634	<br><br>
 635	<br><br>
@@ -664,3 +664,11 @@
 663	La forma final revela su apariencia real<br>y es matamastodontes.<br>
 664	La forma final revela su apariencia real<br>y es matamastodontes.<br>
 665	La forma final revela su apariencia real<br>y es matamastodontes.<br>
+666	<br><br>
+667	<br><br>
+668	<br><br>
+669	La forma final revela su apariencia real<br>y se hace inmune a réplicas.<br>
+670	La forma final revela su apariencia real<br>y es matamastodontes.<br>
+671	<br><br>
+672	<br><br>
+673	<br><br>
