@@ -186,7 +186,7 @@
 185	Hearscht	Hearscht CC	Revolutionary Hearscht CC
 186	Cornelia	Cornelia CC	
 187	Juvens	Juvens CC	Holiday Juvens CC
-188	Mystica	Mystica CC	
+188	Mystica	Mystica CC	Lonely Saviour Mystica CC
 189	Alois	Alois CC	
 190	Citrouille	Citrouille CC	
 191	Titi	Titi CC	Titi Cat CC
@@ -280,7 +280,7 @@
 279	White Cat	Gross White Cat	
 280	Fortressy	Castley	
 281			
-282	Awa-Odori Cat	So-Ran Cat	
+282	Awa-Odori Cat	So-Ran Cat	Gorgeous Cat
 283	Pai-Pai	Pai-Pai Z	Pai-Pai DX
 284	Express Cat	Maglev Cat	Bullet Train Cat
 285			
@@ -381,7 +381,7 @@
 380	D'artanyan	Meow-sketeer	
 381	Farmer Cat	Harvest Cat	
 382	Glass Cat	Macho Glass Cat	Macho Crystal Cat
-383	Masked Yulala	Mystic Yulala	
+383	Masked Yulala	Mystic Yulala	God Mask Yulala
 384	Satori Hikami & Cat	Satori Hikami & Cat CC	
 385	Akio Yabe	Akio Yabe CC	Akio & Gunder CC
 386	Sairi Nijitani	Sairi Nijitani CC	
@@ -504,7 +504,7 @@
 503			
 504			
 505	Relentless Gladios	Gladios the Annihilator	God-Emperor Gladios
-506	Eyewaltz	Eyewaltz CC	
+506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC
 507	Mightycat	Supercat	
 508	Ryu Cat	Ryu Cat CC	
 509	Chun-Li Cat	Chun-Li Cat CC	
@@ -617,7 +617,7 @@
 616	Kuwagata Cat	King Kuwagata Cat
 617	Summoner Satoru	Dark Summoner Satoru	
 618	Shiro Amakusa	Wargod Amakusa	
-619	Lilin	Lilin π	
+619	Lilin	Lilin π	Great Priestess Lilin π
 620	Hevijak the Wicked	Wicked King Hevijak	
 621	Aku Researcher	Evil Aku Researcher	
 622	Jagando Jr.	Lord of Ruin Jagando Jr.	
@@ -672,3 +672,6 @@
 671	Ranma Saotome (Leotard)	Ranma Saotome (Cheerleader)
 672	Genma Saotome (Panda)	Genma Saotome
 673	Cheetah Cat	Cheetah Cat
+674	Travelling Circus Carousel	Mystery Lightshow Envanz
+675	Ancient Egg: N105	Teal Egg: N105	Smash Cat
+676	Ancient Egg: N106	Yellow Egg: N106	Mushroom Cat

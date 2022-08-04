@@ -612,3 +612,6 @@
 611	Casaurian Darkjo
 612	Haniwanwan
 613	Heavenly Raja Kong
+614	Explosive Aliant
+615	Li'l Clionel
+616	Cat Mask Yulala
