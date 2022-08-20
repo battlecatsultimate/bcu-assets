@@ -1,4 +1,4 @@
--1	다이너마이트 군다	//Dynamites
+-1	다이너마이트 군단	//Dynamites
 -2	초환수 바사라즈	//Wargods
 -3	갤럭시 걸즈	//Galaxy Gals
 -4	드래곤 엠퍼러즈	//Dragon Emperors
