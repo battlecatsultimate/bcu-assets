@@ -5,7 +5,7 @@
 -5	Ultra Souls	//Ultra Souls
 -6	Dark Heroes	//Dark Heroes
 -7	The Almighties	//Gods
--8	Iron Region	//Iron
+-8	Iron Legion	//Iron
 -9	Gals Monsters	//Gals Mons
 -10	Elemental Pixies	//Pixies
 -11	Luga Families	//Luga
