@@ -280,7 +280,7 @@
 279	White Cat	Gross White Cat	
 280	Fortressy	Castley	
 281			
-282	Chat Awa-Odori	Chat So-Ran	
+282	Chat Awa-Odori	Chat So-Ran	Chat tchatcha
 283	Pai-Pai	Pai-Pai Z	Pai-Pai DX
 284	Félin Express	Chat Maglev	Chat TGV
 285			
@@ -381,7 +381,7 @@
 380	D’Artanyan	Miaousquetaire	
 381	Chagriculteur	Chat cueilleur	
 382	Chat en verre	Chat en verre macho	Chat en cristal macho
-383	Yulala masqué	Yulala mystique	
+383	Yulala masqué	Yulala mystique	Yulala spirituel
 384	Satori Hikami & Cat	Satori Hikami & Cat CC	
 385	Akio Yabe	Akio Yabe CC	Akio & Gunder CC
 386	Sairi Nijitani	Sairi Nijitani CC	
@@ -617,7 +617,7 @@
 616	Chat Kuwagata	Chat roi Kuwagata	
 617	Satoru invocateur	Satoru sombre invocateur	
 618	Shiro Amakusa	Amakusa dieu de la guerre	
-619	Lilin	Lilin π	
+619	Lilin	Lilin π	Lilin π divine
 620	Hevijack le malfaisant	Roi Hevijack malfaisant	
 621	Chercheur d'ennemis Akus	Chercheur d'ennemis Akus démoniaque	Chercheur en Akus démoniaque
 622	Jagando Jr.	Seigneur Ruine Jagando Jr.	
@@ -669,6 +669,9 @@
 668	Chat Tengu	Tengu grand yokai	
 669	Œuf ancien N003	Œuf diabolique N003	Chat cactus
 670	Œuf ancien N202	Œuf cinabre N202	Chat luciole blindé
-671			
-672			
+671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)	
+672	Genma Saotome (Panda)	Genma Saotome	
 673	ネコチーター	ネコチーター	
+674	Puissant Charrousel	Soucoupe planante	
+675	Œuf ancien N105	Œuf bleu sarcelle N105	Chat raquette
+676	Œuf ancien N106	Œuf ambré N106	Chapignon

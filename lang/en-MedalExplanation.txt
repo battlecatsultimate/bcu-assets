@@ -100,3 +100,4 @@
 99	Clear "Horrorpotamus"
 100	Clear "Big Peng Z Strikes"
 101	Clear "Divine Archangel Strikes"
+102	Clear Floor 40 of the Infernal Tower

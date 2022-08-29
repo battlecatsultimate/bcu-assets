@@ -1402,6 +1402,10 @@
 001-317-000	Combat : Ozeki
 001-318		Finale Bug Sumoccinelle
 001-318-000	Combat : Yokozuna
+001-319		Moisson d'XP !
+001-319-000	Tentation du diablotin
+001-319-001	Tentation du démon
+001-319-002	Tentation de l'archidiable
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2922,6 +2926,16 @@
 007-006-027	28e étage
 007-006-028	29e étage
 007-006-029	30e étage
+007-006-030	31e étage
+007-006-031	32e étage
+007-006-032	33e étage
+007-006-033	34e étage
+007-006-034	35e étage
+007-006-035	36e étage
+007-006-036	37e étage
+007-006-037	38e étage
+007-006-038	39e étage
+007-006-039	40e étage
 007-007		Citadelle sans caract.
 007-007-000	1er étage
 007-007-001	2e étage
@@ -3279,6 +3293,13 @@
 013-044-003	Zone fumeur du chef
 013-044-004	Sacrifice d'aire de repos
 013-044-005	Sors de ce village
+013-045		Bazar du roi pirate
+013-045-000	Styliste Mononoke
+013-045-001	Motel Ma et Louise
+013-045-002	Café Aven-Jazz
+013-045-003	Retraite des morts-vivants
+013-045-004	Grill Titanic
+013-045-005	La gargote des mondes
 
 014			Night Stages
 014-000		Croissance jaune
@@ -4229,6 +4250,28 @@
 024-054-015	Quarts de finale Maître
 024-054-016	Demi-finales Maître
 024-054-017	Finales Maître
+024-055		Île aux trésors cachés
+024-055-000	Aube écarlate
+024-055-001	Aube joviale
+024-055-002	Aube d'ébène
+024-055-003	Aube sacrée
+024-055-004	Aube azur
+024-055-005	Aube putréfiée
+024-055-006	Aube de diamant
+024-055-007	Zénith écarlate
+024-055-008	Zénith jovial
+024-055-009	Zénith d'ébène
+024-055-010	Zénith sacré
+024-055-011	Zénith azur
+024-055-012	Zénith putréfié
+024-055-013	Zénith de diamant
+024-055-014	Refuge écarlate
+024-055-015	Refuge jovial
+024-055-016	Refuge d'ébène
+024-055-017	Refuge sacré
+024-055-018	Refuge azur
+024-055-019	Refuge putréfié
+024-055-020	Refuge de diamant
 
 025			Enigma Stages
 025-000		Champs Aitum
@@ -4521,6 +4564,9 @@
 031-000-005	Zone jungle profonde 6
 031-000-006	Zone jungle profonde 7
 031-000-007	Zone jungle profonde 8
+031-000-008	Zone jungle profonde 9
+031-000-009	Zone jungle profonde 10
+031-000-010	Zone jungle torrentielle 11
 031-001		Désert d'Ashvini
 031-001-000	Zone rocailleuse 1
 031-001-001	Zone rocailleuse 2
@@ -4530,6 +4576,9 @@
 031-001-005	Zone sable brûlant 6
 031-001-006	Zone sable brûlant 7
 031-001-007	Zone sable brûlant 8
+031-001-008	Zone sable brûlant 9
+031-001-009	Zone sable brûlant 10
+031-001-010	Zone sable torride 11
 031-002		Volcan de Jinfore
 031-002-000	Zone de tunnel de lave 1
 031-002-001	Zone de tunnel de lave 2
@@ -4539,3 +4588,6 @@
 031-002-005	Zone grottes de lave 6
 031-002-006	Zone grottes de lave 7
 031-002-007	Zone grottes de lave 8
+031-002-008	Zone grottes de lave 9
+031-002-009	Zone grottes de lave 10
+031-002-010	Zone cratère infernal 11

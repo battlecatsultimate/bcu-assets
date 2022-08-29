@@ -122,11 +122,11 @@
 161	Aku-Katzenfrucht
 164	Goldener Katzenfruchtkern
 166	Liebesbrief
-167	Lila Behemoth-Stein
-168	Roter Behemoth-Stein
-169	Blauer Behemoth-Stein
-170	Grüner Behemoth-Stein
-171	Gelber Behemoth-Stein
+167	Lila B.-Stein
+168	Roter B.-Stein
+169	Blauer B.-Stein
+170	Grüner B.-Stein
+171	Gelber B.-Stein
 172	Weihwasser
 173	Legendennetze
 1005	Bronzekatze
@@ -404,6 +404,7 @@
 15273	Allmächtiger Ganesha
 10274	Soba-Katze
 15277	Frühsommer-Neneko
+15283	Gala-Groove-Katze
 15284	Pai-Pai DX
 10285	ICE-Katze
 15287	Flugeinheit R.E.I.
@@ -452,6 +453,7 @@
 15378	Die Freiheitskatze
 10380	Curry-Katze
 10383	Macho-Kristallkatze
+10384	Spiritueller Yulala
 10386	Akio & Gunder CC
 15391	Baseball Mask α
 15392	Baseball Mask β
@@ -513,6 +515,7 @@
 15608	Legendäre Abenteurerin Kanna
 15611	König Nekokhamen
 15615	Die Sonnenglut des Südens
+15620	Himmlische Lilin π
 15633	Auslöscher Diabolosa
 15657	Haniwa-Katze
 15659	Kurierkatze
@@ -522,6 +525,8 @@
 15666	Exorzistenkatze
 15670	Katzenkaktus
 15671	Gepanzerte Glühwürmchenkatze
+15676	Racquetkatze
+15677	Pilzkatze
 30000	Angriff + D: Rot
 30001	Angriff + C: Rot
 30002	Angriff + B: Rot

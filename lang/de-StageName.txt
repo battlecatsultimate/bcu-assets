@@ -1401,6 +1401,10 @@
 001-317-000	Kampf: Ozeki
 001-318		Käfersumo-Finale
 001-318-000	Kampf: Yokozuna
+001-319		XP-Goldgrube!
+001-319-000	Versuchung des Teufelchens
+001-319-001	Versuchung des Dämonen
+001-319-002	Versuchung des Erzdämonen
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2921,6 +2925,16 @@
 007-006-027	Ebene 28
 007-006-028	Ebene 29
 007-006-029	Ebene 30
+007-006-030	Ebene 31
+007-006-031	Ebene 32
+007-006-032	Ebene 33
+007-006-033	Ebene 34
+007-006-034	Ebene 35
+007-006-035	Ebene 36
+007-006-036	Ebene 37
+007-006-037	Ebene 38
+007-006-038	Ebene 39
+007-006-039	Ebene 40
 007-007		Eigenschaftslose Zitadelle
 007-007-000	Ebene 1
 007-007-001	Ebene 2
@@ -3278,6 +3292,13 @@
 013-044-003	Rauchgebiet des Häuptlings
 013-044-004	Raststättenopfer
 013-044-005	Raus aus dem Dorf
+013-045		Basar des Piratenkönigs
+013-045-000	Stylistin Mononoke
+013-045-001	Standby-Motel
+013-045-002	Aven-Jazz-Café
+013-045-003	Urlaub der Lebenden Toten
+013-045-004	Titanisches Steakhaus
+013-045-005	Inn-dependence Day
 
 014			Drink Stages
 014-000		Gelbes Sprießen
@@ -4196,6 +4217,28 @@
 024-054-015	Meister-Viertelfinale
 024-054-016	Meister-Halbfinale
 024-054-017	Meister-Finale
+024-055		Insel des versteckten Schatzes
+024-055-000	Blutrote Dämmerung
+024-055-001	Fröhliche Dämmerung
+024-055-002	Ebenholzdämmerung
+024-055-003	Heilige Dämmerung
+024-055-004	Azurblaue Dämmerung
+024-055-005	Verrottete Dämmerung
+024-055-006	Steinharte Dämmerung
+024-055-007	Blutroter Apex
+024-055-008	Fröhlicher Apex
+024-055-009	Ebenholzapex
+024-055-010	Heiliger Apex
+024-055-011	Azurblauer Apex
+024-055-012	Verrotteter Apex
+024-055-013	Steinharter Apex
+024-055-014	Blutrote Zuflucht
+024-055-015	Fröhliche Zuflucht
+024-055-016	Ebenholzzuflucht
+024-055-017	Heilige Zuflucht
+024-055-018	Azurblaue Zuflucht
+024-055-019	Verrottete Zuflucht
+024-055-020	Steinharte Zuflucht
 
 025			Enigma Stages
 025-000		Atium-Felder
@@ -4488,6 +4531,9 @@
 031-000-005	Tiefes Dschungelgebiet 6
 031-000-006	Tiefes Dschungelgebiet 7
 031-000-007	Tiefes Dschungelgebiet 8
+031-000-008	Tiefes Dschungelgebiet 9
+031-000-009	Tiefes Dschungelgebiet 10
+031-000-010	Verregnetes Dschungelgebiet 11
 031-001		Ashvini-Wüste
 031-001-000	Einöde 1
 031-001-001	Einöde 2
@@ -4497,6 +4543,9 @@
 031-001-005	Brennendes Sandgebiet 6
 031-001-006	Brennendes Sandgebiet 7
 031-001-007	Brennendes Sandgebiet 8
+031-001-008	Brennendes Sandgebiet 9
+031-001-009	Brennendes Sandgebiet 10
+031-001-010	Sengendes Sandgebiet 11
 031-002		Jinfore-Vulkan
 031-002-000	Magmatunnel 1
 031-002-001	Magmatunnel 2
@@ -4506,3 +4555,6 @@
 031-002-005	Lavahöhlengebiet 6
 031-002-006	Lavahöhlengebiet 7
 031-002-007	Lavahöhlengebiet 8
+031-002-008	Lavahöhlengebiet 9
+031-002-009	Lavahöhlengebiet 10
+031-002-010	Höllenkratergebiet 11

@@ -122,11 +122,11 @@
 161	Fruta felina de Aku
 164	Semilla Felina Dorada
 166	Carta de amor
-167	Piedra de mastodonte morada
-168	Piedra de mastodonte roja
-169	Piedra de mastodonte azul
-170	Piedra de mastodonte verde
-171	Piedra de mastodonte amarilla
+167	Piedra M. morada
+168	Piedra M. roja
+169	Piedra M. azul
+170	Piedra M. verde
+171	Piedra M. amarilla
 172	Agua bendita
 173	Redes legendarias
 1005	Gato de Bronce
@@ -404,6 +404,7 @@
 15273	Ganesha Todopoderoso
 10274	Gata Restauradora
 15277	Neneko Veraniega
+15283	Gato bailongo precioso
 15284	Pai-Pai DX
 10285	Gato Tren Bala
 15287	Unidad Voladora R. E. I.
@@ -451,6 +452,7 @@
 15378	El Gato de la Libertad
 10380	Gato Curry
 10383	Gata de Cristal Mazada
+10384	Yulala espiritual
 10386	Akio & Gunder CC
 15391	Baseball Mask α
 15392	Baseball Mask β
@@ -512,6 +514,7 @@
 15608	Kanna Aventurera de Fábula
 15611	Rey Nekokhamen
 15615	Sol Sureño Destellante
+15620	Lilin π divina
 15633	Diabolosa Destructora
 15657	Gato Haniwa
 15659	Gato Mensajero
@@ -521,6 +524,8 @@
 15666	Gato Exorcista
 15670	Gactus
 15671	Gato Luciérnaga Blindado
+15676	Gata raqueta
+15677	Gato Hongo
 30000	Aumento de ataque D: Rojos
 30001	Aumento de ataque C: Rojos
 30002	Aumento de ataque B: Rojos

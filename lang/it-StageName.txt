@@ -1397,6 +1397,10 @@
 001-317-000	Incontro: Ozeki
 001-318		Micro-sumo: finali
 001-318-000	Incontro: Yokozuna
+001-319		Valanga di XP!
+001-319-000	Tentazione del folletto
+001-319-001	Tentazione del demone
+001-319-002	Tentazione dell'arcidiavolo
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2917,6 +2921,16 @@
 007-006-027	28° piano
 007-006-028	29° piano
 007-006-029	30° piano
+007-006-030	31° piano
+007-006-031	32° piano
+007-006-032	33° piano
+007-006-033	34° piano
+007-006-034	35° piano
+007-006-035	36° piano
+007-006-036	37° piano
+007-006-037	38° piano
+007-006-038	39° piano
+007-006-039	40° piano
 007-007		Roccaforte senza tratti
 007-007-000	1° piano
 007-007-001	2° piano
@@ -3274,6 +3288,13 @@
 013-044-003	Area fumatori per capi
 013-044-004	Riposo e sacrificio
 013-044-005	Via dal villaggio
+013-045		Bazar del re pirata
+013-045-000	Parrucchiera Mononoke
+013-045-001	Stand by Motel
+013-045-002	Aven-Jazz Bar
+013-045-003	Ritiro dei morti viventi
+013-045-004	Steakhouse Titanic
+013-045-005	Inn-Dependence Day
 
 014			Drink Stages
 014-000		Giallo rigoglioso
@@ -4193,6 +4214,28 @@
 024-054-015	Quarti di finale maestri
 024-054-016	Semifinale maestri
 024-054-017	Finale maestri
+024-055		Isola del tesoro nascosto
+024-055-000	Alba cremisi
+024-055-001	Alba gioviale
+024-055-002	Alba d'ebano
+024-055-003	Alba sacrale
+024-055-004	Alba celeste
+024-055-005	Alba marcescente
+024-055-006	Alba brillante
+024-055-007	Apice cremisi
+024-055-008	Apice gioviale
+024-055-009	Apice d'ebano
+024-055-010	Apice sacrale
+024-055-011	Apice celeste
+024-055-012	Apice marcescente
+024-055-013	Apice brillante
+024-055-014	Riparo cremisi
+024-055-015	Riparo gioviale
+024-055-016	Riparo d'ebano
+024-055-017	Riparo sacrale
+024-055-018	Riparo celeste
+024-055-019	Riparo marcescente
+024-055-020	Riparo brillante
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -4485,6 +4528,9 @@
 031-000-005	Zona della giungla nera 6
 031-000-006	Zona della giungla nera 7
 031-000-007	Zona della giungla nera 8
+031-000-008	Zona della giungla nera 9
+031-000-009	Zona della giungla nera 10
+031-000-010	Zona della giungla amazzonica 11
 031-001		Deserto Ashvini
 031-001-000	Zona calanchiva 1
 031-001-001	Zona calanchiva 2
@@ -4494,6 +4540,9 @@
 031-001-005	Zona delle sabbie ardenti 6
 031-001-006	Zona delle sabbie ardenti 7
 031-001-007	Zona delle sabbie ardenti 8
+031-001-008	Zona delle sabbie ardenti 9
+031-001-009	Zona delle sabbie ardenti 10
+031-001-010	Zona delle sabbie roventi 11
 031-002		Vulcano Jinfore
 031-002-000	Zona magmatica 1
 031-002-001	Zona magmatica 2
@@ -4503,3 +4552,6 @@
 031-002-005	Zona delle grotte laviche 6
 031-002-006	Zona delle grotte laviche 7
 031-002-007	Zona delle grotte laviche 8
+031-002-008	Zona delle grotte laviche 9
+031-002-009	Zona delle grotte laviche 10
+031-002-010	Zona del cratere infernale 11

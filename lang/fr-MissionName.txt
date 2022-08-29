@@ -711,3 +711,10 @@
 9370	Devoirs de vacances Part. 1 ⑦ : Étudier des insectes. Obtiens 5 Chats Kabuto auprès du Chachapsule d'événement !
 9371	Devoirs de vacances Part. 1 ⑧ : Étudier des insectes. Obtiens 5 Chats Kuwagata auprès du Chachapsule d'événement !
 9372	Devoirs de vacances Part. 1 ⑨ : Étudier des insectes. Obtiens 5 Œufs anciens N202 auprès du Chachapsule d'événement !
+9373	Clear 15  "Ranma 1/2" collab stages
+9374	Clear 30  "Ranma 1/2" collab stages
+9375	Clear 50  "Ranma 1/2" collab stages
+52	Termine 25 niveaux Abattage de Béhémoths pour la 1re fois.
+53	Termine 30 niveaux Abattage de Béhémoths pour la 1re fois.
+9379	Termine le 40e étage de la Tour infernale. * Récompense à récupérer une seule fois
+54	Termine Moisson d'XP ! Réussis en terminant tous les niveaux de Moisson d'XP !

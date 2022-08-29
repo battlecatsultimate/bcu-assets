@@ -587,8 +587,8 @@
 9223	Upgrade Heavenly Jack to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
 9224	Clear "8 Years of Fun!" stages 8 times!
 9225	Score 8888 pts or more in "8 Ain't Enough"! Find this Ranking Stage at the Catclaw Dojo!
-9226	Upgrade Ranma Cat (M) to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
-9227	Upgrade Panda Cat to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
+9226	Upgrade Ranma Cat (M) to Level 10! (You must evolve the Cat before the "Ranma 1/2" collab ends!)
+9227	Upgrade Panda Cat to Level 10! (You must evolve the Cat before the "Ranma 1/2" collab ends!)
 9228	Clear "The Cursed Springs" 5 times!
 9229	Clear "The Cursed Springs" 10 times!
 9230	Clear "The Cursed Springs" 20 times!
@@ -711,3 +711,10 @@
 9370	Summer Homework Part 1 ⑦: Study insect lifeforms.  Obtain 5 Kabuto Cats from the Event Capsules!
 9371	Summer Homework Part 1 ⑧: Study insect lifeforms.  Obtain 5 Kuwagata Cats from the Event Capsules!
 9372	Summer Homework Part 1 ⑨: Study insect lifeforms.  Obtain 5 Ancient Egg: N202s from the Event Capsules!
+9373	Clear 15  "Ranma 1/2" collab stages
+9374	Clear 30  "Ranma 1/2" collab stages
+9375	Clear 50  "Ranma 1/2" collab stages
+52	Clear 25 of Behemoth Culling stages for the first time
+53	Clear 30 of Behemoth Culling stages for the first time
+9379	Clear Floor 40 of the Infernal Tower. ※ Reward can only be collected once
+54	Clear "XP Bonanza!". Complete by clearing all stages in XP Bonanza!

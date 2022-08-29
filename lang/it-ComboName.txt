@@ -214,3 +214,5 @@
 146	Diventare di pietra
 96	Trasporto felino
 147	Scatola dei sogni
+336	Assalto terra-aria
+97	Composto proibito

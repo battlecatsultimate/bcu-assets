@@ -280,7 +280,7 @@
 279	White Cat	Gross White Cat	
 280	Fortressy	Castley	
 281			
-282	Gatto Awa-Odori	Gatto So-Ran	
+282	Gatto Awa-Odori	Gatto So-Ran	Splendido Gatto ballerino
 283	Pai-Pai	Pai-Pai Z	Pai-Pai DX
 284	Gatto espresso	Gatto Maglev	Gatto Shinkansen
 285			
@@ -381,7 +381,7 @@
 380	D'Artamiao	Miaoschettiere	
 381	Agricolgatto	Raccolgatto	
 382	Gatto di vetro	Macho di vetro	Macho di cristallo
-383	Maschera Yulala	Yulala mistico	
+383	Maschera Yulala	Yulala mistico	Yulala spirituale
 384	Satori Hikami & Cat	Satori Hikami & Cat CC	
 385	Akio Yabe	Akio Yabe CC	Akio & Gunder CC
 386	Sairi Nijitani	Sairi Nijitani CC	
@@ -617,7 +617,7 @@
 616	Gatto Kuwagata	Gatto Re Kuwagata	
 617	Satoru invocatore	Satoru invocatore oscuro	
 618	Shiro Amakusa	Amakusa Dio della guerra	
-619	Lilin	Lilin π	
+619	Lilin	Lilin π	Lilin π Divina
 620	Hevijak il malvagio	Re Hevijak malvagio	
 621	Ricercatore di Aku	Ricercatore di Aku malvagio	
 622	Jagando jr.	Jagando jr. Sig. della Rovina	
@@ -669,6 +669,9 @@
 668	Gatto Tengu	Gran Yokai Tengu	
 669	Uovo antico N003	Uovo malvagio N003	Gatto cactus
 670	Uovo antico N202	Uovo vermiglione N202	Gatto lucciola corazzato
-671			
-672			
+671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)	
+672	Genma Saotome (Panda)	Genma Saotome	
 673	ネコチーター	ネコチーター	
+674	Muggiostra possente	Envanz extraterrestre	
+675	Uovo antico N105	Uovo verde acqua N105	Gatta con racchetta
+676	Uovo antico N106	Uovo ambrato N106	Fungatto

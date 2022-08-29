@@ -280,7 +280,7 @@
 279	White Cat	Gross White Cat	
 280	Fortressy	Castley	
 281			
-282	Awa-Odori-Katze	So-Ran-Katze	
+282	Awa-Odori-Katze	So-Ran-Katze	Gala-Groove-Katze
 283	Pai-Pai	Pai-Pai Z	Pai-Pai DX
 284	Expresskatze	Maglev-Katze	ICE-Katze
 285			
@@ -381,7 +381,7 @@
 380	D’Artamiau	Miausketier	
 381	Bauernkatze	Erntekatze	
 382	Glaskatze	Macho-Glaskatze	Macho-Kristallkatze
-383	Maskierter Yulala	Mystischer Yulala	
+383	Maskierter Yulala	Mystischer Yulala	Spiritueller Yulala
 384	Satori Hikami & Cat	Satori Hikami & Cat CC	
 385	Akio Yabe	Akio Yabe CC	Akio & Gunder CC
 386	Sairi Nijitani	Sairi Nijitani CC	
@@ -617,7 +617,7 @@
 616	Kuwagatakatze	Königs-Kuwagatakatze	
 617	Beschwörer Satoru	Dunkler Beschwörer Satoru	
 618	Shiro Amakusa	Kriegsgott Amakusa	
-619	Lilin	Lilin π	
+619	Lilin	Lilin π	Himmlische Lilin π
 620	Hevijak der Böse	Böser König Hevijak	
 621	Aku-Forscher	Böser Aku-Forscher	
 622	Jagando Jr.	Jagando Jr., Herr d. Zerst.	
@@ -669,6 +669,9 @@
 668	Katzen-Tengu	Großer Yokai-Tengu	
 669	Uraltes Ei: N003	Böses Ei: N003	Katzenkaktus
 670	Uraltes Ei: N202	Zinnober-Ei: N202	Gepanzerte Glühwürmchenkatze
-671			
-672			
+671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)	
+672	Genma Saotome (Panda)	Genma Saotome	
 673	ネコチーター	ネコチーター	
+674	Mächtiges Karussell	Außerirdischer Envanz	
+675	Uraltes Ei: N105	Petrol-Ei: N105	Racquetkatze
+676	Uraltes Ei: N106	Bernstein-Ei: N106	Pilzkatze

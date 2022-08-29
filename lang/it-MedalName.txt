@@ -100,3 +100,4 @@
 99	★ Ippoisterismi ★
 100	★ Grande Ping nel fianco ★
 101	★ Sterminio celeste ★
+102	★ Inferno 40 ★

@@ -689,3 +689,32 @@
 9350	Clear 15  Shoumetsu Toshi collab stages
 9351	Clear 30  Shoumetsu Toshi collab stages
 9352	Complete 5 Gamatoto expeditions! Send Gamatoto to any
+50	Schließe 15 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+51	Schließe 20 aller Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+9353	Verdiene ein Uraltes Ei: N201 aus den. „Juni-Braut des Teufels“-Kapseln!
+9354	Schließe beliebige Level von „#01 Die Geisterkapelle“
+9355	Schließe beliebige Level von „#01 Die Geisterkapelle“
+9356	Schließe beliebige Level von „#01 Die Geisterkapelle“
+9357	Schließe beliebige Level von „#01 Die Geisterkapelle“
+9358	Schließe beliebige Level von „#02 ??? der 13.“
+9359	Schließe beliebige Level von „#02 ??? der 13.“
+9360	Schließe das Folgelevel nach den
+9361	Schließe beliebige Level von „#03 Maunzerdorf“
+9362	Schließe beliebige Level von „#03 Maunzerdorf“
+9363	Schließe beliebige Level von „#03 Maunzerdorf“
+9364	Sommerhausaufgaben Teil 1 ①: Erforsche Insekten. Erhalte 1 Kabutokatze aus dem Event-Gacha!
+9365	Sommerhausaufgaben Teil 1 ②: Erforsche Insekten. Erhalte 1 Kuwagatakatze aus dem Event-Gacha!
+9366	Sommerhausaufgaben Teil 1 ③: Erforsche Insekten. Erhalte 1 Uraltes Ei: N202 aus dem Event-Gacha!
+9367	Sommerhausaufgaben Teil 1 ④: Erforsche Insekten. Erhalte 3 Kabutokatzen aus dem Event-Gacha!
+9368	Sommerhausaufgaben Teil 1 ⑤: Erforsche Insekten. Erhalte 3 Kuwagatakatzen aus dem Event-Gacha!
+9369	Sommerhausaufgaben Teil 1 ⑥: Erforsche Insekten. Erhalte 3 Uralte Eier: N202 aus dem Event-Gacha!
+9370	Sommerhausaufgaben Teil 1 ⑦: Erforsche Insekten. Erhalte 5 Kabutokatzen aus dem Event-Gacha!
+9371	Sommerhausaufgaben Teil 1 ⑧: Erforsche Insekten. Erhalte 5 Kuwagatakatzen aus dem Event-Gacha!
+9372	Sommerhausaufgaben Teil 1 ⑨: Erforsche Insekten. Erhalte 5 Uralte Eier: N202 aus dem Event-Gacha!
+9373	Clear 15  "Ranma 1/2" collab stages
+9374	Clear 30  "Ranma 1/2" collab stages
+9375	Clear 50  "Ranma 1/2" collab stages
+52	Schließe 25 aller Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+53	Schließe 30 aller Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+9379	Schließe Ebene 40 des Höllischen Turms ab. * Belohnung kann nur einmal eingefordert werden
+54	Schließe „XP-Goldgrube“ ab! Meistere die Mission,. indem du alle Level in „XP-Goldgrube“ abschließt

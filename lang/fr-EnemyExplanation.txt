@@ -612,3 +612,6 @@
 611	Un des trois Frères Oiseaux. Se sent bien dans l'obscurité<br>et aime cultiver ses plantes dangereuses. Selon la rumeur,<br>en tout cas. Peut éliminer les ennemis avec ses coups<br>de bec répétés et leur infliger des dégâts toxiques.
 612	Un chien créé à partir d'argile pour garder les maisons.<br>Il dispose de fonctions d'interférence et de brouillage<br>pour empêcher quiconque d'atteindre la maison.<br>Meilleur pouvoir: ressembler à son maître.
 613	Il règne sur la nature avec un visage effrayant,<br>lequel cache son bon cœur et son désir de protéger<br>l'environnement. Il élimine les vilains braconniers avec des<br>vagues, des répliques et ses poings sacrés.
+614	Cette fourmi a trimé afin de récolter des vivres<br>pour l'hiver, et a fini par tant manger qu'elle<br>se retrouve à deux doigts de la mort.<br>Son estomac explose à la moindre contrariété.
+615	Le fils d'un entrepreneur qui s'est fait pistonner pour<br>décrocher un boulot. Il a subi des manipulations génétiques<br>pour éviter qu'on le compare à son winner de père.<br>Il compte bientôt être candidat aux élections.
+616	

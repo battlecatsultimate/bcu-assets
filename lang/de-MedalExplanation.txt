@@ -100,3 +100,4 @@
 99	Schließe „Schreckensnilpferd“ ab.
 100	Schließe „Der große Peng Z schlägt zu“ ab.
 101	Schließe „Der göttliche Erzengel schlägt zu“ ab.
+102	Schließe Ebene 40 des Höllischen Turms ab.

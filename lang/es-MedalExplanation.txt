@@ -100,3 +100,4 @@
 99	Supera Horrorpótamo.
 100	Supera Gran Ping Pong Z. Ataca.
 101	Supera Sr. Ángel Divino Ataca.
+102	Supera el piso 40 de la Torre Infernal.

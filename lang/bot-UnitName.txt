@@ -280,7 +280,7 @@
 279	White Cat	Gross White Cat	
 280	Fortressy	Castley	
 281			
-282	Awa-Odori Cat	So-Ran Cat	Gorgeous Cat
+282	Awa-Odori Cat	So-Ran Cat	Gorgeous Groovin' Cat
 283	Pai-Pai	Pai-Pai Z	Pai-Pai DX
 284	Express Cat	Maglev Cat	Bullet Train Cat
 285			
@@ -381,7 +381,7 @@
 380	D'artanyan	Meow-sketeer	
 381	Farmer Cat	Harvest Cat	
 382	Glass Cat	Macho Glass Cat	Macho Crystal Cat
-383	Masked Yulala	Mystic Yulala	God Mask Yulala
+383	Masked Yulala	Mystic Yulala	Spiritual Yulala
 384	Satori Hikami & Cat	Satori Hikami & Cat CC	
 385	Akio Yabe	Akio Yabe CC	Akio & Gunder CC
 386	Sairi Nijitani	Sairi Nijitani CC	
@@ -617,7 +617,7 @@
 616	Kuwagata Cat	King Kuwagata Cat
 617	Summoner Satoru	Dark Summoner Satoru	
 618	Shiro Amakusa	Wargod Amakusa	
-619	Lilin	Lilin π	Great Priestess Lilin π
+619	Lilin	Lilin π	Divine Lilin π
 620	Hevijak the Wicked	Wicked King Hevijak	
 621	Aku Researcher	Evil Aku Researcher	
 622	Jagando Jr.	Lord of Ruin Jagando Jr.	
@@ -672,6 +672,6 @@
 671	Ranma Saotome (Leotard)	Ranma Saotome (Cheerleader)
 672	Genma Saotome (Panda)	Genma Saotome
 673	Cheetah Cat	Cheetah Cat
-674	Travelling Circus Carousel	Mystery Lightshow Envanz
-675	Ancient Egg: N105	Teal Egg: N105	Smash Cat
-676	Ancient Egg: N106	Yellow Egg: N106	Mushroom Cat
+674	Mighty Carrowsell	Extraterrestrial Envanz	
+675	Ancient Egg: N105	Teal Egg: N105	Racquet Cat
+676	Ancient Egg: N106	Amber Egg: N106	Mushroom Cat

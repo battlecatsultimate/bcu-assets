@@ -280,7 +280,7 @@
 279	White Cat	Gross White Cat	
 280	Fortressy	Castley	
 281			
-282	Bailarina de Awa	Bailarina de Soran	
+282	Bailarina de Awa	Bailarina de Soran	Gato bailongo precioso
 283	Pai-Pai	Pai-Pai Z	Pai-Pai DX
 284	Gato Expreso	Gato Maglev	Gato Tren Bala
 285			
@@ -381,7 +381,7 @@
 380	D'Artamiau	Miausquetero	
 381	Gato Granjero	Gato Cosechador	
 382	Gato de Cristal	Gato de Cristal Mazado	Gata de Cristal Mazada
-383	Yulala Enmascarada	Yulala Mística	
+383	Yulala Enmascarada	Yulala Mística	Yulala espiritual
 384	Satori Hikami & Cat	Satori Hikami & Cat CC	
 385	Akio Yabe	Akio Yabe CC	Akio & Gunder CC
 386	Sairi Nijitani	Sairi Nijitani CC	
@@ -617,7 +617,7 @@
 616	Gato Kuwagata	Rey Gato Kuwagata	
 617	Invocador Satoru	Invocador Satoru Oscuro	
 618	Amakusa Shiro	Dios de la Guerra Amakusa	
-619	Lilin	Lilin π	
+619	Lilin	Lilin π	Lilin π divina
 620	Hevijak el Maligno	Hevijak el Rey Maligno	
 621	Investigador Aku	Investigador Aku Malvado	
 622	Majado Jr.	Señor de la Ruina Majado Jr.	
@@ -669,6 +669,9 @@
 668	Gatengu	Gran Tengu Yokai	
 669	Huevo Antiguo: N003	Huevo Malvado: N003	Gactus
 670	Huevo Antiguo: N202	Huevo Bermellón: N202	Gato Luciérnaga Blindado
-671			
-672			
+671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)	
+672	Genma Saotome (Panda)	Genma Saotome	
 673	ネコチーター	ネコチーター	
+674	Garrusel brutal	Gataque extraterrestre	
+675	Huevo antiguo N105	Huevo añil N105	Gata raqueta
+676	Huevo antiguo N106	Huevo ámbar N106	Gato Hongo

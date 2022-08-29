@@ -1405,6 +1405,10 @@
 001-317-000	Partida: Difícil
 001-318		Final de Sumo Bicho
 001-318-000	Partida: Extrema
+001-319		¡Bonanza de XP!
+001-319-000	Tentación del Impío
+001-319-001	Tentación del Demonio
+001-319-002	Tentación del Archienemigo
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2925,6 +2929,16 @@
 007-006-027	Piso 28
 007-006-028	Piso 29
 007-006-029	Piso 30
+007-006-030	Piso 31
+007-006-031	Piso 32
+007-006-032	Piso 33
+007-006-033	Piso 34
+007-006-034	Piso 35
+007-006-035	Piso 36
+007-006-036	Piso 37
+007-006-037	Piso 38
+007-006-038	Piso 39
+007-006-039	Piso 40
 007-007		Ciudadela Sin Rasgos
 007-007-000	Piso 1
 007-007-001	Piso 2
@@ -3282,6 +3296,13 @@
 013-044-003	Zona de Fumadores
 013-044-004	Sacrificio de Descansos
 013-044-005	Afueras de la Aldea
+013-045		Bazar del rey pirata
+013-045-000	Peluquería Mononoke
+013-045-001	Motel Espera
+013-045-002	Café Venga-Jazz
+013-045-003	Retiro de los Muertos Vivientes
+013-045-004	Asador Titánico
+013-045-005	Día de la Inn Dependencia
 
 014			Drink Stages
 014-000		Cultivo Amarillo
@@ -4243,6 +4264,28 @@
 024-054-015	Cuartos de Final de Maestro
 024-054-016	Semifinal de Maestro
 024-054-017	Final de Maestro
+024-055		Isla del tesoro escondido
+024-055-000	Alba Carmesí
+024-055-001	Alba Alegre
+024-055-002	Alba de Ébano
+024-055-003	Alba Sagrada
+024-055-004	Alba Celeste
+024-055-005	Alba Podrida
+024-055-006	Alba Adamantina
+024-055-007	Cumbre Carmesí
+024-055-008	Cumbre Alegre
+024-055-009	Cumbre de Ébano
+024-055-010	Cumbre Sagrada
+024-055-011	Cumbre Celeste
+024-055-012	Cumbre Podrida
+024-055-013	Cumbre Adamantina
+024-055-014	Refugio Carmesí
+024-055-015	Refugio Alegre
+024-055-016	Refugio de Ébano
+024-055-017	Refugio Sagrado
+024-055-018	Refugio Celeste
+024-055-019	Refugio Podrido
+024-055-020	Refugio Adamantino
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -4535,6 +4578,9 @@
 031-000-005	Zona de la Jungla Profunda 6
 031-000-006	Zona de la Jungla Profunda 7
 031-000-007	Zona de la Jungla Profunda 8
+031-000-008	Zona de la Jungla Profunda 9
+031-000-009	Zona de la Jungla Profunda 10
+031-000-010	Zona de la Jungla Aguacero 11
 031-001		Desierto de Ashvini
 031-001-000	Zona Baldía 1
 031-001-001	Zona Baldía 2
@@ -4544,6 +4590,9 @@
 031-001-005	Zona de la Arena Ardiente 6
 031-001-006	Zona de la Arena Ardiente 7
 031-001-007	Zona de la Arena Ardiente 8
+031-001-008	Zona de la Arena Ardiente 9
+031-001-009	Zona de la Arena Ardiente 10
+031-001-010	Zona de la Arena Abrasadora 11
 031-002		Volcán Jinfore
 031-002-000	Zona del Túnel de Magma 1
 031-002-001	Zona del Túnel de Magma 2
@@ -4553,3 +4602,6 @@
 031-002-005	Zona de las Cuevas de Lava 6
 031-002-006	Zona de las Cuevas de Lava 7
 031-002-007	Zona de las Cuevas de Lava 8
+031-002-008	Zona de las Cuevas de Lava 9
+031-002-009	Zona de las Cuevas de Lava 10
+031-002-010	Zona del Cráter Infernal 11

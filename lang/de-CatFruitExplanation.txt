@@ -280,7 +280,7 @@
 279	<br><br>
 280	<br><br>
 281	<br><br>
-282	<br><br>
+282	Wahre-Form-Entwicklung erhöht<br>Ang. und Ver.!<br>Erhält zudem „Behemothtöter“!
 283	Wahre-Form-Entwicklung erhöht<br>Angriffstempo! Erhöht zudem die<br>Verteidigung gegen rote Feinde noch mehr.
 284	<br><br>
 285	<br><br>
@@ -617,7 +617,7 @@
 616	<br><br>
 617	<br><br>
 618	<br><br>
-619	<br><br>
+619	Wahre Form erhöht Verteidigung!<br>Erhält zudem Zufallsangriff!<br>
 620	<br><br>
 621	<br><br>
 622	<br><br>
@@ -654,10 +654,10 @@
 653	<br><br>
 654	<br><br>
 655	<br><br>
-656	Wahre-Form-Entwicklung enthüllt letzte Form!<br>Erhält zudem „Behemothtöter“!<br>
+656	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
 657	<br><br>
-658	Wahre-Form-Entwicklung enthüllt letzte Form!<br>Erhält zudem „Behemothtöter“!<br>
-659	Wahre-Form-Entwicklung enthüllt letzte Form!<br>Erhält zudem „Behemothtöter“!<br>
+658	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
+659	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
 660	<br><br>
 661	<br><br>
 662	<br><br>
@@ -672,3 +672,6 @@
 671	<br><br>
 672	<br><br>
 673	<br><br>
+674	<br><br>
+675	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
+676	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!

@@ -612,3 +612,6 @@
 611	Der dritte der drei Vogelbrüder. Lebt in<br>Dunkelheit und hat gefährliche Pflanzen kultiviert. Das<br>munkelt man jedenfalls. Kann jeden Feind mit unablässigen<br>Schnabelstößen besiegen. Ruft Gifteffekt hervor.
 612	Ein Hund aus Ton, der Häuser bewachen soll.<br>Verfügt über Stör- und Blockadefunktionen, um niemanden in<br>die Nähe des Hauses zu lassen. Beste Eigenschaft:<br>Ähnelt seinem Besitzer.
 613	Herrscher über die Natur selbst. Sein gruseliges Gesicht<br>täuscht über sein gütiges Herz und seinen Wunsch, die Umwelt<br>zu schützen, hinweg. Setzt bösen Wilderern mit<br>Wellen, Zufallsangriffen und seinen heiligen Fäusten zu.
+614	Ameise, die mit aller Mühe Essen für den Winter gesammelt<br>hat, nur um sich zu überfressen und zwischen Leben und<br>Tod zu schweben.<br>Ihr Magen explodiert, wenn sie nervös wird.
+615	Sohn eines Firmenbesitzers, der über Vitamin B einen<br>Job bekommen hat. Hat seine Gene editieren lassen, um nicht<br>mit seinem berühmten Paps verglichen zu werden.<br>Hat vor, demnächst auf ein Amt zu kandidieren.
+616	

@@ -214,3 +214,5 @@
 146	Going Stones
 96	Cat Transport
 147	Dream Box
+336	Land-Air Assault
+97	Forbidden Compound

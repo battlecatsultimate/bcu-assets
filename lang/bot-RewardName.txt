@@ -125,11 +125,11 @@
 161	Aku Catfruit
 164	Gold Catfruit Seed
 166	Love Letter
-167	Purple Behemoth Stone
-168	Red Behemoth Stone
-169	Blue Behemoth Stone
-170	Green Behemoth Stone
-171	Yellow Behemoth Stone
+167	Purple B. Stone
+168	Red B. Stone
+169	Blue B. Stone
+170	Green B. Stone
+171	Yellow B. Stone
 172	Holy Water
 173	Legend Net
 1005	Bronze Cat
@@ -407,6 +407,7 @@
 15273	Almighty Ganesha
 10274	Soba Cat
 15277	Early Summer Neneko
+15283	Gorgeous Groovin' Cat
 15284	Pai-Pai DX
 10285	Bullet Train Cat
 15287	Flight Unit R.E.I.
@@ -455,6 +456,7 @@
 15378	The Kitty of Liberty
 10380	Curry Cat
 10383	Macho Crystal Cat
+10384	Spiritual Yulala
 10386	Akio & Gunder CC
 15391	Baseball Mask α
 15392	Baseball Mask β
@@ -516,6 +518,7 @@
 15608	Fabled Adventure Girl Kanna
 15611	King Nekokhamen
 15615	The Southern Sunflare
+15620	Divine Lilin π
 15633	Obliterator Diabolosa
 15657	Haniwa Cat
 15659	Courier Cat
@@ -525,6 +528,8 @@
 15666	Exorcist Cat
 15670	Cat Cactus
 15671	Armored Firefly Cat
+15676	Racquet Cat
+15677	Mushroom Cat
 30000	Attack Up D: Red
 30001	Attack Up C: Red
 30002	Attack Up B: Red

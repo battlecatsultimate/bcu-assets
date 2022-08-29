@@ -214,3 +214,5 @@
 146	En avant les pierres
 96	Transport de Chat
 147	Boîte de rêve
+336	Assaut sol-air
+97	Complexe interdit

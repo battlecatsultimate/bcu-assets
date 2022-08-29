@@ -122,11 +122,11 @@
 161	Chagrume Aku
 164	Graine de Chagrume doré
 166	Lettre d'amour
-167	Pierre Béhémoth violette
-168	Pierre Béhémoth rouge
-169	Pierre Béhémoth bleue
-170	Pierre Béhémoth verte
-171	Pierre Béhémoth jaune
+167	Pierre B. violette
+168	Pierre B. rouge
+169	Pierre B. bleue
+170	Pierre B. verte
+171	Pierre B. jaune
 172	Eau bénite
 173	Filets légendaires
 1005	Chat en bronze
@@ -404,6 +404,7 @@
 15273	Ganesh Tout-puissant
 10274	Soba féline
 15277	Neneko début d'été
+15283	Chat tchatcha
 15284	Pai-Pai DX
 10285	Chat TGV
 15287	Unité volante R.E.I.
@@ -452,6 +453,7 @@
 15378	Le chaton de la liberté
 10380	Chat curry
 10383	Chat en cristal macho
+10384	Yulala spirituel
 10386	Akio & Gunder CC
 15391	Baseball Mask α
 15392	Baseball Mask β
@@ -513,6 +515,7 @@
 15608	Kanna le mythe vivant
 15611	Roi Nekokhamen
 15615	L'éclat du soleil méridional
+15620	Lilin π divine
 15633	Diabolosa oblitératrice
 15657	Chat haniwa
 15659	Chat coursier
@@ -522,6 +525,8 @@
 15666	Chat exorciste
 15670	Chat cactus
 15671	Chat luciole blindé
+15676	Chat raquette
+15677	Chapignon
 30000	Attaque aug. D: Rouge
 30001	Attaque aug. C: Rouge
 30002	Attaque aug. B: Rouge

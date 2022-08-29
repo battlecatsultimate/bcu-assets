@@ -280,7 +280,7 @@
 279	<br><br>
 280	<br><br>
 281	<br><br>
-282	<br><br>
+282	True Form evolution increases Attack and<br>Defense! Also gains Behemoth Slayer!<br>
 283	True Form Evolution gains increased<br>attack speed. Plus, gains even tougher<br>defense against Red enemies!
 284	<br><br>
 285	<br><br>
@@ -617,7 +617,7 @@
 616	<br><br>
 617	<br><br>
 618	<br><br>
-619	<br><br>
+619	True Form evolution increases Defense!<br>Also gains Surge Attack!<br>
 620	<br><br>
 621	<br><br>
 622	<br><br>
@@ -672,3 +672,6 @@
 671	<br><br>
 672	<br><br>
 673	<br><br>
+674	<br><br>
+675	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+676	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>

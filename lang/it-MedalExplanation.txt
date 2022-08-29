@@ -100,3 +100,4 @@
 99	Supera "Orrorpotamo"
 100	Supera "Grande Ping Z colpisce"
 101	Supera "Arcangelo divino colpisce"
+102	Supera il 40° piano della Torre infernale

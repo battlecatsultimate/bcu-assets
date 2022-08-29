@@ -706,3 +706,10 @@
 9370	Deberes de Verano (Parte 1) ⑦: Estudia los insectos. ¡Consigue 5 Gatos Kabuto en el evento!
 9371	Deberes de Verano (Parte 1) ⑧: Estudia los insectos. ¡Consigue 5 Gatos Kuwagata en el evento!
 9372	Deberes de Verano (Parte 1) ⑨: Estudia los insectos. ¡Consigue 5 Huevos Antiguos: N202 en el evento!
+9373	Clear 15  "Ranma 1/2" collab stages
+9374	Clear 30  "Ranma 1/2" collab stages
+9375	Clear 50  "Ranma 1/2" collab stages
+52	Supera 25 fases de Matanza de Mastodontes por primera vez:
+53	Supera 30 fases de Matanza de Mastodontes por primera vez:
+9379	Supera el piso 40 de la Torre Infernal. (Estos premios solo se pueden recoger una vez)
+54	Supera «¡Bonanza de XP!». Completa todas las fases de ¡Bonanza de XP!

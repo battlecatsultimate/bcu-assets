@@ -280,7 +280,7 @@
 279	<br><br>
 280	<br><br>
 281	<br><br>
-282	<br><br>
+282	La Forma Reale aumenta attacco e difesa!<br>Ottiene anche Ammazza Behemoth!<br>
 283	La Forma Reale ottiene maggiore<br>potenza d'attacco. Ottiene anche<br>difesa più forte contro i nemici rossi!
 284	<br><br>
 285	<br><br>
@@ -617,7 +617,7 @@
 616	<br><br>
 617	<br><br>
 618	<br><br>
-619	<br><br>
+619	La Forma Reale aumenta la difesa!<br>Ottiene anche attacco a valanga!<br>
 620	<br><br>
 621	<br><br>
 622	<br><br>
@@ -672,3 +672,6 @@
 671	<br><br>
 672	<br><br>
 673	<br><br>
+674	<br><br>
+675	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+676	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>

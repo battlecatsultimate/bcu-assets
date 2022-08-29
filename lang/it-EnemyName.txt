@@ -612,3 +612,6 @@
 611	Anatravvelenatrice
 612	Cane haniwa
 613	Rajakong bestia angelica
+614	Formica formicida
+615	Grande Angelico Chibinel
+616	

@@ -1440,6 +1440,10 @@
 001-317-000	Match: Ozeki
 001-318		Bug Sumo Finals
 001-318-000	Match: Yokozuna
+001-319		XP Bonanza!
+001-319-000	Imp's Temptation
+001-319-001	Demon's Temptation
+001-319-002	Archfiend's Temptation
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2980,6 +2984,16 @@
 007-006-027	Floor 28
 007-006-028	Floor 29
 007-006-029	Floor 30
+007-006-030	Floor 31
+007-006-031	Floor 32
+007-006-032	Floor 33
+007-006-033	Floor 34
+007-006-034	Floor 35
+007-006-035	Floor 36
+007-006-036	Floor 37
+007-006-037	Floor 38
+007-006-038	Floor 39
+007-006-039	Floor 40
 007-007		Traitless Citadel
 007-007-000	Floor 1
 007-007-001	Floor 2
@@ -3344,6 +3358,13 @@
 013-044-003	Chiefs' Smoking Area
 013-044-004	Rest Stop Sacrifice
 013-044-005	Outta This Village
+013-045		Bazaar of the Pirate King
+013-045-000	Stylist Mononoke
+013-045-001	Stand By Motel
+013-045-002	Aven-Jazz Cafe
+013-045-003	Retreat of the Living Dead
+013-045-004	Titanic Steakhouse
+013-045-005	Inn-Dependence Day
 
 014			Drink Stages
 014-000		Growing Yellow
@@ -4286,6 +4307,47 @@
 024-053-015	Duel Under the Sea (Vanguard)
 024-053-016	Duel Under the Sea (Elite)
 024-053-017	Duel Under the Sea (Commander)
+024-054		Tag Arena Challenge
+024-054-000	Rookie Quarterfinals
+024-054-001	Rookie Semifinals
+024-054-002	Rookie Finals
+024-054-003	Beginner Quarterfinals
+024-054-004	Beginner Semifinals
+024-054-005	Beginner Finals
+024-054-006	Adept Quarterfinals
+024-054-007	Adept Semifinals
+024-054-008	Adept Finals
+024-054-009	Pro Quarterfinals
+024-054-010	Pro Semifinals
+024-054-011	Pro Finals
+024-054-012	Expert Quarterfinals
+024-054-013	Expert Semifinals
+024-054-014	Expert Finals
+024-054-015	Master Quarterfinals
+024-054-016	Master Semifinals
+024-054-017	Master Finals
+024-055		Island of Hidden Treasure
+024-055-000	Crimson Dawn
+024-055-001	Cheerful Dawn
+024-055-002	Ebony Dawn
+024-055-003	Holy Dawn
+024-055-004	Azure Dawn
+024-055-005	Rotten Dawn
+024-055-006	Adamantine Dawn
+024-055-007	Crimson Apex
+024-055-008	Cheerful Apex
+024-055-009	Ebony Apex
+024-055-010	Holy Apex
+024-055-011	Azure Apex
+024-055-012	Rotten Apex
+024-055-013	Adamantine Apex
+024-055-014	Crimson Refuge
+024-055-015	Cheerful Refuge
+024-055-016	Ebony Refuge
+024-055-017	Holy Refuge
+024-055-018	Azure Refuge
+024-055-019	Rotten Refuge
+024-055-020	Adamantine Refuge
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -4578,6 +4640,9 @@
 031-000-005	Deep Jungle Area 6
 031-000-006	Deep Jungle Area 7
 031-000-007	Deep Jungle Area 8
+031-000-008	Deep Jungle Area 9
+031-000-009	Deep Jungle Area 10
+031-000-010	Downpour Jungle Area 11
 031-001		Ashvini Desert
 031-001-000	Badlands Area 1
 031-001-001	Badlands Area 2
@@ -4587,6 +4652,9 @@
 031-001-005	Burning Sands Area 6
 031-001-006	Burning Sands Area 7
 031-001-007	Burning Sands Area 8
+031-001-008	Burning Sands Area 9
+031-001-009	Burning Sands Area 10
+031-001-010	Scorching Sands Area 11
 031-002		Jinfore Volcano
 031-002-000	Magma Tunnel Area 1
 031-002-001	Magma Tunnel Area 2
@@ -4596,3 +4664,6 @@
 031-002-005	Lava Caves Area 6
 031-002-006	Lava Caves Area 7
 031-002-007	Lava Caves Area 8
+031-002-008	Lava Caves Area 9
+031-002-009	Lava Caves Area 10
+031-002-010	Infernal Crater Area 11

@@ -214,3 +214,5 @@
 146	A pedradas
 96	Transporte felino
 147	Caja de sueños
+336	Asalto tierra-aire
+97	Recinto prohibido

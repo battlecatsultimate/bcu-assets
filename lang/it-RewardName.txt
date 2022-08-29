@@ -122,11 +122,11 @@
 161	Miagrume Aku
 164	Seme miagrume oro
 166	Lettera d'amore
-167	Pietra Behemoth viola
-168	Pietra Behemoth rossa
-169	Pietra Behemoth blu
-170	Pietra Behemoth verde
-171	Pietra Behemoth gialla
+167	Pietra B. viola
+168	Pietra B. rossa
+169	Pietra B. blu
+170	Pietra B. verde
+171	Pietra B. gialla
 172	Acqua santa
 173	Reti leggendarie
 1005	Busto di Gatto
@@ -404,6 +404,7 @@
 15273	Ganesh Onnipotente
 10274	Gatta soba
 15277	Neneko di inizio estate
+15283	Splendido Gatto ballerino
 15284	Pai-Pai DX
 10285	Gatto Shinkansen
 15287	Intercettore R.E.I.
@@ -452,6 +453,7 @@
 15378	Il Gatto della Libertà
 10380	Gatto curry
 10383	Macho di cristallo
+10384	Yulala spirituale
 10386	Akio & Gunder CC
 15391	Baseball Mask α
 15392	Baseball Mask β
@@ -513,6 +515,7 @@
 15608	Kanna avventuriera mitica
 15611	Re Nekokhamen
 15615	Il Bagliore del sud
+15620	Lilin π Divina
 15633	Diabolosa obliterante
 15657	Gatto haniwa
 15659	Gatto corriere
@@ -522,6 +525,8 @@
 15666	Gattorcista
 15670	Gatto cactus
 15671	Gatto lucciola corazzato
+15676	Gatta con racchetta
+15677	Fungatto
 30000	Più attacco D: Rosso
 30001	Più attacco C: Rosso
 30002	Più attacco B: Rosso

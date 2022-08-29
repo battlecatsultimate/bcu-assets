@@ -612,3 +612,6 @@
 611	Il terzo dei tre Fratelli Uccelli. A casa nell'oscurità,<br>ha coltivato piante pericolose, o almeno così<br>dicono. Può abbattere i nemici con ripetuti<br>colpi del becco e infliggere veleno.
 612	Un cane di argilla creato per fare da guardia alle case.<br>Ha una serie di funzionalità di interferenza e disturbo<br>per impedire a chiunque di raggiungere la casa.<br>Miglior caratteristica: assomiglia al padrone.
 613	Sovrano della natura con un volto spaventoso che<br>nasconde il suo cuore gentile e il desiderio di proteggere<br>l'ambiente. Con ondate, valanghe e il suo sacro<br>pugno, sconfigge i malvagi bracconieri.
+614	Una formica che ha lavorato duramente per raccogliere cibo<br>per l'inverno, per poi mangiare troppo e ritrovarsi<br>in bilico tra la vita e la morte.<br>Il suo stomaco esplode se si innervosisce.
+615	Figlio di un imprenditore, ha trovato lavoro grazie a delle<br>conoscenze. Si è sottoposto a un intervento al genoma<br>per non essere paragonato al proprio padre.<br>In futuro ha intenzione di candidarsi alle elezioni.
+616	
