@@ -2414,9 +2414,9 @@
 003-009-022	Greece
 003-009-023	Italy
 003-009-024	Monaco
-003-009-025	Germany
+003-009-025	Spain
 003-009-026	France
-003-009-027	Spain
+003-009-027	Germany
 003-009-028	Denmark
 003-009-029	Norway
 003-009-030	United Kingdom
