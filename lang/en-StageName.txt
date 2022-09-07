@@ -400,7 +400,7 @@
 001-005-002	Sweet XP (Hard)
 001-006		Cat Ticket Chance!
 001-006-000	Love, Metal Hippoe (Hard)
-001-007		Seige of Hippoe!
+001-007		Siege of Hippoe!
 001-007-000	Super Metal Hippoe (Expert)
 001-008		Autumn = Sports Day
 001-008-000	Athletic Meet
@@ -3389,7 +3389,7 @@
 014-004-002	Green Envy (Insane)
 014-005		Facing Danger
 014-005-000	Steel Visage (Deadly)
-014-006		Seige of Hippoe!
+014-006		Siege of Hippoe!
 014-006-000	Super Metal Hippoe (Expert)
 014-007		Cat Ticket Chance!
 014-007-000	Love, Metal Hippoe (Hard)
