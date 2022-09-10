@@ -32,7 +32,7 @@
 -1007	울트라 인기 축제	//BOTB 357
 -1008	하이퍼 인기 축제	//NBOTB 460
 -1010	엑셀런트 셀렉션 뽑기	//Excellent Selectoin 468
--1011	울트라 국왕 축제 //Emperor Cat 562
+-1011	울트라 국왕 축제	//Emperor Cat 562
 -1012	여왕 축제	//Empress Cat 602
 -1013	신년 뽑기	//New Year
 -2000	발차기 공주 콜라보 뽑기 //Princess Punt 176
