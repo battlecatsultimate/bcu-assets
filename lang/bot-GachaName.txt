@@ -49,6 +49,8 @@
 -2011	Hatsune Miku Collab Gacha	//Miku 563
 -2022	Ranma 1/2 Collab Gacha	//Ranma 588
 -2023	Kunio-kun Collab Gacha	//Kunio 620
+-2024	Street Fighter Gacha (Blue Team)	//SF Blue 763
+-2025	Street Fighter Gacha (Red Team)	//SF Red 764
 E12	Bikkuriman Chocolate Capsules
 E13	Bikkuriman Chocolate Capsules
 E14	Summer Break Capsules
@@ -704,3 +706,10 @@ N64	Silver + Capsules
 756	-107	674
 757	-2022	671, 672
 758	-112	668, 660
+759	-106	674
+760	-9	682
+761	-9	682
+762	-110	683, 684
+763 -2024	680
+764	-2025	681
+765	-2023
