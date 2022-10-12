@@ -615,12 +615,12 @@
 614	Formicidaean Ariant
 615	Great Angel Chibinel
 616	Cat Mask Yulala
-616	
-617	
-618	
-619	
-620	
-621	
+616	Osamu Mikumo
+617	Yuma Kuga
+618	Chika Amatori
+619	Marmod (White)
+620	Marmod (Red)
+621	Marmod (Black)
 622	Sakura
 623	Luke
 624	Super Wing Beast Piyorutsu

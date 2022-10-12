@@ -675,9 +675,9 @@
 674	Mighty Carrowsell	Extraterrestrial Envanz	
 675	Ancient Egg: N105	Teal Egg: N105	Racquet Cat
 676	Ancient Egg: N106	Amber Egg: N106	Mushroom Cat
-677	ネコ	ネコビルダー	ネコモヒカン
-678	ネコ	ネコビルダー	ネコモヒカン
-679	ネコ	ネコビルダー	ネコモヒカン
+677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC
+678	Yuma Kuga & Cat	Yuma Kuga & Cat CC
+679	Chika Amatori & Cat	Chika Amatori & Cat CC
 680	Sakura	Sakura CC	
 681	Luke	Luke CC	
 682	Goddess Vega	Vega the Blessed Goddess of Illusion	

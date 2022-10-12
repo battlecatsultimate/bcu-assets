@@ -4608,6 +4608,36 @@
 027-009-007	Stagebuilding Witch: Cycle 8
 027-009-008	Stagebuilding Witch: Cycle 9
 027-009-009	Stagebuilding Witch: Cycle XX
+027-012		Test of Might: "Ranma 1/2"
+027-012-000	Showdown! : Part 1
+027-012-001	Showdown! : Part 2
+027-012-002	Showdown! : Part 3
+027-012-003	Showdown! : Part 4
+027-012-004	Showdown! : Part 5
+027-012-005	Showdown! : Part 6
+027-012-006	Showdown! : Part 7
+027-012-007	Showdown! : Part 8
+027-012-008	Showdown! : Part 9
+027-012-009	Showdown! : Part 10
+027-012-010	Showdown! : Part 11
+027-012-011	Showdown! : Part 12
+027-012-012	Showdown! : Part 13
+027-012-013	Showdown! : Part 14
+027-012-014	Showdown! : Part 15
+027-012-015	Showdown! : Part 16
+027-012-016	Showdown! : Part 17
+027-012-017	Showdown! : Part 18
+027-012-018	Showdown! : Part 19
+027-012-019	Showdown! : Part 20
+027-012-020	Showdown! : Part 21
+027-012-021	Showdown! : Part 22
+027-012-022	Showdown! : Part 23
+027-012-023	Showdown! : Part 24
+027-012-024	Showdown! : Part 25
+027-012-025	Showdown! : Part 26
+027-012-026	Showdown! : Part 27
+027-012-027	Showdown! : Part 28
+027-012-028	Showdown! : Part 29
 027-013		Manbosaki Strikes!
 027-013-000	Sudden Death Lv.1
 027-013-001	Sudden Death Lv.2
