@@ -4638,6 +4638,7 @@
 027-012-026	Showdown! : Part 27
 027-012-027	Showdown! : Part 28
 027-012-028	Showdown! : Part 29
+027-012-029	Final Showdown!
 027-013		Manbosaki Strikes!
 027-013-000	Sudden Death Lv.1
 027-013-001	Sudden Death Lv.2
