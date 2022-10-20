@@ -237,6 +237,9 @@
 1058	Bête ancestrale Naala
 1059	Œuf ancien N001
 1060	Œuf ancien N003
+1177	Osamu Mikumo & Cat
+1178	Yuma Kuga & Cat
+1061	Œuf ancien N004
 19001	Chat punk
 19002	Chat gomme
 19003	Chat de l’ombre
@@ -384,6 +387,8 @@
 15213	Le renard gris
 10214	Chappy meal
 15227	Klay le savant fou
+15228	Chat funeste
+15229	Neneko sorcière costumée
 15238	Chat diplômé proviseur
 15239	Chat richissime
 15240	Tireur d’élite
@@ -508,6 +513,7 @@
 15566	Chat bronzé à la permanente
 15567	Chats frangins gelato
 15570	Gravolodon
+15571	Chavalier d’Halloween Vars
 15585	Maeda Noël de luxe
 15590	Neneko grand amour
 15595	Ultra Atlantis Logistix
@@ -515,6 +521,7 @@
 15608	Kanna le mythe vivant
 15611	Roi Nekokhamen
 15615	L'éclat du soleil méridional
+15619	Amakusa immortel
 15620	Lilin π divine
 15633	Diabolosa oblitératrice
 15657	Chat haniwa
@@ -527,6 +534,7 @@
 15671	Chat luciole blindé
 15676	Chat raquette
 15677	Chapignon
+15686	Chat supercar
 30000	Attaque aug. D: Rouge
 30001	Attaque aug. C: Rouge
 30002	Attaque aug. B: Rouge

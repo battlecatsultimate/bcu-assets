@@ -237,6 +237,9 @@
 1058	Naala bestia stagionata
 1059	Uovo antico N001
 1060	Uovo antico N003
+1177	Osamu Mikumo & Cat
+1178	Yuma Kuga & Cat
+1061	Uovo antico N004
 19001	Gatto punk
 19002	Gatto gomma
 19003	Gatto oscuro
@@ -384,6 +387,8 @@
 15213	La Volpe grigia
 10214	Gatto Menù
 15227	Klay Dottore pazzo
+15228	Gatto annunciatore
+15229	Neneko Strega in costume
 15238	Gatto cervellone
 15239	Gatto strariccone
 15240	Gatto cecchino di precisione
@@ -508,6 +513,7 @@
 15566	Gatto abbronzato con la permanente
 15567	Gatti fratelli gelati
 15570	Gravolodon
+15571	Vars Cavaliere di Halloween
 15585	Maeda Natale DX
 15590	Neneko vero amore
 15595	Ultra Atlantis Logistix
@@ -515,6 +521,7 @@
 15608	Kanna avventuriera mitica
 15611	Re Nekokhamen
 15615	Il Bagliore del sud
+15619	Amakusa immortale
 15620	Lilin π Divina
 15633	Diabolosa obliterante
 15657	Gatto haniwa
@@ -527,6 +534,7 @@
 15671	Gatto lucciola corazzato
 15676	Gatta con racchetta
 15677	Fungatto
+15686	Gatto Supercar
 30000	Più attacco D: Rosso
 30001	Più attacco C: Rosso
 30002	Più attacco B: Rosso

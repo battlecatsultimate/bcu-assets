@@ -1300,6 +1300,11 @@
 001-278-001	Archäologie f. Fortgeschr.: Methoden
 001-278-002	Archäologie f. Fortgeschr.: Ergebnisse
 001-278-003	Archäologie f. Fortgeschr.: Analyse
+001-279		Ausgrabung der Kaiserin 3
+001-279-000	Archäologie f. Experten: Planung
+001-279-001	Archäologie f. Experten: Methoden
+001-279-002	Archäologie f. Experten: Ergebnisse
+001-279-003	Archäologie f. Experten: Analyse
 001-285		Die 5 häufigsten Feinde 2021
 001-285-000	#5 Schlittern
 001-285-001	#4 Wegfegen
@@ -1405,6 +1410,17 @@
 001-319-000	Versuchung des Teufelchens
 001-319-001	Versuchung des Dämonen
 001-319-002	Versuchung des Erzdämonen
+001-320		#01 Zuckerkämpfe
+001-320-000	Schlichter Kuchen
+001-320-001	Kakaofreie Schokolade
+001-320-002	Schwere Gummibonbons
+001-320-003	Silberzahn-Karamell
+001-320-004	Lebendiger Lebkuchenmann
+001-320-005	Verfallenes Lebkuchenhaus
+001-321		#03 Schelmische Streiche
+001-321-000	Weltweites Verschlafen
+001-321-001	Gelierte Ozeane
+001-321-002	Erde im Stillstand
 
 002			Collaboration Stages
 002-003		To the Future
@@ -1896,6 +1912,24 @@
 002-178-002	Thank You For Coming
 002-178-003	Just Couldn't Say Goodbye
 002-178-004	I'm Sorry
+002-186		Battle! Tamakoma Second's Leader
+002-186-000	I can’t refuse to fight.
+002-186-001	Just One More Battle
+002-186-002	I'll Do What I Must
+002-186-003	After-Battle Introspection
+002-186-004	I'm No Hero
+002-187		Battle! Tamakoma Second's Ace
+002-187-000	People make up the stupidest lies.
+002-187-001	This'll Be Easy
+002-187-002	Fleeing is a Part of Battle
+002-187-003	Defeat in Aimless Wandering
+002-187-004	No Time for Slacking
+002-188		Vs Training Marmod
+002-188-000	Training Level 1
+002-188-001	Training Level 2
+002-188-002	Training Level 3
+002-188-003	Training Level 4
+002-188-004	Training Level 5
 
 003			
 003-000		EoC Ch.1 Zombie
@@ -3299,6 +3333,13 @@
 013-045-003	Urlaub der Lebenden Toten
 013-045-004	Titanisches Steakhaus
 013-045-005	Inn-dependence Day
+013-046		Zwischen Lügen und Wahrheit
+013-046-000	Punktaus-Tal
+013-046-001	Meister der Dämonenfeste
+013-046-002	Warnung der untergehenden Sonne
+013-046-003	Ewigkeitsgrat
+013-046-004	Ewige uralte Wälder
+013-046-005	Endlose Fußspuren
 
 014			Drink Stages
 014-000		Gelbes Sprießen
@@ -4239,6 +4280,17 @@
 024-055-018	Azurblaue Zuflucht
 024-055-019	Verrottete Zuflucht
 024-055-020	Steinharte Zuflucht
+024-056		#02 Dämonennacht
+024-056-000	Parade St. 1
+024-056-001	Parade St. 2
+024-056-002	Parade St. 3
+024-056-003	Parade St. 4
+024-056-004	Parade St. 5
+024-056-005	Parade St. 6
+024-056-006	Parade St. 7
+024-056-007	Parade St. 8
+024-056-008	Parade St. 9
+024-056-009	Parade St. MAX
 
 025			Enigma Stages
 025-000		Atium-Felder

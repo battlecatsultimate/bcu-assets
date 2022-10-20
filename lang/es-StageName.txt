@@ -1304,6 +1304,11 @@
 001-278-001	Arqueología 201: Método
 001-278-002	Arqueología 201: Resultados
 001-278-003	Arqueología 201: Análisis
+001-279		Excavación de Emperatriz 3
+001-279-000	Arqueología 301: Preparación
+001-279-001	Arqueología 301: Método
+001-279-002	Arqueología 301: Resultados
+001-279-003	Arqueología 301: Análisis
 001-285		5 Más Recurrentes del 2021
 001-285-000	Deslizamiento 5
 001-285-001	Sonrojo 4
@@ -1409,6 +1414,17 @@
 001-319-000	Tentación del Impío
 001-319-001	Tentación del Demonio
 001-319-002	Tentación del Archienemigo
+001-320		#01 Lucha de azúcar
+001-320-000	Tarta simple
+001-320-001	Chocolate sin cacao
+001-320-002	Gominola pesada
+001-320-003	Caramelo de diente de plata
+001-320-004	Hombre de galleta viviente
+001-320-005	Casa de jengibre decrépita
+001-321		#03 Planes traviesos
+001-321-000	El mundo se duerme
+001-321-001	Océanos de gelatina
+001-321-002	El mundo paralizado
 
 002			Collaboration Stages
 002-003		To the Future
@@ -1900,6 +1916,24 @@
 002-178-002	Thank You For Coming
 002-178-003	Just Couldn't Say Goodbye
 002-178-004	I'm Sorry
+002-186		Battle! Tamakoma Second's Leader
+002-186-000	I can’t refuse to fight.
+002-186-001	Just One More Battle
+002-186-002	I'll Do What I Must
+002-186-003	After-Battle Introspection
+002-186-004	I'm No Hero
+002-187		Battle! Tamakoma Second's Ace
+002-187-000	People make up the stupidest lies.
+002-187-001	This'll Be Easy
+002-187-002	Fleeing is a Part of Battle
+002-187-003	Defeat in Aimless Wandering
+002-187-004	No Time for Slacking
+002-188		Vs Training Marmod
+002-188-000	Training Level 1
+002-188-001	Training Level 2
+002-188-002	Training Level 3
+002-188-003	Training Level 4
+002-188-004	Training Level 5
 
 003			
 003-000		EoC Ch.1 Zombie
@@ -3303,6 +3337,13 @@
 013-045-003	Retiro de los Muertos Vivientes
 013-045-004	Asador Titánico
 013-045-005	Día de la Inn Dependencia
+013-046		Entre verdades y mentiras
+013-046-000	Valle Alto total
+013-046-001	Maestro de Fortaleza Demonio
+013-046-002	Aviso del Sol poniente
+013-046-003	Cresta de la infinidad
+013-046-004	Bosques antiguos eternos
+013-046-005	Pasos interminables
 
 014			Drink Stages
 014-000		Cultivo Amarillo
@@ -4286,6 +4327,17 @@
 024-055-018	Refugio Celeste
 024-055-019	Refugio Podrido
 024-055-020	Refugio Adamantino
+024-056		#02 Noche de demonios
+024-056-000	Desfile (nvl. 1)
+024-056-001	Desfile (nvl. 2)
+024-056-002	Desfile (nvl. 3)
+024-056-003	Desfile (nvl. 4)
+024-056-004	Desfile (nvl. 5)
+024-056-005	Desfile (nvl. 6)
+024-056-006	Desfile (nvl. 7)
+024-056-007	Desfile (nvl. 8)
+024-056-008	Desfile (nvl. 9)
+024-056-009	Desfile (nvl. máx.)
 
 025			Enigma Stages
 025-000		Campos de Aitum

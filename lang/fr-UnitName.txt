@@ -225,8 +225,8 @@
 224	DONALD MORDEN	GENERAL MORDEN	
 225	HI-DO	HI-DO CC	
 226	Sorcier et Pierre	Babil le marchand de l’ombre	Klay le savant fou
-227	Chatrouille	Chatrouille-lanterne	
-228	Neneko sombre	Neneko sorcière	
+227	Chatrouille	Chatrouille-lanterne	Chat funeste
+228	Neneko sombre	Neneko sorcière	Neneko sorcière costumée
 229	Hallovent	Hallovent, type α	
 230	Tonnia effrayante	Tonnia effrayante, type β	
 231			
@@ -568,7 +568,7 @@
 567	Œuf de Chat P’tit Clops	Chat P’tit Clops	
 568	Idi:N	Idi:N2	
 569	Gravi	Gravolo	Gravolodon
-570	Cavalier squelettique Vars	Roi cauchemardesque Vars	
+570	Cavalier squelettique Vars	Roi cauchemardesque Vars	Chavalier d’Halloween Vars
 571	E. Honda	E. Honda CC	
 572	Balrog	Balrog CC	
 573	Vega	Vega CC	
@@ -616,7 +616,7 @@
 615	Chat Kabuto	Chat Kabuto doré	
 616	Chat Kuwagata	Chat roi Kuwagata	
 617	Satoru invocateur	Satoru sombre invocateur	
-618	Shiro Amakusa	Amakusa dieu de la guerre	
+618	Shiro Amakusa	Amakusa dieu de la guerre	Amakusa immortel
 619	Lilin	Lilin π	Lilin π divine
 620	Hevijack le malfaisant	Roi Hevijack malfaisant	
 621	Chercheur d'ennemis Akus	Chercheur d'ennemis Akus démoniaque	Chercheur en Akus démoniaque
@@ -675,3 +675,12 @@
 674	Puissant Charrousel	Soucoupe planante	
 675	Œuf ancien N105	Œuf bleu sarcelle N105	Chat raquette
 676	Œuf ancien N106	Œuf ambré N106	Chapignon
+677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC	
+678	Yuma Kuga & Cat	Yuma Kuga & Cat CC	
+679	Chika Amatori & Cat	Chika Amatori & Cat CC	
+680			
+681			
+682	Déesse spectrale Véga	Gardienne illusoire Véga	
+683	Comte Yukimura	Nosferatu Yukimura	
+684	Chat poisson sous contrôle	Chat baleine sous contrôle	
+685	Œuf ancien N004	Œuf mystique N004	Chat supercar

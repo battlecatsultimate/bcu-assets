@@ -237,6 +237,9 @@
 1058	Bestia Naala Viejuna
 1059	Huevo Antiguo N001
 1060	Huevo Antiguo: N003
+1177	Osamu Mikumo & Cat
+1178	Yuma Kuga & Cat
+1061	Huevo antiguo N004
 19001	Gato Crestado
 19002	Gato Borrador
 19003	Gato Oscuro
@@ -384,6 +387,8 @@
 15213	Zorro Gris
 10214	Gato Comida para Llevar
 15227	Doctor Klay Loco
+15228	Gato Presagio
+15229	Disfraz de Neneko Bruja
 15238	Sabelotodo director
 15239	Gato forrado
 15240	Gatotirador infalible
@@ -507,6 +512,7 @@
 15566	Gato Bronceado con Permanente
 15567	Gatos Gelatos
 15570	Petrolodón
+15571	Caballero de Halloween Vars
 15585	Maeda Navideño DX
 15590	Neneko de Amor Verdadero
 15595	Ultratlantis Logistix
@@ -514,6 +520,7 @@
 15608	Kanna Aventurera de Fábula
 15611	Rey Nekokhamen
 15615	Sol Sureño Destellante
+15619	Amakusa Inmortal
 15620	Lilin π divina
 15633	Diabolosa Destructora
 15657	Gato Haniwa
@@ -526,6 +533,7 @@
 15671	Gato Luciérnaga Blindado
 15676	Gata raqueta
 15677	Gato Hongo
+15686	Gato Supercoche
 30000	Aumento de ataque D: Rojos
 30001	Aumento de ataque C: Rojos
 30002	Aumento de ataque B: Rojos

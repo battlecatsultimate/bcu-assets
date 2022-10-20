@@ -225,8 +225,8 @@
 224	<br><br>
 225	<br><br>
 226	La forme ultime n'att. que les aliens, mais<br>la déf. et la puiss. d'att. sont fortement<br>améliorées. Résist. aux malus répétés.
-227	<br><br>
-228	<br><br>
+227	La forme ultime est plus efficace contre les<br>ennemis noirs ! Gagne en plus Fléau des<br>Béhémoths !
+228	La forme ultime gagne<br>Bloque-vagues !<br>
 229	<br><br>
 230	<br><br>
 231	<br><br>
@@ -568,7 +568,7 @@
 567	<br><br>
 568	<br><br>
 569	La forme ultime augmente la défense,<br>la défense et la puissance d’attaque !<br>la défense et élargit la vague offensive.
-570	<br><br>
+570	La forme ultime gagne<br>100 % de chances de repousser/ralentir<br>zombies et aliens.
 571	<br><br>
 572	<br><br>
 573	<br><br>
@@ -616,7 +616,7 @@
 615	<br><br>
 616	<br><br>
 617	<br><br>
-618	<br><br>
+618	La forme ultime gagne<br>en défense et en vitesse d’attaque !<br>
 619	La forme ultime augmente la défense.<br>Gagne également Réplique offensive !<br>
 620	<br><br>
 621	<br><br>
@@ -675,3 +675,12 @@
 674	<br><br>
 675	La forme ultime révèle son aspect final !<br>Et gagne Fléau des Béhémoths !<br>
 676	La forme ultime révèle son aspect final !<br>Et gagne Fléau des Béhémoths !<br>
+677	<br><br>
+678	<br><br>
+679	<br><br>
+680	<br><br>
+681	<br><br>
+682	<br><br>
+683	<br><br>
+684	<br><br>
+685	La forme ultime révèle son aspect final !<br>Garantie de percer/briser<br>boucliers et barrières !

@@ -225,8 +225,8 @@
 224	<br><br>
 225	<br><br>
 226	True Form evolution can attack only Aliens,<br>but defense & attack power is massively <br>increased! Also resists repeated debuffs.
-227	<br><br>
-228	<br><br>
+227	True Form evolution is stronger against<br>Black enemies! Also gains Behemoth<br>Slayer!
+228	True Form gains<br>Wave Shield!<br>
 229	<br><br>
 230	<br><br>
 231	<br><br>
@@ -568,7 +568,7 @@
 567	<br><br>
 568	<br><br>
 569	True Form evolution gains improved<br>Defense and Attack Power!<br>Also gains a wider Wave Attack area!
-570	<br><br>
+570	True Form evolution gains<br>100% Knockback/Slow<br>Zombies and Aliens
 571	<br><br>
 572	<br><br>
 573	<br><br>
@@ -616,7 +616,7 @@
 615	<br><br>
 616	<br><br>
 617	<br><br>
-618	<br><br>
+618	True Form evolution gains increased<br>Defense and Attack speed!<br>
 619	True Form evolution increases Defense!<br>Also gains Surge Attack!<br>
 620	<br><br>
 621	<br><br>
@@ -675,3 +675,12 @@
 674	<br><br>
 675	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 676	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+677	<br><br>
+678	<br><br>
+679	<br><br>
+680	<br><br>
+681	<br><br>
+682	<br><br>
+683	<br><br>
+684	<br><br>
+685	True Form evolution reveals its final form!<br>Also guaranteed to pierce/break<br>Shields and Barriers!

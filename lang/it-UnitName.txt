@@ -225,8 +225,8 @@
 224	DONALD MORDEN	GENERAL MORDEN	
 225	HI-DO	HI-DO CC	
 226	Mago e Pierre	Babil Oscuro mercante	Klay Dottore pazzo
-227	Zuccatto	Gatt o' Lantern	
-228	Neneko Tetra	Neneko Strega	
+227	Zuccatto	Gatt o' Lantern	Gatto annunciatore
+228	Neneko Tetra	Neneko Strega	Neneko Strega in costume
 229	Hallowendy	Hallowendy α	
 230	Tuonia Spettrale	Tuonia Spettrale β	
 231			
@@ -568,7 +568,7 @@
 567	Uovo di Mini Gattlope	Mini Gattlope	
 568	Idi:N	Idi:N2	
 569	Gravi	Gravolo	Gravolodon
-570	Vars Cavaliere eterno	Vars Re dell'incubo	
+570	Vars Cavaliere eterno	Vars Re dell'incubo	Vars Cavaliere di Halloween
 571	E. Honda	E. Honda CC	
 572	Balrog	Balrog CC	
 573	Vega	Vega CC	
@@ -616,7 +616,7 @@
 615	Gatto Kabuto	Gatto Kabuto oro	
 616	Gatto Kuwagata	Gatto Re Kuwagata	
 617	Satoru invocatore	Satoru invocatore oscuro	
-618	Shiro Amakusa	Amakusa Dio della guerra	
+618	Shiro Amakusa	Amakusa Dio della guerra	Amakusa immortale
 619	Lilin	Lilin π	Lilin π Divina
 620	Hevijak il malvagio	Re Hevijak malvagio	
 621	Ricercatore di Aku	Ricercatore di Aku malvagio	
@@ -675,3 +675,12 @@
 674	Muggiostra possente	Envanz extraterrestre	
 675	Uovo antico N105	Uovo verde acqua N105	Gatta con racchetta
 676	Uovo antico N106	Uovo ambrato N106	Fungatto
+677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC	
+678	Yuma Kuga & Cat	Yuma Kuga & Cat CC	
+679	Chika Amatori & Cat	Chika Amatori & Cat CC	
+680			
+681			
+682	Vega gotica spettrale	Vega guardiana illusoria	
+683	Conte Yukimura	Vampiro Yukimura	
+684	Pescegatto plagiato	Gattorca plagiato	
+685	Uovo antico N004	Uovo mistico N004	Gatto Supercar

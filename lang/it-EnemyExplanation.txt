@@ -615,3 +615,11 @@
 614	Una formica che ha lavorato duramente per raccogliere cibo<br>per l'inverno, per poi mangiare troppo e ritrovarsi<br>in bilico tra la vita e la morte.<br>Il suo stomaco esplode se si innervosisce.
 615	Figlio di un imprenditore, ha trovato lavoro grazie a delle<br>conoscenze. Si è sottoposto a un intervento al genoma<br>per non essere paragonato al proprio padre.<br>In futuro ha intenzione di candidarsi alle elezioni.
 616	
+617	
+618	
+619	
+620	
+621	
+622	
+623	
+624	Uccello ancestrale avvolto nei tuoni che vive in<br>una torre nel cielo. Le leggende dicono che è uno<br>spettacolo da vedere, ma nasconde una personalità violenta<br>che diventa più feroce quando viene messo in difficoltà.

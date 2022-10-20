@@ -237,6 +237,9 @@
 1058	Elder Beast Naala
 1059	Ancient Egg N001
 1060	Ancient Egg: N003
+1177	Osamu Mikumo & Cat
+1178	Yuma Kuga & Cat
+1061	Ancient Egg: N004
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -384,6 +387,8 @@
 15213	The Grey Fox
 10214	Value Meal Cat
 15227	Mad Doctor Klay
+15228	Harbinger Cat
+15229	Costumed Witchy Neneko
 15238	Headmaster Cat Jobs
 15239	Richest Cat
 15240	Sniper the Deadeye
@@ -508,6 +513,7 @@
 15566	Permed Suntan Cat
 15567	Gelato Bro Cats
 15570	Gravolodon
+15571	Halloween Knight Vars
 15585	Maeda Christmas DX
 15590	True Love Neneko
 15595	Ultra Atlantis Logistix
@@ -515,6 +521,7 @@
 15608	Fabled Adventure Girl Kanna
 15611	King Nekokhamen
 15615	The Southern Sunflare
+15619	Immortal Amakusa
 15620	Divine Lilin π
 15633	Obliterator Diabolosa
 15657	Haniwa Cat
@@ -527,6 +534,7 @@
 15671	Armored Firefly Cat
 15676	Racquet Cat
 15677	Mushroom Cat
+15686	Supercar Cat
 30000	Attack Up D: Red
 30001	Attack Up C: Red
 30002	Attack Up B: Red

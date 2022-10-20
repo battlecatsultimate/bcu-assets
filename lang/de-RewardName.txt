@@ -237,6 +237,9 @@
 1058	Ältestenbestie Naala
 1059	Uraltes Ei N001
 1060	Uraltes Ei: N003
+1177	Osamu Mikumo & Cat
+1178	Yuma Kuga & Cat
+1061	Uraltes Ei: N004
 19001	Irokatze
 19002	Radierkatze
 19003	Dunkle Katze
@@ -384,6 +387,8 @@
 15213	Grauer Fuchs
 10214	Menü-Katze
 15227	Irrer Doktor Klay
+15228	Vorbotenkatze
+15229	Kostümierte Hexe Neneko
 15238	Rektor Dr. Katze
 15239	Reichste Katze
 15240	Katzenscharfschütze
@@ -508,6 +513,7 @@
 15566	Lockige gebräunte Katze
 15567	Gelato-Brüderkatzen
 15570	Kiesolodon
+15571	Halloweenritter Vars
 15585	Weihnachts-Maeda DX
 15590	Wahre-Liebe-Neneko
 15595	Ultra Atlantis Logistix
@@ -515,6 +521,7 @@
 15608	Legendäre Abenteurerin Kanna
 15611	König Nekokhamen
 15615	Die Sonnenglut des Südens
+15619	Unsterblicher Amakusa
 15620	Himmlische Lilin π
 15633	Auslöscher Diabolosa
 15657	Haniwa-Katze
@@ -527,6 +534,7 @@
 15671	Gepanzerte Glühwürmchenkatze
 15676	Racquetkatze
 15677	Pilzkatze
+15686	Supersportwagen-Katze
 30000	Angriff + D: Rot
 30001	Angriff + C: Rot
 30002	Angriff + B: Rot

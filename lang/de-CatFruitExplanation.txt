@@ -225,8 +225,8 @@
 224	<br><br>
 225	<br><br>
 226	Wahre Form greift nur Aliens an,<br>aber Verteidigung & Angriffskraft sind höher!<br>Resistent gegen wiederholte Schwächungen.
-227	<br><br>
-228	<br><br>
+227	Wahre-Form-Entwicklung ist stärker gegen<br>schwarze Feinde! Erhält zudem<br>„Behemothtöter“!
+228	Wahre Form gewährt<br>Wellenschild!<br>
 229	<br><br>
 230	<br><br>
 231	<br><br>
@@ -568,7 +568,7 @@
 567	<br><br>
 568	<br><br>
 569	Wahre-Form-Entwicklung erhöht Vert.,<br>und Angriffskraft!<br>Verteidigung und die Wellenangriffsfläche!
-570	<br><br>
+570	Wahre-Form-Entwicklung gewährt<br>garantierten Rückstoß/Lähmen gg.<br>Zombies und Aliens.
 571	<br><br>
 572	<br><br>
 573	<br><br>
@@ -616,7 +616,7 @@
 615	<br><br>
 616	<br><br>
 617	<br><br>
-618	<br><br>
+618	Wahre-Form-Entwicklung erhöht<br>Verteidigung und Angriffstempo!<br>
 619	Wahre Form erhöht Verteidigung!<br>Erhält zudem Zufallsangriff!<br>
 620	<br><br>
 621	<br><br>
@@ -675,3 +675,12 @@
 674	<br><br>
 675	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
 676	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
+677	<br><br>
+678	<br><br>
+679	<br><br>
+680	<br><br>
+681	<br><br>
+682	<br><br>
+683	<br><br>
+684	<br><br>
+685	Wahre Form enthüllt letzte Form!<br>Durchbricht/durchdringt außerdem<br>garantiert Schilde und Barrieren!

@@ -225,8 +225,8 @@
 224	DONALD MORDEN	GENERAL MORDEN	
 225	HI-DO	HI-DO CC	
 226	Brujo y Pedrín	Mercader Oscuro Babil	Doctor Klay Loco
-227	Calabagato	Gato de Halloween	
-228	Neneko Oscura	Neneko Bruja	
+227	Calabagato	Gato de Halloween	Gato Presagio
+228	Neneko Oscura	Neneko Bruja	Disfraz de Neneko Bruja
 229	Brujabel	Brujabel (α)	
 230	Trónica Tétrica	Trónica Tétrica (β)	
 231			
@@ -568,7 +568,7 @@
 567	Huevo de Minigatíclope	Minigatíclope	
 568	Idi:N	Idi:N2	
 569	Petro	Petrolo	Petrolodón
-570	Vars Jinete Esquelético	Vars Rey de Pesadilla	
+570	Vars Jinete Esquelético	Vars Rey de Pesadilla	Caballero de Halloween Vars
 571	E. Honda	E. Honda CC	
 572	Balrog	Balrog CC	
 573	Vega	Vega CC	
@@ -616,7 +616,7 @@
 615	Gato Kabuto	Gato Kabuto Dorado	
 616	Gato Kuwagata	Rey Gato Kuwagata	
 617	Invocador Satoru	Invocador Satoru Oscuro	
-618	Amakusa Shiro	Dios de la Guerra Amakusa	
+618	Amakusa Shiro	Dios de la Guerra Amakusa	Amakusa Inmortal
 619	Lilin	Lilin π	Lilin π divina
 620	Hevijak el Maligno	Hevijak el Rey Maligno	
 621	Investigador Aku	Investigador Aku Malvado	
@@ -675,3 +675,12 @@
 674	Garrusel brutal	Gataque extraterrestre	
 675	Huevo antiguo N105	Huevo añil N105	Gata raqueta
 676	Huevo antiguo N106	Huevo ámbar N106	Gato Hongo
+677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC	
+678	Yuma Kuga & Cat	Yuma Kuga & Cat CC	
+679	Chika Amatori & Cat	Chika Amatori & Cat CC	
+680			
+681			
+682	Gótica espectral Vega	Guardiana ilusoria Vega	
+683	Conde Yukimura	Yukimura Nosferatu	
+684	Piscigato Adoctrinado	Ballegato Adoctrinado	
+685	Huevo antiguo N004	Huevo Místico N004	Gato Supercoche

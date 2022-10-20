@@ -995,8 +995,8 @@
 001-184-003	Different from the Ad
 001-184-004	Just What I Wanted
 001-185		Wrath of the Divine
-001-185-001	Wrath of A-Cyclone (Insane)
-001-185-000	Revenge of A-Cyclone (Deadly)
+001-185-000	Wrath of A-Cyclone (Insane)
+001-185-001	Revenge of A-Cyclone (Deadly)
 001-186		Ritual Confusion
 001-186-000	Hang onto Happiness
 001-186-001	Silent Family
@@ -1313,7 +1313,11 @@
 001-278-001	Archaeology 201: Methods
 001-278-002	Archaeology 201: Results
 001-278-003	Archaeology 201: Analysis
-001-285		Top 5 Most Seen Enemies, 2021!
+001-279		Empress' Excavation 3
+001-279-000	Archaeology 301: Planning
+001-279-001	Archaeology 301: Methods
+001-279-002	Archaeology 301: Results
+001-279-003	Archaeology 301: Analysis
 001-285		Top 5 Most Seen Enemies, 2021!
 001-285-000	#5 Sliding
 001-285-001	#4 Blushing
@@ -1444,6 +1448,17 @@
 001-319-000	Imp's Temptation
 001-319-001	Demon's Temptation
 001-319-002	Archfiend's Temptation
+001-320		#01 Sugar Struggle
+001-320-000	Plain-Looking Cake
+001-320-001	Cacao-less Chocolate
+001-320-002	Heavy Gummy
+001-320-003	Silver-Tooth Caramel
+001-320-004	Living Cookie Man
+001-320-005	Decrepit Gingerbread House
+001-321		#03 Mischevous Schemes
+001-321-000	Worldwide Oversleep
+001-321-001	Jellified Oceans
+001-321-002	Standstill Earth
 
 002			Collaboration Stages
 002-003		To the Future
@@ -1945,6 +1960,24 @@
 002-178-002	Thank You For Coming
 002-178-003	Just Couldn't Say Goodbye
 002-178-004	I'm Sorry
+002-186		Battle! Tamakoma Second's Leader
+002-186-000	I can’t refuse to fight.
+002-186-001	Just One More Battle
+002-186-002	I'll Do What I Must
+002-186-003	After-Battle Introspection
+002-186-004	I'm No Hero
+002-187		Battle! Tamakoma Second's Ace
+002-187-000	People make up the stupidest lies.
+002-187-001	This'll Be Easy
+002-187-002	Fleeing is a Part of Battle
+002-187-003	Defeat in Aimless Wandering
+002-187-004	No Time for Slacking
+002-188		Vs Training Marmod
+002-188-000	Training Level 1
+002-188-001	Training Level 2
+002-188-002	Training Level 3
+002-188-003	Training Level 4
+002-188-004	Training Level 5
 
 003			Main Story Chapters
 003-000		EoC Ch.1 Zombie
@@ -3365,6 +3398,13 @@
 013-045-003	Retreat of the Living Dead
 013-045-004	Titanic Steakhouse
 013-045-005	Inn-Dependence Day
+013-046		Between Truth and Lies
+013-046-000	Fullstop Valley
+013-046-001	Master of Demon Keep
+013-046-002	Warning of the Setting Sun
+013-046-003	Infinity Ridge
+013-046-004	Eternal Ancient Woods
+013-046-005	Neverending Footsteps
 
 014			Drink Stages
 014-000		Growing Yellow
@@ -4348,6 +4388,17 @@
 024-055-018	Azure Refuge
 024-055-019	Rotten Refuge
 024-055-020	Adamantine Refuge
+024-056		#02 Demons' Night Out
+024-056-000	Parade Lv.1
+024-056-001	Parade Lv.2
+024-056-002	Parade Lv.3
+024-056-003	Parade Lv.4
+024-056-004	Parade Lv.5
+024-056-005	Parade Lv.6
+024-056-006	Parade Lv.7
+024-056-007	Parade Lv.8
+024-056-008	Parade Lv.9
+024-056-009	Parade Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields

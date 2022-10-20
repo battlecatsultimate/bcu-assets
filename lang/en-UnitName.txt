@@ -225,8 +225,8 @@
 224	DONALD MORDEN	GENERAL MORDEN	
 225	HI-DO	HI-DO CC	
 226	Warlock and Pierre	Dark Merchant Babil	Mad Doctor Klay
-227	Pumpcat	Cat O'Lantern	
-228	Gloomy Neneko	Witchy Neneko	
+227	Pumpcat	Cat O'Lantern	Harbinger Cat
+228	Gloomy Neneko	Witchy Neneko	Costumed Witchy Neneko
 229	Hallowindy	Hallowindy, type α	
 230	Spooky Thundia	Spooky Thundia, type β	
 231			
@@ -568,7 +568,7 @@
 567			
 568	Idi:N	Idi:N2	
 569	Gravi	Gravolo	Gravolodon
-570	Skull Rider Vars	Nightmare King Vars	
+570	Skull Rider Vars	Nightmare King Vars	Halloween Knight Vars
 571	E. Honda	E. Honda CC	
 572	Balrog	Balrog CC	
 573	Vega	Vega CC	
@@ -616,7 +616,7 @@
 615	Kabuto Cat	Golden Kabuto Cat	
 616	Kuwagata Cat	King Kuwagata Cat	
 617	Summoner Satoru	Dark Summoner Satoru	
-618	Shiro Amakusa	Wargod Amakusa	
+618	Shiro Amakusa	Wargod Amakusa	Immortal Amakusa
 619	Lilin	Lilin π	Divine Lilin π
 620	Hevijak the Wicked	Wicked King Hevijak	
 621	Aku Researcher	Evil Aku Researcher	
@@ -675,3 +675,12 @@
 674	Mighty Carrowsell	Extraterrestrial Envanz	
 675	Ancient Egg: N105	Teal Egg: N105	Racquet Cat
 676	Ancient Egg: N106	Amber Egg: N106	Mushroom Cat
+677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC	
+678	Yuma Kuga & Cat	Yuma Kuga & Cat CC	
+679	Chika Amatori & Cat	Chika Amatori & Cat CC	
+680			
+681			
+682	Spectral Goth Vega	Illusory Guardian Vega	
+683	Count Yukimura	Nosferatu Yukimura	
+684	Brainwashed Fish Cat	Brainwashed Whale Cat	
+685	Ancient Egg: N004	Mystic Egg: N004	Supercar Cat

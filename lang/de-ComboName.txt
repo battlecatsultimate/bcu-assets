@@ -216,3 +216,4 @@
 147	Traumkiste
 336	Land-Luft-Angriff
 97	Verbotenes Gelände
+337	Berserker

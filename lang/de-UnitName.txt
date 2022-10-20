@@ -225,8 +225,8 @@
 224	DONALD MORDEN	GENERAL MORDEN	
 225	HI-DO	HI-DO CC	
 226	Hexer und Pierre	Dunkler Händler Babil	Irrer Doktor Klay
-227	Kürbiskatze	Geisterlaternenkatze	
-228	Düstere Neneko	Hexe Neneko	
+227	Kürbiskatze	Geisterlaternenkatze	Vorbotenkatze
+228	Düstere Neneko	Hexe Neneko	Kostümierte Hexe Neneko
 229	Hallowindie	Hallowindie, Typ α	
 230	Spuk-Donneria	Spuk-Donneria, Typ β	
 231			
@@ -568,7 +568,7 @@
 567	Kleines Zyklopenkatzenei	Kleine Zyklopenkatze	
 568	Idi:N	Idi:N2	
 569	Kiesi	Kiesolo	Kiesolodon
-570	Schädelreiter Vars	Albtraumkönig Vars	
+570	Schädelreiter Vars	Albtraumkönig Vars	Halloweenritter Vars
 571	E. Honda	E. Honda CC	
 572	Balrog	Balrog CC	
 573	Vega	Vega CC	
@@ -616,7 +616,7 @@
 615	Kabutokatze	Goldene Kabutokatze	
 616	Kuwagatakatze	Königs-Kuwagatakatze	
 617	Beschwörer Satoru	Dunkler Beschwörer Satoru	
-618	Shiro Amakusa	Kriegsgott Amakusa	
+618	Shiro Amakusa	Kriegsgott Amakusa	Unsterblicher Amakusa
 619	Lilin	Lilin π	Himmlische Lilin π
 620	Hevijak der Böse	Böser König Hevijak	
 621	Aku-Forscher	Böser Aku-Forscher	
@@ -675,3 +675,12 @@
 674	Mächtiges Karussell	Außerirdischer Envanz	
 675	Uraltes Ei: N105	Petrol-Ei: N105	Racquetkatze
 676	Uraltes Ei: N106	Bernstein-Ei: N106	Pilzkatze
+677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC	
+678	Yuma Kuga & Cat	Yuma Kuga & Cat CC	
+679	Chika Amatori & Cat	Chika Amatori & Cat CC	
+680			
+681			
+682	Spektralgrufti Vega	Illusionäre Wächterin Vega	
+683	Graf Yukimura	Nosferatu Yukimura	
+684	Gehirngewaschene Fischkatze	Gehirngewaschene Walkatze	
+685	Uraltes Ei: N004	Mystisches Ei: N004	Supersportwagen-Katze
