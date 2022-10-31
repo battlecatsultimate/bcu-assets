@@ -25,6 +25,7 @@
 -113	Valentine Gacha
 -114	White Day Gacha
 -115	June Bride Gacha	//June Bride 731
+-116	Colossus Busters
 -1000	Ultra Selection Gacha	//Ultra Selection 191
 -1001	Miracle Selection Gacha	//Miracle Selection 192
 -1002	Farewell Gacha	//2017 262
@@ -34,7 +35,6 @@
 -1010	Excellent Selection Gacha	//Excellent Selectoin 468
 -1011	Dynastyfest	//Emperor Cat 562
 -1012	Royalfest	//Empress Cat 602
--1013	New Year Gacha	//New Year
 -2000	Princess Punt Collab Gacha //Princess Punt 176
 -2001	Annihilation City COllab Gacha	//Annihilation City 180
 -2002	Merc Storia Collab Gacha	//Merc 185
@@ -627,7 +627,7 @@ N64	Silver + Capsules
 677	-7	642
 678	-7	642
 679	-7	642
-680	-1013
+680	-1003
 681	-112
 682	-106
 683	-1011
@@ -714,3 +714,13 @@ N64	Silver + Capsules
 764	-2025	681
 765	-2023
 766	-110	683, 684
+767	-1007
+768	-1008
+769	-1000
+770	-1001
+771	-1010
+772	-116
+773	-1011	683
+774	-104	686
+775	-107	686
+776	-108	683

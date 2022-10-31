@@ -624,3 +624,5 @@
 622	Sakura
 623	Luke
 624	Cumulus Gallus
+625	10th Anniversary Cake
+626	10th Anniversary Scarecrow Base
