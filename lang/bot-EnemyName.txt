@@ -615,9 +615,8 @@
 614	Formicidaean Ariant
 615	Great Angel Chibinel
 616	Cat Mask Yulala
-616	Osamu Mikumo
-617	Yuma Kuga
-618	Chika Amatori
+617	Osamu Mikumo
+618	Yuma Kuga
 619	Marmod (White)
 620	Marmod (Red)
 621	Marmod (Black)
