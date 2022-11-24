@@ -640,7 +640,7 @@
 639			
 640			
 641	Iz la danseuse	Iz la danseuse séduisante	
-642	Lucifer le déchu	Grand Lucifer	
+642	Lucifer le déchu	Grand Lucifer	Lucifer Tout-puissant
 643	Super félin	Super félin II	
 644	Mekako bel amour	Mekako douce-amère	
 645	Chat borgne sous contrôle	Chardi sous contrôle	
@@ -678,9 +678,13 @@
 677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC	
 678	Yuma Kuga & Cat	Yuma Kuga & Cat CC	
 679	Chika Amatori & Cat	Chika Amatori & Cat CC	
-680			
-681			
+680	Sakura	Sakura CC	
+681	Luke	Luke CC	
 682	Déesse spectrale Véga	Gardienne illusoire Véga	
 683	Comte Yukimura	Nosferatu Yukimura	
 684	Chat poisson sous contrôle	Chat baleine sous contrôle	
 685	Œuf ancien N004	Œuf mystique N004	Chat supercar
+686	Sirius déesse de la lumière	Sirius déesse de l'aube	
+687	Terun le renne	Terunζ le renne	
+688	Chat lézard sous contrôle	Chat dragon sous contrôle	
+689			

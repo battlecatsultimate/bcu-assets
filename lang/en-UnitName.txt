@@ -640,7 +640,7 @@
 639			
 640			
 641	Iz the Dancer	Iz the Alluring Dancer	
-642	Lucifer the Fallen	Grand Lucifer	
+642	Lucifer the Fallen	Grand Lucifer	Almighty Lucifer
 643	Superfeline	Superfeline II	
 644	Sweet Love Mekako	Bittersweet Mekako	
 645	Brainwashed Axe Cat	Brainwashed Brave Cat	
@@ -678,9 +678,13 @@
 677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC	
 678	Yuma Kuga & Cat	Yuma Kuga & Cat CC	
 679	Chika Amatori & Cat	Chika Amatori & Cat CC	
-680			
-681			
+680	Sakura	Sakura CC	
+681	Luke	Luke CC	
 682	Spectral Goth Vega	Illusory Guardian Vega	
 683	Count Yukimura	Nosferatu Yukimura	
 684	Brainwashed Fish Cat	Brainwashed Whale Cat	
 685	Ancient Egg: N004	Mystic Egg: N004	Supercar Cat
+686	Goddess of Light Sirius	Goddess of Sunrise Sirius	
+687	Reindeer Terun	Reindeer Terunζ	
+688	Brainwashed Lizard Cat	Brainwashed Dragon Cat	
+689			

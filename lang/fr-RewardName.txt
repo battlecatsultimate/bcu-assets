@@ -129,6 +129,10 @@
 171	Pierre B. jaune
 172	Eau bénite
 173	Filets légendaires
+174	仮
+175	仮
+176	仮
+177	仮
 1005	Chat en bronze
 1100	Chat en bronze
 1001	Chat Jour des sports
@@ -524,6 +528,7 @@
 15619	Amakusa immortel
 15620	Lilin π divine
 15633	Diabolosa oblitératrice
+15643	Lucifer Tout-puissant
 15657	Chat haniwa
 15659	Chat coursier
 15660	Charzan

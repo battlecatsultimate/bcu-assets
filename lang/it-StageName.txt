@@ -1417,6 +1417,12 @@
 001-321-000	Il mondo va a dormire
 001-321-001	Oceani gelatinosi
 001-321-002	Terra ferma
+001-325		Notte 1: Babbo Nachele al lavoro
+001-325-000	5000 regali al sec.
+001-325-001	Bambini insonni
+001-325-002	Doni restituiti
+001-325-003	Renna in sciopero
+001-325-004	Regalare sorrisi
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3308,6 +3314,13 @@
 013-041-003	Mantello per nascondersi
 013-041-004	Sala delle feste
 013-041-005	Arrostisci la carne, non le città
+013-042		Vetta del Behemoth
+013-042-000	Fontana dei ricordi
+013-042-001	Impulso caotico
+013-042-002	Oltre la foschia
+013-042-003	Terra di confine
+013-042-004	Corrente d'argento
+013-042-005	Zenit immortale
 013-043		Lido dei lunatici
 013-043-000	Calice di stelle
 013-043-001	Notte truffaldina
@@ -4288,6 +4301,17 @@
 024-056-007	Parata Liv. 8
 024-056-008	Parata Liv. 9
 024-056-009	Parata Liv. MAX
+024-058		Notte 2: Consegna natalizia
+024-058-000	Consegna Liv. 1
+024-058-001	Consegna Liv. 2
+024-058-002	Consegna Liv. 3
+024-058-003	Consegna Liv. 4
+024-058-004	Consegna Liv. 5
+024-058-005	Consegna Liv. 6
+024-058-006	Consegna Liv. 7
+024-058-007	Consegna Liv. 8
+024-058-008	Consegna Liv. 9
+024-058-009	Consegna Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum

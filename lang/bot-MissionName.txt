@@ -24,8 +24,8 @@
 24	6th Anniversary Mission. Clear Empire of Cats Ch. 1 during this event!
 25	Clear all stages in "Even Stars Burn Out"! (Complete the final stage of Cats of the Cosmos Ch. 3)
 26	7th Anniversary Mission. Clear Empire of Cats Ch. 1 during this event!
-27	Clear all Level 2 Legend Stages. to complete this mission
-28	Clear all Level 3 Legend Stages. to complete this mission
+27	Clear all Level 2 Stories of Legend. to complete this mission
+28	Clear all Level 3 Stories of Legend. to complete this mission
 29	8th Anniversary Mission. Clear Empire of Cats Ch. 1 during this event!
 8000	Clear Cat Ticket reward stages 3 times!
 8001	Clear XP reward stages 5 times!
@@ -301,22 +301,22 @@
 1315	Defeat I.M. Phace at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
 1316	Defeat Nimoy Bore at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
 1317	Defeat Corrupted Valkyrie at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1318	Defeat "St. Pigge the 2nd" at. a Level 1 Legend Stage!
-1319	Defeat "Doge Dark" at. a Level 1 Legend Stage!
-1320	Defeat "Master A." at. a Level 1 Legend Stage!
-1321	Defeat "Dagshund" at. a Level 1 Legend Stage!
-1322	Defeat "Celeboodle" at. a Level 1 Legend Stage!
-1323	Defeat "THE SLOTH" at. a Level 1 Legend Stage!
-1324	Defeat "Otta-smack-u" at. a Level 1 Legend Stage!
-1325	Defeat "J.K Bun Bun" at. a Level 1 Legend Stage!
-1326	Defeat "Bore" at. a Level 1 Legend Stage!
-1327	Defeat "Owlbrow" at. a Level 1 Legend Stage!
-1328	Defeat "Camelle" at. a Level 1 Legend Stage!
-1329	Defeat "Kory" at. a Level 1 Legend Stage!
-1330	Defeat "Director Kurosawah" at. a Level 1 Legend Stage!
-1331	Defeat "Metal One Horn" at. a Level 1 Legend Stage!
-1332	Defeat "H. Nah" at. a Level 1 Legend Stage!
-1333	Defeat "Ururun Wolf" at. a Level 1 Legend Stage!
+1318	Defeat "St. Pigge the 2nd" at. a Level 1 Stories of Legend Stage!
+1319	Defeat "Doge Dark" at. a Level 1 Stories of Legend Stage!
+1320	Defeat "Master A." at. a Level 1 Stories of Legend Stage!
+1321	Defeat "Dagshund" at. a Level 1 Stories of Legend Stage!
+1322	Defeat "Celeboodle" at. a Level 1 Stories of Legend Stage!
+1323	Defeat "THE SLOTH" at. a Level 1 Stories of Legend Stage!
+1324	Defeat "Otta-smack-u" at. a Level 1 Stories of Legend Stage!
+1325	Defeat "J.K Bun Bun" at. a Level 1 Stories of Legend Stage!
+1326	Defeat "Bore" at. a Level 1 Stories of Legend Stage!
+1327	Defeat "Owlbrow" at. a Level 1 Stories of Legend Stage!
+1328	Defeat "Camelle" at. a Level 1 Stories of Legend Stage!
+1329	Defeat "Kory" at. a Level 1 Stories of Legend Stage!
+1330	Defeat "Director Kurosawah" at. a Level 1 Stories of Legend Stage!
+1331	Defeat "Metal One Horn" at. a Level 1 Stories of Legend Stage!
+1332	Defeat "H. Nah" at. a Level 1 Stories of Legend Stage!
+1333	Defeat "Ururun Wolf" at. a Level 1 Stories of Legend Stage!
 1334	Defeat Red Cyclone at Crimson Catastrophe. (Once at any Crimson Catastrophe stage)
 1335	Defeat Black Cyclone at Heaven of Darkness. (Once at any Heaven of Darkness stage)
 1400	Defeat Mistress Celeboodle at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
@@ -336,23 +336,23 @@
 1414	Defeat Dark Otter at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
 1415	Defeat Nimoy Bore at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
 1416	Defeat Raging Bahamut Cat at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1417	Defeat "Dober P.D" at. a Level 1 Legend Stage!
-1418	Defeat "R.Ost" at. a Level 1 Legend Stage!
-1419	Defeat "Sunfish Jones" at. a Level 1 Legend Stage!
-1420	Defeat "Super Metal Hippoe" at. a Level 1 Legend Stage!
-1421	Defeat "Wall Doge" at. a Level 1 Legend Stage!
-1422	Defeat "Pigeon de Sable" at. a Level 1 Legend Stage!
-1423	Defeat "Angelic Sleipnir" at. a Level 1 Legend Stage!
-1424	Defeat "Li'l Nyandam" at. a Level 1 Legend Stage!
-1425	Defeat "Chickful A" at. a Level 1 Legend Stage!
-1426	Defeat "Capy" at. a Level 1 Legend Stage!
-1427	Defeat "Brollow" at. a Level 1 Legend Stage!
-1428	Defeat "Berserkory" at. a Level 1 Legend Stage!
-1429	Defeat "Mr. Mole" at. a Level 1 Legend Stage!
-1430	Defeat "Two Can" at. a Level 1 Legend Stage!
-1431	Defeat "Codename "Red Riding"" at. a Level 1 Legend Stage!
-1432	Defeat "Tackey" at. a Level 1 Legend Stage!
-1433	Defeat "Boraphim" at. a Level 1 Legend Stage!
+1417	Defeat "Dober P.D" at. a Level 1 Stories of Legend stage!
+1418	Defeat "R.Ost" at. a Level 1 Stories of Legend stage!
+1419	Defeat "Sunfish Jones" at. a Level 1 Stories of Legend stage!
+1420	Defeat "Super Metal Hippoe" at. a Level 1 Stories of Legend stage!
+1421	Defeat "Wall Doge" at. a Level 1 Stories of Legend stage!
+1422	Defeat "Pigeon de Sable" at. a Level 1 Stories of Legend stage!
+1423	Defeat "Angelic Sleipnir" at. a Level 1 Stories of Legend stage!
+1424	Defeat "Li'l Nyandam" at. a Level 1 Stories of Legend stage!
+1425	Defeat "Chickful A" at. a Level 1 Stories of Legend stage!
+1426	Defeat "Capy" at. a Level 1 Stories of Legend stage!
+1427	Defeat "Brollow" at. a Level 1 Stories of Legend stage!
+1428	Defeat "Berserkory" at. a Level 1 Stories of Legend stage!
+1429	Defeat "Mr. Mole" at. a Level 1 Stories of Legend stage!
+1430	Defeat "Two Can" at. a Level 1 Stories of Legend stage!
+1431	Defeat "Codename "Red Riding"" at. a Level 1 Stories of Legend stage!
+1432	Defeat "Tackey" at. a Level 1 Stories of Legend stage!
+1433	Defeat "Boraphim" at. a Level 1 Stories of Legend stage!
 1434	Defeat White Cyclone at Peerless. (Once at any Peerless stage)
 1435	Defeat Divine Cyclone at Wrath of Heaven. (Once at any Wrath of Heaven stage)
 1500	Defeat Shibalien Elite at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
@@ -372,23 +372,23 @@
 1514	Defeat Spacefish Jones at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
 1515	Defeat Metal Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
 1516	Defeat The Cat God at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1517	Defeat "THE SLOTH" at. a Level 2 Legend Stage!
-1518	Defeat "Shy Boy" at. a Level 2 Legend Stage!
-1519	Defeat "J.K Bun Bun" at. a Level 2 Legend Stage!
-1520	Defeat "Dark Emperor Nyandam" at. a Level 2 Legend Stage!
-1521	Defeat "Teacher Bun Bun" at. a Level 2 Legend Stage!
-1522	Defeat "Bore" at. a Level 2 Legend Stage!
-1523	Defeat "Kory" at. a Level 2 Legend Stage!
-1524	Defeat "Director Kurosawah" at. a Level 2 Legend Stage!
-1525	Defeat "R.Ost" at. a Level 2 Legend Stage!
-1526	Defeat "Ururun Wolf" at. a Level 2 Legend Stage!
-1527	Defeat "Angelic Sleipnir" at. a Level 2 Legend Stage!
-1528	Defeat "Li'l Nyandam" at. a Level 2 Legend Stage!
-1529	Defeat "Berserkory" at. a Level 2 Legend Stage!
-1530	Defeat "Rain D." at. a Level 2 Legend Stage!
-1531	Defeat "Camelle" at. a Level 2 Legend Stage!
-1532	Defeat "H. Nah" at. a Level 2 Legend Stage!
-1533	Defeat "Dober P.D" at. a Level 2 Legend Stage!
+1517	Defeat "THE SLOTH" at. a Level 2 Stories of Legend stage!
+1518	Defeat "Shy Boy" at. a Level 2 Stories of Legend stage!
+1519	Defeat "J.K Bun Bun" at. a Level 2 Stories of Legend stage!
+1520	Defeat "Dark Emperor Nyandam" at. a Level 2 Stories of Legend stage!
+1521	Defeat "Teacher Bun Bun" at. a Level 2 Stories of Legend stage!
+1522	Defeat "Bore" at. a Level 2 Stories of Legend stage!
+1523	Defeat "Kory" at. a Level 2 Stories of Legend stage!
+1524	Defeat "Director Kurosawah" at. a Level 2 Stories of Legend stage!
+1525	Defeat "R.Ost" at. a Level 2 Stories of Legend stage!
+1526	Defeat "Ururun Wolf" at. a Level 2 Stories of Legend stage!
+1527	Defeat "Angelic Sleipnir" at. a Level 2 Stories of Legend stage!
+1528	Defeat "Li'l Nyandam" at. a Level 2 Stories of Legend stage!
+1529	Defeat "Berserkory" at. a Level 2 Stories of Legend stage!
+1530	Defeat "Rain D." at. a Level 2 Stories of Legend stage!
+1531	Defeat "Camelle" at. a Level 2 Stories of Legend stage!
+1532	Defeat "H. Nah" at. a Level 2 Stories of Legend stage!
+1533	Defeat "Dober P.D" at. a Level 2 Stories of Legend stage!
 1534	Defeat Metal Cyclone at Sweet Irony. (Once at any Sweet Irony stage)
 1535	Defeat Cosmic Cyclone at Dimension of Despair. (Once at any Dimension of Despair stage)
 1600	Defeat UltraBaaBaa at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
@@ -411,20 +411,20 @@
 1617	Defeat Gory at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
 1618	Defeat Metal One Horn at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
 1619	Defeat Cat God at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1620	Defeat "Mr. Angel" at. a Level 1 Legend Stage!
-1621	Defeat "Henry" at. a Level 1 Legend Stage!
-1622	Defeat "Li'l Bun Bun" at. a Level 1 Legend Stage!
-1623	Defeat "Professor A." at. a Level 1 Legend Stage!
-1624	Defeat "Razorback" at. a Level 1 Legend Stage!
-1625	Defeat "Zoge" at. a Level 1 Legend Stage!
-1626	Defeat "Zomboe" at. a Level 1 Legend Stage!
-1627	Defeat "Zigge" at. a Level 1 Legend Stage!
-1628	Defeat "Zackie Peng" at. a Level 1 Legend Stage!
-1629	Defeat "Lord Gravey" at. a Level 1 Legend Stage!
-1630	Defeat "Big Sal" at. a Level 1 Legend Stage!
-1631	Defeat "Coffin Zoge" at. a Level 1 Legend Stage!
-1632	Defeat "Zamelle" at. a Level 1 Legend Stage!
-1633	Defeat "Miss Haka" at. a Level 1 Legend Stage!
+1620	Defeat "Mr. Angel" at. a Level 1 Stories of Legend stage!
+1621	Defeat "Henry" at. a Level 1 Stories of Legend stage!
+1622	Defeat "Li'l Bun Bun" at. a Level 1 Stories of Legend stage!
+1623	Defeat "Professor A." at. a Level 1 Stories of Legend stage!
+1624	Defeat "Razorback" at. a Level 1 Stories of Legend stage!
+1625	Defeat "Zoge" at. a Level 1 Stories of Legend stage!
+1626	Defeat "Zomboe" at. a Level 1 Stories of Legend stage!
+1627	Defeat "Zigge" at. a Level 1 Stories of Legend stage!
+1628	Defeat "Zackie Peng" at. a Level 1 Stories of Legend stage!
+1629	Defeat "Lord Gravey" at. a Level 1 Stories of Legend stage!
+1630	Defeat "Big Sal" at. a Level 1 Stories of Legend stage!
+1631	Defeat "Coffin Zoge" at. a Level 1 Stories of Legend stage!
+1632	Defeat "Zamelle" at. a Level 1 Stories of Legend stage!
+1633	Defeat "Miss Haka" at. a Level 1 Stories of Legend stage!
 1634	Defeat The Perfect Cyclone at Red Sky at Morning. (Once at any Red Sky at Morning stage)
 1635	Defeat Zyclone at The Rolling Dead. (Once at any The Rolling Dead stage)
 1700	Defeat Mesocosmocyclone at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
@@ -447,130 +447,130 @@
 1717	Defeat Alpacky at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
 1718	Defeat Metal Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
 1719	Defeat Final Boss Giga-God at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1720	Defeat "Sir Metal Seal" at. a Level 1 Legend Stage!
-1721	Defeat "Metal Doge" at. a Level 1 Legend Stage!
-1722	Defeat "Le'noir" at. a Level 1 Legend Stage!
-1723	Defeat "Zroco" at. a Level 1 Legend Stage!
-1724	Defeat "Zory" at. a Level 1 Legend Stage!
-1725	Defeat "Zir Zeal" at. a Level 1 Legend Stage!
-1726	Defeat "Zang Roo" at. a Level 1 Legend Stage!
-1727	Defeat "Inumusha" at. a Level 1 Legend Stage!
-1728	Defeat "Dolphina" at. a Level 1 Legend Stage!
-1729	Defeat "Cala Maria" at. a Level 1 Legend Stage!
-1730	Defeat "Croakley" at. a Level 1 Legend Stage!
-1731	Defeat "Youcan" at. a Level 1 Legend Stage!
-1732	Defeat "Winged Pigge" at. a Level 1 Legend Stage!
-1733	Defeat "Hackey" at. a Level 1 Legend Stage!
-1734	Defeat "Mecha-Bun" at. a Level 1 Legend Stage!
+1720	Defeat "Sir Metal Seal" at. a Level 1 Stories of Legend stage!
+1721	Defeat "Metal Doge" at. a Level 1 Stories of Legend stage!
+1722	Defeat "Le'noir" at. a Level 1 Stories of Legend stage!
+1723	Defeat "Zroco" at. a Level 1 Stories of Legend stage!
+1724	Defeat "Zory" at. a Level 1 Stories of Legend stage!
+1725	Defeat "Zir Zeal" at. a Level 1 Stories of Legend stage!
+1726	Defeat "Zang Roo" at. a Level 1 Stories of Legend stage!
+1727	Defeat "Inumusha" at. a Level 1 Stories of Legend stage!
+1728	Defeat "Dolphina" at. a Level 1 Stories of Legend stage!
+1729	Defeat "Cala Maria" at. a Level 1 Stories of Legend stage!
+1730	Defeat "Croakley" at. a Level 1 Stories of Legend stage!
+1731	Defeat "Youcan" at. a Level 1 Stories of Legend stage!
+1732	Defeat "Winged Pigge" at. a Level 1 Stories of Legend stage!
+1733	Defeat "Hackey" at. a Level 1 Stories of Legend stage!
+1734	Defeat "Mecha-Bun" at. a Level 1 Stories of Legend stage!
 1735	Defeat Super Cosmic Cyclone at The 2nd Dimension. (Once at any The 2nd Dimension stage)
-1800	Defeat "Ururun Wolf" at. a Level 3 Legend Stage!
-1801	Defeat "Li'l Nyandam" at. a Level 3 Legend Stage!
-1802	Defeat "Berserkory" at. a Level 3 Legend Stage!
-1803	Defeat "Codename "Red Riding"" at. a Level 3 Legend Stage!
-1804	Defeat "Tackey" at. a Level 3 Legend Stage!
-1805	Defeat "Boraphim" at. a Level 3 Legend Stage!
-1806	Defeat "Henry" at. a Level 3 Legend Stage!
-1807	Defeat "Li'l Bun Bun" at. a Level 3 Legend Stage!
-1808	Defeat "Professor A." at. a Level 3 Legend Stage!
-1809	Defeat "Razorback" at. a Level 3 Legend Stage!
-1810	Defeat "Zoge" at. a Level 3 Legend Stage!
-1811	Defeat "Zang Roo" at. a Level 3 Legend Stage!
-1812	Defeat "Zroco" at. a Level 3 Legend Stage!
-1813	Defeat "Zackie Peng" at. a Level 3 Legend Stage!
-1814	Defeat "Zory" at. a Level 3 Legend Stage!
-1815	Defeat "Zir Zeal" at. a Level 3 Legend Stage!
-1816	Defeat "Lord Gravey" at. a Level 3 Legend Stage!
-1817	Defeat "Big Sal" at. a Level 3 Legend Stage!
-1818	Defeat "Coffin Zoge" at. a Level 3 Legend Stage!
-1819	Defeat "Zamelle" at. a Level 3 Legend Stage!
-1820	Defeat "Miss Haka" at. a Level 3 Legend Stage!
-1821	Defeat "Inumusha" at. a Level 3 Legend Stage!
-1822	Defeat "Dolphina" at. a Level 3 Legend Stage!
-1823	Defeat "Cala Maria" at. a Level 3 Legend Stage!
-1824	Defeat "Croakley" at. a Level 3 Legend Stage!
-1825	Defeat "Youcan" at. a Level 3 Legend Stage!
-1826	Defeat "Winged Pigge" at. a Level 3 Legend Stage!
-1827	Defeat "Shibalien Elite" at. a Level 3 Legend Stage!
-1828	Defeat "Corporal Weyland" at. a Level 3 Legend Stage!
-1829	Defeat "Spacefish Jones" at. a Level 3 Legend Stage!
-1830	Defeat "Project A" at. a Level 3 Legend Stage!
-1831	Defeat "General GreGory" at. a Level 3 Legend Stage!
-1832	Defeat "Star Peng" at. a Level 3 Legend Stage!
-1833	Defeat "Hackey" at. a Level 3 Legend Stage!
-1834	Defeat "UltraBaaBaa" at. a Level 3 Legend Stage!
-1835	Defeat "Mecha-Bun" at. a Level 3 Legend Stage!
-1900	Defeat "J.K Bun Bun" at. a Level 4 Legend Stage!
-1901	Defeat "Bore" at. a Level 4 Legend Stage!
-1902	Defeat "Teacher Bun Bun" at. a Level 4 Legend Stage!
-1903	Defeat "Kory" at. a Level 4 Legend Stage!
-1904	Defeat "Director Kurosawah" at. a Level 4 Legend Stage!
-1905	Defeat "Bun Bun Black" at. a Level 4 Legend Stage!
-1906	Defeat "R.Ost" at. a Level 4 Legend Stage!
-1907	Defeat "Ururun Wolf" at. a Level 4 Legend Stage!
-1908	Defeat "Wall Doge" at. a Level 4 Legend Stage!
-1909	Defeat "Angelic Sleipnir" at. a Level 4 Legend Stage!
-1910	Defeat "Metal Doge" at. a Level 4 Legend Stage!
-1911	Defeat "Li'l Nyandam" at at. a Level 4 Legend Stage!
-1912	Defeat "Berserkory". a Level 4 Legend Stage!
-1913	Defeat "Mr. Mole" at. a Level 4 Legend Stage!
-1914	Defeat "Codename "Red Riding"" at. a Level 4 Legend Stage!
-1915	Defeat "Two Can" at. a Level 4 Legend Stage!
-1916	Defeat "Tackey" at. a Level 4 Legend Stage!
-1917	Defeat "Boraphim" at. a Level 4 Legend Stage!
-1918	Defeat "Henry" at. a Level 4 Legend Stage!
-1919	Defeat "Li'l Bun Bun" at. a Level 4 Legend Stage!
-1920	Defeat "Professor A." at. a Level 4 Legend Stage!
-1921	Defeat "Razorback" at. a Level 4 Legend Stage!
-1922	Defeat "Zoge" at. a Level 4 Legend Stage!
-1923	Defeat "Zang Roo" at. a Level 4 Legend Stage!
-1924	Defeat "Zory" at. a Level 4 Legend Stage!
-1925	Defeat "Coffin Zoge" at. a Level 4 Legend Stage!
-1926	Defeat "Inumusha" at. a Level 4 Legend Stage!
-1927	Defeat "Dolphina" at. a Level 4 Legend Stage!
-1928	Defeat "Cala Maria" at. a Level 4 Legend Stage!
-1929	Defeat "Croakley" at. a Level 4 Legend Stage!
-1930	Defeat "Winged Pigge" at. a Level 4 Legend Stage!
-1931	Defeat "Shibalien Elite" at. a Level 4 Legend Stage!
-1932	Defeat "Corporal Weyland" at. a Level 4 Legend Stage!
-1933	Defeat "Spacefish Jones" at. a Level 4 Legend Stage!
-1934	Defeat "General GreGory" at. a Level 4 Legend Stage!
-1935	Defeat "Star Peng" at. a Level 4 Legend Stage!
-2000	Defeat "The Face" at. a Level 4 Legend Stage!
-2001	Defeat "Shy Boy" at. a Level 4 Legend Stage!
-2002	Defeat "Otta-smack-u" at. a Level 4 Legend Stage!
-2003	Defeat "Camelle" at. a Level 4 Legend Stage!
-2004	Defeat "Duche" at. a Level 4 Legend Stage!
-2005	Defeat "Owlbrow" at. a Level 4 Legend Stage!
-2006	Defeat "THE SLOTH" at. a Level 4 Legend Stage!
-2007	Defeat "Rain D." at. a Level 4 Legend Stage!
-2008	Defeat "Celeboodle" at. a Level 4 Legend Stage!
-2009	Defeat "Dark Emperor Nyandam" at. a Level 4 Legend Stage!
-2010	Defeat "Master A." at. a Level 4 Legend Stage!
-2011	Defeat "Scissoroo" at. a Level 4 Legend Stage!
-2012	Defeat "H. Nah" at. a Level 4 Legend Stage!
-2013	Defeat "Dober P.D" at. a Level 4 Legend Stage!
-2014	Defeat "Metal Hippoe" at. a Level 4 Legend Stage!
-2015	Defeat "St. Pigge the 2nd" at. a Level 4 Legend Stage!
-2016	Defeat "Sunfish Jones" at. a Level 4 Legend Stage!
-2017	Defeat "Pigeon de Sable" at. a Level 4 Legend Stage!
-2018	Defeat "Znache" at. a Level 4 Legend Stage!
-2019	Defeat "Zomboe" at. a Level 4 Legend Stage!
-2020	Defeat "Zigge" at. a Level 4 Legend Stage!
-2021	Defeat "Zackie Peng" at. a Level 4 Legend Stage!
-2022	Defeat "Mistress Celeboodle" at. a Level 4 Legend Stage!
-2023	Defeat "Zir Zeal" at. a Level 4 Legend Stage!
-2024	Defeat "Zroco" at. a Level 4 Legend Stage!
-2025	Defeat "Lord Gravey" at. a Level 4 Legend Stage!
-2026	Defeat "Dagshund" at. a Level 4 Legend Stage!
-2027	Defeat "Gory Black" at. a Level 4 Legend Stage!
-2028	Defeat "Le'Solar" at. a Level 4 Legend Stage!
-2029	Defeat "Project A" at. a Level 4 Legend Stage!
-2030	Defeat "Shadow Boxer K" at. a Level 4 Legend Stage!
-2031	Defeat "Super Metal Hippoe" at. a Level 4 Legend Stage!
-2032	Defeat "Dark Otter" at. a Level 4 Legend Stage!
-2033	Defeat "Chickful A" at. a Level 4 Legend Stage!
-2034	Defeat "Nimoy Bore" at. a Level 4 Legend Stage!
-2035	Defeat "Elizabeth the LVIth" at. a Level 4 Legend Stage!
+1800	Defeat "Ururun Wolf" at. a Level 3 Stories of Legend stage!
+1801	Defeat "Li'l Nyandam" at. a Level 3 Stories of Legend stage!
+1802	Defeat "Berserkory" at. a Level 3 Stories of Legend stage!
+1803	Defeat "Codename "Red Riding"" at. a Level 3 Stories of Legend stage!
+1804	Defeat "Tackey" at. a Level 3 Stories of Legend stage!
+1805	Defeat "Boraphim" at. a Level 3 Stories of Legend stage!
+1806	Defeat "Henry" at. a Level 3 Stories of Legend stage!
+1807	Defeat "Li'l Bun Bun" at. a Level 3 Stories of Legend stage!
+1808	Defeat "Professor A." at. a Level 3 Stories of Legend stage!
+1809	Defeat "Razorback" at. a Level 3 Stories of Legend stage!
+1810	Defeat "Zoge" at. a Level 3 Stories of Legend stage!
+1811	Defeat "Zang Roo" at. a Level 3 Stories of Legend stage!
+1812	Defeat "Zroco" at. a Level 3 Stories of Legend stage!
+1813	Defeat "Zackie Peng" at. a Level 3 Stories of Legend stage!
+1814	Defeat "Zory" at. a Level 3 Stories of Legend stage!
+1815	Defeat "Zir Zeal" at. a Level 3 Stories of Legend stage!
+1816	Defeat "Lord Gravey" at. a Level 3 Stories of Legend stage!
+1817	Defeat "Big Sal" at. a Level 3 Stories of Legend stage!
+1818	Defeat "Coffin Zoge" at. a Level 3 Stories of Legend stage!
+1819	Defeat "Zamelle" at. a Level 3 Stories of Legend stage!
+1820	Defeat "Miss Haka" at. a Level 3 Stories of Legend stage!
+1821	Defeat "Inumusha" at. a Level 3 Stories of Legend stage!
+1822	Defeat "Dolphina" at. a Level 3 Stories of Legend stage!
+1823	Defeat "Cala Maria" at. a Level 3 Stories of Legend stage!
+1824	Defeat "Croakley" at. a Level 3 Stories of Legend stage!
+1825	Defeat "Youcan" at. a Level 3 Stories of Legend stage!
+1826	Defeat "Winged Pigge" at. a Level 3 Stories of Legend stage!
+1827	Defeat "Shibalien Elite" at. a Level 3 Stories of Legend stage!
+1828	Defeat "Corporal Weyland" at. a Level 3 Stories of Legend stage!
+1829	Defeat "Spacefish Jones" at. a Level 3 Stories of Legend stage!
+1830	Defeat "Project A" at. a Level 3 Stories of Legend stage!
+1831	Defeat "General GreGory" at. a Level 3 Stories of Legend stage!
+1832	Defeat "Star Peng" at. a Level 3 Stories of Legend stage!
+1833	Defeat "Hackey" at. a Level 3 Stories of Legend stage!
+1834	Defeat "UltraBaaBaa" at. a Level 3 Stories of Legend stage!
+1835	Defeat "Mecha-Bun" at. a Level 3 Stories of Legend stage!
+1900	Defeat "J.K Bun Bun" at. a Level 4 Stories of Legend stage!
+1901	Defeat "Bore" at. a Level 4 Stories of Legend stage!
+1902	Defeat "Teacher Bun Bun" at. a Level 4 Stories of Legend stage!
+1903	Defeat "Kory" at. a Level 4 Stories of Legend stage!
+1904	Defeat "Director Kurosawah" at. a Level 4 Stories of Legend stage!
+1905	Defeat "Bun Bun Black" at. a Level 4 Stories of Legend stage!
+1906	Defeat "R.Ost" at. a Level 4 Stories of Legend stage!
+1907	Defeat "Ururun Wolf" at. a Level 4 Stories of Legend stage!
+1908	Defeat "Wall Doge" at. a Level 4 Stories of Legend stage!
+1909	Defeat "Angelic Sleipnir" at. a Level 4 Stories of Legend stage!
+1910	Defeat "Metal Doge" at. a Level 4 Stories of Legend stage!
+1911	Defeat "Li'l Nyandam" at. a Level 4 Stories of Legend stage!
+1912	Defeat "Berserkory" at. a Level 4 Stories of Legend stage!
+1913	Defeat "Mr. Mole" at. a Level 4 Stories of Legend stage!
+1914	Defeat "Codename "Red Riding"" at. a Level 4 Stories of Legend stage!
+1915	Defeat "Two Can" at. a Level 4 Stories of Legend stage!
+1916	Defeat "Tackey" at. a Level 4 Stories of Legend stage!
+1917	Defeat "Boraphim" at. a Level 4 Stories of Legend stage!
+1918	Defeat "Henry" at. a Level 4 Stories of Legend stage!
+1919	Defeat "Li'l Bun Bun" at. a Level 4 Stories of Legend stage!
+1920	Defeat "Professor A." at. a Level 4 Stories of Legend stage!
+1921	Defeat "Razorback" at. a Level 4 Stories of Legend stage!
+1922	Defeat "Zoge" at. a Level 4 Stories of Legend stage!
+1923	Defeat "Zang Roo" at. a Level 4 Stories of Legend stage!
+1924	Defeat "Zory" at. a Level 4 Stories of Legend stage!
+1925	Defeat "Coffin Zoge" at. a Level 4 Stories of Legend stage!
+1926	Defeat "Inumusha" at. a Level 4 Stories of Legend stage!
+1927	Defeat "Dolphina" at. a Level 4 Stories of Legend stage!
+1928	Defeat "Cala Maria" at. a Level 4 Stories of Legend stage!
+1929	Defeat "Croakley" at. a Level 4 Stories of Legend stage!
+1930	Defeat "Winged Pigge" at. a Level 4 Stories of Legend stage!
+1931	Defeat "Shibalien Elite" at. a Level 4 Stories of Legend stage!
+1932	Defeat "Corporal Weyland" at. a Level 4 Stories of Legend stage!
+1933	Defeat "Spacefish Jones" at. a Level 4 Stories of Legend stage!
+1934	Defeat "General GreGory" at. a Level 4 Stories of Legend stage!
+1935	Defeat "Star Peng" at. a Level 4 Stories of Legend stage!
+2000	Defeat "The Face" at. a Level 4 Stories of Legend stage!
+2001	Defeat "Shy Boy" at. a Level 4 Stories of Legend stage!
+2002	Defeat "Otta-smack-u" at. a Level 4 Stories of Legend stage!
+2003	Defeat "Camelle" at. a Level 4 Stories of Legend stage!
+2004	Defeat "Duche" at. a Level 4 Stories of Legend stage!
+2005	Defeat "Owlbrow" at. a Level 4 Stories of Legend stage!
+2006	Defeat "THE SLOTH" at. a Level 4 Stories of Legend stage!
+2007	Defeat "Rain D." at. a Level 4 Stories of Legend stage!
+2008	Defeat "Celeboodle" at. a Level 4 Stories of Legend stage!
+2009	Defeat "Dark Emperor Nyandam" at. a Level 4 Stories of Legend stage!
+2010	Defeat "Master A." at. a Level 4 Stories of Legend stage!
+2011	Defeat "Scissoroo" at. a Level 4 Stories of Legend stage!
+2012	Defeat "H. Nah" at. a Level 4 Stories of Legend stage!
+2013	Defeat "Dober P.D" at. a Level 4 Stories of Legend stage!
+2014	Defeat "Metal Hippoe" at. a Level 4 Stories of Legend stage!
+2015	Defeat "St. Pigge the 2nd" at. a Level 4 Stories of Legend stage!
+2016	Defeat "Sunfish Jones" at. a Level 4 Stories of Legend stage!
+2017	Defeat "Pigeon de Sable" at. a Level 4 Stories of Legend stage!
+2018	Defeat "Znache" at. a Level 4 Stories of Legend stage!
+2019	Defeat "Zomboe" at. a Level 4 Stories of Legend stage!
+2020	Defeat "Zigge" at. a Level 4 Stories of Legend stage!
+2021	Defeat "Zackie Peng" at. a Level 4 Stories of Legend stage!
+2022	Defeat "Mistress Celeboodle" at. a Level 4 Stories of Legend stage!
+2023	Defeat "Zir Zeal" at. a Level 4 Stories of Legend stage!
+2024	Defeat "Zroco" at. a Level 4 Stories of Legend stage!
+2025	Defeat "Lord Gravey" at. a Level 4 Stories of Legend stage!
+2026	Defeat "Dagshund" at. a Level 4 Stories of Legend stage!
+2027	Defeat "Gory Black" at. a Level 4 Stories of Legend stage!
+2028	Defeat "Le'Solar" at. a Level 4 Stories of Legend stage!
+2029	Defeat "Project A" at. a Level 4 Stories of Legend stage!
+2030	Defeat "Shadow Boxer K" at. a Level 4 Stories of Legend stage!
+2031	Defeat "Super Metal Hippoe" at. a Level 4 Stories of Legend stage!
+2032	Defeat "Dark Otter" at. a Level 4 Stories of Legend stage!
+2033	Defeat "Chickful A" at. a Level 4 Stories of Legend stage!
+2034	Defeat "Nimoy Bore" at. a Level 4 Stories of Legend stage!
+2035	Defeat "Elizabeth the LVIth" at. a Level 4 Stories of Legend stage!
 9205	Upgrade Akuma Giraffe to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9206	Upgrade Ryu Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
@@ -634,13 +634,13 @@
 9261	Mega-Extra Credit ④: Further Sea Research. Clear "300 Million Dead Molas" 5 times with Kuwagata Cat
 39	Empress' Research 1: Heretical Spellbooks by. Clear "Arcane Confluence" and "Wicked Cat"!
 40	Empress' Research 2: Agents of Aku. Clear "Servant of Darkness" and "Wicked Tank"
-9262	Clear "Hotblooded Ball-Rolling" 5 times!
-9263	Clear "Hotblooded Ball-Rolling" 10 times!
-9264	Clear "Hotblooded Challenge Course" 5 times!
-9265	Clear stages from "Hotblooded Challenge Course"
-9266	Defeat Jackie Peng at Hotblooded Three-Leg Race. (Once at any Hotblooded Three-Leg Race stage)
-9267	Defeat Doge Dark at Hotblooded Three-Leg Race. (Once at any Hotblooded Three-Leg Race stage)
-9268	Clear all 6 Hotblooded Clash Limited  Missions!
+9262	Clear "River City Ball-Rolling" 5 times!
+9263	Clear "River City Ball-Rolling" 10 times!
+9264	Clear "River City Challenge Course" 5 times!
+9265	Clear stages from "River City Challenge Course"
+9266	Defeat Jackie Peng at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9267	Defeat Doge Dark at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9268	Clear all 6 River City Cat Clash Limited  Missions!
 9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
 9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!
 9271	Defeat the Box Witch! Find this Witch at the "Witch's Labyrinth: Box Witch" map!
@@ -718,3 +718,11 @@
 53	Clear 30 of Behemoth Culling stages for the first time
 9379	Clear Floor 40 of the Infernal Tower. ※ Reward can only be collected once
 54	Clear "XP Bonanza!". Complete by clearing all stages in XP Bonanza!
+9380	Clear stages from "River City Cat Clash"
+9381	Clear stages from "River City Cat Clash"
+9382	Clear stages from "River City Cat Clash"
+9383	Clear stages from "River City Three-Leg Race"
+9384	Clear stages from "River City Three-Leg Race"
+9385	Clear stages from "Street Fighter V CE Collab"
+9386	Clear stages from "Street Fighter V CE Collab"
+9387	Clear stages from "Street Fighter V CE Collab"

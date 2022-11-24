@@ -623,3 +623,5 @@
 622	
 623	
 624	Oiseau ancestral nimbé de foudre qui vit dans<br>une tour céleste. Selon la légende, cette créature<br>majestueuse dissimule néanmoins un naturel violent,<br>en particulier quand il est acculé.
+625	
+626	

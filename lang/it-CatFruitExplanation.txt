@@ -640,7 +640,7 @@
 639	<br><br>
 640	<br><br>
 641	<br><br>
-642	<br><br>
+642	La Forma Reale ottiene maggiore difesa!<br>Inoltre, scatena sempre attacchi a valanga!<br>
 643	<br><br>
 644	<br><br>
 645	<br><br>
@@ -684,3 +684,7 @@
 683	<br><br>
 684	<br><br>
 685	La Forma Reale rivela la sua forma finale!<br>Garantisce anche la perforazione/rottura<br>di scudi e barriere!
+686	<br><br>
+687	<br><br>
+688	<br><br>
+689	<br><br>

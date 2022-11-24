@@ -13,9 +13,9 @@
 12	Trova ogni tesoro superiore in Gatti del Cosmo Cap. 2
 13	Trova ogni tesoro superiore in Gatti del Cosmo Cap. 3
 14	Sconfiggi Ostruzione Obstructa.
-15	Supera tutti i Livelli leggendari<br>di livello 1
-16	Supera tutti i Livelli leggendari<br>di livello 2
-17	Supera tutti i Livelli leggendari<br>di livello 3
+15	Supera tutti i livelli 1 delle<br>Saghe leggendarie
+16	Supera tutti i livelli 2 delle<br>Saghe leggendarie
+17	Supera tutti i livelli 3 delle<br>Saghe leggendarie
 18	Supera "Catastrofe cremisi"
 19	Supera "Paradiso delle tenebre"
 20	Supera "Ineguagliabile"
@@ -83,7 +83,7 @@
 82	Supera "Guerra totale: Speciale autunnale"
 83	Supera "Guerra totale: Speciale invernale"
 84	Supera tutte le mappe stagionali di Guerra totale
-85	Supera tutti i Livelli leggendari di livello 4
+85	Supera tutti i livelli 4 delle<br>Saghe leggendarie
 86	Sconfiggi Idi:Re e supera il suo livello.
 87	Supera "Preludio della fine"
 88	Sblocca Doron in maschera stagionato

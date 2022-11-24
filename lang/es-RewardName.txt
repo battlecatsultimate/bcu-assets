@@ -129,6 +129,10 @@
 171	Piedra M. amarilla
 172	Agua bendita
 173	Redes legendarias
+174	仮
+175	仮
+176	仮
+177	仮
 1005	Gato de Bronce
 1100	Gato de Bronce
 1001	Gato Deportista
@@ -523,6 +527,7 @@
 15619	Amakusa Inmortal
 15620	Lilin π divina
 15633	Diabolosa Destructora
+15643	Lucifer Todopoderoso
 15657	Gato Haniwa
 15659	Gato Mensajero
 15660	Gatarzán

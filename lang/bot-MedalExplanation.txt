@@ -13,9 +13,9 @@
 12	Collect all Gold Treasures from Cats of the Cosmos Ch. 2
 13	Collect all Gold Treasures from Cats of the Cosmos Ch. 3
 14	Defeat Filibuster Obstructa.
-15	Clear All Level 1<br>Legend Stages
-16	Clear All Level 2<br>Legend Stages
-17	Clear All Level 3<br>Legend Stages
+15	Clear All Level 1<br>Stories of Legend stages
+16	Clear All Level 2<br>Stories of Legend stages
+17	Clear All Level 3<br>Stories of Legend stages
 18	Clear "Crimson Catastrophe"
 19	Clear "Heaven of Darkness"
 20	Clear "Peerless"
@@ -83,7 +83,7 @@
 82	Clear "Total War: Fall Special"
 83	Clear "Total War: Winter Special"
 84	Clear all Total War season maps
-85	Clear All Level 4<br>Legend Stages
+85	Clear All Level 4<br>Stories of Legend stages
 86	Defeat Idi:Re and clear her stage.
 87	Clear "Prelude to Ruin"
 88	Unlock Elder Mask Doron

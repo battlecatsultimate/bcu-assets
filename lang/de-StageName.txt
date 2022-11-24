@@ -1421,6 +1421,12 @@
 001-321-000	Weltweites Verschlafen
 001-321-001	Gelierte Ozeane
 001-321-002	Erde im Stillstand
+001-325		Nacht 1: Santa Klaus bei der Arbeit
+001-325-000	5.000 Geschenke/Sek.
+001-325-001	Schlaflose Kinder
+001-325-002	Geschenkrückgabe
+001-325-003	Rentierstreik
+001-325-004	Geschenktes Lächeln
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3312,6 +3318,13 @@
 013-041-003	Umhang des Verbergens
 013-041-004	Halle der Bankette
 013-041-005	Grille Fleisch statt Städte
+013-042		Behemothgipfel
+013-042-000	Brunnen der Erinnerungen
+013-042-001	Chaotischer Puls
+013-042-002	Jenseits des Nebels
+013-042-003	Grenzboden
+013-042-004	Silberstrom
+013-042-005	Unsterblicher Zenit
 013-043		Muhdistenstrand
 013-043-000	Sterne im Glas
 013-043-001	Nacht des Gauners
@@ -4291,6 +4304,17 @@
 024-056-007	Parade St. 8
 024-056-008	Parade St. 9
 024-056-009	Parade St. MAX
+024-058		Nacht 2: Lieferung am Weihnachtsabend
+024-058-000	Lieferung St. 1
+024-058-001	Lieferung St. 2
+024-058-002	Lieferung St. 3
+024-058-003	Lieferung St. 4
+024-058-004	Lieferung St. 5
+024-058-005	Lieferung St. 6
+024-058-006	Lieferung St. 7
+024-058-007	Lieferung St. 8
+024-058-008	Lieferung St. 9
+024-058-009	Lieferung St. MAX
 
 025			Enigma Stages
 025-000		Atium-Felder

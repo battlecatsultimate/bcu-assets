@@ -623,3 +623,5 @@
 622	
 623	
 624	Uccello ancestrale avvolto nei tuoni che vive in<br>una torre nel cielo. Le leggende dicono che è uno<br>spettacolo da vedere, ma nasconde una personalità violenta<br>che diventa più feroce quando viene messo in difficoltà.
+625	
+626	

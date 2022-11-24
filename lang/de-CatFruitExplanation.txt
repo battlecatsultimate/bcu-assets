@@ -640,7 +640,7 @@
 639	<br><br>
 640	<br><br>
 641	<br><br>
-642	<br><br>
+642	Wahre-Form-Entwicklung erhöht Verteidigung!<br>Entfesselt immer Zufallsangriffe!<br>
 643	<br><br>
 644	<br><br>
 645	<br><br>
@@ -684,3 +684,7 @@
 683	<br><br>
 684	<br><br>
 685	Wahre Form enthüllt letzte Form!<br>Durchbricht/durchdringt außerdem<br>garantiert Schilde und Barrieren!
+686	<br><br>
+687	<br><br>
+688	<br><br>
+689	<br><br>

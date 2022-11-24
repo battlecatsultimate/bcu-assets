@@ -640,7 +640,7 @@
 639			
 640			
 641	Iz ballerina	Iz ballerina seducente	
-642	Lucifero caduto	Lucifero il Grande	
+642	Lucifero caduto	Lucifero il Grande	Lucifero Onnipotente
 643	Superfelino	Superfelino II	
 644	Mekako dolce amore	Mekako dolceamara	
 645	Gatto ascia plagiato	Gatto prode plagiato	
@@ -678,9 +678,13 @@
 677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC	
 678	Yuma Kuga & Cat	Yuma Kuga & Cat CC	
 679	Chika Amatori & Cat	Chika Amatori & Cat CC	
-680			
-681			
+680	Sakura	Sakura CC	
+681	Luke	Luke CC	
 682	Vega gotica spettrale	Vega guardiana illusoria	
 683	Conte Yukimura	Vampiro Yukimura	
 684	Pescegatto plagiato	Gattorca plagiato	
 685	Uovo antico N004	Uovo mistico N004	Gatto Supercar
+686	Sirio dea della luce	Sirio dea dell'alba	
+687	Terun renna	Terun renna ζ	
+688	Lucertogatto plagiato	Gatto Dragone plagiato	
+689			

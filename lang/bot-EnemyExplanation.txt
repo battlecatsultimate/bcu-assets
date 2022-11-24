@@ -623,3 +623,5 @@
 622	
 623	
 624	Ancestral bird cloaked in thunder that lives in<br>a tower in the sky. Legends say that it is a<br>sight to behold, but hides a violent personality<br>that grows more fierce when cornered.
+625	
+626	

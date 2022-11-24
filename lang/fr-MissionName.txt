@@ -24,19 +24,19 @@
 24	Mission du 6e anniversaire. Termine L’empire des Chats ch. 1 pendant cet événement !
 25	Termine tous les niveaux de Même les étoiles se consument ! * Termine le dernier niveau de Les Chats du cosmos ch. 3
 26	Mission du 7e anniversaire. Termine L’empire des Chats ch. 1 pendant cet événement !
-27	Termine tous les Niveaux légendaires. de niveau 2 pour accomplir cette mission
-28	Termine tous les Niveaux légendaires. de niveau 3 pour accomplir cette mission
+27	Termine toutes les Histoires lég. de niv. 2 pour finir la mission
+28	Termine toutes les Histoires lég. de niv. 3 pour finir la mission
 29	Mission du 8e anniversaire. Termine L’empire des Chats ch. 1 pendant cet événement !
 8000	Termine des lieux à récompenses tickets Chapsules 3 fois !
 8001	Termine des lieux à récompenses XP 5 fois !
-8002	Termine 5 lieux des Histoires légendaires !
+8002	Termine 5 Histoires légendaires jaunes !
 8003	Réussis 7 expéditions avec Gamatoto !
 8004	Termine toutes les missions hebdomadaires !
 8005	Termine des lieux à récompenses tickets Chapsules 3 fois !
 8006	Termine des lieux à récompenses XP 5 fois !
 8007	Réussis 10 expéditions avec Gamatoto !
 8008	Termine des lieux à récompenses Chagrume 3 fois !
-8009	Termine 10 lieux des Histoires légendaires !
+8009	Termine 10 Histoires légendaires jaunes !
 8010	Termine toutes les missions hebdomadaires !
 8011	Termine toutes les missions hebdomadaires !
 9000	Viens à bout du 30e étage de la Tour céleste. ※ Cette récompense ne s’obtient qu’une fois
@@ -301,22 +301,22 @@
 1315	Élimine Visalien dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
 1316	Élimine Sangrillé Nimoy dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
 1317	Élimine Valkyrie corrompue dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1318	Élimine Sainte Porca II. au niveau légendaire de niveau 1 !
-1319	Élimine Sombre toutou. au niveau légendaire de niveau 1 !
-1320	Élimine Maître Taman. au niveau légendaire de niveau 1 !
-1321	Élimine Telquel. au niveau légendaire de niveau 1 !
-1322	Élimine Caniche starlette. au niveau légendaire de niveau 1 !
-1323	Élimine Laparesse. au niveau légendaire de niveau 1 !
-1324	Élimine Otaroc. au niveau légendaire de niveau 1 !
-1325	Élimine Rouge Bun Bun. au niveau légendaire de niveau 1 !
-1326	Élimine Sangrillé. au niveau légendaire de niveau 1 !
-1327	Élimine Hibougre. au niveau légendaire de niveau 1 !
-1328	Élimine Camela. au niveau légendaire de niveau 1 !
-1329	Élimine Koko. au niveau légendaire de niveau 1 !
-1330	Élimine Réal Kurosawah. au niveau légendaire de niveau 1 !
-1331	Élimine Monocorne métal. au niveau légendaire de niveau 1 !
-1332	Élimine Hi Yen. au niveau légendaire de niveau 1 !
-1333	Élimine Loup ururun. au niveau légendaire de niveau 1 !
+1318	Élimine Sainte Porca II dans. une Histoire légendaire de niv. 1 !
+1319	Élimine Sombre toutou dans. une Histoire légendaire de niv. 1 !
+1320	Élimine Maître Taman dans. une Histoire légendaire de niv. 1 !
+1321	Élimine Telquel dans. une Histoire légendaire de niv. 1 !
+1322	Élimine Caniche starlette dans. une Histoire légendaire de niv. 1 !
+1323	Élimine Laparesse dans. une Histoire légendaire de niv. 1 !
+1324	Élimine Otaroc dans. une Histoire légendaire de niv. 1 !
+1325	Élimine Rouge Bun Bun dans. une Histoire légendaire de niv. 1 !
+1326	Élimine Sangrillé dans. une Histoire légendaire de niv. 1 !
+1327	Élimine Hibougre dans. une Histoire légendaire de niv. 1 !
+1328	Élimine Camela dans. une Histoire légendaire de niv. 1 !
+1329	Élimine Koko dans. une Histoire légendaire de niv. 1 !
+1330	Élimine Réal Kurosawah dans. une Histoire légendaire de niv. 1 !
+1331	Élimine Monocorne métal dans. une Histoire légendaire de niv. 1 !
+1332	Élimine Hi Yen dans. une Histoire légendaire de niv. 1 !
+1333	Élimine Loup ururun dans. une Histoire légendaire de niv. 1 !
 1334	Élimine Cyclone rouge dans Catastrophe écarlate. ※ Une fois dans un lieu de Catastrophe écarlate
 1335	Élimine Cyclone noir dans Paradis des ténèbres. ※ Une fois dans un lieu de Paradis des ténèbres
 1400	Élimine Dame caniche dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
@@ -336,23 +336,23 @@
 1414	Élimine Sombrotarie dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
 1415	Élimine Sangrillé Nimoy dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
 1416	Élimine Chat Bahamut enragé dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1417	Élimine Dobert. au niveau légendaire de niveau 1 !
-1418	Élimine Autrux. au niveau légendaire de niveau 1 !
-1419	Élimine Gégé poisson-lune. au niveau légendaire de niveau 1 !
-1420	Élimine Super hippo métal. au niveau légendaire de niveau 1 !
-1421	Élimine Toutou mur. au niveau légendaire de niveau 1 !
-1422	Élimine Pigeon de sable. au niveau légendaire de niveau 1 !
-1423	Élimine Sleipnir angélique. au niveau légendaire de niveau 1 !
-1424	Élimine P’tit Nyandam. au niveau légendaire de niveau 1 !
-1425	Élimine Poussinange. au niveau légendaire de niveau 1 !
-1426	Élimine Caby. au niveau légendaire de niveau 1 !
-1427	Élimine Piaf. au niveau légendaire de niveau 1 !
-1428	Élimine Berserkoko. au niveau légendaire de niveau 1 !
-1429	Élimine Mr. Taupe. au niveau légendaire de niveau 1 !
-1430	Élimine Toukan. au niveau légendaire de niveau 1 !
-1431	Élimine Chaperon à roquettes. au niveau légendaire de niveau 1 !
-1432	Élimine Hippoka noir. au niveau légendaire de niveau 1 !
-1433	Élimine Sangriphin. au niveau légendaire de niveau 1 !
+1417	Élimine Dobert dans. une Histoire légendaire de niv. 1 !
+1418	Élimine Autrux dans. une Histoire légendaire de niv. 1 !
+1419	Élimine Gégé poisson-lune dans. une Histoire légendaire de niv. 1 !
+1420	Élimine Super hippo métal dans. une Histoire légendaire de niv. 1 !
+1421	Élimine Toutou mur dans. une Histoire légendaire de niv. 1 !
+1422	Élimine Pigeon de sable dans. une Histoire légendaire de niv. 1 !
+1423	Élimine Sleipnir angélique dans. une Histoire légendaire de niv. 1 !
+1424	Élimine P’tit Nyandam dans. une Histoire légendaire de niv. 1 !
+1425	Élimine Poussinange dans. une Histoire légendaire de niv. 1 !
+1426	Élimine Caby dans. une Histoire légendaire de niv. 1 !
+1427	Élimine Piaf dans. une Histoire légendaire de niv. 1 !
+1428	Élimine Berserkoko dans. une Histoire légendaire de niv. 1 !
+1429	Élimine Mr. Taupe dans. une Histoire légendaire de niv. 1 !
+1430	Élimine Toukan dans. une Histoire légendaire de niv. 1 !
+1431	Élimine Chaperon à roquettes dans. une Histoire légendaire de niv. 1 !
+1432	Élimine Hippoka noir dans. une Histoire légendaire de niv. 1 !
+1433	Élimine Sangriphin dans. une Histoire légendaire de niv. 1 !
 1434	Élimine Cyclone blanc dans Sans égal. ※ Une fois dans un lieu de Sans égal
 1435	Élimine Cyclone divin dans Colère des cieux. ※ Une fois dans un lieu de Colère des dieux
 1500	Élimine Extratoutou d’élite dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
@@ -372,23 +372,23 @@
 1514	Élimine Spatio-poisson dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
 1515	Élimine Toutou métal dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
 1516	Élimine Le Dieu des Chats dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1517	Élimine Laparesse. au niveau légendaire de niveau 2 !
-1518	Élimine Timide. au niveau légendaire de niveau 2 !
-1519	Élimine Rouge Bun Bun. au niveau légendaire de niveau 2 !
-1520	Élimine Sombre empereur Nyandam. au niveau légendaire de niveau 2 !
-1521	Élimine Professeur Bun Bun. au niveau légendaire de niveau 2 !
-1522	Élimine Sangrillé. au niveau légendaire de niveau 2 !
-1523	Élimine Koko. au niveau légendaire de niveau 2 !
-1524	Élimine Réal Kurosawah. au niveau légendaire de niveau 2 !
-1525	Élimine Autrux. au niveau légendaire de niveau 2 !
-1526	Élimine Loup ururun. au niveau légendaire de niveau 2 !
-1527	Élimine Sleipnir angélique. au niveau légendaire de niveau 2 !
-1528	Élimine P’tit Nyandam. au niveau légendaire de niveau 2 !
-1529	Élimine Berserkoko. au niveau légendaire de niveau 2 !
-1530	Élimine Rennato. au niveau légendaire de niveau 2 !
-1531	Élimine Camela. au niveau légendaire de niveau 2 !
-1532	Élimine Hi Yen. au niveau légendaire de niveau 2 !
-1533	Élimine Dobert. au niveau légendaire de niveau 2 !
+1517	Élimine Laparesse dans. une Histoire légendaire de niv. 2 !
+1518	Élimine Timide dans. une Histoire légendaire de niv. 2 !
+1519	Élimine Rouge Bun Bun dans. une Histoire légendaire de niv. 2 !
+1520	Élimine Sombre empereur Nyandam dans. une Histoire légendaire de niv. 2 !
+1521	Élimine Professeur Bun Bun dans. une Histoire légendaire de niv. 2 !
+1522	Élimine Sangrillé dans. une Histoire légendaire de niv. 2 !
+1523	Élimine Koko dans. une Histoire légendaire de niv. 2 !
+1524	Élimine Réal Kurosawah dans. une Histoire légendaire de niv. 2 !
+1525	Élimine Autrux dans. une Histoire légendaire de niv. 2 !
+1526	Élimine Loup ururun dans. une Histoire légendaire de niv. 2 !
+1527	Élimine Sleipnir angélique dans. une Histoire légendaire de niv. 2 !
+1528	Élimine P’tit Nyandam dans. une Histoire légendaire de niv. 2 !
+1529	Élimine Berserkoko dans. une Histoire légendaire de niv. 2 !
+1530	Élimine Rennato dans. une Histoire légendaire de niv. 2 !
+1531	Élimine Camela dans. une Histoire légendaire de niv. 2 !
+1532	Élimine Hi Yen dans. une Histoire légendaire de niv. 2 !
+1533	Élimine Dobert dans. une Histoire légendaire de niv. 2 !
 1534	Élimine Cyclone métal dans Douce ironie. ※ Une fois dans un lieu de Douce ironie
 1535	Élimine Cyclone cosmique dans Dimension désespoir. ※ Une fois dans un lieu de Dimension désespoir
 1600	Élimine UltraBêêBêê dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
@@ -411,20 +411,20 @@
 1617	Élimine Gory dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
 1618	Élimine Monocorne métal dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
 1619	Élimine Dieu des Chats dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1620	Élimine Mr. Ange. au niveau légendaire de niveau 1 !
-1621	Élimine Henry. au niveau légendaire de niveau 1 !
-1622	Élimine P’tit Bun Bun. au niveau légendaire de niveau 1 !
-1623	Élimine Professeur Taman. au niveau légendaire de niveau 1 !
-1624	Élimine Zanglier. au niveau légendaire de niveau 1 !
-1625	Élimine Zombitou. au niveau légendaire de niveau 1 !
-1626	Élimine Zombippo. au niveau légendaire de niveau 1 !
-1627	Élimine Zombiporca. au niveau légendaire de niveau 1 !
-1628	Élimine Zackie Peng. au niveau légendaire de niveau 1 !
-1629	Élimine Toutombeau. au niveau légendaire de niveau 1 !
-1630	Élimine Salamoindre. au niveau légendaire de niveau 1 !
-1631	Élimine Chiencueil. au niveau légendaire de niveau 1 !
-1632	Élimine Zamela. au niveau légendaire de niveau 1 !
-1633	Élimine RIP toutou. au niveau légendaire de niveau 1 !
+1620	Élimine Mr. Ange dans. une Histoire légendaire de niv. 1 !
+1621	Élimine Henry dans. une Histoire légendaire de niv. 1 !
+1622	Élimine P’tit Bun Bun dans. une Histoire légendaire de niv. 1 !
+1623	Élimine Professeur Taman dans. une Histoire légendaire de niv. 1 !
+1624	Élimine Zanglier dans. une Histoire légendaire de niv. 1 !
+1625	Élimine Zombitou dans. une Histoire légendaire de niv. 1 !
+1626	Élimine Zombippo dans. une Histoire légendaire de niv. 1 !
+1627	Élimine Zombiporca dans. une Histoire légendaire de niv. 1 !
+1628	Élimine Zackie Peng dans. une Histoire légendaire de niv. 1 !
+1629	Élimine Toutombeau dans. une Histoire légendaire de niv. 1 !
+1630	Élimine Salamoindre dans. une Histoire légendaire de niv. 1 !
+1631	Élimine Chiencueil dans. une Histoire légendaire de niv. 1 !
+1632	Élimine Zamela dans. une Histoire légendaire de niv. 1 !
+1633	Élimine RIP toutou dans. une Histoire légendaire de niv. 1 !
 1634	Élimine Parfait cyclone dans Rouge levant. ※ Une fois dans un lieu de Rouge levant
 1635	Élimine Zyclone dans La mort qui roule. ※ Une fois dans un lieu de La mort qui roule
 1700	Élimine Mesocosmocyclone dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
@@ -447,130 +447,130 @@
 1717	Élimine Alpadrom dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
 1718	Élimine Toutou métal dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
 1719	Élimine Boss final Méga-Dieu dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1720	Élimine Sire Phoque métal. au niveau légendaire de niveau 1 !
-1721	Élimine Toutou métal. au niveau légendaire de niveau 1 !
-1722	Élimine Éléfombre. au niveau légendaire de niveau 1 !
-1723	Élimine Zombicroc. au niveau légendaire de niveau 1 !
-1724	Élimine Zory. au niveau légendaire de niveau 1 !
-1725	Élimine Zire phoque. au niveau légendaire de niveau 1 !
-1726	Élimine Zang Rou. au niveau légendaire de niveau 1 !
-1727	Élimine Inumusha. au niveau légendaire de niveau 1 !
-1728	Élimine Dolphina. au niveau légendaire de niveau 1 !
-1729	Élimine Cala Maria. au niveau légendaire de niveau 1 !
-1730	Élimine Croapaud. au niveau légendaire de niveau 1 !
-1731	Élimine Cantou. au niveau légendaire de niveau 1 !
-1732	Élimine Porca ailée. au niveau légendaire de niveau 1 !
-1733	Élimine Hippoka rouge. au niveau légendaire de niveau 1 !
-1734	Élimine Méca-Bun. au niveau légendaire de niveau 1 !
+1720	Élimine Sire Phoque métal dans. une Histoire légendaire de niv. 1 !
+1721	Élimine Toutou métal dans. une Histoire légendaire de niv. 1 !
+1722	Élimine Éléfombre dans. une Histoire légendaire de niv. 1 !
+1723	Élimine Zombicroc dans. une Histoire légendaire de niv. 1 !
+1724	Élimine Zory dans. une Histoire légendaire de niv. 1 !
+1725	Élimine Zire phoque dans. une Histoire légendaire de niv. 1 !
+1726	Élimine Zang Rou dans. une Histoire légendaire de niv. 1 !
+1727	Élimine Inumusha dans. une Histoire légendaire de niv. 1 !
+1728	Élimine Dolphina dans. une Histoire légendaire de niv. 1 !
+1729	Élimine Cala Maria dans. une Histoire légendaire de niv. 1 !
+1730	Élimine Croapaud dans. une Histoire légendaire de niv. 1 !
+1731	Élimine Cantou dans. une Histoire légendaire de niv. 1 !
+1732	Élimine Porca ailée dans. une Histoire légendaire de niv. 1 !
+1733	Élimine Hippoka rouge dans. une Histoire légendaire de niv. 1 !
+1734	Élimine Méca-Bun dans. une Histoire légendaire de niv. 1 !
 1735	Élimine Cyclone super cosmique dans 2e dimension. ※ Une fois dans un lieu de 2e dimension
-1800	Élimine Loup ururun. au niveau légendaire de niveau 3 !
-1801	Élimine P’tit Nyandam. au niveau légendaire de niveau 3 !
-1802	Élimine Berserkoko. au niveau légendaire de niveau 3 !
-1803	Élimine Chaperon à roquettes. au niveau légendaire de niveau 3 !
-1804	Élimine Hippoka noir. au niveau légendaire de niveau 3 !
-1805	Élimine Sangriphin. au niveau légendaire de niveau 3 !
-1806	Élimine Henry. au niveau légendaire de niveau 3 !
-1807	Élimine P’tit Bun Bun. au niveau légendaire de niveau 3 !
-1808	Élimine Professeur Taman. au niveau légendaire de niveau 3 !
-1809	Élimine Zanglier. au niveau légendaire de niveau 3 !
-1810	Élimine Zombitou. au niveau légendaire de niveau 3 !
-1811	Élimine Zang Rou. au niveau légendaire de niveau 3 !
-1812	Élimine Zombicroc. au niveau légendaire de niveau 3 !
-1813	Élimine Zackie Peng. au niveau légendaire de niveau 3 !
-1814	Élimine Zory. au niveau légendaire de niveau 3 !
-1815	Élimine Zire phoque. au niveau légendaire de niveau 3 !
-1816	Élimine Toutombeau. au niveau légendaire de niveau 3 !
-1817	Élimine Salamoindre. au niveau légendaire de niveau 3 !
-1818	Élimine Chiencueil. au niveau légendaire de niveau 3 !
-1819	Élimine Zamela. au niveau légendaire de niveau 3 !
-1820	Élimine RIP toutou. au niveau légendaire de niveau 3 !
-1821	Élimine Inumusha. au niveau légendaire de niveau 3 !
-1822	Élimine Dolphina. au niveau légendaire de niveau 3 !
-1823	Élimine Cala Maria. au niveau légendaire de niveau 3 !
-1824	Élimine Croapaud. au niveau légendaire de niveau 3 !
-1825	Élimine Cantou. au niveau légendaire de niveau 3 !
-1826	Élimine Porca ailée. au niveau légendaire de niveau 3 !
-1827	Élimine Extratoutou d’élite. au niveau légendaire de niveau 3 !
-1828	Élimine Caporal Topox. au niveau légendaire de niveau 3 !
-1829	Élimine Spatio-poisson. au niveau légendaire de niveau 3 !
-1830	Élimine Projet Taman. au niveau légendaire de niveau 3 !
-1831	Élimine Général GréGory. au niveau légendaire de niveau 3 !
-1832	Élimine Peng étoilé. au niveau légendaire de niveau 3 !
-1833	Élimine Hippoka rouge. au niveau légendaire de niveau 3 !
-1834	Élimine UltraBêêBêê. au niveau légendaire de niveau 3 !
-1835	Élimine Méca-Bun. au niveau légendaire de niveau 3 !
-1900	Élimine Rouge Bun Bun. au niveau légendaire de niveau 4 !
-1901	Élimine Sangrillé. au niveau légendaire de niveau 4 !
-1902	Élimine Professeur Bun Bun. au niveau légendaire de niveau 4 !
-1903	Élimine Koko. au niveau légendaire de niveau 4 !
-1904	Élimine Réal Kurosawah. au niveau légendaire de niveau 4 !
-1905	Élimine Noir Bun Bun. au niveau légendaire de niveau 4 !
-1906	Élimine Autrux. au niveau légendaire de niveau 4 !
-1907	Élimine Loup ururun. au niveau légendaire de niveau 4 !
-1908	Élimine Toutou mur. au niveau légendaire de niveau 4 !
-1909	Élimine Sleipnir angélique. au niveau légendaire de niveau 4 !
-1910	Élimine Toutou métal. au niveau légendaire de niveau 4 !
-1911	Élimine P’tit Nyandam. au niveau légendaire de niveau 4 !
-1912	Élimine Berserkoko. au niveau légendaire de niveau 4 !
-1913	Élimine Mr. Taupe. au niveau légendaire de niveau 4 !
-1914	Élimine Chaperon à roquettes. au niveau légendaire de niveau 4 !
-1915	Élimine Toukan. au niveau légendaire de niveau 4 !
-1916	Élimine Hippoka noir. au niveau légendaire de niveau 4 !
-1917	Élimine Sangriphin. au niveau légendaire de niveau 4 !
-1918	Élimine Henry. au niveau légendaire de niveau 4 !
-1919	Élimine P’tit Bun Bun. au niveau légendaire de niveau 4 !
-1920	Élimine Professeur Taman. au niveau légendaire de niveau 4 !
-1921	Élimine Zanglier. au niveau légendaire de niveau 4 !
-1922	Élimine Zombitou. au niveau légendaire de niveau 4 !
-1923	Élimine Zang Rou. au niveau légendaire de niveau 4 !
-1924	Élimine Zory. au niveau légendaire de niveau 4 !
-1925	Élimine Chiencueil. au niveau légendaire de niveau 4 !
-1926	Élimine Inumusha. au niveau légendaire de niveau 4 !
-1927	Élimine Dolphina. au niveau légendaire de niveau 4 !
-1928	Élimine Cala Maria. au niveau légendaire de niveau 4 !
-1929	Élimine Croapaud. au niveau légendaire de niveau 4 !
-1930	Élimine Porca ailée. au niveau légendaire de niveau 4 !
-1931	Élimine Extratoutou d’élite. au niveau légendaire de niveau 4 !
-1932	Élimine Caporal Topox. au niveau légendaire de niveau 4 !
-1933	Élimine Spatio-poisson. au niveau légendaire de niveau 4 !
-1934	Élimine Général GréGory. au niveau légendaire de niveau 4 !
-1935	Élimine Peng étoilé. au niveau légendaire de niveau 4 !
-2000	Élimine La Tête. au niveau légendaire de niveau 4 !
-2001	Élimine Timide. au niveau légendaire de niveau 4 !
-2002	Élimine Otaroc. au niveau légendaire de niveau 4 !
-2003	Élimine Camela. au niveau légendaire de niveau 4 !
-2004	Élimine Kanar. au niveau légendaire de niveau 4 !
-2005	Élimine Hibougre. au niveau légendaire de niveau 4 !
-2006	Élimine Laparesse. au niveau légendaire de niveau 4 !
-2007	Élimine Rennato. au niveau légendaire de niveau 4 !
-2008	Élimine Caniche starlette. au niveau légendaire de niveau 4 !
-2009	Élimine Sombre empereur Nyandam. au niveau légendaire de niveau 4 !
-2010	Élimine Maître Taman. au niveau légendaire de niveau 4 !
-2011	Élimine Cisaillourou. au niveau légendaire de niveau 4 !
-2012	Élimine Hi Yen. au niveau légendaire de niveau 4 !
-2013	Élimine Dobert. au niveau légendaire de niveau 4 !
-2014	Élimine Hippo métal. au niveau légendaire de niveau 4 !
-2015	Élimine Sainte Porca II. au niveau légendaire de niveau 4 !
-2016	Élimine Gégé poisson-lune. au niveau légendaire de niveau 4 !
-2017	Élimine Pigeon de sable. au niveau légendaire de niveau 4 !
-2018	Élimine Zerpan. au niveau légendaire de niveau 4 !
-2019	Élimine Zombippo. au niveau légendaire de niveau 4 !
-2020	Élimine Zombiporca. au niveau légendaire de niveau 4 !
-2021	Élimine Zackie Peng. au niveau légendaire de niveau 4 !
-2022	Élimine Dame caniche. au niveau légendaire de niveau 4 !
-2023	Élimine Zire phoque. au niveau légendaire de niveau 4 !
-2024	Élimine Zombicroc. au niveau légendaire de niveau 4 !
-2025	Élimine Toutombeau. au niveau légendaire de niveau 4 !
-2026	Élimine Telquel. au niveau légendaire de niveau 4 !
-2027	Élimine Gory noir. au niveau légendaire de niveau 4 !
-2028	Élimine Étoiléfante. au niveau légendaire de niveau 4 !
-2029	Élimine Projet Taman. au niveau légendaire de niveau 4 !
-2030	Élimine Sombrourou. au niveau légendaire de niveau 4 !
-2031	Élimine Super hippo métal. au niveau légendaire de niveau 4 !
-2032	Élimine Sombrotarie. au niveau légendaire de niveau 4 !
-2033	Élimine Poussinange. au niveau légendaire de niveau 4 !
-2034	Élimine Sangrillé Nimoy. au niveau légendaire de niveau 4 !
-2035	Élimine Elizabête. au niveau légendaire de niveau 4 !
+1800	Élimine Loup ururun dans . une Histoire légendaire de niv. 3 !
+1801	Élimine P’tit Nyandam dans . une Histoire légendaire de niv. 3 !
+1802	Élimine Berserkoko dans . une Histoire légendaire de niv. 3 !
+1803	Élimine Chaperon à roquettes dans . une Histoire légendaire de niv. 3 !
+1804	Élimine Hippoka noir dans . une Histoire légendaire de niv. 3 !
+1805	Élimine Sangriphin dans . une Histoire légendaire de niv. 3 !
+1806	Élimine Henry dans . une Histoire légendaire de niv. 3 !
+1807	Élimine P’tit Bun Bun dans . une Histoire légendaire de niv. 3 !
+1808	Élimine Professeur Taman dans . une Histoire légendaire de niv. 3 !
+1809	Élimine Zanglier dans . une Histoire légendaire de niv. 3 !
+1810	Élimine Zombitou dans . une Histoire légendaire de niv. 3 !
+1811	Élimine Zang Rou dans . une Histoire légendaire de niv. 3 !
+1812	Élimine Zombicroc dans . une Histoire légendaire de niv. 3 !
+1813	Élimine Zackie Peng dans . une Histoire légendaire de niv. 3 !
+1814	Élimine Zory dans . une Histoire légendaire de niv. 3 !
+1815	Élimine Zire phoque dans . une Histoire légendaire de niv. 3 !
+1816	Élimine Toutombeau dans . une Histoire légendaire de niv. 3 !
+1817	Élimine Salamoindre dans . une Histoire légendaire de niv. 3 !
+1818	Élimine Chiencueil dans . une Histoire légendaire de niv. 3 !
+1819	Élimine Zamela dans . une Histoire légendaire de niv. 3 !
+1820	Élimine RIP toutou dans . une Histoire légendaire de niv. 3 !
+1821	Élimine Inumusha dans . une Histoire légendaire de niv. 3 !
+1822	Élimine Dolphina dans . une Histoire légendaire de niv. 3 !
+1823	Élimine Cala Maria dans . une Histoire légendaire de niv. 3 !
+1824	Élimine Croapaud dans . une Histoire légendaire de niv. 3 !
+1825	Élimine Cantou dans . une Histoire légendaire de niv. 3 !
+1826	Élimine Porca ailée dans . une Histoire légendaire de niv. 3 !
+1827	Élimine Extratoutou d’élite dans . une Histoire légendaire de niv. 3 !
+1828	Élimine Caporal Topox dans . une Histoire légendaire de niv. 3 !
+1829	Élimine Spatio-poisson dans . une Histoire légendaire de niv. 3 !
+1830	Élimine Projet Taman dans . une Histoire légendaire de niv. 3 !
+1831	Élimine Général GréGory dans . une Histoire légendaire de niv. 3 !
+1832	Élimine Peng étoilé dans . une Histoire légendaire de niv. 3 !
+1833	Élimine Hippoka rouge dans . une Histoire légendaire de niv. 3 !
+1834	Élimine UltraBêêBêê dans . une Histoire légendaire de niv. 3 !
+1835	Élimine Méca-Bun dans . une Histoire légendaire de niv. 3 !
+1900	Élimine Rouge Bun Bun dans . une Histoire légendaire de niv. 4 !
+1901	Élimine Sangrillé dans . une Histoire légendaire de niv. 4 !
+1902	Élimine Professeur Bun Bun dans . une Histoire légendaire de niv. 4 !
+1903	Élimine Koko dans . une Histoire légendaire de niv. 4 !
+1904	Élimine Réal Kurosawah dans . une Histoire légendaire de niv. 4 !
+1905	Élimine Noir Bun Bun dans . une Histoire légendaire de niv. 4 !
+1906	Élimine Autrux dans . une Histoire légendaire de niv. 4 !
+1907	Élimine Loup ururun dans . une Histoire légendaire de niv. 4 !
+1908	Élimine Toutou mur dans . une Histoire légendaire de niv. 4 !
+1909	Élimine Sleipnir angélique dans . une Histoire légendaire de niv. 4 !
+1910	Élimine Toutou métal dans . une Histoire légendaire de niv. 4 !
+1911	Élimine P’tit Nyandam dans . une Histoire légendaire de niv. 4 !
+1912	Élimine Berserkoko dans . une Histoire légendaire de niv. 4 !
+1913	Élimine Mr. Taupe dans . une Histoire légendaire de niv. 4 !
+1914	Élimine Chaperon à roquettes dans . une Histoire légendaire de niv. 4 !
+1915	Élimine Toukan dans . une Histoire légendaire de niv. 4 !
+1916	Élimine Hippoka noir dans . une Histoire légendaire de niv. 4 !
+1917	Élimine Sangriphin dans . une Histoire légendaire de niv. 4 !
+1918	Élimine Henry dans . une Histoire légendaire de niv. 4 !
+1919	Élimine P’tit Bun Bun dans . une Histoire légendaire de niv. 4 !
+1920	Élimine Professeur Taman dans . une Histoire légendaire de niv. 4 !
+1921	Élimine Zanglier dans . une Histoire légendaire de niv. 4 !
+1922	Élimine Zombitou dans . une Histoire légendaire de niv. 4 !
+1923	Élimine Zang Rou dans . une Histoire légendaire de niv. 4 !
+1924	Élimine Zory dans . une Histoire légendaire de niv. 4 !
+1925	Élimine Chiencueil dans . une Histoire légendaire de niv. 4 !
+1926	Élimine Inumusha dans . une Histoire légendaire de niv. 4 !
+1927	Élimine Dolphina dans . une Histoire légendaire de niv. 4 !
+1928	Élimine Cala Maria dans . une Histoire légendaire de niv. 4 !
+1929	Élimine Croapaud dans . une Histoire légendaire de niv. 4 !
+1930	Élimine Porca ailée dans . une Histoire légendaire de niv. 4 !
+1931	Élimine Extratoutou d’élite dans . une Histoire légendaire de niv. 4 !
+1932	Élimine Caporal Topox dans . une Histoire légendaire de niv. 4 !
+1933	Élimine Spatio-poisson dans . une Histoire légendaire de niv. 4 !
+1934	Élimine Général GréGory dans . une Histoire légendaire de niv. 4 !
+1935	Élimine Peng étoilé dans . une Histoire légendaire de niv. 4 !
+2000	Élimine La Tête dans . une Histoire légendaire de niv. 4 !
+2001	Élimine Timide dans . une Histoire légendaire de niv. 4 !
+2002	Élimine Otaroc dans . une Histoire légendaire de niv. 4 !
+2003	Élimine Camela dans . une Histoire légendaire de niv. 4 !
+2004	Élimine Kanar dans . une Histoire légendaire de niv. 4 !
+2005	Élimine Hibougre dans . une Histoire légendaire de niv. 4 !
+2006	Élimine Laparesse dans . une Histoire légendaire de niv. 4 !
+2007	Élimine Rennato dans . une Histoire légendaire de niv. 4 !
+2008	Élimine Caniche starlette dans . une Histoire légendaire de niv. 4 !
+2009	Élimine Sombre empereur Nyandam dans . une Histoire légendaire de niv. 4 !
+2010	Élimine Maître Taman dans . une Histoire légendaire de niv. 4 !
+2011	Élimine Cisaillourou dans . une Histoire légendaire de niv. 4 !
+2012	Élimine Hi Yen dans . une Histoire légendaire de niv. 4 !
+2013	Élimine Dobert dans . une Histoire légendaire de niv. 4 !
+2014	Élimine Hippo métal dans . une Histoire légendaire de niv. 4 !
+2015	Élimine Sainte Porca II dans . une Histoire légendaire de niv. 4 !
+2016	Élimine Gégé poisson-lune dans . une Histoire légendaire de niv. 4 !
+2017	Élimine Pigeon de sable dans . une Histoire légendaire de niv. 4 !
+2018	Élimine Zerpan dans . une Histoire légendaire de niv. 4 !
+2019	Élimine Zombippo dans . une Histoire légendaire de niv. 4 !
+2020	Élimine Zombiporca dans . une Histoire légendaire de niv. 4 !
+2021	Élimine Zackie Peng dans . une Histoire légendaire de niv. 4 !
+2022	Élimine Dame caniche dans . une Histoire légendaire de niv. 4 !
+2023	Élimine Zire phoque dans . une Histoire légendaire de niv. 4 !
+2024	Élimine Zombicroc dans . une Histoire légendaire de niv. 4 !
+2025	Élimine Toutombeau dans . une Histoire légendaire de niv. 4 !
+2026	Élimine Telquel dans . une Histoire légendaire de niv. 4 !
+2027	Élimine Gory noir dans . une Histoire légendaire de niv. 4 !
+2028	Élimine Étoiléfante dans . une Histoire légendaire de niv. 4 !
+2029	Élimine Projet Taman dans . une Histoire légendaire de niv. 4 !
+2030	Élimine Sombrourou dans . une Histoire légendaire de niv. 4 !
+2031	Élimine Super hippo métal dans . une Histoire légendaire de niv. 4 !
+2032	Élimine Sombrotarie dans . une Histoire légendaire de niv. 4 !
+2033	Élimine Poussinange dans . une Histoire légendaire de niv. 4 !
+2034	Élimine Sangrillé Nimoy dans . une Histoire légendaire de niv. 4 !
+2035	Élimine Elizabête dans . une Histoire légendaire de niv. 4 !
 9205	Upgrade Akuma Giraffe to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9206	Upgrade Ryu Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
@@ -634,13 +634,13 @@
 9261	Mega crédit supplém. ④ : Plus de vie marine. Termine 300. Million Dead Molas 5 fois avec Chat Kuwagata
 39	Recherche de l'impératrice 1 : Grimoires hérétiques. Termine Confluence arcanique et Chat méchant !
 40	Recherche de l'impératrice 2 : Agents des ennemis Akus. Termine Serviteur des ténèbres et Tank méchant !
-9262	Termine Jeu de balle passionné 5 fois !
-9263	Termine Jeu de balle passionné 10 fois !
-9264	Termine Parcours défi passionné 5 fois !
-9265	Termine Parcours défi passionné 1 fois avec
-9266	Élimine Jackie Peng dans Course à trois jambes passionnée. (une fois un niveau des NL Course à trois jambes passionnée)
-9267	Élimine Sombre toutou dans Course à trois jambes passionnée. (une fois un niveau des NL Course à trois jambes passionnée)
-9268	Termine les 6 missions Clash passionné (durée limitée) !
+9262	Clear "River City Ball-Rolling" 5 times!
+9263	Clear "River City Ball-Rolling" 10 times!
+9264	Clear "River City Challenge Course" 5 times!
+9265	Clear stages from "River City Challenge Course"
+9266	Defeat Jackie Peng at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9267	Defeat Sombre toutou at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9268	Clear all 6 River City Cat Clash Limited  Missions!
 9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
 9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!
 9271	Defeat the Box Witch! Find this Witch at the "Witch's Labyrinth: Box Witch" map!
@@ -718,3 +718,11 @@
 53	Termine 30 niveaux Abattage de Béhémoths pour la 1re fois.
 9379	Termine le 40e étage de la Tour infernale. * Récompense à récupérer une seule fois
 54	Termine Moisson d'XP ! Réussis en terminant tous les niveaux de Moisson d'XP !
+9380	Clear stages from "River City Cat Clash"
+9381	Clear stages from "River City Cat Clash"
+9382	Clear stages from "River City Cat Clash"
+9383	Clear stages from "River City Three-Leg Race"
+9384	Clear stages from "River City Three-Leg Race"
+9385	Clear stages from "Street Fighter V CE Collab"
+9386	Clear stages from "Street Fighter V CE Collab"
+9387	Clear stages from "Street Fighter V CE Collab"

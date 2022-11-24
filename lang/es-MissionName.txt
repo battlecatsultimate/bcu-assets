@@ -24,8 +24,8 @@
 24	Misión del 6.º aniversario. ¡Supera el Imperio de los Gatos (cap. 1) durante el evento!
 25	Supera todas las fases en Las Estrellas También Mueren. (Incluida la fase final del cap. 3 de Gatos Galácticos)
 26	Misión del 7.º aniversario. ¡Supera el Imperio de los Gatos (cap. 1) durante el evento!
-27	Para completar esta misión, supera el nivel 2. de todas las Etapas de Leyenda
-28	Para completar esta misión, supera el nivel 3. de todas las Etapas de Leyenda
+27	Supera el nivel 2 de todas las fases legendarias. para completar esta misión.
+28	Supera el nivel 3 de todas las fases legendarias. para completar esta misión.
 29	Misión del 8.º aniversario. ¡Supera el Imperio de los Gatos (cap. 1) durante el evento!
 8000	(Verás las fases relevantes en los detalles de la misión)
 8001	(Verás las fases relevantes en los detalles de la misión)
@@ -36,7 +36,7 @@
 8006	(Verás las fases relevantes en los detalles de la misión)
 8007	(Completa 10 expediciones a cualquier zona)
 8008	(Verás las fases relevantes en los detalles de la misión)
-8009	(Completa 10 fases legendarias amarillas)
+8009	(Completa 10 fases legendarias amarillas cualesquiera)
 8010	Supera todas las misiones semanales:
 8011	Supera todas las misiones semanales:
 9000	Supera el piso 30 de la Torre Celestial. (Este premio solo se puede recoger una vez)
@@ -297,22 +297,22 @@
 1315	Vence a Careto, el Octavo Pasajero en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
 1316	Vence a Javi Li Espacial en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
 1317	Vence a Valquiria Corrupta en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1318	Vence a Sir Cerdi II en el nivel 1. de las Etapas de Leyenda
-1319	Vence a Chucho Oscuro en el nivel 1. de las Etapas de Leyenda
-1320	Vence a Jefe H. en el nivel 1. de las Etapas de Leyenda
-1321	Vence a Perrito Caliente en el nivel 1. de las Etapas de Leyenda
-1322	Vence a Celebriche en el nivel 1. de las Etapas de Leyenda
-1323	Vence a Pérez Oso en el nivel 1. de las Etapas de Leyenda
-1324	Vence a Nutri Ente en el nivel 1. de las Etapas de Leyenda
-1325	Vence a J. K. Bun Bun en el nivel 1. de las Etapas de Leyenda
-1326	Vence a Javi Li en el nivel 1. de las Etapas de Leyenda
-1327	Vence a Lechuzo en el nivel 1. de las Etapas de Leyenda
-1328	Vence a Camelle en el nivel 1. de las Etapas de Leyenda
-1329	Vence a Kory en el nivel 1. de las Etapas de Leyenda
-1330	Vence a Emperador Nyandam Oscuro en el nivel 1. de las Etapas de Leyenda
-1331	Vence a Ceronte Metálico en el nivel 1. de las Etapas de Leyenda
-1332	Vence a H. Nah en el nivel 1. de las Etapas de Leyenda
-1333	Vence a Lobo Ururun en el nivel 1. de las Etapas de Leyenda
+1318	Vence a Sir Cerdi II en. el nivel 1 de una fase legendaria
+1319	Vence a Chucho Oscuro en. el nivel 1 de una fase legendaria
+1320	Vence a Jefe H. en. el nivel 1 de una fase legendaria
+1321	Vence a Perrito Caliente en. el nivel 1 de una fase legendaria
+1322	Vence a Celebriche en. el nivel 1 de una fase legendaria
+1323	Vence a Pérez Oso en. el nivel 1 de una fase legendaria
+1324	Vence a Nutri Ente en. el nivel 1 de una fase legendaria
+1325	Vence a J. K. Bun Bun en. el nivel 1 de una fase legendaria
+1326	Vence a Javi Li en. el nivel 1 de una fase legendaria
+1327	Vence a Lechuzo en. el nivel 1 de una fase legendaria
+1328	Vence a Camelle en. el nivel 1 de una fase legendaria
+1329	Vence a Kory en. el nivel 1 de una fase legendaria
+1330	Vence a Emperador Nyandam Oscuro en. el nivel 1 de una fase legendaria
+1331	Vence a Ceronte Metálico en. el nivel 1 de una fase legendaria
+1332	Vence a H. Nah en. el nivel 1 de una fase legendaria
+1333	Vence a Lobo Ururun en. el nivel 1 de una fase legendaria
 1334	Vence a Ciclón Rojo en Catástrofe Carmesí. (Una vez en cualquier fase)
 1335	Vence a Ciclón Negro en Paraíso de Oscuridad. (Una vez en cualquier fase)
 1400	Vence a Señorita Celebriche en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
@@ -332,23 +332,23 @@
 1414	Vence a Nutri Negro en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
 1415	Vence a Javi Li Espacial en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
 1416	Vence a Gato Bégimo Alien en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1417	Vence a Dóberman Poli en el nivel 1. de las Etapas de Leyenda
-1418	Vence a A. Vestruz en el nivel 1. de las Etapas de Leyenda
-1419	Vence a Pez Lunángel en el nivel 1. de las Etapas de Leyenda
-1420	Vence a Hipo Supermetálico en el nivel 1. de las Etapas de Leyenda
-1421	Vence a Perromuro en el nivel 1. de las Etapas de Leyenda
-1422	Vence a Paloma Pacifista en el nivel 1. de las Etapas de Leyenda
-1423	Vence a Pegaso Angelical en el nivel 1. de las Etapas de Leyenda
-1424	Vence a Mininyandam en el nivel 1. de las Etapas de Leyenda
-1425	Vence a Pollito Ángel en el nivel 1. de las Etapas de Leyenda
-1426	Vence a Capi B. Ara en el nivel 1. de las Etapas de Leyenda
-1427	Vence a Golondrino en el nivel 1. de las Etapas de Leyenda
-1428	Vence a Kory Salvaje en el nivel 1. de las Etapas de Leyenda
-1429	Vence a Sr. Topo en el nivel 1. de las Etapas de Leyenda
-1430	Vence a Tu Can Can en el nivel 1. de las Etapas de Leyenda
-1431	Vence a Caperucita Espía en el nivel 1. de las Etapas de Leyenda
-1432	Vence a Caballito del Mar Negro en el nivel 1. de las Etapas de Leyenda
-1433	Vence a Don Javier Li en el nivel 1. de las Etapas de Leyenda
+1417	Vence a Dóberman Poli en. el nivel 1 de una fase legendaria
+1418	Vence a A. Vestruz en. el nivel 1 de una fase legendaria
+1419	Vence a Pez Lunángel en. el nivel 1 de una fase legendaria
+1420	Vence a Hipo Supermetálico en. el nivel 1 de una fase legendaria
+1421	Vence a Perromuro en. el nivel 1 de una fase legendaria
+1422	Vence a Paloma Pacifista en. el nivel 1 de una fase legendaria
+1423	Vence a Pegaso Angelical en. el nivel 1 de una fase legendaria
+1424	Vence a Mininyandam en. el nivel 1 de una fase legendaria
+1425	Vence a Pollito Ángel en. el nivel 1 de una fase legendaria
+1426	Vence a Capi B. Ara en. el nivel 1 de una fase legendaria
+1427	Vence a Golondrino en. el nivel 1 de una fase legendaria
+1428	Vence a Kory Salvaje en. el nivel 1 de una fase legendaria
+1429	Vence a Sr. Topo en. el nivel 1 de una fase legendaria
+1430	Vence a Tu Can Can en. el nivel 1 de una fase legendaria
+1431	Vence a Caperucita Espía en. el nivel 1 de una fase legendaria
+1432	Vence a Caballito del Mar Negro en. el nivel 1 de una fase legendaria
+1433	Vence a Don Javier Li en. el nivel 1 de una fase legendaria
 1434	Vence a Ciclón Blanco en Inigualable. (Una vez en cualquier fase)
 1435	Vence a Ciclón Divino en Ira de los Cielos. (Una vez en cualquier fase)
 1500	Vence a Chucho Alien de Élite en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
@@ -368,23 +368,23 @@
 1514	Vence a Pez Luna Estrellada en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
 1515	Vence a Chucho Metálico en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
 1516	Vence a Misidiós en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1517	Vence a Pérez Oso en el nivel 2. de las Etapas de Leyenda
-1518	Vence a Timidín en el nivel 2. de las Etapas de Leyenda
-1519	Vence a J. K. Bun Bun en el nivel 2. de las Etapas de Leyenda
-1520	Vence a Emperador Nyandam en el nivel 2. de las Etapas de Leyenda
-1521	Vence a Profe Bun Bun en el nivel 2. de las Etapas de Leyenda
-1522	Vence a Javi Li en el nivel 2. de las Etapas de Leyenda
-1523	Vence a Kory en el nivel 2. de las Etapas de Leyenda
-1524	Vence a Emperador Nyandam Oscuro en el nivel 2. de las Etapas de Leyenda
-1525	Vence a A. Vestruz en el nivel 2. de las Etapas de Leyenda
-1526	Vence a Lobo Ururun en el nivel 2. de las Etapas de Leyenda
-1527	Vence a Pegaso Angelical en el nivel 2. de las Etapas de Leyenda
-1528	Vence a Mininyandam en el nivel 2. de las Etapas de Leyenda
-1529	Vence a Kory Salvaje en el nivel 2. de las Etapas de Leyenda
-1530	Vence a Mac. Reno en el nivel 2. de las Etapas de Leyenda
-1531	Vence a Camelle en el nivel 2. de las Etapas de Leyenda
-1532	Vence a H. Nah en el nivel 2. de las Etapas de Leyenda
-1533	Vence a Dóberman Poli en el nivel 2. de las Etapas de Leyenda
+1517	Vence a Pérez Oso en. el nivel 2 de una fase legendaria
+1518	Vence a Timidín en. el nivel 2 de una fase legendaria
+1519	Vence a J. K. Bun Bun en. el nivel 2 de una fase legendaria
+1520	Vence a Emperador Nyandam en. el nivel 2 de una fase legendaria
+1521	Vence a Profe Bun Bun en. el nivel 2 de una fase legendaria
+1522	Vence a Javi Li en. el nivel 2 de una fase legendaria
+1523	Vence a Kory en. el nivel 2 de una fase legendaria
+1524	Vence a Emperador Nyandam Oscuro en. el nivel 2 de una fase legendaria
+1525	Vence a A. Vestruz en. el nivel 2 de una fase legendaria
+1526	Vence a Lobo Ururun en. el nivel 2 de una fase legendaria
+1527	Vence a Pegaso Angelical en. el nivel 2 de una fase legendaria
+1528	Vence a Mininyandam en. el nivel 2 de una fase legendaria
+1529	Vence a Kory Salvaje en. el nivel 2 de una fase legendaria
+1530	Vence a Mac. Reno en. el nivel 2 de una fase legendaria
+1531	Vence a Camelle en. el nivel 2 de una fase legendaria
+1532	Vence a H. Nah en. el nivel 2 de una fase legendaria
+1533	Vence a Dóberman Poli en. el nivel 2 de una fase legendaria
 1534	Vence a Ciclón Metálico en Dulce Ironía. (Una vez en cualquier fase)
 1535	Vence a Ciclón Espacial en Dimensión Desesperada. (Una vez en cualquier fase)
 1600	Vence a Ultraborrego en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
@@ -407,20 +407,20 @@
 1617	Vence a Gori en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
 1618	Vence a Ceronte Metálico en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
 1619	Vence a Misidiós en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1620	Vence a Sr. Ángel en el nivel 1. de las Etapas de Leyenda
-1621	Vence a Henry en el nivel 1. de las Etapas de Leyenda
-1622	Vence a Minibunbun en el nivel 1. de las Etapas de Leyenda
-1623	Vence a Profe H. en el nivel 1. de las Etapas de Leyenda
-1624	Vence a Javi Li Rebelde en el nivel 1. de las Etapas de Leyenda
-1625	Vence a Chucho Z. en el nivel 1. de las Etapas de Leyenda
-1626	Vence a Zipo en el nivel 1. de las Etapas de Leyenda
-1627	Vence a Zerdi en el nivel 1. de las Etapas de Leyenda
-1628	Vence a Ping Pong Z. en el nivel 1. de las Etapas de Leyenda
-1629	Vence a Zeñor Lápido en el nivel 1. de las Etapas de Leyenda
-1630	Vence a Pérez Ozo en el nivel 1. de las Etapas de Leyenda
-1631	Vence a Chucho Féretro en el nivel 1. de las Etapas de Leyenda
-1632	Vence a Camelle Casiviva en el nivel 1. de las Etapas de Leyenda
-1633	Vence a Zeñora Lápida en el nivel 1. de las Etapas de Leyenda
+1620	Vence a Sr. Ángel en. el nivel 1 de una fase legendaria
+1621	Vence a Henry en. el nivel 1 de una fase legendaria
+1622	Vence a Minibunbun en. el nivel 1 de una fase legendaria
+1623	Vence a Profe H. en. el nivel 1 de una fase legendaria
+1624	Vence a Javi Li Rebelde en. el nivel 1 de una fase legendaria
+1625	Vence a Chucho Z. en. el nivel 1 de una fase legendaria
+1626	Vence a Zipo en. el nivel 1 de una fase legendaria
+1627	Vence a Zerdi en. el nivel 1 de una fase legendaria
+1628	Vence a Ping Pong Z. en. el nivel 1 de una fase legendaria
+1629	Vence a Zeñor Lápido en. el nivel 1 de una fase legendaria
+1630	Vence a Pérez Ozo en. el nivel 1 de una fase legendaria
+1631	Vence a Chucho Féretro en. el nivel 1 de una fase legendaria
+1632	Vence a Camelle Casiviva en. el nivel 1 de una fase legendaria
+1633	Vence a Zeñora Lápida en. el nivel 1 de una fase legendaria
 1634	Vence a Ciclón Perfecto en Cielo Rojo Matutino. (Una vez en cualquier fase)
 1635	Vence a Ziclón en Muertos Rodantes. (Una vez en cualquier fase)
 1700	Vence a Mesocosmociclón en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
@@ -443,130 +443,130 @@
 1717	Vence a Alfaca en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
 1718	Vence a Chucho Metálico en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
 1719	Vence a Gigadiós Jefe Final en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1720	Vence a Señor Foca Metálica en el nivel 1. de las Etapas de Leyenda
-1721	Vence a Chucho Metálico en el nivel 1. de las Etapas de Leyenda
-1722	Vence a L. Fante Negro en el nivel 1. de las Etapas de Leyenda
-1723	Vence a Kodrizzz en el nivel 1. de las Etapas de Leyenda
-1724	Vence a Gori Zombi en el nivel 1. de las Etapas de Leyenda
-1725	Vence a Zeñor Foca en el nivel 1. de las Etapas de Leyenda
-1726	Vence a Kan Zu en el nivel 1. de las Etapas de Leyenda
-1727	Vence a Inumusha en el nivel 1. de las Etapas de Leyenda
-1728	Vence a Delfina en el nivel 1. de las Etapas de Leyenda
-1729	Vence a Cala María en el nivel 1. de las Etapas de Leyenda
-1730	Vence a Mar Rana en el nivel 1. de las Etapas de Leyenda
-1731	Vence a Tu Tu Can Can en el nivel 1. de las Etapas de Leyenda
-1732	Vence a Cerdi Alado en el nivel 1. de las Etapas de Leyenda
-1733	Vence a Caballito del Mar Rojo en el nivel 1. de las Etapas de Leyenda
-1734	Vence a Bun Bun Mecánico en el nivel 1. de las Etapas de Leyenda
+1720	Vence a Señor Foca Metálica en. el nivel 1 de una fase legendaria
+1721	Vence a Chucho Metálico en. el nivel 1 de una fase legendaria
+1722	Vence a L. Fante Negro en. el nivel 1 de una fase legendaria
+1723	Vence a Kodrizzz en. el nivel 1 de una fase legendaria
+1724	Vence a Gori Zombi en. el nivel 1 de una fase legendaria
+1725	Vence a Zeñor Foca en. el nivel 1 de una fase legendaria
+1726	Vence a Kan Zu en. el nivel 1 de una fase legendaria
+1727	Vence a Inumusha en. el nivel 1 de una fase legendaria
+1728	Vence a Delfina en. el nivel 1 de una fase legendaria
+1729	Vence a Cala María en. el nivel 1 de una fase legendaria
+1730	Vence a Mar Rana en. el nivel 1 de una fase legendaria
+1731	Vence a Tu Tu Can Can en. el nivel 1 de una fase legendaria
+1732	Vence a Cerdi Alado en. el nivel 1 de una fase legendaria
+1733	Vence a Caballito del Mar Rojo en. el nivel 1 de una fase legendaria
+1734	Vence a Bun Bun Mecánico en. el nivel 1 de una fase legendaria
 1735	Vence a Ciclón Supercósmico en La Segunda Dimensión. (Una vez en cualquier fase)
-1800	Vence a Lobo Ururun en el nivel 3. de las Etapas de Leyenda
-1801	Vence a Mininyandam en el nivel 3. de las Etapas de Leyenda
-1802	Vence a Kory Salvaje en el nivel 3. de las Etapas de Leyenda
-1803	Vence a Caperucita Espía en el nivel 3. de las Etapas de Leyenda
-1804	Vence a Caballito del Mar Negro en el nivel 3. de las Etapas de Leyenda
-1805	Vence a Don Javier Li en el nivel 3. de las Etapas de Leyenda
-1806	Vence a Henry en el nivel 3. de las Etapas de Leyenda
-1807	Vence a Minibunbun en el nivel 3. de las Etapas de Leyenda
-1808	Vence a Profe H. en el nivel 3. de las Etapas de Leyenda
-1809	Vence a Javi Li Rebelde en el nivel 3. de las Etapas de Leyenda
-1810	Vence a Chucho Z. en el nivel 3. de las Etapas de Leyenda
-1811	Vence a Kan Zu en el nivel 3. de las Etapas de Leyenda
-1812	Vence a Kodrizzz en el nivel 3. de las Etapas de Leyenda
-1813	Vence a Ping Pong Z. en el nivel 3. de las Etapas de Leyenda
-1814	Vence a Gori Zombi en el nivel 3. de las Etapas de Leyenda
-1815	Vence a Zeñor Foca en el nivel 3. de las Etapas de Leyenda
-1816	Vence a Zeñor Lápido en el nivel 3. de las Etapas de Leyenda
-1817	Vence a Pérez Ozo en el nivel 3. de las Etapas de Leyenda
-1818	Vence a Chucho Féretro en el nivel 3. de las Etapas de Leyenda
-1819	Vence a Camelle Casiviva en el nivel 3. de las Etapas de Leyenda
-1820	Vence a Zeñora Lápida en el nivel 3. de las Etapas de Leyenda
-1821	Vence a Inumusha en el nivel 3. de las Etapas de Leyenda
-1822	Vence a Delfina en el nivel 3. de las Etapas de Leyenda
-1823	Vence a Cala María en el nivel 3. de las Etapas de Leyenda
-1824	Vence a Mar Rana en el nivel 3. de las Etapas de Leyenda
-1825	Vence a Tu Tu Can Can en el nivel 3. de las Etapas de Leyenda
-1826	Vence a Cerdi Alado en el nivel 3. de las Etapas de Leyenda
-1827	Vence a Chucho Alien de Élite en el nivel 3. de las Etapas de Leyenda
-1828	Vence a Cabo Topo en el nivel 3. de las Etapas de Leyenda
-1829	Vence a Pez Luna Estrellada en el nivel 3. de las Etapas de Leyenda
-1830	Vence a Proyecto H. en el nivel 3. de las Etapas de Leyenda
-1831	Vence a General Gori en el nivel 3. de las Etapas de Leyenda
-1832	Vence a Ping Pong Estrella en el nivel 3. de las Etapas de Leyenda
-1833	Vence a Caballito del Mar Rojo en el nivel 3. de las Etapas de Leyenda
-1834	Vence a Ultraborrego en el nivel 3. de las Etapas de Leyenda
-1835	Vence a Bun Bun Mecánico en el nivel 3. de las Etapas de Leyenda
-1900	Vence a J. K. Bun Bun en el nivel 4. de las Etapas de Leyenda
-1901	Vence a Javi Li en el nivel 4. de las Etapas de Leyenda
-1902	Vence a Profe Bun Bun en el nivel 4. de las Etapas de Leyenda
-1903	Vence a Kory en el nivel 4. de las Etapas de Leyenda
-1904	Vence a Emperador Nyandam Oscuro en el nivel 4. de las Etapas de Leyenda
-1905	Vence a Bun Bun Negro en el nivel 4. de las Etapas de Leyenda
-1906	Vence a A. Vestruz en el nivel 4. de las Etapas de Leyenda
-1907	Vence a Lobo Ururun en el nivel 4. de las Etapas de Leyenda
-1908	Vence a Perromuro en el nivel 4. de las Etapas de Leyenda
-1909	Vence a Pegaso Angelical en el nivel 4. de las Etapas de Leyenda
-1910	Vence a Chucho Metálico en el nivel 4. de las Etapas de Leyenda
-1911	Vence a Mininyandam en el nivel 4. de las Etapas de Leyenda
-1912	Vence a Kory Salvaje en el nivel 4. de las Etapas de Leyenda
-1913	Vence a Sr. Topo en el nivel 4. de las Etapas de Leyenda
-1914	Vence a Caperucita Espía en el nivel 4. de las Etapas de Leyenda
-1915	Vence a Tu Can Can en el nivel 4. de las Etapas de Leyenda
-1916	Vence a Caballito del Mar Negro en el nivel 4. de las Etapas de Leyenda
-1917	Vence a Don Javier Li en el nivel 4. de las Etapas de Leyenda
-1918	Vence a Henry en el nivel 4. de las Etapas de Leyenda
-1919	Vence a Minibunbun en el nivel 4. de las Etapas de Leyenda
-1920	Vence a Profe H. en el nivel 4. de las Etapas de Leyenda
-1921	Vence a Javi Li Rebelde en el nivel 4. de las Etapas de Leyenda
-1922	Vence a Chucho Z. en el nivel 4. de las Etapas de Leyenda
-1923	Vence a Kan Zu en el nivel 4. de las Etapas de Leyenda
-1924	Vence a Gori Zombi en el nivel 4. de las Etapas de Leyenda
-1925	Vence a Chucho Féretro en el nivel 4. de las Etapas de Leyenda
-1926	Vence a Inumusha en el nivel 4. de las Etapas de Leyenda
-1927	Vence a Delfina en el nivel 4. de las Etapas de Leyenda
-1928	Vence a Cala María en el nivel 4. de las Etapas de Leyenda
-1929	Vence a Mar Rana en el nivel 4. de las Etapas de Leyenda
-1930	Vence a Cerdi Alado en el nivel 4. de las Etapas de Leyenda
-1931	Vence a Chucho Alien de Élite en el nivel 4. de las Etapas de Leyenda
-1932	Vence a Cabo Topo en el nivel 4. de las Etapas de Leyenda
-1933	Vence a Pez Luna Estrellada en el nivel 4. de las Etapas de Leyenda
-1934	Vence a General Gori en el nivel 4. de las Etapas de Leyenda
-1935	Vence a Ping Pong Estrella en el nivel 4. de las Etapas de Leyenda
-2000	Vence a Careto en el nivel 4. de las Etapas de Leyenda
-2001	Vence a Timidín en el nivel 4. de las Etapas de Leyenda
-2002	Vence a Nutri Ente en el nivel 4. de las Etapas de Leyenda
-2003	Vence a Camelle en el nivel 4. de las Etapas de Leyenda
-2004	Vence a Pati Difuso en el nivel 4. de las Etapas de Leyenda
-2005	Vence a Lechuzo en el nivel 4. de las Etapas de Leyenda
-2006	Vence a Pérez Oso en el nivel 4. de las Etapas de Leyenda
-2007	Vence a Mac. Reno en el nivel 4. de las Etapas de Leyenda
-2008	Vence a Celebriche en el nivel 4. de las Etapas de Leyenda
-2009	Vence a Emperador Nyandam en el nivel 4. de las Etapas de Leyenda
-2010	Vence a Jefe H. en el nivel 4. de las Etapas de Leyenda
-2011	Vence a Kan Gu Manostijeras en el nivel 4. de las Etapas de Leyenda
-2012	Vence a H. Nah en el nivel 4. de las Etapas de Leyenda
-2013	Vence a Dóberman Poli en el nivel 4. de las Etapas de Leyenda
-2014	Vence a Hipo Metálico en el nivel 4. de las Etapas de Leyenda
-2015	Vence a Sir Cerdi II en el nivel 4. de las Etapas de Leyenda
-2016	Vence a Pez Lunángel en el nivel 4. de las Etapas de Leyenda
-2017	Vence a Paloma Pacifista en el nivel 4. de las Etapas de Leyenda
-2018	Vence a Zerpi en el nivel 4. de las Etapas de Leyenda
-2019	Vence a Zipo en el nivel 4. de las Etapas de Leyenda
-2020	Vence a Zerdi en el nivel 4. de las Etapas de Leyenda
-2021	Vence a Ping Pong Z. en el nivel 4. de las Etapas de Leyenda
-2022	Vence a Señorita Celebriche en el nivel 4. de las Etapas de Leyenda
-2023	Vence a Zeñor Foca en el nivel 4. de las Etapas de Leyenda
-2024	Vence a Kodrizzz en el nivel 4. de las Etapas de Leyenda
-2025	Vence a Zeñor Lápido en el nivel 4. de las Etapas de Leyenda
-2026	Vence a Perrito Caliente en el nivel 4. de las Etapas de Leyenda
-2027	Vence a Gori Negro en el nivel 4. de las Etapas de Leyenda
-2028	Vence a L. Fante Solar en el nivel 4. de las Etapas de Leyenda
-2029	Vence a Proyecto H. en el nivel 4. de las Etapas de Leyenda
-2030	Vence a Kan Gu Sombra en el nivel 4. de las Etapas de Leyenda
-2031	Vence a Hipo Supermetálico en el nivel 4. de las Etapas de Leyenda
-2032	Vence a Nutri Negro en el nivel 4. de las Etapas de Leyenda
-2033	Vence a Pollito Ángel en el nivel 4. de las Etapas de Leyenda
-2034	Vence a Javi Li Espacial en el nivel 4. de las Etapas de Leyenda
-2035	Vence a Elizabeth LVI en el nivel 4. de las Etapas de Leyenda
+1800	Vence a Lobo Ururun en. el nivel 3 de una fase legendaria
+1801	Vence a Mininyandam en. el nivel 3 de una fase legendaria
+1802	Vence a Kory Salvaje en. el nivel 3 de una fase legendaria
+1803	Vence a Caperucita Espía en. el nivel 3 de una fase legendaria
+1804	Vence a Caballito del Mar Negro en. el nivel 3 de una fase legendaria
+1805	Vence a Don Javier Li en. el nivel 3 de una fase legendaria
+1806	Vence a Henry en. el nivel 3 de una fase legendaria
+1807	Vence a Minibunbun en. el nivel 3 de una fase legendaria
+1808	Vence a Profe H. en. el nivel 3 de una fase legendaria
+1809	Vence a Javi Li Rebelde en. el nivel 3 de una fase legendaria
+1810	Vence a Chucho Z. en. el nivel 3 de una fase legendaria
+1811	Vence a Kan Zu en. el nivel 3 de una fase legendaria
+1812	Vence a Kodrizzz en. el nivel 3 de una fase legendaria
+1813	Vence a Ping Pong Z. en. el nivel 3 de una fase legendaria
+1814	Vence a Gori Zombi en. el nivel 3 de una fase legendaria
+1815	Vence a Zeñor Foca en. el nivel 3 de una fase legendaria
+1816	Vence a Zeñor Lápido en. el nivel 3 de una fase legendaria
+1817	Vence a Pérez Ozo en. el nivel 3 de una fase legendaria
+1818	Vence a Chucho Féretro en. el nivel 3 de una fase legendaria
+1819	Vence a Camelle Casiviva en. el nivel 3 de una fase legendaria
+1820	Vence a Zeñora Lápida en. el nivel 3 de una fase legendaria
+1821	Vence a Inumusha en. el nivel 3 de una fase legendaria
+1822	Vence a Delfina en. el nivel 3 de una fase legendaria
+1823	Vence a Cala María en. el nivel 3 de una fase legendaria
+1824	Vence a Mar Rana en. el nivel 3 de una fase legendaria
+1825	Vence a Tu Tu Can Can en. el nivel 3 de una fase legendaria
+1826	Vence a Cerdi Alado en. el nivel 3 de una fase legendaria
+1827	Vence a Chucho Alien de Élite en. el nivel 3 de una fase legendaria
+1828	Vence a Cabo Topo en. el nivel 3 de una fase legendaria
+1829	Vence a Pez Luna Estrellada en. el nivel 3 de una fase legendaria
+1830	Vence a Proyecto H. en. el nivel 3 de una fase legendaria
+1831	Vence a General Gori en. el nivel 3 de una fase legendaria
+1832	Vence a Ping Pong Estrella en. el nivel 3 de una fase legendaria
+1833	Vence a Caballito del Mar Rojo en. el nivel 3 de una fase legendaria
+1834	Vence a Ultraborrego en. el nivel 3 de una fase legendaria
+1835	Vence a Bun Bun Mecánico en. el nivel 3 de una fase legendaria
+1900	Vence a J. K. Bun Bun en. el nivel 4 de una fase legendaria
+1901	Vence a Javi Li en. el nivel 4 de una fase legendaria
+1902	Vence a Profe Bun Bun en. el nivel 4 de una fase legendaria
+1903	Vence a Kory en. el nivel 4 de una fase legendaria
+1904	Vence a Emperador Nyandam Oscuro en. el nivel 4 de una fase legendaria
+1905	Vence a Bun Bun Negro en. el nivel 4 de una fase legendaria
+1906	Vence a A. Vestruz en. el nivel 4 de una fase legendaria
+1907	Vence a Lobo Ururun en. el nivel 4 de una fase legendaria
+1908	Vence a Perromuro en. el nivel 4 de una fase legendaria
+1909	Vence a Pegaso Angelical en. el nivel 4 de una fase legendaria
+1910	Vence a Chucho Metálico en. el nivel 4 de una fase legendaria
+1911	Vence a Mininyandam en. el nivel 4 de una fase legendaria
+1912	Vence a Kory Salvaje en. el nivel 4 de una fase legendaria
+1913	Vence a Sr. Topo en. el nivel 4 de una fase legendaria
+1914	Vence a Caperucita Espía en. el nivel 4 de una fase legendaria
+1915	Vence a Tu Can Can en. el nivel 4 de una fase legendaria
+1916	Vence a Caballito del Mar Negro en. el nivel 4 de una fase legendaria
+1917	Vence a Don Javier Li en. el nivel 4 de una fase legendaria
+1918	Vence a Henry en. el nivel 4 de una fase legendaria
+1919	Vence a Minibunbun en. el nivel 4 de una fase legendaria
+1920	Vence a Profe H. en. el nivel 4 de una fase legendaria
+1921	Vence a Javi Li Rebelde en. el nivel 4 de una fase legendaria
+1922	Vence a Chucho Z. en. el nivel 4 de una fase legendaria
+1923	Vence a Kan Zu en. el nivel 4 de una fase legendaria
+1924	Vence a Gori Zombi en. el nivel 4 de una fase legendaria
+1925	Vence a Chucho Féretro en. el nivel 4 de una fase legendaria
+1926	Vence a Inumusha en. el nivel 4 de una fase legendaria
+1927	Vence a Delfina en. el nivel 4 de una fase legendaria
+1928	Vence a Cala María en. el nivel 4 de una fase legendaria
+1929	Vence a Mar Rana en. el nivel 4 de una fase legendaria
+1930	Vence a Cerdi Alado en. el nivel 4 de una fase legendaria
+1931	Vence a Chucho Alien de Élite en. el nivel 4 de una fase legendaria
+1932	Vence a Cabo Topo en. el nivel 4 de una fase legendaria
+1933	Vence a Pez Luna Estrellada en. el nivel 4 de una fase legendaria
+1934	Vence a General Gori en. el nivel 4 de una fase legendaria
+1935	Vence a Ping Pong Estrella en. el nivel 4 de una fase legendaria
+2000	Vence a Careto en. el nivel 4 de una fase legendaria
+2001	Vence a Timidín en. el nivel 4 de una fase legendaria
+2002	Vence a Nutri Ente en. el nivel 4 de una fase legendaria
+2003	Vence a Camelle en. el nivel 4 de una fase legendaria
+2004	Vence a Pati Difuso en. el nivel 4 de una fase legendaria
+2005	Vence a Lechuzo en. el nivel 4 de una fase legendaria
+2006	Vence a Pérez Oso en. el nivel 4 de una fase legendaria
+2007	Vence a Mac. Reno en. el nivel 4 de una fase legendaria
+2008	Vence a Celebriche en. el nivel 4 de una fase legendaria
+2009	Vence a Emperador Nyandam en. el nivel 4 de una fase legendaria
+2010	Vence a Jefe H. en. el nivel 4 de una fase legendaria
+2011	Vence a Kan Gu Manostijeras en. el nivel 4 de una fase legendaria
+2012	Vence a H. Nah en. el nivel 4 de una fase legendaria
+2013	Vence a Dóberman Poli en. el nivel 4 de una fase legendaria
+2014	Vence a Hipo Metálico en. el nivel 4 de una fase legendaria
+2015	Vence a Sir Cerdi II en. el nivel 4 de una fase legendaria
+2016	Vence a Pez Lunángel en. el nivel 4 de una fase legendaria
+2017	Vence a Paloma Pacifista en. el nivel 4 de una fase legendaria
+2018	Vence a Zerpi en. el nivel 4 de una fase legendaria
+2019	Vence a Zipo en. el nivel 4 de una fase legendaria
+2020	Vence a Zerdi en. el nivel 4 de una fase legendaria
+2021	Vence a Ping Pong Z. en. el nivel 4 de una fase legendaria
+2022	Vence a Señorita Celebriche en. el nivel 4 de una fase legendaria
+2023	Vence a Zeñor Foca en. el nivel 4 de una fase legendaria
+2024	Vence a Kodrizzz en. el nivel 4 de una fase legendaria
+2025	Vence a Zeñor Lápido en. el nivel 4 de una fase legendaria
+2026	Vence a Perrito Caliente en. el nivel 4 de una fase legendaria
+2027	Vence a Gori Negro en. el nivel 4 de una fase legendaria
+2028	Vence a L. Fante Solar en. el nivel 4 de una fase legendaria
+2029	Vence a Proyecto H. en. el nivel 4 de una fase legendaria
+2030	Vence a Kan Gu Sombra en. el nivel 4 de una fase legendaria
+2031	Vence a Hipo Supermetálico en. el nivel 4 de una fase legendaria
+2032	Vence a Nutri Negro en. el nivel 4 de una fase legendaria
+2033	Vence a Pollito Ángel en. el nivel 4 de una fase legendaria
+2034	Vence a Javi Li Espacial en. el nivel 4 de una fase legendaria
+2035	Vence a Elizabeth LVI en. el nivel 4 de una fase legendaria
 9205	Upgrade Akuma Giraffe to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9206	Upgrade Ryu Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
@@ -629,13 +629,13 @@
 9261	Matrícula de Honor ④: Investiga más el mar. Supera 300. Million Dead Molas 5 veces con Gato Kuwagata
 39	Investigación de la Emperatriz 1: Estudia los libros. heréticos. Supera Confluencia Arcana y Gato Maligno
 40	Investigación de la Emperatriz 2: Estudia a los agentes. akus. Supera Sirviente de la Oscuridad y Tanque Maligno
-9262	(Completa cualquier fase de Iniciativa Impulsiva)
-9263	(Completa cualquier fase de Iniciativa Impulsiva)
-9264	Supera 5 fases de Carrera de Obstáculos Impulsiva. (Completa cualquier fase de Iniciativa Impulsiva)
-9265	Supera 1 fases de Carrera de Obstáculos Impulsiva
-9266	Vence a Ping Pong en Carrera de Tres Piernas. (Una vez en cualquier fase)
-9267	Vence a Chucho Oscuro en Carrera de Tres Piernas. (Una vez en cualquier fase)
-9268	Supera las 6 misiones exclusivas de Choque Impulsivo
+9262	Clear "River City Ball-Rolling" 5 times!
+9263	Clear "River City Ball-Rolling" 10 times!
+9264	Clear "River City Challenge Course" 5 times!
+9265	Clear stages from "River City Challenge Course"
+9266	Defeat Ping Pong at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9267	Defeat Chucho Oscuro at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9268	Clear all 6 River City Cat Clash Limited  Missions!
 9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
 9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!
 9271	Defeat the Box Witch! Find this Witch at the "Witch's Labyrinth: Box Witch" map!
@@ -713,3 +713,11 @@
 53	Supera 30 fases de Matanza de Mastodontes por primera vez:
 9379	Supera el piso 40 de la Torre Infernal. (Estos premios solo se pueden recoger una vez)
 54	Supera «¡Bonanza de XP!». Completa todas las fases de ¡Bonanza de XP!
+9380	Clear stages from "River City Cat Clash"
+9381	Clear stages from "River City Cat Clash"
+9382	Clear stages from "River City Cat Clash"
+9383	Clear stages from "River City Three-Leg Race"
+9384	Clear stages from "River City Three-Leg Race"
+9385	Clear stages from "Street Fighter V CE Collab"
+9386	Clear stages from "Street Fighter V CE Collab"
+9387	Clear stages from "Street Fighter V CE Collab"

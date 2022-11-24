@@ -129,6 +129,10 @@
 171	Yellow B. Stone
 172	Holy Water
 173	Legend Net
+174	仮
+175	仮
+176	仮
+177	仮
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -524,6 +528,7 @@
 15619	Immortal Amakusa
 15620	Divine Lilin π
 15633	Obliterator Diabolosa
+15643	Almighty Lucifer
 15657	Haniwa Cat
 15659	Courier Cat
 15660	Catarzan

@@ -24,8 +24,8 @@
 24	Mission zum 6. Jubiläum. Schließe während dieses Events „Katzenimperium Kap. 1“ ab!
 25	Schließe alle Level von Auch die Sterne brennen aus ab! (Schließe das letzte Level von Kosmische Katzen Kapitel 3 ab)
 26	Mission zum 7. Jubiläum. Schließe während dieses Events „Katzenimperium Kap. 1“ ab!
-27	Schließe alle legendären Level der Stufe 2 ab,. um diese Mission abzuschließen
-28	Schließe alle legendären Level der Stufe 3 ab,. um diese Mission abzuschließen
+27	Schließe alle legendären Level.  der Stufe 2 ab, um diese Mission abzuschließen
+28	Schließe alle legendären Level.  der Stufe 3 ab, um diese Mission abzuschließen
 29	8. Jubiläum-Mission. Schließe „Katzenimperium Kapitel 1“ im Event ab!
 8000	Schließe Katzenticket-Belohnungslevel 3 Mal ab!
 8001	Schließe XP-Belohnungslevel 5 Mal ab!
@@ -301,22 +301,22 @@
 1315	Besiege Binge Sicht in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
 1316	Besiege Nimoy-Ebär in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
 1317	Besiege Verdorbene Walküre in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1318	Besiege "St. Schwein II.". im legendären Level der Stufe 1!
-1319	Besiege "Finsterhund". im legendären Level der Stufe 1!
-1320	Besiege "Meister A.". im legendären Level der Stufe 1!
-1321	Besiege "Dachshund". im legendären Level der Stufe 1!
-1322	Besiege "Promi-Pudel". im legendären Level der Stufe 1!
-1323	Besiege "DAS FAULTIER". im legendären Level der Stufe 1!
-1324	Besiege "Klopper-Otter". im legendären Level der Stufe 1!
-1325	Besiege "J.K. Bun Bun". im legendären Level der Stufe 1!
-1326	Besiege "Ebär". im legendären Level der Stufe 1!
-1327	Besiege "Eulheul". im legendären Level der Stufe 1!
-1328	Besiege "Camelle". im legendären Level der Stufe 1!
-1329	Besiege "Kory". im legendären Level der Stufe 1!
-1330	Besiege "Regisseur Kurosawah". im legendären Level der Stufe 1!
-1331	Besiege "Eisernes Einhorn". im legendären Level der Stufe 1!
-1332	Besiege "H. Nee". im legendären Level der Stufe 1!
-1333	Besiege "Ururun-Wolf". im legendären Level der Stufe 1!
+1318	Besiege St. Schwein II. in einem. legendären Level der Stufe 1!
+1319	Besiege Finsterhund in einem. legendären Level der Stufe 1!
+1320	Besiege Meister A. in einem. legendären Level der Stufe 1!
+1321	Besiege Dachshund in einem. legendären Level der Stufe 1!
+1322	Besiege Promi-Pudel in einem. legendären Level der Stufe 1!
+1323	Besiege DAS FAULTIER in einem. legendären Level der Stufe 1!
+1324	Besiege Klopper-Otter in einem. legendären Level der Stufe 1!
+1325	Besiege J.K. Bun Bun in einem. legendären Level der Stufe 1!
+1326	Besiege Ebär in einem. legendären Level der Stufe 1!
+1327	Besiege Eulheul in einem. legendären Level der Stufe 1!
+1328	Besiege Camelle in einem. legendären Level der Stufe 1!
+1329	Besiege Kory in einem. legendären Level der Stufe 1!
+1330	Besiege Regisseur Kurosawah in einem. legendären Level der Stufe 1!
+1331	Besiege Eisernes Einhorn in einem. legendären Level der Stufe 1!
+1332	Besiege H. Nee in einem. legendären Level der Stufe 1!
+1333	Besiege Ururun-Wolf in einem. legendären Level der Stufe 1!
 1334	Besiege Roter Zyklon in Blutrote Katastrophe. (1x in einem beliebigen Level von Blutrote Katastrophe)
 1335	Besiege Schwarzer Zyklon in Himmel der Dunkelheit. (1x in einem beliebigen Level von Himmel der Dunkelheit)
 1400	Besiege Prinzessin Promi-Pudel in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
@@ -336,23 +336,23 @@
 1414	Besiege Dunkler Otter in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
 1415	Besiege Nimoy-Ebär in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
 1416	Besiege Rasende Bahamut-Katze in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1417	Besiege "Dober P.D". im legendären Level der Stufe 1!
-1418	Besiege "V. Strauß". im legendären Level der Stufe 1!
-1419	Besiege "Mondfisch Jones". im legendären Level der Stufe 1!
-1420	Besiege "Supereisernes Nilpferd". im legendären Level der Stufe 1!
-1421	Besiege "Wallhund". im legendären Level der Stufe 1!
-1422	Besiege "Taubitze". im legendären Level der Stufe 1!
-1423	Besiege "Engelhafter Sleipnir". im legendären Level der Stufe 1!
-1424	Besiege "Kleiner Nyandam". im legendären Level der Stufe 1!
-1425	Besiege "Küken E". im legendären Level der Stufe 1!
-1426	Besiege "Capy". im legendären Level der Stufe 1!
-1427	Besiege "Brolbe". im legendären Level der Stufe 1!
-1428	Besiege "Berserkory". im legendären Level der Stufe 1!
-1429	Besiege "Mr. Maulwurf". im legendären Level der Stufe 1!
-1430	Besiege "Tu Kahn". im legendären Level der Stufe 1!
-1431	Besiege "Codename Rotkäppchen". im legendären Level der Stufe 1!
-1432	Besiege "Tacki". im legendären Level der Stufe 1!
-1433	Besiege "Ebärphim". im legendären Level der Stufe 1!
+1417	Besiege Dober P.D in einem. legendären Level der Stufe 1!
+1418	Besiege V. Strauß in einem. legendären Level der Stufe 1!
+1419	Besiege Mondfisch Jones in einem. legendären Level der Stufe 1!
+1420	Besiege Supereisernes Nilpferd in einem. legendären Level der Stufe 1!
+1421	Besiege Wallhund in einem. legendären Level der Stufe 1!
+1422	Besiege Taubitze in einem. legendären Level der Stufe 1!
+1423	Besiege Engelhafter Sleipnir in einem. legendären Level der Stufe 1!
+1424	Besiege Kleiner Nyandam in einem. legendären Level der Stufe 1!
+1425	Besiege Küken E in einem. legendären Level der Stufe 1!
+1426	Besiege Capy in einem. legendären Level der Stufe 1!
+1427	Besiege Brolbe in einem. legendären Level der Stufe 1!
+1428	Besiege Berserkory in einem. legendären Level der Stufe 1!
+1429	Besiege Mr. Maulwurf in einem. legendären Level der Stufe 1!
+1430	Besiege Tu Kahn in einem. legendären Level der Stufe 1!
+1431	Besiege Codename Rotkäppchen in einem. legendären Level der Stufe 1!
+1432	Besiege Tacki in einem. legendären Level der Stufe 1!
+1433	Besiege Ebärphim in einem. legendären Level der Stufe 1!
 1434	Besiege Weißer Zyklon in Unvergleichlich. (1x in einem beliebigen Level von Unvergleichlich)
 1435	Besiege Göttlicher Zyklon in Zorn des Himmels. (1x in einem beliebigen Level von Zorn des Himmels)
 1500	Besiege Shibalien-Elite in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
@@ -372,23 +372,23 @@
 1514	Besiege Raumfisch Jones in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
 1515	Besiege Eisenhund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
 1516	Besiege Der Katzengott in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1517	Besiege "DAS FAULTIER". im legendären Level der Stufe 2!
-1518	Besiege "Schüchtermann". im legendären Level der Stufe 2!
-1519	Besiege "J.K. Bun Bun". im legendären Level der Stufe 2!
-1520	Besiege "Finsterer Herrscher Nyandam". im legendären Level der Stufe 2!
-1521	Besiege "Lehrer Bun Bun". im legendären Level der Stufe 2!
-1522	Besiege "Ebär". im legendären Level der Stufe 2!
-1523	Besiege "Kory". im legendären Level der Stufe 2!
-1524	Besiege "Regisseur Kurosawah". im legendären Level der Stufe 2!
-1525	Besiege "V. Strauß". im legendären Level der Stufe 2!
-1526	Besiege "Ururun-Wolf". im legendären Level der Stufe 2!
-1527	Besiege "Engelhafter Sleipnir". im legendären Level der Stufe 2!
-1528	Besiege "Kleiner Nyandam". im legendären Level der Stufe 2!
-1529	Besiege "Berserkory". im legendären Level der Stufe 2!
-1530	Besiege "Ren T.". im legendären Level der Stufe 2!
-1531	Besiege "Camelle". im legendären Level der Stufe 2!
-1532	Besiege "H. Nee". im legendären Level der Stufe 2!
-1533	Besiege "Dober P.D". im legendären Level der Stufe 2!
+1517	Besiege DAS FAULTIER in einem. legendären Level der Stufe 2!
+1518	Besiege Schüchtermann in einem. legendären Level der Stufe 2!
+1519	Besiege J.K. Bun Bun in einem. legendären Level der Stufe 2!
+1520	Besiege Finsterer Herrscher Nyandam in einem. legendären Level der Stufe 2!
+1521	Besiege Lehrer Bun Bun in einem. legendären Level der Stufe 2!
+1522	Besiege Ebär in einem. legendären Level der Stufe 2!
+1523	Besiege Kory in einem. legendären Level der Stufe 2!
+1524	Besiege Regisseur Kurosawah in einem. legendären Level der Stufe 2!
+1525	Besiege V. Strauß in einem. legendären Level der Stufe 2!
+1526	Besiege Ururun-Wolf in einem. legendären Level der Stufe 2!
+1527	Besiege Engelhafter Sleipnir in einem. legendären Level der Stufe 2!
+1528	Besiege Kleiner Nyandam in einem. legendären Level der Stufe 2!
+1529	Besiege Berserkory in einem. legendären Level der Stufe 2!
+1530	Besiege Ren T. in einem. legendären Level der Stufe 2!
+1531	Besiege Camelle in einem. legendären Level der Stufe 2!
+1532	Besiege H. Nee in einem. legendären Level der Stufe 2!
+1533	Besiege Dober P.D in einem. legendären Level der Stufe 2!
 1534	Besiege Eiserner Zyklon in Süße Ironie. (1x in einem beliebigen Level von Süße Ironie)
 1535	Besiege Kosmischer Zyklon in Dimension der Verzweiflung. (1x in einem beliebigen Lvl. von Dimension d. Verzweiflung)
 1600	Besiege UltraMähMäh in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
@@ -411,20 +411,20 @@
 1617	Besiege Gorilla in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
 1618	Besiege Eisernes Einhorn in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
 1619	Besiege Katzengott in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1620	Besiege "Mr. Engel". im legendären Level der Stufe 1!
-1621	Besiege "Henry". im legendären Level der Stufe 1!
-1622	Besiege "Kleiner Bun Bun". im legendären Level der Stufe 1!
-1623	Besiege "Professor A.". im legendären Level der Stufe 1!
-1624	Besiege "Klingenrücken". im legendären Level der Stufe 1!
-1625	Besiege "Zund". im legendären Level der Stufe 1!
-1626	Besiege "Zomboe". im legendären Level der Stufe 1!
-1627	Besiege "Zwein". im legendären Level der Stufe 1!
-1628	Besiege "Zackie Peng". im legendären Level der Stufe 1!
-1629	Besiege "Lord Grabi". im legendären Level der Stufe 1!
-1630	Besiege "Zalamander". im legendären Level der Stufe 1!
-1631	Besiege "Sarg-Zund". im legendären Level der Stufe 1!
-1632	Besiege "Zamelle". im legendären Level der Stufe 1!
-1633	Besiege "Fräulein Haka". im legendären Level der Stufe 1!
+1620	Besiege Mr. Engel in einem. legendären Level der Stufe 1!
+1621	Besiege Henry in einem. legendären Level der Stufe 1!
+1622	Besiege Kleiner Bun Bun in einem. legendären Level der Stufe 1!
+1623	Besiege Professor A. in einem. legendären Level der Stufe 1!
+1624	Besiege Klingenrücken in einem. legendären Level der Stufe 1!
+1625	Besiege Zund in einem. legendären Level der Stufe 1!
+1626	Besiege Zomboe in einem. legendären Level der Stufe 1!
+1627	Besiege Zwein in einem. legendären Level der Stufe 1!
+1628	Besiege Zackie Peng in einem. legendären Level der Stufe 1!
+1629	Besiege Lord Grabi in einem. legendären Level der Stufe 1!
+1630	Besiege Zalamander in einem. legendären Level der Stufe 1!
+1631	Besiege Sarg-Zund in einem. legendären Level der Stufe 1!
+1632	Besiege Zamelle in einem. legendären Level der Stufe 1!
+1633	Besiege Fräulein Haka in einem. legendären Level der Stufe 1!
 1634	Besiege Der perfekte Zyklon in Morgenrot. (1x in einem beliebigen Level von Morgenrot)
 1635	Besiege Zyklombie in Wandelnde Tote. (1x in einem beliebigen Level von Wandelnde Tote)
 1700	Besiege Mesokosmozyklon in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
@@ -447,130 +447,130 @@
 1717	Besiege Alpacky in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
 1718	Besiege Eisenhund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
 1719	Besiege Endgegner Giga-Gott in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1720	Besiege "Sir Eisenrobbe". im legendären Level der Stufe 1!
-1721	Besiege "Eisenhund". im legendären Level der Stufe 1!
-1722	Besiege "Le’noir". im legendären Level der Stufe 1!
-1723	Besiege "Zroco". im legendären Level der Stufe 1!
-1724	Besiege "Zory". im legendären Level der Stufe 1!
-1725	Besiege "Zir Robbe". im legendären Level der Stufe 1!
-1726	Besiege "Zäng Ru". im legendären Level der Stufe 1!
-1727	Besiege "Inumusha". im legendären Level der Stufe 1!
-1728	Besiege "Delfina". im legendären Level der Stufe 1!
-1729	Besiege "Cala Maria". im legendären Level der Stufe 1!
-1730	Besiege "Quakley". im legendären Level der Stufe 1!
-1731	Besiege "Dukann". im legendären Level der Stufe 1!
-1732	Besiege "Flügelschwein". im legendären Level der Stufe 1!
-1733	Besiege "Hacki". im legendären Level der Stufe 1!
-1734	Besiege "Mecha Bun". im legendären Level der Stufe 1!
+1720	Besiege Sir Eisenrobbe in einem. legendären Level der Stufe 1!
+1721	Besiege Eisenhund in einem. legendären Level der Stufe 1!
+1722	Besiege Le’noir in einem. legendären Level der Stufe 1!
+1723	Besiege Zroco in einem. legendären Level der Stufe 1!
+1724	Besiege Zory in einem. legendären Level der Stufe 1!
+1725	Besiege Zir Robbe in einem. legendären Level der Stufe 1!
+1726	Besiege Zäng Ru in einem. legendären Level der Stufe 1!
+1727	Besiege Inumusha in einem. legendären Level der Stufe 1!
+1728	Besiege Delfina in einem. legendären Level der Stufe 1!
+1729	Besiege Cala Maria in einem. legendären Level der Stufe 1!
+1730	Besiege Quakley in einem. legendären Level der Stufe 1!
+1731	Besiege Dukann in einem. legendären Level der Stufe 1!
+1732	Besiege Flügelschwein in einem. legendären Level der Stufe 1!
+1733	Besiege Hacki in einem. legendären Level der Stufe 1!
+1734	Besiege Mecha Bun in einem. legendären Level der Stufe 1!
 1735	Besiege Superkosmischer Zyklon in Die 2. Dimension. (1x in einem beliebigen Level von Die 2. Dimension)
-1800	Besiege "Ururun-Wolf". im legendären Level der Stufe 3!
-1801	Besiege "Kleiner Nyandam". im legendären Level der Stufe 3!
-1802	Besiege "Berserkory". im legendären Level der Stufe 3!
-1803	Besiege "Codename Rotkäppchen". im legendären Level der Stufe 3!
-1804	Besiege "Tacki". im legendären Level der Stufe 3!
-1805	Besiege "Ebärphim". im legendären Level der Stufe 3!
-1806	Besiege "Henry". im legendären Level der Stufe 3!
-1807	Besiege "Kleiner Bun Bun". im legendären Level der Stufe 3!
-1808	Besiege "Professor A.". im legendären Level der Stufe 3!
-1809	Besiege "Klingenrücken". im legendären Level der Stufe 3!
-1810	Besiege "Zund". im legendären Level der Stufe 3!
-1811	Besiege "Zäng Ru". im legendären Level der Stufe 3!
-1812	Besiege "Zroco". im legendären Level der Stufe 3!
-1813	Besiege "Zackie Peng". im legendären Level der Stufe 3!
-1814	Besiege "Zory". im legendären Level der Stufe 3!
-1815	Besiege "Zir Robbe". im legendären Level der Stufe 3!
-1816	Besiege "Lord Grabi". im legendären Level der Stufe 3!
-1817	Besiege "Zalamander". im legendären Level der Stufe 3!
-1818	Besiege "Sarg-Zund". im legendären Level der Stufe 3!
-1819	Besiege "Zamelle". im legendären Level der Stufe 3!
-1820	Besiege "Fräulein Haka". im legendären Level der Stufe 3!
-1821	Besiege "Inumusha". im legendären Level der Stufe 3!
-1822	Besiege "Delfina". im legendären Level der Stufe 3!
-1823	Besiege "Cala Maria". im legendären Level der Stufe 3!
-1824	Besiege "Quakley". im legendären Level der Stufe 3!
-1825	Besiege "Dukann". im legendären Level der Stufe 3!
-1826	Besiege "Flügelschwein". im legendären Level der Stufe 3!
-1827	Besiege "Shibalien-Elite". im legendären Level der Stufe 3!
-1828	Besiege "Korporal Weyland". im legendären Level der Stufe 3!
-1829	Besiege "Raumfisch Jones". im legendären Level der Stufe 3!
-1830	Besiege "Projekt A". im legendären Level der Stufe 3!
-1831	Besiege "General GreGorilla". im legendären Level der Stufe 3!
-1832	Besiege "Sternenpeng". im legendären Level der Stufe 3!
-1833	Besiege "Hacki". im legendären Level der Stufe 3!
-1834	Besiege "UltraMähMäh". im legendären Level der Stufe 3!
-1835	Besiege "Mecha Bun". im legendären Level der Stufe 3!
-1900	Besiege "J.K. Bun Bun". im legendären Level der Stufe 4!
-1901	Besiege "Ebär". im legendären Level der Stufe 4!
-1902	Besiege "Lehrer Bun Bun". im legendären Level der Stufe 4!
-1903	Besiege "Kory". im legendären Level der Stufe 4!
-1904	Besiege "Regisseur Kurosawah". im legendären Level der Stufe 4!
-1905	Besiege "Bun Bun Schwarz". im legendären Level der Stufe 4!
-1906	Besiege "V. Strauß". im legendären Level der Stufe 4!
-1907	Besiege "Ururun-Wolf". im legendären Level der Stufe 4!
-1908	Besiege "Wallhund". im legendären Level der Stufe 4!
-1909	Besiege "Engelhafter Sleipnir". im legendären Level der Stufe 4!
-1910	Besiege "Eisenhund". im legendären Level der Stufe 4!
-1911	Besiege "Kleiner Nyandam". im legendären Level der Stufe 4!
-1912	Besiege "Berserkory". im legendären Level der Stufe 4!
-1913	Besiege "Mr. Maulwurf". im legendären Level der Stufe 4!
-1914	Besiege "Codename Rotkäppchen". im legendären Level der Stufe 4!
-1915	Besiege "Tu Kahn". im legendären Level der Stufe 4!
-1916	Besiege "Tacki". im legendären Level der Stufe 4!
-1917	Besiege "Ebärphim". im legendären Level der Stufe 4!
-1918	Besiege "Henry". im legendären Level der Stufe 4!
-1919	Besiege "Kleiner Bun Bun". im legendären Level der Stufe 4!
-1920	Besiege "Professor A.". im legendären Level der Stufe 4!
-1921	Besiege "Klingenrücken". im legendären Level der Stufe 4!
-1922	Besiege "Zund". im legendären Level der Stufe 4!
-1923	Besiege "Zäng Ru". im legendären Level der Stufe 4!
-1924	Besiege "Zory". im legendären Level der Stufe 4!
-1925	Besiege "Sarg-Zund". im legendären Level der Stufe 4!
-1926	Besiege "Inumusha". im legendären Level der Stufe 4!
-1927	Besiege "Delfina". im legendären Level der Stufe 4!
-1928	Besiege "Cala Maria". im legendären Level der Stufe 4!
-1929	Besiege "Quakley". im legendären Level der Stufe 4!
-1930	Besiege "Flügelschwein". im legendären Level der Stufe 4!
-1931	Besiege "Shibalien-Elite". im legendären Level der Stufe 4!
-1932	Besiege "Korporal Weyland". im legendären Level der Stufe 4!
-1933	Besiege "Raumfisch Jones". im legendären Level der Stufe 4!
-1934	Besiege "General GreGorilla". im legendären Level der Stufe 4!
-1935	Besiege "Sternenpeng". im legendären Level der Stufe 4!
-2000	Besiege "Das Gesicht". im legendären Level der Stufe 4!
-2001	Besiege "Schüchtermann". im legendären Level der Stufe 4!
-2002	Besiege "Klopper-Otter". im legendären Level der Stufe 4!
-2003	Besiege "Camelle". im legendären Level der Stufe 4!
-2004	Besiege "Ente". im legendären Level der Stufe 4!
-2005	Besiege "Eulheul". im legendären Level der Stufe 4!
-2006	Besiege "DAS FAULTIER". im legendären Level der Stufe 4!
-2007	Besiege "Ren T.". im legendären Level der Stufe 4!
-2008	Besiege "Promi-Pudel". im legendären Level der Stufe 4!
-2009	Besiege "Finsterer Herrscher Nyandam". im legendären Level der Stufe 4!
-2010	Besiege "Meister A.". im legendären Level der Stufe 4!
-2011	Besiege "Scheruru". im legendären Level der Stufe 4!
-2012	Besiege "H. Nee". im legendären Level der Stufe 4!
-2013	Besiege "Dober P.D". im legendären Level der Stufe 4!
-2014	Besiege "Eisernes Nilpferd". im legendären Level der Stufe 4!
-2015	Besiege "St. Schwein II.". im legendären Level der Stufe 4!
-2016	Besiege "Mondfisch Jones". im legendären Level der Stufe 4!
-2017	Besiege "Taubitze". im legendären Level der Stufe 4!
-2018	Besiege "Zlänge". im legendären Level der Stufe 4!
-2019	Besiege "Zomboe". im legendären Level der Stufe 4!
-2020	Besiege "Zwein". im legendären Level der Stufe 4!
-2021	Besiege "Zackie Peng". im legendären Level der Stufe 4!
-2022	Besiege "Prinzessin Promi-Pudel". im legendären Level der Stufe 4!
-2023	Besiege "Zir Robbe". im legendären Level der Stufe 4!
-2024	Besiege "Zroco". im legendären Level der Stufe 4!
-2025	Besiege "Lord Grabi". im legendären Level der Stufe 4!
-2026	Besiege "Dachshund". im legendären Level der Stufe 4!
-2027	Besiege "Schwarzer Gorilla". im legendären Level der Stufe 4!
-2028	Besiege "Le'Solar". im legendären Level der Stufe 4!
-2029	Besiege "Projekt A". im legendären Level der Stufe 4!
-2030	Besiege "Schattenboxer K". im legendären Level der Stufe 4!
-2031	Besiege "Supereisernes Nilpferd". im legendären Level der Stufe 4!
-2032	Besiege "Dunkler Otter". im legendären Level der Stufe 4!
-2033	Besiege "Küken E". im legendären Level der Stufe 4!
-2034	Besiege "Nimoy-Ebär". im legendären Level der Stufe 4!
-2035	Besiege "Elizabeth LVI.". im legendären Level der Stufe 4!
+1800	Besiege Ururun-Wolf in einem. legendären Level der Stufe 3!
+1801	Besiege Kleiner Nyandam in einem. legendären Level der Stufe 3!
+1802	Besiege Berserkory in einem. legendären Level der Stufe 3!
+1803	Besiege Codename Rotkäppchen in einem. legendären Level der Stufe 3!
+1804	Besiege Tacki in einem. legendären Level der Stufe 3!
+1805	Besiege Ebärphim in einem. legendären Level der Stufe 3!
+1806	Besiege Henry in einem. legendären Level der Stufe 3!
+1807	Besiege Kleiner Bun Bun in einem. legendären Level der Stufe 3!
+1808	Besiege Professor A. in einem. legendären Level der Stufe 3!
+1809	Besiege Klingenrücken in einem. legendären Level der Stufe 3!
+1810	Besiege Zund in einem. legendären Level der Stufe 3!
+1811	Besiege Zäng Ru in einem. legendären Level der Stufe 3!
+1812	Besiege Zroco in einem. legendären Level der Stufe 3!
+1813	Besiege Zackie Peng in einem. legendären Level der Stufe 3!
+1814	Besiege Zory in einem. legendären Level der Stufe 3!
+1815	Besiege Zir Robbe in einem. legendären Level der Stufe 3!
+1816	Besiege Lord Grabi in einem. legendären Level der Stufe 3!
+1817	Besiege Zalamander in einem. legendären Level der Stufe 3!
+1818	Besiege Sarg-Zund in einem. legendären Level der Stufe 3!
+1819	Besiege Zamelle in einem. legendären Level der Stufe 3!
+1820	Besiege Fräulein Haka in einem. legendären Level der Stufe 3!
+1821	Besiege Inumusha in einem. legendären Level der Stufe 3!
+1822	Besiege Delfina in einem. legendären Level der Stufe 3!
+1823	Besiege Cala Maria in einem. legendären Level der Stufe 3!
+1824	Besiege Quakley in einem. legendären Level der Stufe 3!
+1825	Besiege Dukann in einem. legendären Level der Stufe 3!
+1826	Besiege Flügelschwein in einem. legendären Level der Stufe 3!
+1827	Besiege Shibalien-Elite in einem. legendären Level der Stufe 3!
+1828	Besiege Korporal Weyland in einem. legendären Level der Stufe 3!
+1829	Besiege Raumfisch Jones in einem. legendären Level der Stufe 3!
+1830	Besiege Projekt A in einem. legendären Level der Stufe 3!
+1831	Besiege General GreGorilla in einem. legendären Level der Stufe 3!
+1832	Besiege Sternenpeng in einem. legendären Level der Stufe 3!
+1833	Besiege Hacki in einem. legendären Level der Stufe 3!
+1834	Besiege UltraMähMäh in einem. legendären Level der Stufe 3!
+1835	Besiege Mecha Bun in einem. legendären Level der Stufe 3!
+1900	Besiege J.K. Bun Bun in einem. legendären Level der Stufe 4!
+1901	Besiege Ebär in einem. legendären Level der Stufe 4!
+1902	Besiege Lehrer Bun Bun in einem. legendären Level der Stufe 4!
+1903	Besiege Kory in einem. legendären Level der Stufe 4!
+1904	Besiege Regisseur Kurosawah in einem. legendären Level der Stufe 4!
+1905	Besiege Bun Bun Schwarz in einem. legendären Level der Stufe 4!
+1906	Besiege V. Strauß in einem. legendären Level der Stufe 4!
+1907	Besiege Ururun-Wolf in einem. legendären Level der Stufe 4!
+1908	Besiege Wallhund in einem. legendären Level der Stufe 4!
+1909	Besiege Engelhafter Sleipnir in einem. legendären Level der Stufe 4!
+1910	Besiege Eisenhund in einem. legendären Level der Stufe 4!
+1911	Besiege Kleiner Nyandam in einem. legendären Level der Stufe 4!
+1912	Besiege Berserkory in einem. legendären Level der Stufe 4!
+1913	Besiege Mr. Maulwurf in einem. legendären Level der Stufe 4!
+1914	Besiege Codename Rotkäppchen in einem. legendären Level der Stufe 4!
+1915	Besiege Tu Kahn in einem. legendären Level der Stufe 4!
+1916	Besiege Tacki in einem. legendären Level der Stufe 4!
+1917	Besiege Ebärphim in einem. legendären Level der Stufe 4!
+1918	Besiege Henry in einem. legendären Level der Stufe 4!
+1919	Besiege Kleiner Bun Bun in einem. legendären Level der Stufe 4!
+1920	Besiege Professor A. in einem. legendären Level der Stufe 4!
+1921	Besiege Klingenrücken in einem. legendären Level der Stufe 4!
+1922	Besiege Zund in einem. legendären Level der Stufe 4!
+1923	Besiege Zäng Ru in einem. legendären Level der Stufe 4!
+1924	Besiege Zory in einem. legendären Level der Stufe 4!
+1925	Besiege Sarg-Zund in einem. legendären Level der Stufe 4!
+1926	Besiege Inumusha in einem. legendären Level der Stufe 4!
+1927	Besiege Delfina in einem. legendären Level der Stufe 4!
+1928	Besiege Cala Maria in einem. legendären Level der Stufe 4!
+1929	Besiege Quakley in einem. legendären Level der Stufe 4!
+1930	Besiege Flügelschwein in einem. legendären Level der Stufe 4!
+1931	Besiege Shibalien-Elite in einem. legendären Level der Stufe 4!
+1932	Besiege Korporal Weyland in einem. legendären Level der Stufe 4!
+1933	Besiege Raumfisch Jones in einem. legendären Level der Stufe 4!
+1934	Besiege General GreGorilla in einem. legendären Level der Stufe 4!
+1935	Besiege Sternenpeng in einem. legendären Level der Stufe 4!
+2000	Besiege Das Gesicht in einem. legendären Level der Stufe 4!
+2001	Besiege Schüchtermann in einem. legendären Level der Stufe 4!
+2002	Besiege Klopper-Otter in einem. legendären Level der Stufe 4!
+2003	Besiege Camelle in einem. legendären Level der Stufe 4!
+2004	Besiege Ente in einem. legendären Level der Stufe 4!
+2005	Besiege Eulheul in einem. legendären Level der Stufe 4!
+2006	Besiege DAS FAULTIER in einem. legendären Level der Stufe 4!
+2007	Besiege Ren T. in einem. legendären Level der Stufe 4!
+2008	Besiege Promi-Pudel in einem. legendären Level der Stufe 4!
+2009	Besiege Finsterer Herrscher Nyandam in einem. legendären Level der Stufe 4!
+2010	Besiege Meister A. in einem. legendären Level der Stufe 4!
+2011	Besiege Scheruru in einem. legendären Level der Stufe 4!
+2012	Besiege H. Nee in einem. legendären Level der Stufe 4!
+2013	Besiege Dober P.D in einem. legendären Level der Stufe 4!
+2014	Besiege Eisernes Nilpferd in einem. legendären Level der Stufe 4!
+2015	Besiege St. Schwein II. in einem. legendären Level der Stufe 4!
+2016	Besiege Mondfisch Jones in einem. legendären Level der Stufe 4!
+2017	Besiege Taubitze in einem. legendären Level der Stufe 4!
+2018	Besiege Zlänge in einem. legendären Level der Stufe 4!
+2019	Besiege Zomboe in einem. legendären Level der Stufe 4!
+2020	Besiege Zwein in einem. legendären Level der Stufe 4!
+2021	Besiege Zackie Peng in einem. legendären Level der Stufe 4!
+2022	Besiege Prinzessin Promi-Pudel in einem. legendären Level der Stufe 4!
+2023	Besiege Zir Robbe in einem. legendären Level der Stufe 4!
+2024	Besiege Zroco in einem. legendären Level der Stufe 4!
+2025	Besiege Lord Grabi in einem. legendären Level der Stufe 4!
+2026	Besiege Dachshund in einem. legendären Level der Stufe 4!
+2027	Besiege Schwarzer Gorilla in einem. legendären Level der Stufe 4!
+2028	Besiege Le'Solar in einem. legendären Level der Stufe 4!
+2029	Besiege Projekt A in einem. legendären Level der Stufe 4!
+2030	Besiege Schattenboxer K in einem. legendären Level der Stufe 4!
+2031	Besiege Supereisernes Nilpferd in einem. legendären Level der Stufe 4!
+2032	Besiege Dunkler Otter in einem. legendären Level der Stufe 4!
+2033	Besiege Küken E in einem. legendären Level der Stufe 4!
+2034	Besiege Nimoy-Ebär in einem. legendären Level der Stufe 4!
+2035	Besiege Elizabeth LVI. in einem. legendären Level der Stufe 4!
 9205	Upgrade Akuma Giraffe to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9206	Upgrade Ryu Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
@@ -634,13 +634,13 @@
 9261	Mega-Fleißarbeit ④: Mehr Meeresbiologie! Schließe "300. Million Dead Molas" 5-mal mit Kuwagatakatze ab
 39	Forschung der Kaiserin 1: Ketzerische Zauberbücher durch. Abschluss von „Arkane Konfluenz“ und „Gemeine Katze“!
 40	Forschung der Kaiserin 2: Agenten der Aku durch. Abschluss von „Diener der Dunkelheit“ und „Gemeiner Panzer“
-9262	Schließe Heißblütiges Ballrollen 5-Mal ab!
-9263	Schließe Heißblütiges Ballrollen 10-Mal ab!
-9264	Meistere „Heißblütiges Rennen“ 5-Mal!
-9265	Meistere „Heißblütiges Rennen“-Level 1-Mal mit
-9266	Besiege Jackie Peng in „Heißblütiger Dreibeinlauf“. (1x in einem „Heißblütiger Dreibeinlauf“-Level)
-9267	Besiege Finsterhund in „Heißblütiger Dreibeinlauf“. (1x in einem „Heißblütiger Dreibeinlauf“-Level)
-9268	Schließe alle 6 limitierten Heißblütiges Aufeinandertreffenmissionen ab!
+9262	Clear "River City Ball-Rolling" 5 times!
+9263	Clear "River City Ball-Rolling" 10 times!
+9264	Clear "River City Challenge Course" 5 times!
+9265	Clear stages from "River City Challenge Course"
+9266	Defeat Jackie Peng at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9267	Defeat Finsterhund at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9268	Clear all 6 River City Cat Clash Limited  Missions!missionen ab!
 9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
 9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!
 9271	Defeat the Box Witch! Find this Witch at the "Witch's Labyrinth: Box Witch" map!
@@ -718,3 +718,11 @@
 53	Schließe 30 aller Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
 9379	Schließe Ebene 40 des Höllischen Turms ab. * Belohnung kann nur einmal eingefordert werden
 54	Schließe „XP-Goldgrube“ ab! Meistere die Mission,. indem du alle Level in „XP-Goldgrube“ abschließt
+9380	Clear stages from "River City Cat Clash"
+9381	Clear stages from "River City Cat Clash"
+9382	Clear stages from "River City Cat Clash"
+9383	Clear stages from "River City Three-Leg Race"
+9384	Clear stages from "River City Three-Leg Race"
+9385	Clear stages from "Street Fighter V CE Collab"
+9386	Clear stages from "Street Fighter V CE Collab"
+9387	Clear stages from "Street Fighter V CE Collab"

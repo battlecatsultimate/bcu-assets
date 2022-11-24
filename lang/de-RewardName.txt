@@ -129,6 +129,10 @@
 171	Gelber B.-Stein
 172	Weihwasser
 173	Legendennetze
+174	仮
+175	仮
+176	仮
+177	仮
 1005	Bronzekatze
 1100	Bronzekatze
 1001	Sporttagkatze
@@ -524,6 +528,7 @@
 15619	Unsterblicher Amakusa
 15620	Himmlische Lilin π
 15633	Auslöscher Diabolosa
+15643	Allmächtiger Luzifer
 15657	Haniwa-Katze
 15659	Kurierkatze
 15660	Katzan

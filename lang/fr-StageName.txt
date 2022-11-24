@@ -1422,6 +1422,12 @@
 001-321-000	Panne de réveil mondiale
 001-321-001	Océans gélifiés
 001-321-002	Terre arrêtée
+001-325		Nuit 1 : Père Noël griffu au travail
+001-325-000	5 000 cadeaux/s
+001-325-001	Enfants sans sommeil
+001-325-002	Retour de cadeaux
+001-325-003	Renne en grève
+001-325-004	Sourires offerts
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3313,6 +3319,13 @@
 013-041-003	Cape de camouflage
 013-041-004	Salle du festin
 013-041-005	Viande grillée, villes sauves
+013-042		Pic de Béhémoth
+013-042-000	Fontaine des souvenirs
+013-042-001	Pouls chaotique
+013-042-002	Par-delà le brouillard
+013-042-003	En bordure
+013-042-004	Courant d'argent
+013-042-005	Zénith immortel
 013-043		Plage modiste
 013-043-000	Étoiles dans le verre
 013-043-001	Nuit des arnaqueurs
@@ -4324,7 +4337,17 @@
 024-056-007	Défilé niv. 8
 024-056-008	Défilé niv. 9
 024-056-009	Défilé niv. max
-
+024-058		Nuit 2 : Livraison de la veille de Noël
+024-058-000	Livraison niv. 1
+024-058-001	Livraison niv. 2
+024-058-002	Livraison niv. 3
+024-058-003	Livraison niv. 4
+024-058-004	Livraison niv. 5
+024-058-005	Livraison niv. 6
+024-058-006	Livraison niv. 7
+024-058-007	Livraison niv. 8
+024-058-008	Livraison niv. 9
+024-058-009	Livraison niv. max\
 025			Enigma Stages
 025-000		Champs Aitum
 025-000-000	Guerre de tranchées (maniaque)

@@ -24,19 +24,19 @@
 24	Missione del sesto anniversario. Supera Impero dei Gatti Cap. 1 durante questo evento!
 25	Supera ogni livello in "Anche le stelle si scottano"! (Completa l'ultimo livello di Gatti del Cosmo Cap. 3.)
 26	Missione del settimo anniversario. Supera Impero dei Gatti Cap. 1 durante questo evento!
-27	Supera tutti i Livelli leggendari di livello 2. per completare questa missione
-28	Supera tutti i Livelli leggendari di livello 3. per completare questa missione
+27	Supera tutti i livelli 2 delle Saghe leggendarie. per completare questa missione
+28	Supera tutti i livelli 3 delle Saghe leggendarie. per completare questa missione
 29	Missione del 8° anniversario. Supera Impero dei Gatti Cap. 1 durante questo evento!
 8000	Supera livelli con in premio miaobiglietti 3 volte! (Controlla la validità nei dettagli delle missioni)
 8001	Supera livelli con in premio XP 5 volte! (Controlla la validità nei dettagli delle missioni)
-8002	Supera 5 livelli delle Saghe leggendarie! (Completa 5 livelli SL gialli)
+8002	Supera 5 livelli delle Saghe leggendarie! (Completa 5 livelli SL gialli: )
 8003	Manda Gamatoto in 7 spedizioni riuscite! (Termina 7 spedizioni complete in un'area Gamatoto)
 8004	Supera tutte le missioni settimanali! (Completa. tutte e 4 le sfide settimanali disponibili)
 8005	Supera livelli con in premio miaobiglietti 3 volte! (Controlla la validità nei dettagli delle missioni)
 8006	Supera livelli con in premio XP 5 volte! (Controlla la validità nei dettagli delle missioni)
 8007	Manda Gamatoto in 10 spedizioni riuscite! (Termina 10 spedizioni complete in un'area Gamatoto)
 8008	Supera livelli con in premio miagrumi 3 volte! (Controlla la validità nei dettagli delle missioni)
-8009	Supera 10 livelli delle Saghe leggendarie! (Completa 10 livelli SL gialli)
+8009	Supera 10 livelli delle Saghe leggendarie! (Completa 10 livelli SL gialli: )
 8010	Supera tutte le missioni settimanali! (Completa. tutte e 4 le sfide settimanali disponibili)
 8011	Supera tutte le missioni settimanali! (Completa. tutte e 4 le sfide settimanali disponibili)
 9000	Supera il 30° piano della Torre celestiale. (Questa ricompensa può essere riscattata una volta sola.)
@@ -301,22 +301,22 @@
 1315	Sconfiggi L.F. Accia in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
 1316	Sconfiggi Cinghio Nimoy in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
 1317	Sconfiggi Valchiria corrotta in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1318	Sconfiggi "San Suino II". al livello 1 dei Livelli leggendari!
-1319	Sconfiggi "Cane oscuro". al livello 1 dei Livelli leggendari!
-1320	Sconfiggi "Maestro F.". al livello 1 dei Livelli leggendari!
-1321	Sconfiggi "Bassetto". al livello 1 dei Livelli leggendari!
-1322	Sconfiggi "Celebribau". al livello 1 dei Livelli leggendari!
-1323	Sconfiggi "IL BRADIPO". al livello 1 dei Livelli leggendari!
-1324	Sconfiggi "Lontraccia". al livello 1 dei Livelli leggendari!
-1325	Sconfiggi "J.K. Bum-bum". al livello 1 dei Livelli leggendari!
-1326	Sconfiggi "Cinghio". al livello 1 dei Livelli leggendari!
-1327	Sconfiggi "Gufotto". al livello 1 dei Livelli leggendari!
-1328	Sconfiggi "Gobbetta". al livello 1 dei Livelli leggendari!
-1329	Sconfiggi "Kory". al livello 1 dei Livelli leggendari!
-1330	Sconfiggi "Kurosawah il regista". al livello 1 dei Livelli leggendari!
-1331	Sconfiggi "Metallornetto". al livello 1 dei Livelli leggendari!
-1332	Sconfiggi "I. Ena". al livello 1 dei Livelli leggendari!
-1333	Sconfiggi "Lupo Ururun". al livello 1 dei Livelli leggendari!
+1318	Sconfiggi San Suino II a. un livello 1 delle Saghe leggendarie!
+1319	Sconfiggi Cane oscuro a. un livello 1 delle Saghe leggendarie!
+1320	Sconfiggi Maestro F. a. un livello 1 delle Saghe leggendarie!
+1321	Sconfiggi Bassetto a. un livello 1 delle Saghe leggendarie!
+1322	Sconfiggi Celebribau a. un livello 1 delle Saghe leggendarie!
+1323	Sconfiggi IL BRADIPO a. un livello 1 delle Saghe leggendarie!
+1324	Sconfiggi Lontraccia a. un livello 1 delle Saghe leggendarie!
+1325	Sconfiggi J.K. Bum-bum a. un livello 1 delle Saghe leggendarie!
+1326	Sconfiggi Cinghio a. un livello 1 delle Saghe leggendarie!
+1327	Sconfiggi Gufotto a. un livello 1 delle Saghe leggendarie!
+1328	Sconfiggi Gobbetta a. un livello 1 delle Saghe leggendarie!
+1329	Sconfiggi Kory a. un livello 1 delle Saghe leggendarie!
+1330	Sconfiggi Kurosawah il regista a. un livello 1 delle Saghe leggendarie!
+1331	Sconfiggi Metallornetto a. un livello 1 delle Saghe leggendarie!
+1332	Sconfiggi I. Ena a. un livello 1 delle Saghe leggendarie!
+1333	Sconfiggi Lupo Ururun a. un livello 1 delle Saghe leggendarie!
 1334	Sconfiggi Ciclone rosso in Catastrofe cremisi. (Una volta in un livello di Catastrofe cremisi.)
 1335	Sconfiggi Ciclone nero in Paradiso delle tenebre. (Una volta in un livello di Paradiso delle tenebre.)
 1400	Sconfiggi Signora Celebribau in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
@@ -336,23 +336,23 @@
 1414	Sconfiggi Lontra oscura in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
 1415	Sconfiggi Cinghio Nimoy in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
 1416	Sconfiggi Gatto Bahamut furioso in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1417	Sconfiggi "Dober". al livello 1 dei Livelli leggendari!
-1418	Sconfiggi "S. Truzzo". al livello 1 dei Livelli leggendari!
-1419	Sconfiggi "Persico Jones". al livello 1 dei Livelli leggendari!
-1420	Sconfiggi "Super Metallippo". al livello 1 dei Livelli leggendari!
-1421	Sconfiggi "Cane Muro". al livello 1 dei Livelli leggendari!
-1422	Sconfiggi "Impiccione". al livello 1 dei Livelli leggendari!
-1423	Sconfiggi "Sleipnir angelico". al livello 1 dei Livelli leggendari!
-1424	Sconfiggi "Mini Nyandam". al livello 1 dei Livelli leggendari!
-1425	Sconfiggi "Pulcino A". al livello 1 dei Livelli leggendari!
-1426	Sconfiggi "Capy". al livello 1 dei Livelli leggendari!
-1427	Sconfiggi "Rondinone". al livello 1 dei Livelli leggendari!
-1428	Sconfiggi "Berserkory". al livello 1 dei Livelli leggendari!
-1429	Sconfiggi "Mr. Talpa". al livello 1 dei Livelli leggendari!
-1430	Sconfiggi "Tu Can". al livello 1 dei Livelli leggendari!
-1431	Sconfiggi "Nome in codice "Cappuccetto"". al livello 1 dei Livelli leggendari!
-1432	Sconfiggi "Neruccio". al livello 1 dei Livelli leggendari!
-1433	Sconfiggi "Cinghiafino". al livello 1 dei Livelli leggendari!
+1417	Sconfiggi Dober a. un livello 1 delle Saghe leggendarie!
+1418	Sconfiggi S. Truzzo a. un livello 1 delle Saghe leggendarie!
+1419	Sconfiggi Persico Jones a. un livello 1 delle Saghe leggendarie!
+1420	Sconfiggi Super Metallippo a. un livello 1 delle Saghe leggendarie!
+1421	Sconfiggi Cane Muro a. un livello 1 delle Saghe leggendarie!
+1422	Sconfiggi Impiccione a. un livello 1 delle Saghe leggendarie!
+1423	Sconfiggi Sleipnir angelico a. un livello 1 delle Saghe leggendarie!
+1424	Sconfiggi Mini Nyandam a. un livello 1 delle Saghe leggendarie!
+1425	Sconfiggi Pulcino A a. un livello 1 delle Saghe leggendarie!
+1426	Sconfiggi Capy a. un livello 1 delle Saghe leggendarie!
+1427	Sconfiggi Rondinone a. un livello 1 delle Saghe leggendarie!
+1428	Sconfiggi Berserkory a. un livello 1 delle Saghe leggendarie!
+1429	Sconfiggi Mr. Talpa a. un livello 1 delle Saghe leggendarie!
+1430	Sconfiggi Tu Can a. un livello 1 delle Saghe leggendarie!
+1431	Sconfiggi Nome in codice "Cappuccetto" a. un livello 1 delle Saghe leggendarie!
+1432	Sconfiggi Neruccio a. un livello 1 delle Saghe leggendarie!
+1433	Sconfiggi Cinghiafino a. un livello 1 delle Saghe leggendarie!
 1434	Sconfiggi Ciclone bianco in Ineguagliabile. (Una volta in un livello di Ineguagliabile.)
 1435	Sconfiggi Ciclone divino in Ira del paradiso. (Una volta in ogni livello di Ira del paradiso.)
 1500	Sconfiggi Shibalieno Élite in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
@@ -372,23 +372,23 @@
 1514	Sconfiggi Astrico Jones in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
 1515	Sconfiggi Metallicane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
 1516	Sconfiggi Il Gatto divino in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1517	Sconfiggi "IL BRADIPO". al livello 2 dei Livelli leggendari!
-1518	Sconfiggi "Timidone". al livello 2 dei Livelli leggendari!
-1519	Sconfiggi "J.K. Bum-bum". al livello 2 dei Livelli leggendari!
-1520	Sconfiggi "Imperatore Oscuro Nyandam". al livello 2 dei Livelli leggendari!
-1521	Sconfiggi "Professor Bum-bum". al livello 2 dei Livelli leggendari!
-1522	Sconfiggi "Cinghio". al livello 2 dei Livelli leggendari!
-1523	Sconfiggi "Kory". al livello 2 dei Livelli leggendari!
-1524	Sconfiggi "Kurosawah il regista". al livello 2 dei Livelli leggendari!
-1525	Sconfiggi "S. Truzzo". al livello 2 dei Livelli leggendari!
-1526	Sconfiggi "Lupo Ururun". al livello 2 dei Livelli leggendari!
-1527	Sconfiggi "Sleipnir angelico". al livello 2 dei Livelli leggendari!
-1528	Sconfiggi "Mini Nyandam". al livello 2 dei Livelli leggendari!
-1529	Sconfiggi "Berserkory". al livello 2 dei Livelli leggendari!
-1530	Sconfiggi "Rennana". al livello 2 dei Livelli leggendari!
-1531	Sconfiggi "Gobbetta". al livello 2 dei Livelli leggendari!
-1532	Sconfiggi "I. Ena". al livello 2 dei Livelli leggendari!
-1533	Sconfiggi "Dober". al livello 2 dei Livelli leggendari!
+1517	Sconfiggi IL BRADIPO a. un livello 2 delle Saghe leggendarie!
+1518	Sconfiggi Timidone a. un livello 2 delle Saghe leggendarie!
+1519	Sconfiggi J.K. Bum-bum a. un livello 2 delle Saghe leggendarie!
+1520	Sconfiggi Imperatore Oscuro Nyandam a. un livello 2 delle Saghe leggendarie!
+1521	Sconfiggi Professor Bum-bum a. un livello 2 delle Saghe leggendarie!
+1522	Sconfiggi Cinghio a. un livello 2 delle Saghe leggendarie!
+1523	Sconfiggi Kory a. un livello 2 delle Saghe leggendarie!
+1524	Sconfiggi Kurosawah il regista a. un livello 2 delle Saghe leggendarie!
+1525	Sconfiggi S. Truzzo a. un livello 2 delle Saghe leggendarie!
+1526	Sconfiggi Lupo Ururun a. un livello 2 delle Saghe leggendarie!
+1527	Sconfiggi Sleipnir angelico a. un livello 2 delle Saghe leggendarie!
+1528	Sconfiggi Mini Nyandam a. un livello 2 delle Saghe leggendarie!
+1529	Sconfiggi Berserkory a. un livello 2 delle Saghe leggendarie!
+1530	Sconfiggi Rennana a. un livello 2 delle Saghe leggendarie!
+1531	Sconfiggi Gobbetta a. un livello 2 delle Saghe leggendarie!
+1532	Sconfiggi I. Ena a. un livello 2 delle Saghe leggendarie!
+1533	Sconfiggi Dober a. un livello 2 delle Saghe leggendarie!
 1534	Sconfiggi Metalliciclone in Dolce ironia. (Una volta in un livello di Dolce ironia.)
 1535	Sconfiggi Ciclone cosmico in Dimensione disperata. (Una volta in un livello di Dimensione disperata.)
 1600	Sconfiggi UltraBeeBee in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
@@ -411,20 +411,20 @@
 1617	Sconfiggi Gory in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
 1618	Sconfiggi Metallornetto in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
 1619	Sconfiggi Gatto divino in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1620	Sconfiggi "Mr. Angelo". al livello 1 dei Livelli leggendari!
-1621	Sconfiggi "Henry". al livello 1 dei Livelli leggendari!
-1622	Sconfiggi "Mini Bum-bum". al livello 1 dei Livelli leggendari!
-1623	Sconfiggi "Dottor F.". al livello 1 dei Livelli leggendari!
-1624	Sconfiggi "Cinghiale selvatico". al livello 1 dei Livelli leggendari!
-1625	Sconfiggi "Zane". al livello 1 dei Livelli leggendari!
-1626	Sconfiggi "Zippo". al livello 1 dei Livelli leggendari!
-1627	Sconfiggi "Zuino". al livello 1 dei Livelli leggendari!
-1628	Sconfiggi "Zackie Ping". al livello 1 dei Livelli leggendari!
-1629	Sconfiggi "Lord Tomby". al livello 1 dei Livelli leggendari!
-1630	Sconfiggi "Sal il Grosso". al livello 1 dei Livelli leggendari!
-1631	Sconfiggi "Zane Bara". al livello 1 dei Livelli leggendari!
-1632	Sconfiggi "Zobbetta". al livello 1 dei Livelli leggendari!
-1633	Sconfiggi "Miss Haka". al livello 1 dei Livelli leggendari!
+1620	Sconfiggi Mr. Angelo a. un livello 1 delle Saghe leggendarie!
+1621	Sconfiggi Henry a. un livello 1 delle Saghe leggendarie!
+1622	Sconfiggi Mini Bum-bum a. un livello 1 delle Saghe leggendarie!
+1623	Sconfiggi Dottor F. a. un livello 1 delle Saghe leggendarie!
+1624	Sconfiggi Cinghiale selvatico a. un livello 1 delle Saghe leggendarie!
+1625	Sconfiggi Zane a. un livello 1 delle Saghe leggendarie!
+1626	Sconfiggi Zippo a. un livello 1 delle Saghe leggendarie!
+1627	Sconfiggi Zuino a. un livello 1 delle Saghe leggendarie!
+1628	Sconfiggi Zackie Ping a. un livello 1 delle Saghe leggendarie!
+1629	Sconfiggi Lord Tomby a. un livello 1 delle Saghe leggendarie!
+1630	Sconfiggi Sal il Grosso a. un livello 1 delle Saghe leggendarie!
+1631	Sconfiggi Zane Bara a. un livello 1 delle Saghe leggendarie!
+1632	Sconfiggi Zobbetta a. un livello 1 delle Saghe leggendarie!
+1633	Sconfiggi Miss Haka a. un livello 1 delle Saghe leggendarie!
 1634	Sconfiggi Il Ciclone Perfetto in Rosso di mattina. (Una volta in un livello di Rosso di mattina.)
 1635	Sconfiggi Ziclone in Morti rotolanti. (Una volta in un livello di Morti rotolanti.)
 1700	Sconfiggi Mesocosmociclone in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
@@ -447,130 +447,130 @@
 1717	Sconfiggi Alpacky in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
 1718	Sconfiggi Metallicane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
 1719	Sconfiggi Giga dio boss finale in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1720	Sconfiggi "Sir Metallifoca". al livello 1 dei Livelli leggendari!
-1721	Sconfiggi "Metallicane". al livello 1 dei Livelli leggendari!
-1722	Sconfiggi "Elenoir". al livello 1 dei Livelli leggendari!
-1723	Sconfiggi "Zroco". al livello 1 dei Livelli leggendari!
-1724	Sconfiggi "Zory". al livello 1 dei Livelli leggendari!
-1725	Sconfiggi "Zir Foca". al livello 1 dei Livelli leggendari!
-1726	Sconfiggi "Zang Uro". al livello 1 dei Livelli leggendari!
-1727	Sconfiggi "Inumusha". al livello 1 dei Livelli leggendari!
-1728	Sconfiggi "Delfina". al livello 1 dei Livelli leggendari!
-1729	Sconfiggi "Cala Maria". al livello 1 dei Livelli leggendari!
-1730	Sconfiggi "Gracchio". al livello 1 dei Livelli leggendari!
-1731	Sconfiggi "Tuca". al livello 1 dei Livelli leggendari!
-1732	Sconfiggi "Suino con le ali". al livello 1 dei Livelli leggendari!
-1733	Sconfiggi "Rossuccio". al livello 1 dei Livelli leggendari!
-1734	Sconfiggi "Mech-Bum". al livello 1 dei Livelli leggendari!
+1720	Sconfiggi Sir Metallifoca a. un livello 1 delle Saghe leggendarie!
+1721	Sconfiggi Metallicane a. un livello 1 delle Saghe leggendarie!
+1722	Sconfiggi Elenoir a. un livello 1 delle Saghe leggendarie!
+1723	Sconfiggi Zroco a. un livello 1 delle Saghe leggendarie!
+1724	Sconfiggi Zory a. un livello 1 delle Saghe leggendarie!
+1725	Sconfiggi Zir Foca a. un livello 1 delle Saghe leggendarie!
+1726	Sconfiggi Zang Uro a. un livello 1 delle Saghe leggendarie!
+1727	Sconfiggi Inumusha a. un livello 1 delle Saghe leggendarie!
+1728	Sconfiggi Delfina a. un livello 1 delle Saghe leggendarie!
+1729	Sconfiggi Cala Maria a. un livello 1 delle Saghe leggendarie!
+1730	Sconfiggi Gracchio a. un livello 1 delle Saghe leggendarie!
+1731	Sconfiggi Tuca a. un livello 1 delle Saghe leggendarie!
+1732	Sconfiggi Suino con le ali a. un livello 1 delle Saghe leggendarie!
+1733	Sconfiggi Rossuccio a. un livello 1 delle Saghe leggendarie!
+1734	Sconfiggi Mech-Bum a. un livello 1 delle Saghe leggendarie!
 1735	Sconfiggi Super ciclone cosmico in La seconda dimensione. (Una volta in un livello di La seconda dimensione.)
-1800	Sconfiggi "Lupo Ururun". al livello 3 dei Livelli leggendari!
-1801	Sconfiggi "Mini Nyandam". al livello 3 dei Livelli leggendari!
-1802	Sconfiggi "Berserkory". al livello 3 dei Livelli leggendari!
-1803	Sconfiggi "Nome in codice "Cappuccetto"". al livello 3 dei Livelli leggendari!
-1804	Sconfiggi "Neruccio". al livello 3 dei Livelli leggendari!
-1805	Sconfiggi "Cinghiafino". al livello 3 dei Livelli leggendari!
-1806	Sconfiggi "Henry". al livello 3 dei Livelli leggendari!
-1807	Sconfiggi "Mini Bum-bum". al livello 3 dei Livelli leggendari!
-1808	Sconfiggi "Dottor F.". al livello 3 dei Livelli leggendari!
-1809	Sconfiggi "Cinghiale selvatico". al livello 3 dei Livelli leggendari!
-1810	Sconfiggi "Zane". al livello 3 dei Livelli leggendari!
-1811	Sconfiggi "Zang Uro". al livello 3 dei Livelli leggendari!
-1812	Sconfiggi "Zroco". al livello 3 dei Livelli leggendari!
-1813	Sconfiggi "Zackie Ping". al livello 3 dei Livelli leggendari!
-1814	Sconfiggi "Zory". al livello 3 dei Livelli leggendari!
-1815	Sconfiggi "Zir Foca". al livello 3 dei Livelli leggendari!
-1816	Sconfiggi "Lord Tomby". al livello 3 dei Livelli leggendari!
-1817	Sconfiggi "Sal il Grosso". al livello 3 dei Livelli leggendari!
-1818	Sconfiggi "Zane Bara". al livello 3 dei Livelli leggendari!
-1819	Sconfiggi "Zobbetta". al livello 3 dei Livelli leggendari!
-1820	Sconfiggi "Miss Haka". al livello 3 dei Livelli leggendari!
-1821	Sconfiggi "Inumusha". al livello 3 dei Livelli leggendari!
-1822	Sconfiggi "Delfina". al livello 3 dei Livelli leggendari!
-1823	Sconfiggi "Cala Maria". al livello 3 dei Livelli leggendari!
-1824	Sconfiggi "Gracchio". al livello 3 dei Livelli leggendari!
-1825	Sconfiggi "Tuca". al livello 3 dei Livelli leggendari!
-1826	Sconfiggi "Suino con le ali". al livello 3 dei Livelli leggendari!
-1827	Sconfiggi "Shibalieno Élite". al livello 3 dei Livelli leggendari!
-1828	Sconfiggi "Caporale Sterry". al livello 3 dei Livelli leggendari!
-1829	Sconfiggi "Astrico Jones". al livello 3 dei Livelli leggendari!
-1830	Sconfiggi "Progetto F". al livello 3 dei Livelli leggendari!
-1831	Sconfiggi "Generale GreGory". al livello 3 dei Livelli leggendari!
-1832	Sconfiggi "Ping Astro". al livello 3 dei Livelli leggendari!
-1833	Sconfiggi "Rossuccio". al livello 3 dei Livelli leggendari!
-1834	Sconfiggi "UltraBeeBee". al livello 3 dei Livelli leggendari!
-1835	Sconfiggi "Mech-Bum". al livello 3 dei Livelli leggendari!
-1900	Sconfiggi "J.K. Bum-bum". al livello 4 dei Livelli leggendari!
-1901	Sconfiggi "Cinghio". al livello 4 dei Livelli leggendari!
-1902	Sconfiggi "Professor Bum-bum". al livello 4 dei Livelli leggendari!
-1903	Sconfiggi "Kory". al livello 4 dei Livelli leggendari!
-1904	Sconfiggi "Kurosawah il regista". al livello 4 dei Livelli leggendari!
-1905	Sconfiggi "Bum-bum nero". al livello 4 dei Livelli leggendari!
-1906	Sconfiggi "S. Truzzo". al livello 4 dei Livelli leggendari!
-1907	Sconfiggi "Lupo Ururun". al livello 4 dei Livelli leggendari!
-1908	Sconfiggi "Cane Muro". al livello 4 dei Livelli leggendari!
-1909	Sconfiggi "Sleipnir angelico". al livello 4 dei Livelli leggendari!
-1910	Sconfiggi "Metallicane". al livello 4 dei Livelli leggendari!
-1911	Sconfiggi "Mini Nyandam". al livello 4 dei Livelli leggendari!
-1912	Sconfiggi "Berserkory". al livello 4 dei Livelli leggendari!
-1913	Sconfiggi "Mr. Talpa". al livello 4 dei Livelli leggendari!
-1914	Sconfiggi "Nome in codice "Cappuccetto"". al livello 4 dei Livelli leggendari!
-1915	Sconfiggi "Tu Can". al livello 4 dei Livelli leggendari!
-1916	Sconfiggi "Neruccio". al livello 4 dei Livelli leggendari!
-1917	Sconfiggi "Cinghiafino". al livello 4 dei Livelli leggendari!
-1918	Sconfiggi "Henry". al livello 4 dei Livelli leggendari!
-1919	Sconfiggi "Mini Bum-bum". al livello 4 dei Livelli leggendari!
-1920	Sconfiggi "Dottor F.". al livello 4 dei Livelli leggendari!
-1921	Sconfiggi "Cinghiale selvatico". al livello 4 dei Livelli leggendari!
-1922	Sconfiggi "Zane". al livello 4 dei Livelli leggendari!
-1923	Sconfiggi "Zang Uro". al livello 4 dei Livelli leggendari!
-1924	Sconfiggi "Zory". al livello 4 dei Livelli leggendari!
-1925	Sconfiggi "Zane Bara". al livello 4 dei Livelli leggendari!
-1926	Sconfiggi "Inumusha". al livello 4 dei Livelli leggendari!
-1927	Sconfiggi "Delfina". al livello 4 dei Livelli leggendari!
-1928	Sconfiggi "Cala Maria". al livello 4 dei Livelli leggendari!
-1929	Sconfiggi "Gracchio". al livello 4 dei Livelli leggendari!
-1930	Sconfiggi "Suino con le ali". al livello 4 dei Livelli leggendari!
-1931	Sconfiggi "Shibalieno Élite". al livello 4 dei Livelli leggendari!
-1932	Sconfiggi "Caporale Sterry". al livello 4 dei Livelli leggendari!
-1933	Sconfiggi "Astrico Jones". al livello 4 dei Livelli leggendari!
-1934	Sconfiggi "Generale GreGory". al livello 4 dei Livelli leggendari!
-1935	Sconfiggi "Ping Astro". al livello 4 dei Livelli leggendari!
-2000	Sconfiggi "La faccia". al livello 4 dei Livelli leggendari!
-2001	Sconfiggi "Timidone". al livello 4 dei Livelli leggendari!
-2002	Sconfiggi "Lontraccia". al livello 4 dei Livelli leggendari!
-2003	Sconfiggi "Gobbetta". al livello 4 dei Livelli leggendari!
-2004	Sconfiggi "Oca". al livello 4 dei Livelli leggendari!
-2005	Sconfiggi "Gufotto". al livello 4 dei Livelli leggendari!
-2006	Sconfiggi "IL BRADIPO". al livello 4 dei Livelli leggendari!
-2007	Sconfiggi "Rennana". al livello 4 dei Livelli leggendari!
-2008	Sconfiggi "Celebribau". al livello 4 dei Livelli leggendari!
-2009	Sconfiggi "Imperatore Oscuro Nyandam". al livello 4 dei Livelli leggendari!
-2010	Sconfiggi "Maestro F.". al livello 4 dei Livelli leggendari!
-2011	Sconfiggi "Forbiciuro". al livello 4 dei Livelli leggendari!
-2012	Sconfiggi "I. Ena". al livello 4 dei Livelli leggendari!
-2013	Sconfiggi "Dober". al livello 4 dei Livelli leggendari!
-2014	Sconfiggi "Metallippo". al livello 4 dei Livelli leggendari!
-2015	Sconfiggi "San Suino II". al livello 4 dei Livelli leggendari!
-2016	Sconfiggi "Persico Jones". al livello 4 dei Livelli leggendari!
-2017	Sconfiggi "Impiccione". al livello 4 dei Livelli leggendari!
-2018	Sconfiggi "Zerpe". al livello 4 dei Livelli leggendari!
-2019	Sconfiggi "Zippo". al livello 4 dei Livelli leggendari!
-2020	Sconfiggi "Zuino". al livello 4 dei Livelli leggendari!
-2021	Sconfiggi "Zackie Ping". al livello 4 dei Livelli leggendari!
-2022	Sconfiggi "Signora Celebribau". al livello 4 dei Livelli leggendari!
-2023	Sconfiggi "Zir Foca". al livello 4 dei Livelli leggendari!
-2024	Sconfiggi "Zroco". al livello 4 dei Livelli leggendari!
-2025	Sconfiggi "Lord Tomby". al livello 4 dei Livelli leggendari!
-2026	Sconfiggi "Bassetto". al livello 4 dei Livelli leggendari!
-2027	Sconfiggi "Gory nero". al livello 4 dei Livelli leggendari!
-2028	Sconfiggi "Elesolare". al livello 4 dei Livelli leggendari!
-2029	Sconfiggi "Progetto F". al livello 4 dei Livelli leggendari!
-2030	Sconfiggi "Pugile K oscuro". al livello 4 dei Livelli leggendari!
-2031	Sconfiggi "Super Metallippo". al livello 4 dei Livelli leggendari!
-2032	Sconfiggi "Lontra oscura". al livello 4 dei Livelli leggendari!
-2033	Sconfiggi "Pulcino A". al livello 4 dei Livelli leggendari!
-2034	Sconfiggi "Cinghio Nimoy". al livello 4 dei Livelli leggendari!
-2035	Sconfiggi "Elisabetta LVI". al livello 4 dei Livelli leggendari!
+1800	Sconfiggi Lupo Ururun a. un livello 3 delle Saghe leggendarie!
+1801	Sconfiggi Mini Nyandam a. un livello 3 delle Saghe leggendarie!
+1802	Sconfiggi Berserkory a. un livello 3 delle Saghe leggendarie!
+1803	Sconfiggi Nome in codice "Cappuccetto" a. un livello 3 delle Saghe leggendarie!
+1804	Sconfiggi Neruccio a. un livello 3 delle Saghe leggendarie!
+1805	Sconfiggi Cinghiafino a. un livello 3 delle Saghe leggendarie!
+1806	Sconfiggi Henry a. un livello 3 delle Saghe leggendarie!
+1807	Sconfiggi Mini Bum-bum a. un livello 3 delle Saghe leggendarie!
+1808	Sconfiggi Dottor F. a. un livello 3 delle Saghe leggendarie!
+1809	Sconfiggi Cinghiale selvatico a. un livello 3 delle Saghe leggendarie!
+1810	Sconfiggi Zane a. un livello 3 delle Saghe leggendarie!
+1811	Sconfiggi Zang Uro a. un livello 3 delle Saghe leggendarie!
+1812	Sconfiggi Zroco a. un livello 3 delle Saghe leggendarie!
+1813	Sconfiggi Zackie Ping a. un livello 3 delle Saghe leggendarie!
+1814	Sconfiggi Zory a. un livello 3 delle Saghe leggendarie!
+1815	Sconfiggi Zir Foca a. un livello 3 delle Saghe leggendarie!
+1816	Sconfiggi Lord Tomby a. un livello 3 delle Saghe leggendarie!
+1817	Sconfiggi Sal il Grosso a. un livello 3 delle Saghe leggendarie!
+1818	Sconfiggi Zane Bara a. un livello 3 delle Saghe leggendarie!
+1819	Sconfiggi Zobbetta a. un livello 3 delle Saghe leggendarie!
+1820	Sconfiggi Miss Haka a. un livello 3 delle Saghe leggendarie!
+1821	Sconfiggi Inumusha a. un livello 3 delle Saghe leggendarie!
+1822	Sconfiggi Delfina a. un livello 3 delle Saghe leggendarie!
+1823	Sconfiggi Cala Maria a. un livello 3 delle Saghe leggendarie!
+1824	Sconfiggi Gracchio a. un livello 3 delle Saghe leggendarie!
+1825	Sconfiggi Tuca a. un livello 3 delle Saghe leggendarie!
+1826	Sconfiggi Suino con le ali a. un livello 3 delle Saghe leggendarie!
+1827	Sconfiggi Shibalieno Élite a. un livello 3 delle Saghe leggendarie!
+1828	Sconfiggi Caporale Sterry a. un livello 3 delle Saghe leggendarie!
+1829	Sconfiggi Astrico Jones a. un livello 3 delle Saghe leggendarie!
+1830	Sconfiggi Progetto F a. un livello 3 delle Saghe leggendarie!
+1831	Sconfiggi Generale GreGory a. un livello 3 delle Saghe leggendarie!
+1832	Sconfiggi Ping Astro a. un livello 3 delle Saghe leggendarie!
+1833	Sconfiggi Rossuccio a. un livello 3 delle Saghe leggendarie!
+1834	Sconfiggi UltraBeeBee a. un livello 3 delle Saghe leggendarie!
+1835	Sconfiggi Mech-Bum a. un livello 3 delle Saghe leggendarie!
+1900	Sconfiggi J.K. Bum-bum a. un livello 4 delle Saghe leggendarie!
+1901	Sconfiggi Cinghio a. un livello 4 delle Saghe leggendarie!
+1902	Sconfiggi Professor Bum-bum a. un livello 4 delle Saghe leggendarie!
+1903	Sconfiggi Kory a. un livello 4 delle Saghe leggendarie!
+1904	Sconfiggi Kurosawah il regista a. un livello 4 delle Saghe leggendarie!
+1905	Sconfiggi Bum-bum nero a. un livello 4 delle Saghe leggendarie!
+1906	Sconfiggi S. Truzzo a. un livello 4 delle Saghe leggendarie!
+1907	Sconfiggi Lupo Ururun a. un livello 4 delle Saghe leggendarie!
+1908	Sconfiggi Cane Muro a. un livello 4 delle Saghe leggendarie!
+1909	Sconfiggi Sleipnir angelico a. un livello 4 delle Saghe leggendarie!
+1910	Sconfiggi Metallicane a. un livello 4 delle Saghe leggendarie!
+1911	Sconfiggi Mini Nyandam a. un livello 4 delle Saghe leggendarie!
+1912	Sconfiggi Berserkory a. un livello 4 delle Saghe leggendarie!
+1913	Sconfiggi Mr. Talpa a. un livello 4 delle Saghe leggendarie!
+1914	Sconfiggi Nome in codice "Cappuccetto" a. un livello 4 delle Saghe leggendarie!
+1915	Sconfiggi Tu Can a. un livello 4 delle Saghe leggendarie!
+1916	Sconfiggi Neruccio a. un livello 4 delle Saghe leggendarie!
+1917	Sconfiggi Cinghiafino a. un livello 4 delle Saghe leggendarie!
+1918	Sconfiggi Henry a. un livello 4 delle Saghe leggendarie!
+1919	Sconfiggi Mini Bum-bum a. un livello 4 delle Saghe leggendarie!
+1920	Sconfiggi Dottor F. a. un livello 4 delle Saghe leggendarie!
+1921	Sconfiggi Cinghiale selvatico a. un livello 4 delle Saghe leggendarie!
+1922	Sconfiggi Zane a. un livello 4 delle Saghe leggendarie!
+1923	Sconfiggi Zang Uro a. un livello 4 delle Saghe leggendarie!
+1924	Sconfiggi Zory a. un livello 4 delle Saghe leggendarie!
+1925	Sconfiggi Zane Bara a. un livello 4 delle Saghe leggendarie!
+1926	Sconfiggi Inumusha a. un livello 4 delle Saghe leggendarie!
+1927	Sconfiggi Delfina a. un livello 4 delle Saghe leggendarie!
+1928	Sconfiggi Cala Maria a. un livello 4 delle Saghe leggendarie!
+1929	Sconfiggi Gracchio a. un livello 4 delle Saghe leggendarie!
+1930	Sconfiggi Suino con le ali a. un livello 4 delle Saghe leggendarie!
+1931	Sconfiggi Shibalieno Élite a. un livello 4 delle Saghe leggendarie!
+1932	Sconfiggi Caporale Sterry a. un livello 4 delle Saghe leggendarie!
+1933	Sconfiggi Astrico Jones a. un livello 4 delle Saghe leggendarie!
+1934	Sconfiggi Generale GreGory a. un livello 4 delle Saghe leggendarie!
+1935	Sconfiggi Ping Astro a. un livello 4 delle Saghe leggendarie!
+2000	Sconfiggi La faccia a. un livello 4 delle Saghe leggendarie!
+2001	Sconfiggi Timidone a. un livello 4 delle Saghe leggendarie!
+2002	Sconfiggi Lontraccia a. un livello 4 delle Saghe leggendarie!
+2003	Sconfiggi Gobbetta a. un livello 4 delle Saghe leggendarie!
+2004	Sconfiggi Oca a. un livello 4 delle Saghe leggendarie!
+2005	Sconfiggi Gufotto a. un livello 4 delle Saghe leggendarie!
+2006	Sconfiggi IL BRADIPO a. un livello 4 delle Saghe leggendarie!
+2007	Sconfiggi Rennana a. un livello 4 delle Saghe leggendarie!
+2008	Sconfiggi Celebribau a. un livello 4 delle Saghe leggendarie!
+2009	Sconfiggi Imperatore Oscuro Nyandam a. un livello 4 delle Saghe leggendarie!
+2010	Sconfiggi Maestro F. a. un livello 4 delle Saghe leggendarie!
+2011	Sconfiggi Forbiciuro a. un livello 4 delle Saghe leggendarie!
+2012	Sconfiggi I. Ena a. un livello 4 delle Saghe leggendarie!
+2013	Sconfiggi Dober a. un livello 4 delle Saghe leggendarie!
+2014	Sconfiggi Metallippo a. un livello 4 delle Saghe leggendarie!
+2015	Sconfiggi San Suino II a. un livello 4 delle Saghe leggendarie!
+2016	Sconfiggi Persico Jones a. un livello 4 delle Saghe leggendarie!
+2017	Sconfiggi Impiccione a. un livello 4 delle Saghe leggendarie!
+2018	Sconfiggi Zerpe a. un livello 4 delle Saghe leggendarie!
+2019	Sconfiggi Zippo a. un livello 4 delle Saghe leggendarie!
+2020	Sconfiggi Zuino a. un livello 4 delle Saghe leggendarie!
+2021	Sconfiggi Zackie Ping a. un livello 4 delle Saghe leggendarie!
+2022	Sconfiggi Signora Celebribau a. un livello 4 delle Saghe leggendarie!
+2023	Sconfiggi Zir Foca a. un livello 4 delle Saghe leggendarie!
+2024	Sconfiggi Zroco a. un livello 4 delle Saghe leggendarie!
+2025	Sconfiggi Lord Tomby a. un livello 4 delle Saghe leggendarie!
+2026	Sconfiggi Bassetto a. un livello 4 delle Saghe leggendarie!
+2027	Sconfiggi Gory nero a. un livello 4 delle Saghe leggendarie!
+2028	Sconfiggi Elesolare a. un livello 4 delle Saghe leggendarie!
+2029	Sconfiggi Progetto F a. un livello 4 delle Saghe leggendarie!
+2030	Sconfiggi Pugile K oscuro a. un livello 4 delle Saghe leggendarie!
+2031	Sconfiggi Super Metallippo a. un livello 4 delle Saghe leggendarie!
+2032	Sconfiggi Lontra oscura a. un livello 4 delle Saghe leggendarie!
+2033	Sconfiggi Pulcino A a. un livello 4 delle Saghe leggendarie!
+2034	Sconfiggi Cinghio Nimoy a. un livello 4 delle Saghe leggendarie!
+2035	Sconfiggi Elisabetta LVI a. un livello 4 delle Saghe leggendarie!
 9205	Upgrade Akuma Giraffe to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9206	Upgrade Ryu Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
@@ -634,13 +634,13 @@
 9261	Crediti super extra ④: Ricerca approfondita. Supera. 300 Million Dead Molas 5 volte con Gatto Kuwagata
 39	Ricerca dell'imperatrice 1: Incantesimi eretici. Supera "Confluenza arcana" e "Gatto malvagio"!
 40	Ricerca dell'imperatrice 2: Agenti Aku. Supera "Servo delle tenebre" e "Panzer malvagio"
-9262	Supera "Inizio impulsivo" 5 volte!
-9263	Supera "Inizio impulsivo" 10 volte!
-9264	Supera "Avventura impulsiva" 5 volte!
-9265	Supera livelli di "Avventura impulsiva". 1 volte con 9 Gatti normali!
-9266	Sconfiggi Jackie Ping alla Gara in tre tappe impulsiva. (Una volta per ogni livello della Gara)
-9267	Sconfiggi Cane oscuro alla Gara in tre tappe impulsiva. (Una volta per ogni livello della Gara)
-9268	Supera tutte le 6 missioni limitate di Scontro impulsivo!
+9262	Clear "River City Ball-Rolling" 5 times!
+9263	Clear "River City Ball-Rolling" 10 times!
+9264	Clear "River City Challenge Course" 5 times!
+9265	Clear stages from "River City Challenge Course"
+9266	Defeat Jackie Ping at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9267	Defeat Cane oscuro at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9268	Clear all 6 River City Cat Clash Limited  Missions!
 9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
 9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!
 9271	Defeat the Box Witch! Find this Witch at the "Witch's Labyrinth: Box Witch" map!
@@ -718,3 +718,11 @@
 53	Supera 30 dei livelli Selezione Behemoth per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
 9379	Supera il 40° piano della Torre infernale. * Puoi ricevere la ricompensa solo una volta
 54	Supera "Valanga di XP". Completa superando tutti i livelli di Valanga di XP
+9380	Clear stages from "River City Cat Clash"
+9381	Clear stages from "River City Cat Clash"
+9382	Clear stages from "River City Cat Clash"
+9383	Clear stages from "River City Three-Leg Race"
+9384	Clear stages from "River City Three-Leg Race"
+9385	Clear stages from "Street Fighter V CE Collab"
+9386	Clear stages from "Street Fighter V CE Collab"
+9387	Clear stages from "Street Fighter V CE Collab"

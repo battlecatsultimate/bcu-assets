@@ -1425,6 +1425,12 @@
 001-321-000	El mundo se duerme
 001-321-001	Océanos de gelatina
 001-321-002	El mundo paralizado
+001-325		Noche 1: Santa Miaus en acción
+001-325-000	5000 regalos por segundo
+001-325-001	Niños desvelados
+001-325-002	Devolución de regalos
+001-325-003	Reno en huelga
+001-325-004	Regalo de sonrisas
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3316,6 +3322,13 @@
 013-041-003	Capa de Escondite
 013-041-004	Sala de Festines
 013-041-005	Asa Carne, No Ciudades
+013-042		Cima del Mastodonte
+013-042-000	Fuente de Recuerdos
+013-042-001	Pulso Caótico
+013-042-002	Tras la Niebla
+013-042-003	Frontera de Barro
+013-042-004	Corriente de Plata
+013-042-005	Zenith Inmortal
 013-043		Playa del Mal Humor
 013-043-000	Estrellas en el Vaso
 013-043-001	Noche de Estafas
@@ -4338,6 +4351,17 @@
 024-056-007	Desfile (nvl. 8)
 024-056-008	Desfile (nvl. 9)
 024-056-009	Desfile (nvl. máx.)
+024-058		Noche 2: Entrega de Nochebuena
+024-058-000	Entrega (nvl. 1)
+024-058-001	Entrega (nvl. 2)
+024-058-002	Entrega (nvl. 3)
+024-058-003	Entrega (nvl. 4)
+024-058-004	Entrega (nvl. 5)
+024-058-005	Entrega (nvl. 6)
+024-058-006	Entrega (nvl. 7)
+024-058-007	Entrega (nvl. 8)
+024-058-008	Entrega (nvl. 9)
+024-058-009	Entrega (nvl. máx.)
 
 025			Enigma Stages
 025-000		Campos de Aitum

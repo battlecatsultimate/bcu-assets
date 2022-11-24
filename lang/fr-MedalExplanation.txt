@@ -13,9 +13,9 @@
 12	Récupère tous les trésors suprêmes dans Les Chats du cosmos ch. 2
 13	Récupère tous les trésors suprêmes dans Les Chats du cosmos ch. 3
 14	Viens à bout de l’Obstructeur chalien
-15	Termine tous les Niveaux<br>légendaires de niveau 1
-16	Termine tous les Niveaux<br>légendaires de niveau 2
-17	Termine tous les Niveaux<br>légendaires de niveau 3
+15	Termine tous les niveaux<br>Histoires lég. de niveau 1
+16	Termine tous les niveaux<br>Histoires lég. de niveau 2
+17	Termine tous les niveaux<br>Histoires lég. de niveau 3
 18	Termine Catastrophe écarlate
 19	Termine Paradis des ténèbres
 20	Termine Sans égal
@@ -83,7 +83,7 @@
 82	Termine Guerre totale : spécial automne
 83	Termine Guerre totale : spécial hiver
 84	Termine toutes les cartes de saison Guerre totale
-85	Termine tous les Niveaux légendaires de niveau 4
+85	Termine tous les niveaux<br>Histoires légendaires de niv. 4
 86	Viens à bout d’Idi:Re et termine son niveau.
 87	Termine Prélude à la ruine
 88	Débloque Doron masque ancestral

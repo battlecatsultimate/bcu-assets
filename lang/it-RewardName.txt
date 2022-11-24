@@ -129,6 +129,10 @@
 171	Pietra B. gialla
 172	Acqua santa
 173	Reti leggendarie
+174	仮
+175	仮
+176	仮
+177	仮
 1005	Busto di Gatto
 1100	Busto di Gatto
 1001	Gatto sportivo
@@ -524,6 +528,7 @@
 15619	Amakusa immortale
 15620	Lilin π Divina
 15633	Diabolosa obliterante
+15643	Lucifero Onnipotente
 15657	Gatto haniwa
 15659	Gatto corriere
 15660	Gattarzan

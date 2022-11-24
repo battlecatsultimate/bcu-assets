@@ -640,7 +640,7 @@
 639			
 640			
 641	Iz la Bailarina	Iz la Bailarina Atractiva	
-642	Lucifer el Caído	Gran Lucifer	
+642	Lucifer el Caído	Gran Lucifer	Lucifer Todopoderoso
 643	Superfelino	Superfelino II	
 644	Mekako Amante	Mekako Agridulce	
 645	Gato Hachero Adoctrinado	Gato Valiente Adoctrinado	
@@ -678,9 +678,13 @@
 677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC	
 678	Yuma Kuga & Cat	Yuma Kuga & Cat CC	
 679	Chika Amatori & Cat	Chika Amatori & Cat CC	
-680			
-681			
+680	Sakura	Sakura CC	
+681	Luke	Luke CC	
 682	Gótica espectral Vega	Guardiana ilusoria Vega	
 683	Conde Yukimura	Yukimura Nosferatu	
 684	Piscigato Adoctrinado	Ballegato Adoctrinado	
 685	Huevo antiguo N004	Huevo Místico N004	Gato Supercoche
+686	Diosa de la luz Sirius	Diosa del amanecer Sirius	
+687	Terun Reno	Terun Renoζ	
+688	Gato Lagarto Adoctrinado	Gato Dragón Adoctrinado	
+689			

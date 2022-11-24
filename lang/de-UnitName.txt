@@ -640,7 +640,7 @@
 639			
 640			
 641	Iz die Tänzerin	Iz die reizende Tänzerin	
-642	Luzifer der Gefallene	Großer Luzifer	
+642	Luzifer der Gefallene	Großer Luzifer	Allmächtiger Luzifer
 643	Superkatze	Superkatze II	
 644	Süße-Liebe-Mekako	Bittersüße Mekako	
 645	Gehirngewaschene Axtkatze	Gehirngewaschene Kühne Katze	
@@ -678,9 +678,13 @@
 677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC	
 678	Yuma Kuga & Cat	Yuma Kuga & Cat CC	
 679	Chika Amatori & Cat	Chika Amatori & Cat CC	
-680			
-681			
+680	Sakura	Sakura CC	
+681	Luke	Luke CC	
 682	Spektralgrufti Vega	Illusionäre Wächterin Vega	
 683	Graf Yukimura	Nosferatu Yukimura	
 684	Gehirngewaschene Fischkatze	Gehirngewaschene Walkatze	
 685	Uraltes Ei: N004	Mystisches Ei: N004	Supersportwagen-Katze
+686	Lichtgöttin Sirius	Sonnenaufgangsgöttin Sirius	
+687	Rentier Terun	Rentier Terunζ	
+688	Gehirngewaschene Echsenkatze	Gehirngew. Drachenkatze	
+689			

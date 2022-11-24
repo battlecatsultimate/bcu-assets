@@ -1459,6 +1459,12 @@
 001-321-000	Worldwide Oversleep
 001-321-001	Jellified Oceans
 001-321-002	Standstill Earth
+001-325		Night 1: Santa Claws at Work
+001-325-000	5000 Presents per Sec.
+001-325-001	Sleepless Children
+001-325-002	Returning Gifts
+001-325-003	Reindeer on Strike
+001-325-004	Gift of Smiles
 
 002			Collaboration Stages
 002-003		To the Future
@@ -4399,6 +4405,17 @@
 024-056-007	Parade Lv.8
 024-056-008	Parade Lv.9
 024-056-009	Parade Lv.MAX
+024-058		Night 2: Christmas Eve Delivery
+024-058-000	Delivery Lv.1
+024-058-001	Delivery Lv.2
+024-058-002	Delivery Lv.3
+024-058-003	Delivery Lv.4
+024-058-004	Delivery Lv.5
+024-058-005	Delivery Lv.6
+024-058-006	Delivery Lv.7
+024-058-007	Delivery Lv.8
+024-058-008	Delivery Lv.9
+024-058-009	Delivery Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields
