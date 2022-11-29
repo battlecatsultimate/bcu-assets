@@ -1936,6 +1936,25 @@
 002-188-002	Training Level 3
 002-188-003	Training Level 4
 002-188-004	Training Level 5
+002-189		New Challenger
+002-189-000	VS SAKURA (Easy)
+002-190		New Challenger
+002-190-000	VS SAKURA (Expert)
+002-191		New Challenger
+002-191-000	VS LUKE (Easy)
+002-192		New Challenger
+002-192-000	VS LUKE (Expert)
+002-193		Street Fighter: VERY HARD
+002-193-000	Master of Heart Lv.1
+002-193-001	Land & Sky Lv.1
+002-193-002	Master of Heart Lv.2
+002-193-003	Land & Sky Lv.2
+002-193-004	Master of Heart Lv.3
+002-193-005	Land & Sky Lv.3
+002-193-006	Master of Heart Lv.4
+002-193-007	Land & Sky Lv.4
+002-193-008	Master of Heart Lv.MAX
+002-193-009	Land & Sky Lv.MAX
 
 003			
 003-000		EoC Ch.1 Zombie
