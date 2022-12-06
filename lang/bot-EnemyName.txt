@@ -629,4 +629,5 @@
 628	Super Monkey Beast Looja
 629	Super Creature Zero-Looja
 630	Meta Filibuster
-631	Relic Base
+631	Rabbit Doge
+632	Relic Base
