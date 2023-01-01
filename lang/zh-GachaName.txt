@@ -33,12 +33,12 @@
 -1007	超級選拔祭	//BOTB 357
 -1008	特極選拔祭	//NBOTB 460
 -1010	卓越精選	//Excellent Selection 468
--1011	超国王祭 //Emperor Cat 562
+-1011	超國王祭	//Emperor Cat 562
 -1012	女王祭	//Empress Cat 602
--2000	公主踢騎士 //Princess Punt 176
+-2000	公主踢騎士	//Princess Punt 176
 -2001	消滅都市	//Annihilation City 180
 -2002	梅露可物語	//Merc 185
--2003	蛋黃哥 //Gudetama 186
+-2003	蛋黃哥	//Gudetama 186
 -2004	劇場版「Fate/stay night [Heaven's Feel]」 //Fate/Stay 214
 -2005	實況野球 //Power Baseball thing 265
 -2006	福音戰士	//Evangelion 282
@@ -49,14 +49,14 @@
 -2011	初音未來	//Miku 563
 -2022	亂馬1/2	//Ranma 588
 -2023	熱血運動會	//Kunio 620
--2024	快打旋風 BLUE TEAM	//SF Blue 763
--2025	快打旋風 RED TEAM	//SF Red 764
+-2024	快打旋風V 冠軍版 BLUE TEAM	//SF Blue 763
+-2025	快打旋風V 冠軍版 RED TEAM	//SF Red 764
 E13	聖魔大戰	//Bikkuri
 E14	貓咪的暑假	//Summer Break Cats
 E18	心動時分貓咪學園	//Heartbeat Catcademy
 E19	惡魔的完美新娘	//June Bride of the Devil
 E20	貓咪的暑假	//Summer Break Cats
-N2	貓咪轉蛋
+N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
 N5	貓眼石轉蛋	//Limited Capsules w/ Catseyes
@@ -118,7 +118,7 @@ N60	招福轉蛋G
 N61	招福轉蛋G
 N62	招福轉蛋	//Lucky Capsules
 N63	招福轉蛋G	//Lucky Capsules G
-N64	貓咪轉蛋	//Cat Capsules+
+N64	貓咪轉蛋+	//Cat Capsules+
 100	超激稀有轉蛋 超激烈爆彈 
 101	超激稀有轉蛋 超激烈爆彈 
 102	超激稀有轉蛋 超激烈爆彈 
