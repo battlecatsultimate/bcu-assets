@@ -56,6 +56,7 @@ E14	貓咪的暑假	//Summer Break Cats
 E18	心動時分貓咪學園	//Heartbeat Catcademy
 E19	惡魔的完美新娘	//June Bride of the Devil
 E20	貓咪的暑假	//Summer Break Cats
+E22	春節活動轉蛋
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
