@@ -1427,6 +1427,15 @@
 001-325-002	Geschenkrückgabe
 001-325-003	Rentierstreik
 001-325-004	Geschenktes Lächeln
+001-326		Epischer Bergbau
+001-326-000	Sieben Lichter der Verderbnis (Gnadenlos)
+001-327		Die 5 häufigsten Feinde 2022
+001-327-000	Gerade so #5
+001-327-001	Schon wieder #4
+001-327-002	Leider #3
+001-327-003	#2, es ist zum Heulen
+001-327-004	Unglaublicherweise #1
+001-327-005	2022 ungesehen
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2841,6 +2850,8 @@
 004-055-000	auf DEM MOND
 004-056		#02 ??? der 13.
 004-056-000	In der nebelverhüllten Kirche
+004-057		Neujahrs-Bling
+004-057-000	Glück gehabt! Neujahrsbeute!
 
 006			Katzenkrallendojo
 006-000		Halle der Initianden
@@ -3372,6 +3383,17 @@
 013-046-003	Ewigkeitsgrat
 013-046-004	Ewige uralte Wälder
 013-046-005	Endlose Fußspuren
+013-047		Verkatzte Menschheit
+013-047-000	Seele im Götzen
+013-047-001	Ehrenwette
+013-047-002	Krone der Eitelkeit
+013-047-003	Gabe der Ewigkeit
+013-047-004	Buße für Sünden
+013-047-005	Herrschaft des Affenlords
+013-047-006	Rache des Affenlords
+013-047-007	Geburt des wahren Menschen
+013-048		Heiliger Wald
+013-048-000	Wiederbelebung des Ursprungs
 
 014			Drink Stages
 014-000		Gelbes Sprießen
@@ -4334,6 +4356,17 @@
 024-058-007	Lieferung St. 8
 024-058-008	Lieferung St. 9
 024-058-009	Lieferung St. MAX
+024-059		Ein kolossales Neujahr!
+024-059-000	Jahr des Hasen, St. 1
+024-059-001	Jahr des Hasen, St. 2
+024-059-002	Jahr des Hasen, St. 3
+024-059-003	Jahr des Hasen, St. 4
+024-059-004	Jahr des Hasen, St. 5
+024-059-005	Jahr des Hasen, St. 6
+024-059-006	Jahr des Hasen, St. 7
+024-059-007	Jahr des Hasen, St. 8
+024-059-008	Jahr des Hasen, St. 9
+024-059-009	Jahr des Hasen, St. MAX
 
 025			Enigma Stages
 025-000		Atium-Felder
@@ -4653,3 +4686,111 @@
 031-002-008	Lavahöhlengebiet 9
 031-002-009	Lavahöhlengebiet 10
 031-002-010	Höllenkratergebiet 11
+
+033			Die Große Tiefe
+033-000		Die Große Tiefe
+033-000-000	Untergrund B1~9F
+033-000-001	Untergrund B1~9F
+033-000-002	Untergrund B1~9F
+033-000-003	Untergrund B1~9F
+033-000-004	Untergrund B1~9F
+033-000-005	Untergrund B1~9F
+033-000-006	Untergrund B1~9F
+033-000-007	Untergrund B1~9F
+033-000-008	Untergrund B1~9F
+033-000-009	Untergrund B11~19/21~29F
+033-000-010	Untergrund B11~19/21~29F
+033-000-011	Untergrund B11~19/21~29F
+033-000-012	Untergrund B11~19/21~29F
+033-000-013	Untergrund B11~19/21~29F
+033-000-014	Untergrund B11~19/21~29F
+033-000-015	Untergrund B11~19/21~29F
+033-000-016	Untergrund B11~19/21~29F
+033-000-017	Untergrund B11~19/21~29F
+033-000-018	Untergrund B11~19/21~29F
+033-000-019	Untergrund B11~19/21~29F
+033-000-020	Untergrund B11~19/21~29F
+033-000-021	Untergrund B11~19/21~29F
+033-000-022	Untergrund B11~19/21~29F
+033-000-023	Untergrund B11~19/21~29F
+033-000-024	Untergrund B11~19/21~29F
+033-000-025	Untergrund B11~19/21~29F
+033-000-026	Untergrund B11~19/21~29F
+033-000-027	Untergrund B31~39/41~49/51~59F
+033-000-028	Untergrund B31~39/41~49/51~59F
+033-000-029	Untergrund B31~39/41~49/51~59F
+033-000-030	Untergrund B31~39/41~49/51~59F
+033-000-031	Untergrund B31~39/41~49/51~59F
+033-000-032	Untergrund B31~39/41~49/51~59F
+033-000-033	Untergrund B31~39/41~49/51~59F
+033-000-034	Untergrund B31~39/41~49/51~59F
+033-000-035	Untergrund B31~39/41~49/51~59F
+033-000-036	Untergrund B31~39/41~49/51~59F
+033-000-037	Untergrund B31~39/41~49/51~59F
+033-000-038	Untergrund B31~39/41~49/51~59F
+033-000-039	Untergrund B31~39/41~49/51~59F
+033-000-040	Untergrund B31~39/41~49/51~59F
+033-000-041	Untergrund B31~39/41~49/51~59F
+033-000-042	Untergrund B31~39/41~49/51~59F
+033-000-043	Untergrund B31~39/41~49/51~59F
+033-000-044	Untergrund B31~39/41~49/51~59F
+033-000-045	Untergrund B31~39/41~49/51~59F
+033-000-046	Untergrund B31~39/41~49/51~59F
+033-000-047	Untergrund B31~39/41~49/51~59F
+033-000-048	Untergrund B31~39/41~49/51~59F
+033-000-049	Untergrund B31~39/41~49/51~59F
+033-000-050	Untergrund B31~39/41~49/51~59F
+033-000-051	Untergrund B31~39/41~49/51~59F
+033-000-052	Untergrund B31~39/41~49/51~59F
+033-000-053	Untergrund B31~39/41~49/51~59F
+033-000-054	Untergrund B61~69/71~79/81~89/91~98F
+033-000-055	Untergrund B61~69/71~79/81~89/91~98F
+033-000-056	Untergrund B61~69/71~79/81~89/91~98F
+033-000-057	Untergrund B61~69/71~79/81~89/91~98F
+033-000-058	Untergrund B61~69/71~79/81~89/91~98F
+033-000-059	Untergrund B61~69/71~79/81~89/91~98F
+033-000-060	Untergrund B61~69/71~79/81~89/91~98F
+033-000-061	Untergrund B61~69/71~79/81~89/91~98F
+033-000-062	Untergrund B61~69/71~79/81~89/91~98F
+033-000-063	Untergrund B61~69/71~79/81~89/91~98F
+033-000-064	Untergrund B61~69/71~79/81~89/91~98F
+033-000-065	Untergrund B61~69/71~79/81~89/91~98F
+033-000-066	Untergrund B61~69/71~79/81~89/91~98F
+033-000-067	Untergrund B61~69/71~79/81~89/91~98F
+033-000-068	Untergrund B61~69/71~79/81~89/91~98F
+033-000-069	Untergrund B61~69/71~79/81~89/91~98F
+033-000-070	Untergrund B61~69/71~79/81~89/91~98F
+033-000-071	Untergrund B61~69/71~79/81~89/91~98F
+033-000-072	Untergrund B61~69/71~79/81~89/91~98F
+033-000-073	Untergrund B61~69/71~79/81~89/91~98F
+033-000-074	Untergrund B61~69/71~79/81~89/91~98F
+033-000-075	Untergrund B61~69/71~79/81~89/91~98F
+033-000-076	Untergrund B61~69/71~79/81~89/91~98F
+033-000-077	Untergrund B61~69/71~79/81~89/91~98F
+033-000-078	Untergrund B61~69/71~79/81~89/91~98F
+033-000-079	Untergrund B61~69/71~79/81~89/91~98F
+033-000-080	Untergrund B61~69/71~79/81~89/91~98F
+033-000-081	Untergrund B61~69/71~79/81~89/91~98F
+033-000-082	Untergrund B61~69/71~79/81~89/91~98F
+033-000-083	Untergrund B61~69/71~79/81~89/91~98F
+033-000-084	Untergrund B61~69/71~79/81~89/91~98F
+033-000-085	Untergrund B61~69/71~79/81~89/91~98F
+033-000-086	Untergrund B61~69/71~79/81~89/91~98F
+033-000-087	Untergrund B61~69/71~79/81~89/91~98F
+033-000-088	Untergrund B61~69/71~79/81~89/91~98F
+033-000-089	Untergrund B61~69/71~79/81~89/91~98F
+033-000-090	Untergrund B10F
+033-000-091	Untergrund B10F
+033-000-092	Untergrund B20/30F
+033-000-093	Untergrund B20/30F
+033-000-094	Untergrund B40/50/60F
+033-000-095	Untergrund B40/50/60F
+033-000-096	Untergrund B40/50/60F
+033-000-097	Untergrund B70/80/99F
+033-000-098	Untergrund B70/80/99F
+033-000-099	Untergrund B70/80/99F
+033-000-100	Untergrund B70/80/99F
+
+034			Zero Legenden
+034-000		Nullfeld
+034-000-000	Eine ganz neue Welt

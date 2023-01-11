@@ -101,3 +101,5 @@
 100	★ Big Peng in the Neck ★
 101	★ Exiel Exterminated ★
 102	★ Inferno 40 ★
+103	★ I Am Uncanny Legend 1 ★
+104	★ Lord Luza ★

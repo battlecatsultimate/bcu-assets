@@ -460,9 +460,9 @@
 459	Rider the Cat	Heroic Spirit Rider Cat	
 460	Kotomine & Gilgamesh Cats	Gilgamesh & Kotomine Cats	
 461	Legeluga	Legelan Pasalan	
-462	Chat flibustier X	Chat flibustier Y	
+462	Chat flibustier X	Chat flibustier Y	Métaflibustier
 463	Puissant Kristul Muu	Engin Pandore mortel	
-464	Toutoumaru	Toutoumon	
+464	Toutoumaru	Toutoumon	Guer. Toutoumon ressuscité
 465			
 466	Black Zeus	Dark Lord Zeus	
 467	Super Zeus	All-Powerful Super Zeus	Super S-Zeus
@@ -530,7 +530,7 @@
 529	Kasli le Fléau	Sainte Kasli rituelle	
 530			
 531	Professeur Ours-Chat	Ours-Chassassin	Ours-Chat cadavre
-532	Urs et Fenrir	Urs et Minka	
+532	Urs et Fenrir	Urs et Minka	Urs éveillé
 533	Tireuse d’élite Saki	Chasseuse nocturne Saki	Vil bourreau Saki
 534	Hadès le punisseur	Hadès le mortifère	Hadès Tout-puissant
 535	Hatsune Miku	Hatsune Miku CC	
@@ -611,7 +611,7 @@
 610	Chat brique en or	Chat roi lingot	Roi Nekokhamen
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Princesse féline	Impératrice féline	
-613	Doron masque ancestral	Doron masque de Chat	
+613	Doron masque ancestral	Doron masque de Chat	Doron éveillé
 614	Kaguya de la côte	Le Soleil méridional	L'éclat du soleil méridional
 615	Chat Kabuto	Chat Kabuto doré	
 616	Chat Kuwagata	Chat roi Kuwagata	
@@ -641,17 +641,17 @@
 640			
 641	Iz la danseuse	Iz la danseuse séduisante	
 642	Lucifer le déchu	Grand Lucifer	Lucifer Tout-puissant
-643	Super félin	Super félin II	
+643	Super félin	Super félin II	Super félin ultime
 644	Mekako bel amour	Mekako douce-amère	
 645	Chat borgne sous contrôle	Chardi sous contrôle	
-646			
+646	Chat pétard	Chat pétard macho	
 647	Terun chasseresse	Terun chasseresse ζ	
 648	Démon inférieur amoureux	Démon supérieur amoureux	
 649	Hanzo Hattori	Hanzo dieu de la guerre	
 650	Chatte flirt secret	Chatte petite amie	
 651	Chatte lion écolière	Chatte lion masque de fer	
 652	Chat effaceur de tableau	Chat purificateur de tableau	
-653	Bête ancestrale Naala	Bête tempête Naala	
+653	Bête ancestrale Naala	Bête tempête Naala	Naala éveillée
 654	Grand Chat sous contrôle	Chat gambettes sous contrôle	
 655	Bliza	Blizana	
 656	Œuf ancien N001	Œuf mystique N001	Chat haniwa
@@ -688,3 +688,5 @@
 687	Terun le renne	Terunζ le renne	
 688	Chat lézard sous contrôle	Chat dragon sous contrôle	
 689			
+690	Phono l’enfant du destin	Phonoa l’enfant du destin	
+691	Œuf ancien N000	Œuf d’occasion N000	Seigneur gorille Luza

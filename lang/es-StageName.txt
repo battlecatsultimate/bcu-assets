@@ -1431,6 +1431,15 @@
 001-325-002	Devolución de regalos
 001-325-003	Reno en huelga
 001-325-004	Regalo de sonrisas
+001-326		Minería Épica
+001-326-000	Siete Luces de Perdición (inhumano)
+001-327		¡5 Más Recurrentes del 2022!
+001-327-000	5º por los pelos
+001-327-001	4º otra vez
+001-327-002	3º, por desgracia
+001-327-003	Tan 2º que da pena
+001-327-004	Pasmosamente 1º
+001-327-005	No Visto en 2022
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2845,7 +2854,8 @@
 004-055-000	en LA LUNA
 004-056		#02 ¿En Qué Cae el 13?
 004-056-000	Iglesia entre la Bruma
-
+004-057		Ostentación de Año Nuevo
+004-057-000	¡Tesoros de Año Nuevo!
 006			Dojo Afilagarras
 006-000		Sala de Iniciados
 006-000-000	Prueba del Viajero (Fase 1)
@@ -3376,6 +3386,17 @@
 013-046-003	Cresta de la infinidad
 013-046-004	Bosques antiguos eternos
 013-046-005	Pasos interminables
+013-047		Humanidad Gatificada
+013-047-000	Alma de Estrella
+013-047-001	Apuesta de Honor
+013-047-002	Corona de Vanidad
+013-047-003	Eternidad Otorgada
+013-047-004	Penitencia
+013-047-005	Reino del Rey Simio
+013-047-006	Venganza del Simio
+013-047-007	Humanidad Renacida
+013-048		Bosque Sagrado
+013-048-000	Revivir del Origen
 
 014			Drink Stages
 014-000		Cultivo Amarillo
@@ -4381,6 +4402,17 @@
 024-058-007	Entrega (nvl. 8)
 024-058-008	Entrega (nvl. 9)
 024-058-009	Entrega (nvl. máx.)
+024-059		¡Año Nuevo Colosal!
+024-059-000	Año del Conejo (nvl. 1)
+024-059-001	Año del Conejo (nvl. 2)
+024-059-002	Año del Conejo (nvl. 3)
+024-059-003	Año del Conejo (nvl. 4)
+024-059-004	Año del Conejo (nvl. 5)
+024-059-005	Año del Conejo (nvl. 6)
+024-059-006	Año del Conejo (nvl. 7)
+024-059-007	Año del Conejo (nvl. 8)
+024-059-008	Año del Conejo (nvl. 9)
+024-059-009	Año del Conejo (nvl. máx.)
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -4730,3 +4762,111 @@
 031-002-008	Zona de las Cuevas de Lava 9
 031-002-009	Zona de las Cuevas de Lava 10
 031-002-010	Zona del Cráter Infernal 11
+
+033			Profundidades
+033-000		Profundidades
+033-000-000	Bajo Tierra S1~9
+033-000-001	Bajo Tierra S1~9
+033-000-002	Bajo Tierra S1~9
+033-000-003	Bajo Tierra S1~9
+033-000-004	Bajo Tierra S1~9
+033-000-005	Bajo Tierra S1~9
+033-000-006	Bajo Tierra S1~9
+033-000-007	Bajo Tierra S1~9
+033-000-008	Bajo Tierra S1~9
+033-000-009	Bajo Tierra S11~19/21~29
+033-000-010	Bajo Tierra S11~19/21~29
+033-000-011	Bajo Tierra S11~19/21~29
+033-000-012	Bajo Tierra S11~19/21~29
+033-000-013	Bajo Tierra S11~19/21~29
+033-000-014	Bajo Tierra S11~19/21~29
+033-000-015	Bajo Tierra S11~19/21~29
+033-000-016	Bajo Tierra S11~19/21~29
+033-000-017	Bajo Tierra S11~19/21~29
+033-000-018	Bajo Tierra S11~19/21~29
+033-000-019	Bajo Tierra S11~19/21~29
+033-000-020	Bajo Tierra S11~19/21~29
+033-000-021	Bajo Tierra S11~19/21~29
+033-000-022	Bajo Tierra S11~19/21~29
+033-000-023	Bajo Tierra S11~19/21~29
+033-000-024	Bajo Tierra S11~19/21~29
+033-000-025	Bajo Tierra S11~19/21~29
+033-000-026	Bajo Tierra S11~19/21~29
+033-000-027	Bajo Tierra S31~39/41~49/51~59
+033-000-028	Bajo Tierra S31~39/41~49/51~59
+033-000-029	Bajo Tierra S31~39/41~49/51~59
+033-000-030	Bajo Tierra S31~39/41~49/51~59
+033-000-031	Bajo Tierra S31~39/41~49/51~59
+033-000-032	Bajo Tierra S31~39/41~49/51~59
+033-000-033	Bajo Tierra S31~39/41~49/51~59
+033-000-034	Bajo Tierra S31~39/41~49/51~59
+033-000-035	Bajo Tierra S31~39/41~49/51~59
+033-000-036	Bajo Tierra S31~39/41~49/51~59
+033-000-037	Bajo Tierra S31~39/41~49/51~59
+033-000-038	Bajo Tierra S31~39/41~49/51~59
+033-000-039	Bajo Tierra S31~39/41~49/51~59
+033-000-040	Bajo Tierra S31~39/41~49/51~59
+033-000-041	Bajo Tierra S31~39/41~49/51~59
+033-000-042	Bajo Tierra S31~39/41~49/51~59
+033-000-043	Bajo Tierra S31~39/41~49/51~59
+033-000-044	Bajo Tierra S31~39/41~49/51~59
+033-000-045	Bajo Tierra S31~39/41~49/51~59
+033-000-046	Bajo Tierra S31~39/41~49/51~59
+033-000-047	Bajo Tierra S31~39/41~49/51~59
+033-000-048	Bajo Tierra S31~39/41~49/51~59
+033-000-049	Bajo Tierra S31~39/41~49/51~59
+033-000-050	Bajo Tierra S31~39/41~49/51~59
+033-000-051	Bajo Tierra S31~39/41~49/51~59
+033-000-052	Bajo Tierra S31~39/41~49/51~59
+033-000-053	Bajo Tierra S31~39/41~49/51~59
+033-000-054	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-055	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-056	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-057	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-058	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-059	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-060	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-061	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-062	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-063	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-064	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-065	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-066	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-067	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-068	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-069	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-070	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-071	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-072	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-073	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-074	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-075	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-076	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-077	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-078	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-079	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-080	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-081	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-082	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-083	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-084	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-085	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-086	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-087	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-088	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-089	Bajo Tierra S61~69/71~79/81~89/91~98
+033-000-090	Bajo Tierra S10
+033-000-091	Bajo Tierra S10
+033-000-092	Bajo Tierra S20/30
+033-000-093	Bajo Tierra S20/30
+033-000-094	Bajo Tierra S40/50/60
+033-000-095	Bajo Tierra S40/50/60
+033-000-096	Bajo Tierra S40/50/60
+033-000-097	Bajo Tierra S70/80/99
+033-000-098	Bajo Tierra S70/80/99
+033-000-099	Bajo Tierra S70/80/99
+033-000-100	Bajo Tierra S70/80/99
+
+034			ND
+034-000		Zona Cero
+034-000-000	Un Mundo Nuevo

@@ -625,3 +625,9 @@
 624	Pájaro ancestral encubierto en truenos que vive en<br>una torre en el cielo. Las leyendas dicen que es una<br>vista para contemplar, pero esconde una personalidad violenta<br>que se vuelve más feroz cuando está acorralado.
 625	
 626	
+627	Pata vieja acompañada de sus patitos.<br>Tiende a perder los estribos. Madre estricta<br>que cría a sus patitos para que algún día se vayan<br>del nido. Envía dinero al patito más pequeño.
+628	Simio grande que protege los Bosques Sagrados<br>desde tiempos inmemoriales. Considerado el padre<br>de los humanos. Resistente a mastodontes<br>con la maldición antigua.
+629	Absorbe la energía que lo compone todo.<br>Si despierta todo su poder, arrincona sin piedad<br>a todo lo que se mueve con sus enormes puños<br>y acaba con su presa de manera implacable.
+630	Deambula por los mundos dejando tras de sí <br>destrucción y creación.<br>Su composición es tan misteriosa como su poder.<br>Es inmune a todas las penalizaciones.
+631	
+632	

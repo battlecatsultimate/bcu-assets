@@ -660,8 +660,8 @@
 9323	【Invasion】Termine le niveau Morts et boursouflés ! Tu dois aussi terminer le niveau spécial associé
 9324	【Invasion】Termine le niveau La reine et la jeune fille ! Tu dois aussi terminer le niveau spécial associé
 9325	【Invasion】Termine Le roi et l'ange ! Tu dois aussi terminer le niveau spécial associé
-48	Termine 5 Abattage de Béhémoths pour la première fois
-49	Termine 10 Abattage de Béhémoths pour la première fois
+48	Termine 5 niv. Abattage de Béhémoths pour la 1re fois
+49	Termine 10 niveaux Abattage de Béhémoths pour la 1re fois
 9326	Missions du Festival du Cyclone. Termine le niveau Catastrophe écarlate !
 9327	Missions du Festival du Cyclone. Termine le niveau Paradis des ténèbres !
 9328	Missions du Festival du Cyclone. Termine le niveau Sans égal !
@@ -714,8 +714,8 @@
 9373	Clear 15  "Ranma 1/2" collab stages
 9374	Clear 30  "Ranma 1/2" collab stages
 9375	Clear 50  "Ranma 1/2" collab stages
-52	Termine 25 niveaux Abattage de Béhémoths pour la 1re fois.
-53	Termine 30 niveaux Abattage de Béhémoths pour la 1re fois.
+52	Termine 25 niveaux Abattage de Béhémoths pour la 1re fois
+53	Termine 30 niveaux Abattage de Béhémoths pour la 1re fois
 9379	Termine le 40e étage de la Tour infernale. * Récompense à récupérer une seule fois
 54	Termine Moisson d'XP ! Réussis en terminant tous les niveaux de Moisson d'XP !
 9380	Clear stages from "River City Cat Clash"
@@ -726,3 +726,8 @@
 9385	Clear stages from "Street Fighter V CE Collab"
 9386	Clear stages from "Street Fighter V CE Collab"
 9387	Clear stages from "Street Fighter V CE Collab"
+9407	Termine les niv. Nouvel An lunaire 5 fois !
+9408	Termine les niv. Nouvel An lunaire 10 fois !
+9409	Termine les niv. Nouvel An lunaire 15 fois !
+9410	Termine les niv. Nouvel An lunaire 20 fois !
+9411	Termine les niv. Nouvel An lunaire 30 fois !

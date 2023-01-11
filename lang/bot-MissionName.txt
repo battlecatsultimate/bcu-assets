@@ -726,3 +726,8 @@
 9385	Clear stages from "Street Fighter V CE Collab"
 9386	Clear stages from "Street Fighter V CE Collab"
 9387	Clear stages from "Street Fighter V CE Collab"
+9407	Clear "Lunar New Year's" stages 5 times!
+9408	Clear "Lunar New Year's" stages 10 times!
+9409	Clear "Lunar New Year's" stages 15 times!
+9410	Clear "Lunar New Year's" stages 20 times!
+9411	Clear "Lunar New Year's" stages 30 times!

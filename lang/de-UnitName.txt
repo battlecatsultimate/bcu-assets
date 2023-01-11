@@ -460,9 +460,9 @@
 459	Rider the Cat	Heroic Spirit Rider Cat	
 460	Kotomine & Gilgamesh Cats	Gilgamesh & Kotomine Cats	
 461	Legeluga	Legelan Pasalan	
-462	Filibuster-Katze X	Filibuster-Katze Y	
+462	Filibuster-Katze X	Filibuster-Katze Y	Metafilibuster
 463	Mächtige Kristul-Muu	Unheilsmaschine Pandora	
-464	Dogumaru	Doguemon	
+464	Dogumaru	Doguemon	Wiedergeb. Krieger Doguemon
 465			
 466	Black Zeus	Dark Lord Zeus	
 467	Super Zeus	All-Powerful Super Zeus	Super S-Zeus
@@ -530,7 +530,7 @@
 529	Kasli die Geißel	Ritualheilige Kasli	
 530			
 531	Lehrerbärkatze	Meuchlerbärkatze	Totengräbärkatze
-532	Urs & Fenrir	Urs & Minka	
+532	Urs & Fenrir	Urs & Minka	Erwachter Urs
 533	Scharfschützin Saki	Nachtjägerin Saki	Riesenblaster-Saki
 534	Hades der Bestrafer	Hades der Todesbote	Allmächtiger Hades
 535	Hatsune Miku	Hatsune Miku CC	
@@ -611,7 +611,7 @@
 610	Goldbarrenkatze	Königsbarrenkatze	König Nekokhamen
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Prinzessin Katze	Kaiserin Katze	
-613	Ältestenmaske Doron	Katzenmaske Doron	
+613	Ältestenmaske Doron	Katzenmaske Doron	Erwachter Doron
 614	Kaguya von der Küste	Die Sonne des Südens	Die Sonnenglut des Südens
 615	Kabutokatze	Goldene Kabutokatze	
 616	Kuwagatakatze	Königs-Kuwagatakatze	
@@ -641,17 +641,17 @@
 640			
 641	Iz die Tänzerin	Iz die reizende Tänzerin	
 642	Luzifer der Gefallene	Großer Luzifer	Allmächtiger Luzifer
-643	Superkatze	Superkatze II	
+643	Superkatze	Superkatze II	Wahre Superkatze
 644	Süße-Liebe-Mekako	Bittersüße Mekako	
 645	Gehirngewaschene Axtkatze	Gehirngewaschene Kühne Katze	
-646			
+646	Böllerkatze	Macho-Böllerkatze	
 647	Jägerin Terun	Jägerin Terun ζ	
 648	Verliebter Unterdämon	Verliebter Oberdämon	
 649	Hattori Hanzo	Kriegsgott Hanzo	
 650	Heimlicher-Schwarm-Katze	Freundin-Katze	
 651	Wildfang-Löwenkatze	Löwenkatze in eiserner Maske	
 652	Tafelschwammkatze	Tafelschwamm-Punkkatze	
-653	Ältestenbestie Naala	Sturmbestie Naala	
+653	Ältestenbestie Naala	Sturmbestie Naala	Erwachte Naala
 654	Gehirngew. Stelzenkatze	Gehirng. Hübsche-Beine Katze	
 655	Bliza	Blizana	
 656	Uraltes Ei N001	Mystisches Ei N001	Haniwa-Katze
@@ -688,3 +688,5 @@
 687	Rentier Terun	Rentier Terunζ	
 688	Gehirngewaschene Echsenkatze	Gehirngew. Drachenkatze	
 689			
+690	Schicksalskind Phono	Schicksalskönig Phonoa	
+691	Uraltes Ei: N000	Second-Hand-Ei: N000	Affenlord Uza

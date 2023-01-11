@@ -1428,6 +1428,15 @@
 001-325-002	Retour de cadeaux
 001-325-003	Renne en grève
 001-325-004	Sourires offerts
+001-326		Épopée minière
+001-326-000	Sept lueurs du trépas (sans répit)
+001-327		Top 5 des ennemis les plus vus, 2022 !
+001-327-000	Sur le fil n° 5
+001-327-001	N° 4 Et rebelote
+001-327-002	Hélas n° 3
+001-327-003	Pour n° 2 te faire pleurer
+001-327-004	Étonnamment n° 1
+001-327-005	Les inédits 2022
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2842,6 +2851,8 @@
 004-055-000	Dans la lune
 004-056		#02 ??? le 13e
 004-056-000	Dans l'église embrumée
+004-057		Bling-bling du Nouvel An
+004-057-000	Joie ! Butin du Nouvel An !
 
 006			Dojo Griffélin
 006-000		Salle des initiés
@@ -3373,6 +3384,17 @@
 013-046-003	Falaise de l'infini
 013-046-004	Forêt primaire éternelle
 013-046-005	Bruits de pas sans fin
+013-047		Humanité chattifiée
+013-047-000	Âme de l’idole
+013-047-001	Pari sur l’honneur
+013-047-002	Couronne de vanité
+013-047-003	Don d’éternité
+013-047-004	Expiation des péchés
+013-047-005	Règne du seigneur gorille
+013-047-006	Revanche du seigneur gorille
+013-047-007	Les origines du Mâle
+013-048		Forêt sacrée
+013-048-000	Retour aux sources
 
 014			Night Stages
 014-000		Croissance jaune
@@ -4366,7 +4388,19 @@
 024-058-006	Livraison niv. 7
 024-058-007	Livraison niv. 8
 024-058-008	Livraison niv. 9
-024-058-009	Livraison niv. max\
+024-058-009	Livraison niv. max
+024-059		Nouvelle année colossale !
+024-059-000	Année du lapin niv. 1
+024-059-001	Année du lapin niv. 2
+024-059-002	Année du lapin niv. 3
+024-059-003	Année du lapin niv. 4
+024-059-004	Année du lapin niv. 5
+024-059-005	Année du lapin niv. 6
+024-059-006	Année du lapin niv. 7
+024-059-007	Année du lapin niv. 8
+024-059-008	Année du lapin niv. 9
+024-059-009	Année du lapin niv. max
+
 025			Enigma Stages
 025-000		Champs Aitum
 025-000-000	Guerre de tranchées (maniaque)
@@ -4715,3 +4749,111 @@
 031-002-008	Zone grottes de lave 9
 031-002-009	Zone grottes de lave 10
 031-002-010	Zone cratère infernal 11
+
+033			Abysse infini
+033-000		Abysse infini
+033-000-000	Souterrain niv. 1~9
+033-000-001	Souterrain niv. 1~9
+033-000-002	Souterrain niv. 1~9
+033-000-003	Souterrain niv. 1~9
+033-000-004	Souterrain niv. 1~9
+033-000-005	Souterrain niv. 1~9
+033-000-006	Souterrain niv. 1~9
+033-000-007	Souterrain niv. 1~9
+033-000-008	Souterrain niv. 1~9
+033-000-009	Souterrain niv. 11~19/21~29
+033-000-010	Souterrain niv. 11~19/21~29
+033-000-011	Souterrain niv. 11~19/21~29
+033-000-012	Souterrain niv. 11~19/21~29
+033-000-013	Souterrain niv. 11~19/21~29
+033-000-014	Souterrain niv. 11~19/21~29
+033-000-015	Souterrain niv. 11~19/21~29
+033-000-016	Souterrain niv. 11~19/21~29
+033-000-017	Souterrain niv. 11~19/21~29
+033-000-018	Souterrain niv. 11~19/21~29
+033-000-019	Souterrain niv. 11~19/21~29
+033-000-020	Souterrain niv. 11~19/21~29
+033-000-021	Souterrain niv. 11~19/21~29
+033-000-022	Souterrain niv. 11~19/21~29
+033-000-023	Souterrain niv. 11~19/21~29
+033-000-024	Souterrain niv. 11~19/21~29
+033-000-025	Souterrain niv. 11~19/21~29
+033-000-026	Souterrain niv. 11~19/21~29
+033-000-027	Souterrain niv. 31~39/41~49/51~59
+033-000-028	Souterrain niv. 31~39/41~49/51~59
+033-000-029	Souterrain niv. 31~39/41~49/51~59
+033-000-030	Souterrain niv. 31~39/41~49/51~59
+033-000-031	Souterrain niv. 31~39/41~49/51~59
+033-000-032	Souterrain niv. 31~39/41~49/51~59
+033-000-033	Souterrain niv. 31~39/41~49/51~59
+033-000-034	Souterrain niv. 31~39/41~49/51~59
+033-000-035	Souterrain niv. 31~39/41~49/51~59
+033-000-036	Souterrain niv. 31~39/41~49/51~59
+033-000-037	Souterrain niv. 31~39/41~49/51~59
+033-000-038	Souterrain niv. 31~39/41~49/51~59
+033-000-039	Souterrain niv. 31~39/41~49/51~59
+033-000-040	Souterrain niv. 31~39/41~49/51~59
+033-000-041	Souterrain niv. 31~39/41~49/51~59
+033-000-042	Souterrain niv. 31~39/41~49/51~59
+033-000-043	Souterrain niv. 31~39/41~49/51~59
+033-000-044	Souterrain niv. 31~39/41~49/51~59
+033-000-045	Souterrain niv. 31~39/41~49/51~59
+033-000-046	Souterrain niv. 31~39/41~49/51~59
+033-000-047	Souterrain niv. 31~39/41~49/51~59
+033-000-048	Souterrain niv. 31~39/41~49/51~59
+033-000-049	Souterrain niv. 31~39/41~49/51~59
+033-000-050	Souterrain niv. 31~39/41~49/51~59
+033-000-051	Souterrain niv. 31~39/41~49/51~59
+033-000-052	Souterrain niv. 31~39/41~49/51~59
+033-000-053	Souterrain niv. 31~39/41~49/51~59
+033-000-054	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-055	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-056	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-057	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-058	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-059	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-060	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-061	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-062	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-063	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-064	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-065	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-066	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-067	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-068	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-069	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-070	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-071	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-072	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-073	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-074	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-075	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-076	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-077	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-078	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-079	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-080	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-081	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-082	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-083	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-084	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-085	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-086	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-087	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-088	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-089	Souterrain niv. 61~69/71~79/81~89/91~98
+033-000-090	Souterrain niv. 10
+033-000-091	Souterrain niv. 10
+033-000-092	Souterrain niv. 20/30
+033-000-093	Souterrain niv. 20/30
+033-000-094	Souterrain niv. 40/50/60
+033-000-095	Souterrain niv. 40/50/60
+033-000-096	Souterrain niv. 40/50/60
+033-000-097	Souterrain niv. 70/80/99
+033-000-098	Souterrain niv. 70/80/99
+033-000-099	Souterrain niv. 70/80/99
+033-000-100	Souterrain niv. 70/80/99
+
+034			Histoires légendaires 0
+034-000		Champ zéro
+034-000-000	Nouveau départ

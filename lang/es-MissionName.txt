@@ -721,3 +721,8 @@
 9385	Clear stages from "Street Fighter V CE Collab"
 9386	Clear stages from "Street Fighter V CE Collab"
 9387	Clear stages from "Street Fighter V CE Collab"
+9407	¡Supera las fases de Año Nuevo Lunar 5 veces!
+9408	¡Supera las fases de Año Nuevo Lunar 10 veces!
+9409	¡Supera las fases de Año Nuevo Lunar 15 veces!
+9410	¡Supera las fases de Año Nuevo Lunar 20 veces!
+9411	¡Supera las fases de Año Nuevo Lunar 30 veces!

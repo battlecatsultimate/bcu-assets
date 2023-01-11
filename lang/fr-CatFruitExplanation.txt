@@ -460,9 +460,9 @@
 459	<br><br>
 460	<br><br>
 461	<br><br>
-462	<br><br>
+462	La forme ultime augmente toutes les caract.<br>Immobilise à 100 % les reliques !<br>
 463	<br><br>
-464	<br><br>
+464	La forme ultime augmente toutes les caract.<br>Gagne Fléau des Colosses et<br>Fléau des Béhémoths !
 465	<br><br>
 466	<br><br>
 467	True Form evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
@@ -530,7 +530,7 @@
 529	<br><br>
 530	<br><br>
 531	<br><br>
-532	<br><br>
+532	L’évolution en forme ultime gagne en<br>défense, portée et vitesse d’attaque !<br>Gagne Fléau des Colosses/Béhémoths !
 533	La forme ultime n'attaque que les ennemis<br>aliens et les reliques et gagne une immunité<br>aux malédictions bloqu. les cap. alliées !
 534	La forme ultime gagne l’immunité<br>aux effets de ralentissement et de recul<br>des attaques ennemies.
 535	<br><br>
@@ -611,7 +611,7 @@
 610	La forme ultime gagne une défense<br>accrue, plus l'immunité toxique !<br>
 611	<br><br>
 612	<br><br>
-613	<br><br>
+613	La forme ultime augmente la vit. de dépl. !<br>Applique aussi Recul aux reliques et gagne<br>Fléau des Colosses/Béhémoths !
 614	La forme ultime gagne<br>100 % de chances de ralentir les Akus<br>et peut perforer les boucliers contre eux !
 615	<br><br>
 616	<br><br>
@@ -651,7 +651,7 @@
 650	<br><br>
 651	<br><br>
 652	<br><br>
-653	<br><br>
+653	La forme ultime augmente la défense !<br>Renforce aussi les debuffs aux reliques !<br>Gagne Fléau des Colosses/Béhémoths !
 654	<br><br>
 655	<br><br>
 656	La forme ultime révèle son aspect final<br>et gagne Fléau des Béhémoths !<br>
@@ -688,3 +688,5 @@
 687	<br><br>
 688	<br><br>
 689	<br><br>
+690	<br><br>
+691	La forme ultime révèle son aspect final !<br>Gagne Fléau des Béhémoths !<br>Plus immunité contre répliques offensives !

@@ -460,9 +460,9 @@
 459	Rider the Cat	Heroic Spirit Rider Cat	
 460	Kotomine & Gilgamesh Cats	Gilgamesh & Kotomine Cats	
 461	Legeluga	Legelan Pasalan	
-462	Filibuster Cat X	Filibuster Cat Y	Meta Filibuster
+462	Filibuster Cat X	Filibuster Cat Y	Metafilibuster
 463	Mighty Kristul Muu	Doom Engine Pandora	
-464	Dogumaru	Doguemon	Awakened Warrior Doguemon
+464	Dogumaru	Doguemon	Reborn Warrior Doguemon
 465			
 466	Black Zeus	Dark Lord Zeus	
 467	Super Zeus	All-Powerful Super Zeus	Super S-Zeus
@@ -530,7 +530,7 @@
 529	Kasli the Scourge	Ritual Saint Kasli	
 530			
 531	Teacher BearCat	Assassin BearCat	Cadaver BearCat
-532	Urs & Fenrir	Urs & Minka	Awakened Urs & Minka
+532	Urs & Fenrir	Urs & Minka	Awakened Urs
 533	Sharpshooter Saki	Nighthunter Saki	Bad Blaster Saki
 534	Hades the Punisher	Hades the Deathdealer	Almighty Hades
 535	Hatsune Miku	Hatsune Miku CC	
@@ -611,7 +611,7 @@
 610	Gold Brick Cat	King Ingot Cat	King Nekokhamen
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Princess Cat	Empress Cat	
-613	Elder Mask Doron	Cat Mask Doron	Awakened Cat Mask Doron
+613	Elder Mask Doron	Cat Mask Doron	Awakened Doron
 614	Kaguya of the Coast	The Southern Sun	The Southern Sunflare
 615	Kabuto Cat	Golden Kabuto Cat
 616	Kuwagata Cat	King Kuwagata Cat
@@ -644,14 +644,14 @@
 643	Superfeline	Superfeline II	True Superfeline
 644	Sweet Love Mekako	Bittersweet Mekako	
 645	Brainwashed Axe Cat	Brainwashed Brave Cat	
-646	Firecracker Cat	Macho Firecracker Cat
+646	Firecracker Cat	Macho Firecracker Cat	
 647	Huntress Terun	Huntress Terun ζ
 648	Lovestruck Lesser Demon	Lovestruck Greater Demon	
 649	Hattori Hanzo	Wargod Hanzo	
 650	Secret Crush Cat	Girlfriend Cat	
 651	Tomboy Lion Cat	Iron-Masked Lion Cat	
 652	Chalkboard Eraser Cat	Chalkboard Punk Cat	
-653	Elder Beast Naala	Storm Beast Naala	Awakened Elder Beast Naala
+653	Elder Beast Naala	Storm Beast Naala	Awakened Naala
 654	Brainwashed Gross Cat	Brainwashed Sexy Legs Cat	
 655	Bliza	Blizana	
 656	Ancient Egg N001	Mystic Egg N001	Haniwa Cat
@@ -688,5 +688,5 @@
 687	Reindeer Terun	Reindeer Terunζ	
 688	Brainwashed Lizard Cat	Brainwashed Dragon Cat	
 689	10 Years on a Stone Cat	10 Years on a Stone Cat Statue
-690	Child of Fate Phono	King of Destiny Phono
-691	Ancient Egg: N000	Elder Egg: N000	Monkey Cat Looja
+690	Child of Destiny Phono	King of Destiny Phonoa	
+691	Ancient Egg: N000	Elder Egg: N000	Ape Lord Luza

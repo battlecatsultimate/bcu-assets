@@ -625,3 +625,9 @@
 624	Uccello ancestrale avvolto nei tuoni che vive in<br>una torre nel cielo. Le leggende dicono che è uno<br>spettacolo da vedere, ma nasconde una personalità violenta<br>che diventa più feroce quando viene messo in difficoltà.
 625	
 626	
+627	Anatra anziana seguita da tre piccoli.<br>Tende a perdere il controllo. Madre severa<br>che alleva gli anatroccoli che un giorno lasceranno<br>il nido. Invia denaro al suo anatroccolo più giovane.
+628	Una grande scimmia che custodisce i Boschi Sacri<br>fin dall'antichità. È ritenuto il progenitore<br>dell'uomo. Può resistere ai Behemoth che<br>esercitano la "Maledizione Antica".
+629	Assorbe l'energia che compone ogni cosa.<br>Se risveglia tutto il suo potere, colpisce qualsiasi cosa<br>con i suoi enormi pugni senza alcuna pietà e<br>finisce la sua preda con una potenza implacabile.
+630	Vaga per i mondi lasciando una scia <br>di distruzione e creazione. La sua<br>composizione è misteriosa quanto il suo potere.<br>È immune a tutti gli effetti negativi.
+631	
+632	

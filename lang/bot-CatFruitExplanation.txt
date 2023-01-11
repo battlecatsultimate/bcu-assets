@@ -460,9 +460,9 @@
 459	<br><br>
 460	<br><br>
 461	<br><br>
-462	<br><br>
+462	True Form evolution improves all traits!<br>Also gains 100% chance to Freeze Relics!<br>
 463	<br><br>
-464	<br><br>
+464	True Form evolution improves all traits!<br>Also gains Colossus Slayer and<br>Behemoth Slayer!
 465	<br><br>
 466	<br><br>
 467	True Form evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
@@ -530,7 +530,7 @@
 529	<br><br>
 530	<br><br>
 531	<br><br>
-532	<br><br>
+532	True Form evolution gains increased<br>defense, attack range, and attack!<br>Gains Colossus/Behemoth Slayer!
 533	True Form evolution can only attack<br>Alien/Relic enemies, but gains Immunity<br>to Curses that block allied abilities!
 534	True Form evolution gains<br>immunity to Slow and Knockback<br>effects from enemy attacks!
 535	<br><br>
@@ -611,7 +611,7 @@
 610	True Form evolution gains increased<br>defense, plus immunity to Toxic!<br>
 611	<br><br>
 612	<br><br>
-613	<br><br>
+613	True Form gains increased move speed!<br>Also Knocksback Relics and gains<br>Colossus/Behemoth Slayer!
 614	True Form gains<br>100% chance to Slow Aku and<br>might Shield Pierce vs. Aku enemies!
 615	<br><br>
 616	<br><br>
@@ -651,7 +651,7 @@
 650	<br><br>
 651	<br><br>
 652	<br><br>
-653	<br><br>
+653	True Form gains increased defense!<br>Also strengthens debuffs to Relics!<br>Gains Colossus/Behemoth Slayer!
 654	<br><br>
 655	<br><br>
 656	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
@@ -688,3 +688,5 @@
 687	<br><br>
 688	<br><br>
 689	<br><br>
+690	<br><br>
+691	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>Plus, immunity to Surge attacks!

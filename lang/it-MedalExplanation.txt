@@ -101,3 +101,5 @@
 100	Supera "Grande Ping Z colpisce"
 101	Supera "Arcangelo divino colpisce"
 102	Supera il 40° piano della Torre infernale
+103	Supera ogni livello 1<br>delle Leggende misteriose
+104	Sblocca Luza lo scimmione

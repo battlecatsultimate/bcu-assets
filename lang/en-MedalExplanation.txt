@@ -101,3 +101,5 @@
 100	Clear "Big Peng Z Strikes"
 101	Clear "Divine Archangel Strikes"
 102	Clear Floor 40 of the Infernal Tower
+103	Clear All Level 1<br>Uncanny Legend stages
+104	Unlock Ape Lord Luza
