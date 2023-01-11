@@ -660,8 +660,8 @@
 9323	【Invasione】Supera il livello "Il morto e il gonfio"! Devi anche superare il livello di continuazione associato
 9324	【Invasione】Supera il livello "La regina e la fanciulla"! Devi anche superare il livello di continuazione associato
 9325	【Invasione】Supera il livello "Il re e l'angelo"! Devi anche superare il livello di continuazione associato
-48	Supera 5 livelli Selezione del Behemoth per la prima volta. "Info sulle sfide" per i livelli richiesti
-49	Supera 10 livelli Selezione del Behemoth per la prima volta. "Info sulle sfide" per i livelli richiesti
+48	Supera 5 livelli "Selezione Behemoth" per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
+49	Supera 10 livelli "Selezione Behemoth" per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
 9326	Missioni del Festival del Ciclone. Supera il livello "Catastrofe cremisi"!
 9327	Missioni del Festival del Ciclone. Supera il livello "Paradiso delle tenebre"!
 9328	Missioni del Festival del Ciclone. Supera il livello "Ineguagliabile"!
@@ -689,8 +689,8 @@
 9350	Clear 15  Shoumetsu Toshi collab stages
 9351	Clear 30  Shoumetsu Toshi collab stages
 9352	Complete 5 Gamatoto expeditions! Send Gamatoto to any
-50	Supera 15 livelli Selezione del Behemoth per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
-51	Supera 20 livelli Selezione del Behemoth per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
+50	Supera 15 livelli "Selezione Behemoth" per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
+51	Supera 20 livelli "Selezione Behemoth" per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
 9353	Ottieni un Uovo antico N201 dalle . capsule Sposa di giugno del diavolo!
 9354	Supera un qualsiasi livello di "01: La cappella fantasma". 5 volte!
 9355	Supera un qualsiasi livello di "01: La cappella fantasma". 10 volte!
@@ -714,8 +714,8 @@
 9373	Clear 15  "Ranma 1/2" collab stages
 9374	Clear 30  "Ranma 1/2" collab stages
 9375	Clear 50  "Ranma 1/2" collab stages
-52	Supera 25 dei livelli Selezione Behemoth per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
-53	Supera 30 dei livelli Selezione Behemoth per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
+52	Supera 25 livelli "Selezione Behemoth" per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
+53	Supera 30 livelli "Selezione Behemoth" per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
 9379	Supera il 40° piano della Torre infernale. * Puoi ricevere la ricompensa solo una volta
 54	Supera "Valanga di XP". Completa superando tutti i livelli di Valanga di XP
 9380	Clear stages from "River City Cat Clash"
@@ -726,3 +726,8 @@
 9385	Clear stages from "Street Fighter V CE Collab"
 9386	Clear stages from "Street Fighter V CE Collab"
 9387	Clear stages from "Street Fighter V CE Collab"
+9407	Supera livelli "Capodanno lunare" 5 volte!
+9408	Supera livelli "Capodanno lunare" 10 volte!
+9409	Supera livelli "Capodanno lunare" 15 volte!
+9410	Supera livelli "Capodanno lunare" 20 volte!
+9411	Supera livelli "Capodanno lunare" 30 volte!

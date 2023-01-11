@@ -41,6 +41,7 @@
 55	Catamin [A]
 56	Catamin [B]
 57	Catamin [C]
+58	Catseye [Dark]
 75	Lucky Ticket
 76	Lucky Ticket
 77	G Ticket
@@ -129,10 +130,17 @@
 171	Yellow B. Stone
 172	Holy Water
 173	Legend Net
-174	仮
-175	仮
-176	仮
-177	仮
+174	Bronze Medal
+175	Silver Medal
+176	Gold Medal
+177	Platinum Medal
+179	Purple B. Gem
+180	Red B. Gem
+181	Blue B. Gem
+182	Green B. Gem
+183	Yellow B. Gem
+184	Epic B. Stone
+185	Legendary Charm
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -244,6 +252,7 @@
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
 1061	Ancient Egg: N004
+1062	Ancient Egg: N000
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -491,6 +500,8 @@
 15447	Neo Backhoe Cat
 15448	Neo Saw Cat
 10453	Future Cat
+16463	Metafilibuster
+16465	Reborn Warrior Doguemon
 15468	Super S-Zeus
 15469	Head Rococo
 15470	Super D-Devil
@@ -508,6 +519,7 @@
 15524	Shigong Cat
 15526	Kinrangers GigaForce
 10532	Cadaver BearCat
+16533	Awakened Urs
 15534	Bad Blaster Saki
 15535	Almighty Hades
 15547	Sukelan Kakulan
@@ -524,11 +536,14 @@
 15596	Everbloom Lord Kamukura
 15608	Fabled Adventure Girl Kanna
 15611	King Nekokhamen
+16614	Awakened Doron
 15615	The Southern Sunflare
 15619	Immortal Amakusa
 15620	Divine Lilin π
 15633	Obliterator Diabolosa
 15643	Almighty Lucifer
+19010	True Superfeline
+16654	Awakened Naala
 15657	Haniwa Cat
 15659	Courier Cat
 15660	Catarzan
@@ -540,6 +555,7 @@
 15676	Racquet Cat
 15677	Mushroom Cat
 15686	Supercar Cat
+15692	Ape Lord Luza
 30000	Attack Up D: Red
 30001	Attack Up C: Red
 30002	Attack Up B: Red

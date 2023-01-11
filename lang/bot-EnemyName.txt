@@ -625,9 +625,9 @@
 624	Cumulus Gallus
 625	10th Anniversary Cake
 626	10th Anniversary Scarecrow Base
-627	Super Elder Beast Magamojou
-628	Super Monkey Beast Looja
-629	Super Creature Zero-Looja
-630	Meta Filibuster
+627	Ancient Magamojoe
+628	Great Ape Luza
+629	Zero Luza
+630	Metafilibuster
 631	Rabbit Doge
 632	Relic Base

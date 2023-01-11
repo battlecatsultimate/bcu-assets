@@ -460,9 +460,9 @@
 459	Rider the Cat	Heroic Spirit Rider Cat	
 460	Kotomine & Gilgamesh Cats	Gilgamesh & Kotomine Cats	
 461	Legeluga	Legelan Pasalan	
-462	Gatto Ostruzione X	Gatto Ostruzione Y	
+462	Gatto Ostruzione X	Gatto Ostruzione Y	Meta-filibustiere
 463	Muu kristallo super	Pandora distruttiva	
-464	Canumaru	Canemon	
+464	Canumaru	Canemon	Canemon guerriero rinato
 465			
 466	Black Zeus	Dark Lord Zeus	
 467	Super Zeus	All-Powerful Super Zeus	Super S-Zeus
@@ -530,7 +530,7 @@
 529	Kasli il Flagello	Kasli santa rituale	
 530			
 531	Professor Gattorso	Gattorso assassino	Gattorso cadavere
-532	Urs e Fenrir	Urs e Minka	
+532	Urs e Fenrir	Urs e Minka	Urs risvegliato
 533	Saki Cecchina	Saki Cacciatrice notturna	Saki super blaster
 534	Ade il Punitore	Ade il Venditore di morte	Ade Onnipotente
 535	Hatsune Miku	Hatsune Miku CC	
@@ -611,7 +611,7 @@
 610	Gatto lingotto	Gatto Re lingotto	Re Nekokhamen
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Principessa Gatta	Imperatrice Gatta	
-613	Doron in maschera stagionato	Doron in maschera da Gatto	
+613	Doron in maschera stagionato	Doron in maschera da Gatto	Doron risvegliato
 614	Kaguya costiera	Il Sole del sud	Il Bagliore del sud
 615	Gatto Kabuto	Gatto Kabuto oro	
 616	Gatto Kuwagata	Gatto Re Kuwagata	
@@ -641,17 +641,17 @@
 640			
 641	Iz ballerina	Iz ballerina seducente	
 642	Lucifero caduto	Lucifero il Grande	Lucifero Onnipotente
-643	Superfelino	Superfelino II	
+643	Superfelino	Superfelino II	Superfelino Reale
 644	Mekako dolce amore	Mekako dolceamara	
 645	Gatto ascia plagiato	Gatto prode plagiato	
-646			
+646	Gatto petardo	Gatto petardo macho	
 647	Terun cacciatrice	Terun cacciatrice ζ	
 648	Demone minore innamorato	Demone maggiore innamorato	
 649	Hattori Hanzo	Hanzo Dio della guerra	
 650	Gatta cotta segreta	Gatta fidanzata	
 651	Gatta leo maschiaccio	Gatta leo maschera di ferro	
 652	Gatto cancellino	Gatto cancellino punk	
-653	Naala bestia stagionata	Naala bestia tempestosa	
+653	Naala bestia stagionata	Naala bestia tempestosa	Naala risvegliata
 654	Gatto alto plagiato	Gatto Gambe sexy plagiato	
 655	Bliza	Blizana	
 656	Uovo antico N001	Uovo mistico N001	Gatto haniwa
@@ -688,3 +688,5 @@
 687	Terun renna	Terun renna ζ	
 688	Lucertogatto plagiato	Gatto Dragone plagiato	
 689			
+690	Phono figlio del destino	Phonoa re del destino	
+691	Uovo antico N000	Uovo di seconda mano N000	Luza lo scimmione

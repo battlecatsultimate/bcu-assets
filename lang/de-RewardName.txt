@@ -41,6 +41,7 @@
 55	Katzamin [A]
 56	Katzamin [B]
 57	Katzamin [C]
+58	Katzenau. [Dunkel]
 75	Glücksticket
 76	Glücksticket
 77	Glücksticket G
@@ -129,10 +130,17 @@
 171	Gelber B.-Stein
 172	Weihwasser
 173	Legendennetze
-174	仮
-175	仮
-176	仮
-177	仮
+174	Bronzemedaille
+175	Silbermedaille
+176	Goldmedaille
+177	Platinmedaille
+179	Lila Behem.-Juwel
+180	Rotes Behem.-Juwel
+181	Blaues Behem.-Juw.
+182	Grünes Behem.-Juw.
+183	Gelbes Behem.-Juw.
+184	Ep. Behem.-Stein
+185	Legend. Glücksb.
 1005	Bronzekatze
 1100	Bronzekatze
 1001	Sporttagkatze
@@ -244,6 +252,7 @@
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
 1061	Uraltes Ei: N004
+1062	Uraltes Ei: N000
 19001	Irokatze
 19002	Radierkatze
 19003	Dunkle Katze
@@ -491,6 +500,8 @@
 15447	Neo-Tiefbagger-Katze
 15448	Neo-Sägenkatze
 10453	Zukunftskatze
+16463	Metafilibuster
+16465	Wiedergeb. Krieger Doguemon
 15468	Super S-Zeus
 15469	Head Rococo
 15470	Super D-Devil
@@ -508,6 +519,7 @@
 15524	Shigong-Katze
 15526	Kinrangers-Gigakämpfer
 10532	Totengräbärkatze
+16533	Erwachter Urs
 15534	Riesenblaster-Saki
 15535	Allmächtiger Hades
 15547	Sukelan Kakulan
@@ -524,11 +536,14 @@
 15596	Ewigblühender Lord Kamukura
 15608	Legendäre Abenteurerin Kanna
 15611	König Nekokhamen
+16614	Erwachter Doron
 15615	Die Sonnenglut des Südens
 15619	Unsterblicher Amakusa
 15620	Himmlische Lilin π
 15633	Auslöscher Diabolosa
 15643	Allmächtiger Luzifer
+19010	Wahre Superkatze
+16654	Erwachte Naala
 15657	Haniwa-Katze
 15659	Kurierkatze
 15660	Katzan
@@ -540,6 +555,7 @@
 15676	Racquetkatze
 15677	Pilzkatze
 15686	Supersportwagen-Katze
+15692	Affenlord Uza
 30000	Angriff + D: Rot
 30001	Angriff + C: Rot
 30002	Angriff + B: Rot

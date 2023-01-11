@@ -41,6 +41,7 @@
 55	Vichamine [A]
 56	Vichamine [B]
 57	Vichamine [C]
+58	Œ.-de-chat [ombre]
 75	Ticket chance
 76	Ticket chance
 77	Ticket chance G
@@ -129,10 +130,17 @@
 171	Pierre B. jaune
 172	Eau bénite
 173	Filets légendaires
-174	仮
-175	仮
-176	仮
-177	仮
+174	Médaille de bronze
+175	Médaille d’argent
+176	Médaille d’or
+177	Médaille platine
+179	G. Béhém. violette
+180	Gemme Béhém. rouge
+181	Gemme Béhém. bleue
+182	Gemme Béhém. verte
+183	Gemme Béhém. jaune
+184	P. Béhémoth épique
+185	Charme légendaire
 1005	Chat en bronze
 1100	Chat en bronze
 1001	Chat Jour des sports
@@ -244,6 +252,7 @@
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
 1061	Œuf ancien N004
+1062	Œuf ancien N000
 19001	Chat punk
 19002	Chat gomme
 19003	Chat de l’ombre
@@ -491,6 +500,8 @@
 15447	Néo Chat tractopelle
 15448	Néo Chat scie
 10453	Chat du futur
+16463	Métaflibustier
+16465	Guer. Toutoumon ressuscité
 15468	Super S-Zeus
 15469	Head Rococo
 15470	Super D-Devil
@@ -508,6 +519,7 @@
 15524	Chat Shigong
 15526	Kinrangers GigaForce
 10532	Ours-Chat cadavre
+16533	Urs éveillé
 15534	Vil bourreau Saki
 15535	Hadès Tout-puissant
 15547	Sukelan Kakulan
@@ -524,11 +536,14 @@
 15596	Mr Kamukura fleur éternelle
 15608	Kanna le mythe vivant
 15611	Roi Nekokhamen
+16614	Doron éveillé
 15615	L'éclat du soleil méridional
 15619	Amakusa immortel
 15620	Lilin π divine
 15633	Diabolosa oblitératrice
 15643	Lucifer Tout-puissant
+19010	Super félin ultime
+16654	Naala éveillée
 15657	Chat haniwa
 15659	Chat coursier
 15660	Charzan
@@ -540,6 +555,7 @@
 15676	Chat raquette
 15677	Chapignon
 15686	Chat supercar
+15692	Seigneur gorille Luza
 30000	Attaque aug. D: Rouge
 30001	Attaque aug. C: Rouge
 30002	Attaque aug. B: Rouge

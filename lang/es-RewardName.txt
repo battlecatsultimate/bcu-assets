@@ -41,6 +41,7 @@
 55	Gatamina [A]
 56	Gatamina [B]
 57	Gatamina [C]
+58	Gatojo [Oscuro]
 75	Tique de la suerte
 76	Tique de la suerte
 77	Tique de la suerte G
@@ -129,10 +130,17 @@
 171	Piedra M. amarilla
 172	Agua bendita
 173	Redes legendarias
-174	仮
-175	仮
-176	仮
-177	仮
+174	Medalla de bronce
+175	Medalla de plata
+176	Medalla de oro
+177	Medalla de platino
+179	Gema de mast. mor.
+180	Gema de mast. roja
+181	Gema de mast. azul
+182	Gema de mast. ver.
+183	Gema mast. amar.
+184	Piedra mast. épica
+185	Amuleto legendario
 1005	Gato de Bronce
 1100	Gato de Bronce
 1001	Gato Deportista
@@ -244,6 +252,7 @@
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
 1061	Huevo antiguo N004
+1062	Huevo Antiguo N000
 19001	Gato Crestado
 19002	Gato Borrador
 19003	Gato Oscuro
@@ -490,6 +499,8 @@
 15447	Neogato Retroexcavadora
 15448	Neogato Aserrador
 10453	Gato Futurista
+16463	Metafiliembustero
+16465	Perromón guerrero renacido
 15468	Super S-Zeus
 15469	Head Rococo
 15470	Super D-Devil
@@ -507,6 +518,7 @@
 15524	Gato Shigong
 15526	Supertropa de Kinrangers
 10532	Gato Cadaveroso
+16533	Urs Alzado
 15534	Saki Dinamitera
 15535	Hades Todopoderoso
 15547	Sukelan Kakulan
@@ -523,11 +535,14 @@
 15596	Lord Kamukura Perenne
 15608	Kanna Aventurera de Fábula
 15611	Rey Nekokhamen
+16614	Doron Alzado
 15615	Sol Sureño Destellante
 15619	Amakusa Inmortal
 15620	Lilin π divina
 15633	Diabolosa Destructora
 15643	Lucifer Todopoderoso
+19010	Superfelino final
+16654	Naala Alzada
 15657	Gato Haniwa
 15659	Gato Mensajero
 15660	Gatarzán
@@ -539,6 +554,7 @@
 15676	Gata raqueta
 15677	Gato Hongo
 15686	Gato Supercoche
+15692	Lord Luza Simio
 30000	Aumento de ataque D: Rojos
 30001	Aumento de ataque C: Rojos
 30002	Aumento de ataque B: Rojos

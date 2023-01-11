@@ -460,9 +460,9 @@
 459	Rider the Cat	Heroic Spirit Rider Cat	
 460	Kotomine & Gilgamesh Cats	Gilgamesh & Kotomine Cats	
 461	Legeluga	Legelan Pasalan	
-462	Gato Filiembustero X	Gato Filiembustero Y	
+462	Gato Filiembustero X	Gato Filiembustero Y	Metafiliembustero
 463	Kristul Muu Poderoso	Pandora Motor de Destrucción	
-464	Chuchomaru	Perromón	
+464	Chuchomaru	Perromón	Perromón guerrero renacido
 465			
 466	Black Zeus	Dark Lord Zeus	
 467	Super Zeus	All-Powerful Super Zeus	Super S-Zeus
@@ -530,7 +530,7 @@
 529	Kasli el Azote	Kasli Santa Ritual	
 530			
 531	Gato Profeoso	Gato Asesinoso	Gato Cadaveroso
-532	Urs y Fenrir	Urs y Minka	
+532	Urs y Fenrir	Urs y Minka	Urs Alzado
 533	Francotiradora Saki	Cazadora Nocturna Saki	Saki Dinamitera
 534	Hades el Castigador	Hades el Mortífero	Hades Todopoderoso
 535	Hatsune Miku	Hatsune Miku CC	
@@ -611,7 +611,7 @@
 610	Gato Bloque de Oro	Rey Lingote de Oro	Rey Nekokhamen
 611	Godzilla Cat	Shin Godzilla Cat	
 612	Gata Princesa	Gata Emperatriz	
-613	Máscara Doron Viejuna	Máscara Doron	
+613	Máscara Doron Viejuna	Máscara Doron	Doron Alzado
 614	Kaguya Costera	Sol Sureño	Sol Sureño Destellante
 615	Gato Kabuto	Gato Kabuto Dorado	
 616	Gato Kuwagata	Rey Gato Kuwagata	
@@ -641,17 +641,17 @@
 640			
 641	Iz la Bailarina	Iz la Bailarina Atractiva	
 642	Lucifer el Caído	Gran Lucifer	Lucifer Todopoderoso
-643	Superfelino	Superfelino II	
+643	Superfelino	Superfelino II	Superfelino final
 644	Mekako Amante	Mekako Agridulce	
 645	Gato Hachero Adoctrinado	Gato Valiente Adoctrinado	
-646			
+646	Gato Petardo	Gato Petardo macho	
 647	Terun Cazadora	Terun Cazadora ζ	
 648	Infrademonio Enamorado	Suprademonio Enamorado	
 649	Hattori Hanzo	Dios de la Guerra Hanzo	
 650	Gata Amante	Gata Novia	
 651	Gata Leona	Gata Leona Enmascarada	
 652	Gato Borrapizarras	Gato Borrapizarras Punk	
-653	Bestia Naala Viejuna	Bestia Naala Tormenta	
+653	Bestia Naala Viejuna	Bestia Naala Tormenta	Naala Alzada
 654	Gatilargo Adoctrinado	Gato Muslamen Adoctrinado	
 655	Ventis	Ventiscana	
 656	Huevo Antiguo N001	Huevo Místico N001	Gato Haniwa
@@ -688,3 +688,5 @@
 687	Terun Reno	Terun Renoζ	
 688	Gato Lagarto Adoctrinado	Gato Dragón Adoctrinado	
 689			
+690	Phono, Hijo del Destino	Phonoa, Reina del Destino	
+691	Huevo Antiguo N000	Huevo Anciano N000	Lord Luza Simio

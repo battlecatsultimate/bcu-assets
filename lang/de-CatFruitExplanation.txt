@@ -460,9 +460,9 @@
 459	<br><br>
 460	<br><br>
 461	<br><br>
-462	<br><br>
+462	Wahre-Form-Entwicklung erhöht alle Werte!<br>Friert zudem Relikte zu 100 % ein!<br>
 463	<br><br>
-464	<br><br>
+464	Wahre-Form-Entwicklung erhöht alle Werte!<br>Gewährt zudem Kolosstöter und<br>Behemothtöter!
 465	<br><br>
 466	<br><br>
 467	True Form evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
@@ -530,7 +530,7 @@
 529	<br><br>
 530	<br><br>
 531	<br><br>
-532	<br><br>
+532	Wahre-Form-Entwicklung erhöht Vert.,<br>Angriffsreichweite und Angriff!<br>Gewährt zudem Koloss-/Behemothtöter!
 533	Wahre Form greift nur Relikte/Aliens an,<br>Ist aber immun gegen Flüche, die Fähigk.<br>Verbündeter blockieren!
 534	Wahre-Form-Entwicklung gewährt<br>Immunität gegen feindliche<br>Verlangsamungs- und Rückstoßeffekte!
 535	<br><br>
@@ -611,7 +611,7 @@
 610	Wahre-Form-Entwicklung erhöht<br>Verteidigung, zudem immun gegen Gifte!<br>
 611	<br><br>
 612	<br><br>
-613	<br><br>
+613	Wahre Form gewährt erhöhtes Tempo!<br>Zudem Rückstoß gg. Relikte sowie<br>Koloss-/Behemothtöter!
 614	Wahre Form gewährt<br>garantierte Lähmung von Aku und Chance,<br>Schilde von Aku-Feinden zu durchdringen!
 615	<br><br>
 616	<br><br>
@@ -651,7 +651,7 @@
 650	<br><br>
 651	<br><br>
 652	<br><br>
-653	<br><br>
+653	Wahre Form gewährt erhöhte Verteidigung!<br>Verbessert auch Schwächungen bei Relikten!<br>Gewährt zudem Koloss-/Behemothtöter!
 654	<br><br>
 655	<br><br>
 656	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
@@ -688,3 +688,5 @@
 687	<br><br>
 688	<br><br>
 689	<br><br>
+690	<br><br>
+691	Wahre-Form-Entwicklung enthüllt Endform!<br>Erhält zudem „Behemothtöter“!<br>Zudem Immunität gegen Zufallsangriffe!

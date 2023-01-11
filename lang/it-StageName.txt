@@ -1423,6 +1423,15 @@
 001-325-002	Doni restituiti
 001-325-003	Renna in sciopero
 001-325-004	Regalare sorrisi
+001-326		Minatori epici
+001-326-000	Sette luci del destino (Spietato)
+001-327		I 5 nemici più visti del 2022!
+001-327-000	A malapena #5
+001-327-001	#4 ancora una volta
+001-327-002	Purtroppo #3
+001-327-003	Talmente #2 da piangere
+001-327-004	Sorprendentemente #1
+001-327-005	Non visto nel 2022
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2837,6 +2846,8 @@
 004-055-000	sulla LUNA
 004-056		02: ??? 13
 004-056-000	La chiesa in un manto di foschia
+004-057		Sfarzo di capodanno
+004-057-000	Che fortuna! Un bottino di capodanno!
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -3368,6 +3379,17 @@
 013-046-003	Cresta dell’infinito
 013-046-004	Antichi boschi eterni
 013-046-005	Passi infiniti
+013-047		Umanità gattificata
+013-047-000	Lo spirito nell'idolo
+013-047-001	Scommessa d'onore
+013-047-002	Corona della vanità
+013-047-003	Il dono dell'eternità
+013-047-004	Espiare il peccato
+013-047-005	Il regno dello scimmione
+013-047-006	La vendetta dello scimmione
+013-047-007	Nascita del vero uomo
+013-048		Foresta sacra
+013-048-000	Il ritorno dell'origine
 
 014			Drink Stages
 014-000		Giallo rigoglioso
@@ -4331,6 +4353,17 @@
 024-058-007	Consegna Liv. 8
 024-058-008	Consegna Liv. 9
 024-058-009	Consegna Liv. MAX
+024-059		Un colossale anno nuovo!
+024-059-000	Anno del coniglio Liv. 1
+024-059-001	Anno del coniglio Liv. 2
+024-059-002	Anno del coniglio Liv. 3
+024-059-003	Anno del coniglio Liv. 4
+024-059-004	Anno del coniglio Liv. 5
+024-059-005	Anno del coniglio Liv. 6
+024-059-006	Anno del coniglio Liv. 7
+024-059-007	Anno del coniglio Liv. 8
+024-059-008	Anno del coniglio Liv. 9
+024-059-009	Anno del coniglio Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -4680,3 +4713,111 @@
 031-002-008	Zona delle grotte laviche 9
 031-002-009	Zona delle grotte laviche 10
 031-002-010	Zona del cratere infernale 11
+
+033			Grande profondità
+033-000		Grande profondità
+033-000-000	Sotterranei B1~9F
+033-000-001	Sotterranei B1~9F
+033-000-002	Sotterranei B1~9F
+033-000-003	Sotterranei B1~9F
+033-000-004	Sotterranei B1~9F
+033-000-005	Sotterranei B1~9F
+033-000-006	Sotterranei B1~9F
+033-000-007	Sotterranei B1~9F
+033-000-008	Sotterranei B1~9F
+033-000-009	Sotterranei B11~19/21~29F
+033-000-010	Sotterranei B11~19/21~29F
+033-000-011	Sotterranei B11~19/21~29F
+033-000-012	Sotterranei B11~19/21~29F
+033-000-013	Sotterranei B11~19/21~29F
+033-000-014	Sotterranei B11~19/21~29F
+033-000-015	Sotterranei B11~19/21~29F
+033-000-016	Sotterranei B11~19/21~29F
+033-000-017	Sotterranei B11~19/21~29F
+033-000-018	Sotterranei B11~19/21~29F
+033-000-019	Sotterranei B11~19/21~29F
+033-000-020	Sotterranei B11~19/21~29F
+033-000-021	Sotterranei B11~19/21~29F
+033-000-022	Sotterranei B11~19/21~29F
+033-000-023	Sotterranei B11~19/21~29F
+033-000-024	Sotterranei B11~19/21~29F
+033-000-025	Sotterranei B11~19/21~29F
+033-000-026	Sotterranei B11~19/21~29F
+033-000-027	Sotterranei B31~39/41~49/51~59F
+033-000-028	Sotterranei B31~39/41~49/51~59F
+033-000-029	Sotterranei B31~39/41~49/51~59F
+033-000-030	Sotterranei B31~39/41~49/51~59F
+033-000-031	Sotterranei B31~39/41~49/51~59F
+033-000-032	Sotterranei B31~39/41~49/51~59F
+033-000-033	Sotterranei B31~39/41~49/51~59F
+033-000-034	Sotterranei B31~39/41~49/51~59F
+033-000-035	Sotterranei B31~39/41~49/51~59F
+033-000-036	Sotterranei B31~39/41~49/51~59F
+033-000-037	Sotterranei B31~39/41~49/51~59F
+033-000-038	Sotterranei B31~39/41~49/51~59F
+033-000-039	Sotterranei B31~39/41~49/51~59F
+033-000-040	Sotterranei B31~39/41~49/51~59F
+033-000-041	Sotterranei B31~39/41~49/51~59F
+033-000-042	Sotterranei B31~39/41~49/51~59F
+033-000-043	Sotterranei B31~39/41~49/51~59F
+033-000-044	Sotterranei B31~39/41~49/51~59F
+033-000-045	Sotterranei B31~39/41~49/51~59F
+033-000-046	Sotterranei B31~39/41~49/51~59F
+033-000-047	Sotterranei B31~39/41~49/51~59F
+033-000-048	Sotterranei B31~39/41~49/51~59F
+033-000-049	Sotterranei B31~39/41~49/51~59F
+033-000-050	Sotterranei B31~39/41~49/51~59F
+033-000-051	Sotterranei B31~39/41~49/51~59F
+033-000-052	Sotterranei B31~39/41~49/51~59F
+033-000-053	Sotterranei B31~39/41~49/51~59F
+033-000-054	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-055	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-056	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-057	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-058	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-059	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-060	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-061	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-062	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-063	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-064	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-065	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-066	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-067	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-068	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-069	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-070	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-071	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-072	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-073	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-074	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-075	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-076	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-077	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-078	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-079	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-080	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-081	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-082	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-083	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-084	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-085	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-086	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-087	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-088	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-089	Sotterranei B61~69/71~79/81~89/91~98F
+033-000-090	Sotterranei B10F
+033-000-091	Sotterranei B10F
+033-000-092	Sotterranei B20/30F
+033-000-093	Sotterranei B20/30F
+033-000-094	Sotterranei B40/50/60F
+033-000-095	Sotterranei B40/50/60F
+033-000-096	Sotterranei B40/50/60F
+033-000-097	Sotterranei B70/80/99F
+033-000-098	Sotterranei B70/80/99F
+033-000-099	Sotterranei B70/80/99F
+033-000-100	Sotterranei B70/80/99F
+
+034			Saghe leggendarie 0
+034-000		Campo Zero
+034-000-000	Un mondo nuovo

@@ -41,6 +41,7 @@
 55	Vitamiao [A]
 56	Vitamiao [B]
 57	Vitamiao [C]
+58	Occhio [Oscuro]
 75	Biglietto fortuna
 76	Biglietto fortuna
 77	Biglietto fortuna G
@@ -129,10 +130,17 @@
 171	Pietra B. gialla
 172	Acqua santa
 173	Reti leggendarie
-174	仮
-175	仮
-176	仮
-177	仮
+174	Medaglia bronzo
+175	Medaglia argento
+176	Medaglia oro
+177	Medaglia platino
+179	Gem. Behem. viola
+180	Gem. Behem. rossa
+181	Gem. Behem. blu
+182	Gem. Behem. verde
+183	Gem. Behem. gialla
+184	Piet. Behem. epica
+185	Amul. leggendario
 1005	Busto di Gatto
 1100	Busto di Gatto
 1001	Gatto sportivo
@@ -244,6 +252,7 @@
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
 1061	Uovo antico N004
+1062	Uovo antico N000
 19001	Gatto punk
 19002	Gatto gomma
 19003	Gatto oscuro
@@ -491,6 +500,8 @@
 15447	Neo Gatto scavatore
 15448	Neo Gatto turbosega
 10453	Gatto del futuro
+16463	Meta-filibustiere
+16465	Canemon guerriero rinato
 15468	Super S-Zeus
 15469	Head Rococo
 15470	Super D-Devil
@@ -508,6 +519,7 @@
 15524	Gatto Shigong
 15526	Gigatruppa Kinrangers
 10532	Gattorso cadavere
+16533	Urs risvegliato
 15534	Saki super blaster
 15535	Ade Onnipotente
 15547	Sukelan Kakulan
@@ -524,11 +536,14 @@
 15596	Lord Kamukura sempre in fiore
 15608	Kanna avventuriera mitica
 15611	Re Nekokhamen
+16614	Doron risvegliato
 15615	Il Bagliore del sud
 15619	Amakusa immortale
 15620	Lilin π Divina
 15633	Diabolosa obliterante
 15643	Lucifero Onnipotente
+19010	Superfelino Reale
+16654	Naala risvegliata
 15657	Gatto haniwa
 15659	Gatto corriere
 15660	Gattarzan
@@ -540,6 +555,7 @@
 15676	Gatta con racchetta
 15677	Fungatto
 15686	Gatto Supercar
+15692	Luza lo scimmione
 30000	Più attacco D: Rosso
 30001	Più attacco C: Rosso
 30002	Più attacco B: Rosso

@@ -660,8 +660,8 @@
 9323	【Invasion】Schließe „Tot & rund“ ab! Du musst auch das zugehörige Sonderlevel abschließen
 9324	【Invasion】Schließe „Königin & Jungfrau“ ab! Du musst auch das zugehörige Sonderlevel abschließen
 9325	【Invasion】Schließe „König & Engel“ ab! Du musst auch das zugehörige Sonderlevel abschließen
-48	Schließe 5 Behemothjagd-Level zum ersten Mal ab
-49	Schließe 10 Behemothjagd-Level zum ersten Mal ab
+48	Schließe 5 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+49	Schließe 10 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
 9326	Zyklonfest-Missionen. Schließe das Level „Blutrote Katastrophe“ ab!
 9327	Zyklonfest-Missionen. Schließe das Level „Himmel der Dunkelheit“ ab!
 9328	Zyklonfest-Missionen. Schließe das Level „Unvergleichlich“ ab!
@@ -726,3 +726,8 @@
 9385	Clear stages from "Street Fighter V CE Collab"
 9386	Clear stages from "Street Fighter V CE Collab"
 9387	Clear stages from "Street Fighter V CE Collab"
+9407	Schließe 5-mal „Mond-Neujahr“-Level ab!
+9408	Schließe 10-mal „Mond-Neujahr“-Level ab!
+9409	Schließe 15-mal „Mond-Neujahr“-Level ab!
+9410	Schließe 20-mal „Mond-Neujahr“-Level ab!
+9411	Schließe 30-mal „Mond-Neujahr“-Level ab!

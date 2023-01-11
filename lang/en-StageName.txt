@@ -1465,6 +1465,15 @@
 001-325-002	Returning Gifts
 001-325-003	Reindeer on Strike
 001-325-004	Gift of Smiles
+001-326		Mining Epic
+001-326-000	Seven Lights of Doom (Merciless)
+001-327		Top 5 Most Seen Enemies, 2022!
+001-327-000	Just Barely #5
+001-327-001	#4 Yet Again
+001-327-002	Unfortunately #3
+001-327-003	So #2 You Want to Cry
+001-327-004	Astonishingly #1
+001-327-005	Unseen in 2022
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2899,7 +2908,8 @@
 004-055-000	in THE MOON
 004-056		#02 ??? the 13th
 004-056-000	In the Mist-Shrouded Church
-
+004-057		New Year's Bling
+004-057-000	Lucky! New Year's Loot!
 006			Catclaw Dojo
 006-000		Hall of Initiates
 006-000-000	Wanderer's Trial (Stage 1)
@@ -3430,6 +3440,17 @@
 013-046-003	Infinity Ridge
 013-046-004	Eternal Ancient Woods
 013-046-005	Neverending Footsteps
+013-047		Humanity Catified
+013-047-000	Soul in the Idol
+013-047-001	Wager of Honor
+013-047-002	Crown of Vanity
+013-047-003	Bestowing Eternity
+013-047-004	Atonement for Sin
+013-047-005	Reign of the Ape Lord
+013-047-006	Ape Lord's Revenge
+013-047-007	Birth of True Man
+013-048		Sacred Forest
+013-048-000	Revival of Origin
 
 014			Drink Stages
 014-000		Growing Yellow
@@ -4435,6 +4456,17 @@
 024-058-007	Delivery Lv.8
 024-058-008	Delivery Lv.9
 024-058-009	Delivery Lv.MAX
+024-059		A Colossal New Year!
+024-059-000	Year of the Rabbit Lv.1
+024-059-001	Year of the Rabbit Lv.2
+024-059-002	Year of the Rabbit Lv.3
+024-059-003	Year of the Rabbit Lv.4
+024-059-004	Year of the Rabbit Lv.5
+024-059-005	Year of the Rabbit Lv.6
+024-059-006	Year of the Rabbit Lv.7
+024-059-007	Year of the Rabbit Lv.8
+024-059-008	Year of the Rabbit Lv.9
+024-059-009	Year of the Rabbit Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -4785,3 +4817,111 @@
 031-002-008	Lava Caves Area 9
 031-002-009	Lava Caves Area 10
 031-002-010	Infernal Crater Area 11
+
+033			The Grand Deep
+033-000		The Grand Deep
+033-000-000	Underground B1~9F
+033-000-001	Underground B1~9F
+033-000-002	Underground B1~9F
+033-000-003	Underground B1~9F
+033-000-004	Underground B1~9F
+033-000-005	Underground B1~9F
+033-000-006	Underground B1~9F
+033-000-007	Underground B1~9F
+033-000-008	Underground B1~9F
+033-000-009	Underground B11~19/21~29F
+033-000-010	Underground B11~19/21~29F
+033-000-011	Underground B11~19/21~29F
+033-000-012	Underground B11~19/21~29F
+033-000-013	Underground B11~19/21~29F
+033-000-014	Underground B11~19/21~29F
+033-000-015	Underground B11~19/21~29F
+033-000-016	Underground B11~19/21~29F
+033-000-017	Underground B11~19/21~29F
+033-000-018	Underground B11~19/21~29F
+033-000-019	Underground B11~19/21~29F
+033-000-020	Underground B11~19/21~29F
+033-000-021	Underground B11~19/21~29F
+033-000-022	Underground B11~19/21~29F
+033-000-023	Underground B11~19/21~29F
+033-000-024	Underground B11~19/21~29F
+033-000-025	Underground B11~19/21~29F
+033-000-026	Underground B11~19/21~29F
+033-000-027	Underground B31~39/41~49/51~59F
+033-000-028	Underground B31~39/41~49/51~59F
+033-000-029	Underground B31~39/41~49/51~59F
+033-000-030	Underground B31~39/41~49/51~59F
+033-000-031	Underground B31~39/41~49/51~59F
+033-000-032	Underground B31~39/41~49/51~59F
+033-000-033	Underground B31~39/41~49/51~59F
+033-000-034	Underground B31~39/41~49/51~59F
+033-000-035	Underground B31~39/41~49/51~59F
+033-000-036	Underground B31~39/41~49/51~59F
+033-000-037	Underground B31~39/41~49/51~59F
+033-000-038	Underground B31~39/41~49/51~59F
+033-000-039	Underground B31~39/41~49/51~59F
+033-000-040	Underground B31~39/41~49/51~59F
+033-000-041	Underground B31~39/41~49/51~59F
+033-000-042	Underground B31~39/41~49/51~59F
+033-000-043	Underground B31~39/41~49/51~59F
+033-000-044	Underground B31~39/41~49/51~59F
+033-000-045	Underground B31~39/41~49/51~59F
+033-000-046	Underground B31~39/41~49/51~59F
+033-000-047	Underground B31~39/41~49/51~59F
+033-000-048	Underground B31~39/41~49/51~59F
+033-000-049	Underground B31~39/41~49/51~59F
+033-000-050	Underground B31~39/41~49/51~59F
+033-000-051	Underground B31~39/41~49/51~59F
+033-000-052	Underground B31~39/41~49/51~59F
+033-000-053	Underground B31~39/41~49/51~59F
+033-000-054	Underground B61~69/71~79/81~89/91~98F
+033-000-055	Underground B61~69/71~79/81~89/91~98F
+033-000-056	Underground B61~69/71~79/81~89/91~98F
+033-000-057	Underground B61~69/71~79/81~89/91~98F
+033-000-058	Underground B61~69/71~79/81~89/91~98F
+033-000-059	Underground B61~69/71~79/81~89/91~98F
+033-000-060	Underground B61~69/71~79/81~89/91~98F
+033-000-061	Underground B61~69/71~79/81~89/91~98F
+033-000-062	Underground B61~69/71~79/81~89/91~98F
+033-000-063	Underground B61~69/71~79/81~89/91~98F
+033-000-064	Underground B61~69/71~79/81~89/91~98F
+033-000-065	Underground B61~69/71~79/81~89/91~98F
+033-000-066	Underground B61~69/71~79/81~89/91~98F
+033-000-067	Underground B61~69/71~79/81~89/91~98F
+033-000-068	Underground B61~69/71~79/81~89/91~98F
+033-000-069	Underground B61~69/71~79/81~89/91~98F
+033-000-070	Underground B61~69/71~79/81~89/91~98F
+033-000-071	Underground B61~69/71~79/81~89/91~98F
+033-000-072	Underground B61~69/71~79/81~89/91~98F
+033-000-073	Underground B61~69/71~79/81~89/91~98F
+033-000-074	Underground B61~69/71~79/81~89/91~98F
+033-000-075	Underground B61~69/71~79/81~89/91~98F
+033-000-076	Underground B61~69/71~79/81~89/91~98F
+033-000-077	Underground B61~69/71~79/81~89/91~98F
+033-000-078	Underground B61~69/71~79/81~89/91~98F
+033-000-079	Underground B61~69/71~79/81~89/91~98F
+033-000-080	Underground B61~69/71~79/81~89/91~98F
+033-000-081	Underground B61~69/71~79/81~89/91~98F
+033-000-082	Underground B61~69/71~79/81~89/91~98F
+033-000-083	Underground B61~69/71~79/81~89/91~98F
+033-000-084	Underground B61~69/71~79/81~89/91~98F
+033-000-085	Underground B61~69/71~79/81~89/91~98F
+033-000-086	Underground B61~69/71~79/81~89/91~98F
+033-000-087	Underground B61~69/71~79/81~89/91~98F
+033-000-088	Underground B61~69/71~79/81~89/91~98F
+033-000-089	Underground B61~69/71~79/81~89/91~98F
+033-000-090	Underground B10F
+033-000-091	Underground B10F
+033-000-092	Underground B20/30F
+033-000-093	Underground B20/30F
+033-000-094	Underground B40/50/60F
+033-000-095	Underground B40/50/60F
+033-000-096	Underground B40/50/60F
+033-000-097	Underground B70/80/99F
+033-000-098	Underground B70/80/99F
+033-000-099	Underground B70/80/99F
+033-000-100	Underground B70/80/99F
+
+034			Zero Legends
+034-000		Zero Field
+034-000-000	A Whole New World

@@ -101,3 +101,5 @@
 100	★ Peng! Peng! Das war‘s ★
 101	★ Exiel Exterminiert ★
 102	★ Inferno 40 ★
+103	★ Ich bin Unheimliche Legende 1 ★
+104	★ Lord Luza ★

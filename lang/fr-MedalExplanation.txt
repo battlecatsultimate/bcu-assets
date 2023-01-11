@@ -101,3 +101,5 @@
 100	Termine Attaque de Grand Peng Z
 101	Termine Attaque de l'Archange divin
 102	Terminer le 40e étage de la Tour infernale
+103	Termine tous les niveaux<br>Légende mystérieuse de niveau 1
+104	Débloque le Seigneur gorille Luza

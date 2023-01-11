@@ -460,9 +460,9 @@
 459	<br><br>
 460	<br><br>
 461	<br><br>
-462	<br><br>
+462	¡La forma final tiene mejores rasgos!<br>¡Y siempre paraliza a enemigos reliquias!<br>
 463	<br><br>
-464	<br><br>
+464	¡La forma final tiene mejores rasgos!<br>¡También es matacolosos<br>y matamastodontes!
 465	<br><br>
 466	<br><br>
 467	True Form evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
@@ -530,7 +530,7 @@
 529	<br><br>
 530	<br><br>
 531	<br><br>
-532	<br><br>
+532	¡La forma final tiene más defensa,<br>alcance y ataque! ¡También es<br>matacolosos y matamastodontes!
 533	La forma final solo ataca a álienes y<br>reliquias, pero se hace inmune a maldiciones<br>que bloquean las habilidades de los aliados.
 534	La forma final es inmune a los efectos<br>de ralentización y repulsión<br>de los ataques enemigos.
 535	<br><br>
@@ -611,7 +611,7 @@
 610	La forma final tiene una mayor<br>defensa y es inmune a toxicidad.<br>
 611	<br><br>
 612	<br><br>
-613	<br><br>
+613	¡La forma final se mueve más rápido!<br>¡Además, repele reliquias y es<br>matacolosos y matamastodontes!
 614	La forma final<br>siempre ralentiza a akus<br>y puede atravesar sus escudos.
 615	<br><br>
 616	<br><br>
@@ -651,7 +651,7 @@
 650	<br><br>
 651	<br><br>
 652	<br><br>
-653	<br><br>
+653	¡La forma final tiene más defensa!<br>¡Y fortalece las penalizaciones a reliquias!<br>¡Es matacolosos y matamastodontes!
 654	<br><br>
 655	<br><br>
 656	La forma final revela su apariencia real<br>y es matamastodontes.<br>
@@ -688,3 +688,5 @@
 687	<br><br>
 688	<br><br>
 689	<br><br>
+690	<br><br>
+691	¡La forma final revela su apariencia real!<br>¡También es matamastodontes!<br>¡Y es inmune a las réplicas!

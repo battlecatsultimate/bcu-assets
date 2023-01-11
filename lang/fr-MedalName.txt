@@ -101,3 +101,5 @@
 100	★ Gros Pang sur le Grand Peng ★
 101	★ Exiel exterminé ★
 102	★ Inferno 40 ★
+103	★ Je suis une légende mystérieuse 1 ★
+104	★ Seigneur Luza ★
