@@ -1334,6 +1334,8 @@
 001-287-005	Cráter del Norte
 001-287-006	Campo de Nieve Helado
 001-287-007	Campo de Batalla Final
+001-288		¡Regalos del Año Nuevo Lunar en abundancia!
+001-288-000	Feliz festival felino
 001-289		Marcha de Llamas
 001-289-000	Cueva de Comienzos
 001-289-001	Bosque de Nómadas
@@ -4179,6 +4181,17 @@
 024-040-007	Confusión (nvl. 8)
 024-040-008	Confusión (nvl. 9)
 024-040-009	Confusión (nvl. máx.)
+024-041		Festival felino: Año Nuevo Lunar
+024-041-000	¿Ya es el Año Nuevo Lunar?
+024-041-001	Fuegos Artificiales
+024-041-002	Exorcismo a lo Bestia
+024-041-003	Plegaria de Regalos
+024-041-004	Rezo de Longevidad
+024-041-005	Baile Acrobático Leonino
+024-041-006	Adornos Afortunados
+024-041-007	Farolillo Rojo Auspicioso
+024-041-008	Atracón de Bollitos
+024-041-009	Vuelta a Casa
 024-042		Horda de Gatos
 024-042-000	Sed de Sangre (nvl. 1)
 024-042-001	Sed de Sangre (nvl. 2)

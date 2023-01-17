@@ -1331,6 +1331,8 @@
 001-287-005	Cratère nord
 001-287-006	Piste glacée
 001-287-007	Champ de bataille ultime
+001-288		Avalanche de cadeaux du Nouvel An lunaire !
+001-288-000	Chats de festival heureux
 001-289		La marche des flammes
 001-289-000	Grotte des prémices
 001-289-001	Forêt du vagabond
@@ -4177,6 +4179,17 @@
 024-040-007	Confusion niv. 8
 024-040-008	Confusion niv. 9
 024-040-009	Confusion niv. max
+024-041		Chats de festival : Nouvel An lunaire
+024-041-000	Déjà le Nouvel An lunaire ?
+024-041-001	Feu d’artifices grandiose
+024-041-002	Exorcisme explosif
+024-041-003	Mendier des cadeaux
+024-041-004	Prière de longévité
+024-041-005	Danse du lion acrobatique
+024-041-006	Décoration porte-bonheur
+024-041-007	Lanterne rouge faste
+024-041-008	Farci de raviolis
+024-041-009	Le long retour
 024-042		Horde de Chats
 024-042-000	Sanguinaire niv. 1
 024-042-001	Sanguinaire niv. 2

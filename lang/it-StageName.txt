@@ -1335,6 +1335,8 @@
 001-287-005	Voragine a nord
 001-287-006	Distesa gelida
 001-287-007	Battaglia finale
+001-288		Regali a fiumi per il Capodanno lunare!
+001-288-000	Buon Festival felino
 001-289		L'avanzata delle fiamme
 001-289-000	Grotta degli inizi
 001-289-001	Foresta del vagabondo
@@ -4173,6 +4175,17 @@
 024-040-007	Confusione Liv. 8
 024-040-008	Confusione Liv. 9
 024-040-009	Confusione Liv. MAX
+024-041		Festival felino: Capodanno lunare
+024-041-000	È già il Capodanno lunare?
+024-041-001	Fuochi d'artificio vistosi
+024-041-002	Scacciare il male con il botto
+024-041-003	Implorare per i regali
+024-041-004	Pregare per la lunga vita
+024-041-005	La danza del leone acrobatico
+024-041-006	Decorazioni portafortuna
+024-041-007	Lanterna rossa di buon auspicio
+024-041-008	Troppi ravioli
+024-041-009	Un lungo viaggio verso casa
 024-042		Orda di Gatti
 024-042-000	Sete di sangue Liv. 1
 024-042-001	Sete di sangue Liv. 2

@@ -1330,6 +1330,8 @@
 001-287-005	Nördlicher Krater
 001-287-006	Kaltes Schneefeld
 001-287-007	Letztes Schlachtfeld
+001-288		Mond-Neujahr-Geschenke für alle!
+001-288-000	Fröhliche Festkatzen
 001-289		Marsch der Flammen
 001-289-000	Höhle der Anfänge
 001-289-001	Wandererwald
@@ -4176,6 +4178,17 @@
 024-040-007	Verwirrung St. 8
 024-040-008	Verwirrung St. 9
 024-040-009	Verwirrung St. MAX
+024-041		Festkatzen: Mond-Neujahr
+024-041-000	Schon Mond-Neujahr?
+024-041-001	Bunte Feuerwerk-Show
+024-041-002	Vertreibe des Böse mit einem Knaller
+024-041-003	Betteln um Geschenke
+024-041-004	Für langes Leben beten
+024-041-005	Akrobatischer Löwentanz
+024-041-006	Glücksbringer-Dekoration
+024-041-007	Glücksbringende rote Laterne
+024-041-008	Randvoll mit Teigtaschen
+024-041-009	Langer Heimweg
 024-042		Katzenhorde
 024-042-000	Blutdurstig St. 1
 024-042-001	Blutdurstig St. 2
