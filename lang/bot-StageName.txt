@@ -1343,6 +1343,8 @@
 001-287-005	Northern Crater
 001-287-006	Cold Snowfield
 001-287-007	Final Battleground
+001-288		Lunar New Year's Gifts Galore!
+001-288-000	Happy Festival Cats
 001-289		The March of Flames
 001-289-000	Cave of Beginnings
 001-289-001	Wanderer's Forest
@@ -4233,6 +4235,17 @@
 024-040-007	Confusion Lv.8
 024-040-008	Confusion Lv.9
 024-040-009	Confusion Lv.MAX
+024-041		Festival Cats: Lunar New Year's
+024-041-000	Lunar New Year Already?
+024-041-001	Flashy Fireworks Display
+024-041-002	Cast Out Evil with a Bang
+024-041-003	Begging for Gifts
+024-041-004	Pray for Long Life
+024-041-005	Acrobatic Lion Dance
+024-041-006	Decorate for Luck
+024-041-007	Auspicious Red Lantern
+024-041-008	Stuffed with Dumplings
+024-041-009	Long Road Home
 024-042		Horde of Cats
 024-042-000	Bloodthirsty Lv.1
 024-042-001	Bloodthirsty Lv.2
