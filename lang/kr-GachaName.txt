@@ -35,12 +35,12 @@
 -1010	엑셀런트 셀렉션 뽑기	//Excellent Selectoin 468
 -1011	울트라 국왕 축제	//Emperor Cat 562
 -1012	여왕 축제	//Empress Cat 602
--2000	발차기 공주 콜라보 뽑기 //Princess Punt 176
+-2000	발차기 공주 콜라보 뽑기	//Princess Punt 176
 -2001	소멸도시 콜라보 뽑기	//Annihilation City 180
 -2002	메르크 스토리아 콜라보 뽑기	//Merc 185
--2003	구데타마 콜라보 뽑기 //Gudetama 186
--2004	Fate/stay Night 콜라보 뽑기 //Fate/Stay 214
--2005	실황 파워풀 프로야구 콜라보 뽑기 //Power Baseball thing 265
+-2003	구데타마 콜라보 뽑기	//Gudetama 186
+-2004	페이트 콜라보 뽑기	//Fate/Stay 214
+-2005	실황 파워풀 프로야구 콜라보 뽑기	//Power Baseball thing 265
 -2006	에반게리온 콜라보 뽑기	//Evangelion 282
 -2007	마도카 마기카 콜라보 뽑기	//PMMM 318
 -2008	살아남아라! 개복치 콜라보 뽑기	//Mola 375

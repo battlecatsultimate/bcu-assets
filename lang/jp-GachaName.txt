@@ -33,14 +33,14 @@
 -1007	超選抜祭	//BOTB 357
 -1008	極選抜祭	//NBOTB 460
 -1010	エクセレントセレクション	//Excellent Selectoin 468
--1011	超国王祭 //Emperor Cat 562
+-1011	超国王祭	//Emperor Cat 562
 -1012	女王祭	//Empress Cat 602
--2000	ケリ姫スイーツ //Princess Punt 176
+-2000	ケリ姫スイーツ	//Princess Punt 176
 -2001	にゃんこ大戦争 × 消滅都市2	//Annihilation City 180
 -2002	メルクストーリア	//Merc 185
--2003	ぐでたま //Gudetama 186
--2004	Fate/stay nightコラボガチャイベント //Fate/Stay 214
--2005	実況パワフルプロ野球 //Power Baseball thing 265
+-2003	ぐでたま	//Gudetama 186
+-2004	Fateコラボガチャイベント	//Fate/Stay 214
+-2005	実況パワフルプロ野球	//Power Baseball thing 265
 -2006	エヴァンゲリオン	//Evangelion 282
 -2007	魔法少女まどか☆マギカ	//PMMM 318
 -2008	生きろ！マンボウ！	//Mola 375

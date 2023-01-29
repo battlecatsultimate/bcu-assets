@@ -39,8 +39,8 @@
 -2001	消滅都市	//Annihilation City 180
 -2002	梅露可物語	//Merc 185
 -2003	蛋黃哥	//Gudetama 186
--2004	劇場版「Fate/stay night [Heaven's Feel]」 //Fate/Stay 214
--2005	實況野球 //Power Baseball thing 265
+-2004	劇場版「Fate/stay night [Heaven's Feel]」	//Fate/Stay 214
+-2005	實況野球	//Power Baseball thing 265
 -2006	福音戰士	//Evangelion 282
 -2007	魔法少女小圓	//PMMM 318
 -2008	活下去！曼波魚！	//Mola 375
