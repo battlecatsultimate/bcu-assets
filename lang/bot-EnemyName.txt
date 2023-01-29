@@ -631,3 +631,5 @@
 630	Metafilibuster
 631	Rabbit Doge
 632	Relic Base
+633	Killer Tank Cat
+634	Super Tongue Beast Langumaster
