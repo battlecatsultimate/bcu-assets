@@ -711,6 +711,9 @@
 9375	Clear 50  "Ranma 1/2" collab stages
 52	Supera 25 fases de Matanza de Mastodontes por primera vez:
 53	Supera 30 fases de Matanza de Mastodontes por primera vez:
+9376	Clear stages from "Merc Storia Collab"
+9377	Clear stages from "Merc Storia Collab"
+9378	Clear stages from "Merc Storia Collab"
 9379	Supera el piso 40 de la Torre Infernal. (Estos premios solo se pueden recoger una vez)
 54	Supera «¡Bonanza de XP!». Completa todas las fases de ¡Bonanza de XP!
 9380	Clear stages from "River City Cat Clash"
@@ -726,3 +729,13 @@
 9409	¡Supera las fases de Año Nuevo Lunar 15 veces!
 9410	¡Supera las fases de Año Nuevo Lunar 20 veces!
 9411	¡Supera las fases de Año Nuevo Lunar 30 veces!
+56	Supera 35 fases de Matanza de Mastodontes por primera vez:
+9415	(Completa 1 expedición a cualquier zona)
+9416	(Completa 5 expediciones a cualquier zona)
+9417	【80 M DCS】Completa Regalo feliz de
+9418	【80 M DCS】Completa Regalo feliz de
+9419	【80 M DCS】Completa Regalo feliz de
+9420	【80 M DCS】Completa fases del «Evento de las Estrellas
+9421	【80 M DCS】Completa fases del «Evento de las Estrellas
+9422	【80 M DCS】Completa fases del «Evento de las Estrellas
+9423	【80 M DCS】¡Completa todas las misiones de evento. para ganar 1 fragmento de platino!

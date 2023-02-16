@@ -631,3 +631,5 @@
 630	Deambula por los mundos dejando tras de sí <br>destrucción y creación.<br>Su composición es tan misteriosa como su poder.<br>Es inmune a todas las penalizaciones.
 631	
 632	
+633	
+634	Un alabado escultor que vive en la naturaleza. <br>Hizo un contrato aku para ganar visión de Rayos X y<br>esculpir mejor estatuas desnudas, pero ahora<br>solo ve los huesos a través de la ropa y la piel...

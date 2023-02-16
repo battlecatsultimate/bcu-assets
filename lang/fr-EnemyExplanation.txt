@@ -631,3 +631,5 @@
 630	Erre dans des mondes infinis en laissant une traînée de <br>destruction et de création dans son sillage. Sa<br>création reste un mystère, tout comme son pouvoir. Tous<br>les effets négatifs sont inefficaces contre cette créature.
 631	
 632	
+633	
+634	Un sculpteur à succès qui vit en pleine nature. <br>A passé un contrat Aku pour gagner la vision rayons X<br>et mieux sculpter les nus. Mais ne peut désormais que<br>voir les os à travers les habits et la peau...

@@ -1442,6 +1442,30 @@
 001-327-003	Tan 2º que da pena
 001-327-004	Pasmosamente 1º
 001-327-005	No Visto en 2022
+001-328		¡Celebrando 80 millones de descargas! Regalo feliz
+001-328-000	¡Bien! ¡80 millones de descargas!
+001-329		Otra historia ~Graduación~
+001-329-000	Medianoche en la ciudad
+001-329-001	Alas celestiales
+001-329-002	De viaje
+001-330		Finde ~Otra confesión~
+001-330-000	Otra llamada atrevida
+001-330-001	Resultados de confesión
+001-330-002	Lo siento mucho
+001-331		Finde ~Otra confesión~
+001-331-000	Otra llamada atrevida
+001-331-001	Resultados de confesión
+001-331-002	Es que estoy estudiando
+001-332		Finde ~Otra confesión~
+001-332-000	Otra llamada atrevida
+001-332-001	Resultados de confesión
+001-332-002	No lo parece
+001-333		Aflicción en el Bosque II
+001-333-000	Punta de lengua bestial
+001-334		Rarezas en el Desierto II
+001-334-000	Puño sísmico
+001-335		Peligro en el Volcán II
+001-335-000	Trueno eficaz
 
 002			Collaboration Stages
 002-003		To the Future
@@ -4426,6 +4450,17 @@
 024-059-007	Año del Conejo (nvl. 8)
 024-059-008	Año del Conejo (nvl. 9)
 024-059-009	Año del Conejo (nvl. máx.)
+024-060		Horda de Gatos Defensores
+024-060-000	Protección mortal nvl. 1
+024-060-001	Protección mortal nvl. 2
+024-060-002	Protección mortal nvl. 3
+024-060-003	Protección mortal nvl. 4
+024-060-004	Protección mortal nvl. 5
+024-060-005	Protección mortal nvl. 6
+024-060-006	Protección mortal nvl. 7
+024-060-007	Protección mortal nvl. 8
+024-060-008	Protección mortal nvl. 9
+024-060-009	Protección mortal nvl. máx.
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -4526,6 +4561,12 @@
 025-062-002	Desierto de Piedras Verdes 3
 025-062-003	Bosque de Piedras Rojas 3
 025-062-004	Volcán de Piedras Amarillas 3
+025-063		Origen del Mal Instinto
+025-063-000	Santuario Base (Mortal)
+025-064		Cumbre del Mal Instinto
+025-064-000	Santuario Cima (Inhumano)
+025-065		Refugio del Mal Instinto
+025-065-000	Santuario Frontera (Inhumano)
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -4751,6 +4792,9 @@
 031-000-008	Zona de la Jungla Profunda 9
 031-000-009	Zona de la Jungla Profunda 10
 031-000-010	Zona de la Jungla Aguacero 11
+031-000-011	Zona de la Jungla Aguacero 12
+031-000-012	Zona de la Jungla Aguacero 13
+031-000-013	Zona de la Jungla Aguacero 14
 031-001		Desierto de Ashvini
 031-001-000	Zona Baldía 1
 031-001-001	Zona Baldía 2
@@ -4763,6 +4807,9 @@
 031-001-008	Zona de la Arena Ardiente 9
 031-001-009	Zona de la Arena Ardiente 10
 031-001-010	Zona de la Arena Abrasadora 11
+031-001-011	Zona de la Arena Ardiente 12
+031-001-012	Zona de la Arena Ardiente 13
+031-001-013	Zona de la Arena Ardiente 14
 031-002		Volcán Jinfore
 031-002-000	Zona del Túnel de Magma 1
 031-002-001	Zona del Túnel de Magma 2
@@ -4775,6 +4822,9 @@
 031-002-008	Zona de las Cuevas de Lava 9
 031-002-009	Zona de las Cuevas de Lava 10
 031-002-010	Zona del Cráter Infernal 11
+031-002-011	Zona del Cráter Infernal 12
+031-002-012	Zona del Cráter Infernal 13
+031-002-013	Zona del Cráter Infernal 14
 
 033			Profundidades
 033-000		Profundidades

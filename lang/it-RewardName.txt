@@ -141,6 +141,7 @@
 183	Gem. Behem. gialla
 184	Piet. Behem. epica
 185	Amul. leggendario
+186	Lettera d'amore
 1005	Busto di Gatto
 1100	Busto di Gatto
 1001	Gatto sportivo
@@ -253,6 +254,7 @@
 1178	Yuma Kuga & Cat
 1061	Uovo antico N004
 1062	Uovo antico N000
+1063	Gatto Panzer assassino
 19001	Gatto punk
 19002	Gatto gomma
 19003	Gatto oscuro
@@ -385,6 +387,7 @@
 10184	Cat Kart P
 15186	Revolutionary Hearscht CC
 15188	Holiday Juvens CC
+15189	Savior Mystica CC
 10192	Titi Cat CC
 15195	Akira Infernale
 15196	Mekako Sala di controllo
@@ -512,6 +515,7 @@
 15497	Kaihime Immortale
 15503	Myrcia Divina
 15506	Gladios Dio-Imperatore
+15507	Nameless Eyewaltz CC
 15512	Kage
 15520	Lasvoss rinato
 10522	Gatto Naga
@@ -540,9 +544,11 @@
 15615	Il Bagliore del sud
 15619	Amakusa immortale
 15620	Lilin π Divina
+15632	Yaminora
 15633	Diabolosa obliterante
 15643	Lucifero Onnipotente
 19010	Superfelino Reale
+15645	Mekako fresco amore
 16654	Naala risvegliata
 15657	Gatto haniwa
 15659	Gatto corriere
@@ -556,6 +562,7 @@
 15677	Fungatto
 15686	Gatto Supercar
 15692	Luza lo scimmione
+15698	Gatto capo
 30000	Più attacco D: Rosso
 30001	Più attacco C: Rosso
 30002	Più attacco B: Rosso
@@ -711,3 +718,28 @@
 30152	Effetto Resistente + B: Zombi
 30153	Effetto Resistente + A: Zombi
 30154	Effetto Resistente + S: Zombi
+30155	Più attacco D: Aku
+30156	Più attacco C: Aku
+30157	Più attacco B: Aku
+30158	Più attacco A: Aku
+30159	Più attacco S: Aku
+30160	Aumento difesa D: Aku
+30161	Aumento difesa C: Aku
+30162	Aumento difesa B: Aku
+30163	Aumento difesa A: Aku
+30164	Aumento difesa S: Aku
+30165	Effetto Efficace + D: Aku
+30166	Effetto Efficace + C: Aku
+30167	Effetto Efficace + B: Aku
+30168	Effetto Efficace + A: Aku
+30169	Effetto Efficace + S: Aku
+30170	Danni enormi + D: Aku
+30171	Danni enormi + C: Aku
+30172	Danni enormi + B: Aku
+30173	Danni enormi + A: Aku
+30174	Danni enormi + S: Aku
+30175	Effetto Resistente + D: Aku
+30176	Effetto Resistente + C: Aku
+30177	Effetto Resistente + B: Aku
+30178	Effetto Resistente + A: Aku
+30179	Effetto Resistente + S: Aku

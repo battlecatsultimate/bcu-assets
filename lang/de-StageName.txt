@@ -1438,6 +1438,30 @@
 001-327-003	#2, es ist zum Heulen
 001-327-004	Unglaublicherweise #1
 001-327-005	2022 ungesehen
+001-328		Feier zu 80 Mio. Downloads Fröhliches Geschenk
+001-328-000	Hurra! 80 Mio. Downloads!
+001-329		Nachgeschichte: Abschlusstag
+001-329-000	Stadt um Mitternacht
+001-329-001	Flügelschläge am Himmel
+001-329-002	Auf einer Reise
+001-330		Wochenende: Noch ein Geständnis
+001-330-000	Noch ein mutiger Anruf
+001-330-001	Geständnisfolgen
+001-330-002	Es tut mir so leid
+001-331		Wochenende: Noch ein Geständnis
+001-331-000	Noch ein mutiger Anruf
+001-331-001	Geständnisfolgen
+001-331-002	Ich muss jetzt lernen
+001-332		Wochenende: Noch ein Geständnis
+001-332-000	Noch ein mutiger Anruf
+001-332-001	Geständnisfolgen
+001-332-002	Sieht aber nicht so aus
+001-333		Heimsuchung im Wald II
+001-333-000	Auf der Zunge der Bestie
+001-334		Kuriosität in der Wüste II
+001-334-000	Erdbebenfaust
+001-335		Gefahr im Vulkan II
+001-335-000	Heftiger Donnerknall
 
 002			Collaboration Stages
 002-003		To the Future
@@ -4380,6 +4404,17 @@
 024-059-007	Jahr des Hasen, St. 8
 024-059-008	Jahr des Hasen, St. 9
 024-059-009	Jahr des Hasen, St. MAX
+024-060		Panzer-Katzenhorde
+024-060-000	Tödlicher Schutz St. 1
+024-060-001	Tödlicher Schutz St. 2
+024-060-002	Tödlicher Schutz St. 3
+024-060-003	Tödlicher Schutz St. 4
+024-060-004	Tödlicher Schutz St. 5
+024-060-005	Tödlicher Schutz St. 6
+024-060-006	Tödlicher Schutz St. 7
+024-060-007	Tödlicher Schutz St. 8
+024-060-008	Tödlicher Schutz St. 9
+024-060-009	Tödlicher Schutz St. MAX
 
 025			Enigma Stages
 025-000		Atium-Felder
@@ -4480,6 +4515,12 @@
 025-062-002	Grüne Steinwüste 3
 025-062-003	Roter Steinwald 3
 025-062-004	Gelber Steinvulkan 3
+025-063		Ursprung des bösen Instinkts
+025-063-000	Hortschrein (Tödlich)
+025-064		Apex des bösen Instinkts
+025-064-000	Gipfelschrein (Gnadenlos)
+025-065		Zuflucht des bösen Instinkts
+025-065-000	Grenzschrein (Gnadenlos)
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -4675,6 +4716,9 @@
 031-000-008	Tiefes Dschungelgebiet 9
 031-000-009	Tiefes Dschungelgebiet 10
 031-000-010	Verregnetes Dschungelgebiet 11
+031-000-011	Verregnetes Dschungelgebiet 12
+031-000-012	Verregnetes Dschungelgebiet 13
+031-000-013	Verregnetes Dschungelgebiet 14
 031-001		Ashvini-Wüste
 031-001-000	Einöde 1
 031-001-001	Einöde 2
@@ -4687,6 +4731,9 @@
 031-001-008	Brennendes Sandgebiet 9
 031-001-009	Brennendes Sandgebiet 10
 031-001-010	Sengendes Sandgebiet 11
+031-001-011	Sengendes Sandgebiet 12
+031-001-012	Sengendes Sandgebiet 13
+031-001-013	Sengendes Sandgebiet 14
 031-002		Jinfore-Vulkan
 031-002-000	Magmatunnel 1
 031-002-001	Magmatunnel 2
@@ -4699,6 +4746,9 @@
 031-002-008	Lavahöhlengebiet 9
 031-002-009	Lavahöhlengebiet 10
 031-002-010	Höllenkratergebiet 11
+031-002-011	Höllenkratergebiet 12
+031-002-012	Höllenkratergebiet 13
+031-002-013	Höllenkratergebiet 14
 
 033			Die Große Tiefe
 033-000		Die Große Tiefe

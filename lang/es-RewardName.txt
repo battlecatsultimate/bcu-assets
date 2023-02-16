@@ -141,6 +141,7 @@
 183	Gema mast. amar.
 184	Piedra mast. épica
 185	Amuleto legendario
+186	Carta de amor
 1005	Gato de Bronce
 1100	Gato de Bronce
 1001	Gato Deportista
@@ -253,6 +254,7 @@
 1178	Yuma Kuga & Cat
 1061	Huevo antiguo N004
 1062	Huevo Antiguo N000
+1063	Gato Defensor asesino
 19001	Gato Crestado
 19002	Gato Borrador
 19003	Gato Oscuro
@@ -385,6 +387,7 @@
 10184	Cat Kart P
 15186	Revolutionary Hearscht CC
 15188	Holiday Juvens CC
+15189	Savior Mystica CC
 10192	Titi Cat CC
 15195	Akira Infierno
 15196	Mekako Control de Misión
@@ -511,6 +514,7 @@
 15497	Kaihime Inmortal
 15503	Myrcia Divina
 15506	Gladios, Dios Emperador
+15507	Nameless Eyewaltz CC
 15512	Kage
 15520	Lasvoss Renacido
 10522	Gato Naga
@@ -539,9 +543,11 @@
 15615	Sol Sureño Destellante
 15619	Amakusa Inmortal
 15620	Lilin π divina
+15632	Yaminora
 15633	Diabolosa Destructora
 15643	Lucifer Todopoderoso
 19010	Superfelino final
+15645	Mekako Amante Menta
 16654	Naala Alzada
 15657	Gato Haniwa
 15659	Gato Mensajero
@@ -555,6 +561,7 @@
 15677	Gato Hongo
 15686	Gato Supercoche
 15692	Lord Luza Simio
+15698	Gato Jefe
 30000	Aumento de ataque D: Rojos
 30001	Aumento de ataque C: Rojos
 30002	Aumento de ataque B: Rojos
@@ -710,3 +717,28 @@
 30152	Mayor efecto «Resistencia» B: Zombis
 30153	Mayor efecto «Resistencia» A: Zombis
 30154	Mayor efecto «Resistencia» S: Zombis
+30155	Aumento de ataque D: Aku
+30156	Aumento de ataque C: Aku
+30157	Aumento de ataque B: Aku
+30158	Aumento de ataque A: Aku
+30159	Aumento de ataque S: Aku
+30160	Mejora de defensa D: Aku
+30161	Mejora de defensa C: Aku
+30162	Mejora de defensa B: Aku
+30163	Mejora de defensa A: Aku
+30164	Mejora de defensa S: Aku
+30165	Mayor efecto «Eficacia» D: Aku
+30166	Mayor efecto «Eficacia» C: Aku
+30167	Mayor efecto «Eficacia» B: Aku
+30168	Mayor efecto «Eficacia» A: Aku
+30169	Mayor efecto «Eficacia» S: Aku
+30170	Mayor efecto «Superfuerza» D: Aku
+30171	Mayor efecto «Superfuerza» C: Aku
+30172	Mayor efecto «Superfuerza» B: Aku
+30173	Mayor efecto «Superfuerza» A: Aku
+30174	Mayor efecto «Superfuerza» S: Aku
+30175	Mayor efecto «Resistencia» D: Aku
+30176	Mayor efecto «Resistencia» C: Aku
+30177	Mayor efecto «Resistencia» B: Aku
+30178	Mayor efecto «Resistencia» A: Aku
+30179	Mayor efecto «Resistencia» S: Aku

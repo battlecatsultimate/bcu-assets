@@ -217,3 +217,5 @@
 336	Land-Luft-Angriff
 97	Verbotenes Gelände
 337	Berserker
+338	Pflichtvergessener Engel
+339	Finsteres Ferienende

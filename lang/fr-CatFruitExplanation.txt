@@ -186,7 +186,7 @@
 185	La forme ultime améliore la défense,<br>la vit. de déplacement, la portée d’att.<br>et les chances d’attaque critique !
 186	<br><br>
 187	La forme ultime améliore la déf. et la vit.<br>d'attaque. Affaibl. de la puissance d’att.<br>Peut esquiver les attaques des anges.
-188	<br><br>
+188	La forme ultime améliore son attaque !<br>100 % de chances de ralentir <br>les ennemis noirs et Akus.
 189	<br><br>
 190	<br><br>
 191	<br><br>
@@ -226,7 +226,7 @@
 225	<br><br>
 226	La forme ultime n'att. que les aliens, mais<br>la déf. et la puiss. d'att. sont fortement<br>améliorées. Résist. aux malus répétés.
 227	La forme ultime est plus efficace contre les<br>ennemis noirs ! Gagne en plus Fléau des<br>Béhémoths !
-228	La forme ultime gagne<br>Bloque-vagues !<br>
+228	La forme ultime bloque les vagues off.<br>et gagne immunité aux vagues offensives.<br>
 229	<br><br>
 230	<br><br>
 231	<br><br>
@@ -504,7 +504,7 @@
 503	<br><br>
 504	<br><br>
 505	La forme ultime améliore<br>la défense. 100 % de chances de repousser<br>et ralentir les ennemis sans caract. !
-506	<br><br>
+506	La forme ultime gagne vague offensive !<br><br>
 507	<br><br>
 508	<br><br>
 509	<br><br>
@@ -629,7 +629,7 @@
 628	<br><br>
 629	<br><br>
 630	<br><br>
-631	<br><br>
+631	La forme ultime améliore fortement<br>l’attaque ! Bloque les vagues off. et<br>gagne immunité aux vagues offensives.
 632	La forme ultime améliore son attaque et<br>l'immunise vs les effets d'immobilisation !<br>
 633	<br><br>
 634	<br><br>
@@ -642,7 +642,7 @@
 641	<br><br>
 642	La forme ultime a une meilleure défense !<br>Utilise toujours la réplique offensive !<br>
 643	<br><br>
-644	<br><br>
+644	La forme ultime gagne des att. pouvant<br>immobiliser les reliques + immunité aux<br>malédictions bloquant les cap. alliées.
 645	<br><br>
 646	<br><br>
 647	<br><br>
@@ -690,3 +690,9 @@
 689	<br><br>
 690	<br><br>
 691	La forme ultime révèle son aspect final !<br>Gagne Fléau des Béhémoths !<br>Plus immunité contre répliques offensives !
+692	<br><br>
+693	<br><br>
+694	<br><br>
+695	<br><br>
+696	<br><br>
+697	La forme ultime révèle son aspect final<br>Et gagne Fléau des Béhémoths !<br>

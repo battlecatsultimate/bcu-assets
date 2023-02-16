@@ -716,6 +716,9 @@
 9375	Clear 50  "Ranma 1/2" collab stages
 52	Clear 25 of Behemoth Culling stages for the first time
 53	Clear 30 of Behemoth Culling stages for the first time
+9376	Clear stages from "Merc Storia Collab"
+9377	Clear stages from "Merc Storia Collab"
+9378	Clear stages from "Merc Storia Collab"
 9379	Clear Floor 40 of the Infernal Tower. ※ Reward can only be collected once
 54	Clear "XP Bonanza!". Complete by clearing all stages in XP Bonanza!
 9380	Clear stages from "River City Cat Clash"
@@ -731,3 +734,13 @@
 9409	Clear "Lunar New Year's" stages 15 times!
 9410	Clear "Lunar New Year's" stages 20 times!
 9411	Clear "Lunar New Year's" stages 30 times!
+56	Clear 35 Behemoth Culling Stages for the first time
+9415	【80M DL】 Send Gamatoto on 1 successful expeditions!
+9416	【80M DL】 Send Gamatoto on 5 successful expeditions!
+9417	【80M DL】Clear 80 Million DL Celebration Happy Present 1 times!
+9418	【80M DL】Clear 80 Million DL Celebration Happy Present 2 times!
+9419	【80M DL】Clear 80 Million DL Celebration Happy Present 3 times!
+9420	【80M DL】Clear "Monthly Event All-Stars" stages 1 times!
+9421	【80M DL】Clear "Monthly Event All-Stars" stages 3 times!
+9422	【80M DL】Clear "Monthly Event All-Stars" stages 5 times!
+9423	【80M DL】Clear all event missions. to earn 1 Platinum Shard!

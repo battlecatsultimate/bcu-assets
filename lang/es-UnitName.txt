@@ -186,7 +186,7 @@
 185	Hearscht	Hearscht CC	Revolutionary Hearscht CC
 186	Cornelia	Cornelia CC	
 187	Juvens	Juvens CC	Holiday Juvens CC
-188	Mystica	Mystica CC	
+188	Mystica	Mystica CC	Savior Mystica CC
 189	Alois	Alois CC	
 190	Citrouille	Citrouille CC	
 191	Titi	Titi CC	Titi Cat CC
@@ -504,7 +504,7 @@
 503			
 504			
 505	Implacable Gladios	Gladios Aniquilador	Gladios, Dios Emperador
-506	Eyewaltz	Eyewaltz CC	
+506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC
 507	Gatman	Supergato	
 508	Ryu Cat	Ryu Cat CC	
 509	Chun-Li Cat	Chun-Li Cat CC	
@@ -629,7 +629,7 @@
 628			
 629	Gato Adoctrinado	Gato Mazado Adoctrinado	
 630	Gato Calígrafo	Gato Maestro del Té	
-631	Yamii	Yaminoir	
+631	Yamii	Yaminoir	Yaminora
 632	Dez-Troyer-R Brutal	Diabolosa Cruzaasedios	Diabolosa Destructora
 633	Gorrión Cazatesoros	Cazadores Chunchun	
 634	Cíclope Caballero Blanco	Cíclope Caballero Negro	
@@ -642,7 +642,7 @@
 641	Iz la Bailarina	Iz la Bailarina Atractiva	
 642	Lucifer el Caído	Gran Lucifer	Lucifer Todopoderoso
 643	Superfelino	Superfelino II	Superfelino final
-644	Mekako Amante	Mekako Agridulce	
+644	Mekako Amante	Mekako Agridulce	Mekako Amante Menta
 645	Gato Hachero Adoctrinado	Gato Valiente Adoctrinado	
 646	Gato Petardo	Gato Petardo macho	
 647	Terun Cazadora	Terun Cazadora ζ	
@@ -690,3 +690,9 @@
 689			
 690	Phono, Hijo del Destino	Phonoa, Reina del Destino	
 691	Huevo Antiguo N000	Huevo Anciano N000	Lord Luza Simio
+692	Issun Boshi	Destructor Oni Kozuchimaru	
+693	Mayordomo blanco Vigler	Mayordomo negro Vigler	
+694	Gato Titán adoctrinado	Gato Titán Mít. adoctrinado	
+695	Gato Defensor asesino	Gato Defensor asesino aut.	
+696	Gato delegado	Gato delegado sigiloso	
+697	Huevo Antiguo N107	Huevo morado N107	Gato Jefe

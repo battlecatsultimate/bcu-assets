@@ -631,3 +631,5 @@
 630	Wanders infinite worlds leaving a trail of both <br>destruction and creation in its wake. Its<br>makeup is a mystery, as is its power. All<br>negative effects are ineffective against it.
 631	
 632	
+633	
+634	A lauded sculptor who lives in the wilderness. <br>Made an Aku contract to gain x-ray vision to<br>better sculpt nude statue subjects, but now<br>just sees through clothes and skin to the bones...

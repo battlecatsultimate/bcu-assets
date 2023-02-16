@@ -716,6 +716,9 @@
 9375	Clear 50  "Ranma 1/2" collab stages
 52	Supera 25 livelli "Selezione Behemoth" per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
 53	Supera 30 livelli "Selezione Behemoth" per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
+9376	Clear stages from "Merc Storia Collab"
+9377	Clear stages from "Merc Storia Collab"
+9378	Clear stages from "Merc Storia Collab"
 9379	Supera il 40° piano della Torre infernale. * Puoi ricevere la ricompensa solo una volta
 54	Supera "Valanga di XP". Completa superando tutti i livelli di Valanga di XP
 9380	Clear stages from "River City Cat Clash"
@@ -731,3 +734,13 @@
 9409	Supera livelli "Capodanno lunare" 15 volte!
 9410	Supera livelli "Capodanno lunare" 20 volte!
 9411	Supera livelli "Capodanno lunare" 30 volte!
+56	Supera 35 livelli "Selezione Behemoth" per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
+9415	【80M】Manda Gamatoto in 1 spedizioni riuscite! (Completa 1 spedizione in un'area Gamatoto)
+9416	【80M】Manda Gamatoto in 5 spedizioni riuscite! (Completa 5 spedizioni in un'area Gamatoto)
+9417	【80M】Supera Buon regalo di Festeggiamenti 80M 1 volte! ()
+9418	【80M】Supera Buon regalo di Festeggiamenti 80M 2 volte! ()
+9419	【80M】Supera Buon regalo di Festeggiamenti 80M 3 volte! ()
+9420	【80M】Supera liv. di "Evento All-Star mensile" 1 volte! Supera dei livelli di Evento All-Star mensile:
+9421	【80M】Supera liv. di "Evento All-Star mensile" 3 volte! Supera dei livelli di Evento All-Star mensile:
+9422	【80M】Supera liv. di "Evento All-Star mensile" 5 volte! Supera dei livelli di Evento All-Star mensile:
+9423	【80M DL】Supera tutte le missioni evento. e ottieni 1 pezzo di platino!

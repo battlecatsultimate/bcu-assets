@@ -217,3 +217,5 @@
 336	Assalto terra-aria
 97	Composto proibito
 337	Berserker
+338	Pigro angelico
+339	Fine oscura per le feste

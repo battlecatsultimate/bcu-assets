@@ -217,3 +217,5 @@
 336	Land-Air Assault
 97	Forbidden Compound
 337	Berserkers
+338	Truant Angel
+339	Dark End to the Holiday

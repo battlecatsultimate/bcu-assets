@@ -186,7 +186,7 @@
 185	Hearscht	Hearscht CC	Revolutionary Hearscht CC
 186	Cornelia	Cornelia CC	
 187	Juvens	Juvens CC	Holiday Juvens CC
-188	Mystica	Mystica CC	
+188	Mystica	Mystica CC	Savior Mystica CC
 189	Alois	Alois CC	
 190	Citrouille	Citrouille CC	
 191	Titi	Titi CC	Titi Cat CC
@@ -504,7 +504,7 @@
 503			
 504			
 505	Implacable Gladios	Destructeur Gladios	Dieu empereur Gladios
-506	Eyewaltz	Eyewaltz CC	
+506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC
 507	Forfélin	Superchat	
 508	Ryu Cat	Ryu Cat CC	
 509	Chun-Li Cat	Chun-Li Cat CC	
@@ -629,7 +629,7 @@
 628			
 629	Chat sous contrôle	Chat macho sous contrôle	
 630	Challigraphe	Chat maître du thé	
-631	Yamii	Yaminoir	
+631	Yamii	Yaminoir	Yaminora
 632	Puissant Dess-truk-teur	Diabolosa brise-siège	Diabolosa oblitératrice
 633	Moineau shitakiri	Chasseurs Chunchun	
 634	Cyclope chevalier blanc	Cyclope chevalier noir	
@@ -642,7 +642,7 @@
 641	Iz la danseuse	Iz la danseuse séduisante	
 642	Lucifer le déchu	Grand Lucifer	Lucifer Tout-puissant
 643	Super félin	Super félin II	Super félin ultime
-644	Mekako bel amour	Mekako douce-amère	
+644	Mekako bel amour	Mekako douce-amère	Mekako amour mentholé
 645	Chat borgne sous contrôle	Chardi sous contrôle	
 646	Chat pétard	Chat pétard macho	
 647	Terun chasseresse	Terun chasseresse ζ	
@@ -690,3 +690,9 @@
 689			
 690	Phono l’enfant du destin	Phonoa l’enfant du destin	
 691	Œuf ancien N000	Œuf d’occasion N000	Seigneur gorille Luza
+692	Issun Boshi	Oni Trembleur Kozuchimaru	
+693	Détective Gravitas blanc	Détective Gravitas noir	
+694	Chat titan sous contrôle	Chat titan myth. sous contr.	
+695	Chat tank tueur	Chat tank tueur ultime	
+696	Chat délégué de classe	Chat délégué furtif	
+697	Œuf ancien N107	Œuf violet N107	Chef Chat

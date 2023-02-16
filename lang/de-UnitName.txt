@@ -186,7 +186,7 @@
 185	Hearscht	Hearscht CC	Revolutionary Hearscht CC
 186	Cornelia	Cornelia CC	
 187	Juvens	Juvens CC	Holiday Juvens CC
-188	Mystica	Mystica CC	
+188	Mystica	Mystica CC	Savior Mystica CC
 189	Alois	Alois CC	
 190	Citrouille	Citrouille CC	
 191	Titi	Titi CC	Titi Cat CC
@@ -504,7 +504,7 @@
 503			
 504			
 505	Unermüdlicher Gladios	Gladios der Vernichter	Gladios der Gottkaiser
-506	Eyewaltz	Eyewaltz CC	
+506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC
 507	Machtkatze	Superkatze	
 508	Ryu Cat	Ryu Cat CC	
 509	Chun-Li Cat	Chun-Li Cat CC	
@@ -629,7 +629,7 @@
 628			
 629	Gehirngewaschene Katze	Gehirngewaschene Macho-Katze	
 630	Kalligraphie-Katze	Teemeister-Katze	
-631	Yamii	Yaminoir	
+631	Yamii	Yaminoir	Yaminora
 632	Mächtiger Zer-Nicht-R	Belagerungsläufer Diabolosa	Auslöscher Diabolosa
 633	Shitakari-Spatz	Chunchun-Spuker	
 634	Weißer-Ritter-Zyklop	Schwarzer-Ritter-Zyklop	
@@ -642,7 +642,7 @@
 641	Iz die Tänzerin	Iz die reizende Tänzerin	
 642	Luzifer der Gefallene	Großer Luzifer	Allmächtiger Luzifer
 643	Superkatze	Superkatze II	Wahre Superkatze
-644	Süße-Liebe-Mekako	Bittersüße Mekako	
+644	Süße-Liebe-Mekako	Bittersüße Mekako	Minzliebe Mekako
 645	Gehirngewaschene Axtkatze	Gehirngewaschene Kühne Katze	
 646	Böllerkatze	Macho-Böllerkatze	
 647	Jägerin Terun	Jägerin Terun ζ	
@@ -690,3 +690,9 @@
 689			
 690	Schicksalskind Phono	Schicksalskönig Phonoa	
 691	Uraltes Ei: N000	Second-Hand-Ei: N000	Affenlord Uza
+692	Issun Boshi	Oni-Aufmischer Kozuchimaru	
+693	Weißer Butler Vigler	Schwarzer Butler Vigler	
+694	Gehirngewaschene Titanenk.	Gehirngew. myth. Titanenk.	
+695	Killer-Panzer-Katze	Wahre Killer-Panzer-Katze	
+696	Klassensprecherkater	Tarn-Klassensprecherkater	
+697	Uraltes Ei: N107	Violettes Ei: N107	Häuptlingskatze

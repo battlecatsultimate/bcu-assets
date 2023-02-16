@@ -141,6 +141,7 @@
 183	Gelbes Behem.-Juw.
 184	Ep. Behem.-Stein
 185	Legend. Glücksb.
+186	Liebesbrief
 1005	Bronzekatze
 1100	Bronzekatze
 1001	Sporttagkatze
@@ -253,6 +254,7 @@
 1178	Yuma Kuga & Cat
 1061	Uraltes Ei: N004
 1062	Uraltes Ei: N000
+1063	Killer-Panzer-Katze
 19001	Irokatze
 19002	Radierkatze
 19003	Dunkle Katze
@@ -385,6 +387,7 @@
 10184	Cat Kart P
 15186	Revolutionary Hearscht CC
 15188	Holiday Juvens CC
+15189	Savior Mystica CC
 10192	Titi Cat CC
 15195	Inferno-Akira
 15196	Raketen-Mekako
@@ -512,6 +515,7 @@
 15497	Unsterbliche Kaihime
 15503	Himmlische Myrcia
 15506	Gladios der Gottkaiser
+15507	Nameless Eyewaltz CC
 15512	Kage
 15520	Wiedergeborener Lasvoss
 10522	Nagakatze
@@ -540,9 +544,11 @@
 15615	Die Sonnenglut des Südens
 15619	Unsterblicher Amakusa
 15620	Himmlische Lilin π
+15632	Yaminora
 15633	Auslöscher Diabolosa
 15643	Allmächtiger Luzifer
 19010	Wahre Superkatze
+15645	Minzliebe Mekako
 16654	Erwachte Naala
 15657	Haniwa-Katze
 15659	Kurierkatze
@@ -556,6 +562,7 @@
 15677	Pilzkatze
 15686	Supersportwagen-Katze
 15692	Affenlord Uza
+15698	Häuptlingskatze
 30000	Angriff + D: Rot
 30001	Angriff + C: Rot
 30002	Angriff + B: Rot
@@ -711,3 +718,28 @@
 30152	„Stark“-Effekt + B: Zombie
 30153	„Stark“-Effekt + A: Zombie
 30154	„Stark“-Effekt + S: Zombie
+30155	Angriff + D: Aku
+30156	Angriff + C: Aku
+30157	Angriff + B: Aku
+30158	Angriff + A: Aku
+30159	Angriff + S: Aku
+30160	Verteidigung + D: Aku
+30161	Verteidigung + C: Aku
+30162	Verteidigung + B: Aku
+30163	Verteidigung + A: Aku
+30164	Verteidigung + S: Aku
+30165	"Stark"-Effekt + D: Aku
+30166	"Stark"-Effekt + C: Aku
+30167	"Stark"-Effekt + B: Aku
+30168	"Stark"-Effekt + A: Aku
+30169	"Stark"-Effekt + S: Aku
+30170	Heftiger Schaden + D: Aku
+30171	Heftiger Schaden + C: Aku
+30172	Heftiger Schaden + B: Aku
+30173	Heftiger Schaden + A: Aku
+30174	Heftiger Schaden + S: Aku
+30175	„Stark“-Effekt + D: Aku
+30176	„Stark“-Effekt + C: Aku
+30177	„Stark“-Effekt + B: Aku
+30178	„Stark“-Effekt + A: Aku
+30179	„Stark“-Effekt + S: Aku

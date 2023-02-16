@@ -629,7 +629,7 @@
 628	Dragon Jockey Cat	Dragon Jockey Cat Evolved	
 629	Brainwashed Cat	Brainwashed Macho Cat
 630	Calligraphy Cat	Tea Master Cat
-631	Yamii	Yaminoir	Yaminoirld
+631	Yamii	Yaminoir	Yaminora
 632	Mighty Deth-Troy-R	Siege Walker Diabolosa	Obliterator Diabolosa
 633	Shitakiri Sparrow	Chunchun Haunters	
 634	White Knight Cyclops	Black Knight Cyclops	
@@ -642,7 +642,7 @@
 641	Iz the Dancer	Iz the Alluring Dancer	
 642	Lucifer the Fallen	Grand Lucifer	Almighty Lucifer
 643	Superfeline	Superfeline II	True Superfeline
-644	Sweet Love Mekako	Bittersweet Mekako	LOVE Mint Mekako
+644	Sweet Love Mekako	Bittersweet Mekako	Minty Love Mekako
 645	Brainwashed Axe Cat	Brainwashed Brave Cat	
 646	Firecracker Cat	Macho Firecracker Cat	
 647	Huntress Terun	Huntress Terun ζ
@@ -690,9 +690,9 @@
 689	10 Years on a Stone Cat	10 Years on a Stone Cat Statue
 690	Child of Destiny Phono	King of Destiny Phonoa	
 691	Ancient Egg: N000	Elder Egg: N000	Ape Lord Luza
-692	Issun Boshi	Demon Attack Boat Kozuchimaru
-693	White Butler Detective Vigler	Black Butler Inspector Gabriel
-694	Brainwashed Titan Cat	Brainwashed Mythical Titan Cat
-695	Killer Tank Cat	True Killer Tank Cat
-696	Chairman Cat	Back Chairman Cat
-697	Ancient Egg: N107	Violet Egg N107	Chief Cat
+692	Issun Boshi	Oni Landshaker Kozuchimaru	
+693	White Butler Vigler	Black Butler Vigler	
+694	Brainwashed Titan Cat	Brainwashed Mythic Titan	
+695	Killer Tank Cat	True Killer Tank Cat	
+696	Class Rep Cat	Stealth Class Rep Cat	
+697	Ancient Egg: N107	Violet Egg: N107	Cat Chief

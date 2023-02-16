@@ -186,7 +186,7 @@
 185	Hearscht	Hearscht CC	Revolutionary Hearscht CC
 186	Cornelia	Cornelia CC	
 187	Juvens	Juvens CC	Holiday Juvens CC
-188	Mystica	Mystica CC	
+188	Mystica	Mystica CC	Savior Mystica CC
 189	Alois	Alois CC	
 190	Citrouille	Citrouille CC	
 191	Titi	Titi CC	Titi Cat CC
@@ -504,7 +504,7 @@
 503			
 504			
 505	Implacabile Gladios	Gladios il distruttore	Gladios Dio-Imperatore
-506	Eyewaltz	Eyewaltz CC	
+506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC
 507	Gattoman	Supergat	
 508	Ryu Cat	Ryu Cat CC	
 509	Chun-Li Cat	Chun-Li Cat CC	
@@ -629,7 +629,7 @@
 628			
 629	Gatto plagiato	Gatto macho plagiato	
 630	Gatto calligrafo	Gatto maestro del tè	
-631	Yamii	Yaminoir	
+631	Yamii	Yaminoir	Yaminora
 632	Deth-Troy-R possente	Mech da assedio Diabolosa	Diabolosa obliterante
 633	Passero Shitakiri	Acchiappafantasmi	
 634	Cavaliere bianco ciclope	Cavaliere nero ciclope	
@@ -642,7 +642,7 @@
 641	Iz ballerina	Iz ballerina seducente	
 642	Lucifero caduto	Lucifero il Grande	Lucifero Onnipotente
 643	Superfelino	Superfelino II	Superfelino Reale
-644	Mekako dolce amore	Mekako dolceamara	
+644	Mekako dolce amore	Mekako dolceamara	Mekako fresco amore
 645	Gatto ascia plagiato	Gatto prode plagiato	
 646	Gatto petardo	Gatto petardo macho	
 647	Terun cacciatrice	Terun cacciatrice ζ	
@@ -690,3 +690,9 @@
 689			
 690	Phono figlio del destino	Phonoa re del destino	
 691	Uovo antico N000	Uovo di seconda mano N000	Luza lo scimmione
+692	Issun Boshi	Oni Landshaker Kozuchimaru	
+693	Maggiordomo bianco Vigler	Maggiordomo nero Vigler	
+694	Gatto Titano plagiato	Gatto Titano plagiato mitico	
+695	Gatto Panzer assassino	Vero Gatto Panzer assassino	
+696	Gatto rappresentante	Gatto rappresentante furtivo	
+697	Uovo antico N107	Uovo viola N107	Gatto capo

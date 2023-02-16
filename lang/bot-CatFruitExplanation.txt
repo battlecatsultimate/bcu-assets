@@ -186,7 +186,7 @@
 185	True Form evolution gains improved<br>defense, move speed, and attack range!<br>Critical attack chance is also improved!
 186	<br><br>
 187	True Form evolution gains improved defense<br>and attack speed, but attack power is<br>weakened. Might Dodge Angel attacks!
-188	<br><br>
+188	True Form gains increased Attack!<br>Also gains 100% chance to Slow <br>Black and Aku.
 189	<br><br>
 190	<br><br>
 191	<br><br>
@@ -226,7 +226,7 @@
 225	<br><br>
 226	True Form evolution can attack only Aliens,<br>but defense & attack power is massively <br>increased! Also resists repeated debuffs.
 227	True Form evolution is stronger against<br>Black enemies! Also gains Behemoth<br>Slayer!
-228	True Form gains<br>Wave Shield!<br>
+228	True Form blocks Wave Attacks.<br>Plus Immunity to Wave attacks.<br>
 229	<br><br>
 230	<br><br>
 231	<br><br>
@@ -504,7 +504,7 @@
 503	<br><br>
 504	<br><br>
 505	True Form evolution gains improved<br>defense. Plus, gains 100% Knockback<br>and Slow vs Traitless enemies!
-506	<br><br>
+506	True Form gains Wave Attack!<br><br>
 507	<br><br>
 508	<br><br>
 509	<br><br>
@@ -629,7 +629,7 @@
 628	<br><br>
 629	<br><br>
 630	<br><br>
-631	<br><br>
+631	True Form gains significantly increased<br>Attack! Blocks Wave Attacks and<br>gains immunity to Wave Attacks!
 632	True Form gains increased attack!<br>Also gains immunity to enemy Freeze effect!<br>
 633	<br><br>
 634	<br><br>
@@ -642,7 +642,7 @@
 641	<br><br>
 642	True Form evolution increases Defense!<br>Also always unleashes Surge Attacks!<br>
 643	<br><br>
-644	<br><br>
+644	True Form evolution gains attacks <br>that may Freeze Relics, and gains<br>Immunity to ability-blocking Curses.
 645	<br><br>
 646	<br><br>
 647	<br><br>
@@ -690,3 +690,9 @@
 689	<br><br>
 690	<br><br>
 691	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>Plus, immunity to Surge attacks!
+692	<br><br>
+693	<br><br>
+694	<br><br>
+695	<br><br>
+696	<br><br>
+697	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>

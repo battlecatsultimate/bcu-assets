@@ -1343,8 +1343,6 @@
 001-287-005	Northern Crater
 001-287-006	Cold Snowfield
 001-287-007	Final Battleground
-001-288		Lunar New Year's Gifts Galore!
-001-288-000	Happy Festival Cats
 001-289		The March of Flames
 001-289-000	Cave of Beginnings
 001-289-001	Wanderer's Forest
@@ -1476,6 +1474,30 @@
 001-327-003	So #2 You Want to Cry
 001-327-004	Astonishingly #1
 001-327-005	Unseen in 2022
+001-328		80 Million Celebration Gifts Galore!
+001-328-000	Grats! 80 Million DLs!
+001-329		After Story ~Graduation Day~
+001-329-000	Town at Midnight
+001-329-001	Flapping Wings in the Sky
+001-329-002	On a Journey
+001-330		Weekend ~Another Confession~
+001-330-000	One More Courageous Call
+001-330-001	The Dreaded Reply
+001-330-002	"I Really Am Sorry"
+001-331		Weekend ~Another Confession~
+001-331-000	One More Courageous Call
+001-331-001	The Dreaded Reply
+001-331-002	"I'm Busy Studying"
+001-332		Weekend ~Another Confession~
+001-332-000	One More Courageous Call
+001-332-001	The Dreaded Reply
+001-332-002	"I Don't See You Like That"
+001-333		Affliction in the Forest II
+001-333-000	Tip of the Beast’s Tongue
+001-334		Oddity in the Desert II
+001-334-000	Earthshaking Fist
+001-335		Peril in the Volcano II
+001-335-000	Performant Thunderclap
 
 002			Collaboration Stages
 002-003		To the Future
@@ -4235,17 +4257,6 @@
 024-040-007	Confusion Lv.8
 024-040-008	Confusion Lv.9
 024-040-009	Confusion Lv.MAX
-024-041		Festival Cats: Lunar New Year's
-024-041-000	Lunar New Year Already?
-024-041-001	Flashy Fireworks Display
-024-041-002	Cast Out Evil with a Bang
-024-041-003	Begging for Gifts
-024-041-004	Pray for Long Life
-024-041-005	Acrobatic Lion Dance
-024-041-006	Decorate for Luck
-024-041-007	Auspicious Red Lantern
-024-041-008	Stuffed with Dumplings
-024-041-009	Long Road Home
 024-042		Horde of Cats
 024-042-000	Bloodthirsty Lv.1
 024-042-001	Bloodthirsty Lv.2
@@ -4480,6 +4491,17 @@
 024-059-007	Year of the Rabbit Lv.8
 024-059-008	Year of the Rabbit Lv.9
 024-059-009	Year of the Rabbit Lv.MAX
+024-060		Horde of Tank Cats
+024-060-000	Deadly Protection Lv.1
+024-060-001	Deadly Protection Lv.2
+024-060-002	Deadly Protection Lv.3
+024-060-003	Deadly Protection Lv.4
+024-060-004	Deadly Protection Lv.5
+024-060-005	Deadly Protection Lv.6
+024-060-006	Deadly Protection Lv.7
+024-060-007	Deadly Protection Lv.8
+024-060-008	Deadly Protection Lv.9
+024-060-009	Deadly Protection Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -4580,6 +4602,12 @@
 025-062-002	Green Stone Desert 3
 025-062-003	Red Stone Forest 3
 025-062-004	Yellow Stone Volcano 3
+025-063		Bad Instinct's Origin
+025-063-000	Cradle Shrine (Deadly)
+025-064		Bad Instinct's Apex
+025-064-000	Summit Shrine (Merciless)
+025-065		Bad Instinct's Refuge
+025-065-000	Frontier Shrine (Merciless)
 
 027			Collab Gauntlet Stages
 027-000		Messier's Assault
@@ -4806,6 +4834,9 @@
 031-000-008	Deep Jungle Area 9
 031-000-009	Deep Jungle Area 10
 031-000-010	Downpour Jungle Area 11
+031-000-011	Downpour Jungle Area 12
+031-000-012	Downpour Jungle Area 13
+031-000-013	Downpour Jungle Area 14
 031-001		Ashvini Desert
 031-001-000	Badlands Area 1
 031-001-001	Badlands Area 2
@@ -4818,6 +4849,9 @@
 031-001-008	Burning Sands Area 9
 031-001-009	Burning Sands Area 10
 031-001-010	Scorching Sands Area 11
+031-001-011	Scorching Sands Area 12
+031-001-012	Scorching Sands Area 13
+031-001-013	Scorching Sands Area 14
 031-002		Jinfore Volcano
 031-002-000	Magma Tunnel Area 1
 031-002-001	Magma Tunnel Area 2
@@ -4830,6 +4864,9 @@
 031-002-008	Lava Caves Area 9
 031-002-009	Lava Caves Area 10
 031-002-010	Infernal Crater Area 11
+031-002-011	Infernal Crater Area 12
+031-002-012	Infernal Crater Area 13
+031-002-013	Infernal Crater Area 14
 
 033			The Grand Deep
 033-000		The Grand Deep

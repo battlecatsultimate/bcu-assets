@@ -1434,6 +1434,30 @@
 001-327-003	Talmente #2 da piangere
 001-327-004	Sorprendentemente #1
 001-327-005	Non visto nel 2022
+001-328		Festeggiamenti 80 milioni Buon regalo!
+001-328-000	Auguri! 80 milioni!
+001-329		Il seguito: Diploma
+001-329-000	Città a mezzanotte
+001-329-001	Ali che sbattono nel cielo
+001-329-002	In viaggio
+001-330		Weekend: Un'altra dichiarazione
+001-330-000	Un'altra telefonata coraggiosa
+001-330-001	Risultati della dichiarazione
+001-330-002	Mi dispiace tanto
+001-331		Weekend: Un'altra dichiarazione
+001-331-000	Un'altra telefonata coraggiosa
+001-331-001	Risultati della dichiarazione
+001-331-002	Ho molto da studiare
+001-332		Weekend: Un'altra dichiarazione
+001-332-000	Un'altra telefonata coraggiosa
+001-332-001	Risultati della dichiarazione
+001-332-002	Non sembra proprio così
+001-333		Sofferenze nella foresta II
+001-333-000	Punta della lingua della bestia
+001-334		Stranezze nel deserto II
+001-334-000	Pugno scuotiterra
+001-335		Pericoli nel vulcano II
+001-335-000	Rombo di tuono potente
 
 002			Collaboration Stages
 002-003		To the Future
@@ -4377,6 +4401,17 @@
 024-059-007	Anno del coniglio Liv. 8
 024-059-008	Anno del coniglio Liv. 9
 024-059-009	Anno del coniglio Liv. MAX
+024-060		Orda di Gatti Panzer
+024-060-000	Protezione letale Liv. 1
+024-060-001	Protezione letale Liv. 2
+024-060-002	Protezione letale Liv. 3
+024-060-003	Protezione letale Liv. 4
+024-060-004	Protezione letale Liv. 5
+024-060-005	Protezione letale Liv. 6
+024-060-006	Protezione letale Liv. 7
+024-060-007	Protezione letale Liv. 8
+024-060-008	Protezione letale Liv. 9
+024-060-009	Protezione letale Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -4477,6 +4512,12 @@
 025-062-002	Deserto delle pietre verdi 3
 025-062-003	Foresta delle pietre rosse 3
 025-062-004	Vulcano delle pietre gialle 3
+025-063		Origine dell'istinto malvagio
+025-063-000	Santuario della culla (Letale)
+025-064		Apice dell'istinto malvagio
+025-064-000	Santuario della cima (Spietato)
+025-065		Rifugio dell'istinto malvagio
+025-065-000	Santuario di confine (Spietato)
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -4702,6 +4743,9 @@
 031-000-008	Zona della giungla nera 9
 031-000-009	Zona della giungla nera 10
 031-000-010	Zona della giungla amazzonica 11
+031-000-011	Zona della giungla amazzonica 12
+031-000-012	Zona della giungla amazzonica 13
+031-000-013	Zona della giungla amazzonica 14
 031-001		Deserto Ashvini
 031-001-000	Zona calanchiva 1
 031-001-001	Zona calanchiva 2
@@ -4714,6 +4758,9 @@
 031-001-008	Zona delle sabbie ardenti 9
 031-001-009	Zona delle sabbie ardenti 10
 031-001-010	Zona delle sabbie roventi 11
+031-001-011	Zona delle sabbie roventi 12
+031-001-012	Zona delle sabbie roventi 13
+031-001-013	Zona delle sabbie roventi 14
 031-002		Vulcano Jinfore
 031-002-000	Zona magmatica 1
 031-002-001	Zona magmatica 2
@@ -4726,6 +4773,9 @@
 031-002-008	Zona delle grotte laviche 9
 031-002-009	Zona delle grotte laviche 10
 031-002-010	Zona del cratere infernale 11
+031-002-011	Zona del cratere infernale 12
+031-002-012	Zona del cratere infernale 13
+031-002-013	Zona del cratere infernale 14
 
 033			Grande profondità
 033-000		Grande profondità

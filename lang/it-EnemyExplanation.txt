@@ -631,3 +631,5 @@
 630	Vaga per i mondi lasciando una scia <br>di distruzione e creazione. La sua<br>composizione è misteriosa quanto il suo potere.<br>È immune a tutti gli effetti negativi.
 631	
 632	
+633	
+634	Un apprezzato scultore che vive nella natura. <br>Ha fatto un patto Aku per ottenere la visione a raggi X<br>per scolpire meglio soggetti nudi, ma ora<br>vede attraverso i vestiti e la pelle, fino alle ossa...

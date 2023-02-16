@@ -186,7 +186,7 @@
 185	La Forma Reale ottiene maggiori<br>difesa, velocità e raggio d'attacco!<br>Aumenta la possibilità di attacco critico!
 186	<br><br>
 187	La Forma Reale ottiene maggiore velocità<br>di difesa e attacco, ma la potenza d'attacco<br>diminuisce. Può schivare attacchi di angelici!
-188	<br><br>
+188	Forma Reale ha più potenza d'attacco!<br>E rallenta al 100% <br>nemici neri e Aku.
 189	<br><br>
 190	<br><br>
 191	<br><br>
@@ -226,7 +226,7 @@
 225	<br><br>
 226	La Forma Reale può attaccare solo alieni,<br>ma potenza d'attacco e difesa aumentano<br>moltissimo! Resiste a ripetuti debuff.
 227	La Forma Reale è efficace contro<br>nemici neri! Ottiene anche Ammazza<br>Behemoth!
-228	La Forma Reale ottiene<br>Scudo ondate!<br>
+228	Forma Reale blocca attacchi a ondata.<br>Più immunità da attacchi a ondata.<br>
 229	<br><br>
 230	<br><br>
 231	<br><br>
@@ -504,7 +504,7 @@
 503	<br><br>
 504	<br><br>
 505	La Forma Reale ottiene maggiore<br>difesa. Inoltre, ottiene 100% respinte<br>e rallentamento vs nemici senza tratti.
-506	<br><br>
+506	Forma Reale ottiene attacchi a ondata!<br><br>
 507	<br><br>
 508	<br><br>
 509	<br><br>
@@ -629,7 +629,7 @@
 628	<br><br>
 629	<br><br>
 630	<br><br>
-631	<br><br>
+631	Forma Reale ottiene maggiore attacco!<br>Blocca attacchi a ondata e<br>ottiene immunità da attacchi a ondata!
 632	Forma Reale ha maggiore potenza d'attacco!<br>Immune all'effetto Immobilità dei nemici!<br>
 633	<br><br>
 634	<br><br>
@@ -642,7 +642,7 @@
 641	<br><br>
 642	La Forma Reale ottiene maggiore difesa!<br>Inoltre, scatena sempre attacchi a valanga!<br>
 643	<br><br>
-644	<br><br>
+644	Forma Reale ottiene attacchi che possono<br>immobilizzare antichi, ed è immune alle<br>malediz. che bloccano abilità alleate.
 645	<br><br>
 646	<br><br>
 647	<br><br>
@@ -690,3 +690,9 @@
 689	<br><br>
 690	<br><br>
 691	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>Più immunità da attacchi a valanga!
+692	<br><br>
+693	<br><br>
+694	<br><br>
+695	<br><br>
+696	<br><br>
+697	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>

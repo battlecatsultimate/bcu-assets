@@ -217,3 +217,5 @@
 336	Asalto tierra-aire
 97	Recinto prohibido
 337	Frenéticos
+338	Ángel holgazán
+339	Mal fin de las vacaciones

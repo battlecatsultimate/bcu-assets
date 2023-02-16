@@ -186,7 +186,7 @@
 185	Wahre-Form-Entwicklung erhöht Vert.<br>Bewegungstempo und Angriffsreichweite!<br>Chance auf Haudrauf-Treffer ist zudem erhöht!
 186	<br><br>
 187	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffstempo, aber Angriffskraft ist<br>niedriger. Kann Engel-Angriffen ausweichen!
-188	<br><br>
+188	Wahre Form erhöht Angriff!<br>Lähmt zudem garantiert <br>schwarze Feinde und Aku.
 189	<br><br>
 190	<br><br>
 191	<br><br>
@@ -226,7 +226,7 @@
 225	<br><br>
 226	Wahre Form greift nur Aliens an,<br>aber Verteidigung & Angriffskraft sind höher!<br>Resistent gegen wiederholte Schwächungen.
 227	Wahre-Form-Entwicklung ist stärker gegen<br>schwarze Feinde! Erhält zudem<br>„Behemothtöter“!
-228	Wahre Form gewährt<br>Wellenschild!<br>
+228	Wahre Form blockiert Wellenangriffe.<br>Immunität gegen Wellenangriffe.<br>
 229	<br><br>
 230	<br><br>
 231	<br><br>
@@ -504,7 +504,7 @@
 503	<br><br>
 504	<br><br>
 505	Wahre-Form-Entwicklung erhöht<br>Verteidigung. Gewährt zudem garantierten<br>Rückstoß und verlangs. wertelose Feinde!
-506	<br><br>
+506	Wahre Form gewährt Wellenangriff!<br><br>
 507	<br><br>
 508	<br><br>
 509	<br><br>
@@ -629,7 +629,7 @@
 628	<br><br>
 629	<br><br>
 630	<br><br>
-631	<br><br>
+631	Wahre-Form-Gewinne deutlich erhöht<br>Angreifen! Blockiert Wellenangriffe und<br>erhält Immunität gegen Wellenangriffe!
 632	Wahre Form erhöht Angriff!<br>Immun gegen feindlichen Einfrieren-Effekt!<br>
 633	<br><br>
 634	<br><br>
@@ -642,7 +642,7 @@
 641	<br><br>
 642	Wahre-Form-Entwicklung erhöht Verteidigung!<br>Entfesselt immer Zufallsangriffe!<br>
 643	<br><br>
-644	<br><br>
+644	Wahre-Form-Entwicklung erhöht Angriffe,<br>die Relikte einfr., und erhält Immunität<br>gg. Flüche, die Verb.-Fähig. blockieren.
 645	<br><br>
 646	<br><br>
 647	<br><br>
@@ -690,3 +690,9 @@
 689	<br><br>
 690	<br><br>
 691	Wahre-Form-Entwicklung enthüllt Endform!<br>Erhält zudem „Behemothtöter“!<br>Zudem Immunität gegen Zufallsangriffe!
+692	<br><br>
+693	<br><br>
+694	<br><br>
+695	<br><br>
+696	<br><br>
+697	Wahre-Form-Entwicklung enthüllt<br>Erhält zudem "Behemothtöter"!<br>

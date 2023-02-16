@@ -141,6 +141,7 @@
 183	Yellow B. Gem
 184	Epic B. Stone
 185	Legendary Charm
+186	Love Letter
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -253,6 +254,7 @@
 1178	Yuma Kuga & Cat
 1061	Ancient Egg: N004
 1062	Ancient Egg: N000
+1063	Killer Tank Cat
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -385,6 +387,7 @@
 10184	Cat Kart P
 15186	Revolutionary Hearscht CC
 15188	Holiday Juvens CC
+15189	Savior Mystica CC
 10192	Titi Cat CC
 15195	Inferno Akira
 15196	Mission Control Mekako
@@ -512,6 +515,7 @@
 15497	Immortal Kaihime
 15503	Divine Myrcia
 15506	God-Emperor Gladios
+15507	Nameless Eyewaltz CC
 15512	Kage
 15520	Lasvoss Reborn
 10522	Naga Cat
@@ -540,9 +544,11 @@
 15615	The Southern Sunflare
 15619	Immortal Amakusa
 15620	Divine Lilin π
+15632	Yaminora
 15633	Obliterator Diabolosa
 15643	Almighty Lucifer
 19010	True Superfeline
+15645	Minty Love Mekako
 16654	Awakened Naala
 15657	Haniwa Cat
 15659	Courier Cat
@@ -556,6 +562,7 @@
 15677	Mushroom Cat
 15686	Supercar Cat
 15692	Ape Lord Luza
+15698	Cat Chief
 30000	Attack Up D: Red
 30001	Attack Up C: Red
 30002	Attack Up B: Red
@@ -711,3 +718,28 @@
 30152	Resistant Effect Up B: Zombie
 30153	Resistant Effect Up A: Zombie
 30154	Resistant Effect Up S: Zombie
+30155	Attack Up D: Aku
+30156	Attack Up C: Aku
+30157	Attack Up B: Aku
+30158	Attack Up A: Aku
+30159	Attack Up S: Aku
+30160	Defense Up D: Aku
+30161	Defense Up C: Aku
+30162	Defense Up B: Aku
+30163	Defense Up A: Aku
+30164	Defense Up S: Aku
+30165	Strong Effect Up D: Aku
+30166	Strong Effect Up C: Aku
+30167	Strong Effect Up B: Aku
+30168	Strong Effect Up A: Aku
+30169	Strong Effect Up S: Aku
+30170	Massive Damage Up D: Aku
+30171	Massive Damage Up C: Aku
+30172	Massive Damage Up B: Aku
+30173	Massive Damage Up A: Aku
+30174	Massive Damage Up S: Aku
+30175	Resistant Effect Up D: Aku
+30176	Resistant Effect Up C: Aku
+30177	Resistant Effect Up B: Aku
+30178	Resistant Effect Up A: Aku
+30179	Resistant Effect Up S: Aku

@@ -186,7 +186,7 @@
 185	La forma final tiene más defensa,<br>velocidad de movimiento y alcance, además de<br>mayor probabilidad de infligir daño crítico.
 186	<br><br>
 187	La forma final tiene más defensa<br>y velocidad de ataque, pero se reduce su<br>poder. Puede esquivar ataques de ángeles.
-188	<br><br>
+188	¡La forma final tiene más ataque!<br>Y siempre ralentiza. <br>Negro y aku.
 189	<br><br>
 190	<br><br>
 191	<br><br>
@@ -226,7 +226,7 @@
 225	<br><br>
 226	La forma final solo ataca a álienes,<br>pero tiene una defensa y un poder de ataque<br>mucho mayores y resiste a penalizaciones.
 227	La forma final es más fuerte contra<br>enemigos negros. ¡También gana<br>Matamastodondes!
-228	La forma final tiene<br>escudo contra oleada.<br>
+228	La forma final bloquea oleadas.<br>Y es inmune a las oleadas.<br>
 229	<br><br>
 230	<br><br>
 231	<br><br>
@@ -504,7 +504,7 @@
 503	<br><br>
 504	<br><br>
 505	La forma final tiene una mayor defensa<br>y siempre repele y ralentiza<br>a enemigos sin rasgos.
-506	<br><br>
+506	¡La forma final tiene oleada!<br><br>
 507	<br><br>
 508	<br><br>
 509	<br><br>
@@ -629,7 +629,7 @@
 628	<br><br>
 629	<br><br>
 630	<br><br>
-631	<br><br>
+631	La forma final gana mucho más Ataque.<br>Bloquea oleadas y<br>es inmune a las oleadas.
 632	La forma final tiene más ataque.<br>También es inmune a la paralización.<br>
 633	<br><br>
 634	<br><br>
@@ -642,7 +642,7 @@
 641	<br><br>
 642	Su forma final tiene más defensa.<br>¡También lanza réplicas!<br>
 643	<br><br>
-644	<br><br>
+644	La forma final gana ataques que pueden<br>paralizar a reliquias y es inmune a<br>maldiciones que bloquean habilidades.
 645	<br><br>
 646	<br><br>
 647	<br><br>
@@ -690,3 +690,9 @@
 689	<br><br>
 690	<br><br>
 691	¡La forma final revela su apariencia real!<br>¡También es matamastodontes!<br>¡Y es inmune a las réplicas!
+692	<br><br>
+693	<br><br>
+694	<br><br>
+695	<br><br>
+696	<br><br>
+697	La forma final revela su apariencia real<br>¡También gana matamastodontes!<br>

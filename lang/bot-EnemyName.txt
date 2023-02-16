@@ -567,7 +567,7 @@
 566	
 567	
 568	
-569	
+569	Wicked Titan Cat
 570	Dark Priest Mamon
 571	High Priest Mamon
 572	Lord of Ruin Jagando
@@ -632,4 +632,4 @@
 631	Rabbit Doge
 632	Relic Base
 633	Killer Tank Cat
-634	Super Tongue Beast Langumaster
+634	Vermilingua Rangmaster

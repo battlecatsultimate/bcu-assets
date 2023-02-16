@@ -217,3 +217,5 @@
 336	Assaut sol-air
 97	Complexe interdit
 337	Berserkers
+338	Ange absentéiste
+339	Sombre fin des vacances

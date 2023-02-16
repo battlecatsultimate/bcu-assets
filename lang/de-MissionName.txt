@@ -716,6 +716,9 @@
 9375	Clear 50  "Ranma 1/2" collab stages
 52	Schließe 25 aller Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
 53	Schließe 30 aller Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+9376	Clear stages from "Merc Storia Collab"
+9377	Clear stages from "Merc Storia Collab"
+9378	Clear stages from "Merc Storia Collab"
 9379	Schließe Ebene 40 des Höllischen Turms ab. * Belohnung kann nur einmal eingefordert werden
 54	Schließe „XP-Goldgrube“ ab! Meistere die Mission,. indem du alle Level in „XP-Goldgrube“ abschließt
 9380	Clear stages from "River City Cat Clash"
@@ -731,3 +734,13 @@
 9409	Schließe 15-mal „Mond-Neujahr“-Level ab!
 9410	Schließe 20-mal „Mond-Neujahr“-Level ab!
 9411	Schließe 30-mal „Mond-Neujahr“-Level ab!
+56	Schließe 35 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in "Über Herausforderungen"
+9415	【80 Mio. DL】 Schicke Gamatoto auf 1 erfolgr. Expeditionen!
+9416	【80 Mio. DL】 Schicke Gamatoto auf 5 erfolg. Expeditionen!
+9417	【80 Mio. DL】Schließ 1x Fröhl. Geschenk für 80 Mio. DLs ab!
+9418	【80 Mio. DL】Schließ 2x Fröhl. Geschenk für 80 Mio. DLs ab!
+9419	【80 Mio. DL】Schließ 3x Fröhl. Geschenk für 80 Mio. DLs ab!
+9420	【80 Mio. DL】Schließ 1x Level von "Monatl. Event-Stars" ab!
+9421	【80 Mio. DL】Schließ 3x Level von "Monatl. Event-Stars" ab!
+9422	【80 Mio. DL】Schließ 5x Level von "Monatl. Event-Stars" ab!
+9423	【80 Mio. DL】Schließe alle Eventmissionen ab. und verdiene 1 Platinsplitter!

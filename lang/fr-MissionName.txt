@@ -716,6 +716,9 @@
 9375	Clear 50  "Ranma 1/2" collab stages
 52	Termine 25 niveaux Abattage de Béhémoths pour la 1re fois
 53	Termine 30 niveaux Abattage de Béhémoths pour la 1re fois
+9376	Clear stages from "Merc Storia Collab"
+9377	Clear stages from "Merc Storia Collab"
+9378	Clear stages from "Merc Storia Collab"
 9379	Termine le 40e étage de la Tour infernale. * Récompense à récupérer une seule fois
 54	Termine Moisson d'XP ! Réussis en terminant tous les niveaux de Moisson d'XP !
 9380	Clear stages from "River City Cat Clash"
@@ -731,3 +734,6 @@
 9409	Termine les niv. Nouvel An lunaire 15 fois !
 9410	Termine les niv. Nouvel An lunaire 20 fois !
 9411	Termine les niv. Nouvel An lunaire 30 fois !
+56	Termine 35 niv. Abattage de Béhémoths pour la 1re fois
+9415	【80 M de joueurs】Réussis 1 expéditions avec Gamatoto !
+9416	【80 M de joueurs】Réussis 5 expéditions avec Gamatoto !
