@@ -62,6 +62,7 @@ E19	June Bride of Devil Capsules
 E20	Summer Break Capsules
 E21	10th Anniversary Memorial Capsules
 E22	New Moon Capsules
+E23	Love Letter Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -745,3 +746,11 @@ N64	Silver + Capsules
 793	-104	692
 794	-107	692
 795	-113	694
+796	-1011	693
+797	-109	699, 684, 654, 629
+798	-6	698
+799	-6	698
+800	-105	698
+801	-106	698
+802	-104	698
+803	-107	698

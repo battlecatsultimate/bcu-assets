@@ -327,7 +327,7 @@
 326	Mobius	Miraculous Mobius	
 327	Belial	Reckless Belial	
 328	Happy 100	Heartful Happy 100	
-329	Eggy Cat	Easter Cat	
+329	Eggy Cat	Easter Cat	Eggy Cat 3
 330	Springtime Kenshin	Full-Bloom Kenshin	Spring Breeze Kenshin
 331	Bunny & Canard	Disciple Psychoduck	Malevolent Mad-Duck
 332	Easter Neneko	Hoppity Neneko	Blossoming Neneko
@@ -448,7 +448,7 @@
 447	Miter Saw Cat	Power Saw Cat	Neo Saw Cat
 448	Musashi Miyamoto	Wargod Miyamoto	
 449	Headmistress Jeanne	Headmistress Jeanne ψ	
-450	High Lord Babel	Babel the Darkflame	
+450	High Lord Babel	Babel the Darkflame	God-Emperor Babel
 451	Ushiwakamaru	Colossal Benkei	
 452	Primordial Cat	Modern Cat	Future Cat
 453			
@@ -537,7 +537,7 @@
 536	Sakura Miku	Sakura Miku CC	
 537	Kagamine Rin & Len	Kagamine Rin & Len CC	
 538	Miku Cat	Miku Cat CC	
-539	Rugby Cat	Quarterback Cat	
+539	Rugby Cat	Quarterback Cat	Apocalypse Cat
 540			
 541			
 542			
@@ -615,7 +615,7 @@
 614	Kaguya of the Coast	The Southern Sun	The Southern Sunflare
 615	Kabuto Cat	Golden Kabuto Cat
 616	Kuwagata Cat	King Kuwagata Cat
-617	Summoner Satoru	Dark Summoner Satoru	
+617	Summoner Satoru	Dark Summoner Satoru	Devil Hunter Satoru
 618	Shiro Amakusa	Wargod Amakusa	Immortal Amakusa
 619	Lilin	Lilin π	Divine Lilin π
 620	Hevijak the Wicked	Wicked King Hevijak	
@@ -696,3 +696,10 @@
 695	Killer Tank Cat	True Killer Tank Cat	
 696	Class Rep Cat	Stealth Class Rep Cat	
 697	Ancient Egg: N107	Violet Egg: N107	Cat Chief
+698	Thunder Jack	Bloody Jack
+699	Battle Boy Rabbit Satoru	Battle Prince Rabbit Satoru
+700	Ancient Egg: N005	Mystic Egg: N005	Cat Hitman
+701	Kamen Rider Cat	Shin Kamen Rider Cat
+702	Godzilla Cat	Shin Godzilla Cat
+703	Evangelion Cat	Shin Evangelion Cat
+704	Ultraman Cat	Shin Ultraman Cat
