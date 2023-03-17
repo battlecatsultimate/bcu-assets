@@ -572,8 +572,8 @@
 571	High Priest Mamon
 572	Lord of Ruin Jagando
 573	Possessed Empress
-574	Woke Aku Base
-575	Inactive Aku Base
+574	Aku Altar (Activated)
+575	Aku Altar (Deactivated)
 576	White Ball
 577	Red Ball
 578	Metal Ball
