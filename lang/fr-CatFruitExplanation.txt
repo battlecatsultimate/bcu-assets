@@ -696,10 +696,10 @@
 695	<br><br>
 696	<br><br>
 697	La forme ultime révèle son aspect final<br>Et gagne Fléau des Béhémoths !<br>
-698	@<br>@<br>@
-699	@<br>@<br>@
+698	<br><br>
+699	<br><br>
 700	La forme ultime révèle son aspect final.<br>Gagne également att. longue portée<br>et immun. vagues offensives.
-701	@<br>@<br>@
-702	@<br>@<br>@
-703	@<br>@<br>@
-704	@<br>@<br>@
+701	<br><br>
+702	<br><br>
+703	<br><br>
+704	<br><br>

@@ -696,10 +696,10 @@
 695	<br><br>
 696	<br><br>
 697	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
-698	@<br>@<br>@
-699	@<br>@<br>@
+698	<br><br>
+699	<br><br>
 700	True Form evolution reveals its final form!<br>Also gains Long-range attacks and<br>immunity to Wave attacks!
-701	@<br>@<br>@
-702	@<br>@<br>@
-703	@<br>@<br>@
-704	@<br>@<br>@
+701	<br><br>
+702	<br><br>
+703	<br><br>
+704	<br><br>
