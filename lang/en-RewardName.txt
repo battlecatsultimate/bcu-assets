@@ -142,6 +142,14 @@
 184	Epic B. Stone
 185	Legendary Charm
 186	Love Letter
+187	Brick Z
+188	Feathers Z
+189	Coal Z
+190	Sprockets Z
+191	Gold Z
+192	Meteorite Z
+193	Beast Bones Z
+194	Ammonite Z
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -255,6 +263,7 @@
 1061	Ancient Egg: N004
 1062	Ancient Egg: N000
 1063	Killer Tank Cat
+1064	Ancient Egg N005
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -449,6 +458,7 @@
 16324	Awakened Musashi
 10325	Green Shell Cat
 15326	Ectoweight Cat
+10330	Easter Egg Cat
 15331	Spring Breeze Kenshin
 15332	Malevolent Mad-Duck
 15333	Blossoming Neneko
@@ -502,7 +512,9 @@
 15446	Neo Cutter Cat
 15447	Neo Backhoe Cat
 15448	Neo Saw Cat
+15451	God-Emperor Babel
 10453	Future Cat
+15457	Dark Sakura CC
 16463	Metafilibuster
 16465	Reborn Warrior Doguemon
 15468	Super S-Zeus
@@ -526,6 +538,7 @@
 16533	Awakened Urs
 15534	Bad Blaster Saki
 15535	Almighty Hades
+10540	Gridiron Cat
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
 15564	Aquablaster Saki
@@ -542,6 +555,7 @@
 15611	King Nekokhamen
 16614	Awakened Doron
 15615	The Southern Sunflare
+15618	Devil Hunter Satoru
 15619	Immortal Amakusa
 15620	Divine Lilin π
 15632	Yaminora
@@ -563,6 +577,7 @@
 15686	Supercar Cat
 15692	Ape Lord Luza
 15698	Cat Chief
+15701	Hitman Cat
 30000	Attack Up D: Red
 30001	Attack Up C: Red
 30002	Attack Up B: Red

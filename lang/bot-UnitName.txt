@@ -327,7 +327,7 @@
 326	Mobius	Miraculous Mobius	
 327	Belial	Reckless Belial	
 328	Happy 100	Heartful Happy 100	
-329	Eggy Cat	Easter Cat	Eggy Cat 3
+329	Eggy Cat	Easter Cat	Easter Egg Cat
 330	Springtime Kenshin	Full-Bloom Kenshin	Spring Breeze Kenshin
 331	Bunny & Canard	Disciple Psychoduck	Malevolent Mad-Duck
 332	Easter Neneko	Hoppity Neneko	Blossoming Neneko
@@ -537,7 +537,7 @@
 536	Sakura Miku	Sakura Miku CC	
 537	Kagamine Rin & Len	Kagamine Rin & Len CC	
 538	Miku Cat	Miku Cat CC	
-539	Rugby Cat	Quarterback Cat	Apocalypse Cat
+539	Rugby Cat	Quarterback Cat	Gridiron Cat
 540			
 541			
 542			
@@ -696,9 +696,9 @@
 695	Killer Tank Cat	True Killer Tank Cat	
 696	Class Rep Cat	Stealth Class Rep Cat	
 697	Ancient Egg: N107	Violet Egg: N107	Cat Chief
-698	Thunder Jack	Bloody Jack
-699	Battle Boy Rabbit Satoru	Battle Prince Rabbit Satoru
-700	Ancient Egg: N005	Mystic Egg: N005	Cat Hitman
+698	Thunder Jack	Bloody Jack	
+699	Rabbit Satoru	Rabbit Champion Satoru	
+700	Ancient Egg N005	Mystic Egg N005	Hitman Cat
 701	Kamen Rider Cat	Shin Kamen Rider Cat
 702	Godzilla Cat	Shin Godzilla Cat
 703	Evangelion Cat	Shin Evangelion Cat

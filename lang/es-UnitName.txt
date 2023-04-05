@@ -327,7 +327,7 @@
 326	Mobius	Miraculous Mobius	
 327	Belial	Reckless Belial	
 328	Happy 100	Heartful Happy 100	
-329	Gato Huevo	Gato de Pascua	
+329	Gato Huevo	Gato de Pascua	Gato Huevo de Pascua
 330	Kenshin Primaveral	Kenshin Floreciente	Kenshin Brisa Primaveral
 331	Conejito y Patosín	Psicopato Discípulo	Pato Loco Malévolo
 332	Neneko de Pascua	Neneko Saltarina	Neneko Floreciente
@@ -448,13 +448,13 @@
 447	Gato Aserrador	Gato Superaserrador	Neogato Aserrador
 448	Musashi Miyamoto	Dios de la Guerra Miyamoto	
 449	Directora Jeanne	Directora Jeanne (ψ)	
-450	Babel Señor Supremo	Babel Llama Oscura	
+450	Babel Señor Supremo	Babel Llama Oscura	Babel, Dios Emperador
 451	Ushiwakamaru	Benkei Colosal	
 452	Gato Primordial	Gato Moderno	Gato Futurista
 453			
 454			
 455	Momoco Maravillosa	Momoco Mona	
-456	Sakura Matou	Sakura Matou CC	
+456	Sakura Matou	Sakura Matou CC	Dark Sakura CC
 457	Shirou the Cat	Novice Mage Shirou Cat	
 458	Archer the Cat	Heroic Spirit Archer Cat	
 459	Rider the Cat	Heroic Spirit Rider Cat	
@@ -537,7 +537,7 @@
 536	Sakura Miku	Sakura Miku CC	
 537	Kagamine Rin & Len	Kagamine Rin & Len CC	
 538	Miku Cat	Miku Cat CC	
-539	Gato Rugby	Gato Atacante	
+539	Gato Rugby	Gato Atacante	Quartercat
 540			
 541			
 542			
@@ -615,7 +615,7 @@
 614	Kaguya Costera	Sol Sureño	Sol Sureño Destellante
 615	Gato Kabuto	Gato Kabuto Dorado	
 616	Gato Kuwagata	Rey Gato Kuwagata	
-617	Invocador Satoru	Invocador Satoru Oscuro	
+617	Invocador Satoru	Invocador Satoru Oscuro	Cazador de demonios Satoru
 618	Amakusa Shiro	Dios de la Guerra Amakusa	Amakusa Inmortal
 619	Lilin	Lilin π	Lilin π divina
 620	Hevijak el Maligno	Hevijak el Rey Maligno	
@@ -667,8 +667,8 @@
 666	Lilin Playa Nocturna	Lilin Playa Nocturna π	
 667	Gato Pájaro Adoctrinado	Gatovni Adoctrinado	
 668	Gatengu	Gran Tengu Yokai	
-669	Huevo Antiguo: N003	Huevo Malvado: N003	Gactus
-670	Huevo Antiguo: N202	Huevo Bermellón: N202	Gato Luciérnaga Blindado
+669	Huevo antiguo N003	Huevo Malvado N003	Gactus
+670	Huevo antiguo N202	Huevo Bermellón N202	Gato Luciérnaga Blindado
 671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)	
 672	Genma Saotome (Panda)	Genma Saotome	
 673	ネコチーター	ネコチーター	
@@ -696,3 +696,10 @@
 695	Gato Defensor asesino	Gato Defensor asesino aut.	
 696	Gato delegado	Gato delegado sigiloso	
 697	Huevo Antiguo N107	Huevo morado N107	Gato Jefe
+698	Jack, el eléctrico	Jack, el desatado	
+699	Conejo Satoru	Conejo Satoru Campeón	
+700	Huevo Antiguo N005	Huevo Místico N005	Gato Sicario
+701			
+702			
+703			
+704			

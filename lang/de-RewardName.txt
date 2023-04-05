@@ -142,6 +142,14 @@
 184	Ep. Behem.-Stein
 185	Legend. Glücksb.
 186	Liebesbrief
+187	Ziegel Z
+188	Federn Z
+189	Kohle Z
+190	Zahnräder Z
+191	Gold Z
+192	Meteorit Z
+193	Tierknochen Z
+194	Ammonit Z
 1005	Bronzekatze
 1100	Bronzekatze
 1001	Sporttagkatze
@@ -248,13 +256,14 @@
 1056	Rattenfänger-Katze
 1057	Kalligraphie-Katze
 1058	Ältestenbestie Naala
-1059	Uraltes Ei N001
+1059	Uraltes Ei: N001
 1060	Uraltes Ei: N003
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
 1061	Uraltes Ei: N004
 1062	Uraltes Ei: N000
 1063	Killer-Panzer-Katze
+1064	Uraltes Ei: N005
 19001	Irokatze
 19002	Radierkatze
 19003	Dunkle Katze
@@ -449,6 +458,7 @@
 16324	Erwachter Musashi
 10325	Grüner-Panzer-Katze
 15326	Ektogewicht-Katze
+10330	Ostereikatze
 15331	Frühlingsbrisen-Kenshin
 15332	Delinquente
 15333	Aufblühende Neneko
@@ -502,7 +512,9 @@
 15446	Neo-Schneidekatze
 15447	Neo-Tiefbagger-Katze
 15448	Neo-Sägenkatze
+15451	Babel der Gottkaiser
 10453	Zukunftskatze
+15457	Dark Sakura CC
 16463	Metafilibuster
 16465	Wiedergeb. Krieger Doguemon
 15468	Super S-Zeus
@@ -526,6 +538,7 @@
 16533	Erwachter Urs
 15534	Riesenblaster-Saki
 15535	Allmächtiger Hades
+10540	Gridiron-Katze
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
 15564	Wasserblaster-Saki
@@ -542,6 +555,7 @@
 15611	König Nekokhamen
 16614	Erwachter Doron
 15615	Die Sonnenglut des Südens
+15618	Teufelsjäger Satoru
 15619	Unsterblicher Amakusa
 15620	Himmlische Lilin π
 15632	Yaminora
@@ -563,6 +577,7 @@
 15686	Supersportwagen-Katze
 15692	Affenlord Uza
 15698	Häuptlingskatze
+15701	Auftragskiller-Katze
 30000	Angriff + D: Rot
 30001	Angriff + C: Rot
 30002	Angriff + B: Rot

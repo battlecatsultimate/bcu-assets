@@ -142,6 +142,14 @@
 184	P. Béhémoth épique
 185	Charme légendaire
 186	Lettre d’amour
+187	Brique Z
+188	Plumes Z
+189	Charbon Z
+190	Rouages Z
+191	Or Z
+192	Météorite Z
+193	Os de bête Z
+194	Ammonite Z
 1005	Chat en bronze
 1100	Chat en bronze
 1001	Chat Jour des sports
@@ -255,6 +263,7 @@
 1061	Œuf ancien N004
 1062	Œuf ancien N000
 1063	Chat tank tueur
+1064	Œuf ancien N005
 19001	Chat punk
 19002	Chat gomme
 19003	Chat de l’ombre
@@ -449,6 +458,7 @@
 16324	Musashi éveillé
 10325	Charapace verte
 15326	Chat poids lourd
+10330	Chat œuf de Pâques
 15331	Kenshin brise printanière
 15332	Canard fou et malfaisant
 15333	Neneko du rituel de passage
@@ -502,7 +512,9 @@
 15446	Néo Chat découpeuse
 15447	Néo Chat tractopelle
 15448	Néo Chat scie
+15451	Dieu empereur Babel
 10453	Chat du futur
+15457	Dark Sakura CC
 16463	Métaflibustier
 16465	Guer. Toutoumon ressuscité
 15468	Super S-Zeus
@@ -526,6 +538,7 @@
 16533	Urs éveillé
 15534	Vil bourreau Saki
 15535	Hadès Tout-puissant
+10540	Chaterback
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
 15564	Méga pistol’eau Saki
@@ -542,6 +555,7 @@
 15611	Roi Nekokhamen
 16614	Doron éveillé
 15615	L'éclat du soleil méridional
+15618	Satoru démoniste
 15619	Amakusa immortel
 15620	Lilin π divine
 15632	Yaminora
@@ -563,6 +577,7 @@
 15686	Chat supercar
 15692	Seigneur gorille Luza
 15698	Chef Chat
+15701	Chat tueur à gages
 30000	Attaque aug. D: Rouge
 30001	Attaque aug. C: Rouge
 30002	Attaque aug. B: Rouge

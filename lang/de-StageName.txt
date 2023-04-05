@@ -1305,6 +1305,11 @@
 001-279-001	Archäologie f. Experten: Methoden
 001-279-002	Archäologie f. Experten: Ergebnisse
 001-279-003	Archäologie f. Experten: Analyse
+001-280		Ausgrabung der Kaiserin 4
+001-280-000	Archäologie f. Koryphäen: Planung
+001-280-001	Archäologie f. Koryphäen: Methoden
+001-280-002	Archäologie f. Koryphäen: Ergebnisse
+001-280-003	Archäologie f. Koryphäen: Analyse
 001-285		Die 5 häufigsten Feinde 2021
 001-285-000	#5 Schlittern
 001-285-001	#4 Wegfegen
@@ -1462,6 +1467,28 @@
 001-334-000	Erdbebenfaust
 001-335		Gefahr im Vulkan II
 001-335-000	Heftiger Donnerknall
+001-336		Untote Bewohner
+001-336-000	Mutation St. 1
+001-336-001	Mutation St. 2
+001-336-002	Mutation St. 3
+001-336-003	Mutation St. 4
+001-336-004	Mutation St. 5
+001-336-005	Mutation St. 6
+001-336-006	Mutation St. 7
+001-336-007	Mutation St. 8
+001-336-008	Mutation St. 9
+001-336-009	Mutation St. MAX
+001-337		Eierkatze erwacht!
+001-337-000	Hartgekochte Eier (Experte)
+001-337-001	Hartgekochte Eier (Irre)
+001-338		NEO-Wanwans Ruhm
+001-338-000	Kläfferhausen (Irre)
+001-338-001	Toller Hund (Irre)
+001-339		Prüfung der Kleinen Katze
+001-339-000	Weg zu St. 45+
+001-339-001	Weg zu St. 50+
+001-339-002	Weg zu St. 55+
+001-339-003	Weg zu St. 60+
 
 002			Collaboration Stages
 002-003		To the Future
@@ -1990,6 +2017,21 @@
 002-193-007	Land & Sky Lv.4
 002-193-008	Master of Heart Lv.MAX
 002-193-009	Land & Sky Lv.MAX
+002-194		Holy War: Saber
+002-194-000	Fated Night (Easy)
+002-194-001	Fated Night (Expert)
+002-195		Holy War: Lancer
+002-195-000	Assault from Above (Easy)
+002-195-001	Assault from Above (Expert)
+002-196		Holy War: Archer
+002-196-000	Unlimited Bladeworks (Easy)
+002-196-001	Unlimited Bladeworks (Expert)
+002-197		Holy War: Rider
+002-197-000	Blood Temple (Easy)
+002-197-001	Blood Temple (Expert)
+002-198		Holy War: Gilgamesh
+002-198-000	King of Heroes (Veteran)
+002-198-001	King of Heroes (Deadly)
 
 003			
 003-000		EoC Ch.1 Zombie
@@ -2878,6 +2920,10 @@
 004-056-000	In der nebelverhüllten Kirche
 004-057		Neujahrs-Bling
 004-057-000	Glück gehabt! Neujahrsbeute!
+004-059		Angriff der Omen
+004-059-000	Hortwildnis (Tödlich)
+004-059-001	Gipfelwildnis (Gnadenlos)
+004-059-002	Grenzwildnis (Gnadenlos)
 
 006			Katzenkrallendojo
 006-000		Halle der Initianden
@@ -4415,6 +4461,27 @@
 024-060-007	Tödlicher Schutz St. 8
 024-060-008	Tödlicher Schutz St. 9
 024-060-009	Tödlicher Schutz St. MAX
+024-061		Angriff der Omen
+024-061-000	Drei Omen St. 1
+024-061-001	Drei Omen St. 2
+024-061-002	Drei Omen St. 3
+024-061-003	Drei Omen St. 4
+024-061-004	Drei Omen St. 5
+024-061-005	Drei Omen St. 6
+024-061-006	Drei Omen St. 7
+024-061-007	Drei Omen St. 8
+024-061-008	Drei Omen St. 9
+024-061-009	Drei Omen St. 10
+024-061-010	Drei Omen St. 11
+024-061-011	Drei Omen St. 12
+024-061-012	Drei Omen St. 13
+024-061-013	Drei Omen St. 14
+024-061-014	Drei Omen St. 15
+024-061-015	Drei Omen St. 16
+024-061-016	Drei Omen St. 17
+024-061-017	Drei Omen St. 18
+024-061-018	Drei Omen St. 19
+024-061-019	Drei Omen St. MAX
 
 025			Enigma Stages
 025-000		Atium-Felder
@@ -4702,6 +4769,27 @@
 027-013-017	Sudden Death Lv.18
 027-013-018	Sudden Death Lv.19
 027-013-019	Sudden Death Lv.MAX
+027-014		Gauntlet of Servants
+027-014-000	Grail War: Day 1
+027-014-001	Grail War: Day 2
+027-014-002	Grail War: Day 3
+027-014-003	Grail War: Day 4
+027-014-004	Grail War: Day 5
+027-014-005	Grail War: Day 6
+027-014-006	Grail War: Day 7
+027-014-007	Grail War: Day 8
+027-014-008	Grail War: Day 9
+027-014-009	Grail War: Day 10
+027-014-010	Grail War: Day 11
+027-014-011	Grail War: Day 12
+027-014-012	Grail War: Day 13
+027-014-013	Grail War: Day 14
+027-014-014	Grail War: Day 15
+027-014-015	Grail War: Day 16
+027-014-016	Grail War: Day 17
+027-014-017	Grail War: Day 18
+027-014-018	Grail War: Day 19
+027-014-019	Grail War: Final Day
 
 031			Behemoth Culling Stages
 031-000		Versteckter Gapra-Wald
@@ -4857,3 +4945,10 @@
 034			Zero Legenden
 034-000		Nullfeld
 034-000-000	Eine ganz neue Welt
+034-001		Rand der Raumzeit
+034-001-000	Verbrechen gegen den Kosmos
+034-001-001	Nullhorizont
+034-001-002	Abendrothadron
+034-001-003	Felinitätstheorie
+034-001-004	Einmal mit Protonen
+034-001-005	Neutrino-Schneeland

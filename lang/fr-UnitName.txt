@@ -327,7 +327,7 @@
 326	Mobius	Miraculous Mobius	
 327	Belial	Reckless Belial	
 328	Happy 100	Heartful Happy 100	
-329	Chat œuf	Chat de Pâques	
+329	Chat œuf	Chat de Pâques	Chat œuf de Pâques
 330	Kenshin printanière	Kenshin épanouie	Kenshin brise printanière
 331	Lapin et Canard	Disciple psychanard	Canard fou et malfaisant
 332	Neneko de Pâques	Neneko sautillante	Neneko du rituel de passage
@@ -448,13 +448,13 @@
 447	Chat scie	Chat scie électrique	Néo Chat scie
 448	Musashi Miyamoto	Miyamoto dieu de la guerre	
 449	Principale Jeanne	Principale Jeanne ψ	
-450	Grand seigneur Babel	Babel sombre flamme	
+450	Grand seigneur Babel	Babel sombre flamme	Dieu empereur Babel
 451	Ushiwakamaru	Benkei colochal	
 452	Chat primitif	Chat moderne	Chat du futur
 453			
 454			
 455	Wonder Momoco	Momoco mimi	
-456	Sakura Matou	Sakura Matou CC	
+456	Sakura Matou	Sakura Matou CC	Dark Sakura CC
 457	Shirou the Cat	Novice Mage Shirou Cat	
 458	Archer the Cat	Heroic Spirit Archer Cat	
 459	Rider the Cat	Heroic Spirit Rider Cat	
@@ -537,7 +537,7 @@
 536	Sakura Miku	Sakura Miku CC	
 537	Kagamine Rin & Len	Kagamine Rin & Len CC	
 538	Miku Cat	Miku Cat CC	
-539	Chat rugby	Chat quarterback	
+539	Chat rugby	Chat quarterback	Chaterback
 540			
 541			
 542			
@@ -615,7 +615,7 @@
 614	Kaguya de la côte	Le Soleil méridional	L'éclat du soleil méridional
 615	Chat Kabuto	Chat Kabuto doré	
 616	Chat Kuwagata	Chat roi Kuwagata	
-617	Satoru invocateur	Satoru sombre invocateur	
+617	Satoru invocateur	Satoru sombre invocateur	Satoru démoniste
 618	Shiro Amakusa	Amakusa dieu de la guerre	Amakusa immortel
 619	Lilin	Lilin π	Lilin π divine
 620	Hevijack le malfaisant	Roi Hevijack malfaisant	
@@ -696,3 +696,10 @@
 695	Chat tank tueur	Chat tank tueur ultime	
 696	Chat délégué de classe	Chat délégué furtif	
 697	Œuf ancien N107	Œuf violet N107	Chef Chat
+698	Jack fulgurant	Jack sanguinaire	
+699	Satoru le lapinou	Satoru le champion lapinou	
+700	Œuf ancien N005	Œuf mystique N005	Chat tueur à gages
+701			
+702			
+703			
+704			

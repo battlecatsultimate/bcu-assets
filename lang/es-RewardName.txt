@@ -142,6 +142,14 @@
 184	Piedra mast. épica
 185	Amuleto legendario
 186	Carta de amor
+187	Ladrillo Z
+188	Plumas Z
+189	Carbón Z
+190	Engranajes Z
+191	Oro Z
+192	Meteorito Z
+193	Huesos Z
+194	Amonites Z
 1005	Gato de Bronce
 1100	Gato de Bronce
 1001	Gato Deportista
@@ -249,12 +257,13 @@
 1057	Gato Calígrafo
 1058	Bestia Naala Viejuna
 1059	Huevo Antiguo N001
-1060	Huevo Antiguo: N003
+1060	Huevo antiguo N003
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
 1061	Huevo antiguo N004
 1062	Huevo Antiguo N000
 1063	Gato Defensor asesino
+1064	Huevo Antiguo N005
 19001	Gato Crestado
 19002	Gato Borrador
 19003	Gato Oscuro
@@ -448,6 +457,7 @@
 16324	Musashi Alzado
 10325	Gato con Caparazón Verde
 15326	Gato Peso Superpesado
+10330	Gato Huevo de Pascua
 15331	Kenshin Brisa Primaveral
 15332	Pato Loco Malévolo
 15333	Neneko Floreciente
@@ -501,7 +511,9 @@
 15446	Neogato Cortador
 15447	Neogato Retroexcavadora
 15448	Neogato Aserrador
+15451	Babel, Dios Emperador
 10453	Gato Futurista
+15457	Dark Sakura CC
 16463	Metafiliembustero
 16465	Perromón guerrero renacido
 15468	Super S-Zeus
@@ -525,6 +537,7 @@
 16533	Urs Alzado
 15534	Saki Dinamitera
 15535	Hades Todopoderoso
+10540	Quartercat
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
 15564	Saki con Cañón de Agua
@@ -541,6 +554,7 @@
 15611	Rey Nekokhamen
 16614	Doron Alzado
 15615	Sol Sureño Destellante
+15618	Cazador de demonios Satoru
 15619	Amakusa Inmortal
 15620	Lilin π divina
 15632	Yaminora
@@ -562,6 +576,7 @@
 15686	Gato Supercoche
 15692	Lord Luza Simio
 15698	Gato Jefe
+15701	Gato Sicario
 30000	Aumento de ataque D: Rojos
 30001	Aumento de ataque C: Rojos
 30002	Aumento de ataque B: Rojos

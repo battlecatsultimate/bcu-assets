@@ -142,6 +142,14 @@
 184	Piet. Behem. epica
 185	Amul. leggendario
 186	Lettera d'amore
+187	Mattone Z
+188	Piume Z
+189	Carbone Z
+190	Ingranaggi Z
+191	Oro Z
+192	Meteora Z
+193	Ossa bestiali Z
+194	Ammonite Z
 1005	Busto di Gatto
 1100	Busto di Gatto
 1001	Gatto sportivo
@@ -255,6 +263,7 @@
 1061	Uovo antico N004
 1062	Uovo antico N000
 1063	Gatto Panzer assassino
+1064	Uovo antico N005
 19001	Gatto punk
 19002	Gatto gomma
 19003	Gatto oscuro
@@ -449,6 +458,7 @@
 16324	Musashi risvegliato
 10325	Gatto Guscio verde
 15326	Gatto peso spettrale
+10330	Gatto pasquale
 15331	Kenshin brezza primaverile
 15332	Anatroccolo malefico
 15333	Neneko in fiore
@@ -502,7 +512,9 @@
 15446	Neo Gatto tagliatutto
 15447	Neo Gatto scavatore
 15448	Neo Gatto turbosega
+15451	Babele Dio-Imperatore
 10453	Gatto del futuro
+15457	Dark Sakura CC
 16463	Meta-filibustiere
 16465	Canemon guerriero rinato
 15468	Super S-Zeus
@@ -526,6 +538,7 @@
 16533	Urs risvegliato
 15534	Saki super blaster
 15535	Ade Onnipotente
+10540	Gatto griglia
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
 15564	Saki acqua blaster
@@ -542,6 +555,7 @@
 15611	Re Nekokhamen
 16614	Doron risvegliato
 15615	Il Bagliore del sud
+15618	Satoru caccia al diavolo
 15619	Amakusa immortale
 15620	Lilin π Divina
 15632	Yaminora
@@ -563,6 +577,7 @@
 15686	Gatto Supercar
 15692	Luza lo scimmione
 15698	Gatto capo
+15701	Gatto killer
 30000	Più attacco D: Rosso
 30001	Più attacco C: Rosso
 30002	Più attacco B: Rosso

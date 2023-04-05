@@ -735,6 +735,9 @@
 9410	Supera livelli "Capodanno lunare" 20 volte!
 9411	Supera livelli "Capodanno lunare" 30 volte!
 56	Supera 35 livelli "Selezione Behemoth" per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
+9412	Clear 10 Fate/stay night [HF] collab stages
+9413	Clear 30 Fate/stay night [HF] collab stages
+9414	Clear 50 Fate/stay night [HF] collab stages
 9415	【80M】Manda Gamatoto in 1 spedizioni riuscite! (Completa 1 spedizione in un'area Gamatoto)
 9416	【80M】Manda Gamatoto in 5 spedizioni riuscite! (Completa 5 spedizioni in un'area Gamatoto)
 9417	【80M】Supera Buon regalo di Festeggiamenti 80M 1 volte! ()

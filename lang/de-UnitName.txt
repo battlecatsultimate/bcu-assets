@@ -327,7 +327,7 @@
 326	Mobius	Miraculous Mobius	
 327	Belial	Reckless Belial	
 328	Happy 100	Heartful Happy 100	
-329	Eierkatze	Osterkatze	
+329	Eierkatze	Osterkatze	Ostereikatze
 330	Frühlings-Kenshin	Blütenreigen-Kenshin	Frühlingsbrisen-Kenshin
 331	Hase und Ente	Psychoentenjünger	Delinquente
 332	Oster-Neneko	Häschenhüpf-Neneko	Aufblühende Neneko
@@ -448,13 +448,13 @@
 447	Gehrungssägenkatze	Supersägenkatze	Neo-Sägenkatze
 448	Musashi Miyamoto	Kriegsgott Miyamoto	
 449	Rektorin Jeanne	Rektorin Jeanne ψ	
-450	Hoher Herr Babel	Babel die Dunkelflamme	
+450	Hoher Herr Babel	Babel die Dunkelflamme	Babel der Gottkaiser
 451	Ushiwakamaru	Kolossaler Benkei	
 452	Urkatze	Moderne Katze	Zukunftskatze
 453			
 454			
 455	Wunder-MOMOCO	Süße MOMOCO	
-456	Sakura Matou	Sakura Matou CC	
+456	Sakura Matou	Sakura Matou CC	Dark Sakura CC
 457	Shirou the Cat	Novice Mage Shirou Cat	
 458	Archer the Cat	Heroic Spirit Archer Cat	
 459	Rider the Cat	Heroic Spirit Rider Cat	
@@ -537,7 +537,7 @@
 536	Sakura Miku	Sakura Miku CC	
 537	Kagamine Rin & Len	Kagamine Rin & Len CC	
 538	Miku Cat	Miku Cat CC	
-539	Rugbykatze	Quarterback-Katze	
+539	Rugbykatze	Quarterback-Katze	Gridiron-Katze
 540			
 541			
 542			
@@ -615,7 +615,7 @@
 614	Kaguya von der Küste	Die Sonne des Südens	Die Sonnenglut des Südens
 615	Kabutokatze	Goldene Kabutokatze	
 616	Kuwagatakatze	Königs-Kuwagatakatze	
-617	Beschwörer Satoru	Dunkler Beschwörer Satoru	
+617	Beschwörer Satoru	Dunkler Beschwörer Satoru	Teufelsjäger Satoru
 618	Shiro Amakusa	Kriegsgott Amakusa	Unsterblicher Amakusa
 619	Lilin	Lilin π	Himmlische Lilin π
 620	Hevijak der Böse	Böser König Hevijak	
@@ -654,7 +654,7 @@
 653	Ältestenbestie Naala	Sturmbestie Naala	Erwachte Naala
 654	Gehirngew. Stelzenkatze	Gehirng. Hübsche-Beine Katze	
 655	Bliza	Blizana	
-656	Uraltes Ei N001	Mystisches Ei N001	Haniwa-Katze
+656	Uraltes Ei: N001	Mystisches Ei: N001	Haniwa-Katze
 657	Iz, die Tänzerin des Kummers	Iz, Dame der Trauer	
 658	Uraltes Ei: N101	Zinnober-Ei: N101	Kurierkatze
 659	Uraltes Ei: N102	Petrol-Ei: N102	Katzan
@@ -696,3 +696,10 @@
 695	Killer-Panzer-Katze	Wahre Killer-Panzer-Katze	
 696	Klassensprecherkater	Tarn-Klassensprecherkater	
 697	Uraltes Ei: N107	Violettes Ei: N107	Häuptlingskatze
+698	Blitzschlag-Jack	Blutiger Jack	Blut-Jack
+699	Kaninchen Satoru	Kaninchen-Champion Satoru	
+700	Uraltes Ei: N005	Mystisches Ei: N005	Auftragskiller-Katze
+701			
+702			
+703			
+704			

@@ -633,8 +633,8 @@
 632	Relic Base
 633	Killer Tank Cat
 634	Vermilingua Rangmaster
-635	Eggy Cat 3
-636	Devil Celeboodle
-637	O-Men
+635	Easter Egg Cat
+636	Devil Wife
+637	Omens
 638	Mini White Cyclone
-639	Super Flame Beast Teonir
+639	Infernal Pegasus Deonil

@@ -1306,6 +1306,11 @@
 001-279-001	Bases d'archéologie 301 : méthodes
 001-279-002	Bases d'archéologie 301 : résultats
 001-279-003	Bases d'archéologie 301 : analyse
+001-280		Excavation de l’impératrice 4
+001-280-000	Bases d’archéologie 401 : planification
+001-280-001	Bases d’archéologie 401 : méthodes
+001-280-002	Bases d’archéologie 401 : résultats
+001-280-003	Bases d’archéologie 401 : analyse
 001-285		Top 5 des ennemis les plus vus de 2021 !
 001-285-000	Je glisse n° 5
 001-285-001	Je rougis n° 4
@@ -1463,6 +1468,28 @@
 001-334-000	Poing de Tremble-terre
 001-335		Péril dans le volcan II
 001-335-000	Coup de tonnerre performant
+001-336		Résident mort-vivant
+001-336-000	Mutation niv. 1
+001-336-001	Mutation niv. 2
+001-336-002	Mutation niv. 3
+001-336-003	Mutation niv. 4
+001-336-004	Mutation niv. 5
+001-336-005	Mutation niv. 6
+001-336-006	Mutation niv. 7
+001-336-007	Mutation niv. 8
+001-336-008	Mutation niv. 9
+001-336-009	Mutation niv. max
+001-337		Le Chat œuf se réveille !
+001-337-000	Œufs durs (expert)
+001-337-001	Œufs durs (maniaque)
+001-338		Gloire de NEO Wanwan
+001-338-000	Annexe de Chienville (maniaque)
+001-338-001	Chef de meute (maniaque)
+001-339		Épreuve de P’tit Chat
+001-339-000	Route du niv. 45+
+001-339-001	Route du niv. 50+
+001-339-002	Route du niv. 55+
+001-339-003	Route du niv. 60+
 
 002			Collaboration Stages
 002-003		To the Future
@@ -1991,6 +2018,21 @@
 002-193-007	Land & Sky Lv.4
 002-193-008	Master of Heart Lv.MAX
 002-193-009	Land & Sky Lv.MAX
+002-194		Holy War: Saber
+002-194-000	Fated Night (Easy)
+002-194-001	Fated Night (Expert)
+002-195		Holy War: Lancer
+002-195-000	Assault from Above (Easy)
+002-195-001	Assault from Above (Expert)
+002-196		Holy War: Archer
+002-196-000	Unlimited Bladeworks (Easy)
+002-196-001	Unlimited Bladeworks (Expert)
+002-197		Holy War: Rider
+002-197-000	Blood Temple (Easy)
+002-197-001	Blood Temple (Expert)
+002-198		Holy War: Gilgamesh
+002-198-000	King of Heroes (Veteran)
+002-198-001	King of Heroes (Deadly)
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -2879,6 +2921,10 @@
 004-056-000	Dans l'église embrumée
 004-057		Bling-bling du Nouvel An
 004-057-000	Joie ! Butin du Nouvel An !
+004-059		Attaque des présages
+004-059-000	Nature au berceau (mortel)
+004-059-001	Nature au sommet (sans répit)
+004-059-002	Nature frontière (sans répit)
 
 006			Dojo Griffélin
 006-000		Salle des initiés
@@ -4448,6 +4494,27 @@
 024-060-007	Protection mortelle niv. 8
 024-060-008	Protection mortelle niv. 9
 024-060-009	Protection mortelle niv. max
+024-061		Attaque des présages
+024-061-000	Trois présages niv. 1
+024-061-001	Trois présages niv. 2
+024-061-002	Trois présages niv. 3
+024-061-003	Trois présages niv. 4
+024-061-004	Trois présages niv. 5
+024-061-005	Trois présages niv. 6
+024-061-006	Trois présages niv. 7
+024-061-007	Trois présages niv. 8
+024-061-008	Trois présages niv. 9
+024-061-009	Trois présages niv. 10
+024-061-010	Trois présages niv. 11
+024-061-011	Trois présages niv. 12
+024-061-012	Trois présages niv. 13
+024-061-013	Trois présages niv. 14
+024-061-014	Trois présages niv. 15
+024-061-015	Trois présages niv. 16
+024-061-016	Trois présages niv. 17
+024-061-017	Trois présages niv. 18
+024-061-018	Trois présages niv. 19
+024-061-019	Trois présages niv. max
 
 025			Enigma Stages
 025-000		Champs Aitum
@@ -4765,6 +4832,27 @@
 027-013-017	Sudden Death Lv.18
 027-013-018	Sudden Death Lv.19
 027-013-019	Sudden Death Lv.MAX
+027-014		Gauntlet of Servants
+027-014-000	Grail War: Day 1
+027-014-001	Grail War: Day 2
+027-014-002	Grail War: Day 3
+027-014-003	Grail War: Day 4
+027-014-004	Grail War: Day 5
+027-014-005	Grail War: Day 6
+027-014-006	Grail War: Day 7
+027-014-007	Grail War: Day 8
+027-014-008	Grail War: Day 9
+027-014-009	Grail War: Day 10
+027-014-010	Grail War: Day 11
+027-014-011	Grail War: Day 12
+027-014-012	Grail War: Day 13
+027-014-013	Grail War: Day 14
+027-014-014	Grail War: Day 15
+027-014-015	Grail War: Day 16
+027-014-016	Grail War: Day 17
+027-014-017	Grail War: Day 18
+027-014-018	Grail War: Day 19
+027-014-019	Grail War: Final Day
 
 031			Behemoth Culling Stages
 031-000		Forêt cachée de Gapra
@@ -4920,3 +5008,10 @@
 034			Histoires légendaires 0
 034-000		Champ zéro
 034-000-000	Nouveau départ
+034-001		Le fil de l’espace-temps
+034-001-000	Crimes contre le cosmos
+034-001-001	Horizon zéro
+034-001-002	Hadron du couchant
+034-001-003	La théorie de la félinité
+034-001-004	Protons, neutrons et cornichons
+034-001-005	Glisse chez les neutrinos
