@@ -638,3 +638,10 @@
 637	Omens
 638	Mini White Cyclone
 639	Infernal Pegasus Deonil
+640	Super Pig Beast Piigie
+641	Super Elephant Beast Papao
+642	The Great Devil King Nyandam
+643	The Great Sorcerer Mimon
+644	
+645	10th Half Anniversary Cake
+646	Readhead Beauty Macho Yuki Cat

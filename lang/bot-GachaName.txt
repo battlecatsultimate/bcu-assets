@@ -126,6 +126,7 @@ N61	G Ticket Capsules
 N62	Lucky Ticket Capsules
 N63	G Ticket Capsules
 N64	Silver + Capsules
+N65	Cats Eye Capsules
 100	The Dynamites 
 101	The Dynamites 
 102	The Dynamites 
@@ -756,3 +757,7 @@ N64	Silver + Capsules
 803	-107	698
 804	-109	699, 684, 654, 629
 805	-2004
+806	-112	705
+807	-106	705
+808	-104	705
+809	-107	705

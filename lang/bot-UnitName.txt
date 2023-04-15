@@ -338,7 +338,7 @@
 337			
 338	Imagawa Yoshimoto	Wargod Yoshimoto	Immortal Yoshimoto
 339			
-340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	
+340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	Redhead Beauty Macho Yuki Cat
 341	Lost World Yuki	Lost World Yuki ＆ Cat	Lost World Catgirl Yuki
 342	Maneki Cat	Neo Maneki Cat	
 343	Slug Jockey Cat	Slugcat	
@@ -618,7 +618,7 @@
 617	Summoner Satoru	Dark Summoner Satoru	Devil Hunter Satoru
 618	Shiro Amakusa	Wargod Amakusa	Immortal Amakusa
 619	Lilin	Lilin π	Divine Lilin π
-620	Hevijak the Wicked	Wicked King Hevijak	
+620	Hevijak the Wicked	Wicked King Hevijak	God-Emperor Hevijak
 621	Aku Researcher	Evil Aku Researcher	
 622	Jagando Jr.	Lord of Ruin Jagando Jr.	
 623	Pied Piper Cat	Komuso Cat	
@@ -703,3 +703,7 @@
 702	Godzilla Cat	Shin Godzilla Cat
 703	Evangelion Cat	Shin Evangelion Cat
 704	Ultraman Cat	Shin Ultraman Cat
+705	King of Misfortune Phono	King of Atrophy Phono
+706	Ancient Egg: N108	Teal Egg: N108	Soap Cat
+707	Ancient Egg: N109	Evil Egg: N109	Barrel Cat
+708	Jet Cat	Miyakinjiro Cat
