@@ -618,7 +618,7 @@
 617	Satoru invocateur	Satoru sombre invocateur	Satoru démoniste
 618	Shiro Amakusa	Amakusa dieu de la guerre	Amakusa immortel
 619	Lilin	Lilin π	Lilin π divine
-620	Hevijack le malfaisant	Roi Hevijack malfaisant	
+620	Hevijack le malfaisant	Roi Hevijack malfaisant	Dieu empereur Hevijak
 621	Chercheur d'ennemis Akus	Chercheur d'ennemis Akus démoniaque	Chercheur en Akus démoniaque
 622	Jagando Jr.	Seigneur Ruine Jagando Jr.	
 623	Chat joueur de flûte	Chat Komuso	
@@ -703,3 +703,7 @@
 702			
 703			
 704			
+705	Phono le roi de la Fatalité	Phono le roi de l’extinction	
+706	Œuf ancien N108	Œuf bleu sarcelle N108	Chat savonneur
+707	Œuf ancien N109	Œuf sombre N109	Chat baril
+708	Chat à propulsion	Chat Kinjirou	

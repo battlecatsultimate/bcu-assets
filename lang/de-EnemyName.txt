@@ -638,3 +638,10 @@
 637	Omen
 638	Weißer Minizyklon
 639	Höllischer Pegasus Deonil
+640	Suidae Schweinicus
+641	Elephantidae Papaou
+642	Höllischer Tyrann Nyandam
+643	Großmagier Mimon
+644	
+645	
+646	

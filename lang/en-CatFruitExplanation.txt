@@ -618,7 +618,7 @@
 617	True Form evolution gains increased defense!<br>Plus gains increased Shield Piercing chance<br>and 100% Knockback!
 618	True Form evolution gains increased<br>Defense and Attack speed!<br>
 619	True Form evolution increases Defense!<br>Also gains Surge Attack!<br>
-620	<br><br>
+620	True Form evolution gains increased <br>Defense, Attack, and atk. range! Also,<br>guaranteed Knockback of Red and Aku!
 621	<br><br>
 622	<br><br>
 623	<br><br>
@@ -703,3 +703,7 @@
 702	<br><br>
 703	<br><br>
 704	<br><br>
+705	<br><br>
+706	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+707	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+708	<br><br>

@@ -618,7 +618,7 @@
 617	¡Su forma final tiene más defensa!<br>¡Más probabilidad de atravesar escudos<br>y siempre repele!
 618	La forma final tiene una mayor<br>velocidad de ataque y defensa.<br>
 619	La forma final tiene una mayor defensa.<br>También gana réplica.<br>
-620	<br><br>
+620	La forma final tiene mayor<br>ataque, defensa y alcance.<br>Repele a enemigos rojos y aku.
 621	<br><br>
 622	<br><br>
 623	<br><br>
@@ -703,3 +703,7 @@
 702	<br><br>
 703	<br><br>
 704	<br><br>
+705	<br><br>
+706	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
+707	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
+708	<br><br>

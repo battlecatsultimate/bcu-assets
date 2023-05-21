@@ -742,3 +742,7 @@
 9421	【80 M DCS】Completa fases del «Evento de las Estrellas
 9422	【80 M DCS】Completa fases del «Evento de las Estrellas
 9423	【80 M DCS】¡Completa todas las misiones de evento. para ganar 1 fragmento de platino!
+57	Supera 40 fases de Matanza de Mastodontes por primera vez:
+58	Supera 45 fases de Matanza de Mastodontes por primera vez:
+59	Para completar esta misión, supera el nivel 2. de todas las Etapas de Leyenda Inquietante
+9424	Misiones del Festival de Ciclón. ¡Supera la fase El Gran Diablo!

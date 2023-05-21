@@ -703,7 +703,7 @@
 702	Godzilla Cat	Shin Godzilla Cat
 703	Evangelion Cat	Shin Evangelion Cat
 704	Ultraman Cat	Shin Ultraman Cat
-705	King of Misfortune Phono	King of Atrophy Phono
+705	King of Doom Phono	King of Extinction Phono	
 706	Ancient Egg: N108	Teal Egg: N108	Soap Cat
-707	Ancient Egg: N109	Evil Egg: N109	Barrel Cat
-708	Jet Cat	Miyakinjiro Cat
+707	Ancient Egg: N109	Dark Egg: N109	Barrel Cat
+708	Jetpack Cat	Kinjirou Cat	

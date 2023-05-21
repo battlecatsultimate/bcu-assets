@@ -1490,6 +1490,11 @@
 001-339-001	Route du niv. 50+
 001-339-002	Route du niv. 55+
 001-339-003	Route du niv. 60+
+001-340		Règne du tyran
+001-340-000	Tyran infernal 1 (mortel)
+001-340-001	Tyran infernal 2 (sans répit)
+001-340-002	Tyran infernal 3 (sans répit)
+001-340-003	Tyran infernal ultime (brutal)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3089,6 +3094,17 @@
 007-007-007	8e étage
 007-007-008	9e étage
 007-007-009	Dernier étage
+007-008		Citadelle aku
+007-008-000	1er étage
+007-008-001	2e étage
+007-008-002	3e étage
+007-008-003	4e étage
+007-008-004	5e étage
+007-008-005	6e étage
+007-008-006	7e étage
+007-008-007	8e étage
+007-008-008	9e étage
+007-008-009	Dernier étage
 
 011			Ranking Dojo Stages
 011-000		Arène de l'honneur
@@ -4870,6 +4886,9 @@
 031-000-011	Zone jungle torrentielle 12
 031-000-012	Zone jungle torrentielle 13
 031-000-013	Zone jungle torrentielle 14
+031-000-014	Zone jungle torrentielle 15
+031-000-015	Zone jungle torrentielle 16
+031-000-016	Zone bois primitifs 17
 031-001		Désert d'Ashvini
 031-001-000	Zone rocailleuse 1
 031-001-001	Zone rocailleuse 2
@@ -4885,6 +4904,9 @@
 031-001-011	Zone sable torride 12
 031-001-012	Zone sable torride 13
 031-001-013	Zone sable torride 14
+031-001-014	Zone sable torride 15
+031-001-015	Zone sable torride 16
+031-001-016	Zone tempête de sable 17
 031-002		Volcan de Jinfore
 031-002-000	Zone de tunnel de lave 1
 031-002-001	Zone de tunnel de lave 2
@@ -4900,6 +4922,9 @@
 031-002-011	Zone cratère infernal 12
 031-002-012	Zone cratère infernal 13
 031-002-013	Zone cratère infernal 14
+031-002-014	Zone cratère infernal 15
+031-002-015	Zone cratère infernal 16
+031-002-016	Zone caverne volcanique 17
 
 033			Abysse infini
 033-000		Abysse infini
@@ -4995,15 +5020,27 @@
 033-000-089	Souterrain niv. 61~69/71~79/81~89/91~98
 033-000-090	Souterrain niv. 10
 033-000-091	Souterrain niv. 10
-033-000-092	Souterrain niv. 20/30
-033-000-093	Souterrain niv. 20/30
-033-000-094	Souterrain niv. 40/50/60
-033-000-095	Souterrain niv. 40/50/60
-033-000-096	Souterrain niv. 40/50/60
-033-000-097	Souterrain niv. 70/80/99
-033-000-098	Souterrain niv. 70/80/99
-033-000-099	Souterrain niv. 70/80/99
-033-000-100	Souterrain niv. 70/80/99
+033-000-092	Souterrain niv. 10
+033-000-093	Souterrain niv. 10
+033-000-094	Souterrain niv. 20/30
+033-000-095	Souterrain niv. 20/30
+033-000-096	Souterrain niv. 20/30
+033-000-097	Souterrain niv. 20/30
+033-000-098	Souterrain niv. 40/50/60
+033-000-099	Souterrain niv. 40/50/60
+033-000-100	Souterrain niv. 40/50/60
+033-000-101	Souterrain niv. 40/50/60
+033-000-102	Souterrain niv. 40/50/60
+033-000-103	Souterrain niv. 40/50/60
+033-000-104	Souterrain niv. 70/80/90/99
+033-000-105	Souterrain niv. 70/80/90/99
+033-000-106	Souterrain niv. 70/80/90/99
+033-000-107	Souterrain niv. 70/80/90/99
+033-000-108	Souterrain niv. 70/80/90/99
+033-000-109	Souterrain niv. 70/80/90/99
+033-000-110	Souterrain niv. 70/80/90/99
+033-000-111	Souterrain niv. 70/80/90/99
+033-000-112	Le fond du fond, niv. 100
 
 034			Histoires légendaires 0
 034-000		Champ zéro
@@ -5015,3 +5052,10 @@
 034-001-003	La théorie de la félinité
 034-001-004	Protons, neutrons et cornichons
 034-001-005	Glisse chez les neutrinos
+034-002		Bassin de l'épervier
+034-002-000	Plateaux choco
+034-002-001	Sentiers vertigineux
+034-002-002	Lac lunatique
+034-002-003	Fjord boueux
+034-002-004	Pic de la marelle
+034-002-005	Forêt 3 p'tits chats

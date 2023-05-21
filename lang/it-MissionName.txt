@@ -747,3 +747,7 @@
 9421	【80M】Supera liv. di "Evento All-Star mensile" 3 volte! Supera dei livelli di Evento All-Star mensile:
 9422	【80M】Supera liv. di "Evento All-Star mensile" 5 volte! Supera dei livelli di Evento All-Star mensile:
 9423	【80M DL】Supera tutte le missioni evento. e ottieni 1 pezzo di platino!
+57	Supera 40 livelli "Selezione Behemoth" per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
+58	Supera 45 livelli "Selezione Behemoth" per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
+59	Supera tutti i Livelli Leggende misteriose di livello 2. per completare questa missione
+9424	Missioni del Festival Ciclone. Supera il livello "Il grande diablo"!

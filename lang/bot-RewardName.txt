@@ -1,167 +1,252 @@
-0	Speed Up
-1	Treasure Radar
-2	Rich Cat
-3	Cat CPU
-4	Cat Jobs
-5	Sniper The Cat
-6	XP
-11	Silver Ticket
-12	Gold Ticket
-13	Cat Food
-20	Silver Ticket
-21	Gold Ticket
-22	Cat Food
-23	Lucky Ticket
-26	Lucky Ticket
-27	Lucky Ticket
-28	Lucky Ticket
-29	Platinum Ticket
-30	Purple Catfruit Seed
-31	Red Catfruit Seed
-32	Blue Catfruit Seed
-33	Green Catfruit Seed
-34	Yellow Catfruit Seed
-35	Purple Catfruit
-36	Red Catfruit
-37	Blue Catfruit
-38	Green Catfruit
-39	Yellow Catfruit
-40	Epic Catfruit
-41	Elder Catfruit Seed
-42	Elder Catfruit
-43	Epic Catfruit Seed
-44	Gold Catfruit
-45	Lucky Ticket
-46	Lucky Ticket
-47	Lucky Ticket
-48	Lucky Ticket
-49	Lucky Ticket
-50	Catseye [Special]
-51	Catseye [Rare]
-52	Catseye [Super Rare]
-53	Catseye [Uber Rare]
-54	Catseye [Legend]
-55	Catamin [A]
-56	Catamin [B]
-57	Catamin [C]
-58	Catseye [Dark]
-75	Lucky Ticket
-76	Lucky Ticket
-77	G Ticket
+0|S0|I0	Speed Up
+1|S1|I1	Treasure Radar
+2|S2|I2	Rich Cat
+3|S3|I3	Cat CPU
+4|S4|I4	Cat Jobs
+5|S5|I5	Sniper the Cat
+6|S6|I201	XP
+7|S7|I217	NP
+8	dummy
+9	dummy
+10	5000 XP
+11	10000 XP
+12	30000 XP
+13	50000 XP
+14	100000 XP
+15	200000 XP
+16	500000 XP
+17	1000000 XP
+18	2000000 XP
+19	XP 500000
+20|S11|I202	Cat Ticket
+21|S12|I203	Rare Ticket
+22|S13|I200	Cat Food
+23|S16|I400	Lucky Ticket
+26|S17|I403	Lucky Ticket
+27|S18|I404	Lucky Ticket
+28|S19|I405	Lucky Ticket
+29|S20|I204	Platinum Ticket
+30|S30|I500	Purple Catfruit Seed
+31|S31|I501	Red Catfruit Seed
+32|S32|I502	Blue Catfruit Seed
+33|S33|I503	Green Catfruit Seed
+34|S34|I504	Yellow Catfruit Seed
+35|S35|I505	Purple Catfruit
+36|S36|I506	Red Catfruit
+37|S37|I507	Blue Catfruit
+38|S38|I508	Green Catfruit
+39|S39|I509	Yellow Catfruit
+40|S40|I510	Epic Catfruit
+41|S41|I511	Elder Catfruit Seed
+42|S42|I512	Elder Catfruit
+43|S43|I513	Epic Catfruit Seed
+44|S44|I514	Gold Catfruit
+45|S21|I406	Lucky Ticket
+46|S22|I407	Lucky Ticket
+47|S23|I408	Lucky Ticket
+48|S24|I409	Lucky Ticket
+49|S25|I410	Lucky Ticket
+50|S50|I600	Catseye [Special]
+51|S51|I601	Catseye [Rare]
+52|S52|I602	Catseye [Super Rare]
+53|S53|I603	Catseye [Uber Rare]
+54|S54|I604	Catseye [Legend]
+55|S55|I700	Catamin [A]
+56|S56|I701	Catamin [B]
+57|S57|I702	Catamin [C]
+58|S58|I605	Catseye [Dark]
+60|S60	Cat Cannon Attack
+61|S61	Cat Cannon Range
+62|S62	Cat Cannon Charge
+63|S63	Worker Cat Rate
+64|S64	Worker Cat Wallet
+65|S65	Base Defense
+66|S66	Research
+67|S67	Accountant
+68|S68	Study
+69|S69	Cat Energy
+70|S70	Cat Ally: Dummy 1
+71|S71	Cat Ally: Dummy 2
+72|S72	Cat Ally: Dummy 3
+73|S73	Cat Ally: Dummy 4
+74|S74	Cat Ally: Dummy 5
+75|S26|I411	Lucky Ticket
+76|S76|I205	Lucky Ticket
+77|S77|I206	G Ticket
 78	XP 100000
-85	Bricks
-86	Feathers
-87	Coal
-88	Sprockets
-89	Gold
-90	Meteorite
-91	Beast Bones
-92	Engineers
-93	Lucky Ticket
-94	G Ticket
-95	G Ticket
-96	G Ticket
-97	G Ticket
-98	G Ticket
-99	Lucky Ticket
-100	G Ticket
-101	Lucky Ticket
-102	G Ticket
-103	G Ticket
-104	Lucky Ticket
-105	Leadership
-106	G Ticket
-107	Lucky Ticket
-108	G Ticket
-109	G Ticket
-110	Lucky Ticket
-112	Lucky Ticket
-113	G Ticket
-114	G Ticket
-115	G Ticket
-116	Lucky Ticket
-117	Lucky Ticket
-118	G Ticket
-119	G Ticket
-120	G Ticket
-121	G Ticket
-122	Lucky Ticket
-124	G Ticket
-125	G Ticket
-126	Lucky Ticket
-127	Lucky Ticket
-128	G Ticket
-129	G Ticket
-130	G Ticket
-131	G Ticket
-132	Lucky Ticket
-133	G Ticket
-134	Lucky Ticket
-135	G Ticket
-136	Lucky Ticket
-137	Bikkuriman Choco
-138	G Ticket
-139	Lucky Ticket
-140	Ammonite
-141	G Ticket
-142	G Ticket
-143	Lucky Ticket
-144	G Ticket
-145	Legend Ticket 
-146	G Ticket
-147	Lucky Ticket
-148	Lucky Ticket
-149	G Ticket
-150	G Ticket
-151	Endless Rich Cats for 3 hours
-152	Endless Cat CPUs for 3 hours
-153	Endless Sniper the Cats for 3 hours
-154	G Ticket
-155	Lucky Ticket
-156	G Ticket
-157	Platinum Shard
-158	Legend Net
+80|S80|I6	XP
+81|S81|I7	XP
+82|S82|I8	XP
+83|S83|I9	XP
+84|S84|I10	XP
+85|S85|I610	Bricks
+86|S86|I611	Feathers
+87|S87|I612	Coal
+88|S88|I613	Sprockets
+89|S89|I614	Gold
+90|S90|I615	Meteorite
+91|S91|I616	Beast Bones
+92|S92	Engineers
+93|S93|I207	Lucky Ticket
+94|S94|I208	G Ticket
+95|S95|I209	G Ticket
+96|S96|I210	G Ticket
+97|S97|I211	G Ticket
+98|S98|I212	G Ticket
+99|S99|I213	Lucky Ticket
+100|S100|I214	G Ticket
+101|S101|I215	Lucky Ticket
+102|S102|I216	G Ticket
+103|S103|I218	G Ticket
+104|S104|I219	Lucky Ticket
+105|S105|I220	Leadership
+106|S106|I221	G Ticket
+107|S107|I222	Lucky Ticket
+108|S108|I223	G Ticket
+109|S109|I224	G Ticket
+110|S110|I225	Lucky Ticket
+112|S112|I226	Lucky Ticket
+113|S113|I227	G Ticket
+114|S114|I228	G Ticket
+115|S115|I229	G Ticket
+116|S116|I230	Lucky Ticket
+117|S117|I231	Lucky Ticket
+118|S118|I232	G Ticket
+119|S119|I233	G Ticket
+120|S120|I234	G Ticket
+121|S121|I235	G Ticket
+122|S122|I236	Lucky Ticket
+123|S123	Restart Pack
+124|S124|I237	G Ticket
+125|S125|I238	G Ticket
+126|S126|I239	Lucky Ticket
+127|S127|I240	Lucky Ticket
+128|S128|I241	G Ticket
+129|S129|I242	G Ticket
+130|S130|I243	G Ticket
+131|S131|I244	G Ticket
+132|S132|I245	Lucky Ticket
+133|S133|I246	G Ticket
+134|S134|I247	Lucky Ticket
+135|S135|I248	G Ticket
+136|S136|I249	Lucky Ticket
+137|S137|I413	Bikkuriman Choco
+138|S138|I250	G Ticket
+139|S139|I251	Lucky Ticket
+140|S140|I617	Ammonite
+141|S141|I252	G Ticket
+142|S142|I253	G Ticket
+143|S143|I254	Lucky Ticket
+144|S144|I255	G Ticket
+145|S145|I256	Legend Ticket 
+146|S146|I257	G Ticket
+147|S147|I258	Lucky Ticket
+148|S148|I259	Lucky Ticket
+149|S149|I260	G Ticket
+150|S150|I261	G Ticket
+151|S151	Endless Rich Cats for 3 hours
+152|S152	Endless Cat CPUs for 3 hours
+153|S153	Endless Sniper the Cats for 3 hours
+154|S154|I262	G Ticket
+155|S155|I263	Lucky Ticket
+156|S156|I264	G Ticket
+157|S157|I270	Platinum Shard
+158|S158|I414	Legend Net
 159	5000 XP
-160	Aku Catfruit Seed
-161	Aku Catfruit
-164	Gold Catfruit Seed
-166	Love Letter
-167	Purple B. Stone
-168	Red B. Stone
-169	Blue B. Stone
-170	Green B. Stone
-171	Yellow B. Stone
-172	Holy Water
-173	Legend Net
-174	Bronze Medal
-175	Silver Medal
-176	Gold Medal
-177	Platinum Medal
-179	Purple B. Gem
-180	Red B. Gem
-181	Blue B. Gem
-182	Green B. Gem
-183	Yellow B. Gem
-184	Epic B. Stone
-185	Legendary Charm
-186	Love Letter
-187	Brick Z
-188	Feathers Z
-189	Coal Z
-190	Sprockets Z
-191	Gold Z
-192	Meteorite Z
-193	Beast Bones Z
-194	Ammonite Z
-1005	Bronze Cat
-1100	Bronze Cat
+160|S160|I515	Aku Catfruit Seed
+161|S161|I516	Aku Catfruit
+164|S164|I517	Gold Catfruit Seed
+166|S166|I418	Love Letter
+167|S167|I518	Purple B. Stone
+168|S168|I519	Red B. Stone
+169|S169|I520	Blue B. Stone
+170|S170|I521	Green B. Stone
+171|S171|I522	Yellow B. Stone
+172|S172|I419	Holy Water
+173|S173|I420	Legend Net
+174|S174|I710	Bronze Medal
+175|S175|I711	Silver Medal
+176|S176|I712	Gold Medal
+177|S177|I713	Platinum Medal
+179|S179|I523	Purple B. Gem
+180|S180|I524	Red B. Gem
+181|S181|I525	Blue B. Gem
+182|S182|I526	Green B. Gem
+183|S183|I527	Yellow B. Gem
+184|S184|I528	Epic B. Stone
+185|S185|I422	Legendary Charm
+186|S186|I423	Love Letter
+187|S187|I618	Brick Z
+188|S188|I619	Feathers Z
+189|S189|I620	Coal Z
+190|S190|I621	Sprockets Z
+191|S191|I622	Gold Z
+192|S192|I623	Meteorite Z
+193|S193|I624	Beast Bones Z
+194|S194|I625	Ammonite Z
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
+1005	Bronze Cat
 1006	Droid Cat
 1007	Adult Cat
 1008	Evil Cat
 1009	Doll Cats
+1010	Maiden Cat
+1011	Cabaret Cat
+1012	Koi Cat
+1013	Madam Bride
+1014	Vacation Queen
+1015	Vengeful Cat
+1016	Kung Fu Cat X
+1018	Marshmallow Cat
+1019	Cat Kart R
+1020	Baozi Cat
+1021	Catburger
+1022	Pumpcat
+1023	A Gift of Cats
+1024	Catway
+1025	Awa-Odori Cat
+1026	Express Cat
+1027	Little Leaguer Cat
+1028	Food Stall Cat
+1029	Cheerleader Cat
+1030	Killer Cat
+1031	Curling Cat
+1032	Eggy Cat
+1033	Cat Bros
+1035	Squish Ball Cat
+1036	Volley Cat
+1037	Glass Cat
+1038	Crazed Moneko
+1039	Slug Jockey Cat
+1040	Lone Cat and Kitten
+1041	Primordial Cat
+1042	Dogumaru
+1043	Cat Bros
+1044	Mightycat
+1045	Medusa Cat
+1046	Slime Cat
+1047	Cossack Cat
+1048	Teacher BearCat
+1049	Urs & Fenrir
+1050	Rugby Cat
+1051	Phantom Cat
+1052	Bakery Cat
+1053	Stone Cat
+1054	Elder Mask Doron
+1055	Aku Researcher
+1056	Pied Piper Cat
+1057	Calligraphy Cat
+1058	Elder Beast Naala
+1059	Ancient Egg: N001
+1060	Ancient Egg: N003
+1061	Ancient Egg: N004
+1062	Ancient Egg: N000
+1063	Killer Tank Cat
+1064	Ancient Egg: N005
+1065	Jetpack Cat
+1100	Bronze Cat
 1101	Space Cat
 1102	Rope Jump Cat
 1103	Crazed Cat
@@ -173,49 +258,23 @@
 1109	Crazed Fish Cat
 1110	Crazed Lizard Cat
 1111	Crazed Titan Cat
-1010	Maiden Cat
-1011	Cabaret Cat
-1012	Koi Cat
-1033	Cat Bros
-1013	Madam Bride
 1112	Healer
-1014	Vacation Queen
-1114	Clockwork Cat
-1015	Vengeful Cat
 1113	Ururun Wolf
-1016	Kung Fu Cat X
-1035	Squish Ball Cat
+1114	Clockwork Cat
 1116	Hoop Cat
-1018	Marshmallow Cat
 1118	Li'l Nyandam
 1119	Takuya ＆ Yuki
-1019	Cat Kart R
 1120	Drumcorps Cat
-1020	Baozi Cat
-1021	Catburger
 1121	HYAKUTARO
-1022	Pumpcat
-1023	A Gift of Cats
-1024	Catway
 1130	Catornado
 1131	Red Riding Mina
 1132	Funghi
-1025	Awa-Odori Cat
-1026	Express Cat
-1027	Little Leaguer Cat
 1134	Li'l Madoka
 1135	Kyubey Cat
-1028	Food Stall Cat
-1029	Cheerleader Cat
 1137	PIKOTARO
-1030	Killer Cat
-1031	Curling Cat
 1139	Miyamoku Musashi
-1032	Eggy Cat
 1140	Redhead Yuki Cat
 1142	Li'l Shirou
-1036	Volley Cat
-1037	Glass Cat
 1143	Akio Yabe
 1144	Karin Nekozuka
 1145	Misaki Konno
@@ -224,58 +283,22 @@
 1148	Mentori
 1149	Shinji & Cat
 1150	Giraffe Unit-01
-1038	Crazed Moneko
 1151	Pokota
 1152	Ovis
 1153	Coco
 1157	Mecha-Bun
-1039	Slug Jockey Cat
 1158	Betakkuma
-1040	Lone Cat and Kitten
-1041	Primordial Cat
 1160	Meowla Meowla
-1042	Dogumaru
 1162	Prince Yamato
 1164	Kano ＆ Souma
-1043	Cat Bros
-1044	Mightycat
 1167	Ryu Cat
 1168	Akuma Giraffe
-1045	Medusa Cat
-1046	Slime Cat
-1047	Cossack Cat
-1048	Teacher BearCat
-1049	Urs & Fenrir
 1170	Miku Cat
-1050	Rugby Cat
-1051	Phantom Cat
-1052	Bakery Cat
 1172	Idi:N
-1053	Stone Cat
 1173	Ranma Cat (M)
 1174	Godzilla Cat
-1054	Elder Mask Doron
-1055	Aku Researcher
-1056	Pied Piper Cat
-1057	Calligraphy Cat
-1058	Elder Beast Naala
-1059	Ancient Egg N001
-1060	Ancient Egg: N003
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
-1061	Ancient Egg: N004
-1062	Ancient Egg: N000
-1063	Killer Tank Cat
-1064	Ancient Egg N005
-19001	Mohawk Cat
-19002	Eraser Cat
-19003	Dark Cat
-19004	Macho Leg Cat
-19005	Lion Cat
-19006	The Flying Cat
-19007	Island Cat
-19008	King Dragon Cat
-19009	Jamiera Cat
 10010	Beefcake Cat
 10011	Dancer Cat
 10012	Hyper Mr.
@@ -283,7 +306,6 @@
 10014	Dark Lazer
 10015	Heavy Assault C.A.T.
 10016	Lollycat
-15017	Superstar MONEKO
 10018	Unicycle Cat
 10019	Flying Ninja Cat
 10020	Skelecat
@@ -291,8 +313,75 @@
 10022	Riceball Cat
 10023	Gato Amigo
 10024	Loincloth Cat
-18025	Holy Valkyrie Cat
-18026	Awakened Bahamut Cat
+10061	Quizmaster Cat
+10064	Rampage Cats
+10071	Ritual Cat
+10075	Xmas Pudding Cat
+10079	Space Marine Cat
+10080	Prisoner Cat
+10081	Gentleman Bros.
+10082	Nyalladin
+10089	Noodle Cats
+10092	Manic Mohawk Cat
+10093	Manic Eraser Cat
+10094	Manic Dark Cat
+10095	Manic Macho Legs
+10096	Manic Lion Cat
+10097	Manic Flying Cat
+10098	Manic Island Cat
+10099	Manic King Dragon
+10100	Manic Jamiera Cat
+10101	Wrestling Cat
+10104	Mega Cat EX
+10105	Kiss and Koi
+10110	Madam the Savannah
+10120	Healer Cat CC
+10122	Merc & Cat CC
+10123	Call Center Cat
+10127	Puppetmaster & Charley
+10128	Bombercat
+10129	Kite Cat
+10133	Iron Claw X
+10155	Hoopmaster Cat
+10180	Takuya＆ Lovely Yuki
+10184	Cat Kart P
+10192	Titi Cat CC
+10202	Mochi Cat
+10210	Li'l Mohawk Cat
+10211	Li'l Eraser Cat
+10212	Li'l Dark Cat
+10214	Value Meal Cat
+10246	Li'l Macho Legs Cat
+10247	Li'l Lion Cat
+10248	Li'l Flying Cat
+10261	Time Traveller Cat
+10268	Catyphoon
+10274	Soba Cat
+10285	Bullet Train Cat
+10288	Golfer Cat
+10300	Li'l Ultimate Madoka
+10301	Li'l Devil Homura
+10312	Li'l Island Cat
+10313	Li'l King Dragon Cat
+10314	Li'l Jamiera Cat
+10325	Green Shell Cat
+10330	Easter Egg Cat
+10353	Masked Grandmaster Cat
+10370	Saber Alter Cat
+10380	Curry Cat
+10383	Macho Crystal Cat
+10384	Spiritual Yulala
+10386	Akio & Gunder CC
+10403	Plug Suit Shinji Black
+10406	Moon Kaworu
+10443	Tourist Cat
+10453	Future Cat
+10474	Rampaging Yamato
+10475	Strike Angel
+10522	Naga Cat
+10532	Cadaver BearCat
+10540	Gridiron Cat
+15017	Superstar MONEKO
 15031	Tathagata Cat
 15032	Ultra Delinquent Cat
 15033	Can Can Cat
@@ -320,53 +409,23 @@
 15058	Paladin Cat
 15059	Elemental Duelist Cat
 15060	Cats in the Cradle
-10061	Quizmaster Cat
 15062	Roe Cat
-10064	Rampage Cats
-10071	Ritual Cat
 15072	Immortal Yukimura
 15073	Immortal Keiji
 15074	Immortal Nobunaga
-10075	Xmas Pudding Cat
 15076	Divine Windy
 15077	Divine Thundia
-10079	Space Marine Cat
-10080	Prisoner Cat
-10081	Gentleman Bros.
-10082	Nyalladin
 15084	God-Emperor Sodom
 15085	God-Emperor Megidora
 15086	God-Emperor Vars
 15087	God-Emperor Kamukura
 15088	God-Emperor Raiden
-10089	Noodle Cats
-10092	Manic Mohawk Cat
-10093	Manic Eraser Cat
-10094	Manic Dark Cat
-10095	Manic Macho Legs
-10096	Manic Lion Cat
-10097	Manic Flying Cat
-10098	Manic Island Cat
-10099	Manic King Dragon
-10100	Manic Jamiera Cat
-10101	Wrestling Cat
-10104	Mega Cat EX
-10105	Kiss and Koi
 15106	Divine Kuu
 15107	Divine Kai
 15108	Divine Coppermine
-10110	Madam the Savannah
-10120	Healer Cat CC
-10122	Merc & Cat CC
-10123	Call Center Cat
 15125	Immortal Masamune
 15126	Immortal Shingen
-10127	Puppetmaster & Charley
-10128	Bombercat
-10129	Kite Cat
 15130	Glittering Macho Cat
-16131	Awakened Ururun
-10133	Iron Claw X
 15135	King Gamereon
 15136	Ultima Galaxy Cosmo
 15137	The Peach Devils
@@ -383,37 +442,26 @@
 15152	Pizza Cat
 15153	Slapstick Cats
 15154	Catophone
-10155	Hoopmaster Cat
 15159	Immortal Kenshin
 15160	Divine Kalisa
 15169	Assassinlan Pasalan
 15170	E. Kubilan Pasalan
-15170	Lufalan Pasalan
 15172	Piccolan Pasalan
-16173	Schoolbus Nyandam
 15174	Citizen Mola
 15175	Master of the Pacific
 15178	God-Emperor Dioramos
-10180	Takuya＆ Lovely Yuki
 15181	Mystery Catgirl Yuki
-10184	Cat Kart P
 15186	Revolutionary Hearscht CC
 15188	Holiday Juvens CC
 15189	Savior Mystica CC
-10192	Titi Cat CC
 15195	Inferno Akira
 15196	Mission Control Mekako
 15197	Ultimate Catman
 15198	Corrupted Psychocat
 15199	Thaumaturge Cat
 15200	Seafarer Cat
-10202	Mochi Cat
 15204	Kachiyama Assault Brigade
-10210	Li'l Mohawk Cat
-10211	Li'l Eraser Cat
-10212	Li'l Dark Cat
 15213	The Grey Fox
-10214	Value Meal Cat
 15227	Mad Doctor Klay
 15228	Harbinger Cat
 15229	Costumed Witchy Neneko
@@ -421,29 +469,18 @@
 15239	Richest Cat
 15240	Sniper the Deadeye
 15241	Shishilan Pasalan
-10246	Li'l Macho Legs Cat
-10247	Li'l Lion Cat
-10248	Li'l Flying Cat
 15249	Extra-Life Cat
 15258	Almighty Zeus
 15259	Almighty Anubis
 15260	Almighty Aphrodite
-10261	Time Traveller Cat
 15262	Akuma Hayabusa
-10268	Catyphoon
-16269	Awakened Mina
 15271	Crazed Catgirl Yuki
 15272	Almighty Amaterasu
 15273	Almighty Ganesha
-10274	Soba Cat
 15277	Early Summer Neneko
 15283	Gorgeous Groovin' Cat
 15284	Pai-Pai DX
-10285	Bullet Train Cat
 15287	Flight Unit R.E.I.
-10288	Golfer Cat
-10300	Li'l Ultimate Madoka
-10301	Li'l Devil Homura
 15303	Queen Succubus Cat
 15305	CAT-8 Behemoth
 15306	B.C.S. Tigerclaw
@@ -451,17 +488,11 @@
 15308	Housewife Cat
 15309	Weedwacker Cat
 15311	Xmas Spirit Nurse
-10312	Li'l Island Cat
-10313	Li'l King Dragon Cat
-10314	Li'l Jamiera Cat
 15315	Festive New Year Neneko
 15317	Almighty Poseidon
 15320	Radical Cat
 15323	The One-Hit Wonders
-16324	Awakened Musashi
-10325	Green Shell Cat
 15326	Ectoweight Cat
-10330	Easter Egg Cat
 15331	Spring Breeze Kenshin
 15332	Malevolent Mad-Duck
 15333	Blossoming Neneko
@@ -473,7 +504,6 @@
 15345	Artist Orthos CC
 15346	Naptime Michelia CC
 15352	Divine Twinstars
-10353	Masked Grandmaster Cat
 15356	Orbital Annihilator Ragnarok
 15358	Jester Queen Deale
 15359	Opulent Verbena
@@ -481,14 +511,9 @@
 15361	Mizuririn
 15362	Aervanta
 15363	Saber Alter CC
-10370	Saber Alter Cat
 15371	Dreaming Sakura Cat
 15377	Catellite
 15378	The Kitty of Liberty
-10380	Curry Cat
-10383	Macho Crystal Cat
-10384	Spiritual Yulala
-10386	Akio & Gunder CC
 15391	Baseball Mask α
 15392	Baseball Mask β
 15393	Baseball Mask γ
@@ -498,33 +523,24 @@
 15397	Ganglion the Unleashed
 15398	Sacred Blade Sakura
 15402	Gigavolta
-10403	Plug Suit Shinji Black
-10406	Moon Kaworu
 15411	Eyepatch Li'l Asuka
 15415	Unit-02, Code 777
 15418	Subterra Sentinels
-16427	Ultimate Mecha-Bun
 15428	Cat Quest Heroes
 15432	Section Chief Gravicci
 15437	Mystican Pasalan
 15438	Cat God the Golden
 15440	Almighty Chronos
-10443	Tourist Cat
 15444	Neo Driller Cat
 15445	Neo Piledriver Cat
 15446	Neo Cutter Cat
 15447	Neo Backhoe Cat
 15448	Neo Saw Cat
 15451	God-Emperor Babel
-10453	Future Cat
 15457	Dark Sakura CC
-16463	Metafilibuster
-16465	Reborn Warrior Doguemon
 15468	Super S-Zeus
 15469	Head Rococo
 15470	Super D-Devil
-10474	Rampaging Yamato
-10475	Strike Angel
 15483	Cat-Eared Souma
 15496	Bellydance Cat
 15497	Immortal Kaihime
@@ -533,15 +549,11 @@
 15507	Nameless Eyewaltz CC
 15512	Kage
 15520	Lasvoss Reborn
-10522	Naga Cat
 15523	Fiend Cat
 15524	Shigong Cat
 15526	Kinrangers GigaForce
-10532	Cadaver BearCat
-16533	Awakened Urs
 15534	Bad Blaster Saki
 15535	Almighty Hades
-10540	Gridiron Cat
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
 15564	Aquablaster Saki
@@ -556,17 +568,15 @@
 15596	Everbloom Lord Kamukura
 15608	Fabled Adventure Girl Kanna
 15611	King Nekokhamen
-16614	Awakened Doron
 15615	The Southern Sunflare
 15618	Devil Hunter Satoru
 15619	Immortal Amakusa
 15620	Divine Lilin π
+15621	God-Emperor Hevijak
 15632	Yaminora
 15633	Obliterator Diabolosa
 15643	Almighty Lucifer
-19010	True Superfeline
 15645	Minty Love Mekako
-16654	Awakened Naala
 15657	Haniwa Cat
 15659	Courier Cat
 15660	Catarzan
@@ -581,6 +591,30 @@
 15692	Ape Lord Luza
 15698	Cat Chief
 15701	Hitman Cat
+15707	Soap Cat
+15708	Barrel Cat
+16131	Awakened Ururun
+16173	Schoolbus Nyandam
+16269	Awakened Mina
+16324	Awakened Musashi
+16427	Ultimate Mecha-Bun
+16463	Metafilibuster
+16465	Reborn Warrior Doguemon
+16533	Awakened Urs
+16614	Awakened Doron
+16654	Awakened Naala
+18025	Holy Valkyrie Cat
+18026	Awakened Bahamut Cat
+19001	Mohawk Cat
+19002	Eraser Cat
+19003	Dark Cat
+19004	Macho Leg Cat
+19005	Lion Cat
+19006	The Flying Cat
+19007	Island Cat
+19008	King Dragon Cat
+19009	Jamiera Cat
+19010	True Superfeline
 30000	Attack Up D: Red
 30001	Attack Up C: Red
 30002	Attack Up B: Red

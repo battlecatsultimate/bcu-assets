@@ -618,7 +618,7 @@
 617	Beschwörer Satoru	Dunkler Beschwörer Satoru	Teufelsjäger Satoru
 618	Shiro Amakusa	Kriegsgott Amakusa	Unsterblicher Amakusa
 619	Lilin	Lilin π	Himmlische Lilin π
-620	Hevijak der Böse	Böser König Hevijak	
+620	Hevijak der Böse	Böser König Hevijak	Hevijak der Gottkaiser
 621	Aku-Forscher	Böser Aku-Forscher	
 622	Jagando Jr.	Jagando Jr., Herr d. Zerst.	
 623	Rattenfänger-Katze	Komuso-Katze	
@@ -703,3 +703,7 @@
 702			
 703			
 704			
+705	Verderbenskönig Phono	Auslöschungskönig Phono	
+706	Uraltes Ei: N108	Petrol-Ei: N108	Seifenkatze
+707	Uraltes Ei: N109	Dunkles Ei: N109	Fass-Katze
+708	Jetpack-Katze	Kinjirou-Katze	

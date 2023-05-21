@@ -618,7 +618,7 @@
 617	La Forma Reale ottiene maggiore difesa!<br>Possibilità Perfora scudo aumentata<br>e respinge al 100%!
 618	La Forma Reale ottiene maggiore<br>difesa e velocità d'attacco!<br>
 619	La Forma Reale aumenta la difesa!<br>Ottiene anche attacco a valanga!<br>
-620	<br><br>
+620	La Forma Reale ottiene maggiore<br>la difesa, l'attacco e il raggio!<br>ad area respingono rossi e Aku.
 621	<br><br>
 622	<br><br>
 623	<br><br>
@@ -703,3 +703,7 @@
 702	<br><br>
 703	<br><br>
 704	<br><br>
+705	<br><br>
+706	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+707	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+708	<br><br>

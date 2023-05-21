@@ -747,3 +747,7 @@
 9421	【80 Mio. DL】Schließ 3x Level von "Monatl. Event-Stars" ab!
 9422	【80 Mio. DL】Schließ 5x Level von "Monatl. Event-Stars" ab!
 9423	【80 Mio. DL】Schließe alle Eventmissionen ab. und verdiene 1 Platinsplitter!
+57	Schließe 40 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+58	Schließe 45 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+59	Schließe alle „Unh. Legenden“-Level der Stufe 2 ab,. um diese Mission abzuschließen
+9424	Zyklonfest-Missionen. Schließe das Level „Der große Diablo“ ab!

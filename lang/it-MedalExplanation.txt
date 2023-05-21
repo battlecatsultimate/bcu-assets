@@ -103,3 +103,6 @@
 102	Supera il 40° piano della Torre infernale
 103	Supera ogni livello 1<br>delle Leggende misteriose
 104	Sblocca Luza lo scimmione
+105	Supera "Il regno del tiranno"
+106	Supera ogni livello 2 delle Leggende misteriose
+107	Supera la mappa sfida "Presagi"

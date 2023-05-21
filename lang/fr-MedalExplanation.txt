@@ -103,3 +103,6 @@
 102	Terminer le 40e étage de la Tour infernale
 103	Termine tous les niveaux<br>Légende mystérieuse de niveau 1
 104	Débloque le Seigneur gorille Luza
+105	Termine le Règne du tyran
+106	Termine tous les niveaux Légende mystérieuse de niveau 2
+107	Termine la carte Défi « Présages »

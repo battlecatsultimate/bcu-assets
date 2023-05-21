@@ -618,7 +618,7 @@
 617	Summoner Satoru	Dark Summoner Satoru	Devil Hunter Satoru
 618	Shiro Amakusa	Wargod Amakusa	Immortal Amakusa
 619	Lilin	Lilin π	Divine Lilin π
-620	Hevijak the Wicked	Wicked King Hevijak	
+620	Hevijak the Wicked	Wicked King Hevijak	God-Emperor Hevijak
 621	Aku Researcher	Evil Aku Researcher	
 622	Jagando Jr.	Lord of Ruin Jagando Jr.	
 623	Pied Piper Cat	Komuso Cat	
@@ -654,7 +654,7 @@
 653	Elder Beast Naala	Storm Beast Naala	Awakened Naala
 654	Brainwashed Gross Cat	Brainwashed Sexy Legs Cat	
 655	Bliza	Blizana	
-656	Ancient Egg N001	Mystic Egg N001	Haniwa Cat
+656	Ancient Egg: N001	Mystic Egg: N001	Haniwa Cat
 657	Iz the Dancer of Grief	Iz the Lady of Mourning	
 658	Ancient Egg: N101	Cinnabar Egg: N101	Courier Cat
 659	Ancient Egg: N102	Teal Egg: N102	Catarzan
@@ -698,8 +698,12 @@
 697	Ancient Egg: N107	Violet Egg: N107	Cat Chief
 698	Thunder Jack	Bloody Jack	
 699	Rabbit Satoru	Rabbit Champion Satoru	
-700	Ancient Egg N005	Mystic Egg N005	Hitman Cat
+700	Ancient Egg: N005	Mystic Egg: N005	Hitman Cat
 701			
 702			
 703			
 704			
+705	King of Doom Phono	King of Extinction Phono	
+706	Ancient Egg: N108	Teal Egg: N108	Soap Cat
+707	Ancient Egg: N109	Dark Egg: N109	Barrel Cat
+708	Jetpack Cat	Kinjirou Cat	

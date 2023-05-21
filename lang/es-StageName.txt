@@ -1493,6 +1493,11 @@
 001-339-001	Camino a +nvl. 50
 001-339-002	Camino a +nvl. 55
 001-339-003	Camino a +nvl. 60
+001-340		Reino del Tirano
+001-340-000	Tirano Infernal 1 (Mortal)
+001-340-001	Tirano Infernal 2 (Inhumano)
+001-340-002	Tirano Infernal 3 (Inhumano)
+001-340-003	Tirano Infernal Definitivo (Brutal)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3092,6 +3097,17 @@
 007-007-007	Piso 8
 007-007-008	Piso 9
 007-007-009	Último Piso
+007-008		Ciudadela Aku
+007-008-000	Piso 1
+007-008-001	Piso 2
+007-008-002	Piso 3
+007-008-003	Piso 4
+007-008-004	Piso 5
+007-008-005	Piso 6
+007-008-006	Piso 7
+007-008-007	Piso 8
+007-008-008	Piso 9
+007-008-009	Último Piso
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -4884,6 +4900,9 @@
 031-000-011	Zona de la Jungla Aguacero 12
 031-000-012	Zona de la Jungla Aguacero 13
 031-000-013	Zona de la Jungla Aguacero 14
+031-000-014	Zona de la Jungla Aguacero 15
+031-000-015	Zona de la Jungla Aguacero 16
+031-000-016	Zona del Bosque Primitivo 17
 031-001		Desierto de Ashvini
 031-001-000	Zona Baldía 1
 031-001-001	Zona Baldía 2
@@ -4899,6 +4918,9 @@
 031-001-011	Zona de la Arena Ardiente 12
 031-001-012	Zona de la Arena Ardiente 13
 031-001-013	Zona de la Arena Ardiente 14
+031-001-014	Zona de la Arena Ardiente 15
+031-001-015	Zona de la Arena Ardiente 16
+031-001-016	Zona de la Tormenta de Arena 17
 031-002		Volcán Jinfore
 031-002-000	Zona del Túnel de Magma 1
 031-002-001	Zona del Túnel de Magma 2
@@ -4914,6 +4936,9 @@
 031-002-011	Zona del Cráter Infernal 12
 031-002-012	Zona del Cráter Infernal 13
 031-002-013	Zona del Cráter Infernal 14
+031-002-014	Zona del Cráter Infernal 15
+031-002-015	Zona del Cráter Infernal 16
+031-002-016	Zona de la Caverna en Erupción 17
 
 033			Profundidades
 033-000		Profundidades
@@ -5009,15 +5034,27 @@
 033-000-089	Bajo Tierra S61~69/71~79/81~89/91~98
 033-000-090	Bajo Tierra S10
 033-000-091	Bajo Tierra S10
-033-000-092	Bajo Tierra S20/30
-033-000-093	Bajo Tierra S20/30
-033-000-094	Bajo Tierra S40/50/60
-033-000-095	Bajo Tierra S40/50/60
-033-000-096	Bajo Tierra S40/50/60
-033-000-097	Bajo Tierra S70/80/99
-033-000-098	Bajo Tierra S70/80/99
-033-000-099	Bajo Tierra S70/80/99
-033-000-100	Bajo Tierra S70/80/99
+033-000-092	Bajo Tierra S10
+033-000-093	Bajo Tierra S10
+033-000-094	Bajo Tierra S20/30
+033-000-095	Bajo Tierra S20/30
+033-000-096	Bajo Tierra S20/30
+033-000-097	Bajo Tierra S20/30
+033-000-098	Bajo Tierra S40/50/60
+033-000-099	Bajo Tierra S40/50/60
+033-000-100	Bajo Tierra S40/50/60
+033-000-101	Bajo Tierra S40/50/60
+033-000-102	Bajo Tierra S40/50/60
+033-000-103	Bajo Tierra S40/50/60
+033-000-104	Bajo Tierra S70/80/90/99
+033-000-105	Bajo Tierra S70/80/90/99
+033-000-106	Bajo Tierra S70/80/90/99
+033-000-107	Bajo Tierra S70/80/90/99
+033-000-108	Bajo Tierra S70/80/90/99
+033-000-109	Bajo Tierra S70/80/90/99
+033-000-110	Bajo Tierra S70/80/90/99
+033-000-111	Bajo Tierra S70/80/90/99
+033-000-112	Lo Más Hondo S100
 
 034			ND
 034-000		Zona Cero
@@ -5029,3 +5066,10 @@
 034-001-003	La teoría gatotatoria
 034-001-004	Protones, neutrones y bufones
 034-001-005	Páramo neutrino
+034-002		Cuna lavabo gatuna
+034-002-000	Serranía Choco
+034-002-001	Senda Modorra
+034-002-002	Orilla Chiflada
+034-002-003	Fiordo Fangoso
+034-002-004	Cima Rayuela
+034-002-005	Bosque Abracadabra

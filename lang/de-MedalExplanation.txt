@@ -103,3 +103,6 @@
 102	Schließe Ebene 40 des Höllischen Turms ab.
 103	Schließe alle „Unh. Legenden“-<br>Level der Stufe 1 ab.
 104	Affenlord Luza freischalten
+105	Schließe „Herrschaft des Tyrannen“ ab
+106	Schließe alle „Unh. Legenden“-Level der Stufe 2 ab.
+107	Schließe die „Omen“-Turnierkarte ab

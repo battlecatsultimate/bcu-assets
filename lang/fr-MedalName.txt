@@ -103,3 +103,6 @@
 102	★ Inferno 40 ★
 103	★ Je suis une légende mystérieuse 1 ★
 104	★ Seigneur Luza ★
+105	★ Tyran infernal Nyandam ★
+106	★ Je suis une légende mystérieuse 2 ★
+107	★ Présages ★

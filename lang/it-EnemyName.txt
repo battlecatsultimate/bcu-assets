@@ -638,3 +638,10 @@
 637	Presagi
 638	Ciclone bianco mini
 639	Deonil Pegaso infernale
+640	Suinus Maialinus
+641	Elephantidae Papaou
+642	Tiranno infernale Nyandam
+643	Grande Maga Mimon
+644	
+645	
+646	

@@ -747,3 +747,7 @@
 9421	【80M DL】Clear "Monthly Event All-Stars" stages 3 times!
 9422	【80M DL】Clear "Monthly Event All-Stars" stages 5 times!
 9423	【80M DL】Clear all event missions. to earn 1 Platinum Shard!
+57	Clear 40 Behemoth Culling Stages for the first time
+58	Clear 45 Behemoth Culling Stages for the first time
+59	Clear all Level 2 Uncanny Legend stages. to complete this mission
+9424	Cyclone Festival Missions. Clear the "The Great Diablo" stage!

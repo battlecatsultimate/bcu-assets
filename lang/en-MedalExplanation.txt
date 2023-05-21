@@ -103,3 +103,6 @@
 102	Clear Floor 40 of the Infernal Tower
 103	Clear All Level 1<br>Uncanny Legend stages
 104	Unlock Ape Lord Luza
+105	Clear "Reign of the Tyrant"
+106	Clear All Level 2<br>Uncanny Legend stages
+107	Clear the "Omens" Gauntlet Map

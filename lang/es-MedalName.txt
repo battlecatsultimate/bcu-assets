@@ -103,3 +103,6 @@
 102	★ Infierno 40 ★
 103	★ Soy Leyenda Inquietante 1 ★
 104	★ Lord Luza ★
+105	★ Tirano Infernal Nyandam ★
+106	★ Soy Leyenda Inquietante 2 ★
+107	★ Augurios ★

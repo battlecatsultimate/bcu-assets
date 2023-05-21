@@ -1489,6 +1489,11 @@
 001-339-001	Weg zu St. 50+
 001-339-002	Weg zu St. 55+
 001-339-003	Weg zu St. 60+
+001-340		Herrschaft des Tyrannen
+001-340-000	Höllischer Tyrann 1 (Tödlich)
+001-340-001	Höllischer Tyrann 2 (Gnadenlos)
+001-340-002	Höllischer Tyrann 3 (Gnadenlos)
+001-340-003	Höllischer Tyrann: Höhepunkt (Brutal)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -3088,6 +3093,17 @@
 007-007-007	Ebene 8
 007-007-008	Ebene 9
 007-007-009	Oberste Ebene
+007-008		Akuzitadelle
+007-008-000	Ebene 1
+007-008-001	Ebene 2
+007-008-002	Ebene 3
+007-008-003	Ebene 4
+007-008-004	Ebene 5
+007-008-005	Ebene 6
+007-008-006	Ebene 7
+007-008-007	Ebene 8
+007-008-008	Ebene 9
+007-008-009	Oberste Ebene
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -4807,6 +4823,9 @@
 031-000-011	Verregnetes Dschungelgebiet 12
 031-000-012	Verregnetes Dschungelgebiet 13
 031-000-013	Verregnetes Dschungelgebiet 14
+031-000-014	Verregnetes Dschungelgebiet 15
+031-000-015	Verregnetes Dschungelgebiet 16
+031-000-016	Urtümliches Waldgebiet 17
 031-001		Ashvini-Wüste
 031-001-000	Einöde 1
 031-001-001	Einöde 2
@@ -4822,6 +4841,9 @@
 031-001-011	Sengendes Sandgebiet 12
 031-001-012	Sengendes Sandgebiet 13
 031-001-013	Sengendes Sandgebiet 14
+031-001-014	Sengendes Sandgebiet 15
+031-001-015	Sengendes Sandgebiet 16
+031-001-016	Sandsturmgebiet 17
 031-002		Jinfore-Vulkan
 031-002-000	Magmatunnel 1
 031-002-001	Magmatunnel 2
@@ -4837,110 +4859,125 @@
 031-002-011	Höllenkratergebiet 12
 031-002-012	Höllenkratergebiet 13
 031-002-013	Höllenkratergebiet 14
+031-002-014	Höllenkratergebiet 15
+031-002-015	Höllenkratergebiet 16
+031-002-016	Ausbrechendes Höhlengebiet 17
 
 033			Die Große Tiefe
 033-000		Die Große Tiefe
-033-000-000	Untergrund B1~9F
-033-000-001	Untergrund B1~9F
-033-000-002	Untergrund B1~9F
-033-000-003	Untergrund B1~9F
-033-000-004	Untergrund B1~9F
-033-000-005	Untergrund B1~9F
-033-000-006	Untergrund B1~9F
-033-000-007	Untergrund B1~9F
-033-000-008	Untergrund B1~9F
-033-000-009	Untergrund B11~19/21~29F
-033-000-010	Untergrund B11~19/21~29F
-033-000-011	Untergrund B11~19/21~29F
-033-000-012	Untergrund B11~19/21~29F
-033-000-013	Untergrund B11~19/21~29F
-033-000-014	Untergrund B11~19/21~29F
-033-000-015	Untergrund B11~19/21~29F
-033-000-016	Untergrund B11~19/21~29F
-033-000-017	Untergrund B11~19/21~29F
-033-000-018	Untergrund B11~19/21~29F
-033-000-019	Untergrund B11~19/21~29F
-033-000-020	Untergrund B11~19/21~29F
-033-000-021	Untergrund B11~19/21~29F
-033-000-022	Untergrund B11~19/21~29F
-033-000-023	Untergrund B11~19/21~29F
-033-000-024	Untergrund B11~19/21~29F
-033-000-025	Untergrund B11~19/21~29F
-033-000-026	Untergrund B11~19/21~29F
-033-000-027	Untergrund B31~39/41~49/51~59F
-033-000-028	Untergrund B31~39/41~49/51~59F
-033-000-029	Untergrund B31~39/41~49/51~59F
-033-000-030	Untergrund B31~39/41~49/51~59F
-033-000-031	Untergrund B31~39/41~49/51~59F
-033-000-032	Untergrund B31~39/41~49/51~59F
-033-000-033	Untergrund B31~39/41~49/51~59F
-033-000-034	Untergrund B31~39/41~49/51~59F
-033-000-035	Untergrund B31~39/41~49/51~59F
-033-000-036	Untergrund B31~39/41~49/51~59F
-033-000-037	Untergrund B31~39/41~49/51~59F
-033-000-038	Untergrund B31~39/41~49/51~59F
-033-000-039	Untergrund B31~39/41~49/51~59F
-033-000-040	Untergrund B31~39/41~49/51~59F
-033-000-041	Untergrund B31~39/41~49/51~59F
-033-000-042	Untergrund B31~39/41~49/51~59F
-033-000-043	Untergrund B31~39/41~49/51~59F
-033-000-044	Untergrund B31~39/41~49/51~59F
-033-000-045	Untergrund B31~39/41~49/51~59F
-033-000-046	Untergrund B31~39/41~49/51~59F
-033-000-047	Untergrund B31~39/41~49/51~59F
-033-000-048	Untergrund B31~39/41~49/51~59F
-033-000-049	Untergrund B31~39/41~49/51~59F
-033-000-050	Untergrund B31~39/41~49/51~59F
-033-000-051	Untergrund B31~39/41~49/51~59F
-033-000-052	Untergrund B31~39/41~49/51~59F
-033-000-053	Untergrund B31~39/41~49/51~59F
-033-000-054	Untergrund B61~69/71~79/81~89/91~98F
-033-000-055	Untergrund B61~69/71~79/81~89/91~98F
-033-000-056	Untergrund B61~69/71~79/81~89/91~98F
-033-000-057	Untergrund B61~69/71~79/81~89/91~98F
-033-000-058	Untergrund B61~69/71~79/81~89/91~98F
-033-000-059	Untergrund B61~69/71~79/81~89/91~98F
-033-000-060	Untergrund B61~69/71~79/81~89/91~98F
-033-000-061	Untergrund B61~69/71~79/81~89/91~98F
-033-000-062	Untergrund B61~69/71~79/81~89/91~98F
-033-000-063	Untergrund B61~69/71~79/81~89/91~98F
-033-000-064	Untergrund B61~69/71~79/81~89/91~98F
-033-000-065	Untergrund B61~69/71~79/81~89/91~98F
-033-000-066	Untergrund B61~69/71~79/81~89/91~98F
-033-000-067	Untergrund B61~69/71~79/81~89/91~98F
-033-000-068	Untergrund B61~69/71~79/81~89/91~98F
-033-000-069	Untergrund B61~69/71~79/81~89/91~98F
-033-000-070	Untergrund B61~69/71~79/81~89/91~98F
-033-000-071	Untergrund B61~69/71~79/81~89/91~98F
-033-000-072	Untergrund B61~69/71~79/81~89/91~98F
-033-000-073	Untergrund B61~69/71~79/81~89/91~98F
-033-000-074	Untergrund B61~69/71~79/81~89/91~98F
-033-000-075	Untergrund B61~69/71~79/81~89/91~98F
-033-000-076	Untergrund B61~69/71~79/81~89/91~98F
-033-000-077	Untergrund B61~69/71~79/81~89/91~98F
-033-000-078	Untergrund B61~69/71~79/81~89/91~98F
-033-000-079	Untergrund B61~69/71~79/81~89/91~98F
-033-000-080	Untergrund B61~69/71~79/81~89/91~98F
-033-000-081	Untergrund B61~69/71~79/81~89/91~98F
-033-000-082	Untergrund B61~69/71~79/81~89/91~98F
-033-000-083	Untergrund B61~69/71~79/81~89/91~98F
-033-000-084	Untergrund B61~69/71~79/81~89/91~98F
-033-000-085	Untergrund B61~69/71~79/81~89/91~98F
-033-000-086	Untergrund B61~69/71~79/81~89/91~98F
-033-000-087	Untergrund B61~69/71~79/81~89/91~98F
-033-000-088	Untergrund B61~69/71~79/81~89/91~98F
-033-000-089	Untergrund B61~69/71~79/81~89/91~98F
-033-000-090	Untergrund B10F
-033-000-091	Untergrund B10F
-033-000-092	Untergrund B20/30F
-033-000-093	Untergrund B20/30F
-033-000-094	Untergrund B40/50/60F
-033-000-095	Untergrund B40/50/60F
-033-000-096	Untergrund B40/50/60F
-033-000-097	Untergrund B70/80/99F
-033-000-098	Untergrund B70/80/99F
-033-000-099	Untergrund B70/80/99F
-033-000-100	Untergrund B70/80/99F
+033-000-000	Untergrund 1~9. UG
+033-000-001	Untergrund 1~9. UG
+033-000-002	Untergrund 1~9. UG
+033-000-003	Untergrund 1~9. UG
+033-000-004	Untergrund 1~9. UG
+033-000-005	Untergrund 1~9. UG
+033-000-006	Untergrund 1~9. UG
+033-000-007	Untergrund 1~9. UG
+033-000-008	Untergrund 1~9. UG
+033-000-009	Untergrund 11~19/21~29. UG
+033-000-010	Untergrund 11~19/21~29. UG
+033-000-011	Untergrund 11~19/21~29. UG
+033-000-012	Untergrund 11~19/21~29. UG
+033-000-013	Untergrund 11~19/21~29. UG
+033-000-014	Untergrund 11~19/21~29. UG
+033-000-015	Untergrund 11~19/21~29. UG
+033-000-016	Untergrund 11~19/21~29. UG
+033-000-017	Untergrund 11~19/21~29. UG
+033-000-018	Untergrund 11~19/21~29. UG
+033-000-019	Untergrund 11~19/21~29. UG
+033-000-020	Untergrund 11~19/21~29. UG
+033-000-021	Untergrund 11~19/21~29. UG
+033-000-022	Untergrund 11~19/21~29. UG
+033-000-023	Untergrund 11~19/21~29. UG
+033-000-024	Untergrund 11~19/21~29. UG
+033-000-025	Untergrund 11~19/21~29. UG
+033-000-026	Untergrund 11~19/21~29. UG
+033-000-027	Untergrund 31~39/41~49/51~59. UG
+033-000-028	Untergrund 31~39/41~49/51~59. UG
+033-000-029	Untergrund 31~39/41~49/51~59. UG
+033-000-030	Untergrund 31~39/41~49/51~59. UG
+033-000-031	Untergrund 31~39/41~49/51~59. UG
+033-000-032	Untergrund 31~39/41~49/51~59. UG
+033-000-033	Untergrund 31~39/41~49/51~59. UG
+033-000-034	Untergrund 31~39/41~49/51~59. UG
+033-000-035	Untergrund 31~39/41~49/51~59. UG
+033-000-036	Untergrund 31~39/41~49/51~59. UG
+033-000-037	Untergrund 31~39/41~49/51~59. UG
+033-000-038	Untergrund 31~39/41~49/51~59. UG
+033-000-039	Untergrund 31~39/41~49/51~59. UG
+033-000-040	Untergrund 31~39/41~49/51~59. UG
+033-000-041	Untergrund 31~39/41~49/51~59. UG
+033-000-042	Untergrund 31~39/41~49/51~59. UG
+033-000-043	Untergrund 31~39/41~49/51~59. UG
+033-000-044	Untergrund 31~39/41~49/51~59. UG
+033-000-045	Untergrund 31~39/41~49/51~59. UG
+033-000-046	Untergrund 31~39/41~49/51~59. UG
+033-000-047	Untergrund 31~39/41~49/51~59. UG
+033-000-048	Untergrund 31~39/41~49/51~59. UG
+033-000-049	Untergrund 31~39/41~49/51~59. UG
+033-000-050	Untergrund 31~39/41~49/51~59. UG
+033-000-051	Untergrund 31~39/41~49/51~59. UG
+033-000-052	Untergrund 31~39/41~49/51~59. UG
+033-000-053	Untergrund 31~39/41~49/51~59. UG
+033-000-054	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-055	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-056	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-057	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-058	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-059	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-060	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-061	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-062	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-063	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-064	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-065	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-066	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-067	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-068	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-069	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-070	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-071	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-072	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-073	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-074	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-075	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-076	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-077	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-078	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-079	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-080	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-081	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-082	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-083	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-084	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-085	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-086	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-087	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-088	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-089	Untergrund 61~69/71~79/81~89/91~98. UG
+033-000-090	Untergrund 10. UG
+033-000-091	Untergrund 10. UG
+033-000-092	Untergrund 10. UG
+033-000-093	Untergrund 10. UG
+033-000-094	Untergrund 20/30. UG
+033-000-095	Untergrund 20/30. UG
+033-000-096	Untergrund 20/30. UG
+033-000-097	Untergrund 20/30. UG
+033-000-098	Untergrund 40/50/60. UG
+033-000-099	Untergrund 40/50/60. UG
+033-000-100	Untergrund 40/50/60. UG
+033-000-101	Untergrund 40/50/60. UG
+033-000-102	Untergrund 40/50/60. UG
+033-000-103	Untergrund 40/50/60. UG
+033-000-104	Untergrund 70/80/90/99. UG
+033-000-105	Untergrund 70/80/90/99. UG
+033-000-106	Untergrund 70/80/90/99. UG
+033-000-107	Untergrund 70/80/90/99. UG
+033-000-108	Untergrund 70/80/90/99. UG
+033-000-109	Untergrund 70/80/90/99. UG
+033-000-110	Untergrund 70/80/90/99. UG
+033-000-111	Untergrund 70/80/90/99. UG
+033-000-112	Die Tiefste Tiefe 100. UG
 
 034			Zero Legenden
 034-000		Nullfeld
@@ -4952,3 +4989,10 @@
 034-001-003	Felinitätstheorie
 034-001-004	Einmal mit Protonen
 034-001-005	Neutrino-Schneeland
+034-002		Katzenjammerbecken
+034-002-000	Schoko-Hochland
+034-002-001	Schläfrige Pfade
+034-002-002	Verrücktes Seeufer
+034-002-003	Schlammiger Fjord
+034-002-004	Himmel-und-Hölle-Gipfel
+034-002-005	Ententanzwald
