@@ -407,7 +407,7 @@
 406	Rei Cat	Ayanami Cat (TBC)
 407	Asuka Cat	Apron Asuka
 408	Mari Cat	Special Ops Mari
-409	Rei Ayanami	Plug Suit Rei Reunion Ayanami
+409	Rei Ayanami	Plug Suit Rei	Reunion Ayanami
 410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka
 411	Mari Illustrious	Plug Suit Mari
 412	Eva Unit-00	Eva Unit-00 & Cat
