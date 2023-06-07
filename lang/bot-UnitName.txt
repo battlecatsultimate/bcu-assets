@@ -24,10 +24,10 @@
 023	Skirt Cat	Tights Cat	Loincloth Cat
 024	Valkyrie Cat	True Valkyrie Cat	Holy Valkyrie Cat
 025	Bahamut Cat	Crazed Bahamut Cat	Awakened Bahamut Cat
-026	Kerihime	Full color Kerihime	
-027	Cat Princess	Cat Princess beauty	
-028	Capsule Cat	Cramped Cats	
-029	Masked Cat	Luchador Cat	
+026	Kerihime	Full color Kerihime
+027	Cat Princess	Cat Princess beauty
+028	Capsule Cat	Cramped Cats
+029	Masked Cat	Luchador Cat
 030	Bodhisattva Cat	Avalokitesvara Cat	Tathagata Cat
 031	Delinquent Cat	Angry Delinquent Cat	Ultra Delinquent Cat
 032	Hip Hop Cat	Dancing Flasher Cat	Can Can Cat
@@ -43,7 +43,7 @@
 042	Ice Cat	Ice Queen Cat	Ice Crystal Cat
 043	Cat Machine	Cat Machine Mk 2	Cat Machine Mk 3
 044	Lesser Demon Cat	Greater Demon Cat	Greater Balrog Cat
-045	Maiko Cat	Geisha Cat	
+045	Maiko Cat	Geisha Cat
 046	Jurassic Cat	Jurassic Cat Sitter	Catasaurus
 047	Viking Cat	Thor Cat	Maximum the Fighter
 048	Pirate Cat	Captain Cat	Dread Pirate Catley
@@ -51,8 +51,8 @@
 050	Bishop Cat	Monk Cat	Sanzo Cat
 051	Fortune Teller Cat	Fisherman Cat	Doctor Cat
 052	Shaman Cat	Necromancer Cat	Necro-Dancer Cat
-053	Evangelist Cat	Filibuster Cat	
-054			
+053	Evangelist Cat	Filibuster Cat
+054
 055	Witch Cat	Sorceress Cat	Enchantress Cat
 056	Archer Cat	Cupid Cat	Cataur
 057	Marauder Cat	Berserker Cat	Paladin Cat
@@ -60,14 +60,14 @@
 059	Baby Cat	Baby Cats	Cats in the Cradle
 060	Bronze Cat	Michelangelo Cat	Quizmaster Cat
 061	Sushi Cat	Fried Shrimp Cat	Roe Cat
-062	Capsule Cat	Vendor Cat	
+062	Capsule Cat	Vendor Cat
 063	Sports Day Cat	Kidnapper Cats	Rampage Cats
-064			
-065			
-066			
-067			
-068			
-069			
+064
+065
+066
+067
+068
+069
 070	Salaryman Cat	Grudge Cat	Ritual Cat
 071	Sanada Yukimura	Wargod Yukimura	Immortal Yukimura
 072	Maeda Keiji	Wargod Keiji	Immortal Keiji
@@ -80,15 +80,15 @@
 079	Adult Cat	Sick Cat	Prisoner Cat
 080	Evil Cat	Gentleman Cat	Gentleman Bros.
 081	Doll Cats	Cat-o-tron	Nyalladin
-082	Blue Shinobi	Orange Shinobi	
+082	Blue Shinobi	Orange Shinobi
 083	Sodom	Earth King Sodom	God-Emperor Sodom
 084	Megidora	Holy Dragon Megidora	God-Emperor Megidora
 085	Vars	Dragon King Vars	God-Emperor Vars
 086	Kamukura	God Dragon Kamukura	God-Emperor Kamukura
 087	Raiden	Dragonslayer Raiden	God-Emperor Raiden
 088	Rope Jump Cat	Pair Rope Jump Cat	Noodle Cats
-089			
-090			
+089
+090
 091	Crazed Cat	Crazed Macho Cat	Manic Mohawk Cat
 092	Crazed Tank Cat	Crazed Wall Cat	Manic Eraser Cat
 093	Crazed Axe Cat	Crazed Brave Cat	Manic Dark Cat
@@ -99,29 +99,29 @@
 098	Crazed Lizard Cat	Crazed Dragon Cat	Manic King Dragon
 099	Crazed Titan Cat	Crazed M. Titan Cat	Manic Jamiera Cat
 100	Maiden Cat	Sportsgirl Cat	Wrestling Cat
-101			
-102			
-103	Cabaret Cat	Mega Cat	Mega Cat EX	
+101
+102
+103	Cabaret Cat	Mega Cat	Mega Cat EX
 104	Koi Cat	Gross Koi Cat	Kiss and Koi
 105	Kuu	Kuu, type γ	Divine Kuu
 106	Kai	Kai, type μ	Divine Kai
 107	Coppermine	Coppermine, type κ	Divine Coppermine
-108	Cat Bros	Secret Base	
+108	Cat Bros	Secret Base
 109	Madam Bride	Madam King	Madam the Savannah
-110	Celesse	Celesse CC	
-111	Nono	Nono CC	
-112	Olga	Olga CC	
-113	Norn	Norn CC	
-114	Yoichi	Yoichi CC	
-115	Serum	Serum CC	
-116	Fuu	Fuu CC	
-117	Aura	Aura CC	
-118	Rei	Rei CC	
-119	Wyvern	Wyvern Cat	
+110	Celesse	Celesse CC
+111	Nono	Nono CC
+112	Olga	Olga CC
+113	Norn	Norn CC
+114	Yoichi	Yoichi CC
+115	Serum	Serum CC
+116	Fuu	Fuu CC
+117	Aura	Aura CC
+118	Rei	Rei CC
+119	Wyvern	Wyvern Cat
 120	Healer	Healer CC	Healer Cat CC
 121	Merc	Merc CC	Merc & Cat CC
 122	Vacation Queen	Office Lady Cat	Call Center Cat
-123	Bean Cats	Brah Cats	
+123	Bean Cats	Brah Cats	Armor Cats
 124	Date Masamune	Wargod Masamune	Immortal Masamune
 125	Takeda Shingen	Wargod Shingen	Immortal Shingen
 126	Clockwork Cat	Puppetmaster Cat	Puppetmaster & Charley
@@ -129,18 +129,18 @@
 128	Vengeful Cat	Groucho Cat	Kite Cat
 129	Gold Cat	Gold Macho Cat	Glittering Macho Cat
 130	Ururun Wolf	Ururun Cat	Awakened Ururun
-131	Neneko	Miss NENEKO	
+131	Neneko	Miss NENEKO
 132	Kung Fu Cat X	Drunken Master Cat X	Iron Claw X
-133			
+133
 134	Urashima Taro	Guardian Gamereon	King Gamereon
 135	The Grateful Crane	Super Galaxy Cosmo	Ultima Galaxy Cosmo
 136	Momotaro	The Peach Angels	The Peach Devils
 137	Kasa Jizo	Jizo's Moving Castle	Jizo's Mega-Castle
 138	Princess Kaguya	The Death Moon	The Chaos Moon
-139			
-140	Squish Ball Cat	Muscleman Cat	
-141	God	Secret God	
-142			
+139
+140	Squish Ball Cat	Muscleman Cat
+141	God	Secret God
+142
 143	Nurse Cat	Heartful Nurse Cat	Joyful Nurse Cat
 144	Cat Base Mini	Cat Base Jr.	Cat Base Ultra
 145	Cat Gunslinger	Cat Eastwood	Rodeo Cat
@@ -153,241 +153,241 @@
 152	Figure Skating Cats	Drama Cats	Slapstick Cats
 153	Cat Toaster	Cat Projector	Catophone
 154	Hoop Cat	Showoff Cat	Hoopmaster Cat
-155			
-156			
-157			
+155
+156
+157
 158	Uesugi Kenshin	Wargod Kenshin	Immortal Kenshin
 159	Kalisa	Kalisa, type χ	Divine Kalisa
-160			
-161			
-162			
-163			
-164			
-165			
-166			
-167			
+160
+161
+162
+163
+164
+165
+166
+167
 168	Asiluga	Asilan Pasalan	Assassinlan Pasalan
 169	Kubiluga	Kubilan Pasalan	E. Kubilan Pasalan
 170	Tecoluga	Tesalan Pasalan	Lufalan Pasalan
 171	Balaluga	Balalan Pasalan	Piccolan Pasalan
 172	Li'l Nyandam	Dark Emperor Catdam	Schoolbus Nyandam
-173	Baby Mola	Young Man Mola	
-174	Mola King	Living Legend	Master of the Pacific	
-175	Meowla Meowla	Catorpedo	
-176	Marshmallow Cat	Creepmallow	
+173	Baby Mola	Young Man Mola
+174	Mola King	Living Legend	Master of the Pacific
+175	Meowla Meowla	Catorpedo
+176	Marshmallow Cat	Creepmallow
 177	Dioramos	Archdragon Dioramos	God-Emperor Dioramos
-178			
+178
 179	Takuya ＆ Yuki	Takuya, Yuki ＆ Cat	Takuya＆ Lovely Yuki
 180	Mystery Girl Yuki	Mystery Yuki ＆ Cat	Mystery Catgirl Yuki
-181	Yuki Cat	Lovely Yuki Cat	
-182			
+181	Yuki Cat	Lovely Yuki Cat
+182
 183	Cat Kart R	Cat Kart G	Cat Kart P
-184	Mr. Ninja	Mint	
+184	Mr. Ninja	Mint
 185	Hearscht	Hearscht CC	Revolutionary Hearscht CC
-186	Cornelia	Cornelia CC	
+186	Cornelia	Cornelia CC
 187	Juvens	Juvens CC	Holiday Juvens CC
 188	Mystica	Mystica CC	Savior Mystica CC
-189	Alois	Alois CC	
-190	Citrouille	Citrouille CC	
+189	Alois	Alois CC
+190	Citrouille	Citrouille CC
 191	Titi	Titi CC	Titi Cat CC
-192			
-193			
+192
+193
 194	Akira	Shadow Akira	Inferno Akira
 195	Mekako Saionji	Dr. Mekako	Mission Control Mekako
 196	Catman	Dark Catman	Ultimate Catman
 197	Psychocat	Neo Psychocat	Corrupted Psychocat
 198	Onmyoji Cat	Magica Cat	Thaumaturge Cat
 199	Surfer Cat	Castaway Cat	Seafarer Cat
-200	Metal Cat	Metal Macho	
+200	Metal Cat	Metal Macho
 201	Drumcorps Cat	Banner Cat	Mochi Cat
-202	Baozi Cat	Big Baozi	
+202	Baozi Cat	Big Baozi
 203	Kachi-Kachi	Fire Squad Kachiyama	Kachiyama Assault Brigade
-204			
-205			
-206			
-207			
-208			
+204
+205
+206
+207
+208
 209	Li'l Cat	Li'l Macho Cat	Li'l Mohawk Cat
 210	Li'l Tank Cat	Li'l Wall Cat	Li'l Eraser Cat
 211	Li'l Axe Cat	Li'l Brave Cat	Li'l Dark Cat
 212	The White Rabbit	The Black Cat	The Grey Fox
 213	Catburger	Cat Royale	Value Meal Cat
-214	HYAKUTARO	HYAKUTARO CC	
-215	MARCO	MARCO CC	
-216	TARMA	TARMA CC	
-217	ERI	ERI CC	
-218	FIO	FIO CC	
-219	SV-001	SV-001 CC	
-220	ALLEN O'NEIL	ALLEN O'NEIL CC	
-221	MARS PEOPLE	MARS PEOPLE CC	
-222	HUGE HERMIT	HUGE HERMIT CC	
-223	JUPITER KING	JUPITER KING CC	
-224	DONALD MORDEN	GENERAL MORDEN	
-225	HI-DO	HI-DO CC	
+214	HYAKUTARO	HYAKUTARO CC
+215	MARCO	MARCO CC
+216	TARMA	TARMA CC
+217	ERI	ERI CC
+218	FIO	FIO CC
+219	SV-001	SV-001 CC
+220	ALLEN O'NEIL	ALLEN O'NEIL CC
+221	MARS PEOPLE	MARS PEOPLE CC
+222	HUGE HERMIT	HUGE HERMIT CC
+223	JUPITER KING	JUPITER KING CC
+224	DONALD MORDEN	GENERAL MORDEN
+225	HI-DO	HI-DO CC
 226	Warlock and Pierre	Dark Merchant Babil	Mad Doctor Klay
 227	Pumpcat	Cat O'Lantern	Harbinger Cat
 228	Gloomy Neneko	Witchy Neneko	Costumed Witchy Neneko
-229	Hallowindy	Hallowindy, type α	
-230	Spooky Thundia	Spooky Thundia, type β	
-231			
-232			
-233			
-234			
-235			
-236			
+229	Hallowindy	Hallowindy, type α
+230	Spooky Thundia	Spooky Thundia, type β
+231
+232
+233
+234
+235
+236
 237	Freshman Cat Jobs	Prof. Cat Jobs	Headmaster Cat Jobs
 238	Rich Cat III	Rich Cat Sr.	Richest Cat
 239	Sniper the Recruit	Sniper the Heavy	Sniper the Deadeye
 240	Togeluga	Togelan Pasalan	Shishilan Pasalan
-241	Frosty Kai	Frosty Kai, type μ	
-242	Santa Kuu	Santa Kuu, type γ	
-243	Holy Coppermine	Holy Coppermine, type κ	
-244	A Gift of Cats	Cat's Gift	
+241	Frosty Kai	Frosty Kai, type μ
+242	Santa Kuu	Santa Kuu, type γ
+243	Holy Coppermine	Holy Coppermine, type κ
+244	A Gift of Cats	Cat's Gift
 245	Li'l Gross Cat	Li'l Sexy Legs Cat	Li'l Macho Legs Cat
 246	Li'l Cow Cat	Li'l Giraffe Cat	Li'l Lion Cat
 247	Li'l Bird Cat	Li'l UFO Cat	Li'l Flying Cat
 248	Undead Cat	Bake-Nyanko	Extra-Life Cat
-249			
-250			
-251			
-252			
-253			
-254			
-255			
-256			
+249
+250
+251
+252
+253
+254
+255
+256
 257	Thunder God Zeus	The Majestic Zeus	Almighty Zeus
 258	Anubis the Protector	Anubis the Unblemished	Almighty Anubis
 259	Radiant Aphrodite	Megaphrodite	Almighty Aphrodite
 260	Catway	Drone Cat	Time Traveller Cat
 261	Hayabusa	Oni Hayabusa	Akuma Hayabusa
-262			
-263			
-264			
-265			
-266			
+262
+263
+264
+265
+266
 267	Catornado	Hurricat	Catyphoon
 268	Red Riding Mina	Crimson Mina	Awakened Mina
-269	Baby Gao	Mighty Lord Gao	
+269	Baby Gao	Mighty Lord Gao
 270	Crazed Yuki	Crazed Yuki ＆ Cat	Crazed Catgirl Yuki
 271	Shining Amaterasu	Glorious Amaterasu	Almighty Amaterasu
 272	Splendid Ganesha	Exalted Ganesha	Almighty Ganesha
 273	Cheerleader Cat	Waitress Cat	Soba Cat
-274	Tropical Kalisa	Tropical Kalisa, type X	
-275	Midsummer Rabbit	Midsummer Cat	
+274	Tropical Kalisa	Tropical Kalisa, type X
+275	Midsummer Rabbit	Midsummer Cat
 276	Sunny Neneko	Seaside Neneko	Early Summer Neneko
-277	Funghi	Funghi 'n' Cat	
-278	Tanky	Tanky 'n' Cat	
-279	White Cat	Gross White Cat	
-280	Fortressy	Castley	
-281			
+277	Funghi	Funghi 'n' Cat
+278	Tanky	Tanky 'n' Cat
+279	White Cat	Gross White Cat
+280	Fortressy	Castley
+281
 282	Awa-Odori Cat	So-Ran Cat	Gorgeous Groovin' Cat
 283	Pai-Pai	Pai-Pai Z	Pai-Pai DX
 284	Express Cat	Maglev Cat	Bullet Train Cat
-285			
+285
 286	Strike Unit R.E.I.	Assault Unit R.E.I.	Flight Unit R.E.I.
 287	Little Leaguer Cat	Major Leaguer Cat	Golfer Cat
-288	Madoka Kaname	Madoka & Cat	
-289	Homura Akemi	Homura & Cat	
-290	Sayaka Miki	Sayaka & Cat	
-291	Mami Tomoe	Mami & Cat	
-292	Kyoko Sakura	Kyoko & Cat	
-293	Kyubey	Kyubey & Cat	
-294	Madoka Cat	Magical Girl Madoka Cat	
-295	Homura Cat	Magical Girl Homura Cat	
-296	Sayaka Cat	Magical Girl Sayaka Cat	
-297	Mami Cat	Magical Girl Mami Cat	
-298	Kyoko Cat	Magical Girl Kyoko Cat	
+288	Madoka Kaname	Madoka & Cat
+289	Homura Akemi	Homura & Cat
+290	Sayaka Miki	Sayaka & Cat
+291	Mami Tomoe	Mami & Cat
+292	Kyoko Sakura	Kyoko & Cat
+293	Kyubey	Kyubey & Cat
+294	Madoka Cat	Magical Girl Madoka Cat
+295	Homura Cat	Magical Girl Homura Cat
+296	Sayaka Cat	Magical Girl Sayaka Cat
+297	Mami Cat	Magical Girl Mami Cat
+298	Kyoko Cat	Magical Girl Kyoko Cat
 299	Li'l Madoka	Li'l Magical Girl Madoka	Li'l Ultimate Madoka
 300	Li'l Homura	Li'l Magical Girl Homura	Li'l Devil Homura
-301	Kyubey Cat	Tank Kyubey Cat	
+301	Kyubey Cat	Tank Kyubey Cat
 302	Lilith Cat	Succubus Cat	Queen Succubus Cat
-303	Food Stall Cat	Delivery Cat	
+303	Food Stall Cat	Delivery Cat
 304	Mighty Kat-A-Pult	CAT-6 Siege Engine	CAT-8 Behemoth
 305	Mighty Drednot	B.C.S. Lionheart	B.C.S. Tigerclaw
 306	Mighty Bomburr	NEK-0 Sky Fortress	NEK-02 Air Citadel
 307	Vaulter Cat	Polevaulter Cat	Housewife Cat
 308	Gardener Cat	Lumbercat	Weedwacker Cat
-309			
+309
 310	Yuletide Nurse	Yule Knight Nurse	Xmas Spirit Nurse
 311	Li'l Fish Cat	Li'l Whale Cat	Li'l Island Cat
 312	Li'l Lizard Cat	Li'l Dragon Cat	Li'l King Dragon Cat
 313	Li'l Titan Cat	Li'l Mythical Titan	Li'l Jamiera Cat
 314	Years-End Neneko	New Year Neneko	Festive New Year Neneko
-315	PIKOTARO	NEKOTARO	
+315	PIKOTARO	NEKOTARO
 316	Wrathful Poseidon	Valiant Poseidon	Almighty Poseidon
-317	CPAC	PPAP	
-318	Miko Mitama	Mitama the Oracle	
+317	CPAC	PPAP
+318	Miko Mitama	Mitama the Oracle
 319	Killer Cat	True Killer Cat	Radical Cat
-320			
-321			
+320
+321
 322	Sarukani	Rock Revengers	The One-Hit Wonders
 323	Miyamoku Musashi	Heroic Musashi	Awakened Musashi
 324	Curling Cat	Zamboney Cat	Green Shell Cat
 325	Welterweight Cat	Heavyweight Cat	Ectoweight Cat
-326	Mobius	Miraculous Mobius	
-327	Belial	Reckless Belial	
-328	Happy 100	Heartful Happy 100	
+326	Mobius	Miraculous Mobius
+327	Belial	Reckless Belial
+328	Happy 100	Heartful Happy 100
 329	Eggy Cat	Easter Cat	Easter Egg Cat
 330	Springtime Kenshin	Full-Bloom Kenshin	Spring Breeze Kenshin
 331	Bunny & Canard	Disciple Psychoduck	Malevolent Mad-Duck
 332	Easter Neneko	Hoppity Neneko	Blossoming Neneko
-333	Shadow Gao	Diabolic Gao	
+333	Shadow Gao	Diabolic Gao
 334	Trickster Himeyuri	Himeyuri Ninetails	Fox Queen Himeyuri
 335	Sea Maiden Ruri	Sea Mistress Ruri	Mer-Queen Ruri
 336	Queen Reika	Pharoah Reika	Eternal Reika
-337			
+337
 338	Imagawa Yoshimoto	Wargod Yoshimoto	Immortal Yoshimoto
-339			
+339
 340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	Redhead Beauty Macho Yuki Cat
 341	Lost World Yuki	Lost World Yuki ＆ Cat	Lost World Catgirl Yuki
-342	Maneki Cat	Neo Maneki Cat	
-343	Slug Jockey Cat	Slugcat	
+342	Maneki Cat	Neo Maneki Cat
+343	Slug Jockey Cat	Slugcat
 344	Orthos	Orthos CC	Artist Orthos CC
 345	Michelia	Michelia CC	Naptime Michelia CC
-346	Todomeki	Todomeki CC	
-347			
-348			
-349			
-350			
+346	Todomeki	Todomeki CC
+347
+348
+349
+350
 351	Twinstars	Twinstars, type Φ	Divine Twinstars
 352	Hermit Cat	Grandmaster Cat	Masked Grandmaster Cat
-353			
-354	Seashore Kai	Seashore Kai, type μ	
+353
+354	Seashore Kai	Seashore Kai, type μ
 355	Mighty Rekon Korps	Orbital Platform Armageddon	Orbital Annihilator Ragnarok
-356			
+356
 357	Wolfchild Deale	Wolf Princess Deale	Jester Queen Deale
 358	Graveflower Verbena	Verbena the Bride	Opulent Verbena
 359	Bora	Bazibon	Bazibastra
 360	Mizli	Marinmizu	Mizuririn
 361	Aer	Erphuan	Aervanta
 362	Saber	Saber CC	Saber Alter CC
-363	Rin Tohsaka	Rin Tohsaka CC	
-364	Illyasviel	Illyasviel CC	
-365	Archer	Archer CC	
-366	Lancer	Lancer CC	
-367	Rider	Rider CC	
-368	Gilgamesh	Gilgamesh CC	
+363	Rin Tohsaka	Rin Tohsaka CC
+364	Illyasviel	Illyasviel CC
+365	Archer	Archer CC
+366	Lancer	Lancer CC
+367	Rider	Rider CC
+368	Gilgamesh	Gilgamesh CC
 369	Saber the Cat	Heroic Spirit Saber Cat	Saber Alter Cat
 370	Sakura the Cat	Apron Sakura Cat	Dreaming Sakura Cat
-371	Rin the Cat	Mage Rin Cat	
-372	Illya the Cat	Snow Faerie Illya	
-373	Li'l Shirou	Li'l Shirou CC	
-374	Li'l Sakura	Li'l Sakura CC	
-375	Coin Cat	Macho Coin Cat	
+371	Rin the Cat	Mage Rin Cat
+372	Illya the Cat	Snow Faerie Illya
+373	Li'l Shirou	Li'l Shirou CC
+374	Li'l Sakura	Li'l Sakura CC
+375	Coin Cat	Macho Coin Cat
 376	Rover Cat	Rover Cat Mk II	Catellite
 377	Fencer Cat	Kendo Cat	The Kitty of Liberty
-378	Dark Mitama	Gothic Mitama	
+378	Dark Mitama	Gothic Mitama
 379	Volley Cat	Ballet Cat	Curry Cat
-380	D'artanyan	Meow-sketeer	
-381	Farmer Cat	Harvest Cat	
+380	D'artanyan	Meow-sketeer
+381	Farmer Cat	Harvest Cat
 382	Glass Cat	Macho Glass Cat	Macho Crystal Cat
 383	Masked Yulala	Mystic Yulala	Spiritual Yulala
-384	Satori Hikami & Cat	Satori Hikami & Cat CC	
+384	Satori Hikami & Cat	Satori Hikami & Cat CC
 385	Akio Yabe	Akio Yabe CC	Akio & Gunder CC
-386	Sairi Nijitani	Sairi Nijitani CC	
-387	Misaki Konno	Misaki Konno CC	
-388	Ren Katagiri	Ren Katagiri CC	
-389	Karin Nekozuka	Karin Nekozuka CC	
+386	Sairi Nijitani	Sairi Nijitani CC
+387	Misaki Konno	Misaki Konno CC
+388	Ren Katagiri	Ren Katagiri CC
+389	Karin Nekozuka	Karin Nekozuka CC
 390	Aoi Hayakawa	Aoi Hayakawa CC	Baseball Mask α
 391	Mizuki Tachibana	Mizuki Tachibana CC	Baseball Mask β
 392	Hijiri Rokudo	Hijiri Rokudo CC	Baseball Mask γ
@@ -396,221 +396,221 @@
 395	Miyabi Oyama	Miyabi Oyama CC	Baseball Mask δ
 396	Ganglion	Ganglion the Ancient	Ganglion the Unleashed
 397	Sakura Sonic	Afterschool Sakura	Sacred Blade Sakura
-398			
-399	Mentori	Mentori CC	
-400	Imoto	Imoto CC	
+398
+399	Mentori	Mentori CC
+400	Imoto	Imoto CC
 401	Voli	Volta	Gigavolta
 402	Shinji & Cat	Plug Suit Shinji	Plug Suit Shinji Black
-403	Gendo & Fuyutsuki Cats	Moon Gendo & Fuyutsuki Cats	
-404	Giraffe Unit-01	Giraffe Unit-02	
+403	Gendo & Fuyutsuki Cats	Moon Gendo & Fuyutsuki Cats
+404	Giraffe Unit-01	Giraffe Unit-02
 405	Kaworu & Cat	Plug Suit Kaworu	Moon Kaworu
-406	Rei Cat	Ayanami Cat (TBC)	
-407	Asuka Cat	Apron Asuka	
-408	Mari Cat	Special Ops Mari	
-409	Rei Ayanami	Plug Suit Rei	
+406	Rei Cat	Ayanami Cat (TBC)
+407	Asuka Cat	Apron Asuka
+408	Mari Cat	Special Ops Mari
+409	Rei Ayanami	Plug Suit Rei Reunion Ayanami
 410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka
-411	Mari Illustrious	Plug Suit Mari	
-412	Eva Unit-00	Eva Unit-00 & Cat	
-413	Eva Unit-01	Eva Unit-01 & Cat	
+411	Mari Illustrious	Plug Suit Mari
+412	Eva Unit-00	Eva Unit-00 & Cat
+413	Eva Unit-01	Eva Unit-01 & Cat	Determined Eva Unit-01 & Cat
 414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777
-415	Shinji Cat	Toji & Kensuke Cats	
-416	Moon Operators	NERV Moon	
+415	Shinji Cat	Toji & Kensuke Cats
+416	Moon Operators	NERV Moon
 417	Mighty Thermae D-Lux	Subterra Guardians	Subterra Sentinels
-418	Crazed Moneko	Corrupted Moneko	
-419	Pokota	Pokota CC	
-420	Ovis	Ovis CC	
-421	Coco	Coco CC	
-422			
-423			
-424			
-425			
+418	Crazed Moneko	Corrupted Moneko
+419	Pokota	Pokota CC
+420	Ovis	Ovis CC
+421	Coco	Coco CC
+422
+423
+424
+425
 426	Mecha-Bun	Mecha-Bun Mk II	Ultimate Mecha-Bun
 427	Cat Clan Heroes	Cat Guild Heroes	Cat Quest Heroes
-428	Souma Cat	Stylish Souma Cat	
-429	Otaku Geek Cat	Hacker Geek Cat	
-430			
+428	Souma Cat	Stylish Souma Cat
+429	Otaku Geek Cat	Hacker Geek Cat
+430
 431	Detective Vigler	Inspector Gabriel	Section Chief Gravicci
-432	Betakkuma	Black Betakkuma	
-433	Nekokkuma	Killer Nekokkuma	
-434			
-435	Li'l Valkyrie	Wind Dancer Valkyrie	
+432	Betakkuma	Black Betakkuma
+433	Nekokkuma	Killer Nekokkuma
+434
+435	Li'l Valkyrie	Wind Dancer Valkyrie
 436	Nobiluga	Nobilan Pasalan	Mystican Pasalan
 437	Cat God the Great	Cat God the Awesome	Cat God the Golden
-438	Waverider Kuu	Waverider Kuu, type γ	
+438	Waverider Kuu	Waverider Kuu, type γ
 439	Empress Chronos	Chronos the Infinite	Almighty Chronos
-440	Bebe	Nagisa & Cat	
-441	D'arktanyan	Valiant D'arktanyan	
+440	Bebe	Nagisa & Cat
+441	D'arktanyan	Valiant D'arktanyan
 442	Lone Cat and Kitten	Vendor Cat and Kitten	Tourist Cat
 443	Driller Cat	Power Driller Cat	Neo Driller Cat
 444	Piledriver Cat	Power Piledriver Cat	Neo Piledriver Cat
 445	Cutter Cat	Power Cutter Cat	Neo Cutter Cat
 446	Backhoe Cat	Power Backhoe Cat	Neo Backhoe Cat
 447	Miter Saw Cat	Power Saw Cat	Neo Saw Cat
-448	Musashi Miyamoto	Wargod Miyamoto	
-449	Headmistress Jeanne	Headmistress Jeanne ψ	
+448	Musashi Miyamoto	Wargod Miyamoto
+449	Headmistress Jeanne	Headmistress Jeanne ψ
 450	High Lord Babel	Babel the Darkflame	God-Emperor Babel
-451	Ushiwakamaru	Colossal Benkei	
+451	Ushiwakamaru	Colossal Benkei
 452	Primordial Cat	Modern Cat	Future Cat
-453			
-454			
-455	Wonder MOMOCO	Cutie MOMOCO	
+453
+454
+455	Wonder MOMOCO	Cutie MOMOCO
 456	Sakura Matou	Sakura Matou CC	Dark Sakura CC
-457	Shirou the Cat	Novice Mage Shirou Cat	
-458	Archer the Cat	Heroic Spirit Archer Cat	
-459	Rider the Cat	Heroic Spirit Rider Cat	
-460	Kotomine & Gilgamesh Cats	Gilgamesh & Kotomine Cats	
-461	Legeluga	Legelan Pasalan	
+457	Shirou the Cat	Novice Mage Shirou Cat
+458	Archer the Cat	Heroic Spirit Archer Cat
+459	Rider the Cat	Heroic Spirit Rider Cat
+460	Kotomine & Gilgamesh Cats	Gilgamesh & Kotomine Cats
+461	Legeluga	Legelan Pasalan
 462	Filibuster Cat X	Filibuster Cat Y	Metafilibuster
-463	Mighty Kristul Muu	Doom Engine Pandora	
+463	Mighty Kristul Muu	Doom Engine Pandora
 464	Dogumaru	Doguemon	Reborn Warrior Doguemon
-465			
-466	Black Zeus	Dark Lord Zeus	
+465
+466	Black Zeus	Dark Lord Zeus
 467	Super Zeus	All-Powerful Super Zeus	Super S-Zeus
 468	Holy Phoenix	Holy Warrior Phoenix	Head Rococo
 469	Super Devil	Imposter Super Devil	Super D-Devil
-470	Satanmaria	Wondermaria	
-471	Heracrist	Perfect Heracrist	
-472	Fiendish Nero	Beastly Nero	
+470	Satanmaria	Wondermaria
+471	Heracrist	Perfect Heracrist
+472	Fiendish Nero	Beastly Nero
 473	Prince Yamato	Holy Yamato	Rampaging Yamato
 474	Rosary Angel	Cross Angel	Strike Angel
-475	Wakamiko Cat	Warrior King Cat	
-476	Cat Devil	Infernal Cat	
-477	Nekonosuke	Old Guardian Cat	
-478	Lumina	Luminalia	
+475	Wakamiko Cat	Warrior King Cat
+476	Cat Devil	Infernal Cat
+477	Nekonosuke	Old Guardian Cat
+478	Lumina	Luminalia
 479	Gummy Cat	Lucky Cat	Soda Gummy Cat
-480			
-481	Doktor Heaven	Professor Abyss	
+480
+481	Doktor Heaven	Professor Abyss
 482	Benevolent Souma	Souma ＆ Cat	Cat-Eared Souma
-483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat	
-484	Li'l Valkyrie Dark	Dark Rider Valkyrie	
-485			
-486			
-487	Eva Unit-08	Eva Unit-08 & Cat	
-488	AAA Wunder	NNN Wunder	
-489	Misato Katsuragi	Captain Misato	
-490	Ritsuko Akagi	First Officer Ritsuko	
-491	Rei Ayanami (???)	Awakened Ayanami	
-492			
-493	Gaia the Creator	Gaia the Supreme	
-494	Seabreeze Coppermine	Seabreeze Coppermine, type κ	
+483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat
+484	Li'l Valkyrie Dark	Dark Rider Valkyrie
+485
+486
+487	Eva Unit-08	Eva Unit-08 & Cat
+488	AAA Wunder	NNN Wunder	Godslayer Ship NNN Wunder
+489	Misato Katsuragi	Captain Misato
+490	Ritsuko Akagi	First Officer Ritsuko
+491	Rei Ayanami (???)	Awakened Ayanami
+492
+493	Gaia the Creator	Gaia the Supreme
+494	Seabreeze Coppermine	Seabreeze Coppermine, type κ
 495	Matador Cat	Flamenco Cat	Bellydance Cat
 496	Narita Kaihime	Wargod Kaihime	Immortal Kaihime
-497	Shakurel Cat	Shakurel Macho Cat	
-498	Shakurel Lion	Shakurel Lion CC	
-499	Shakurel Tiger	Shakurel Tiger CC	
-500	Shakurel Panda	Shakurel Panda CC	
-501	Cat Bros	Baka Cat Bros	
+497	Shakurel Cat	Shakurel Macho Cat
+498	Shakurel Lion	Shakurel Lion CC
+499	Shakurel Tiger	Shakurel Tiger CC
+500	Shakurel Panda	Shakurel Panda CC
+501	Cat Bros	Baka Cat Bros
 502	Myrcia	Myrcia, type ξ	Divine Myrcia
-503			
-504			
+503
+504
 505	Relentless Gladios	Gladios the Annihilator	God-Emperor Gladios
 506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC
-507	Mightycat	Supercat	
-508	Ryu Cat	Ryu Cat CC	
-509	Chun-Li Cat	Chun-Li Cat CC	
-510	Akuma	Akuma CC	
+507	Mightycat	Supercat
+508	Ryu Cat	Ryu Cat CC
+509	Chun-Li Cat	Chun-Li Cat CC
+510	Akuma	Akuma CC
 511	Ryu	Ryu CC	Kage
-512	Chun-Li	Chun-Li CC	
-513	Guile	Guile CC	
-514	Zangief	Zangief CC	
-515	Blanka	Blanka CC	
-516	Dhalsim	Dhalsim CC	
-517	Ken	Ken CC	
-518	Akuma Giraffe	Akuma Lion	
+512	Chun-Li	Chun-Li CC
+513	Guile	Guile CC
+514	Zangief	Zangief CC
+515	Blanka	Blanka CC
+516	Dhalsim	Dhalsim CC
+517	Ken	Ken CC
+518	Akuma Giraffe	Akuma Lion
 519	Lasvoss	Ultimate Lasvoss 	Lasvoss Reborn
-520	Good-Luck Ebisu	Bad-Luck Ebisu	
+520	Good-Luck Ebisu	Bad-Luck Ebisu
 521	Medusa Cat	Twintail Medusa Cat	Naga Cat
 522	Nymph Cat	Medalist Cat	Fiend Cat
-523	Wushu Cat	Sifu Cat	Shigong Cat	
-524			
+523	Wushu Cat	Sifu Cat	Shigong Cat
+524
 525	Kintaro	Kinrangers RoboForce	Kinrangers GigaForce
-526	Snow Angel Twinstars	Snow Angel Twinstars, type Φ	
-527	Slime Cat	Jellycat	
-528	Cossack Cat	Vodka Cat	
-529	Kasli the Scourge	Ritual Saint Kasli	
-530			
+526	Snow Angel Twinstars	Snow Angel Twinstars, type Φ
+527	Slime Cat	Jellycat
+528	Cossack Cat	Vodka Cat
+529	Kasli the Scourge	Ritual Saint Kasli
+530
 531	Teacher BearCat	Assassin BearCat	Cadaver BearCat
 532	Urs & Fenrir	Urs & Minka	Awakened Urs
 533	Sharpshooter Saki	Nighthunter Saki	Bad Blaster Saki
 534	Hades the Punisher	Hades the Deathdealer	Almighty Hades
-535	Hatsune Miku	Hatsune Miku CC	
-536	Sakura Miku	Sakura Miku CC	
-537	Kagamine Rin & Len	Kagamine Rin & Len CC	
-538	Miku Cat	Miku Cat CC	
+535	Hatsune Miku	Hatsune Miku CC
+536	Sakura Miku	Sakura Miku CC
+537	Kagamine Rin & Len	Kagamine Rin & Len CC
+538	Miku Cat	Miku Cat CC
 539	Rugby Cat	Quarterback Cat	Gridiron Cat
-540			
-541			
-542			
-543	Kasli the Bane	Kasli, Daughter of Chaos	
-544	Kyosaka Nanaho	True Kyosaka Nanaho	
-545	Phantom Cat	Miasma Cat	
+540
+541
+542
+543	Kasli the Bane	Kasli, Daughter of Chaos
+544	Kyosaka Nanaho	True Kyosaka Nanaho
+545	Phantom Cat	Miasma Cat
 546	Papaluga	Papalan Pasalan	Sukelan Kakulan
-547	Night Oracle Rei	Heavenly Herald Rei	
-548	The 4th Angel	4th Angel Cat	
-549	The 6th Angel	6th Angel Cat	
-550	The 10th Angel	10th Angel Cat	
-551	The 9th Angel	9th Angel Cat	
-552	Kaworu Cat	Moon Kaworu Cat	
-553	Bakery Cat	Boomerang Cat	
-554	Master Uril	Mystic Uril	
-555	Shaman Khan	All-Loving Shaman Khan	
+547	Night Oracle Rei	Heavenly Herald Rei
+548	The 4th Angel	4th Angel Cat
+549	The 6th Angel	6th Angel Cat
+550	The 10th Angel	10th Angel Cat
+551	The 9th Angel	9th Angel Cat
+552	Kaworu Cat	Moon Kaworu Cat
+553	Bakery Cat	Boomerang Cat
+554	Master Uril	Mystic Uril
+555	Shaman Khan	All-Loving Shaman Khan
 556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba
-557	Heavenly Jack	Heavenly Lord Jack	
-558	Gacha Cat	Lucky Gacha Cat	
-559	Hell Warden Emma	Hell Sentinel Emma	
-560	Megurine Luka	Megurine Luka CC	
-561	MEIKO & Cat	MEIKO & Cat CC	
-562	Luka Cat	Luka Cat CC	
+557	Heavenly Jack	Heavenly Lord Jack
+558	Gacha Cat	Lucky Gacha Cat
+559	Hell Warden Emma	Hell Sentinel Emma
+560	Megurine Luka	Megurine Luka CC
+561	MEIKO & Cat	MEIKO & Cat CC
+562	Luka Cat	Luka Cat CC
 563	Squirtgun Saki	Aquabuster Saki	Aquablaster Saki
 564	Summerluga	Bikinilan Pasalan	Fabulous Pasalan
 565	Suntan Cat	Macho Suntan Cat	Permed Suntan Cat
 566	Lifeguard Cats	Sweet Bro Cats	Gelato Bro Cats
-567			
-568	Idi:N	Idi:N2	
+567
+568	Idi:N	Idi:N2
 569	Gravi	Gravolo	Gravolodon
 570	Skull Rider Vars	Nightmare King Vars	Halloween Knight Vars
-571	E. Honda	E. Honda CC	
-572	Balrog	Balrog CC	
-573	Vega	Vega CC	
-574	Sagat	Sagat CC	
-575	M. Bison	M. Bison CC	
-576	C. Honda	C. Honda CC	
-577	Balrog Cat	Balrog Cat CC	
-578	Vega Cat	Vega Cat CC	
-579	Sagat Cat	Sagat Cat CC	
-580	M. Bison Cat	M. Bison Cat CC	
-581	Stone Cat	Boulder Cat	
-582	Hatsune Miku: MM2020 Osaka	Hatsune Miku CC: MM2020 Osaka	
-583	Hatsune Miku: MM2020 Tokyo	Hatsune Miku CC: MM2020 Tokyo	
+571	E. Honda	E. Honda CC
+572	Balrog	Balrog CC
+573	Vega	Vega CC
+574	Sagat	Sagat CC
+575	M. Bison	M. Bison CC
+576	C. Honda	C. Honda CC
+577	Balrog Cat	Balrog Cat CC
+578	Vega Cat	Vega Cat CC
+579	Sagat Cat	Sagat Cat CC
+580	M. Bison Cat	M. Bison Cat CC
+581	Stone Cat	Boulder Cat
+582	Hatsune Miku: MM2020 Osaka	Hatsune Miku CC: MM2020 Osaka
+583	Hatsune Miku: MM2020 Tokyo	Hatsune Miku CC: MM2020 Tokyo
 584	Keiji Claus	Maeda Christmas	Maeda Christmas DX
-585	Baby Garu	Mighty Aegis Garu	
-586	Emperor Cat	Tyrant Cat	
-587	Sweet Aphrodite	Chocoladite	
-588	First-Love Myrcia	First-Love Myrcia ξ	
+585	Baby Garu	Mighty Aegis Garu
+586	Emperor Cat	Tyrant Cat
+587	Sweet Aphrodite	Chocoladite
+588	First-Love Myrcia	First-Love Myrcia ξ
 589	Valentine's Neneko	Sweetheart Neneko	True Love Neneko
-590	Snow Miku 2021	Snow Miku CC 2021	
-591	Kaito & Cat	Kaito & Cat CC	
-592	Neko Rin	Neko Rin CC	
-593	Neko Len	Neko Len CC	
+590	Snow Miku 2021	Snow Miku CC 2021
+591	Kaito & Cat	Kaito & Cat CC
+592	Neko Rin	Neko Rin CC
+593	Neko Len	Neko Len CC
 594	Mighty Aethur Ltd.	Atlantis Logistix	Ultra Atlantis Logistix
 595	Blooming Kamukura	Everbloom Kamukura	Everbloom Lord Kamukura
-596	Ranma Saotome (M)	Ranma Saotome (F)	
-597	Akane Tendo	Akane Tendo (Gi)	
-598	Hibiki Ryoga (Pig)	Ryoga Hibik	
-599	Shampoo (Cat)	Shampoo	
-600	Mousse (Duck)	Mousse	
-601	Happosai	Happosai (Lewd)	
-602	Ukyo Kuonji (GR)	Ukyo Kuonji	
-603	Tatewaki Kuno (Gi)	Tatewaki Kuno	
-604	Ranma Cat (M)	Ranma Cat (F)	
-605	Akane Cat	Akane Cat (Gi)	
-606	Panda Cat	Genma Cat	
+596	Ranma Saotome (M)	Ranma Saotome (F)
+597	Akane Tendo	Akane Tendo (Gi)
+598	Hibiki Ryoga (Pig)	Ryoga Hibik
+599	Shampoo (Cat)	Shampoo
+600	Mousse (Duck)	Mousse
+601	Happosai	Happosai (Lewd)
+602	Ukyo Kuonji (GR)	Ukyo Kuonji
+603	Tatewaki Kuno (Gi)	Tatewaki Kuno
+604	Ranma Cat (M)	Ranma Cat (F)
+605	Akane Cat	Akane Cat (Gi)
+606	Panda Cat	Genma Cat
 607	Adventurer Kanna	Swashbuckler Kanna	Fabled Adventure Girl Kanna
-608	Wafer Cat	Big Wafer Cat	
-609	Dark Aegis Garu	Dark Beastlord Garu	
+608	Wafer Cat	Big Wafer Cat
+609	Dark Aegis Garu	Dark Beastlord Garu
 610	Gold Brick Cat	King Ingot Cat	King Nekokhamen
-611	Godzilla Cat	Shin Godzilla Cat	
-612	Princess Cat	Empress Cat	
+611	Godzilla Cat	Shin Godzilla Cat
+612	Princess Cat	Empress Cat
 613	Elder Mask Doron	Cat Mask Doron	Awakened Doron
 614	Kaguya of the Coast	The Southern Sun	The Southern Sunflare
 615	Kabuto Cat	Golden Kabuto Cat
@@ -619,91 +619,96 @@
 618	Shiro Amakusa	Wargod Amakusa	Immortal Amakusa
 619	Lilin	Lilin π	Divine Lilin π
 620	Hevijak the Wicked	Wicked King Hevijak	God-Emperor Hevijak
-621	Aku Researcher	Evil Aku Researcher	
-622	Jagando Jr.	Lord of Ruin Jagando Jr.	
-623	Pied Piper Cat	Komuso Cat	
-624	Kunio-kun	Dodgeball Kunio-kun	
-625	Furiluga	Furilan Pasalan	
-626	Giraffe Jockey Cat	Giraffe Jockey Cat Evolved	
-627	Bird Jockey Cat	Bird Jockey Cat Evolved	
-628	Dragon Jockey Cat	Dragon Jockey Cat Evolved	
+621	Aku Researcher	Evil Aku Researcher	Cat Researcher
+622	Jagando Jr.	Lord of Ruin Jagando Jr.
+623	Pied Piper Cat	Komuso Cat
+624	Kunio-kun	Dodgeball Kunio-kun
+625	Furiluga	Furilan Pasalan
+626	Giraffe Jockey Cat	Giraffe Jockey Cat Evolved
+627	Bird Jockey Cat	Bird Jockey Cat Evolved
+628	Dragon Jockey Cat	Dragon Jockey Cat Evolved
 629	Brainwashed Cat	Brainwashed Macho Cat
 630	Calligraphy Cat	Tea Master Cat
 631	Yamii	Yaminoir	Yaminora
 632	Mighty Deth-Troy-R	Siege Walker Diabolosa	Obliterator Diabolosa
-633	Shitakiri Sparrow	Chunchun Haunters	
-634	White Knight Cyclops	Black Knight Cyclops	
-635	Million Dollar Cat	Hundred-Million Dollar Cat	
-636	Brainwashed Tank Cat	Brainwashed Wall Cat	
+633	Shitakiri Sparrow	Chunchun Haunters	Chunchun Busters
+634	White Knight Cyclops	Black Knight Cyclops
+635	Million Dollar Cat	Hundred-Million Dollar Cat
+636	Brainwashed Tank Cat	Brainwashed Wall Cat
 637	Xiaoqiong and Cat	Xiaoqiong and Cat CC
 638	Nana and Cat	Nana and Cat CC
 639	Emelia and Cat	Emelia and Cat CC
 640	Jie'er and Cat	Jie'er and Cat and CC
-641	Iz the Dancer	Iz the Alluring Dancer	
+641	Iz the Dancer	Iz the Alluring Dancer
 642	Lucifer the Fallen	Grand Lucifer	Almighty Lucifer
 643	Superfeline	Superfeline II	True Superfeline
 644	Sweet Love Mekako	Bittersweet Mekako	Minty Love Mekako
-645	Brainwashed Axe Cat	Brainwashed Brave Cat	
-646	Firecracker Cat	Macho Firecracker Cat	
+645	Brainwashed Axe Cat	Brainwashed Brave Cat
+646	Firecracker Cat	Macho Firecracker Cat
 647	Huntress Terun	Huntress Terun ζ
-648	Lovestruck Lesser Demon	Lovestruck Greater Demon	
-649	Hattori Hanzo	Wargod Hanzo	
-650	Secret Crush Cat	Girlfriend Cat	
-651	Tomboy Lion Cat	Iron-Masked Lion Cat	
-652	Chalkboard Eraser Cat	Chalkboard Punk Cat	
+648	Lovestruck Lesser Demon	Lovestruck Greater Demon
+649	Hattori Hanzo	Wargod Hanzo
+650	Secret Crush Cat	Girlfriend Cat
+651	Tomboy Lion Cat	Iron-Masked Lion Cat
+652	Chalkboard Eraser Cat	Chalkboard Punk Cat
 653	Elder Beast Naala	Storm Beast Naala	Awakened Naala
-654	Brainwashed Gross Cat	Brainwashed Sexy Legs Cat	
-655	Bliza	Blizana	
+654	Brainwashed Gross Cat	Brainwashed Sexy Legs Cat
+655	Bliza	Blizana
 656	Ancient Egg N001	Mystic Egg N001	Haniwa Cat
-657	Iz the Dancer of Grief	Iz the Lady of Mourning	
+657	Iz the Dancer of Grief	Iz the Lady of Mourning
 658	Ancient Egg: N101	Cinnabar Egg: N101	Courier Cat
 659	Ancient Egg: N102	Teal Egg: N102	Catarzan
-660	Sea Serpent Daliasan	Sea King Daliasan	
-661	Chronos the Bride	Wedding Chronos	
-662	Brainwashed Cow Cat	Brainwashed Giraffe Cat	
+660	Sea Serpent Daliasan	Sea King Daliasan
+661	Chronos the Bride	Wedding Chronos
+662	Brainwashed Cow Cat	Brainwashed Giraffe Cat
 663	Ancient Egg: N103	Black Egg: N103	Gas Mask Cat
 664	Ancient Egg: N104	Green Egg: N104	Surgeon Cat
 665	Ancient Egg: N201	Dark Egg: N201	Exorcist Cat
-666	Night Beach Lilin	Night Beach Lilinπ	
-667	Brainwashed Bird Cat	Brainwashed UFO Cat	
-668	Cat Tengu	Grand Yokai Tengu	
+666	Night Beach Lilin	Night Beach Lilinπ
+667	Brainwashed Bird Cat	Brainwashed UFO Cat
+668	Cat Tengu	Grand Yokai Tengu
 669	Ancient Egg: N003	Evil Egg: N003	Cat Cactus
 670	Ancient Egg: N202	Cinnabar Egg: N202	Armored Firefly Cat
 671	Ranma Saotome (Leotard)	Ranma Saotome (Cheerleader)
 672	Genma Saotome (Panda)	Genma Saotome
 673	Cheetah Cat	Cheetah Cat
-674	Mighty Carrowsell	Extraterrestrial Envanz	
+674	Mighty Carrowsell	Extraterrestrial Envanz
 675	Ancient Egg: N105	Teal Egg: N105	Racquet Cat
 676	Ancient Egg: N106	Amber Egg: N106	Mushroom Cat
 677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC
 678	Yuma Kuga & Cat	Yuma Kuga & Cat CC
 679	Chika Amatori & Cat	Chika Amatori & Cat CC
-680	Sakura	Sakura CC	
-681	Luke	Luke CC	
-682	Spectral Goth Vega	Illusory Guardian Vega	
-683	Count Yukimura	Nosferatu Yukimura	
-684	Brainwashed Fish Cat	Brainwashed Whale Cat	
+680	Sakura	Sakura CC
+681	Luke	Luke CC
+682	Spectral Goth Vega	Illusory Guardian Vega
+683	Count Yukimura	Nosferatu Yukimura
+684	Brainwashed Fish Cat	Brainwashed Whale Cat
 685	Ancient Egg: N004	Mystic Egg: N004	Supercar Cat
-686	Goddess of Light Sirius	Goddess of Sunrise Sirius	
-687	Reindeer Terun	Reindeer Terunζ	
-688	Brainwashed Lizard Cat	Brainwashed Dragon Cat	
+686	Goddess of Light Sirius	Goddess of Sunrise Sirius
+687	Reindeer Terun	Reindeer Terunζ
+688	Brainwashed Lizard Cat	Brainwashed Dragon Cat
 689	10 Years on a Stone Cat	10 Years on a Stone Cat Statue
-690	Child of Destiny Phono	King of Destiny Phonoa	
+690	Child of Destiny Phono	King of Destiny Phonoa
 691	Ancient Egg: N000	Elder Egg: N000	Ape Lord Luza
-692	Issun Boshi	Oni Landshaker Kozuchimaru	
-693	White Butler Vigler	Black Butler Vigler	
-694	Brainwashed Titan Cat	Brainwashed Mythic Titan	
-695	Killer Tank Cat	True Killer Tank Cat	
-696	Class Rep Cat	Stealth Class Rep Cat	
+692	Issun Boshi	Oni Landshaker Kozuchimaru
+693	White Butler Vigler	Black Butler Vigler
+694	Brainwashed Titan Cat	Brainwashed Mythic Titan
+695	Killer Tank Cat	True Killer Tank Cat
+696	Class Rep Cat	Stealth Class Rep Cat
 697	Ancient Egg: N107	Violet Egg: N107	Cat Chief
-698	Thunder Jack	Bloody Jack	
-699	Rabbit Satoru	Rabbit Champion Satoru	
+698	Thunder Jack	Bloody Jack
+699	Rabbit Satoru	Rabbit Champion Satoru
 700	Ancient Egg N005	Mystic Egg N005	Hitman Cat
 701	Kamen Rider Cat	Shin Kamen Rider Cat
 702	Godzilla Cat	Shin Godzilla Cat
 703	Evangelion Cat	Shin Evangelion Cat
 704	Ultraman Cat	Shin Ultraman Cat
-705	King of Doom Phono	King of Extinction Phono	
+705	King of Doom Phono	King of Extinction Phono
 706	Ancient Egg: N108	Teal Egg: N108	Soap Cat
 707	Ancient Egg: N109	Dark Egg: N109	Barrel Cat
-708	Jetpack Cat	Kinjirou Cat	
+708	Jetpack Cat	Kinjirou Cat
+709 One-eyed Girl Asuka Blue-eyed Witch Asuka
+710 Eva Unit-13 Eva Unit-13 & Cat
+711 Vow of Balaluga Oyomeno Pasalan
+712 Kaoluga Kaolan Pasalan
+713 Ancient Egg: N203 Violet Egg: N203  Cat Pierrot

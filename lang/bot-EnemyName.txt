@@ -17,8 +17,8 @@
 016	Assassin Bear
 017	Shy Boy
 018	The Face
-019	
-020	
+019
+020
 021	Ms. Sign
 022	Mooth
 023	Dark Emperor Nyandam
@@ -562,11 +562,11 @@
 561	Wicked Cat
 562	Wicked Tank Cat
 563	Wicked Axe Cat
-564	
-565	
-566	
-567	
-568	
+564
+565
+566
+567
+568
 569	Wicked Titan Cat
 570	Dark Priest Mamon
 571	High Priest Mamon
@@ -642,6 +642,11 @@
 641	Elephantidae Papaou
 642	Infernal Tyrant Nyandam
 643	Grand Mage Mimon
-644	
+644
 645	10th Half Anniversary Cake
 646	Readhead Beauty Macho Yuki Cat
+647 Eva Unit-13
+648 Pierrot Castle
+649 Holy Angel Otter
+650 Great Violent Beast Evirujohn
+651 Shinji Castle
