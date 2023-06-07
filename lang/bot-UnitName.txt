@@ -707,8 +707,8 @@
 706	Ancient Egg: N108	Teal Egg: N108	Soap Cat
 707	Ancient Egg: N109	Dark Egg: N109	Barrel Cat
 708	Jetpack Cat	Kinjirou Cat
-709 One-eyed Girl Asuka Blue-eyed Witch Asuka
-710 Eva Unit-13 Eva Unit-13 & Cat
-711 Vow of Balaluga Oyomeno Pasalan
-712 Kaoluga Kaolan Pasalan
-713 Ancient Egg: N203 Violet Egg: N203  Cat Pierrot
+709	One-eyed Girl Asuka	Blue-eyed Witch Asuka
+710	Eva Unit-13	Eva Unit-13 & Cat
+711	Vow of Balaluga	Oyomeno Pasalan
+712	Kaoluga	Kaolan Pasalan
+713	Ancient Egg: N203	Violet Egg: N203	Cat Pierrot
