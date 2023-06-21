@@ -286,7 +286,7 @@
 285	Una criatura siseante que utiliza acuarelas para<br>maquillarse de muerta (aunque ya está muerta...).<br>El único dato que necesitas saber es que<br>tiene un aterrador ataque de área.
 286	Atravesó una ciénaga envenenada una noche<br>y se despertó con una pata en el otro barrio.<br>Parece que le da bastante igual, la verdad...<br>Ya nunca saldremos de dudas sobre su sexo.
 287	Ni la muerte puede hacer que este gorrino real<br>abdique del trono. Lleva una calavera muy chula<br>mientras intenta recuperar la corona que le mangaron.<br>Dice que no se pudre, que envejece como el buen vino.
-288	Cuando su primera peli fracasó estrepitosamente,<br>solo quedó un gran agujero en el lugar donde antes<br>estaba su corazón. Ni la muerte por la malas críticas<br>detendrá su venganza contra el público desagradecido.
+288	Cuando su primera peli fracasó estrepitosamente,<br>solo quedó un gran agujero en el lugar donde antes<br>estaba su corazón. Ni la muerte por las malas críticas<br>detendrá su venganza contra el público desagradecido.
 289	Cuando lo rechazaron en el cielo por feo, Gori<br>decidió quedarse vagando por la Tierra.<br>Le arrancaron la parte superior de la cabeza<br>pensando que era un tupé. ¡Auchi!
 290	A través de la niebla matinal contemplé la figura<br>de una foca, que me habló con una voz ni de este<br>mundo ni del otro y me instó a unirme a ella y<br>viajar hasta las costas lejanas de un insólito mundo.
 291	Tras 50 años en el mundo del boxeo, su cuerpo<br>ya no pudo aguantar más dopaje. No obstante,<br>esas sustancias sirvieron para que su cuerpo siguiera<br>dando puñetazos incluso tras la muerte.
@@ -386,7 +386,7 @@
 385	
 386	
 387	Un deportista que sueña con ser una estrella,<br>aunque suele ver los partidos desde el banquillo...<br>Espera poder demostrar la potencia de sus<br>ataques un día de estos.
-388	Una oveja estelar con una poderosa defensa de barrera.<br>Tiene esos pinchos porque no se peina al levantarse<br>por las mañanas. Como todo el mundo mantiene las<br>distancias con ella, piensa que es por su mal aliente.
+388	Una oveja estelar con una poderosa defensa de barrera.<br>Tiene esos pinchos porque no se peina al levantarse<br>por las mañanas. Como todo el mundo mantiene las<br>distancias con ella, piensa que es por su mal aliento.
 389	
 390	
 391	
@@ -633,3 +633,15 @@
 632	
 633	
 634	Un alabado escultor que vive en la naturaleza. <br>Hizo un contrato aku para ganar visión de Rayos X y<br>esculpir mejor estatuas desnudas, pero ahora<br>solo ve los huesos a través de la ropa y la piel...
+635	
+636	Una influencer superfamosa que atrae<br>todo tipo de atención. Vive en el lujo absoluto.<br>Es famosa porque tiene un estilazo que causa sensación.<br>Dona todo lo que gana a la beneficencia.
+637	Un laboratorio secreto se dedicó a modificar genoma<br>para mejorar a los Niños Cerbero, de tamaño inigualable,<br>con ataques de réplica e inmovilizadores.<br>Su letalidad aumenta con cada batalla.
+638	Hermano pequeño de Ciclón Blanco. Estudia succión<br>y durabilidad en la universidad. Como ha habido un<br>apogeo en las ventas de robots aspiradoras, tiene<br>problemas para encontrar trabajo.
+639	Un pegaso gigante con el poder de encender<br>los cielos y arrasar con la tierra. Cualquiera que ponga<br>los ojos en él es devorado por minioleadas y condenado<br>a morir entre llamas.
+640	Cerdo mascota de la 56.ª reina del Reino Porcino.<br>Huyó tras soportar demasiados días paseando <br>con ropa. Mientras disfrutaba de la vida silvestre,<br>descubrió que la ropa era, en realidad, su propio pelaje.
+641	Al haberse criado en un mundo tan cruel, no tiene tacto <br>al tratar con las mujeres. Tras lamerse miles de heridas <br>producidas por el rechazo femenino, consiguió la fortaleza<br>necesaria para superar cualquier estado de penalización.
+642	Después de 560 000 años regresó a nuestro mundo bajo<br>la forma de un tirano infernal solo para hacerse una foto <br>para una cita a ciegas. Quiere impresionar a su cita usando<br>su altura, expediente académico y nivel de azúcar en sangre.
+643	Una hechicera espantosa que vive en lo más profundo<br>de un laberinto. Las víctimas que caen en su trampa acaban<br>escuchando historias larguísimas sin un final satisfactorio<br>que van sobre su hermano mayor en los reinos de akus.
+644	<br><br><br>
+645	<br><br><br>
+646	<br><br><br>

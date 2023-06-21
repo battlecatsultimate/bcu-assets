@@ -103,3 +103,6 @@
 102	★ Inferno 40 ★
 103	★ Io sono Leggenda misteriosa 1 ★
 104	★ Luza lo scimmione ★
+105	★ Tiranno infernale Nyandam ★
+106	★ Io sono Leggenda misteriosa 2 ★
+107	★ Presagi ★

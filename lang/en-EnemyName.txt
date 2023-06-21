@@ -420,7 +420,7 @@
 419	Cat God
 420	Loris
 421	Le'saint
-422	The Red Menace
+422	The Red Malice
 423	Lowkey
 424	M. Ost
 425	Dead Donny Dash
@@ -633,3 +633,15 @@
 632	
 633	
 634	Vermilingua Rangmaster
+635	
+636	Devil Wife
+637	Omens
+638	Mini White Cyclone
+639	Infernal Pegasus Deonil
+640	Suidae Piggicus
+641	Elephantidae Papaou
+642	Infernal Tyrant Nyandam
+643	Grand Mage Mimon
+644	
+645	
+646	

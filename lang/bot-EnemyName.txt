@@ -17,8 +17,8 @@
 016	Assassin Bear
 017	Shy Boy
 018	The Face
-019	
-020	
+019
+020
 021	Ms. Sign
 022	Mooth
 023	Dark Emperor Nyandam
@@ -562,18 +562,18 @@
 561	Wicked Cat
 562	Wicked Tank Cat
 563	Wicked Axe Cat
-564	
-565	
-566	
-567	
-568	
+564
+565
+566
+567
+568
 569	Wicked Titan Cat
 570	Dark Priest Mamon
 571	High Priest Mamon
 572	Lord of Ruin Jagando
 573	Possessed Empress
-574	Woke Aku Base
-575	Inactive Aku Base
+574	Aku Altar
+575	Aku Altar (Dispelled)
 576	White Ball
 577	Red Ball
 578	Metal Ball
@@ -633,3 +633,20 @@
 632	Relic Base
 633	Killer Tank Cat
 634	Vermilingua Rangmaster
+635	Easter Egg Cat
+636	Devil Wife
+637	Omens
+638	Mini White Cyclone
+639	Infernal Pegasus Deonil
+640	Suidae Piggicus
+641	Elephantidae Papaou
+642	Infernal Tyrant Nyandam
+643	Grand Mage Mimon
+644
+645	10th Half Anniversary Cake
+646	Readhead Beauty Macho Yuki Cat
+647	Eva Unit-13
+648	Pierrot Castle
+649	Holy Angel Otter
+650	Great Violent Beast Evirujohn
+651	Shinji Castle

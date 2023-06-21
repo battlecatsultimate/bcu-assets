@@ -448,13 +448,13 @@
 447	Wahre-Form-Entwicklung erhöht<br>Verteidigung & Angriffskraft und<br>gewährt Abwehrbrecher-Fähigkeiten!
 448	<br><br>
 449	<br><br>
-450	<br><br>
+450	Wahre-Form-Entwicklung erh. Vert.!<br>Erhält Immunität gegen Rückstoß und Gift<br>sowie Kolosstöter!
 451	<br><br>
 452	<br><br>
 453	<br><br>
 454	<br><br>
 455	<br><br>
-456	<br><br>
+456	True Form gains increased Attack Speed!<br>Also gains Soulstrike and immunity<br>to Freeze attacks!
 457	<br><br>
 458	<br><br>
 459	<br><br>
@@ -615,10 +615,10 @@
 614	Wahre Form gewährt<br>garantierte Lähmung von Aku und Chance,<br>Schilde von Aku-Feinden zu durchdringen!
 615	<br><br>
 616	<br><br>
-617	<br><br>
+617	Wahre-Form-Entwicklung erh. Vert.!<br>Außerdem erh. Chance auf Schilddurchd<br>und garantierter Rückstoß!
 618	Wahre-Form-Entwicklung erhöht<br>Verteidigung und Angriffstempo!<br>
 619	Wahre Form erhöht Verteidigung!<br>Erhält zudem Zufallsangriff!<br>
-620	<br><br>
+620	Wahre-Form-Entwicklung erhöht<br>Verteidigung, Angriff und Reichweite!<br>Stößt rote Feinde und Aku.
 621	<br><br>
 622	<br><br>
 623	<br><br>
@@ -696,3 +696,14 @@
 695	<br><br>
 696	<br><br>
 697	Wahre-Form-Entwicklung enthüllt<br>Erhält zudem "Behemothtöter"!<br>
+698	<br><br>
+699	<br><br>
+700	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem Distanzangriffe und<br>Immunität gegen Wellen!
+701	<br><br>
+702	<br><br>
+703	<br><br>
+704	<br><br>
+705	<br><br>
+706	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
+707	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
+708	<br><br>

@@ -1,156 +1,252 @@
-0	Speed Up
-1	Treasure Radar
-2	Rich Cat
-3	Cat CPU
-4	Cat Jobs
-5	Sniper The Cat
-6	XP
-11	Silver Ticket
-12	Gold Ticket
-13	Cat food
-23	Ticket chance
-26	Ticket chance
-27	Ticket chance
-28	Ticket chance
-29	Ticket platine
-30	Graine de Chagrume violet
-31	Graine de Chagrume rouge
-32	Graine de Chagrume bleu
-33	Graine de Chagrume vert
-34	Graine de Chagrume jaune
-35	Chagrume violet
-36	Chagrume rouge
-37	Chagrume bleu
-38	Chagrume vert
-39	Chagrume jaune
-40	Chagrume épique
-41	Graine Chagrume ancestral
-42	Chagrume ancestral
-43	Graine Chagrume épique
-44	Chagrume doré
-45	Ticket chance
-46	Ticket chance
-47	Ticket chance
-48	Ticket chance
-49	Ticket chance
-50	Œil de Chat [spécial]
-51	Œil de chat [rare]
-52	Œil de chat [super rare]
-53	Œil de chat [ultra rare]
-54	Œil de chat [légendaire]
-55	Vichamine [A]
-56	Vichamine [B]
-57	Vichamine [C]
-58	Œ.-de-chat [ombre]
-75	Ticket chance
-76	Ticket chance
-77	Ticket chance G
+0|S0|I0	Accélération
+1|S1|I1	Détecteur de trésor
+2|S2|I2	Chat fortuné
+3|S3|I3	Chat numérique
+4|S4|I4	Chat diplômé
+5|S5|I5	Chat tireur
+6|S6|I201	XP
+7|S7|I217	NP
+8	dummy
+9	dummy
+10	5 000 XP
+11	10 000 XP
+12	30 000 XP
+13	50 000 XP
+14	100 000 XP
+15	200 000 XP
+16	500 000 XP
+17	1 000 000 XP
+18	2 000 000 XP
+19	500 000 XP
+20|S11|I202	Ticket Chapsule
+21|S12|I203	Ticket rare
+22|S13|I200	Miam
+23|S16|I400	Ticket chance
+26|S17|I403	Ticket chance
+27|S18|I404	Ticket chance
+28|S19|I405	Ticket chance
+29|S20|I204	Ticket platine
+30|S30|I500	Graine de Chagrume violet
+31|S31|I501	Graine de Chagrume rouge
+32|S32|I502	Graine de Chagrume bleu
+33|S33|I503	Graine de Chagrume vert
+34|S34|I504	Graine de Chagrume jaune
+35|S35|I505	Chagrume violet
+36|S36|I506	Chagrume rouge
+37|S37|I507	Chagrume bleu
+38|S38|I508	Chagrume vert
+39|S39|I509	Chagrume jaune
+40|S40|I510	Chagrume épique
+41|S41|I511	Graine Chagrume ancestral
+42|S42|I512	Chagrume ancestral
+43|S43|I513	Graine Chagrume épique
+44|S44|I514	Chagrume doré
+45|S21|I406	Ticket chance
+46|S22|I407	Ticket chance
+47|S23|I408	Ticket chance
+48|S24|I409	Ticket chance
+49|S25|I410	Ticket chance
+50|S50|I600	Œil de Chat [spécial]
+51|S51|I601	Œil de chat [rare]
+52|S52|I602	Œil de chat [super rare]
+53|S53|I603	Œil de chat [ultra rare]
+54|S54|I604	Œil de chat [légendaire]
+55|S55|I700	Vichamine [A]
+56|S56|I701	Vichamine [B]
+57|S57|I702	Vichamine [C]
+58|S58|I605	Œ.-de-chat [ombre]
+60|S60	Attaque du Chanon
+61|S61	Portée du Chanon
+62|S62	Charge du Chanon
+63|S63	Efficacité Chadjoint
+64|S64	Portefeuille Chadjoint
+65|S65	Défense de la base
+66|S66	Recherche
+67|S67	Rentabilité
+68|S68	Expertise
+69|S69	Charburant
+70|S70	Cat Ally: Dummy 1
+71|S71	Cat Ally: Dummy 2
+72|S72	Cat Ally: Dummy 3
+73|S73	Cat Ally: Dummy 4
+74|S74	Cat Ally: Dummy 5
+75|S26|I411	Ticket chance
+76|S76|I205	Ticket chance
+77|S77|I206	Ticket chance G
 78	100 000 XP
-85	Briques
-86	Plumes
-87	Charbon
-88	Rouages
-89	Or
-90	Météorites
-91	Os de bête
-92	Ingénieurs
-93	Ticket chance
-94	Ticket chance G
-95	Ticket chance G
-96	Ticket chance G
-97	Ticket chance G
-98	Ticket chance G
-99	Ticket chance
-100	Ticket chance G
-101	Ticket chance
-102	Ticket chance G
-103	Ticket chance G
-104	Ticket chance
-105	Autorité
-106	Ticket chance G
-107	Ticket chance
-108	Ticket chance G
-109	Ticket chance G
-110	Ticket chance
-112	Ticket chance
-113	Ticket chance G
-114	Ticket chance G
-115	Ticket chance G
-116	Ticket chance
-117	Ticket chance
-118	Ticket chance G
-119	Ticket chance G
-120	Ticket chance G
-121	Ticket chance G
-122	Ticket chance
-124	Ticket chance G
-125	Ticket chance G
-126	Ticket chance
-127	Ticket chance
-128	Ticket chance G
-129	Ticket chance G
-130	Ticket chance G
-131	Ticket chance G
-132	Ticket chance
-133	Ticket chance G
-134	Ticket chance
-135	Ticket chance G
-136	Ticket chance
-137	Bikkuriman Choco
-138	Ticket chance G
-139	Ticket chance
-140	Ammonite
-141	Ticket chance G
-142	Ticket chance G
-143	Ticket chance
-144	Ticket chance G
-145	Ticket légendaire
-146	Ticket chance G
-147	Ticket chance
-148	Ticket chance
-149	Ticket chance G
-150	Ticket chance G
-151	3 h de Chats fortunés illimités
-152	3 h de Chats numériques illimités
-153	3 h de Chats tireurs illimités
-154	Ticket chance G
-155	Ticket chance
-156	Ticket chance G
-157	Éclat platine
-158	Filet légendaire
+80|S80|I6	XP
+81|S81|I7	XP
+82|S82|I8	XP
+83|S83|I9	XP
+84|S84|I10	XP
+85|S85|I610	Briques
+86|S86|I611	Plumes
+87|S87|I612	Charbon
+88|S88|I613	Rouages
+89|S89|I614	Or
+90|S90|I615	Météorites
+91|S91|I616	Os de bête
+92|S92	Ingénieurs
+93|S93|I207	Ticket chance
+94|S94|I208	Ticket chance G
+95|S95|I209	Ticket chance G
+96|S96|I210	Ticket chance G
+97|S97|I211	Ticket chance G
+98|S98|I212	Ticket chance G
+99|S99|I213	Ticket chance
+100|S100|I214	Ticket chance G
+101|S101|I215	Ticket chance
+102|S102|I216	Ticket chance G
+103|S103|I218	Ticket chance G
+104|S104|I219	Ticket chance
+105|S105|I220	Autorité
+106|S106|I221	Ticket chance G
+107|S107|I222	Ticket chance
+108|S108|I223	Ticket chance G
+109|S109|I224	Ticket chance G
+110|S110|I225	Ticket chance
+112|S112|I226	Ticket chance
+113|S113|I227	Ticket chance G
+114|S114|I228	Ticket chance G
+115|S115|I229	Ticket chance G
+116|S116|I230	Ticket chance
+117|S117|I231	Ticket chance
+118|S118|I232	Ticket chance G
+119|S119|I233	Ticket chance G
+120|S120|I234	Ticket chance G
+121|S121|I235	Ticket chance G
+122|S122|I236	Ticket chance
+123|S123	Pack de redémarrage
+124|S124|I237	Ticket chance G
+125|S125|I238	Ticket chance G
+126|S126|I239	Ticket chance
+127|S127|I240	Ticket chance
+128|S128|I241	Ticket chance G
+129|S129|I242	Ticket chance G
+130|S130|I243	Ticket chance G
+131|S131|I244	Ticket chance G
+132|S132|I245	Ticket chance
+133|S133|I246	Ticket chance G
+134|S134|I247	Ticket chance
+135|S135|I248	Ticket chance G
+136|S136|I249	Ticket chance
+137|S137|I413	Bikkuriman Choco
+138|S138|I250	Ticket chance G
+139|S139|I251	Ticket chance
+140|S140|I617	Ammonite
+141|S141|I252	Ticket chance G
+142|S142|I253	Ticket chance G
+143|S143|I254	Ticket chance
+144|S144|I255	Ticket chance G
+145|S145|I256	Ticket légendaire
+146|S146|I257	Ticket chance G
+147|S147|I258	Ticket chance
+148|S148|I259	Ticket chance
+149|S149|I260	Ticket chance G
+150|S150|I261	Ticket chance G
+151|S151	3 h de Chats fortunés illimités
+152|S152	3 h de Chats numériques illimités
+153|S153	3 h de Chats tireurs illimités
+154|S154|I262	Ticket chance G
+155|S155|I263	Ticket chance
+156|S156|I264	Ticket chance G
+157|S157|I270	Éclat platine
+158|S158|I414	Filet légendaire
 159	5 000 XP
-160	Graine de Chagrume Aku
-161	Chagrume Aku
-164	Graine de Chagrume doré
-166	Lettre d'amour
-167	Pierre B. violette
-168	Pierre B. rouge
-169	Pierre B. bleue
-170	Pierre B. verte
-171	Pierre B. jaune
-172	Eau bénite
-173	Filets légendaires
-174	Médaille de bronze
-175	Médaille d’argent
-176	Médaille d’or
-177	Médaille platine
-179	G. Béhém. violette
-180	Gemme Béhém. rouge
-181	Gemme Béhém. bleue
-182	Gemme Béhém. verte
-183	Gemme Béhém. jaune
-184	P. Béhémoth épique
-185	Charme légendaire
-186	Lettre d’amour
-1005	Chat en bronze
-1100	Chat en bronze
+160|S160|I515	Graine de Chagrume Aku
+161|S161|I516	Chagrume Aku
+164|S164|I517	Graine de Chagrume doré
+166|S166|I418	Lettre d'amour
+167|S167|I518	Pierre B. violette
+168|S168|I519	Pierre B. rouge
+169|S169|I520	Pierre B. bleue
+170|S170|I521	Pierre B. verte
+171|S171|I522	Pierre B. jaune
+172|S172|I419	Eau bénite
+173|S173|I420	Filets légendaires
+174|S174|I710	Médaille de bronze
+175|S175|I711	Médaille d’argent
+176|S176|I712	Médaille d’or
+177|S177|I713	Médaille platine
+179|S179|I523	G. Béhém. violette
+180|S180|I524	Gemme Béhém. rouge
+181|S181|I525	Gemme Béhém. bleue
+182|S182|I526	Gemme Béhém. verte
+183|S183|I527	Gemme Béhém. jaune
+184|S184|I528	P. Béhémoth épique
+185|S185|I422	Charme légendaire
+186|S186|I423	Lettre d’amour
+187|S187|I618	Brique Z
+188|S188|I619	Plumes Z
+189|S189|I620	Charbon Z
+190|S190|I621	Rouages Z
+191|S191|I622	Or Z
+192|S192|I623	Météorite Z
+193|S193|I624	Os de bête Z
+194|S194|I625	Ammonite Z
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
+1005	Chat en bronze
 1006	Chat droïde
 1007	Chat adulte
 1008	Chat diabolique
 1009	Chats poupées
+1010	Minette
+1011	Chabaret
+1012	Chat koï
+1013	Madame mariée
+1014	Reine des vacances
+1015	Chat vengeur
+1016	Chat kung-fu X
+1018	Chat mallow
+1019	Cat Kart R
+1020	Baozi Cat
+1021	Chat burger
+1022	Chatrouille
+1023	Chadeau
+1024	Chat gyropode
+1025	Chat Awa-Odori
+1026	Félin Express
+1027	Chat de ligue mineure
+1028	Chat stand
+1029	Pom-pom Chatte
+1030	Chat tueur
+1031	Chat curling
+1032	Chat œuf
+1033	Frères Chats
+1035	Squish Ball Cat
+1036	Chat volley
+1037	Chat en verre
+1038	Moneko maboule
+1039	Chat jockey
+1040	Chat et son chaton
+1041	Chat primitif
+1042	Toutoumaru
+1043	Cat Bros
+1044	Forfélin
+1045	Chatte Médusa
+1046	Chat gluant
+1047	Chat cosaque
+1048	Professeur Ours-Chat
+1049	Urs et Fenrir
+1050	Chat rugby
+1051	Chat fantôme
+1052	Chat boulanger
+1053	Chat de pierre
+1054	Doron masque ancestral
+1055	Chercheur d'ennemis Akus
+1056	Chat joueur de flûte
+1057	Challigraphe
+1058	Bête ancestrale Naala
+1059	Œuf ancien N001
+1060	Œuf ancien N003
+1061	Œuf ancien N004
+1062	Œuf ancien N000
+1063	Chat tank tueur
+1064	Œuf ancien N005
+1065	Chat à propulsion
+1100	Chat en bronze
 1101	Chastronaute
 1102	Chat corde à sauter
 1103	Chat maboul
@@ -162,49 +258,23 @@
 1109	Chat poisson maboul
 1110	Chat lézard maboul
 1111	Chat titan maboul
-1010	Minette
-1011	Chabaret
-1012	Chat koï
-1033	Frères Chats
-1013	Madame mariée
 1112	Healer
-1014	Reine des vacances
-1114	Chat mécanique
-1015	Chat vengeur
 1113	Ururun et Loup
-1016	Chat kung-fu X
-1035	Squish Ball Cat
+1114	Chat mécanique
 1116	Huchat hoop
-1018	Chat mallow
 1118	P’tit Nyandam
 1119	Takuya ＆ Yuki
-1019	Cat Kart R
 1120	Chat fanfare
-1020	Baozi Cat
-1021	Chat burger
 1121	HYAKUTARO
-1022	Chatrouille
-1023	Chadeau
-1024	Chat gyropode
 1130	Chat tornade
 1131	Chaperon Mina
 1132	Funghi
-1025	Chat Awa-Odori
-1026	Félin Express
-1027	Chat de ligue mineure
 1134	Li'l Madoka
 1135	Kyubey Cat
-1028	Chat stand
-1029	Pom-pom Chatte
 1137	PIKOTARO
-1030	Chat tueur
-1031	Chat curling
 1139	Miyamoku Musashi
-1032	Chat œuf
 1140	Redhead Yuki Cat
 1142	Li'l Shirou
-1036	Chat volley
-1037	Chat en verre
 1143	Akio Yabe
 1144	Karin Nekozuka
 1145	Misaki Konno
@@ -213,57 +283,22 @@
 1148	Mentori
 1149	Shinji & Cat
 1150	Giraffe Unit-01
-1038	Moneko maboule
 1151	Pokota
 1152	Ovis
 1153	Coco
 1157	Méca-Bun
-1039	Chat jockey
 1158	Betakkuma
-1040	Chat et son chaton
-1041	Chat primitif
 1160	Meowla Meowla
-1042	Toutoumaru
 1162	Prince Yamato
 1164	Kano ＆ Souma
-1043	Cat Bros
-1044	Forfélin
 1167	Ryu Cat
 1168	Akuma Giraffe
-1045	Chatte Médusa
-1046	Chat gluant
-1047	Chat cosaque
-1048	Professeur Ours-Chat
-1049	Urs et Fenrir
 1170	Miku Cat
-1050	Chat rugby
-1051	Chat fantôme
-1052	Chat boulanger
 1172	Idi:N
-1053	Chat de pierre
 1173	Ranma Cat (M)
 1174	Godzilla Cat
-1054	Doron masque ancestral
-1055	Chercheur d'ennemis Akus
-1056	Chat joueur de flûte
-1057	Challigraphe
-1058	Bête ancestrale Naala
-1059	Œuf ancien N001
-1060	Œuf ancien N003
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
-1061	Œuf ancien N004
-1062	Œuf ancien N000
-1063	Chat tank tueur
-19001	Chat punk
-19002	Chat gomme
-19003	Chat de l’ombre
-19004	Chat jambes d’acier
-19005	Chat lion
-19006	Chat volant
-19007	Chat île
-19008	Chat roi dragon
-19009	Chat Jamilar
 10010	Chat malabar
 10011	Chat danseur
 10012	Hyper Mr.
@@ -271,7 +306,6 @@
 10014	Dark Lasor
 10015	Chartillerie lourde
 10016	Chat sucette
-15017	Moneko Superstar
 10018	Chat monocycle
 10019	Chat ninja volant
 10020	Chat squelette
@@ -279,8 +313,75 @@
 10022	Chat bol de riz
 10023	Chamigo
 10024	Chat pagne
-18025	Chalkyrie sacrée
-18026	Chat Bahamut éveillé
+10061	Chanimateur
+10064	Chats déchaînés
+10071	Chat ritualiste
+10075	Chat bûche de Noël
+10079	Chastronaute de la Marine
+10080	Chat prisonnier
+10081	Frères gentlemen
+10082	Chaladdin
+10089	Chats nouilles à sauter
+10092	Chat punk dément
+10093	Chat gomme dément
+10094	Chat de l’ombre dément
+10095	Chat jambes d’acier dément
+10096	Chat lion dément
+10097	Chat volant dément
+10098	Chat île dément
+10099	Roi dragon dément
+10100	Chat Jamilar dément
+10101	Chatcheuse
+10104	Méga Chat EX
+10105	Bécot et koï
+10110	Madame savane
+10120	Healer Cat CC
+10122	Merc & Cat CC
+10123	Chatte réceptionniste
+10127	Marionnettiste et Charly
+10128	Chat bombe à retardement
+10129	Chat cerf-volant
+10133	Griffe de fer X
+10155	Roi du cerceau
+10180	Takuya＆ Lovely Yuki
+10184	Cat Kart P
+10192	Titi Cat CC
+10202	Chat mochi
+10210	P’tit Chat punk
+10211	P’tit Chat gomme
+10212	P’tit Chat de l’ombre
+10214	Chappy meal
+10246	P’tit Chat jambes d’acier
+10247	P’tit Chat lion
+10248	P’tit Chat volant
+10261	Chat voyageur temporel
+10268	Chat typhon
+10274	Soba féline
+10285	Chat TGV
+10288	Chat golfeur
+10300	Li'l Ultimate Madoka
+10301	Li'l Devil Homura
+10312	P’tit Chat île
+10313	P’tit Chat roi dragon
+10314	P’tit Chat Jamilar
+10325	Charapace verte
+10330	Chat œuf de Pâques
+10353	Grand maître Chat masqué
+10370	Saber Alter Cat
+10380	Chat curry
+10383	Chat en cristal macho
+10384	Yulala spirituel
+10386	Akio & Gunder CC
+10403	Plug Suit Shinji Black
+10406	Moon Kaworu
+10443	Chats touristes
+10453	Chat du futur
+10474	Rampaging Yamato
+10475	Strike Angel
+10522	Chat Naga
+10532	Ours-Chat cadavre
+10540	Chaterback
+15017	Moneko Superstar
 15031	Chat Tathagata
 15032	Chat ultra délinquant
 15033	Chatte cancan
@@ -308,53 +409,23 @@
 15058	Chat paladin
 15059	Chat épéiste élémentaire
 15060	Chats au berceau
-10061	Chanimateur
 15062	Chats œufs de poisson
-10064	Chats déchaînés
-10071	Chat ritualiste
 15072	Yukimura immortel
 15073	Keiji immortel
 15074	Nobunaga immortel
-10075	Chat bûche de Noël
 15076	Venteuse divine
 15077	Tonnia divine
-10079	Chastronaute de la Marine
-10080	Chat prisonnier
-10081	Frères gentlemen
-10082	Chaladdin
 15084	Dieu empereur Sodom
 15085	Dieu empereur Megidora
 15086	Dieu empereur Vars
 15087	Dieu empereur Kamukura
 15088	Dieu empereur Raiden
-10089	Chats nouilles à sauter
-10092	Chat punk dément
-10093	Chat gomme dément
-10094	Chat de l’ombre dément
-10095	Chat jambes d’acier dément
-10096	Chat lion dément
-10097	Chat volant dément
-10098	Chat île dément
-10099	Roi dragon dément
-10100	Chat Jamilar dément
-10101	Chatcheuse
-10104	Méga Chat EX
-10105	Bécot et koï
 15106	Kuu divine
 15107	Kai divine
 15108	Mine divine
-10110	Madame savane
-10120	Healer Cat CC
-10122	Merc & Cat CC
-10123	Chatte réceptionniste
 15125	Masamune immortel
 15126	Shingen immortel
-10127	Marionnettiste et Charly
-10128	Chat bombe à retardement
-10129	Chat cerf-volant
 15130	Chat macho scintillant
-16131	Ururun et Tama éveillés
-10133	Griffe de fer X
 15135	Roi Gamereon
 15136	Ultima Galaxie Cosmo
 15137	Les diablotins adorables
@@ -371,37 +442,26 @@
 15152	Chat pizza
 15153	Chats burlesques
 15154	Chamophone
-10155	Roi du cerceau
 15159	Kenshin immortelle
 15160	Kalisa divine
 15169	Assassinlan Pasalan
 15170	E. Kubilan Pasalan
-15170	Lufalan Pasalan
 15172	Piccolan Pasalan
-16173	Bus scolaire Nyandam
 15174	Citizen Mola
 15175	Master of the Pacific
 15178	Dieu empereur Dioramos
-10180	Takuya＆ Lovely Yuki
 15181	Mystery Catgirl Yuki
-10184	Cat Kart P
 15186	Revolutionary Hearscht CC
 15188	Holiday Juvens CC
 15189	Savior Mystica CC
-10192	Titi Cat CC
 15195	Akira inferno
 15196	Mekako centre de contrôle
 15197	Homme-Chat ultime
 15198	Psychochat corrompu
 15199	Thauchaturge
 15200	Chat navigateur
-10202	Chat mochi
 15204	Brigade d’assaut Kachiyama
-10210	P’tit Chat punk
-10211	P’tit Chat gomme
-10212	P’tit Chat de l’ombre
 15213	Le renard gris
-10214	Chappy meal
 15227	Klay le savant fou
 15228	Chat funeste
 15229	Neneko sorcière costumée
@@ -409,29 +469,18 @@
 15239	Chat richissime
 15240	Tireur d’élite
 15241	Shishilan Pasalan
-10246	P’tit Chat jambes d’acier
-10247	P’tit Chat lion
-10248	P’tit Chat volant
 15249	Chat vie bonus
 15258	Zeus Tout-puissant
 15259	Anubis Tout-puissant
 15260	Aphrodite Toute-puissante
-10261	Chat voyageur temporel
 15262	Akuma Hayabusa
-10268	Chat typhon
-16269	Mina éveillée
 15271	Crazed Catgirl Yuki
 15272	Amaterasu Toute-puissante
 15273	Ganesh Tout-puissant
-10274	Soba féline
 15277	Neneko début d'été
 15283	Chat tchatcha
 15284	Pai-Pai DX
-10285	Chat TGV
 15287	Unité volante R.E.I.
-10288	Chat golfeur
-10300	Li'l Ultimate Madoka
-10301	Li'l Devil Homura
 15303	Reine succube
 15305	Béhémoth CHAT-8
 15306	Navire Griffe de tigre
@@ -439,15 +488,10 @@
 15308	Chatte au foyer
 15309	Charticulteur
 15311	Félinfirmière de Noël
-10312	P’tit Chat île
-10313	P’tit Chat roi dragon
-10314	P’tit Chat Jamilar
 15315	Neneko nouvel an festif
 15317	Poséidon Tout-puissant
 15320	Chat radical
 15323	Les machines à tubes
-16324	Musashi éveillé
-10325	Charapace verte
 15326	Chat poids lourd
 15331	Kenshin brise printanière
 15332	Canard fou et malfaisant
@@ -460,7 +504,6 @@
 15345	Artist Orthos CC
 15346	Naptime Michelia CC
 15352	Jumelles divines
-10353	Grand maître Chat masqué
 15356	Destructeur orbital Ragnarök
 15358	Louve comique
 15359	Verveine opulente
@@ -468,14 +511,9 @@
 15361	Mizuririn
 15362	Aervanta
 15363	Saber Alter CC
-10370	Saber Alter Cat
 15371	Dreaming Sakura Cat
 15377	Chatellite
 15378	Le chaton de la liberté
-10380	Chat curry
-10383	Chat en cristal macho
-10384	Yulala spirituel
-10386	Akio & Gunder CC
 15391	Baseball Mask α
 15392	Baseball Mask β
 15393	Baseball Mask γ
@@ -485,31 +523,24 @@
 15397	Ganglion en liberté
 15398	Sakura lame sacrée
 15402	Gigavolta
-10403	Plug Suit Shinji Black
-10406	Moon Kaworu
 15411	Eyepatch Li'l Asuka
 15415	Unit-02, Code 777
 15418	Sentinelles souterraines
-16427	Méca-Bun ultime
 15428	Héros de la quête des Chats
 15432	Commissaire Gravicci
 15437	Mystican Pasalan
 15438	Le doré Dieu des Chats
 15440	Chronos Toute-puissante
-10443	Chats touristes
 15444	Néo Chat perceuse
 15445	Néo Chat foreuse
 15446	Néo Chat découpeuse
 15447	Néo Chat tractopelle
 15448	Néo Chat scie
-10453	Chat du futur
-16463	Métaflibustier
-16465	Guer. Toutoumon ressuscité
+15451	Dieu empereur Babel
+15457	Dark Sakura CC
 15468	Super S-Zeus
 15469	Head Rococo
 15470	Super D-Devil
-10474	Rampaging Yamato
-10475	Strike Angel
 15483	Cat-Eared Souma
 15496	Chatte danseuse du ventre
 15497	Kaihime immortelle
@@ -518,12 +549,9 @@
 15507	Nameless Eyewaltz CC
 15512	Kage
 15520	Lasvoss ressuscité
-10522	Chat Naga
 15523	Chat démoniaque
 15524	Chat Shigong
 15526	Kinrangers GigaForce
-10532	Ours-Chat cadavre
-16533	Urs éveillé
 15534	Vil bourreau Saki
 15535	Hadès Tout-puissant
 15547	Sukelan Kakulan
@@ -540,16 +568,15 @@
 15596	Mr Kamukura fleur éternelle
 15608	Kanna le mythe vivant
 15611	Roi Nekokhamen
-16614	Doron éveillé
 15615	L'éclat du soleil méridional
+15618	Satoru démoniste
 15619	Amakusa immortel
 15620	Lilin π divine
+15621	Dieu empereur Hevijak
 15632	Yaminora
 15633	Diabolosa oblitératrice
 15643	Lucifer Tout-puissant
-19010	Super félin ultime
 15645	Mekako amour mentholé
-16654	Naala éveillée
 15657	Chat haniwa
 15659	Chat coursier
 15660	Charzan
@@ -563,6 +590,31 @@
 15686	Chat supercar
 15692	Seigneur gorille Luza
 15698	Chef Chat
+15701	Chat tueur à gages
+15707	Chat savonneur
+15708	Chat baril
+16131	Ururun et Tama éveillés
+16173	Bus scolaire Nyandam
+16269	Mina éveillée
+16324	Musashi éveillé
+16427	Méca-Bun ultime
+16463	Métaflibustier
+16465	Guer. Toutoumon ressuscité
+16533	Urs éveillé
+16614	Doron éveillé
+16654	Naala éveillée
+18025	Chalkyrie sacrée
+18026	Chat Bahamut éveillé
+19001	Chat punk
+19002	Chat gomme
+19003	Chat de l’ombre
+19004	Chat jambes d’acier
+19005	Chat lion
+19006	Chat volant
+19007	Chat île
+19008	Chat roi dragon
+19009	Chat Jamilar
+19010	Super félin ultime
 30000	Attaque aug. D: Rouge
 30001	Attaque aug. C: Rouge
 30002	Attaque aug. B: Rouge

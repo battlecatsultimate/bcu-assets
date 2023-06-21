@@ -1318,6 +1318,11 @@
 001-279-001	Archaeology 301: Methods
 001-279-002	Archaeology 301: Results
 001-279-003	Archaeology 301: Analysis
+001-280		Empress' Excavation 4
+001-280-000	Archaeology 401: Planning
+001-280-001	Archaeology 401: Methods
+001-280-002	Archaeology 401: Results
+001-280-003	Archaeology 401: Analysis
 001-285		Top 5 Most Seen Enemies, 2021!
 001-285-000	#5 Sliding
 001-285-001	#4 Blushing
@@ -1498,6 +1503,33 @@
 001-334-000	Earthshaking Fist
 001-335		Peril in the Volcano II
 001-335-000	Performant Thunderclap
+001-336		Resident Undead
+001-336-000	Mutation Lv.1
+001-336-001	Mutation Lv.2
+001-336-002	Mutation Lv.3
+001-336-003	Mutation Lv.4
+001-336-004	Mutation Lv.5
+001-336-005	Mutation Lv.6
+001-336-006	Mutation Lv.7
+001-336-007	Mutation Lv.8
+001-336-008	Mutation Lv.9
+001-336-009	Mutation Lv.MAX
+001-337		Eggy Cat Awakens!
+001-337-000	Hardboiled Eggs (Expert)
+001-337-001	Hardboiled Eggs (Insane)
+001-338		NEO Wanwan's Glory
+001-338-000	Dogsville Annex (Insane)
+001-338-001	Top Dog (Insane)
+001-339		Li'l Cat's Trial
+001-339-000	Path to +45
+001-339-001	Path to +50
+001-339-002	Path to +55
+001-339-003	Path to +60
+001-340		Reign of the Tyrant
+001-340-000	Infernal Tyrant 1 (Deadly)
+001-340-001	Infernal Tyrant 2 (Merciless)
+001-340-002	Infernal Tyrant 3 (Merciless)
+001-340-003	Infernal Tyrant Climax (Brutal)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2036,6 +2068,21 @@
 002-193-007	Land & Sky Lv.4
 002-193-008	Master of Heart Lv.MAX
 002-193-009	Land & Sky Lv.MAX
+002-194		Holy War: Saber
+002-194-000	Fated Night (Easy)
+002-194-001	Fated Night (Expert)
+002-195		Holy War: Lancer
+002-195-000	Assault from Above (Easy)
+002-195-001	Assault from Above (Expert)
+002-196		Holy War: Archer
+002-196-000	Unlimited Bladeworks (Easy)
+002-196-001	Unlimited Bladeworks (Expert)
+002-197		Holy War: Rider
+002-197-000	Blood Temple (Easy)
+002-197-001	Blood Temple (Expert)
+002-198		Holy War: Gilgamesh
+002-198-000	King of Heroes (Veteran)
+002-198-001	King of Heroes (Deadly)
 
 003			Main Story Chapters
 003-000		EoC Ch.1 Zombie
@@ -2934,6 +2981,11 @@
 004-056-000	In the Mist-Shrouded Church
 004-057		New Year's Bling
 004-057-000	Lucky! New Year's Loot!
+004-059		Attack of the Omens
+004-059-000	Cradle Wilderness (Deadly)
+004-059-001	Summit Wilderness (Merciless)
+004-059-002	Frontier Wilderness (Merciless)
+
 006			Catclaw Dojo
 006-000		Hall of Initiates
 006-000-000	Wanderer's Trial (Stage 1)
@@ -3097,6 +3149,17 @@
 007-007-007	Floor 8
 007-007-008	Floor 9
 007-007-009	Top Floor
+007-008		Aku Citadel
+007-008-000	Floor 1
+007-008-001	Floor 2
+007-008-002	Floor 3
+007-008-003	Floor 4
+007-008-004	Floor 5
+007-008-005	Floor 6
+007-008-006	Floor 7
+007-008-007	Floor 8
+007-008-008	Floor 9
+007-008-009	Top Floor
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -4257,6 +4320,17 @@
 024-040-007	Confusion Lv.8
 024-040-008	Confusion Lv.9
 024-040-009	Confusion Lv.MAX
+024-041		Festival Cats: Lunar New Year's
+024-041-000	Lunar New Year Already?
+024-041-001	Flashy Fireworks Display
+024-041-002	Cast Out Evil with a Bang
+024-041-003	Begging for Gifts
+024-041-004	Pray for Long Life
+024-041-005	Acrobatic Lion Dance
+024-041-006	Decorate for Luck
+024-041-007	Auspicious Red Lantern
+024-041-008	Stuffed with Dumplings
+024-041-009	Long Road Home
 024-042		Horde of Cats
 024-042-000	Bloodthirsty Lv.1
 024-042-001	Bloodthirsty Lv.2
@@ -4502,6 +4576,27 @@
 024-060-007	Deadly Protection Lv.8
 024-060-008	Deadly Protection Lv.9
 024-060-009	Deadly Protection Lv.MAX
+024-061		Attack of the Omens
+024-061-000	Three Omens Lv.1
+024-061-001	Three Omens Lv.2
+024-061-002	Three Omens Lv.3
+024-061-003	Three Omens Lv.4
+024-061-004	Three Omens Lv.5
+024-061-005	Three Omens Lv.6
+024-061-006	Three Omens Lv.7
+024-061-007	Three Omens Lv.8
+024-061-008	Three Omens Lv.9
+024-061-009	Three Omens Lv.10
+024-061-010	Three Omens Lv.11
+024-061-011	Three Omens Lv.12
+024-061-012	Three Omens Lv.13
+024-061-013	Three Omens Lv.14
+024-061-014	Three Omens Lv.15
+024-061-015	Three Omens Lv.16
+024-061-016	Three Omens Lv.17
+024-061-017	Three Omens Lv.18
+024-061-018	Three Omens Lv.19
+024-061-019	Three Omens Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -4820,6 +4915,27 @@
 027-013-017	Sudden Death Lv.18
 027-013-018	Sudden Death Lv.19
 027-013-019	Sudden Death Lv.MAX
+027-014		Gauntlet of Servants
+027-014-000	Grail War: Day 1
+027-014-001	Grail War: Day 2
+027-014-002	Grail War: Day 3
+027-014-003	Grail War: Day 4
+027-014-004	Grail War: Day 5
+027-014-005	Grail War: Day 6
+027-014-006	Grail War: Day 7
+027-014-007	Grail War: Day 8
+027-014-008	Grail War: Day 9
+027-014-009	Grail War: Day 10
+027-014-010	Grail War: Day 11
+027-014-011	Grail War: Day 12
+027-014-012	Grail War: Day 13
+027-014-013	Grail War: Day 14
+027-014-014	Grail War: Day 15
+027-014-015	Grail War: Day 16
+027-014-016	Grail War: Day 17
+027-014-017	Grail War: Day 18
+027-014-018	Grail War: Day 19
+027-014-019	Grail War: Final Day
 
 031			Behemoth Culling Stages
 031-000		Hidden Forest of Gapra
@@ -4837,6 +4953,9 @@
 031-000-011	Downpour Jungle Area 12
 031-000-012	Downpour Jungle Area 13
 031-000-013	Downpour Jungle Area 14
+031-000-014	Downpour Jungle Area 15
+031-000-015	Downpour Jungle Area 16
+031-000-016	Primeval Wood Area 17
 031-001		Ashvini Desert
 031-001-000	Badlands Area 1
 031-001-001	Badlands Area 2
@@ -4852,6 +4971,9 @@
 031-001-011	Scorching Sands Area 12
 031-001-012	Scorching Sands Area 13
 031-001-013	Scorching Sands Area 14
+031-001-014	Scorching Sands Area 15
+031-001-015	Scorching Sands Area 16
+031-001-016	Sandstorm Area 17
 031-002		Jinfore Volcano
 031-002-000	Magma Tunnel Area 1
 031-002-001	Magma Tunnel Area 2
@@ -4867,6 +4989,9 @@
 031-002-011	Infernal Crater Area 12
 031-002-012	Infernal Crater Area 13
 031-002-013	Infernal Crater Area 14
+031-002-014	Infernal Crater Area 15
+031-002-015	Infernal Crater Area 16
+031-002-016	Erupting Cavern Area 17
 
 033			The Grand Deep
 033-000		The Grand Deep
@@ -4962,16 +5087,42 @@
 033-000-089	Underground B61~69/71~79/81~89/91~98F
 033-000-090	Underground B10F
 033-000-091	Underground B10F
-033-000-092	Underground B20/30F
-033-000-093	Underground B20/30F
-033-000-094	Underground B40/50/60F
-033-000-095	Underground B40/50/60F
-033-000-096	Underground B40/50/60F
-033-000-097	Underground B70/80/99F
-033-000-098	Underground B70/80/99F
-033-000-099	Underground B70/80/99F
-033-000-100	Underground B70/80/99F
+033-000-092	Underground B10F
+033-000-093	Underground B10F
+033-000-094	Underground B20/30F
+033-000-095	Underground B20/30F
+033-000-096	Underground B20/30F
+033-000-097	Underground B20/30F
+033-000-098	Underground B40/50/60F
+033-000-099	Underground B40/50/60F
+033-000-100	Underground B40/50/60F
+033-000-101	Underground B40/50/60F
+033-000-102	Underground B40/50/60F
+033-000-103	Underground B40/50/60F
+033-000-104	Underground B70/80/90/99F
+033-000-105	Underground B70/80/90/99F
+033-000-106	Underground B70/80/90/99F
+033-000-107	Underground B70/80/90/99F
+033-000-108	Underground B70/80/90/99F
+033-000-109	Underground B70/80/90/99F
+033-000-110	Underground B70/80/90/99F
+033-000-111	Underground B70/80/90/99F
+033-000-112	The Deepest Depths B100F
 
 034			Zero Legends
 034-000		Zero Field
 034-000-000	A Whole New World
+034-001		The Edge of Spacetime
+034-001-000	Crimes Against the Cosmos
+034-001-001	Zero Horizon
+034-001-002	Sunset Hadron
+034-001-003	The Theory of Felinity
+034-001-004	Protons, Neutrons, and Morons
+034-001-005	Neutrino Snowlands
+034-002		Cats Cradle Basin
+034-002-000	Choco Highlands
+034-002-001	Drowsy Paths
+034-002-002	Loony Lakeside
+034-002-003	Muddy Fjord
+034-002-004	Hopscotch Peak
+034-002-005	Hokey Pokey Forest

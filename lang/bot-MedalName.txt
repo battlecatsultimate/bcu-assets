@@ -103,3 +103,6 @@
 102	★ Inferno 40 ★
 103	★ I Am Uncanny Legend 1 ★
 104	★ Lord Luza ★
+105	★ Infernal Tyrant Nyandam ★
+106	★ I Am Uncanny Legend 2 ★
+107	★ Omens ★

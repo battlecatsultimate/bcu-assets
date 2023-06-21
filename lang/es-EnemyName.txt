@@ -622,7 +622,7 @@
 621	
 622	
 623	
-624	Gallus nublados
+624	Gallus Nublados
 625	
 626	
 627	Magamojoe Superancestral
@@ -632,5 +632,16 @@
 631	
 632	
 633	
-634	Vermilinguo maestro
-635	Vermilinguo maestro
+634	Vermilinguo Maestro
+635	
+636	Esposa Demoníaca
+637	Augurios
+638	Miniciclón Blanco
+639	Deonil, Pegaso Infernal
+640	Suidae Porcinus
+641	Elephantidae Papaou
+642	Tirano Infernal Nyandam
+643	Gran Maga Mimon
+644	
+645	
+646	

@@ -1309,6 +1309,11 @@
 001-279-001	Arqueología 301: Método
 001-279-002	Arqueología 301: Resultados
 001-279-003	Arqueología 301: Análisis
+001-280		Excavación de Emperatriz 4
+001-280-000	Arqueología 401: Preparación
+001-280-001	Arqueología 401: Métodos
+001-280-002	Arqueología 401: Resultados
+001-280-003	Arqueología 401: Análisis
 001-285		5 Más Recurrentes del 2021
 001-285-000	Deslizamiento 5
 001-285-001	Sonrojo 4
@@ -1466,6 +1471,33 @@
 001-334-000	Puño sísmico
 001-335		Peligro en el Volcán II
 001-335-000	Trueno eficaz
+001-336		Comecerebros
+001-336-000	Mutación (nvl. 1)
+001-336-001	Mutación (nvl. 2)
+001-336-002	Mutación (nvl. 3)
+001-336-003	Mutación (nvl. 4)
+001-336-004	Mutación (nvl. 5)
+001-336-005	Mutación (nvl. 6)
+001-336-006	Mutación (nvl. 7)
+001-336-007	Mutación (nvl. 8)
+001-336-008	Mutación (nvl. 9)
+001-336-009	Mutación (nvl. máx.)
+001-337		¡Gato Huevo, Álzate!
+001-337-000	Huevos duros (Experto)
+001-337-001	Huevos duros (Demencial)
+001-338		Gloria de Neoguauguau
+001-338-000	Anexo de Villa Canina (Demencial)
+001-338-001	Jerarca omnipotente (Demencial)
+001-339		Juicio de minigato
+001-339-000	Camino a +nvl. 45
+001-339-001	Camino a +nvl. 50
+001-339-002	Camino a +nvl. 55
+001-339-003	Camino a +nvl. 60
+001-340		Reino del Tirano
+001-340-000	Tirano Infernal 1 (Mortal)
+001-340-001	Tirano Infernal 2 (Inhumano)
+001-340-002	Tirano Infernal 3 (Inhumano)
+001-340-003	Tirano Infernal Definitivo (Brutal)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -1994,6 +2026,21 @@
 002-193-007	Land & Sky Lv.4
 002-193-008	Master of Heart Lv.MAX
 002-193-009	Land & Sky Lv.MAX
+002-194		Holy War: Saber
+002-194-000	Fated Night (Easy)
+002-194-001	Fated Night (Expert)
+002-195		Holy War: Lancer
+002-195-000	Assault from Above (Easy)
+002-195-001	Assault from Above (Expert)
+002-196		Holy War: Archer
+002-196-000	Unlimited Bladeworks (Easy)
+002-196-001	Unlimited Bladeworks (Expert)
+002-197		Holy War: Rider
+002-197-000	Blood Temple (Easy)
+002-197-001	Blood Temple (Expert)
+002-198		Holy War: Gilgamesh
+002-198-000	King of Heroes (Veteran)
+002-198-001	King of Heroes (Deadly)
 
 003			
 003-000		EoC Ch.1 Zombie
@@ -2882,6 +2929,11 @@
 004-056-000	Iglesia entre la Bruma
 004-057		Ostentación de Año Nuevo
 004-057-000	¡Tesoros de Año Nuevo!
+004-059		Ataque de los augurios
+004-059-000	Naturaleza Base (Mortal)
+004-059-001	Naturaleza Cima (Inhumano)
+004-059-002	Naturaleza Frontera (Inhumano)
+
 006			Dojo Afilagarras
 006-000		Sala de Iniciados
 006-000-000	Prueba del Viajero (Fase 1)
@@ -3045,6 +3097,17 @@
 007-007-007	Piso 8
 007-007-008	Piso 9
 007-007-009	Último Piso
+007-008		Ciudadela Aku
+007-008-000	Piso 1
+007-008-001	Piso 2
+007-008-002	Piso 3
+007-008-003	Piso 4
+007-008-004	Piso 5
+007-008-005	Piso 6
+007-008-006	Piso 7
+007-008-007	Piso 8
+007-008-008	Piso 9
+007-008-009	Último Piso
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -4461,6 +4524,27 @@
 024-060-007	Protección mortal nvl. 8
 024-060-008	Protección mortal nvl. 9
 024-060-009	Protección mortal nvl. máx.
+024-061		Ataque de los augurios
+024-061-000	Tres augurios (nvl. 1)
+024-061-001	Tres augurios (nvl. 2)
+024-061-002	Tres augurios (nvl. 3)
+024-061-003	Tres augurios (nvl. 4)
+024-061-004	Tres augurios (nvl. 5)
+024-061-005	Tres augurios (nvl. 6)
+024-061-006	Tres augurios (nvl. 7)
+024-061-007	Tres augurios (nvl. 8)
+024-061-008	Tres augurios (nvl. 9)
+024-061-009	Tres augurios (nvl. 10)
+024-061-010	Tres augurios (nvl. 11)
+024-061-011	Tres augurios (nvl. 12)
+024-061-012	Tres augurios (nvl. 13)
+024-061-013	Tres augurios (nvl. 14)
+024-061-014	Tres augurios (nvl. 15)
+024-061-015	Tres augurios (nvl. 16)
+024-061-016	Tres augurios (nvl. 17)
+024-061-017	Tres augurios (nvl. 18)
+024-061-018	Tres augurios (nvl. 19)
+024-061-019	Tres augurios (nvl. máx.)
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -4778,6 +4862,27 @@
 027-013-017	Sudden Death Lv.18
 027-013-018	Sudden Death Lv.19
 027-013-019	Sudden Death Lv.MAX
+027-014		Gauntlet of Servants
+027-014-000	Grail War: Day 1
+027-014-001	Grail War: Day 2
+027-014-002	Grail War: Day 3
+027-014-003	Grail War: Day 4
+027-014-004	Grail War: Day 5
+027-014-005	Grail War: Day 6
+027-014-006	Grail War: Day 7
+027-014-007	Grail War: Day 8
+027-014-008	Grail War: Day 9
+027-014-009	Grail War: Day 10
+027-014-010	Grail War: Day 11
+027-014-011	Grail War: Day 12
+027-014-012	Grail War: Day 13
+027-014-013	Grail War: Day 14
+027-014-014	Grail War: Day 15
+027-014-015	Grail War: Day 16
+027-014-016	Grail War: Day 17
+027-014-017	Grail War: Day 18
+027-014-018	Grail War: Day 19
+027-014-019	Grail War: Final Day
 
 031			Behemoth Culling Stages
 031-000		Bosque Oculto de Gapra
@@ -4795,6 +4900,9 @@
 031-000-011	Zona de la Jungla Aguacero 12
 031-000-012	Zona de la Jungla Aguacero 13
 031-000-013	Zona de la Jungla Aguacero 14
+031-000-014	Zona de la Jungla Aguacero 15
+031-000-015	Zona de la Jungla Aguacero 16
+031-000-016	Zona del Bosque Primitivo 17
 031-001		Desierto de Ashvini
 031-001-000	Zona Baldía 1
 031-001-001	Zona Baldía 2
@@ -4810,6 +4918,9 @@
 031-001-011	Zona de la Arena Ardiente 12
 031-001-012	Zona de la Arena Ardiente 13
 031-001-013	Zona de la Arena Ardiente 14
+031-001-014	Zona de la Arena Ardiente 15
+031-001-015	Zona de la Arena Ardiente 16
+031-001-016	Zona de la Tormenta de Arena 17
 031-002		Volcán Jinfore
 031-002-000	Zona del Túnel de Magma 1
 031-002-001	Zona del Túnel de Magma 2
@@ -4825,6 +4936,9 @@
 031-002-011	Zona del Cráter Infernal 12
 031-002-012	Zona del Cráter Infernal 13
 031-002-013	Zona del Cráter Infernal 14
+031-002-014	Zona del Cráter Infernal 15
+031-002-015	Zona del Cráter Infernal 16
+031-002-016	Zona de la Caverna en Erupción 17
 
 033			Profundidades
 033-000		Profundidades
@@ -4920,16 +5034,42 @@
 033-000-089	Bajo Tierra S61~69/71~79/81~89/91~98
 033-000-090	Bajo Tierra S10
 033-000-091	Bajo Tierra S10
-033-000-092	Bajo Tierra S20/30
-033-000-093	Bajo Tierra S20/30
-033-000-094	Bajo Tierra S40/50/60
-033-000-095	Bajo Tierra S40/50/60
-033-000-096	Bajo Tierra S40/50/60
-033-000-097	Bajo Tierra S70/80/99
-033-000-098	Bajo Tierra S70/80/99
-033-000-099	Bajo Tierra S70/80/99
-033-000-100	Bajo Tierra S70/80/99
+033-000-092	Bajo Tierra S10
+033-000-093	Bajo Tierra S10
+033-000-094	Bajo Tierra S20/30
+033-000-095	Bajo Tierra S20/30
+033-000-096	Bajo Tierra S20/30
+033-000-097	Bajo Tierra S20/30
+033-000-098	Bajo Tierra S40/50/60
+033-000-099	Bajo Tierra S40/50/60
+033-000-100	Bajo Tierra S40/50/60
+033-000-101	Bajo Tierra S40/50/60
+033-000-102	Bajo Tierra S40/50/60
+033-000-103	Bajo Tierra S40/50/60
+033-000-104	Bajo Tierra S70/80/90/99
+033-000-105	Bajo Tierra S70/80/90/99
+033-000-106	Bajo Tierra S70/80/90/99
+033-000-107	Bajo Tierra S70/80/90/99
+033-000-108	Bajo Tierra S70/80/90/99
+033-000-109	Bajo Tierra S70/80/90/99
+033-000-110	Bajo Tierra S70/80/90/99
+033-000-111	Bajo Tierra S70/80/90/99
+033-000-112	Lo Más Hondo S100
 
 034			ND
 034-000		Zona Cero
 034-000-000	Un Mundo Nuevo
+034-001		Confín del espacio-tiempo
+034-001-000	Crímenes contra el cosmos
+034-001-001	Horizonte cero
+034-001-002	Atardecer subatómico
+034-001-003	La teoría gatotatoria
+034-001-004	Protones, neutrones y bufones
+034-001-005	Páramo neutrino
+034-002		Cuna lavabo gatuna
+034-002-000	Serranía Choco
+034-002-001	Senda Modorra
+034-002-002	Orilla Chiflada
+034-002-003	Fiordo Fangoso
+034-002-004	Cima Rayuela
+034-002-005	Bosque Abracadabra

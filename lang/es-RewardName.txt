@@ -1,156 +1,252 @@
-0	Speed Up
-1	Treasure Radar
-2	Rich Cat
-3	Cat CPU
-4	Cat Jobs
-5	Sniper The Cat
-6	XP
-11	Silver Ticket
-12	Gold Ticket
-13	Cat food
-23	Tique de la suerte
-26	Tique de la suerte
-27	Tique de la suerte
-28	Tique de la suerte
-29	Tique de platino
-30	Semilla morada
-31	Semilla roja
-32	Semilla azul
-33	Semilla verde
-34	Semilla amarilla
-35	Fruta morada
-36	Fruta roja
-37	Fruta azul
-38	Fruta verde
-39	Fruta amarilla
-40	Fruta épica
-41	Semilla arcaica
-42	Fruta arcaica
-43	Semilla épica
-44	Fruta dorada
-45	Tique de la suerte
-46	Tique de la suerte
-47	Tique de la suerte
-48	Tique de la suerte
-49	Tique de la suerte
-50	Gatojo [Especial]
-51	Gatojo [Raro]
-52	Gatojo [Superraro]
-53	Gatojo [Megarraro]
-54	Gatojo [Legendario]
-55	Gatamina [A]
-56	Gatamina [B]
-57	Gatamina [C]
-58	Gatojo [Oscuro]
-75	Tique de la suerte
-76	Tique de la suerte
-77	Tique de la suerte G
+0|S0|I0	Acelerador
+1|S1|I1	Radar de tesoros
+2|S2|I2	Gato ricachón
+3|S3|I3	Gatomático
+4|S4|I4	Sabelotodo
+5|S5|I5	Gatotirador
+6|S6|I201	XP
+7|S7|I217	NP
+8	dummy
+9	dummy
+10	5 000 XP
+11	10 000 XP
+12	30 000 XP
+13	50 000 XP
+14	100 000 XP
+15	200 000 XP
+16	500 000 XP
+17	1 000 000 XP
+18	2 000 000 XP
+19	500 000 XP
+20|S11|I202	Tique gatuno
+21|S12|I203	Tique raro
+22|S13|I200	Friskas
+23|S16|I400	Tique de la suerte
+26|S17|I403	Tique de la suerte
+27|S18|I404	Tique de la suerte
+28|S19|I405	Tique de la suerte
+29|S20|I204	Tique de platino
+30|S30|I500	Semilla morada
+31|S31|I501	Semilla roja
+32|S32|I502	Semilla azul
+33|S33|I503	Semilla verde
+34|S34|I504	Semilla amarilla
+35|S35|I505	Fruta morada
+36|S36|I506	Fruta roja
+37|S37|I507	Fruta azul
+38|S38|I508	Fruta verde
+39|S39|I509	Fruta amarilla
+40|S40|I510	Fruta épica
+41|S41|I511	Semilla arcaica
+42|S42|I512	Fruta arcaica
+43|S43|I513	Semilla épica
+44|S44|I514	Fruta dorada
+45|S21|I406	Tique de la suerte
+46|S22|I407	Tique de la suerte
+47|S23|I408	Tique de la suerte
+48|S24|I409	Tique de la suerte
+49|S25|I410	Tique de la suerte
+50|S50|I600	Gatojo [Especial]
+51|S51|I601	Gatojo [Raro]
+52|S52|I602	Gatojo [Superraro]
+53|S53|I603	Gatojo [Megarraro]
+54|S54|I604	Gatojo [Legendario]
+55|S55|I700	Gatamina [A]
+56|S56|I701	Gatamina [B]
+57|S57|I702	Gatamina [C]
+58|S58|I605	Gatojo [Oscuro]
+60|S60	Ataque
+61|S61	Alcance
+62|S62	Recarga
+63|S63	Eficiencia
+64|S64	Monedero
+65|S65	Defensa de la base
+66|S66	Investigación
+67|S67	Rentabilidad
+68|S68	Formación
+69|S69	Energía
+70|S70	Cat Ally: Dummy 1
+71|S71	Cat Ally: Dummy 2
+72|S72	Cat Ally: Dummy 3
+73|S73	Cat Ally: Dummy 4
+74|S74	Cat Ally: Dummy 5
+75|S26|I411	Tique de la suerte
+76|S76|I205	Tique de la suerte
+77|S77|I206	Tique de la suerte G
 78	100 000 XP
-85	Ladrillos
-86	Plumas
-87	Carbón
-88	Engranajes
-89	Oro
-90	Meteoritos
-91	Huesos
-92	Ingenieros
-93	Tique de la suerte
-94	Tique de la suerte G
-95	Tique de la suerte G
-96	Tique de la suerte G
-97	Tique de la suerte G
-98	Tique de la suerte G
-99	Tique de la suerte
-100	Tique de la suerte G
-101	Tique de la suerte
-102	Tique de la suerte G
-103	Tique de la suerte G
-104	Tique de la suerte
-105	Liderazgo
-106	Tique de la suerte G
-107	Tique de la suerte
-108	Tique de la suerte G
-109	Tique de la suerte G
-110	Tique de la suerte
-112	Tique de la suerte
-113	Tique de la suerte G
-114	Tique de la suerte G
-115	Tique de la suerte G
-116	Tique de la suerte
-117	Tique de la suerte
-118	Tique de la suerte G
-119	Tique de la suerte G
-120	Tique de la suerte G
-121	Tique de la suerte G
-122	Tique de la suerte
-124	Tique de la suerte G
-125	Tique de la suerte G
-126	Tique de la suerte
-127	Tique de la suerte
-128	Tique de la suerte G
-129	Tique de la suerte G
-130	Tique de la suerte G
-131	Tique de la suerte G
-132	Tique de la suerte
-133	Tique de la suerte G
-134	Tique de la suerte
-135	Tique de la suerte G
-136	Tique de la suerte
-137	Bikkuriman Choco
-138	Tique de la suerte G
-139	Tique de la suerte
-140	Amonites
-141	Tique de la suerte G
-142	Tique de la suerte G
-143	Tique de la suerte
-144	Tique de la suerte G
-145	Tique legendario
-146	Tique de la suerte G
-147	Tique de la suerte
-148	Tique de la suerte
-149	Tique de la suerte G
-150	Tique de la suerte G
-151	¡3 h de gatos ricachones infinitos!
-152	¡3 h de gatomáticos infinitos!
-153	¡3 h de gatotiradores infinitos!
-154	Tique de la suerte G
-155	Tique de la suerte
-156	Tique de la suerte G
-157	Fragmento de platino
-158	Red legendaria
+80|S80|I6	XP
+81|S81|I7	XP
+82|S82|I8	XP
+83|S83|I9	XP
+84|S84|I10	XP
+85|S85|I610	Ladrillos
+86|S86|I611	Plumas
+87|S87|I612	Carbón
+88|S88|I613	Engranajes
+89|S89|I614	Oro
+90|S90|I615	Meteoritos
+91|S91|I616	Huesos
+92|S92	Ingenieros
+93|S93|I207	Tique de la suerte
+94|S94|I208	Tique de la suerte G
+95|S95|I209	Tique de la suerte G
+96|S96|I210	Tique de la suerte G
+97|S97|I211	Tique de la suerte G
+98|S98|I212	Tique de la suerte G
+99|S99|I213	Tique de la suerte
+100|S100|I214	Tique de la suerte G
+101|S101|I215	Tique de la suerte
+102|S102|I216	Tique de la suerte G
+103|S103|I218	Tique de la suerte G
+104|S104|I219	Tique de la suerte
+105|S105|I220	Liderazgo
+106|S106|I221	Tique de la suerte G
+107|S107|I222	Tique de la suerte
+108|S108|I223	Tique de la suerte G
+109|S109|I224	Tique de la suerte G
+110|S110|I225	Tique de la suerte
+112|S112|I226	Tique de la suerte
+113|S113|I227	Tique de la suerte G
+114|S114|I228	Tique de la suerte G
+115|S115|I229	Tique de la suerte G
+116|S116|I230	Tique de la suerte
+117|S117|I231	Tique de la suerte
+118|S118|I232	Tique de la suerte G
+119|S119|I233	Tique de la suerte G
+120|S120|I234	Tique de la suerte G
+121|S121|I235	Tique de la suerte G
+122|S122|I236	Tique de la suerte
+123|S123	Lote de regreso
+124|S124|I237	Tique de la suerte G
+125|S125|I238	Tique de la suerte G
+126|S126|I239	Tique de la suerte
+127|S127|I240	Tique de la suerte
+128|S128|I241	Tique de la suerte G
+129|S129|I242	Tique de la suerte G
+130|S130|I243	Tique de la suerte G
+131|S131|I244	Tique de la suerte G
+132|S132|I245	Tique de la suerte
+133|S133|I246	Tique de la suerte G
+134|S134|I247	Tique de la suerte
+135|S135|I248	Tique de la suerte G
+136|S136|I249	Tique de la suerte
+137|S137|I413	Bikkuriman Choco
+138|S138|I250	Tique de la suerte G
+139|S139|I251	Tique de la suerte
+140|S140|I617	Amonites
+141|S141|I252	Tique de la suerte G
+142|S142|I253	Tique de la suerte G
+143|S143|I254	Tique de la suerte
+144|S144|I255	Tique de la suerte G
+145|S145|I256	Tique legendario
+146|S146|I257	Tique de la suerte G
+147|S147|I258	Tique de la suerte
+148|S148|I259	Tique de la suerte
+149|S149|I260	Tique de la suerte G
+150|S150|I261	Tique de la suerte G
+151|S151	¡3 h de gatos ricachones infinitos!
+152|S152	¡3 h de gatomáticos infinitos!
+153|S153	¡3 h de gatotiradores infinitos!
+154|S154|I262	Tique de la suerte G
+155|S155|I263	Tique de la suerte
+156|S156|I264	Tique de la suerte G
+157|S157|I270	Fragmento de platino
+158|S158|I414	Red legendaria
 159	5 000 XP
-160	Semilla felina de Aku
-161	Fruta felina de Aku
-164	Semilla Felina Dorada
-166	Carta de amor
-167	Piedra M. morada
-168	Piedra M. roja
-169	Piedra M. azul
-170	Piedra M. verde
-171	Piedra M. amarilla
-172	Agua bendita
-173	Redes legendarias
-174	Medalla de bronce
-175	Medalla de plata
-176	Medalla de oro
-177	Medalla de platino
-179	Gema de mast. mor.
-180	Gema de mast. roja
-181	Gema de mast. azul
-182	Gema de mast. ver.
-183	Gema mast. amar.
-184	Piedra mast. épica
-185	Amuleto legendario
-186	Carta de amor
-1005	Gato de Bronce
-1100	Gato de Bronce
+160|S160|I515	Semilla felina de Aku
+161|S161|I516	Fruta felina de Aku
+164|S164|I517	Semilla Felina Dorada
+166|S166|I418	Carta de amor
+167|S167|I518	Piedra M. morada
+168|S168|I519	Piedra M. roja
+169|S169|I520	Piedra M. azul
+170|S170|I521	Piedra M. verde
+171|S171|I522	Piedra M. amarilla
+172|S172|I419	Agua bendita
+173|S173|I420	Redes legendarias
+174|S174|I710	Medalla de bronce
+175|S175|I711	Medalla de plata
+176|S176|I712	Medalla de oro
+177|S177|I713	Medalla de platino
+179|S179|I523	Gema de mast. mor.
+180|S180|I524	Gema de mast. roja
+181|S181|I525	Gema de mast. azul
+182|S182|I526	Gema de mast. ver.
+183|S183|I527	Gema mast. amar.
+184|S184|I528	Piedra mast. épica
+185|S185|I422	Amuleto legendario
+186|S186|I423	Carta de amor
+187|S187|I618	Ladrillo Z
+188|S188|I619	Plumas Z
+189|S189|I620	Carbón Z
+190|S190|I621	Engranajes Z
+191|S191|I622	Oro Z
+192|S192|I623	Meteoritos Z
+193|S193|I624	Huesos Z
+194|S194|I625	Amonites Z
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
+1005	Gato de Bronce
 1006	Felidroide
 1007	Gato Adulto
 1008	Gato Malvado
 1009	Gatoñecos
+1010	Gata Colegiala
+1011	Gato Cantante
+1012	Gato Koi
+1013	Novia Maruja
+1014	Diva Vacacional
+1015	Gata Vengativa
+1016	Gato de Kungfú X
+1018	Gato Esponjita
+1019	Cat Kart R
+1020	Baozi Cat
+1021	Gatomburguesa
+1022	Calabagato
+1023	Regalo Gatuno
+1024	Gatway
+1025	Bailarina de Awa
+1026	Gato Expreso
+1027	Gato de Ligas Inferiores
+1028	Vendedor de Comida
+1029	Gata Animadora
+1030	Gato Asesino
+1031	Gato Curling
+1032	Gato Huevo
+1033	Bola de Gatos
+1035	Squish Ball Cat
+1036	Gata de Voleibol
+1037	Gato de Cristal
+1038	Moneko Demente
+1039	Jinete de Babosas
+1040	Gato Solitario y Gatito
+1041	Gato Primordial
+1042	Chuchomaru
+1043	Cat Bros
+1044	Gatman
+1045	Gato Medusa
+1046	Gatobaba
+1047	Gato Cosaco
+1048	Gato Profeoso
+1049	Urs y Fenrir
+1050	Gato Rugby
+1051	Gato Fantasma
+1052	Gato Repostero
+1053	Gato Piedra
+1054	Máscara Doron Viejuna
+1055	Investigador Aku
+1056	Gato de Hamelín
+1057	Gato Calígrafo
+1058	Bestia Naala Viejuna
+1059	Huevo Antiguo N001
+1060	Huevo antiguo N003
+1061	Huevo antiguo N004
+1062	Huevo Antiguo N000
+1063	Gato Defensor Asesino
+1064	Huevo Antiguo N005
+1065	Gato Propulsor
+1100	Gato de Bronce
 1101	Gato Espacial
 1102	Gato con Comba
 1103	Gato Demente
@@ -162,49 +258,23 @@
 1109	Piscigato Demente
 1110	Gato Lagarto Demente
 1111	Gato Titán Demente
-1010	Gata Colegiala
-1011	Gato Cantante
-1012	Gato Koi
-1033	Bola de Gatos
-1013	Novia Maruja
 1112	Healer
-1014	Diva Vacacional
-1114	Gato Relojero
-1015	Gata Vengativa
 1113	Lobo Ururun
-1016	Gato de Kungfú X
-1035	Squish Ball Cat
+1114	Gato Relojero
 1116	Gato con Aro
-1018	Gato Esponjita
 1118	Mininyandam
 1119	Takuya ＆ Yuki
-1019	Cat Kart R
 1120	Gato de Banda
-1020	Baozi Cat
-1021	Gatomburguesa
 1121	HYAKUTARO
-1022	Calabagato
-1023	Regalo Gatuno
-1024	Gatway
 1130	Gatornado
 1131	Mina Caperucita
 1132	Funghi
-1025	Bailarina de Awa
-1026	Gato Expreso
-1027	Gato de Ligas Inferiores
 1134	Li'l Madoka
 1135	Kyubey Cat
-1028	Vendedor de Comida
-1029	Gata Animadora
 1137	PIKOTARO
-1030	Gato Asesino
-1031	Gato Curling
 1139	Miyamoku Musashi
-1032	Gato Huevo
 1140	Redhead Yuki Cat
 1142	Li'l Shirou
-1036	Gata de Voleibol
-1037	Gato de Cristal
 1143	Akio Yabe
 1144	Karin Nekozuka
 1145	Misaki Konno
@@ -213,57 +283,22 @@
 1148	Mentori
 1149	Shinji & Cat
 1150	Giraffe Unit-01
-1038	Moneko Demente
 1151	Pokota
 1152	Ovis
 1153	Coco
 1157	Bun Bun Mecánico
-1039	Jinete de Babosas
 1158	Betakkuma
-1040	Gato Solitario y Gatito
-1041	Gato Primordial
 1160	Meowla Meowla
-1042	Chuchomaru
 1162	Prince Yamato
 1164	Kano ＆ Souma
-1043	Cat Bros
-1044	Gatman
 1167	Ryu Cat
 1168	Akuma Giraffe
-1045	Gato Medusa
-1046	Gatobaba
-1047	Gato Cosaco
-1048	Gato Profeoso
-1049	Urs y Fenrir
 1170	Miku Cat
-1050	Gato Rugby
-1051	Gato Fantasma
-1052	Gato Repostero
 1172	Idi:N
-1053	Gato Piedra
 1173	Ranma Cat (M)
 1174	Godzilla Cat
-1054	Máscara Doron Viejuna
-1055	Investigador Aku
-1056	Gato de Hamelín
-1057	Gato Calígrafo
-1058	Bestia Naala Viejuna
-1059	Huevo Antiguo N001
-1060	Huevo Antiguo: N003
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
-1061	Huevo antiguo N004
-1062	Huevo Antiguo N000
-1063	Gato Defensor asesino
-19001	Gato Crestado
-19002	Gato Borrador
-19003	Gato Oscuro
-19004	Gato Piernacas
-19005	Gato León
-19006	Gato Volador
-19007	Gato Isleño
-19008	Gato Dragón Rey
-19009	Miautante
 10010	Gato Cachas
 10011	Gato Bailarín
 10012	Hiper Sr.
@@ -271,7 +306,6 @@
 10014	Eladio Oscuro
 10015	Gato de Asalto
 10016	Gatopiruleta
-15017	Moneko Superestrella
 10018	Gato Monociclo
 10019	Gato Ninja Volador
 10020	Esquelegato
@@ -279,8 +313,75 @@
 10022	Gato Bola de Arroz
 10023	Gato Mariachi
 10024	Gata con Taparrabos
-18025	Gata Valquiria Sagrada
-18026	Gato Bégimo Alzado
+10061	Gato Concursante
+10064	Gatos Violentos
+10071	Gato Ritual
+10075	Gato Pastel Navideño
+10079	Gato Espacial Marine
+10080	Gato Prisionero
+10081	Caballeros Compañeros
+10082	Miauladín
+10089	Gatos Fideos
+10092	Gato Crestado Maníaco
+10093	Gato Borrador Maníaco
+10094	Gato Oscuro Maníaco
+10095	Gato Piernacas Maníaco
+10096	Gato León Maníaco
+10097	Gato Volador Maníaco
+10098	Gato Isleño Maníaco
+10099	Gato Dragón Rey Maníaco
+10100	Miautante Maníaco
+10101	Gata Luchadora
+10104	Megagato Especial
+10105	Gato Koi Estandarte
+10110	Maruja la Sabana
+10120	Healer Cat CC
+10122	Merc & Cat CC
+10123	Gata de Atención al Cliente
+10127	Titiritero y Charley
+10128	Gato con Bombas
+10129	Gato Cometa
+10133	Garra de Hierro X
+10155	Gato As del Aro
+10180	Takuya＆ Lovely Yuki
+10184	Cat Kart P
+10192	Titi Cat CC
+10202	Gato de Mochi
+10210	Minigato Crestado
+10211	Minigato Borrador
+10212	Minigato Oscuro
+10214	Gato Comida para Llevar
+10246	Minigato Piernacas
+10247	Minigatoleón
+10248	Minigato Volador
+10261	Gato Viajero del Tiempo
+10268	Gatifón
+10274	Gata Restauradora
+10285	Gato Tren Bala
+10288	Gato Golfista
+10300	Li'l Ultimate Madoka
+10301	Li'l Devil Homura
+10312	Minigato Isleño
+10313	Minigato Dragón Rey
+10314	Minimiautante
+10325	Gato con Caparazón Verde
+10330	Gato Huevo de Pascua
+10353	Gato Gran Maestro Disfrazado
+10370	Saber Alter Cat
+10380	Gato Curry
+10383	Gata de Cristal Mazada
+10384	Yulala Espiritual
+10386	Akio & Gunder CC
+10403	Plug Suit Shinji Black
+10406	Moon Kaworu
+10443	Gato Turista
+10453	Gato Futurista
+10474	Rampaging Yamato
+10475	Strike Angel
+10522	Gato Naga
+10532	Gato Cadaveroso
+10540	Quartercat
+15017	Moneko Superestrella
 15031	Gato Tathagata
 15032	Gato Vándalo Ultra
 15033	Gato Cancán
@@ -292,7 +393,7 @@
 15039	Gato Relajado
 15040	iGato
 15041	Gato Bañera Lujoso
-15042	Gato Cíborg
+15042	Gata Cíborg
 15043	Gata de Cristal Gélida
 15044	Máquina Felina MK III
 15045	Gato Balrog Superior
@@ -308,53 +409,23 @@
 15058	Gato Paladín
 15059	Gato Duelista
 15060	Cuna de Gatos
-10061	Gato Concursante
 15062	Gato Huevas
-10064	Gatos Violentos
-10071	Gato Ritual
 15072	Yukimura Inmortal
 15073	Keiji Inmortal
 15074	Nobunaga Inmortal
-10075	Gato Pastel Navideño
 15076	Brisabel Divina
 15077	Trónica Divina
-10079	Gato Espacial Marine
-10080	Gato Prisionero
-10081	Caballeros Compañeros
-10082	Miauladín
 15084	Sodoma, Dios Emperador
 15085	Megidora, Dios Emperador
 15086	Vars, Dios Emperador
 15087	Kamukura, Dios Emperador
 15088	Raiden, Dios Emperador
-10089	Gatos Fideos
-10092	Gato Crestado Maníaco
-10093	Gato Borrador Maníaco
-10094	Gato Oscuro Maníaco
-10095	Gato Piernacas Maníaco
-10096	Gato León Maníaco
-10097	Gato Volador Maníaco
-10098	Gato Isleño Maníaco
-10099	Gato Dragón Rey Maníaco
-10100	Miautante Maníaco
-10101	Gata Luchadora
-10104	Megagato Especial
-10105	Gato Koi Estandarte
 15106	Kuu Divina
 15107	Kai Divina
 15108	Cobrina Divina
-10110	Maruja la Sabana
-10120	Healer Cat CC
-10122	Merc & Cat CC
-10123	Gata de Atención al Cliente
 15125	Masamune Inmortal
 15126	Shingen Inmortal
-10127	Titiritero y Charley
-10128	Gato con Bombas
-10129	Gato Cometa
 15130	Gato Mazado Brillante
-16131	Ururun Alzado
-10133	Garra de Hierro X
 15135	Rey Gamereon
 15136	Cosmo Extragaláctico
 15137	Los Demonios del Melocotón
@@ -371,67 +442,45 @@
 15152	Gato Pizza
 15153	Gatos Bufones
 15154	Gatófono
-10155	Gato As del Aro
 15159	Kenshin Inmortal
 15160	Kalisa Divina
 15169	Asesino Pasalan
 15170	E. Kubilan Pasalan
-15170	Lufalan Pasalan
 15172	Piccolan Pasalan
-16173	Nyandam Bus Escolar
 15174	Citizen Mola
 15175	Master of the Pacific
 15178	Dioramos, Dios Emperador
-10180	Takuya＆ Lovely Yuki
 15181	Mystery Catgirl Yuki
-10184	Cat Kart P
 15186	Revolutionary Hearscht CC
 15188	Holiday Juvens CC
 15189	Savior Mystica CC
-10192	Titi Cat CC
 15195	Akira Infierno
 15196	Mekako Control de Misión
 15197	Catman Definitivo
 15198	Psicogato Corrupto
 15199	Gato Taumaturgo
 15200	Gato Marinero
-10202	Gato de Mochi
 15204	Brigada de Asalto Kachiyama
-10210	Minigato Crestado
-10211	Minigato Borrador
-10212	Minigato Oscuro
 15213	Zorro Gris
-10214	Gato Comida para Llevar
 15227	Doctor Klay Loco
 15228	Gato Presagio
 15229	Disfraz de Neneko Bruja
-15238	Sabelotodo director
-15239	Gato forrado
+15238	Sabelotodo Director
+15239	Gato Forrado
 15240	Gatotirador infalible
 15241	Shishilan Pasalan
-10246	Minigato Piernacas
-10247	Minigatoleón
-10248	Minigato Volador
 15249	Gato Vida Extra
 15258	Zeus Todopoderoso
 15259	Anubis Todopoderoso
 15260	Afrodita Todopoderosa
-10261	Gato Viajero del Tiempo
 15262	Akuma Hayabusa
-10268	Gatifón
-16269	Mina Alzada
 15271	Crazed Catgirl Yuki
 15272	Amaterasu Todopoderosa
 15273	Ganesha Todopoderoso
-10274	Gata Restauradora
 15277	Neneko Veraniega
-15283	Gato bailongo precioso
+15283	Gato Bailongo Precioso
 15284	Pai-Pai DX
-10285	Gato Tren Bala
 15287	Unidad Voladora R. E. I.
-10288	Gato Golfista
-10300	Li'l Ultimate Madoka
-10301	Li'l Devil Homura
 15303	Gata Reina Súcubo
 15305	Mastodonte de Asalto
 15306	BCS Garra de Tigre
@@ -439,14 +488,9 @@
 15308	Gata Ama de Casa
 15309	Gato Desbrozador
 15311	Enfermera Navideña
-10312	Minigato Isleño
-10313	Minigato Dragón Rey
-10314	Minimiautante
 15317	Poseidón Todopoderoso
 15320	Gato Radical
 15323	Estrellas de Un Día
-16324	Musashi Alzado
-10325	Gato con Caparazón Verde
 15326	Gato Peso Superpesado
 15331	Kenshin Brisa Primaveral
 15332	Pato Loco Malévolo
@@ -459,7 +503,6 @@
 15345	Artist Orthos CC
 15346	Naptime Michelia CC
 15352	Astrogemelas Divinas
-10353	Gato Gran Maestro Disfrazado
 15356	Plataforma Orbital Asoladora
 15358	Deale Reina Bufona
 15359	Verbena Opulenta
@@ -467,14 +510,9 @@
 15361	Mizuririn
 15362	Aervanta
 15363	Saber Alter CC
-10370	Saber Alter Cat
 15371	Dreaming Sakura Cat
 15377	Gatélite
 15378	El Gato de la Libertad
-10380	Gato Curry
-10383	Gata de Cristal Mazada
-10384	Yulala espiritual
-10386	Akio & Gunder CC
 15391	Baseball Mask α
 15392	Baseball Mask β
 15393	Baseball Mask γ
@@ -484,45 +522,35 @@
 15397	Ganglión Liberado
 15398	Sakura Hoja Sagrada
 15402	Gigavolta
-10403	Plug Suit Shinji Black
-10406	Moon Kaworu
 15411	Eyepatch Li'l Asuka
 15415	Unit-02, Code 777
 15418	Centinelas Subterráneos
-16427	Bun Bun Mecánico Definitivo
 15428	Equipo Heroico Gatuno
 15432	Gravicci Jefe de Sección
 15437	Pasalan Místico
 15438	Misidiós el Dorado
 15440	Chronos Todopoderosa
-10443	Gato Turista
 15444	Neogato Taladrador
 15445	Neogato Martinete
 15446	Neogato Cortador
 15447	Neogato Retroexcavadora
 15448	Neogato Aserrador
-10453	Gato Futurista
-16463	Metafiliembustero
-16465	Perromón guerrero renacido
+15451	Babel, Dios Emperador
+15457	Dark Sakura CC
 15468	Super S-Zeus
 15469	Head Rococo
 15470	Super D-Devil
-10474	Rampaging Yamato
-10475	Strike Angel
 15483	Cat-Eared Souma
-15496	Gato Danza del Vientre
+15496	Gata Danza del Vientre
 15497	Kaihime Inmortal
 15503	Myrcia Divina
 15506	Gladios, Dios Emperador
 15507	Nameless Eyewaltz CC
 15512	Kage
 15520	Lasvoss Renacido
-10522	Gato Naga
-15523	Gato Endemoniado
+15523	Gata Endemoniada
 15524	Gato Shigong
 15526	Supertropa de Kinrangers
-10532	Gato Cadaveroso
-16533	Urs Alzado
 15534	Saki Dinamitera
 15535	Hades Todopoderoso
 15547	Sukelan Kakulan
@@ -539,16 +567,15 @@
 15596	Lord Kamukura Perenne
 15608	Kanna Aventurera de Fábula
 15611	Rey Nekokhamen
-16614	Doron Alzado
 15615	Sol Sureño Destellante
+15618	Cazador de demonios Satoru
 15619	Amakusa Inmortal
-15620	Lilin π divina
+15620	Lilin Divina
+15621	Hevijak, Dios Emperador
 15632	Yaminora
 15633	Diabolosa Destructora
 15643	Lucifer Todopoderoso
-19010	Superfelino final
 15645	Mekako Amante Menta
-16654	Naala Alzada
 15657	Gato Haniwa
 15659	Gato Mensajero
 15660	Gatarzán
@@ -557,11 +584,36 @@
 15666	Gato Exorcista
 15670	Gactus
 15671	Gato Luciérnaga Blindado
-15676	Gata raqueta
+15676	Gata Raqueta
 15677	Gato Hongo
 15686	Gato Supercoche
 15692	Lord Luza Simio
 15698	Gato Jefe
+15701	Gato Sicario
+15707	Jabogato
+15708	Gato Barril
+16131	Ururun Alzado
+16173	Nyandam Bus Escolar
+16269	Mina Alzada
+16324	Musashi Alzado
+16427	Bun Bun Mecánico Definitivo
+16463	Metafiliembustero
+16465	Perromón Guerrero Renacido
+16533	Urs Alzado
+16614	Doron Alzado
+16654	Naala Alzada
+18025	Gata Valquiria Sagrada
+18026	Gato Bégimo Alzado
+19001	Gato Crestado
+19002	Gato Borrador
+19003	Gato Oscuro
+19004	Gato Piernacas
+19005	Gato León
+19006	Gato Volador
+19007	Gato Isleño
+19008	Gato Dragón Rey
+19009	Miautante
+19010	Superfelino Final
 30000	Aumento de ataque D: Rojos
 30001	Aumento de ataque C: Rojos
 30002	Aumento de ataque B: Rojos

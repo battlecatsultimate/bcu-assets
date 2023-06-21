@@ -590,7 +590,7 @@
 589	
 590	
 591	
-592	Hi Yen s'est fait avoir avec de la fausse vichamine C<br>et a perdu tout sens des réalités, prétendant<br>être un berserker né pour combattre.<br>Ses répliques offensives gardent ses ennemis à distance.
+592	Hi Yen s'est fait avoir avec de la fausse vichamine C<br>et a perdu tout sens des réalités, prétendant<br>être un berserker né pour combattre.<br>Ses séries offensives gardent ses ennemis à distance.
 593	Un labo secret d'expériences génétiques douteuses<br>a créé un Mr. Ange supérieur, qui guide les pauvres<br>pécheurs par l'affaiblissement et la téléportation vers<br>le salut. Sa létalité augmente à chaque combat.
 594	Un labo secret d'expériences génétiques douteuses<br>a créé un Peng supérieur et gigantesque qui répand<br>des toxines dans toutes les directions.<br>Sa létalité augmente à chaque combat.
 595	
@@ -633,3 +633,15 @@
 632	
 633	
 634	Un sculpteur à succès qui vit en pleine nature. <br>A passé un contrat Aku pour gagner la vision rayons X<br>et mieux sculpter les nus. Mais ne peut désormais que<br>voir les os à travers les habits et la peau...
+635	
+636	Influenceuse qui attire l'attention de tous<br>par sa plastique et son influence. Elle vit dans le luxe.<br>Célèbre créatrice de tendances vestimentaires.<br>Elle donne tout son argent aux plus démunis.
+637	Un labo secret d'expériences génétiques douteuses<br>a amélioré et rendu gigantesques les enfants de Cerbère,<br>qui disposent de séries offensives et d'immobilisations.<br>Leur létalité augmente à chaque combat.
+638	Petit frère du Cyclone blanc. Étudie l'aspiration et<br>la durabilité en dernière année de fac. Après<br>l'explosion du marché des robots aspirateurs, il a<br>du mal à trouver un lieu de travail.
+639	Un pégase géant capable d'enflammer les cieux<br>et de réduire la terre en cendres. Quiconque le contemple<br>est submergé de mini-vagues et immobilisé<br>jusqu'à finir brûlé vif.
+640	Cochon serviteur de la 56e reine du Royaume des gorets.<br>A fui après une dépression nerveuse suite à trop de <br>promenades habillées. Mais en profitant de sa vie de cochon<br>sauvage, a réalisé que ces habits étaient ses propres poils.
+641	Élevé dans un monde sans merci, manque totalement de tact <br>avec les dames. Après avoir léché ses plaies <br>suite à de constants rejets, a gagné une force mentale<br>suffisante pour surmonter tous les effets négatifs.
+642	Après 560 000 ans, est rentré dans notre monde sous<br>la forme d’un tyran infernal pour prendre une photo <br>pour un blind date. Prévoit totalement de faire impression<br>avec sa taille, ses excellentes notes et sa forte glycémie.
+643	Horrible enchanteresse résidant dans les plus profonds<br>confins d’un labyrinthe. Piège ses victimes dans des<br>boucles d’histoires sans fin affreusement monotones<br>portant sur son grand frère dans les Royaumes Akus.
+644	<br><br><br>
+645	<br><br><br>
+646	<br><br><br>

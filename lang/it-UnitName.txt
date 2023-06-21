@@ -327,7 +327,7 @@
 326	Mobius	Miraculous Mobius	
 327	Belial	Reckless Belial	
 328	Happy 100	Heartful Happy 100	
-329	Gattuovo	Gatto di Pasqua	
+329	Gattuovo	Gatto di Pasqua	Gatto pasquale
 330	Kenshin primaverile	Kenshin in fiore	Kenshin brezza primaverile
 331	Bunny e Ducky	Discepolo Psicoducky	Anatroccolo malefico
 332	Neneko pasquale	Neneko Saltellina	Neneko in fiore
@@ -448,13 +448,13 @@
 447	Gatto motosega	Gatto turbosega	Neo Gatto turbosega
 448	Musashi Miyamoto	Miyamoto Dio della guerra	
 449	Direttrice Jeanne	Direttrice Jeanne ψ	
-450	Gran Lord Babele	Babele la fiamma scura	
+450	Gran Lord Babele	Babele la fiamma scura	Babele Dio-Imperatore
 451	Ushiwakamaru	Benkei colossale	
 452	Gatto primordiale	Gatto moderno	Gatto del futuro
 453			
 454			
 455	Super MOMOCO	MOMOCO carina	
-456	Sakura Matou	Sakura Matou CC	
+456	Sakura Matou	Sakura Matou CC	Dark Sakura CC
 457	Shirou the Cat	Novice Mage Shirou Cat	
 458	Archer the Cat	Heroic Spirit Archer Cat	
 459	Rider the Cat	Heroic Spirit Rider Cat	
@@ -537,7 +537,7 @@
 536	Sakura Miku	Sakura Miku CC	
 537	Kagamine Rin & Len	Kagamine Rin & Len CC	
 538	Miku Cat	Miku Cat CC	
-539	Gatto rugby	Gatto quarterback	
+539	Gatto rugby	Gatto quarterback	Gatto griglia
 540			
 541			
 542			
@@ -615,10 +615,10 @@
 614	Kaguya costiera	Il Sole del sud	Il Bagliore del sud
 615	Gatto Kabuto	Gatto Kabuto oro	
 616	Gatto Kuwagata	Gatto Re Kuwagata	
-617	Satoru invocatore	Satoru invocatore oscuro	
+617	Satoru invocatore	Satoru invocatore oscuro	Satoru caccia al diavolo
 618	Shiro Amakusa	Amakusa Dio della guerra	Amakusa immortale
 619	Lilin	Lilin π	Lilin π Divina
-620	Hevijak il malvagio	Re Hevijak malvagio	
+620	Hevijak il malvagio	Re Hevijak malvagio	Hevijak Dio-Imperatore
 621	Ricercatore di Aku	Ricercatore di Aku malvagio	
 622	Jagando jr.	Jagando jr. Sig. della Rovina	
 623	Gatto pifferaio	Gatto Komuso	
@@ -696,3 +696,14 @@
 695	Gatto Panzer assassino	Vero Gatto Panzer assassino	
 696	Gatto rappresentante	Gatto rappresentante furtivo	
 697	Uovo antico N107	Uovo viola N107	Gatto capo
+698	Jack tuono	Jack violento	
+699	Satoru coniglio	Satoru Coniglio Campione	
+700	Uovo antico N005	Uovo mistico N005	Gatto killer
+701			
+702			
+703			
+704			
+705	Phono re della sventura	Phono re dell'estinzione	
+706	Uovo antico N108	Uovo verde acqua N108	Gatto sapone
+707	Uovo antico N109	Uovo oscuro N109	Gatto barile
+708	Gatto jetpack	Gatto Kinjirou	

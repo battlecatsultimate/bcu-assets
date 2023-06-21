@@ -448,13 +448,13 @@
 447	La Forma Reale aumenta<br>potenza d'attacco e difesa, e<br>ottiene abilità di sfondamento!
 448	<br><br>
 449	<br><br>
-450	<br><br>
+450	La Forma Reale ottiene maggiore difesa!<br>Ottiene immunità da respinta e veleno,<br>oltre ad ammazzagiganti!
 451	<br><br>
 452	<br><br>
 453	<br><br>
 454	<br><br>
 455	<br><br>
-456	<br><br>
+456	True Form gains increased Attack Speed!<br>Also gains Soulstrike and immunity<br>to Freeze attacks!
 457	<br><br>
 458	<br><br>
 459	<br><br>
@@ -615,10 +615,10 @@
 614	La Forma Reale ottiene<br>rallenta al 100% gli Aku e<br>può perforare scudi Aku!
 615	<br><br>
 616	<br><br>
-617	<br><br>
+617	La Forma Reale ottiene maggiore difesa!<br>Possibilità Perfora scudo aumentata<br>e respinge al 100%!
 618	La Forma Reale ottiene maggiore<br>difesa e velocità d'attacco!<br>
 619	La Forma Reale aumenta la difesa!<br>Ottiene anche attacco a valanga!<br>
-620	<br><br>
+620	La Forma Reale ottiene maggiore<br>la difesa, l'attacco e il raggio!<br>ad area respingono rossi e Aku.
 621	<br><br>
 622	<br><br>
 623	<br><br>
@@ -696,3 +696,14 @@
 695	<br><br>
 696	<br><br>
 697	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+698	<br><br>
+699	<br><br>
+700	La Forma Reale rivela la forma finale!<br>E ottiene attacchi a distanza e<br>immunità da attacchi a ondata!
+701	<br><br>
+702	<br><br>
+703	<br><br>
+704	<br><br>
+705	<br><br>
+706	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+707	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+708	<br><br>

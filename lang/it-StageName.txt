@@ -1310,6 +1310,11 @@
 001-279-001	Archeologia 301: metodi
 001-279-002	Archeologia 301: risultati
 001-279-003	Archeologia 301: analisi
+001-280		Scavo dell'imperatrice 4
+001-280-000	Archeologia 401: pianificazione
+001-280-001	Archeologia 401: metodi
+001-280-002	Archeologia 401: risultati
+001-280-003	Archeologia 401: analisi
 001-285		I 5 nemici più visti del 2021!
 001-285-000	#5 scorrevole
 001-285-001	#4 da arrossire
@@ -1458,6 +1463,33 @@
 001-334-000	Pugno scuotiterra
 001-335		Pericoli nel vulcano II
 001-335-000	Rombo di tuono potente
+001-336		Non morto residente
+001-336-000	Mutazione Liv. 1
+001-336-001	Mutazione Liv. 2
+001-336-002	Mutazione Liv. 3
+001-336-003	Mutazione Liv. 4
+001-336-004	Mutazione Liv. 5
+001-336-005	Mutazione Liv. 6
+001-336-006	Mutazione Liv. 7
+001-336-007	Mutazione Liv. 8
+001-336-008	Mutazione Liv. 9
+001-336-009	Mutazione Liv. MAX
+001-337		Arriva Gattuovo!
+001-337-000	Uova supersode (Esperto)
+001-337-001	Uova supersode (Folle)
+001-338		NEO Gloria di Wanwan
+001-338-000	Bauville extra (Folle)
+001-338-001	Cane alfa (Folle)
+001-339		Prova del Mini Gatto
+001-339-000	Verso il Liv. 45+
+001-339-001	Verso il Liv. 50+
+001-339-002	Verso il Liv. 55+
+001-339-003	Verso il Liv. 60+
+001-340		Il regno del tiranno
+001-340-000	Tiranno infernale 1 (Letale)
+001-340-001	Tiranno infernale 2 (Spietato)
+001-340-002	Tiranno infernale 3 (Spietato)
+001-340-003	Tiranno infernale estremo (Brutale)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -1986,6 +2018,21 @@
 002-193-007	Land & Sky Lv.4
 002-193-008	Master of Heart Lv.MAX
 002-193-009	Land & Sky Lv.MAX
+002-194		Holy War: Saber
+002-194-000	Fated Night (Easy)
+002-194-001	Fated Night (Expert)
+002-195		Holy War: Lancer
+002-195-000	Assault from Above (Easy)
+002-195-001	Assault from Above (Expert)
+002-196		Holy War: Archer
+002-196-000	Unlimited Bladeworks (Easy)
+002-196-001	Unlimited Bladeworks (Expert)
+002-197		Holy War: Rider
+002-197-000	Blood Temple (Easy)
+002-197-001	Blood Temple (Expert)
+002-198		Holy War: Gilgamesh
+002-198-000	King of Heroes (Veteran)
+002-198-001	King of Heroes (Deadly)
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -2874,6 +2921,10 @@
 004-056-000	La chiesa in un manto di foschia
 004-057		Sfarzo di capodanno
 004-057-000	Che fortuna! Un bottino di capodanno!
+004-059		L'attacco dei Presagi
+004-059-000	Culla selvaggia (Letale)
+004-059-001	Cima selvaggia (Spietato)
+004-059-002	Confine selvaggio (Spietato)
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -3038,6 +3089,17 @@
 007-007-007	8° piano
 007-007-008	9° piano
 007-007-009	Ultimo piano
+007-008		Roccaforte Aku
+007-008-000	1° piano
+007-008-001	2° piano
+007-008-002	3° piano
+007-008-003	4° piano
+007-008-004	5° piano
+007-008-005	6° piano
+007-008-006	7° piano
+007-008-007	8° piano
+007-008-008	9° piano
+007-008-009	Ultimo piano
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -4412,6 +4474,27 @@
 024-060-007	Protezione letale Liv. 8
 024-060-008	Protezione letale Liv. 9
 024-060-009	Protezione letale Liv. MAX
+024-061		L'attacco dei Presagi
+024-061-000	Tre Presagi Liv. 1
+024-061-001	Tre Presagi Liv. 2
+024-061-002	Tre Presagi Liv. 3
+024-061-003	Tre Presagi Liv. 4
+024-061-004	Tre Presagi Liv. 5
+024-061-005	Tre Presagi Liv. 6
+024-061-006	Tre Presagi Liv. 7
+024-061-007	Tre Presagi Liv. 8
+024-061-008	Tre Presagi Liv. 9
+024-061-009	Tre Presagi Liv. 10
+024-061-010	Tre Presagi Liv. 11
+024-061-011	Tre Presagi Liv. 12
+024-061-012	Tre Presagi Liv. 13
+024-061-013	Tre Presagi Liv. 14
+024-061-014	Tre Presagi Liv. 15
+024-061-015	Tre Presagi Liv. 16
+024-061-016	Tre Presagi Liv. 17
+024-061-017	Tre Presagi Liv. 18
+024-061-018	Tre Presagi Liv. 19
+024-061-019	Tre Presagi Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -4729,6 +4812,27 @@
 027-013-017	Sudden Death Lv.18
 027-013-018	Sudden Death Lv.19
 027-013-019	Sudden Death Lv.MAX
+027-014		Gauntlet of Servants
+027-014-000	Grail War: Day 1
+027-014-001	Grail War: Day 2
+027-014-002	Grail War: Day 3
+027-014-003	Grail War: Day 4
+027-014-004	Grail War: Day 5
+027-014-005	Grail War: Day 6
+027-014-006	Grail War: Day 7
+027-014-007	Grail War: Day 8
+027-014-008	Grail War: Day 9
+027-014-009	Grail War: Day 10
+027-014-010	Grail War: Day 11
+027-014-011	Grail War: Day 12
+027-014-012	Grail War: Day 13
+027-014-013	Grail War: Day 14
+027-014-014	Grail War: Day 15
+027-014-015	Grail War: Day 16
+027-014-016	Grail War: Day 17
+027-014-017	Grail War: Day 18
+027-014-018	Grail War: Day 19
+027-014-019	Grail War: Final Day
 
 031			Behemoth Culling Stages
 031-000		Foresta segreta di Gapra
@@ -4746,6 +4850,9 @@
 031-000-011	Zona della giungla amazzonica 12
 031-000-012	Zona della giungla amazzonica 13
 031-000-013	Zona della giungla amazzonica 14
+031-000-014	Zona della giungla amazzonica 15
+031-000-015	Zona della giungla amazzonica 16
+031-000-016	Zona del bosco primordiale 17
 031-001		Deserto Ashvini
 031-001-000	Zona calanchiva 1
 031-001-001	Zona calanchiva 2
@@ -4761,6 +4868,9 @@
 031-001-011	Zona delle sabbie roventi 12
 031-001-012	Zona delle sabbie roventi 13
 031-001-013	Zona delle sabbie roventi 14
+031-001-014	Zona delle sabbie roventi 15
+031-001-015	Zona delle sabbie roventi 16
+031-001-016	Zona della tempesta di sabbia 17
 031-002		Vulcano Jinfore
 031-002-000	Zona magmatica 1
 031-002-001	Zona magmatica 2
@@ -4776,111 +4886,140 @@
 031-002-011	Zona del cratere infernale 12
 031-002-012	Zona del cratere infernale 13
 031-002-013	Zona del cratere infernale 14
+031-002-014	Zona del cratere infernale 15
+031-002-015	Zona del cratere infernale 16
+031-002-016	Zona della caverna in eruzione 17
 
 033			Grande profondità
 033-000		Grande profondità
-033-000-000	Sotterranei B1~9F
-033-000-001	Sotterranei B1~9F
-033-000-002	Sotterranei B1~9F
-033-000-003	Sotterranei B1~9F
-033-000-004	Sotterranei B1~9F
-033-000-005	Sotterranei B1~9F
-033-000-006	Sotterranei B1~9F
-033-000-007	Sotterranei B1~9F
-033-000-008	Sotterranei B1~9F
-033-000-009	Sotterranei B11~19/21~29F
-033-000-010	Sotterranei B11~19/21~29F
-033-000-011	Sotterranei B11~19/21~29F
-033-000-012	Sotterranei B11~19/21~29F
-033-000-013	Sotterranei B11~19/21~29F
-033-000-014	Sotterranei B11~19/21~29F
-033-000-015	Sotterranei B11~19/21~29F
-033-000-016	Sotterranei B11~19/21~29F
-033-000-017	Sotterranei B11~19/21~29F
-033-000-018	Sotterranei B11~19/21~29F
-033-000-019	Sotterranei B11~19/21~29F
-033-000-020	Sotterranei B11~19/21~29F
-033-000-021	Sotterranei B11~19/21~29F
-033-000-022	Sotterranei B11~19/21~29F
-033-000-023	Sotterranei B11~19/21~29F
-033-000-024	Sotterranei B11~19/21~29F
-033-000-025	Sotterranei B11~19/21~29F
-033-000-026	Sotterranei B11~19/21~29F
-033-000-027	Sotterranei B31~39/41~49/51~59F
-033-000-028	Sotterranei B31~39/41~49/51~59F
-033-000-029	Sotterranei B31~39/41~49/51~59F
-033-000-030	Sotterranei B31~39/41~49/51~59F
-033-000-031	Sotterranei B31~39/41~49/51~59F
-033-000-032	Sotterranei B31~39/41~49/51~59F
-033-000-033	Sotterranei B31~39/41~49/51~59F
-033-000-034	Sotterranei B31~39/41~49/51~59F
-033-000-035	Sotterranei B31~39/41~49/51~59F
-033-000-036	Sotterranei B31~39/41~49/51~59F
-033-000-037	Sotterranei B31~39/41~49/51~59F
-033-000-038	Sotterranei B31~39/41~49/51~59F
-033-000-039	Sotterranei B31~39/41~49/51~59F
-033-000-040	Sotterranei B31~39/41~49/51~59F
-033-000-041	Sotterranei B31~39/41~49/51~59F
-033-000-042	Sotterranei B31~39/41~49/51~59F
-033-000-043	Sotterranei B31~39/41~49/51~59F
-033-000-044	Sotterranei B31~39/41~49/51~59F
-033-000-045	Sotterranei B31~39/41~49/51~59F
-033-000-046	Sotterranei B31~39/41~49/51~59F
-033-000-047	Sotterranei B31~39/41~49/51~59F
-033-000-048	Sotterranei B31~39/41~49/51~59F
-033-000-049	Sotterranei B31~39/41~49/51~59F
-033-000-050	Sotterranei B31~39/41~49/51~59F
-033-000-051	Sotterranei B31~39/41~49/51~59F
-033-000-052	Sotterranei B31~39/41~49/51~59F
-033-000-053	Sotterranei B31~39/41~49/51~59F
-033-000-054	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-055	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-056	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-057	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-058	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-059	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-060	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-061	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-062	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-063	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-064	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-065	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-066	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-067	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-068	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-069	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-070	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-071	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-072	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-073	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-074	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-075	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-076	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-077	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-078	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-079	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-080	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-081	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-082	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-083	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-084	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-085	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-086	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-087	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-088	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-089	Sotterranei B61~69/71~79/81~89/91~98F
-033-000-090	Sotterranei B10F
-033-000-091	Sotterranei B10F
-033-000-092	Sotterranei B20/30F
-033-000-093	Sotterranei B20/30F
-033-000-094	Sotterranei B40/50/60F
-033-000-095	Sotterranei B40/50/60F
-033-000-096	Sotterranei B40/50/60F
-033-000-097	Sotterranei B70/80/99F
-033-000-098	Sotterranei B70/80/99F
-033-000-099	Sotterranei B70/80/99F
-033-000-100	Sotterranei B70/80/99F
+033-000-000	Piano sotterraneo-1~9F
+033-000-001	Piano sotterraneo-1~9F
+033-000-002	Piano sotterraneo-1~9F
+033-000-003	Piano sotterraneo-1~9F
+033-000-004	Piano sotterraneo-1~9F
+033-000-005	Piano sotterraneo-1~9F
+033-000-006	Piano sotterraneo-1~9F
+033-000-007	Piano sotterraneo-1~9F
+033-000-008	Piano sotterraneo-1~9F
+033-000-009	Piano sotterraneo-11~19/21~29F
+033-000-010	Piano sotterraneo-11~19/21~29F
+033-000-011	Piano sotterraneo-11~19/21~29F
+033-000-012	Piano sotterraneo-11~19/21~29F
+033-000-013	Piano sotterraneo-11~19/21~29F
+033-000-014	Piano sotterraneo-11~19/21~29F
+033-000-015	Piano sotterraneo-11~19/21~29F
+033-000-016	Piano sotterraneo-11~19/21~29F
+033-000-017	Piano sotterraneo-11~19/21~29F
+033-000-018	Piano sotterraneo-11~19/21~29F
+033-000-019	Piano sotterraneo-11~19/21~29F
+033-000-020	Piano sotterraneo-11~19/21~29F
+033-000-021	Piano sotterraneo-11~19/21~29F
+033-000-022	Piano sotterraneo-11~19/21~29F
+033-000-023	Piano sotterraneo-11~19/21~29F
+033-000-024	Piano sotterraneo-11~19/21~29F
+033-000-025	Piano sotterraneo-11~19/21~29F
+033-000-026	Piano sotterraneo-11~19/21~29F
+033-000-027	Piano sotterraneo-31~39/41~49/51~59F
+033-000-028	Piano sotterraneo-31~39/41~49/51~59F
+033-000-029	Piano sotterraneo-31~39/41~49/51~59F
+033-000-030	Piano sotterraneo-31~39/41~49/51~59F
+033-000-031	Piano sotterraneo-31~39/41~49/51~59F
+033-000-032	Piano sotterraneo-31~39/41~49/51~59F
+033-000-033	Piano sotterraneo-31~39/41~49/51~59F
+033-000-034	Piano sotterraneo-31~39/41~49/51~59F
+033-000-035	Piano sotterraneo-31~39/41~49/51~59F
+033-000-036	Piano sotterraneo-31~39/41~49/51~59F
+033-000-037	Piano sotterraneo-31~39/41~49/51~59F
+033-000-038	Piano sotterraneo-31~39/41~49/51~59F
+033-000-039	Piano sotterraneo-31~39/41~49/51~59F
+033-000-040	Piano sotterraneo-31~39/41~49/51~59F
+033-000-041	Piano sotterraneo-31~39/41~49/51~59F
+033-000-042	Piano sotterraneo-31~39/41~49/51~59F
+033-000-043	Piano sotterraneo-31~39/41~49/51~59F
+033-000-044	Piano sotterraneo-31~39/41~49/51~59F
+033-000-045	Piano sotterraneo-31~39/41~49/51~59F
+033-000-046	Piano sotterraneo-31~39/41~49/51~59F
+033-000-047	Piano sotterraneo-31~39/41~49/51~59F
+033-000-048	Piano sotterraneo-31~39/41~49/51~59F
+033-000-049	Piano sotterraneo-31~39/41~49/51~59F
+033-000-050	Piano sotterraneo-31~39/41~49/51~59F
+033-000-051	Piano sotterraneo-31~39/41~49/51~59F
+033-000-052	Piano sotterraneo-31~39/41~49/51~59F
+033-000-053	Piano sotterraneo-31~39/41~49/51~59F
+033-000-054	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-055	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-056	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-057	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-058	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-059	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-060	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-061	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-062	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-063	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-064	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-065	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-066	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-067	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-068	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-069	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-070	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-071	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-072	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-073	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-074	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-075	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-076	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-077	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-078	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-079	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-080	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-081	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-082	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-083	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-084	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-085	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-086	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-087	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-088	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-089	Piano sotterraneo-61~69/71~79/81~89/91~98F
+033-000-090	Piano sotterraneo-10F
+033-000-091	Piano sotterraneo-10F
+033-000-092	Piano sotterraneo-10F
+033-000-093	Piano sotterraneo-10F
+033-000-094	Piano sotterraneo-20/30F
+033-000-095	Piano sotterraneo-20/30F
+033-000-096	Piano sotterraneo-20/30F
+033-000-097	Piano sotterraneo-20/30F
+033-000-098	Piano sotterraneo-40/50/60F
+033-000-099	Piano sotterraneo-40/50/60F
+033-000-100	Piano sotterraneo-40/50/60F
+033-000-101	Piano sotterraneo-40/50/60F
+033-000-102	Piano sotterraneo-40/50/60F
+033-000-103	Piano sotterraneo-40/50/60F
+033-000-104	Piano sotterraneo-70/80/90/99F
+033-000-105	Piano sotterraneo-70/80/90/99F
+033-000-106	Piano sotterraneo-70/80/90/99F
+033-000-107	Piano sotterraneo-70/80/90/99F
+033-000-108	Piano sotterraneo-70/80/90/99F
+033-000-109	Piano sotterraneo-70/80/90/99F
+033-000-110	Piano sotterraneo-70/80/90/99F
+033-000-111	Piano sotterraneo-70/80/90/99F
+033-000-112	Le profondità più profonde-100F
 
 034			Saghe leggendarie 0
 034-000		Campo Zero
 034-000-000	Un mondo nuovo
+034-001		Sull'orlo dello spazio-tempo
+034-001-000	Crimini contro il cosmo
+034-001-001	Orizzonte zero
+034-001-002	Adrone al tramonto
+034-001-003	La teoria felina
+034-001-004	Protoni, neutroni e furbacchioni
+034-001-005	Terra innevata di neutrino
+034-002		Bacinella culla per gatti
+034-002-000	Cioccoaltipiani
+034-002-001	Sentieri sonnolenti
+034-002-002	Lago matto
+034-002-003	Fiordo fangoso
+034-002-004	Vetta della campana
+034-002-005	Foresta abracadabra

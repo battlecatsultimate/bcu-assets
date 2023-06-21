@@ -633,4 +633,15 @@
 632	
 633	
 634	Grand-maître fourmilier
-635	Grand-maître fourmilier
+635	
+636	Femme diablesse
+637	Présages
+638	Mini-Cyclone blanc
+639	Pégase infernal Deonil
+640	Suidae Piggicus
+641	Elephantidae Papaou
+642	Tyran infernal Nyandam
+643	Grand mage Mimon
+644	
+645	
+646	

@@ -448,13 +448,13 @@
 447	True form evolution increases<br>Defense & Attack power, and<br>gains Barrier Breaker abilities!
 448	<br><br>
 449	<br><br>
-450	<br><br>
+450	True Form evolution gains increased defense!<br>Also gains immunity to Knockback and Toxic,<br>and gains Colossus Slayer!
 451	<br><br>
 452	<br><br>
 453	<br><br>
 454	<br><br>
 455	<br><br>
-456	<br><br>
+456	True Form gains increased Attack Speed!<br>Also gains Soulstrike and immunity<br>to Freeze attacks!
 457	<br><br>
 458	<br><br>
 459	<br><br>
@@ -615,10 +615,10 @@
 614	True Form gains<br>100% chance to Slow Aku and<br>might Shield Pierce vs. Aku enemies!
 615	<br><br>
 616	<br><br>
-617	<br><br>
+617	True Form evolution gains increased defense!<br>Plus gains increased Shield Piercing chance<br>and 100% Knockback!
 618	True Form evolution gains increased<br>Defense and Attack speed!<br>
 619	True Form evolution increases Defense!<br>Also gains Surge Attack!<br>
-620	<br><br>
+620	True Form evolution gains increased <br>Defense, Attack, and atk. range! Also,<br>guaranteed Knockback of Red and Aku!
 621	<br><br>
 622	<br><br>
 623	<br><br>
@@ -696,3 +696,14 @@
 695	<br><br>
 696	<br><br>
 697	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+698	<br><br>
+699	<br><br>
+700	True Form evolution reveals its final form!<br>Also gains Long-range attacks and<br>immunity to Wave attacks!
+701	<br><br>
+702	<br><br>
+703	<br><br>
+704	<br><br>
+705	<br><br>
+706	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+707	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+708	<br><br>
