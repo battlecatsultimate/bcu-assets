@@ -121,7 +121,7 @@
 120	Healer	Healer CC	Healer Cat CC
 121	Merc	Merc CC	Merc & Cat CC
 122	Urlaubskönigin	Bürodame-Katze	Callcenter-Katze
-123	Bohnenkatzen	BH-Katzen	
+123	Bohnenkatzen	BH-Katzen	Val-Val-Katzen
 124	Date Masamune	Kriegsgott Masamune	Unsterblicher Masamune
 125	Takeda Shingen	Kriegsgott Shingen	Unsterblicher Shingen
 126	Aufziehkatze	Puppenspielerkatze	Puppenspieler und Charlie
@@ -407,11 +407,11 @@
 406	Rei Cat	Ayanami Cat (TBC)	
 407	Asuka Cat	Apron Asuka	
 408	Mari Cat	Special Ops Mari	
-409	Rei Ayanami	Plug Suit Rei	
+409	Rei Ayanami	Plug Suit Rei	Reunion Li'l Rei
 410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka
 411	Mari Illustrious	Plug Suit Mari	
 412	Eva Unit-00	Eva Unit-00 & Cat	
-413	Eva Unit-01	Eva Unit-01 & Cat	
+413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-00 & Cat
 414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777
 415	Shinji Cat	Toji & Kensuke Cats	
 416	Moon Operators	NERV Moon	
@@ -486,7 +486,7 @@
 485			
 486			
 487	Eva Unit-08	Eva Unit-08 & Cat	
-488	AAA Wunder	NNN Wunder	
+488	AAA Wunder	NNN Wunder	Vanished NNN Wunder
 489	Misato Katsuragi	Captain Misato	
 490	Ritsuko Akagi	First Officer Ritsuko	
 491	Rei Ayanami (???)	Awakened Ayanami	
@@ -619,7 +619,7 @@
 618	Shiro Amakusa	Kriegsgott Amakusa	Unsterblicher Amakusa
 619	Lilin	Lilin π	Himmlische Lilin π
 620	Hevijak der Böse	Böser König Hevijak	Hevijak der Gottkaiser
-621	Aku-Forscher	Böser Aku-Forscher	
+621	Aku-Forscher	Böser Aku-Forscher	Katzenforscher
 622	Jagando Jr.	Jagando Jr., Herr d. Zerst.	
 623	Rattenfänger-Katze	Komuso-Katze	
 624	Kunio-kun	Dodgeball Kunio-kun	
@@ -631,7 +631,7 @@
 630	Kalligraphie-Katze	Teemeister-Katze	
 631	Yamii	Yaminoir	Yaminora
 632	Mächtiger Zer-Nicht-R	Belagerungsläufer Diabolosa	Auslöscher Diabolosa
-633	Shitakari-Spatz	Chunchun-Spuker	
+633	Shitakari-Spatz	Chunchun-Spuker	Große Chunchun-Spuker
 634	Weißer-Ritter-Zyklop	Schwarzer-Ritter-Zyklop	
 635			
 636	Beeinflusste Panzer-Katze	Beeinflusste Wallkatze	
@@ -707,3 +707,8 @@
 706	Uraltes Ei: N108	Petrol-Ei: N108	Seifenkatze
 707	Uraltes Ei: N109	Dunkles Ei: N109	Fass-Katze
 708	Jetpack-Katze	Kinjirou-Katze	
+709	One-Eyed Asuka	Blue-Eyed Asuka	
+710	Eva Unit-13	Eva Unit-13 & Cat	
+711	Verlobter Balaluga	Verlobter Pasalan	
+712	Kaoluga	Kaoluga Pasalan	
+713	Uraltes Ei: N203	Violettes Ei: N203	Clownkatze

@@ -184,6 +184,7 @@
 192|S192|I623	Meteorit Z
 193|S193|I624	Tierknochen Z
 194|S194|I625	Ammonit Z
+195|S195|I424	Weihwasser
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -381,6 +382,7 @@
 10522	Nagakatze
 10532	Totengräbärkatze
 10540	Gridiron-Katze
+10622	Katzenforscher
 15017	Superstar MONEKO
 15031	Tathagata-Katze
 15032	Ultra-Verbrecher-Katze
@@ -423,6 +425,7 @@
 15106	Himmlische Kuu
 15107	Himmlische Kai
 15108	Himmlische Cupruma
+15124	Val-Val-Katzen
 15125	Unsterblicher Masamune
 15126	Unsterblicher Shingen
 15130	Glitzernde Machokatze
@@ -523,7 +526,9 @@
 15397	Ganglion der Entfesselte
 15398	Heilige-Klinge-Sakura
 15402	Gigavolta
+15410	Reunion Li'l Rei
 15411	Eyepatch Li'l Asuka
+15414	Determined Unit-00 & Cat
 15415	Unit-02, Code 777
 15418	Subterra-Späher
 15428	Katzenquesthelden
@@ -542,6 +547,7 @@
 15469	Head Rococo
 15470	Super D-Devil
 15483	Cat-Eared Souma
+15489	Vanished NNN Wunder
 15496	Bauchtanzkatze
 15497	Unsterbliche Kaihime
 15503	Himmlische Myrcia
@@ -575,6 +581,7 @@
 15621	Hevijak der Gottkaiser
 15632	Yaminora
 15633	Auslöscher Diabolosa
+15634	Große Chunchun-Spuker
 15643	Allmächtiger Luzifer
 15645	Minzliebe Mekako
 15657	Haniwa-Katze
@@ -593,6 +600,7 @@
 15701	Auftragskiller-Katze
 15707	Seifenkatze
 15708	Fass-Katze
+15714	Clownkatze
 16131	Erwachte Ururun
 16173	Schulbus-Nyandam
 16269	Erwachte Mina

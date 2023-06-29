@@ -184,6 +184,7 @@
 192|S192|I623	Meteora Z
 193|S193|I624	Ossa bestiali Z
 194|S194|I625	Ammonite Z
+195|S195|I424	Acqua santa
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -381,6 +382,7 @@
 10522	Gatto Naga
 10532	Gattorso cadavere
 10540	Gatto griglia
+10622	Gatto ricercatore
 15017	MONEKO Superstar
 15031	Gatto Tathagata
 15032	Gatto ultra delinquente
@@ -423,6 +425,7 @@
 15106	Kuu divina
 15107	Kai divina
 15108	Ramina divina
+15124	Gatti Val Val
 15125	Masamune Immortale
 15126	Shingen Immortale
 15130	Gatto macho luccicante
@@ -523,7 +526,9 @@
 15397	Ganglion liberato
 15398	Sakura Spada sacra
 15402	Gigavolta
+15410	Reunion Li'l Rei
 15411	Eyepatch Li'l Asuka
+15414	Determined Unit-00 & Cat
 15415	Unit-02, Code 777
 15418	Sentinelle sotterranee
 15428	Eroi Impresa felina
@@ -542,6 +547,7 @@
 15469	Head Rococo
 15470	Super D-Devil
 15483	Cat-Eared Souma
+15489	Vanished NNN Wunder
 15496	Gatta Danza del ventre
 15497	Kaihime Immortale
 15503	Myrcia Divina
@@ -575,6 +581,7 @@
 15621	Hevijak Dio-Imperatore
 15632	Yaminora
 15633	Diabolosa obliterante
+15634	Gran Acchiappafantasmi
 15643	Lucifero Onnipotente
 15645	Mekako fresco amore
 15657	Gatto haniwa
@@ -593,6 +600,7 @@
 15701	Gatto killer
 15707	Gatto sapone
 15708	Gatto barile
+15714	Gatto clown
 16131	Ururun risvegliata
 16173	Scuolabus Nyandam
 16269	Mina risvegliata

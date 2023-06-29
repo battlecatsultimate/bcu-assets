@@ -1494,6 +1494,15 @@
 001-340-001	Höllischer Tyrann 2 (Gnadenlos)
 001-340-002	Höllischer Tyrann 3 (Gnadenlos)
 001-340-003	Höllischer Tyrann: Höhepunkt (Brutal)
+001-342		Der größte Diablo
+001-342-000	Höllenzorn (Gnadenlos)
+001-342-001	Höllenwut (Gnadenlos)
+001-343		#02 Bankett des Schreckens
+001-343-000	Bräutigam in Kanalisation
+001-343-001	Ranziges Fleisch zum Sattessen
+001-343-002	Toast des verrückten Onkels
+001-343-003	Kettensäge für Hochzeitstorte
+001-343-004	Blumenstraußwurf im Dunkeln
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2037,6 +2046,20 @@
 002-198		Holy War: Gilgamesh
 002-198-000	King of Heroes (Veteran)
 002-198-001	King of Heroes (Deadly)
+002-205		The 9th Angel Strikes!
+002-205-000	Asuka On Board (Easy)
+002-205-001	Asuka On Board (Expert)
+002-206		The 10th Angel Strikes!
+002-206-000	Refusal Type (Hard)
+002-206-001	Refusal Type (Merciless)
+002-207		Eva Unit-13 Strikes!
+002-207-000	It's Not Your Fault (Veteran)
+002-207-001	We'll Meet Again (Merciless)
+002-208		Final Battle: Eva Unit-13
+002-208-000	Something I Must Do
+002-208-001	Grow Up, Shinji
+002-209		Bye-bye, all of the Cats
+002-209-000	Finale
 
 003			
 003-000		EoC Ch.1 Zombie
@@ -2929,6 +2952,12 @@
 004-059-000	Hortwildnis (Tödlich)
 004-059-001	Gipfelwildnis (Gnadenlos)
 004-059-002	Grenzwildnis (Gnadenlos)
+004-060		Jägerkarte IV
+004-060-000	Lila Kristallwald
+004-060-001	Grüne Kristallwüste
+004-060-002	Roter Kristallwald
+004-060-003	Blaue Kristallwüste
+004-060-004	Gelber Kristallvulkan
 
 006			Katzenkrallendojo
 006-000		Halle der Initianden
@@ -3140,6 +3169,8 @@
 011-017-000	Tränenturnier
 011-018		Arena of Honor
 011-018-000	I Seek the Strongest
+011-019		Arena of Honor
+011-019-000	8 sind nicht genug
 011-020		Geschichten der Ehre
 011-020-000	Blutrote Prüfung
 011-021		Geschichten der Ehre
@@ -3601,6 +3632,10 @@
 014-048-000	Katzenbewohner (Tödlich)
 014-049		Die 2. Dimension
 014-049-000	Offenes Wurmloch (Tödlich)
+014-050		XP-Goldgrube!
+014-050-000	Versuchung des Teufelchens
+014-050-001	Versuchung des Dämonen
+014-050-002	Versuchung des Erzdämonen
 
 024			Baron Boss Stages
 024-000		Baron Robbe schlägt zu!
@@ -4604,6 +4639,12 @@
 025-064-000	Gipfelschrein (Gnadenlos)
 025-065		Zuflucht des bösen Instinkts
 025-065-000	Grenzschrein (Gnadenlos)
+025-066		Jägerkarte IV
+025-066-000	Lila Steinwald IV
+025-066-001	Grüne Steinwüste IV
+025-066-002	Roter Steinwald IV
+025-066-003	Blaue Steinwüste IV
+025-066-004	Gelber Steinvulkan IV
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -4996,3 +5037,8 @@
 034-002-003	Schlammiger Fjord
 034-002-004	Himmel-und-Hölle-Gipfel
 034-002-005	Ententanzwald
+034-003		Die Ururuvu-Tagebücher
+034-003-000	Extra-Ureinwohner
+034-003-001	Glücklose Privatunterkunft
+034-003-002	KI-Fischen
+034-003-003	Opferlehre

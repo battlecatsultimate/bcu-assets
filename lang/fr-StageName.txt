@@ -1495,6 +1495,15 @@
 001-340-001	Tyran infernal 2 (sans répit)
 001-340-002	Tyran infernal 3 (sans répit)
 001-340-003	Tyran infernal ultime (brutal)
+001-342		Le Plus Grand Diablo
+001-342-000	Colère des Enfers (sans répit)
+001-342-001	Fureur des Enfers (sans répit)
+001-343		#02 Banquet de la terreur
+001-343-000	Marié dans les égouts
+001-343-001	Viande avariée à volonté
+001-343-002	Toast de l'oncle cinglé
+001-343-003	Tronçonneuse sur pièce montée
+001-343-004	Bouquet lancé dans le noir
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2038,6 +2047,20 @@
 002-198		Holy War: Gilgamesh
 002-198-000	King of Heroes (Veteran)
 002-198-001	King of Heroes (Deadly)
+002-205		The 9th Angel Strikes!
+002-205-000	Asuka On Board (Easy)
+002-205-001	Asuka On Board (Expert)
+002-206		The 10th Angel Strikes!
+002-206-000	Refusal Type (Hard)
+002-206-001	Refusal Type (Merciless)
+002-207		Eva Unit-13 Strikes!
+002-207-000	It's Not Your Fault (Veteran)
+002-207-001	We'll Meet Again (Merciless)
+002-208		Final Battle: Eva Unit-13
+002-208-000	Something I Must Do
+002-208-001	Grow Up, Shinji
+002-209		Bye-bye, all of the Cats
+002-209-000	Finale
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -2930,6 +2953,12 @@
 004-059-000	Nature au berceau (mortel)
 004-059-001	Nature au sommet (sans répit)
 004-059-002	Nature frontière (sans répit)
+004-060		Carte du chasseur IV
+004-060-000	Forêt de cristal violette
+004-060-001	Désert de cristal vert
+004-060-002	Forêt de cristal rouge
+004-060-003	Désert de cristal bleu
+004-060-004	Volcan de cristal jaune
 
 006			Dojo Griffélin
 006-000		Salle des initiés
@@ -3141,6 +3170,8 @@
 011-017-000	Tournoi des larmes
 011-018		Arène de l'honneur
 011-018-000	I Seek the Strongest
+011-019		Arène de l'honneur
+011-019-000	8 ne suffisent pas
 011-020		Honorables lègendes
 011-020-000	Épreuve écarlate
 011-021		Honorables lègendes
@@ -3602,6 +3633,10 @@
 014-048-000	Résident félin (mortel)
 014-049		Rouge levant
 014-049-000	Trou de ver ouvert (mortel)
+014-050		Moisson d'XP !
+014-050-000	Tentation du diablotin
+014-050-001	Tentation du démon
+014-050-002	Tentation de l'archidiable
 
 024			Baron Boss Stages
 024-000		Attaque du Baron phoque !
@@ -4637,6 +4672,12 @@
 025-064-000	Sanctuaire du sommet (sans répit)
 025-065		Refuge du vil instinct
 025-065-000	Sanctuaire de la frontière (sans répit)
+025-066		Carte du chasseur IV
+025-066-000	Forêt de pierre violette IV
+025-066-001	Désert de pierre verte IV
+025-066-002	Forêt de pierre rouge IV
+025-066-003	Désert de pierre bleue IV
+025-066-004	Volcan de pierre jaune IV
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -5059,3 +5100,8 @@
 034-002-003	Fjord boueux
 034-002-004	Pic de la marelle
 034-002-005	Forêt 3 p'tits chats
+034-003		Les carnets d'Ururuvu
+034-003-000	Extra autochtones
+034-003-001	Malchance chez l'habitant
+034-003-002	Pêche à l'IA
+034-003-003	Apprentissage sacrificiel

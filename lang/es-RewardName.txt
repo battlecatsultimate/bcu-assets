@@ -184,6 +184,7 @@
 192|S192|I623	Meteoritos Z
 193|S193|I624	Huesos Z
 194|S194|I625	Amonites Z
+195|S195|I424	Agua bendita
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -381,6 +382,7 @@
 10522	Gato Naga
 10532	Gato Cadaveroso
 10540	Quartercat
+10622	Investigator
 15017	Moneko Superestrella
 15031	Gato Tathagata
 15032	Gato Vándalo Ultra
@@ -423,6 +425,7 @@
 15106	Kuu Divina
 15107	Kai Divina
 15108	Cobrina Divina
+15124	Gatos Val Val
 15125	Masamune Inmortal
 15126	Shingen Inmortal
 15130	Gato Mazado Brillante
@@ -522,7 +525,9 @@
 15397	Ganglión Liberado
 15398	Sakura Hoja Sagrada
 15402	Gigavolta
+15410	Reunion Li'l Rei
 15411	Eyepatch Li'l Asuka
+15414	Determined Unit-00 & Cat
 15415	Unit-02, Code 777
 15418	Centinelas Subterráneos
 15428	Equipo Heroico Gatuno
@@ -541,6 +546,7 @@
 15469	Head Rococo
 15470	Super D-Devil
 15483	Cat-Eared Souma
+15489	Vanished NNN Wunder
 15496	Gata Danza del Vientre
 15497	Kaihime Inmortal
 15503	Myrcia Divina
@@ -574,6 +580,7 @@
 15621	Hevijak, Dios Emperador
 15632	Yaminora
 15633	Diabolosa Destructora
+15634	Grandes Cazadores Chunchun
 15643	Lucifer Todopoderoso
 15645	Mekako Amante Menta
 15657	Gato Haniwa
@@ -592,6 +599,7 @@
 15701	Gato Sicario
 15707	Jabogato
 15708	Gato Barril
+15714	Gato Payaso
 16131	Ururun Alzado
 16173	Nyandam Bus Escolar
 16269	Mina Alzada

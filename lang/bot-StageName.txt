@@ -1,4 +1,4 @@
-﻿000			Stories of Legend
+000			Stories of Legend
 000-000		The Legend Begins
 000-000-000	Earthshaker
 000-000-001	Return of Terror
@@ -1530,6 +1530,15 @@
 001-340-001	Infernal Tyrant 2 (Merciless)
 001-340-002	Infernal Tyrant 3 (Merciless)
 001-340-003	Infernal Tyrant Climax (Brutal)
+001-342		The Greatest Diablo
+001-342-000	Wrath of Hell (Merciless)
+001-342-001	Fury of Hell (Merciless)
+001-343		#02 Banquet of Terror
+001-343-000	Groom in the Sewers
+001-343-001	All You Can Eat Rancid Meat
+001-343-002	Crazy Uncle's Toast
+001-343-003	Chainsaw to Wedding Cake
+001-343-004	Bouquet Toss in the Dark
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2083,6 +2092,20 @@
 002-198		Holy War: Gilgamesh
 002-198-000	King of Heroes (Veteran)
 002-198-001	King of Heroes (Deadly)
+002-205		The 9th Angel Strikes!
+002-205-000	Asuka On Board (Easy)
+002-205-001	Asuka On Board (Expert)
+002-206		The 10th Angel Strikes!
+002-206-000	Refusal Type (Hard)
+002-206-001	Refusal Type (Merciless)
+002-207		Eva Unit-13 Strikes!
+002-207-000	It's Not Your Fault (Veteran)
+002-207-001	We'll Meet Again (Merciless)
+002-208		Final Battle: Eva Unit-13
+002-208-000	Something I Must Do
+002-208-001	Grow Up, Shinji
+002-209		Bye-bye, all of the Cats
+002-209-000	Finale
 
 003			Main Story Chapters
 003-000		EoC Ch.1 Zombie
@@ -2985,6 +3008,12 @@
 004-059-000	Cradle Wilderness (Deadly)
 004-059-001	Summit Wilderness (Merciless)
 004-059-002	Frontier Wilderness (Merciless)
+004-060		Hunter's Map IV
+004-060-000	Purple Crystal Forest
+004-060-001	Green Crystal Desert
+004-060-002	Red Crystal Forest
+004-060-003	Blue Crystal Desert
+004-060-004	Yellow Crystal Volcano
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
@@ -3196,12 +3225,16 @@
 011-017-000	Tearful Tournament
 011-018		Arena of Honor
 011-018-000	I Seek the Strongest
+011-019		Arena of Honor
+011-019-000	8 Ain't Enough
 011-020		Tales of Honor
 011-020-000	Crimson Trial
 011-021		Tales of Honor
 011-021-000	Shadow Trial
 011-022		Tales of Honor
 011-022-000	Phoenix Trial
+011-023		Arena of Honor
+011-023-000	Feeling Fine at 9
 
 012			Challenge Mode
 012-000		Challenge
@@ -3657,6 +3690,10 @@
 014-048-000	Resident Feline (Deadly)
 014-049		The 2nd Dimension
 014-049-000	The Wormhole Opens (Deadly)
+014-050		XP Bonanza!
+014-050-000	Imp's Temptation
+014-050-001	Demon's Temptation
+014-050-002	Archfiend's Temptation
 
 024			Gauntlet Stages
 024-000		Baron Seal Strikes!
@@ -4703,6 +4740,12 @@
 025-064-000	Summit Shrine (Merciless)
 025-065		Bad Instinct's Refuge
 025-065-000	Frontier Shrine (Merciless)
+025-066		Hunter's Map IV
+025-066-000	Purple Stone Forest IV
+025-066-001	Green Stone Desert IV
+025-066-002	Red Stone Forest IV
+025-066-003	Blue Stone Desert IV
+025-066-004	Yellow Stone Volcano IV
 
 027			Collab Gauntlet Stages
 027-000		Messier's Assault
@@ -5126,3 +5169,8 @@
 034-002-003	Muddy Fjord
 034-002-004	Hopscotch Peak
 034-002-005	Hokey Pokey Forest
+034-003		The Ururuvu Journals
+034-003-000	Extra Natives
+034-003-001	Hard-Luck Homestay
+034-003-002	AI Fishing
+034-003-003	Sacrifice Apprenticeship

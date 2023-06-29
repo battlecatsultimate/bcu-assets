@@ -691,12 +691,12 @@
 9355	Supera cualquier fase de #01 La Capilla Fantasma 10 veces:
 9356	Supera cualquier fase de #01 La Capilla Fantasma 15 veces:
 9357	Supera cualquier fase de #01 La Capilla Fantasma 20 veces:
-9358	Supera cualquier fase de #02 ¿En Qué Cae el 13? 3 veces:
-9359	Supera cualquier fase de #02 ¿En Qué Cae el 13? 5 veces:
+9358	Supera cualquier fase de #03 ¿En Qué Cae el 13? 3 veces:
+9359	Supera cualquier fase de #03 ¿En Qué Cae el 13? 5 veces:
 9360	Supera la fase de continuación
-9361	Supera cualquier fase de #03 Aldea de Alaridos 3 veces:
-9362	Supera cualquier fase de #03 Aldea de Alaridos 5 veces:
-9363	Supera cualquier fase de #03 Aldea de Alaridos 10 veces:
+9361	Supera cualquier fase de #04 Aldea de Alaridos 3 veces:
+9362	Supera cualquier fase de #04 Aldea de Alaridos 5 veces:
+9363	Supera cualquier fase de #04 Aldea de Alaridos 10 veces:
 9364	Deberes de Verano (Parte 1) ①: Estudia los insectos. ¡Consigue 1 Gato Kabuto en el evento!
 9365	Deberes de Verano (Parte 1) ②: Estudia los insectos. ¡Consigue 1 Gato Kuwagata en el evento!
 9366	Deberes de Verano (Parte 1) ③: Estudia los insectos. ¡Consigue 1 Huevo Antiguo: N202 en el evento!
@@ -746,3 +746,10 @@
 58	Supera 45 fases de Matanza de Mastodontes por primera vez:
 59	Para completar esta misión, supera el nivel 2. de todas las Etapas de Leyenda Inquietante
 9424	Misiones del Festival de Ciclón. ¡Supera la fase El Gran Diablo!
+9425	¡Gana un Huevo Antiguo N203 en . las bolas de Novia del Diablo de Junio!
+9426	Consigue más de 8200 puntos en . la fase 1 de #02 Una boda de muerte
+9427	Consigue más de 7200 puntos en . la fase 2 de #02 Una boda de muerte
+9428	Consigue más de 7100 puntos en . la fase 3 de #02 Una boda de muerte
+9429	Consigue más de 6200 puntos en . la fase 4 de #02 Una boda de muerte
+9430	Consigue más de 4500 puntos en . la fase 5 de #02 Una boda de muerte
+9431	¡Consigue una Piedra M. tras superar la puntuación. indicada en #02 Una boda de muerte en las fases 1-5!

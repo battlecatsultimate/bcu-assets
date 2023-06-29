@@ -1498,6 +1498,15 @@
 001-340-001	Tirano Infernal 2 (Inhumano)
 001-340-002	Tirano Infernal 3 (Inhumano)
 001-340-003	Tirano Infernal Definitivo (Brutal)
+001-342		El Grandioso Diablo
+001-342-000	Ira del Infierno (Inhumano)
+001-342-001	Furia del Infierno (Inhumano)
+001-343		#02 El Banquete del Terror
+001-343-000	Novio en Cloacas
+001-343-001	Bufé libre de carne rancia
+001-343-002	Brindis del majadero
+001-343-003	Aserrando la tarta de boda
+001-343-004	Lanzamiento de ramo a oscuras
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2041,6 +2050,20 @@
 002-198		Holy War: Gilgamesh
 002-198-000	King of Heroes (Veteran)
 002-198-001	King of Heroes (Deadly)
+002-205		The 9th Angel Strikes!
+002-205-000	Asuka On Board (Easy)
+002-205-001	Asuka On Board (Expert)
+002-206		The 10th Angel Strikes!
+002-206-000	Refusal Type (Hard)
+002-206-001	Refusal Type (Merciless)
+002-207		Eva Unit-13 Strikes!
+002-207-000	It's Not Your Fault (Veteran)
+002-207-001	We'll Meet Again (Merciless)
+002-208		Final Battle: Eva Unit-13
+002-208-000	Something I Must Do
+002-208-001	Grow Up, Shinji
+002-209		Bye-bye, all of the Cats
+002-209-000	Finale
 
 003			
 003-000		EoC Ch.1 Zombie
@@ -2933,6 +2956,12 @@
 004-059-000	Naturaleza Base (Mortal)
 004-059-001	Naturaleza Cima (Inhumano)
 004-059-002	Naturaleza Frontera (Inhumano)
+004-060		Mapa del Cazador IV
+004-060-000	Bosque de Cristales Morados
+004-060-001	Desierto de Cristales Verdes
+004-060-002	Bosque de Cristales Rojos
+004-060-003	Desierto de Cristales Azules
+004-060-004	Volcán de Cristales Amarillos
 
 006			Dojo Afilagarras
 006-000		Sala de Iniciados
@@ -3144,6 +3173,8 @@
 011-017-000	Torneo Emotivo
 011-018		Arena of Honor
 011-018-000	I Seek the Strongest
+011-019		Arena of Honor
+011-019-000	8 No Son Suficientes
 011-020		Historias Honoríficas
 011-020-000	Prueba Carmesí
 011-021		Historias Honoríficas
@@ -3605,6 +3636,10 @@
 014-048-000	Felino del Mal (Mortal)
 014-049		La Segunda Dimensión
 014-049-000	Agujero de Gusano (Mortal)
+014-050		¡Bonanza de XP!
+014-050-000	Tentación del Impío
+014-050-001	Tentación del Demonio
+014-050-002	Tentación del Archienemigo
 
 024			Baron Boss Stages
 024-000		¡Barón Foca Ataca!
@@ -4651,6 +4686,12 @@
 025-064-000	Santuario Cima (Inhumano)
 025-065		Refugio del Mal Instinto
 025-065-000	Santuario Frontera (Inhumano)
+025-066		Mapa del Cazador IV
+025-066-000	Bosque de Piedras Moradas IV
+025-066-001	Desierto de Piedras Verdes IV
+025-066-002	Bosque de Piedras Rojas IV
+025-066-003	Desierto de Piedras Azules IV
+025-066-004	Volcán de Piedras Amarillas IV
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -5073,3 +5114,8 @@
 034-002-003	Fiordo Fangoso
 034-002-004	Cima Rayuela
 034-002-005	Bosque Abracadabra
+034-003		Los diarios Ururuvu
+034-003-000	Supernativos
+034-003-001	Casa familiar de Infortunios
+034-003-002	Pesca de IA
+034-003-003	Cursillo de sacrificio

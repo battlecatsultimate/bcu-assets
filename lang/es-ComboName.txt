@@ -221,3 +221,4 @@
 339	Mal fin de las vacaciones
 340	Elohim, Essaim
 341	Llamas Malignas
+342	Cazando fantasmas

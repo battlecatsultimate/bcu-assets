@@ -696,12 +696,12 @@
 9355	Termine un niveau de #01 La chapelle fantôme
 9356	Termine un niveau de #01 La chapelle fantôme
 9357	Termine un niveau de #01 La chapelle fantôme
-9358	Termine un niveau de #02 ??? le 13e
-9359	Termine un niveau de #02 ??? le 13e
+9358	Termine un niveau de #03 ??? le 13e
+9359	Termine un niveau de #03 ??? le 13e
 9360	Termine le niveau suite des niveaux de
-9361	Termine un niveau de #03 Village miaulant
-9362	Termine un niveau de #03 Village miaulant
-9363	Termine un niveau de #03 Village miaulant
+9361	Termine un niveau de #04 Village miaulant
+9362	Termine un niveau de #04 Village miaulant
+9363	Termine un niveau de #04 Village miaulant
 9364	Devoirs de vacances Part. 1 ① : Étudier des insectes. Obtiens 1 Chat Kabuto auprès du Chachapsule d'événement !
 9365	Devoirs de vacances Part. 1 ② : Étudier des insectes. Obtiens 1 Chat Kuwagata auprès du Chachapsule d'événement !
 9366	Devoirs de vacances Part. 1 ③ : Étudier des insectes. Obtiens 1 Œuf ancien N202 avec Chachapsule d'événement !
@@ -751,3 +751,10 @@
 58	Termine 45 niv. Abattage de Béhémoths pour la 1re fois
 59	Termine tous les niv. Légende mystérieuse. niv. 2 pour accomplir cette mission
 9424	Missions du Festival du cyclone. Termine le niveau Le Grand Diablo !
+9425	Gagne un Œuf ancien N203 dans. les Chapsules de la Mariée du démon de juin
+9426	Marque plus de 8 200 points sur. #02 Le mariage de la peur, niveau 1
+9427	Marque plus de 7 200 points sur. #02 Le mariage de la peur, niveau 2
+9428	Marque plus de 7 100 points sur. #02 Le mariage de la peur, niveau 3
+9429	Marque plus de 6 200 points sur. #02 Le mariage de la peur, niveau 4
+9430	Marque plus de 4 500 points sur. #02 Le mariage de la peur, niveau 5
+9431	Gagne une pierre B. en atteignant le score cible. sur #02 Le mariage de la peur, niveaux 1-5 !

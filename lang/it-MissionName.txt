@@ -696,12 +696,12 @@
 9355	Supera un qualsiasi livello di "01: La cappella fantasma". 10 volte!
 9356	Supera un qualsiasi livello di "01: La cappella fantasma". 15 volte!
 9357	Supera un qualsiasi livello di "01: La cappella fantasma". 20 volte!
-9358	Supera un qualsiasi livello di "02: ??? 13". 3 volte!
-9359	Supera un qualsiasi livello di "02: ??? 13". 5 volte!
-9360	Supera il livello di continuazione dei livelli "02: ??? 13". 1 volte!
-9361	Supera un qualsiasi livello di "03: Villaggio ululante". 3 volte!
-9362	Supera un qualsiasi livello di "03: Villaggio ululante". 5 volte!
-9363	Supera un qualsiasi livello di "03: Villaggio ululante". 10 volte!
+9358	Supera un qualsiasi livello di "03: ??? 13". 3 volte!
+9359	Supera un qualsiasi livello di "03: ??? 13". 5 volte!
+9360	Supera il livello di continuazione dei livelli "03: ??? 13". 1 volte!
+9361	Supera un qualsiasi livello di "04: Villaggio ululante". 3 volte!
+9362	Supera un qualsiasi livello di "04: Villaggio ululante". 5 volte!
+9363	Supera un qualsiasi livello di "04: Villaggio ululante". 10 volte!
 9364	Compiti per le vacanze Parte 1 ①: Studia gli insetti.  Ottieni 1 Gatto Kabuto dall'evento Gacha!
 9365	Compiti per le vacanze Parte 1 ②: Studia gli insetti.  Ottieni 1 Gatto Kuwagata dall'evento Gacha!
 9366	Compiti per le vacanze Parte 1 ③: Studia gli insetti.  Ottieni 1 Uovo antico N202 dall'evento Gacha!
@@ -751,3 +751,10 @@
 58	Supera 45 livelli "Selezione Behemoth" per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
 59	Supera tutti i Livelli Leggende misteriose di livello 2. per completare questa missione
 9424	Missioni del Festival Ciclone. Supera il livello "Il grande diablo"!
+9425	Ottieni un Uovo antico N203 dalle . capsule Sposa di giugno del diavolo!
+9426	Ottieni più di 8200 punti nel . livello 1 di 02: Nozze da incubo!
+9427	Ottieni più di 7200 punti nel . livello 2 di 02: Nozze da incubo!
+9428	Ottieni più di 7100 punti nel . livello 3 di 02: Nozze da incubo!
+9429	Ottieni più di 6200 punti nel . livello 4 di 02: Nozze da incubo!
+9430	Ottieni più di 4500 punti nel . livello 5 di 02: Nozze da incubo!
+9431	Ottieni una pietra B. superando il punteggio . richiesto nei livelli 1-5 di 02: Nozze da incubo!

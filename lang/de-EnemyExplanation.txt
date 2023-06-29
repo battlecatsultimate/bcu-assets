@@ -645,3 +645,8 @@
 644	<br><br><br>
 645	<br><br><br>
 646	<br><br><br>
+647	<br><br><br>
+648	<br><br><br>
+649	Otter, der als Torwächter zum Himmel arbeitet.<br>Schickt alle, die des Himmels nicht wert sind,<br>mit seiner goldenen Kugel in die Unterwelt.<br>Beschwört Monster mit der Kraft von Zufallsangriffen.
+650	Der Vorfahre aller invasiven Arten.<br>Sollte eigentlich Schädlinge ausrotten, aber sein<br>unbändiger Appetit machte es schwer, ihn zu zähmen.<br>So wurde er zu einer Gefahr für seine Umgebung.
+651	<br><br><br>

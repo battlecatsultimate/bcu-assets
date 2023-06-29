@@ -696,12 +696,12 @@
 9355	Clear any "#01 The Ghost Chapel"
 9356	Clear any "#01 The Ghost Chapel"
 9357	Clear any "#01 The Ghost Chapel"
-9358	Clear any "#02 ??? the 13th"
-9359	Clear any "#02 ??? the 13th"
+9358	Clear any "#03 ??? the 13th"
+9359	Clear any "#03 ??? the 13th"
 9360	Clear the Continuation stage following
-9361	Clear any "#03 Yowling Village"
-9362	Clear any "#03 Yowling Village"
-9363	Clear any "#03 Yowling Village"
+9361	Clear any "#04 Yowling Village"
+9362	Clear any "#04 Yowling Village"
+9363	Clear any "#04 Yowling Village"
 9364	Summer Homework Part 1 ①: Study insect lifeforms.  Obtain 1 Kabuto Cat from the Event Capsules!
 9365	Summer Homework Part 1 ②: Study insect lifeforms.  Obtain 1 Kuwagata Cat from the Event Capsules!
 9366	Summer Homework Part 1 ③: Study insect lifeforms.  Obtain 1 Ancient Egg: N202 from the Event Capsules!
@@ -751,3 +751,10 @@
 58	Clear 45 Behemoth Culling Stages for the first time
 59	Clear all Level 2 Uncanny Legend stages. to complete this mission
 9424	Cyclone Festival Missions. Clear the "The Great Diablo" stage!
+9425	Earn one Ancient Egg: N203 from . the June Bride of the Devil capsules!
+9426	Score more than 8200 points on . stage 1 of #02 Banquet of Terror!
+9427	Score more than 7200 points on . stage 2 of #02 Banquet of Terror!
+9428	Score more than 7100 points on . stage 3 of #02 Banquet of Terror!
+9429	Score more than 6200 points on . stage 4 of #02 Banquet of Terror!
+9430	Score more than 4500 points on . stage 5 of #02 Banquet of Terror!
+9431	Earn one B. Stone from . clearing the score target on #02 Banquet of Terror stage 1-5!

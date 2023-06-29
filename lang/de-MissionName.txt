@@ -696,12 +696,12 @@
 9355	Schließe beliebige Level von „#01 Die Geisterkapelle“
 9356	Schließe beliebige Level von „#01 Die Geisterkapelle“
 9357	Schließe beliebige Level von „#01 Die Geisterkapelle“
-9358	Schließe beliebige Level von „#02 ??? der 13.“
-9359	Schließe beliebige Level von „#02 ??? der 13.“
+9358	Schließe beliebige Level von „#03 ??? der 13.“
+9359	Schließe beliebige Level von „#03 ??? der 13.“
 9360	Schließe das Folgelevel nach den
-9361	Schließe beliebige Level von „#03 Maunzerdorf“
-9362	Schließe beliebige Level von „#03 Maunzerdorf“
-9363	Schließe beliebige Level von „#03 Maunzerdorf“
+9361	Schließe beliebige Level von „#04 Maunzerdorf“
+9362	Schließe beliebige Level von „#04 Maunzerdorf“
+9363	Schließe beliebige Level von „#04 Maunzerdorf“
 9364	Sommerhausaufgaben Teil 1 ①: Erforsche Insekten. Erhalte 1 Kabutokatze aus dem Event-Gacha!
 9365	Sommerhausaufgaben Teil 1 ②: Erforsche Insekten. Erhalte 1 Kuwagatakatze aus dem Event-Gacha!
 9366	Sommerhausaufgaben Teil 1 ③: Erforsche Insekten. Erhalte 1 Uraltes Ei: N202 aus dem Event-Gacha!
@@ -751,3 +751,10 @@
 58	Schließe 45 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
 59	Schließe alle „Unh. Legenden“-Level der Stufe 2 ab,. um diese Mission abzuschließen
 9424	Zyklonfest-Missionen. Schließe das Level „Der große Diablo“ ab!
+9425	Verdiene ein Uraltes Ei: N203 aus den. „Juni-Braut des Teufels“-Kapseln!
+9426	Erreiche mehr als 8200 Punkte bei. #02 Die Hochzeit der Angst, Level 1!
+9427	Erreiche mehr als 7200 Punkte bei. #02 Die Hochzeit der Angst, Level 2!
+9428	Erreiche mehr als 7100 Punkte bei. #02 Die Hochzeit der Angst, Level 3!
+9429	Erreiche mehr als 6200 Punkte bei. #02 Die Hochzeit der Angst, Level 4!
+9430	Erreiche mehr als 4500 Punkte bei. #02 Die Hochzeit der Angst, Level 5!
+9431	Verdiene einen Behemoth-Stein, indem du die Punkte-. vorgabe bei #02 Die Hochzeit der Angst, Levels 1–5 erfüllst!

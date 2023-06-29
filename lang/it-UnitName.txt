@@ -121,7 +121,7 @@
 120	Healer	Healer CC	Healer Cat CC
 121	Merc	Merc CC	Merc & Cat CC
 122	Regina Vacanziera	Gatta segretaria	Gatta centralino
-123	Gatti baccelli	Gatti reggifratè	
+123	Gatti baccelli	Gatti reggifratè	Gatti Val Val
 124	Date Masamune	Masamune Dio della guerra	Masamune Immortale
 125	Takeda Shingen	Shingen Dio della guerra	Shingen Immortale
 126	Gatto a molla	Gatto burattinaio	Burattinaio e Charley
@@ -407,11 +407,11 @@
 406	Rei Cat	Ayanami Cat (TBC)	
 407	Asuka Cat	Apron Asuka	
 408	Mari Cat	Special Ops Mari	
-409	Rei Ayanami	Plug Suit Rei	
+409	Rei Ayanami	Plug Suit Rei	Reunion Li'l Rei
 410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka
 411	Mari Illustrious	Plug Suit Mari	
 412	Eva Unit-00	Eva Unit-00 & Cat	
-413	Eva Unit-01	Eva Unit-01 & Cat	
+413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-00 & Cat
 414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777
 415	Shinji Cat	Toji & Kensuke Cats	
 416	Moon Operators	NERV Moon	
@@ -486,7 +486,7 @@
 485			
 486			
 487	Eva Unit-08	Eva Unit-08 & Cat	
-488	AAA Wunder	NNN Wunder	
+488	AAA Wunder	NNN Wunder	Vanished NNN Wunder
 489	Misato Katsuragi	Captain Misato	
 490	Ritsuko Akagi	First Officer Ritsuko	
 491	Rei Ayanami (???)	Awakened Ayanami	
@@ -619,7 +619,7 @@
 618	Shiro Amakusa	Amakusa Dio della guerra	Amakusa immortale
 619	Lilin	Lilin π	Lilin π Divina
 620	Hevijak il malvagio	Re Hevijak malvagio	Hevijak Dio-Imperatore
-621	Ricercatore di Aku	Ricercatore di Aku malvagio	
+621	Ricercatore di Aku	Ricercatore di Aku malvagio	Gatto ricercatore
 622	Jagando jr.	Jagando jr. Sig. della Rovina	
 623	Gatto pifferaio	Gatto Komuso	
 624	Kunio-kun	Dodgeball Kunio-kun	
@@ -631,7 +631,7 @@
 630	Gatto calligrafo	Gatto maestro del tè	
 631	Yamii	Yaminoir	Yaminora
 632	Deth-Troy-R possente	Mech da assedio Diabolosa	Diabolosa obliterante
-633	Passero Shitakiri	Acchiappafantasmi	
+633	Passero Shitakiri	Acchiappafantasmi	Gran Acchiappafantasmi
 634	Cavaliere bianco ciclope	Cavaliere nero ciclope	
 635			
 636	Gatto Panzer plagiato	Gatto muro plagiato	
@@ -707,3 +707,8 @@
 706	Uovo antico N108	Uovo verde acqua N108	Gatto sapone
 707	Uovo antico N109	Uovo oscuro N109	Gatto barile
 708	Gatto jetpack	Gatto Kinjirou	
+709	One-Eyed Asuka	Blue-Eyed Asuka	
+710	Eva Unit-13	Eva Unit-13 & Cat	
+711	Balaluga fidanzato	Pasalan fidanzato	
+712	Kaoluga	Kaoluga Pasalan	
+713	Uovo antico N203	Uovo viola N203	Gatto clown

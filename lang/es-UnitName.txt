@@ -121,7 +121,7 @@
 120	Healer	Healer CC	Healer Cat CC
 121	Merc	Merc CC	Merc & Cat CC
 122	Diva Vacacional	Gata Oficinista	Gata de Atención al Cliente
-123	Dúo Vaina	Gatos Sostén	
+123	Dúo Vaina	Gatos Sostén	Gatos Val Val
 124	Date Masamune	Dios de la Guerra Masamune	Masamune Inmortal
 125	Takeda Shingen	Dios de la Guerra Shingen	Shingen Inmortal
 126	Gato Relojero	Gato Titiritero	Titiritero y Charley
@@ -407,11 +407,11 @@
 406	Rei Cat	Ayanami Cat (TBC)	
 407	Asuka Cat	Apron Asuka	
 408	Mari Cat	Special Ops Mari	
-409	Rei Ayanami	Plug Suit Rei	
+409	Rei Ayanami	Plug Suit Rei	Reunion Li'l Rei
 410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka
 411	Mari Illustrious	Plug Suit Mari	
 412	Eva Unit-00	Eva Unit-00 & Cat	
-413	Eva Unit-01	Eva Unit-01 & Cat	
+413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-00 & Cat
 414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777
 415	Shinji Cat	Toji & Kensuke Cats	
 416	Moon Operators	NERV Moon	
@@ -486,7 +486,7 @@
 485			
 486			
 487	Eva Unit-08	Eva Unit-08 & Cat	
-488	AAA Wunder	NNN Wunder	
+488	AAA Wunder	NNN Wunder	Vanished NNN Wunder
 489	Misato Katsuragi	Captain Misato	
 490	Ritsuko Akagi	First Officer Ritsuko	
 491	Rei Ayanami (???)	Awakened Ayanami	
@@ -520,7 +520,7 @@
 519	Lasvoss	Lasvoss Definitivo	Lasvoss Renacido
 520	Ebisu de Buena Suerte	Ebisu de Mala Suerte	
 521	Gato Medusa	Gato Medusa con Coletas	Gato Naga
-522	Gata Endemoniada	Gata Medallista	Gata Endemoniada
+522	Gata Ninfa	Gata Medallista	Gata Endemoniada
 523	Gato Wushu	Gato Cinturón Negro	Gato Shigong
 524			
 525	Kintaro	Robotropa de Kinrangers	Supertropa de Kinrangers
@@ -619,7 +619,7 @@
 618	Amakusa Shiro	Dios de la Guerra Amakusa	Amakusa Inmortal
 619	Lilin	Lilin π	Lilin Divina
 620	Hevijak el Maligno	Hevijak el Rey Maligno	Hevijak, Dios Emperador
-621	Investigador Aku	Investigador Aku Malvado	
+621	Investigador Aku	Investigador Aku Malvado	Investigator
 622	Majado Jr.	Señor de la Ruina Majado Jr.	
 623	Gato de Hamelín	Gato Komuso	
 624	Kunio-kun	Dodgeball Kunio-kun	
@@ -631,7 +631,7 @@
 630	Gato Calígrafo	Gato Maestro del Té	
 631	Yamii	Yaminoir	Yaminora
 632	Dez-Troyer-R Brutal	Diabolosa Cruzaasedios	Diabolosa Destructora
-633	Gorrión Cazatesoros	Cazadores Chunchun	
+633	Gorrión Cazatesoros	Cazadores Chunchun	Grandes Cazadores Chunchun
 634	Cíclope Caballero Blanco	Cíclope Caballero Negro	
 635			
 636	Gato Defensor Adoctrinado	Gato Muro Adoctrinado	
@@ -707,3 +707,8 @@
 706	Huevo Antiguo N108	Huevo Verde N108	Jabogato
 707	Huevo Antiguo N109	Huevo Negro N109	Gato Barril
 708	Gato Propulsor	Gato Kinjirou	
+709	One-Eyed Asuka	Blue-Eyed Asuka	
+710	Eva Unit-13	Eva Unit-13 & Cat	
+711	Balaluga prometida	Pasalan prometida	
+712	Kaoluga	Kaoluga Pasalan	
+713	Huevo Antiguo N203	Huevo morado N203	Gato Payaso
