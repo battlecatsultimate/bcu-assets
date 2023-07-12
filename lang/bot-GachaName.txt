@@ -64,6 +64,7 @@ E20	Summer Break Capsules
 E21	10th Anniversary Memorial Capsules
 E22	New Moon Capsules
 E23	Love Letter Capsules
+E24	June Bride of Devil Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
