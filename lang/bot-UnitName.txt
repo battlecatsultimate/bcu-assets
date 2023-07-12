@@ -65,7 +65,7 @@
 064
 065
 066
-067
+067	Chibigau	Chibigaugau	Crystal Chibigau
 068
 069
 070	Salaryman Cat	Grudge Cat	Ritual Cat
@@ -632,7 +632,7 @@
 631	Yamii	Yaminoir	Yaminora
 632	Mighty Deth-Troy-R	Siege Walker Diabolosa	Obliterator Diabolosa
 633	Shitakiri Sparrow	Chunchun Haunters	Grand Chunchun Haunters
-634	White Knight Cyclops	Black Knight Kyklops	
+634	White Knight Cyclops	Black Knight Kyklops	Demon Knight Kyclops
 635	Million Dollar Cat	Hundred-Million Dollar Cat
 636	Brainwashed Tank Cat	Brainwashed Wall Cat
 637	Xiaoqiong and Cat	Xiaoqiong and Cat CC
@@ -712,3 +712,8 @@
 711	Betrothed Balaluga	Betrothed Pasalan	
 712	Kaoluga	Kaoluga Pasalan	
 713	Ancient Egg: N203	Violet Egg: N203	Clown Cat
+714	Adventurer of Seaside Kanna	Diver of the Great Ocean Kanna
+715	Building Corps Sphinx	Assault Force Convoys
+716	Ancient Egg: N111	Mystic Egg: N111	Police Cat
+717	Ancient Egg: N110	Amber Egg: N110	Farmer Cat
+718	Corn Cat	Cone Cat
