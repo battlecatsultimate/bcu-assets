@@ -51,7 +51,7 @@
 -2023	熱血運動會	//Kunio 620
 -2024	快打旋風V 冠軍版 BLUE TEAM	//SF Blue 763
 -2025	快打旋風V 冠軍版 RED TEAM	//SF Red 764
--2026 福音戰士 2nd
+-2026	福音戰士 2nd
 E13	聖魔大戰	//Bikkuri
 E14	貓咪的暑假	//Summer Break Cats
 E17	春節活動轉蛋（日文版）	//Lunar New Year (JP)
