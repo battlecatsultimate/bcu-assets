@@ -411,7 +411,7 @@
 410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka
 411	Mari Illustrious	Plug Suit Mari	
 412	Eva Unit-00	Eva Unit-00 & Cat	
-413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-00 & Cat
+413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-01 & Cat
 414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777
 415	Shinji Cat	Toji & Kensuke Cats	
 416	Moon Operators	NERV Moon	
@@ -632,8 +632,8 @@
 631	Yamii	Yaminoir	Yaminora
 632	Mighty Deth-Troy-R	Siege Walker Diabolosa	Obliterator Diabolosa
 633	Shitakiri Sparrow	Chunchun Haunters	Grand Chunchun Haunters
-634	White Knight Cyclops	Black Knight Kyklops	
-635			
+634	White Knight Cyclops	Black Knight Kyklops	Demon Knight Kyklops
+635	Million-Dollar Cat	Hundred-Million-Dollar Cat	
 636	Brainwashed Tank Cat	Brainwashed Wall Cat	
 637			
 638			
@@ -712,3 +712,8 @@
 711	Betrothed Balaluga	Betrothed Pasalan	
 712	Kaoluga	Kaoluga Pasalan	
 713	Ancient Egg: N203	Violet Egg: N203	Clown Cat
+714	Coastal Explorer Kanna	Deep-Diver Kanna	Great Deep-Diver Kanna
+715	Mighty Sphinx Korps	Attack Battalion Convoys	
+716	Ancient Egg: N111	Mystic Egg: N111	Cop Cat
+717	Ancient Egg: N110	Amber Egg: N110	Farmboy Cat
+718	Maize Cat	Cone Cat	

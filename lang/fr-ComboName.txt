@@ -222,3 +222,4 @@
 340	Elohim, Essaim
 341	Flammes malfaisantes
 342	Attrape-revenants
+343	Chevalerie bafouée

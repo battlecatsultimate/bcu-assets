@@ -1311,6 +1311,27 @@
 001-280-001	Bases d’archéologie 401 : méthodes
 001-280-002	Bases d’archéologie 401 : résultats
 001-280-003	Bases d’archéologie 401 : analyse
+001-282		Q1. Quiz Qu’y a-t-il dans la boîte ?
+001-282-000	Trois Chats cachés
+001-282-001	Ouvre la boîte mystère
+001-282-002	Chat N° 1 : édition limitée ?
+001-282-003	Avec gratitude
+001-282-004	On fête... quoi ?
+001-282-005	Chat N° 2 : féline fortune ?
+001-282-006	Reconnaissance quotidienne
+001-282-007	Gras et heureux
+001-282-008	Porte-bonheur !
+001-282-009	Chat N° 3 : mystérieux miaou ?
+001-282-010	Danse entre planètes
+001-282-011	Tranche les aliens !
+001-283		Q5. Quiz Temps et chance
+001-283-000	Crois en ta chance
+001-283-001	La porte est scellée
+001-283-002	Derrière la porte
+001-283-003	Paradis ou enfer
+001-283-004	Les mains du destin
+001-284		Cadeaux d’anniv
+001-284-000	9 ans de rigolade !
 001-285		Top 5 des ennemis les plus vus de 2021 !
 001-285-000	Je glisse n° 5
 001-285-001	Je rougis n° 4
@@ -1389,7 +1410,7 @@
 001-308-002	Cottage dilapidé
 001-308-003	Braises mourantes
 001-308-004	Tous bien rentrés
-001-309		#03 Village miaulant
+001-309		#04 Village miaulant
 001-309-000	Lune de miel au village caché
 001-309-001	Aucune réception
 001-309-002	Portrait post-mortem
@@ -1504,6 +1525,21 @@
 001-343-002	Toast de l'oncle cinglé
 001-343-003	Tronçonneuse sur pièce montée
 001-343-004	Bouquet lancé dans le noir
+001-344		Devoirs de fin d'été
+001-344-000	8/29 Carnet, perceuses, tirage papier
+001-344-001	8/30 Rapport écrit, études, album photo
+001-344-002	8/31 Fuite
+001-345		Affliction forestière III
+001-345-000	Poisson à mortelle mâchoire
+001-346		Étrangeté du désert III
+001-346-000	Explosion énervée
+001-347		Péril dans le volcan III
+001-347-000	Chambrage en fête
+001-348		Creux du garde-marais Sanzu
+001-348-000	Roi fantôme I (mortel)
+001-348-001	Roi fantôme II (sans répit)
+001-348-002	Roi fantôme III (sans répit)
+001-348-003	Roi fantôme (brutal)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2929,6 +2965,14 @@
 004-046-000	Nature au berceau (mortel)
 004-046-001	Nature au sommet (sans répit)
 004-046-002	Nature frontière (sans répit)
+004-047		Q5. Quiz Temps et chance
+004-047-000	La porte s'ouvre...
+004-047-001	La porte s'ouvre...
+004-047-002	La porte s'ouvre...
+004-047-003	La porte s'ouvre...
+004-047-004	La porte s'ouvre...
+004-048		Q5. Quiz Temps et chance
+004-048-000	La porte s'ouvre...
 004-049		Attaque de l'Archange divin
 004-049-000	Nature au berceau (mortel)
 004-049-001	Nature au sommet (sans répit)
@@ -3178,6 +3222,8 @@
 011-021-000	Épreuve de l’ombre
 011-022		Honorables lègendes
 011-022-000	Épreuve du phénix
+011-023		Arène de l'honneur
+011-023-000	9 ans et toutes mes dents
 
 012			Challenge Mode
 012-000		Bataille défi
@@ -4930,6 +4976,9 @@
 031-000-014	Zone jungle torrentielle 15
 031-000-015	Zone jungle torrentielle 16
 031-000-016	Zone bois primitifs 17
+031-000-017	Zone bois primitifs 18
+031-000-018	Zone bois primitifs 19
+031-000-019	???
 031-001		Désert d'Ashvini
 031-001-000	Zone rocailleuse 1
 031-001-001	Zone rocailleuse 2
@@ -4948,6 +4997,9 @@
 031-001-014	Zone sable torride 15
 031-001-015	Zone sable torride 16
 031-001-016	Zone tempête de sable 17
+031-001-017	Zone tempête de sable 18
+031-001-018	Zone tempête de sable 19
+031-001-019	???
 031-002		Volcan de Jinfore
 031-002-000	Zone de tunnel de lave 1
 031-002-001	Zone de tunnel de lave 2
@@ -4966,6 +5018,9 @@
 031-002-014	Zone cratère infernal 15
 031-002-015	Zone cratère infernal 16
 031-002-016	Zone caverne volcanique 17
+031-002-017	Zone caverne volcanique 18
+031-002-018	Zone caverne volcanique 19
+031-002-019	???
 
 033			Abysse infini
 033-000		Abysse infini
@@ -5105,3 +5160,12 @@
 034-003-001	Malchance chez l'habitant
 034-003-002	Pêche à l'IA
 034-003-003	Apprentissage sacrificiel
+034-004		Zone nouveau monde : Ehen
+034-004-000	Courant intéressant
+034-004-001	Tigres bannis
+034-004-002	Île du Kiétudonk
+034-004-003	Canal Can-Can
+034-004-004	Quelqueflot
+034-004-005	Route Ohno
+034-004-006	Centre-ville So-So
+034-004-007	Tout un tintouin

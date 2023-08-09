@@ -155,6 +155,7 @@
 159	5.000 XP
 160|S160|I515	Aku-Katzenfruchtkern
 161|S161|I516	Aku-Katzenfrucht
+163|S163|I416	Überraschungsschachtel
 164|S164|I517	Goldener Katzenfruchtkern
 166|S166|I418	Liebesbrief
 167|S167|I518	Lila B.-Stein
@@ -185,6 +186,8 @@
 193|S193|I624	Tierknochen Z
 194|S194|I625	Ammonit Z
 195|S195|I424	Weihwasser
+196|S196|I425	Legendennetze
+197	1.000.000 XP
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -247,6 +250,7 @@
 1063	Killer-Panzer-Katze
 1064	Uraltes Ei: N005
 1065	Jetpack-Katze
+1066	Maiskatze
 1100	Bronzekatze
 1101	Weltraumkatze
 1102	Seilhüpfkatze
@@ -528,7 +532,7 @@
 15402	Gigavolta
 15410	Reunion Li'l Rei
 15411	Eyepatch Li'l Asuka
-15414	Determined Unit-00 & Cat
+15414	Determined Unit-01 & Cat
 15415	Unit-02, Code 777
 15418	Subterra-Späher
 15428	Katzenquesthelden
@@ -582,6 +586,7 @@
 15632	Yaminora
 15633	Auslöscher Diabolosa
 15634	Große Chunchun-Spuker
+15635	Dämonenritter-Zyklop
 15643	Allmächtiger Luzifer
 15645	Minzliebe Mekako
 15657	Haniwa-Katze
@@ -601,6 +606,8 @@
 15707	Seifenkatze
 15708	Fass-Katze
 15714	Clownkatze
+15717	Polizistenkatze
+15718	Bauernjungenkatze
 16131	Erwachte Ururun
 16173	Schulbus-Nyandam
 16269	Erwachte Mina

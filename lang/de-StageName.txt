@@ -1310,6 +1310,27 @@
 001-280-001	Archäologie f. Koryphäen: Methoden
 001-280-002	Archäologie f. Koryphäen: Ergebnisse
 001-280-003	Archäologie f. Koryphäen: Analyse
+001-282		F1. „Was ist in der Schachtel?“-Quiz
+001-282-000	Drei versteckte Katzen
+001-282-001	Öffne die Überraschungsschachtel
+001-282-002	Katze #1: Limitierte Ausgabe?
+001-282-003	In Dankbarkeit
+001-282-004	Zur Erinnerung ... woran?
+001-282-005	Katze #2: Glückskatze?
+001-282-006	Jeden Tag dankbar
+001-282-007	Dick und glücklich
+001-282-008	Glücksbringer!
+001-282-009	Katze #3: Mysteriöses Miau?
+001-282-010	Tanz zwischen Planeten
+001-282-011	Schneide durch Aliens!
+001-283		F5. „Glückssache“-Quiz
+001-283-000	Vertrau auf dein Glück
+001-283-001	Die Tür ist versiegelt
+001-283-002	Hinter der Tür
+001-283-003	Himmel oder Hölle
+001-283-004	In den Händen des Schicksals
+001-284		Geburtstagsgeschenke
+001-284-000	9 Jahre Spaß!
 001-285		Die 5 häufigsten Feinde 2021
 001-285-000	#5 Schlittern
 001-285-001	#4 Wegfegen
@@ -1388,7 +1409,7 @@
 001-308-002	Verfallenes Häuschen
 001-308-003	Verglimmende Glut
 001-308-004	Alle sicher zu Hause
-001-309		#03 Maunzerdorf
+001-309		#04 Maunzerdorf
 001-309-000	Flitterwochen im versteckten Dorf
 001-309-001	Kein Empfang geplant
 001-309-002	Postmortem-Porträt
@@ -1503,6 +1524,21 @@
 001-343-002	Toast des verrückten Onkels
 001-343-003	Kettensäge für Hochzeitstorte
 001-343-004	Blumenstraußwurf im Dunkeln
+001-344		Hausaufgaben zum Sommerende
+001-344-000	29. 8. Tagebuch, Übungen und ein Ausdruck
+001-344-001	30. 8. Buchbesprechung, Eigenstudium und Bildertagebuch
+001-344-002	31. 8. Flucht
+001-345		Heimsuchung im Wald III
+001-345-000	Scharfzahn-Todesfisch
+001-346		Kuriosität in der Wüste III
+001-346-000	Wütende Explosion
+001-347		Gefahr im Vulkan III
+001-347-000	Verfluchte Flammenparty
+001-348		Niedergang des Sanzu-Sumpfwächters
+001-348-000	Geisterkönig I (Tödlich)
+001-348-001	Geisterkönig II (Gnadenlos)
+001-348-002	Geisterkönig III (Gnadenlos)
+001-348-003	Geisterkönig (Brutal)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2928,6 +2964,14 @@
 004-046-000	Hortwildnis (Tödlich)
 004-046-001	Gipfelwildnis (Gnadenlos)
 004-046-002	Grenzwildnis (Gnadenlos)
+004-047		F5. „Glückssache“-Quiz
+004-047-000	Die Tür öffnet sich ...
+004-047-001	Die Tür öffnet sich ...
+004-047-002	Die Tür öffnet sich ...
+004-047-003	Die Tür öffnet sich ...
+004-047-004	Die Tür öffnet sich ...
+004-048		F5. „Glückssache“-Quiz
+004-048-000	Die Tür öffnet sich ...
 004-049		Der göttliche Erzengel schlägt zu
 004-049-000	Hortwildnis (Tödlich)
 004-049-001	Gipfelwildnis (Gnadenlos)
@@ -3177,6 +3221,8 @@
 011-021-000	Schattenprüfung
 011-022		Geschichten der Ehre
 011-022-000	Phönixprüfung
+011-023		Arena of Honor
+011-023-000	Freuen mit 9
 
 012			Challenge Mode
 012-000		Herausforderungskampf
@@ -4867,6 +4913,9 @@
 031-000-014	Verregnetes Dschungelgebiet 15
 031-000-015	Verregnetes Dschungelgebiet 16
 031-000-016	Urtümliches Waldgebiet 17
+031-000-017	Urtümliches Waldgebiet 18
+031-000-018	Urtümliches Waldgebiet 19
+031-000-019	???
 031-001		Ashvini-Wüste
 031-001-000	Einöde 1
 031-001-001	Einöde 2
@@ -4884,6 +4933,10 @@
 031-001-013	Sengendes Sandgebiet 14
 031-001-014	Sengendes Sandgebiet 15
 031-001-015	Sengendes Sandgebiet 16
+031-001-016	Sandsturmgebiet 17
+031-001-017	Sandsturmgebiet 18
+031-001-018	Sandsturmgebiet 19
+031-001-019	???
 031-001-016	Sandsturmgebiet 17
 031-002		Jinfore-Vulkan
 031-002-000	Magmatunnel 1
@@ -4903,6 +4956,9 @@
 031-002-014	Höllenkratergebiet 15
 031-002-015	Höllenkratergebiet 16
 031-002-016	Ausbrechendes Höhlengebiet 17
+031-002-017	Ausbrechendes Höhlengebiet 18
+031-002-018	Ausbrechendes Höhlengebiet 19
+031-002-019	???
 
 033			Die Große Tiefe
 033-000		Die Große Tiefe
@@ -5042,3 +5098,12 @@
 034-003-001	Glücklose Privatunterkunft
 034-003-002	KI-Fischen
 034-003-003	Opferlehre
+034-004		Neue-Welt-Gebiet: Ehen
+034-004-000	Interessanter Zufluss
+034-004-001	Tigerbann
+034-004-002	Werbistndu-Insel
+034-004-003	Can-Can-Kanal
+034-004-004	Was zur Wasserstraße
+034-004-005	Auweia-Weg
+034-004-006	So-la-la-Stadtzentrum
+034-004-007	Jede Menge Irgendwas

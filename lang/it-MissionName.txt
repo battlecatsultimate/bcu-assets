@@ -653,6 +653,26 @@
 43	Chiamata alle armi dell'imperatrice! Supera Liberare i Gatti (I cancelli si aprono...)
 44	Supera "I regni Aku". Completa superando tutti i livelli di I regni Aku
 45	Supera "I regni Aku". Completa superando tutti i livelli di I regni Aku
+9283	【D1. Cosa c'è nella scatola?】 Indovina unità nascosta. della capsula ev.! Sugg.: medaglia piena di ringraziamenti
+9284	【D1. Cosa c'è nella scatola?】 Indovina unità nascosta. della capsula ev.! Sugg.: un Gatto che porta fortuna
+9285	【D1. Cosa c'è nella scatola?】 Indovina unità nascosta. della capsula ev.! Sugg.: un ninja che sfreccia tra pianeti
+9288	【D2. Luoghi】 Quale paese è famoso per il sushi?. Supera questo livello in Impero dei Gatti per rispondere!
+9289	【D2. Luoghi】Qual è il deserto più famoso dell'Africa?. Supera questo livello in Impero dei Gatti per rispondere!
+9290	【D2. Luoghi】 Dov'è nato Salvador Dalí?. Supera questo livello in Impero dei Gatti per rispondere!
+9291	【D2. Luoghi】 Dov'è il triangolo dove spariscono gli aerei?. Supera questo livello in Impero dei Gatti per rispondere!
+9292	【D2. Luoghi】 Qual è lo stato più grande dell'America?. Supera questo livello in Impero dei Gatti per rispondere!
+9293	【D2. Luoghi】 Viaggia attorno al mondo. e rispondi a tutte le 5 domande del quiz! ()
+9294	【D3. Base felina】. Rispondi a tutte le domande che il Gatto ha per te!
+9295	【D4. Selezione】 Quale nemico entra all'università. ogni anno? Sconfiggilo in Impero dei Gatti per rispondere!
+9296	【D4. Selezione】 Quale nemico va a scuola di recitazione?. Sconfiggi questo nemico in Impero dei Gatti per rispondere!
+9297	【D4. Selezione】 Quale nemico colleziona riviste?. Sconfiggi questo nemico in Impero dei Gatti per rispondere!
+9298	【D4. Selezione】 Quale nemico lavora dai pompieri?. Sconfiggi questo nemico in Impero dei Gatti per rispondere!
+9299	【D4. Selezione】 Quale nemico ha trovato una testona?. Sconfiggi questo nemico in Impero dei Gatti per rispondere!
+9300	【D4. Selezione】 Viaggia attorno al mondo. e rispondi a tutte le 5 domande del quiz! ()
+9301	【D5. Tempo e fortuna】 Supera il livello, porta fortuna e. apri la porta! Supera 1 livelli Paradiso! ()
+9302	【D5. Tempo e fortuna】 Supera il livello, porta fortuna e. apri la porta! Supera 2 livelli Paradiso! ()
+9303	【D5. Tempo e fortuna】 Supera il livello, porta fortuna e. apri la porta! Supera 3 livelli Paradiso! ()
+46	Missione del nono anniversario. Supera Impero dei Gatti Cap. 1 durante questo evento!
 9305	Supera il 30° piano della Torre infernale. * Puoi ricevere la ricompensa solo una volta
 47	Resoconto dell'imperatrice: Ricerca di Aku. Resoconto dell'imperatrice 1: supera 5 liv. 5 volte.
 9321	【Invasione】Supera il livello "Clionel Ascendente". 1 volte usando 7 o più Gatti speciali
@@ -758,3 +778,7 @@
 9429	Ottieni più di 6200 punti nel . livello 4 di 02: Nozze da incubo!
 9430	Ottieni più di 4500 punti nel . livello 5 di 02: Nozze da incubo!
 9431	Ottieni una pietra B. superando il punteggio . richiesto nei livelli 1-5 di 02: Nozze da incubo!
+9432	【D1. Cosa c'è nella scatola?】 Ottieni tutte le unità. misteriose dalle capsule evento! ()
+9433	【Super Quiz】 Supera le missioni D1~5 e riscatta. un premio del valore di 1 milione di $ (secondo Gatto CPU)!
+60	Supera 50 livelli "Selezione Behemoth" per la prima volta! (Controlla la validità nei dettagli missioni)
+61	Supera 55 livelli "Selezione Behemoth" per la prima volta! (Controlla la validità nei dettagli missioni)

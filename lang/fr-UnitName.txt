@@ -411,7 +411,7 @@
 410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka
 411	Mari Illustrious	Plug Suit Mari	
 412	Eva Unit-00	Eva Unit-00 & Cat	
-413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-00 & Cat
+413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-01 & Cat
 414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777
 415	Shinji Cat	Toji & Kensuke Cats	
 416	Moon Operators	NERV Moon	
@@ -632,8 +632,8 @@
 631	Yamii	Yaminoir	Yaminora
 632	Puissant Dess-truk-teur	Diabolosa brise-siège	Diabolosa oblitératrice
 633	Moineau shitakiri	Chasseurs Chunchun	Grands chasseurs d’esprits
-634	Cyclope chevalier blanc	Cyclope chevalier noir	
-635			
+634	Cyclope chevalier blanc	Cyclope chevalier noir	Démon chevalier noir
+635	Chat 1 million de dollars	Chat 100 millions de dollars	
 636	Chat tank sous contrôle	Chat mur sous contrôle	
 637			
 638			
@@ -712,3 +712,8 @@
 711	Balaluga fiancé	Pasalan fiancé	
 712	Kaoluga	Kaoluga Pasalan	
 713	Œuf ancien N203	Œuf violet N203	Chat clown
+714	Kanna l’exploratrice côtière	Kanna plongeuse sous-marine	
+715	Puissant corps sphinx	Convois offensifs	
+716	Œuf ancien N111	Œuf mystique N111	Chagent de police
+717	Œuf ancien N110	Œuf ambré N110	Chagriculteur
+718	Chat mélasse	Chat cône	

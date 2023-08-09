@@ -632,7 +632,7 @@
 631	La forme ultime améliore fortement<br>l’attaque ! Bloque les vagues off. et<br>gagne immunité aux vagues offensives.
 632	La forme ultime améliore son attaque et<br>l'immunise vs les effets d'immobilisation !<br>
 633	La forme ultime améliore la déf., la puiss.<br>100 % de chances de mini-vague.<br>
-634	<br><br>
+634	Forme ultime : dégâts de zone massifs<br>contre Akus, immunité contre immobilisation<br>et peut percer les boucliers Akus !
 635	<br><br>
 636	<br><br>
 637	<br><br>
@@ -712,3 +712,8 @@
 711	<br><br>
 712	<br><br>
 713	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
+714	<br><br>
+715	<br><br>
+716	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
+717	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
+718	<br><br>

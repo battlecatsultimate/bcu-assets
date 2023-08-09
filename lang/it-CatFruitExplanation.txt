@@ -632,7 +632,7 @@
 631	Forma Reale ottiene maggiore attacco!<br>Blocca attacchi a ondata e<br>ottiene immunità da attacchi a ondata!
 632	Forma Reale ha maggiore potenza d'attacco!<br>Immune all'effetto Immobilità dei nemici!<br>
 633	La Forma Reale ottiene maggiori potenza<br>Probabilità del 100% di mini-ondata.<br>
-634	<br><br>
+634	La Forma Reale ottiene danni ad area<br>enormi vs Aku, immunità da immobilità e<br>può perforare gli scudi Aku!
 635	<br><br>
 636	<br><br>
 637	<br><br>
@@ -712,3 +712,8 @@
 711	<br><br>
 712	<br><br>
 713	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+714	<br><br>
+715	<br><br>
+716	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+717	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+718	<br><br>

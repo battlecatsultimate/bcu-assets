@@ -1315,6 +1315,27 @@
 001-280-001	Archeologia 401: metodi
 001-280-002	Archeologia 401: risultati
 001-280-003	Archeologia 401: analisi
+001-282		D1. Quiz Cosa c'è nella scatola?!
+001-282-000	Tre gatti nascosti
+001-282-001	Apri la scatola misteriosa
+001-282-002	Gatto n. 1: edizione limitata?
+001-282-003	Con riconoscenza
+001-282-004	In onore... di cosa?
+001-282-005	Gatto n. 2: felino fortunato?
+001-282-006	Colmi di gratitudine
+001-282-007	Come un babà
+001-282-008	Portafortuna!
+001-282-009	Gatto n. 3: miao misterioso?
+001-282-010	Ballando con i pianeti
+001-282-011	Alieni a fettine
+001-283		D5. Quiz Tempo e fortuna
+001-283-000	Fortuna cieca
+001-283-001	A porte chiuse
+001-283-002	Oltre il varco
+001-283-003	Cielo o inferno
+001-283-004	In mano al destino
+001-284		Regali compleanno
+001-284-000	9 anni di divertimento!
 001-285		I 5 nemici più visti del 2021!
 001-285-000	#5 scorrevole
 001-285-001	#4 da arrossire
@@ -1384,7 +1405,7 @@
 001-308-002	Casolare fatiscente
 001-308-003	Braci morenti
 001-308-004	Sani e salvi a casa
-001-309		03: Villaggio ululante
+001-309		04: Villaggio ululante
 001-309-000	Luna di miele al villaggio perduto
 001-309-001	Senza ricezione
 001-309-002	Ritratto post-mortem
@@ -1499,6 +1520,21 @@
 001-343-002	Brindisi dello zio pazzo
 001-343-003	Taglio della torta con motosega
 001-343-004	Lancio del bouquet al buio
+001-344		Compiti di fine estate
+001-344-000	29/8 Diario, esercitazioni e stampe
+001-344-001	30/8 Resoconto, studio e bozze
+001-344-002	31/8 Fuga
+001-345		Sofferenze nella foresta III
+001-345-000	Pesci del Mar Morto con denti affilati
+001-346		Stranezze nel deserto III
+001-346-000	Esplosione furiosa
+001-347		Pericoli nel vulcano III
+001-347-000	Festa infuocata maledetta
+001-348		Discesa del guardiano della palude Sanzu
+001-348-000	Re fantasma I (Letale)
+001-348-001	Re fantasma II (Spietato)
+001-348-002	Re fantasma III (Spietato)
+001-348-003	Re fantasma (Brutale)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2924,6 +2960,14 @@
 004-046-000	Culla selvaggia (Letale)
 004-046-001	Cima selvaggia (Spietato)
 004-046-002	Confine selvaggio (Spietato)
+004-047		D5. Quiz Tempo e fortuna
+004-047-000	La porta si apre...
+004-047-001	La porta si apre...
+004-047-002	La porta si apre...
+004-047-003	La porta si apre...
+004-047-004	La porta si apre...
+004-048		D5. Quiz Tempo e fortuna
+004-048-000	La porta si apre...
 004-049		Arcangelo divino colpisce
 004-049-000	Culla selvaggia (Letale)
 004-049-001	Cima selvaggia (Spietato)
@@ -3173,6 +3217,8 @@
 011-021-000	Prova dell'ombra
 011-022		Racconti dell'onore
 011-022-000	Prova della fenice
+011-023		Arena of Honor
+011-023-000	La gioia dei 9 anni
 
 012			Challenge Mode
 012-000		Battaglia sfida
@@ -4894,6 +4940,9 @@
 031-000-014	Zona della giungla amazzonica 15
 031-000-015	Zona della giungla amazzonica 16
 031-000-016	Zona del bosco primordiale 17
+031-000-017	Zona del bosco primordiale 18
+031-000-018	Zona del bosco primordiale 19
+031-000-019	???
 031-001		Deserto Ashvini
 031-001-000	Zona calanchiva 1
 031-001-001	Zona calanchiva 2
@@ -4912,6 +4961,9 @@
 031-001-014	Zona delle sabbie roventi 15
 031-001-015	Zona delle sabbie roventi 16
 031-001-016	Zona della tempesta di sabbia 17
+031-001-017	Zona della tempesta di sabbia 18
+031-001-018	Zona della tempesta di sabbia 19
+031-001-019	???
 031-002		Vulcano Jinfore
 031-002-000	Zona magmatica 1
 031-002-001	Zona magmatica 2
@@ -4930,6 +4982,9 @@
 031-002-014	Zona del cratere infernale 15
 031-002-015	Zona del cratere infernale 16
 031-002-016	Zona della caverna in eruzione 17
+031-002-017	Zona della caverna in eruzione 18
+031-002-018	Zona della caverna in eruzione 19
+031-002-019	???
 
 033			Grande profondità
 033-000		Grande profondità
@@ -5069,3 +5124,12 @@
 034-003-001	Famiglia sfortunata
 034-003-002	Pesca con l'IA
 034-003-003	Tirocinio del sacrificio
+034-004		Nuova area del mondo: Ehen
+034-004-000	Ingresso interessante
+034-004-001	Tigri all'arrembaggio
+034-004-002	Isola Chidiavolosei
+034-004-003	Can-Can Canale
+034-004-004	Ma che corso d'acqua
+034-004-005	Via Ohno
+034-004-006	Centro città Così Così
+034-004-007	Cava bella grande

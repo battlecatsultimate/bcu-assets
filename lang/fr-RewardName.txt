@@ -155,6 +155,7 @@
 159	5 000 XP
 160|S160|I515	Graine de Chagrume Aku
 161|S161|I516	Chagrume Aku
+163|S163|I416	boîte mystère
 164|S164|I517	Graine de Chagrume doré
 166|S166|I418	Lettre d'amour
 167|S167|I518	Pierre B. violette
@@ -185,6 +186,8 @@
 193|S193|I624	Os de bête Z
 194|S194|I625	Ammonite Z
 195|S195|I424	Eau bénite
+196|S196|I425	filets légendaires
+197	1 000 000 XP
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -247,6 +250,7 @@
 1063	Chat tank tueur
 1064	Œuf ancien N005
 1065	Chat à propulsion
+1066	Chat mélasse
 1100	Chat en bronze
 1101	Chastronaute
 1102	Chat corde à sauter
@@ -528,7 +532,7 @@
 15402	Gigavolta
 15410	Reunion Li'l Rei
 15411	Eyepatch Li'l Asuka
-15414	Determined Unit-00 & Cat
+15414	Determined Unit-01 & Cat
 15415	Unit-02, Code 777
 15418	Sentinelles souterraines
 15428	Héros de la quête des Chats
@@ -582,6 +586,7 @@
 15632	Yaminora
 15633	Diabolosa oblitératrice
 15634	Grands chasseurs d’esprits
+15635	Démon chevalier noir
 15643	Lucifer Tout-puissant
 15645	Mekako amour mentholé
 15657	Chat haniwa
@@ -601,6 +606,8 @@
 15707	Chat savonneur
 15708	Chat baril
 15714	Chat clown
+15717	Chagent de police
+15718	Chagriculteur
 16131	Ururun et Tama éveillés
 16173	Bus scolaire Nyandam
 16269	Mina éveillée

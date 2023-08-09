@@ -106,3 +106,4 @@
 105	Supera "Il regno del tiranno"
 106	Supera ogni livello 2 delle Leggende misteriose
 107	Supera la mappa sfida "Presagi"
+108	Supera "Invasione del signore della palude"

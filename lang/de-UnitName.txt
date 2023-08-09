@@ -411,7 +411,7 @@
 410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka
 411	Mari Illustrious	Plug Suit Mari	
 412	Eva Unit-00	Eva Unit-00 & Cat	
-413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-00 & Cat
+413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-01 & Cat
 414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777
 415	Shinji Cat	Toji & Kensuke Cats	
 416	Moon Operators	NERV Moon	
@@ -632,8 +632,8 @@
 631	Yamii	Yaminoir	Yaminora
 632	Mächtiger Zer-Nicht-R	Belagerungsläufer Diabolosa	Auslöscher Diabolosa
 633	Shitakari-Spatz	Chunchun-Spuker	Große Chunchun-Spuker
-634	Weißer-Ritter-Zyklop	Schwarzer-Ritter-Zyklop	
-635			
+634	Weißer-Ritter-Zyklop	Schwarzer-Ritter-Zyklop	Dämonenritter-Zyklop
+635	Millionen-Dollar-Katze	100-Millionen-Dollar-Katze	
 636	Beeinflusste Panzer-Katze	Beeinflusste Wallkatze	
 637			
 638			
@@ -712,3 +712,8 @@
 711	Verlobter Balaluga	Verlobter Pasalan	
 712	Kaoluga	Kaoluga Pasalan	
 713	Uraltes Ei: N203	Violettes Ei: N203	Clownkatze
+714	Küstenerkunderin Kanna	Tiefseetaucherin Kanna	
+715	Mächtiges Sphinxkorps	Angriffsbataillon-Konvois	
+716	Uraltes Ei: N111	Mystisches Ei: N111	Polizistenkatze
+717	Uraltes Ei: N110	Bernstein-Ei: N110	Bauernjungenkatze
+718	Maiskatze	Kegelkatze	

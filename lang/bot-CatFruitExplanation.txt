@@ -632,7 +632,7 @@
 631	True Form gains significantly increased<br>Attack! Blocks Wave Attacks and<br>gains immunity to Wave Attacks!
 632	True Form gains increased attack!<br>Also gains immunity to enemy Freeze effect!<br>
 633	True Form evolution gains improved Defense and<br>100% chance of Mini-Wave.<br>
-634	<br><br>
+634	True Form gains massive Area damage <br>to Aku, Immunity to Freeze effects, and<br>has a chance to Pierce Aku Shields!
 635	<br><br>
 636	<br><br>
 637	<br><br>
@@ -712,3 +712,8 @@
 711	<br><br>
 712	<br><br>
 713	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+714	<br><br>
+715	<br><br>
+716	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+717	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+718	<br><br>

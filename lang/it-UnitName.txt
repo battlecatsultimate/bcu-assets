@@ -411,7 +411,7 @@
 410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka
 411	Mari Illustrious	Plug Suit Mari	
 412	Eva Unit-00	Eva Unit-00 & Cat	
-413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-00 & Cat
+413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-01 & Cat
 414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777
 415	Shinji Cat	Toji & Kensuke Cats	
 416	Moon Operators	NERV Moon	
@@ -632,8 +632,8 @@
 631	Yamii	Yaminoir	Yaminora
 632	Deth-Troy-R possente	Mech da assedio Diabolosa	Diabolosa obliterante
 633	Passero Shitakiri	Acchiappafantasmi	Gran Acchiappafantasmi
-634	Cavaliere bianco ciclope	Cavaliere nero ciclope	
-635			
+634	Cavaliere bianco ciclope	Cavaliere nero ciclope	Cavaliere demone ciclope
+635	Gatto da un milione	Gatto da cento milioni	
 636	Gatto Panzer plagiato	Gatto muro plagiato	
 637			
 638			
@@ -712,3 +712,8 @@
 711	Balaluga fidanzato	Pasalan fidanzato	
 712	Kaoluga	Kaoluga Pasalan	
 713	Uovo antico N203	Uovo viola N203	Gatto clown
+714	Kanna Esploratrice costiera	Kanna subacquea	
+715	Costruttori egizi possenti	Convogli da battaglia	
+716	Uovo antico N111	Uovo mistico N111	Gatto sbirro
+717	Uovo antico N110	Uovo ambrato N110	Gatto contadino
+718	Gatturco	Gatto cono	

@@ -632,7 +632,7 @@
 631	Wahre-Form-Gewinne deutlich erhöht<br>Angreifen! Blockiert Wellenangriffe und<br>erhält Immunität gegen Wellenangriffe!
 632	Wahre Form erhöht Angriff!<br>Immun gegen feindlichen Einfrieren-Effekt!<br>
 633	Wahre-Form-Entwicklung erhöht<br>100-%-Chance auf Mini-Welle!<br>
-634	<br><br>
+634	Wahre Form gew. heftigen Flächenschaden<br>gegen Aku, Immunität gegen Einfrieren<br>und Chance, Aku-Schilde zu durchdringen!
 635	<br><br>
 636	<br><br>
 637	<br><br>
@@ -712,3 +712,8 @@
 711	<br><br>
 712	<br><br>
 713	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
+714	<br><br>
+715	<br><br>
+716	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
+717	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
+718	<br><br>

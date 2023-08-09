@@ -712,8 +712,8 @@
 711	Betrothed Balaluga	Betrothed Pasalan	
 712	Kaoluga	Kaoluga Pasalan	
 713	Ancient Egg: N203	Violet Egg: N203	Clown Cat
-714	Adventurer of Seaside Kanna	Diver of the Great Ocean Kanna
-715	Building Corps Sphinx	Assault Force Convoys
-716	Ancient Egg: N111	Mystic Egg: N111	Police Cat
-717	Ancient Egg: N110	Amber Egg: N110	Farmer Cat
-718	Corn Cat	Cone Cat
+714	Coastal Explorer Kanna	Deep-Diver Kanna	Great Deep-Diver Kanna
+715	Mighty Sphinx Korps	Attack Battalion Convoys	
+716	Ancient Egg: N111	Mystic Egg: N111	Cop Cat
+717	Ancient Egg: N110	Amber Egg: N110	Farmboy Cat
+718	Maize Cat	Cone Cat

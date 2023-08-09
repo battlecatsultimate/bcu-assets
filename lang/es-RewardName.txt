@@ -155,6 +155,7 @@
 159	5 000 XP
 160|S160|I515	Semilla felina de Aku
 161|S161|I516	Fruta felina de Aku
+163|S163|I416	caja misteriosa
 164|S164|I517	Semilla Felina Dorada
 166|S166|I418	Carta de amor
 167|S167|I518	Piedra M. morada
@@ -185,6 +186,8 @@
 193|S193|I624	Huesos Z
 194|S194|I625	Amonites Z
 195|S195|I424	Agua bendita
+196|S196|I425	redes legendarias
+197	1 000 000 XP
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -247,6 +250,7 @@
 1063	Gato Defensor Asesino
 1064	Huevo Antiguo N005
 1065	Gato Propulsor
+1066	Gato Maicero
 1100	Gato de Bronce
 1101	Gato Espacial
 1102	Gato con Comba
@@ -527,7 +531,7 @@
 15402	Gigavolta
 15410	Reunion Li'l Rei
 15411	Eyepatch Li'l Asuka
-15414	Determined Unit-00 & Cat
+15414	Determined Unit-01 & Cat
 15415	Unit-02, Code 777
 15418	Centinelas Subterráneos
 15428	Equipo Heroico Gatuno
@@ -581,6 +585,7 @@
 15632	Yaminora
 15633	Diabolosa Destructora
 15634	Grandes Cazadores Chunchun
+15635	Cíclope Caballero Demoníaco
 15643	Lucifer Todopoderoso
 15645	Mekako Amante Menta
 15657	Gato Haniwa
@@ -600,6 +605,8 @@
 15707	Jabogato
 15708	Gato Barril
 15714	Gato Payaso
+15717	Gato Policía
+15718	Gato Granjero
 16131	Ururun Alzado
 16173	Nyandam Bus Escolar
 16269	Mina Alzada

@@ -632,7 +632,7 @@
 631	La forma final gana mucho más Ataque.<br>Bloquea oleadas y<br>es inmune a las oleadas.
 632	La forma final tiene más ataque.<br>También es inmune a la paralización.<br>
 633	La forma final tiene una mayor defensa<br>Siempre lanza minioleadas.<br>
-634	<br><br>
+634	¡La forma final tiene gran daño de área<br>contra akus, inmunidad a paralización, y<br>posibilidad de atravesar escudos akus!
 635	<br><br>
 636	<br><br>
 637	<br><br>
@@ -712,3 +712,8 @@
 711	<br><br>
 712	<br><br>
 713	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
+714	<br><br>
+715	<br><br>
+716	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
+717	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
+718	<br><br>

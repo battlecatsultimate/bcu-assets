@@ -1314,6 +1314,27 @@
 001-280-001	Arqueología 401: Métodos
 001-280-002	Arqueología 401: Resultados
 001-280-003	Arqueología 401: Análisis
+001-282		P1. Concurso ¡¿Qué hay en la caja?!
+001-282-000	Tres gatos ocultos
+001-282-001	Abre la caja misteriosa
+001-282-002	Gato #1: ¿edición limitada?
+001-282-003	Con gratitud
+001-282-004	Para conmemorar... ¿qué?
+001-282-005	Gato #2: ¿el felino de la fortuna?
+001-282-006	Da gracias todos los días
+001-282-007	Gordo y feliz
+001-282-008	¡Amuleto de la Suerte!
+001-282-009	Gato #3: ¿el miau misterioso?
+001-282-010	Bailando entre planetas
+001-282-011	¡Desgarra álienes!
+001-283		P5. Concurso de tiempo y fortuna
+001-283-000	Confía en tu suerte
+001-283-001	La puerta está sellada
+001-283-002	Tras la puerta
+001-283-003	Cielo o infierno
+001-283-004	En manos del destino
+001-284		Regalos de Aniversario
+001-284-000	¡9 Años de Diversión!
 001-285		5 Más Recurrentes del 2021
 001-285-000	Deslizamiento 5
 001-285-001	Sonrojo 4
@@ -1392,7 +1413,7 @@
 001-308-002	Cabaña Ruinosa
 001-308-003	Ascuas
 001-308-004	Seguridad del Hogar
-001-309		#03 Aldea de Alaridos
+001-309		#04 Aldea de Alaridos
 001-309-000	Luna de Miel en la Aldea
 001-309-001	Sin Cobertura
 001-309-002	Retrato Post Mortem
@@ -1507,6 +1528,21 @@
 001-343-002	Brindis del majadero
 001-343-003	Aserrando la tarta de boda
 001-343-004	Lanzamiento de ramo a oscuras
+001-344		Deberes de Fin de Verano
+001-344-000	29/8 Diario de observación, perforadoras y una impresión
+001-344-001	30/8 Informe sobre un libro, estudios independientes y un diario ilustrado
+001-344-002	31/8 Huida
+001-345		Aflicción en el Bosque III
+001-345-000	Pez Mortal de Dientes Afilados
+001-346		Rarezas en el Desierto III
+001-346-000	Explosión Furiosa
+001-347		Peligro en el Volcán III
+001-347-000	Fiesta Llameante Maldita
+001-348		Descenso del Guardián del Pantano Sanzu
+001-348-000	Rey Fantasma I (Mortal)
+001-348-001	Rey Fantasma II (Inhumano)
+001-348-002	Rey Fantasma III (Inhumano)
+001-348-003	Rey Fantasma (Brutal)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2932,6 +2968,14 @@
 004-046-000	Naturaleza Base (Mortal)
 004-046-001	Naturaleza Cima (Inhumano)
 004-046-002	Naturaleza Frontera (Inhumano)
+004-047		P5. Concurso de tiempo y fortuna
+004-047-000	La puerta se abre...
+004-047-001	La puerta se abre...
+004-047-002	La puerta se abre...
+004-047-003	La puerta se abre...
+004-047-004	La puerta se abre...
+004-048		P5. Concurso de tiempo y fortuna
+004-048-000	La puerta se abre...
 004-049		Sr. Ángel Divino Ataca
 004-049-000	Naturaleza Base (Mortal)
 004-049-001	Naturaleza Cima (Inhumano)
@@ -3181,6 +3225,8 @@
 011-021-000	Prueba Sombría
 011-022		Historias Honoríficas
 011-022-000	Prueba del Fénix
+011-023		Arena of Honor
+011-023-000	Nueve de la suerte
 
 012			Challenge Mode
 012-000		Batalla de Desafío
@@ -4944,6 +4990,9 @@
 031-000-014	Zona de la Jungla Aguacero 15
 031-000-015	Zona de la Jungla Aguacero 16
 031-000-016	Zona del Bosque Primitivo 17
+031-000-017	Zona del Bosque Primitivo 18
+031-000-018	Zona del Bosque Primitivo 19
+031-000-019	???
 031-001		Desierto de Ashvini
 031-001-000	Zona Baldía 1
 031-001-001	Zona Baldía 2
@@ -4962,6 +5011,9 @@
 031-001-014	Zona de la Arena Ardiente 15
 031-001-015	Zona de la Arena Ardiente 16
 031-001-016	Zona de la Tormenta de Arena 17
+031-001-017	Zona de la Tormenta de Arena 18
+031-001-018	Zona de la Tormenta de Arena 19
+031-001-019	???
 031-002		Volcán Jinfore
 031-002-000	Zona del Túnel de Magma 1
 031-002-001	Zona del Túnel de Magma 2
@@ -4980,6 +5032,9 @@
 031-002-014	Zona del Cráter Infernal 15
 031-002-015	Zona del Cráter Infernal 16
 031-002-016	Zona de la Caverna en Erupción 17
+031-002-017	Zona de la Caverna en Erupción 18
+031-002-018	Zona de la Caverna en Erupción 19
+031-002-019	???
 
 033			Profundidades
 033-000		Profundidades
@@ -5119,3 +5174,12 @@
 034-003-001	Casa familiar de Infortunios
 034-003-002	Pesca de IA
 034-003-003	Cursillo de sacrificio
+034-004		Nueva Zona de Mundo: Ehen
+034-004-000	Bahía Interesante
+034-004-001	En la Boca del Tigre
+034-004-002	Isla de Quesesto
+034-004-003	Por Aquí Mal Canal
+034-004-004	¡Madre ría!
+034-004-005	Calle de la Amargura
+034-004-006	Centro de la Ciudad Así Asá
+034-004-007	Hoyo en Uno

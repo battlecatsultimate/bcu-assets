@@ -653,6 +653,26 @@
 43	Appel de l’impératrice : libère les Chats corrompus ! Termine Déchaînement des Chats (Le portail s’ouvre...)
 44	Termine le Royaume Aku. Réussis en terminant tous les niveaux du Royaume Aku
 45	Termine le Royaume Aku. Réussis en terminant tous les niveaux du Royaume Aku
+9283	[Q1. Qu’est-ce dans la boîte ?] Devine l’unité secrète ! Indice : une médaille bourrée de remerciements
+9284	[Q1. Qu’est-ce dans la boîte ?] Devine l’unité secrète ! Indice : un Chat qui porte vaguement bonheur
+9285	[Q1. Qu’est-ce dans la boîte ?] Devine l’unité secrète ! Indice : un ninja qui bondit de planète en planète
+9288	[Q2. Géographie] De quel pays provient le sushi ?. Réponds en terminant ce niveau dans L’empire des Chats !
+9289	[Q2. Géographie] Quel est le plus célèbre désert d’Afrique ?. Réponds en terminant ce niveau dans L’empire des Chats !
+9290	[Q2. Géographie] D'où vient le peintre Salvador Dali ?. Réponds en terminant ce niveau dans L’empire des Chats !
+9291	[Q2. Géographie] Où est le triangle qui fait disparaître les avions ?. Réponds en terminant ce niveau dans L’empire des Chats !
+9292	[Q2. Géographie] Quel est le plus grand État d'Amérique ?. Réponds en terminant ce niveau dans L’empire des Chats !
+9293	[Q2. Géographie] Parcours le monde
+9294	[Q3. Base féline]. Réponds à toutes les questions que pose le Chat !
+9295	[Q4. Abattage] Qui cherche à entrer à la fac tous les ans ?. Réponds en battant cet ennemi dans L’empire des Chats !
+9296	[Q4. Abattage] Quel ennemi suit des cours de théâtre ?. Réponds en battant cet ennemi dans L’empire des Chats !
+9297	[Q4. Abattage] Quel ennemi collectionne les magazines ?. Réponds en battant cet ennemi dans L’empire des Chats !
+9298	[Q4. Abattage] Quel ennemi est pompier ?. Réponds en battant cet ennemi dans L’empire des Chats !
+9299	[Q4. Abattage] Qui a trouvé une tête géante sur la route ?. Réponds en battant cet ennemi dans L’empire des Chats !
+9300	[Q4. Abattage] Parcours le monde
+9301	[Q5. Temps et chance] Après complétion du niveau, porte chance
+9302	[Q5. Temps et chance] Après complétion du niveau, porte chance
+9303	[Q5. Temps et chance] Après complétion du niveau, porte chance
+46	Mission du 9e anniversaire. Termine L’empire des Chats ch. 1 pendant cet événement !
 9305	Termine le 30e étage de la Tour infernale. * Récompense à récupérer une seule fois
 47	Rapport de l'impératrice : Chercheur en Aku. Termine les niv. 1 à 5, 5 fois chacun
 9321	【Invasion】Termine le niveau Clionel ascendant. 1 fois en utilisant 7 Chats spéciaux ou +
@@ -758,3 +778,7 @@
 9429	Marque plus de 6 200 points sur. #02 Le mariage de la peur, niveau 4
 9430	Marque plus de 4 500 points sur. #02 Le mariage de la peur, niveau 5
 9431	Gagne une pierre B. en atteignant le score cible. sur #02 Le mariage de la peur, niveaux 1-5 !
+9432	[Q1. Qu’y a-t-il dans la boîte ?] Gagne toutes les
+9433	[Ultra quiz] Termine les missions Q1~5 pour gagner un prix. valant 1 million de $(selon les Chats numériques) !
+60	Termine 50 niveaux Abattage de Béhémoths pour la 1re fois
+61	Termine 55 niveaux Abattage de Béhémoths pour la 1re fois

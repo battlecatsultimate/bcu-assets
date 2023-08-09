@@ -222,3 +222,4 @@
 340	Elohim, Essaim
 341	Llamas Malignas
 342	Cazando fantasmas
+343	Caballerosidad vulnerada
