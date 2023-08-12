@@ -221,3 +221,5 @@
 339	Fine oscura per le feste
 340	Elohim, Essaim
 341	Fiamme malvagie
+342	Acchiappando spiriti
+343	Cavalleria violata

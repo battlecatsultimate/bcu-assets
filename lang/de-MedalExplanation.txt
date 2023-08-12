@@ -106,3 +106,4 @@
 105	Schließe „Herrschaft des Tyrannen“ ab
 106	Schließe alle „Unh. Legenden“-Level der Stufe 2 ab.
 107	Schließe die „Omen“-Turnierkarte ab
+108	Schließe „Invasion des Sumpflords“ ab.

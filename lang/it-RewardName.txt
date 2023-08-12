@@ -155,6 +155,7 @@
 159	5.000 XP
 160|S160|I515	Seme miagrume Aku
 161|S161|I516	Miagrume Aku
+163|S163|I416	scatola misteriosa
 164|S164|I517	Seme miagrume oro
 166|S166|I418	Lettera d'amore
 167|S167|I518	Pietra B. viola
@@ -184,6 +185,9 @@
 192|S192|I623	Meteora Z
 193|S193|I624	Ossa bestiali Z
 194|S194|I625	Ammonite Z
+195|S195|I424	Acqua santa
+196|S196|I425	reti leggendarie
+197	1.000.000 XP
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -246,6 +250,7 @@
 1063	Gatto Panzer assassino
 1064	Uovo antico N005
 1065	Gatto jetpack
+1066	Gatturco
 1100	Busto di Gatto
 1101	Gatto spaziale
 1102	Gatto con la corda
@@ -381,6 +386,7 @@
 10522	Gatto Naga
 10532	Gattorso cadavere
 10540	Gatto griglia
+10622	Gatto ricercatore
 15017	MONEKO Superstar
 15031	Gatto Tathagata
 15032	Gatto ultra delinquente
@@ -423,6 +429,7 @@
 15106	Kuu divina
 15107	Kai divina
 15108	Ramina divina
+15124	Gatti Val Val
 15125	Masamune Immortale
 15126	Shingen Immortale
 15130	Gatto macho luccicante
@@ -523,7 +530,9 @@
 15397	Ganglion liberato
 15398	Sakura Spada sacra
 15402	Gigavolta
+15410	Reunion Li'l Rei
 15411	Eyepatch Li'l Asuka
+15414	Determined Unit-01 & Cat
 15415	Unit-02, Code 777
 15418	Sentinelle sotterranee
 15428	Eroi Impresa felina
@@ -542,6 +551,7 @@
 15469	Head Rococo
 15470	Super D-Devil
 15483	Cat-Eared Souma
+15489	Vanished NNN Wunder
 15496	Gatta Danza del ventre
 15497	Kaihime Immortale
 15503	Myrcia Divina
@@ -575,6 +585,8 @@
 15621	Hevijak Dio-Imperatore
 15632	Yaminora
 15633	Diabolosa obliterante
+15634	Gran Acchiappafantasmi
+15635	Cavaliere demone ciclope
 15643	Lucifero Onnipotente
 15645	Mekako fresco amore
 15657	Gatto haniwa
@@ -593,6 +605,9 @@
 15701	Gatto killer
 15707	Gatto sapone
 15708	Gatto barile
+15714	Gatto clown
+15717	Gatto sbirro
+15718	Gatto contadino
 16131	Ururun risvegliata
 16173	Scuolabus Nyandam
 16269	Mina risvegliata

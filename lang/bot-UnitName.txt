@@ -65,7 +65,7 @@
 064
 065
 066
-067
+067	Chibigau	Chibigaugau	Crystal Chibigau
 068
 069
 070	Salaryman Cat	Grudge Cat	Ritual Cat
@@ -121,7 +121,7 @@
 120	Healer	Healer CC	Healer Cat CC
 121	Merc	Merc CC	Merc & Cat CC
 122	Vacation Queen	Office Lady Cat	Call Center Cat
-123	Bean Cats	Brah Cats	Armor Cats
+123	Bean Cats	Brah Cats	Val Val Cat
 124	Date Masamune	Wargod Masamune	Immortal Masamune
 125	Takeda Shingen	Wargod Shingen	Immortal Shingen
 126	Clockwork Cat	Puppetmaster Cat	Puppetmaster & Charley
@@ -407,11 +407,11 @@
 406	Rei Cat	Ayanami Cat (TBC)
 407	Asuka Cat	Apron Asuka
 408	Mari Cat	Special Ops Mari
-409	Rei Ayanami	Plug Suit Rei	Reunion Ayanami
+409	Rei Ayanami	Plug Suit Rei	Reunion Li'l Rei
 410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka
 411	Mari Illustrious	Plug Suit Mari
 412	Eva Unit-00	Eva Unit-00 & Cat
-413	Eva Unit-01	Eva Unit-01 & Cat	Determined Eva Unit-01 & Cat
+413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-00 & Cat
 414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777
 415	Shinji Cat	Toji & Kensuke Cats
 416	Moon Operators	NERV Moon
@@ -486,7 +486,7 @@
 485
 486
 487	Eva Unit-08	Eva Unit-08 & Cat
-488	AAA Wunder	NNN Wunder	Godslayer Ship NNN Wunder
+488	AAA Wunder	NNN Wunder	Vanished NNN Wunder
 489	Misato Katsuragi	Captain Misato
 490	Ritsuko Akagi	First Officer Ritsuko
 491	Rei Ayanami (???)	Awakened Ayanami
@@ -631,8 +631,8 @@
 630	Calligraphy Cat	Tea Master Cat
 631	Yamii	Yaminoir	Yaminora
 632	Mighty Deth-Troy-R	Siege Walker Diabolosa	Obliterator Diabolosa
-633	Shitakiri Sparrow	Chunchun Haunters	Chunchun Busters
-634	White Knight Cyclops	Black Knight Cyclops
+633	Shitakiri Sparrow	Chunchun Haunters	Grand Chunchun Haunters
+634	White Knight Cyclops	Black Knight Kyklops	Demon Knight Kyclops
 635	Million Dollar Cat	Hundred-Million Dollar Cat
 636	Brainwashed Tank Cat	Brainwashed Wall Cat
 637	Xiaoqiong and Cat	Xiaoqiong and Cat CC
@@ -707,8 +707,13 @@
 706	Ancient Egg: N108	Teal Egg: N108	Soap Cat
 707	Ancient Egg: N109	Dark Egg: N109	Barrel Cat
 708	Jetpack Cat	Kinjirou Cat
-709	One-eyed Girl Asuka	Blue-eyed Witch Asuka
-710	Eva Unit-13	Eva Unit-13 & Cat
-711	Vow of Balaluga	Oyomeno Pasalan
-712	Kaoluga	Kaolan Pasalan
-713	Ancient Egg: N203	Violet Egg: N203	Cat Pierrot
+709	One-Eyed Asuka	Blue-Eyed Asuka	
+710	Eva Unit-13	Eva Unit-13 & Cat	
+711	Betrothed Balaluga	Betrothed Pasalan	
+712	Kaoluga	Kaoluga Pasalan	
+713	Ancient Egg: N203	Violet Egg: N203	Clown Cat
+714	Coastal Explorer Kanna	Deep-Diver Kanna	Great Deep-Diver Kanna
+715	Mighty Sphinx Korps	Attack Battalion Convoys	
+716	Ancient Egg: N111	Mystic Egg: N111	Cop Cat
+717	Ancient Egg: N110	Amber Egg: N110	Farmboy Cat
+718	Maize Cat	Cone Cat

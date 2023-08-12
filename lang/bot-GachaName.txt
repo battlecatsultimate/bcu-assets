@@ -64,6 +64,9 @@ E20	Summer Break Capsules
 E21	10th Anniversary Memorial Capsules
 E22	New Moon Capsules
 E23	Love Letter Capsules
+E24	June Bride of Devil Capsules
+E25	9th Anniversary Special Capsules
+E26	Summer Break Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -772,3 +775,18 @@ N65	Cats Eye Capsules
 817	-1011	699
 818	-2006	709
 819	-2026	710
+820	-2006	709
+821	-2026	710
+822	-111	714, 645, 694
+823	-8	715
+824	-8	715
+825	-105	715
+826	-106	715
+827	-104	715
+828	-107	715
+829	-112	705
+830	-1011	711, 699
+831	-111	714, 645, 694
+832	-104	712
+833	-107	712
+834	-106	712

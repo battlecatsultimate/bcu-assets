@@ -106,3 +106,4 @@
 105	Termine le Règne du tyran
 106	Termine tous les niveaux Légende mystérieuse de niveau 2
 107	Termine la carte Défi « Présages »
+108	Termine Le maître du marais Sanzu

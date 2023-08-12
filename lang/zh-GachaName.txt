@@ -51,7 +51,7 @@
 -2023	熱血運動會	//Kunio 620
 -2024	快打旋風V 冠軍版 BLUE TEAM	//SF Blue 763
 -2025	快打旋風V 冠軍版 RED TEAM	//SF Red 764
--2026 福音戰士 2nd
+-2026	福音戰士 2nd
 E13	聖魔大戰	//Bikkuri
 E14	貓咪的暑假	//Summer Break Cats
 E17	春節活動轉蛋（日文版）	//Lunar New Year (JP)
@@ -59,6 +59,9 @@ E18	心動時分貓咪學園	//Heartbeat Catcademy
 E19	惡魔的完美新娘	//June Bride of the Devil
 E20	貓咪的暑假	//Summer Break Cats
 E22	春節活動轉蛋	//Lunar New Year
+E23	心動時分貓咪學園
+E24	惡魔的完美新娘
+E26	貓咪的暑假
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -776,3 +779,18 @@ N64	貓咪轉蛋+	//Cat Capsules+
 817	-1011	699
 818	-2006	709
 819	-2026	710
+820	-2006	709
+821	-2026	710
+822	-111	714, 645, 694
+823	-8	715
+824	-8	715
+825	-105	715
+826	-106	715
+827	-104	715
+828	-107	715
+829	-112	705
+830	-1011	711, 699
+831	-111	714, 645, 694
+832	-104	712
+833	-107	712
+834	-106	712

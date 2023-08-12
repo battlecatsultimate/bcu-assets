@@ -648,6 +648,26 @@
 43	Llamada de la Emperatriz: ¡Libera a los gatos corruptos! Supera Liberación de los Gatos. (Las puertas se abren...)
 44	Supera Los reinos de akus. Completa todas las fases de Los reinos de akus
 45	Supera Los reinos de akus. Completa todas las fases de Los reinos de akus
+9283	【C1. ¡¿Qué hay en la caja?!】¡Adivina qué se oculta en la bola! Pista: una miaudalla llena de agradecimientos
+9284	【C1. ¡¿Qué hay en la caja?!】¡Adivina qué se oculta en la bola! Pista: es el gato de la buena suerte
+9285	【C1. ¡¿Qué hay en la caja?!】¡Adivina qué se oculta en la bola! Pista: un ninja que va por el espacio a toda leche
+9288	【C2. Geografía】¿Qué país es famoso por el sushi?. ¡Responde superando esta fase en Imperio de los Gatos!
+9289	【C2. Geografía】¿Cuál es el desierto más famoso de África?. ¡Responde superando esta fase en Imperio de los Gatos!
+9290	【C2. Geografía】¿En qué país nació el pintor Salvador Dalí?. ¡Responde superando esta fase en Imperio de los Gatos!
+9291	【C2. Geografía】¿Dónde está el triángulo que atrapa aviones?. ¡Responde superando esta fase en Imperio de los Gatos!
+9292	【C2. Geografía】¿Cuál es el estado más grande de EE. UU.?. ¡Responde superando esta fase en Imperio de los Gatos!
+9293	【C2. Geografía】¡Vete por el mundo
+9294	【C3. Base gatuna】. ¡Responde a todas las preguntas del gato!
+9295	【C4. Matanza】¿Qué enemigo va siempre a selectividad?. ¡Derrótale en Imperio de los Gatos para responder!
+9296	【C4. Matanza】¿Qué enemigo va al cole?. ¡Derrótale en Imperio de los Gatos para responder!
+9297	【C4. Matanza】¿Qué enemigo colecciona revistas?. ¡Derrótale en Imperio de los Gatos para responder!
+9298	【C4. Matanza】¿Qué enemigo trabaja de bombero?. ¡Derrótale en Imperio de los Gatos para responder!
+9299	【C4. Matanza】¿Qué enemigo encontró una cabeza gigante?. ¡Derrótale en Imperio de los Gatos para responder!
+9300	【C4. Matanza】¡Vete por el mundo
+9301	【C5. Tiempo y fortuna】¡Supera la fase, da suerte a un aliado
+9302	【C5. Tiempo y fortuna】¡Supera la fase, da suerte a un aliado
+9303	【C5. Tiempo y fortuna】¡Supera la fase, da suerte a un aliado
+46	Misión del 9.º aniversario. ¡Supera el Imperio de los Gatos (cap. 1) durante el evento!
 9305	Supera el piso 30 de la Torre Infernal. (Estos premios solo se pueden recoger una vez)
 47	Informe de Emperatriz: Investigación de Aku. Supera 5 veces. las fases 1-5 de Informe de Emperatriz
 9321	【Invasión】Supera la fase. Ascendente Clionel 1 veces con 7 gatos especiales o más
@@ -691,12 +711,12 @@
 9355	Supera cualquier fase de #01 La Capilla Fantasma 10 veces:
 9356	Supera cualquier fase de #01 La Capilla Fantasma 15 veces:
 9357	Supera cualquier fase de #01 La Capilla Fantasma 20 veces:
-9358	Supera cualquier fase de #02 ¿En Qué Cae el 13? 3 veces:
-9359	Supera cualquier fase de #02 ¿En Qué Cae el 13? 5 veces:
+9358	Supera cualquier fase de #03 ¿En Qué Cae el 13? 3 veces:
+9359	Supera cualquier fase de #03 ¿En Qué Cae el 13? 5 veces:
 9360	Supera la fase de continuación
-9361	Supera cualquier fase de #03 Aldea de Alaridos 3 veces:
-9362	Supera cualquier fase de #03 Aldea de Alaridos 5 veces:
-9363	Supera cualquier fase de #03 Aldea de Alaridos 10 veces:
+9361	Supera cualquier fase de #04 Aldea de Alaridos 3 veces:
+9362	Supera cualquier fase de #04 Aldea de Alaridos 5 veces:
+9363	Supera cualquier fase de #04 Aldea de Alaridos 10 veces:
 9364	Deberes de Verano (Parte 1) ①: Estudia los insectos. ¡Consigue 1 Gato Kabuto en el evento!
 9365	Deberes de Verano (Parte 1) ②: Estudia los insectos. ¡Consigue 1 Gato Kuwagata en el evento!
 9366	Deberes de Verano (Parte 1) ③: Estudia los insectos. ¡Consigue 1 Huevo Antiguo: N202 en el evento!
@@ -746,3 +766,14 @@
 58	Supera 45 fases de Matanza de Mastodontes por primera vez:
 59	Para completar esta misión, supera el nivel 2. de todas las Etapas de Leyenda Inquietante
 9424	Misiones del Festival de Ciclón. ¡Supera la fase El Gran Diablo!
+9425	¡Gana un Huevo Antiguo N203 en . las bolas de Novia del Diablo de Junio!
+9426	Consigue más de 8200 puntos en . la fase 1 de #02 Una boda de muerte
+9427	Consigue más de 7200 puntos en . la fase 2 de #02 Una boda de muerte
+9428	Consigue más de 7100 puntos en . la fase 3 de #02 Una boda de muerte
+9429	Consigue más de 6200 puntos en . la fase 4 de #02 Una boda de muerte
+9430	Consigue más de 4500 puntos en . la fase 5 de #02 Una boda de muerte
+9431	¡Consigue una Piedra M. tras superar la puntuación. indicada en #02 Una boda de muerte en las fases 1-5!
+9432	【C1. ¡¿Qué hay en la caja?!】¡Hazte con todas
+9433	【Ultraconcurso】Supera las misiones C1-5 y pide tu premio. con valor de 1 millón de dólares (o eso dice el gatomático)
+60	Supera 50 fases de Matanza de Mastodontes por primera vez
+61	Supera 55 fases de Matanza de Mastodontes por primera vez

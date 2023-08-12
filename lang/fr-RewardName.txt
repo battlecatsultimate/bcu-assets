@@ -155,6 +155,7 @@
 159	5 000 XP
 160|S160|I515	Graine de Chagrume Aku
 161|S161|I516	Chagrume Aku
+163|S163|I416	boîte mystère
 164|S164|I517	Graine de Chagrume doré
 166|S166|I418	Lettre d'amour
 167|S167|I518	Pierre B. violette
@@ -184,6 +185,9 @@
 192|S192|I623	Météorite Z
 193|S193|I624	Os de bête Z
 194|S194|I625	Ammonite Z
+195|S195|I424	Eau bénite
+196|S196|I425	filets légendaires
+197	1 000 000 XP
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -246,6 +250,7 @@
 1063	Chat tank tueur
 1064	Œuf ancien N005
 1065	Chat à propulsion
+1066	Chat mélasse
 1100	Chat en bronze
 1101	Chastronaute
 1102	Chat corde à sauter
@@ -381,6 +386,7 @@
 10522	Chat Naga
 10532	Ours-Chat cadavre
 10540	Chaterback
+10622	Chercheur félin
 15017	Moneko Superstar
 15031	Chat Tathagata
 15032	Chat ultra délinquant
@@ -423,6 +429,7 @@
 15106	Kuu divine
 15107	Kai divine
 15108	Mine divine
+15124	Chats Val Val
 15125	Masamune immortel
 15126	Shingen immortel
 15130	Chat macho scintillant
@@ -523,7 +530,9 @@
 15397	Ganglion en liberté
 15398	Sakura lame sacrée
 15402	Gigavolta
+15410	Reunion Li'l Rei
 15411	Eyepatch Li'l Asuka
+15414	Determined Unit-01 & Cat
 15415	Unit-02, Code 777
 15418	Sentinelles souterraines
 15428	Héros de la quête des Chats
@@ -542,6 +551,7 @@
 15469	Head Rococo
 15470	Super D-Devil
 15483	Cat-Eared Souma
+15489	Vanished NNN Wunder
 15496	Chatte danseuse du ventre
 15497	Kaihime immortelle
 15503	Myrcia divine
@@ -575,6 +585,8 @@
 15621	Dieu empereur Hevijak
 15632	Yaminora
 15633	Diabolosa oblitératrice
+15634	Grands chasseurs d’esprits
+15635	Démon chevalier noir
 15643	Lucifer Tout-puissant
 15645	Mekako amour mentholé
 15657	Chat haniwa
@@ -593,6 +605,9 @@
 15701	Chat tueur à gages
 15707	Chat savonneur
 15708	Chat baril
+15714	Chat clown
+15717	Chagent de police
+15718	Chagriculteur
 16131	Ururun et Tama éveillés
 16173	Bus scolaire Nyandam
 16269	Mina éveillée

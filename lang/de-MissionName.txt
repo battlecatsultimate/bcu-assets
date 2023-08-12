@@ -653,6 +653,26 @@
 43	Ruf zu den Waffen: Befreie die verdorbenen Katzen! Meistere „Die Katzen entfesseln“ (Die Tore gehen auf ...)
 44	Schließe „Das Reich der Aku“ ab! Meistere die Mission,. indem du alle Level in „Das Reich der Aku“ abschließt
 45	Schließe „Das Reich der Aku“ ab! Meistere die Mission,. indem du alle Level in „Das Reich der Aku“ abschließt
+9283	[F1. „Was ist in der Schachtel?“-Quiz] Rate die versteckte. Eventkapsel-Einheit! Tipp: Eine Medaille voller Dank
+9284	[F1. „Was ist in der Schachtel?“-Quiz] Rate die versteckte. Eventkapsel-Einheit! Tipp: Eine Katze, die Unglück bringt
+9285	[F1. „Was ist in der Schachtel?“-Quiz] Rate die versteckte. Eventkapsel-Einheit! Tipp: Zwischen Planeten rasende Ninja
+9288	[F2. Geo-Quiz] Welches Land ist für Sushi bekannt?. Die Antwort ist in diesem Level in Katzenimperium!
+9289	[F2. Geo-Quiz] Welche Wüste ist die berühmteste Afrikas?. Die Antwort ist in diesem Level in Katzenimperium!
+9290	[F2. Geo-Quiz] Woher stammt der Maler Salvador Dali?. Schließe dieses Level in Katzenimperium ab!
+9291	[F2. Geo-Quiz] Wo liegt das Dreieck, in dem Flugzeuge. verschwinden? Schließe dieses Level in Katzenimperium ab!
+9292	[F2. Geo-Quiz] Welcher Staat ist der größte der USA?. Schließe dieses Level in Katzenimperium ab!
+9293	[F2. Geo-Quiz] Umreise die Welt und beantworte
+9294	[F3. Katzenbasis-Quiz]. Beantworte alle Quizfragen der Katze!
+9295	[F4. Jagd-Quiz] Welcher Feind möchte zur Uni?. Besiege diesen Feind in Katzenimperium!
+9296	[F4. Jagd-Quiz] Welcher Feind geht auf die Schauspielschule?. Besiege diesen Feind in Katzenimperium!
+9297	[F4. Jagd-Quiz] Welcher Feind sammelt Zeitschriften?. Besiege diesen Feind in Katzenimperium!
+9298	[F4. Jagd-Quiz] Welcher Feind ist bei der Feuerwehr?. Besiege diesen Feind in Katzenimperium!
+9299	[F4. Jagd-Quiz] Welcher Feind hat am Wegesrand einen Kopf gefunden?. Besiege diesen Feind in Katzenimperium!
+9300	[F4. Jagd-Quiz] Umreise die Welt und beantworte
+9301	[F5. „Glückssache“-Quiz] Verschenke Glück nach Levelabschluss
+9302	[F5. „Glückssache“-Quiz] Verschenke Glück nach Levelabschluss
+9303	[F5. „Glückssache“-Quiz] Verschenke Glück nach Levelabschluss
+46	Mission zum 9. Jubiläum. Schließe während dieses Events „Katzenimperium Kap. 1“ ab!
 9305	Schließe Ebene 30 des Höllischen Turms ab. * Belohnung kann nur ein Mal eingefordert werden
 47	Bericht der Kaiserin: Aku-Forschung. Schließe „Bericht der Kaiserin 1 - 5“-Level jeweils 5 Mal ab
 9321	【Invasion】Schließe „Aufsteigender. Clionel“ 1-mal mit min. 7 Sonderkatzen ab
@@ -696,12 +716,12 @@
 9355	Schließe beliebige Level von „#01 Die Geisterkapelle“
 9356	Schließe beliebige Level von „#01 Die Geisterkapelle“
 9357	Schließe beliebige Level von „#01 Die Geisterkapelle“
-9358	Schließe beliebige Level von „#02 ??? der 13.“
-9359	Schließe beliebige Level von „#02 ??? der 13.“
+9358	Schließe beliebige Level von „#03 ??? der 13.“
+9359	Schließe beliebige Level von „#03 ??? der 13.“
 9360	Schließe das Folgelevel nach den
-9361	Schließe beliebige Level von „#03 Maunzerdorf“
-9362	Schließe beliebige Level von „#03 Maunzerdorf“
-9363	Schließe beliebige Level von „#03 Maunzerdorf“
+9361	Schließe beliebige Level von „#04 Maunzerdorf“
+9362	Schließe beliebige Level von „#04 Maunzerdorf“
+9363	Schließe beliebige Level von „#04 Maunzerdorf“
 9364	Sommerhausaufgaben Teil 1 ①: Erforsche Insekten. Erhalte 1 Kabutokatze aus dem Event-Gacha!
 9365	Sommerhausaufgaben Teil 1 ②: Erforsche Insekten. Erhalte 1 Kuwagatakatze aus dem Event-Gacha!
 9366	Sommerhausaufgaben Teil 1 ③: Erforsche Insekten. Erhalte 1 Uraltes Ei: N202 aus dem Event-Gacha!
@@ -751,3 +771,14 @@
 58	Schließe 45 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
 59	Schließe alle „Unh. Legenden“-Level der Stufe 2 ab,. um diese Mission abzuschließen
 9424	Zyklonfest-Missionen. Schließe das Level „Der große Diablo“ ab!
+9425	Verdiene ein Uraltes Ei: N203 aus den. „Juni-Braut des Teufels“-Kapseln!
+9426	Erreiche mehr als 8200 Punkte bei. #02 Die Hochzeit der Angst, Level 1!
+9427	Erreiche mehr als 7200 Punkte bei. #02 Die Hochzeit der Angst, Level 2!
+9428	Erreiche mehr als 7100 Punkte bei. #02 Die Hochzeit der Angst, Level 3!
+9429	Erreiche mehr als 6200 Punkte bei. #02 Die Hochzeit der Angst, Level 4!
+9430	Erreiche mehr als 4500 Punkte bei. #02 Die Hochzeit der Angst, Level 5!
+9431	Verdiene einen Behemoth-Stein, indem du die Punkte-. vorgabe bei #02 Die Hochzeit der Angst, Levels 1–5 erfüllst!
+9432	[F1. Was ist in der Schachtel?] Verdiene alle
+9433	[Ultra-Quiz] Schließe Missionen F1-5 ab und hol dir deinen. Preis im Wert von 1 Million (laut des Katzencomputers)!
+60	Schließe 50 Behemothjagd-Level zum ersten Mal ab!
+61	Schließe 55 Behemothjagd-Level zum ersten Mal ab!

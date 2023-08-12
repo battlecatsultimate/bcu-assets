@@ -1311,6 +1311,27 @@
 001-280-001	Bases d’archéologie 401 : méthodes
 001-280-002	Bases d’archéologie 401 : résultats
 001-280-003	Bases d’archéologie 401 : analyse
+001-282		Q1. Quiz Qu’y a-t-il dans la boîte ?
+001-282-000	Trois Chats cachés
+001-282-001	Ouvre la boîte mystère
+001-282-002	Chat N° 1 : édition limitée ?
+001-282-003	Avec gratitude
+001-282-004	On fête... quoi ?
+001-282-005	Chat N° 2 : féline fortune ?
+001-282-006	Reconnaissance quotidienne
+001-282-007	Gras et heureux
+001-282-008	Porte-bonheur !
+001-282-009	Chat N° 3 : mystérieux miaou ?
+001-282-010	Danse entre planètes
+001-282-011	Tranche les aliens !
+001-283		Q5. Quiz Temps et chance
+001-283-000	Crois en ta chance
+001-283-001	La porte est scellée
+001-283-002	Derrière la porte
+001-283-003	Paradis ou enfer
+001-283-004	Les mains du destin
+001-284		Cadeaux d’anniv
+001-284-000	9 ans de rigolade !
 001-285		Top 5 des ennemis les plus vus de 2021 !
 001-285-000	Je glisse n° 5
 001-285-001	Je rougis n° 4
@@ -1389,7 +1410,7 @@
 001-308-002	Cottage dilapidé
 001-308-003	Braises mourantes
 001-308-004	Tous bien rentrés
-001-309		#03 Village miaulant
+001-309		#04 Village miaulant
 001-309-000	Lune de miel au village caché
 001-309-001	Aucune réception
 001-309-002	Portrait post-mortem
@@ -1495,6 +1516,30 @@
 001-340-001	Tyran infernal 2 (sans répit)
 001-340-002	Tyran infernal 3 (sans répit)
 001-340-003	Tyran infernal ultime (brutal)
+001-342		Le Plus Grand Diablo
+001-342-000	Colère des Enfers (sans répit)
+001-342-001	Fureur des Enfers (sans répit)
+001-343		#02 Banquet de la terreur
+001-343-000	Marié dans les égouts
+001-343-001	Viande avariée à volonté
+001-343-002	Toast de l'oncle cinglé
+001-343-003	Tronçonneuse sur pièce montée
+001-343-004	Bouquet lancé dans le noir
+001-344		Devoirs de fin d'été
+001-344-000	8/29 Carnet, perceuses, tirage papier
+001-344-001	8/30 Rapport écrit, études, album photo
+001-344-002	8/31 Fuite
+001-345		Affliction forestière III
+001-345-000	Poisson à mortelle mâchoire
+001-346		Étrangeté du désert III
+001-346-000	Explosion énervée
+001-347		Péril dans le volcan III
+001-347-000	Chambrage en fête
+001-348		Creux du garde-marais Sanzu
+001-348-000	Roi fantôme I (mortel)
+001-348-001	Roi fantôme II (sans répit)
+001-348-002	Roi fantôme III (sans répit)
+001-348-003	Roi fantôme (brutal)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2038,6 +2083,20 @@
 002-198		Holy War: Gilgamesh
 002-198-000	King of Heroes (Veteran)
 002-198-001	King of Heroes (Deadly)
+002-205		The 9th Angel Strikes!
+002-205-000	Asuka On Board (Easy)
+002-205-001	Asuka On Board (Expert)
+002-206		The 10th Angel Strikes!
+002-206-000	Refusal Type (Hard)
+002-206-001	Refusal Type (Merciless)
+002-207		Eva Unit-13 Strikes!
+002-207-000	It's Not Your Fault (Veteran)
+002-207-001	We'll Meet Again (Merciless)
+002-208		Final Battle: Eva Unit-13
+002-208-000	Something I Must Do
+002-208-001	Grow Up, Shinji
+002-209		Bye-bye, all of the Cats
+002-209-000	Finale
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -2906,6 +2965,14 @@
 004-046-000	Nature au berceau (mortel)
 004-046-001	Nature au sommet (sans répit)
 004-046-002	Nature frontière (sans répit)
+004-047		Q5. Quiz Temps et chance
+004-047-000	La porte s'ouvre...
+004-047-001	La porte s'ouvre...
+004-047-002	La porte s'ouvre...
+004-047-003	La porte s'ouvre...
+004-047-004	La porte s'ouvre...
+004-048		Q5. Quiz Temps et chance
+004-048-000	La porte s'ouvre...
 004-049		Attaque de l'Archange divin
 004-049-000	Nature au berceau (mortel)
 004-049-001	Nature au sommet (sans répit)
@@ -2930,6 +2997,12 @@
 004-059-000	Nature au berceau (mortel)
 004-059-001	Nature au sommet (sans répit)
 004-059-002	Nature frontière (sans répit)
+004-060		Carte du chasseur IV
+004-060-000	Forêt de cristal violette
+004-060-001	Désert de cristal vert
+004-060-002	Forêt de cristal rouge
+004-060-003	Désert de cristal bleu
+004-060-004	Volcan de cristal jaune
 
 006			Dojo Griffélin
 006-000		Salle des initiés
@@ -3141,12 +3214,16 @@
 011-017-000	Tournoi des larmes
 011-018		Arène de l'honneur
 011-018-000	I Seek the Strongest
+011-019		Arène de l'honneur
+011-019-000	8 ne suffisent pas
 011-020		Honorables lègendes
 011-020-000	Épreuve écarlate
 011-021		Honorables lègendes
 011-021-000	Épreuve de l’ombre
 011-022		Honorables lègendes
 011-022-000	Épreuve du phénix
+011-023		Arène de l'honneur
+011-023-000	9 ans et toutes mes dents
 
 012			Challenge Mode
 012-000		Bataille défi
@@ -3602,6 +3679,10 @@
 014-048-000	Résident félin (mortel)
 014-049		Rouge levant
 014-049-000	Trou de ver ouvert (mortel)
+014-050		Moisson d'XP !
+014-050-000	Tentation du diablotin
+014-050-001	Tentation du démon
+014-050-002	Tentation de l'archidiable
 
 024			Baron Boss Stages
 024-000		Attaque du Baron phoque !
@@ -4637,6 +4718,12 @@
 025-064-000	Sanctuaire du sommet (sans répit)
 025-065		Refuge du vil instinct
 025-065-000	Sanctuaire de la frontière (sans répit)
+025-066		Carte du chasseur IV
+025-066-000	Forêt de pierre violette IV
+025-066-001	Désert de pierre verte IV
+025-066-002	Forêt de pierre rouge IV
+025-066-003	Désert de pierre bleue IV
+025-066-004	Volcan de pierre jaune IV
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -4889,6 +4976,9 @@
 031-000-014	Zone jungle torrentielle 15
 031-000-015	Zone jungle torrentielle 16
 031-000-016	Zone bois primitifs 17
+031-000-017	Zone bois primitifs 18
+031-000-018	Zone bois primitifs 19
+031-000-019	???
 031-001		Désert d'Ashvini
 031-001-000	Zone rocailleuse 1
 031-001-001	Zone rocailleuse 2
@@ -4907,6 +4997,9 @@
 031-001-014	Zone sable torride 15
 031-001-015	Zone sable torride 16
 031-001-016	Zone tempête de sable 17
+031-001-017	Zone tempête de sable 18
+031-001-018	Zone tempête de sable 19
+031-001-019	???
 031-002		Volcan de Jinfore
 031-002-000	Zone de tunnel de lave 1
 031-002-001	Zone de tunnel de lave 2
@@ -4925,6 +5018,9 @@
 031-002-014	Zone cratère infernal 15
 031-002-015	Zone cratère infernal 16
 031-002-016	Zone caverne volcanique 17
+031-002-017	Zone caverne volcanique 18
+031-002-018	Zone caverne volcanique 19
+031-002-019	???
 
 033			Abysse infini
 033-000		Abysse infini
@@ -5059,3 +5155,17 @@
 034-002-003	Fjord boueux
 034-002-004	Pic de la marelle
 034-002-005	Forêt 3 p'tits chats
+034-003		Les carnets d'Ururuvu
+034-003-000	Extra autochtones
+034-003-001	Malchance chez l'habitant
+034-003-002	Pêche à l'IA
+034-003-003	Apprentissage sacrificiel
+034-004		Zone nouveau monde : Ehen
+034-004-000	Courant intéressant
+034-004-001	Tigres bannis
+034-004-002	Île du Kiétudonk
+034-004-003	Canal Can-Can
+034-004-004	Quelqueflot
+034-004-005	Route Ohno
+034-004-006	Centre-ville So-So
+034-004-007	Tout un tintouin

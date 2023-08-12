@@ -121,7 +121,7 @@
 120	Healer	Healer CC	Healer Cat CC
 121	Merc	Merc CC	Merc & Cat CC
 122	Reine des vacances	Chatte employée de bureau	Chatte réceptionniste
-123	Chats haricot	Chats soutien-gorge	
+123	Chats haricot	Chats soutien-gorge	Chats Val Val
 124	Date Masamune	Masamune dieu de la guerre	Masamune immortel
 125	Takeda Shingen	Shingen dieu de la guerre	Shingen immortel
 126	Chat mécanique	Chat marionnettiste	Marionnettiste et Charly
@@ -407,11 +407,11 @@
 406	Rei Cat	Ayanami Cat (TBC)	
 407	Asuka Cat	Apron Asuka	
 408	Mari Cat	Special Ops Mari	
-409	Rei Ayanami	Plug Suit Rei	
+409	Rei Ayanami	Plug Suit Rei	Reunion Li'l Rei
 410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka
 411	Mari Illustrious	Plug Suit Mari	
 412	Eva Unit-00	Eva Unit-00 & Cat	
-413	Eva Unit-01	Eva Unit-01 & Cat	
+413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-01 & Cat
 414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777
 415	Shinji Cat	Toji & Kensuke Cats	
 416	Moon Operators	NERV Moon	
@@ -486,7 +486,7 @@
 485			
 486			
 487	Eva Unit-08	Eva Unit-08 & Cat	
-488	AAA Wunder	NNN Wunder	
+488	AAA Wunder	NNN Wunder	Vanished NNN Wunder
 489	Misato Katsuragi	Captain Misato	
 490	Ritsuko Akagi	First Officer Ritsuko	
 491	Rei Ayanami (???)	Awakened Ayanami	
@@ -619,7 +619,7 @@
 618	Shiro Amakusa	Amakusa dieu de la guerre	Amakusa immortel
 619	Lilin	Lilin π	Lilin π divine
 620	Hevijack le malfaisant	Roi Hevijack malfaisant	Dieu empereur Hevijak
-621	Chercheur d'ennemis Akus	Chercheur d'ennemis Akus démoniaque	Chercheur en Akus démoniaque
+621	Chercheur d'ennemis Akus	Chercheur d'ennemis Akus démoniaque	Chercheur félin
 622	Jagando Jr.	Seigneur Ruine Jagando Jr.	
 623	Chat joueur de flûte	Chat Komuso	
 624	Kunio-kun	Dodgeball Kunio-kun	
@@ -631,9 +631,9 @@
 630	Challigraphe	Chat maître du thé	
 631	Yamii	Yaminoir	Yaminora
 632	Puissant Dess-truk-teur	Diabolosa brise-siège	Diabolosa oblitératrice
-633	Moineau shitakiri	Chasseurs Chunchun	
-634	Cyclope chevalier blanc	Cyclope chevalier noir	
-635			
+633	Moineau shitakiri	Chasseurs Chunchun	Grands chasseurs d’esprits
+634	Cyclope chevalier blanc	Cyclope chevalier noir	Démon chevalier noir
+635	Chat 1 million de dollars	Chat 100 millions de dollars	
 636	Chat tank sous contrôle	Chat mur sous contrôle	
 637			
 638			
@@ -707,3 +707,13 @@
 706	Œuf ancien N108	Œuf bleu sarcelle N108	Chat savonneur
 707	Œuf ancien N109	Œuf sombre N109	Chat baril
 708	Chat à propulsion	Chat Kinjirou	
+709	One-Eyed Asuka	Blue-Eyed Asuka	
+710	Eva Unit-13	Eva Unit-13 & Cat	
+711	Balaluga fiancé	Pasalan fiancé	
+712	Kaoluga	Kaoluga Pasalan	
+713	Œuf ancien N203	Œuf violet N203	Chat clown
+714	Kanna l’exploratrice côtière	Kanna plongeuse sous-marine	
+715	Puissant corps sphinx	Convois offensifs	
+716	Œuf ancien N111	Œuf mystique N111	Chagent de police
+717	Œuf ancien N110	Œuf ambré N110	Chagriculteur
+718	Chat mélasse	Chat cône	

@@ -1315,6 +1315,27 @@
 001-280-001	Archeologia 401: metodi
 001-280-002	Archeologia 401: risultati
 001-280-003	Archeologia 401: analisi
+001-282		D1. Quiz Cosa c'è nella scatola?!
+001-282-000	Tre gatti nascosti
+001-282-001	Apri la scatola misteriosa
+001-282-002	Gatto n. 1: edizione limitata?
+001-282-003	Con riconoscenza
+001-282-004	In onore... di cosa?
+001-282-005	Gatto n. 2: felino fortunato?
+001-282-006	Colmi di gratitudine
+001-282-007	Come un babà
+001-282-008	Portafortuna!
+001-282-009	Gatto n. 3: miao misterioso?
+001-282-010	Ballando con i pianeti
+001-282-011	Alieni a fettine
+001-283		D5. Quiz Tempo e fortuna
+001-283-000	Fortuna cieca
+001-283-001	A porte chiuse
+001-283-002	Oltre il varco
+001-283-003	Cielo o inferno
+001-283-004	In mano al destino
+001-284		Regali compleanno
+001-284-000	9 anni di divertimento!
 001-285		I 5 nemici più visti del 2021!
 001-285-000	#5 scorrevole
 001-285-001	#4 da arrossire
@@ -1384,7 +1405,7 @@
 001-308-002	Casolare fatiscente
 001-308-003	Braci morenti
 001-308-004	Sani e salvi a casa
-001-309		03: Villaggio ululante
+001-309		04: Villaggio ululante
 001-309-000	Luna di miele al villaggio perduto
 001-309-001	Senza ricezione
 001-309-002	Ritratto post-mortem
@@ -1490,6 +1511,30 @@
 001-340-001	Tiranno infernale 2 (Spietato)
 001-340-002	Tiranno infernale 3 (Spietato)
 001-340-003	Tiranno infernale estremo (Brutale)
+001-342		Il diablo più grande
+001-342-000	Ira dell'inferno (Spietata)
+001-342-001	Furia dell'inferno (Spietata)
+001-343		02: Banchetto del terrore
+001-343-000	Sposo nelle fogne
+001-343-001	Buffet di carne avariata
+001-343-002	Brindisi dello zio pazzo
+001-343-003	Taglio della torta con motosega
+001-343-004	Lancio del bouquet al buio
+001-344		Compiti di fine estate
+001-344-000	29/8 Diario, esercitazioni e stampe
+001-344-001	30/8 Resoconto, studio e bozze
+001-344-002	31/8 Fuga
+001-345		Sofferenze nella foresta III
+001-345-000	Pesci del Mar Morto con denti affilati
+001-346		Stranezze nel deserto III
+001-346-000	Esplosione furiosa
+001-347		Pericoli nel vulcano III
+001-347-000	Festa infuocata maledetta
+001-348		Discesa del guardiano della palude Sanzu
+001-348-000	Re fantasma I (Letale)
+001-348-001	Re fantasma II (Spietato)
+001-348-002	Re fantasma III (Spietato)
+001-348-003	Re fantasma (Brutale)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2033,6 +2078,20 @@
 002-198		Holy War: Gilgamesh
 002-198-000	King of Heroes (Veteran)
 002-198-001	King of Heroes (Deadly)
+002-205		The 9th Angel Strikes!
+002-205-000	Asuka On Board (Easy)
+002-205-001	Asuka On Board (Expert)
+002-206		The 10th Angel Strikes!
+002-206-000	Refusal Type (Hard)
+002-206-001	Refusal Type (Merciless)
+002-207		Eva Unit-13 Strikes!
+002-207-000	It's Not Your Fault (Veteran)
+002-207-001	We'll Meet Again (Merciless)
+002-208		Final Battle: Eva Unit-13
+002-208-000	Something I Must Do
+002-208-001	Grow Up, Shinji
+002-209		Bye-bye, all of the Cats
+002-209-000	Finale
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -2901,6 +2960,14 @@
 004-046-000	Culla selvaggia (Letale)
 004-046-001	Cima selvaggia (Spietato)
 004-046-002	Confine selvaggio (Spietato)
+004-047		D5. Quiz Tempo e fortuna
+004-047-000	La porta si apre...
+004-047-001	La porta si apre...
+004-047-002	La porta si apre...
+004-047-003	La porta si apre...
+004-047-004	La porta si apre...
+004-048		D5. Quiz Tempo e fortuna
+004-048-000	La porta si apre...
 004-049		Arcangelo divino colpisce
 004-049-000	Culla selvaggia (Letale)
 004-049-001	Cima selvaggia (Spietato)
@@ -2925,6 +2992,12 @@
 004-059-000	Culla selvaggia (Letale)
 004-059-001	Cima selvaggia (Spietato)
 004-059-002	Confine selvaggio (Spietato)
+004-060		Mappa del cacciatore IV
+004-060-000	Foresta dei cristalli viola
+004-060-001	Deserto dei cristalli verdi
+004-060-002	Foresta dei cristalli rossi
+004-060-003	Deserto dei cristalli blu
+004-060-004	Vulcano dei cristalli gialli
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -3136,12 +3209,16 @@
 011-017-000	Torneo strappalacrime
 011-018		Arena of Honor
 011-018-000	I Seek the Strongest
+011-019		Arena of Honor
+011-019-000	8 non bastano
 011-020		Racconti dell'onore
 011-020-000	Prova cremisi
 011-021		Racconti dell'onore
 011-021-000	Prova dell'ombra
 011-022		Racconti dell'onore
 011-022-000	Prova della fenice
+011-023		Arena of Honor
+011-023-000	La gioia dei 9 anni
 
 012			Challenge Mode
 012-000		Battaglia sfida
@@ -3598,6 +3675,10 @@
 014-048-000	Felino residente (Letale)
 014-049		La seconda dimensione
 014-049-000	Si apre il wormhole (Letale)
+014-050		Valanga di XP!
+014-050-000	Tentazione del folletto
+014-050-001	Tentazione del demone
+014-050-002	Tentazione dell'arcidiavolo
 
 024			Baron Boss Stages
 024-000		Baron Foca colpisce.
@@ -4601,6 +4682,12 @@
 025-064-000	Santuario della cima (Spietato)
 025-065		Rifugio dell'istinto malvagio
 025-065-000	Santuario di confine (Spietato)
+025-066		Mappa del cacciatore IV
+025-066-000	Foresta delle pietre viola IV
+025-066-001	Deserto delle pietre verdi IV
+025-066-002	Foresta delle pietre rosse IV
+025-066-003	Deserto delle pietre blu IV
+025-066-004	Vulcano delle pietre gialle IV
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -4853,6 +4940,9 @@
 031-000-014	Zona della giungla amazzonica 15
 031-000-015	Zona della giungla amazzonica 16
 031-000-016	Zona del bosco primordiale 17
+031-000-017	Zona del bosco primordiale 18
+031-000-018	Zona del bosco primordiale 19
+031-000-019	???
 031-001		Deserto Ashvini
 031-001-000	Zona calanchiva 1
 031-001-001	Zona calanchiva 2
@@ -4871,6 +4961,9 @@
 031-001-014	Zona delle sabbie roventi 15
 031-001-015	Zona delle sabbie roventi 16
 031-001-016	Zona della tempesta di sabbia 17
+031-001-017	Zona della tempesta di sabbia 18
+031-001-018	Zona della tempesta di sabbia 19
+031-001-019	???
 031-002		Vulcano Jinfore
 031-002-000	Zona magmatica 1
 031-002-001	Zona magmatica 2
@@ -4889,6 +4982,9 @@
 031-002-014	Zona del cratere infernale 15
 031-002-015	Zona del cratere infernale 16
 031-002-016	Zona della caverna in eruzione 17
+031-002-017	Zona della caverna in eruzione 18
+031-002-018	Zona della caverna in eruzione 19
+031-002-019	???
 
 033			Grande profondità
 033-000		Grande profondità
@@ -5023,3 +5119,17 @@
 034-002-003	Fiordo fangoso
 034-002-004	Vetta della campana
 034-002-005	Foresta abracadabra
+034-003		I diari Ururuvu
+034-003-000	Nativi extra
+034-003-001	Famiglia sfortunata
+034-003-002	Pesca con l'IA
+034-003-003	Tirocinio del sacrificio
+034-004		Nuova area del mondo: Ehen
+034-004-000	Ingresso interessante
+034-004-001	Tigri all'arrembaggio
+034-004-002	Isola Chidiavolosei
+034-004-003	Can-Can Canale
+034-004-004	Ma che corso d'acqua
+034-004-005	Via Ohno
+034-004-006	Centro città Così Così
+034-004-007	Cava bella grande

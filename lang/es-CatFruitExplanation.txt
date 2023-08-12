@@ -121,7 +121,7 @@
 120	<br><br>
 121	<br><br>
 122	<br><br>
-123	<br><br>
+123	La forma final gana mucho más Ataque.<br>¡Además, resiste a los enemigos rojos,<br>a las oleadas y a los matamastodontes!
 124	La forma final tiene más<br>poder de ataque, defensa y alcance.<br>
 125	La forma final tiene más<br>poder de ataque, defensa y alcance.<br>
 126	<br><br>
@@ -407,11 +407,11 @@
 406	<br><br>
 407	<br><br>
 408	<br><br>
-409	<br><br>
+409	True Form gains increased defense!<br>Also becomes Strong against Angels and<br>a chance to Dodge attacks!
 410	La forma final tiene mejor defensa.<br>Además, mejora su ataque y obtiene<br>la probabilidad de repeler a enemigos rojos.
 411	<br><br>
 412	<br><br>
-413	<br><br>
+413	True Form gains Mini-Surge!<br>Survives a lethal blow and atk power<br>boost after taking damage increased!
 414	La forma final ataca más rápido y más<br>a menudo. Además, se fortalece<br>tras sufrir daño.
 415	<br><br>
 416	<br><br>
@@ -486,7 +486,7 @@
 485	<br><br>
 486	<br><br>
 487	<br><br>
-488	<br><br>
+488	True Form evolution increases<br>Defense, move speed, and attack speed!<br>Plus, becomes immune to slow effects!
 489	<br><br>
 490	<br><br>
 491	<br><br>
@@ -631,8 +631,8 @@
 630	<br><br>
 631	La forma final gana mucho más Ataque.<br>Bloquea oleadas y<br>es inmune a las oleadas.
 632	La forma final tiene más ataque.<br>También es inmune a la paralización.<br>
-633	<br><br>
-634	<br><br>
+633	La forma final tiene una mayor defensa<br>Siempre lanza minioleadas.<br>
+634	¡La forma final tiene gran daño de área<br>contra akus, inmunidad a paralización, y<br>posibilidad de atravesar escudos akus!
 635	<br><br>
 636	<br><br>
 637	<br><br>
@@ -707,3 +707,13 @@
 706	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
 707	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
 708	<br><br>
+709	<br><br>
+710	<br><br>
+711	<br><br>
+712	<br><br>
+713	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
+714	<br><br>
+715	<br><br>
+716	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
+717	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
+718	<br><br>

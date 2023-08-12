@@ -155,6 +155,7 @@
 159	5000 XP
 160|S160|I515	Aku Catfruit Seed
 161|S161|I516	Aku Catfruit
+163|S163|I416	Mystery Box
 164|S164|I517	Gold Catfruit Seed
 166|S166|I418	Love Letter
 167|S167|I518	Purple B. Stone
@@ -184,6 +185,9 @@
 192|S192|I623	Meteorite Z
 193|S193|I624	Beast Bones Z
 194|S194|I625	Ammonite Z
+195|S195|I424	Holy Water
+196|S196|I425	Legend Nets
+197	1000000 XP
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -246,6 +250,7 @@
 1063	Killer Tank Cat
 1064	Ancient Egg: N005
 1065	Jetpack Cat
+1066	Maize Cat
 1100	Bronze Cat
 1101	Space Cat
 1102	Rope Jump Cat
@@ -381,6 +386,7 @@
 10522	Naga Cat
 10532	Cadaver BearCat
 10540	Gridiron Cat
+10622	Cat Researcher
 15017	Superstar MONEKO
 15031	Tathagata Cat
 15032	Ultra Delinquent Cat
@@ -423,6 +429,7 @@
 15106	Divine Kuu
 15107	Divine Kai
 15108	Divine Coppermine
+15124	Val Val Cat
 15125	Immortal Masamune
 15126	Immortal Shingen
 15130	Glittering Macho Cat
@@ -523,7 +530,9 @@
 15397	Ganglion the Unleashed
 15398	Sacred Blade Sakura
 15402	Gigavolta
+15410	Reunion Li'l Rei
 15411	Eyepatch Li'l Asuka
+15414	Determined Unit-01 & Cat
 15415	Unit-02, Code 777
 15418	Subterra Sentinels
 15428	Cat Quest Heroes
@@ -542,6 +551,7 @@
 15469	Head Rococo
 15470	Super D-Devil
 15483	Cat-Eared Souma
+15489	Vanished NNN Wunder
 15496	Bellydance Cat
 15497	Immortal Kaihime
 15503	Divine Myrcia
@@ -575,6 +585,8 @@
 15621	God-Emperor Hevijak
 15632	Yaminora
 15633	Obliterator Diabolosa
+15634	Grand Chunchun Haunters
+15635	Demon Knight Kyklops
 15643	Almighty Lucifer
 15645	Minty Love Mekako
 15657	Haniwa Cat
@@ -593,6 +605,9 @@
 15701	Hitman Cat
 15707	Soap Cat
 15708	Barrel Cat
+15714	Clown Cat
+15717	Cop Cat
+15718	Farmboy Cat
 16131	Awakened Ururun
 16173	Schoolbus Nyandam
 16269	Awakened Mina

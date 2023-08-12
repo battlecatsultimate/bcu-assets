@@ -653,6 +653,26 @@
 43	Chiamata alle armi dell'imperatrice! Supera Liberare i Gatti (I cancelli si aprono...)
 44	Supera "I regni Aku". Completa superando tutti i livelli di I regni Aku
 45	Supera "I regni Aku". Completa superando tutti i livelli di I regni Aku
+9283	【D1. Cosa c'è nella scatola?】 Indovina unità nascosta. della capsula ev.! Sugg.: medaglia piena di ringraziamenti
+9284	【D1. Cosa c'è nella scatola?】 Indovina unità nascosta. della capsula ev.! Sugg.: un Gatto che porta fortuna
+9285	【D1. Cosa c'è nella scatola?】 Indovina unità nascosta. della capsula ev.! Sugg.: un ninja che sfreccia tra pianeti
+9288	【D2. Luoghi】 Quale paese è famoso per il sushi?. Supera questo livello in Impero dei Gatti per rispondere!
+9289	【D2. Luoghi】Qual è il deserto più famoso dell'Africa?. Supera questo livello in Impero dei Gatti per rispondere!
+9290	【D2. Luoghi】 Dov'è nato Salvador Dalí?. Supera questo livello in Impero dei Gatti per rispondere!
+9291	【D2. Luoghi】 Dov'è il triangolo dove spariscono gli aerei?. Supera questo livello in Impero dei Gatti per rispondere!
+9292	【D2. Luoghi】 Qual è lo stato più grande dell'America?. Supera questo livello in Impero dei Gatti per rispondere!
+9293	【D2. Luoghi】 Viaggia attorno al mondo. e rispondi a tutte le 5 domande del quiz! ()
+9294	【D3. Base felina】. Rispondi a tutte le domande che il Gatto ha per te!
+9295	【D4. Selezione】 Quale nemico entra all'università. ogni anno? Sconfiggilo in Impero dei Gatti per rispondere!
+9296	【D4. Selezione】 Quale nemico va a scuola di recitazione?. Sconfiggi questo nemico in Impero dei Gatti per rispondere!
+9297	【D4. Selezione】 Quale nemico colleziona riviste?. Sconfiggi questo nemico in Impero dei Gatti per rispondere!
+9298	【D4. Selezione】 Quale nemico lavora dai pompieri?. Sconfiggi questo nemico in Impero dei Gatti per rispondere!
+9299	【D4. Selezione】 Quale nemico ha trovato una testona?. Sconfiggi questo nemico in Impero dei Gatti per rispondere!
+9300	【D4. Selezione】 Viaggia attorno al mondo. e rispondi a tutte le 5 domande del quiz! ()
+9301	【D5. Tempo e fortuna】 Supera il livello, porta fortuna e. apri la porta! Supera 1 livelli Paradiso! ()
+9302	【D5. Tempo e fortuna】 Supera il livello, porta fortuna e. apri la porta! Supera 2 livelli Paradiso! ()
+9303	【D5. Tempo e fortuna】 Supera il livello, porta fortuna e. apri la porta! Supera 3 livelli Paradiso! ()
+46	Missione del nono anniversario. Supera Impero dei Gatti Cap. 1 durante questo evento!
 9305	Supera il 30° piano della Torre infernale. * Puoi ricevere la ricompensa solo una volta
 47	Resoconto dell'imperatrice: Ricerca di Aku. Resoconto dell'imperatrice 1: supera 5 liv. 5 volte.
 9321	【Invasione】Supera il livello "Clionel Ascendente". 1 volte usando 7 o più Gatti speciali
@@ -696,12 +716,12 @@
 9355	Supera un qualsiasi livello di "01: La cappella fantasma". 10 volte!
 9356	Supera un qualsiasi livello di "01: La cappella fantasma". 15 volte!
 9357	Supera un qualsiasi livello di "01: La cappella fantasma". 20 volte!
-9358	Supera un qualsiasi livello di "02: ??? 13". 3 volte!
-9359	Supera un qualsiasi livello di "02: ??? 13". 5 volte!
-9360	Supera il livello di continuazione dei livelli "02: ??? 13". 1 volte!
-9361	Supera un qualsiasi livello di "03: Villaggio ululante". 3 volte!
-9362	Supera un qualsiasi livello di "03: Villaggio ululante". 5 volte!
-9363	Supera un qualsiasi livello di "03: Villaggio ululante". 10 volte!
+9358	Supera un qualsiasi livello di "03: ??? 13". 3 volte!
+9359	Supera un qualsiasi livello di "03: ??? 13". 5 volte!
+9360	Supera il livello di continuazione dei livelli "03: ??? 13". 1 volte!
+9361	Supera un qualsiasi livello di "04: Villaggio ululante". 3 volte!
+9362	Supera un qualsiasi livello di "04: Villaggio ululante". 5 volte!
+9363	Supera un qualsiasi livello di "04: Villaggio ululante". 10 volte!
 9364	Compiti per le vacanze Parte 1 ①: Studia gli insetti.  Ottieni 1 Gatto Kabuto dall'evento Gacha!
 9365	Compiti per le vacanze Parte 1 ②: Studia gli insetti.  Ottieni 1 Gatto Kuwagata dall'evento Gacha!
 9366	Compiti per le vacanze Parte 1 ③: Studia gli insetti.  Ottieni 1 Uovo antico N202 dall'evento Gacha!
@@ -751,3 +771,14 @@
 58	Supera 45 livelli "Selezione Behemoth" per la prima volta. Vedi "Info sulle sfide" per verificare i livelli
 59	Supera tutti i Livelli Leggende misteriose di livello 2. per completare questa missione
 9424	Missioni del Festival Ciclone. Supera il livello "Il grande diablo"!
+9425	Ottieni un Uovo antico N203 dalle . capsule Sposa di giugno del diavolo!
+9426	Ottieni più di 8200 punti nel . livello 1 di 02: Nozze da incubo!
+9427	Ottieni più di 7200 punti nel . livello 2 di 02: Nozze da incubo!
+9428	Ottieni più di 7100 punti nel . livello 3 di 02: Nozze da incubo!
+9429	Ottieni più di 6200 punti nel . livello 4 di 02: Nozze da incubo!
+9430	Ottieni più di 4500 punti nel . livello 5 di 02: Nozze da incubo!
+9431	Ottieni una pietra B. superando il punteggio . richiesto nei livelli 1-5 di 02: Nozze da incubo!
+9432	【D1. Cosa c'è nella scatola?】 Ottieni tutte le unità. misteriose dalle capsule evento! ()
+9433	【Super Quiz】 Supera le missioni D1~5 e riscatta. un premio del valore di 1 milione di $ (secondo Gatto CPU)!
+60	Supera 50 livelli "Selezione Behemoth" per la prima volta! (Controlla la validità nei dettagli missioni)
+61	Supera 55 livelli "Selezione Behemoth" per la prima volta! (Controlla la validità nei dettagli missioni)

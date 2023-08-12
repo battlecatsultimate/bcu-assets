@@ -106,3 +106,4 @@
 105	Clear "Reign of the Tyrant"
 106	Clear All Level 2<br>Uncanny Legend stages
 107	Clear the "Omens" Gauntlet Map
+108	Clear "Invasion of the Swamplord"

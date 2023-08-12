@@ -653,6 +653,26 @@
 43	Empress' Call to Arms: Liberate the corrupted Cats! Clear "Unleashing the Cats" (The gates open...)
 44	Clear "The Aku Realms". Complete by clearing all stages in The Aku Realms
 45	Clear "The Aku Realms". Complete by clearing all stages in The Aku Realms
+9283	【Q1. What's in the Box? Quiz】. Guess the event unit! : A medal bearing many thanks
+9284	【Q1. What's in the Box? Quiz】. Guess the event unit! : A Cat that brings slight fortune
+9285	【Q1. What's in the Box? Quiz】. Guess the event unit! : Ninja who dashes between planets
+9288	【Q2. Location Quiz】What country is famous for sushi?. Clear this stage in Empire of Cats to answer!
+9289	【Q2. Location Quiz】What is the most famous desert in Africa?. Clear this stage in Empire of Cats to answer!
+9290	【Q2. Location Quiz】. Clear this Empire stage: Salvador Dali is from here
+9291	【Q2. Location Quiz】. Clear this Empire stage: Spooky triangle where planes vanish
+9292	【Q2. Location Quiz】. Clear this Empire stage: Largest state in America
+9293	【Q2. Location Quiz】Go around the world
+9294	【Q3. Cat Base Quiz】. Answer all of the quiz questions that the Cat has!
+9295	【Q4. Culling Quiz】Defeat the enemy. trying to get into college each year in an Empire stage!
+9296	【Q4. Culling Quiz】Defeat the enemy. currently attending acting school in an Empire stage!
+9297	【Q4. Culling Quiz】What enemy collects magazines?. Defeat this enemy in Empire of Cats to answer!
+9298	【Q4. Culling Quiz】What enemy works at the fire station?. Defeat this enemy in Empire of Cats to answer!
+9299	【Q4. Culling Quiz】What enemy is only a giant head?. Defeat this enemy in Empire of Cats to answer!
+9300	【Q4. Culling Quiz】Go around the world
+9301	【Q5. Matter of Luck】Clear 1 Heaven stages
+9302	【Q5. Matter of Luck】Clear 2 Heaven stages
+9303	【Q5. Matter of Luck】Clear 3 Heaven stages
+46	9th Anniversary Mission. Clear Empire of Cats Ch. 1 during this event!
 9305	Clear Floor 30 of the Infernal Tower. ※ Reward can only be collected once
 47	Empress' Report: Aku Research. Clear Empress' Report 1 - 5 stages 5 times each
 9321	【Invasion】Clear "Clionel Ascendant". 1 times using 7 or more Special Cats
@@ -696,12 +716,12 @@
 9355	Clear any "#01 The Ghost Chapel"
 9356	Clear any "#01 The Ghost Chapel"
 9357	Clear any "#01 The Ghost Chapel"
-9358	Clear any "#02 ??? the 13th"
-9359	Clear any "#02 ??? the 13th"
+9358	Clear any "#03 ??? the 13th"
+9359	Clear any "#03 ??? the 13th"
 9360	Clear the Continuation stage following
-9361	Clear any "#03 Yowling Village"
-9362	Clear any "#03 Yowling Village"
-9363	Clear any "#03 Yowling Village"
+9361	Clear any "#04 Yowling Village"
+9362	Clear any "#04 Yowling Village"
+9363	Clear any "#04 Yowling Village"
 9364	Summer Homework Part 1 ①: Study insect lifeforms.  Obtain 1 Kabuto Cat from the Event Capsules!
 9365	Summer Homework Part 1 ②: Study insect lifeforms.  Obtain 1 Kuwagata Cat from the Event Capsules!
 9366	Summer Homework Part 1 ③: Study insect lifeforms.  Obtain 1 Ancient Egg: N202 from the Event Capsules!
@@ -751,3 +771,14 @@
 58	Clear 45 Behemoth Culling Stages for the first time
 59	Clear all Level 2 Uncanny Legend stages. to complete this mission
 9424	Cyclone Festival Missions. Clear the "The Great Diablo" stage!
+9425	Earn one Ancient Egg: N203 from . the June Bride of the Devil capsules!
+9426	Score more than 8200 points on . stage 1 of #02 Banquet of Terror!
+9427	Score more than 7200 points on . stage 2 of #02 Banquet of Terror!
+9428	Score more than 7100 points on . stage 3 of #02 Banquet of Terror!
+9429	Score more than 6200 points on . stage 4 of #02 Banquet of Terror!
+9430	Score more than 4500 points on . stage 5 of #02 Banquet of Terror!
+9431	Earn one B. Stone from . clearing the score target on #02 Banquet of Terror stage 1-5!
+9432	【Q1. What's in the Box?】
+9433	【Ultra Quiz】Clear Missions Q1~5 and. claim your Million Dollar prize (according to Cat CPU)!
+60	Clear 50 Behemoth Culling stages for the first time!
+61	Clear 55 Behemoth Culling stages for the first time!

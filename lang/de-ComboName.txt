@@ -221,3 +221,5 @@
 339	Finsteres Ferienende
 340	Elohim, Essaim
 341	Bösartige Flammen
+342	Phantomjagd
+343	Verletzte Ritterlichkeit

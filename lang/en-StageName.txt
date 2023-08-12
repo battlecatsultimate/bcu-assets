@@ -373,7 +373,7 @@
 000-048		Laboratory of Relics
 000-048-000	Eldritch Forces
 
-001			Regular event stages
+001			Regular Event Stages
 001-000		Monday Stage
 001-000-000	Rich Cat (Easy)
 001-000-001	Rich Cat (Normal)
@@ -1323,6 +1323,27 @@
 001-280-001	Archaeology 401: Methods
 001-280-002	Archaeology 401: Results
 001-280-003	Archaeology 401: Analysis
+001-282		Q1. What's in the Box? Quiz
+001-282-000	Three Hidden Cats
+001-282-001	Open the Mystery Box
+001-282-002	Cat #1: Limited Edition?
+001-282-003	With Gratitude
+001-282-004	Commemorating... what?
+001-282-005	Cat #2: Fortune's Feline?
+001-282-006	Thankful Every Day
+001-282-007	Fat And Happy
+001-282-008	Lucky Charm!
+001-282-009	Cat #3: Meow of Mystery?
+001-282-010	Dancing Between Planets
+001-282-011	Slice Through Aliens!
+001-283		Q5.Time and Luck Quiz
+001-283-000	Trust In Your Luck
+001-283-001	The Door is Sealed
+001-283-002	Behind the Door
+001-283-003	Heaven or Hell
+001-283-004	In the Hands of Fate
+001-284		B-Day Gifts
+001-284-000	9 Years of Fun!
 001-285		Top 5 Most Seen Enemies, 2021!
 001-285-000	#5 Sliding
 001-285-001	#4 Blushing
@@ -1424,7 +1445,7 @@
 001-308-002	Dilapidated Cottage
 001-308-003	Dying Embers
 001-308-004	All Home Safe
-001-309		#03 Yowling Village
+001-309		#04 Yowling Village
 001-309-000	Hidden Village Honeymoon
 001-309-001	No Reception Ahead
 001-309-002	Post-Mortem Portrait
@@ -1530,6 +1551,30 @@
 001-340-001	Infernal Tyrant 2 (Merciless)
 001-340-002	Infernal Tyrant 3 (Merciless)
 001-340-003	Infernal Tyrant Climax (Brutal)
+001-342		The Greatest Diablo
+001-342-000	Wrath of Hell (Merciless)
+001-342-001	Fury of Hell (Merciless)
+001-343		#02 Banquet of Terror
+001-343-000	Groom in the Sewers
+001-343-001	All You Can Eat Rancid Meat
+001-343-002	Crazy Uncle's Toast
+001-343-003	Chainsaw to Wedding Cake
+001-343-004	Bouquet Toss in the Dark
+001-344		End-of-Summer Homework
+001-344-000	8/29 Journal, Drills, Printout
+001-344-001	8/30 Report, Self-Study, Sketches
+001-344-002	8/31 Escape
+001-345		Affliction in the Forest III
+001-345-000	Sharp-Toothed Death Fish
+001-346		Oddity in the Desert III
+001-346-000	Angry Explosion
+001-347		Peril in the Volcano III
+001-347-000	Cursed Flaming Party
+001-348		Invasion of the Swamplord
+001-348-000	Ghost King I (Deadly)
+001-348-001	Ghost King II (Merciless)
+001-348-002	Ghost King III (Merciless)
+001-348-003	Ghost King Finale (Brutal)
 
 002			Collaboration Stages
 002-003		To the Future
@@ -2083,6 +2128,20 @@
 002-198		Holy War: Gilgamesh
 002-198-000	King of Heroes (Veteran)
 002-198-001	King of Heroes (Deadly)
+002-205		The 9th Angel Strikes!
+002-205-000	Asuka On Board (Easy)
+002-205-001	Asuka On Board (Expert)
+002-206		The 10th Angel Strikes!
+002-206-000	Refusal Type (Hard)
+002-206-001	Refusal Type (Merciless)
+002-207		Eva Unit-13 Strikes!
+002-207-000	It's Not Your Fault (Veteran)
+002-207-001	We'll Meet Again (Merciless)
+002-208		Final Battle: Eva Unit-13
+002-208-000	Something I Must Do
+002-208-001	Grow Up, Shinji
+002-209		Bye-bye, all of the Cats
+002-209-000	Finale
 
 003			Main Story Chapters
 003-000		EoC Ch.1 Zombie
@@ -2955,6 +3014,14 @@
 004-046-000	Cradle Wilderness (Deadly)
 004-046-001	Summit Wilderness (Merciless)
 004-046-002	Frontier Wilderness (Merciless)
+004-047		Q5.Time and Luck Quiz
+004-047-000	The Door Opens...
+004-047-001	The Door Opens...
+004-047-002	The Door Opens...
+004-047-003	The Door Opens...
+004-047-004	The Door Opens...
+004-048		Q5.Time and Luck Quiz
+004-048-000	The Door Opens...
 004-049		Divine Archangel Strikes
 004-049-000	Cradle Wilderness (Deadly)
 004-049-001	Summit Wilderness (Merciless)
@@ -2985,6 +3052,12 @@
 004-059-000	Cradle Wilderness (Deadly)
 004-059-001	Summit Wilderness (Merciless)
 004-059-002	Frontier Wilderness (Merciless)
+004-060		Hunter's Map IV
+004-060-000	Purple Crystal Forest
+004-060-001	Green Crystal Desert
+004-060-002	Red Crystal Forest
+004-060-003	Blue Crystal Desert
+004-060-004	Yellow Crystal Volcano
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
@@ -3196,12 +3269,16 @@
 011-017-000	Tearful Tournament
 011-018		Arena of Honor
 011-018-000	I Seek the Strongest
+011-019		Arena of Honor
+011-019-000	8 Ain't Enough
 011-020		Tales of Honor
 011-020-000	Crimson Trial
 011-021		Tales of Honor
 011-021-000	Shadow Trial
 011-022		Tales of Honor
 011-022-000	Phoenix Trial
+011-023		Arena of Honor
+011-023-000	Feeling Fine at 9
 
 012			Challenge Mode
 012-000		Challenge
@@ -3539,7 +3616,7 @@
 013-048		Sacred Forest
 013-048-000	Revival of Origin
 
-014			Drink Stages
+014			Catamin Stages
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)
 014-000-001	Rays of Gold (Expert)
@@ -3657,6 +3734,10 @@
 014-048-000	Resident Feline (Deadly)
 014-049		The 2nd Dimension
 014-049-000	The Wormhole Opens (Deadly)
+014-050		XP Bonanza!
+014-050-000	Imp's Temptation
+014-050-001	Demon's Temptation
+014-050-002	Archfiend's Temptation
 
 024			Gauntlet Stages
 024-000		Baron Seal Strikes!
@@ -4703,8 +4784,14 @@
 025-064-000	Summit Shrine (Merciless)
 025-065		Bad Instinct's Refuge
 025-065-000	Frontier Shrine (Merciless)
+025-066		Hunter's Map IV
+025-066-000	Purple Stone Forest IV
+025-066-001	Green Stone Desert IV
+025-066-002	Red Stone Forest IV
+025-066-003	Blue Stone Desert IV
+025-066-004	Yellow Stone Volcano IV
 
-027			Collab Gauntlet Stages
+027			Collaboration Gauntlet Stages
 027-000		Messier's Assault
 027-000-000	Land of Dreams Lv1
 027-000-001	Land of Dreams Lv2
@@ -4956,6 +5043,9 @@
 031-000-014	Downpour Jungle Area 15
 031-000-015	Downpour Jungle Area 16
 031-000-016	Primeval Wood Area 17
+031-000-017	Primeval Wood Area 18
+031-000-018	Primeval Wood Area 19
+031-000-019	???
 031-001		Ashvini Desert
 031-001-000	Badlands Area 1
 031-001-001	Badlands Area 2
@@ -4974,6 +5064,9 @@
 031-001-014	Scorching Sands Area 15
 031-001-015	Scorching Sands Area 16
 031-001-016	Sandstorm Area 17
+031-001-017	Sandstorm Area 18
+031-001-018	Sandstorm Area 19
+031-001-019	???
 031-002		Jinfore Volcano
 031-002-000	Magma Tunnel Area 1
 031-002-001	Magma Tunnel Area 2
@@ -4992,6 +5085,9 @@
 031-002-014	Infernal Crater Area 15
 031-002-015	Infernal Crater Area 16
 031-002-016	Erupting Cavern Area 17
+031-002-017	Erupting Cavern Area 18
+031-002-018	Erupting Cavern Area 19
+031-002-019	???
 
 033			The Grand Deep
 033-000		The Grand Deep
@@ -5126,3 +5222,17 @@
 034-002-003	Muddy Fjord
 034-002-004	Hopscotch Peak
 034-002-005	Hokey Pokey Forest
+034-003		The Ururuvu Journals
+034-003-000	Extra Natives
+034-003-001	Hard-Luck Homestay
+034-003-002	AI Fishing
+034-003-003	Sacrifice Apprenticeship
+034-004		New World Area: Ehen
+034-004-000	Interesting Inlet
+034-004-001	Banishin' Tigers
+034-004-002	Theheckareyou Island
+034-004-003	Can-Can Canal
+034-004-004	What the Waterway
+034-004-005	Ohno Road
+034-004-006	So-So City Center
+034-004-007	Hole Lotta Somethin'
