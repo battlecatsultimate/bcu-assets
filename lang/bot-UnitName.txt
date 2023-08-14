@@ -411,7 +411,7 @@
 410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka
 411	Mari Illustrious	Plug Suit Mari
 412	Eva Unit-00	Eva Unit-00 & Cat
-413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-00 & Cat
+413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-01 & Cat
 414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777
 415	Shinji Cat	Toji & Kensuke Cats
 416	Moon Operators	NERV Moon
