@@ -2884,6 +2884,55 @@
 003-015-045	Andromeda
 003-015-046	Black Hole
 003-015-047	The Big Bang
+003-016		CotC Ch.2 Zombie
+003-016-000	Earth
+003-016-001	Mars
+003-016-002	Jupiter
+003-016-003	Saturn
+003-016-004	Venus
+003-016-005	Mercury
+003-016-006	Sun
+003-016-007	Uranus
+003-016-008	Neptune
+003-016-009	Triton
+003-016-010	Pluto
+003-016-011	Red Rectangle
+003-016-012	Eskimo Nebula
+003-016-013	Catseye Nebula
+003-016-014	Egg Nebula
+003-016-015	Calabash Nebula
+003-016-016	Altair
+003-016-017	Sirius
+003-016-018	Canopus
+003-016-019	Vega
+003-016-020	Aldebaran
+003-016-021	Betelgeuse
+003-016-022	Deneb
+003-016-023	Cosmic Lounge
+003-016-024	Sighter's Star
+003-016-025	Kaiou
+003-016-026	Magellanic
+003-016-027	Buutara
+003-016-028	Moskandag
+003-016-029	Corona
+003-016-030	Soba IV
+003-016-031	Plumpit
+003-016-032	Darararah
+003-016-033	Thanxbye
+003-016-034	Mertoz
+003-016-035	Urura
+003-016-036	Aguham
+003-016-037	Somolon
+003-016-038	Ababwa
+003-016-039	Titan
+003-016-040	Skelling
+003-016-041	Gorigori
+003-016-042	Broton
+003-016-043	Crimson Star
+003-016-044	N77 Nebula
+003-016-045	Andromeda
+003-016-046	Black Hole
+003-016-047	The Big Bang
 
 004			Extra Stages
 004-000		Growing Green
