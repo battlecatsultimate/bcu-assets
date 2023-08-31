@@ -652,3 +652,5 @@
 651	Shinji Castle
 652	Lophiiformes Angaburu
 653	Kappy Kawano
+654	Mega Baa Baa
+655	Super Fang Beast Crocox

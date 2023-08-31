@@ -623,7 +623,7 @@
 622	Jagando Jr.	Lord of Ruin Jagando Jr.
 623	Pied Piper Cat	Komuso Cat
 624	Kunio-kun	Dodgeball Kunio-kun
-625	Furiluga	Furilan Pasalan
+625	Furiluga	Furilan Pasalan	Furious Pasalan
 626	Giraffe Jockey Cat	Giraffe Jockey Cat Evolved
 627	Bird Jockey Cat	Bird Jockey Cat Evolved
 628	Dragon Jockey Cat	Dragon Jockey Cat Evolved
@@ -717,3 +717,5 @@
 716	Ancient Egg: N111	Mystic Egg: N111	Cop Cat
 717	Ancient Egg: N110	Amber Egg: N110	Farmboy Cat
 718	Maize Cat	Cone Cat
+719	Katchin	Tetsukatchin
+720	Ancient Egg: N006	Evil Egg: N006	Aku Cat
