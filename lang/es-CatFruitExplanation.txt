@@ -623,7 +623,7 @@
 622	<br><br>
 623	<br><br>
 624	<br><br>
-625	<br><br>
+625	Forma final: más def. y vel. de ataque.<br>Es inmune a las réplicas.<br>100% prob. de provocar mini-réplicas.
 626	<br><br>
 627	<br><br>
 628	<br><br>
@@ -717,3 +717,5 @@
 716	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
 717	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
 718	<br><br>
+719	<br><br>
+720	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>

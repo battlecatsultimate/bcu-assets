@@ -251,6 +251,7 @@
 1064	Ancient Egg: N005
 1065	Jetpack Cat
 1066	Maize Cat
+1067	Ancient Egg: N006
 1100	Bronze Cat
 1101	Space Cat
 1102	Rope Jump Cat
@@ -371,6 +372,7 @@
 10314	Li'l Jamiera Cat
 10325	Green Shell Cat
 10330	Easter Egg Cat
+10341	Redhead Muscled Yuki Cat
 10353	Masked Grandmaster Cat
 10370	Saber Alter Cat
 10380	Curry Cat
@@ -583,6 +585,7 @@
 15619	Immortal Amakusa
 15620	Divine Lilin π
 15621	God-Emperor Hevijak
+15626	Ragelan Pasalan
 15632	Yaminora
 15633	Obliterator Diabolosa
 15634	Grand Chunchun Haunters
@@ -608,6 +611,7 @@
 15714	Clown Cat
 15717	Cop Cat
 15718	Farmboy Cat
+15721	Fallen Bear Cat
 16131	Awakened Ururun
 16173	Schoolbus Nyandam
 16269	Awakened Mina

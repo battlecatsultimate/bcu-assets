@@ -107,3 +107,5 @@
 106	Clear All Level 2<br>Uncanny Legend stages
 107	Clear the "Omens" Gauntlet Map
 108	Clear "Invasion of the Swamplord"
+109	Clear all Cats of the Cosmos Ch. 2 Zombie Outbreak Stages
+110	Clear All Level 3<br>Uncanny Legend stages

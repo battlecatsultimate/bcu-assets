@@ -623,7 +623,7 @@
 622	<br><br>
 623	<br><br>
 624	<br><br>
-625	<br><br>
+625	Forme ultime = déf. et vit. attaque +.<br>Immunité aux répliques offensives.<br>Mini-répl. off. sûres à 100 %.
 626	<br><br>
 627	<br><br>
 628	<br><br>
@@ -717,3 +717,5 @@
 716	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
 717	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
 718	<br><br>
+719	<br><br>
+720	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>

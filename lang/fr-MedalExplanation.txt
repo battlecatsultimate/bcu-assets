@@ -107,3 +107,5 @@
 106	Termine tous les niveaux Légende mystérieuse de niveau 2
 107	Termine la carte Défi « Présages »
 108	Termine Le maître du marais Sanzu
+109	Repousse toutes les invasions zombies dans Cosmos ch. 2
+110	Termine tous les niveaux Légende<br>mystérieuse de niveau 3

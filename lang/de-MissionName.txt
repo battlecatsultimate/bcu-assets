@@ -701,10 +701,10 @@
 9342	Zyklonfest-Missionen. Beende „Morgenrot“ 1-Mal nur mit unentwickelten 1. Formen
 9343	Zyklonfest-Missionen. Beende „Wandelnde Tote“ 1-Mal nur mit unentw. 1. Formen
 9344	Zyklonfest-Missionen. Beende „Die 2. Dimension“ 1-Mal nur mit unentw. 1. Formen
-9345	Clear 1  "Annihilated City"  stages with "Yuki Cat" in your formation
-9346	Clear 1  "Annihilated City"  stages with "Takuya & Yuki" in your formation
-9347	Clear 1  "Annihilated City"  stages with "Redhead Yuki Cat" in your formation
-9348	Clear 1  "Annihilated City"  stages with "Kano & Souma" in your formation
+9345	Clear 1  "Annihilated City"  stage(s) with "Yuki Cat" in your formation
+9346	Clear 1  "Annihilated City"  stage(s) with "Takuya & Yuki" in your formation
+9347	Clear 1  "Annihilated City"  stage(s) with "Redhead Yuki Cat" in your formation
+9348	Clear 1  "Annihilated City"  stage(s) with "Kano & Souma" in your formation
 9349	Clear 5  Shoumetsu Toshi collab stages
 9350	Clear 15  Shoumetsu Toshi collab stages
 9351	Clear 30  Shoumetsu Toshi collab stages
@@ -782,3 +782,4 @@
 9433	[Ultra-Quiz] Schließe Missionen F1-5 ab und hol dir deinen. Preis im Wert von 1 Million (laut des Katzencomputers)!
 60	Schließe 50 Behemothjagd-Level zum ersten Mal ab!
 61	Schließe 55 Behemothjagd-Level zum ersten Mal ab!
+62	Schließe alle „Unh. Legenden“-Level der Stufe 3 ab,. um diese Mission abzuschließen

@@ -338,7 +338,7 @@
 337			
 338	Imagawa Yoshimoto	Kriegsgott Yoshimoto	Unsterblicher Yoshimoto
 339			
-340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	
+340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	Redhead Muscled Yuki Cat
 341	Lost World Yuki	Lost World Yuki ＆ Cat	Lost World Catgirl Yuki
 342	Maneki-Katze	Neo-Maneki-Katze	
 343	Schneckenreiter-Katze	Schneckenkatze	
@@ -623,7 +623,7 @@
 622	Jagando Jr.	Jagando Jr., Herr d. Zerst.	
 623	Rattenfänger-Katze	Komuso-Katze	
 624	Kunio-kun	Dodgeball Kunio-kun	
-625	Furiluga	Furilan Pasalan	
+625	Furiluga	Furilan Pasalan	Ragelan Pasalan
 626			
 627			
 628			
@@ -717,3 +717,5 @@
 716	Uraltes Ei: N111	Mystisches Ei: N111	Polizistenkatze
 717	Uraltes Ei: N110	Bernstein-Ei: N110	Bauernjungenkatze
 718	Maiskatze	Kegelkatze	
+719	Tekachi	Tetsukachi	
+720	Uraltes Ei: N006	Teufels-Ei: N006	Gefallene Bärenkatze

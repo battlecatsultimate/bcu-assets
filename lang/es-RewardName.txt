@@ -251,6 +251,7 @@
 1064	Huevo Antiguo N005
 1065	Gato Propulsor
 1066	Gato Maicero
+1067	Huevo Antiguo N006
 1100	Gato de Bronce
 1101	Gato Espacial
 1102	Gato con Comba
@@ -371,6 +372,7 @@
 10314	Minimiautante
 10325	Gato con Caparazón Verde
 10330	Gato Huevo de Pascua
+10341	Redhead Muscled Yuki Cat
 10353	Gato Gran Maestro Disfrazado
 10370	Saber Alter Cat
 10380	Gato Curry
@@ -582,6 +584,7 @@
 15619	Amakusa Inmortal
 15620	Lilin Divina
 15621	Hevijak, Dios Emperador
+15626	Ragelan Pasalan
 15632	Yaminora
 15633	Diabolosa Destructora
 15634	Grandes Cazadores Chunchun
@@ -607,6 +610,7 @@
 15714	Gato Payaso
 15717	Gato Policía
 15718	Gato Granjero
+15721	Oso Caído Gatuno
 16131	Ururun Alzado
 16173	Nyandam Bus Escolar
 16269	Mina Alzada

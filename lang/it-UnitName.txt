@@ -338,7 +338,7 @@
 337			
 338	Imagawa Yoshimoto	Yoshimoto Dio della guerra	Yoshimoto Immortale
 339			
-340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	
+340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	Redhead Muscled Yuki Cat
 341	Lost World Yuki	Lost World Yuki ＆ Cat	Lost World Catgirl Yuki
 342	Gatto Maneki	Gatto Neo-Maneki	
 343	Gatto fantino	Lumagatto	
@@ -623,7 +623,7 @@
 622	Jagando jr.	Jagando jr. Sig. della Rovina	
 623	Gatto pifferaio	Gatto Komuso	
 624	Kunio-kun	Dodgeball Kunio-kun	
-625	Furiluga	Furilan Pasalan	
+625	Furiluga	Furilan Pasalan	Ragelan Pasalan
 626			
 627			
 628			
@@ -717,3 +717,5 @@
 716	Uovo antico N111	Uovo mistico N111	Gatto sbirro
 717	Uovo antico N110	Uovo ambrato N110	Gatto contadino
 718	Gatturco	Gatto cono	
+719	Tekachi	Tetsukachi	
+720	Uovo antico N006	Uovo diabolico N006	Gatto Orso perduto

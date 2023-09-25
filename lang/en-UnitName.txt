@@ -338,7 +338,7 @@
 337			
 338	Imagawa Yoshimoto	Wargod Yoshimoto	Immortal Yoshimoto
 339			
-340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	
+340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	Redhead Muscled Yuki Cat
 341	Lost World Yuki	Lost World Yuki ＆ Cat	Lost World Catgirl Yuki
 342	Maneki Cat	Neo Maneki Cat	
 343	Slug Jockey Cat	Slugcat	
@@ -623,7 +623,7 @@
 622	Jagando Jr.	Lord of Ruin Jagando Jr.	
 623	Pied Piper Cat	Komuso Cat	
 624	Kunio-kun	Dodgeball Kunio-kun	
-625	Furiluga	Furilan Pasalan	
+625	Furiluga	Furilan Pasalan	Ragelan Pasalan
 626			
 627			
 628			
@@ -717,3 +717,5 @@
 716	Ancient Egg: N111	Mystic Egg: N111	Cop Cat
 717	Ancient Egg: N110	Amber Egg: N110	Farmboy Cat
 718	Maize Cat	Cone Cat	
+719	Tekachi	Tetsukachi	
+720	Ancient Egg: N006	Devil Egg: N006	Fallen Bear Cat

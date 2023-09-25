@@ -701,10 +701,10 @@
 9342	ภารกิจเทศกาลไซโคลน. เคลียร์ด่าน "ท้องฟ้าแดงยามเช้า" 1 ครั้งโดยใช้เฉพาะร่างที่ 1 เท่านั้น
 9343	ภารกิจเทศกาลไซโคลน. เคลียร์ด่าน "วงล้อความตาย" 1 ครั้งโดยใช้เฉพาะร่างที่ 1 เท่านั้น
 9344	ภารกิจเทศกาลไซโคลน. เคลียร์ด่าน มิติที่ 2" 1 ครั้งโดยใช้เฉพาะร่างที่ 1 เท่านั้น
-9345	Clear 1  "Annihilated City"  stages with "Yuki Cat" in your formation
-9346	Clear 1  "Annihilated City"  stages with "Takuya & Yuki" in your formation
-9347	Clear 1  "Annihilated City"  stages with "Redhead Yuki Cat" in your formation
-9348	Clear 1  "Annihilated City"  stages with "Kano & Souma" in your formation
+9345	Clear 1  "Annihilated City"  stage(s) with "Yuki Cat" in your formation
+9346	Clear 1  "Annihilated City"  stage(s) with "Takuya & Yuki" in your formation
+9347	Clear 1  "Annihilated City"  stage(s) with "Redhead Yuki Cat" in your formation
+9348	Clear 1  "Annihilated City"  stage(s) with "Kano & Souma" in your formation
 9349	Clear 5  Shoumetsu Toshi collab stages
 9350	Clear 15  Shoumetsu Toshi collab stages
 9351	Clear 30  Shoumetsu Toshi collab stages
@@ -782,3 +782,4 @@
 9433	【อัลตร้า】เคลียร์ภารกิจข้อ 1~5 และรับรางวัลมูลค่า $1 ล้าน. (ตามมูลค่าในซีพียูแมว)!
 60	เคลียร์ด่านสังหารเบอฮีมอธ 50 ด่านเป็นครั้งแรก! (ตรวจดูด่านที่เล่นได้ในรายละเอียดภารกิจ)
 61	เคลียร์ด่านสังหารเบอฮีมอธ 55 ด่านเป็นครั้งแรก! (ตรวจดูด่านที่เล่นได้ในรายละเอียดภารกิจ)
+62	เคลียร์ด่านตำนานประหลาดเลเวล 3. ทั้งหมดเพื่อทำภารกิจนี้ให้สำเร็จ

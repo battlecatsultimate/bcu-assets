@@ -121,7 +121,7 @@
 120	<br><br>
 121	<br><br>
 122	<br><br>
-123	True Form gains significantly increased defense.<br>Also gains resistance to Red enemies,<br>Wave attacks, Behemoth Slayer!
+123	True Form gains greatly improved defense.<br>Also gains resistance to Red enemies,<br>Wave attacks, Behemoth Slayer!
 124	True Form evolution increases<br>attack power and range and defense!<br>
 125	True Form evolution increases<br>attack power and range and defense!<br>
 126	<br><br>
@@ -623,7 +623,7 @@
 622	<br><br>
 623	<br><br>
 624	<br><br>
-625	<br><br>
+625	True Form gains improved defense, attack<br>speed, and 100% chance to unleash<br>Mini-Surges.. Immune to Surge Attacks.
 626	<br><br>
 627	<br><br>
 628	<br><br>
@@ -717,3 +717,5 @@
 716	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 717	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 718	<br><br>
+719	<br><br>
+720	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>

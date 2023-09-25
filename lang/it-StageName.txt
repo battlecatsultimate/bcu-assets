@@ -1315,6 +1315,11 @@
 001-280-001	Archeologia 401: metodi
 001-280-002	Archeologia 401: risultati
 001-280-003	Archeologia 401: analisi
+001-281		Scavo dell'imperatrice 5
+001-281-000	Archeologia 501: pianificazione
+001-281-001	Archeologia 501: metodi
+001-281-002	Archeologia 501: risultati
+001-281-003	Archeologia 501: analisi
 001-282		D1. Quiz Cosa c'è nella scatola?!
 001-282-000	Tre gatti nascosti
 001-282-001	Apri la scatola misteriosa
@@ -1535,6 +1540,17 @@
 001-348-001	Re fantasma II (Spietato)
 001-348-002	Re fantasma III (Spietato)
 001-348-003	Re fantasma (Brutale)
+001-349		Macchine in rivolta
+001-349-000	Riavvio forzato Liv. 1
+001-349-001	Riavvio forzato Liv. 2
+001-349-002	Riavvio forzato Liv. 3
+001-349-003	Riavvio forzato Liv. 4
+001-349-004	Riavvio forzato Liv. 5
+001-349-005	Riavvio forzato Liv. 6
+001-349-006	Riavvio forzato Liv. 7
+001-349-007	Riavvio forzato Liv. 8
+001-349-008	Riavvio forzato Liv. 9
+001-349-009	Riavvio forzato Liv. MAX
 
 002			Collaboration Stages
 002-003		To the Future
@@ -5182,3 +5198,10 @@
 034-004-005	Via Ohno
 034-004-006	Centro città Così Così
 034-004-007	Cava bella grande
+034-005		Gatti di un mare comune
+034-005-000	Risacca sulla costa
+034-005-001	Grande barriera stupidina
+034-005-002	Allarme pinna minacciosa
+034-005-003	Due miglia sotto i mari
+034-005-004	Habitat marino
+034-005-005	Oltre l'adale

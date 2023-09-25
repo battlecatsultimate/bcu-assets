@@ -1310,6 +1310,11 @@
 001-280-001	Archäologie f. Koryphäen: Methoden
 001-280-002	Archäologie f. Koryphäen: Ergebnisse
 001-280-003	Archäologie f. Koryphäen: Analyse
+001-281		Ausgrabung der Kaiserin 5
+001-281-000	Archäologie f. Großmeister: Planung
+001-281-001	Archäologie f. Großmeister: Methoden
+001-281-002	Archäologie f. Großmeister: Ergebnisse
+001-281-003	Archäologie f. Großmeister: Analyse
 001-282		F1. „Was ist in der Schachtel?“-Quiz
 001-282-000	Drei versteckte Katzen
 001-282-001	Öffne die Überraschungsschachtel
@@ -1539,6 +1544,17 @@
 001-348-001	Geisterkönig II (Gnadenlos)
 001-348-002	Geisterkönig III (Gnadenlos)
 001-348-003	Geisterkönig (Brutal)
+001-349		Maschinenrevolte
+001-349-000	Harter Neustart St. 1
+001-349-001	Harter Neustart St. 2
+001-349-002	Harter Neustart St. 3
+001-349-003	Harter Neustart St. 4
+001-349-004	Harter Neustart St. 5
+001-349-005	Harter Neustart St. 6
+001-349-006	Harter Neustart St. 7
+001-349-007	Harter Neustart St. 8
+001-349-008	Harter Neustart St. 9
+001-349-009	Harter Neustart St. MAX
 
 002			Collaboration Stages
 002-003		To the Future
@@ -5156,3 +5172,10 @@
 034-004-005	Auweia-Weg
 034-004-006	So-la-la-Stadtzentrum
 034-004-007	Jede Menge Irgendwas
+034-005		Katzen der hohen See
+034-005-000	Unterstromküste
+034-005-001	Große Barrierefreiheit
+034-005-002	Bedrohliche Rückenflosse
+034-005-003	Zwei Meilen unter dem Meer
+034-005-004	Meereshöhlenhabitat
+034-005-005	Jenseits der Hadalzone

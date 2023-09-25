@@ -1311,6 +1311,11 @@
 001-280-001	Bases d’archéologie 401 : méthodes
 001-280-002	Bases d’archéologie 401 : résultats
 001-280-003	Bases d’archéologie 401 : analyse
+001-281		Excavation de l'impératrice 5
+001-281-000	Bases d’archéologie 501 : planification
+001-281-001	Bases d’archéologie 501 : méthodes
+001-281-002	Bases d’archéologie 501 : résultats
+001-281-003	Bases d’archéologie 501 : analyse
 001-282		Q1. Quiz Qu’y a-t-il dans la boîte ?
 001-282-000	Trois Chats cachés
 001-282-001	Ouvre la boîte mystère
@@ -1540,6 +1545,17 @@
 001-348-001	Roi fantôme II (sans répit)
 001-348-002	Roi fantôme III (sans répit)
 001-348-003	Roi fantôme (brutal)
+001-349		Révolte des machines
+001-349-000	Redémarrage forcé niv. 1
+001-349-001	Redémarrage forcé niv. 2
+001-349-002	Redémarrage forcé niv. 3
+001-349-003	Redémarrage forcé niv. 4
+001-349-004	Redémarrage forcé niv. 5
+001-349-005	Redémarrage forcé niv. 6
+001-349-006	Redémarrage forcé niv. 7
+001-349-007	Redémarrage forcé niv. 8
+001-349-008	Redémarrage forcé niv. 9
+001-349-009	Redémarrage forcé niv. max
 
 002			Collaboration Stages
 002-003		To the Future
@@ -5218,3 +5234,10 @@
 034-004-005	Route Ohno
 034-004-006	Centre-ville So-So
 034-004-007	Tout un tintouin
+034-005		Chats d'une même mer
+034-005-000	Côte des contre-courants
+034-005-001	Grande Barrière de rocaille
+034-005-002	Alerte ailerons
+034-005-003	Deux milles sous les mers
+034-005-004	Habitat abyssal
+034-005-005	Par-delà les grands fonds

@@ -1314,6 +1314,11 @@
 001-280-001	Arqueología 401: Métodos
 001-280-002	Arqueología 401: Resultados
 001-280-003	Arqueología 401: Análisis
+001-281		Excavación de Emperatriz 5
+001-281-000	Arqueología 501: Preparación
+001-281-001	Arqueología 501: Métodos
+001-281-002	Arqueología 501: Resultados
+001-281-003	Arqueología 501: Análisis
 001-282		P1. Concurso ¡¿Qué hay en la caja?!
 001-282-000	Tres gatos ocultos
 001-282-001	Abre la caja misteriosa
@@ -5232,3 +5237,10 @@
 034-004-005	Calle de la Amargura
 034-004-006	Centro de la Ciudad Así Asá
 034-004-007	Hoyo en Uno
+034-005		Gatos del Mar Común
+034-005-000	Costa Resacosa
+034-005-001	Gran Barrera - gratis
+034-005-002	Aviso de Aleta Ominosa
+034-005-003	Dos Millas hacia Abajo
+034-005-004	Hábitat de Cueva Marina
+034-005-005	Más Allá del Lecho Marino

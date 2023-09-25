@@ -701,10 +701,10 @@
 9342	Cyclone Festival Missions. Clear "Red Sky at Morning" 1 times using only 1st Forms
 9343	Cyclone Festival Missions. Clear "The Rolling Dead" 1 times using only unevolved 1st Forms
 9344	Cyclone Festival Missions. Clear "The 2nd Dimension" 1 times using only 1st Forms
-9345	Clear 1  "Annihilated City"  stages with "Yuki Cat" in your formation
-9346	Clear 1  "Annihilated City"  stages with "Takuya & Yuki" in your formation
-9347	Clear 1  "Annihilated City"  stages with "Redhead Yuki Cat" in your formation
-9348	Clear 1  "Annihilated City"  stages with "Kano & Souma" in your formation
+9345	Clear 1  "Annihilated City"  stage(s) with "Yuki Cat" in your formation
+9346	Clear 1  "Annihilated City"  stage(s) with "Takuya & Yuki" in your formation
+9347	Clear 1  "Annihilated City"  stage(s) with "Redhead Yuki Cat" in your formation
+9348	Clear 1  "Annihilated City"  stage(s) with "Kano & Souma" in your formation
 9349	Clear 5  Shoumetsu Toshi collab stages
 9350	Clear 15  Shoumetsu Toshi collab stages
 9351	Clear 30  Shoumetsu Toshi collab stages
@@ -782,3 +782,4 @@
 9433	【Ultra Quiz】Clear Missions Q1~5 and. claim your Million Dollar prize (according to Cat CPU)!
 60	Clear 50 Behemoth Culling stages for the first time!
 61	Clear 55 Behemoth Culling stages for the first time!
+62	Clear all Level 3 Uncanny Legend stages. to complete this mission

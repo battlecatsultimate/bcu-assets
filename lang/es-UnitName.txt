@@ -338,7 +338,7 @@
 337			
 338	Imagawa Yoshimoto	Dios de la Guerra Yoshimoto	Yoshimoto Inmortal
 339			
-340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	
+340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	Redhead Muscled Yuki Cat
 341	Lost World Yuki	Lost World Yuki ＆ Cat	Lost World Catgirl Yuki
 342	Gato de la Suerte	Neogato de la Suerte	
 343	Jinete de Babosas	Gatobabosa	
@@ -623,7 +623,7 @@
 622	Majado Jr.	Señor de la Ruina Majado Jr.	
 623	Gato de Hamelín	Gato Komuso	
 624	Kunio-kun	Dodgeball Kunio-kun	
-625	Furiluga	Furilan Pasalan	
+625	Furiluga	Furilan Pasalan	Ragelan Pasalan
 626			
 627			
 628			
@@ -717,3 +717,5 @@
 716	Huevo Antiguo N111	Huevo Místico N111	Gato Policía
 717	Huevo Antiguo N110	Huevo ámbar N110	Gato Granjero
 718	Gato Maicero	Gatocono	
+719	Tekachi	Tetsukachi	
+720	Huevo Antiguo N006	Huevo Demoniaco N006	Oso Caído Gatuno

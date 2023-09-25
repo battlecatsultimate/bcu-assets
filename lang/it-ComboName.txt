@@ -223,3 +223,4 @@
 341	Fiamme malvagie
 342	Acchiappando spiriti
 343	Cavalleria violata
+344	Gestione della rabbia

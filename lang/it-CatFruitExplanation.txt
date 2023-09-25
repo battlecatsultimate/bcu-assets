@@ -623,7 +623,7 @@
 622	<br><br>
 623	<br><br>
 624	<br><br>
-625	<br><br>
+625	Forma Reale ha più velocità att. e dif.!<br>Immune da attacchi a valanga.<br>Scatena mini valanghe al 100%.
 626	<br><br>
 627	<br><br>
 628	<br><br>
@@ -717,3 +717,5 @@
 716	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 717	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 718	<br><br>
+719	<br><br>
+720	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>

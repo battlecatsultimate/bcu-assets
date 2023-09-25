@@ -251,6 +251,7 @@
 1064	Uraltes Ei: N005
 1065	Jetpack-Katze
 1066	Maiskatze
+1067	Uraltes Ei: N006
 1100	Bronzekatze
 1101	Weltraumkatze
 1102	Seilhüpfkatze
@@ -371,6 +372,7 @@
 10314	Kleine Jamierakatze
 10325	Grüner-Panzer-Katze
 10330	Ostereikatze
+10341	Redhead Muscled Yuki Cat
 10353	Maskierte Großmeisterkatze
 10370	Saber Alter Cat
 10380	Curry-Katze
@@ -583,6 +585,7 @@
 15619	Unsterblicher Amakusa
 15620	Himmlische Lilin π
 15621	Hevijak der Gottkaiser
+15626	Ragelan Pasalan
 15632	Yaminora
 15633	Auslöscher Diabolosa
 15634	Große Chunchun-Spuker
@@ -608,6 +611,7 @@
 15714	Clownkatze
 15717	Polizistenkatze
 15718	Bauernjungenkatze
+15721	Gefallene Bärenkatze
 16131	Erwachte Ururun
 16173	Schulbus-Nyandam
 16269	Erwachte Mina

@@ -223,3 +223,4 @@
 341	Bösartige Flammen
 342	Phantomjagd
 343	Verletzte Ritterlichkeit
+344	Wutbewältigung

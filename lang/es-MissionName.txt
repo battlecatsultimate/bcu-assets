@@ -696,10 +696,10 @@
 9342	Misiones del Festival de Ciclón. Supera Cielo Rojo Matutino 1 veces con primeras formas
 9343	Misiones del Festival de Ciclón. Supera Muertos Rodantes 1 veces con primeras formas
 9344	Misiones del Festival de Ciclón. Supera La Segunda Dimensión 1 veces con primeras formas
-9345	Clear 1  "Annihilated City"  stages with "Yuki Cat" in your formation
-9346	Clear 1  "Annihilated City"  stages with "Takuya & Yuki" in your formation
-9347	Clear 1  "Annihilated City"  stages with "Redhead Yuki Cat" in your formation
-9348	Clear 1  "Annihilated City"  stages with "Kano & Souma" in your formation
+9345	Clear 1  "Annihilated City"  stage(s) with "Yuki Cat" in your formation
+9346	Clear 1  "Annihilated City"  stage(s) with "Takuya & Yuki" in your formation
+9347	Clear 1  "Annihilated City"  stage(s) with "Redhead Yuki Cat" in your formation
+9348	Clear 1  "Annihilated City"  stage(s) with "Kano & Souma" in your formation
 9349	Clear 5  Shoumetsu Toshi collab stages
 9350	Clear 15  Shoumetsu Toshi collab stages
 9351	Clear 30  Shoumetsu Toshi collab stages
@@ -777,3 +777,4 @@
 9433	【Ultraconcurso】Supera las misiones C1-5 y pide tu premio. con valor de 1 millón de dólares (o eso dice el gatomático)
 60	Supera 50 fases de Matanza de Mastodontes por primera vez
 61	Supera 55 fases de Matanza de Mastodontes por primera vez
+62	Para completar esta misión, supera el nivel 3. de todas las Etapas de Leyenda Inquietante

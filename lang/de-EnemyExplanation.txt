@@ -652,3 +652,5 @@
 651	<br><br><br>
 652	Hat 10-mal die Uni-Aufnahmeprüfung nicht geschafft<br>und die Ausbildung aufgegeben, weil man zum<br>Untotsein keinen Abschluss braucht.<br>Fragt sich doch, was hätte sein können …
 653	Ein stubenreiner großer Yokai aus den Sümpfen.<br>Sein mächtiger, von einer Bittermelonenernährung getriebener<br>Schlag macht ihn außer Haus zum gefährlichen Gegner, doch<br>zu Hause hat seine Frau ihn unter Kontrolle.
+654	Ein Geheimlabor hat unethische Genmanipulation genutzt, um<br>das ideale Schaf zu schaffen. Anfangs mit dem eigenwilligen<br>Körper zufrieden, wünschte es sich bald, die Verwandlung<br>wäre ambitionierter gewesen.
+655	Alligator, der sich beim Wildzelten in die freie Natur <br>verliebt hat. Der gestählte Körper ist mit Grillkohlestaub<br>bedeckt, damit er sich beim Pirschen im Urwald <br>besser tarnen kann.

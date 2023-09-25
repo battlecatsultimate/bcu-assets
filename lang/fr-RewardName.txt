@@ -251,6 +251,7 @@
 1064	Œuf ancien N005
 1065	Chat à propulsion
 1066	Chat mélasse
+1067	Œuf ancien : N006
 1100	Chat en bronze
 1101	Chastronaute
 1102	Chat corde à sauter
@@ -371,6 +372,7 @@
 10314	P’tit Chat Jamilar
 10325	Charapace verte
 10330	Chat œuf de Pâques
+10341	Redhead Muscled Yuki Cat
 10353	Grand maître Chat masqué
 10370	Saber Alter Cat
 10380	Chat curry
@@ -583,6 +585,7 @@
 15619	Amakusa immortel
 15620	Lilin π divine
 15621	Dieu empereur Hevijak
+15626	Ragelan Pasalan
 15632	Yaminora
 15633	Diabolosa oblitératrice
 15634	Grands chasseurs d’esprits
@@ -608,6 +611,7 @@
 15714	Chat clown
 15717	Chagent de police
 15718	Chagriculteur
+15721	Chat-Ours déchu
 16131	Ururun et Tama éveillés
 16173	Bus scolaire Nyandam
 16269	Mina éveillée

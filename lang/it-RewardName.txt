@@ -251,6 +251,7 @@
 1064	Uovo antico N005
 1065	Gatto jetpack
 1066	Gatturco
+1067	Uovo antico N006
 1100	Busto di Gatto
 1101	Gatto spaziale
 1102	Gatto con la corda
@@ -371,6 +372,7 @@
 10314	Mini Gatto Jamiera
 10325	Gatto Guscio verde
 10330	Gatto pasquale
+10341	Redhead Muscled Yuki Cat
 10353	Gran Miaoestro mascherato
 10370	Saber Alter Cat
 10380	Gatto curry
@@ -583,6 +585,7 @@
 15619	Amakusa immortale
 15620	Lilin π Divina
 15621	Hevijak Dio-Imperatore
+15626	Ragelan Pasalan
 15632	Yaminora
 15633	Diabolosa obliterante
 15634	Gran Acchiappafantasmi
@@ -608,6 +611,7 @@
 15714	Gatto clown
 15717	Gatto sbirro
 15718	Gatto contadino
+15721	Gatto Orso perduto
 16131	Ururun risvegliata
 16173	Scuolabus Nyandam
 16269	Mina risvegliata

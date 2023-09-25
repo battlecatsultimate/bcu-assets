@@ -1323,6 +1323,11 @@
 001-280-001	Archaeology 401: Methods
 001-280-002	Archaeology 401: Results
 001-280-003	Archaeology 401: Analysis
+001-281		Empress' Excavation 5
+001-281-000	Archaeology 501: Planning
+001-281-001	Archaeology 501: Methods
+001-281-002	Archaeology 501: Results
+001-281-003	Archaeology 501: Analysis
 001-282		Q1. What's in the Box? Quiz
 001-282-000	Three Hidden Cats
 001-282-001	Open the Mystery Box
@@ -1575,6 +1580,17 @@
 001-348-001	Ghost King II (Merciless)
 001-348-002	Ghost King III (Merciless)
 001-348-003	Ghost King Finale (Brutal)
+001-349		Machines in Revolt
+001-349-000	Hard Restart Lv.1
+001-349-001	Hard Restart Lv.2
+001-349-002	Hard Restart Lv.3
+001-349-003	Hard Restart Lv.4
+001-349-004	Hard Restart Lv.5
+001-349-005	Hard Restart Lv.6
+001-349-006	Hard Restart Lv.7
+001-349-007	Hard Restart Lv.8
+001-349-008	Hard Restart Lv.9
+001-349-009	Hard Restart Lv.MAX
 
 002			Collaboration Stages
 002-003		To the Future
@@ -5285,3 +5301,10 @@
 034-004-005	Ohno Road
 034-004-006	So-So City Center
 034-004-007	Hole Lotta Somethin'
+034-005		Cats of a Common Sea
+034-005-000	Undertow Coast
+034-005-001	Great Barrier-free
+034-005-002	Ominous Fin Alert
+034-005-003	Two Miles Below
+034-005-004	Sea Cave Habitat
+034-005-005	Beyond the Hadal

@@ -623,7 +623,7 @@
 622	<br><br>
 623	<br><br>
 624	<br><br>
-625	<br><br>
+625	Wahre Form hat +Vert. und Ang.-Geschw.<br>Immun gegen Zufallsangriffe.<br>Entfesselt garantiert Mini-Zufallsang.
 626	<br><br>
 627	<br><br>
 628	<br><br>
@@ -717,3 +717,5 @@
 716	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
 717	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
 718	<br><br>
+719	<br><br>
+720	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>

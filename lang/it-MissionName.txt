@@ -701,10 +701,10 @@
 9342	Missioni del Festival del Ciclone. Supera Rosso di mattina 1 volte con solo prime forme
 9343	Missioni del Festival del Ciclone. Supera Morti rotolanti 1 volte con solo prime forme
 9344	Missioni del Festival del Ciclone. Supera La seconda dimensione 1 volte con solo prime forme
-9345	Clear 1  "Annihilated City"  stages with "Yuki Cat" in your formation
-9346	Clear 1  "Annihilated City"  stages with "Takuya & Yuki" in your formation
-9347	Clear 1  "Annihilated City"  stages with "Redhead Yuki Cat" in your formation
-9348	Clear 1  "Annihilated City"  stages with "Kano & Souma" in your formation
+9345	Clear 1  "Annihilated City"  stage(s) with "Yuki Cat" in your formation
+9346	Clear 1  "Annihilated City"  stage(s) with "Takuya & Yuki" in your formation
+9347	Clear 1  "Annihilated City"  stage(s) with "Redhead Yuki Cat" in your formation
+9348	Clear 1  "Annihilated City"  stage(s) with "Kano & Souma" in your formation
 9349	Clear 5  Shoumetsu Toshi collab stages
 9350	Clear 15  Shoumetsu Toshi collab stages
 9351	Clear 30  Shoumetsu Toshi collab stages
@@ -782,3 +782,4 @@
 9433	【Super Quiz】 Supera le missioni D1~5 e riscatta. un premio del valore di 1 milione di $ (secondo Gatto CPU)!
 60	Supera 50 livelli "Selezione Behemoth" per la prima volta! (Controlla la validità nei dettagli missioni)
 61	Supera 55 livelli "Selezione Behemoth" per la prima volta! (Controlla la validità nei dettagli missioni)
+62	Supera tutti i Livelli Leggende misteriose di livello 3. per completare questa missione

@@ -46,7 +46,7 @@
 045	Non dirlo a nessuno, ma ho sentito che viene dalla<br>periferia. In canile, ha provato ad adottare<br>un bastardino... ha trovato una razza inaspettata!<br>
 046	Un giorno il Cane ha preso un volantino<br>e ha trovato lavoro come killer part time.<br>Lavora duro ogni giorno per guadagnare<br>tanto da entrare nella migliore università.
 047	Una certa organizzazione ha deciso di<br>fare esperimenti e rendere Ippo metallico.<br>Sembra essere debole agli attacchi critici.<br>
-048	Antenato del Suino.<br>Secondo re del regno suino.<br>Tra qualche giorno diventerà<br>pancetta biologica (non lo sa ancora)
+048	Antenato del Suino.<br>Secondo re del regno suino.<br>Tra qualche giorno diventerà<br>pancetta biologica (non lo sa ancora).
 049	Un autore molto famoso. Figura influente per<br>Professor Bum-bum. Le opere principali:<br>Punizione e Pregiudizio (1868)<br>Les Pénitents (1875)
 050	L'AMORE TI PORTA IN PARADISO #AMORE<br>È quello che dice quando colpisce le persone.<br>Alcuni dicono che puoi vedere l'altro mondo<br>quando ti colpisce... Fonti attendibili: zero.
 051	Gory ha trovato un lavoro!<br>Si lascia la vecchia vita alle spalle<br>e non vede l'ora di rivedere<br>la sua famiglia quando torna a casa.
@@ -652,3 +652,5 @@
 651	<br><br><br>
 652	Dopo 10 test di ingresso falliti,<br>ha rinunciato: infatti non serve<br>una laurea per essere non-morti.<br>Ha ancora dei rimpianti...
 653	Grande yokai addomesticato, vive nelle paludi.<br>Un colpo potente, potenziato da una dieta a<br>base di melone amaro, lo rende temibile,<br>ma a casa lo tiene a bada sua moglie.
+654	Un laboratorio segreto ha modificato un genoma<br>per creare una pecora superiore. All'inizio gradiva il suo<br>corpo stravagante, ma presto ha capito che avrebbe<br>preferito una trasformazione un po' più ambiziosa.
+655	Alligatore innamorato della natura selvaggia <br>dopo aver provato il campeggio libero. Ha ricoperto<br>con polvere di carbonella il suo il corpo di acciaio per <br>inseguire meglio le prede in tutto il bosco primordiale.
