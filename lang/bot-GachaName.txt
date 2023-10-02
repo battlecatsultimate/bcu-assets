@@ -48,10 +48,11 @@
 -2010	Street Fighter Collab Gacha	//SF 415
 -2011	Hatsune Miku Collab Gacha	//Miku 563
 -2022	Ranma 1/2 Collab Gacha	//Ranma 588
--2023	Kunio-kun Collab Gacha	//Kunio 620
+-2023	Kunio-kun Collab Gacha (Red Team)	//Kunio 620
 -2024	Street Fighter Gacha (Blue Team)	//SF Blue 763
 -2025	Street Fighter Gacha (Red Team)	//SF Red 764
 -2026	Evangelion Collab Gacha 2nd
+-2027	Kunio-kun Collab Gacha (White Team)
 E12	Bikkuriman Chocolate Capsules
 E13	Bikkuriman Chocolate Capsules
 E14	Summer Break Capsules
@@ -797,3 +798,12 @@ N65	Cats Eye Capsules
 839	-104	719
 840	-107	719
 841	-1011	714
+842	-7	723
+843	-7	723
+844	-105	723
+845	-106	723
+846	-104	723
+847	-107	723
+848	-2023
+849	-2027
+850	-2011	722

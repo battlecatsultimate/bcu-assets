@@ -117,7 +117,7 @@
 116	Fuu	Fuu CC
 117	Aura	Aura CC
 118	Rei	Rei CC
-119	Wyvern	Wyvern Cat
+119	Wyvern	Wyvern Cat	Wyvern Cat & Alec
 120	Healer	Healer CC	Healer Cat CC
 121	Merc	Merc CC	Merc & Cat CC
 122	Vacation Queen	Office Lady Cat	Call Center Cat
@@ -557,7 +557,7 @@
 556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba
 557	Heavenly Jack	Heavenly Lord Jack
 558	Gacha Cat	Lucky Gacha Cat
-559	Hell Warden Emma	Hell Sentinel Emma
+559	Hell Warden Emma	Hell Sentinel Emma	Hell Chief Emma
 560	Megurine Luka	Megurine Luka CC
 561	MEIKO & Cat	MEIKO & Cat CC
 562	Luka Cat	Luka Cat CC
@@ -627,14 +627,14 @@
 626	Giraffe Jockey Cat	Giraffe Jockey Cat Evolved
 627	Bird Jockey Cat	Bird Jockey Cat Evolved
 628	Dragon Jockey Cat	Dragon Jockey Cat Evolved
-629	Brainwashed Cat	Brainwashed Macho Cat
+629	Brainwashed Cat	Brainwashed Macho Cat	Brainwashed Mohawk Cat
 630	Calligraphy Cat	Tea Master Cat
 631	Yamii	Yaminoir	Yaminora
 632	Mighty Deth-Troy-R	Siege Walker Diabolosa	Obliterator Diabolosa
 633	Shitakiri Sparrow	Chunchun Haunters	Grand Chunchun Haunters
 634	White Knight Cyclops	Black Knight Kyklops	Demon Knight Kyclops
 635	Million Dollar Cat	Hundred-Million Dollar Cat
-636	Brainwashed Tank Cat	Brainwashed Wall Cat
+636	Brainwashed Tank Cat	Brainwashed Wall Cat	Brainwashed Eraser Cat
 637	Xiaoqiong and Cat	Xiaoqiong and Cat CC
 638	Nana and Cat	Nana and Cat CC
 639	Emelia and Cat	Emelia and Cat CC
@@ -643,7 +643,7 @@
 642	Lucifer the Fallen	Grand Lucifer	Almighty Lucifer
 643	Superfeline	Superfeline II	True Superfeline
 644	Sweet Love Mekako	Bittersweet Mekako	Minty Love Mekako
-645	Brainwashed Axe Cat	Brainwashed Brave Cat
+645	Brainwashed Axe Cat	Brainwashed Brave Cat	Brainwashed Dark Cat
 646	Firecracker Cat	Macho Firecracker Cat
 647	Huntress Terun	Huntress Terun ζ
 648	Lovestruck Lesser Demon	Lovestruck Greater Demon
@@ -652,7 +652,7 @@
 651	Tomboy Lion Cat	Iron-Masked Lion Cat
 652	Chalkboard Eraser Cat	Chalkboard Punk Cat
 653	Elder Beast Naala	Storm Beast Naala	Awakened Naala
-654	Brainwashed Gross Cat	Brainwashed Sexy Legs Cat
+654	Brainwashed Gross Cat	Brainwashed Sexy Legs Cat	Brainwashed Macho Legs
 655	Bliza	Blizana
 656	Ancient Egg N001	Mystic Egg N001	Haniwa Cat
 657	Iz the Dancer of Grief	Iz the Lady of Mourning
@@ -660,12 +660,12 @@
 659	Ancient Egg: N102	Teal Egg: N102	Catarzan
 660	Sea Serpent Daliasan	Sea King Daliasan
 661	Chronos the Bride	Wedding Chronos
-662	Brainwashed Cow Cat	Brainwashed Giraffe Cat
+662	Brainwashed Cow Cat	Brainwashed Giraffe Cat	Brainwashed Lion Cat
 663	Ancient Egg: N103	Black Egg: N103	Gas Mask Cat
 664	Ancient Egg: N104	Green Egg: N104	Surgeon Cat
 665	Ancient Egg: N201	Dark Egg: N201	Exorcist Cat
 666	Night Beach Lilin	Night Beach Lilinπ
-667	Brainwashed Bird Cat	Brainwashed UFO Cat
+667	Brainwashed Bird Cat	Brainwashed UFO Cat	Brainwashed Flying Cat
 668	Cat Tengu	Grand Yokai Tengu
 669	Ancient Egg: N003	Evil Egg: N003	Cat Cactus
 670	Ancient Egg: N202	Cinnabar Egg: N202	Armored Firefly Cat
@@ -682,17 +682,17 @@
 681	Luke	Luke CC
 682	Spectral Goth Vega	Illusory Guardian Vega
 683	Count Yukimura	Nosferatu Yukimura
-684	Brainwashed Fish Cat	Brainwashed Whale Cat
+684	Brainwashed Fish Cat	Brainwashed Whale Cat	Brainwashed Island Cat
 685	Ancient Egg: N004	Mystic Egg: N004	Supercar Cat
 686	Goddess of Light Sirius	Goddess of Sunrise Sirius
 687	Reindeer Terun	Reindeer Terunζ
-688	Brainwashed Lizard Cat	Brainwashed Dragon Cat
+688	Brainwashed Lizard Cat	Brainwashed Dragon Cat	Brainwashed King Dragon
 689	10 Years on a Stone Cat	10 Years on a Stone Cat Statue
 690	Child of Destiny Phono	King of Destiny Phonoa
 691	Ancient Egg: N000	Elder Egg: N000	Ape Lord Luza
 692	Issun Boshi	Oni Landshaker Kozuchimaru
 693	White Butler Vigler	Black Butler Vigler
-694	Brainwashed Titan Cat	Brainwashed Mythic Titan
+694	Brainwashed Titan Cat	Brainwashed Mythic Titan	Brainwashed Jamiera Cat
 695	Killer Tank Cat	True Killer Tank Cat
 696	Class Rep Cat	Stealth Class Rep Cat
 697	Ancient Egg: N107	Violet Egg: N107	Cat Chief
@@ -719,3 +719,7 @@
 718	Maize Cat	Cone Cat
 719	Tekachi	Tetsukachi	
 720	Ancient Egg: N006	Devil Egg: N006	Fallen Bear Cat
+721	The Guardian of Hanazono High School Riki	Dodgeball Club Riki	
+722	Hatsune Miku 16th	Hatsune Miku CC 16th	
+723	The Goddess of Light Wing Isis	Neferisis	
+724	Ancient Egg: N112	Mystic Egg: N112	Tama Cat
