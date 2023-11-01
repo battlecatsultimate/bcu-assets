@@ -557,7 +557,7 @@
 556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba
 557	Heavenly Jack	Heavenly Lord Jack
 558	Gacha Cat	Lucky Gacha Cat
-559	Hell Warden Emma	Hell Sentinel Emma	Hell Chief Emma
+559	Hell Warden Emma	Hell Sentinel Emma	Hell Commissioner Emma
 560	Megurine Luka	Megurine Luka CC
 561	MEIKO & Cat	MEIKO & Cat CC
 562	Luka Cat	Luka Cat CC
@@ -719,7 +719,7 @@
 718	Maize Cat	Cone Cat
 719	Tekachi	Tetsukachi	
 720	Ancient Egg: N006	Devil Egg: N006	Fallen Bear Cat
-721	The Guardian of Hanazono High School Riki	Dodgeball Club Riki	
+721	High School Kingpin Riki	Dodgeball Riki	
 722	Hatsune Miku 16th	Hatsune Miku CC 16th	
-723	The Goddess of Light Wing Isis	Neferisis	
-724	Ancient Egg: N112	Mystic Egg: N112	Tama Cat
+723	Lightmother Aset	Nefer Aset	
+724	Ancient Egg: N112	Mystic Egg: N112	Cat Egg Pod

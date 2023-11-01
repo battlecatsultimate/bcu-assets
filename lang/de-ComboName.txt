@@ -224,3 +224,4 @@
 342	Phantomjagd
 343	Verletzte Ritterlichkeit
 344	Wutbewältigung
+345	Bring it On!

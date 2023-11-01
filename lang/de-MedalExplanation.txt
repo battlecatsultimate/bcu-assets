@@ -109,3 +109,5 @@
 108	Schließe „Invasion des Sumpflords“ ab.
 109	Schließe alle Zombielevel in Kosmische Katzen Kap. 2 ab
 110	Schließe alle „Unh. Legenden“-<br>Level der Stufe 3 ab.
+111	Schließe alle Karten von Verst. Gapra-Wald,<br>Ashvini-Wüste & Jinfore-Vulkan ab.
+112	Schließe alle bösartigen Level ab.

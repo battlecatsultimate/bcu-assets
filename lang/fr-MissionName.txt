@@ -701,10 +701,10 @@
 9342	Missions du Festival du Cyclone. Termine 1x Rouge levant avec uniquement les 1res formes
 9343	Missions du Festival du Cyclone. Termine 1x La mort qui roule avec uniq. les 1res formes
 9344	Missions du Festival du Cyclone. Termine 1x 2e dimension avec uniquement les 1res formes
-9345	Clear 1  "Annihilated City"  stage(s) with "Yuki Cat" in your formation
-9346	Clear 1  "Annihilated City"  stage(s) with "Takuya & Yuki" in your formation
-9347	Clear 1  "Annihilated City"  stage(s) with "Redhead Yuki Cat" in your formation
-9348	Clear 1  "Annihilated City"  stage(s) with "Kano & Souma" in your formation
+9345	Termine 1 niveau(x) Ville anéantie avec Chat Yuki
+9346	Termine 1 niveau(x) Ville anéantie avec Takuya et Yuki
+9347	Termine 1 niveau(x) Ville anéantie avec Yuki crin. rouge
+9348	Termine 1 niveau(x) Ville anéantie avec Kano et Souma
 9349	Clear 5  Shoumetsu Toshi collab stages
 9350	Clear 15  Shoumetsu Toshi collab stages
 9351	Clear 30  Shoumetsu Toshi collab stages
@@ -782,4 +782,8 @@
 9433	[Ultra quiz] Termine les missions Q1~5 pour gagner un prix. valant 1 million de $(selon les Chats numériques) !
 60	Termine 50 niveaux Abattage de Béhémoths pour la 1re fois
 61	Termine 55 niveaux Abattage de Béhémoths pour la 1re fois
+9434	Clear Princess Punt Sweets collab stages 10 times!
+9435	Clear Princess Punt Sweets collab stages 25 times!
+9436	Clear Princess Punt Sweets collab stages 50 times!
 62	Termine tous les niv. Légende mystérieuse. niv. 3 pour accomplir cette mission
+63	Termine les 60 niveaux Abattage de Béhémoths !

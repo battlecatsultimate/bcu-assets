@@ -272,6 +272,7 @@
 1119	Takuya ＆ Yuki
 1120	Gatto tamburino
 1121	HYAKUTARO
+1122	Sleeping Beauty Punt
 1130	Gattornado
 1131	Cappuccetto Mina
 1132	Funghi
@@ -319,8 +320,10 @@
 10022	Gatto risotto
 10023	Gato Amigo
 10024	Gatto perizoma
+10027	Bridal Princess Punt
 10061	Gatto concorrente
 10064	Gatti furenti
+10070	Oversleeping Beauty Punt
 10071	Gatto rituale
 10075	Gatto tronchetto
 10079	Gatto marine spaziale
@@ -389,6 +392,15 @@
 10532	Gattorso cadavere
 10540	Gatto griglia
 10622	Gatto ricercatore
+10630	Gatto punk plagiato
+10637	Gatto gomma plagiato
+10646	Gatto oscuro plagiato
+10655	Gatto Gambe macho plagiato
+10663	Gatto leo plagiato
+10668	Gatto volante plagiato
+10685	Gattisola plagiato
+10689	Gatto Re Dragone plagiato
+10695	Gatto Jamiera plagiato
 15017	MONEKO Superstar
 15031	Gatto Tathagata
 15032	Gatto ultra delinquente
@@ -418,6 +430,9 @@
 15059	Gatto Duellante elementale
 15060	Gatti in culla
 15062	Gatto tobiko
+15067	PPT46
+15068	Crystal Li'l Gau Gau
+15069	Judgment
 15072	Yukimura Immortale
 15073	Keiji Immortale
 15074	Nobunaga Immortale
@@ -453,6 +468,8 @@
 15154	Gattofono
 15159	Kenshin Immortale
 15160	Kalisa Divina
+15161	Gekirinchi
+15162	Manic Princess Punt
 15169	Assassinlan Pasalan
 15170	E. Kubilan Pasalan
 15172	Piccolan Pasalan
@@ -508,6 +525,7 @@
 15335	Himeyuri Volpe regina
 15336	Ruri Sire-gina
 15337	Reika eterna
+15338	HMS Princess II CC
 15339	Yoshimoto Immortale
 15342	Lost World Catgirl Yuki
 15345	Artist Orthos CC
@@ -568,6 +586,7 @@
 15535	Ade Onnipotente
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
+15560	Emma commissaria infernale
 15564	Saki acqua blaster
 15565	Pasalan Favolosa
 15566	Gatto abbronzato con la permanente
@@ -612,6 +631,7 @@
 15717	Gatto sbirro
 15718	Gatto contadino
 15721	Gatto Orso perduto
+15725	Gatto capsula uovo
 16131	Ururun risvegliata
 16173	Scuolabus Nyandam
 16269	Mina risvegliata

@@ -24,7 +24,7 @@
 023	Gatto gonnellina	Gatto collant	Gatto perizoma
 024	Gatta Valchiria	Gatta Valchiria Vera	Gatta Valchiria Sacra
 025	Gatto Bahamut	Gatto Bahamut matto	Gatto Bahamut risvegliato
-026	Kerihime	Full color Kerihime	
+026	Kerihime	Full color Kerihime	Bridal Princess Punt
 027	Cat Princess	Cat Princess beauty	
 028	Capsule Cat	Cramped Cats	
 029	Masked Cat	Luchador Cat	
@@ -62,12 +62,12 @@
 061	Gatto sushi	Gatto tempura	Gatto tobiko
 062	Toy Machine Cat	Vendor Cat	
 063	Gatto sportivo	Gatti rapitori	Gatti furenti
-064			
-065			
-066			
-067			
-068			
-069			
+064	Swordsman	Swordsman Johnny	
+065	Cow Princess	Giraffe Princess	
+066	PPT48	Dark PPT48	PPT46
+067	Li'l Gau	Li'l Gau Gau	Crystal Li'l Gau Gau
+068	Reaper	Reaper 999	Judgment
+069	Sleeping Beauty Punt	Sleeping Beauty Punt II	Oversleeping Beauty Punt
 070	Gatto dipendente	Gatto rancore	Gatto rituale
 071	Sanada Yukimura	Yukimura Dio della guerra	Yukimura Immortale
 072	Maeda Keiji	Keiji Dio della guerra	Keiji Immortale
@@ -158,8 +158,8 @@
 157			
 158	Uesugi Kenshin	Kenshin Dea della guerra	Kenshin Immortale
 159	Kalisa	Kalisa χ	Kalisa Divina
-160			
-161			
+160	Yurinchi	Phoenix Yurinchi	Gekirinchi
+161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt
 162			
 163			
 164			
@@ -335,7 +335,7 @@
 334	Himeyuri Ingannatrice	Himeyuri Novecode	Himeyuri Volpe regina
 335	Ruri Sirena	Ruri Dama dei mari	Ruri Sire-gina
 336	Regina Reika	Reika faraonessa	Reika eterna
-337			
+337	HMS Princess	HMS Princess CC	HMS Princess II CC
 338	Imagawa Yoshimoto	Yoshimoto Dio della guerra	Yoshimoto Immortale
 339			
 340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	Redhead Muscled Yuki Cat
@@ -483,8 +483,8 @@
 482	Benevolent Souma	Souma ＆ Cat	Cat-Eared Souma
 483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat	
 484	Baby Valchiria oscura	Valchiria oscura a cavallo	
-485			
-486			
+485	Calette	Calette CC	
+486	Hina	Swordswoman Hina	
 487	Eva Unit-08	Eva Unit-08 & Cat	
 488	AAA Wunder	NNN Wunder	Vanished NNN Wunder
 489	Misato Katsuragi	Captain Misato	
@@ -528,7 +528,7 @@
 527	Gatto melma	Gatto gelatina	
 528	Gatto cosacco	Gatto vodka	
 529	Kasli il Flagello	Kasli santa rituale	
-530			
+530	Herme	Herme CC	
 531	Professor Gattorso	Gattorso assassino	Gattorso cadavere
 532	Urs e Fenrir	Urs e Minka	Urs risvegliato
 533	Saki Cecchina	Saki Cacciatrice notturna	Saki super blaster
@@ -557,7 +557,7 @@
 556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba
 557	Heavenly Jack	Heavenly Lord Jack	
 558	Gatto gacha	Gatto gacha fortunato	
-559	Emma guardiana infernale	Emma sentinella infernale	
+559	Emma guardiana infernale	Emma sentinella infernale	Emma commissaria infernale
 560	Megurine Luka	Megurine Luka CC	
 561	MEIKO & Cat	MEIKO & Cat CC	
 562	Luka Cat	Luka Cat CC	
@@ -627,14 +627,14 @@
 626			
 627			
 628			
-629	Gatto plagiato	Gatto macho plagiato	
+629	Gatto plagiato	Gatto macho plagiato	Gatto punk plagiato
 630	Gatto calligrafo	Gatto maestro del tè	
 631	Yamii	Yaminoir	Yaminora
 632	Deth-Troy-R possente	Mech da assedio Diabolosa	Diabolosa obliterante
 633	Passero Shitakiri	Acchiappafantasmi	Gran Acchiappafantasmi
 634	Cavaliere bianco ciclope	Cavaliere nero ciclope	Cavaliere demone ciclope
 635	Gatto da un milione	Gatto da cento milioni	
-636	Gatto Panzer plagiato	Gatto muro plagiato	
+636	Gatto Panzer plagiato	Gatto muro plagiato	Gatto gomma plagiato
 637			
 638			
 639			
@@ -643,7 +643,7 @@
 642	Lucifero caduto	Lucifero il Grande	Lucifero Onnipotente
 643	Superfelino	Superfelino II	Superfelino Reale
 644	Mekako dolce amore	Mekako dolceamara	Mekako fresco amore
-645	Gatto ascia plagiato	Gatto prode plagiato	
+645	Gatto ascia plagiato	Gatto prode plagiato	Gatto oscuro plagiato
 646	Gatto petardo	Gatto petardo macho	
 647	Terun cacciatrice	Terun cacciatrice ζ	
 648	Demone minore innamorato	Demone maggiore innamorato	
@@ -652,7 +652,7 @@
 651	Gatta leo maschiaccio	Gatta leo maschera di ferro	
 652	Gatto cancellino	Gatto cancellino punk	
 653	Naala bestia stagionata	Naala bestia tempestosa	Naala risvegliata
-654	Gatto alto plagiato	Gatto Gambe sexy plagiato	
+654	Gatto alto plagiato	Gatto Gambe sexy plagiato	Gatto Gambe macho plagiato
 655	Bliza	Blizana	
 656	Uovo antico N001	Uovo mistico N001	Gatto haniwa
 657	Iz ballerina del dolore	Iz signora del pianto	
@@ -660,12 +660,12 @@
 659	Uovo antico N102	Uovo verde acqua N102	Gattarzan
 660	Daliasan serpente marino	Daliasan re del mare	
 661	Chronos la sposa	Chronos nuziale	
-662	Gatto mucca plagiato	Gatto giraffa plagiato	
+662	Gatto mucca plagiato	Gatto giraffa plagiato	Gatto leo plagiato
 663	Uovo antico N103	Uovo nero N103	Gatto maschera antigas
 664	Uovo antico N104	Uovo verde N104	Gatto chirurgo
 665	Uovo antico N201	Uovo oscuro N201	Gattorcista
 666	Lilin spiaggia notturna	Lillin spiaggia notturna π	
-667	Gatto uccello plagiato	UFO plagiato	
+667	Gatto uccello plagiato	UFO plagiato	Gatto volante plagiato
 668	Gatto Tengu	Gran Yokai Tengu	
 669	Uovo antico N003	Uovo malvagio N003	Gatto cactus
 670	Uovo antico N202	Uovo vermiglione N202	Gatto lucciola corazzato
@@ -682,17 +682,17 @@
 681	Luke	Luke CC	
 682	Vega gotica spettrale	Vega guardiana illusoria	
 683	Conte Yukimura	Vampiro Yukimura	
-684	Pescegatto plagiato	Gattorca plagiato	
+684	Pescegatto plagiato	Gattorca plagiato	Gattisola plagiato
 685	Uovo antico N004	Uovo mistico N004	Gatto Supercar
 686	Sirio dea della luce	Sirio dea dell'alba	
 687	Terun renna	Terun renna ζ	
-688	Lucertogatto plagiato	Gatto Dragone plagiato	
+688	Lucertogatto plagiato	Gatto Dragone plagiato	Gatto Re Dragone plagiato
 689			
 690	Phono figlio del destino	Phonoa re del destino	
 691	Uovo antico N000	Uovo di seconda mano N000	Luza lo scimmione
 692	Issun Boshi	Oni Landshaker Kozuchimaru	
 693	Maggiordomo bianco Vigler	Maggiordomo nero Vigler	
-694	Gatto Titano plagiato	Gatto Titano plagiato mitico	
+694	Gatto Titano plagiato	Gatto Titano plagiato mitico	Gatto Jamiera plagiato
 695	Gatto Panzer assassino	Vero Gatto Panzer assassino	
 696	Gatto rappresentante	Gatto rappresentante furtivo	
 697	Uovo antico N107	Uovo viola N107	Gatto capo
@@ -719,3 +719,7 @@
 718	Gatturco	Gatto cono	
 719	Tekachi	Tetsukachi	
 720	Uovo antico N006	Uovo diabolico N006	Gatto Orso perduto
+721	High School Kingpin Riki	Dodgeball Riki	
+722	＠	＠	
+723	Madreluce Aset	Nefer Aset	
+724	Uovo antico N112	Uovo mistico N112	Gatto capsula uovo

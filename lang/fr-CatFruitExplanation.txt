@@ -64,9 +64,9 @@
 063	<br><br>
 064	<br><br>
 065	<br><br>
-066	<br><br>
-067	<br><br>
-068	<br><br>
+066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Black enemies!
+067	La forme ultime augmente la défense !<br>Att. ennemies : immunisent contre le recul.<br>
+068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!
 069	<br><br>
 070	<br><br>
 071	La forme ultime augmente l'attaque<br>et la vit. de déplac. est plus rapide.<br>
@@ -158,8 +158,8 @@
 157	<br><br>
 158	La forme ultime augmente la défense,<br>la vitesse de déplacement et d’attaque !<br>vitesse d’attaque !
 159	La forme ultime améliore<br>la puissance d’attaque et la portée !<br>
-160	<br><br>
-161	<br><br>
+160	True Form evolution increases Defense and<br>attack range, move speed, and attack speed!<br>
+161	True Form evolution increases<br>defense, attack speed and attack range!<br>Plus, higher Knockback chance vs Metal!
 162	<br><br>
 163	<br><br>
 164	<br><br>
@@ -335,7 +335,7 @@
 334	La forme ultime améliore toutes les<br>stat. et les ralentiss. sur les ennemis<br>flottants et anges durent plus longtemps !
 335	La forme ultime améliore la puissance<br>d’attaque et la défense ! Ennemis rouges<br>affaiblis plus longtemps !
 336	La forme ultime améliore la vitesse<br>d’attaque et le recul des ennemis.<br>
-337	<br><br>
+337	True Form evolution gains improved<br>defense, move speed and attack!<br>
 338	La forme ultime améliore la défense<br>et la portée d’attaque, et affaiblit<br>les ennemis noirs plus longtemps.
 339	<br><br>
 340	<br><br>
@@ -557,7 +557,7 @@
 556	True Form evolution gains big changes<br>to its abilities, including massive damage<br>to Angels and resistance to Knockback.
 557	<br><br>
 558	<br><br>
-559	<br><br>
+559	La forme ultime augmente la défense !<br>Chance d'Affaiblissement augmentée, gagne<br>Immunité vs Immobilisation et téléportation.
 560	<br><br>
 561	<br><br>
 562	<br><br>
@@ -719,3 +719,7 @@
 718	<br><br>
 719	<br><br>
 720	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
+721	<br><br>
+722	<br><br>
+723	<br><br>
+724	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>

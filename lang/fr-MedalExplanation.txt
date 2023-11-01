@@ -109,3 +109,5 @@
 108	Termine Le maître du marais Sanzu
 109	Repousse toutes les invasions zombies dans Cosmos ch. 2
 110	Termine tous les niveaux Légende<br>mystérieuse de niveau 3
+111	Termine Forêt cachée de G., Désert d'A., Volcan de J.
+112	Termine tous les niveaux maléfiques.

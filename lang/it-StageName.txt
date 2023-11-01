@@ -1551,8 +1551,41 @@
 001-349-007	Riavvio forzato Liv. 8
 001-349-008	Riavvio forzato Liv. 9
 001-349-009	Riavvio forzato Liv. MAX
+001-350		Il gatto malevolo
+001-350-000	Fine dei secoli (Folle)
+001-351		Il panzer malevolo
+001-351-000	Eliminatore di demoni (Folle)
+001-352		L'ascia malevola
+001-352-000	Iperberserker (Folle)
+001-353		L'alto malevolo
+001-353-000	Passi demoniaci (Folle)
+001-354		La mucca malevola
+001-354-000	Tiranno spietato (Folle)
+001-355		L'uccello malevolo
+001-355-000	Apocalisse (Folle)
+001-356		Il pesce malevolo
+001-356-000	Paura alla deriva (Folle)
+001-357		La lucertola malevola
+001-357-000	Sputo della morte (Folle)
+001-358		Il titano malevolo
+001-358-000	Furia titanica (Folle)
+001-359		Staffetta di River City
+001-359-000	Staffetta 400m: Inizio veloce
+001-359-001	Staffetta 800m: Inizio veloce
+001-359-002	Staffetta 1600m: Inizio veloce
 
 002			Collaboration Stages
+002-001		Alluring Princess
+002-001-000	How Do You Say Yurinchi?
+002-001-001	You! Rinchi!
+002-001-002	High Heels and Chamomile
+002-001-003	Looks Can Be Deceiving
+002-001-004	For The Princess' Eyes Only
+002-001-005	Competing for the Princess
+002-002		Princess Punt
+002-002-000	Princess Punt Takes the Stage!
+002-002-001	Princess Punt Joins the Fight! (Hard)
+002-002-002	Princess Punt Has Arrived! (Expert)
 002-003		To the Future
 002-003-000	Architecture
 002-003-001	Cloud Services
@@ -1632,6 +1665,12 @@
 002-042-000	Converging Rays
 002-042-001	Fever Time!
 002-042-002	World War ALICE
+002-043		Princess Punt Awakens!
+002-043-000	Way of Princess Punt (Veteran)
+002-043-001	Way of Princess Punt (Insane)
+002-044		Sleeping Beauty Punt Awakens!
+002-044-000	Way of Sleeping Beauty Punt (Veteran)
+002-044-001	Way of Sleeping Beauty Punt (Insane)
 002-045		The Lost World
 002-045-000	Another Mystery Girl
 002-045-001	Don't Act Like You Know Me
@@ -1717,6 +1756,12 @@
 002-079-000	Weird
 002-079-001	Furious
 002-079-002	Funky
+002-080		Teachings of the Kicking Kingdom
+002-080-000	In A Rush? Kick!
+002-080-001	Kicks Over Flowers
+002-080-002	The Kicked Get Kicked More
+002-080-003	Ineffective Kick
+002-080-004	Laughter Brings Kicks
 002-081		A Fake Mitakihara
 002-081-000	The Nutcracker Witch (Veteran)
 002-081-001	The Nutcracker Witch (Merciless)
@@ -1775,6 +1820,10 @@
 002-099-000	An Encounter With Sin
 002-099-001	Foolish Wanderer Kano
 002-099-002	Wishing for Happiness
+002-100		To Battle! The Great Sweets War!
+002-100-000	There's Always Room for Sweets
+002-100-001	The Best Medicine is Sweet
+002-100-002	Forbidden Sweets Are Like Nectar
 002-102		Unit-13 Strikes!
 002-102-000	It's Not Your Fault (Veteran)
 002-102-001	We'll Meet Again (Merciless)
@@ -3063,6 +3112,14 @@
 004-060-002	Foresta dei cristalli rossi
 004-060-003	Deserto dei cristalli blu
 004-060-004	Vulcano dei cristalli gialli
+004-061		Staffetta di River City
+004-061-000	Staffetta 400m: Secondo più veloce
+004-061-001	Staffetta 800m: Secondo più veloce
+004-061-002	Staffetta 1600m: Secondo più veloce
+004-062		Staffetta di River City
+004-062-000	Staffetta 400m: Scatto finale
+004-062-001	Staffetta 800m: Scatto finale
+004-062-002	Staffetta 1600m: Scatto finale
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -3744,6 +3801,11 @@
 014-050-000	Tentazione del folletto
 014-050-001	Tentazione del demone
 014-050-002	Tentazione dell'arcidiavolo
+014-051		Più cattivi
+014-051-000	Mormorio Aku (Folle)
+014-051-001	Mormorio Aku (Letale)
+014-051-002	Sussurro Aku (Letale)
+014-051-003	Sussurro Aku (Spietato)
 
 024			Baron Boss Stages
 024-000		Baron Foca colpisce.
@@ -5007,7 +5069,7 @@
 031-000-016	Zona del bosco primordiale 17
 031-000-017	Zona del bosco primordiale 18
 031-000-018	Zona del bosco primordiale 19
-031-000-019	???
+031-000-019	Area Foresta Tempestosa: Finale
 031-001		Deserto Ashvini
 031-001-000	Zona calanchiva 1
 031-001-001	Zona calanchiva 2
@@ -5028,7 +5090,7 @@
 031-001-016	Zona della tempesta di sabbia 17
 031-001-017	Zona della tempesta di sabbia 18
 031-001-018	Zona della tempesta di sabbia 19
-031-001-019	???
+031-001-019	Area Polvere di luna: Finale
 031-002		Vulcano Jinfore
 031-002-000	Zona magmatica 1
 031-002-001	Zona magmatica 2
@@ -5049,7 +5111,7 @@
 031-002-016	Zona della caverna in eruzione 17
 031-002-017	Zona della caverna in eruzione 18
 031-002-018	Zona della caverna in eruzione 19
-031-002-019	???
+031-002-019	Area Antico Vulcano: Finale
 
 033			Grande profondità
 033-000		Grande profondità
@@ -5205,3 +5267,10 @@
 034-005-003	Due miglia sotto i mari
 034-005-004	Habitat marino
 034-005-005	Oltre l'adale
+034-006		Verità negli estremi
+034-006-000	Campo Furioso
+034-006-001	Prato miraggio
+034-006-002	Rupe di Monte Cristo
+034-006-003	Bestia di Monte Cristo
+034-006-004	Benedizioni nella sabbia
+034-006-005	Sventura nella sabbia

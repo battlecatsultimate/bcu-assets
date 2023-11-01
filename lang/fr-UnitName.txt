@@ -24,7 +24,7 @@
 023	Chat jupette	Porte-charretelles	Chat pagne
 024	Chalkyrie	Chalkyrie suprême	Chalkyrie sacrée
 025	Chat Bahamut	Chat Bahamut maboul	Chat Bahamut éveillé
-026	Kerihime	Full color Kerihime	
+026	Kerihime	Full color Kerihime	Bridal Princess Punt
 027	Cat Princess	Cat Princess beauty	
 028	Capsule Cat	Cramped Cats	
 029	Masked Cat	Luchador Cat	
@@ -62,12 +62,12 @@
 061	Chats sushi	Chats crevette frite	Chats œufs de poisson
 062	Toy Machine Cat	Vendor Cat	
 063	Chat Jour des sports	Chats ravisseurs	Chats déchaînés
-064			
-065			
-066			
-067			
-068			
-069			
+064	Swordsman	Swordsman Johnny	
+065	Cow Princess	Giraffe Princess	
+066	PPT48	Dark PPT48	PPT46
+067	Li'l Gau	Li'l Gau Gau	Crystal Li'l Gau Gau
+068	Reaper	Reaper 999	Judgment
+069	Sleeping Beauty Punt	Sleeping Beauty Punt II	Oversleeping Beauty Punt
 070	Chat salarié	Chat rancunier	Chat ritualiste
 071	Sanada Yukimura	Yukimura dieu de la guerre	Yukimura immortel
 072	Maeda Keiji	Keiji dieu de la guerre	Keiji immortel
@@ -158,8 +158,8 @@
 157			
 158	Uesugi Kenshin	Kenshin déesse de la guerre	Kenshin immortelle
 159	Kalisa	Kalisa, type χ	Kalisa divine
-160			
-161			
+160	Yurinchi	Phoenix Yurinchi	Gekirinchi
+161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt
 162			
 163			
 164			
@@ -335,7 +335,7 @@
 334	Himeyuri filoute	Himeyuri à 9 queues	Himeyuri reine renard
 335	Ruri fille des mers	Ruri maîtresse des mers	Ruri reine des mers
 336	Reine Reika	Reika pharaonique	Reika éternelle
-337			
+337	HMS Princess	HMS Princess CC	HMS Princess II CC
 338	Imagawa Yoshimoto	Yoshimoto dieu de la guerre	Yoshimoto immortel
 339			
 340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	Redhead Muscled Yuki Cat
@@ -483,8 +483,8 @@
 482	Benevolent Souma	Souma ＆ Cat	Cat-Eared Souma
 483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat	
 484	P’tite Chalkyrie de l’ombre	Chalkyrie chassombre	
-485			
-486			
+485	Calette	Calette CC	
+486	Hina	Swordswoman Hina	
 487	Eva Unit-08	Eva Unit-08 & Cat	
 488	AAA Wunder	NNN Wunder	Vanished NNN Wunder
 489	Misato Katsuragi	Captain Misato	
@@ -528,7 +528,7 @@
 527	Chat gluant	Chat méduse	
 528	Chat cosaque	Chat vodka	
 529	Kasli le Fléau	Sainte Kasli rituelle	
-530			
+530	Herme	Herme CC	
 531	Professeur Ours-Chat	Ours-Chassassin	Ours-Chat cadavre
 532	Urs et Fenrir	Urs et Minka	Urs éveillé
 533	Tireuse d’élite Saki	Chasseuse nocturne Saki	Vil bourreau Saki
@@ -557,7 +557,7 @@
 556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba
 557	Heavenly Jack	Heavenly Lord Jack	
 558	Chachapsule	Chachapsule chanceux	
-559	Emma gardienne de l’enfer	Emma sentinelle de l’enfer	
+559	Emma gardienne de l’enfer	Emma sentinelle de l’enfer	Emma commissaire de l’enfer
 560	Megurine Luka	Megurine Luka CC	
 561	MEIKO & Cat	MEIKO & Cat CC	
 562	Luka Cat	Luka Cat CC	
@@ -627,14 +627,14 @@
 626			
 627			
 628			
-629	Chat sous contrôle	Chat macho sous contrôle	
+629	Chat sous contrôle	Chat macho sous contrôle	Chat punk sous contrôle
 630	Challigraphe	Chat maître du thé	
 631	Yamii	Yaminoir	Yaminora
 632	Puissant Dess-truk-teur	Diabolosa brise-siège	Diabolosa oblitératrice
 633	Moineau shitakiri	Chasseurs Chunchun	Grands chasseurs d’esprits
 634	Cyclope chevalier blanc	Cyclope chevalier noir	Démon chevalier noir
 635	Chat 1 million de dollars	Chat 100 millions de dollars	
-636	Chat tank sous contrôle	Chat mur sous contrôle	
+636	Chat tank sous contrôle	Chat mur sous contrôle	Chat gomme sous contrôle
 637			
 638			
 639			
@@ -643,7 +643,7 @@
 642	Lucifer le déchu	Grand Lucifer	Lucifer Tout-puissant
 643	Super félin	Super félin II	Super félin ultime
 644	Mekako bel amour	Mekako douce-amère	Mekako amour mentholé
-645	Chat borgne sous contrôle	Chardi sous contrôle	
+645	Chat borgne sous contrôle	Chardi sous contrôle	Chat de l'ombre sous contrôle
 646	Chat pétard	Chat pétard macho	
 647	Terun chasseresse	Terun chasseresse ζ	
 648	Démon inférieur amoureux	Démon supérieur amoureux	
@@ -652,7 +652,7 @@
 651	Chatte lion écolière	Chatte lion masque de fer	
 652	Chat effaceur de tableau	Chat purificateur de tableau	
 653	Bête ancestrale Naala	Bête tempête Naala	Naala éveillée
-654	Grand Chat sous contrôle	Chat gambettes sous contrôle	
+654	Grand Chat sous contrôle	Chat gambettes sous contrôle	Chat jambes d'acier sous contrôle
 655	Bliza	Blizana	
 656	Œuf ancien N001	Œuf mystique N001	Chat haniwa
 657	Iz la danseuse du chagrin	Iz la dame du deuil	
@@ -660,12 +660,12 @@
 659	Œuf ancien N102	Œuf bleu sarcelle N102	Charzan
 660	Daliasan serpent de mer	Daliasan roi des mers	
 661	Chronos mariée	Chronos nuptiale	
-662	Chat vache sous contrôle	Chat girafe sous contrôle	
+662	Chat vache sous contrôle	Chat girafe sous contrôle	Chat lion sous contrôle
 663	Œuf ancien N103	Œuf noir N103	Chat masque à gaz
 664	Œuf ancien N104	Œuf vert N104	Chat chirurgien
 665	Œuf ancien N201	Œuf sombre N201	Chat exorciste
 666	Lilin plage nocturne	Lilin plage nocturne π	
-667	Chat oiseau sous contrôle	OVNI sous contrôle	
+667	Chat oiseau sous contrôle	OVNI sous contrôle	Chat volant sous contrôle
 668	Chat Tengu	Tengu grand yokai	
 669	Œuf ancien N003	Œuf diabolique N003	Chat cactus
 670	Œuf ancien N202	Œuf cinabre N202	Chat luciole blindé
@@ -682,17 +682,17 @@
 681	Luke	Luke CC	
 682	Déesse spectrale Véga	Gardienne illusoire Véga	
 683	Comte Yukimura	Nosferatu Yukimura	
-684	Chat poisson sous contrôle	Chat baleine sous contrôle	
+684	Chat poisson sous contrôle	Chat baleine sous contrôle	Chat île sous contrôle
 685	Œuf ancien N004	Œuf mystique N004	Chat supercar
 686	Sirius déesse de la lumière	Sirius déesse de l'aube	
 687	Terun le renne	Terunζ le renne	
-688	Chat lézard sous contrôle	Chat dragon sous contrôle	
+688	Chat lézard sous contrôle	Chat dragon sous contrôle	Chat roi dragon sous contrôle
 689			
 690	Phono l’enfant du destin	Phonoa l’enfant du destin	
 691	Œuf ancien N000	Œuf d’occasion N000	Seigneur gorille Luza
 692	Issun Boshi	Oni Trembleur Kozuchimaru	
 693	Détective Gravitas blanc	Détective Gravitas noir	
-694	Chat titan sous contrôle	Chat titan myth. sous contr.	
+694	Chat titan sous contrôle	Chat titan myth. sous contr.	Chat Jamilar sous contrôle
 695	Chat tank tueur	Chat tank tueur ultime	
 696	Chat délégué de classe	Chat délégué furtif	
 697	Œuf ancien N107	Œuf violet N107	Chef Chat
@@ -719,3 +719,7 @@
 718	Chat mélasse	Chat cône	
 719	Tekachi	Tetsukachi	
 720	Œuf ancien : N006	Œuf démoniaque : N006	Chat-Ours déchu
+721	High School Kingpin Riki	Dodgeball Riki	
+722	＠	＠	
+723	Aset Mère-Lumière	Aset Nefer	
+724	Œuf ancien N112	Œuf mystique N112	Nacelle-œuf féline

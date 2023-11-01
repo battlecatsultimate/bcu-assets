@@ -480,6 +480,7 @@ N65	Cats Eye Capsules
 479	Epicfest
 480	Platinum Capsules
 481	Uberfest
+482	-2000
 483	Uberfest
 484	Platinum Capsules
 485	Mola Mola Capsules

@@ -1556,8 +1556,41 @@
 001-349-007	Redémarrage forcé niv. 8
 001-349-008	Redémarrage forcé niv. 9
 001-349-009	Redémarrage forcé niv. max
+001-350		Chat maléfique
+001-350-000	Fin de siècle (maniaque)
+001-351		Chat tank maléfique
+001-351-000	Démon effaceur (maniaque)
+001-352		Chat borgne maléfique
+001-352-000	Hyperberserker (maniaque)
+001-353		Grand Chat maléfique
+001-353-000	Foulées diaboliques (maniaque)
+001-354		Chat vache maléfique
+001-354-000	Tyran implacable (maniaque)
+001-355		Chat oiseau maléfique
+001-355-000	Apocalypse (maniaque)
+001-356		Chat poisson maléfique
+001-356-000	Dérive d'effroi (maniaque)
+001-357		Chat lézard maléfique
+001-357-000	Haleine mortelle (maniaque)
+001-358		Chat titan maléfique
+001-358-000	Carnage titanesque (maniaque)
+001-359		Relais de la ville-rivière
+001-359-000	Relais 400 m : départ rapide
+001-359-001	Relais 800 m : départ rapide
+001-359-002	Relais 1 600 m : départ rapide
 
 002			Collaboration Stages
+002-001		Alluring Princess
+002-001-000	How Do You Say Yurinchi?
+002-001-001	You! Rinchi!
+002-001-002	High Heels and Chamomile
+002-001-003	Looks Can Be Deceiving
+002-001-004	For The Princess' Eyes Only
+002-001-005	Competing for the Princess
+002-002		Princess Punt
+002-002-000	Princess Punt Takes the Stage!
+002-002-001	Princess Punt Joins the Fight! (Hard)
+002-002-002	Princess Punt Has Arrived! (Expert)
 002-003		To the Future
 002-003-000	Architecture
 002-003-001	Cloud Services
@@ -1637,6 +1670,12 @@
 002-042-000	Converging Rays
 002-042-001	Fever Time!
 002-042-002	World War ALICE
+002-043		Princess Punt Awakens!
+002-043-000	Way of Princess Punt (Veteran)
+002-043-001	Way of Princess Punt (Insane)
+002-044		Sleeping Beauty Punt Awakens!
+002-044-000	Way of Sleeping Beauty Punt (Veteran)
+002-044-001	Way of Sleeping Beauty Punt (Insane)
 002-045		The Lost World
 002-045-000	Another Mystery Girl
 002-045-001	Don't Act Like You Know Me
@@ -1722,6 +1761,12 @@
 002-079-000	Weird
 002-079-001	Furious
 002-079-002	Funky
+002-080		Teachings of the Kicking Kingdom
+002-080-000	In A Rush? Kick!
+002-080-001	Kicks Over Flowers
+002-080-002	The Kicked Get Kicked More
+002-080-003	Ineffective Kick
+002-080-004	Laughter Brings Kicks
 002-081		A Fake Mitakihara
 002-081-000	The Nutcracker Witch (Veteran)
 002-081-001	The Nutcracker Witch (Merciless)
@@ -1780,6 +1825,10 @@
 002-099-000	An Encounter With Sin
 002-099-001	Foolish Wanderer Kano
 002-099-002	Wishing for Happiness
+002-100		To Battle! The Great Sweets War!
+002-100-000	There's Always Room for Sweets
+002-100-001	The Best Medicine is Sweet
+002-100-002	Forbidden Sweets Are Like Nectar
 002-102		Unit-13 Strikes!
 002-102-000	It's Not Your Fault (Veteran)
 002-102-001	We'll Meet Again (Merciless)
@@ -3068,6 +3117,14 @@
 004-060-002	Forêt de cristal rouge
 004-060-003	Désert de cristal bleu
 004-060-004	Volcan de cristal jaune
+004-061		Relais de la ville-rivière
+004-061-000	Relais 400 m : 2e plus rapide
+004-061-001	Relais 800 m : 2e plus rapide
+004-061-002	Relais 400 m : 2e plus rapide
+004-062		Relais de la ville-rivière
+004-062-000	Relais 400 m : dernier parcours
+004-062-001	Relais 800 m : dernier parcours
+004-062-002	Relais 400 m : dernier parcours
 
 006			Dojo Griffélin
 006-000		Salle des initiés
@@ -3748,6 +3805,11 @@
 014-050-000	Tentation du diablotin
 014-050-001	Tentation du démon
 014-050-002	Tentation de l'archidiable
+014-051		Mal grandissant
+014-051-000	Murmure des Akus (maniaque)
+014-051-001	Murmure des Akus (mortel)
+014-051-002	Chuchotis des Akus (mortel)
+014-051-003	Chuchotis des Akus (sans répit)
 
 024			Baron Boss Stages
 024-000		Attaque du Baron phoque !
@@ -5043,7 +5105,7 @@
 031-000-016	Zone bois primitifs 17
 031-000-017	Zone bois primitifs 18
 031-000-018	Zone bois primitifs 19
-031-000-019	???
+031-000-019	Forêt de Brise-Tempête : final
 031-001		Désert d'Ashvini
 031-001-000	Zone rocailleuse 1
 031-001-001	Zone rocailleuse 2
@@ -5064,7 +5126,7 @@
 031-001-016	Zone tempête de sable 17
 031-001-017	Zone tempête de sable 18
 031-001-018	Zone tempête de sable 19
-031-001-019	???
+031-001-019	Poussière lunaire : final
 031-002		Volcan de Jinfore
 031-002-000	Zone de tunnel de lave 1
 031-002-001	Zone de tunnel de lave 2
@@ -5085,7 +5147,7 @@
 031-002-016	Zone caverne volcanique 17
 031-002-017	Zone caverne volcanique 18
 031-002-018	Zone caverne volcanique 19
-031-002-019	???
+031-002-019	Ancien volcan : final
 
 033			Abysse infini
 033-000		Abysse infini
@@ -5241,3 +5303,10 @@
 034-005-003	Deux milles sous les mers
 034-005-004	Habitat abyssal
 034-005-005	Par-delà les grands fonds
+034-006		Vérité de l'extrême
+034-006-000	Champ furieux
+034-006-001	Prairie aux mirages
+034-006-002	Rocher de Monte-Cristo
+034-006-003	Bête de Monte-Cristo
+034-006-004	Bénédictions de sable
+034-006-005	Malheur de sable

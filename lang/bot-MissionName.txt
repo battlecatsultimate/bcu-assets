@@ -782,4 +782,8 @@
 9433	【Ultra Quiz】Clear Missions Q1~5 and. claim your Million Dollar prize (according to Cat CPU)!
 60	Clear 50 Behemoth Culling stages for the first time!
 61	Clear 55 Behemoth Culling stages for the first time!
+9434	Clear Princess Punt Sweets collab stages 10 times!
+9435	Clear Princess Punt Sweets collab stages 25 times!
+9436	Clear Princess Punt Sweets collab stages 50 times!
 62	Clear all Level 3 Uncanny Legend stages. to complete this mission
+63	Clear all 60 Behemoth Culling stages!

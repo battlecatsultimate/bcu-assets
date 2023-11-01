@@ -64,9 +64,9 @@
 063	<br><br>
 064	<br><br>
 065	<br><br>
-066	<br><br>
-067	<br><br>
-068	<br><br>
+066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Black enemies!
+067	La Forma Reale ha maggiore difesa!<br>Immune a Respinta da attacchi nemici.<br>
+068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!
 069	<br><br>
 070	<br><br>
 071	La Forma Reale aumenta l'attacco!<br>Ottiene anche velocità di movimento<br>maggiore.
@@ -158,8 +158,8 @@
 157	<br><br>
 158	La Forma Reale aumenta la difesa,<br>la velocità di movimento e di attacco!<br>
 159	La Forma Reale dà potenza<br>d'attacco e raggio migliorati!<br>
-160	<br><br>
-161	<br><br>
+160	True Form evolution increases Defense and<br>attack range, move speed, and attack speed!<br>
+161	True Form evolution increases<br>defense, attack speed and attack range!<br>Plus, higher Knockback chance vs Metal!
 162	<br><br>
 163	<br><br>
 164	<br><br>
@@ -335,7 +335,7 @@
 334	La Forma Reale migliora tutte le statistiche!<br>In più, fluttuanti e angelici vengono<br>rallentati per più tempo!
 335	La Forma Reale ottiene maggiori<br>potenza d'attacco e difesa! I nemici rossi<br>subiscono indebolimento più a lungo!
 336	La Forma Reale ha maggiore velocità<br>e numeri di respinta contro nemici.<br>
-337	<br><br>
+337	True Form evolution gains improved<br>defense, move speed and attack!<br>
 338	La Forma Reale ottiene maggiori difesa<br>e raggio d'attacco. Poi indebolisce nemici<br>neri per periodi più lunghi.
 339	<br><br>
 340	<br><br>
@@ -557,7 +557,7 @@
 556	True Form evolution gains big changes<br>to its abilities, including massive damage<br>to Angels and resistance to Knockback.
 557	<br><br>
 558	<br><br>
-559	<br><br>
+559	La Forma Reale ha maggiore difesa!<br>Poss. di indebolimento aumentata, ottiene<br>immunità da immobilità e teletr. dei nemici!
 560	<br><br>
 561	<br><br>
 562	<br><br>
@@ -719,3 +719,7 @@
 718	<br><br>
 719	<br><br>
 720	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+721	<br><br>
+722	<br><br>
+723	<br><br>
+724	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>

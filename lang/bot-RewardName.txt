@@ -272,6 +272,7 @@
 1119	Takuya ＆ Yuki
 1120	Drumcorps Cat
 1121	HYAKUTARO
+1122	Sleeping Beauty Punt
 1130	Catornado
 1131	Red Riding Mina
 1132	Funghi
@@ -319,8 +320,10 @@
 10022	Riceball Cat
 10023	Gato Amigo
 10024	Loincloth Cat
+10027	Bridal Princess Punt
 10061	Quizmaster Cat
 10064	Rampage Cats
+10070	Oversleeping Beauty Punt
 10071	Ritual Cat
 10075	Xmas Pudding Cat
 10079	Space Marine Cat
@@ -389,6 +392,15 @@
 10532	Cadaver BearCat
 10540	Gridiron Cat
 10622	Cat Researcher
+10630	Brainwashed Mohawk Cat
+10637	Brainwashed Eraser Cat
+10646	Brainwashed Dark Cat
+10655	Brainwashed Macho Legs Cat
+10663	Brainwashed Lion Cat
+10668	Brainwashed Flying Cat
+10685	Brainwashed Island Cat
+10689	Brainwashed King Dragon Cat
+10695	Brainwashed Jamiera Cat
 15017	Superstar MONEKO
 15031	Tathagata Cat
 15032	Ultra Delinquent Cat
@@ -418,6 +430,9 @@
 15059	Elemental Duelist Cat
 15060	Cats in the Cradle
 15062	Roe Cat
+15067	PPT46
+15068	Crystal Li'l Gau Gau
+15069	Judgment
 15072	Immortal Yukimura
 15073	Immortal Keiji
 15074	Immortal Nobunaga
@@ -453,6 +468,8 @@
 15154	Catophone
 15159	Immortal Kenshin
 15160	Divine Kalisa
+15161	Gekirinchi
+15162	Manic Princess Punt
 15169	Assassinlan Pasalan
 15170	E. Kubilan Pasalan
 15172	Piccolan Pasalan
@@ -508,6 +525,7 @@
 15335	Fox Queen Himeyuri
 15336	Mer-Queen Ruri
 15337	Eternal Reika
+15338	HMS Princess II CC
 15339	Immortal Yoshimoto
 15342	Lost World Catgirl Yuki
 15345	Artist Orthos CC
@@ -568,6 +586,7 @@
 15535	Almighty Hades
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
+15560	Hell Commissioner Emma
 15564	Aquablaster Saki
 15565	Fabulous Pasalan
 15566	Permed Suntan Cat
@@ -612,6 +631,7 @@
 15717	Cop Cat
 15718	Farmboy Cat
 15721	Fallen Bear Cat
+15725	Cat Egg Pod
 16131	Awakened Ururun
 16173	Schoolbus Nyandam
 16269	Awakened Mina

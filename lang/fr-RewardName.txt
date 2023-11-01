@@ -272,6 +272,7 @@
 1119	Takuya ＆ Yuki
 1120	Chat fanfare
 1121	HYAKUTARO
+1122	Sleeping Beauty Punt
 1130	Chat tornade
 1131	Chaperon Mina
 1132	Funghi
@@ -319,8 +320,10 @@
 10022	Chat bol de riz
 10023	Chamigo
 10024	Chat pagne
+10027	Bridal Princess Punt
 10061	Chanimateur
 10064	Chats déchaînés
+10070	Oversleeping Beauty Punt
 10071	Chat ritualiste
 10075	Chat bûche de Noël
 10079	Chastronaute de la Marine
@@ -389,6 +392,15 @@
 10532	Ours-Chat cadavre
 10540	Chaterback
 10622	Chercheur félin
+10630	Chat punk sous contrôle
+10637	Chat gomme sous contrôle
+10646	Chat de l'ombre sous contrôle
+10655	Chat jambes d'acier sous contrôle
+10663	Chat lion sous contrôle
+10668	Chat volant sous contrôle
+10685	Chat île sous contrôle
+10689	Chat roi dragon sous contrôle
+10695	Chat Jamilar sous contrôle
 15017	Moneko Superstar
 15031	Chat Tathagata
 15032	Chat ultra délinquant
@@ -418,6 +430,9 @@
 15059	Chat épéiste élémentaire
 15060	Chats au berceau
 15062	Chats œufs de poisson
+15067	PPT46
+15068	Crystal Li'l Gau Gau
+15069	Judgment
 15072	Yukimura immortel
 15073	Keiji immortel
 15074	Nobunaga immortel
@@ -453,6 +468,8 @@
 15154	Chamophone
 15159	Kenshin immortelle
 15160	Kalisa divine
+15161	Gekirinchi
+15162	Manic Princess Punt
 15169	Assassinlan Pasalan
 15170	E. Kubilan Pasalan
 15172	Piccolan Pasalan
@@ -508,6 +525,7 @@
 15335	Himeyuri reine renard
 15336	Ruri reine des mers
 15337	Reika éternelle
+15338	HMS Princess II CC
 15339	Yoshimoto immortel
 15342	Lost World Catgirl Yuki
 15345	Artist Orthos CC
@@ -568,6 +586,7 @@
 15535	Hadès Tout-puissant
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
+15560	Emma commissaire de l’enfer
 15564	Méga pistol’eau Saki
 15565	Fabuleuse Pasalan
 15566	Chat bronzé à la permanente
@@ -612,6 +631,7 @@
 15717	Chagent de police
 15718	Chagriculteur
 15721	Chat-Ours déchu
+15725	Nacelle-œuf féline
 16131	Ururun et Tama éveillés
 16173	Bus scolaire Nyandam
 16269	Mina éveillée

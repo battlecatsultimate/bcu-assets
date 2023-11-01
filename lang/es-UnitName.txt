@@ -24,7 +24,7 @@
 023	Gata Faldera	Gata con Medias	Gata con Taparrabos
 024	Gata Valquiria	Gata Valquiria Auténtica	Gata Valquiria Sagrada
 025	Gato Bégimo	Gato Bégimo Demente	Gato Bégimo Alzado
-026	Kerihime	Full color Kerihime	
+026	Kerihime	Full color Kerihime	Bridal Princess Punt
 027	Cat Princess	Cat Princess beauty	
 028	Capsule Cat	Cramped Cats	
 029	Masked Cat	Luchador Cat	
@@ -62,12 +62,12 @@
 061	Gato Sushi	Gato Gamba Frita	Gato Huevas
 062	Toy Machine Cat	Vendor Cat	
 063	Gato Deportista	Gatos Secuestradores	Gatos Violentos
-064			
-065			
-066			
-067			
-068			
-069			
+064	Swordsman	Swordsman Johnny	
+065	Cow Princess	Giraffe Princess	
+066	PPT48	Dark PPT48	PPT46
+067	Li'l Gau	Li'l Gau Gau	Crystal Li'l Gau Gau
+068	Reaper	Reaper 999	Judgment
+069	Sleeping Beauty Punt	Sleeping Beauty Punt II	Oversleeping Beauty Punt
 070	Gato Currito	Gato Rencoroso	Gato Ritual
 071	Sanada Yukimura	Yukimura Dios de la Guerra	Yukimura Inmortal
 072	Maeda Keiji	Keiji Dios de la Guerra	Keiji Inmortal
@@ -158,8 +158,8 @@
 157			
 158	Uesugi Kenshin	Dios de la Guerra Kenshin	Kenshin Inmortal
 159	Kalisa	Kalisa (γ)	Kalisa Divina
-160			
-161			
+160	Yurinchi	Phoenix Yurinchi	Gekirinchi
+161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt
 162			
 163			
 164			
@@ -335,7 +335,7 @@
 334	Himeyuri Engatusadora	Himeyuri Nuevecolas	Himeyuri Reina
 335	Sirena Ruri	Sirena Señora Ruri	Sirerreina Ruri
 336	Reina Reika	Reika Faraona	Reika Eterna
-337			
+337	HMS Princess	HMS Princess CC	HMS Princess II CC
 338	Imagawa Yoshimoto	Dios de la Guerra Yoshimoto	Yoshimoto Inmortal
 339			
 340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	Redhead Muscled Yuki Cat
@@ -483,8 +483,8 @@
 482	Benevolent Souma	Souma ＆ Cat	Cat-Eared Souma
 483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat	
 484	Minivalquiria Oscura	Valquiria Jinete Oscura	
-485			
-486			
+485	Calette	Calette CC	
+486	Hina	Swordswoman Hina	
 487	Eva Unit-08	Eva Unit-08 & Cat	
 488	AAA Wunder	NNN Wunder	Vanished NNN Wunder
 489	Misato Katsuragi	Captain Misato	
@@ -528,7 +528,7 @@
 527	Gatobaba	Medugato	
 528	Gato Cosaco	Gato Vodka	
 529	Kasli el Azote	Kasli Santa Ritual	
-530			
+530	Herme	Herme CC	
 531	Gato Profeoso	Gato Asesinoso	Gato Cadaveroso
 532	Urs y Fenrir	Urs y Minka	Urs Alzado
 533	Francotiradora Saki	Cazadora Nocturna Saki	Saki Dinamitera
@@ -557,7 +557,7 @@
 556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba
 557	Heavenly Jack	Heavenly Lord Jack	
 558	Gatobola Mortal	Gatobola Mortal de la Suerte	
-559	Emma Guardiana del Infierno	Emma Centinela del Infierno	
+559	Emma Guardiana del Infierno	Emma Centinela del Infierno	Emma Inspectora del Infierno
 560	Megurine Luka	Megurine Luka CC	
 561	MEIKO & Cat	MEIKO & Cat CC	
 562	Luka Cat	Luka Cat CC	
@@ -627,14 +627,14 @@
 626			
 627			
 628			
-629	Gato Adoctrinado	Gato Mazado Adoctrinado	
+629	Gato Adoctrinado	Gato Mazado Adoctrinado	Gato Crestado adoctrinado
 630	Gato Calígrafo	Gato Maestro del Té	
 631	Yamii	Yaminoir	Yaminora
 632	Dez-Troyer-R Brutal	Diabolosa Cruzaasedios	Diabolosa Destructora
 633	Gorrión Cazatesoros	Cazadores Chunchun	Grandes Cazadores Chunchun
 634	Cíclope Caballero Blanco	Cíclope Caballero Negro	Cíclope Caballero Demoníaco
 635	Gato Millonario	Gato Billonario	
-636	Gato Defensor Adoctrinado	Gato Muro Adoctrinado	
+636	Gato Defensor Adoctrinado	Gato Muro Adoctrinado	Gato Borrador adoctrinado
 637			
 638			
 639			
@@ -643,7 +643,7 @@
 642	Lucifer el Caído	Gran Lucifer	Lucifer Todopoderoso
 643	Superfelino	Superfelino II	Superfelino Final
 644	Mekako Amante	Mekako Agridulce	Mekako Amante Menta
-645	Gato Hachero Adoctrinado	Gato Valiente Adoctrinado	
+645	Gato Hachero Adoctrinado	Gato Valiente Adoctrinado	Gato Oscuro adoctrinado
 646	Gato Petardo	Gato Petardo macho	
 647	Terun Cazadora	Terun Cazadora ζ	
 648	Infrademonio Enamorado	Suprademonio Enamorado	
@@ -652,7 +652,7 @@
 651	Gata Leona	Gata Leona Enmascarada	
 652	Gato Borrapizarras	Gato Borrapizarras Punk	
 653	Bestia Naala Viejuna	Bestia Naala Tormenta	Naala Alzada
-654	Gatilargo Adoctrinado	Gato Muslamen Adoctrinado	
+654	Gatilargo Adoctrinado	Gato Muslamen Adoctrinado	Gato Muslamen adoctrinado
 655	Ventis	Ventiscana	
 656	Huevo Antiguo N001	Huevo Místico N001	Gato Haniwa
 657	Iz la Bailarina del Dolor	Iz la Joven de Luto	
@@ -660,12 +660,12 @@
 659	Huevo Antiguo N102	Huevo Verde N102	Gatarzán
 660	Daliasan Serpiente Marina	Daliasan Rey de los Mares	
 661	Chronos Novia	Chronos de Boda	
-662	Gato Lechero Adoctrinado	Jirafelino Adoctrinado	
+662	Gato Lechero Adoctrinado	Jirafelino Adoctrinado	Gato León adoctrinado
 663	Huevo Antiguo N103	Huevo Negro N103	Gato con Máscara de Gas
 664	Huevo Antiguo N104	Huevo Verde N104	Gato Cirujano
 665	Huevo Antiguo N201	Huevo Negro N201	Gato Exorcista
 666	Lilin Playa Nocturna	Lilin Playa Nocturna π	
-667	Gato Pájaro Adoctrinado	Gatovni Adoctrinado	
+667	Gato Pájaro Adoctrinado	Gatovni Adoctrinado	Gato Volador adoctrinado
 668	Gatengu	Gran Tengu Yokai	
 669	Huevo antiguo N003	Huevo Malvado N003	Gactus
 670	Huevo antiguo N202	Huevo Bermellón N202	Gato Luciérnaga Blindado
@@ -682,17 +682,17 @@
 681	Luke	Luke CC	
 682	Gótica espectral Vega	Guardiana ilusoria Vega	
 683	Conde Yukimura	Yukimura Nosferatu	
-684	Piscigato Adoctrinado	Ballegato Adoctrinado	
+684	Piscigato Adoctrinado	Ballegato Adoctrinado	Gato Isleño adoctrinado
 685	Huevo antiguo N004	Huevo Místico N004	Gato Supercoche
 686	Diosa de la luz Sirius	Diosa del amanecer Sirius	
 687	Terun Reno	Terun Renoζ	
-688	Gato Lagarto Adoctrinado	Gato Dragón Adoctrinado	
+688	Gato Lagarto Adoctrinado	Gato Dragón Adoctrinado	Gato Dragón Rey adoctrinado
 689			
 690	Phono, Hijo del Destino	Phonoa, Reina del Destino	
 691	Huevo Antiguo N000	Huevo Anciano N000	Lord Luza Simio
 692	Issun Boshi	Destructor Oni Kozuchimaru	
 693	Mayordomo Blanco Vigler	Mayordomo Negro Vigler	
-694	Gato Titán Adoctrinado	Gato Titán Mít. adoctrinado	
+694	Gato Titán Adoctrinado	Gato Titán Mít. adoctrinado	Miautante adoctrinado
 695	Gato Defensor Asesino	Gato Defensor Asesino aut.	
 696	Gato Delegado	Gato Delegado Sigiloso	
 697	Huevo Antiguo N107	Huevo morado N107	Gato Jefe
@@ -719,3 +719,7 @@
 718	Gato Maicero	Gatocono	
 719	Tekachi	Tetsukachi	
 720	Huevo Antiguo N006	Huevo Demoniaco N006	Oso Caído Gatuno
+721	High School Kingpin Riki	Dodgeball Riki	
+722	＠	＠	
+723	Aset de la Madre de la Luz	Aset de Nefer	
+724	Huevo Antiguo N112	Huevo Místico N112	Vaina de huevo gatuno

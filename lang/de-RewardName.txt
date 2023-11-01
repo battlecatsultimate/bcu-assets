@@ -272,6 +272,7 @@
 1119	Takuya ＆ Yuki
 1120	Trommlerkatze
 1121	HYAKUTARO
+1122	Sleeping Beauty Punt
 1130	Katzornado
 1131	Rotkäppchen-Mina
 1132	Funghi
@@ -319,8 +320,10 @@
 10022	Reisbällchen-Katze
 10023	Gato Amigo
 10024	Lendenschurz-Katze
+10027	Bridal Princess Punt
 10061	Rätselmeisterkatze
 10064	Amokkatzen
+10070	Oversleeping Beauty Punt
 10071	Ritualkatze
 10075	Weihnachtsdessert-Katze
 10079	Space-Marine-Katze
@@ -389,6 +392,15 @@
 10532	Totengräbärkatze
 10540	Gridiron-Katze
 10622	Katzenforscher
+10630	Gehirngewaschene Irokatze
+10637	Gehirngewaschene Radierkatze
+10646	Gehirngewaschene dunkle Katze
+10655	Gehirng. Macho-Katze
+10663	Gehirngewaschene Löwenkatze
+10668	Gehirngewaschene Flugkatze
+10685	Gehirngewaschene Inselkatze
+10689	Gehirngew. Königsdrachenkatze
+10695	Gehirngewaschene Jamierakatze
 15017	Superstar MONEKO
 15031	Tathagata-Katze
 15032	Ultra-Verbrecher-Katze
@@ -418,6 +430,9 @@
 15059	Elementduellant-Katze
 15060	Katzen in der Wiege
 15062	Rogenkatze
+15067	PPT46
+15068	Crystal Li'l Gau Gau
+15069	Judgment
 15072	Unsterblicher Yukimura
 15073	Unsterblicher Keiji
 15074	Unsterblicher Nobunaga
@@ -453,6 +468,8 @@
 15154	Katzophon
 15159	Unsterbliche Kenshin
 15160	Himmlische Kalisa
+15161	Gekirinchi
+15162	Manic Princess Punt
 15169	Assassinlan Pasalan
 15170	E. Kubilan Pasalan
 15172	Piccolan Pasalan
@@ -508,6 +525,7 @@
 15335	Fuchskönigin Himeyuri
 15336	Meerkönigin Ruri
 15337	Ewige Reika
+15338	HMS Princess II CC
 15339	Unsterblicher Yoshimoto
 15342	Lost World Catgirl Yuki
 15345	Artist Orthos CC
@@ -568,6 +586,7 @@
 15535	Allmächtiger Hades
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
+15560	Höllenkommissarin Emma
 15564	Wasserblaster-Saki
 15565	Grandiose Pasalan
 15566	Lockige gebräunte Katze
@@ -612,6 +631,7 @@
 15717	Polizistenkatze
 15718	Bauernjungenkatze
 15721	Gefallene Bärenkatze
+15725	Katzeneierkapsel
 16131	Erwachte Ururun
 16173	Schulbus-Nyandam
 16269	Erwachte Mina

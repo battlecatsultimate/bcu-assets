@@ -64,9 +64,9 @@
 063	<br><br>
 064	<br><br>
 065	<br><br>
-066	<br><br>
-067	<br><br>
-068	<br><br>
+066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Black enemies!
+067	True Form gains increased defense!<br>immunity to Knockback from enemy attacks.<br>
+068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!
 069	<br><br>
 070	<br><br>
 071	True Form evolution increases Attack!<br>Also gains faster movement speed.<br>
@@ -158,8 +158,8 @@
 157	<br><br>
 158	True form evolution increases defense,<br>movement speed, and attack speed!<br>
 159	True form evolution gets improved<br>attack power and range!<br>
-160	<br><br>
-161	<br><br>
+160	True Form evolution increases Defense and<br>attack range, move speed, and attack speed!<br>
+161	True Form evolution increases<br>defense, attack speed and attack range!<br>Plus, higher Knockback chance vs Metal!
 162	<br><br>
 163	<br><br>
 164	<br><br>
@@ -335,7 +335,7 @@
 334	True Form evolution improves all stats!<br>Plus, Floating and Angel enemies are<br>slowed for longer period of time!
 335	True Form evolution gains improved attack<br>power and defense! Plus, Red enemies are<br>weakened for an even longer time!
 336	True form gains improved attack speed<br>and number of pushbacks against enemies.<br>
-337	<br><br>
+337	True Form evolution gains improved<br>defense, move speed and attack!<br>
 338	True Form evolution gains improved defense<br>and attack range. Plus, weakens Black<br>enemies for longer lengths of time.
 339	<br><br>
 340	<br><br>
@@ -557,7 +557,7 @@
 556	True Form evolution gains big changes<br>to its abilities, including massive damage<br>to Angels and resistance to Knockback.
 557	<br><br>
 558	<br><br>
-559	<br><br>
+559	True Form gains improved defense!<br>Increased chance of Weaken, and gains<br>Immunity to Freeze and enemy Warp effects!
 560	<br><br>
 561	<br><br>
 562	<br><br>
@@ -719,3 +719,7 @@
 718	<br><br>
 719	<br><br>
 720	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+721	<br><br>
+722	<br><br>
+723	<br><br>
+724	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>

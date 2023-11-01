@@ -64,9 +64,9 @@
 063	<br><br>
 064	<br><br>
 065	<br><br>
-066	<br><br>
-067	<br><br>
-068	<br><br>
+066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Black enemies!
+067	¡La forma final tiene más defensa!<br>a la repulsión de los ataques enemigos.<br>
+068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!
 069	<br><br>
 070	<br><br>
 071	La forma final tiene más poder de ataque.<br>Su velocidad de movimiento mejora.<br>
@@ -158,8 +158,8 @@
 157	<br><br>
 158	La forma final tiene una mayor defensa<br>y más velocidad de ataque y de movimiento.<br>
 159	La forma final tiene más<br>poder de ataque y alcance.<br>
-160	<br><br>
-161	<br><br>
+160	True Form evolution increases Defense and<br>attack range, move speed, and attack speed!<br>
+161	True Form evolution increases<br>defense, attack speed and attack range!<br>Plus, higher Knockback chance vs Metal!
 162	<br><br>
 163	<br><br>
 164	<br><br>
@@ -335,7 +335,7 @@
 334	La forma final tiene mejores estadísticas.<br>Además, ralentiza durante más tiempo<br>a enemigos voladores y ángeles.
 335	La forma final tiene más poder de ataque<br>y defensa. Además, desgasta durante<br>más tiempo a enemigos rojos.
 336	La forma final tiene mejor velocidad<br>de ataque y repele más a menudo.<br>
-337	<br><br>
+337	True Form evolution gains improved<br>defense, move speed and attack!<br>
 338	La forma final tiene una mayor defensa<br>y más alcance. Además, desgasta durante<br>más tiempo a enemigos negros.
 339	<br><br>
 340	<br><br>
@@ -557,7 +557,7 @@
 556	True Form evolution gains big changes<br>to its abilities, including massive damage<br>to Angels and resistance to Knockback.
 557	<br><br>
 558	<br><br>
-559	<br><br>
+559	¡La forma final tiene más defensa! ¡Mayor<br>posibilidad de desgaste e inmune a la para-<br>lización y efectos de abducción enemigos!
 560	<br><br>
 561	<br><br>
 562	<br><br>
@@ -719,3 +719,7 @@
 718	<br><br>
 719	<br><br>
 720	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
+721	<br><br>
+722	<br><br>
+723	<br><br>
+724	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>

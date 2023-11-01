@@ -109,3 +109,5 @@
 108	Clear "Invasion of the Swamplord"
 109	Clear all Cats of the Cosmos Ch. 2 Zombie Outbreak Stages
 110	Clear All Level 3<br>Uncanny Legend stages
+111	Clear all maps for Hidden Forest of Gapra,<br>Ashvini Desert, and Jinfore Volcano.
+112	Clear all Malevolent stages.

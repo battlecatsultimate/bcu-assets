@@ -1555,8 +1555,41 @@
 001-349-007	Harter Neustart St. 8
 001-349-008	Harter Neustart St. 9
 001-349-009	Harter Neustart St. MAX
+001-350		Die bösartige Katze
+001-350-000	Jahrhundertende (Irre)
+001-351		Der bösartige Panzer
+001-351-000	Dämonenauslöscher (Irre)
+001-352		Die bösartige Axt
+001-352-000	Hyperberserker (Irre)
+001-353		Die bösartigen Stelzen
+001-353-000	Teuflische Schritte (Irre)
+001-354		Die bösartige Kuh
+001-354-000	Gnadenloser Tyrann (Irre)
+001-355		Der bösartige Vogel
+001-355-000	Apokalypse (Irre)
+001-356		Der bösartige Fisch
+001-356-000	In Angst treibend (Irre)
+001-357		Die bösartige Echse
+001-357-000	Todspuckend (Irre)
+001-358		Der bösartige Titan
+001-358-000	Titanenraserei (Irre)
+001-359		Flussstadt-Staffel
+001-359-000	400-m-Staffel: Schnellstart
+001-359-001	800-m-Staffel: Schnellstart
+001-359-002	1600-m-Staffel: Schnellstart
 
 002			Collaboration Stages
+002-001		Alluring Princess
+002-001-000	How Do You Say Yurinchi?
+002-001-001	You! Rinchi!
+002-001-002	High Heels and Chamomile
+002-001-003	Looks Can Be Deceiving
+002-001-004	For The Princess' Eyes Only
+002-001-005	Competing for the Princess
+002-002		Princess Punt
+002-002-000	Princess Punt Takes the Stage!
+002-002-001	Princess Punt Joins the Fight! (Hard)
+002-002-002	Princess Punt Has Arrived! (Expert)
 002-003		To the Future
 002-003-000	Architecture
 002-003-001	Cloud Services
@@ -1636,6 +1669,11 @@
 002-042-000	Converging Rays
 002-042-001	Fever Time!
 002-042-002	World War ALICE
+002-043		Princess Punt Awakens!
+002-043-000	Way of Princess Punt (Veteran)
+002-044		Sleeping Beauty Punt Awakens!
+002-044-000	Way of Sleeping Beauty Punt (Veteran)
+002-044-001	Way of Sleeping Beauty Punt (Insane)
 002-045		The Lost World
 002-045-000	Another Mystery Girl
 002-045-001	Don't Act Like You Know Me
@@ -1721,6 +1759,12 @@
 002-079-000	Weird
 002-079-001	Furious
 002-079-002	Funky
+002-080		Teachings of the Kicking Kingdom
+002-080-000	In A Rush? Kick!
+002-080-001	Kicks Over Flowers
+002-080-002	The Kicked Get Kicked More
+002-080-003	Ineffective Kick
+002-080-004	Laughter Brings Kicks
 002-081		A Fake Mitakihara
 002-081-000	The Nutcracker Witch (Veteran)
 002-081-001	The Nutcracker Witch (Merciless)
@@ -1779,6 +1823,10 @@
 002-099-000	An Encounter With Sin
 002-099-001	Foolish Wanderer Kano
 002-099-002	Wishing for Happiness
+002-100		To Battle! The Great Sweets War!
+002-100-000	There's Always Room for Sweets
+002-100-001	The Best Medicine is Sweet
+002-100-002	Forbidden Sweets Are Like Nectar
 002-102		Unit-13 Strikes!
 002-102-000	It's Not Your Fault (Veteran)
 002-102-001	We'll Meet Again (Merciless)
@@ -3067,7 +3115,14 @@
 004-060-002	Roter Kristallwald
 004-060-003	Blaue Kristallwüste
 004-060-004	Gelber Kristallvulkan
-
+004-061		Flussstadt-Staffel
+004-061-000	400-m-Staffel: Zweiter Platz
+004-061-001	800-m-Staffel: Zweiter Platz
+004-061-002	1600-m-Staffel: Zweiter Platz
+004-062		Flussstadt-Staffel
+004-062-000	400-m-Staffel: Letzter Abschnitt
+004-062-001	800-m-Staffel: Letzter Abschnitt
+004-062-002	1600-m-Staffel: Letzter Abschnitt
 006			Katzenkrallendojo
 006-000		Halle der Initianden
 006-000-000	Prüfung des Wanderers
@@ -3747,6 +3802,11 @@
 014-050-000	Versuchung des Teufelchens
 014-050-001	Versuchung des Dämonen
 014-050-002	Versuchung des Erzdämonen
+014-051		Böses Sprießen
+014-051-000	Murmeln der Aku (Irre)
+014-051-001	Murmeln der Aku (Tödlich)
+014-051-002	Flüstern der Aku (Tödlich)
+014-051-003	Flüstern der Aku (Gnadenlos)
 
 024			Baron Boss Stages
 024-000		Baron Robbe schlägt zu!
@@ -4980,7 +5040,7 @@
 031-000-016	Urtümliches Waldgebiet 17
 031-000-017	Urtümliches Waldgebiet 18
 031-000-018	Urtümliches Waldgebiet 19
-031-000-019	???
+031-000-019	Windgepeitschtes Waldgebiet: Finale
 031-001		Ashvini-Wüste
 031-001-000	Einöde 1
 031-001-001	Einöde 2
@@ -5001,7 +5061,7 @@
 031-001-016	Sandsturmgebiet 17
 031-001-017	Sandsturmgebiet 18
 031-001-018	Sandsturmgebiet 19
-031-001-019	???
+031-001-019	Mondstaubgebiet: Finale
 031-001-016	Sandsturmgebiet 17
 031-002		Jinfore-Vulkan
 031-002-000	Magmatunnel 1
@@ -5023,7 +5083,7 @@
 031-002-016	Ausbrechendes Höhlengebiet 17
 031-002-017	Ausbrechendes Höhlengebiet 18
 031-002-018	Ausbrechendes Höhlengebiet 19
-031-002-019	???
+031-002-019	Uraltes Vulkangebiet: Finale
 
 033			Die Große Tiefe
 033-000		Die Große Tiefe
@@ -5179,3 +5239,10 @@
 034-005-003	Zwei Meilen unter dem Meer
 034-005-004	Meereshöhlenhabitat
 034-005-005	Jenseits der Hadalzone
+034-006		Wahrheit in Extremen
+034-006-000	Furioses Feld
+034-006-001	Trugbildtal
+034-006-002	Schlucht von Monte Cristo
+034-006-003	Bestie von Monte Christo
+034-006-004	Segen im Sand
+034-006-005	Pech im Sand

@@ -109,3 +109,5 @@
 108	Supera "Invasione del signore della palude"
 109	Supera ogni invasione di zombi in Gatti del Cosmo Cap. 2
 110	Supera ogni livello 3<br>delle Leggende misteriose
+111	Supera le mappe di Foresta segreta di Gapra,<br>Deserto Ashvini e Vulcano Jinfore.
+112	Supera tutti i livelli malvagi.

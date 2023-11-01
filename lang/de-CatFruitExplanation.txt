@@ -64,9 +64,9 @@
 063	<br><br>
 064	<br><br>
 065	<br><br>
-066	<br><br>
-067	<br><br>
-068	<br><br>
+066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Black enemies!
+067	Wahre Form gewährt erhöhte Verteidigung!<br>immun gg. Rückstoß durch feindl. Angriffe.<br>
+068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!
 069	<br><br>
 070	<br><br>
 071	Wahre-Form-Entwicklung verstärkt Angriffe!<br>Erhöht zudem das Bewegungstempo.<br>
@@ -158,8 +158,8 @@
 157	<br><br>
 158	Wahre-Form-Entwicklung erhöht Vert.,<br>Bewegungstempo und Angriffstempo!<br>
 159	Wahre-Form-Entwicklung bietet verbesserte<br>Angriffskraft und Reichweite!<br>
-160	<br><br>
-161	<br><br>
+160	True Form evolution increases Defense and<br>attack range, move speed, and attack speed!<br>
+161	True Form evolution increases<br>defense, attack speed and attack range!<br>Plus, higher Knockback chance vs Metal!
 162	<br><br>
 163	<br><br>
 164	<br><br>
@@ -335,7 +335,7 @@
 334	Wahre-Form-Entwicklung erhöht alle Werte!<br>Lähmt zudem fliegende und Engel-Feinde<br>für längere Zeit!
 335	Wahre-Form-Entwicklung steigert Angriff<br>und Verteidigung! Schwächt rote Feinde<br>für noch längere Zeit!
 336	Wahre-Form-Entwicklung steigert Angriffs-<br>tempo und Anzahl der Rückstöße gg. Feinde.<br>
-337	<br><br>
+337	True Form evolution gains improved<br>defense, move speed and attack!<br>
 338	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffsreichweite. Schwächt schwarze<br>Feinde zudem für längere Zeit.
 339	<br><br>
 340	<br><br>
@@ -557,7 +557,7 @@
 556	True Form evolution gains big changes<br>to its abilities, including massive damage<br>to Angels and resistance to Knockback.
 557	<br><br>
 558	<br><br>
-559	<br><br>
+559	Wahre Form gewährt erhöhte Vtdg.! Erhöhte<br>Chance auf Schwächen und immun gegen<br>Einfrieren und feindliche Teleport-Effekte!
 560	<br><br>
 561	<br><br>
 562	<br><br>
@@ -719,3 +719,7 @@
 718	<br><br>
 719	<br><br>
 720	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
+721	<br><br>
+722	<br><br>
+723	<br><br>
+724	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>

@@ -272,6 +272,7 @@
 1119	Takuya ＆ Yuki
 1120	Gato de Banda
 1121	HYAKUTARO
+1122	Sleeping Beauty Punt
 1130	Gatornado
 1131	Mina Caperucita
 1132	Funghi
@@ -319,8 +320,10 @@
 10022	Gato Bola de Arroz
 10023	Gato Mariachi
 10024	Gata con Taparrabos
+10027	Bridal Princess Punt
 10061	Gato Concursante
 10064	Gatos Violentos
+10070	Oversleeping Beauty Punt
 10071	Gato Ritual
 10075	Gato Pastel Navideño
 10079	Gato Espacial Marine
@@ -389,6 +392,15 @@
 10532	Gato Cadaveroso
 10540	Quartercat
 10622	Investigator
+10630	Gato Crestado adoctrinado
+10637	Gato Borrador adoctrinado
+10646	Gato Oscuro adoctrinado
+10655	Gato Muslamen adoctrinado
+10663	Gato León adoctrinado
+10668	Gato Volador adoctrinado
+10685	Gato Isleño adoctrinado
+10689	Gato Dragón Rey adoctrinado
+10695	Miautante adoctrinado
 15017	Moneko Superestrella
 15031	Gato Tathagata
 15032	Gato Vándalo Ultra
@@ -418,6 +430,9 @@
 15059	Gato Duelista
 15060	Cuna de Gatos
 15062	Gato Huevas
+15067	PPT46
+15068	Crystal Li'l Gau Gau
+15069	Judgment
 15072	Yukimura Inmortal
 15073	Keiji Inmortal
 15074	Nobunaga Inmortal
@@ -453,6 +468,8 @@
 15154	Gatófono
 15159	Kenshin Inmortal
 15160	Kalisa Divina
+15161	Gekirinchi
+15162	Manic Princess Punt
 15169	Asesino Pasalan
 15170	E. Kubilan Pasalan
 15172	Piccolan Pasalan
@@ -507,6 +524,7 @@
 15335	Himeyuri Reina
 15336	Sirerreina Ruri
 15337	Reika Eterna
+15338	HMS Princess II CC
 15339	Yoshimoto Inmortal
 15342	Lost World Catgirl Yuki
 15345	Artist Orthos CC
@@ -567,6 +585,7 @@
 15535	Hades Todopoderoso
 15547	Sukelan Kakulan
 15557	Ghost Alibaba
+15560	Emma Inspectora del Infierno
 15564	Saki con Cañón de Agua
 15565	Fabulosa Pasalan
 15566	Gato Bronceado con Permanente
@@ -611,6 +630,7 @@
 15717	Gato Policía
 15718	Gato Granjero
 15721	Oso Caído Gatuno
+15725	Vaina de huevo gatuno
 16131	Ururun Alzado
 16173	Nyandam Bus Escolar
 16269	Mina Alzada

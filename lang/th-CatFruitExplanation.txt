@@ -64,9 +64,9 @@
 063	<br><br>
 064	<br><br>
 065	<br><br>
-066	<br><br>
-067	<br><br>
-068	<br><br>
+066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Black enemies!
+067	การวิวัฒน์ร่างจริงทำให้เพิ่มการป้องกัน!<br>ภูมิต้านกระแทกกลับจากการโจมตีของศัตรู<br>
+068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!
 069	<br><br>
 070	<br><br>
 071	การวิวัฒน์ร่างจริงจะเพิ่มพลังโจมตี!<br>และเพิ่มความเร็วเคลื่อนที่มากขึ้น<br>
@@ -158,8 +158,8 @@
 157	<br><br>
 158	การวิวัฒน์ร่างจริงทำให้เพิ่มการป้องกัน<br>ความเร็วเคลื่อนที่ และความเร็วโจมตี!<br>
 159	การวิวัฒน์ร่างจริงทำให้เพิ่ม<br>พลังและระยะโจมตี!<br>
-160	<br><br>
-161	<br><br>
+160	True Form evolution increases Defense and<br>attack range, move speed, and attack speed!<br>
+161	True Form evolution increases<br>defense, attack speed and attack range!<br>Plus, higher Knockback chance vs Metal!
 162	<br><br>
 163	<br><br>
 164	<br><br>
@@ -335,7 +335,7 @@
 334	การวิวัฒน์ร่างจริงจะเพิ่มทุกค่าสถานะ!<br>พร้อมชะลอศัตรูลอยและเทพ<br>ได้นานกว่าเดิม!
 335	การวิวัฒน์ร่างจริงจะเพิ่มพลังโจมตี<br>และการป้องกัน! พร้อมศัตรูสีแดงจะ<br>โดนลดทอนนานกว่าเดิม!
 336	การวิวัฒน์ร่างจริงจะเพิ่มความเร็วโจมตี!<br>และจำนวนกระแทกกลับศัตรู<br>
-337	<br><br>
+337	True Form evolution gains improved<br>defense, move speed and attack!<br>
 338	การวิวัฒน์ร่างจริงทำให้เพิ่มการป้องกัน<br>และระยะโจมตี พร้อมลดทอนศัตรูสีดำ<br>เป็นเวลานานขึ้น
 339	<br><br>
 340	<br><br>
@@ -557,7 +557,7 @@
 556	True Form evolution gains big changes<br>to its abilities, including massive damage<br>to Angels and resistance to Knockback.
 557	<br><br>
 558	<br><br>
-559	<br><br>
+559	การวิวัฒน์ร่างจริงทำให้เพิ่มการป้องกัน!<br>เพิ่มขึ้นโอกาสลดโจมตี และได้รับ<br>ภูมิต้านทานเอฟเฟกต์แช่แข็งและวาร์ปของศัตรู!
 560	<br><br>
 561	<br><br>
 562	<br><br>
@@ -719,3 +719,7 @@
 718	<br><br>
 719	<br><br>
 720	วิวัฒน์ร่างจริงเผยร่างสุดท้ายของมัน!<br>ยังได้รับมือสังหารเบอฮีมอธ!<br>
+721	<br><br>
+722	<br><br>
+723	<br><br>
+724	วิวัฒน์ร่างจริงเผยร่างสุดท้ายของมัน!<br>ยังได้รับมือสังหารเบอฮีมอธ!<br>

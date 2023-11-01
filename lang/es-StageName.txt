@@ -1548,8 +1548,40 @@
 001-348-001	Rey Fantasma II (Inhumano)
 001-348-002	Rey Fantasma III (Inhumano)
 001-348-003	Rey Fantasma (Brutal)
+001-350-000	Fin de Siglo (Demencial)
+001-351		El Defensor Malévolo
+001-351-000	Cascademonios (Demencial)
+001-352		El Hachero Malévolo
+001-352-000	Hiperfrenético (Demencial)
+001-353		El Gatilargo Malévolo
+001-353-000	Andares Diabólicos (Demencial)
+001-354		El Lechero Malévolo
+001-354-000	Tirano Desalmado (Demencial)
+001-355		El Pájaro Malévolo
+001-355-000	Gatocalipsis (Demencial)
+001-356		El Piscigato Malévolo
+001-356-000	Incertidumbre (Demencial)
+001-357		El Lagarto Malévolo
+001-357-000	Suspiro Mortal (Demencial)
+001-358		El Titán Malévolo
+001-358-000	Embate Titánico (Demencial)
+001-359		River City: Relevos
+001-359-000	Relevos de 400 m: Salida Ráp.
+001-359-001	Relevos de 800 m: Salida Ráp.
+001-359-002	Relevos de 1600 m: Salida Ráp.
 
 002			Collaboration Stages
+002-001		Alluring Princess
+002-001-000	How Do You Say Yurinchi?
+002-001-001	You! Rinchi!
+002-001-002	High Heels and Chamomile
+002-001-003	Looks Can Be Deceiving
+002-001-004	For The Princess' Eyes Only
+002-001-005	Competing for the Princess
+002-002		Princess Punt
+002-002-000	Princess Punt Takes the Stage!
+002-002-001	Princess Punt Joins the Fight! (Hard)
+002-002-002	Princess Punt Has Arrived! (Expert)
 002-003		To the Future
 002-003-000	Architecture
 002-003-001	Cloud Services
@@ -1629,6 +1661,12 @@
 002-042-000	Converging Rays
 002-042-001	Fever Time!
 002-042-002	World War ALICE
+002-043		Princess Punt Awakens!
+002-043-000	Way of Princess Punt (Veteran)
+002-043-001	Way of Princess Punt (Insane)
+002-044		Sleeping Beauty Punt Awakens!
+002-044-000	Way of Sleeping Beauty Punt (Veteran)
+002-044-001	Way of Sleeping Beauty Punt (Insane)
 002-045		The Lost World
 002-045-000	Another Mystery Girl
 002-045-001	Don't Act Like You Know Me
@@ -1714,6 +1752,11 @@
 002-079-000	Weird
 002-079-001	Furious
 002-079-002	Funky
+002-080-000	In A Rush? Kick!
+002-080-001	Kicks Over Flowers
+002-080-002	The Kicked Get Kicked More
+002-080-003	Ineffective Kick
+002-080-004	Laughter Brings Kicks
 002-081		A Fake Mitakihara
 002-081-000	The Nutcracker Witch (Veteran)
 002-081-001	The Nutcracker Witch (Merciless)
@@ -1772,6 +1815,10 @@
 002-099-000	An Encounter With Sin
 002-099-001	Foolish Wanderer Kano
 002-099-002	Wishing for Happiness
+002-100		To Battle! The Great Sweets War!
+002-100-000	There's Always Room for Sweets
+002-100-001	The Best Medicine is Sweet
+002-100-002	Forbidden Sweets Are Like Nectar
 002-102		Unit-13 Strikes!
 002-102-000	It's Not Your Fault (Veteran)
 002-102-001	We'll Meet Again (Merciless)
@@ -3060,6 +3107,14 @@
 004-060-002	Bosque de Cristales Rojos
 004-060-003	Desierto de Cristales Azules
 004-060-004	Volcán de Cristales Amarillos
+004-061		River City: Relevos
+004-061-000	Relevos de 400 m: 2.º puesto
+004-061-001	Relevos de 800 m: 2.º puesto
+004-061-002	Relevos de 1600 m: 2.º puesto
+004-062		River City: Relevos
+004-062-000	Relevos de 1600 m: Últ. Relevo
+004-062-001	Relevos de 800 m: Últ. Relevo
+004-062-002	Relevos de 400 m: Últ. Relevo
 
 006			Dojo Afilagarras
 006-000		Sala de Iniciados
@@ -3740,6 +3795,11 @@
 014-050-000	Tentación del Impío
 014-050-001	Tentación del Demonio
 014-050-002	Tentación del Archienemigo
+014-051		Mal Proliferante
+014-051-000	Murmullo de Aku (Demencial)
+014-051-001	Murmullo de Aku (Mortal)
+014-051-002	Susurro de Aku (Mortal)
+014-051-003	Susurro de Aku (Inhumano)
 
 024			Baron Boss Stages
 024-000		¡Barón Foca Ataca!
@@ -5046,7 +5106,7 @@
 031-000-016	Zona del Bosque Primitivo 17
 031-000-017	Zona del Bosque Primitivo 18
 031-000-018	Zona del Bosque Primitivo 19
-031-000-019	???
+031-000-019	Zona del Bosque Tormentoso: Final
 031-001		Desierto de Ashvini
 031-001-000	Zona Baldía 1
 031-001-001	Zona Baldía 2
@@ -5067,7 +5127,7 @@
 031-001-016	Zona de la Tormenta de Arena 17
 031-001-017	Zona de la Tormenta de Arena 18
 031-001-018	Zona de la Tormenta de Arena 19
-031-001-019	???
+031-001-019	Zona Lunar: Final
 031-002		Volcán Jinfore
 031-002-000	Zona del Túnel de Magma 1
 031-002-001	Zona del Túnel de Magma 2
@@ -5088,7 +5148,7 @@
 031-002-016	Zona de la Caverna en Erupción 17
 031-002-017	Zona de la Caverna en Erupción 18
 031-002-018	Zona de la Caverna en Erupción 19
-031-002-019	???
+031-002-019	Zona del Volcán Antiguo: Final
 
 033			Profundidades
 033-000		Profundidades
