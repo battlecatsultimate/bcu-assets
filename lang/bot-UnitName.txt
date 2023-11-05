@@ -24,7 +24,7 @@
 023	Skirt Cat	Tights Cat	Loincloth Cat
 024	Valkyrie Cat	True Valkyrie Cat	Holy Valkyrie Cat
 025	Bahamut Cat	Crazed Bahamut Cat	Awakened Bahamut Cat
-026	Kerihime	Full color Kerihime
+026	Kerihime	Full color Kerihime	Bridal Princess Punt
 027	Cat Princess	Cat Princess beauty
 028	Capsule Cat	Cramped Cats
 029	Masked Cat	Luchador Cat
@@ -62,12 +62,12 @@
 061	Sushi Cat	Fried Shrimp Cat	Roe Cat
 062	Capsule Cat	Vendor Cat
 063	Sports Day Cat	Kidnapper Cats	Rampage Cats
-064
-065
-066
-067	Chibigau	Chibigaugau	Crystal Chibigau
-068
-069
+064	Swordsman	Swordsman Johnny	
+065	Cow Princess	Giraffe Princess	
+066	PPT48	Dark PPT48	PPT46
+067	Li'l Gau	Li'l Gau Gau	Crystal Li'l Gau Gau
+068	Reaper	Reaper 999	Judgment
+069	Sleeping Beauty Punt	Sleeping Beauty Punt II	Oversleeping Beauty Punt
 070	Salaryman Cat	Grudge Cat	Ritual Cat
 071	Sanada Yukimura	Wargod Yukimura	Immortal Yukimura
 072	Maeda Keiji	Wargod Keiji	Immortal Keiji
@@ -158,8 +158,8 @@
 157
 158	Uesugi Kenshin	Wargod Kenshin	Immortal Kenshin
 159	Kalisa	Kalisa, type χ	Divine Kalisa
-160
-161
+160	Yurinchi	Phoenix Yurinchi	Gekirinchi
+161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt
 162
 163
 164
@@ -335,7 +335,7 @@
 334	Trickster Himeyuri	Himeyuri Ninetails	Fox Queen Himeyuri
 335	Sea Maiden Ruri	Sea Mistress Ruri	Mer-Queen Ruri
 336	Queen Reika	Pharoah Reika	Eternal Reika
-337
+337	HMS Princess	HMS Princess CC	HMS Princess II CC
 338	Imagawa Yoshimoto	Wargod Yoshimoto	Immortal Yoshimoto
 339
 340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	Redhead Beauty Macho Yuki Cat
@@ -483,8 +483,8 @@
 482	Benevolent Souma	Souma ＆ Cat	Cat-Eared Souma
 483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat
 484	Li'l Valkyrie Dark	Dark Rider Valkyrie
-485
-486
+485	Calette	Calette CC	
+486	Hina	Swordswoman Hina	
 487	Eva Unit-08	Eva Unit-08 & Cat
 488	AAA Wunder	NNN Wunder	Vanished NNN Wunder
 489	Misato Katsuragi	Captain Misato
@@ -528,7 +528,7 @@
 527	Slime Cat	Jellycat
 528	Cossack Cat	Vodka Cat
 529	Kasli the Scourge	Ritual Saint Kasli
-530
+530	Herme	Herme CC	
 531	Teacher BearCat	Assassin BearCat	Cadaver BearCat
 532	Urs & Fenrir	Urs & Minka	Awakened Urs
 533	Sharpshooter Saki	Nighthunter Saki	Bad Blaster Saki
