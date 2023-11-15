@@ -26,6 +26,7 @@
 -114	白色情人節轉蛋	//White Day 711
 -115	完美新娘	//June Bride 731
 -116	超生命體破壞者	//Colossus Bus
+-117	Busters Fest
 -1000	超強精選	//Ultra Selection 191
 -1001	無敵精選	//Miracle Selection 192
 -1002	歲末年終轉蛋	//2017 262
@@ -63,6 +64,7 @@ E22	春節活動轉蛋	//Lunar New Year
 E23	心動時分貓咪學園
 E24	惡魔的完美新娘
 E26	貓咪的暑假
+E27	Medal Cat King's Hall Capsules
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -812,3 +814,12 @@ N64	貓咪轉蛋+	//Cat Capsules+
 848	-2023
 849	-2027
 850	-2011	722
+850	-2011	722
+851	-1007
+852	-1008
+853	-1000
+854	-1001
+855	-1010
+856	-117
+857	-9	725
+857	-9	725

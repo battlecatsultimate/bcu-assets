@@ -667,3 +667,9 @@
 666	Wicked Island Cat
 667	Wicked King Dragon
 668	Wicked Jamiera Cat
+669	Pot Base
+670	Doge God
+671	Doge God the Great
+672	11th Anniversary Cake
+673	11th Anniversary Scarecrow Base
+674	Spritual Uril

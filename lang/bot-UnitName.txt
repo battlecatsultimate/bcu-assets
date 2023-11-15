@@ -71,9 +71,9 @@
 070	Salaryman Cat	Grudge Cat	Ritual Cat
 071	Sanada Yukimura	Wargod Yukimura	Immortal Yukimura
 072	Maeda Keiji	Wargod Keiji	Immortal Keiji
-073	Oda Nobunaga	Wargod Nobunaga	Immortal Nobunaga
+073	Oda Nobunaga	Wargod Nobunaga	Immortal Nobunaga	Devil God Nobunga
 074	Reindeer Fish Cat	Sashimi Cat	Xmas Pudding Cat
-075	Windy	Windy, type α	Divine Windy
+075	Windy	Windy, type α	Divine Windy	Ultimate Windy
 076	Thundia	Thundia, type β	Divine Thundia
 077	Droid Cat	Droid Cat Mk 2	SpringDroid
 078	Space Cat	Major Space Cat	Space Marine Cat
@@ -175,7 +175,7 @@
 174	Mola King	Living Legend	Master of the Pacific
 175	Meowla Meowla	Catorpedo
 176	Marshmallow Cat	Creepmallow
-177	Dioramos	Archdragon Dioramos	God-Emperor Dioramos
+177	Dioramos	Archdragon Dioramos	God-Emperor Dioramos	Great God-Emperor Dioramos
 178
 179	Takuya ＆ Yuki	Takuya, Yuki ＆ Cat	Takuya＆ Lovely Yuki
 180	Mystery Girl Yuki	Mystery Yuki ＆ Cat	Mystery Catgirl Yuki
@@ -239,7 +239,7 @@
 238	Rich Cat III	Rich Cat Sr.	Richest Cat
 239	Sniper the Recruit	Sniper the Heavy	Sniper the Deadeye
 240	Togeluga	Togelan Pasalan	Shishilan Pasalan
-241	Frosty Kai	Frosty Kai, type μ
+241	Frosty Kai	Frosty Kai, type μ	Snow Fairy Kai, type μ
 242	Santa Kuu	Santa Kuu, type γ
 243	Holy Coppermine	Holy Coppermine, type κ
 244	A Gift of Cats	Cat's Gift
@@ -552,7 +552,7 @@
 551	The 9th Angel	9th Angel Cat
 552	Kaworu Cat	Moon Kaworu Cat
 553	Bakery Cat	Boomerang Cat
-554	Master Uril	Mystic Uril
+554	Master Uril	Mystic Uril	Spiritual Uril
 555	Shaman Khan	All-Loving Shaman Khan
 556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba
 557	Heavenly Jack	Heavenly Lord Jack
@@ -723,3 +723,5 @@
 722	Hatsune Miku 16th	Hatsune Miku CC 16th	
 723	Lightmother Aset	Nefer Aset	
 724	Ancient Egg: N112	Mystic Egg: N112	Cat Egg Pod
+725	Ninja Girl Tomoe	Epicure Ninja Tomoe
+726	Medal Cat King	Great Medal Cat King

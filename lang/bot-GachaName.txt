@@ -26,6 +26,7 @@
 -114	White Day Gacha
 -115	June Bride Gacha	//June Bride 731
 -116	Colossus Busters
+-117	Busters Fest
 -1000	Ultra Selection Gacha	//Ultra Selection 191
 -1001	Miracle Selection Gacha	//Miracle Selection 192
 -1002	Farewell Gacha	//2017 262
@@ -68,6 +69,7 @@ E23	Love Letter Capsules
 E24	June Bride of Devil Capsules
 E25	9th Anniversary Special Capsules
 E26	Summer Break Capsules
+E27	Medal Cat King's Hall Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -808,3 +810,11 @@ N65	Cats Eye Capsules
 848	-2023
 849	-2027
 850	-2011	722
+851	-1007
+852	-1008
+853	-1000
+854	-1001
+855	-1010
+856	-117
+857	-9	725
+857	-9	725
