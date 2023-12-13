@@ -239,7 +239,7 @@
 238	Wahre-Form-Entwicklung erhält<br>stark erhöhte Angriffskraft!<br>
 239	Wahre-Form-Entwicklung vergr. Angriffs-<br>tempo & Angriffsfläche & verleiht Fähigkeit,<br>nicht-eiserne Feinde zu verlangsamen.
 240	Wahre-Form-Entwicklung erhöht Angriffs-<br>tempo und deutlich die Verteidigung.<br>Ermöglicht höheren Angriffskraftzuwachs!
-241	<br><br>
+241	Wahre-Form-Entwicklung erhöht Reichweite<br>Verteidigung, Bewegungstempo & Angriff!<br>
 242	<br><br>
 243	<br><br>
 244	<br><br>
@@ -723,3 +723,5 @@
 722	<br><br>
 723	<br><br>
 724	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
+725	<br><br>
+726	<br><br>

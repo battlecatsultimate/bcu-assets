@@ -787,3 +787,4 @@
 9436	Clear Princess Punt Sweets collab stages 50 times!
 62	Termine tous les niv. Légende mystérieuse. niv. 3 pour accomplir cette mission
 63	Termine les 60 niveaux Abattage de Béhémoths !
+9467	Viens à bout du 50e étage de la Tour céleste. ※ Cette récompense ne s’obtient qu’une fois

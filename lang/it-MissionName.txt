@@ -787,3 +787,4 @@
 9436	Clear Princess Punt Sweets collab stages 50 times!
 62	Supera tutti i Livelli Leggende misteriose di livello 3. per completare questa missione
 63	Supera tutti i 60 liv. "Selezione Behemoth"! (Controlla la validità nei dettagli: )
+9467	Supera il 50° piano della Torre celestiale. (Questa ricompensa può essere riscattata una volta sola.)

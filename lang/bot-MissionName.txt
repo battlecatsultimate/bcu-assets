@@ -787,3 +787,4 @@
 9436	Clear Princess Punt Sweets collab stages 50 times!
 62	Clear all Level 3 Uncanny Legend stages. to complete this mission
 63	Clear all 60 Behemoth Culling stages!
+9467	Defeat the 50th floor of the Heavenly Tower. (This reward can only be claimed once.)

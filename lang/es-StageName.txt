@@ -1569,6 +1569,10 @@
 001-359-000	Relevos de 400 m: Salida Ráp.
 001-359-001	Relevos de 800 m: Salida Ráp.
 001-359-002	Relevos de 1600 m: Salida Ráp.
+001-364		Noche 3: Entrega de Nochebuena
+001-364-000	Regalo Rojo-Morado
+001-364-001	Regalo Azul-Verde
+001-364-002	Regalo Amarillo
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3268,6 +3272,16 @@
 007-006-037	Piso 38
 007-006-038	Piso 39
 007-006-039	Piso 40
+007-006-040	Piso 41
+007-006-041	Piso 42
+007-006-042	Piso 43
+007-006-043	Piso 44
+007-006-044	Piso 45
+007-006-045	Piso 46
+007-006-046	Piso 47
+007-006-047	Piso 48
+007-006-048	Piso 49
+007-006-049	Piso 50
 007-007		Ciudadela Sin Rasgos
 007-007-000	Piso 1
 007-007-001	Piso 2
@@ -5304,3 +5318,17 @@
 034-005-003	Dos Millas hacia Abajo
 034-005-004	Hábitat de Cueva Marina
 034-005-005	Más Allá del Lecho Marino
+034-006		Lejos de la Verdad
+034-006-000	Campo Furioso
+034-006-001	Pradera Irreal
+034-006-002	El Risco de Montecristo
+034-006-003	La Bestia de Montecristo
+034-006-004	Suerte en la Grava
+034-006-005	Infortunio en la Grava
+034-007		Demonio de Bahía Decilitro
+034-007-000	Búsqueda del Entendimiento
+034-007-001	Afluente Pitagórico
+034-007-002	1 + 2 = Tor
+034-007-003	Seno-Coseno Mío
+034-007-004	Valle Isósceles
+034-007-005	El Punto Más Lejano

@@ -111,3 +111,4 @@
 110	Schließe alle „Unh. Legenden“-<br>Level der Stufe 3 ab.
 111	Schließe alle Karten von Verst. Gapra-Wald,<br>Ashvini-Wüste & Jinfore-Vulkan ab.
 112	Schließe alle bösartigen Level ab.
+113	Schließe Ebene 50 des Höllischen Turms ab.

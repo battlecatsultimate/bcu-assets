@@ -1573,6 +1573,10 @@
 001-359-000	Staffetta 400m: Inizio veloce
 001-359-001	Staffetta 800m: Inizio veloce
 001-359-002	Staffetta 1600m: Inizio veloce
+001-364		Notte 3: Riconsegna natalizia
+001-364-000	Regalo rosso e viola
+001-364-001	Regalo blu e verde
+001-364-002	Regalo giallo
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3273,6 +3277,16 @@
 007-006-037	38° piano
 007-006-038	39° piano
 007-006-039	40° piano
+007-006-040	41° piano
+007-006-041	42° piano
+007-006-042	43° piano
+007-006-043	44° piano
+007-006-044	45° piano
+007-006-045	46° piano
+007-006-046	47° piano
+007-006-047	48° piano
+007-006-048	49° piano
+007-006-049	50° piano
 007-007		Roccaforte senza tratti
 007-007-000	1° piano
 007-007-001	2° piano
@@ -5274,3 +5288,10 @@
 034-006-003	Bestia di Monte Cristo
 034-006-004	Benedizioni nella sabbia
 034-006-005	Sventura nella sabbia
+034-007		Demone della baia Decilitro
+034-007-000	Alla ricerca della comprensione
+034-007-001	Affluente pitagorico
+034-007-002	1 + 2 = Torre
+034-007-003	Miniera del coseno di poi
+034-007-004	Valle Isoscele
+034-007-005	Il punto più remoto

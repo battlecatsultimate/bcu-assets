@@ -239,7 +239,7 @@
 238	True Form evolution gains<br>greatly improved attack power!<br>
 239	True Form evolution gains faster attack<br>speed, larger attack area, and the<br>ability to Slow non-Metal enemies.
 240	True Form evolution gains improved <br>attack speed and much better defense.<br>Plus, greater attack power gains!
-241	<br><br>
+241	True Form evolution increases<br>defense, move speed and attack!<br>
 242	<br><br>
 243	<br><br>
 244	<br><br>
@@ -723,3 +723,5 @@
 722	<br><br>
 723	<br><br>
 724	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+725	<br><br>
+726	<br><br>

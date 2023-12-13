@@ -111,3 +111,4 @@
 110	Supera ogni livello 3<br>delle Leggende misteriose
 111	Supera le mappe di Foresta segreta di Gapra,<br>Deserto Ashvini e Vulcano Jinfore.
 112	Supera tutti i livelli malvagi.
+113	Supera il 50° piano della Torre infernale

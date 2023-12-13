@@ -26,7 +26,7 @@
 -114	白色情人節轉蛋	//White Day 711
 -115	完美新娘	//June Bride 731
 -116	超生命體破壞者	//Colossus Bus
--117	Busters Fest
+-117	破壞者祭
 -1000	超強精選	//Ultra Selection 191
 -1001	無敵精選	//Miracle Selection 192
 -1002	歲末年終轉蛋	//2017 262
@@ -822,4 +822,4 @@ N64	貓咪轉蛋+	//Cat Capsules+
 855	-1010
 856	-117
 857	-9	725
-857	-9	725
+858	-9	725

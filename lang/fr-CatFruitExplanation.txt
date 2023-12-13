@@ -239,7 +239,7 @@
 238	La forme ultime gagne largement en<br>puissance d’attaque !<br>
 239	La forme ultime gagne en vitesse d’attaque,<br>en zone d’attaque et développe<br>la capacité de ralentir les non-métal.
 240	La forme ultime améliore la vitesse<br>d'attaque, la défense et<br>augmente la puissance d’attaque.
-241	<br><br>
+241	La forme ultime augmente<br>Gain de défense, vitesse de déplac. et att. !<br>
 242	<br><br>
 243	<br><br>
 244	<br><br>
@@ -723,3 +723,5 @@
 722	<br><br>
 723	<br><br>
 724	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
+725	<br><br>
+726	<br><br>

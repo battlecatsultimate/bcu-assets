@@ -1,725 +1,727 @@
-000	Gato	Gato Mazado	Gato Crestado
-001	Gato Defensor	Gato Muro	Gato Borrador
-002	Gato Hachero	Gato Valiente	Gato Oscuro
-003	Gatilargo	Gato Muslamen	Gato Piernacas
-004	Gato Lechero	Jirafelino	Gato León
-005	Gato Pájaro	Gatovni	Gato Volador
-006	Piscigato	Ballegato	Gato Isleño
-007	Gato Lagarto	Gato Dragón	Gato Dragón Rey
-008	Gato Titán	Gato Titán Mítico	Miautante
-009	Gata Actriz	Madre de Gatos	Gato Cachas
-010	Gato de Kungfú	Gato Maestro Borracho	Gato Bailarín
-011	Sr.	Super Sr.	Hiper Sr.
-012	Bondage	Neobondage	Bondage Definitivo
-013	Domigatriz	Verdugo	Eladio Oscuro
-014	Caja de Gatitos	Gatos Pandilleros	Gato de Asalto
-015	Gato Braguitas	Gato Hoja	Gatopiruleta
-016	Moneko	Miss Moneko	Moneko Superestrella
-017	Gato Triciclo	Gato Motero	Gato Monociclo
-018	Gato Ninja	Gato Ninja en Rana	Gato Ninja Volador
-019	Gato Zombi	Gato Demonio	Esquelegato
-020	Gato Samurái	Gato Caballero	Gato Compotas
-021	Gato Sumo	Maruja Sumo	Gato Bola de Arroz
-022	Gato Buguibugui	Gato Samba	Gato Mariachi
-023	Gata Faldera	Gata con Medias	Gata con Taparrabos
-024	Gata Valquiria	Gata Valquiria Auténtica	Gata Valquiria Sagrada
-025	Gato Bégimo	Gato Bégimo Demente	Gato Bégimo Alzado
-026	Kerihime	Full color Kerihime	Bridal Princess Punt
-027	Cat Princess	Cat Princess beauty	
-028	Capsule Cat	Cramped Cats	
-029	Masked Cat	Luchador Cat	
-030	Gato Bodhisattva	Gato Avalokitesvara	Gato Tathagata
-031	Gato Vándalo	Gato Vándalo Cabreado	Gato Vándalo Ultra
-032	Gato Hiphopero	Gato Bailarín Desvergonzado	Gato Cancán
-033	Gato Kotatsu	Gato Samara	Gato Pulpo
-034	Nekoluga	Gato Desconocido	Ultralan Pasalan
-035	Gato Empollón	Gato Hacker	Gato Ciberpunk
-036	Gato Nadador	Gato Mariposa	Gato Pez
-037	Gato Pogo	Gato Masái	Gato Jiangshi
-038	Gato Rueda	Gato Solar	Gato Relajado
-039	Gato Manzana	Gato Cara	iGato
-040	Gato Bañera	Gato Bañera Sexi	Gato Bañera Lujoso
-041	Gata Presumida	Gata Parisina	Gata Cíborg
-042	Gata Gélida	Gata Reina Gélida	Gata de Cristal Gélida
-043	Robogato	Máquina Felina MK II	Máquina Felina MK III
-044	Gato Infrademonio	Gato Suprademonio	Gato Balrog Superior
-045	Maiko Cat	Geisha Cat	
-046	Ronronícola	Niñera Cavernícola	Gatosaurio
-047	Gato Vikingo	Gato Thor	Maximum Luchador
-048	Gato Pirata	Gato Capitán	Gato Corsario
-049	Gatoladrón	Gatoladrón Fantasma	Gatoladrón Folclórico
-050	Gatobispo	Gatomonje	Gato Divino
-051	Gato Vidente	Gato Pescador	Gato Médico
-052	Gato Chamán	Gato Nigromante	Gato Nigrodanzante
-053	Gato Evangelista	Gato Filiembustero	
-054			
-055	Gata Bruja	Gata Hechicera	Gata Maga
-056	Gato Arquero	Gato Cupido	Gatauro
-057	Gato Saqueador	Gato Berserker	Gato Paladín
-058	Gato Espadachín	Gato Maestro de la Espada	Gato Duelista
-059	Gato Bebé	Gatos Bebés	Cuna de Gatos
-060	Gato de Bronce	Gato Miguel Ángel	Gato Concursante
-061	Gato Sushi	Gato Gamba Frita	Gato Huevas
-062	Toy Machine Cat	Vendor Cat	
-063	Gato Deportista	Gatos Secuestradores	Gatos Violentos
-064	Swordsman	Swordsman Johnny	
-065	Cow Princess	Giraffe Princess	
-066	PPT48	Dark PPT48	PPT46
-067	Li'l Gau	Li'l Gau Gau	Crystal Li'l Gau Gau
-068	Reaper	Reaper 999	Judgment
-069	Sleeping Beauty Punt	Sleeping Beauty Punt II	Oversleeping Beauty Punt
-070	Gato Currito	Gato Rencoroso	Gato Ritual
-071	Sanada Yukimura	Yukimura Dios de la Guerra	Yukimura Inmortal
-072	Maeda Keiji	Keiji Dios de la Guerra	Keiji Inmortal
-073	Oda Nobunaga	Nobunaga Dios de la Guerra	Nobunaga Inmortal
-074	Piscigato Reno	Gato Sashimi	Gato Pastel Navideño
-075	Brisabel	Brisabel (α)	Brisabel Divina
-076	Trónica	Trónica (β)	Trónica Divina
-077	Felidroide	Felidroide MK II	Felidroide Primaveral
-078	Gato Espacial	Gato Espacial Comandante	Gato Espacial Marine
-079	Gato Adulto	Gato Resacoso	Gato Prisionero
-080	Gato Malvado	Gato Caballero	Caballeros Compañeros
-081	Gatoñecos	Gatotrón	Miauladín
-082	Ninja Azul	Ninja Naranja	
-083	Sodoma	Sodoma, Rey de la Tierra	Sodoma, Dios Emperador
-084	Megidora	Sacro Dragón Megidora	Megidora, Dios Emperador
-085	Vars	Caballero Dragón Vars	Vars, Dios Emperador
-086	Kamukura	Dios Dragón Kamukura	Kamukura, Dios Emperador
-087	Raiden	Matadragones Raiden	Raiden, Dios Emperador
-088	Gato con Comba	Gato con Comba Doble	Gatos Fideos
-089			
-090			
-091	Gato Demente	Gato Mazado Demente	Gato Crestado Maníaco
-092	Gato Defensor Demente	Gato Muro Demente	Gato Borrador Maníaco
-093	Gato Hachero Demente	Gato Valiente Demente	Gato Oscuro Maníaco
-094	Gatilargo Demente	Gato Muslamen Demente	Gato Piernacas Maníaco
-095	Gato Lechero Demente	Jirafelino Demente	Gato León Maníaco
-096	Gato Pájaro Demente	Gatovni Demente	Gato Volador Maníaco
-097	Piscigato Demente	Ballegato Demente	Gato Isleño Maníaco
-098	Gato Lagarto Demente	Gato Dragón Demente	Gato Dragón Rey Maníaco
-099	Gato Titán Demente	Gato Titán Mítico Demente	Miautante Maníaco
-100	Gata Colegiala	Gata Deportista	Gata Luchadora
-101			
-102			
-103	Gato Cantante	Megagato	Megagato Especial
-104	Gato Koi	Gato Koi Largo	Gato Koi Estandarte
-105	Kuu	Kuu (γ)	Kuu Divina
-106	Kai	Kai (μ)	Kai Divina
-107	Cobrina	Cobrina (κ)	Cobrina Divina
-108	Bola de Gatos	Base Secreta	
-109	Novia Maruja	Maruja Rey	Maruja la Sabana
-110	Celesse	Celesse CC	
-111	Nono	Nono CC	
-112	Olga	Olga CC	
-113	Norn	Norn CC	
-114	Yoichi	Yoichi CC	
-115	Serum	Serum CC	
-116	Fuu	Fuu CC	
-117	Aura	Aura CC	
-118	Rei	Rei CC	
-119	Wyvern	Wyvern Cat	
-120	Healer	Healer CC	Healer Cat CC
-121	Merc	Merc CC	Merc & Cat CC
-122	Diva Vacacional	Gata Oficinista	Gata de Atención al Cliente
-123	Dúo Vaina	Gatos Sostén	Gatos Val Val
-124	Date Masamune	Dios de la Guerra Masamune	Masamune Inmortal
-125	Takeda Shingen	Dios de la Guerra Shingen	Shingen Inmortal
-126	Gato Relojero	Gato Titiritero	Titiritero y Charley
-127	Gato Flor	Gato Ventilador	Gato con Bombas
-128	Gata Vengativa	Gato Groucho	Gato Cometa
-129	Gato Dorado	Gato Dorado Mazado	Gato Mazado Brillante
-130	Lobo Ururun	Gato Ururun	Ururun Alzado
-131	Neneko	Miss Neneko	
-132	Gato de Kungfú X	Gato Maestro Borracho X	Garra de Hierro X
-133			
-134	Urashima Taro	Guardián Gamereon	Rey Gamereon
-135	Grulla Agradecida	Cosmo Supergaláctico	Cosmo Extragaláctico
-136	Momotaro	Los Ángeles del Melocotón	Los Demonios del Melocotón
-137	Kasa Jizo	Castillo Ambulante de Jizo	Megacastillo de Jizo
-138	Princesa Kaguya	La Luna de la Muerte	La Luna del Caos
-139			
-140	Squish Ball Cat	Muscleman Cat	
-141	Dios	Dios Secreto	
-142			
-143	Gata Enfermera	Gata Enfermera Cariñosa	Gata Enfermera Divertida
-144	Minibase Gatuna	Base Gatuna Joven	Ultrabase Gatuna
-145	Gato Pistolero	Gato Jinete	Gato Rodeo
-146	Gato con Zancos	Gatótem	Gatos Acróbatas
-147	Gato de Hojalata	Gatoavión	Robogato
-148	Gato Roquero	Gato Artista	Gato Ramen
-149	Sirena	Gato de Camuflaje	Gato Camarógrafo
-150	Gata Julieta	Gata Princesa Julieta	Julieta Maiko
-151	Gato Halterófilo	Chica de Ring	Gato Pizza
-152	Gatos Patinadores	Gatos Actores	Gatos Bufones
-153	Gatostadora	Gato Proyector	Gatófono
-154	Gato con Aro	Gato Fanfarrón	Gato As del Aro
-155			
-156			
-157			
-158	Uesugi Kenshin	Dios de la Guerra Kenshin	Kenshin Inmortal
-159	Kalisa	Kalisa (γ)	Kalisa Divina
-160	Yurinchi	Phoenix Yurinchi	Gekirinchi
-161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt
-162			
-163			
-164			
-165			
-166			
-167			
-168	Asiluga	Asilan Pasalan	Asesino Pasalan
-169	Kubiluga	Kubilan Pasalan	E. Kubilan Pasalan
-170	Tecoluga	Tesalan Pasalan	Lufalan Pasalan
-171	Balaluga	Balalan Pasalan	Piccolan Pasalan
-172	Mininyandam	Emperador Nyandam	Nyandam Bus Escolar
-173	Baby Mola	Young Man Mola	Citizen Mola
-174	Mola King	Living Legend	Master of the Pacific
-175	Meowla Meowla	Catorpedo	
-176	Gato Esponjita	Esponjita Inquietante	
-177	Dioramos	Dioramos el Archidragón	Dioramos, Dios Emperador
-178			
-179	Takuya ＆ Yuki	Takuya, Yuki ＆ Cat	Takuya＆ Lovely Yuki
-180	Mystery Girl Yuki	Mystery Yuki ＆ Cat	Mystery Catgirl Yuki
-181	Yuki Cat	Lovely Yuki Cat	
-182			
-183	Cat Kart R	Cat Kart G	Cat Kart P
-184	Mr. Ninja	Mint	
-185	Hearscht	Hearscht CC	Revolutionary Hearscht CC
-186	Cornelia	Cornelia CC	
-187	Juvens	Juvens CC	Holiday Juvens CC
-188	Mystica	Mystica CC	Savior Mystica CC
-189	Alois	Alois CC	
-190	Citrouille	Citrouille CC	
-191	Titi	Titi CC	Titi Cat CC
-192			
-193			
-194	Akira	Akira Sombra	Akira Infierno
-195	Mekako Saionji	Dra. Mekako	Mekako Control de Misión
-196	Catman	Catman Oscuro	Catman Definitivo
-197	Psicogato	Neopsicogato	Psicogato Corrupto
-198	Gato Onmyoji	Gata Mágica	Gato Taumaturgo
-199	Gato Surfero	Gato Náufrago	Gato Marinero
-200	Gato Metálico	Gato Mazado Metálico	
-201	Gato de Banda	Gato de Estandarte	Gato de Mochi
-202	Baozi Cat	Big Baozi	
-203	Kachi-Kachi	Cuerpo de Bomberos Kachiyama	Brigada de Asalto Kachiyama
-204			
-205			
-206			
-207			
-208			
-209	Minigato	Minigato Mazado	Minigato Crestado
-210	Minidefensor	Minigato Muro	Minigato Borrador
-211	Minihachero	Minigato Valiente	Minigato Oscuro
-212	Conejita Blanca	Gata Negra	Zorro Gris
-213	Gatomburguesa	Gatorroyal	Gato Comida para Llevar
-214	HYAKUTARO	HYAKUTARO CC	
-215	MARCO	MARCO CC	
-216	TARMA	TARMA CC	
-217	ERI	ERI CC	
-218	FIO	FIO CC	
-219	SV-001	SV-001 CC	
-220	ALLEN O'NEIL	ALLEN O'NEIL CC	
-221	MARS PEOPLE	MARS PEOPLE CC	
-222	HUGE HERMIT	HUGE HERMIT CC	
-223	JUPITER KING	JUPITER KING CC	
-224	DONALD MORDEN	GENERAL MORDEN	
-225	HI-DO	HI-DO CC	
-226	Brujo y Pedrín	Mercader Oscuro Babil	Doctor Klay Loco
-227	Calabagato	Gato de Halloween	Gato Presagio
-228	Neneko Oscura	Neneko Bruja	Disfraz de Neneko Bruja
-229	Brujabel	Brujabel (α)	
-230	Trónica Tétrica	Trónica Tétrica (β)	
-231			
-232			
-233			
-234			
-235			
-236			
-237	Novato Sabelotodo	Profesor Sabelotodo	Sabelotodo Director
-238	Gato Rico III	Gato Rico Sr.	Gato Forrado
-239	Recluta Gatotirador	Gatotirador Experto	Gatotirador infalible
-240	Togeluga	Togelan Pasalan	Shishilan Pasalan
-241	Kai de Nieve	Kai de Nieve (μ)	
-242	Kuu Noel	Kuu Noel (γ)	
-243	Cobrina Bendita	Cobrina Bendita (κ)	
-244	Regalo Gatuno	Gato Sorpresa	
-245	Minigatilargo	Minigato Muslamen	Minigato Piernacas
-246	Minivaca	Minijirafelino	Minigatoleón
-247	Minipájaro	Minigatovni	Minigato Volador
-248	Gato No Muerto	Bake-Nyanko	Gato Vida Extra
-249			
-250			
-251			
-252			
-253			
-254			
-255			
-256			
-257	Dios del Trueno Zeus	Zeus el Majestuoso	Zeus Todopoderoso
-258	Anubis el Protector	Anubis el Inmaculado	Anubis Todopoderoso
-259	Afrodita Radiante	Megafrodita	Afrodita Todopoderosa
-260	Gatway	Gato Dron	Gato Viajero del Tiempo
-261	Hayabusa	Oni Hayabusa	Akuma Hayabusa
-262			
-263			
-264			
-265			
-266			
-267	Gatornado	Huragato	Gatifón
-268	Mina Caperucita	Mina Carmesí	Mina Alzada
-269	Gao Bebé	Gao Señor Poderoso	
-270	Crazed Yuki	Crazed Yuki ＆ Cat	Crazed Catgirl Yuki
-271	Amaterasu Reluciente	Amaterasu Gloriosa	Amaterasu Todopoderosa
-272	Ganesha Espléndido	Ganesha Exaltado	Ganesha Todopoderoso
-273	Gata Animadora	Gata Camarera	Gata Restauradora
-274	Kalisa Tropical	Kalisa Tropical X	
-275	Conejita Veraniega	Gata Veraniega	
-276	Neneko Nadadora	Neneko Playera	Neneko Veraniega
-277	Funghi	Funghi 'n' Cat	
-278	Tanky	Tanky 'n' Cat	
-279	White Cat	Gross White Cat	
-280	Fortressy	Castley	
-281			
-282	Bailarina de Awa	Bailarina de Soran	Gato Bailongo Precioso
-283	Pai-Pai	Pai-Pai Z	Pai-Pai DX
-284	Gato Expreso	Gato Maglev	Gato Tren Bala
-285			
-286	Centinela R. E. I.	Unidad de Asalto R. E. I.	Unidad Voladora R. E. I.
-287	Gato de Ligas Inferiores	Gato de Ligas Superiores	Gato Golfista
-288	Madoka Kaname	Madoka & Cat	
-289	Homura Akemi	Homura & Cat	
-290	Sayaka Miki	Sayaka & Cat	
-291	Mami Tomoe	Mami & Cat	
-292	Kyoko Sakura	Kyoko & Cat	
-293	Kyubey	Kyubey & Cat	
-294	Madoka Cat	Magical Girl Madoka Cat	
-295	Homura Cat	Magical Girl Homura Cat	
-296	Sayaka Cat	Magical Girl Sayaka Cat	
-297	Mami Cat	Magical Girl Mami Cat	
-298	Kyoko Cat	Magical Girl Kyoko Cat	
-299	Li'l Madoka	Li'l Magical Girl Madoka	Li'l Ultimate Madoka
-300	Li'l Homura	Li'l Magical Girl Homura	Li'l Devil Homura
-301	Kyubey Cat	Tank Kyubey Cat	
-302	Gata Lilit	Gata Súcubo	Gata Reina Súcubo
-303	Vendedor de Comida	Gato Repartidor	
-304	Gatapulta Brutal	Máquina de Asedio	Mastodonte de Asalto
-305	Buque Brutal	BCS Corazón de León	BCS Garra de Tigre
-306	Bombardero Brutal	MIAU-0 Fortaleza Aérea	MIAU-02 Ciudadela Aérea
-307	Gato con Pértiga	Gata con Pértiga	Gata Ama de Casa
-308	Gato Jardinero	Gato Leñador	Gato Desbrozador
-309			
-310	Enfermera Candela	Enfermera Candelaria	Enfermera Navideña
-311	Minipescado	Miniballegato	Minigato Isleño
-312	Minilagarto	Minigato Dragón	Minigato Dragón Rey
-313	Minititán	Minigato Titán Mítico	Minimiautante
-314	Neneko de Nochevieja	Neneko de Año Nuevo	
-315	PIKOTARO	NEKOTARO	
-316	Poseidón Iracundo	Poseidón Valiente	Poseidón Todopoderoso
-317	CPAC	PPAP	
-318	Miko Mitama	Mitama Oráculo	
-319	Gato Asesino	Gato Asesino Auténtico	Gato Radical
-320			
-321			
-322	Sarukani	Vengadores del Rock	Estrellas de Un Día
-323	Miyamoku Musashi	Musashi Heroico	Musashi Alzado
-324	Gato Curling	Gato Sobre Rumba	Gato con Caparazón Verde
-325	Gato Peso Ligero	Gato Peso Pesado	Gato Peso Superpesado
-326	Mobius	Miraculous Mobius	
-327	Belial	Reckless Belial	
-328	Happy 100	Heartful Happy 100	
-329	Gato Huevo	Gato de Pascua	Gato Huevo de Pascua
-330	Kenshin Primaveral	Kenshin Floreciente	Kenshin Brisa Primaveral
-331	Conejito y Patosín	Psicopato Discípulo	Pato Loco Malévolo
-332	Neneko de Pascua	Neneko Saltarina	Neneko Floreciente
-333	Gao Sombra	Gao Diabólico	
-334	Himeyuri Engatusadora	Himeyuri Nuevecolas	Himeyuri Reina
-335	Sirena Ruri	Sirena Señora Ruri	Sirerreina Ruri
-336	Reina Reika	Reika Faraona	Reika Eterna
-337	HMS Princess	HMS Princess CC	HMS Princess II CC
-338	Imagawa Yoshimoto	Dios de la Guerra Yoshimoto	Yoshimoto Inmortal
-339			
-340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	Redhead Muscled Yuki Cat
-341	Lost World Yuki	Lost World Yuki ＆ Cat	Lost World Catgirl Yuki
-342	Gato de la Suerte	Neogato de la Suerte	
-343	Jinete de Babosas	Gatobabosa	
-344	Orthos	Orthos CC	Artist Orthos CC
-345	Michelia	Michelia CC	Naptime Michelia CC
-346	Todomeki	Todomeki CC	
-347			
-348			
-349			
-350			
-351	Astrogemelas	Astrogemelas (Φ)	Astrogemelas Divinas
-352	Gato Ermitaño	Gato Gran Maestro	Gato Gran Maestro Disfrazado
-353			
-354	Kai Playera	Kai Playera (μ)	
-355	Cuerpo Explorador Brutal	Armagedón Plataforma Orbital	Plataforma Orbital Asoladora
-356			
-357	Lobata Deale	Deale Princesa Loba	Deale Reina Bufona
-358	Verbena Ultratumba	Verbena Nupcial	Verbena Opulenta
-359	Bora	Bazibon	Bazibastra
-360	Mizli	Marinmizu	Mizuririn
-361	Aer	Erphuan	Aervanta
-362	Saber	Saber CC	Saber Alter CC
-363	Rin Tohsaka	Rin Tohsaka CC	
-364	Illyasviel	Illyasviel CC	
-365	Archer	Archer CC	
-366	Lancer	Lancer CC	
-367	Rider	Rider CC	
-368	Gilgamesh	Gilgamesh CC	
-369	Saber the Cat	Heroic Spirit Saber Cat	Saber Alter Cat
-370	Sakura the Cat	Apron Sakura Cat	Dreaming Sakura Cat
-371	Rin the Cat	Mage Rin Cat	
-372	Illya the Cat	Snow Faerie Illya	
-373	Li'l Shirou	Li'l Shirou CC	
-374	Li'l Sakura	Li'l Sakura CC	
-375	Gatomoneda	Gatomoneda Mazado	
-376	Gato Róver	Gato Róver MK II	Gatélite
-377	Gato Esgrimista	Gato Kendo	El Gato de la Libertad
-378	Mitama Oscura	Mitama Gótica	
-379	Gata de Voleibol	Gato Ballet	Gato Curry
-380	D'Artamiau	Miausquetero	
-381	Gato Granjero	Gato Cosechador	
-382	Gato de Cristal	Gato de Cristal Mazado	Gata de Cristal Mazada
-383	Yulala Enmascarada	Yulala Mística	Yulala Espiritual
-384	Satori Hikami & Cat	Satori Hikami & Cat CC	
-385	Akio Yabe	Akio Yabe CC	Akio & Gunder CC
-386	Sairi Nijitani	Sairi Nijitani CC	
-387	Misaki Konno	Misaki Konno CC	
-388	Ren Katagiri	Ren Katagiri CC	
-389	Karin Nekozuka	Karin Nekozuka CC	
-390	Aoi Hayakawa	Aoi Hayakawa CC	Baseball Mask α
-391	Mizuki Tachibana	Mizuki Tachibana CC	Baseball Mask β
-392	Hijiri Rokudo	Hijiri Rokudo CC	Baseball Mask γ
-393	Saki Nijima	Saki Nijima CC	Samba Saki CC
-394	Subaru Hoshi	Subaru Hoshi CC	Dark Subaru CC
-395	Miyabi Oyama	Miyabi Oyama CC	Baseball Mask δ
-396	Ganglión	Ganglión el Ancestral	Ganglión Liberado
-397	Sakura Sónica	Sakura Extraescolar	Sakura Hoja Sagrada
-398			
-399	Mentori	Mentori CC	
-400	Imoto	Imoto CC	
-401	Voli	Volta	Gigavolta
-402	Shinji & Cat	Plug Suit Shinji	Plug Suit Shinji Black
-403	Gendo & Fuyutsuki Cats	Moon Gendo & Fuyutsuki Cats	
-404	Giraffe Unit-01	Giraffe Unit-02	
-405	Kaworu & Cat	Plug Suit Kaworu	Moon Kaworu
-406	Rei Cat	Ayanami Cat (TBC)	
-407	Asuka Cat	Apron Asuka	
-408	Mari Cat	Special Ops Mari	
-409	Rei Ayanami	Plug Suit Rei	Reunion Li'l Rei
-410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka
-411	Mari Illustrious	Plug Suit Mari	
-412	Eva Unit-00	Eva Unit-00 & Cat	
-413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-01 & Cat
-414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777
-415	Shinji Cat	Toji & Kensuke Cats	
-416	Moon Operators	NERV Moon	
-417	Baño D-Lux Brutal	Guardianes Subterráneos	Centinelas Subterráneos
-418	Moneko Demente	Moneko Corrupta	
-419	Pokota	Pokota CC	
-420	Ovis	Ovis CC	
-421	Coco	Coco CC	
-422			
-423			
-424			
-425			
-426	Bun Bun Mecánico	Bun Bun Mecánico MK II	Bun Bun Mecánico Definitivo
-427	Clan Heroico Gatuno	Gremio Heroico Gatuno	Equipo Heroico Gatuno
-428	Souma Cat	Stylish Souma Cat	
-429	Otaku Geek Cat	Hacker Geek Cat	
-430			
-431	Detective Vigler	Inspector Gabriel	Gravicci Jefe de Sección
-432	Betakkuma	Black Betakkuma	
-433	Nekokkuma	Killer Nekokkuma	
-434			
-435	Minivalquiria	Valquiria Bailarina del Viento	
-436	Nobiluga	Nobilan Pasalan	Pasalan Místico
-437	Misidiós el Fantástico	Misidiós el Increíble	Misidiós el Dorado
-438	Kuu Surfera	Kuu Surfera (γ)	
-439	Emperatriz Chronos	Chronos Infinita	Chronos Todopoderosa
-440	Bebe	Nagisa & Cat	
-441	D’Artamiau Oscuro	D'Artamiau Valiente	
-442	Gato Solitario y Gatito	Gata Vendedora y Gatito	Gato Turista
-443	Gato Taladrador	Gato Supertaladrador	Neogato Taladrador
-444	Gato Martinete	Gato Supermartinete	Neogato Martinete
-445	Gato Cortador	Gato Supercortador	Neogato Cortador
-446	Gato Retroexcavadora	Gato Superretroexcavadora	Neogato Retroexcavadora
-447	Gato Aserrador	Gato Superaserrador	Neogato Aserrador
-448	Musashi Miyamoto	Dios de la Guerra Miyamoto	
-449	Directora Jeanne	Directora Jeanne (ψ)	
-450	Babel Señor Supremo	Babel Llama Oscura	Babel, Dios Emperador
-451	Ushiwakamaru	Benkei Colosal	
-452	Gato Primordial	Gato Moderno	Gato Futurista
-453			
-454			
-455	Momoco Maravillosa	Momoco Mona	
-456	Sakura Matou	Sakura Matou CC	Dark Sakura CC
-457	Shirou the Cat	Novice Mage Shirou Cat	
-458	Archer the Cat	Heroic Spirit Archer Cat	
-459	Rider the Cat	Heroic Spirit Rider Cat	
-460	Kotomine & Gilgamesh Cats	Gilgamesh & Kotomine Cats	
-461	Legeluga	Legelan Pasalan	
-462	Gato Filiembustero X	Gato Filiembustero Y	Metafiliembustero
-463	Kristul Muu Poderoso	Pandora Motor de Destrucción	
-464	Chuchomaru	Perromón	Perromón Guerrero Renacido
-465			
-466	Black Zeus	Dark Lord Zeus	
-467	Super Zeus	All-Powerful Super Zeus	Super S-Zeus
-468	Holy Phoenix	Holy Warrior Phoenix	Head Rococo
-469	Super Devil	Imposter Super Devil	Super D-Devil
-470	Satanmaria	Wondermaria	
-471	Heracrist	Perfect Heracrist	
-472	Fiendish Nero	Beastly Nero	
-473	Prince Yamato	Holy Yamato	Rampaging Yamato
-474	Rosary Angel	Cross Angel	Strike Angel
-475	Wakamiko Cat	Warrior King Cat	
-476	Cat Devil	Infernal Cat	
-477	Nekonosuke	Old Guardian Cat	
-478	Lumina	Luminalia	
-479			
-480			
-481	Doktor Celestial	Profesor Abismo	
-482	Benevolent Souma	Souma ＆ Cat	Cat-Eared Souma
-483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat	
-484	Minivalquiria Oscura	Valquiria Jinete Oscura	
-485	Calette	Calette CC	
-486	Hina	Swordswoman Hina	
-487	Eva Unit-08	Eva Unit-08 & Cat	
-488	AAA Wunder	NNN Wunder	Vanished NNN Wunder
-489	Misato Katsuragi	Captain Misato	
-490	Ritsuko Akagi	First Officer Ritsuko	
-491	Rei Ayanami (???)	Awakened Ayanami	
-492			
-493	Gaia Creadora	Gaia Suprema	
-494	Cobrina Brisamarina	Cobrina Brisamarina (κ)	
-495	Gata Matadora	Gata Flamenca	Gata Danza del Vientre
-496	Narita Kaihime	Diosa de la Guerra Kaihime	Kaihime Inmortal
-497	Shakurel Cat	Shakurel Macho Cat	
-498	Shakurel Lion	Shakurel Lion CC	
-499	Shakurel Tiger	Shakurel Tiger CC	
-500	Shakurel Panda	Shakurel Panda CC	
-501	Cat Bros	Baka Cat Bros	
-502	Myrcia	Myrcia (ξ)	Myrcia Divina
-503			
-504			
-505	Implacable Gladios	Gladios Aniquilador	Gladios, Dios Emperador
-506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC
-507	Gatman	Supergato	
-508	Ryu Cat	Ryu Cat CC	
-509	Chun-Li Cat	Chun-Li Cat CC	
-510	Akuma	Akuma CC	
-511	Ryu	Ryu CC	Kage
-512	Chun-Li	Chun-Li CC	
-513	Guile	Guile CC	
-514	Zangief	Zangief CC	
-515	Blanka	Blanka CC	
-516	Dhalsim	Dhalsim CC	
-517	Ken	Ken CC	
-518	Akuma Giraffe	Akuma Lion	
-519	Lasvoss	Lasvoss Definitivo	Lasvoss Renacido
-520	Ebisu de Buena Suerte	Ebisu de Mala Suerte	
-521	Gato Medusa	Gato Medusa con Coletas	Gato Naga
-522	Gata Ninfa	Gata Medallista	Gata Endemoniada
-523	Gato Wushu	Gato Cinturón Negro	Gato Shigong
-524			
-525	Kintaro	Robotropa de Kinrangers	Supertropa de Kinrangers
-526	Astrogemelas Navideñas	Astrogemelas Navideñas (Φ)	
-527	Gatobaba	Medugato	
-528	Gato Cosaco	Gato Vodka	
-529	Kasli el Azote	Kasli Santa Ritual	
-530	Herme	Herme CC	
-531	Gato Profeoso	Gato Asesinoso	Gato Cadaveroso
-532	Urs y Fenrir	Urs y Minka	Urs Alzado
-533	Francotiradora Saki	Cazadora Nocturna Saki	Saki Dinamitera
-534	Hades el Castigador	Hades el Mortífero	Hades Todopoderoso
-535	Hatsune Miku	Hatsune Miku CC	
-536	Sakura Miku	Sakura Miku CC	
-537	Kagamine Rin & Len	Kagamine Rin & Len CC	
-538	Miku Cat	Miku Cat CC	
-539	Gato Rugby	Gato Atacante	Quartercat
-540			
-541			
-542			
-543	Kasli el Flagelo	Kasli Hija del Caos	
-544	Kyosaka Nanaho	Kyosaka Nanaho final	
-545	Gato Fantasma	Gato Miasma	
-546	Papaluga	Papalan Pasalan	Sukelan Kakulan
-547	Night Oracle Rei	Heavenly Herald Rei	
-548	The 4th Angel	4th Angel Cat	
-549	The 6th Angel	6th Angel Cat	
-550	The 10th Angel	10th Angel Cat	
-551	The 9th Angel	9th Angel Cat	
-552	Kaworu Cat	Moon Kaworu Cat	
-553	Gato Repostero	Gato Bumerán	
-554	Maestro Uril	Uril Místico	
-555	Shaman Khan	All-Loving Shaman Khan	
-556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba
-557	Heavenly Jack	Heavenly Lord Jack	
-558	Gatobola Mortal	Gatobola Mortal de la Suerte	
-559	Emma Guardiana del Infierno	Emma Centinela del Infierno	Emma Inspectora del Infierno
-560	Megurine Luka	Megurine Luka CC	
-561	MEIKO & Cat	MEIKO & Cat CC	
-562	Luka Cat	Luka Cat CC	
-563	Saki con Pistola de Agua	Saki con Bazuca de Agua	Saki con Cañón de Agua
-564	Veraniluga	Bikinilan Pasalan	Fabulosa Pasalan
-565	Gato Bronceado	Gato Bronceado Mazado	Gato Bronceado con Permanente
-566	Gatos Socorristas	Gatos Apilados	Gatos Gelatos
-567	Huevo de Minigatíclope	Minigatíclope	
-568	Idi:N	Idi:N2	
-569	Petro	Petrolo	Petrolodón
-570	Vars Jinete Esquelético	Vars Rey de Pesadilla	Caballero de Halloween Vars
-571	E. Honda	E. Honda CC	
-572	Balrog	Balrog CC	
-573	Vega	Vega CC	
-574	Sagat	Sagat CC	
-575	M. Bison	M. Bison CC	
-576	C. Honda	C. Honda CC	
-577	Balrog Cat	Balrog Cat CC	
-578	Vega Cat	Vega Cat CC	
-579	Sagat Cat	Sagat Cat CC	
-580	M. Bison Cat	M. Bison Cat CC	
-581	Gato Piedra	Gato Peñasco	
-582	Hatsune Miku: MM2020 Osaka	Hatsune Miku CC: MM2020 Osaka	
-583	Hatsune Miku: MM2020 Tokyo	Hatsune Miku CC: MM2020 Tokyo	
-584	Keiji Noel	Maeda Navideño	Maeda Navideño DX
-585	Garu Bebé	Aegis Garu Todopoderoso	
-586	Gato Emperador	Gato Tirano	
-587	Dulce Afrodita	Chocoladita	
-588	Myrcia Primer Amor	Myrcia Primer Amor (ξ)	
-589	Neneko de San Valentín	Neneko Amorosa	Neneko de Amor Verdadero
-590	Snow Miku 2021	Snow Miku CC 2021	
-591	Kaito & Cat	Kaito & Cat CC	
-592	Neko Rin	Neko Rin CC	
-593	Neko Len	Neko Len CC	
-594	Globo Aerostático S.r.l.	Atlantis Logistix	Ultratlantis Logistix
-595	Kamukura Florido	Kamukura Perenne	Lord Kamukura Perenne
-596	Ranma Saotome (M)	Ranma Saotome (F)	
-597	Akane Tendo	Akane Tendo (Gi)	
-598	Ryoga Hibiki (Pig)	Ryoga Hibiki	
-599	Shampoo (Cat)	Shampoo	
-600	Mousse (Duck)	Mousse	
-601	Happosai	Happosai (Lewd)	
-602	Ukyo Kuonji (GR)	Ukyo Kuonji	
-603	Tatewaki Kuno (Gi)	Tatewaki Kuno	
-604	Ranma Cat (M)	Ranma Cat (F)	
-605	Akane Cat	Akane Cat (Gi)	
-606	Panda Cat	Genma Cat	
-607	Kanna Aventurera	Kanna Espadachina	Kanna Aventurera de Fábula
-608			
-609	Aegis Garu Oscuro	Bestia Garu Oscuro	
-610	Gato Bloque de Oro	Rey Lingote de Oro	Rey Nekokhamen
-611	Godzilla Cat	Shin Godzilla Cat	
-612	Gata Princesa	Gata Emperatriz	
-613	Máscara Doron Viejuna	Máscara Doron	Doron Alzado
-614	Kaguya Costera	Sol Sureño	Sol Sureño Destellante
-615	Gato Kabuto	Gato Kabuto Dorado	
-616	Gato Kuwagata	Rey Gato Kuwagata	
-617	Invocador Satoru	Invocador Satoru Oscuro	Cazador de demonios Satoru
-618	Amakusa Shiro	Dios de la Guerra Amakusa	Amakusa Inmortal
-619	Lilin	Lilin π	Lilin Divina
-620	Hevijak el Maligno	Hevijak el Rey Maligno	Hevijak, Dios Emperador
-621	Investigador Aku	Investigador Aku Malvado	Investigator
-622	Majado Jr.	Señor de la Ruina Majado Jr.	
-623	Gato de Hamelín	Gato Komuso	
-624	Kunio-kun	Dodgeball Kunio-kun	
-625	Furiluga	Furilan Pasalan	Ragelan Pasalan
-626			
-627			
-628			
-629	Gato Adoctrinado	Gato Mazado Adoctrinado	Gato Crestado adoctrinado
-630	Gato Calígrafo	Gato Maestro del Té	
-631	Yamii	Yaminoir	Yaminora
-632	Dez-Troyer-R Brutal	Diabolosa Cruzaasedios	Diabolosa Destructora
-633	Gorrión Cazatesoros	Cazadores Chunchun	Grandes Cazadores Chunchun
-634	Cíclope Caballero Blanco	Cíclope Caballero Negro	Cíclope Caballero Demoníaco
-635	Gato Millonario	Gato Billonario	
-636	Gato Defensor Adoctrinado	Gato Muro Adoctrinado	Gato Borrador adoctrinado
-637			
-638			
-639			
-640			
-641	Iz la Bailarina	Iz la Bailarina Atractiva	
-642	Lucifer el Caído	Gran Lucifer	Lucifer Todopoderoso
-643	Superfelino	Superfelino II	Superfelino Final
-644	Mekako Amante	Mekako Agridulce	Mekako Amante Menta
-645	Gato Hachero Adoctrinado	Gato Valiente Adoctrinado	Gato Oscuro adoctrinado
-646	Gato Petardo	Gato Petardo macho	
-647	Terun Cazadora	Terun Cazadora ζ	
-648	Infrademonio Enamorado	Suprademonio Enamorado	
-649	Hattori Hanzo	Dios de la Guerra Hanzo	
-650	Gata Amante	Gata Novia	
-651	Gata Leona	Gata Leona Enmascarada	
-652	Gato Borrapizarras	Gato Borrapizarras Punk	
-653	Bestia Naala Viejuna	Bestia Naala Tormenta	Naala Alzada
-654	Gatilargo Adoctrinado	Gato Muslamen Adoctrinado	Gato Muslamen adoctrinado
-655	Ventis	Ventiscana	
-656	Huevo Antiguo N001	Huevo Místico N001	Gato Haniwa
-657	Iz la Bailarina del Dolor	Iz la Joven de Luto	
-658	Huevo Antiguo N101	Huevo Bermellón N101	Gato Mensajero
-659	Huevo Antiguo N102	Huevo Verde N102	Gatarzán
-660	Daliasan Serpiente Marina	Daliasan Rey de los Mares	
-661	Chronos Novia	Chronos de Boda	
-662	Gato Lechero Adoctrinado	Jirafelino Adoctrinado	Gato León adoctrinado
-663	Huevo Antiguo N103	Huevo Negro N103	Gato con Máscara de Gas
-664	Huevo Antiguo N104	Huevo Verde N104	Gato Cirujano
-665	Huevo Antiguo N201	Huevo Negro N201	Gato Exorcista
-666	Lilin Playa Nocturna	Lilin Playa Nocturna π	
-667	Gato Pájaro Adoctrinado	Gatovni Adoctrinado	Gato Volador adoctrinado
-668	Gatengu	Gran Tengu Yokai	
-669	Huevo antiguo N003	Huevo Malvado N003	Gactus
-670	Huevo antiguo N202	Huevo Bermellón N202	Gato Luciérnaga Blindado
-671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)	
-672	Genma Saotome (Panda)	Genma Saotome	
-673	ネコチーター	ネコチーター	
-674	Garrusel Brutal	Gataque Extraterrestre	
-675	Huevo antiguo N105	Huevo añil N105	Gata Raqueta
-676	Huevo antiguo N106	Huevo ámbar N106	Gato Hongo
-677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC	
-678	Yuma Kuga & Cat	Yuma Kuga & Cat CC	
-679	Chika Amatori & Cat	Chika Amatori & Cat CC	
-680	Sakura	Sakura CC	
-681	Luke	Luke CC	
-682	Gótica espectral Vega	Guardiana ilusoria Vega	
-683	Conde Yukimura	Yukimura Nosferatu	
-684	Piscigato Adoctrinado	Ballegato Adoctrinado	Gato Isleño adoctrinado
-685	Huevo antiguo N004	Huevo Místico N004	Gato Supercoche
-686	Diosa de la luz Sirius	Diosa del amanecer Sirius	
-687	Terun Reno	Terun Renoζ	
-688	Gato Lagarto Adoctrinado	Gato Dragón Adoctrinado	Gato Dragón Rey adoctrinado
-689			
-690	Phono, Hijo del Destino	Phonoa, Reina del Destino	
-691	Huevo Antiguo N000	Huevo Anciano N000	Lord Luza Simio
-692	Issun Boshi	Destructor Oni Kozuchimaru	
-693	Mayordomo Blanco Vigler	Mayordomo Negro Vigler	
-694	Gato Titán Adoctrinado	Gato Titán Mít. adoctrinado	Miautante adoctrinado
-695	Gato Defensor Asesino	Gato Defensor Asesino aut.	
-696	Gato Delegado	Gato Delegado Sigiloso	
-697	Huevo Antiguo N107	Huevo morado N107	Gato Jefe
-698	Jack, el eléctrico	Jack, el desatado	
-699	Conejo Satoru	Conejo Satoru Campeón	
-700	Huevo Antiguo N005	Huevo Místico N005	Gato Sicario
-701			
-702			
-703			
-704			
-705	Phono, Rey de la Destrucción	Phono, Rey de la Extinción	
-706	Huevo Antiguo N108	Huevo Verde N108	Jabogato
-707	Huevo Antiguo N109	Huevo Negro N109	Gato Barril
-708	Gato Propulsor	Gato Kinjirou	
-709	One-Eyed Asuka	Blue-Eyed Asuka	
-710	Eva Unit-13	Eva Unit-13 & Cat	
-711	Balaluga prometida	Pasalan prometida	
-712	Kaoluga	Kaoluga Pasalan	
-713	Huevo Antiguo N203	Huevo morado N203	Gato Payaso
-714	Kanna Exploradora Costera	Kanna Buceadora	
-715	Cuerpo Esfinge Brutal	Convoys Batallón de Ataque	
-716	Huevo Antiguo N111	Huevo Místico N111	Gato Policía
-717	Huevo Antiguo N110	Huevo ámbar N110	Gato Granjero
-718	Gato Maicero	Gatocono	
-719	Tekachi	Tetsukachi	
-720	Huevo Antiguo N006	Huevo Demoniaco N006	Oso Caído Gatuno
-721	High School Kingpin Riki	Dodgeball Riki	
-722	＠	＠	
-723	Aset de la Madre de la Luz	Aset de Nefer	
-724	Huevo Antiguo N112	Huevo Místico N112	Vaina de huevo gatuno
+000	Gato	Gato Mazado	Gato Crestado	
+001	Gato Defensor	Gato Muro	Gato Borrador	
+002	Gato Hachero	Gato Valiente	Gato Oscuro	
+003	Gatilargo	Gato Muslamen	Gato Piernacas	
+004	Gato Lechero	Jirafelino	Gato León	
+005	Gato Pájaro	Gatovni	Gato Volador	
+006	Piscigato	Ballegato	Gato Isleño	
+007	Gato Lagarto	Gato Dragón	Gato Dragón Rey	
+008	Gato Titán	Gato Titán Mítico	Miautante	
+009	Gata Actriz	Madre de Gatos	Gato Cachas	
+010	Gato de Kungfú	Gato Maestro Borracho	Gato Bailarín	
+011	Sr.	Super Sr.	Hiper Sr.	
+012	Bondage	Neobondage	Bondage Definitivo	
+013	Domigatriz	Verdugo	Eladio Oscuro	
+014	Caja de Gatitos	Gatos Pandilleros	Gato de Asalto	
+015	Gato Braguitas	Gato Hoja	Gatopiruleta	
+016	Moneko	Miss Moneko	Moneko Superestrella	
+017	Gato Triciclo	Gato Motero	Gato Monociclo	
+018	Gato Ninja	Gato Ninja en Rana	Gato Ninja Volador	
+019	Gato Zombi	Gato Demonio	Esquelegato	
+020	Gato Samurái	Gato Caballero	Gato Compotas	
+021	Gato Sumo	Maruja Sumo	Gato Bola de Arroz	
+022	Gato Buguibugui	Gato Samba	Gato Mariachi	
+023	Gata Faldera	Gata con Medias	Gata con Taparrabos	
+024	Gata Valquiria	Gata Valquiria Auténtica	Gata Valquiria Sagrada	
+025	Gato Bégimo	Gato Bégimo Demente	Gato Bégimo Alzado	
+026	Kerihime	Full color Kerihime	Bridal Princess Punt	
+027	Cat Princess	Cat Princess beauty		
+028	Capsule Cat	Cramped Cats		
+029	Masked Cat	Luchador Cat		
+030	Gato Bodhisattva	Gato Avalokitesvara	Gato Tathagata	
+031	Gato Vándalo	Gato Vándalo Cabreado	Gato Vándalo Ultra	
+032	Gato Hiphopero	Gato Bailarín Desvergonzado	Gato Cancán	
+033	Gato Kotatsu	Gato Samara	Gato Pulpo	
+034	Nekoluga	Gato Desconocido	Ultralan Pasalan	
+035	Gato Empollón	Gato Hacker	Gato Ciberpunk	
+036	Gato Nadador	Gato Mariposa	Gato Pez	
+037	Gato Pogo	Gato Masái	Gato Jiangshi	
+038	Gato Rueda	Gato Solar	Gato Relajado	
+039	Gato Manzana	Gato Cara	iGato	
+040	Gato Bañera	Gato Bañera Sexi	Gato Bañera Lujoso	
+041	Gata Presumida	Gata Parisina	Gata Cíborg	
+042	Gata Gélida	Gata Reina Gélida	Gata de Cristal Gélida	
+043	Robogato	Máquina Felina MK II	Máquina Felina MK III	
+044	Gato Infrademonio	Gato Suprademonio	Gato Balrog Superior	
+045	Maiko Cat	Geisha Cat		
+046	Ronronícola	Niñera Cavernícola	Gatosaurio	
+047	Gato Vikingo	Gato Thor	Maximum Luchador	
+048	Gato Pirata	Gato Capitán	Gato Corsario	
+049	Gatoladrón	Gatoladrón Fantasma	Gatoladrón Folclórico	
+050	Gatobispo	Gatomonje	Gato Divino	
+051	Gato Vidente	Gato Pescador	Gato Médico	
+052	Gato Chamán	Gato Nigromante	Gato Nigrodanzante	
+053	Gato Evangelista	Gato Filiembustero		
+054				
+055	Gata Bruja	Gata Hechicera	Gata Maga	
+056	Gato Arquero	Gato Cupido	Gatauro	
+057	Gato Saqueador	Gato Berserker	Gato Paladín	
+058	Gato Espadachín	Gato Maestro de la Espada	Gato Duelista	
+059	Gato Bebé	Gatos Bebés	Cuna de Gatos	
+060	Gato de Bronce	Gato Miguel Ángel	Gato Concursante	
+061	Gato Sushi	Gato Gamba Frita	Gato Huevas	
+062	Toy Machine Cat	Vendor Cat		
+063	Gato Deportista	Gatos Secuestradores	Gatos Violentos	
+064	Swordsman	Swordsman Johnny		
+065	Cow Princess	Giraffe Princess		
+066	PPT48	Dark PPT48	PPT46	
+067	Li'l Gau	Li'l Gau Gau	Crystal Li'l Gau Gau	
+068	Reaper	Reaper 999	Judgment	
+069	Sleeping Beauty Punt	Sleeping Beauty Punt II	Oversleeping Beauty Punt	
+070	Gato Currito	Gato Rencoroso	Gato Ritual	
+071	Sanada Yukimura	Yukimura Dios de la Guerra	Yukimura Inmortal	
+072	Maeda Keiji	Keiji Dios de la Guerra	Keiji Inmortal	
+073	Oda Nobunaga	Nobunaga Dios de la Guerra	Nobunaga Inmortal	Nobunaga Fantasmal
+074	Piscigato Reno	Gato Sashimi	Gato Pastel Navideño	
+075	Brisabel	Brisabel (α)	Brisabel Divina	Brisabel Definitiva
+076	Trónica	Trónica (β)	Trónica Divina	
+077	Felidroide	Felidroide MK II	Felidroide Primaveral	
+078	Gato Espacial	Gato Espacial Comandante	Gato Espacial Marine	
+079	Gato Adulto	Gato Resacoso	Gato Prisionero	
+080	Gato Malvado	Gato Caballero	Caballeros Compañeros	
+081	Gatoñecos	Gatotrón	Miauladín	
+082	Ninja Azul	Ninja Naranja		
+083	Sodoma	Sodoma, Rey de la Tierra	Sodoma, Dios Emperador	
+084	Megidora	Sacro Dragón Megidora	Megidora, Dios Emperador	
+085	Vars	Caballero Dragón Vars	Vars, Dios Emperador	
+086	Kamukura	Dios Dragón Kamukura	Kamukura, Dios Emperador	
+087	Raiden	Matadragones Raiden	Raiden, Dios Emperador	
+088	Gato con Comba	Gato con Comba Doble	Gatos Fideos	
+089				
+090				
+091	Gato Demente	Gato Mazado Demente	Gato Crestado Maníaco	
+092	Gato Defensor Demente	Gato Muro Demente	Gato Borrador Maníaco	
+093	Gato Hachero Demente	Gato Valiente Demente	Gato Oscuro Maníaco	
+094	Gatilargo Demente	Gato Muslamen Demente	Gato Piernacas Maníaco	
+095	Gato Lechero Demente	Jirafelino Demente	Gato León Maníaco	
+096	Gato Pájaro Demente	Gatovni Demente	Gato Volador Maníaco	
+097	Piscigato Demente	Ballegato Demente	Gato Isleño Maníaco	
+098	Gato Lagarto Demente	Gato Dragón Demente	Gato Dragón Rey Maníaco	
+099	Gato Titán Demente	Gato Titán Mítico Demente	Miautante Maníaco	
+100	Gata Colegiala	Gata Deportista	Gata Luchadora	
+101				
+102				
+103	Gato Cantante	Megagato	Megagato Especial	
+104	Gato Koi	Gato Koi Largo	Gato Koi Estandarte	
+105	Kuu	Kuu (γ)	Kuu Divina	
+106	Kai	Kai (μ)	Kai Divina	
+107	Cobrina	Cobrina (κ)	Cobrina Divina	
+108	Bola de Gatos	Base Secreta		
+109	Novia Maruja	Maruja Rey	Maruja la Sabana	
+110	Celesse	Celesse CC		
+111	Nono	Nono CC		
+112	Olga	Olga CC		
+113	Norn	Norn CC		
+114	Yoichi	Yoichi CC		
+115	Serum	Serum CC		
+116	Fuu	Fuu CC		
+117	Aura	Aura CC		
+118	Rei	Rei CC		
+119	Wyvern	Wyvern Cat		
+120	Healer	Healer CC	Healer Cat CC	
+121	Merc	Merc CC	Merc & Cat CC	
+122	Diva Vacacional	Gata Oficinista	Gata de Atención al Cliente	
+123	Dúo Vaina	Gatos Sostén	Gatos Val Val	
+124	Date Masamune	Dios de la Guerra Masamune	Masamune Inmortal	
+125	Takeda Shingen	Dios de la Guerra Shingen	Shingen Inmortal	
+126	Gato Relojero	Gato Titiritero	Titiritero y Charley	
+127	Gato Flor	Gato Ventilador	Gato con Bombas	
+128	Gata Vengativa	Gato Groucho	Gato Cometa	
+129	Gato Dorado	Gato Dorado Mazado	Gato Mazado Brillante	
+130	Lobo Ururun	Gato Ururun	Ururun Alzado	
+131	Neneko	Miss Neneko		
+132	Gato de Kungfú X	Gato Maestro Borracho X	Garra de Hierro X	
+133				
+134	Urashima Taro	Guardián Gamereon	Rey Gamereon	
+135	Grulla Agradecida	Cosmo Supergaláctico	Cosmo Extragaláctico	
+136	Momotaro	Los Ángeles del Melocotón	Los Demonios del Melocotón	
+137	Kasa Jizo	Castillo Ambulante de Jizo	Megacastillo de Jizo	
+138	Princesa Kaguya	La Luna de la Muerte	La Luna del Caos	
+139				
+140	Squish Ball Cat	Muscleman Cat		
+141	Dios	Dios Secreto		
+142				
+143	Gata Enfermera	Gata Enfermera Cariñosa	Gata Enfermera Divertida	
+144	Minibase Gatuna	Base Gatuna Joven	Ultrabase Gatuna	
+145	Gato Pistolero	Gato Jinete	Gato Rodeo	
+146	Gato con Zancos	Gatótem	Gatos Acróbatas	
+147	Gato de Hojalata	Gatoavión	Robogato	
+148	Gato Roquero	Gato Artista	Gato Ramen	
+149	Sirena	Gato de Camuflaje	Gato Camarógrafo	
+150	Gata Julieta	Gata Princesa Julieta	Julieta Maiko	
+151	Gato Halterófilo	Chica de Ring	Gato Pizza	
+152	Gatos Patinadores	Gatos Actores	Gatos Bufones	
+153	Gatostadora	Gato Proyector	Gatófono	
+154	Gato con Aro	Gato Fanfarrón	Gato As del Aro	
+155				
+156				
+157				
+158	Uesugi Kenshin	Dios de la Guerra Kenshin	Kenshin Inmortal	
+159	Kalisa	Kalisa (γ)	Kalisa Divina	
+160	Yurinchi	Phoenix Yurinchi	Gekirinchi	
+161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt	
+162				
+163				
+164				
+165				
+166				
+167				
+168	Asiluga	Asilan Pasalan	Asesino Pasalan	
+169	Kubiluga	Kubilan Pasalan	E. Kubilan Pasalan	
+170	Tecoluga	Tesalan Pasalan	Lufalan Pasalan	
+171	Balaluga	Balalan Pasalan	Piccolan Pasalan	
+172	Mininyandam	Emperador Nyandam	Nyandam Bus Escolar	
+173	Baby Mola	Young Man Mola	Citizen Mola	
+174	Mola King	Living Legend	Master of the Pacific	
+175	Meowla Meowla	Catorpedo		
+176	Gato Esponjita	Esponjita Inquietante		
+177	Dioramos	Dioramos el Archidragón	Dioramos, Dios Emperador	Dioramos Ascendente
+178				
+179	Takuya ＆ Yuki	Takuya, Yuki ＆ Cat	Takuya＆ Lovely Yuki	
+180	Mystery Girl Yuki	Mystery Yuki ＆ Cat	Mystery Catgirl Yuki	
+181	Yuki Cat	Lovely Yuki Cat		
+182				
+183	Cat Kart R	Cat Kart G	Cat Kart P	
+184	Mr. Ninja	Mint		
+185	Hearscht	Hearscht CC	Revolutionary Hearscht CC	
+186	Cornelia	Cornelia CC		
+187	Juvens	Juvens CC	Holiday Juvens CC	
+188	Mystica	Mystica CC	Savior Mystica CC	
+189	Alois	Alois CC		
+190	Citrouille	Citrouille CC		
+191	Titi	Titi CC	Titi Cat CC	
+192				
+193				
+194	Akira	Akira Sombra	Akira Infierno	
+195	Mekako Saionji	Dra. Mekako	Mekako Control de Misión	
+196	Catman	Catman Oscuro	Catman Definitivo	
+197	Psicogato	Neopsicogato	Psicogato Corrupto	
+198	Gato Onmyoji	Gata Mágica	Gato Taumaturgo	
+199	Gato Surfero	Gato Náufrago	Gato Marinero	
+200	Gato Metálico	Gato Mazado Metálico		
+201	Gato de Banda	Gato de Estandarte	Gato de Mochi	
+202	Baozi Cat	Big Baozi		
+203	Kachi-Kachi	Cuerpo de Bomberos Kachiyama	Brigada de Asalto Kachiyama	
+204				
+205				
+206				
+207				
+208				
+209	Minigato	Minigato Mazado	Minigato Crestado	
+210	Minidefensor	Minigato Muro	Minigato Borrador	
+211	Minihachero	Minigato Valiente	Minigato Oscuro	
+212	Conejita Blanca	Gata Negra	Zorro Gris	
+213	Gatomburguesa	Gatorroyal	Gato Comida para Llevar	
+214	HYAKUTARO	HYAKUTARO CC		
+215	MARCO	MARCO CC		
+216	TARMA	TARMA CC		
+217	ERI	ERI CC		
+218	FIO	FIO CC		
+219	SV-001	SV-001 CC		
+220	ALLEN O'NEIL	ALLEN O'NEIL CC		
+221	MARS PEOPLE	MARS PEOPLE CC		
+222	HUGE HERMIT	HUGE HERMIT CC		
+223	JUPITER KING	JUPITER KING CC		
+224	DONALD MORDEN	GENERAL MORDEN		
+225	HI-DO	HI-DO CC		
+226	Brujo y Pedrín	Mercader Oscuro Babil	Doctor Klay Loco	
+227	Calabagato	Gato de Halloween	Gato Presagio	
+228	Neneko Oscura	Neneko Bruja	Disfraz de Neneko Bruja	
+229	Brujabel	Brujabel (α)		
+230	Trónica Tétrica	Trónica Tétrica (β)		
+231				
+232				
+233				
+234				
+235				
+236				
+237	Novato Sabelotodo	Profesor Sabelotodo	Sabelotodo Director	
+238	Gato Rico III	Gato Rico Sr.	Gato Forrado	
+239	Recluta Gatotirador	Gatotirador Experto	Gatotirador infalible	
+240	Togeluga	Togelan Pasalan	Shishilan Pasalan	
+241	Kai de Nieve	Kai de Nieve (μ)	Kai Espíritu Helado (μ)	
+242	Kuu Noel	Kuu Noel (γ)		
+243	Cobrina Bendita	Cobrina Bendita (κ)		
+244	Regalo Gatuno	Gato Sorpresa		
+245	Minigatilargo	Minigato Muslamen	Minigato Piernacas	
+246	Minivaca	Minijirafelino	Minigatoleón	
+247	Minipájaro	Minigatovni	Minigato Volador	
+248	Gato No Muerto	Bake-Nyanko	Gato Vida Extra	
+249				
+250				
+251				
+252				
+253				
+254				
+255				
+256				
+257	Dios del Trueno Zeus	Zeus el Majestuoso	Zeus Todopoderoso	
+258	Anubis el Protector	Anubis el Inmaculado	Anubis Todopoderoso	
+259	Afrodita Radiante	Megafrodita	Afrodita Todopoderosa	
+260	Gatway	Gato Dron	Gato Viajero del Tiempo	
+261	Hayabusa	Oni Hayabusa	Akuma Hayabusa	
+262				
+263				
+264				
+265				
+266				
+267	Gatornado	Huragato	Gatifón	
+268	Mina Caperucita	Mina Carmesí	Mina Alzada	
+269	Gao Bebé	Gao Señor Poderoso		
+270	Crazed Yuki	Crazed Yuki ＆ Cat	Crazed Catgirl Yuki	
+271	Amaterasu Reluciente	Amaterasu Gloriosa	Amaterasu Todopoderosa	
+272	Ganesha Espléndido	Ganesha Exaltado	Ganesha Todopoderoso	
+273	Gata Animadora	Gata Camarera	Gata Restauradora	
+274	Kalisa Tropical	Kalisa Tropical X		
+275	Conejita Veraniega	Gata Veraniega		
+276	Neneko Nadadora	Neneko Playera	Neneko Veraniega	
+277	Funghi	Funghi 'n' Cat		
+278	Tanky	Tanky 'n' Cat		
+279	White Cat	Gross White Cat		
+280	Fortressy	Castley		
+281				
+282	Bailarina de Awa	Bailarina de Soran	Gato Bailongo Precioso	
+283	Pai-Pai	Pai-Pai Z	Pai-Pai DX	
+284	Gato Expreso	Gato Maglev	Gato Tren Bala	
+285				
+286	Centinela R. E. I.	Unidad de Asalto R. E. I.	Unidad Voladora R. E. I.	
+287	Gato de Ligas Inferiores	Gato de Ligas Superiores	Gato Golfista	
+288	Madoka Kaname	Madoka & Cat		
+289	Homura Akemi	Homura & Cat		
+290	Sayaka Miki	Sayaka & Cat		
+291	Mami Tomoe	Mami & Cat		
+292	Kyoko Sakura	Kyoko & Cat		
+293	Kyubey	Kyubey & Cat		
+294	Madoka Cat	Magical Girl Madoka Cat		
+295	Homura Cat	Magical Girl Homura Cat		
+296	Sayaka Cat	Magical Girl Sayaka Cat		
+297	Mami Cat	Magical Girl Mami Cat		
+298	Kyoko Cat	Magical Girl Kyoko Cat		
+299	Li'l Madoka	Li'l Magical Girl Madoka	Li'l Ultimate Madoka	
+300	Li'l Homura	Li'l Magical Girl Homura	Li'l Devil Homura	
+301	Kyubey Cat	Tank Kyubey Cat		
+302	Gata Lilit	Gata Súcubo	Gata Reina Súcubo	
+303	Vendedor de Comida	Gato Repartidor		
+304	Gatapulta Brutal	Máquina de Asedio	Mastodonte de Asalto	
+305	Buque Brutal	BCS Corazón de León	BCS Garra de Tigre	
+306	Bombardero Brutal	MIAU-0 Fortaleza Aérea	MIAU-02 Ciudadela Aérea	
+307	Gato con Pértiga	Gata con Pértiga	Gata Ama de Casa	
+308	Gato Jardinero	Gato Leñador	Gato Desbrozador	
+309				
+310	Enfermera Candela	Enfermera Candelaria	Enfermera Navideña	
+311	Minipescado	Miniballegato	Minigato Isleño	
+312	Minilagarto	Minigato Dragón	Minigato Dragón Rey	
+313	Minititán	Minigato Titán Mítico	Minimiautante	
+314	Neneko de Nochevieja	Neneko de Año Nuevo		
+315	PIKOTARO	NEKOTARO		
+316	Poseidón Iracundo	Poseidón Valiente	Poseidón Todopoderoso	
+317	CPAC	PPAP		
+318	Miko Mitama	Mitama Oráculo		
+319	Gato Asesino	Gato Asesino Auténtico	Gato Radical	
+320				
+321				
+322	Sarukani	Vengadores del Rock	Estrellas de Un Día	
+323	Miyamoku Musashi	Musashi Heroico	Musashi Alzado	
+324	Gato Curling	Gato Sobre Rumba	Gato con Caparazón Verde	
+325	Gato Peso Ligero	Gato Peso Pesado	Gato Peso Superpesado	
+326	Mobius	Miraculous Mobius		
+327	Belial	Reckless Belial		
+328	Happy 100	Heartful Happy 100		
+329	Gato Huevo	Gato de Pascua	Gato Huevo de Pascua	
+330	Kenshin Primaveral	Kenshin Floreciente	Kenshin Brisa Primaveral	
+331	Conejito y Patosín	Psicopato Discípulo	Pato Loco Malévolo	
+332	Neneko de Pascua	Neneko Saltarina	Neneko Floreciente	
+333	Gao Sombra	Gao Diabólico		
+334	Himeyuri Engatusadora	Himeyuri Nuevecolas	Himeyuri Reina	
+335	Sirena Ruri	Sirena Señora Ruri	Sirerreina Ruri	
+336	Reina Reika	Reika Faraona	Reika Eterna	
+337	HMS Princess	HMS Princess CC	HMS Princess II CC	
+338	Imagawa Yoshimoto	Dios de la Guerra Yoshimoto	Yoshimoto Inmortal	
+339				
+340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	Redhead Muscled Yuki Cat	
+341	Lost World Yuki	Lost World Yuki ＆ Cat	Lost World Catgirl Yuki	
+342	Gato de la Suerte	Neogato de la Suerte		
+343	Jinete de Babosas	Gatobabosa		
+344	Orthos	Orthos CC	Artist Orthos CC	
+345	Michelia	Michelia CC	Naptime Michelia CC	
+346	Todomeki	Todomeki CC		
+347				
+348				
+349				
+350				
+351	Astrogemelas	Astrogemelas (Φ)	Astrogemelas Divinas	
+352	Gato Ermitaño	Gato Gran Maestro	Gato Gran Maestro Disfrazado	
+353				
+354	Kai Playera	Kai Playera (μ)		
+355	Cuerpo Explorador Brutal	Armagedón Plataforma Orbital	Plataforma Orbital Asoladora	
+356				
+357	Lobata Deale	Deale Princesa Loba	Deale Reina Bufona	
+358	Verbena Ultratumba	Verbena Nupcial	Verbena Opulenta	
+359	Bora	Bazibon	Bazibastra	
+360	Mizli	Marinmizu	Mizuririn	
+361	Aer	Erphuan	Aervanta	
+362	Saber	Saber CC	Saber Alter CC	
+363	Rin Tohsaka	Rin Tohsaka CC		
+364	Illyasviel	Illyasviel CC		
+365	Archer	Archer CC		
+366	Lancer	Lancer CC		
+367	Rider	Rider CC		
+368	Gilgamesh	Gilgamesh CC		
+369	Saber the Cat	Heroic Spirit Saber Cat	Saber Alter Cat	
+370	Sakura the Cat	Apron Sakura Cat	Dreaming Sakura Cat	
+371	Rin the Cat	Mage Rin Cat		
+372	Illya the Cat	Snow Faerie Illya		
+373	Li'l Shirou	Li'l Shirou CC		
+374	Li'l Sakura	Li'l Sakura CC		
+375	Gatomoneda	Gatomoneda Mazado		
+376	Gato Róver	Gato Róver MK II	Gatélite	
+377	Gato Esgrimista	Gato Kendo	El Gato de la Libertad	
+378	Mitama Oscura	Mitama Gótica		
+379	Gata de Voleibol	Gato Ballet	Gato Curry	
+380	D'Artamiau	Miausquetero		
+381	Gato Granjero	Gato Cosechador		
+382	Gato de Cristal	Gato de Cristal Mazado	Gata de Cristal Mazada	
+383	Yulala Enmascarada	Yulala Mística	Yulala Espiritual	
+384	Satori Hikami & Cat	Satori Hikami & Cat CC		
+385	Akio Yabe	Akio Yabe CC	Akio & Gunder CC	
+386	Sairi Nijitani	Sairi Nijitani CC		
+387	Misaki Konno	Misaki Konno CC		
+388	Ren Katagiri	Ren Katagiri CC		
+389	Karin Nekozuka	Karin Nekozuka CC		
+390	Aoi Hayakawa	Aoi Hayakawa CC	Baseball Mask α	
+391	Mizuki Tachibana	Mizuki Tachibana CC	Baseball Mask β	
+392	Hijiri Rokudo	Hijiri Rokudo CC	Baseball Mask γ	
+393	Saki Nijima	Saki Nijima CC	Samba Saki CC	
+394	Subaru Hoshi	Subaru Hoshi CC	Dark Subaru CC	
+395	Miyabi Oyama	Miyabi Oyama CC	Baseball Mask δ	
+396	Ganglión	Ganglión el Ancestral	Ganglión Liberado	
+397	Sakura Sónica	Sakura Extraescolar	Sakura Hoja Sagrada	
+398				
+399	Mentori	Mentori CC		
+400	Imoto	Imoto CC		
+401	Voli	Volta	Gigavolta	
+402	Shinji & Cat	Plug Suit Shinji	Plug Suit Shinji Black	
+403	Gendo & Fuyutsuki Cats	Moon Gendo & Fuyutsuki Cats		
+404	Giraffe Unit-01	Giraffe Unit-02		
+405	Kaworu & Cat	Plug Suit Kaworu	Moon Kaworu	
+406	Rei Cat	Ayanami Cat (TBC)		
+407	Asuka Cat	Apron Asuka		
+408	Mari Cat	Special Ops Mari		
+409	Rei Ayanami	Plug Suit Rei	Reunion Li'l Rei	
+410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka	
+411	Mari Illustrious	Plug Suit Mari		
+412	Eva Unit-00	Eva Unit-00 & Cat		
+413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-01 & Cat	
+414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777	
+415	Shinji Cat	Toji & Kensuke Cats		
+416	Moon Operators	NERV Moon		
+417	Baño D-Lux Brutal	Guardianes Subterráneos	Centinelas Subterráneos	
+418	Moneko Demente	Moneko Corrupta		
+419	Pokota	Pokota CC		
+420	Ovis	Ovis CC		
+421	Coco	Coco CC		
+422				
+423				
+424				
+425				
+426	Bun Bun Mecánico	Bun Bun Mecánico MK II	Bun Bun Mecánico Definitivo	
+427	Clan Heroico Gatuno	Gremio Heroico Gatuno	Equipo Heroico Gatuno	
+428	Souma Cat	Stylish Souma Cat		
+429	Otaku Geek Cat	Hacker Geek Cat		
+430				
+431	Detective Vigler	Inspector Gabriel	Gravicci Jefe de Sección	
+432	Betakkuma	Black Betakkuma		
+433	Nekokkuma	Killer Nekokkuma		
+434				
+435	Minivalquiria	Valquiria Bailarina del Viento		
+436	Nobiluga	Nobilan Pasalan	Pasalan Místico	
+437	Misidiós el Fantástico	Misidiós el Increíble	Misidiós el Dorado	
+438	Kuu Surfera	Kuu Surfera (γ)		
+439	Emperatriz Chronos	Chronos Infinita	Chronos Todopoderosa	
+440	Bebe	Nagisa & Cat		
+441	D’Artamiau Oscuro	D'Artamiau Valiente		
+442	Gato Solitario y Gatito	Gata Vendedora y Gatito	Gato Turista	
+443	Gato Taladrador	Gato Supertaladrador	Neogato Taladrador	
+444	Gato Martinete	Gato Supermartinete	Neogato Martinete	
+445	Gato Cortador	Gato Supercortador	Neogato Cortador	
+446	Gato Retroexcavadora	Gato Superretroexcavadora	Neogato Retroexcavadora	
+447	Gato Aserrador	Gato Superaserrador	Neogato Aserrador	
+448	Musashi Miyamoto	Dios de la Guerra Miyamoto		
+449	Directora Jeanne	Directora Jeanne (ψ)		
+450	Babel Señor Supremo	Babel Llama Oscura	Babel, Dios Emperador	
+451	Ushiwakamaru	Benkei Colosal		
+452	Gato Primordial	Gato Moderno	Gato Futurista	
+453				
+454				
+455	Momoco Maravillosa	Momoco Mona		
+456	Sakura Matou	Sakura Matou CC	Dark Sakura CC	
+457	Shirou the Cat	Novice Mage Shirou Cat		
+458	Archer the Cat	Heroic Spirit Archer Cat		
+459	Rider the Cat	Heroic Spirit Rider Cat		
+460	Kotomine & Gilgamesh Cats	Gilgamesh & Kotomine Cats		
+461	Legeluga	Legelan Pasalan		
+462	Gato Filiembustero X	Gato Filiembustero Y	Metafiliembustero	
+463	Kristul Muu Poderoso	Pandora Motor de Destrucción		
+464	Chuchomaru	Perromón	Perromón Guerrero Renacido	
+465				
+466	Black Zeus	Dark Lord Zeus		
+467	Super Zeus	All-Powerful Super Zeus	Super S-Zeus	
+468	Holy Phoenix	Holy Warrior Phoenix	Head Rococo	
+469	Super Devil	Imposter Super Devil	Super D-Devil	
+470	Satanmaria	Wondermaria		
+471	Heracrist	Perfect Heracrist		
+472	Fiendish Nero	Beastly Nero		
+473	Prince Yamato	Holy Yamato	Rampaging Yamato	
+474	Rosary Angel	Cross Angel	Strike Angel	
+475	Wakamiko Cat	Warrior King Cat		
+476	Cat Devil	Infernal Cat		
+477	Nekonosuke	Old Guardian Cat		
+478	Lumina	Luminalia		
+479				
+480				
+481	Doktor Celestial	Profesor Abismo		
+482	Benevolent Souma	Souma ＆ Cat	Cat-Eared Souma	
+483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat		
+484	Minivalquiria Oscura	Valquiria Jinete Oscura		
+485	Calette	Calette CC		
+486	Hina	Swordswoman Hina		
+487	Eva Unit-08	Eva Unit-08 & Cat		
+488	AAA Wunder	NNN Wunder	Vanished NNN Wunder	
+489	Misato Katsuragi	Captain Misato		
+490	Ritsuko Akagi	First Officer Ritsuko		
+491	Rei Ayanami (???)	Awakened Ayanami		
+492				
+493	Gaia Creadora	Gaia Suprema		
+494	Cobrina Brisamarina	Cobrina Brisamarina (κ)		
+495	Gata Matadora	Gata Flamenca	Gata Danza del Vientre	
+496	Narita Kaihime	Diosa de la Guerra Kaihime	Kaihime Inmortal	
+497	Shakurel Cat	Shakurel Macho Cat		
+498	Shakurel Lion	Shakurel Lion CC		
+499	Shakurel Tiger	Shakurel Tiger CC		
+500	Shakurel Panda	Shakurel Panda CC		
+501	Cat Bros	Baka Cat Bros		
+502	Myrcia	Myrcia (ξ)	Myrcia Divina	
+503				
+504				
+505	Implacable Gladios	Gladios Aniquilador	Gladios, Dios Emperador	
+506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC	
+507	Gatman	Supergato		
+508	Ryu Cat	Ryu Cat CC		
+509	Chun-Li Cat	Chun-Li Cat CC		
+510	Akuma	Akuma CC		
+511	Ryu	Ryu CC	Kage	
+512	Chun-Li	Chun-Li CC		
+513	Guile	Guile CC		
+514	Zangief	Zangief CC		
+515	Blanka	Blanka CC		
+516	Dhalsim	Dhalsim CC		
+517	Ken	Ken CC		
+518	Akuma Giraffe	Akuma Lion		
+519	Lasvoss	Lasvoss Definitivo	Lasvoss Renacido	
+520	Ebisu de Buena Suerte	Ebisu de Mala Suerte		
+521	Gato Medusa	Gato Medusa con Coletas	Gato Naga	
+522	Gata Ninfa	Gata Medallista	Gata Endemoniada	
+523	Gato Wushu	Gato Cinturón Negro	Gato Shigong	
+524				
+525	Kintaro	Robotropa de Kinrangers	Supertropa de Kinrangers	
+526	Astrogemelas Navideñas	Astrogemelas Navideñas (Φ)		
+527	Gatobaba	Medugato		
+528	Gato Cosaco	Gato Vodka		
+529	Kasli el Azote	Kasli Santa Ritual		
+530	Herme	Herme CC		
+531	Gato Profeoso	Gato Asesinoso	Gato Cadaveroso	
+532	Urs y Fenrir	Urs y Minka	Urs Alzado	
+533	Francotiradora Saki	Cazadora Nocturna Saki	Saki Dinamitera	
+534	Hades el Castigador	Hades el Mortífero	Hades Todopoderoso	
+535	Hatsune Miku	Hatsune Miku CC		
+536	Sakura Miku	Sakura Miku CC		
+537	Kagamine Rin & Len	Kagamine Rin & Len CC		
+538	Miku Cat	Miku Cat CC		
+539	Gato Rugby	Gato Atacante	Quartercat	
+540				
+541				
+542				
+543	Kasli el Flagelo	Kasli Hija del Caos		
+544	Kyosaka Nanaho	Kyosaka Nanaho final		
+545	Gato Fantasma	Gato Miasma		
+546	Papaluga	Papalan Pasalan	Sukelan Kakulan	
+547	Night Oracle Rei	Heavenly Herald Rei		
+548	The 4th Angel	4th Angel Cat		
+549	The 6th Angel	6th Angel Cat		
+550	The 10th Angel	10th Angel Cat		
+551	The 9th Angel	9th Angel Cat		
+552	Kaworu Cat	Moon Kaworu Cat		
+553	Gato Repostero	Gato Bumerán		
+554	Maestro Uril	Uril Místico	Uril Esotérico	
+555	Shaman Khan	All-Loving Shaman Khan		
+556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba	
+557	Heavenly Jack	Heavenly Lord Jack		
+558	Gatobola Mortal	Gatobola Mortal de la Suerte		
+559	Emma Guardiana del Infierno	Emma Centinela del Infierno	Emma Inspectora del Infierno	
+560	Megurine Luka	Megurine Luka CC		
+561	MEIKO & Cat	MEIKO & Cat CC		
+562	Luka Cat	Luka Cat CC		
+563	Saki con Pistola de Agua	Saki con Bazuca de Agua	Saki con Cañón de Agua	
+564	Veraniluga	Bikinilan Pasalan	Fabulosa Pasalan	
+565	Gato Bronceado	Gato Bronceado Mazado	Gato Bronceado con Permanente	
+566	Gatos Socorristas	Gatos Apilados	Gatos Gelatos	
+567	Huevo de Minigatíclope	Minigatíclope		
+568	Idi:N	Idi:N2		
+569	Petro	Petrolo	Petrolodón	
+570	Vars Jinete Esquelético	Vars Rey de Pesadilla	Caballero de Halloween Vars	
+571	E. Honda	E. Honda CC		
+572	Balrog	Balrog CC		
+573	Vega	Vega CC		
+574	Sagat	Sagat CC		
+575	M. Bison	M. Bison CC		
+576	C. Honda	C. Honda CC		
+577	Balrog Cat	Balrog Cat CC		
+578	Vega Cat	Vega Cat CC		
+579	Sagat Cat	Sagat Cat CC		
+580	M. Bison Cat	M. Bison Cat CC		
+581	Gato Piedra	Gato Peñasco		
+582	Hatsune Miku: MM2020 Osaka	Hatsune Miku CC: MM2020 Osaka		
+583	Hatsune Miku: MM2020 Tokyo	Hatsune Miku CC: MM2020 Tokyo		
+584	Keiji Noel	Maeda Navideño	Maeda Navideño DX	
+585	Garu Bebé	Aegis Garu Todopoderoso		
+586	Gato Emperador	Gato Tirano		
+587	Dulce Afrodita	Chocoladita		
+588	Myrcia Primer Amor	Myrcia Primer Amor (ξ)		
+589	Neneko de San Valentín	Neneko Amorosa	Neneko de Amor Verdadero	
+590	Snow Miku 2021	Snow Miku CC 2021		
+591	Kaito & Cat	Kaito & Cat CC		
+592	Neko Rin	Neko Rin CC		
+593	Neko Len	Neko Len CC		
+594	Globo Aerostático S.r.l.	Atlantis Logistix	Ultratlantis Logistix	
+595	Kamukura Florido	Kamukura Perenne	Lord Kamukura Perenne	
+596	Ranma Saotome (M)	Ranma Saotome (F)		
+597	Akane Tendo	Akane Tendo (Gi)		
+598	Ryoga Hibiki (Pig)	Ryoga Hibiki		
+599	Shampoo (Cat)	Shampoo		
+600	Mousse (Duck)	Mousse		
+601	Happosai	Happosai (Lewd)		
+602	Ukyo Kuonji (GR)	Ukyo Kuonji		
+603	Tatewaki Kuno (Gi)	Tatewaki Kuno		
+604	Ranma Cat (M)	Ranma Cat (F)		
+605	Akane Cat	Akane Cat (Gi)		
+606	Panda Cat	Genma Cat		
+607	Kanna Aventurera	Kanna Espadachina	Kanna Aventurera de Fábula	
+608				
+609	Aegis Garu Oscuro	Bestia Garu Oscuro		
+610	Gato Bloque de Oro	Rey Lingote de Oro	Rey Nekokhamen	
+611	Godzilla Cat	Shin Godzilla Cat		
+612	Gata Princesa	Gata Emperatriz		
+613	Máscara Doron Viejuna	Máscara Doron	Doron Alzado	
+614	Kaguya Costera	Sol Sureño	Sol Sureño Destellante	
+615	Gato Kabuto	Gato Kabuto Dorado		
+616	Gato Kuwagata	Rey Gato Kuwagata		
+617	Invocador Satoru	Invocador Satoru Oscuro	Cazador de demonios Satoru	
+618	Amakusa Shiro	Dios de la Guerra Amakusa	Amakusa Inmortal	
+619	Lilin	Lilin π	Lilin Divina	
+620	Hevijak el Maligno	Hevijak el Rey Maligno	Hevijak, Dios Emperador	
+621	Investigador Aku	Investigador Aku Malvado	Investigator	
+622	Majado Jr.	Señor de la Ruina Majado Jr.		
+623	Gato de Hamelín	Gato Komuso		
+624	Kunio-kun	Dodgeball Kunio-kun		
+625	Furiluga	Furilan Pasalan	Ragelan Pasalan	
+626				
+627				
+628				
+629	Gato Adoctrinado	Gato Mazado Adoctrinado	Gato Crestado adoctrinado	
+630	Gato Calígrafo	Gato Maestro del Té		
+631	Yamii	Yaminoir	Yaminora	
+632	Dez-Troyer-R Brutal	Diabolosa Cruzaasedios	Diabolosa Destructora	
+633	Gorrión Cazatesoros	Cazadores Chunchun	Grandes Cazadores Chunchun	
+634	Cíclope Caballero Blanco	Cíclope Caballero Negro	Cíclope Caballero Demoníaco	
+635	Gato Millonario	Gato Billonario		
+636	Gato Defensor Adoctrinado	Gato Muro Adoctrinado	Gato Borrador adoctrinado	
+637				
+638				
+639				
+640				
+641	Iz la Bailarina	Iz la Bailarina Atractiva		
+642	Lucifer el Caído	Gran Lucifer	Lucifer Todopoderoso	
+643	Superfelino	Superfelino II	Superfelino Final	
+644	Mekako Amante	Mekako Agridulce	Mekako Amante Menta	
+645	Gato Hachero Adoctrinado	Gato Valiente Adoctrinado	Gato Oscuro adoctrinado	
+646	Gato Petardo	Gato Petardo macho		
+647	Terun Cazadora	Terun Cazadora ζ		
+648	Infrademonio Enamorado	Suprademonio Enamorado		
+649	Hattori Hanzo	Dios de la Guerra Hanzo		
+650	Gata Amante	Gata Novia		
+651	Gata Leona	Gata Leona Enmascarada		
+652	Gato Borrapizarras	Gato Borrapizarras Punk		
+653	Bestia Naala Viejuna	Bestia Naala Tormenta	Naala Alzada	
+654	Gatilargo Adoctrinado	Gato Muslamen Adoctrinado	Gato Muslamen adoctrinado	
+655	Ventis	Ventiscana		
+656	Huevo Antiguo N001	Huevo Místico N001	Gato Haniwa	
+657	Iz la Bailarina del Dolor	Iz la Joven de Luto		
+658	Huevo Antiguo N101	Huevo Bermellón N101	Gato Mensajero	
+659	Huevo Antiguo N102	Huevo Verde N102	Gatarzán	
+660	Daliasan Serpiente Marina	Daliasan Rey de los Mares		
+661	Chronos Novia	Chronos de Boda		
+662	Gato Lechero Adoctrinado	Jirafelino Adoctrinado	Gato León adoctrinado	
+663	Huevo Antiguo N103	Huevo Negro N103	Gato con Máscara de Gas	
+664	Huevo Antiguo N104	Huevo Verde N104	Gato Cirujano	
+665	Huevo Antiguo N201	Huevo Negro N201	Gato Exorcista	
+666	Lilin Playa Nocturna	Lilin Playa Nocturna π		
+667	Gato Pájaro Adoctrinado	Gatovni Adoctrinado	Gato Volador adoctrinado	
+668	Gatengu	Gran Tengu Yokai		
+669	Huevo antiguo N003	Huevo Malvado N003	Gactus	
+670	Huevo antiguo N202	Huevo Bermellón N202	Gato Luciérnaga Blindado	
+671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)		
+672	Genma Saotome (Panda)	Genma Saotome		
+673	ネコチーター			
+674	Garrusel Brutal	Gataque Extraterrestre		
+675	Huevo antiguo N105	Huevo añil N105	Gata Raqueta	
+676	Huevo antiguo N106	Huevo ámbar N106	Gato Hongo	
+677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC		
+678	Yuma Kuga & Cat	Yuma Kuga & Cat CC		
+679	Chika Amatori & Cat	Chika Amatori & Cat CC		
+680	Sakura	Sakura CC		
+681	Luke	Luke CC		
+682	Gótica espectral Vega	Guardiana ilusoria Vega		
+683	Conde Yukimura	Yukimura Nosferatu		
+684	Piscigato Adoctrinado	Ballegato Adoctrinado	Gato Isleño adoctrinado	
+685	Huevo antiguo N004	Huevo Místico N004	Gato Supercoche	
+686	Diosa de la luz Sirius	Diosa del amanecer Sirius		
+687	Terun Reno	Terun Renoζ		
+688	Gato Lagarto Adoctrinado	Gato Dragón Adoctrinado	Gato Dragón Rey adoctrinado	
+689				
+690	Phono, Hijo del Destino	Phonoa, Reina del Destino		
+691	Huevo Antiguo N000	Huevo Anciano N000	Lord Luza Simio	
+692	Issun Boshi	Destructor Oni Kozuchimaru		
+693	Mayordomo Blanco Vigler	Mayordomo Negro Vigler		
+694	Gato Titán Adoctrinado	Gato Titán Mít. adoctrinado	Miautante adoctrinado	
+695	Gato Defensor Asesino	Gato Defensor Asesino aut.		
+696	Gato Delegado	Gato Delegado Sigiloso		
+697	Huevo Antiguo N107	Huevo morado N107	Gato Jefe	
+698	Jack, el eléctrico	Jack, el desatado		
+699	Conejo Satoru	Conejo Satoru Campeón		
+700	Huevo Antiguo N005	Huevo Místico N005	Gato Sicario	
+701				
+702				
+703				
+704				
+705	Phono, Rey de la Destrucción	Phono, Rey de la Extinción		
+706	Huevo Antiguo N108	Huevo Verde N108	Jabogato	
+707	Huevo Antiguo N109	Huevo Negro N109	Gato Barril	
+708	Gato Propulsor	Gato Kinjirou		
+709	One-Eyed Asuka	Blue-Eyed Asuka		
+710	Eva Unit-13	Eva Unit-13 & Cat		
+711	Balaluga prometida	Pasalan prometida		
+712	Kaoluga	Kaoluga Pasalan		
+713	Huevo Antiguo N203	Huevo morado N203	Gato Payaso	
+714	Kanna Exploradora Costera	Kanna Buceadora		
+715	Cuerpo Esfinge Brutal	Convoys Batallón de Ataque		
+716	Huevo Antiguo N111	Huevo Místico N111	Gato Policía	
+717	Huevo Antiguo N110	Huevo ámbar N110	Gato Granjero	
+718	Gato Maicero	Gatocono		
+719	Tekachi	Tetsukachi		
+720	Huevo Antiguo N006	Huevo Demoniaco N006	Oso Caído Gatuno	
+721	High School Kingpin Riki	Dodgeball Riki		
+722	＠			
+723	Aset de la Madre de la Luz	Aset de Nefer		
+724	Huevo Antiguo N112	Huevo Místico N112	Vaina de huevo gatuno	
+725	Chica Ninja Tomoe	Chica Ninja Tomoe Glotona		
+726				

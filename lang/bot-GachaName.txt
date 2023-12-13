@@ -26,7 +26,7 @@
 -114	White Day Gacha
 -115	June Bride Gacha	//June Bride 731
 -116	Colossus Busters
--117	Busters Fest
+-117	Busterfest
 -1000	Ultra Selection Gacha	//Ultra Selection 191
 -1001	Miracle Selection Gacha	//Miracle Selection 192
 -1002	Farewell Gacha	//2017 262
@@ -817,4 +817,4 @@ N65	Cats Eye Capsules
 855	-1010
 856	-117
 857	-9	725
-857	-9	725
+858	-9	725

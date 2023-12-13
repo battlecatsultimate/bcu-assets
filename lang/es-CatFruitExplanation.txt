@@ -104,7 +104,7 @@
 103	<br><br>
 104	<br><br>
 105	La forma final tiene más defensa,<br>ataque, alcance y velocidad de ataque.<br>Además, es resistente al desgaste.
-106	La forma final tiene más poder de ataque.<br>Su defensa y su velocidad mejoran mucho<br>de movimiento, y es inmune a la repulsión.
+106	La forma final tiene más poder de ataque.<br>Su defensa y su velocidad de movimiento<br>mejoran mucho y es inmune a la repulsión.
 107	La forma final tiene más<br>poder de ataque, defensa y alcance.<br>Además, paraliza a los enemigos voladores.
 108	<br><br>
 109	<br><br>
@@ -239,7 +239,7 @@
 238	La forma final tiene mucho más<br>poder de ataque.<br>
 239	La forma final tiene más velocidad de<br>ataque, un área de ataque más amplia<br>y puede ralentizar a enemigos no metálicos.
 240	La forma final tiene una mayor defensa<br>y más velocidad de ataque.<br>Además, aumenta su poder de ataque.
-241	<br><br>
+241	La forma final tiene más<br>defensa, velocidad de movimiento y ataque!<br>
 242	<br><br>
 243	<br><br>
 244	<br><br>
@@ -723,3 +723,5 @@
 722	<br><br>
 723	<br><br>
 724	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
+725	<br><br>
+726	<br><br>

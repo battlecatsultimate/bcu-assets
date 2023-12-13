@@ -391,6 +391,7 @@
 10522	Chat Naga
 10532	Ours-Chat cadavre
 10540	Chaterback
+10555	Uril ésotérique
 10622	Chercheur félin
 10630	Chat punk sous contrôle
 10637	Chat gomme sous contrôle
@@ -495,6 +496,7 @@
 15239	Chat richissime
 15240	Tireur d’élite
 15241	Shishilan Pasalan
+15242	Kai esprit du givre, type μ
 15249	Chat vie bonus
 15258	Zeus Tout-puissant
 15259	Anubis Tout-puissant

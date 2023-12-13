@@ -104,7 +104,7 @@
 103	<br><br>
 104	<br><br>
 105	La Forma Reale aumenta la difesa,<br>l'attacco, il raggio e la velocità, in più<br>ottiene resistenza a indebolimento!
-106	La Forma Reale aumenta l'attacco!<br>Anche difesa e velocità aumentano<br>di molto, ed è immune da respinta!
+106	La Forma Reale aumenta l'attacco!<br>Anche difesa e velocità aumentano<br>di molto, ed è immune a respinta!
 107	La Forma Reale aumenta<br>la difesa, il raggio e la potenza attacco.<br>Immobilità più facile sui fluttuanti!
 108	<br><br>
 109	<br><br>
@@ -239,7 +239,7 @@
 238	La Forma Reale ottiene<br>potenza d'attacco notevolmente migliorata!<br>
 239	La Forma Reale ottiene maggiore velocità<br>d'attacco, area d'attacco più estesa e<br>l'abilità di rallentare non-metallici.
 240	La Forma Reale ottiene maggiore<br>velocità d'attacco e difesa migliore.<br>Inoltre, ottiene più potenza d'attacco.
-241	<br><br>
+241	La Forma Reale aumenta<br>Difesa, velocità e attacco!<br>
 242	<br><br>
 243	<br><br>
 244	<br><br>
@@ -723,3 +723,5 @@
 722	<br><br>
 723	<br><br>
 724	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+725	<br><br>
+726	<br><br>

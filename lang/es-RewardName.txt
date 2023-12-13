@@ -391,6 +391,7 @@
 10522	Gato Naga
 10532	Gato Cadaveroso
 10540	Quartercat
+10555	Uril Esotérico
 10622	Investigator
 10630	Gato Crestado adoctrinado
 10637	Gato Borrador adoctrinado
@@ -495,6 +496,7 @@
 15239	Gato Forrado
 15240	Gatotirador infalible
 15241	Shishilan Pasalan
+15242	Kai Espíritu Helado (μ)
 15249	Gato Vida Extra
 15258	Zeus Todopoderoso
 15259	Anubis Todopoderoso

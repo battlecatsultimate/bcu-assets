@@ -787,3 +787,4 @@
 9436	Clear Princess Punt Sweets collab stages 50 times!
 62	Schließe alle „Unh. Legenden“-Level der Stufe 3 ab,. um diese Mission abzuschließen
 63	Schließe alle 60 Behemothjagd-Level ab!
+9467	Schließe die 50. Ebene des Himmlischen Turms ab. (Diese Belohnung kann nur einmal abgeholt werden.)

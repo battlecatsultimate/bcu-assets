@@ -1613,6 +1613,10 @@
 001-359-000	400m Relay: Fast Start
 001-359-001	800m Relay: Fast Start
 001-359-002	1600m Relay: Fast Start
+001-364		Night 3: Christmas Eve Redelivery
+001-364-000	Red-Purple Present
+001-364-001	Blue-Green Present
+001-364-002	Yellow Present
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3333,6 +3337,16 @@
 007-006-037	Floor 38
 007-006-038	Floor 39
 007-006-039	Floor 40
+007-006-040	Floor 41
+007-006-041	Floor 42
+007-006-042	Floor 43
+007-006-043	Floor 44
+007-006-044	Floor 45
+007-006-045	Floor 46
+007-006-046	Floor 47
+007-006-047	Floor 48
+007-006-048	Floor 49
+007-006-049	Floor 50
 007-007		Traitless Citadel
 007-007-000	Floor 1
 007-007-001	Floor 2
@@ -5377,3 +5391,10 @@
 034-006-003	Beast of Monte Cristo
 034-006-004	Blessings in Sand
 034-006-005	Misfortune in Sand
+034-007		Demon of Deciliter Bay
+034-007-000	Pursuit of Understanding
+034-007-001	Pythagorean Tributary
+034-007-002	1 + 2 = Tor
+034-007-003	Sine-Cosine Mine
+034-007-004	Isosceles Valley
+034-007-005	The Farthest Point

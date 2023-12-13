@@ -111,3 +111,4 @@
 110	Clear All Level 3<br>Uncanny Legend stages
 111	Clear all maps for Hidden Forest of Gapra,<br>Ashvini Desert, and Jinfore Volcano.
 112	Clear all Malevolent stages.
+113	Clear Floor 50 of the Infernal Tower

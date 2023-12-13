@@ -391,6 +391,7 @@
 10522	Nagakatze
 10532	Totengräbärkatze
 10540	Gridiron-Katze
+10555	Esoterischer Uril
 10622	Katzenforscher
 10630	Gehirngewaschene Irokatze
 10637	Gehirngewaschene Radierkatze
@@ -495,6 +496,7 @@
 15239	Reichste Katze
 15240	Katzenscharfschütze
 15241	Shishilan Pasalan
+15242	Eisgeist Kai, Typ μ
 15249	Extraleben-Katze
 15258	Allmächtiger Zeus
 15259	Allmächtiger Anubis

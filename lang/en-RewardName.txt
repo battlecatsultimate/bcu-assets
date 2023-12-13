@@ -391,6 +391,7 @@
 10522	Naga Cat
 10532	Cadaver BearCat
 10540	Gridiron Cat
+10555	Esoteric Uril
 10622	Cat Researcher
 10630	Brainwashed Mohawk Cat
 10637	Brainwashed Eraser Cat
@@ -495,6 +496,7 @@
 15239	Richest Cat
 15240	Sniper the Deadeye
 15241	Shishilan Pasalan
+15242	Frostspirit Kai, type μ
 15249	Extra-Life Cat
 15258	Almighty Zeus
 15259	Almighty Anubis

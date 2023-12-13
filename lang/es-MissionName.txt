@@ -782,3 +782,4 @@
 9436	Clear Princess Punt Sweets collab stages 50 times!
 62	Para completar esta misión, supera el nivel 3. de todas las Etapas de Leyenda Inquietante
 63	¡Supera las 60 fases de Matanza de Mastodontes! (Comprueba
+9467	Supera el piso 50 de la Torre Celestial. (Este premio solo se puede recoger una vez)

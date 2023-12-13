@@ -391,6 +391,7 @@
 10522	Gatto Naga
 10532	Gattorso cadavere
 10540	Gatto griglia
+10555	Uril esoterico
 10622	Gatto ricercatore
 10630	Gatto punk plagiato
 10637	Gatto gomma plagiato
@@ -495,6 +496,7 @@
 15239	Gatto strariccone
 15240	Gatto cecchino di precisione
 15241	Shishilan Pasalan
+15242	Kai spirito del gelo μ
 15249	Gatto vita extra
 15258	Zeus Onnipotente
 15259	Anubi Onnipotente

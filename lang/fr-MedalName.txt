@@ -111,3 +111,4 @@
 110	★ Je suis une légende mystérieuse 3 ★
 111	★ Abattage de Béhémoths ★
 112	★ Maléfique ★
+113	★ Inferno 50 ★

@@ -1,725 +1,727 @@
-000	Katze	Macho-Katze	Irokatze
-001	Panzer-Katze	Wallkatze	Radierkatze
-002	Axtkatze	Kühne Katze	Dunkle Katze
-003	Stelzenkatze	Hübsche-Beine Katze	Beinmuskelkater
-004	Kuhkatze	Giraffenkatze	Löwenkatze
-005	Vogelkatze	UFO-Katze	Die Flugkatze
-006	Fischkatze	Walkatze	Inselkatze
-007	Echsenkatze	Drachenkatze	Königsdrachenkatze
-008	Titanenkatze	Mythische Titanenkatze	Jamierakatze
-009	Model-Katze	Katzenmutter	Muskelprotz-Katze
-010	Kung-Fu-Katze	Trunkener-Kämpfer-Katze	Tänzerkatze
-011	Mr.	Super-Mr.	Hyper-Mr.
-012	Fessel-Katze	NEO-Fessel-Katze	Ultimative Fessel-Katze
-013	Dom-Katze	Henker	Darth Laser
-014	Kistenkatzen	Katzenbande	Offensiver C.A.T.
-015	Höschen-Katze	Blattkatze	Lolli-Katze
-016	Moneko	Fräulein Moneko	Superstar MONEKO
-017	Dreiradkatze	Motorradkatze	Einradkatze
-018	Ninja-Katze	Ninja-Froschkatze	Fliegende Ninja-Katze
-019	Zombie-Katze	Teufelskatze	Skelett-Katze
-020	Samurai-Katze	Ritterkatze	Bäcker-Katze
-021	Sumo-Katze	Madame Sumo	Reisbällchen-Katze
-022	Boogie-Katze	Samba-Katze	Gato Amigo
-023	Rock-Katze	Strapsstrümpfe-Katze	Lendenschurz-Katze
-024	Walkürenkatze	Wahre Walkürenkatze	Heilige Walkürenkatze
-025	Bahamut-Katze	Verrückte Bahamut-Katze	Erwachte Bahamut-Katze
-026	Kerihime	Full color Kerihime	Bridal Princess Punt
-027	Cat Princess	Cat Princess beauty	
-028	Capsule Cat	Cramped Cats	
-029	Masked Cat	Luchador Cat	
-030	Bodhisattva-Katze	Avalokitesvara-Katze	Tathagata-Katze
-031	Verbrecher-Katze	Wütende Verbrecher-Katze	Ultra-Verbrecher-Katze
-032	Hip-Hop-Katze	Freizügige Tänzerkatze	Cancan-Katze
-033	Kotatsu-Katze	Sadako-Katze	Tintenfischkatze
-034	Nekoluga	Unbekannte Katze	Ultralan Pasalan
-035	Nerd-Katze	Hacker-Katze	Cyberpunk-Katze
-036	Schwimmer-Katze	Schmetterlingskatze	Nöck-Katze
-037	Pogo-Katze	Masai-Katze	Jiangshi-Katze
-038	Radkatze	Sonnenkatze	Relaxte Katze
-039	Apfelkatze	Gesichtskatze	iCat
-040	Badekatze	Sexy Badekatze	Luxus-Badekatze
-041	Salon-Katze	Paris-Katze	Cyborg-Katze
-042	Eiskatze	Eiskönigin-Katze	Eiskristall-Katze
-043	Katzenmaschine	Katzenmaschine, 2. Auflage	Katzenmaschine, 3. Auflage
-044	Unterdämonkatze	Oberdämonkatze	Oberbalrogkatze
-045	Maiko Cat	Geisha Cat	
-046	Jura-Katze	Jura-Katzensitter	Katzasaurus
-047	Wikingerkatze	Thor-Katze	Maximum der Kämpfer
-048	Piratenkatze	Kapitänskatze	Schreckenspirat Katzley
-049	Diebkatze	Phantomdiebkatze	Goemon-Katze
-050	Bischofkatze	Mönchskatze	Sanzo-Katze
-051	Wahrsagerkatze	Fischerkatze	Arztkatze
-052	Schamanenkatze	Nekromantenkatze	Nekrotänzerkatze
-053	Evangelistenkatze	Filibuster-Katze	
-054			
-055	Hexenkatze	Zauberinkatze	Verzauberinkatze
-056	Bogenschützenkatze	Cupido-Katze	Katzaur
-057	Marodeurkatze	Berserkerkatze	Paladinkatze
-058	Schwertkämpfer-Katze	Schwertmeister-Katze	Elementduellant-Katze
-059	Babykatze	Babykatzen	Katzen in der Wiege
-060	Bronzekatze	Michelangelo-Katze	Rätselmeisterkatze
-061	Sushi-Katze	Pfannengarnelen-Katze	Rogenkatze
-062	Toy Machine Cat	Vendor Cat	
-063	Sporttagkatze	Kidnapper-Katze	Amokkatzen
-064	Swordsman	Swordsman Johnny	
-065	Cow Princess	Giraffe Princess	
-066	PPT48	Dark PPT48	PPT46
-067	Li'l Gau	Li'l Gau Gau	Crystal Li'l Gau Gau
-068	Reaper	Reaper 999	Judgment
-069	Sleeping Beauty Punt	Sleeping Beauty Punt II	Oversleeping Beauty Punt
-070	Angestellten-Katze	Grollkatze	Ritualkatze
-071	Sanada Yukimura	Kriegsgott Yukimura	Unsterblicher Yukimura
-072	Maeda Keiji	Kriegsgott Keiji	Unsterblicher Keiji
-073	Oda Nobunaga	Kriegsgott Nobunaga	Unsterblicher Nobunaga
-074	Rentierfisch-Katze	Sashimi-Katze	Weihnachtsdessert-Katze
-075	Windie	Windie, Typ α	Himmlische Windie
-076	Donneria	Donneria, Typ β	Himmlische Donneria
-077	Droid-Katze	Droid-Katze 2.0	Frühlingsdroid
-078	Weltraumkatze	Weltraumkapitänkatze	Space-Marine-Katze
-079	Erwachsene Katze	Kranke Katze	Gefangenenkatze
-080	Böse Katze	Gentleman-Katze	Gentleman-Brüder
-081	Puppenkatzen	Katz-o-tron	Nyaladdin
-082	Blauer Shinobi	Oranger Shinobi	
-083	Sodom	Erdkönig Sodom	Sodom der Gottkaiser
-084	Megidora	Heiliger Drache Megidora	Megidora der Gottkaiser
-085	Vars	Drachenkönig Vars	Vars der Gottkaiser
-086	Kamukura	Götterdrache Kamukura	Kamukura der Gottkaiser
-087	Raiden	Drachentöter Raiden	Raiden der Gottkaiser
-088	Seilhüpfkatze	Paar-Seilhüpfkatze	Nudelkatze
-089			
-090			
-091	Verrückte Katze	Verrückte Macho-Katze	Irre Irokatze
-092	Verrückte Panzer-Katze	Verrückte Wallkatze	Irre Radierkatze
-093	Verrückte Axtkatze	Verrückte kühne Katze	Irre dunkle Katze
-094	Verrückte Stelzenkatze	Verrück. Hübsche-Beine Katze	Irre Muskelbein-Katze
-095	Verrückte Kuhkatze	Verrückte Giraffenkatze	Irre Löwenkatze
-096	Verrückte Vogelkatze	Verrückte UFO-Katze	Irre Flugkatze
-097	Verrückte Fischkatze	Verrückte Walkatze	Irre Inselkatze
-098	Verrückte Echsenkatze	Verrückte Drachenkatze	Irrer Königsdrache
-099	Verrückte Titanenkatze	Verrückte Myth. Titanenkatze	Irre Jamierakatze
-100	Mädchen-Katze	Sportlerinnenkatze	Ringer-Katze
-101			
-102			
-103	Kabarettkatze	Megakatze	Megakatze EX
-104	Koi-Katze	Stelzen-Koi-Katze	Koikuss
-105	Kuu	Kuu, Typ γ	Himmlische Kuu
-106	Kai	Kai, Typ μ	Himmlische Kai
-107	Cupruma	Cupruma, Typ κ	Himmlische Cupruma
-108	Katzengeschwister	Geheimbasis	
-109	Die Braut	Die Königin	Die Savannah-Königin
-110	Celesse	Celesse CC	
-111	Nono	Nono CC	
-112	Olga	Olga CC	
-113	Norn	Norn CC	
-114	Yoichi	Yoichi CC	
-115	Serum	Serum CC	
-116	Fuu	Fuu CC	
-117	Aura	Aura CC	
-118	Rei	Rei CC	
-119	Wyvern	Wyvern Cat	
-120	Healer	Healer CC	Healer Cat CC
-121	Merc	Merc CC	Merc & Cat CC
-122	Urlaubskönigin	Bürodame-Katze	Callcenter-Katze
-123	Bohnenkatzen	BH-Katzen	Val-Val-Katzen
-124	Date Masamune	Kriegsgott Masamune	Unsterblicher Masamune
-125	Takeda Shingen	Kriegsgott Shingen	Unsterblicher Shingen
-126	Aufziehkatze	Puppenspielerkatze	Puppenspieler und Charlie
-127	Blumenkatze	Kühlungskatze	Bomberkatze
-128	Rache-Katze	Komiker-Katze	Fesseldrachenkatze
-129	Goldkatze	Gold-Machokatze	Glitzernde Machokatze
-130	Ururun-Wolf	Ururun-Katze	Erwachte Ururun
-131	Neneko	Fräulein Neneko	
-132	Kung-Fu-Katze X	Trunkener-Kämpfer-Katze X	Eisenklaue X
-133			
-134	Urashima Taro	Wächter Gamereon	König Gamereon
-135	Dankbarer Kranich	Supergalaxis-Kosmo	Ultimativer Galaxis-Kosmo
-136	Momotaro	Die Pfirsichengel	Die Pfirsichteufel
-137	Kasa Jizo	Jizos Wandelndes Schloss	Jizos Mega-Schloss
-138	Prinzessin Kaguya	Der Todesmond	Der Chaosmond
-139			
-140	Squish Ball Cat	Muscleman Cat	
-141	Gott	Geheimer Gott	
-142			
-143	Schwesternkatze	Herzliche Schwesternkatze	Fröhliche Schwesternkatze
-144	Mini-Katzenbasis	Katzenbasis Jr.	Katzenbasis Ultra
-145	Katzen-Revolverheld	Katz Eastwood	Rodeo-Katze
-146	Stelzenlauf-Katze	Totem-Katze	Akrobatenkatzen
-147	Blechkatze	Flugzeugkatze	Roboter-Katze
-148	Rocker-Katze	Künstler-Katze	Ramen-Katze
-149	Meer-Katze	Armee-Katze	Fotografen-Katze
-150	Julia-Katze	Prinzessin-Julia-Katze	Julia die Maiko
-151	Gewichtheber-Katze	Nummerngirl-Katze	Pizza-Katze
-152	Eiskunstlauf-Katzen	Dramakatzen	Slapstick-Katzen
-153	Katzentoaster	Katzenprojektor	Katzophon
-154	Hula-Katze	Angeber-Katze	Hula-Meister-Katze
-155			
-156			
-157			
-158	Uesugi Kenshin	Kriegsgöttin Kenshin	Unsterbliche Kenshin
-159	Kalisa	Kalisa, Typ χ	Himmlische Kalisa
-160	Yurinchi	Phoenix Yurinchi	Gekirinchi
-161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt
-162			
-163			
-164			
-165			
-166			
-167			
-168	Asiluga	Asilan Pasalan	Assassinlan Pasalan
-169	Kubiluga	Kubilan Pasalan	E. Kubilan Pasalan
-170	Tecoluga	Tesalan Pasalan	Lufalan Pasalan
-171	Balaluga	Balalan Pasalan	Piccolan Pasalan
-172	Kleiner Nyandam	Finsterer Herrscher Nyandam	Schulbus-Nyandam
-173	Baby Mola	Young Man Mola	Citizen Mola
-174	Mola King	Living Legend	Master of the Pacific
-175	Meowla Meowla	Catorpedo	
-176	Marshmallow-Katze	Marschiermallow-Katze	
-177	Dioramos	Dioramos der Erzdrache	Dioramos der Gottkaiser
-178			
-179	Takuya ＆ Yuki	Takuya, Yuki ＆ Cat	Takuya＆ Lovely Yuki
-180	Mystery Girl Yuki	Mystery Yuki ＆ Cat	Mystery Catgirl Yuki
-181	Yuki Cat	Lovely Yuki Cat	
-182			
-183	Cat Kart R	Cat Kart G	Cat Kart P
-184	Mr. Ninja	Mint	
-185	Hearscht	Hearscht CC	Revolutionary Hearscht CC
-186	Cornelia	Cornelia CC	
-187	Juvens	Juvens CC	Holiday Juvens CC
-188	Mystica	Mystica CC	Savior Mystica CC
-189	Alois	Alois CC	
-190	Citrouille	Citrouille CC	
-191	Titi	Titi CC	Titi Cat CC
-192			
-193			
-194	Akira	Schatten-Akira	Inferno-Akira
-195	Mekako Saionji	Dr. Mekako	Raketen-Mekako
-196	Catman	Dunkler Catman	Ultimativer Catman
-197	Psychokatze	Neo-Psychokatze	Korrumpierte Psychokatze
-198	Onmyoji-Katze	Magische Katze	Thaumaturgen-Katze
-199	Surfer-Katze	Schiffbruch-Katze	Seefahrer-Katze
-200	Metallkatze	Metallmacho	
-201	Trommlerkatze	Bannerkatze	Mochi-Katze
-202	Baozi Cat	Big Baozi	
-203	Kachi-Kachi	Feuerwehr-Kachiyama	Kachiyama-Sturmabteilung
-204			
-205			
-206			
-207			
-208			
-209	Kleine Katze	Kleine Macho-Katze	Kleine Irokatze
-210	Kleine Panzer-Katze	Kleine Wallkatze	Kleine Radierkatze
-211	Kleine Axtkatze	Kleine kühne Katze	Kleine dunkle Katze
-212	Das weiße Häschen	Die schwarze Katze	Grauer Fuchs
-213	Catburger	Cat Royale	Menü-Katze
-214	HYAKUTARO	HYAKUTARO CC	
-215	MARCO	MARCO CC	
-216	TARMA	TARMA CC	
-217	ERI	ERI CC	
-218	FIO	FIO CC	
-219	SV-001	SV-001 CC	
-220	ALLEN O'NEIL	ALLEN O'NEIL CC	
-221	MARS PEOPLE	MARS PEOPLE CC	
-222	HUGE HERMIT	HUGE HERMIT CC	
-223	JUPITER KING	JUPITER KING CC	
-224	DONALD MORDEN	GENERAL MORDEN	
-225	HI-DO	HI-DO CC	
-226	Hexer und Pierre	Dunkler Händler Babil	Irrer Doktor Klay
-227	Kürbiskatze	Geisterlaternenkatze	Vorbotenkatze
-228	Düstere Neneko	Hexe Neneko	Kostümierte Hexe Neneko
-229	Hallowindie	Hallowindie, Typ α	
-230	Spuk-Donneria	Spuk-Donneria, Typ β	
-231			
-232			
-233			
-234			
-235			
-236			
-237	Erstsemester-Katze	Prof. Dr. Katze	Rektor Dr. Katze
-238	Reiche Katze III	Reiche Katze Sr.	Reichste Katze
-239	Sniper der Rekrut	Sniper der Schwere	Katzenscharfschütze
-240	Togeluga	Togelan Pasalan	Shishilan Pasalan
-241	Eisige Kai	Eisige Kai, Typ μ	
-242	Santa Kuu	Santa Kuu, Typ γ	
-243	Heilige Cupruma	Heilige Cupruma, Typ κ	
-244	Katzengeschenk	Geschenk einer Katze	
-245	Kleine Stelzenkatze	Kleine Hübsche-Beine-Katze	Kleiner Beinmuskelkater
-246	Kleine Kuhkatze	Kleine Giraffenkatze	Kleine Löwenkatze
-247	Kleine Vogelkatze	Kleine UFO-Katze	Kleine Flugkatze
-248	Untote Katze	Bake-Nyanko	Extraleben-Katze
-249			
-250			
-251			
-252			
-253			
-254			
-255			
-256			
-257	Donnergott Zeus	Majestätischer Zeus	Allmächtiger Zeus
-258	Anubis der Beschützer	Anubis der Makellose	Allmächtiger Anubis
-259	Strahlende Aphrodite	Mega-Aphrodite	Allmächtige Aphrodite
-260	Katzway	Drohnenkatze	Zeitreisende Katze
-261	Hayabusa	Oni-Hayabusa	Akuma-Hayabusa
-262			
-263			
-264			
-265			
-266			
-267	Katzornado	Hurrikatz	Katzentaifun
-268	Rotkäppchen-Mina	Blutrote Mina	Erwachte Mina
-269	Baby Gao	Mächtiger Lord Gao	
-270	Crazed Yuki	Crazed Yuki ＆ Cat	Crazed Catgirl Yuki
-271	Leuchtende Amaterasu	Glorreiche Amaterasu	Allmächtige Amaterasu
-272	Herrlicher Ganesha	Erhabener Ganesha	Allmächtiger Ganesha
-273	Cheerleader-Katze	Kellner-Katze	Soba-Katze
-274	Tropische Kalisa	Tropische Kalisa, Typ χ	
-275	Mittsommerhase	Mittsommerkatze	
-276	Sonnige Neneko	Strand-Neneko	Frühsommer-Neneko
-277	Funghi	Funghi 'n' Cat	
-278	Tanky	Tanky 'n' Cat	
-279	White Cat	Gross White Cat	
-280	Fortressy	Castley	
-281			
-282	Awa-Odori-Katze	So-Ran-Katze	Gala-Groove-Katze
-283	Pai-Pai	Pai-Pai Z	Pai-Pai DX
-284	Expresskatze	Maglev-Katze	ICE-Katze
-285			
-286	Elitekämpferin R.E.I.	Sturmkämpferin R.E.I.	Flugeinheit R.E.I.
-287	Little-League-Katze	Major-League-Katze	Golfkatze
-288	Madoka Kaname	Madoka & Cat	
-289	Homura Akemi	Homura & Cat	
-290	Sayaka Miki	Sayaka & Cat	
-291	Mami Tomoe	Mami & Cat	
-292	Kyoko Sakura	Kyoko & Cat	
-293	Kyubey	Kyubey & Cat	
-294	Madoka Cat	Magical Girl Madoka Cat	
-295	Homura Cat	Magical Girl Homura Cat	
-296	Sayaka Cat	Magical Girl Sayaka Cat	
-297	Mami Cat	Magical Girl Mami Cat	
-298	Kyoko Cat	Magical Girl Kyoko Cat	
-299	Li'l Madoka	Li'l Magical Girl Madoka	Li'l Ultimate Madoka
-300	Li'l Homura	Li'l Magical Girl Homura	Li'l Devil Homura
-301	Kyubey Cat	Tank Kyubey Cat	
-302	Lilith-Katze	Succubus-Katze	Königin Succubus-Katze
-303	Essensstandkatze	Lieferdienstkatze	
-304	Mächtiges Katzapult	KATZ-6-Belagerungswaffe	KATZ-8-Behemoth
-305	Mächtiges Kampfschiff	K.K.S. Löwenherz	K.K.S. Tigerklaue
-306	Mächtiger Bomber	NEK-0-Himmelsfestung	NEK-02-Luftzitadelle
-307	Hochsprungkatze	Stabsprungkatze	Hausfrauenkatze
-308	Gärtnerkatze	Holzfällerkatze	Unkrautjäter-Katze
-309			
-310	Julfestschwester	Jul-Ordensschwester	Julstimmungsschwester
-311	Kleine Fischkatze	Kleine Walkatze	Kleine Inselkatze
-312	Kleine Echsenkatze	Kleine Drachenkatze	Kleine Königsdrachenkatze
-313	Kleine Titanenkatze	Kleine mythische Titanenkatze	Kleine Jamierakatze
-314	Silvester-Neneko	Neujahr-Neneko	Festliche Neujahr-Neneko
-315	PIKOTARO	NEKOTARO	
-316	Zorniger Poseidon	Tapferer Poseidon	Allmächtiger Poseidon
-317	CPAC	PPAP	
-318	Miko Mitama	Mitama das Orakel	
-319	Killer-Katze	Wahre Killer-Katze	Radikale Katze
-320			
-321			
-322	Sarukani	Rock-Rächer	Die One-Hit-Wonders
-323	Miyamoku Musashi	Heroischer Musashi	Erwachter Musashi
-324	Curling-Katze	Roombah-Katze	Grüner-Panzer-Katze
-325	Weltergewicht-Katze	Schwergewicht-Katze	Ektogewicht-Katze
-326	Mobius	Miraculous Mobius	
-327	Belial	Reckless Belial	
-328	Happy 100	Heartful Happy 100	
-329	Eierkatze	Osterkatze	Ostereikatze
-330	Frühlings-Kenshin	Blütenreigen-Kenshin	Frühlingsbrisen-Kenshin
-331	Hase und Ente	Psychoentenjünger	Delinquente
-332	Oster-Neneko	Häschenhüpf-Neneko	Aufblühende Neneko
-333	Schatten-Gao	Teuflischer Gao	
-334	Schwindlerin Himeyuri	Himeyuri Neunschweif	Fuchskönigin Himeyuri
-335	Meeresjungfer Ruri	Meeresherrin Ruri	Meerkönigin Ruri
-336	Königin Reika	Pharaonin Reika	Ewige Reika
-337	HMS Princess	HMS Princess CC	HMS Princess II CC
-338	Imagawa Yoshimoto	Kriegsgott Yoshimoto	Unsterblicher Yoshimoto
-339			
-340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	Redhead Muscled Yuki Cat
-341	Lost World Yuki	Lost World Yuki ＆ Cat	Lost World Catgirl Yuki
-342	Maneki-Katze	Neo-Maneki-Katze	
-343	Schneckenreiter-Katze	Schneckenkatze	
-344	Orthos	Orthos CC	Artist Orthos CC
-345	Michelia	Michelia CC	Naptime Michelia CC
-346	Todomeki	Todomeki CC	
-347			
-348			
-349			
-350			
-351	Zwillinge	Zwillinge, Typ Φ	Himmlische Zwillinge
-352	Eremiten-Katze	Großmeisterkatze	Maskierte Großmeisterkatze
-353			
-354	Strand-Kai	Strand-Kai, Typ μ	
-355	Mächtige Aufklärer	Orbitalbasis „Armageddon“	Orbitalzerstörer „Ragnarök“
-356			
-357	Wolfskind Deale	Wolfsprinzessin Deale	Narrenkönigin Deale
-358	Grabesblume Verbena	Verbena die Braut	Opulente Verbena
-359	Bora	Bazibon	Bazibastra
-360	Mizli	Marinmizu	Mizuririn
-361	Aer	Erphuan	Aervanta
-362	Saber	Saber CC	Saber Alter CC
-363	Rin Tohsaka	Rin Tohsaka CC	
-364	Illyasviel	Illyasviel CC	
-365	Archer	Archer CC	
-366	Lancer	Lancer CC	
-367	Rider	Rider CC	
-368	Gilgamesh	Gilgamesh CC	
-369	Saber the Cat	Heroic Spirit Saber Cat	Saber Alter Cat
-370	Sakura the Cat	Apron Sakura Cat	Dreaming Sakura Cat
-371	Rin the Cat	Mage Rin Cat	
-372	Illya the Cat	Snow Faerie Illya	
-373	Li'l Shirou	Li'l Shirou CC	
-374	Li'l Sakura	Li'l Sakura CC	
-375	Münzkatze	Macho-Münzkatze	
-376	Rover-Katze	Rover-Katze 2.0	Katzellit
-377	Fechterkatze	Kendo-Katze	Die Freiheitskatze
-378	Dunkle Mitama	Gothic-Mitama	
-379	Volley-Katze	Ballett-Katze	Curry-Katze
-380	D’Artamiau	Miausketier	
-381	Bauernkatze	Erntekatze	
-382	Glaskatze	Macho-Glaskatze	Macho-Kristallkatze
-383	Maskierter Yulala	Mystischer Yulala	Spiritueller Yulala
-384	Satori Hikami & Cat	Satori Hikami & Cat CC	
-385	Akio Yabe	Akio Yabe CC	Akio & Gunder CC
-386	Sairi Nijitani	Sairi Nijitani CC	
-387	Misaki Konno	Misaki Konno CC	
-388	Ren Katagiri	Ren Katagiri CC	
-389	Karin Nekozuka	Karin Nekozuka CC	
-390	Aoi Hayakawa	Aoi Hayakawa CC	Baseball Mask α
-391	Mizuki Tachibana	Mizuki Tachibana CC	Baseball Mask β
-392	Hijiri Rokudo	Hijiri Rokudo CC	Baseball Mask γ
-393	Saki Nijima	Saki Nijima CC	Samba Saki CC
-394	Subaru Hoshi	Subaru Hoshi CC	Dark Subaru CC
-395	Miyabi Oyama	Miyabi Oyama CC	Baseball Mask δ
-396	Ganglion	Ganglion der Alte	Ganglion der Entfesselte
-397	Schall-Sakura	Freizeit-Sakura	Heilige-Klinge-Sakura
-398			
-399	Mentori	Mentori CC	
-400	Imoto	Imoto CC	
-401	Voli	Volta	Gigavolta
-402	Shinji & Cat	Plug Suit Shinji	Plug Suit Shinji Black
-403	Gendo & Fuyutsuki Cats	Moon Gendo & Fuyutsuki Cats	
-404	Giraffe Unit-01	Giraffe Unit-02	
-405	Kaworu & Cat	Plug Suit Kaworu	Moon Kaworu
-406	Rei Cat	Ayanami Cat (TBC)	
-407	Asuka Cat	Apron Asuka	
-408	Mari Cat	Special Ops Mari	
-409	Rei Ayanami	Plug Suit Rei	Reunion Li'l Rei
-410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka
-411	Mari Illustrious	Plug Suit Mari	
-412	Eva Unit-00	Eva Unit-00 & Cat	
-413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-01 & Cat
-414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777
-415	Shinji Cat	Toji & Kensuke Cats	
-416	Moon Operators	NERV Moon	
-417	Mächtige D-Lux-Therme	Subterra-Wächter	Subterra-Späher
-418	Verrückte Moneko	Verdorbene Moneko	
-419	Pokota	Pokota CC	
-420	Ovis	Ovis CC	
-421	Coco	Coco CC	
-422			
-423			
-424			
-425			
-426	Mecha-Bun	Mecha-Bun 2.0	Ultimativer Mecha-Bun
-427	Katzenklanhelden	Katzengildenhelden	Katzenquesthelden
-428	Souma Cat	Stylish Souma Cat	
-429	Otaku Geek Cat	Hacker Geek Cat	
-430			
-431	Detektiv Vigler	Inspektor Gabriel	Bereichsleiter Gravicci
-432	Betakkuma	Black Betakkuma	
-433	Nekokkuma	Killer Nekokkuma	
-434			
-435	Kleine Walküre	Windtänzer-Walküre	
-436	Nobiluga	Nobilan Pasalan	Mystican Pasalan
-437	Katzengott der Große	Katzengott der Fantastische	Katzengott der Goldene
-438	Wellenreiter-Kuu	Wellenreiter-Kuu, Typ γ	
-439	Kaiserin Chronos	Chronos die Unendliche	Allmächtige Chronos
-440	Bebe	Nagisa & Cat	
-441	D’Arktamiau	Tapferer D’Arktamiau	
-442	Einsame Katze und Kätzchen	Händlerkatze und Kätzchen	Touristenkatze
-443	Bohrerkatze	Megabohrerkatze	Neo-Bohrerkatze
-444	Ramme-Katze	Superramme-Katze	Neo-Ramme-Katze
-445	Schneidekatze	Superschneidekatze	Neo-Schneidekatze
-446	Tiefbagger-Katze	Supertiefbagger-Katze	Neo-Tiefbagger-Katze
-447	Gehrungssägenkatze	Supersägenkatze	Neo-Sägenkatze
-448	Musashi Miyamoto	Kriegsgott Miyamoto	
-449	Rektorin Jeanne	Rektorin Jeanne ψ	
-450	Hoher Herr Babel	Babel die Dunkelflamme	Babel der Gottkaiser
-451	Ushiwakamaru	Kolossaler Benkei	
-452	Urkatze	Moderne Katze	Zukunftskatze
-453			
-454			
-455	Wunder-MOMOCO	Süße MOMOCO	
-456	Sakura Matou	Sakura Matou CC	Dark Sakura CC
-457	Shirou the Cat	Novice Mage Shirou Cat	
-458	Archer the Cat	Heroic Spirit Archer Cat	
-459	Rider the Cat	Heroic Spirit Rider Cat	
-460	Kotomine & Gilgamesh Cats	Gilgamesh & Kotomine Cats	
-461	Legeluga	Legelan Pasalan	
-462	Filibuster-Katze X	Filibuster-Katze Y	Metafilibuster
-463	Mächtige Kristul-Muu	Unheilsmaschine Pandora	
-464	Dogumaru	Doguemon	Wiedergeb. Krieger Doguemon
-465			
-466	Black Zeus	Dark Lord Zeus	
-467	Super Zeus	All-Powerful Super Zeus	Super S-Zeus
-468	Holy Phoenix	Holy Warrior Phoenix	Head Rococo
-469	Super Devil	Imposter Super Devil	Super D-Devil
-470	Satanmaria	Wondermaria	
-471	Heracrist	Perfect Heracrist	
-472	Fiendish Nero	Beastly Nero	
-473	Prince Yamato	Holy Yamato	Rampaging Yamato
-474	Rosary Angel	Cross Angel	Strike Angel
-475	Wakamiko Cat	Warrior King Cat	
-476	Cat Devil	Infernal Cat	
-477	Nekonosuke	Old Guardian Cat	
-478	Lumina	Luminalia	
-479			
-480			
-481	Doktor Himmel	Professor Abgrund	
-482	Benevolent Souma	Souma ＆ Cat	Cat-Eared Souma
-483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat	
-484	Kleine schwarze Walküre	Düsterreiter-Walküre	
-485	Calette	Calette CC	
-486	Hina	Swordswoman Hina	
-487	Eva Unit-08	Eva Unit-08 & Cat	
-488	AAA Wunder	NNN Wunder	Vanished NNN Wunder
-489	Misato Katsuragi	Captain Misato	
-490	Ritsuko Akagi	First Officer Ritsuko	
-491	Rei Ayanami (???)	Awakened Ayanami	
-492			
-493	Gaia die Schöpferin	Gaia die Erhabene	
-494	Meeresbrise-Cupruma	Meeresbrise-Cupruma, Typ κ	
-495	Matadorkatze	Flamenco-Katze	Bauchtanzkatze
-496	Narita Kaihime	Kriegsgöttin Kaihime	Unsterbliche Kaihime
-497	Shakurel Cat	Shakurel Macho Cat	
-498	Shakurel Lion	Shakurel Lion CC	
-499	Shakurel Tiger	Shakurel Tiger CC	
-500	Shakurel Panda	Shakurel Panda CC	
-501	Cat Bros	Baka Cat Bros	
-502	Myrcia	Myrcia, Typ ξ	Himmlische Myrcia
-503			
-504			
-505	Unermüdlicher Gladios	Gladios der Vernichter	Gladios der Gottkaiser
-506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC
-507	Machtkatze	Superkatze	
-508	Ryu Cat	Ryu Cat CC	
-509	Chun-Li Cat	Chun-Li Cat CC	
-510	Akuma	Akuma CC	
-511	Ryu	Ryu CC	Kage
-512	Chun-Li	Chun-Li CC	
-513	Guile	Guile CC	
-514	Zangief	Zangief CC	
-515	Blanka	Blanka CC	
-516	Dhalsim	Dhalsim CC	
-517	Ken	Ken CC	
-518	Akuma Giraffe	Akuma Lion	
-519	Lasvoss	Ultimativer Lasvoss	Wiedergeborener Lasvoss
-520	Glücks-Ebisu	Unglücks-Ebisu	
-521	Medusa-Katze	Zöpfchen-Medusa-Katze	Nagakatze
-522	Nymphenkatze	Medaillenkatze	Unholdkatze
-523	Wushu-Katze	Sifu-Katze	Shigong-Katze
-524			
-525	Kintaro	Kinrangers-Robokämpfer	Kinrangers-Gigakämpfer
-526	Winterengel-Zwillinge	Winterengel-Zwillinge, Typ Φ	
-527	Schleimkatze	Geleekatze	
-528	Kosakenkatze	Wodkakatze	
-529	Kasli die Geißel	Ritualheilige Kasli	
-530	Herme	Herme CC	
-531	Lehrerbärkatze	Meuchlerbärkatze	Totengräbärkatze
-532	Urs & Fenrir	Urs & Minka	Erwachter Urs
-533	Scharfschützin Saki	Nachtjägerin Saki	Riesenblaster-Saki
-534	Hades der Bestrafer	Hades der Todesbote	Allmächtiger Hades
-535	Hatsune Miku	Hatsune Miku CC	
-536	Sakura Miku	Sakura Miku CC	
-537	Kagamine Rin & Len	Kagamine Rin & Len CC	
-538	Miku Cat	Miku Cat CC	
-539	Rugbykatze	Quarterback-Katze	Gridiron-Katze
-540			
-541			
-542			
-543	Kasli die Verheerende	Kasli, Tochter des Chaos	
-544	Kyosaka Nanaho	Wahre Kyosaka Nanaho	
-545	Phantomkatze	Miasmakatze	
-546	Papaluga	Papalan Pasalan	Sukelan Kakulan
-547	Night Oracle Rei	Heavenly Herald Rei	
-548	The 4th Angel	4th Angel Cat	
-549	The 6th Angel	6th Angel Cat	
-550	The 10th Angel	10th Angel Cat	
-551	The 9th Angel	9th Angel Cat	
-552	Kaworu Cat	Moon Kaworu Cat	
-553	Bäckereikatze	Boomerang-Katze	
-554	Meister Uril	Mystischer Uril	
-555	Shaman Khan	All-Loving Shaman Khan	
-556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba
-557	Heavenly Jack	Heavenly Lord Jack	
-558	Gacha-Katze	Glücks-Gacha-Katze	
-559	Höllenhüterin Emma	Höllenwache Emma	Höllenkommissarin Emma
-560	Megurine Luka	Megurine Luka CC	
-561	MEIKO & Cat	MEIKO & Cat CC	
-562	Luka Cat	Luka Cat CC	
-563	Wasserpistolen-Saki	Wasserbomben-Saki	Wasserblaster-Saki
-564	Sommerluga	Bikinilan Pasalan	Grandiose Pasalan
-565	Gebräunte Katze	Gebräunte Macho-Katze	Lockige gebräunte Katze
-566	Rettungsschwimmerkatzen	Süße Brüderkatzen	Gelato-Brüderkatzen
-567	Kleines Zyklopenkatzenei	Kleine Zyklopenkatze	
-568	Idi:N	Idi:N2	
-569	Kiesi	Kiesolo	Kiesolodon
-570	Schädelreiter Vars	Albtraumkönig Vars	Halloweenritter Vars
-571	E. Honda	E. Honda CC	
-572	Balrog	Balrog CC	
-573	Vega	Vega CC	
-574	Sagat	Sagat CC	
-575	M. Bison	M. Bison CC	
-576	C. Honda	C. Honda CC	
-577	Balrog Cat	Balrog Cat CC	
-578	Vega Cat	Vega Cat CC	
-579	Sagat Cat	Sagat Cat CC	
-580	M. Bison Cat	M. Bison Cat CC	
-581	Steinkatze	Felskatze	
-582	Hatsune Miku: MM2020 Osaka	Hatsune Miku CC: MM2020 Osaka	
-583	Hatsune Miku: MM2020 Tokyo	Hatsune Miku CC: MM2020 Tokyo	
-584	Keiji Claus	Weihnachts-Maeda	Weihnachts-Maeda DX
-585	Baby-Garu	Mächtiger Aegis-Garu	
-586	Kaiserkatze	Tyrannenkatze	
-587	Süße Aphrodite	Schokodite	
-588	Verschossene Myrcia	Verschossene Myrcia, Typ ξ	
-589	Valentins-Neneko	Liebling Neneko	Wahre-Liebe-Neneko
-590	Snow Miku 2021	Snow Miku CC 2021	
-591	Kaito & Cat	Kaito & Cat CC	
-592	Neko Rin	Neko Rin CC	
-593	Neko Len	Neko Len CC	
-594	Mächtige Aethur GmbH	Atlantis Logistix	Ultra Atlantis Logistix
-595	Blühender Kamukura	Ewigblühender Kamukura	Ewigblühender Lord Kamukura
-596	Ranma Saotome (M)	Ranma Saotome (F)	
-597	Akane Tendo	Akane Tendo (Gi)	
-598	Ryoga Hibiki (Pig)	Ryoga Hibiki	
-599	Shampoo (Cat)	Shampoo	
-600	Mousse (Duck)	Mousse	
-601	Happosai	Happosai (Lewd)	
-602	Ukyo Kuonji (GR)	Ukyo Kuonji	
-603	Tatewaki Kuno (Gi)	Tatewaki Kuno	
-604	Ranma Cat (M)	Ranma Cat (F)	
-605	Akane Cat	Akane Cat (Gi)	
-606	Panda Cat	Genma Cat	
-607	Abenteurerin Kanna	Säbelrasslerin Kanna	Legendäre Abenteurerin Kanna
-608			
-609	Dunkler Aegis-Garu	Dunkler Bestienlord Garu	
-610	Goldbarrenkatze	Königsbarrenkatze	König Nekokhamen
-611	Godzilla Cat	Shin Godzilla Cat	
-612	Prinzessin Katze	Kaiserin Katze	
-613	Ältestenmaske Doron	Katzenmaske Doron	Erwachter Doron
-614	Kaguya von der Küste	Die Sonne des Südens	Die Sonnenglut des Südens
-615	Kabutokatze	Goldene Kabutokatze	
-616	Kuwagatakatze	Königs-Kuwagatakatze	
-617	Beschwörer Satoru	Dunkler Beschwörer Satoru	Teufelsjäger Satoru
-618	Shiro Amakusa	Kriegsgott Amakusa	Unsterblicher Amakusa
-619	Lilin	Lilin π	Himmlische Lilin π
-620	Hevijak der Böse	Böser König Hevijak	Hevijak der Gottkaiser
-621	Aku-Forscher	Böser Aku-Forscher	Katzenforscher
-622	Jagando Jr.	Jagando Jr., Herr d. Zerst.	
-623	Rattenfänger-Katze	Komuso-Katze	
-624	Kunio-kun	Dodgeball Kunio-kun	
-625	Furiluga	Furilan Pasalan	Ragelan Pasalan
-626			
-627			
-628			
-629	Gehirngewaschene Katze	Gehirngewaschene Macho-Katze	Gehirngewaschene Irokatze
-630	Kalligraphie-Katze	Teemeister-Katze	
-631	Yamii	Yaminoir	Yaminora
-632	Mächtiger Zer-Nicht-R	Belagerungsläufer Diabolosa	Auslöscher Diabolosa
-633	Shitakari-Spatz	Chunchun-Spuker	Große Chunchun-Spuker
-634	Weißer-Ritter-Zyklop	Schwarzer-Ritter-Zyklop	Dämonenritter-Zyklop
-635	Millionen-Dollar-Katze	100-Millionen-Dollar-Katze	
-636	Beeinflusste Panzer-Katze	Beeinflusste Wallkatze	Gehirngewaschene Radierkatze
-637			
-638			
-639			
-640			
-641	Iz die Tänzerin	Iz die reizende Tänzerin	
-642	Luzifer der Gefallene	Großer Luzifer	Allmächtiger Luzifer
-643	Superkatze	Superkatze II	Wahre Superkatze
-644	Süße-Liebe-Mekako	Bittersüße Mekako	Minzliebe Mekako
-645	Gehirngewaschene Axtkatze	Gehirngewaschene Kühne Katze	Gehirngewaschene dunkle Katze
-646	Böllerkatze	Macho-Böllerkatze	
-647	Jägerin Terun	Jägerin Terun ζ	
-648	Verliebter Unterdämon	Verliebter Oberdämon	
-649	Hattori Hanzo	Kriegsgott Hanzo	
-650	Heimlicher-Schwarm-Katze	Freundin-Katze	
-651	Wildfang-Löwenkatze	Löwenkatze in eiserner Maske	
-652	Tafelschwammkatze	Tafelschwamm-Punkkatze	
-653	Ältestenbestie Naala	Sturmbestie Naala	Erwachte Naala
-654	Gehirngew. Stelzenkatze	Gehirng. Hübsche-Beine Katze	Gehirng. Macho-Katze
-655	Bliza	Blizana	
-656	Uraltes Ei: N001	Mystisches Ei: N001	Haniwa-Katze
-657	Iz, die Tänzerin des Kummers	Iz, Dame der Trauer	
-658	Uraltes Ei: N101	Zinnober-Ei: N101	Kurierkatze
-659	Uraltes Ei: N102	Petrol-Ei: N102	Katzan
-660	Seeschlange Daliasan	Seekönig Daliasan	
-661	Chronos die Braut	Hochzeits-Chronos	
-662	Gehirngewaschene Kuhkatze	Gehirngew. Giraffenkatze	Gehirngewaschene Löwenkatze
-663	Uraltes Ei: N103	Schwarzes Ei: N103	Gasmaskenkatze
-664	Uraltes Ei: N104	Grünes Ei: N104	Chirurgen-Katze
-665	Uraltes Ei: N201	Dunkles Ei: N201	Exorzistenkatze
-666	Nachtstrand-Lilin	Nachtstrand-Lilin π	
-667	Gehirngewaschene Vogelkatze	Gehirngewaschenes UFO	Gehirngewaschene Flugkatze
-668	Katzen-Tengu	Großer Yokai-Tengu	
-669	Uraltes Ei: N003	Böses Ei: N003	Katzenkaktus
-670	Uraltes Ei: N202	Zinnober-Ei: N202	Gepanzerte Glühwürmchenkatze
-671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)	
-672	Genma Saotome (Panda)	Genma Saotome	
-673	ネコチーター	ネコチーター	
-674	Mächtiges Karussell	Außerirdischer Envanz	
-675	Uraltes Ei: N105	Petrol-Ei: N105	Racquetkatze
-676	Uraltes Ei: N106	Bernstein-Ei: N106	Pilzkatze
-677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC	
-678	Yuma Kuga & Cat	Yuma Kuga & Cat CC	
-679	Chika Amatori & Cat	Chika Amatori & Cat CC	
-680	Sakura	Sakura CC	
-681	Luke	Luke CC	
-682	Spektralgrufti Vega	Illusionäre Wächterin Vega	
-683	Graf Yukimura	Nosferatu Yukimura	
-684	Gehirngewaschene Fischkatze	Gehirngewaschene Walkatze	Gehirngewaschene Inselkatze
-685	Uraltes Ei: N004	Mystisches Ei: N004	Supersportwagen-Katze
-686	Lichtgöttin Sirius	Sonnenaufgangsgöttin Sirius	
-687	Rentier Terun	Rentier Terunζ	
-688	Gehirngewaschene Echsenkatze	Gehirngew. Drachenkatze	Gehirngew. Königsdrachenkatze
-689			
-690	Schicksalskind Phono	Schicksalskönig Phonoa	
-691	Uraltes Ei: N000	Second-Hand-Ei: N000	Affenlord Uza
-692	Issun Boshi	Oni-Aufmischer Kozuchimaru	
-693	Weißer Butler Vigler	Schwarzer Butler Vigler	
-694	Gehirngewaschene Titanenk.	Gehirngew. myth. Titanenk.	Gehirngewaschene Jamierakatze
-695	Killer-Panzer-Katze	Wahre Killer-Panzer-Katze	
-696	Klassensprecherkater	Tarn-Klassensprecherkater	
-697	Uraltes Ei: N107	Violettes Ei: N107	Häuptlingskatze
-698	Blitzschlag-Jack	Blutiger Jack	Blut-Jack
-699	Kaninchen Satoru	Kaninchen-Champion Satoru	
-700	Uraltes Ei: N005	Mystisches Ei: N005	Auftragskiller-Katze
-701			
-702			
-703			
-704			
-705	Verderbenskönig Phono	Auslöschungskönig Phono	
-706	Uraltes Ei: N108	Petrol-Ei: N108	Seifenkatze
-707	Uraltes Ei: N109	Dunkles Ei: N109	Fass-Katze
-708	Jetpack-Katze	Kinjirou-Katze	
-709	One-Eyed Asuka	Blue-Eyed Asuka	
-710	Eva Unit-13	Eva Unit-13 & Cat	
-711	Verlobter Balaluga	Verlobter Pasalan	
-712	Kaoluga	Kaoluga Pasalan	
-713	Uraltes Ei: N203	Violettes Ei: N203	Clownkatze
-714	Küstenerkunderin Kanna	Tiefseetaucherin Kanna	
-715	Mächtiges Sphinxkorps	Angriffsbataillon-Konvois	
-716	Uraltes Ei: N111	Mystisches Ei: N111	Polizistenkatze
-717	Uraltes Ei: N110	Bernstein-Ei: N110	Bauernjungenkatze
-718	Maiskatze	Kegelkatze	
-719	Tekachi	Tetsukachi	
-720	Uraltes Ei: N006	Teufels-Ei: N006	Gefallene Bärenkatze
-721	High School Kingpin Riki	Dodgeball Riki	
-722	＠	＠	
-723	Lichtmutter Aset	Nefer Aset	
-724	Uraltes Ei: N112	Mystisches Ei: N112	Katzeneierkapsel
+000	Katze	Macho-Katze	Irokatze	
+001	Panzer-Katze	Wallkatze	Radierkatze	
+002	Axtkatze	Kühne Katze	Dunkle Katze	
+003	Stelzenkatze	Hübsche-Beine Katze	Beinmuskelkater	
+004	Kuhkatze	Giraffenkatze	Löwenkatze	
+005	Vogelkatze	UFO-Katze	Die Flugkatze	
+006	Fischkatze	Walkatze	Inselkatze	
+007	Echsenkatze	Drachenkatze	Königsdrachenkatze	
+008	Titanenkatze	Mythische Titanenkatze	Jamierakatze	
+009	Model-Katze	Katzenmutter	Muskelprotz-Katze	
+010	Kung-Fu-Katze	Trunkener-Kämpfer-Katze	Tänzerkatze	
+011	Mr.	Super-Mr.	Hyper-Mr.	
+012	Fessel-Katze	NEO-Fessel-Katze	Ultimative Fessel-Katze	
+013	Dom-Katze	Henker	Darth Laser	
+014	Kistenkatzen	Katzenbande	Offensiver C.A.T.	
+015	Höschen-Katze	Blattkatze	Lolli-Katze	
+016	Moneko	Fräulein Moneko	Superstar MONEKO	
+017	Dreiradkatze	Motorradkatze	Einradkatze	
+018	Ninja-Katze	Ninja-Froschkatze	Fliegende Ninja-Katze	
+019	Zombie-Katze	Teufelskatze	Skelett-Katze	
+020	Samurai-Katze	Ritterkatze	Bäcker-Katze	
+021	Sumo-Katze	Madame Sumo	Reisbällchen-Katze	
+022	Boogie-Katze	Samba-Katze	Gato Amigo	
+023	Rock-Katze	Strapsstrümpfe-Katze	Lendenschurz-Katze	
+024	Walkürenkatze	Wahre Walkürenkatze	Heilige Walkürenkatze	
+025	Bahamut-Katze	Verrückte Bahamut-Katze	Erwachte Bahamut-Katze	
+026	Kerihime	Full color Kerihime	Bridal Princess Punt	
+027	Cat Princess	Cat Princess beauty		
+028	Capsule Cat	Cramped Cats		
+029	Masked Cat	Luchador Cat		
+030	Bodhisattva-Katze	Avalokitesvara-Katze	Tathagata-Katze	
+031	Verbrecher-Katze	Wütende Verbrecher-Katze	Ultra-Verbrecher-Katze	
+032	Hip-Hop-Katze	Freizügige Tänzerkatze	Cancan-Katze	
+033	Kotatsu-Katze	Sadako-Katze	Tintenfischkatze	
+034	Nekoluga	Unbekannte Katze	Ultralan Pasalan	
+035	Nerd-Katze	Hacker-Katze	Cyberpunk-Katze	
+036	Schwimmer-Katze	Schmetterlingskatze	Nöck-Katze	
+037	Pogo-Katze	Masai-Katze	Jiangshi-Katze	
+038	Radkatze	Sonnenkatze	Relaxte Katze	
+039	Apfelkatze	Gesichtskatze	iCat	
+040	Badekatze	Sexy Badekatze	Luxus-Badekatze	
+041	Salon-Katze	Paris-Katze	Cyborg-Katze	
+042	Eiskatze	Eiskönigin-Katze	Eiskristall-Katze	
+043	Katzenmaschine	Katzenmaschine, 2. Auflage	Katzenmaschine, 3. Auflage	
+044	Unterdämonkatze	Oberdämonkatze	Oberbalrogkatze	
+045	Maiko Cat	Geisha Cat		
+046	Jura-Katze	Jura-Katzensitter	Katzasaurus	
+047	Wikingerkatze	Thor-Katze	Maximum der Kämpfer	
+048	Piratenkatze	Kapitänskatze	Schreckenspirat Katzley	
+049	Diebkatze	Phantomdiebkatze	Goemon-Katze	
+050	Bischofkatze	Mönchskatze	Sanzo-Katze	
+051	Wahrsagerkatze	Fischerkatze	Arztkatze	
+052	Schamanenkatze	Nekromantenkatze	Nekrotänzerkatze	
+053	Evangelistenkatze	Filibuster-Katze		
+054				
+055	Hexenkatze	Zauberinkatze	Verzauberinkatze	
+056	Bogenschützenkatze	Cupido-Katze	Katzaur	
+057	Marodeurkatze	Berserkerkatze	Paladinkatze	
+058	Schwertkämpfer-Katze	Schwertmeister-Katze	Elementduellant-Katze	
+059	Babykatze	Babykatzen	Katzen in der Wiege	
+060	Bronzekatze	Michelangelo-Katze	Rätselmeisterkatze	
+061	Sushi-Katze	Pfannengarnelen-Katze	Rogenkatze	
+062	Toy Machine Cat	Vendor Cat		
+063	Sporttagkatze	Kidnapper-Katze	Amokkatzen	
+064	Swordsman	Swordsman Johnny		
+065	Cow Princess	Giraffe Princess		
+066	PPT48	Dark PPT48	PPT46	
+067	Li'l Gau	Li'l Gau Gau	Crystal Li'l Gau Gau	
+068	Reaper	Reaper 999	Judgment	
+069	Sleeping Beauty Punt	Sleeping Beauty Punt II	Oversleeping Beauty Punt	
+070	Angestellten-Katze	Grollkatze	Ritualkatze	
+071	Sanada Yukimura	Kriegsgott Yukimura	Unsterblicher Yukimura	
+072	Maeda Keiji	Kriegsgott Keiji	Unsterblicher Keiji	
+073	Oda Nobunaga	Kriegsgott Nobunaga	Unsterblicher Nobunaga	Geisterhafter Nobunaga
+074	Rentierfisch-Katze	Sashimi-Katze	Weihnachtsdessert-Katze	
+075	Windie	Windie, Typ α	Himmlische Windie	Ultimative Windie
+076	Donneria	Donneria, Typ β	Himmlische Donneria	
+077	Droid-Katze	Droid-Katze 2.0	Frühlingsdroid	
+078	Weltraumkatze	Weltraumkapitänkatze	Space-Marine-Katze	
+079	Erwachsene Katze	Kranke Katze	Gefangenenkatze	
+080	Böse Katze	Gentleman-Katze	Gentleman-Brüder	
+081	Puppenkatzen	Katz-o-tron	Nyaladdin	
+082	Blauer Shinobi	Oranger Shinobi		
+083	Sodom	Erdkönig Sodom	Sodom der Gottkaiser	
+084	Megidora	Heiliger Drache Megidora	Megidora der Gottkaiser	
+085	Vars	Drachenkönig Vars	Vars der Gottkaiser	
+086	Kamukura	Götterdrache Kamukura	Kamukura der Gottkaiser	
+087	Raiden	Drachentöter Raiden	Raiden der Gottkaiser	
+088	Seilhüpfkatze	Paar-Seilhüpfkatze	Nudelkatze	
+089				
+090				
+091	Verrückte Katze	Verrückte Macho-Katze	Irre Irokatze	
+092	Verrückte Panzer-Katze	Verrückte Wallkatze	Irre Radierkatze	
+093	Verrückte Axtkatze	Verrückte kühne Katze	Irre dunkle Katze	
+094	Verrückte Stelzenkatze	Verrück. Hübsche-Beine Katze	Irre Muskelbein-Katze	
+095	Verrückte Kuhkatze	Verrückte Giraffenkatze	Irre Löwenkatze	
+096	Verrückte Vogelkatze	Verrückte UFO-Katze	Irre Flugkatze	
+097	Verrückte Fischkatze	Verrückte Walkatze	Irre Inselkatze	
+098	Verrückte Echsenkatze	Verrückte Drachenkatze	Irrer Königsdrache	
+099	Verrückte Titanenkatze	Verrückte Myth. Titanenkatze	Irre Jamierakatze	
+100	Mädchen-Katze	Sportlerinnenkatze	Ringer-Katze	
+101				
+102				
+103	Kabarettkatze	Megakatze	Megakatze EX	
+104	Koi-Katze	Stelzen-Koi-Katze	Koikuss	
+105	Kuu	Kuu, Typ γ	Himmlische Kuu	
+106	Kai	Kai, Typ μ	Himmlische Kai	
+107	Cupruma	Cupruma, Typ κ	Himmlische Cupruma	
+108	Katzengeschwister	Geheimbasis		
+109	Die Braut	Die Königin	Die Savannah-Königin	
+110	Celesse	Celesse CC		
+111	Nono	Nono CC		
+112	Olga	Olga CC		
+113	Norn	Norn CC		
+114	Yoichi	Yoichi CC		
+115	Serum	Serum CC		
+116	Fuu	Fuu CC		
+117	Aura	Aura CC		
+118	Rei	Rei CC		
+119	Wyvern	Wyvern Cat		
+120	Healer	Healer CC	Healer Cat CC	
+121	Merc	Merc CC	Merc & Cat CC	
+122	Urlaubskönigin	Bürodame-Katze	Callcenter-Katze	
+123	Bohnenkatzen	BH-Katzen	Val-Val-Katzen	
+124	Date Masamune	Kriegsgott Masamune	Unsterblicher Masamune	
+125	Takeda Shingen	Kriegsgott Shingen	Unsterblicher Shingen	
+126	Aufziehkatze	Puppenspielerkatze	Puppenspieler und Charlie	
+127	Blumenkatze	Kühlungskatze	Bomberkatze	
+128	Rache-Katze	Komiker-Katze	Fesseldrachenkatze	
+129	Goldkatze	Gold-Machokatze	Glitzernde Machokatze	
+130	Ururun-Wolf	Ururun-Katze	Erwachte Ururun	
+131	Neneko	Fräulein Neneko		
+132	Kung-Fu-Katze X	Trunkener-Kämpfer-Katze X	Eisenklaue X	
+133				
+134	Urashima Taro	Wächter Gamereon	König Gamereon	
+135	Dankbarer Kranich	Supergalaxis-Kosmo	Ultimativer Galaxis-Kosmo	
+136	Momotaro	Die Pfirsichengel	Die Pfirsichteufel	
+137	Kasa Jizo	Jizos Wandelndes Schloss	Jizos Mega-Schloss	
+138	Prinzessin Kaguya	Der Todesmond	Der Chaosmond	
+139				
+140	Squish Ball Cat	Muscleman Cat		
+141	Gott	Geheimer Gott		
+142				
+143	Schwesternkatze	Herzliche Schwesternkatze	Fröhliche Schwesternkatze	
+144	Mini-Katzenbasis	Katzenbasis Jr.	Katzenbasis Ultra	
+145	Katzen-Revolverheld	Katz Eastwood	Rodeo-Katze	
+146	Stelzenlauf-Katze	Totem-Katze	Akrobatenkatzen	
+147	Blechkatze	Flugzeugkatze	Roboter-Katze	
+148	Rocker-Katze	Künstler-Katze	Ramen-Katze	
+149	Meer-Katze	Armee-Katze	Fotografen-Katze	
+150	Julia-Katze	Prinzessin-Julia-Katze	Julia die Maiko	
+151	Gewichtheber-Katze	Nummerngirl-Katze	Pizza-Katze	
+152	Eiskunstlauf-Katzen	Dramakatzen	Slapstick-Katzen	
+153	Katzentoaster	Katzenprojektor	Katzophon	
+154	Hula-Katze	Angeber-Katze	Hula-Meister-Katze	
+155				
+156				
+157				
+158	Uesugi Kenshin	Kriegsgöttin Kenshin	Unsterbliche Kenshin	
+159	Kalisa	Kalisa, Typ χ	Himmlische Kalisa	
+160	Yurinchi	Phoenix Yurinchi	Gekirinchi	
+161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt	
+162				
+163				
+164				
+165				
+166				
+167				
+168	Asiluga	Asilan Pasalan	Assassinlan Pasalan	
+169	Kubiluga	Kubilan Pasalan	E. Kubilan Pasalan	
+170	Tecoluga	Tesalan Pasalan	Lufalan Pasalan	
+171	Balaluga	Balalan Pasalan	Piccolan Pasalan	
+172	Kleiner Nyandam	Finsterer Herrscher Nyandam	Schulbus-Nyandam	
+173	Baby Mola	Young Man Mola	Citizen Mola	
+174	Mola King	Living Legend	Master of the Pacific	
+175	Meowla Meowla	Catorpedo		
+176	Marshmallow-Katze	Marschiermallow-Katze		
+177	Dioramos	Dioramos der Erzdrache	Dioramos der Gottkaiser	Aufsteigender Dioramos
+178				
+179	Takuya ＆ Yuki	Takuya, Yuki ＆ Cat	Takuya＆ Lovely Yuki	
+180	Mystery Girl Yuki	Mystery Yuki ＆ Cat	Mystery Catgirl Yuki	
+181	Yuki Cat	Lovely Yuki Cat		
+182				
+183	Cat Kart R	Cat Kart G	Cat Kart P	
+184	Mr. Ninja	Mint		
+185	Hearscht	Hearscht CC	Revolutionary Hearscht CC	
+186	Cornelia	Cornelia CC		
+187	Juvens	Juvens CC	Holiday Juvens CC	
+188	Mystica	Mystica CC	Savior Mystica CC	
+189	Alois	Alois CC		
+190	Citrouille	Citrouille CC		
+191	Titi	Titi CC	Titi Cat CC	
+192				
+193				
+194	Akira	Schatten-Akira	Inferno-Akira	
+195	Mekako Saionji	Dr. Mekako	Raketen-Mekako	
+196	Catman	Dunkler Catman	Ultimativer Catman	
+197	Psychokatze	Neo-Psychokatze	Korrumpierte Psychokatze	
+198	Onmyoji-Katze	Magische Katze	Thaumaturgen-Katze	
+199	Surfer-Katze	Schiffbruch-Katze	Seefahrer-Katze	
+200	Metallkatze	Metallmacho		
+201	Trommlerkatze	Bannerkatze	Mochi-Katze	
+202	Baozi Cat	Big Baozi		
+203	Kachi-Kachi	Feuerwehr-Kachiyama	Kachiyama-Sturmabteilung	
+204				
+205				
+206				
+207				
+208				
+209	Kleine Katze	Kleine Macho-Katze	Kleine Irokatze	
+210	Kleine Panzer-Katze	Kleine Wallkatze	Kleine Radierkatze	
+211	Kleine Axtkatze	Kleine kühne Katze	Kleine dunkle Katze	
+212	Das weiße Häschen	Die schwarze Katze	Grauer Fuchs	
+213	Catburger	Cat Royale	Menü-Katze	
+214	HYAKUTARO	HYAKUTARO CC		
+215	MARCO	MARCO CC		
+216	TARMA	TARMA CC		
+217	ERI	ERI CC		
+218	FIO	FIO CC		
+219	SV-001	SV-001 CC		
+220	ALLEN O'NEIL	ALLEN O'NEIL CC		
+221	MARS PEOPLE	MARS PEOPLE CC		
+222	HUGE HERMIT	HUGE HERMIT CC		
+223	JUPITER KING	JUPITER KING CC		
+224	DONALD MORDEN	GENERAL MORDEN		
+225	HI-DO	HI-DO CC		
+226	Hexer und Pierre	Dunkler Händler Babil	Irrer Doktor Klay	
+227	Kürbiskatze	Geisterlaternenkatze	Vorbotenkatze	
+228	Düstere Neneko	Hexe Neneko	Kostümierte Hexe Neneko	
+229	Hallowindie	Hallowindie, Typ α		
+230	Spuk-Donneria	Spuk-Donneria, Typ β		
+231				
+232				
+233				
+234				
+235				
+236				
+237	Erstsemester-Katze	Prof. Dr. Katze	Rektor Dr. Katze	
+238	Reiche Katze III	Reiche Katze Sr.	Reichste Katze	
+239	Sniper der Rekrut	Sniper der Schwere	Katzenscharfschütze	
+240	Togeluga	Togelan Pasalan	Shishilan Pasalan	
+241	Eisige Kai	Eisige Kai, Typ μ	Eisgeist Kai, Typ μ	
+242	Santa Kuu	Santa Kuu, Typ γ		
+243	Heilige Cupruma	Heilige Cupruma, Typ κ		
+244	Katzengeschenk	Geschenk einer Katze		
+245	Kleine Stelzenkatze	Kleine Hübsche-Beine-Katze	Kleiner Beinmuskelkater	
+246	Kleine Kuhkatze	Kleine Giraffenkatze	Kleine Löwenkatze	
+247	Kleine Vogelkatze	Kleine UFO-Katze	Kleine Flugkatze	
+248	Untote Katze	Bake-Nyanko	Extraleben-Katze	
+249				
+250				
+251				
+252				
+253				
+254				
+255				
+256				
+257	Donnergott Zeus	Majestätischer Zeus	Allmächtiger Zeus	
+258	Anubis der Beschützer	Anubis der Makellose	Allmächtiger Anubis	
+259	Strahlende Aphrodite	Mega-Aphrodite	Allmächtige Aphrodite	
+260	Katzway	Drohnenkatze	Zeitreisende Katze	
+261	Hayabusa	Oni-Hayabusa	Akuma-Hayabusa	
+262				
+263				
+264				
+265				
+266				
+267	Katzornado	Hurrikatz	Katzentaifun	
+268	Rotkäppchen-Mina	Blutrote Mina	Erwachte Mina	
+269	Baby Gao	Mächtiger Lord Gao		
+270	Crazed Yuki	Crazed Yuki ＆ Cat	Crazed Catgirl Yuki	
+271	Leuchtende Amaterasu	Glorreiche Amaterasu	Allmächtige Amaterasu	
+272	Herrlicher Ganesha	Erhabener Ganesha	Allmächtiger Ganesha	
+273	Cheerleader-Katze	Kellner-Katze	Soba-Katze	
+274	Tropische Kalisa	Tropische Kalisa, Typ χ		
+275	Mittsommerhase	Mittsommerkatze		
+276	Sonnige Neneko	Strand-Neneko	Frühsommer-Neneko	
+277	Funghi	Funghi 'n' Cat		
+278	Tanky	Tanky 'n' Cat		
+279	White Cat	Gross White Cat		
+280	Fortressy	Castley		
+281				
+282	Awa-Odori-Katze	So-Ran-Katze	Gala-Groove-Katze	
+283	Pai-Pai	Pai-Pai Z	Pai-Pai DX	
+284	Expresskatze	Maglev-Katze	ICE-Katze	
+285				
+286	Elitekämpferin R.E.I.	Sturmkämpferin R.E.I.	Flugeinheit R.E.I.	
+287	Little-League-Katze	Major-League-Katze	Golfkatze	
+288	Madoka Kaname	Madoka & Cat		
+289	Homura Akemi	Homura & Cat		
+290	Sayaka Miki	Sayaka & Cat		
+291	Mami Tomoe	Mami & Cat		
+292	Kyoko Sakura	Kyoko & Cat		
+293	Kyubey	Kyubey & Cat		
+294	Madoka Cat	Magical Girl Madoka Cat		
+295	Homura Cat	Magical Girl Homura Cat		
+296	Sayaka Cat	Magical Girl Sayaka Cat		
+297	Mami Cat	Magical Girl Mami Cat		
+298	Kyoko Cat	Magical Girl Kyoko Cat		
+299	Li'l Madoka	Li'l Magical Girl Madoka	Li'l Ultimate Madoka	
+300	Li'l Homura	Li'l Magical Girl Homura	Li'l Devil Homura	
+301	Kyubey Cat	Tank Kyubey Cat		
+302	Lilith-Katze	Succubus-Katze	Königin Succubus-Katze	
+303	Essensstandkatze	Lieferdienstkatze		
+304	Mächtiges Katzapult	KATZ-6-Belagerungswaffe	KATZ-8-Behemoth	
+305	Mächtiges Kampfschiff	K.K.S. Löwenherz	K.K.S. Tigerklaue	
+306	Mächtiger Bomber	NEK-0-Himmelsfestung	NEK-02-Luftzitadelle	
+307	Hochsprungkatze	Stabsprungkatze	Hausfrauenkatze	
+308	Gärtnerkatze	Holzfällerkatze	Unkrautjäter-Katze	
+309				
+310	Julfestschwester	Jul-Ordensschwester	Julstimmungsschwester	
+311	Kleine Fischkatze	Kleine Walkatze	Kleine Inselkatze	
+312	Kleine Echsenkatze	Kleine Drachenkatze	Kleine Königsdrachenkatze	
+313	Kleine Titanenkatze	Kleine mythische Titanenkatze	Kleine Jamierakatze	
+314	Silvester-Neneko	Neujahr-Neneko	Festliche Neujahr-Neneko	
+315	PIKOTARO	NEKOTARO		
+316	Zorniger Poseidon	Tapferer Poseidon	Allmächtiger Poseidon	
+317	CPAC	PPAP		
+318	Miko Mitama	Mitama das Orakel		
+319	Killer-Katze	Wahre Killer-Katze	Radikale Katze	
+320				
+321				
+322	Sarukani	Rock-Rächer	Die One-Hit-Wonders	
+323	Miyamoku Musashi	Heroischer Musashi	Erwachter Musashi	
+324	Curling-Katze	Roombah-Katze	Grüner-Panzer-Katze	
+325	Weltergewicht-Katze	Schwergewicht-Katze	Ektogewicht-Katze	
+326	Mobius	Miraculous Mobius		
+327	Belial	Reckless Belial		
+328	Happy 100	Heartful Happy 100		
+329	Eierkatze	Osterkatze	Ostereikatze	
+330	Frühlings-Kenshin	Blütenreigen-Kenshin	Frühlingsbrisen-Kenshin	
+331	Hase und Ente	Psychoentenjünger	Delinquente	
+332	Oster-Neneko	Häschenhüpf-Neneko	Aufblühende Neneko	
+333	Schatten-Gao	Teuflischer Gao		
+334	Schwindlerin Himeyuri	Himeyuri Neunschweif	Fuchskönigin Himeyuri	
+335	Meeresjungfer Ruri	Meeresherrin Ruri	Meerkönigin Ruri	
+336	Königin Reika	Pharaonin Reika	Ewige Reika	
+337	HMS Princess	HMS Princess CC	HMS Princess II CC	
+338	Imagawa Yoshimoto	Kriegsgott Yoshimoto	Unsterblicher Yoshimoto	
+339				
+340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	Redhead Muscled Yuki Cat	
+341	Lost World Yuki	Lost World Yuki ＆ Cat	Lost World Catgirl Yuki	
+342	Maneki-Katze	Neo-Maneki-Katze		
+343	Schneckenreiter-Katze	Schneckenkatze		
+344	Orthos	Orthos CC	Artist Orthos CC	
+345	Michelia	Michelia CC	Naptime Michelia CC	
+346	Todomeki	Todomeki CC		
+347				
+348				
+349				
+350				
+351	Zwillinge	Zwillinge, Typ Φ	Himmlische Zwillinge	
+352	Eremiten-Katze	Großmeisterkatze	Maskierte Großmeisterkatze	
+353				
+354	Strand-Kai	Strand-Kai, Typ μ		
+355	Mächtige Aufklärer	Orbitalbasis „Armageddon“	Orbitalzerstörer „Ragnarök“	
+356				
+357	Wolfskind Deale	Wolfsprinzessin Deale	Narrenkönigin Deale	
+358	Grabesblume Verbena	Verbena die Braut	Opulente Verbena	
+359	Bora	Bazibon	Bazibastra	
+360	Mizli	Marinmizu	Mizuririn	
+361	Aer	Erphuan	Aervanta	
+362	Saber	Saber CC	Saber Alter CC	
+363	Rin Tohsaka	Rin Tohsaka CC		
+364	Illyasviel	Illyasviel CC		
+365	Archer	Archer CC		
+366	Lancer	Lancer CC		
+367	Rider	Rider CC		
+368	Gilgamesh	Gilgamesh CC		
+369	Saber the Cat	Heroic Spirit Saber Cat	Saber Alter Cat	
+370	Sakura the Cat	Apron Sakura Cat	Dreaming Sakura Cat	
+371	Rin the Cat	Mage Rin Cat		
+372	Illya the Cat	Snow Faerie Illya		
+373	Li'l Shirou	Li'l Shirou CC		
+374	Li'l Sakura	Li'l Sakura CC		
+375	Münzkatze	Macho-Münzkatze		
+376	Rover-Katze	Rover-Katze 2.0	Katzellit	
+377	Fechterkatze	Kendo-Katze	Die Freiheitskatze	
+378	Dunkle Mitama	Gothic-Mitama		
+379	Volley-Katze	Ballett-Katze	Curry-Katze	
+380	D’Artamiau	Miausketier		
+381	Bauernkatze	Erntekatze		
+382	Glaskatze	Macho-Glaskatze	Macho-Kristallkatze	
+383	Maskierter Yulala	Mystischer Yulala	Spiritueller Yulala	
+384	Satori Hikami & Cat	Satori Hikami & Cat CC		
+385	Akio Yabe	Akio Yabe CC	Akio & Gunder CC	
+386	Sairi Nijitani	Sairi Nijitani CC		
+387	Misaki Konno	Misaki Konno CC		
+388	Ren Katagiri	Ren Katagiri CC		
+389	Karin Nekozuka	Karin Nekozuka CC		
+390	Aoi Hayakawa	Aoi Hayakawa CC	Baseball Mask α	
+391	Mizuki Tachibana	Mizuki Tachibana CC	Baseball Mask β	
+392	Hijiri Rokudo	Hijiri Rokudo CC	Baseball Mask γ	
+393	Saki Nijima	Saki Nijima CC	Samba Saki CC	
+394	Subaru Hoshi	Subaru Hoshi CC	Dark Subaru CC	
+395	Miyabi Oyama	Miyabi Oyama CC	Baseball Mask δ	
+396	Ganglion	Ganglion der Alte	Ganglion der Entfesselte	
+397	Schall-Sakura	Freizeit-Sakura	Heilige-Klinge-Sakura	
+398				
+399	Mentori	Mentori CC		
+400	Imoto	Imoto CC		
+401	Voli	Volta	Gigavolta	
+402	Shinji & Cat	Plug Suit Shinji	Plug Suit Shinji Black	
+403	Gendo & Fuyutsuki Cats	Moon Gendo & Fuyutsuki Cats		
+404	Giraffe Unit-01	Giraffe Unit-02		
+405	Kaworu & Cat	Plug Suit Kaworu	Moon Kaworu	
+406	Rei Cat	Ayanami Cat (TBC)		
+407	Asuka Cat	Apron Asuka		
+408	Mari Cat	Special Ops Mari		
+409	Rei Ayanami	Plug Suit Rei	Reunion Li'l Rei	
+410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka	
+411	Mari Illustrious	Plug Suit Mari		
+412	Eva Unit-00	Eva Unit-00 & Cat		
+413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-01 & Cat	
+414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777	
+415	Shinji Cat	Toji & Kensuke Cats		
+416	Moon Operators	NERV Moon		
+417	Mächtige D-Lux-Therme	Subterra-Wächter	Subterra-Späher	
+418	Verrückte Moneko	Verdorbene Moneko		
+419	Pokota	Pokota CC		
+420	Ovis	Ovis CC		
+421	Coco	Coco CC		
+422				
+423				
+424				
+425				
+426	Mecha-Bun	Mecha-Bun 2.0	Ultimativer Mecha-Bun	
+427	Katzenklanhelden	Katzengildenhelden	Katzenquesthelden	
+428	Souma Cat	Stylish Souma Cat		
+429	Otaku Geek Cat	Hacker Geek Cat		
+430				
+431	Detektiv Vigler	Inspektor Gabriel	Bereichsleiter Gravicci	
+432	Betakkuma	Black Betakkuma		
+433	Nekokkuma	Killer Nekokkuma		
+434				
+435	Kleine Walküre	Windtänzer-Walküre		
+436	Nobiluga	Nobilan Pasalan	Mystican Pasalan	
+437	Katzengott der Große	Katzengott der Fantastische	Katzengott der Goldene	
+438	Wellenreiter-Kuu	Wellenreiter-Kuu, Typ γ		
+439	Kaiserin Chronos	Chronos die Unendliche	Allmächtige Chronos	
+440	Bebe	Nagisa & Cat		
+441	D’Arktamiau	Tapferer D’Arktamiau		
+442	Einsame Katze und Kätzchen	Händlerkatze und Kätzchen	Touristenkatze	
+443	Bohrerkatze	Megabohrerkatze	Neo-Bohrerkatze	
+444	Ramme-Katze	Superramme-Katze	Neo-Ramme-Katze	
+445	Schneidekatze	Superschneidekatze	Neo-Schneidekatze	
+446	Tiefbagger-Katze	Supertiefbagger-Katze	Neo-Tiefbagger-Katze	
+447	Gehrungssägenkatze	Supersägenkatze	Neo-Sägenkatze	
+448	Musashi Miyamoto	Kriegsgott Miyamoto		
+449	Rektorin Jeanne	Rektorin Jeanne ψ		
+450	Hoher Herr Babel	Babel die Dunkelflamme	Babel der Gottkaiser	
+451	Ushiwakamaru	Kolossaler Benkei		
+452	Urkatze	Moderne Katze	Zukunftskatze	
+453				
+454				
+455	Wunder-MOMOCO	Süße MOMOCO		
+456	Sakura Matou	Sakura Matou CC	Dark Sakura CC	
+457	Shirou the Cat	Novice Mage Shirou Cat		
+458	Archer the Cat	Heroic Spirit Archer Cat		
+459	Rider the Cat	Heroic Spirit Rider Cat		
+460	Kotomine & Gilgamesh Cats	Gilgamesh & Kotomine Cats		
+461	Legeluga	Legelan Pasalan		
+462	Filibuster-Katze X	Filibuster-Katze Y	Metafilibuster	
+463	Mächtige Kristul-Muu	Unheilsmaschine Pandora		
+464	Dogumaru	Doguemon	Wiedergeb. Krieger Doguemon	
+465				
+466	Black Zeus	Dark Lord Zeus		
+467	Super Zeus	All-Powerful Super Zeus	Super S-Zeus	
+468	Holy Phoenix	Holy Warrior Phoenix	Head Rococo	
+469	Super Devil	Imposter Super Devil	Super D-Devil	
+470	Satanmaria	Wondermaria		
+471	Heracrist	Perfect Heracrist		
+472	Fiendish Nero	Beastly Nero		
+473	Prince Yamato	Holy Yamato	Rampaging Yamato	
+474	Rosary Angel	Cross Angel	Strike Angel	
+475	Wakamiko Cat	Warrior King Cat		
+476	Cat Devil	Infernal Cat		
+477	Nekonosuke	Old Guardian Cat		
+478	Lumina	Luminalia		
+479				
+480				
+481	Doktor Himmel	Professor Abgrund		
+482	Benevolent Souma	Souma ＆ Cat	Cat-Eared Souma	
+483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat		
+484	Kleine schwarze Walküre	Düsterreiter-Walküre		
+485	Calette	Calette CC		
+486	Hina	Swordswoman Hina		
+487	Eva Unit-08	Eva Unit-08 & Cat		
+488	AAA Wunder	NNN Wunder	Vanished NNN Wunder	
+489	Misato Katsuragi	Captain Misato		
+490	Ritsuko Akagi	First Officer Ritsuko		
+491	Rei Ayanami (???)	Awakened Ayanami		
+492				
+493	Gaia die Schöpferin	Gaia die Erhabene		
+494	Meeresbrise-Cupruma	Meeresbrise-Cupruma, Typ κ		
+495	Matadorkatze	Flamenco-Katze	Bauchtanzkatze	
+496	Narita Kaihime	Kriegsgöttin Kaihime	Unsterbliche Kaihime	
+497	Shakurel Cat	Shakurel Macho Cat		
+498	Shakurel Lion	Shakurel Lion CC		
+499	Shakurel Tiger	Shakurel Tiger CC		
+500	Shakurel Panda	Shakurel Panda CC		
+501	Cat Bros	Baka Cat Bros		
+502	Myrcia	Myrcia, Typ ξ	Himmlische Myrcia	
+503				
+504				
+505	Unermüdlicher Gladios	Gladios der Vernichter	Gladios der Gottkaiser	
+506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC	
+507	Machtkatze	Superkatze		
+508	Ryu Cat	Ryu Cat CC		
+509	Chun-Li Cat	Chun-Li Cat CC		
+510	Akuma	Akuma CC		
+511	Ryu	Ryu CC	Kage	
+512	Chun-Li	Chun-Li CC		
+513	Guile	Guile CC		
+514	Zangief	Zangief CC		
+515	Blanka	Blanka CC		
+516	Dhalsim	Dhalsim CC		
+517	Ken	Ken CC		
+518	Akuma Giraffe	Akuma Lion		
+519	Lasvoss	Ultimativer Lasvoss	Wiedergeborener Lasvoss	
+520	Glücks-Ebisu	Unglücks-Ebisu		
+521	Medusa-Katze	Zöpfchen-Medusa-Katze	Nagakatze	
+522	Nymphenkatze	Medaillenkatze	Unholdkatze	
+523	Wushu-Katze	Sifu-Katze	Shigong-Katze	
+524				
+525	Kintaro	Kinrangers-Robokämpfer	Kinrangers-Gigakämpfer	
+526	Winterengel-Zwillinge	Winterengel-Zwillinge, Typ Φ		
+527	Schleimkatze	Geleekatze		
+528	Kosakenkatze	Wodkakatze		
+529	Kasli die Geißel	Ritualheilige Kasli		
+530	Herme	Herme CC		
+531	Lehrerbärkatze	Meuchlerbärkatze	Totengräbärkatze	
+532	Urs & Fenrir	Urs & Minka	Erwachter Urs	
+533	Scharfschützin Saki	Nachtjägerin Saki	Riesenblaster-Saki	
+534	Hades der Bestrafer	Hades der Todesbote	Allmächtiger Hades	
+535	Hatsune Miku	Hatsune Miku CC		
+536	Sakura Miku	Sakura Miku CC		
+537	Kagamine Rin & Len	Kagamine Rin & Len CC		
+538	Miku Cat	Miku Cat CC		
+539	Rugbykatze	Quarterback-Katze	Gridiron-Katze	
+540				
+541				
+542				
+543	Kasli die Verheerende	Kasli, Tochter des Chaos		
+544	Kyosaka Nanaho	Wahre Kyosaka Nanaho		
+545	Phantomkatze	Miasmakatze		
+546	Papaluga	Papalan Pasalan	Sukelan Kakulan	
+547	Night Oracle Rei	Heavenly Herald Rei		
+548	The 4th Angel	4th Angel Cat		
+549	The 6th Angel	6th Angel Cat		
+550	The 10th Angel	10th Angel Cat		
+551	The 9th Angel	9th Angel Cat		
+552	Kaworu Cat	Moon Kaworu Cat		
+553	Bäckereikatze	Boomerang-Katze		
+554	Meister Uril	Mystischer Uril	Esoterischer Uril	
+555	Shaman Khan	All-Loving Shaman Khan		
+556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba	
+557	Heavenly Jack	Heavenly Lord Jack		
+558	Gacha-Katze	Glücks-Gacha-Katze		
+559	Höllenhüterin Emma	Höllenwache Emma	Höllenkommissarin Emma	
+560	Megurine Luka	Megurine Luka CC		
+561	MEIKO & Cat	MEIKO & Cat CC		
+562	Luka Cat	Luka Cat CC		
+563	Wasserpistolen-Saki	Wasserbomben-Saki	Wasserblaster-Saki	
+564	Sommerluga	Bikinilan Pasalan	Grandiose Pasalan	
+565	Gebräunte Katze	Gebräunte Macho-Katze	Lockige gebräunte Katze	
+566	Rettungsschwimmerkatzen	Süße Brüderkatzen	Gelato-Brüderkatzen	
+567	Kleines Zyklopenkatzenei	Kleine Zyklopenkatze		
+568	Idi:N	Idi:N2		
+569	Kiesi	Kiesolo	Kiesolodon	
+570	Schädelreiter Vars	Albtraumkönig Vars	Halloweenritter Vars	
+571	E. Honda	E. Honda CC		
+572	Balrog	Balrog CC		
+573	Vega	Vega CC		
+574	Sagat	Sagat CC		
+575	M. Bison	M. Bison CC		
+576	C. Honda	C. Honda CC		
+577	Balrog Cat	Balrog Cat CC		
+578	Vega Cat	Vega Cat CC		
+579	Sagat Cat	Sagat Cat CC		
+580	M. Bison Cat	M. Bison Cat CC		
+581	Steinkatze	Felskatze		
+582	Hatsune Miku: MM2020 Osaka	Hatsune Miku CC: MM2020 Osaka		
+583	Hatsune Miku: MM2020 Tokyo	Hatsune Miku CC: MM2020 Tokyo		
+584	Keiji Claus	Weihnachts-Maeda	Weihnachts-Maeda DX	
+585	Baby-Garu	Mächtiger Aegis-Garu		
+586	Kaiserkatze	Tyrannenkatze		
+587	Süße Aphrodite	Schokodite		
+588	Verschossene Myrcia	Verschossene Myrcia, Typ ξ		
+589	Valentins-Neneko	Liebling Neneko	Wahre-Liebe-Neneko	
+590	Snow Miku 2021	Snow Miku CC 2021		
+591	Kaito & Cat	Kaito & Cat CC		
+592	Neko Rin	Neko Rin CC		
+593	Neko Len	Neko Len CC		
+594	Mächtige Aethur GmbH	Atlantis Logistix	Ultra Atlantis Logistix	
+595	Blühender Kamukura	Ewigblühender Kamukura	Ewigblühender Lord Kamukura	
+596	Ranma Saotome (M)	Ranma Saotome (F)		
+597	Akane Tendo	Akane Tendo (Gi)		
+598	Ryoga Hibiki (Pig)	Ryoga Hibiki		
+599	Shampoo (Cat)	Shampoo		
+600	Mousse (Duck)	Mousse		
+601	Happosai	Happosai (Lewd)		
+602	Ukyo Kuonji (GR)	Ukyo Kuonji		
+603	Tatewaki Kuno (Gi)	Tatewaki Kuno		
+604	Ranma Cat (M)	Ranma Cat (F)		
+605	Akane Cat	Akane Cat (Gi)		
+606	Panda Cat	Genma Cat		
+607	Abenteurerin Kanna	Säbelrasslerin Kanna	Legendäre Abenteurerin Kanna	
+608				
+609	Dunkler Aegis-Garu	Dunkler Bestienlord Garu		
+610	Goldbarrenkatze	Königsbarrenkatze	König Nekokhamen	
+611	Godzilla Cat	Shin Godzilla Cat		
+612	Prinzessin Katze	Kaiserin Katze		
+613	Ältestenmaske Doron	Katzenmaske Doron	Erwachter Doron	
+614	Kaguya von der Küste	Die Sonne des Südens	Die Sonnenglut des Südens	
+615	Kabutokatze	Goldene Kabutokatze		
+616	Kuwagatakatze	Königs-Kuwagatakatze		
+617	Beschwörer Satoru	Dunkler Beschwörer Satoru	Teufelsjäger Satoru	
+618	Shiro Amakusa	Kriegsgott Amakusa	Unsterblicher Amakusa	
+619	Lilin	Lilin π	Himmlische Lilin π	
+620	Hevijak der Böse	Böser König Hevijak	Hevijak der Gottkaiser	
+621	Aku-Forscher	Böser Aku-Forscher	Katzenforscher	
+622	Jagando Jr.	Jagando Jr., Herr d. Zerst.		
+623	Rattenfänger-Katze	Komuso-Katze		
+624	Kunio-kun	Dodgeball Kunio-kun		
+625	Furiluga	Furilan Pasalan	Ragelan Pasalan	
+626				
+627				
+628				
+629	Gehirngewaschene Katze	Gehirngewaschene Macho-Katze	Gehirngewaschene Irokatze	
+630	Kalligraphie-Katze	Teemeister-Katze		
+631	Yamii	Yaminoir	Yaminora	
+632	Mächtiger Zer-Nicht-R	Belagerungsläufer Diabolosa	Auslöscher Diabolosa	
+633	Shitakari-Spatz	Chunchun-Spuker	Große Chunchun-Spuker	
+634	Weißer-Ritter-Zyklop	Schwarzer-Ritter-Zyklop	Dämonenritter-Zyklop	
+635	Millionen-Dollar-Katze	100-Millionen-Dollar-Katze		
+636	Beeinflusste Panzer-Katze	Beeinflusste Wallkatze	Gehirngewaschene Radierkatze	
+637				
+638				
+639				
+640				
+641	Iz die Tänzerin	Iz die reizende Tänzerin		
+642	Luzifer der Gefallene	Großer Luzifer	Allmächtiger Luzifer	
+643	Superkatze	Superkatze II	Wahre Superkatze	
+644	Süße-Liebe-Mekako	Bittersüße Mekako	Minzliebe Mekako	
+645	Gehirngewaschene Axtkatze	Gehirngewaschene Kühne Katze	Gehirngewaschene dunkle Katze	
+646	Böllerkatze	Macho-Böllerkatze		
+647	Jägerin Terun	Jägerin Terun ζ		
+648	Verliebter Unterdämon	Verliebter Oberdämon		
+649	Hattori Hanzo	Kriegsgott Hanzo		
+650	Heimlicher-Schwarm-Katze	Freundin-Katze		
+651	Wildfang-Löwenkatze	Löwenkatze in eiserner Maske		
+652	Tafelschwammkatze	Tafelschwamm-Punkkatze		
+653	Ältestenbestie Naala	Sturmbestie Naala	Erwachte Naala	
+654	Gehirngew. Stelzenkatze	Gehirng. Hübsche-Beine Katze	Gehirng. Macho-Katze	
+655	Bliza	Blizana		
+656	Uraltes Ei: N001	Mystisches Ei: N001	Haniwa-Katze	
+657	Iz, die Tänzerin des Kummers	Iz, Dame der Trauer		
+658	Uraltes Ei: N101	Zinnober-Ei: N101	Kurierkatze	
+659	Uraltes Ei: N102	Petrol-Ei: N102	Katzan	
+660	Seeschlange Daliasan	Seekönig Daliasan		
+661	Chronos die Braut	Hochzeits-Chronos		
+662	Gehirngewaschene Kuhkatze	Gehirngew. Giraffenkatze	Gehirngewaschene Löwenkatze	
+663	Uraltes Ei: N103	Schwarzes Ei: N103	Gasmaskenkatze	
+664	Uraltes Ei: N104	Grünes Ei: N104	Chirurgen-Katze	
+665	Uraltes Ei: N201	Dunkles Ei: N201	Exorzistenkatze	
+666	Nachtstrand-Lilin	Nachtstrand-Lilin π		
+667	Gehirngewaschene Vogelkatze	Gehirngewaschenes UFO	Gehirngewaschene Flugkatze	
+668	Katzen-Tengu	Großer Yokai-Tengu		
+669	Uraltes Ei: N003	Böses Ei: N003	Katzenkaktus	
+670	Uraltes Ei: N202	Zinnober-Ei: N202	Gepanzerte Glühwürmchenkatze	
+671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)		
+672	Genma Saotome (Panda)	Genma Saotome		
+673	ネコチーター			
+674	Mächtiges Karussell	Außerirdischer Envanz		
+675	Uraltes Ei: N105	Petrol-Ei: N105	Racquetkatze	
+676	Uraltes Ei: N106	Bernstein-Ei: N106	Pilzkatze	
+677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC		
+678	Yuma Kuga & Cat	Yuma Kuga & Cat CC		
+679	Chika Amatori & Cat	Chika Amatori & Cat CC		
+680	Sakura	Sakura CC		
+681	Luke	Luke CC		
+682	Spektralgrufti Vega	Illusionäre Wächterin Vega		
+683	Graf Yukimura	Nosferatu Yukimura		
+684	Gehirngewaschene Fischkatze	Gehirngewaschene Walkatze	Gehirngewaschene Inselkatze	
+685	Uraltes Ei: N004	Mystisches Ei: N004	Supersportwagen-Katze	
+686	Lichtgöttin Sirius	Sonnenaufgangsgöttin Sirius		
+687	Rentier Terun	Rentier Terunζ		
+688	Gehirngewaschene Echsenkatze	Gehirngew. Drachenkatze	Gehirngew. Königsdrachenkatze	
+689				
+690	Schicksalskind Phono	Schicksalskönig Phonoa		
+691	Uraltes Ei: N000	Second-Hand-Ei: N000	Affenlord Uza	
+692	Issun Boshi	Oni-Aufmischer Kozuchimaru		
+693	Weißer Butler Vigler	Schwarzer Butler Vigler		
+694	Gehirngewaschene Titanenk.	Gehirngew. myth. Titanenk.	Gehirngewaschene Jamierakatze	
+695	Killer-Panzer-Katze	Wahre Killer-Panzer-Katze		
+696	Klassensprecherkater	Tarn-Klassensprecherkater		
+697	Uraltes Ei: N107	Violettes Ei: N107	Häuptlingskatze	
+698	Blitzschlag-Jack	Blutiger Jack	Blut-Jack	
+699	Kaninchen Satoru	Kaninchen-Champion Satoru		
+700	Uraltes Ei: N005	Mystisches Ei: N005	Auftragskiller-Katze	
+701				
+702				
+703				
+704				
+705	Verderbenskönig Phono	Auslöschungskönig Phono		
+706	Uraltes Ei: N108	Petrol-Ei: N108	Seifenkatze	
+707	Uraltes Ei: N109	Dunkles Ei: N109	Fass-Katze	
+708	Jetpack-Katze	Kinjirou-Katze		
+709	One-Eyed Asuka	Blue-Eyed Asuka		
+710	Eva Unit-13	Eva Unit-13 & Cat		
+711	Verlobter Balaluga	Verlobter Pasalan		
+712	Kaoluga	Kaoluga Pasalan		
+713	Uraltes Ei: N203	Violettes Ei: N203	Clownkatze	
+714	Küstenerkunderin Kanna	Tiefseetaucherin Kanna		
+715	Mächtiges Sphinxkorps	Angriffsbataillon-Konvois		
+716	Uraltes Ei: N111	Mystisches Ei: N111	Polizistenkatze	
+717	Uraltes Ei: N110	Bernstein-Ei: N110	Bauernjungenkatze	
+718	Maiskatze	Kegelkatze		
+719	Tekachi	Tetsukachi		
+720	Uraltes Ei: N006	Teufels-Ei: N006	Gefallene Bärenkatze	
+721	High School Kingpin Riki	Dodgeball Riki		
+722	＠			
+723	Lichtmutter Aset	Nefer Aset		
+724	Uraltes Ei: N112	Mystisches Ei: N112	Katzeneierkapsel	
+725	Ninjamädchen Tomoe	Gourmand-Ninjamädchen Tomoe		
+726				

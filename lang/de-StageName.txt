@@ -1577,6 +1577,10 @@
 001-359-000	400-m-Staffel: Schnellstart
 001-359-001	800-m-Staffel: Schnellstart
 001-359-002	1600-m-Staffel: Schnellstart
+001-364		Nacht 3: Neulieferung am Weihnachtsabend
+001-364-000	Rot-Lilanes Geschenk
+001-364-001	Blau-Grünes Geschenk
+001-364-002	Gelbes Geschenk
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3275,6 +3279,16 @@
 007-006-037	Ebene 38
 007-006-038	Ebene 39
 007-006-039	Ebene 40
+007-006-040	Ebene 41
+007-006-041	Ebene 42
+007-006-042	Ebene 43
+007-006-043	Ebene 44
+007-006-044	Ebene 45
+007-006-045	Ebene 46
+007-006-046	Ebene 47
+007-006-047	Ebene 48
+007-006-048	Ebene 49
+007-006-049	Ebene 50
 007-007		Eigenschaftslose Zitadelle
 007-007-000	Ebene 1
 007-007-001	Ebene 2
@@ -5246,3 +5260,10 @@
 034-006-003	Bestie von Monte Christo
 034-006-004	Segen im Sand
 034-006-005	Pech im Sand
+034-007		Dämon der Deziliterbucht
+034-007-000	Streben nach Verständnis
+034-007-001	Pythagoreischer Nebenfluss
+034-007-002	1 + 2 = Tor
+034-007-003	Sinus-Cosinus-Mine
+034-007-004	Gleichschenkeltal
+034-007-005	Der Entfernteste Punkt

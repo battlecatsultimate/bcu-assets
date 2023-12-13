@@ -111,3 +111,4 @@
 110	Termine tous les niveaux Légende<br>mystérieuse de niveau 3
 111	Termine Forêt cachée de G., Désert d'A., Volcan de J.
 112	Termine tous les niveaux maléfiques.
+113	Terminer le 50e étage de la Tour infernale
