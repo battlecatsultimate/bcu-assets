@@ -66,14 +66,14 @@
 065	<br><br>
 066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Black enemies!
 067	True Form gains increased defense!<br>immunity to Knockback from enemy attacks.<br>
-068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!
+068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!	True Form evolution increases<br>improved defense and attack<br>power, and faster attack rate!
 069	<br><br>
 070	<br><br>
 071	True Form evolution increases Attack!<br>Also gains faster movement speed.<br>
 072	True Form evolution increases<br>all traits, and allows greater<br>attack power gains.
-073	True Form greatly increases defense!<br>Plus, improves attack power and increases<br>the time Freeze will affect Black enemies!
+073	True Form greatly increases defense!<br>Plus, improves attack power and increases<br>the time Freeze will affect Black enemies!	Ultra Form gains improved Defense!<br>Plus, gains Freeze vs. Aku and<br>Counter-Surge!
 074	<br><br>
-075	True Form evolution greatly increases<br>defense and movement speed, as well<br>as increasing attack power and range.
+075	True Form evolution greatly increases<br>defense and movement speed, as well<br>as increasing attack power and range.	Ultra Form gains improved attack range,<br>move speed and attack rate, and deals<br>Insane damage to Floating enemies!
 076	True Form evolution increases Defense<br>and movement speed, as well as Attack<br>power and Attack range!
 077	<br><br>
 078	<br><br>
@@ -175,7 +175,7 @@
 174	True form evolution increases attack range!<br><br>
 175	<br><br>
 176	<br><br>
-177	True form increases all stats and<br>gains Barrier Breaker, plus Slow <br>and Knockback versus Angels!
+177	True form increases all stats and<br>gains Barrier Breaker, plus Slow <br>and Knockback versus Angels!	Increased Defense, Attack power, and<br>Attack range! Plus 100% chance to<br>Knockback and Slow Aliens!
 178	<br><br>
 179	<br><br>
 180	True Form evolution increases Attack<br>Range and Attack Speed! Plus, gains<br>the Immune to Weaken ability!
@@ -300,7 +300,7 @@
 299	<br><br>
 300	<br><br>
 301	<br><br>
-302	True Form evolution improves<br>attack power and range! Plus,<br>gains the ability to Freeze Aku.
+302	True Form evolution improves<br>attack power and range! Plus,<br>gains the ability to Freeze Aku.	True Form gains improved<br>attack power and range! Plus,<br>gains the ability to Freeze Aku.
 303	<br><br>
 304	True Form evolution improves attack<br>distance and attack area range!<br>
 305	True Form evolution improves<br>attack speed!<br>
@@ -335,7 +335,7 @@
 334	True Form evolution improves all stats!<br>Plus, Floating and Angel enemies are<br>slowed for longer period of time!
 335	True Form evolution gains improved attack<br>power and defense! Plus, Red enemies are<br>weakened for an even longer time!
 336	True form gains improved attack speed<br>and number of pushbacks against enemies.<br>
-337	True Form evolution gains improved<br>defense, move speed and attack!<br>
+337	True Form evolution gains improved<br>defense, move speed and attack!<br>	True Form evolution increases<br>defense, move speed and attack!<br>
 338	True Form evolution gains improved defense<br>and attack range. Plus, weakens Black<br>enemies for longer lengths of time.
 339	<br><br>
 340	<br><br>
@@ -557,7 +557,7 @@
 556	True Form evolution gains big changes<br>to its abilities, including massive damage<br>to Angels and resistance to Knockback.
 557	<br><br>
 558	<br><br>
-559	True Form gains improved defense!<br>Increased chance of Weaken, and gains<br>Immunity to Freeze and enemy Warp effects!
+559	True Form gains improved defense!<br>Increased chance of Weaken, and gains<br>Immunity to Freeze and enemy Warp effects!	True Form gains increased defense!<br>Increased chance of Weaken, and gains<br>Immunity to Freeze and enemy Warp effects!
 560	<br><br>
 561	<br><br>
 562	<br><br>
@@ -582,7 +582,7 @@
 581	<br><br>
 582	<br><br>
 583	<br><br>
-584	True Form evolution gains improved<br>defense against Aku enemies, and<br>better strength improvements!
+584	True Form evolution gains improved<br>defense against Aku enemies, and<br>better strength improvements!	True Form evolution gains improved<br>defense against Aku enemies, and<br>better strength improvement!
 585	<br><br>
 586	<br><br>
 587	<br><br>

@@ -66,14 +66,14 @@
 065	<br><br>
 066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Black enemies!
 067	La forme ultime augmente la défense !<br>Att. ennemies : immunisent contre le recul.<br>
-068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!
+068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!	True Form evolution increases<br>improved defense and attack<br>power, and faster attack rate!
 069	<br><br>
 070	<br><br>
 071	La forme ultime augmente l'attaque<br>et la vit. de déplac. est plus rapide.<br>
 072	La forme ultime augmente toutes<br>les caractéristiques et permet<br>de booster la puissance d’attaque.
-073	La forme ultime augmente fortement la<br>défense, la puissance d’att. et une durée<br>d’immob. des ennemis noirs accrues !
+073	La forme ultime augmente fortement la<br>défense, la puissance d’att. et une durée<br>d’immob. des ennemis noirs accrues !	L'ultra forme gagne un bonus de défense !<br>Plus immobilisation contre Akus et<br>contre-réplique !
 074	<br><br>
-075	La forme ultime augmente fortement<br>la défense, la vitesse de déplacement,<br>la puissance d’attaque et la portée.
+075	La forme ultime augmente fortement<br>la défense, la vitesse de déplacement,<br>la puissance d’attaque et la portée.	L'ultra forme gagne un bonus de portée,<br>de vitesse de déplacement/d'attaque, et fait<br>des dégâts insensés aux ennemis flottants !
 076	La forme ultime augmente la défense,<br>la vitesse de déplacement, la puissance<br>d’attaque et la portée !
 077	<br><br>
 078	<br><br>
@@ -151,7 +151,7 @@
 150	La forme ultime augmente la portée<br>et réduit la durée de production.<br>Anges immobilisés plus longtemps !
 151	La forme ultime augmente l'attaque,<br>la défense et la portée !<br>
 152	La forme ultime améliore la puissance<br>d’att. et la déf. Octroie l'immun. aux maléd.<br>Efficace contre les ennemis reliques.
-153	La forme ultime augmente la défense,<br>l'attaque et octroie brise-barrière.<br>Ralentit les anges plus longtemps !
+153	La forme ultime augmente la défense,<br>l'attaque et octroie brise-barrière.<br>Ralentit les anges plus longtemps !	La forme ultime augmente la défense<br>l'attaque et octroie brise-barrière.<br>Ralentit les anges plus longtemps !
 154	<br><br>
 155	<br><br>
 156	<br><br>
@@ -175,7 +175,7 @@
 174	True form evolution increases attack range!<br><br>
 175	<br><br>
 176	<br><br>
-177	La forme ultime augmente toutes les stat.<br>et octroie brise-barrière. De plus, elle inflige<br>ralentissement et recul aux anges !
+177	La forme ultime augmente toutes les stat.<br>et octroie brise-barrière. De plus, elle inflige<br>ralentissement et recul aux anges !	Gain de puissance d'attaque, défense et<br>portée ! Plus 100 % de chances de<br>repousser et ralentir les aliens !
 178	<br><br>
 179	<br><br>
 180	True Form evolution increases Attack<br>Range and Attack Speed! Plus, gains<br>the Immune to Weaken ability!
@@ -235,7 +235,7 @@
 234	<br><br>
 235	<br><br>
 236	<br><br>
-237	La forme ultime gagne en vitesse de mouv.<br>et développe la cap. de réplique offensive<br>et de survivre à 1 frappe fatale !
+237	La forme ultime gagne en vitesse de mouv.<br>et développe la cap. de réplique offensive<br>et de survivre à 1 frappe fatale !	La forme ultime gagne en vitesse de mouvement<br>et développe la cap. de réplique offensive<br>et de survivre à 1 frappe fatale !
 238	La forme ultime gagne largement en<br>puissance d’attaque !<br>
 239	La forme ultime gagne en vitesse d’attaque,<br>en zone d’attaque et développe<br>la capacité de ralentir les non-métal.
 240	La forme ultime améliore la vitesse<br>d'attaque, la défense et<br>augmente la puissance d’attaque.
@@ -259,7 +259,7 @@
 258	La forme ultime améliore<br>la défense et la puissance d’attaque !<br>Att. ennemies : immunisent contre le recul.
 259	La forme ultime améliore la défense !<br><br>
 260	<br><br>
-261	La forme ultime gagne une chance<br>de repousser/ralentir les zombies<br>et octroie la capacité Tueur de zombies !
+261	La forme ultime gagne une chance<br>de repousser/ralentir les zombies<br>et octroie la capacité Tueur de zombies !	La forme ultime gagne une chance<br>de repousser/ralentir les zombies<br>+ la capacité Tueur de zombies !
 262	<br><br>
 263	<br><br>
 264	<br><br>
@@ -300,7 +300,7 @@
 299	<br><br>
 300	<br><br>
 301	<br><br>
-302	La forme ultime améliore<br>la puissance d’attaque et la portée !<br>Obtient la capacité d'immobiliser les Akus.
+302	La forme ultime améliore<br>la puissance d’attaque et la portée !<br>Obtient la capacité d'immobiliser les Akus.	La forme ultime améliore<br>la puissance d’attaque et la portée !<br>Obtient la capacité d'immobiliser les Akus.
 303	<br><br>
 304	La forme ultime améliore la distance<br>d’attaque et la portée d’attaque de zone !<br>
 305	La forme ultime améliore<br>la vitesse d’attaque !<br>
@@ -335,7 +335,7 @@
 334	La forme ultime améliore toutes les<br>stat. et les ralentiss. sur les ennemis<br>flottants et anges durent plus longtemps !
 335	La forme ultime améliore la puissance<br>d’attaque et la défense ! Ennemis rouges<br>affaiblis plus longtemps !
 336	La forme ultime améliore la vitesse<br>d’attaque et le recul des ennemis.<br>
-337	True Form evolution gains improved<br>defense, move speed and attack!<br>
+337	True Form evolution gains improved<br>defense, move speed and attack!<br>	True Form evolution increases<br>defense, move speed and attack!<br>
 338	La forme ultime améliore la défense<br>et la portée d’attaque, et affaiblit<br>les ennemis noirs plus longtemps.
 339	<br><br>
 340	<br><br>
@@ -358,7 +358,7 @@
 357	La forme ultime améliore la vitesse d’att. !<br><br>
 358	La forme ultime améliore la défense !<br>La chance d’att. critique augmente aussi !<br>
 359	La forme ultime augmente<br>la puissance d’attaque et la défense !<br>
-360	La forme ultime améliore<br>la puissance d’attaque et la défense !<br>
+360	La forme ultime améliore<br>la puissance d’attaque et la défense !<br>	La forme ultime améliore<br>puissance d’attaque et défense !<br>
 361	La forme ultime améliore<br>la puissance d’attaque et la défense !<br>
 362	La forme ultime augmente l'attaque,<br>la défense et la portée !<br>
 363	<br><br>
@@ -520,7 +520,7 @@
 519	La forme ultime augmente la défense et<br>la puiss. d’attaque. Renforcement amélioré<br>et imm. aux attaques toxiques et répliques.
 520	<br><br>
 521	<br><br>
-522	La forme ultime améliore la défense et<br>Recul accrus contre les Akus.<br>
+522	La forme ultime améliore la défense et<br>Recul accrus contre les Akus.<br>	La forme ultime améliore la défense et<br>et Recul accrus contre les Akus.<br>
 523	La forme ultime améliore la défense et<br>l'immunité aux effets de ralentissement !<br>
 524	<br><br>
 525	La forme ultime améliore la déf., la puiss.<br>d'att. et accorde une mal. contre les anges !<br>
@@ -689,7 +689,7 @@
 688	<br><br>
 689	<br><br>
 690	<br><br>
-691	La forme ultime révèle son aspect final !<br>Gagne Fléau des Béhémoths !<br>Plus immun. séries offensives !
+691	La forme ultime révèle son aspect final !<br>Gagne Fléau des Béhémoths !<br>Plus immun. séries offensives !	La forme ultime révèle son aspect final !<br>Gagne Fléau des Béhémoths !<br>Plus immunité contre répliques offensives !
 692	<br><br>
 693	<br><br>
 694	<br><br>

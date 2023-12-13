@@ -66,14 +66,14 @@
 065	<br><br>
 066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Black enemies!
 067	¡La forma final tiene más defensa!<br>a la repulsión de los ataques enemigos.<br>
-068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!
+068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!	True Form evolution increases<br>improved defense and attack<br>power, and faster attack rate!
 069	<br><br>
 070	<br><br>
 071	La forma final tiene más poder de ataque.<br>Su velocidad de movimiento mejora.<br>
 072	La forma final tiene mejores<br>rasgos. Además, aumenta<br>su poder de ataque.
-073	La forma final tiene una mayor defensa.<br>Su poder de ataque mejora y paraliza<br>a los enemigos negros durante más tiempo.
+073	La forma final tiene una mayor defensa.<br>Su poder de ataque mejora y paraliza<br>a los enemigos negros durante más tiempo.	¡La ultraforma mejora la defensa!<br>¡Además, gana paralización contra akus<br>y provoca contrarréplicas!
 074	<br><br>
-075	La forma final tiene una defensa aún mayor.<br>Su velocidad de movimiento mejora.<br>su poder de ataque y su alcance.
+075	La forma final tiene una defensa aún mayor.<br>Su velocidad de movimiento mejora.<br>su poder de ataque y su alcance.	¡La ultraforma mejora el alcance del ataque,<br>la velocidad de movimiento y el poder de<br>ataque, y es megafuerte contra voladores!
 076	La forma final tiene una mayor defensa.<br>Además, mejora su velocidad de movimiento,<br>su poder de ataque y su alcance.
 077	<br><br>
 078	<br><br>
@@ -175,7 +175,7 @@
 174	True form evolution increases attack range!<br><br>
 175	<br><br>
 176	<br><br>
-177	La forma final tiene mejores estadísticas.<br>Además, es rompebarreras<br>y ralentiza y repele a ángeles.
+177	La forma final tiene mejores estadísticas.<br>Además, es rompebarreras<br>y ralentiza y repele a ángeles.	¡Defensa, poder y alcance de ataque<br>aumentados! ¡Además, siempre<br>repele y ralentiza a los álienes!
 178	<br><br>
 179	<br><br>
 180	True Form evolution increases Attack<br>Range and Attack Speed! Plus, gains<br>the Immune to Weaken ability!
@@ -335,7 +335,7 @@
 334	La forma final tiene mejores estadísticas.<br>Además, ralentiza durante más tiempo<br>a enemigos voladores y ángeles.
 335	La forma final tiene más poder de ataque<br>y defensa. Además, desgasta durante<br>más tiempo a enemigos rojos.
 336	La forma final tiene mejor velocidad<br>de ataque y repele más a menudo.<br>
-337	True Form evolution gains improved<br>defense, move speed and attack!<br>
+337	True Form evolution gains improved<br>defense, move speed and attack!<br>	True Form evolution increases<br>defense, move speed and attack!<br>
 338	La forma final tiene una mayor defensa<br>y más alcance. Además, desgasta durante<br>más tiempo a enemigos negros.
 339	<br><br>
 340	<br><br>
