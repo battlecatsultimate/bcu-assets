@@ -54,6 +54,7 @@
 -2025	Street Fighter Gacha (Red Team)	//SF Red 764
 -2026	Evangelion Collab Gacha 2nd
 -2027	Kunio-kun Collab Gacha (White Team)
+-2028	Metal Slug Collab Gacha
 E12	Bikkuriman Chocolate Capsules
 E13	Bikkuriman Chocolate Capsules
 E14	Summer Break Capsules
@@ -70,6 +71,7 @@ E24	June Bride of Devil Capsules
 E25	9th Anniversary Special Capsules
 E26	Summer Break Capsules
 E27	Medal Cat King's Hall Capsules
+E28	New Moon Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -818,3 +820,9 @@ N65	Cats Eye Capsules
 856	-117
 857	-9	725
 858	-9	725
+859	-112	731
+860	-1003
+861	-1012
+862	-105	731
+863	-107	731
+864	-2028	727

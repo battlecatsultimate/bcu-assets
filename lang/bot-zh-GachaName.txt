@@ -54,9 +54,10 @@
 -2025	快打旋風V 冠軍版 RED TEAM	//SF Red 764
 -2026	福音戰士 2nd
 -2027	熱血運動會(白組)
+-2028	越南大戰系列
 E13	聖魔大戰	//Bikkuri
 E14	貓咪的暑假	//Summer Break Cats
-E17	春節活動轉蛋（日文版）	//Lunar New Year (JP)
+E17	春節活動轉蛋	//Lunar New Year (JP)
 E18	心動時分貓咪學園	//Heartbeat Catcademy
 E19	惡魔的完美新娘	//June Bride of the Devil
 E20	貓咪的暑假	//Summer Break Cats
@@ -65,6 +66,7 @@ E23	心動時分貓咪學園
 E24	惡魔的完美新娘
 E26	貓咪的暑假
 E27	Medal Cat King's Hall Capsules
+E28	春節活動轉蛋
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -823,3 +825,9 @@ N64	貓咪轉蛋+	//Cat Capsules+
 856	-117
 857	-9	725
 858	-9	725
+859	-112	731
+860	-1003
+861	-1012
+862	-105	731
+863	-107	731
+864	-2028	727
