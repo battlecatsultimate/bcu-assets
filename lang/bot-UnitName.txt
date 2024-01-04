@@ -220,10 +220,10 @@
 219	SV-001	SV-001 CC
 220	ALLEN O'NEIL	ALLEN O'NEIL CC
 221	MARS PEOPLE	MARS PEOPLE CC
-222	HUGE HERMIT	HUGE HERMIT CC
-223	JUPITER KING	JUPITER KING CC
-224	DONALD MORDEN	GENERAL MORDEN
-225	HI-DO	HI-DO CC
+222	HUGE HERMIT	HUGE HERMIT CC	GOLDEN HUGE HERMIT CC
+223	JUPITER KING	JUPITER KING CC	GOLDEN JUPITER KING CC
+224	DONALD MORDEN	GENERAL MORDEN	GOLDEN DONALD MORDEN CC
+225	HI-DO	HI-DO CC	HI-DO MK III CC
 226	Warlock and Pierre	Dark Merchant Babil	Mad Doctor Klay
 227	Pumpcat	Cat O'Lantern	Harbinger Cat
 228	Gloomy Neneko	Witchy Neneko	Costumed Witchy Neneko
@@ -725,3 +725,9 @@
 724	Ancient Egg: N112	Mystic Egg: N112	Cat Egg Pod
 725	Ninja Girl Tomoe	Gourmand Ninja Girl Tomoe
 726	Medal Cat King	Great Medal Cat King
+727	SOL DAE ROKKER	SOL DAE ROKKER CC
+728	Sage of Discuss Soractis	Sage of Discuss Catratis
+729	Soractis Spirit
+730	Ancient Egg: N204	Cinnabar Egg: N204	Lion Dance Cat
+731	Sunrising Izanagi	Daybreak Izanagi
+732	Izanagi Spirit
