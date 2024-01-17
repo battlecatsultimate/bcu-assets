@@ -1639,7 +1639,7 @@
 002-003-005	Bookmarkers
 002-003-006	Solid State Rock
 002-003-007	Fiber Cookie
-002-006		Lasvoss Strikes?!
+002-006		Final Boss Strikes?!
 002-006-000	Let's GOOO! <(@0@)>
 002-007		Merc Storia: Inferno
 002-007-000	A City Aflame (Insane)
