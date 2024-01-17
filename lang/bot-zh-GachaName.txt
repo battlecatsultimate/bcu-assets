@@ -130,6 +130,7 @@ N61	招福轉蛋G
 N62	招福轉蛋	//Lucky Capsules
 N63	招福轉蛋G	//Lucky Capsules G
 N64	貓咪轉蛋+	//Cat Capsules+
+N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 100	超激稀有轉蛋 超激烈爆彈 
 101	超激稀有轉蛋 超激烈爆彈 
 102	超激稀有轉蛋 超激烈爆彈 
