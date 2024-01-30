@@ -117,7 +117,7 @@
 116	<br><br>
 117	<br><br>
 118	<br><br>
-119	<br><br>
+119	Wahre Form erhält stark erhöhte Vert.!<br>Kann schwarze Feinde schwächen, erhält<br>Immunität gg. Verlangs. u. Kolosstöter!
 120	<br><br>
 121	<br><br>
 122	<br><br>
@@ -302,7 +302,7 @@
 301	<br><br>
 302	Wahre-Form-Entwicklung erhöht<br>Angriffskraft und Reichweite!<br>Erhält die Fähigkeit, Aku einzufrieren.
 303	<br><br>
-304	Wahre-Form-Entwicklung erhöht Angriffs-<br>reichweite und Angriffsflächengröße!<br>
+304	Wahre-Form-Entwicklung erhöht Angriffs-<br>reichweite und Angriffsflächengröße!<br>	Ultra-Form-Entw. erhöht Angriffskraft!<br>Resistent gegen Zombies und Relikt und<br>erhält Fähigkeit, garant. zu schwächen.
 305	Wahre-Form-Entwicklung erhöht<br>Angriffstempo!<br>
 306	Wahre-Form-Entwicklung erhöht Vert.<br>und Rückstoß-Rate!<br>
 307	Wahre Form erhöht Vert. und Bewegungs-<br>tempo deutlich! Zudem halten bei<br>Zombies Verlangsamen-Effekte länger an!
@@ -725,3 +725,9 @@
 724	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
 725	<br><br>
 726	<br><br>
+727	<br><br>
+728	<br><br>
+729	<br><br>
+730	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
+731	<br><br>
+732	<br><br>

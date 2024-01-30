@@ -1577,6 +1577,17 @@
 001-364-000	Regalo rosso e viola
 001-364-001	Regalo blu e verde
 001-364-002	Regalo giallo
+001-365		I 5 nemici più visti del 2023!
+001-365-000	Inavvertitamente il 5º posto
+001-365-001	Improvvisamente il 4º posto
+001-365-002	Eternamente il 3º posto
+001-365-003	Collettivamente il 2º posto
+001-365-004	Elusivamente il 1º posto
+001-365-005	Turno saltato
+001-366		Cani da neve
+001-366-000	Cane grandine
+001-366-001	Giardino pieno di cani
+001-366-002	Gatti che combattono calorosamente
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3309,6 +3320,17 @@
 007-008-007	8° piano
 007-008-008	9° piano
 007-008-009	Ultimo piano
+007-009		Roccaforte antica
+007-009-000	1° piano
+007-009-001	2° piano
+007-009-002	3° piano
+007-009-003	4° piano
+007-009-004	5° piano
+007-009-005	6° piano
+007-009-006	7° piano
+007-009-007	8° piano
+007-009-008	9° piano
+007-009-009	Ultimo piano
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -4717,6 +4739,17 @@
 024-061-017	Tre Presagi Liv. 18
 024-061-018	Tre Presagi Liv. 19
 024-061-019	Tre Presagi Liv. MAX
+024-063		Un felicissimo anno nuovo!
+024-063-000	Anno del drago Liv. 1
+024-063-001	Anno del drago Liv. 2
+024-063-002	Anno del drago Liv. 3
+024-063-003	Anno del drago Liv. 4
+024-063-004	Anno del drago Liv. 5
+024-063-005	Anno del drago Liv. 6
+024-063-006	Anno del drago Liv. 7
+024-063-007	Anno del drago Liv. 8
+024-063-008	Anno del drago Liv. 9
+024-063-009	Anno del drago Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -5295,3 +5328,10 @@
 034-007-003	Miniera del coseno di poi
 034-007-004	Valle Isoscele
 034-007-005	Il punto più remoto
+034-008		Giardino dei pensieri sfioriti
+034-008-000	Sofista non istruito
+034-008-001	Una vita di antitesi
+034-008-002	Foresta dell'ironia
+034-008-003	Dialogo senza senso
+034-008-004	Distesa delle calunnie
+034-008-005	Aderenza alla virtù

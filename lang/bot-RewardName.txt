@@ -188,6 +188,7 @@
 195|S195|I424	Holy Water
 196|S196|I425	Legend Nets
 197	1000000 XP
+199|S199|I427	Legendary Charm
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -252,6 +253,7 @@
 1065	Jetpack Cat
 1066	Maize Cat
 1067	Ancient Egg: N006
+1068	Master of Mind Soractes
 1100	Bronze Cat
 1101	Space Cat
 1102	Rope Jump Cat
@@ -447,6 +449,7 @@
 15106	Divine Kuu
 15107	Divine Kai
 15108	Divine Coppermine
+15120	Wyvern and Alec
 15124	Val Val Cat
 15125	Immortal Masamune
 15126	Immortal Shingen

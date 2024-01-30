@@ -117,7 +117,7 @@
 116	Fuu	Fuu CC		
 117	Aura	Aura CC		
 118	Rei	Rei CC		
-119	Wyvern	Wyvern Cat		
+119	Wyvern	Wyvern Cat	Wyvern and Alec	
 120	Healer	Healer CC	Healer Cat CC	
 121	Merc	Merc CC	Merc & Cat CC	
 122	Reine des vacances	Chatte employée de bureau	Chatte réceptionniste	
@@ -302,7 +302,7 @@
 301	Kyubey Cat	Tank Kyubey Cat		
 302	Lilith féline	Chatte succube	Reine succube	
 303	Chat stand	Chat livreur		
-304	Puissante chatapulte	Engin de siège CHAT-6	Béhémoth CHAT-8	
+304	Puissante chatapulte	Engin de siège CHAT-6	Béhémoth CHAT-8	Gigapulte CAT-10
 305	Puissant cuiraté	Navire Cœur de lion	Navire Griffe de tigre	
 306	Puissant ronronbardier	Forteresse aérienne NEK-0	Citadelle aérienne NEK-02	
 307	Chatte perchiste	Chatte sauteuse	Chatte au foyer	
@@ -589,7 +589,7 @@
 588	Myrcia premier amour	Myrcia premier amour, type ξ		
 589	Neneko Saint-Valentin	Neneko chérie	Neneko grand amour	
 590	Snow Miku 2021	Snow Miku CC 2021		
-591	Kaito & Cat	Kaito & Cat CC		
+591	KAITO & Cat	KAITO & Cat CC		
 592	Neko Rin	Neko Rin CC		
 593	Neko Len	Neko Len CC		
 594	Puissant Aethur Cie	Atlantis Logistix	Ultra Atlantis Logistix	
@@ -725,3 +725,9 @@
 724	Œuf ancien N112	Œuf mystique N112	Nacelle-œuf féline	
 725	Tomoe kunoichi	Tomoe kunoichi gourmande		
 726				
+727				
+728	Soracte, mentor mental	Sochate, mentor mental		
+729				
+730				
+731	Izanagi du levant	Izanagi de l'aube		
+732				

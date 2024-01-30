@@ -112,3 +112,4 @@
 111	★ Behemoth Culling ★
 112	★ Malevolence ★
 113	★ Inferno 50 ★
+114	★ Soractes ★

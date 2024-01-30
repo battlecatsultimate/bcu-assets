@@ -117,7 +117,7 @@
 116	Fuu	Fuu CC
 117	Aura	Aura CC
 118	Rei	Rei CC
-119	Wyvern	Wyvern Cat	Wyvern Cat & Alec
+119	Wyvern	Wyvern Cat	Wyvern and Alec	
 120	Healer	Healer CC	Healer Cat CC
 121	Merc	Merc CC	Merc & Cat CC
 122	Vacation Queen	Office Lady Cat	Call Center Cat
@@ -302,7 +302,7 @@
 301	Kyubey Cat	Tank Kyubey Cat
 302	Lilith Cat	Succubus Cat	Queen Succubus Cat
 303	Food Stall Cat	Delivery Cat
-304	Mighty Kat-A-Pult	CAT-6 Siege Engine	CAT-8 Behemoth
+304	Mighty Kat-A-Pult	CAT-6 Siege Engine	CAT-8 Behemoth	CAT-10 Gigapult
 305	Mighty Drednot	B.C.S. Lionheart	B.C.S. Tigerclaw
 306	Mighty Bomburr	NEK-0 Sky Fortress	NEK-02 Air Citadel
 307	Vaulter Cat	Polevaulter Cat	Housewife Cat
@@ -726,8 +726,8 @@
 725	Ninja Girl Tomoe	Gourmand Ninja Girl Tomoe
 726	Medal Cat King	Great Medal Cat King
 727	SOL DAE ROKKER	SOL DAE ROKKER CC
-728	Sage of Discuss Soractis	Sage of Discuss Catratis
+728	Master of Mind Soractes	Master of Mind Catcrates
 729	Soractis Spirit
 730	Ancient Egg: N204	Cinnabar Egg: N204	Lion Dance Cat
-731	Sunrising Izanagi	Daybreak Izanagi
+731	Daybreaker Izanagi	Dawnbringer Izanagi	
 732	Izanagi Spirit

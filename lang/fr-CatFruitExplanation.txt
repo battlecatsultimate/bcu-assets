@@ -117,7 +117,7 @@
 116	<br><br>
 117	<br><br>
 118	<br><br>
-119	<br><br>
+119	Défense ↑↑ en forme ultime !<br>Peut affaiblir ennemis noirs, immunité<br>contre ralentiss. et Fléau des colosses !
 120	<br><br>
 121	<br><br>
 122	<br><br>
@@ -302,7 +302,7 @@
 301	<br><br>
 302	La forme ultime améliore<br>la puissance d’attaque et la portée !<br>Obtient la capacité d'immobiliser les Akus.	La forme ultime améliore<br>la puissance d’attaque et la portée !<br>Obtient la capacité d'immobiliser les Akus.
 303	<br><br>
-304	La forme ultime améliore la distance<br>d’attaque et la portée d’attaque de zone !<br>
+304	La forme ultime améliore la distance<br>d’attaque et la portée d’attaque de zone !<br>	Attaque augmentée en ultra forme !<br>Résiste aux zombies/reliques, gagne<br>100 % de chances d'affaiblir.
 305	La forme ultime améliore<br>la vitesse d’attaque !<br>
 306	La forme ultime améliore<br>la défense et le taux de recul !<br>
 307	La forme ultime augmente fortement la déf.<br>et la vit. de déplac. ! Le ralentissement<br>des zombies dure plus longtemps !
@@ -725,3 +725,9 @@
 724	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
 725	<br><br>
 726	<br><br>
+727	<br><br>
+728	<br><br>
+729	<br><br>
+730	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
+731	<br><br>
+732	<br><br>

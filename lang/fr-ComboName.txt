@@ -226,3 +226,4 @@
 344	Gestion de la colère
 345	Bring it On!
 346	Va en enfer !
+347	Club de chasse

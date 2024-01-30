@@ -112,3 +112,4 @@
 111	Termine Forêt cachée de G., Désert d'A., Volcan de J.
 112	Termine tous les niveaux maléfiques.
 113	Terminer le 50e étage de la Tour infernale
+114	Reçois Soracte, mentor mental

@@ -117,7 +117,7 @@
 116	<br><br>
 117	<br><br>
 118	<br><br>
-119	<br><br>
+119	¡La forma final gana mucha más defensa!<br>¡Puede desgastar a enemigos negros, gana<br>inmunidad a ralentización y matacolosos!
 120	<br><br>
 121	<br><br>
 122	<br><br>
@@ -302,7 +302,7 @@
 301	<br><br>
 302	La forma final tiene más<br>poder de ataque y alcance.<br>Obtiene la habilidad de paralizar a akus.
 303	<br><br>
-304	La forma final tiene mejor distancia<br>de ataque y alcance de área.<br>
+304	La forma final tiene mejor distancia<br>de ataque y alcance de área.<br>	¡La ultraforma gana poder de ataque!<br>Resiste zombis y reliquias y gana<br>la habilidad de desgastar 100 %.
 305	La forma final tiene más<br>velocidad de ataque.<br>
 306	La forma final tiene una mayor<br>defensa y más probabilidades de repeler.<br>
 307	La forma final tiene una mayor defensa<br>y más velocidad de movimiento. Ralentiza<br>a los zombis durante más tiempo.
@@ -725,3 +725,9 @@
 724	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
 725	<br><br>
 726	<br><br>
+727	<br><br>
+728	<br><br>
+729	<br><br>
+730	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
+731	<br><br>
+732	<br><br>

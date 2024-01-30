@@ -188,6 +188,7 @@
 195|S195|I424	Eau bénite
 196|S196|I425	filets légendaires
 197	1 000 000 XP
+199|S199|I427	Charme légendaire
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -252,6 +253,7 @@
 1065	Chat à propulsion
 1066	Chat mélasse
 1067	Œuf ancien : N006
+1068	Soracte, mentor mental
 1100	Chat en bronze
 1101	Chastronaute
 1102	Chat corde à sauter
@@ -447,6 +449,7 @@
 15106	Kuu divine
 15107	Kai divine
 15108	Mine divine
+15120	Wyvern and Alec
 15124	Chats Val Val
 15125	Masamune immortel
 15126	Shingen immortel

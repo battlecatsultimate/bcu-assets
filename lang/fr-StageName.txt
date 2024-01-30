@@ -1582,6 +1582,17 @@
 001-364-000	Cadeau rouge-violet
 001-364-001	Cadeau bleu-vert
 001-364-002	Cadeau jaune
+001-365		Top 5 des ennemis les plus vus, 2023 !
+001-365-000	5e par inadvertance
+001-365-001	4e sur un malentendu
+001-365-002	Éternel 3e
+001-365-003	2e place collective
+001-365-004	1re place insaisissable
+001-365-005	Tour passé
+001-366		Toutous des neiges
+001-366-000	Gloire au Toutou
+001-366-001	Jardin bourré de Toutous
+001-366-002	Combat de Chats chaleureux
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3314,6 +3325,17 @@
 007-008-007	8e étage
 007-008-008	9e étage
 007-008-009	Dernier étage
+007-009		Citadelle des Reliques
+007-009-000	1er étage
+007-009-001	2e étage
+007-009-002	3e étage
+007-009-003	4e étage
+007-009-004	5e étage
+007-009-005	6e étage
+007-009-006	7e étage
+007-009-007	8e étage
+007-009-008	9e étage
+007-009-009	Dernier étage
 
 011			Ranking Dojo Stages
 011-000		Arène de l'honneur
@@ -4753,6 +4775,17 @@
 024-061-017	Trois présages niv. 18
 024-061-018	Trois présages niv. 19
 024-061-019	Trois présages niv. max
+024-063		Ultra Bonne année !
+024-063-000	Année du dragon niv. 1
+024-063-001	Année du dragon niv. 2
+024-063-002	Année du dragon niv. 3
+024-063-003	Année du dragon niv. 4
+024-063-004	Année du dragon niv. 5
+024-063-005	Année du dragon niv. 6
+024-063-006	Année du dragon niv. 7
+024-063-007	Année du dragon niv. 8
+024-063-008	Année du dragon niv. 9
+024-063-009	Année du dragon niv. max
 
 025			Enigma Stages
 025-000		Champs Aitum
@@ -5331,3 +5364,10 @@
 034-007-003	Mine Sinus-Cosinus
 034-007-004	Vallée des Isocèles
 034-007-005	Point limite
+034-008		Jardin des songes flétris
+034-008-000	Sophiste inculte
+034-008-001	Une vie d'antithèses
+034-008-002	Forêt de l'ironie
+034-008-003	Dialogue creux
+034-008-004	Friche calomnieuse
+034-008-005	Adhésion à la vertu

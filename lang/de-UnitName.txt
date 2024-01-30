@@ -117,7 +117,7 @@
 116	Fuu	Fuu CC		
 117	Aura	Aura CC		
 118	Rei	Rei CC		
-119	Wyvern	Wyvern Cat		
+119	Wyvern	Wyvern Cat	Wyvern and Alec	
 120	Healer	Healer CC	Healer Cat CC	
 121	Merc	Merc CC	Merc & Cat CC	
 122	Urlaubskönigin	Bürodame-Katze	Callcenter-Katze	
@@ -302,7 +302,7 @@
 301	Kyubey Cat	Tank Kyubey Cat		
 302	Lilith-Katze	Succubus-Katze	Königin Succubus-Katze	
 303	Essensstandkatze	Lieferdienstkatze		
-304	Mächtiges Katzapult	KATZ-6-Belagerungswaffe	KATZ-8-Behemoth	
+304	Mächtiges Katzapult	KATZ-6-Belagerungswaffe	KATZ-8-Behemoth	KAT-10-Gigapult
 305	Mächtiges Kampfschiff	K.K.S. Löwenherz	K.K.S. Tigerklaue	
 306	Mächtiger Bomber	NEK-0-Himmelsfestung	NEK-02-Luftzitadelle	
 307	Hochsprungkatze	Stabsprungkatze	Hausfrauenkatze	
@@ -589,7 +589,7 @@
 588	Verschossene Myrcia	Verschossene Myrcia, Typ ξ		
 589	Valentins-Neneko	Liebling Neneko	Wahre-Liebe-Neneko	
 590	Snow Miku 2021	Snow Miku CC 2021		
-591	Kaito & Cat	Kaito & Cat CC		
+591	KAITO & Cat	KAITO & Cat CC		
 592	Neko Rin	Neko Rin CC		
 593	Neko Len	Neko Len CC		
 594	Mächtige Aethur GmbH	Atlantis Logistix	Ultra Atlantis Logistix	
@@ -725,3 +725,9 @@
 724	Uraltes Ei: N112	Mystisches Ei: N112	Katzeneierkapsel	
 725	Ninjamädchen Tomoe	Gourmand-Ninjamädchen Tomoe		
 726				
+727				
+728	Meister der Gedanken Soraktes	Meister der Gedanken Katzkrates		
+729				
+730				
+731	Tagbrecher Izanagi	Tagbringer Izanagi		
+732				

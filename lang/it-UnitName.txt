@@ -117,7 +117,7 @@
 116	Fuu	Fuu CC		
 117	Aura	Aura CC		
 118	Rei	Rei CC		
-119	Wyvern	Wyvern Cat		
+119	Wyvern	Wyvern Cat	Wyvern and Alec	
 120	Healer	Healer CC	Healer Cat CC	
 121	Merc	Merc CC	Merc & Cat CC	
 122	Regina Vacanziera	Gatta segretaria	Gatta centralino	
@@ -302,7 +302,7 @@
 301	Kyubey Cat	Tank Kyubey Cat		
 302	Gatta Lilith	Gatta Succubo	Gatta Succubo regina	
 303	Street food miao	Gatto fattorino		
-304	Gattapulta possente	Macchina d'assedio GAT-6	GAT-8 Behemoth	
+304	Gattapulta possente	Macchina d'assedio GAT-6	GAT-8 Behemoth	Gigapulta CAT-10
 305	Natante possente	Nave Cuordileone	Nave Artiglio	
 306	Bombardo possente	Aero-fortezza NEK-0	Aeroccaforte NEK-02	
 307	Gatta con l'asta	Gatta astista	Gatta casalinga	
@@ -589,7 +589,7 @@
 588	Myrcia Primo amore	Myrcia Primo amore ξ		
 589	Neneko Innamorata	Neneko Tesoruccio	Neneko vero amore	
 590	Snow Miku 2021	Snow Miku CC 2021		
-591	Kaito & Cat	Kaito & Cat CC		
+591	KAITO & Cat	KAITO & Cat CC		
 592	Neko Rin	Neko Rin CC		
 593	Neko Len	Neko Len CC		
 594	Aero-Possente s.r.l.	Atlantis Logistix	Ultra Atlantis Logistix	
@@ -725,3 +725,9 @@
 724	Uovo antico N112	Uovo mistico N112	Gatto capsula uovo	
 725	Tomoe ragazza ninja	Tomoe ragazza ninja buongustaia		
 726				
+727				
+728	Maestro della mente Sokrate	Maestro della mente Catcrate		
+729				
+730				
+731	Portatore di luce Izanagi	Portatore di oscurità Izanagi		
+732				

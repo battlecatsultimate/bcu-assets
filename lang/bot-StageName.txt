@@ -1617,6 +1617,17 @@
 001-364-000	Red-Purple Present
 001-364-001	Blue-Green Present
 001-364-002	Yellow Present
+001-365		Top 5 Most Seen Enemies, 2023!
+001-365-000	Inadvertently 5th Place
+001-365-001	Suddenly 4th Place
+001-365-002	Eternally 3rd Place
+001-365-003	Collectively 2nd Place
+001-365-004	Elusively 1st Place
+001-365-005	Skipped Turn
+001-366		Snow Doges
+001-366-000	Hail Doge
+001-366-001	Doge-Packed Garden
+001-366-002	Cats Warmly Battling
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3369,6 +3380,17 @@
 007-008-007	Floor 8
 007-008-008	Floor 9
 007-008-009	Top Floor
+007-009		Relic Citadel
+007-009-000	Floor 1
+007-009-001	Floor 2
+007-009-002	Floor 3
+007-009-003	Floor 4
+007-009-004	Floor 5
+007-009-005	Floor 6
+007-009-006	Floor 7
+007-009-007	Floor 8
+007-009-008	Floor 9
+007-009-009	Top Floor
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -4819,6 +4841,17 @@
 024-061-017	Three Omens Lv.18
 024-061-018	Three Omens Lv.19
 024-061-019	Three Omens Lv.MAX
+024-063		A Colossal New Year!
+024-063-000	Year of the Dragon Lv.1
+024-063-001	Year of the Dragon Lv.2
+024-063-002	Year of the Dragon Lv.3
+024-063-003	Year of the Dragon Lv.4
+024-063-004	Year of the Dragon Lv.5
+024-063-005	Year of the Dragon Lv.6
+024-063-006	Year of the Dragon Lv.7
+024-063-007	Year of the Dragon Lv.8
+024-063-008	Year of the Dragon Lv.9
+024-063-009	Year of the Dragon Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -5398,3 +5431,10 @@
 034-007-003	Sine-Cosine Mine
 034-007-004	Isosceles Valley
 034-007-005	The Farthest Point
+034-008		Garden of Wilted Thoughts
+034-008-000	Uneducated Sophist
+034-008-001	A Life of Antithesis
+034-008-002	Forest of Irony
+034-008-003	Aimless Dialogue
+034-008-004	Slanderous Wasteland
+034-008-005	Adherence to Virtue

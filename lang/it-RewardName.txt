@@ -188,6 +188,7 @@
 195|S195|I424	Acqua santa
 196|S196|I425	reti leggendarie
 197	1.000.000 XP
+199|S199|I427	Amul. leggendario
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -252,6 +253,7 @@
 1065	Gatto jetpack
 1066	Gatturco
 1067	Uovo antico N006
+1068	Maestro della mente Sokrate
 1100	Busto di Gatto
 1101	Gatto spaziale
 1102	Gatto con la corda
@@ -447,6 +449,7 @@
 15106	Kuu divina
 15107	Kai divina
 15108	Ramina divina
+15120	Wyvern and Alec
 15124	Gatti Val Val
 15125	Masamune Immortale
 15126	Shingen Immortale

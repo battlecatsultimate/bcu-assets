@@ -117,7 +117,7 @@
 116	Fuu	Fuu CC		
 117	Aura	Aura CC		
 118	Rei	Rei CC		
-119	Wyvern	Wyvern Cat		
+119	Wyvern	Wyvern Cat	Wyvern and Alec	
 120	Healer	Healer CC	Healer Cat CC	
 121	Merc	Merc CC	Merc & Cat CC	
 122	Diva Vacacional	Gata Oficinista	Gata de Atención al Cliente	
@@ -302,7 +302,7 @@
 301	Kyubey Cat	Tank Kyubey Cat		
 302	Gata Lilit	Gata Súcubo	Gata Reina Súcubo	
 303	Vendedor de Comida	Gato Repartidor		
-304	Gatapulta Brutal	Máquina de Asedio	Mastodonte de Asalto	
+304	Gatapulta Brutal	Máquina de Asedio	Mastodonte de Asalto	Gigapulta de destrucción gatopardo
 305	Buque Brutal	BCS Corazón de León	BCS Garra de Tigre	
 306	Bombardero Brutal	MIAU-0 Fortaleza Aérea	MIAU-02 Ciudadela Aérea	
 307	Gato con Pértiga	Gata con Pértiga	Gata Ama de Casa	
@@ -589,7 +589,7 @@
 588	Myrcia Primer Amor	Myrcia Primer Amor (ξ)		
 589	Neneko de San Valentín	Neneko Amorosa	Neneko de Amor Verdadero	
 590	Snow Miku 2021	Snow Miku CC 2021		
-591	Kaito & Cat	Kaito & Cat CC		
+591	KAITO & Cat	KAITO & Cat CC		
 592	Neko Rin	Neko Rin CC		
 593	Neko Len	Neko Len CC		
 594	Globo Aerostático S.r.l.	Atlantis Logistix	Ultratlantis Logistix	
@@ -725,3 +725,9 @@
 724	Huevo Antiguo N112	Huevo Místico N112	Vaina de huevo gatuno	
 725	Chica Ninja Tomoe	Chica Ninja Tomoe Glotona		
 726				
+727				
+728	Sórcates Mente Brillante	Gatócrates Mente Brillante		
+729				
+730				
+731	Izanagi Alboreo	Izanagi Crepuscular		
+732				

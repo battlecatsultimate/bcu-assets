@@ -117,7 +117,7 @@
 116	<br><br>
 117	<br><br>
 118	<br><br>
-119	<br><br>
+119	Forma Reale ottiene maggiore difesa!<br>Può indebolire nemici neri, ottiene<br>immunità a rallent. e ammazzagiganti!
 120	<br><br>
 121	<br><br>
 122	<br><br>
@@ -302,7 +302,7 @@
 301	<br><br>
 302	La Forma Reale migliora la<br>d'attacco e raggio migliorati!<br>dà l'abilità di immobilizzare Aku.	La Forma Reale ha potenza<br>d'attacco e raggio migliorati! In più,<br>dà l'abilità di immobilizzare Aku.
 303	<br><br>
-304	La Forma Reale migliora la distanza<br>d'attacco e il raggio degli attacchi ad area!<br>
+304	La Forma Reale migliora la distanza<br>d'attacco e il raggio degli attacchi ad area!<br>	La Forma ultra ha più potenza d'attacco!<br>Resiste a zombi e antichi, ottiene<br>il 100% di abilità di indebolire nemici.
 305	La Forma Reale migliora la<br>velocità d'attacco!<br>
 306	La Forma Reale migliora la<br>difesa e il ritmo respinta!<br>
 307	La Forma Reale aumenta molto la difesa<br>e la velocità di movimento! Il rallentamento<br>sugli zombi dura più a lungo!
@@ -725,3 +725,9 @@
 724	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 725	<br><br>
 726	<br><br>
+727	<br><br>
+728	<br><br>
+729	<br><br>
+730	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+731	<br><br>
+732	<br><br>

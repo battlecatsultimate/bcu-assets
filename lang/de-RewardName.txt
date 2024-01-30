@@ -188,6 +188,7 @@
 195|S195|I424	Weihwasser
 196|S196|I425	Legendennetze
 197	1.000.000 XP
+199|S199|I427	Legend. Glücksb.
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -252,6 +253,7 @@
 1065	Jetpack-Katze
 1066	Maiskatze
 1067	Uraltes Ei: N006
+1068	Meister der Gedanken Soraktes
 1100	Bronzekatze
 1101	Weltraumkatze
 1102	Seilhüpfkatze
@@ -447,6 +449,7 @@
 15106	Himmlische Kuu
 15107	Himmlische Kai
 15108	Himmlische Cupruma
+15120	Wyvern and Alec
 15124	Val-Val-Katzen
 15125	Unsterblicher Masamune
 15126	Unsterblicher Shingen

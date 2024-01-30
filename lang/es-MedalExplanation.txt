@@ -112,3 +112,4 @@
 111	Supera todos los mapas del Bosque Oculto de Gapra,<br>Desierto de Ashvini y Volcán Jinfore.
 112	Supera todas las fases de Malicia.
 113	Supera el piso 50 de la Torre Infernal.
+114	Recibe a Sórcates Mente Brillante

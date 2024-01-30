@@ -1581,6 +1581,17 @@
 001-364-000	Rot-Lilanes Geschenk
 001-364-001	Blau-Grünes Geschenk
 001-364-002	Gelbes Geschenk
+001-365		Die 5 häufigsten Feinde 2023!
+001-365-000	Versehentlich 5. Platz
+001-365-001	Plötzlich 4. Platz
+001-365-002	Ewig 3. Platz
+001-365-003	Gemeinsam 2. Platz
+001-365-004	Unerreichbarer 1. Platz
+001-365-005	Runde übersprungen
+001-366		Schneehunde
+001-366-000	Hagelhund
+001-366-001	Garten voller Hunde
+001-366-002	Warme Katzenkämpfe
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3127,6 +3138,7 @@
 004-062-000	400-m-Staffel: Letzter Abschnitt
 004-062-001	800-m-Staffel: Letzter Abschnitt
 004-062-002	1600-m-Staffel: Letzter Abschnitt
+
 006			Katzenkrallendojo
 006-000		Halle der Initianden
 006-000-000	Prüfung des Wanderers
@@ -3311,6 +3323,17 @@
 007-008-007	Ebene 8
 007-008-008	Ebene 9
 007-008-009	Oberste Ebene
+007-009		Relikt-Zitadelle
+007-009-000	Ebene 1
+007-009-001	Ebene 2
+007-009-002	Ebene 3
+007-009-003	Ebene 4
+007-009-004	Ebene 5
+007-009-005	Ebene 6
+007-009-006	Ebene 7
+007-009-007	Ebene 8
+007-009-008	Ebene 9
+007-009-009	Oberste Ebene
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -4718,6 +4741,17 @@
 024-061-017	Drei Omen St. 18
 024-061-018	Drei Omen St. 19
 024-061-019	Drei Omen St. MAX
+024-063		Das froheste neue Jahr!
+024-063-000	Jahr des Drachen, St. 1
+024-063-001	Jahr des Drachen, St. 2
+024-063-002	Jahr des Drachen, St. 3
+024-063-003	Jahr des Drachen, St. 4
+024-063-004	Jahr des Drachen, St. 5
+024-063-005	Jahr des Drachen, St. 6
+024-063-006	Jahr des Drachen, St. 7
+024-063-007	Jahr des Drachen, St. 8
+024-063-008	Jahr des Drachen, St. 9
+024-063-009	Jahr des Drachen, St. MAX
 
 025			Enigma Stages
 025-000		Atium-Felder
@@ -5267,3 +5301,10 @@
 034-007-003	Sinus-Cosinus-Mine
 034-007-004	Gleichschenkeltal
 034-007-005	Der Entfernteste Punkt
+034-008		Garten der verdorrten Gedanken
+034-008-000	Ungebildeter Sophist
+034-008-001	Ein Leben der Antithese
+034-008-002	Wald der Ironie
+034-008-003	Zielloser Dialog
+034-008-004	Verleumderisches Ödland
+034-008-005	Festhalten an der Tugend

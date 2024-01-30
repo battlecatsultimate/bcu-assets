@@ -1573,6 +1573,17 @@
 001-364-000	Regalo Rojo-Morado
 001-364-001	Regalo Azul-Verde
 001-364-002	Regalo Amarillo
+001-365		¡5 Más Recurrentes del 2023!
+001-365-000	Inadvertido 5.º Lugar
+001-365-001	Repentino 4.º Lugar
+001-365-002	Eterno 3er Lugar
+001-365-003	Colectivo 2.º Lugar
+001-365-004	Elusivo 1er Lugar
+001-365-005	Turno Omitido
+001-366		Chucho Nieve
+001-366-000	Ave Chucho
+001-366-001	Jardín Chucho Hasta Los Topes
+001-366-002	Gatos Peleando Cálidamente
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3304,6 +3315,17 @@
 007-008-007	Piso 8
 007-008-008	Piso 9
 007-008-009	Último Piso
+007-009		Ciudadela Reliquia
+007-009-000	Piso 1
+007-009-001	Piso 2
+007-009-002	Piso 3
+007-009-003	Piso 4
+007-009-004	Piso 5
+007-009-005	Piso 6
+007-009-006	Piso 7
+007-009-007	Piso 8
+007-009-008	Piso 9
+007-009-009	Último Piso
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -4754,6 +4776,17 @@
 024-061-017	Tres augurios (nvl. 18)
 024-061-018	Tres augurios (nvl. 19)
 024-061-019	Tres augurios (nvl. máx.)
+024-063		¡El Año Nuevo más feliz!
+024-063-000	Año del Dragón (nv.1)
+024-063-001	Año del Dragón (nv.2)
+024-063-002	Año del Dragón (nv.3)
+024-063-003	Año del Dragón (nv.4)
+024-063-004	Año del Dragón (nv.5)
+024-063-005	Año del Dragón (nv.6)
+024-063-006	Año del Dragón (nv.7)
+024-063-007	Año del Dragón (nv.8)
+024-063-008	Año del Dragón (nv.9)
+024-063-009	Año del Dragón (nvl. máx)
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -5332,3 +5365,10 @@
 034-007-003	Seno-Coseno Mío
 034-007-004	Valle Isósceles
 034-007-005	El Punto Más Lejano
+034-008		Jardín de Pensamientos Mustios
+034-008-000	Sofista Sin Educación
+034-008-001	Una Vida de Antítesis
+034-008-002	Bosque De Ironía
+034-008-003	Diálogo Al Azar
+034-008-004	Erial Difamatorio
+034-008-005	Adherencia a la Virtud
