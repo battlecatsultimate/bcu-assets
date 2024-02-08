@@ -36,6 +36,7 @@
 -1010	卓越精選	//Excellent Selection 468
 -1011	超國王祭	//Emperor Cat 562
 -1012	女王祭	//Empress Cat 602
+-1013	90M Download Anniversary Gacha
 -2000	公主踢騎士	//Princess Punt 176
 -2001	消滅都市	//Annihilation City 180
 -2002	梅露可物語	//Merc 185
@@ -833,3 +834,11 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 863	-107	731
 864	-2028	727
 865	-1003
+866	-1013
+867	-114	736
+868	-3	733
+869	-3	733
+870	-105	733
+871	-106	733
+872	-104	733
+873	-107	733

@@ -676,3 +676,7 @@
 675	SOL DAE ROKKER
 676	Dragon Doge
 677	Sage of Mind Soractes
+678	Killer Axe Cat Base
+679	Clever Doge
+680	Angel Megamiel
+681	Long Dojo Base

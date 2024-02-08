@@ -36,6 +36,7 @@
 -1010	Excellent Selection Gacha	//Excellent Selectoin 468
 -1011	Dynastyfest	//Emperor Cat 562
 -1012	Royalfest	//Empress Cat 602
+-1013	90M Download Anniversary Gacha
 -2000	Princess Punt Collab Gacha	//Princess Punt 176
 -2001	Annihilation City COllab Gacha	//Annihilation City 180
 -2002	Merc Storia Collab Gacha	//Merc 185
@@ -827,3 +828,11 @@ N65	Cats Eye Capsules
 863	-107	731
 864	-2028	727
 865	-1003
+866	-1013
+867	-114	736
+868	-3	733
+869	-3	733
+870	-105	733
+871	-106	733
+872	-104	733
+873	-107	733

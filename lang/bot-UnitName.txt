@@ -359,7 +359,7 @@
 358	Graveflower Verbena	Verbena the Bride	Opulent Verbena
 359	Bora	Bazibon	Bazibastra
 360	Mizli	Marinmizu	Mizuririn
-361	Aer	Erphuan	Aervanta
+361	Aer	Erphuan	Aervanta	Aervanty
 362	Saber	Saber CC	Saber Alter CC
 363	Rin Tohsaka	Rin Tohsaka CC
 364	Illyasviel	Illyasviel CC
@@ -731,3 +731,7 @@
 730	Ancient Egg: N204	Cinnabar Egg: N204	Lion Dance Cat
 731	Daybreaker Izanagi	Dawnbringer Izanagi	
 732	Izanagi Spirit
+733	Ironcaged Pegasa	Ironcaged Pegasa ν
+734	Pegasa Spirit
+735	Principal Cat	Second Life Cat
+736	White Star Ice Cat	Top Star Ice Cat
