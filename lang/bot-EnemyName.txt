@@ -614,7 +614,7 @@
 613	Heavenly Raja Kong
 614	Formicidaean Ariant
 615	Great Angel Chibinel
-616	Cat Mask Yulala
+616	Spiritual Yulala
 617	Osamu Mikumo
 618	Yuma Kuga
 619	Marmod (White)
@@ -672,7 +672,7 @@
 671	Doge God the Great
 672	11th Anniversary Cake
 673	11th Anniversary Scarecrow Base
-674	Spritual Uril
+674	Esoteric Uril
 675	SOL DAE ROKKER
 676	Dragon Doge
 677	Sage of Mind Soractes
