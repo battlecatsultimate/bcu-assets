@@ -224,6 +224,8 @@
 342	Bustin' Phantoms
 343	Violated Chivalry
 344	Anger Management
-345	Bring it On!
-346	Go to Hell!
-347	Hunting Club
+98	Bring it On!
+345	Go to Hell!
+346	Hunting Club
+347	Like the Wind
+99	Catcademy Anthem

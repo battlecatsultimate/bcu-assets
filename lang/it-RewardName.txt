@@ -189,6 +189,7 @@
 196|S196|I425	reti leggendarie
 197	1.000.000 XP
 199|S199|I427	Amul. leggendario
+200|S200|I428	Lettera d'amore
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -624,6 +625,7 @@
 15666	Gattorcista
 15670	Gatto cactus
 15671	Gatto lucciola corazzato
+15675	Envanz extradimensionale
 15676	Gatta con racchetta
 15677	Fungatto
 15686	Gatto Supercar

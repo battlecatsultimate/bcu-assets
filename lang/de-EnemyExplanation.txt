@@ -676,3 +676,7 @@
 675	<br><br><br>
 676	<br><br><br>
 677	Hochrangiger Weiser, der die Welt aus einer anderen Ebene<br>studiert. Hat einen Pakt mit der Menschheit geschlossen und<br>teilt seine Weisheit mit ihnen. Unstillbarer Durst nach<br>Wissen führte zu Schicksalstreffen mit den Katzen.
+678	<br><br><br>
+679	Hat nach Durchfallen bei der Abschlussprüfung<br>ein Weisheitsamulett in einem Comicheft gefunden.<br>Denkt jetzt über alles zu lange nach und wird bei jedem<br>Test versagen, weil die Zeit ausgeht.
+680	Hat das falsche Brillenrezept bekommen, ist gestolpert<br>und auf den Stein gefallen, der jetzt in seiner Stirn steckt.<br>Um durchs Himmelstor zu kommen, muss man ihn erst<br>in einem geistigen Gefecht besiegen.
+681	<br><br><br>

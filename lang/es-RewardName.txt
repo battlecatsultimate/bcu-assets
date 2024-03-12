@@ -189,6 +189,7 @@
 196|S196|I425	redes legendarias
 197	1 000 000 XP
 199|S199|I427	Amuleto legendario
+200|S200|I428	Carta de amor
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -623,6 +624,7 @@
 15666	Gato Exorcista
 15670	Gactus
 15671	Gato Luciérnaga Blindado
+15675	Gataque extradimensional
 15676	Gata Raqueta
 15677	Gato Hongo
 15686	Gato Supercoche

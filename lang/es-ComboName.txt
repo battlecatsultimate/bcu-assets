@@ -224,6 +224,8 @@
 342	Cazando fantasmas
 343	Caballerosidad vulnerada
 344	Gestión de la ira
-345	Bring it On!
-346	¡Vete al infierno!
-347	Club de caza
+98	Bring it On!
+345	¡Vete al infierno!
+346	Club de caza
+347	Como el viento
+99	Himno de la Gatacademia

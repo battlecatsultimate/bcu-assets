@@ -189,6 +189,7 @@
 196|S196|I425	Legend Nets
 197	1000000 XP
 199|S199|I427	Legendary Charm
+200|S200|I428	Love Letter
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -624,6 +625,7 @@
 15666	Exorcist Cat
 15670	Cat Cactus
 15671	Armored Firefly Cat
+15675	Extradimensional Envanz
 15676	Racquet Cat
 15677	Mushroom Cat
 15686	Supercar Cat

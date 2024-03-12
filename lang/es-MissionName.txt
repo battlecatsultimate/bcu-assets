@@ -782,4 +782,16 @@
 9436	Clear Princess Punt Sweets collab stages 50 times!
 62	Para completar esta misión, supera el nivel 3. de todas las Etapas de Leyenda Inquietante
 63	¡Supera las 60 fases de Matanza de Mastodontes! (Comprueba
+9440	Clear Hatsune Miku collab stages 10 times!
+9441	Clear Hatsune Miku collab stages 30 times!
+9442	Clear Hatsune Miku collab stages 50 times!
 9467	Supera el piso 50 de la Torre Celestial. (Este premio solo se puede recoger una vez)
+9471	【90 M DCS】¡Completa todas las misiones de evento. para ganar 1 fragmento de platino!
+9472	【90 M DCS】 Envía a Gamatoto a 1 excursiones exitosas. (Completa 1 expedición a cualquier zona)
+9473	【90 M DCS】 Envía a Gamatoto a 3 excursiones exitosas. (Completa 3 expediciones a cualquier zona)
+9474	【90 M DCS】 Envía a Gamatoto a 5 excursiones exitosas. (Completa 5 expediciones a cualquier zona)
+9475	【90 M DCS】Completa Regalo feliz
+9476	【90 M DCS】Completa Regalo feliz
+9477	【90 M DCS】Completa Regalo feliz
+9478	【90 M DCS】Supera 5 fases de The Battle Cats:
+9479	【90 M DCS】Supera 10 fases de The Battle Cats:

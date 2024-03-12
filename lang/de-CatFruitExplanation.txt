@@ -359,7 +359,7 @@
 358	Wahre-Form-Entwicklung erhöht Verteidi-<br>gung und Chance auf Haudrauf-Treffer!<br>
 359	Wahre-Form-Entwicklung erhöht Angriff<br>und Verteidigung!<br>
 360	Wahre-Form-Entwicklung erhöht Angriff<br>und Verteidigung!<br>
-361	Wahre-Form-Entwicklung erhöht Angriff<br>und Verteidigung!<br>
+361	Wahre-Form-Entwicklung erhöht Angriff<br>und Verteidigung!<br>	Wahre Form hat +Vert. und größere<br>Angriffsreichweite auf hohe Distanz!<br>Erhält zudem Rückstoß gg. Aliens!
 362	Wahre-Form-Entwicklung verstärkt Angriffe,<br>Verteidigung und Angriffsreichweite!<br>
 363	<br><br>
 364	<br><br>
@@ -672,7 +672,7 @@
 671	<br><br>
 672	<br><br>
 673	<br><br>
-674	<br><br>
+674	Wahre Form erhöht Angriff!<br>Erhält zudem robuste Verteidigung gg.<br>schwarze Feinde und Zombies!
 675	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
 676	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
 677	<br><br>
@@ -731,3 +731,7 @@
 730	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
 731	<br><br>
 732	<br><br>
+733	<br><br>
+734	<br><br>
+735	<br><br>
+736	<br><br>

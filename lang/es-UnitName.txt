@@ -359,7 +359,7 @@
 358	Verbena Ultratumba	Verbena Nupcial	Verbena Opulenta	
 359	Bora	Bazibon	Bazibastra	
 360	Mizli	Marinmizu	Mizuririn	
-361	Aer	Erphuan	Aervanta	
+361	Aer	Erphuan	Aervanta	Aervantex
 362	Saber	Saber CC	Saber Alter CC	
 363	Rin Tohsaka	Rin Tohsaka CC		
 364	Illyasviel	Illyasviel CC		
@@ -672,7 +672,7 @@
 671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)		
 672	Genma Saotome (Panda)	Genma Saotome		
 673	ネコチーター			
-674	Garrusel Brutal	Gataque Extraterrestre		
+674	Garrusel Brutal	Gataque Extraterrestre	Gataque extradimensional	
 675	Huevo antiguo N105	Huevo añil N105	Gata Raqueta	
 676	Huevo antiguo N106	Huevo ámbar N106	Gato Hongo	
 677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC		
@@ -720,7 +720,7 @@
 719	Tekachi	Tetsukachi		
 720	Huevo Antiguo N006	Huevo Demoniaco N006	Oso Caído Gatuno	
 721	High School Kingpin Riki	Dodgeball Riki		
-722	＠			
+722	Hatsune Miku XVI	Hatsune Miku XVI CC		
 723	Aset de la Madre de la Luz	Aset de Nefer		
 724	Huevo Antiguo N112	Huevo Místico N112	Vaina de huevo gatuno	
 725	Chica Ninja Tomoe	Chica Ninja Tomoe Glotona		
@@ -731,3 +731,7 @@
 730				
 731	Izanagi Alboreo	Izanagi Crepuscular		
 732				
+733	Pegasa	Pegasa v	Indiferente a los planes y quehaceres de los adultos,	
+734				
+735	Gato Director	Gato Cincuentón		
+736	Gato Rosa Invernal	Gato Floración Invernal		

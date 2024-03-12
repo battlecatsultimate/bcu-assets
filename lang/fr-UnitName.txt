@@ -359,7 +359,7 @@
 358	Verveine défunte	Verveine mariée	Verveine opulente	
 359	Bora	Bazibon	Bazibastra	
 360	Mizli	Marinmizu	Mizuririn	
-361	Aer	Erphuan	Aervanta	
+361	Aer	Erphuan	Aervanta	Aervantex
 362	Saber	Saber CC	Saber Alter CC	
 363	Rin Tohsaka	Rin Tohsaka CC		
 364	Illyasviel	Illyasviel CC		
@@ -672,7 +672,7 @@
 671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)		
 672	Genma Saotome (Panda)	Genma Saotome		
 673	ネコチーター			
-674	Puissant Charrousel	Soucoupe planante		
+674	Puissant Charrousel	Soucoupe planante	Soucoupe extradimensionnelle	
 675	Œuf ancien N105	Œuf bleu sarcelle N105	Chat raquette	
 676	Œuf ancien N106	Œuf ambré N106	Chapignon	
 677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC		
@@ -720,7 +720,7 @@
 719	Tekachi	Tetsukachi		
 720	Œuf ancien : N006	Œuf démoniaque : N006	Chat-Ours déchu	
 721	High School Kingpin Riki	Dodgeball Riki		
-722	＠			
+722	Hatsune Miku XVI	Hatsune Miku XVI CC		
 723	Aset Mère-Lumière	Aset Nefer		
 724	Œuf ancien N112	Œuf mystique N112	Nacelle-œuf féline	
 725	Tomoe kunoichi	Tomoe kunoichi gourmande		
@@ -731,3 +731,7 @@
 730				
 731	Izanagi du levant	Izanagi de l'aube		
 732				
+733	Pégasa	Pégasa ν	Guère intéressée par les machinations des adultes,	
+734				
+735	Chat proviseur	Chat désœuvré		
+736	Chat rose givrée	Chat fleur arctique		

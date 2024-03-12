@@ -359,7 +359,7 @@
 358	Grabesblume Verbena	Verbena die Braut	Opulente Verbena	
 359	Bora	Bazibon	Bazibastra	
 360	Mizli	Marinmizu	Mizuririn	
-361	Aer	Erphuan	Aervanta	
+361	Aer	Erphuan	Aervanta	Aervantex
 362	Saber	Saber CC	Saber Alter CC	
 363	Rin Tohsaka	Rin Tohsaka CC		
 364	Illyasviel	Illyasviel CC		
@@ -672,7 +672,7 @@
 671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)		
 672	Genma Saotome (Panda)	Genma Saotome		
 673	ネコチーター			
-674	Mächtiges Karussell	Außerirdischer Envanz		
+674	Mächtiges Karussell	Außerirdischer Envanz	Extradimensionaler Envanz	
 675	Uraltes Ei: N105	Petrol-Ei: N105	Racquetkatze	
 676	Uraltes Ei: N106	Bernstein-Ei: N106	Pilzkatze	
 677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC		
@@ -720,7 +720,7 @@
 719	Tekachi	Tetsukachi		
 720	Uraltes Ei: N006	Teufels-Ei: N006	Gefallene Bärenkatze	
 721	High School Kingpin Riki	Dodgeball Riki		
-722	＠			
+722	Hatsune Miku XVI	Hatsune Miku XVI CC		
 723	Lichtmutter Aset	Nefer Aset		
 724	Uraltes Ei: N112	Mystisches Ei: N112	Katzeneierkapsel	
 725	Ninjamädchen Tomoe	Gourmand-Ninjamädchen Tomoe		
@@ -731,3 +731,7 @@
 730				
 731	Tagbrecher Izanagi	Tagbringer Izanagi		
 732				
+733	Pegasa	Pegasa ν	Hat kein Interesse an Plänen und Komplotten der Erwachsenen.	
+734				
+735	Rektor Katze	Midlife-Crisis-Katze		
+736	Eisrosenkatze	Arktisblütenkatze		

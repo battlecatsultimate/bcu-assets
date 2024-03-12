@@ -787,4 +787,16 @@
 9436	Clear Princess Punt Sweets collab stages 50 times!
 62	Termine tous les niv. Légende mystérieuse. niv. 3 pour accomplir cette mission
 63	Termine les 60 niveaux Abattage de Béhémoths !
+9440	Clear Hatsune Miku collab stages 10 times!
+9441	Clear Hatsune Miku collab stages 30 times!
+9442	Clear Hatsune Miku collab stages 50 times!
 9467	Viens à bout du 50e étage de la Tour céleste. ※ Cette récompense ne s’obtient qu’une fois
+9471	[90 M de DL] Termine toutes les missions d’événement. pour gagner 1 éclat platine !
+9472	[90 M de DL] Réussis 1 expéditions avec Gamatoto !
+9473	[90 M de DL] Réussis 3 expéditions avec Gamatoto !
+9474	[90 M de DL] Réussis 5 expéditions avec Gamatoto !
+9475	[90 M] Termine 1 fois le Cadeau joyeux 90 M de DL !
+9476	[90 M] Termine 2 fois le Cadeau joyeux 90 M de DL !
+9477	[90 M] Termine 3 fois le Cadeau joyeux 90 M de DL !
+9478	[90 M] Termine 5 niveaux The Battle Cats !
+9479	[90 M] Termine 10 niveaux The Battle Cats !

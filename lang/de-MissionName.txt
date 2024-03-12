@@ -787,4 +787,16 @@
 9436	Clear Princess Punt Sweets collab stages 50 times!
 62	Schließe alle „Unh. Legenden“-Level der Stufe 3 ab,. um diese Mission abzuschließen
 63	Schließe alle 60 Behemothjagd-Level ab!
+9440	Clear Hatsune Miku collab stages 10 times!
+9441	Clear Hatsune Miku collab stages 30 times!
+9442	Clear Hatsune Miku collab stages 50 times!
 9467	Schließe die 50. Ebene des Himmlischen Turms ab. (Diese Belohnung kann nur einmal abgeholt werden.)
+9471	(90 Mio. DL) Schließe alle Eventmissionen ab. und verdiene 1 Platinsplitter!
+9472	(90 Mio. DL) Schicke Gamatoto auf 1 erfolgr. Expedition!
+9473	(90 Mio. DL) Schicke Gamatoto auf 3 erfolgr. Expeditionen!
+9474	(90 Mio. DL) Schicke Gamatoto auf 5 erfolgr. Expeditionen!
+9475	(90 Mio. DL) Schließe 1x Fröhl. Geschenk f. 90 Mio. DLs ab!
+9476	(90 Mio. DL) Schließe 2x Fröhl. Geschenk f. 90 Mio. DLs ab!
+9477	(90 Mio. DL) Schließe 3x Fröhl. Geschenk f. 90 Mio. DLs ab!
+9478	(90 Mio. DL) Schließe 5 Level von The Battle Cats ab
+9479	(90 Mio. DL) Schließe 10 Level von The Battle Cats ab

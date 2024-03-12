@@ -1584,6 +1584,13 @@
 001-366-000	Ave Chucho
 001-366-001	Jardín Chucho Hasta Los Topes
 001-366-002	Gatos Peleando Cálidamente
+001-367		Fiebre de las ofertas del Año Nuevo Lunar
+001-367-000	Festín Año Nuevo Lunar
+001-367-001	Ataque de DDoS
+001-367-002	Tamaño Agotado
+001-367-003	Portes Caros
+001-368		Celebración de los 90 M ¡Regalos en abundancia!
+001-368-000	¡Celebración de los 90 M!
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2167,6 +2174,14 @@
 002-208-001	Grow Up, Shinji
 002-209		Bye-bye, all of the Cats
 002-209-000	Finale
+002-210		Weekend Concert: Day 1
+002-210-000	Virtual Singer's Journey
+002-210-001	A Future Born Today
+002-210-002	Growing Creativity
+002-211		Weekend Concert: Day 2
+002-211-000	Endless Possibility
+002-211-001	Imagine With Me
+002-211-002	Dear Creators
 
 003			
 003-000		EoC Ch.1 Zombie
@@ -3372,6 +3387,8 @@
 011-022-000	Prueba del Fénix
 011-023		Arena of Honor
 011-023-000	Nueve de la suerte
+011-026		Arena of Honor
+011-026-000	Calle Artillería
 
 012			Challenge Mode
 012-000		Batalla de Desafío
@@ -4787,6 +4804,22 @@
 024-063-007	Año del Dragón (nv.8)
 024-063-008	Año del Dragón (nv.9)
 024-063-009	Año del Dragón (nvl. máx)
+024-064		Horda de Gatos
+024-064-000	Sed de Sangre (nvl. 1)
+024-064-001	Sed de Sangre (nvl. 2)
+024-064-002	Sed de Sangre (nvl. 3)
+024-064-003	Sed de Sangre (nvl. 4)
+024-064-004	Sed de Sangre (nvl. 5)
+024-064-005	Sed de Sangre (nvl. 6)
+024-064-006	Sed de Sangre (nvl. 7)
+024-064-007	Sed de Sangre (nvl. 8)
+024-064-008	Sed de Sangre (nvl. 9)
+024-064-009	Sed de Sangre (nvl. 10)
+024-064-010	Sed de Sangre (nvl. 11)
+024-064-011	Sed de Sangre (nvl. 12)
+024-064-012	Sed de Sangre (nvl. 13)
+024-064-013	Sed de Sangre (nvl. 14)
+024-064-014	Sed de Sangre (nvl. máx.)
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -5372,3 +5405,10 @@
 034-008-003	Diálogo Al Azar
 034-008-004	Erial Difamatorio
 034-008-005	Adherencia a la Virtud
+034-009		Senda Estratosférica
+034-009-000	Permiso para Aterrizar
+034-009-001	Pasos Grandes y Pequeños
+034-009-002	Jardín Hamburguesero
+034-009-003	Pequeña Entrada, Gran Campo
+034-009-004	Sueño Burbujeante
+034-009-005	Puerto de la Pradera

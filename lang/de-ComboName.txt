@@ -224,6 +224,8 @@
 342	Phantomjagd
 343	Verletzte Ritterlichkeit
 344	Wutbewältigung
-345	Bring it On!
-346	Fahr zur Hölle!
-347	Jagdklub
+98	Bring it On!
+345	Fahr zur Hölle!
+346	Jagdklub
+347	Wie der Wind
+99	Katzkademie-Hymne

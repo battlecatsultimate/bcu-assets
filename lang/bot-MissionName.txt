@@ -787,4 +787,16 @@
 9436	Clear Princess Punt Sweets collab stages 50 times!
 62	Clear all Level 3 Uncanny Legend stages. to complete this mission
 63	Clear all 60 Behemoth Culling stages!
+9440	Clear Hatsune Miku collab stages 10 times!
+9441	Clear Hatsune Miku collab stages 30 times!
+9442	Clear Hatsune Miku collab stages 50 times!
 9467	Defeat the 50th floor of the Infernal Tower. (This reward can only be claimed once.)
+9471	【90M DL】Clear all event missions. to earn 1 Platinum Shard!
+9472	【90M DL】Send Gamatoto on 1 successful expedition!
+9473	【90M DL】Send Gamatoto on 3 successful expeditions!
+9474	【90M DL】Send Gamatoto on 5 successful expeditions!
+9475	【90M DL】Clear 90M DL Celebration Happy Present 1 time!
+9476	【90M DL】Clear 90M DL Celebration Happy Present 2 times!
+9477	【90M DL】Clear 90M DL Celebration Happy Present 3 times!
+9478	【90M DL】Clear 5 The Battle Cats stages
+9479	【90M DL】Clear 10 The Battle Cats stages

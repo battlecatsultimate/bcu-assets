@@ -1588,6 +1588,13 @@
 001-366-000	Cane grandine
 001-366-001	Giardino pieno di cani
 001-366-002	Gatti che combattono calorosamente
+001-367		Offerta Capodanno lunare
+001-367-000	Capodanno lunare esplosivo
+001-367-001	Eliminazione DDoS
+001-367-002	Taglia esaurita
+001-367-003	Spese di spedizione costose
+001-368		Festeggiamenti 90M Regali a fiumi!
+001-368-000	90M Festeggiamo!
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2172,6 +2179,14 @@
 002-208-001	Grow Up, Shinji
 002-209		Bye-bye, all of the Cats
 002-209-000	Finale
+002-210		Weekend Concert: Day 1
+002-210-000	Virtual Singer's Journey
+002-210-001	A Future Born Today
+002-210-002	Growing Creativity
+002-211		Weekend Concert: Day 2
+002-211-000	Endless Possibility
+002-211-001	Imagine With Me
+002-211-002	Dear Creators
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -3377,6 +3392,8 @@
 011-022-000	Prova della fenice
 011-023		Arena of Honor
 011-023-000	La gioia dei 9 anni
+011-026		Arena of Honor
+011-026-000	Raduno dei ranger
 
 012			Challenge Mode
 012-000		Battaglia sfida
@@ -4750,6 +4767,22 @@
 024-063-007	Anno del drago Liv. 8
 024-063-008	Anno del drago Liv. 9
 024-063-009	Anno del drago Liv. MAX
+024-064		Orda di Gatti
+024-064-000	Sete di sangue Liv. 1
+024-064-001	Sete di sangue Liv. 2
+024-064-002	Sete di sangue Liv. 3
+024-064-003	Sete di sangue Liv. 4
+024-064-004	Sete di sangue Liv. 5
+024-064-005	Sete di sangue Liv. 6
+024-064-006	Sete di sangue Liv. 7
+024-064-007	Sete di sangue Liv. 8
+024-064-008	Sete di sangue Liv. 9
+024-064-009	Sete di sangue Liv. 10
+024-064-010	Sete di sangue Liv. 11
+024-064-011	Sete di sangue Liv. 12
+024-064-012	Sete di sangue Liv. 13
+024-064-013	Sete di sangue Liv. 14
+024-064-014	Sete di sangue Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -5335,3 +5368,10 @@
 034-008-003	Dialogo senza senso
 034-008-004	Distesa delle calunnie
 034-008-005	Aderenza alla virtù
+034-009		Percorso stratosferico
+034-009-000	Permesso di atterraggio
+034-009-001	Grandi e piccoli passi
+034-009-002	Giardino Burger
+034-009-003	Piccolo ingresso, grande campo
+034-009-004	Sogno effervescente
+034-009-005	Porto Prateria

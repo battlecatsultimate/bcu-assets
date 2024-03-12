@@ -359,7 +359,7 @@
 358	Verbena Tombale	Verbena la sposa	Verbena Opulenta	
 359	Bora	Bazibon	Bazibastra	
 360	Mizli	Marinmizu	Mizuririn	
-361	Aer	Erphuan	Aervanta	
+361	Aer	Erphuan	Aervanta	Aervantex
 362	Saber	Saber CC	Saber Alter CC	
 363	Rin Tohsaka	Rin Tohsaka CC		
 364	Illyasviel	Illyasviel CC		
@@ -672,7 +672,7 @@
 671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)		
 672	Genma Saotome (Panda)	Genma Saotome		
 673	ネコチーター			
-674	Muggiostra possente	Envanz extraterrestre		
+674	Muggiostra possente	Envanz extraterrestre	Envanz extradimensionale	
 675	Uovo antico N105	Uovo verde acqua N105	Gatta con racchetta	
 676	Uovo antico N106	Uovo ambrato N106	Fungatto	
 677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC		
@@ -720,7 +720,7 @@
 719	Tekachi	Tetsukachi		
 720	Uovo antico N006	Uovo diabolico N006	Gatto Orso perduto	
 721	High School Kingpin Riki	Dodgeball Riki		
-722	＠			
+722	Hatsune Miku XVI	Hatsune Miku XVI CC		
 723	Madreluce Aset	Nefer Aset		
 724	Uovo antico N112	Uovo mistico N112	Gatto capsula uovo	
 725	Tomoe ragazza ninja	Tomoe ragazza ninja buongustaia		
@@ -731,3 +731,7 @@
 730				
 731	Portatore di luce Izanagi	Portatore di oscurità Izanagi		
 732				
+733	Pegasa	Pegasa v	Disinteressata alle trame e ai piani degli adulti, compie	
+734				
+735	Preside Gatto	Gatto Crisi di mezza età		
+736	Gatto rosa di ghiaccio	Gatto fioritura artica		

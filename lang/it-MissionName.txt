@@ -787,4 +787,16 @@
 9436	Clear Princess Punt Sweets collab stages 50 times!
 62	Supera tutti i Livelli Leggende misteriose di livello 3. per completare questa missione
 63	Supera tutti i 60 liv. "Selezione Behemoth"! (Controlla la validità nei dettagli: )
+9440	Clear Hatsune Miku collab stages 10 times!
+9441	Clear Hatsune Miku collab stages 30 times!
+9442	Clear Hatsune Miku collab stages 50 times!
 9467	Supera il 50° piano della Torre celestiale. (Questa ricompensa può essere riscattata una volta sola.)
+9471	【90M DL】Supera tutte le missioni evento. e ottieni 1 pezzo di platino!
+9472	【90M DL】Manda Gamatoto in 1 spedizioni riuscite! (Completa 1 spedizione in un'area Gamatoto)
+9473	【90M DL】Manda Gamatoto in 3 spedizioni riuscite! . (Completa 3 spedizioni in un'area Gamatoto)
+9474	【90M DL】Manda Gamatoto in 5 spedizioni riuscite! (Completa 5 spedizioni in un'area Gamatoto)
+9475	【90M DL】Supera Buon regalo di Festeggiamenti 90M 1 volte! ()
+9476	【90M DL】Supera Buon regalo di Festeggiamenti 90M 2 volte! ()
+9477	【90M DL】Supera Buon regalo di Festeggiamenti 90M 3 volte! ()
+9478	【90M DL】Supera 5 livelli di "The Battle Cats". Supera qualunque livello di The Battle Cats
+9479	【90M DL】Supera 10 livelli di "The Battle Cats". Supera qualunque livello di The Battle Cats

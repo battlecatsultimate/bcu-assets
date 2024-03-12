@@ -359,7 +359,7 @@
 358	Graveflower Verbena	Verbena the Bride	Opulent Verbena 	
 359	Bora	Bazibon	Bazibastra	
 360	Mizli	Marinmizu	Mizuririn	
-361	Aer	Erphuan	Aervanta	
+361	Aer	Erphuan	Aervanta	Aervantex
 362	Saber	Saber CC	Saber Alter CC	
 363	Rin Tohsaka	Rin Tohsaka CC		
 364	Illyasviel	Illyasviel CC		
@@ -672,7 +672,7 @@
 671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)		
 672	Genma Saotome (Panda)	Genma Saotome		
 673	ネコチーター			
-674	Mighty Carrowsell	Extraterrestrial Envanz		
+674	Mighty Carrowsell	Extraterrestrial Envanz	Extradimensional Envanz	
 675	Ancient Egg: N105	Teal Egg: N105	Racquet Cat	
 676	Ancient Egg: N106	Amber Egg: N106	Mushroom Cat	
 677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC		
@@ -720,7 +720,7 @@
 719	Tekachi	Tetsukachi		
 720	Ancient Egg: N006	Devil Egg: N006	Fallen Bear Cat	
 721	High School Kingpin Riki	Dodgeball Riki		
-722	＠			
+722	Hatsune Miku XVI	Hatsune Miku XVI CC		
 723	Lightmother Aset	Nefer Aset		
 724	Ancient Egg: N112	Mystic Egg: N112	Cat Egg Pod	
 725	Ninja Girl Tomoe	Gourmand Ninja Girl Tomoe		
@@ -731,3 +731,7 @@
 730				
 731	Daybreaker Izanagi	Dawnbringer Izanagi		
 732				
+733	Pegasa	Pegasa ν	Uninterested in the plots and schemes of adults,	
+734				
+735	Principal Cat	Midlife Crisis Cat		
+736	Frozen Rose Cat	Arctic Bloom Cat		

@@ -224,6 +224,8 @@
 342	Attrape-revenants
 343	Chevalerie bafouée
 344	Gestion de la colère
-345	Bring it On!
-346	Va en enfer !
-347	Club de chasse
+98	Bring it On!
+345	Va en enfer !
+346	Club de chasse
+347	Comme le vent
+99	Hymne de la Chacadémie

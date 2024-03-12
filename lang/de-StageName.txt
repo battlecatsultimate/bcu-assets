@@ -1592,6 +1592,13 @@
 001-366-000	Hagelhund
 001-366-001	Garten voller Hunde
 001-366-002	Warme Katzenkämpfe
+001-367		Rangelei zum Mond-Neujahr
+001-367-000	Mondneujahr-Kantersieg
+001-367-001	DDoS-Attacke
+001-367-002	Ausverkaufte Größe
+001-367-003	Teures Porto
+001-368		Wir feiern 90 Mio. Geschenke für alle!
+001-368-000	90 Mio.- Feier!
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2175,6 +2182,14 @@
 002-208-001	Grow Up, Shinji
 002-209		Bye-bye, all of the Cats
 002-209-000	Finale
+002-210		Weekend Concert: Day 1
+002-210-000	Virtual Singer's Journey
+002-210-001	A Future Born Today
+002-210-002	Growing Creativity
+002-211		Weekend Concert: Day 2
+002-211-000	Endless Possibility
+002-211-001	Imagine With Me
+002-211-002	Dear Creators
 
 003			
 003-000		EoC Ch.1 Zombie
@@ -3380,6 +3395,8 @@
 011-022-000	Phönixprüfung
 011-023		Arena of Honor
 011-023-000	Freuen mit 9
+011-026		Arena of Honor
+011-026-000	Artillerie-Allee
 
 012			Challenge Mode
 012-000		Herausforderungskampf
@@ -4752,6 +4769,22 @@
 024-063-007	Jahr des Drachen, St. 8
 024-063-008	Jahr des Drachen, St. 9
 024-063-009	Jahr des Drachen, St. MAX
+024-064		Katzenhorde
+024-064-000	Blutdurstig St. 1
+024-064-001	Blutdurstig St. 2
+024-064-002	Blutdurstig St. 3
+024-064-003	Blutdurstig St. 4
+024-064-004	Blutdurstig St. 5
+024-064-005	Blutdurstig St. 6
+024-064-006	Blutdurstig St. 7
+024-064-007	Blutdurstig St. 8
+024-064-008	Blutdurstig St. 9
+024-064-009	Blutdurstig St. 10
+024-064-010	Blutdurstig St. 11
+024-064-011	Blutdurstig St. 12
+024-064-012	Blutdurstig St. 13
+024-064-013	Blutdurstig St. 14
+024-064-014	Blutdurstig St. MAX
 
 025			Enigma Stages
 025-000		Atium-Felder
@@ -5308,3 +5341,10 @@
 034-008-003	Zielloser Dialog
 034-008-004	Verleumderisches Ödland
 034-008-005	Festhalten an der Tugend
+034-009		Stratosphärenweg
+034-009-000	Landeerlaubnis
+034-009-001	Große und kleine Schritte
+034-009-002	Burger-Garten
+034-009-003	Kleiner Zulauf, großes Feld
+034-009-004	Bläschentraum
+034-009-005	Präriehafen
