@@ -668,8 +668,8 @@
 667	Wicked King Dragon
 668	Wicked Jamiera Cat
 669	Pot Base
-670	Doge God
-671	Doge God the Great
+670	Doge Lord
+671	Doge Lord the Great
 672	11th Anniversary Cake
 673	11th Anniversary Scarecrow Base
 674	Esoteric Uril
@@ -680,3 +680,9 @@
 679	Dogenstein
 680	Tarsiriel
 681	Long Dojo Base
+682	Dober Dark
+683	Large Earthenware Haniwan
+684	Mysterious Disaster
+685	Manipulated Doge Lord
+686	
+687	
