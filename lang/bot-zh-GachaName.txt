@@ -56,6 +56,7 @@
 -2026	福音戰士 2nd
 -2027	熱血運動會(白組)
 -2028	越南大戰系列
+-2029	神魔之塔
 E13	聖魔大戰	//Bikkuri
 E14	貓咪的暑假	//Summer Break Cats
 E17	春節活動轉蛋	//Lunar New Year (JP)
@@ -847,3 +848,5 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 876	-112	738
 877	-106	738
 878	-107	738
+879	-2029
+880	-114	736
