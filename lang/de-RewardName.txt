@@ -309,6 +309,7 @@
 1174	Godzilla Cat
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
+1183	Madhead
 10010	Muskelprotz-Katze
 10011	Tänzerkatze
 10012	Hyper-Mr.
@@ -841,3 +842,28 @@
 30177	„Stark“-Effekt + B: Aku
 30178	„Stark“-Effekt + A: Aku
 30179	„Stark“-Effekt + S: Aku
+30180	Angriff + D: 
+30181	Angriff + C: 
+30182	Angriff + B: 
+30183	Angriff + A: 
+30184	Angriff + S: 
+30185	Verteidigung + D: 
+30186	Verteidigung + C: 
+30187	Verteidigung + B: 
+30188	Verteidigung + A: 
+30189	Verteidigung + S: 
+30190	"Stark"-Effekt + D: 
+30191	"Stark"-Effekt + C: 
+30192	"Stark"-Effekt + B: 
+30193	"Stark"-Effekt + A: 
+30194	"Stark"-Effekt + S: 
+30195	Heftiger Schaden + D: 
+30196	Heftiger Schaden + C: 
+30197	Heftiger Schaden + B: 
+30198	Heftiger Schaden + A: 
+30199	Heftiger Schaden + S: 
+30200	„Stark“-Effekt + D: 
+30201	„Stark“-Effekt + C: 
+30202	„Stark“-Effekt + B: 
+30203	„Stark“-Effekt + A: 
+30204	„Stark“-Effekt + S: 

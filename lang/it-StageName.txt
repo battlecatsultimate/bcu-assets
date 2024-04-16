@@ -1595,6 +1595,8 @@
 001-367-003	Spese di spedizione costose
 001-368		Festeggiamenti 90M Regali a fiumi!
 001-368-000	90M Festeggiamo!
+001-371		Pack misterioso
+001-371-000	Mittente anonimo
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2187,6 +2189,18 @@
 002-211-000	Endless Possibility
 002-211-001	Imagine With Me
 002-211-002	Dear Creators
+002-214		Era of Enoch
+002-214-000	Frozen Glacier
+002-214-001	Blazing Wastes
+002-214-002	Sacred Wood
+002-214-003	Shining City
+002-214-004	Midnight Abyss
+002-215		Battle with Madhead!
+002-215-000	Power-Up Material Clash
+002-215-001	Complete Power-Up
+002-215-002	Super Power-Up
+002-215-003	Perfect Power-Up
+002-215-004	Miracle Power-Up
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -3150,6 +3164,10 @@
 004-062-000	Staffetta 400m: Scatto finale
 004-062-001	Staffetta 800m: Scatto finale
 004-062-002	Staffetta 1600m: Scatto finale
+004-064		Gigahaniwan colpisce!
+004-064-000	Culla selvaggia (Letale)
+004-064-001	Cima selvaggia (Spietato)
+004-064-002	Confine selvaggio (Spietato)
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -4783,6 +4801,27 @@
 024-064-012	Sete di sangue Liv. 13
 024-064-013	Sete di sangue Liv. 14
 024-064-014	Sete di sangue Liv. MAX
+024-065		Gigahaniwan colpisce!
+024-065-000	Scavo Liv. 1
+024-065-001	Scavo Liv. 2
+024-065-002	Scavo Liv. 3
+024-065-003	Scavo Liv. 4
+024-065-004	Scavo Liv. 5
+024-065-005	Scavo Liv. 6
+024-065-006	Scavo Liv. 7
+024-065-007	Scavo Liv. 8
+024-065-008	Scavo Liv. 9
+024-065-009	Scavo Liv. 10
+024-065-010	Scavo Liv. 11
+024-065-011	Scavo Liv. 12
+024-065-012	Scavo Liv. 13
+024-065-013	Scavo Liv. 14
+024-065-014	Scavo Liv. 15
+024-065-015	Scavo Liv. 16
+024-065-016	Scavo Liv. 17
+024-065-017	Scavo Liv. 18
+024-065-018	Scavo Liv. 19
+024-065-019	Scavo Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -4895,6 +4934,12 @@
 025-066-002	Foresta delle pietre rosse IV
 025-066-003	Deserto delle pietre blu IV
 025-066-004	Vulcano delle pietre gialle IV
+025-067		Culla antica
+025-067-000	Santuario della culla (Letale)
+025-068		Cima antica
+025-068-000	Santuario della cima (Spietato)
+025-069		Confine antico
+025-069-000	Santuario di confine (Spietato)
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -5127,6 +5172,17 @@
 027-014-017	Grail War: Day 18
 027-014-018	Grail War: Day 19
 027-014-019	Grail War: Final Day
+027-016		Ascend the Tower of Saviors
+027-016-000	Floor 1
+027-016-001	Floor 2
+027-016-002	Floor 3
+027-016-003	Floor 4
+027-016-004	Floor 5
+027-016-005	Floor 6
+027-016-006	Floor 7
+027-016-007	Floor 8
+027-016-008	Floor 9
+027-016-009	Floor 10
 
 031			Behemoth Culling Stages
 031-000		Foresta segreta di Gapra
@@ -5375,3 +5431,10 @@
 034-009-003	Piccolo ingresso, grande campo
 034-009-004	Sogno effervescente
 034-009-005	Porto Prateria
+034-010		Valle Konjac
+034-010-000	Strada serpeggiante
+034-010-001	Foto di un secondo
+034-010-002	Metaverso metallico
+034-010-003	Mercante di ananas
+034-010-004	Grattaterra
+034-010-005	Sialia fantasma

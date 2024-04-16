@@ -136,7 +136,7 @@
 135	The Grateful Crane	Super Galaxy Cosmo	Ultima Galaxy Cosmo	
 136	Momotaro	The Peach Angels	The Peach Devils	
 137	Kasa Jizo	Jizo's Moving Castle	Jizo's Mega-Castle	
-138	Princess Kaguya	The Death Moon	The Chaos Moon	
+138	Princess Kaguya	The Death Moon	The Chaos Moon	Ultra Kaguya
 139				
 140	Squish Ball Cat	Muscleman Cat		
 141	God	Secret God		
@@ -735,3 +735,12 @@
 734				
 735	Principal Cat	Midlife Crisis Cat		
 736	Frozen Rose Cat	Arctic Bloom Cat		
+737	Floral Kalisa	Floral Kalisa, type X		
+738	Izanami of Dusk	Izanami of Eventide		
+739				
+740	Trash Cat	Mimic Cat		
+741	Voluptuous Peony - Daji	Daji & Cat		
+742	Mollyanna Cat	Mesmerizing Tune - Mollyanna		
+743	Madhead	Madhead Cat		
+744	Felix the Cat Duke Cat	Mercenary Leader Felix Cat		
+745	Dotty Cat	Birthday Dotty Cat		

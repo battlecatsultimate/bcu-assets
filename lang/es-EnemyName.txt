@@ -60,12 +60,12 @@
 059	Señor Foca Metálica
 060	
 061	
-062	
-063	
+062	Jefe Ping
+063	Emperador Oscuro Noel
 064	Ciclón Rojo
-065	
-066	
-067	
+065	Leo Hipo
+066	Perezoso de la Suerte
+067	Osos Temerosos
 068	
 069	Ciclón Blanco
 070	Ciclón Negro
@@ -73,43 +73,43 @@
 072	
 073	
 074	
-075	
-076	
-077	
-078	
-079	
-080	
-081	
-082	
-083	
-084	
-085	
-086	
-087	
-088	
-089	
-090	
-091	
-092	
-093	
-094	
-095	
-096	
-097	
-098	
-099	
-100	
-101	
-102	
-103	
-104	
-105	
-106	
-107	
-108	
-109	
-110	
-111	
+075	Gato Demente
+076	Gato Defensor Demente
+077	Gato Hachero Demente
+078	Gatilargo Demente
+079	Gato Lechero Demente
+080	Gato Pájaro Demente
+081	Piscigato Demente
+082	Gato Lagarto Demente
+083	Gato Titán Demente
+084	Profesor H.
+085	Perro Samurái
+086	Megagato
+087	Novio Gori
+088	Celesse
+089	Nono
+090	Olga
+091	Norn
+092	Yoichi
+093	Serum
+094	Fuu
+095	Aura
+096	Rei
+097	Wyvern
+098	Healer
+099	Celebriche Veraniego
+100	Osokini
+101	Señor Enma
+102	Careto Veloz
+103	Chucho Fantasma
+104	Serpi Fantasma
+105	Bee-Bee Fantasma
+106	Pirotécnicos (Alto Rendimiento)
+107	Pirotécnicos (Bajo Rendimiento)
+108	Oso Todopoderoso
+109	Ping Ermitaño
+110	Maestro Salchi Cha
+111	Cerdídolo
 112	Ciclón Divino
 113	Hipo Angelical
 114	Gabriel
@@ -124,21 +124,21 @@
 123	Paloma Pacifista
 124	Nutri Negro
 125	Pegaso Angelical
-126	
-127	
-128	
-129	
-130	
-131	
-132	
-133	
-134	
-135	
-136	
-137	
-138	
-139	
-140	
+126	Chucho del Amanecer
+127	Gato Cachas
+128	Gato Bailarín
+129	Hiper Sr.
+130	Bondage Definitivo
+131	Eladio Oscuro
+132	Gato de Asalto
+133	Gatopiruleta
+134	Gato Monociclo
+135	Gato Ninja Volador
+136	Esquelegato
+137	Gato Compotas
+138	Gato Bola de Arroz
+139	Gato Mariachi
+140	Gata con Taparrabos
 141	
 142	
 143	
@@ -148,23 +148,23 @@
 147	Chucho Metálico
 148	Mininyandam
 149	L. Fante Negro
-150	
-151	
-152	
-153	
-154	
-155	
-156	
+150	Young Man Mola
+151	Mola King
+152	Ayumi Manbosaki
+153	Crab
+154	Sardine
+155	Squid
+156	Marching Kory
 157	
 158	
 159	
 160	Pollito Ángel
 161	
 162	
-163	
-164	
-165	
-166	
+163	Hearscht
+164	Cornelia
+165	Alois
+166	Healer Cat
 167	Chucho Alien
 168	Kodri Alien
 169	Hipo Alien
@@ -195,9 +195,9 @@
 194	
 195	
 196	
-197	
-198	
-199	
+197	Chucho Calabaza
+198	Conde Lechuzo
+199	Murciélago de la Paz
 200	
 201	
 202	
@@ -211,28 +211,28 @@
 210	Perezoso Viejuno
 211	Bun Bun Cuatrojos
 212	Gato Bégimo Alien
-213	
-214	
-215	
-216	
-217	
-218	
-219	
-220	
-221	
-222	
-223	
-224	
-225	
-226	
-227	
-228	
-229	
-230	
-231	
+213	Perrudolf
+214	Castle Guard
+215	Castle Horseman
+216	Ashura
+217	Battle Balloon
+218	Dragon Rider
+219	Pretty Cat
+220	Cyclops
+221	Golem
+222	Wise Swordsman
+223	Black Thunder Rider
+224	Kabuki Ashura
+225	Battle UFO
+226	Flame Dragon Rider
+227	Cyber Pretty Cat
+228	4D Cyclops
+229	Volcano Golem
+230	Gato Prisionero
+231	Caballeros Compañeros
 232	Clionel Ángel Cruel
-233	
-234	
+233	Miauladín
+234	Gata Luchadora
 235	Sr. Topo
 236	Ciclón Perfecto
 237	
@@ -240,35 +240,35 @@
 239	
 240	
 241	
-242	
-243	
-244	
-245	
-246	
-247	
-248	
-249	
-250	
-251	
-252	
-253	
+242	Gato Crestado Maníaco
+243	Gato Borrador Maníaco
+244	Gato Oscuro Maníaco
+245	Gato Piernacas Maníaco
+246	Gato León Maníaco
+247	Gato Volador Maníaco
+248	Gato Isleño Maníaco
+249	Gato Dragón Rey Maníaco
+250	Miautante Maníaco
+251	Gato Koi Estandarte
+252	Maruja la Sabana
+253	Gata de Atención al Cliente
 254	Sr. Ángel
 255	Tu Can Can
 256	Caballito del Mar Negro
 257	Rey Guau
 258	Caperucita Espía
 259	
-260	
+260	Gato Cometa
 261	Don Javier Li
-262	
-263	
+262	Chucho del Ritual de los Tambores
+263	Nutria Festiva
 264	
-265	
+265	Garra de Hierro X
 266	Henry
 267	Careto con Careta
 268	
 269	
-270	
+270	Gatos Violentos
 271	Abeja Reina
 272	Minibunbun
 273	
@@ -277,10 +277,10 @@
 276	
 277	
 278	
-279	
+279	Gato Ritual
 280	Javi Li Rebelde
-281	
-282	
+281	Señora Cartelita Festiva
+282	El Vendedor
 283	
 284	Chucho Z.
 285	Zerpi
@@ -293,8 +293,8 @@
 292	Kodrizzz
 293	Zeñor Lápido
 294	Ziclón
-295	
-296	
+295	Gato Pastel Navideño
+296	Megagato Especial
 297	
 298	
 299	
@@ -304,12 +304,12 @@
 303	Zeñora Lápida
 304	Pérez Ozo
 305	
-306	
-307	
-308	
+306	Le Mamuto
+307	Chucho Gélido
+308	Bola de Nieve
 309	Chucho Féretro
 310	Camelle Casiviva
-311	
+311	Gato Asesino
 312	
 313	
 314	
@@ -320,44 +320,44 @@
 319	
 320	
 321	
-322	
-323	
-324	
-325	
-326	
-327	
-328	
-329	
-330	
-331	
-332	
+322	Minigato Crestado
+323	Minigato Borrador
+324	Minigato Oscuro
+325	Minigato Piernacas
+326	Minigatoleón
+327	Minigato Volador
+328	Minigato Isleño
+329	Minigato Dragón Rey
+330	Minimiautante
+331	Gansón de Pascua
+332	Lali Ebre de Pascua
 333	
 334	
 335	
-336	
-337	
-338	
+336	Chucho Dorado
+337	Hipo Dorado
+338	A. Vestruz de Oro Puro
 339	
 340	Cala María
-341	
-342	
-343	
-344	
+341	Babosa Roja
+342	Babosa Negra
+343	Babosa Angelical
+344	Cat Kart P
 345	
-346	
-347	
-348	
-349	
-350	
+346	Merc & Cat
+347	Titi Cat
+348	Orthos
+349	Michelia
+350	Todomeki
 351	
 352	
 353	
 354	Gato Ermitaño
 355	Mar Rana
-356	
-357	
-358	
-359	
+356	Gary Gori
+357	Gato Comida para Llevar
+358	Serpi Metálica
+359	PÉREZ OSO METÁLICO
 360	Chucho Alien de Élite
 361	Ping Pong Estrella
 362	General Gori
@@ -387,16 +387,16 @@
 386	
 387	Caballito del Mar Rojo
 388	Ultraborrego
-389	
-390	
+389	Cerdi Victorioso
+390	Bang Bang
 391	
 392	
 393	
 394	
 395	
-396	
-397	
-398	
+396	Moneko Demente
+397	Moneko Corrupta
+398	Pandilla Luminosa
 399	
 400	
 401	
@@ -409,45 +409,45 @@
 408	
 409	
 410	
-411	
+411	Goriliano
 412	Ardi Reliquio
 413	Ceronte Arcano
 414	Alli Lop
 415	
-416	
+416	Selena
 417	Delfi Nal
 418	Rano
 419	Misidiós
 420	Loris
-421	
-422	
+421	divino Le'saint
+422	Maloso Bermejo
 423	K. Reto
 424	A. B. Struz
-425	
-426	
+425	Velocista Viviente
+426	Director Foca
 427	Oso Cadaveroso
 428	Javi Malacara
 429	
-430	
+430	Satán Noel
 431	Bakoo
 432	
 433	
-434	
+434	Hermana Leo
 435	
 436	
-437	
+437	Perrito de la Suerte
 438	Ciclón Primigenio
-439	
-440	
+439	Mini Javi Li
+440	Vuelven los Osos
 441	
-442	
+442	Srta. Madonna
 443	Mesocosmociclón
 444	Hermanos Angui
 445	Ajoloti
 446	Gigadiós Jefe Final
 447	Filiembustero Espacial
 448	
-449	
+449	Karnerotrón 2.0
 450	Chuchomaru
 451	
 452	
@@ -455,7 +455,7 @@
 454	
 455	
 456	
-457	
+457	Gato Gominola
 458	
 459	
 460	
@@ -476,7 +476,7 @@
 475	
 476	
 477	Sr. Globi
-478	
+478	Mini Tartachucho
 479	Cometa Globo
 480	
 481	
@@ -537,7 +537,7 @@
 536	
 537	
 538	Javi Li Joven
-539	
+539	Chucho de Chocolate
 540	
 541	Raynardo
 542	
@@ -546,7 +546,7 @@
 545	
 546	
 547	Cabaleón de Mar
-548	
+548	Gato Barquillo XL
 549	Gloria Furiosa
 550	
 551	Llama Doron Viejuna
@@ -559,9 +559,9 @@
 558	Oso Caído
 559	Careto Maligno
 560	Ciclón Aku
-561	
-562	
-563	
+561	Gato Maligno
+562	Gato Tanque Maligno
+563	Gato Hachero Maligno
 564	
 565	
 566	
@@ -574,20 +574,20 @@
 573	Princesa Poseída
 574	
 575	
-576	
-577	
-578	
+576	Pelota Blanca Gigante
+577	Pelota Roja Gigante
+578	Pelota de Acero Gigante
 579	
-580	
-581	
-582	
+580	Viento Blanco
+581	Viento Rojo
+582	Viento Negro
 583	Medu-san
 584	Diablesita
 585	Satankamón VIII
 586	Mac. Reno Nocturno
 587	Caballito del Mar Azul
 588	Kory Letal
-589	
+589	Gato Gran Maestro Disfrazado
 590	
 591	
 592	EnerG Rojo
@@ -596,7 +596,7 @@
 595	
 596	
 597	
-598	
+598	Petardo
 599	Bestia Naala Definitiva
 600	Zapi B. Ara
 601	
@@ -614,7 +614,7 @@
 613	Bestia Angelical Rajakong
 614	Hormiga Ariant
 615	Gran Ángel Chibinel
-616	
+616	Yulala Espiritual
 617	
 618	
 619	
@@ -631,9 +631,9 @@
 630	Metafiliembustero
 631	
 632	
-633	
+633	Gato Defensor Asesino
 634	Vermilinguo Maestro
-635	
+635	Gato Huevo de Pascua
 636	Esposa Demoníaca
 637	Augurios
 638	Miniciclón Blanco
@@ -658,21 +658,21 @@
 657	
 658	Miniciclón angelical
 659	Ensanglion la Calamidad
-660	
-661	
-662	
-663	
-664	
-665	
-666	
-667	
-668	
+660	Gato Crestado Malvado
+661	Gato Borrador Malvado
+662	Gato Oscuro Malvado
+663	Gato Piernacas Malvado
+664	Gato León Malvado
+665	Gato Volador Malvado
+666	Gato Isleño Malvado
+667	Gato Dragón Rey Malvado
+668	Miautante Malvado
 669	
 670	
 671	
 672	
 673	
-674	
+674	Uril Esotérico
 675	
 676	
 677	Sórcates Mente Brillante
@@ -680,3 +680,10 @@
 679	Canestein
 680	Tarseriel
 681	
+682	Dóber Malvado
+683	Gigahaniwan
+684	
+685	
+686	Voluptuous Peony - Daji
+687	Madhead
+688	

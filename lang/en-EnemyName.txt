@@ -53,7 +53,7 @@
 052	Shadow Boxer K
 053	Director Kurosawah
 054	Super Metal Hippoe
-055	Type 10
+055	
 056	Metal One Horn
 057	Teacher Cybear
 058	CyberFace
@@ -65,14 +65,14 @@
 064	Red Cyclone
 065	Lione Hippoe
 066	Lucky Sloth
-067	Audience Bears
-068	Monkey King
+067	Bears Be Bare
+068	
 069	White Cyclone
 070	Black Cyclone
 071	Metal Cyclone
-072	Nimue
-073	Neutralization Type Nimue
-074	SSS Monkey King
+072	
+073	
+074	
 075	Crazed Cat
 076	Crazed Tank Cat
 077	Crazed Axe Cat
@@ -82,7 +82,7 @@
 081	Crazed Fish Cat
 082	Crazed Lizard Cat
 083	Crazed Titan Cat
-084	Teacher A.
+084	Teacher A
 085	Samurai Doggy
 086	Mega Cat
 087	Gory Groom
@@ -100,12 +100,12 @@
 099	Sunny Celeboodle
 100	Bearkini
 101	Lord Enma
-102	Leggsy
-103	Ecto Doge
-104	Ecto Snache
-105	Ecto Baa Baa
-106	Firework Guys
-107	Firework Guys
+102	Dashing Face
+103	Ghost Doge
+104	Ghost Snache
+105	Ghost Baa Baa
+106	Fireworks Guys (High-Yield)
+107	Fireworks Guys (Low-Yield)
 108	Mighty Gui Zuli
 109	Hermit Peng
 110	Master Da Xun
@@ -154,13 +154,13 @@
 153	Crab
 154	Sardine
 155	Squid
-156	Martin
+156	Marching Kory
 157	
-158	Takuya
-159	Yuki
+158	
+159	
 160	Chickful A
-161	Mob Cat
-162	Yakuza Vampire
+161	
+162	
 163	Hearscht
 164	Cornelia
 165	Alois
@@ -187,17 +187,17 @@
 186	
 187	
 188	
-189	MARS PEOPLE
-190	DONALD MORDEN
-191	ALLEN O'NEIL
-192	MARCO
-193	SV-001
-194	HUGE HERMIT
-195	JUPITER KING
-196	HI-DO
-197	Pumpdoge
-198	Drac-owl-la
-199	Sa-bat
+189	
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	Pumpkin Doge
+198	Count Owlbrow
+199	Vlad de Sable
 200	
 201	
 202	
@@ -211,23 +211,23 @@
 210	Elder Sloth
 211	Bun Bun Symbiote
 212	Raging Bahamut Cat
-213	Blitzen
-214	
-215	
-216	
-217	
-218	
-219	
-220	
-221	
-222	
-223	
-224	
-225	
-226	
-227	
-228	
-229	
+213	Christmas D.
+214	Castle Guard
+215	Castle Horseman
+216	Ashura
+217	Battle Balloon
+218	Dragon Rider
+219	Pretty Cat
+220	Cyclops
+221	Golem
+222	Wise Swordsman
+223	Black Thunder Rider
+224	Kabuki Ashura
+225	Battle UFO
+226	Flame Dragon Rider
+227	Cyber Pretty Cat
+228	4D Cyclops
+229	Volcano Golem
 230	Prisoner Cat
 231	Gentleman Bros.
 232	Cruel Angel Clionel
@@ -257,12 +257,12 @@
 256	Tackey
 257	King Wahwah
 258	Codename "Red Riding"
-259	Takuya & Lovely Yuki
+259	
 260	Kite Cat
 261	Boraphim
-262	Drummer Doge
-263	Carny Otta
-264	Funghi
+262	Ritual Drum Doge
+263	Festive Otter
+264	
 265	Iron Claw X
 266	Henry
 267	Hannya
@@ -271,16 +271,16 @@
 270	Rampage Cats
 271	Queen B
 272	Li'l Bun Bun
-273	Gertrud
-274	Charlotte
-275	Charlotte
-276	Kirsten
-277	Walpurgisnacht
-278	Kyubey
+273	
+274	
+275	
+276	
+277	
+278	
 279	Ritual Cat
 280	Razorback
-281	
-282	Chicka Fry
+281	Festival Sign Girl
+282	Vendor El
 283	
 284	Zoge
 285	Znache
@@ -303,8 +303,8 @@
 302	
 303	Miss Haka
 304	Big Sal
-305	Pikotaro
-306	Mammothe
+305	
+306	Le'mammoth
 307	Ice Doge
 308	Snowball
 309	Coffin Zoge
@@ -313,13 +313,13 @@
 312	
 313	
 314	
-315	Doge Base
+315	
 316	Inumusha
 317	Daboo of the Dead
 318	Dolphina
-319	Mobius
-320	Belial
-321	Happy 100
+319	
+320	
+321	
 322	Li'l Mohawk Cat
 323	Li'l Eraser Cat
 324	Li'l Dark Cat
@@ -330,18 +330,18 @@
 329	Li'l King Dragon Cat
 330	Li'l Jamiera Cat
 331	Easter Duche
-332	Easter Bunny
+332	Easter B.B.Bunny
 333	
 334	
 335	
-336	Goldoge
-337	Sir Hippoe
-338	Gold R. Ost
-339	Lost World Yuki
+336	Golden Doge
+337	Gold Hippoe
+338	Pure Gold R.Ost
+339	
 340	Cala Maria
-341	Sluggy (Red)
-342	Sluggy (Black)
-343	Sluggy (Angel)
+341	Red Slug
+342	Black Slug
+343	Angelic Slug
 344	Cat Kart P
 345	
 346	Merc & Cat
@@ -354,10 +354,10 @@
 353	
 354	Hermit Cat
 355	Croakley
-356	Gory Jr.
+356	Gary Gory
 357	Value Meal Cat
-358	Steel Snache
-359	Mercury Sloth
+358	Metal Snache
+359	THE METAL SLOTH
 360	Shibalien Elite
 361	Star Peng
 362	General GreGory
@@ -366,60 +366,60 @@
 365	Corporal Weyland
 366	Spacefish Jones
 367	The Cat God
-368	Saber
-369	Lancer
-370	Archer
-371	Rider
-372	Gilgamesh
-373	Rin Tohsaka
-374	Illyasviel
+368	
+369	
+370	
+371	
+372	
+373	
+374	
 375	Youcan
 376	
 377	Super Cosmic Cyclone
 378	
 379	Winged Pigge
 380	Mystic Mask Yulala
-381	Karin Nekozuka
-382	Misaki Konno
-383	Sairi Nijitani
-384	Ren Katagiri
+381	
+382	
+383	
+384	
 385	
 386	
 387	Hackey
 388	UltraBaaBaa
 389	Pigge Victorious
 390	Bang-Bang
-391	Mentori
-392	Sachiel
-393	Ramiel
-394	Bardiel
-395	Zeruel
+391	
+392	
+393	
+394	
+395	
 396	Crazed Moneko
 397	Corrupted Moneko
-398	
-399	Pokota
-400	Ovis
-401	Coco
+398	Glowstick Guys
+399	
+400	
+401	
 402	
 403	
 404	
 405	Mecha-Bun
 406	Relic Bun-Bun
 407	Relic Doge
-408	Crazed Yuki
+408	
 409	
 410	
 411	Gorilliam
 412	Sir Rel
 413	Oldhorn
 414	Othom
-415	Betakkuma
+415	
 416	Selena
 417	Kid Tappa
 418	Ribbo
 419	Cat God
 420	Loris
-421	Le'saint
+421	Heavenly Le'saint
 422	The Red Malice
 423	Lowkey
 424	M. Ost
@@ -427,18 +427,18 @@
 426	CTO Seal
 427	Cadaver Bear
 428	Dread Bore
-429	Homulilly
+429	
 430	Satan Claus
 431	Bakoo
-432	Hikakin
-433	Mukyakin
+432	
+433	
 434	Sister Lione
 435	
 436	
 437	Lucky Dags
 438	Primeval Cyclone
-439	
-440	Variety Bears
+439	Li'l Bore
+440	Bears Be Back
 441	
 442	Ms. Madonna
 443	Mesocosmocyclone
@@ -447,46 +447,46 @@
 446	Final Boss Giga-God
 447	Filibuster Obstructa
 448	
-449	HaterBaa 2.0
+449	Haterbaa 2.0
 450	Dogumaru
 451	
-452	Super Devil
-453	Satanmaria
-454	Wondermaria
-455	Beastly Nero
-456	Head Rococo
+452	
+453	
+454	
+455	
+456	
 457	Gummy Cat
 458	
 459	
 460	
-461	Kano & Souma
+461	
 462	
 463	
-464	Eva Unit-13
+464	
 465	
 466	
 467	
 468	Zuche
 469	The Thrillerz
-470	Shakurel Doge
-471	Shakurel Gory
-472	Shakurel Face
-473	Shakurel Lion
-474	Shakurel Tiger
-475	Shakurel Panda
+470	
+471	
+472	
+473	
+474	
+475	
 476	
 477	Mr. Puffington
-478	
+478	Li'l Cake Doge
 479	Puffsley's Comet
-480	Ryu
-481	Chun-Li
-482	Guile
-483	Zangief
-484	Blanka
-485	Dhalsim
-486	Ken
+480	
+481	
+482	
+483	
+484	
+485	
+486	
 487	
-488	Akuma
+488	
 489	
 490	
 491	Black Okame
@@ -498,14 +498,14 @@
 497	Croconator
 498	Gobble
 499	Baron Seal
-500	Hatsune Miku
-501	Sakura Miku
-502	Kagamine Rin & Len
+500	
+501	
+502	
 503	
 504	
 505	
 506	Everlord Wanwan
-507	Messier
+507	
 508	
 509	
 510	Le'Grim
@@ -516,39 +516,39 @@
 515	Mega-Mooth
 516	Master Uril
 517	Koronium
-518	Super Zeus
-519	Shaman Khan
-520	Heracrist
+518	
+519	
+520	
 521	Johnnyleon
-522	Curseblast Doge Base
+522	
 523	
-524	Surge Doge Base
+524	
 525	Super Hyppoh
 526	Idi:Re
 527	Zollow
-528	E. Honda
-529	Balrog
-530	Vega
-531	Sagat
-532	M. Bison
+528	
+529	
+530	
+531	
+532	
 533	
 534	
 535	Evil Emperor Cat
-536	Megurine Luka
+536	
 537	
 538	Bore Jr.
-539	
-540	Snow Miku 2021
+539	Chocolate Doge
+540	
 541	Raynard
-542	Ranma Saotome
-543	Akane Tendo
-544	Ryoga Hibiki
-545	Shampoo
-546	Mousse
+542	
+543	
+544	
+545	
+546	
 547	Mr. Mer
-548	
+548	Wafer Cat XL
 549	Ragin' Gory
-550	Shin Godzilla
+550	
 551	Elder Flame Doron
 552	Aku Doge
 553	Sinner Snache
@@ -572,22 +572,22 @@
 571	High Priest Mamon
 572	Lord of Ruin Jagando
 573	Possessed Empress
-574	Aku Altar
-575	Inactive Aku Altar
-576	
-577	
-578	
-579	Kyubey
-580	
-581	
-582	
+574	
+575	
+576	Large White Ball
+577	Large Red Ball
+578	Large Iron Ball
+579	
+580	White Wind
+581	Red Wind
+582	Black Wind
 583	Medu-san
 584	Miz Devil
 585	Sathankhamun VIII
 586	Midnite D.
 587	Ackey
 588	Deathkory
-589	
+589	Masked Grandmaster Cat
 590	
 591	
 592	Red EnerG
@@ -596,7 +596,7 @@
 595	
 596	
 597	
-598	
+598	Firecracker
 599	Ultima Beast Naala
 600	Zapy
 601	
@@ -611,10 +611,10 @@
 610	THE FOLIVOREAN
 611	Casaurian Darkjo
 612	Haniwanwan
-613	Heavenly Raja Kong
+613	Angelic Beast Rajakong
 614	Formicidaean Ariant
 615	Great Angel Chibinel
-616	
+616	Spiritual Yulala
 617	
 618	
 619	
@@ -631,9 +631,9 @@
 630	Metafilibuster
 631	
 632	
-633	
+633	Killer Tank Cat
 634	Vermilingua Rangmaster
-635	
+635	Easter Egg Cat
 636	Devil Wife
 637	Omens
 638	Mini White Cyclone
@@ -658,21 +658,21 @@
 657	
 658	Mini Angel Cyclone
 659	Ensanglion the Calamity
-660	
-661	
-662	
-663	
-664	
-665	
-666	
-667	
-668	
+660	Malevolent Mohawk Cat
+661	Malevolent Eraser Cat
+662	Malevolent Dark Cat
+663	Malevolent Macho Leg Cat
+664	Malevolent Lion Cat
+665	Malevolent Flying Cat
+666	Malevolent Island Cat
+667	Malevolent King Dragon Cat
+668	Malevolent Jamiera Cat
 669	
 670	
 671	
 672	
 673	
-674	
+674	Esoteric Uril
 675	
 676	
 677	Sage of Mind Soractes
@@ -680,3 +680,9 @@
 679	Dogenstein
 680	Tarsiriel
 681	
+682	Dark Dober
+683	Gigahaniwan
+684	
+685	
+686	Voluptuous Peony - Daji
+687	Madhead

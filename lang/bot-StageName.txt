@@ -1635,6 +1635,8 @@
 001-367-003	Spendy Postage
 001-368		90M Celebration Gifts Galore!
 001-368-000	90 Million DL Celebration!
+001-371		Mystery Package
+001-371-000	Sender Unknown
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2237,6 +2239,18 @@
 002-211-000	Endless Possibility
 002-211-001	Imagine With Me
 002-211-002	Dear Creators
+002-214		Era of Enoch
+002-214-000	Frozen Glacier
+002-214-001	Blazing Wastes
+002-214-002	Sacred Wood
+002-214-003	Shining City
+002-214-004	Midnight Abyss
+002-215		Battle with Madhead!
+002-215-000	Power-Up Pandemonium
+002-215-001	Complete Power
+002-215-002	Super Power
+002-215-003	Perfect Power
+002-215-004	Miracle Power
 
 003			Main Story Chapters
 003-000		EoC Ch.1 Zombie
@@ -3210,6 +3224,10 @@
 004-062-000	400m Relay: Anchor Leg
 004-062-001	800m Relay: Anchor Leg
 004-062-002	1600m Relay: Anchor Leg
+004-064		Gigahaniwan Strikes!
+004-064-000	Cradle Wilderness (Deadly)
+004-064-001	Summit Wilderness (Merciless)
+004-064-002	Frontier Wilderness (Merciless)
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
@@ -4885,6 +4903,27 @@
 024-064-012	Bloodthirsty Lv.13
 024-064-013	Bloodthirsty Lv.14
 024-064-014	Bloodthirsty Lv.MAX
+024-065		Gigahaniwan Strikes!
+024-065-000	Excavation Lv.1
+024-065-001	Excavation Lv.2
+024-065-002	Excavation Lv.3
+024-065-003	Excavation Lv.4
+024-065-004	Excavation Lv.5
+024-065-005	Excavation Lv.6
+024-065-006	Excavation Lv.7
+024-065-007	Excavation Lv.8
+024-065-008	Excavation Lv.9
+024-065-009	Excavation Lv.10
+024-065-010	Excavation Lv.11
+024-065-011	Excavation Lv.12
+024-065-012	Excavation Lv.13
+024-065-013	Excavation Lv.14
+024-065-014	Excavation Lv.15
+024-065-015	Excavation Lv.16
+024-065-016	Excavation Lv.17
+024-065-017	Excavation Lv.18
+024-065-018	Excavation Lv.19
+024-065-019	Excavation Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -4997,6 +5036,12 @@
 025-066-002	Red Stone Forest IV
 025-066-003	Blue Stone Desert IV
 025-066-004	Yellow Stone Volcano IV
+025-067		Relic Cradle
+025-067-000	Cradle Shrine (Deadly)
+025-068		Relic Summit
+025-068-000	Summit Shrine (Merciless)
+025-069		Relic Frontier
+025-069-000	Frontier Shrine (Merciless)
 
 027			Collaboration Gauntlet Stages
 027-000		Messier's Assault
@@ -5230,6 +5275,17 @@
 027-014-017	Grail War: Day 18
 027-014-018	Grail War: Day 19
 027-014-019	Grail War: Final Day
+027-016		Ascend the Tower of Saviors
+027-016-000	Floor 1
+027-016-001	Floor 2
+027-016-002	Floor 3
+027-016-003	Floor 4
+027-016-004	Floor 5
+027-016-005	Floor 6
+027-016-006	Floor 7
+027-016-007	Floor 8
+027-016-008	Floor 9
+027-016-009	Floor 10
 
 031			Behemoth Culling Stages
 031-000		Hidden Forest of Gapra
@@ -5478,3 +5534,10 @@
 034-009-003	Small Inlet, Large Field
 034-009-004	Bubbly Dream
 034-009-005	Prairie Harbor
+034-010		Konjac Valley
+034-010-000	Meandering Road
+034-010-001	One-Second Photo
+034-010-002	Metallic Metaverse
+034-010-003	Pineapple Merchant
+034-010-004	Groundscraper
+034-010-005	Phantom Bluebird

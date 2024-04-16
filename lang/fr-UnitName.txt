@@ -136,7 +136,7 @@
 135	La grue reconnaissante	Super Galaxie Cosmo	Ultima Galaxie Cosmo	
 136	Momotaro	Les anges adorables	Les diablotins adorables	
 137	Kasa Jizo	Château ambulant de Jizo	Méga-château de Jizo	
-138	Princesse Kaguya	La lune de la mort	La lune du chaos	
+138	Princesse Kaguya	La lune de la mort	La lune du chaos	Ultra Kaguya
 139				
 140	Squish Ball Cat	Muscleman Cat		
 141	Dieu	Dieu secret		
@@ -735,3 +735,12 @@
 734				
 735	Chat proviseur	Chat désœuvré		
 736	Chat rose givrée	Chat fleur arctique		
+737	Kalisa florale	Kalisa florale, type χ		
+738	Izanami du couchant	Izanami du crépuscule		
+739				
+740	Chat poubelle	Chat mimique		
+741	Voluptuous Peony - Daji	Daji & Cat		
+742	Mollyanna Cat	Mesmerizing Tune - Mollyanna		
+743	Madhead	Madhead Cat		
+744	Felix the Cat Duke Cat	Mercenary Leader Felix Cat		
+745	Dotty Cat	Birthday Dotty Cat		

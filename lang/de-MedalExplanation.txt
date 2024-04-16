@@ -113,3 +113,4 @@
 112	Schließe alle bösartigen Level ab.
 113	Schließe Ebene 50 des Höllischen Turms ab.
 114	Du erhältst Meister der Gedanken Soraktes
+115	Schließe „Gigahaniwan schlägt zu!“ ab

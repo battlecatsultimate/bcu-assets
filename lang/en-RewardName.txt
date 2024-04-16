@@ -309,6 +309,7 @@
 1174	Godzilla Cat
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
+1183	Madhead
 10010	Beefcake Cat
 10011	Dancer Cat
 10012	Hyper Mr.
@@ -841,3 +842,28 @@
 30177	Resistant Effect Up B: Aku
 30178	Resistant Effect Up A: Aku
 30179	Resistant Effect Up S: Aku
+30180	Attack Up D: 
+30181	Attack Up C: 
+30182	Attack Up B: 
+30183	Attack Up A: 
+30184	Attack Up S: 
+30185	Defense Up D: 
+30186	Defense Up C: 
+30187	Defense Up B: 
+30188	Defense Up A: 
+30189	Defense Up S: 
+30190	Strong Effect Up D: 
+30191	Strong Effect Up C: 
+30192	Strong Effect Up B: 
+30193	Strong Effect Up A: 
+30194	Strong Effect Up S: 
+30195	Massive Damage Up D: 
+30196	Massive Damage Up C: 
+30197	Massive Damage Up B: 
+30198	Massive Damage Up A: 
+30199	Massive Damage Up S: 
+30200	Resistant Effect Up D: 
+30201	Resistant Effect Up C: 
+30202	Resistant Effect Up B: 
+30203	Resistant Effect Up A: 
+30204	Resistant Effect Up S: 

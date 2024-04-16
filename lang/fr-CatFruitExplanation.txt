@@ -136,7 +136,7 @@
 135	La forme ultime augmente la puissance<br>d’attaque et donne 100 % de chances<br>d’immobiliser les ennemis flottants/anges !
 136	La forme ultime augmente toutes les caract.<br>et donne une chance accrue d’immobiliser<br>les ennemis rouges/anges !
 137	La forme ultime augmente la défense,<br>la portée et le taux d’attaque !<br>d’attaque !
-138	La forme ultime augmente toutes les caract.<br>et a 100 % de chances de ralentir<br>les ennemis anges/métal.
+138	La forme ultime augmente toutes les caract.<br>et a 100 % de chances de ralentir<br>les ennemis anges/métal.	L'ultra forme révèle<br>sa forme la plus puissante !<br>Gagne aussi Métallicide !
 139	<br><br>
 140	<br><br>
 141	<br><br>
@@ -359,7 +359,7 @@
 358	La forme ultime améliore la défense !<br>La chance d’att. critique augmente aussi !<br>
 359	La forme ultime augmente<br>la puissance d’attaque et la défense !<br>
 360	La forme ultime améliore<br>la puissance d’attaque et la défense !<br>	La forme ultime améliore<br>puissance d’attaque et défense !<br>
-361	La forme ultime améliore<br>la puissance d’attaque et la défense !<br>	Forme ultime = défense +,<br>attaque plus large et plus longue portée !<br>Repousse en plus les aliens !
+361	La forme ultime améliore<br>la puissance d’attaque et la défense !<br>	L'ultra forme augmente la défense, a une<br>att. plus large et une plus longue portée !<br>Repousse en plus les aliens !
 362	La forme ultime augmente l'attaque,<br>la défense et la portée !<br>
 363	<br><br>
 364	<br><br>
@@ -735,3 +735,12 @@
 734	<br><br>
 735	<br><br>
 736	<br><br>
+737	<br><br>
+738	<br><br>
+739	<br><br>
+740	<br><br>
+741	<br><br>
+742	<br><br>
+743	<br><br>
+744	<br><br>
+745	<br><br>

@@ -136,7 +136,7 @@
 135	True Form evolution increases attack<br>power! Also gains 100% chance to freeze<br>Floating/Angelic enemy movement!
 136	True Form evolution increases all<br>traits! Also gains a higher chance to<br>freeze Red/Angelic enemy movement!
 137	True Form evolution increases defense<br>and range! Also increases attack rate!<br>
-138	True Form evolution increases all traits<br>and adds the ability to 100% slow<br>movement of Angel and Metal enemies
+138	True Form evolution increases all traits<br>and adds the ability to 100% slow<br>movement of Angel and Metal enemies	Ultra Form evolution reveals<br>their most powerful form!<br>Also gains Metal Killer!
 139	<br><br>
 140	<br><br>
 141	<br><br>
@@ -735,3 +735,12 @@
 734	<br><br>
 735	<br><br>
 736	<br><br>
+737	<br><br>
+738	<br><br>
+739	<br><br>
+740	<br><br>
+741	<br><br>
+742	<br><br>
+743	<br><br>
+744	<br><br>
+745	<br><br>

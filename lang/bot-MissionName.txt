@@ -800,3 +800,9 @@
 9477	【90M DL】Clear 90M DL Celebration Happy Present 3 times!
 9478	【90M DL】Clear 5 The Battle Cats stages
 9479	【90M DL】Clear 10 The Battle Cats stages
+9483	Clear Tower of Saviors collab stages 5 times!
+9484	Clear Tower of Saviors collab stages 10 times!
+9485	Clear Tower of Saviors collab stages 20 times!
+9486	【88.88M DL】. Clear the "Mystery Package" stage!
+9487	【88.88M DL】Upgrade Trash Cat to Level 10. Must be done during 88,880,000 DL event
+9488	【88.88M DL】Upgrade Trash Cat to Level 20. Complete during the 88,880,000 DL event

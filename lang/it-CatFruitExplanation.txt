@@ -136,7 +136,7 @@
 135	La Forma Reale aumenta la velocità<br>d'attacco! E ottiene la possibilità del 100%<br>di immobilità su fluttuanti/angelici!
 136	La Forma Reale aumenta tutti<br>i tratti! Dà anche una possibilità più<br>alta di immobilità su rossi/angelici!
 137	La Forma Reale aumenta la difesa<br>e il raggio! Aumenta anche il ritmo d'attacco!<br>
-138	La Forma Reale aumenta tutti i tratti<br>e aggiunge l'abilità al 100% di rallentamento<br>su nemici angelici e metallici.
+138	La Forma Reale aumenta tutti i tratti<br>e aggiunge l'abilità al 100% di rallentamento<br>su nemici angelici e metallici.	La Forma ultra rivela<br>la loro forma più potente!<br>Ottiene anche Ammazza-metallici!
 139	<br><br>
 140	<br><br>
 141	<br><br>
@@ -735,3 +735,12 @@
 734	<br><br>
 735	<br><br>
 736	<br><br>
+737	<br><br>
+738	<br><br>
+739	<br><br>
+740	<br><br>
+741	<br><br>
+742	<br><br>
+743	<br><br>
+744	<br><br>
+745	<br><br>

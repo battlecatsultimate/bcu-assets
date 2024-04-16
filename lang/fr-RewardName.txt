@@ -309,6 +309,7 @@
 1174	Godzilla Cat
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
+1183	Madhead
 10010	Chat malabar
 10011	Chat danseur
 10012	Hyper Mr.
@@ -841,3 +842,28 @@
 30177	Effet Résistance ↑ B: Aku
 30178	Effet Résistance ↑ A: Aku
 30179	Effet Résistance ↑ S: Aku
+30180	Attaque aug. D: 
+30181	Attaque aug. C: 
+30182	Attaque aug. B: 
+30183	Attaque aug. A: 
+30184	Attaque aug. S: 
+30185	Défense aug. D: 
+30186	Défense aug. C: 
+30187	Défense aug. B: 
+30188	Défense aug. A: 
+30189	Défense aug. S: 
+30190	Effet Assure ↑ D: 
+30191	Effet Assure ↑ C: 
+30192	Effet Assure ↑ B: 
+30193	Effet Assure ↑ A: 
+30194	Effet Assure ↑ S: 
+30195	Dégâts massifs ↑ D: 
+30196	Dégâts massifs ↑ C: 
+30197	Dégâts massifs ↑ B: 
+30198	Dégâts massifs ↑ A: 
+30199	Dégâts massifs ↑ S: 
+30200	Effet Résistance ↑ D: 
+30201	Effet Résistance ↑ C: 
+30202	Effet Résistance ↑ B: 
+30203	Effet Résistance ↑ A: 
+30204	Effet Résistance ↑ S: 

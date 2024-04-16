@@ -136,7 +136,7 @@
 135	Wahre-Form-Entwicklung erhöht Angriff!<br>Friert zudem fliegende und Engel-Feinde<br>garantiert in der Bewegung ein!
 136	Wahre-Form-Entwicklung erhöht alle Werte!<br>Gewährt zudem eine höhere Chance, rote<br>und Engel-Feinde einzufrieren!
 137	Wahre-Form-Entwicklung erhöht Vert.,<br>Reichweite und zudem das Angriffstempo!<br>
-138	Wahre-Form-Entwicklung erhöht alle Werte<br>& gewährt die Fähigkeit, eiserne und Engel-<br>Feinde garantiert zu lähmen.
+138	Wahre-Form-Entwicklung erhöht alle Werte<br>& gewährt die Fähigkeit, eiserne und Engel-<br>Feinde garantiert zu lähmen.	Wahre-Form-Entwicklung enthüllt<br>ihre mächtigste Form!<br>Erhält zudem „Eisernentöter“!
 139	<br><br>
 140	<br><br>
 141	<br><br>
@@ -735,3 +735,12 @@
 734	<br><br>
 735	<br><br>
 736	<br><br>
+737	<br><br>
+738	<br><br>
+739	<br><br>
+740	<br><br>
+741	<br><br>
+742	<br><br>
+743	<br><br>
+744	<br><br>
+745	<br><br>

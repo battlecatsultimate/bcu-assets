@@ -30,149 +30,149 @@
 29	Bravissimo!
 30	Tredici
 31	Ricchezze urticanti
-100	L'attacco dei Mini
-101	X-Files
-102	Gambe per giorni
-103	Storia dell'arte
-104	Moby Dick
-105	Ritorno a scuola
-106	Occhio del ciclone
-107	Moicani
-108	Dischi volanti
-109	Mech
-110	Macho Man
-111	Quattro salti
-112	Tirare i fili
-113	Re e regina
-114	Entra il ninja
-115	Gioventù problematica
-116	Duetto
-117	Segnale antincendio
-118	Riso e maiale
-119	Sorrisi ai gatti
-120	Re leone
-121	Pesca e banana
-122	Maledizione di Honnoji
-123	Fresco nell'arsura
-124	Missione Apollo
-125	Osso ossuto
-126	Cavalleria e dolciumi
-127	Graduatoria competitiva
-128	Gatti e panzer
-129	Fascia per capelli
-130	Guarda come frusto
-131	Mascherata
-200	Cuori matti
-201	Potere delle tenebre
-202	Che schifo!
-203	Nyanko, Inc.
-204	Stagioni d'amore
-205	Fuoco di paglia
-206	Fioritura
-207	Speciale Bento
-208	Parlando del diavolo
-209	Arti classiche
-210	Donna sportiva
-211	Gentiluomini
-212	Spinner
-213	Colli lunghi
-214	Senti che ritmo
-215	Trattamento speciale
-216	Film horror
-217	Scuola di gatti
-218	Lance incrociate
-219	Battito cardiaco
-300	Amanti dei lecca-lecca
-301	Maestro e apprendista
-302	Tre re
-303	Innocenti ragazzate
-304	Fusi di testa
-305	Sbruffoni
-306	Dolci
-307	Sezioni acuminate
-308	Nemico del passato
-309	Pugnopugnopugno!
-310	Sete di battaglia
-311	Punisci le oscenità
-312	Team di due
-313	Doppio tifone
-314	Inganno del vento
-315	Quelli del seminterrato
-316	Ricognizione aerea
-317	In arresto
-318	Circo felino
-319	Camicia a scacchi
-1000	Doppio appuntamento
-1001	Oziando
-1002	Maledizione!
-1003	Modestia immodesta
-1004	Studio Jibbly
-1005	Pantaloni di zucca
-1006	Attività paranormale
-1007	Problemi di fegato
-1008	Era dei dinosauri
+1000	L'attacco dei Mini
+1001	X-Files
+1002	Gambe per giorni
+1003	Storia dell'arte
+1004	Moby Dick
+1005	Ritorno a scuola
+1006	Occhio del ciclone
+1007	Moicani
+1008	Dischi volanti
+1009	Mech
+1010	Macho Man
+1011	Quattro salti
+1012	Tirare i fili
+1013	Re e regina
+1014	Entra il ninja
+1015	Gioventù problematica
+1016	Duetto
+1017	Segnale antincendio
+1018	Riso e maiale
+1019	Sorrisi ai gatti
+1020	Re leone
+1021	Pesca e banana
+1022	Maledizione di Honnoji
+1023	Fresco nell'arsura
+1024	Missione Apollo
+1025	Osso ossuto
+1026	Cavalleria e dolciumi
+1027	Graduatoria competitiva
+1028	Gatti e panzer
+1029	Fascia per capelli
+1030	Guarda come frusto
+1031	Mascherata
+2000	Cuori matti
+2001	Potere delle tenebre
+2002	Che schifo!
+2003	Nyanko, Inc.
+2004	Stagioni d'amore
+2005	Fuoco di paglia
+2006	Fioritura
+2007	Speciale Bento
+2008	Parlando del diavolo
+2009	Arti classiche
+2010	Donna sportiva
+2011	Gentiluomini
+2012	Spinner
+2013	Colli lunghi
+2014	Senti che ritmo
+2015	Trattamento speciale
+2016	Film horror
+2017	Scuola di gatti
+2018	Lance incrociate
+2019	Battito cardiaco
+3000	Amanti dei lecca-lecca
+3001	Maestro e apprendista
+3002	Tre re
+3003	Innocenti ragazzate
+3004	Fusi di testa
+3005	Sbruffoni
+3006	Dolci
+3007	Sezioni acuminate
+3008	Nemico del passato
+3009	Pugnopugnopugno!
+3010	Sete di battaglia
+3011	Punisci le oscenità
+3012	Team di due
+3013	Doppio tifone
+3014	Inganno del vento
+3015	Quelli del seminterrato
+3016	Ricognizione aerea
+3017	In arresto
+3018	Circo felino
+3019	Camicia a scacchi
+9000	Doppio appuntamento
+9001	Oziando
+9002	Maledizione!
+9003	Modestia immodesta
+9004	Studio Jibbly
+9005	Pantaloni di zucca
+9006	Attività paranormale
+9007	Problemi di fegato
+9008	Era dei dinosauri
 32	Giocherellando
 33	Ricchi e poveri
 34	Koi e il drago
 35	Giochi mortali
-132	Come sopra, anche sotto
-320	Futuro di guerra
-321	Bazooka Bros.
-322	Rivalità
-323	Re celestiali
+1032	Come sopra, anche sotto
+3020	Futuro di guerra
+3021	Bazooka Bros.
+3022	Rivalità
+3023	Re celestiali
 36	Tabula rasa
 37	Salvatori d'acciaio
 38	Viaggio intergalattico
-133	Colpito dal fulmine
-134	Chic senza collo
-135	Laguna blu
-220	Dei dei cani
-324	Furia vulcanica
+1033	Colpito dal fulmine
+1034	Chic senza collo
+1035	Laguna blu
+2020	Dei dei cani
+3024	Furia vulcanica
 39	Forza maledetta
 40	Agenzia segreta
 41	Vita d'amore
-136	Donne della giungla
-137	Sognando di volare
-138	Offerte agli dei
-221	Forza benedetta
-325	Banda di assassini
+1036	Donne della giungla
+1037	Sognando di volare
+1038	Offerte agli dei
+2021	Forza benedetta
+3025	Banda di assassini
 42	Copricapo classico
-139	Un braccio al giorno
-222	Come un disco, baby
-326	Affari benedetti
+1039	Un braccio al giorno
+2022	Come un disco, baby
+3026	Affari benedetti
 43	Il mio carissimo amico
 44	Caldo, genuino e veloce
-327	Vita da pendolare
-328	Portami fuori
+3027	Vita da pendolare
+3028	Portami fuori
 45	Pollice verde
 46	Cuore viola
 47	Turismo marittimo
 48	Motore a pedali
-140	Nazionali
-141	Treni che passione
-223	Corsa al brunch
+1040	Nazionali
+1041	Treni che passione
+2023	Corsa al brunch
 49	Bianco e nero
 50	Sommergibilista reale
-224	Avanguardia
-225	Gara dei campioni
-329	Metti sotto ghiaccio
-330	Spadoni
+2024	Avanguardia
+2025	Gara dei campioni
+3029	Metti sotto ghiaccio
+3030	Spadoni
 51	Grazie di tutto
 52	Troverai la felicità
 53	Prestazione miracolosa
 54	Marshmallow arrostito
 55	Miagolii sotto la pioggia
-142	Possibilità di tornado
-226	Alta tensione
+1042	Possibilità di tornado
+2026	Alta tensione
 56	Due in uno
 57	Uovo sodo
 58	Cuore imbroglione?
-227	Colleghi part-time
+2027	Colleghi part-time
 59	Tribunale imperiale
 60	Morbido e flessibile
 61	Più siamo, meglio stiamo
-143	Abiti audaci
-144	Fan del cosplay
+1043	Abiti audaci
+1044	Fan del cosplay
 62	Postapocalisse
 63	Campioni in kimono
 64	Scatto di crescita
@@ -182,17 +182,17 @@
 68	Preda del giorno
 69	Scudi di tutti i tipi
 70	Modalità coop
-331	Cattivoni
-332	Orecchie di gatto
+3031	Cattivoni
+3032	Orecchie di gatto
 72	Testacoda
 73	Conti offshore
 74	Ninjutsu carino
-333	Cielo limpido
-334	Età per bere
+3033	Cielo limpido
+3034	Età per bere
 75	Prova della strega
 76	Colazione in mutande
 77	Bazar urbano
-145	Vacanza di lavoro
+1045	Vacanza di lavoro
 78	Trivella del drago
 79	Battipalo mitica
 80	Tagliatutto coraggioso
@@ -209,23 +209,24 @@
 92	Piccola caccia antica
 93	Étoile minimo
 94	Sacrificio
-335	Guerrieri della giustizia
+3035	Guerrieri della giustizia
 95	Sola andata per l'inferno
-146	Diventare di pietra
+1046	Diventare di pietra
 96	Trasporto felino
-147	Scatola dei sogni
-336	Assalto terra-aria
+1047	Scatola dei sogni
+3036	Assalto terra-aria
 97	Composto proibito
-337	Berserker
-338	Pigro angelico
-339	Fine oscura per le feste
-340	Elohim, Essaim
-341	Fiamme malvagie
-342	Acchiappando spiriti
-343	Cavalleria violata
-344	Gestione della rabbia
+3037	Berserker
+3038	Pigro angelico
+3039	Fine oscura per le feste
+3040	Elohim, Essaim
+3041	Fiamme malvagie
+3042	Acchiappando spiriti
+3043	Cavalleria violata
+3044	Gestione della rabbia
 98	Bring it On!
-345	Vai all'inferno!
-346	Club di caccia
-347	Come il vento
+3045	Vai all'inferno!
+3046	Club di caccia
+3047	Come il vento
 99	Inno della Miaoccademia
+3048	La pura verità

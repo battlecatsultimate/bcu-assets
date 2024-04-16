@@ -136,7 +136,7 @@
 135	La Grata Gru	Cosmo Supergalattico	Cosmo Ultragalattico	
 136	Momotaro	Angeli della pesca	Diavoli della pesca	
 137	Kasa Jizo	Castello errante di Jizo	Mega castello di Jizo	
-138	Principessa Kaguya	Luna della Morte	Luna del Caos	
+138	Principessa Kaguya	Luna della Morte	Luna del Caos	Ultra Kaguya
 139				
 140	Squish Ball Cat	Muscleman Cat		
 141	Gatto divino	Gatto divino segreto		
@@ -272,7 +272,7 @@
 271	Amaterasu Splendente	Amaterasu Gloriosa	Amaterasu Onnipotente	
 272	Ganesh Splendido	Ganesh Amato	Ganesh Onnipotente	
 273	Ragatta pon pon	Gattameriera	Gatta soba	
-274	Kalisa Tropicale	Kalisa Tropicale X		
+274	Kalisa Tropicale	Kalisa Tropicale χ		
 275	Coniglietta Estiva	Gatta Estiva		
 276	Neneko al sole	Neneko Marina	Neneko di inizio estate	
 277	Funghi	Funghi 'n' Cat		
@@ -735,3 +735,12 @@
 734				
 735	Preside Gatto	Gatto Crisi di mezza età		
 736	Gatto rosa di ghiaccio	Gatto fioritura artica		
+737	Kalisa Floreale	Kalisa Floreale χ		
+738	Izanami del tramonto	Izanami del vespro		
+739				
+740	Gatto spazzatura	Gatto mimo		
+741	Voluptuous Peony - Daji	Daji & Cat		
+742	Mollyanna Cat	Mesmerizing Tune - Mollyanna		
+743	Madhead	Madhead Cat		
+744	Felix the Cat Duke Cat	Mercenary Leader Felix Cat		
+745	Dotty Cat	Birthday Dotty Cat		

@@ -113,3 +113,4 @@
 112	Clear all Malevolent stages.
 113	Clear Floor 50 of the Infernal Tower
 114	Receive Master of Mind Soractes
+115	Clear "Gigahaniwan Strikes!"

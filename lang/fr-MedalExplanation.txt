@@ -113,3 +113,4 @@
 112	Termine tous les niveaux maléfiques.
 113	Terminer le 50e étage de la Tour infernale
 114	Reçois Soracte, mentor mental
+115	Termine Attaque de Gigahaniwan !

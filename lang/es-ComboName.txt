@@ -30,149 +30,149 @@
 29	Sabelotodos
 30	Trece
 31	Nadando en la abundancia
-100	Ataque de los minis
-101	Expediente X
-102	Piernas infinitas
-103	Historia del arte
-104	Moby Dick
-105	Vuelta al cole
-106	Ojo de la tormenta
-107	Crestas
-108	Platillos
-109	Robóticos
-110	Mazados
-111	Botar sin parar
-112	Cuerdas tensadas
-113	Rey y reina
-114	Trabajo de ninjas
-115	Juventud problemática
-116	Dueto
-117	Apagando fuegos
-118	Cerdo con arroz
-119	Sonrisas gatunas
-120	Rey león
-121	Frutas de temporada
-122	Traiciones
-123	¡Qué fresquito!
-124	Misión Apolo
-125	En los huesos
-126	Caballeros y dulces
-127	Las mejores reseñas
-128	Gatos y tanques
-129	Diademas
-130	Latigazos
-131	Mascarada
-200	Corazones locos
-201	Poder de oscuridad
-202	Superlargo
-203	Nyanko, S. L.
-204	Tiempos de amor
-205	¡Saluda al pajarito!
-206	Todo en flor
-207	De comilona
-208	Si el diablo se aburre
-209	Artes clásicas
-210	Mujeres deportistas
-211	Caballeros
-212	Molinillos de viento
-213	Cuellilargos
-214	A mover el esqueleto
-215	Trato especial
-216	Pelis de miedo
-217	Estudiantes
-218	Lucha con lanzas
-219	Latidos
-300	Piruleteros
-301	Maestros y aprendices
-302	Tres reyes
-303	Doncellas inocentes
-304	A cabezazo limpio
-305	Fanfarrones
-306	Dulces
-307	¡Cuidado, que pincho!
-308	Enemigo de ayer
-309	¡Toma, toma, toma!
-310	Ansias de batalla
-311	Castigo a los indecentes
-312	A pares
-313	Tifón doble
-314	Cuidado con el viento
-315	Informáticos
-316	Reconocimiento aéreo
-317	Arresto
-318	Circo de gatos
-319	Falda de cuadros
-1000	Cita doble
-1001	Pereza
-1002	Maldiciones
-1003	Modestia inmodesta
-1004	Estudio Miaubli
-1005	Calabaceando
-1006	Actividad paranormal
-1007	Problemas de hígado
-1008	La era de los dinosaurios
+1000	Ataque de los minis
+1001	Expediente X
+1002	Piernas infinitas
+1003	Historia del arte
+1004	Moby Dick
+1005	Vuelta al cole
+1006	Ojo de la tormenta
+1007	Crestas
+1008	Platillos
+1009	Robóticos
+1010	Mazados
+1011	Botar sin parar
+1012	Cuerdas tensadas
+1013	Rey y reina
+1014	Trabajo de ninjas
+1015	Juventud problemática
+1016	Dueto
+1017	Apagando fuegos
+1018	Cerdo con arroz
+1019	Sonrisas gatunas
+1020	Rey león
+1021	Frutas de temporada
+1022	Traiciones
+1023	¡Qué fresquito!
+1024	Misión Apolo
+1025	En los huesos
+1026	Caballeros y dulces
+1027	Las mejores reseñas
+1028	Gatos y tanques
+1029	Diademas
+1030	Latigazos
+1031	Mascarada
+2000	Corazones locos
+2001	Poder de oscuridad
+2002	Superlargo
+2003	Nyanko, S. L.
+2004	Tiempos de amor
+2005	¡Saluda al pajarito!
+2006	Todo en flor
+2007	De comilona
+2008	Si el diablo se aburre
+2009	Artes clásicas
+2010	Mujeres deportistas
+2011	Caballeros
+2012	Molinillos de viento
+2013	Cuellilargos
+2014	A mover el esqueleto
+2015	Trato especial
+2016	Pelis de miedo
+2017	Estudiantes
+2018	Lucha con lanzas
+2019	Latidos
+3000	Piruleteros
+3001	Maestros y aprendices
+3002	Tres reyes
+3003	Doncellas inocentes
+3004	A cabezazo limpio
+3005	Fanfarrones
+3006	Dulces
+3007	¡Cuidado, que pincho!
+3008	Enemigo de ayer
+3009	¡Toma, toma, toma!
+3010	Ansias de batalla
+3011	Castigo a los indecentes
+3012	A pares
+3013	Tifón doble
+3014	Cuidado con el viento
+3015	Informáticos
+3016	Reconocimiento aéreo
+3017	Arresto
+3018	Circo de gatos
+3019	Falda de cuadros
+9000	Cita doble
+9001	Pereza
+9002	Maldiciones
+9003	Modestia inmodesta
+9004	Estudio Miaubli
+9005	Calabaceando
+9006	Actividad paranormal
+9007	Problemas de hígado
+9008	La era de los dinosaurios
 32	Jugueteos
 33	Ricos y pobres
 34	Koi y dragón
 35	Sin miedo a nada
-132	Arriba y abajo
-320	El futuro de la guerra
-321	Equipo bazuca
-322	Rivalidad
-323	Reyes celestiales
+1032	Arriba y abajo
+3020	El futuro de la guerra
+3021	Equipo bazuca
+3022	Rivalidad
+3023	Reyes celestiales
 36	Peinar la zona
 37	Rescatadores de acero
 38	Viaje galáctico
-133	Rayos y centellas
-134	Sincuellos
-135	Acuáticos
-220	Dioses perrunos
-324	Furia volcánica
+1033	Rayos y centellas
+1034	Sincuellos
+1035	Acuáticos
+2020	Dioses perrunos
+3024	Furia volcánica
 39	Fuerza maldita
 40	Agencia secreta
 41	Vivir el amor
-136	Mujeres de la jungla
-137	Sueños aéreos
-138	Ofrenda a los dioses
-221	Fuerza bendita
-325	Banda de asesinos
+1036	Mujeres de la jungla
+1037	Sueños aéreos
+1038	Ofrenda a los dioses
+2021	Fuerza bendita
+3025	Banda de asesinos
 42	Tocados tradicionales
-139	Con los brazos abiertos
-222	Como un disco rallado
-326	Buen negocio
+1039	Con los brazos abiertos
+2022	Como un disco rallado
+3026	Buen negocio
 43	Mejores amigos
 44	Bueno, bonito y barato
-327	Viajes de negocios
-328	Sácame de aquí
+3027	Viajes de negocios
+3028	Sácame de aquí
 45	Mano para la jardinería
 46	Corazón morado
 47	Marineritos
 48	A pedales
-140	A las Olimpiadas
-141	El tren de la vida
-223	Una buena comilona
+1040	A las Olimpiadas
+1041	El tren de la vida
+2023	Una buena comilona
 49	Blanco y negro
 50	La realeza
-224	Avances tecnológicos
-225	Concurso de campeones
-329	Deportes de invierno
-330	Espadones
+2024	Avances tecnológicos
+2025	Concurso de campeones
+3029	Deportes de invierno
+3030	Espadones
 51	Gracias por todo
 52	Hallarás la felicidad
 53	Actuación milagrosa
 54	Malvavisco asado
 55	Maullando bajo la lluvia
-142	Posibilidad de tornado
-226	Alto voltaje
+1042	Posibilidad de tornado
+2026	Alto voltaje
 56	Dos son uno
 57	Huevos cocidos
 58	Quién engaña a quién
-227	Trabajo a tiempo parcial
+2027	Trabajo a tiempo parcial
 59	Corte imperial
 60	Suave y flexible
 61	La unión hace la fuerza
-143	Ligeras de ropa
-144	Fanes de los disfraces
+1043	Ligeras de ropa
+1044	Fanes de los disfraces
 62	Posapocalipsis
 63	Amor por los kimonos
 64	Dando el estirón
@@ -182,17 +182,17 @@
 68	Pescado fresco
 69	Escudos de mil tamaños
 70	Modo cooperativo
-331	Tipos malos
-332	Orejas felinas
+3031	Tipos malos
+3032	Orejas felinas
 72	Como un trompo
 73	Paraíso fiscal
 74	Ninjutsu del bueno
-333	Cielos despejados
-334	Mayoría de edad
+3033	Cielos despejados
+3034	Mayoría de edad
 75	Caza de brujas
 76	Desayuno con calzones
 77	Bazar callejero
-145	Vacaciones laborales
+1045	Vacaciones laborales
 78	Taladradores dragontinos
 79	Conductores míticos
 80	Cortadores valientes
@@ -209,23 +209,24 @@
 92	Minicaza antigua
 93	Estrellita del lugar
 94	Sacrificio
-335	Guerreros justicieros
+3035	Guerreros justicieros
 95	Viaje al infierno
-146	A pedradas
+1046	A pedradas
 96	Transporte felino
-147	Caja de sueños
-336	Asalto tierra-aire
+1047	Caja de sueños
+3036	Asalto tierra-aire
 97	Recinto prohibido
-337	Frenéticos
-338	Ángel holgazán
-339	Mal fin de las vacaciones
-340	Elohim, Essaim
-341	Llamas Malignas
-342	Cazando fantasmas
-343	Caballerosidad vulnerada
-344	Gestión de la ira
+3037	Frenéticos
+3038	Ángel holgazán
+3039	Mal fin de las vacaciones
+3040	Elohim, Essaim
+3041	Llamas Malignas
+3042	Cazando fantasmas
+3043	Caballerosidad vulnerada
+3044	Gestión de la ira
 98	Bring it On!
-345	¡Vete al infierno!
-346	Club de caza
-347	Como el viento
+3045	¡Vete al infierno!
+3046	Club de caza
+3047	Como el viento
 99	Himno de la Gatacademia
+3048	La pura verdad

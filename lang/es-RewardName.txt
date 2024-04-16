@@ -309,6 +309,7 @@
 1174	Godzilla Cat
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
+1183	Madhead
 10010	Gato Cachas
 10011	Gato Bailarín
 10012	Hiper Sr.
@@ -840,3 +841,28 @@
 30177	Mayor efecto «Resistencia» B: Aku
 30178	Mayor efecto «Resistencia» A: Aku
 30179	Mayor efecto «Resistencia» S: Aku
+30180	Aumento de ataque D: 
+30181	Aumento de ataque C: 
+30182	Aumento de ataque B: 
+30183	Aumento de ataque A: 
+30184	Aumento de ataque S: 
+30185	Mejora de defensa D: 
+30186	Mejora de defensa C: 
+30187	Mejora de defensa B: 
+30188	Mejora de defensa A: 
+30189	Mejora de defensa S: 
+30190	Mayor efecto «Eficacia» D: 
+30191	Mayor efecto «Eficacia» C: 
+30192	Mayor efecto «Eficacia» B: 
+30193	Mayor efecto «Eficacia» A: 
+30194	Mayor efecto «Eficacia» S: 
+30195	Mayor efecto «Superfuerza» D: 
+30196	Mayor efecto «Superfuerza» C: 
+30197	Mayor efecto «Superfuerza» B: 
+30198	Mayor efecto «Superfuerza» A: 
+30199	Mayor efecto «Superfuerza» S: 
+30200	Mayor efecto «Resistencia» D: 
+30201	Mayor efecto «Resistencia» C: 
+30202	Mayor efecto «Resistencia» B: 
+30203	Mayor efecto «Resistencia» A: 
+30204	Mayor efecto «Resistencia» S: 

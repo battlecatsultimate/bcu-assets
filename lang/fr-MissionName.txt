@@ -800,3 +800,9 @@
 9477	[90 M] Termine 3 fois le Cadeau joyeux 90 M de DL !
 9478	[90 M] Termine 5 niveaux The Battle Cats !
 9479	[90 M] Termine 10 niveaux The Battle Cats !
+9483	Clear Tower of Saviors collab stages 5 times!
+9484	Clear Tower of Saviors collab stages 10 times!
+9485	Clear Tower of Saviors collab stages 20 times!
+9486	[88,88M] . Termine le niveau Pack mystère !
+9487	[88,88M] Améliore le Chat poubelle au niveau 10. À effectuer pendant l'événement 88 880 000 joueurs
+9488	[88,88M] Améliore le Chat poubelle au niveau 20. À effectuer pendant l'événement 88 880 000 joueurs

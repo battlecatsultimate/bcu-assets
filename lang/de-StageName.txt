@@ -1599,6 +1599,8 @@
 001-367-003	Teures Porto
 001-368		Wir feiern 90 Mio. Geschenke für alle!
 001-368-000	90 Mio.- Feier!
+001-371		Mysteriöses Paket
+001-371-000	Unbekannter Sender
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2190,6 +2192,18 @@
 002-211-000	Endless Possibility
 002-211-001	Imagine With Me
 002-211-002	Dear Creators
+002-214		Era of Enoch
+002-214-000	Frozen Glacier
+002-214-001	Blazing Wastes
+002-214-002	Sacred Wood
+002-214-003	Shining City
+002-214-004	Midnight Abyss
+002-215		Battle with Madhead!
+002-215-000	Power-Up Material Clash
+002-215-001	Complete Power-Up
+002-215-002	Super Power-Up
+002-215-003	Perfect Power-Up
+002-215-004	Miracle Power-Up
 
 003			
 003-000		EoC Ch.1 Zombie
@@ -3153,6 +3167,10 @@
 004-062-000	400-m-Staffel: Letzter Abschnitt
 004-062-001	800-m-Staffel: Letzter Abschnitt
 004-062-002	1600-m-Staffel: Letzter Abschnitt
+004-064		Gigahaniwan schlägt zu!
+004-064-000	Hortwildnis (Tödlich)
+004-064-001	Gipfelwildnis (Gnadenlos)
+004-064-002	Grenzwildnis (Gnadenlos)
 
 006			Katzenkrallendojo
 006-000		Halle der Initianden
@@ -4785,6 +4803,27 @@
 024-064-012	Blutdurstig St. 13
 024-064-013	Blutdurstig St. 14
 024-064-014	Blutdurstig St. MAX
+024-065		Gigahaniwan schlägt zu!
+024-065-000	Ausgrabung St. 1
+024-065-001	Ausgrabung St. 2
+024-065-002	Ausgrabung St. 3
+024-065-003	Ausgrabung St. 4
+024-065-004	Ausgrabung St. 5
+024-065-005	Ausgrabung St. 6
+024-065-006	Ausgrabung St. 7
+024-065-007	Ausgrabung St. 8
+024-065-008	Ausgrabung St. 9
+024-065-009	Ausgrabung St. 10
+024-065-010	Ausgrabung St. 11
+024-065-011	Ausgrabung St. 12
+024-065-012	Ausgrabung St. 13
+024-065-013	Ausgrabung St. 14
+024-065-014	Ausgrabung St. 15
+024-065-015	Ausgrabung St. 16
+024-065-016	Ausgrabung St. 17
+024-065-017	Ausgrabung St. 18
+024-065-018	Ausgrabung St. 19
+024-065-019	Ausgrabung St. MAX
 
 025			Enigma Stages
 025-000		Atium-Felder
@@ -4897,6 +4936,12 @@
 025-066-002	Roter Steinwald IV
 025-066-003	Blaue Steinwüste IV
 025-066-004	Gelber Steinvulkan IV
+025-067		Relikthort
+025-067-000	Hortschrein (Tödlich)
+025-068		Reliktgipfel
+025-068-000	Gipfelschrein (Gnadenlos)
+025-069		Reliktgrenze
+025-069-000	Grenzschrein (Gnadenlos)
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -5099,6 +5144,17 @@
 027-014-017	Grail War: Day 18
 027-014-018	Grail War: Day 19
 027-014-019	Grail War: Final Day
+027-016		Ascend the Tower of Saviors
+027-016-000	Floor 1
+027-016-001	Floor 2
+027-016-002	Floor 3
+027-016-003	Floor 4
+027-016-004	Floor 5
+027-016-005	Floor 6
+027-016-006	Floor 7
+027-016-007	Floor 8
+027-016-008	Floor 9
+027-016-009	Floor 10
 
 031			Behemoth Culling Stages
 031-000		Versteckter Gapra-Wald
@@ -5348,3 +5404,10 @@
 034-009-003	Kleiner Zulauf, großes Feld
 034-009-004	Bläschentraum
 034-009-005	Präriehafen
+034-010		Teufelszungental
+034-010-000	Verschlungene Straße
+034-010-001	Eine-Sekunde-Foto
+034-010-002	Metallisches Metaversum
+034-010-003	Ananasverkäufer
+034-010-004	Bodenkratzer
+034-010-005	Phantomhüttensänger

@@ -136,7 +136,7 @@
 135	La forma final tiene más poder de ataque.<br>Además, siempre paraliza a los<br>enemigos voladores y ángeles.
 136	La forma final tiene mejores rasgos.<br>Además, tiene más probabilidades de<br>paralizar a enemigos rojos y ángeles.
 137	La forma final tiene más defensa<br>y alcance. Además, ataca más rápido.<br>
-138	La forma final tiene mejores rasgos.<br>Además, siempre ralentiza a los<br>enemigos ángeles y metálicos.
+138	La forma final tiene mejores rasgos.<br>Además, siempre ralentiza a los<br>enemigos ángeles y metálicos.	¡La evolución a la ultraforma<br>revela su forma más poderosa!<br>¡También gana matametálicos!
 139	<br><br>
 140	<br><br>
 141	<br><br>
@@ -735,3 +735,12 @@
 734	<br><br>
 735	<br><br>
 736	<br><br>
+737	<br><br>
+738	<br><br>
+739	<br><br>
+740	<br><br>
+741	<br><br>
+742	<br><br>
+743	<br><br>
+744	<br><br>
+745	<br><br>

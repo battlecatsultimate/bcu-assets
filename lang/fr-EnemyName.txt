@@ -60,12 +60,12 @@
 059	Sire Phoque métal
 060	
 061	
-062	
-063	
+062	Chef peng
+063	Empereur diabolique de Noël
 064	Cyclone rouge
-065	
-066	
-067	
+065	Hippopolion
+066	Paresseux chance
+067	Les ursidés
 068	
 069	Cyclone blanc
 070	Cyclone noir
@@ -73,43 +73,43 @@
 072	
 073	
 074	
-075	
-076	
-077	
-078	
-079	
-080	
-081	
-082	
-083	
-084	
-085	
-086	
-087	
-088	
-089	
-090	
-091	
-092	
-093	
-094	
-095	
-096	
-097	
-098	
-099	
-100	
-101	
-102	
-103	
-104	
-105	
-106	
-107	
-108	
-109	
-110	
-111	
+075	Chat maboul
+076	Chat tank maboul
+077	Chat borgne maboul
+078	Grand Chat maboul
+079	Chat vache maboul
+080	Chat oiseau maboul
+081	Chat poisson maboul
+082	Chat lézard maboul
+083	Chat titan maboul
+084	Professeur A
+085	Chienmouraï
+086	Méga Chat
+087	Gory marié
+088	Celesse
+089	Nono
+090	Olga
+091	Norn
+092	Yoichi
+093	Serum
+094	Fuu
+095	Aura
+096	Rei
+097	Wyvern
+098	Healer
+099	Caniche starlette
+100	Bikinours
+101	Seigneur Enma
+102	Tête stylée
+103	Toutou fantôme
+104	Serpan fantôme
+105	Bêê Bêê fantôme
+106	Artificiers (haute altitude)
+107	Artificiers (basse altitude)
+108	Puissant Gui Zuli
+109	Ermite peng
+110	Maître Da Xun
+111	Porc sain
 112	Cyclone divin
 113	Hippo céleste
 114	Gabriel
@@ -124,21 +124,21 @@
 123	Pigeon de sable
 124	Sombrotarie
 125	Sleipnir angélique
-126	
-127	
-128	
-129	
-130	
-131	
-132	
-133	
-134	
-135	
-136	
-137	
-138	
-139	
-140	
+126	Toutou de l'aube
+127	Chat malabar
+128	Chat danseur
+129	Hyper Mr.
+130	Chat bondage ultime
+131	Dark Lasor
+132	Chartillerie lourde
+133	Chat sucette
+134	Chat monocycle
+135	Chat ninja volant
+136	Chat squelette
+137	Chat pâtissier
+138	Chat bol de riz
+139	Chamigo
+140	Chat pagne
 141	
 142	
 143	
@@ -148,23 +148,23 @@
 147	Toutou métal
 148	P’tit Nyandam
 149	Éléfombre
-150	
-151	
-152	
-153	
-154	
-155	
-156	
+150	Young Man Mola
+151	Mola King
+152	Ayumi Manbosaki
+153	Crab
+154	Sardine
+155	Squid
+156	Marching Kory
 157	
 158	
 159	
 160	Poussinange
 161	
 162	
-163	
-164	
-165	
-166	
+163	Hearscht
+164	Cornelia
+165	Alois
+166	Healer Cat
 167	Extratoutou
 168	Crocalien
 169	Hyppalien
@@ -195,9 +195,9 @@
 194	
 195	
 196	
-197	
-198	
-199	
+197	Toutou citrouille
+198	Comte Hibougre
+199	Vlad de sable
 200	
 201	
 202	
@@ -211,28 +211,28 @@
 210	Ancêtre paresseux
 211	Symbiote Bun Bun
 212	Chat Bahamut enragé
-213	
-214	
-215	
-216	
-217	
-218	
-219	
-220	
-221	
-222	
-223	
-224	
-225	
-226	
-227	
-228	
-229	
-230	
-231	
+213	Nez-Rougeato
+214	Castle Guard
+215	Castle Horseman
+216	Ashura
+217	Battle Balloon
+218	Dragon Rider
+219	Pretty Cat
+220	Cyclops
+221	Golem
+222	Wise Swordsman
+223	Black Thunder Rider
+224	Kabuki Ashura
+225	Battle UFO
+226	Flame Dragon Rider
+227	Cyber Pretty Cat
+228	4D Cyclops
+229	Volcano Golem
+230	Chat prisonnier
+231	Frères gentlemen
 232	Ange cruel Clionel
-233	
-234	
+233	Chaladdin
+234	Chatcheuse
 235	Mr. Taupe
 236	Parfait cyclone
 237	
@@ -240,35 +240,35 @@
 239	
 240	
 241	
-242	
-243	
-244	
-245	
-246	
-247	
-248	
-249	
-250	
-251	
-252	
-253	
+242	Chat punk dément
+243	Chat gomme dément
+244	Chat de l’ombre dément
+245	Chat jambes d’acier dément
+246	Chat lion dément
+247	Chat volant dément
+248	Chat île dément
+249	Roi dragon dément
+250	Chat Jamilar dément
+251	Bécot et koï
+252	Madame savane
+253	Chatte réceptionniste
 254	Mr. Ange
 255	Toukan
 256	Hippoka noir
 257	Roi Wahwah
 258	Chaperon à roquettes
 259	
-260	
+260	Chat cerf-volant
 261	Sangriphin
-262	
-263	
+262	Toutou tambour sacré
+263	Loutre festive
 264	
-265	
+265	Griffe de fer X
 266	Henry
 267	Hannya
 268	
 269	
-270	
+270	Chats déchaînés
 271	Apis Regina
 272	P’tit Bun Bun
 273	
@@ -277,10 +277,10 @@
 276	
 277	
 278	
-279	
+279	Chat ritualiste
 280	Zanglier
-281	
-282	
+281	Miss Panneau de festival
+282	Marchand El
 283	
 284	Zombitou
 285	Zerpan
@@ -293,8 +293,8 @@
 292	Zombicroc
 293	Toutombeau
 294	Zyclone
-295	
-296	
+295	Chat bûche de Noël
+296	Méga Chat EX
 297	
 298	
 299	
@@ -304,12 +304,12 @@
 303	RIP toutou
 304	Salamoindre
 305	
-306	
-307	
-308	
+306	Élémammouth
+307	Toutou de glace
+308	Boule de neige
 309	Chiencueil
 310	Zamela
-311	
+311	Chat tueur
 312	
 313	
 314	
@@ -320,44 +320,44 @@
 319	
 320	
 321	
-322	
-323	
-324	
-325	
-326	
-327	
-328	
-329	
-330	
-331	
-332	
+322	P’tit Chat punk
+323	P’tit Chat gomme
+324	P’tit Chat de l’ombre
+325	P’tit Chat jambes d’acier
+326	P’tit Chat lion
+327	P’tit Chat volant
+328	P’tit Chat île
+329	P’tit Chat roi dragon
+330	P’tit Chat Jamilar
+331	Kanar de Pâques
+332	Lapro de Pâques
 333	
 334	
 335	
-336	
-337	
-338	
+336	Toutou d'or
+337	Hippo d'or
+338	Autrux d'or
 339	
 340	Cala Maria
-341	
-342	
-343	
-344	
+341	Limace rouge
+342	Limace noire
+343	Limace angélique
+344	Cat Kart P
 345	
-346	
-347	
-348	
-349	
-350	
+346	Merc & Cat
+347	Titi Cat
+348	Orthos
+349	Michelia
+350	Todomeki
 351	
 352	
 353	
 354	Chat ermite
 355	Croapaud
-356	
-357	
-358	
-359	
+356	Gory Gary
+357	Chappy meal
+358	Serpan métal
+359	LAPARESSE MÉTAL
 360	Extratoutou d’élite
 361	Peng étoilé
 362	Général GréGory
@@ -387,16 +387,16 @@
 386	
 387	Hippoka rouge
 388	UltraBêêBêê
-389	
-390	
+389	Porc altier
+390	Pan pan
 391	
 392	
 393	
 394	
 395	
-396	
-397	
-398	
+396	Moneko maboule
+397	Moneko corrompue
+398	Les gars aux bâtons
 399	
 400	
 401	
@@ -409,45 +409,45 @@
 408	
 409	
 410	
-411	
+411	Gory alien
 412	Écurelique
 413	Cornevieux
 414	Papïeul
 415	
-416	
+416	Selena
 417	Globivraison
 418	Crapalien
 419	Dieu des Chats
 420	Loris
-421	
-422	
+421	Céleste L’saint
+422	Malveillant Rouge
 423	Fossilus
 424	Autruxia
-425	
-426	
+425	Sprinteur mortem
+426	Phoque dirigeant
 427	Cadavrours
 428	Rastaglier
 429	
-430	
+430	Satan Claus
 431	Bakoo
 432	
 433	
-434	
+434	Sœur lionne
 435	
 436	
-437	
+437	Teckel chance
 438	Cyclone primitif
-439	
-440	
+439	P'tit Sangrillé
+440	Le retour des ursidés
 441	
-442	
+442	Miss Madone
 443	Mesocosmocyclone
 444	Franguilles
 445	Axoloty
 446	Boss final Méga-Dieu
 447	Obstructeur chalien
 448	
-449	
+449	Bouc haineux 2.0
 450	Toutoumaru
 451	
 452	
@@ -455,7 +455,7 @@
 454	
 455	
 456	
-457	
+457	Charibo
 458	
 459	
 460	
@@ -476,7 +476,7 @@
 475	
 476	
 477	Mr. Globulo
-478	
+478	P'tit Toutou biscuit
 479	Astroglobe
 480	
 481	
@@ -537,7 +537,7 @@
 536	
 537	
 538	Sangrillé junior
-539	
+539	Toutou choco
 540	
 541	Raynard
 542	
@@ -546,7 +546,7 @@
 545	
 546	
 547	M. Mer
-548	
+548	Chat gaufrette XL
 549	Gory déchaîné
 550	
 551	Doron flamme ancienne
@@ -559,9 +559,9 @@
 558	Ours déchu
 559	Vilain visage
 560	Cyclone Aku
-561	
-562	
-563	
+561	Chat méchant
+562	Chat tank méchant
+563	Chat borgne méchant
 564	
 565	
 566	
@@ -574,20 +574,20 @@
 573	Princesse possédée
 574	
 575	
-576	
-577	
-578	
+576	Grande balle blanche
+577	Grande balle rouge
+578	Grande balle de fer
 579	
-580	
-581	
-582	
+580	Vent blanc
+581	Vent rouge
+582	Vent noir
 583	Medu-san
 584	Démon Miz
 585	Sathankhamon VIII
 586	Midnite D.
 587	Hippoka
 588	Kokodeath
-589	
+589	Grand maître Chat masqué
 590	
 591	
 592	NRJ rouge
@@ -596,7 +596,7 @@
 595	
 596	
 597	
-598	
+598	Pétard
 599	Bête ultime Naala
 600	Zaby
 601	
@@ -614,7 +614,7 @@
 613	Bête angélique Rajakong
 614	Formicide Ariant
 615	Grand ange Chibinel
-616	
+616	Yulala spirituel
 617	
 618	
 619	
@@ -631,9 +631,9 @@
 630	Métaflibustier
 631	
 632	
-633	
+633	Chat tank tueur
 634	Grand-maître fourmilier
-635	
+635	Chat œuf de Pâques
 636	Femme diablesse
 637	Présages
 638	Mini-Cyclone blanc
@@ -658,21 +658,21 @@
 657	
 658	Mini-Cyclone ange
 659	Ensanglion la calamité
-660	
-661	
-662	
-663	
-664	
-665	
-666	
-667	
-668	
+660	Chat punk maléfique
+661	Chat gomme maléfique
+662	Chat de l'ombre maléfique
+663	Chat jambes d'acier maléfique
+664	Chat lion maléfique
+665	Chat volant maléfique
+666	Chat île maléfique
+667	Chat roi dragon maléfique
+668	Chat Jamilar maléfique
 669	
 670	
 671	
 672	
 673	
-674	
+674	Uril ésotérique
 675	
 676	
 677	Soracte, mentor mental
@@ -680,3 +680,10 @@
 679	Dogenstein
 680	Tarsiriel
 681	
+682	Dark Dobert
+683	Gigahaniwan
+684	
+685	
+686	Voluptuous Peony - Daji
+687	Madhead
+688	

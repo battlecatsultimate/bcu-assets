@@ -795,3 +795,9 @@
 9477	【90 M DCS】Completa Regalo feliz
 9478	【90 M DCS】Supera 5 fases de The Battle Cats:
 9479	【90 M DCS】Supera 10 fases de The Battle Cats:
+9483	Clear Tower of Saviors collab stages 5 times!
+9484	Clear Tower of Saviors collab stages 10 times!
+9485	Clear Tower of Saviors collab stages 20 times!
+9486	【88,88 M DCS】. ¡Supera la fase "Paquete Misterioso"!
+9487	【88,88 M DCS】Mejora al Gato Basura al nivel 10 . durante el evento de 88,88 M DCS
+9488	【88,88 M DCS】Mejora al Gato Basura al nivel 20 . durante el evento de 88,88 M DCS

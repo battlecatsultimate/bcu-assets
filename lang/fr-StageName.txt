@@ -1600,6 +1600,8 @@
 001-367-003	Affranchissement coûteux
 001-368		Avalanche de cadeaux des 90 millions de téléchargements !
 001-368-000	Célébration des 90 millions !
+001-371		Pack mystère
+001-371-000	Expéditeur inconnu
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2192,6 +2194,18 @@
 002-211-000	Endless Possibility
 002-211-001	Imagine With Me
 002-211-002	Dear Creators
+002-214		Era of Enoch
+002-214-000	Frozen Glacier
+002-214-001	Blazing Wastes
+002-214-002	Sacred Wood
+002-214-003	Shining City
+002-214-004	Midnight Abyss
+002-215		Battle with Madhead!
+002-215-000	Power-Up Material Clash
+002-215-001	Complete Power-Up
+002-215-002	Super Power-Up
+002-215-003	Perfect Power-Up
+002-215-004	Miracle Power-Up
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -3155,6 +3169,10 @@
 004-062-000	Relais 400 m : dernier parcours
 004-062-001	Relais 800 m : dernier parcours
 004-062-002	Relais 400 m : dernier parcours
+004-064		Attaque de Gigahaniwan !
+004-064-000	Nature au berceau (mortel)
+004-064-001	Nature au sommet (sans répit)
+004-064-002	Nature frontière (sans répit)
 
 006			Dojo Griffélin
 006-000		Salle des initiés
@@ -4819,6 +4837,27 @@
 024-064-012	Sanguinaire niv. 13
 024-064-013	Sanguinaire niv. 14
 024-064-014	Sanguinaire niv. max
+024-065		Attaque de Gigahaniwan !
+024-065-000	Excavation niv. 1
+024-065-001	Excavation niv. 2
+024-065-002	Excavation niv. 3
+024-065-003	Excavation niv. 4
+024-065-004	Excavation niv. 5
+024-065-005	Excavation niv. 6
+024-065-006	Excavation niv. 7
+024-065-007	Excavation niv. 8
+024-065-008	Excavation niv. 9
+024-065-009	Excavation niv. 10
+024-065-010	Excavation niv. 11
+024-065-011	Excavation niv. 12
+024-065-012	Excavation niv. 13
+024-065-013	Excavation niv. 14
+024-065-014	Excavation niv. 15
+024-065-015	Excavation niv. 16
+024-065-016	Excavation niv. 17
+024-065-017	Excavation niv. 18
+024-065-018	Excavation niv. 19
+024-065-019	Excavation niv. max
 
 025			Enigma Stages
 025-000		Champs Aitum
@@ -4931,6 +4970,12 @@
 025-066-002	Forêt de pierre rouge IV
 025-066-003	Désert de pierre bleue IV
 025-066-004	Volcan de pierre jaune IV
+025-067		Berceau des Reliques
+025-067-000	Sanctuaire de berceau (mortel)
+025-068		Sommet des Reliques
+025-068-000	Sanctuaire de sommet (sans répit)
+025-069		Frontière des Reliques
+025-069-000	Sanctuaire de frontière (sans répit)
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -5163,6 +5208,17 @@
 027-014-017	Grail War: Day 18
 027-014-018	Grail War: Day 19
 027-014-019	Grail War: Final Day
+027-016		Ascend the Tower of Saviors
+027-016-000	Floor 1
+027-016-001	Floor 2
+027-016-002	Floor 3
+027-016-003	Floor 4
+027-016-004	Floor 5
+027-016-005	Floor 6
+027-016-006	Floor 7
+027-016-007	Floor 8
+027-016-008	Floor 9
+027-016-009	Floor 10
 
 031			Behemoth Culling Stages
 031-000		Forêt cachée de Gapra
@@ -5411,3 +5467,10 @@
 034-009-003	Petit îlot, grand champ
 034-009-004	Rêve bulleux
 034-009-005	Port de prairie
+034-010		Vallée des Konjacs
+034-010-000	Route sinueuse
+034-010-001	Photo instantanée
+034-010-002	Métavers métallique
+034-010-003	Marchand d’ananas
+034-010-004	Micro-gratte-ciel
+034-010-005	Oiseau bleu fantôme

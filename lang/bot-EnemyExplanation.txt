@@ -60,12 +60,12 @@
 059	A seal who traveled to the city,<br>dreaming of superstardom.<br>Wanted more attention so<br>he decided to go full cyborg.
 060	
 061	
-062	
-063	
+062	<br><br><br>
+063	<br><br><br>
 064	The relentless assault of wind<br>keeps curious gawkers far away.<br>If only there was some way to stop<br>or stun it - a counterattack chance?
-065	
-066	
-067	
+065	<br><br><br>
+066	<br><br><br>
+067	<br><br><br>
 068	
 069	Attacks continuously while moving<br>so no one can stop its cyclonic force.<br>Seems to be getting a lot of attention<br>probably thanks to certain vacuums.
 070	Attacks continuously while moving<br>so no one can stop its cyclonic force.<br>Has a lot more pushing power.<br>… or is it suction power?
@@ -73,43 +73,43 @@
 072	
 073	
 074	
-075	
-076	
-077	
-078	
-079	
-080	
-081	
-082	
-083	
-084	
-085	
-086	
-087	
-088	
-089	
-090	
-091	
-092	
-093	
-094	
-095	
-096	
-097	
-098	
-099	
-100	
-101	
-102	
-103	
-104	
-105	
-106	
-107	
-108	
-109	
-110	
-111	
+075	<br><br><br>
+076	<br><br><br>
+077	<br><br><br>
+078	<br><br><br>
+079	<br><br><br>
+080	<br><br><br>
+081	<br><br><br>
+082	<br><br><br>
+083	<br><br><br>
+084	<br><br><br>
+085	<br><br><br>
+086	<br><br><br>
+087	<br><br><br>
+088	<br><br><br>
+089	<br><br><br>
+090	<br><br><br>
+091	<br><br><br>
+092	<br><br><br>
+093	<br><br><br>
+094	<br><br><br>
+095	<br><br><br>
+096	<br><br><br>
+097	<br><br><br>
+098	<br><br><br>
+099	<br><br><br>
+100	<br><br><br>
+101	<br><br><br>
+102	<br><br><br>
+103	<br><br><br>
+104	<br><br><br>
+105	<br><br><br>
+106	<br><br><br>
+107	<br><br><br>
+108	<br><br><br>
+109	<br><br><br>
+110	<br><br><br>
+111	<br><br><br>
 112	A wrathful being who cleanses evil<br>with the force of a typhoon.<br>Take care: Angels won't be harmed<br>by anti-Floating attacks!
 113	A Hippoe who yearned for a halo.<br>Styled his hair into wings...<br>which makes him the next best thing<br>to a Pegasus. Amirite?
 114	Great-grandaddy of the Doge clan.<br>Watches to make sure his descendants<br>keep up their studies: sleeping in class<br>earns a bite from the old man!
@@ -124,21 +124,21 @@
 123	Never fears leading the battle charge<br>to defend his pacifist ideals.<br>Lovingly batters Cat invaders<br>with his sharp beak of diplomacy.
 124	Bears his family's ultimate weapon:<br>Normal Rock, bane of clams everywhere.<br>It's actually a plum pit, but don't mention<br>it or he'll fly off the handle.
 125	The eight-legged god-horse of Norse myth.<br>Has to spend most of his paycheck on<br>footwear, so usually spends his weekends<br>staying in and gardening.
-126	
-127	
-128	
-129	
-130	
-131	
-132	
-133	
-134	
-135	
-136	
-137	
-138	
-139	
-140	
+126	<br><br><br>
+127	<br><br><br>
+128	<br><br><br>
+129	<br><br><br>
+130	<br><br><br>
+131	<br><br><br>
+132	<br><br><br>
+133	<br><br><br>
+134	<br><br><br>
+135	<br><br><br>
+136	<br><br><br>
+137	<br><br><br>
+138	<br><br><br>
+139	<br><br><br>
+140	<br><br><br>
 141	
 142	
 143	
@@ -148,23 +148,23 @@
 147	Walking home from prep school,<br>a giant silver disc appeared in the sky.<br>Can't remember what happened next, but<br>now he wears only silver jumpsuits?
 148	A quantum blip de-aged him back to a kid.<br>People don't know what to think when that<br>leathery face cries over candy, but he still<br>has to pay full price at the movies.
 149	This ink-black pachy is a manic collector<br>gentlemen's cinema. Afraid<br>his hobby might be found out so<br>smashes anyone who gets near his stash.
-150	
-151	
-152	
-153	
-154	
-155	
-156	
+150	<br><br><br>
+151	<br><br><br>
+152	<br><br><br>
+153	<br><br><br>
+154	<br><br><br>
+155	<br><br><br>
+156	<br><br><br>
 157	
 158	
 159	
 160	A bright-eyed rookie only on her second<br>day of her heavenly job. Her friend Duche<br>is getting real sick of hearing her go on<br>about how great her new flat in paradise is.
 161	
 162	
-163	
-164	
-165	
-166	
+163	<br><br><br>
+164	<br><br><br>
+165	<br><br><br>
+166	<br><br><br>
 167	A lovable Doge, genetically modified by<br>the invaders to be the perfect foot soldier!<br>Always says "We think", but is really selfish.<br>That's why he fights with his dorm-mates.
 168	Overcame his eye condition to get a degree<br>in interior design. His philosophy is "Simple<br>is Best"; turns out he just paints it all<br>blue and takes the rest of the week off.
 169	This hippoe is a monthly alien abductee.<br>Traumatized by the thing growing from<br>her head, her skin turned as blue as her<br>heart and she had to change her name.
@@ -195,9 +195,9 @@
 194	
 195	
 196	
-197	
-198	
-199	
+197	<br><br><br>
+198	<br><br><br>
+199	<br><br><br>
 200	
 201	
 202	
@@ -211,28 +211,28 @@
 210	THE SLOTH's grandpa bought a lifetime pass<br>to a hot spring resort. Healing minerals in the<br>water he spends all his time in have given him<br>super speed and powerful knockback abilities!
 211	Bun Bun's DNA got bonded with an alien<br>creature. Infected students with it too, now<br>school is one big hive mind (Source: Hippoe)<br>Occasionally fires a powerful energy wave.
 212	Finally got the zipper on his costume unstuck,<br>now he is free and unstoppable! Can't control<br>the destructive urges that compel him to<br>wreak havoc on everything around him!
-213	
-214	
-215	
-216	
-217	
-218	
-219	
-220	
-221	
-222	
-223	
-224	
-225	
-226	
-227	
-228	
-229	
-230	
-231	
+213	<br><br><br>
+214	<br><br><br>
+215	<br><br><br>
+216	<br><br><br>
+217	<br><br><br>
+218	<br><br><br>
+219	<br><br><br>
+220	<br><br><br>
+221	<br><br><br>
+222	<br><br><br>
+223	<br><br><br>
+224	<br><br><br>
+225	<br><br><br>
+226	<br><br><br>
+227	<br><br><br>
+228	<br><br><br>
+229	<br><br><br>
+230	<br><br><br>
+231	<br><br><br>
 232	This mystical being is humanity's salvation…<br>or it's destruction. But for now, it's too busy<br>being an overprotective single parent who<br>protects its kid with ultra long range attacks.
-233	
-234	
+233	<br><br><br>
+234	<br><br><br>
 235	I seek a worthy rival! #MoleFight is the only<br>Tweet from this aspiring martial artist on his<br>feed. His secret technique "Rising Mole Fist"<br>knocks back enemies from uber-long distance.
 236	A Category-5 storm that grew massive by<br>consuming lesser cyclones. Repels threats<br>from uber long distance. Meteoroloigists say<br>getting near its eye disables its knockback.
 237	
@@ -240,35 +240,35 @@
 239	
 240	
 241	
-242	
-243	
-244	
-245	
-246	
-247	
-248	
-249	
-250	
-251	
-252	
-253	
+242	<br><br><br>
+243	<br><br><br>
+244	<br><br><br>
+245	<br><br><br>
+246	<br><br><br>
+247	<br><br><br>
+248	<br><br><br>
+249	<br><br><br>
+250	<br><br><br>
+251	<br><br><br>
+252	<br><br><br>
+253	<br><br><br>
 254	Drives everyone around him crazy with<br>self-righteous advice. Best pretend you're<br>listening, or he'll smack you good:<br>You'll thank me for this someday!
 255	Used to be the host of a famous game show.<br>This migratory fellow now travels around the<br>world playing golf, coming home for TV gigs if<br>he runs out of money. Fires waves of greed.
 256	A ruthless semi-pro pitcher who resorts to<br>any means necessary to win the game.<br>Throws non-regulation balls from long<br>distance to intimidate the away team batters.
 257	Born in Year 1196 of the cosmic calendar, he<br>earned a crown through his military service and<br>advancement of the sciences. Annoyed that his<br>kid brother is more famous for a reality show.
 258	A wandering forest girl hired as an assassin<br>by the Dog Army. Feared by the Cat Army for<br>ruthlessly using any tactic necessary to<br>make the kill. Even a long-distance bazooka!
 259	
-260	
+260	<br><br><br>
 261	Executive assistant to heaven's most famous<br>recort label producer. Ghost-writer for two<br>one-hit wonders: "Cats Ain't No Sin" and<br>C.P.U. (Future Intelligence Pt. II)
-262	
-263	
+262	<br><br><br>
+263	<br><br><br>
 264	
-265	
+265	<br><br><br>
 266	Took 9 gap years before working up the<br>courage to enroll in college. Hoping to major<br>in nuclear physics to better control his particle<br>beams, but dad wants him to study accounting.
 267	Wore a creepy mask as a joke, transformed<br>into a flesh-eating demon. That can happen.<br>Breathes pure corruption born of vengeful hate.<br>The normal Face isn't so bad anymore, eh?
 268	
 269	
-270	
+270	<br><br><br>
 271	An exiled princess, now royalty of the mean<br>streets of the big city. Her sad upbringing makes<br>for a nasty temperament... don't get too close<br>or you'll be the victim of her tragic sting.
 272	Grand Champion of the Problem Child Grand<br>Prix, terror of kindergarten classrooms every-<br>where. Maybe Dad let him read the Russian<br>classics too early? Favorite word = LOVE.
 273	
@@ -277,10 +277,10 @@
 276	
 277	
 278	
-279	
+279	<br><br><br>
 280	After years of wandering the wastelands,<br>his fur and his soul have been blackened<br>by the corruption of the world. Receives<br>awards for perfect attendance at work.
-281	
-282	
+281	<br><br><br>
+282	<br><br><br>
 283	
 284	Doge's late father, buried several years ago.<br>Even the grave couldn't stop him from<br>worrying over his kids' grades. Only showing<br>a report card can put him permanently to rest.
 285	A slithery creature who uses watercolors for<br>horror makeup (really already dead, though.)<br>The only information you need is that<br>it possesses gruesome area attack powers.
@@ -293,8 +293,8 @@
 292	A poor gator who died of hunger.<br>Too weak to swim across the River Styx,<br>it came back to this world as a half-baked<br>ghost. Sometimes mistaken for dumbells.
 293	Some squatter has made his home in<br>Zoge's grave! How rude! Whoever<br>this mysterious cadaver is, his will to<br>rock seems to be alive and well.
 294	The spirits of those defeated by the<br>Battle Cats have gathered into a<br>vengeful storm. How can you defeat<br>a whirlwind that's already dead?
-295	
-296	
+295	<br><br><br>
+296	<br><br><br>
 297	
 298	
 299	
@@ -304,12 +304,12 @@
 303	Zoge's wife was supposed to be<br>buried here, but she's still alive at<br>158 and it seems like someone<br>else took over the open real estate.
 304	Best leave this lazybones be, he'll<br>chomp anyone who disturbs his naptime.<br>Or worse: he'll tell you neverending stories<br>about his minor league baseball career.
 305	
-306	
-307	
-308	
+306	<br><br><br>
+307	<br><br><br>
+308	<br><br><br>
 309	An ancient hero of the Doge Army.<br>Registered last year as an endangered<br>species... the elder dead live a lonely life.<br>Scholarly name: Canis Deadus Doornailus
 310	Passed away after botched plastic surgery on<br>her unfashionable hump. Makes for a beautiful<br>corpse - the first undead cover girl!<br>Don't mention the unnatural fur tone...
-311	
+311	<br><br><br>
 312	
 313	
 314	
@@ -320,44 +320,44 @@
 319	
 320	
 321	
-322	
-323	
-324	
-325	
-326	
-327	
-328	
-329	
-330	
-331	
-332	
+322	<br><br><br>
+323	<br><br><br>
+324	<br><br><br>
+325	<br><br><br>
+326	<br><br><br>
+327	<br><br><br>
+328	<br><br><br>
+329	<br><br><br>
+330	<br><br><br>
+331	<br><br><br>
+332	<br><br><br>
 333	
 334	
 335	
-336	
-337	
-338	
+336	<br><br><br>
+337	<br><br><br>
+338	<br><br><br>
 339	
 340	A heavenly taste of the sea, sent<br>as a religious vision by the Cat God to<br>those pure of heart. Culinary paradise<br>awaits those who pass this test of faith.
-341	
-342	
-343	
-344	
+341	<br><br><br>
+342	<br><br><br>
+343	<br><br><br>
+344	<br><br><br>
 345	
-346	
-347	
-348	
-349	
-350	
+346	<br><br><br>
+347	<br><br><br>
+348	<br><br><br>
+349	<br><br><br>
+350	<br><br><br>
 351	
 352	
 353	
 354	At the top of the Heavenly Tower, this living<br>legend of martial arts awaits the worthy.<br>Loves to humble rich kids who think they can<br>just buy enlightenment. Loves pink lemonade.
 355	eSports pro famous for rage-quitting during<br>tournaments by using his tongue to hit the<br>reset button. Guess that's one way to<br>maintain a perfect win-loss ratio...
-356	
-357	
-358	
-359	
+356	<br><br><br>
+357	<br><br><br>
+358	<br><br><br>
+359	<br><br><br>
 360	Officer-class Doge in the Alien Marines.<br>Received top marks in the academy<br>specializing in Warp attacks.<br>But the job market is tough these days.
 361	The originator of Warp-field tactics.<br>The Peng people are a proud warrior race<br>with advanced scientific knowledge,<br>thanks to a culture of daily sudoku.
 362	A mighty tactician who's still single thanks<br>to his scary face. He is actually an excellent<br>cook and has a six-octave vocal range,<br>but he is too shy to show anyone his talents.
@@ -387,16 +387,16 @@
 386	
 387	Aspiring pitcher whose burning passion<br>usually ends up just warming the bench.<br>Hopes to prove the power of his long-<br>range fastball assaults one day!
 388	Stellar sheep with mighty barrier defense.<br>Spiky looks are actually just bad<br>bedhead. Since everyone keeps their<br>distance, she's paranoid about her breath.
-389	
-390	
+389	<br><br><br>
+390	<br><br><br>
 391	
 392	
 393	
 394	
 395	
-396	
-397	
-398	
+396	<br><br><br>
+397	<br><br><br>
+398	<br><br><br>
 399	
 400	
 401	
@@ -409,45 +409,45 @@
 408	
 409	
 410	
-411	
+411	<br><br><br>
 412	Speaks only in Olde English,<br>meaning he's a very young Relic.<br>If the Cats took their studies seriously,<br>they might learn a lot from this guy.
 413	An ancient prophet who learns of impending<br>doom by time-traveling. His time-trips aren't<br>very accurate, though, so by the time he gets<br>home the bad stuff has already happened...
 414	Mayor of the ancient Duchy of Lepidoptera.<br>His citizens hate his long, rambling stories<br>that make the morning town council<br>meetings drag on late into the night.
 415	
-416	
+416	<br><br><br>
 417	Express delivery across the galaxy!<br>His girlfriend thinks he should start<br>looking for a real job, so he's joined<br>the elite Alien shock division.
 418	Underrated genius chef at a starred<br>eatery. He warps anything that looks<br>unappealing back to the kitchen. What's<br>the best wine to pair with Cat?
 419	Hey there! It's me, everyone's favorite Cat God!<br>Hope you had a real good time in Cosmos Ch. 2!<br>Life in the real world can be tough... I actually<br>had to move back in with my mom last week...
 420	Last year's in-vogue celebrity, famous for<br>his flashy taste in eyewear. But it's actually<br>just what his eyes look like... Weird how<br>he can throw them like that. Relics, amirite?
-421	
-422	
+421	<br><br><br>
+422	<br><br><br>
 423	Lifeform whose purpose is to drive Cats extinct.<br>Thought destroyed a milennia ago during a<br>great battle with the original Cat Army.<br>Smallest and most beautiful of the Faceoids(?)
 424	Ostrich who is also a veteran stand-up comic.<br>An inspiration for younger comedians, but he<br>is becoming more self-conscious of the<br>generation gap in the scene.
-425	
-426	
+425	<br><br><br>
+426	<br><br><br>
 427	Made up of the strongest parts from several<br>expired Teacher Bears. The head wouldn't<br>sit right, so it had to be bolted on.<br>Urge to kill seems to be growing...
 428	Thanks to a tragic accident with a perm<br>machine, this piggy both gained a stylish set<br>of dreadlocks... and became an ex-Bore.<br>Talk about a sudden image change.
 429	
-430	
+430	<br><br><br>
 431	A dream-eating cutie who wanders around<br>half-awake. Still wears a diaper, even though <br>she's fourteen. Don't startle this gentle <br>sleepwalker, no matter how loud she snores.
 432	
 433	
-434	
+434	<br><br><br>
 435	
 436	
-437	
+437	<br><br><br>
 438	The most ancient of cyclones, born from<br>the Big Bang itself. Hasn't weakened even<br>after devouring the dinosaurs. Inflicts Curse,<br>grows stronger after taking damage.
-439	
-440	
+439	<br><br><br>
+440	<br><br><br>
 441	
-442	
+442	<br><br><br>
 443	Rumored to be the  secret lovechild of a <br>famous storm. It's impossible to guess who it<br>is though. Warps anyone who comes close.<br>Low stamina, so try going all-out!
 444	This mean gang of fishy bad boys have<br>had it with the Cats causing trouble in their<br>territory. Out of the dirt and ready to fight!<br>Don't call them snakes, they don't like that.
 445	A space salamander with a Cat allergy.<br>The powerful winds of its relentless sneezes<br>are should be avoided by small Cats who<br>could be blown into another dimension.
 446	Oho, we meet again! Cat God isn't defeated<br>that easily! Yeah, you've done okay in that last<br>Cosmos chapter, I guess. Maybe you've<br>finally earned the right to be my sidekick...
 447	After millennia lost among the stars, a<br>strange force once again wreaks havoc<br>on the Galactic Cat Empire. The chaos<br> it wields may rewrite the laws of reality...
 448	
-449	
+449	<br><br><br>
 450	An ancient fighter excavated by the Doges.<br>Clay body looks weak but is reinforced with<br>Relic power. His human top was mistakenly<br>attached to a horse body, but it still works(?)
 451	
 452	
@@ -455,7 +455,7 @@
 454	
 455	
 456	
-457	
+457	<br><br><br>
 458	
 459	
 460	
@@ -476,7 +476,7 @@
 475	
 476	
 477	Branch manager of an undersea trading<br>company. Once known for his poisonous<br>personality, marriage has made him more<br>approachable in spite of his prickly looks.
-478	
+478	<br><br><br>
 479	An aspiring idol that appears once every<br>100 years, long mistaken for an asteroid.<br>His entourage of loyal fans form a shining<br>tail that can be seen from light-years away.
 480	
 481	
@@ -537,7 +537,7 @@
 536	
 537	
 538	"No one's gonna dye THIS Bore" says this<br>young rebel before riding away on his motorbike.<br>Unbothered by the judgment of adult society,<br>all he cares about is travelling the open road.
-539	
+539	<br><br><br>
 540	
 541	Learning Surge Attack from an online course,<br>this fox accidentally hit Pigge with a wave while<br>illegally practicing in the park. Now in disguise<br>to avoid getting spotted by the cops...
 542	
@@ -546,7 +546,7 @@
 545	
 546	
 547	Dropped the Lion part of his name.<br>...but why? Researchers tried asking<br>him but he quickly gets angry and<br>lashes out with a Mini-Wave attack.
-548	
+548	<br><br><br>
 549	Corporate warrior sworn to an evil<br>multinational. His eyes are bloodshot after<br>days of overtime, and seeing the new guy<br>leave right at 5PM has driven him berserk.
 550	
 551	Deep within the Ancient Forest, the<br>Doron tribe lives hidden behind masks<br>blessed by the gods. Breaking the mask<br>releases a lethal blast of divine power.
@@ -559,9 +559,9 @@
 558	An elite ambassador of the Aku Realms.<br>With a firm handshake and a beaming smile,<br>his physical bargaining is beyond reproach.<br>If things go sour... an atomic drop also works.
 559	No one dares approach this all-powerful Aku!<br>Is what he thinks, but its really that he has a<br>terrible personality and is carrier of a variety of<br>foul bacteria (Source: Aku Researcher)
 560	A vast, all-consuming evil tempest. Souls <br>it draws inside are sent to the Aku realms<br>to join that land's wicked armies. Pierce <br>its shield and you might have a chance.
-561	
-562	
-563	
+561	<br><br><br>
+562	<br><br><br>
+563	<br><br><br>
 564	
 565	
 566	
@@ -574,20 +574,20 @@
 573	In her obsessive research, the Empress opened<br>a cursed grimoire and was possessed by supreme<br>evil. Her soul stained by evil, she now leads the<br>Empire down the path to utter calamity.
 574	
 575	
-576	
-577	
-578	
+576	<br><br><br>
+577	<br><br><br>
+578	<br><br><br>
 579	
-580	
-581	
-582	
+580	<br><br><br>
+581	<br><br><br>
+582	<br><br><br>
 583	Aku suffering an identity crisis. "Am I a <br>snake, lion or fish?" she asks each traveler,<br>and turns them to stone if they answer wrong.<br>Extremely dangerous, with Surge attacks.
 584	Malicious romance "expert" who takes every<br>chance to give bad love advice and cause<br>heartbreak. Often found downtown, ruining<br>any promising first date she happens upon.
 585	An Aku created by a cursed mask to<br>advance the resurrection of the Great Aku.<br>Evil miasma emitted by the mask drains<br>the very life from any who dare approach.
 586	A cousin of Rain, with jet-black antlers.<br>Everyone used to laugh at his horns,<br>now he's on journey of vengeance that will<br>continue until his nose is bright red.
 587	A cold-hearted high-school baseball ace<br>who sold his twin brother's soul to the Aku<br>for a tournament victory. A five-tool player<br>who's being scouted by the Major League.
 588	An anarchic Kory fronting a deathcore<br>metal band. Never afraid to throw down in<br>the pit, banned from many venues for firing<br>Wave attacks into unsuspecting audiences.
-589	
+589	<br><br><br>
 590	
 591	
 592	H. Nah got hooked on counterfeit<br>Catamin C and lost his grip on reality,<br>claiming to be a born-to-battle Berserker.<br>Surge Attacks keep his foes at a distance.
@@ -596,7 +596,7 @@
 595	
 596	
 597	
-598	
+598	<br><br><br>
 599	A sacred primordial being, known as the <br>most ancient among all forest creatures.<br>Calls down lightning to test trespassers.<br>Those who survive are deemed worthy to live.
 600	Capy was having a wonderful hot spring<br>holiday... until she unexpectedly died.<br>A real jerk who protects her corner of the <br>bath by Warping other visitors far away.
 601	
@@ -614,7 +614,7 @@
 613	Ruler of nature itself with a frightful face that<br>belies his kind heart and desire to protect the<br>environment. With waves, surges, and his holy<br>fist, beats down evil poachers.
 614	Ant that worked very hard to gather food for<br>the winter only to overeat and find itself <br>wandering  the line between life and death.<br>Its stomach explodes if it gets nervous.
 615	Son of a company owner who got a job with his<br>connections. Received genome surgery to avoid<br>being compared to his accomplished Pops.<br>Planning to run for election in the near future.
-616	
+616	<br><br><br>
 617	
 618	
 619	
@@ -631,9 +631,9 @@
 630	Wanders infinite worlds leaving a trail of both <br>destruction and creation in its wake. Its<br>makeup is a mystery, as is its power. All<br>negative effects are ineffective against it.
 631	
 632	
-633	
+633	<br><br><br>
 634	A lauded sculptor who lives in the wilderness. <br>Made an Aku contract to gain x-ray vision to<br>better sculpt nude statue subjects, but now<br>just sees through clothes and skin to the bones...
-635	
+635	<br><br><br>
 636	Influencer with the beauty and clout to attract<br>all kinds of attention. Leads a very luxurous life.<br>Famous for making waves with her fashion.<br>Donates all of her money to the less fortunate.
 637	A secret lab used unethical genome editing to<br>improve the Cerberus Kids, unparalleled in size,<br>with Surge and Freezing attacks.<br>Lethality increases with each battle.
 638	Little brother to White Cyclone. Studying suction<br>and durability as a senior in college. Because of<br>the boom in robot vaccuum cleaners, is having a<br>hard time finding a place to work.
@@ -642,20 +642,20 @@
 641	Being raised in a dog-eat-dog world, has no tact <br>when it comes to ladies. After nursing wounds <br>from constant rejection, gained the mental<br>fortitude to overcome any negative status effect.
 642	After 560,000 years, returned to our world in<br>the form of an infernal tyrant to take a photo <br>for a blind date. Plans to impress them with<br>his height, high grades, and high blood sugar.
 643	Horrific enchantress who resides in the deepest<br>depths of a labyrinth. Subjects victims caught in<br>her traps to unending stories with no punchline,<br>always about her big brother in the Aku Realms.
-644	<br><br><br>
-645	<br><br><br>
-646	<br><br><br>
-647	<br><br><br>
-648	<br><br><br>
+644	
+645	
+646	
+647	
+648	
 649	Otter that works as gatekeeper to Heaven.<br>Sends those unworthy of treading the heavens<br>to the underworld with its golden orb. Summons<br>monsters with the power of Surges.
 650	The ancestor to all invasive species. It was<br>expected to exterminate pests, but its<br>uncontrollable appetite made it hard to tame and<br>has become a danger to the world around it.
-651	<br><br><br>
+651	
 652	After 10 times failing college entrance<br>exams, gave up on school after learning<br>being undead doesn't require a degree.<br>Still wonders what might have been...
 653	Domesticated grand yokai living in the marshes.<br>A mighty strike empowered by a bitter melon<br>diet makes him fearsome enemy outside the<br>home, but inside his wife keeps him in check.
 654	A secret lab used unethical genome editing to<br>create a superior sheep. At first pleased with<br>its idiosyncratic body, soon wished that its<br>transformation had been a bit more ambitious.
 655	Gator who fell in love with the wild after <br>trying out stealth camping. Covered their<br>steely body in BBQ charcoal dust to better <br>stalk prey throughout the primeval wood.
-656	<br><br><br>
-657	<br><br><br>
+656	
+657	
 658	Sheltered girl raised to be uncorrupted by<br>the impurity of the outside world. After her<br>parents go to sleep, she leaves her house<br>and cleanses the world with Mini-Surges.
 659	Slain by its virtuous other self in the past<br>to be sealed away in eternal seclusion. As<br>a growing miasma births more Behemoths,<br>the first Emperor's seal too has been broken.
 660	<br><br><br>
@@ -667,16 +667,22 @@
 666	<br><br><br>
 667	<br><br><br>
 668	<br><br><br>
-669	<br><br><br>
+669	
 670	<br><br><br>
 671	<br><br><br>
 672	<br><br><br>
-673	<br><br><br>
+673	
 674	<br><br><br>
-675	<br><br><br>
-676	<br><br><br>
+675	
+676	
 677	Sage of high rank who studies the world from<br>another realm. Reached accord with humankind,<br>dispensing wisdom unto them. Insatiable thirst<br>for knowledge ensured a fated meeting with Cats
-678	<br><br><br>
+678	
 679	Depressed after failing their final exams,<br>found a charm of wisdom tucked in a comic.<br>Now overthinking everything, he is doomed<br>to always fail tests after running out of time.
 680	After getting the wrong lens prescription,<br>tripped and fell onto the rock now stuck in<br>their forehead. To enter Heaven's gates,<br>one must first defeat them in a battle of wits.
-681	<br><br><br>
+681	
+682	The strange collar awakened a love of music<br>in this noble dog. Cannot play music, but is<br>well-versed in theory enough to ghostwrite <br>pieces and have them performed in its name.
+683	Massive haniwa excavated from an ancient<br>lab and used as a weapon of war. Scrambled<br>genome has given it Immunity to Curses and a<br>a raft of Wave attacks that inflict negative status.
+684	
+685	
+686	
+687	

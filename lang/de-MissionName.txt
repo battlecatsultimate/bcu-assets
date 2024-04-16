@@ -800,3 +800,9 @@
 9477	(90 Mio. DL) Schließe 3x Fröhl. Geschenk f. 90 Mio. DLs ab!
 9478	(90 Mio. DL) Schließe 5 Level von The Battle Cats ab
 9479	(90 Mio. DL) Schließe 10 Level von The Battle Cats ab
+9483	Clear Tower of Saviors collab stages 5 times!
+9484	Clear Tower of Saviors collab stages 10 times!
+9485	Clear Tower of Saviors collab stages 20 times!
+9486	(88,88M DL). Schließe das Level „Mysteriöses Paket“ ab!
+9487	(88,88M DL) Verbessere Müllkatze auf St. 10. Muss während des 88,88M-DL-Events geschehen
+9488	(88,88M DL) Verbessere Müllkatze auf St. 20. Während des 88,88M-DL-Events abschließen

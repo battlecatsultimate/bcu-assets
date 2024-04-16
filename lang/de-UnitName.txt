@@ -136,7 +136,7 @@
 135	Dankbarer Kranich	Supergalaxis-Kosmo	Ultimativer Galaxis-Kosmo	
 136	Momotaro	Die Pfirsichengel	Die Pfirsichteufel	
 137	Kasa Jizo	Jizos Wandelndes Schloss	Jizos Mega-Schloss	
-138	Prinzessin Kaguya	Der Todesmond	Der Chaosmond	
+138	Prinzessin Kaguya	Der Todesmond	Der Chaosmond	Ultra-Kaguya
 139				
 140	Squish Ball Cat	Muscleman Cat		
 141	Gott	Geheimer Gott		
@@ -735,3 +735,12 @@
 734				
 735	Rektor Katze	Midlife-Crisis-Katze		
 736	Eisrosenkatze	Arktisblütenkatze		
+737	Blumen Kalisa	Blumen Kalisa, Typ χ		
+738	Izanami der Dämmerung	Izanami des Abendrots		
+739				
+740	Müllkatze	Mimikkatze		
+741	Voluptuous Peony - Daji	Daji & Cat		
+742	Mollyanna Cat	Mesmerizing Tune - Mollyanna		
+743	Madhead	Madhead Cat		
+744	Felix the Cat Duke Cat	Mercenary Leader Felix Cat		
+745	Dotty Cat	Birthday Dotty Cat		

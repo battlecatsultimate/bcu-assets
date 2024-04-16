@@ -30,149 +30,149 @@
 29	Boulot de rêve
 30	Grosse gâchette
 31	Riche et motivé
-100	Attaque des P’tits
-101	X-Files
-102	Folles gambettes
-103	Histoire de l’art
-104	Moby Dick
-105	Plat de poisson
-106	Œil du cyclone
-107	Iroquois
-108	Soucoupes
-109	Mecha
-110	Club des machos
-111	Les bondissants
-112	Manipulateurs
-113	Roi et Reine
-114	Voici le ninja
-115	Jeunesse rebelle
-116	Duo
-117	Soldats du feu
-118	Riz au porc
-119	Chat sourire
-120	Roi lion
-121	Pêche et banane
-122	Incident du Honno-ji
-123	Climatiseurs
-124	Mission Apollo
-125	Osselets
-126	Chevalerie + pâtisserie
-127	Les nommés sont...
-128	Drôles de Chats
-129	Club bandeaux
-130	Dominatrices
-131	Mascarade
-200	Cœurs mabouls
-201	Pouvoir des ténèbres
-202	Zarbi !
-203	Nyanko, Inc.
-204	Saisons de l’amour
-205	Fausse joie
-206	Rituel de passage
-207	Spécial bento
-208	Les diaboliques
-209	Arts classiques
-210	Les sportives
-211	Gentlemen
-212	Tourne tourne
-213	Longs cous
-214	La danse dans la peau
-215	Traitement spécial
-216	Films d’horreur
-217	Chats décidés
-218	Lanciers
-219	Battement de cœur
-300	Sucettes
-301	Maître et apprenti
-302	Trois rois
-303	Petites innocentes
-304	Heavy metal
-305	Frimeurs
-306	Friandises
-307	Trucs à pointes
-308	Ennemis d’hier
-309	Les puncheurs
-310	Soif de bataille
-311	Mort aux impudiques
-312	Par groupes de 2
-313	Double tornade
-314	Brise facétieuse
-315	Équipe de geeks
-316	Repérage aérien
-317	En état d’arrestation
-318	Chats de cirque
-319	Jupes plissées
-1000	Duos gagnants
-1001	Les rampants
-1002	Rancuniers
-1003	Fausse modestie
-1004	Studio Jibbly
-1005	Jambes et citrouille
-1006	Activité paranormale
-1007	Soucis hépatiques
-1008	Les dinosaures
+1000	Attaque des P’tits
+1001	X-Files
+1002	Folles gambettes
+1003	Histoire de l’art
+1004	Moby Dick
+1005	Plat de poisson
+1006	Œil du cyclone
+1007	Iroquois
+1008	Soucoupes
+1009	Mecha
+1010	Club des machos
+1011	Les bondissants
+1012	Manipulateurs
+1013	Roi et Reine
+1014	Voici le ninja
+1015	Jeunesse rebelle
+1016	Duo
+1017	Soldats du feu
+1018	Riz au porc
+1019	Chat sourire
+1020	Roi lion
+1021	Pêche et banane
+1022	Incident du Honno-ji
+1023	Climatiseurs
+1024	Mission Apollo
+1025	Osselets
+1026	Chevalerie + pâtisserie
+1027	Les nommés sont...
+1028	Drôles de Chats
+1029	Club bandeaux
+1030	Dominatrices
+1031	Mascarade
+2000	Cœurs mabouls
+2001	Pouvoir des ténèbres
+2002	Zarbi !
+2003	Nyanko, Inc.
+2004	Saisons de l’amour
+2005	Fausse joie
+2006	Rituel de passage
+2007	Spécial bento
+2008	Les diaboliques
+2009	Arts classiques
+2010	Les sportives
+2011	Gentlemen
+2012	Tourne tourne
+2013	Longs cous
+2014	La danse dans la peau
+2015	Traitement spécial
+2016	Films d’horreur
+2017	Chats décidés
+2018	Lanciers
+2019	Battement de cœur
+3000	Sucettes
+3001	Maître et apprenti
+3002	Trois rois
+3003	Petites innocentes
+3004	Heavy metal
+3005	Frimeurs
+3006	Friandises
+3007	Trucs à pointes
+3008	Ennemis d’hier
+3009	Les puncheurs
+3010	Soif de bataille
+3011	Mort aux impudiques
+3012	Par groupes de 2
+3013	Double tornade
+3014	Brise facétieuse
+3015	Équipe de geeks
+3016	Repérage aérien
+3017	En état d’arrestation
+3018	Chats de cirque
+3019	Jupes plissées
+9000	Duos gagnants
+9001	Les rampants
+9002	Rancuniers
+9003	Fausse modestie
+9004	Studio Jibbly
+9005	Jambes et citrouille
+9006	Activité paranormale
+9007	Soucis hépatiques
+9008	Les dinosaures
 32	Magasin de jouets
 33	Riche et pauvre
 34	Koï et dragon
 35	Massacreurs
-132	Dans l’air, sous terre
-320	Guerre du futur
-321	Club des bazookas
-322	Rivalité
-323	Rois célestes
+1032	Dans l’air, sous terre
+3020	Guerre du futur
+3021	Club des bazookas
+3022	Rivalité
+3023	Rois célestes
 36	Tir de couverture
 37	Sauveurs d’acier
 38	Voyage galactique
-133	Frappé par la foudre
-134	Minous sans cous
-135	Lagon bleu
-220	Chiens divins
-324	Fureur volcanique
+1033	Frappé par la foudre
+1034	Minous sans cous
+1035	Lagon bleu
+2020	Chiens divins
+3024	Fureur volcanique
 39	Force maudite
 40	Agence secrète
 41	Vivre d’amour
-136	Femmes sauvages
-137	Rêver de voler
-138	Offrande des dieux
-221	Force bénite
-325	Gang de tueurs
+1036	Femmes sauvages
+1037	Rêver de voler
+1038	Offrande des dieux
+2021	Force bénite
+3025	Gang de tueurs
 42	Coiffes classiques
-139	Club du muscle
-222	Pirouettes
-326	Business béni
+1039	Club du muscle
+2022	Pirouettes
+3026	Business béni
 43	Meilleures amies
 44	Marteau et gâteaux
-327	Vivre en banlieue
-328	Petits héros
+3027	Vivre en banlieue
+3028	Petits héros
 45	La main verte
 46	Cœur violet
 47	Balade en mer
 48	Tout au mollet
-140	Stars des JO
-141	Trainspotting
-223	Vive le brunch
+1040	Stars des JO
+1041	Trainspotting
+2023	Vive le brunch
 49	Noir et blanc
 50	Sous-marinier royal
-224	Armes de pointe
-225	Les champions
-329	As de la glace
-330	Épéistes
+2024	Armes de pointe
+2025	Les champions
+3029	As de la glace
+3030	Épéistes
 51	Merci pour tout
 52	Tu trouveras le bonheur
 53	Performance miracle
 54	Chamallow rôti
 55	Il pleut il miaouille
-142	Risque de tornade
-226	Haut voltage
+1042	Risque de tornade
+2026	Haut voltage
 56	Club des jumeaux
 57	Œuf poché
 58	Infidèles ?
-227	Collègues à temps partiel
+2027	Collègues à temps partiel
 59	Cour impériale
 60	Tout dans le mou
 61	L’union fait la force
-143	En petite tenue
-144	Fans de cosplay
+1043	En petite tenue
+1044	Fans de cosplay
 62	Post-apocalypse
 63	Club des kimonos
 64	Sumo et mariée
@@ -182,17 +182,17 @@
 68	Pêche du jour
 69	Plein de boucliers
 70	Mode coop
-331	Les méchants
-332	Oreilles félines
+3031	Les méchants
+3032	Oreilles félines
 72	Tournoiement
 73	Comptes offshore
 74	Ninjutsu à croquer
-333	Ciel dégagé
-334	En âge de consommer
+3033	Ciel dégagé
+3034	En âge de consommer
 75	Épreuve de la sorcière
 76	Petit-déjeuner en culotte
 77	Bazar de rue
-145	Vacances travaillées
+1045	Vacances travaillées
 78	Perceur de dragon
 79	Foreur mythique
 80	Courageux coupeur
@@ -209,23 +209,24 @@
 92	Mini chasse à l'ancienne
 93	Étoile minimum
 94	Sacrifice
-335	Guerriers de la justice
+3035	Guerriers de la justice
 95	Aller simple pour l'enfer
-146	En avant les pierres
+1046	En avant les pierres
 96	Transport de Chat
-147	Boîte de rêve
-336	Assaut sol-air
+1047	Boîte de rêve
+3036	Assaut sol-air
 97	Complexe interdit
-337	Berserkers
-338	Ange absentéiste
-339	Sombre fin des vacances
-340	Elohim, Essaim
-341	Flammes malfaisantes
-342	Attrape-revenants
-343	Chevalerie bafouée
-344	Gestion de la colère
+3037	Berserkers
+3038	Ange absentéiste
+3039	Sombre fin des vacances
+3040	Elohim, Essaim
+3041	Flammes malfaisantes
+3042	Attrape-revenants
+3043	Chevalerie bafouée
+3044	Gestion de la colère
 98	Bring it On!
-345	Va en enfer !
-346	Club de chasse
-347	Comme le vent
+3045	Va en enfer !
+3046	Club de chasse
+3047	Comme le vent
 99	Hymne de la Chacadémie
+3048	La vérité sans fard

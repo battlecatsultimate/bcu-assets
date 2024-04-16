@@ -60,12 +60,12 @@
 059	Sir Metallifoca
 060	
 061	
-062	
-063	
+062	Capo Ping
+063	Babbo Sovrano Oscuro
 064	Ciclone rosso
-065	
-066	
-067	
+065	Ippoleo
+066	Fortunbradipo
+067	Orsi e rimorsi
 068	
 069	Ciclone bianco
 070	Ciclone nero
@@ -73,43 +73,43 @@
 072	
 073	
 074	
-075	
-076	
-077	
-078	
-079	
-080	
-081	
-082	
-083	
-084	
-085	
-086	
-087	
-088	
-089	
-090	
-091	
-092	
-093	
-094	
-095	
-096	
-097	
-098	
-099	
-100	
-101	
-102	
-103	
-104	
-105	
-106	
-107	
-108	
-109	
-110	
-111	
+075	Gatto matto
+076	Gatto Panzer matto
+077	Gatto ascia matto
+078	Gatto alto matto
+079	Gatto mucca matto
+080	Gatto uccello matto
+081	Pescegatto matto
+082	Lucertogatto matto
+083	Gatto Titano matto
+084	Professor F.
+085	Cane samurai
+086	Mega Gatto
+087	Gory sposo
+088	Celesse
+089	Nono
+090	Olga
+091	Norn
+092	Yoichi
+093	Serum
+094	Fuu
+095	Aura
+096	Rei
+097	Wyvern
+098	Healer
+099	Celebribau al sole
+100	Orsokini
+101	Lord Enma
+102	Faccia affascinante
+103	Cane fantasma
+104	Serpe fantasma
+105	Fantasma Bee Bee
+106	Pirotecnici (alto potenziale)
+107	Pirotecnici (basso potenziale)
+108	Poderorso
+109	Eremita Ping
+110	Maestro Ba Shotto
+111	Suino in spalla
 112	Ciclone divino
 113	Ippo celestiale
 114	Gabriello
@@ -124,21 +124,21 @@
 123	Impiccione
 124	Lontra oscura
 125	Sleipnir angelico
-126	
-127	
-128	
-129	
-130	
-131	
-132	
-133	
-134	
-135	
-136	
-137	
-138	
-139	
-140	
+126	Cane alba
+127	Gatto fusto
+128	Gatto ballerino
+129	Iper Mr.
+130	Gatto Bondage definitivo
+131	Lazer oscuro
+132	G.A.T.T.O. d'assalto
+133	Gatto Lecca-lecca
+134	Gatto monociclo
+135	Gatto ninja volante
+136	Schelegatto
+137	Gatto pasticciere
+138	Gatto risotto
+139	Gato Amigo
+140	Gatto perizoma
 141	
 142	
 143	
@@ -148,23 +148,23 @@
 147	Metallicane
 148	Mini Nyandam
 149	Elenoir
-150	
-151	
-152	
-153	
-154	
-155	
-156	
+150	Young Man Mola
+151	Mola King
+152	Ayumi Manbosaki
+153	Crab
+154	Sardine
+155	Squid
+156	Marching Kory
 157	
 158	
 159	
 160	Pulcino A
 161	
 162	
-163	
-164	
-165	
-166	
+163	Hearscht
+164	Cornelia
+165	Alois
+166	Healer Cat
 167	Shibalieno
 168	Kokko
 169	Yppo
@@ -195,9 +195,9 @@
 194	
 195	
 196	
-197	
-198	
-199	
+197	Cane zucca
+198	Conte Gufotto
+199	Vampirotto
 200	
 201	
 202	
@@ -211,28 +211,28 @@
 210	Bradipo stagionato
 211	Bum-bum simbionte
 212	Gatto Bahamut furioso
-213	
-214	
-215	
-216	
-217	
-218	
-219	
-220	
-221	
-222	
-223	
-224	
-225	
-226	
-227	
-228	
-229	
-230	
-231	
+213	Fulmine
+214	Castle Guard
+215	Castle Horseman
+216	Ashura
+217	Battle Balloon
+218	Dragon Rider
+219	Pretty Cat
+220	Cyclops
+221	Golem
+222	Wise Swordsman
+223	Black Thunder Rider
+224	Kabuki Ashura
+225	Battle UFO
+226	Flame Dragon Rider
+227	Cyber Pretty Cat
+228	4D Cyclops
+229	Volcano Golem
+230	Gatto detenuto
+231	Duo gentilgatto
 232	Clionel angelico crudele
-233	
-234	
+233	Mialadin
+234	Lady Gatto wrestler
 235	Mr. Talpa
 236	Il Ciclone Perfetto
 237	
@@ -240,35 +240,35 @@
 239	
 240	
 241	
-242	
-243	
-244	
-245	
-246	
-247	
-248	
-249	
-250	
-251	
-252	
-253	
+242	Gatto punk pazzo
+243	Gatto gomma pazzo
+244	Gatto oscuro pazzo
+245	Gambe macho pazzo
+246	Gatto leo pazzo
+247	Gatto volante pazzo
+248	Gattisola pazzo
+249	Re Dragone pazzo
+250	Gatto Jamiera pazzo
+251	Bacini koi
+252	Comare Savana
+253	Gatta centralino
 254	Mr. Angelo
 255	Tu Can
 256	Neruccio
 257	Re Wahwah
 258	Nome in codice "Cappuccetto"
 259	
-260	
+260	Gatto Aquilone
 261	Cinghiafino
-262	
-263	
+262	Cane tamburo rituale
+263	Lontra festiva
 264	
-265	
+265	Artiglio di ferro X
 266	Henry
 267	Hannya
 268	
 269	
-270	
+270	Gatti furenti
 271	ReginA
 272	Mini Bum-bum
 273	
@@ -277,10 +277,10 @@
 276	
 277	
 278	
-279	
+279	Gatto rituale
 280	Cinghiale selvatico
-281	
-282	
+281	Ragazza segno del festival
+282	El ambulante
 283	
 284	Zane
 285	Zerpe
@@ -293,8 +293,8 @@
 292	Zroco
 293	Lord Tomby
 294	Ziclone
-295	
-296	
+295	Gatto tronchetto
+296	Mega Gatto Super
 297	
 298	
 299	
@@ -304,12 +304,12 @@
 303	Miss Haka
 304	Sal il Grosso
 305	
-306	
-307	
-308	
+306	Le'mammut
+307	Gelicane
+308	Palla di neve
 309	Zane Bara
 310	Zobbetta
-311	
+311	Gatto assassino
 312	
 313	
 314	
@@ -320,44 +320,44 @@
 319	
 320	
 321	
-322	
-323	
-324	
-325	
-326	
-327	
-328	
-329	
-330	
-331	
-332	
+322	Mini Gatto punk
+323	Mini Gatto gomma
+324	Mini Gatto oscuro
+325	Mini Gatto Gambe macho
+326	Mini Gatto leo
+327	Mini Gatto volante
+328	Mini Gattisola
+329	Mini Gatto Re Dragone
+330	Mini Gatto Jamiera
+331	Oca pasquale
+332	B.B.Bunny pasquale
 333	
 334	
 335	
-336	
-337	
-338	
+336	Cane dorato
+337	Ippoleo dorato
+338	S. Truzzo oro puro
 339	
 340	Cala Maria
-341	
-342	
-343	
-344	
+341	Fantino rosso
+342	Fantino nero
+343	Fantino angelico
+344	Cat Kart P
 345	
-346	
-347	
-348	
-349	
-350	
+346	Merc & Cat
+347	Titi Cat
+348	Orthos
+349	Michelia
+350	Todomeki
 351	
 352	
 353	
 354	Gatto Eremita
 355	Gracchio
-356	
-357	
-358	
-359	
+356	Gory Gary
+357	Gatto Menù
+358	Metalliserpe
+359	IL BRADIPO METALLICO
 360	Shibalieno Élite
 361	Ping Astro
 362	Generale GreGory
@@ -387,16 +387,16 @@
 386	
 387	Rossuccio
 388	UltraBeeBee
-389	
-390	
+389	Suino vittorioso
+390	Bang Bang
 391	
 392	
 393	
 394	
 395	
-396	
-397	
-398	
+396	Folle Moneko
+397	Moneko corrotta
+398	Gang luminosa
 399	
 400	
 401	
@@ -409,45 +409,45 @@
 408	
 409	
 410	
-411	
+411	Gorillalien
 412	Sir Codone
 413	Vecchiorno
 414	Notturna
 415	
-416	
+416	Selena
 417	Astro Beluga
 418	Ribbo
 419	Gatto divino
 420	Loris
-421	
-422	
+421	celestiale Elesanto
+422	Rosso Malvagio
 423	Moderato
 424	S. Pruzzo
-425	
-426	
+425	Donny Zombi
+426	Foca dirigente
 427	Orso cadavere
 428	Cinghio del terrore
 429	
-430	
+430	Satana Natale
 431	Tapiro
 432	
 433	
-434	
+434	Sorella Leo
 435	
 436	
-437	
+437	Bassotto della fortuna
 438	Ciclone primordiale
-439	
-440	
+439	Mini Cinghio
+440	Orsi e ri-rimorsi
 441	
-442	
+442	Miss Precisina
 443	Mesocosmociclone
 444	Fratelli Anguilla
 445	Assolotty
 446	Giga dio boss finale
 447	Ostruzione Obstructa
 448	
-449	
+449	CyberBee 2.0
 450	Canumaru
 451	
 452	
@@ -455,7 +455,7 @@
 454	
 455	
 456	
-457	
+457	Gatto gomma
 458	
 459	
 460	
@@ -476,7 +476,7 @@
 475	
 476	
 477	Mr. Puff-puff
-478	
+478	Mini Cane torta
 479	Cometa di Puffsley
 480	
 481	
@@ -537,7 +537,7 @@
 536	
 537	
 538	Cinghio jr.
-539	
+539	Cane di cioccolato
 540	
 541	Raynard
 542	
@@ -546,7 +546,7 @@
 545	
 546	
 547	Mister Mer
-548	
+548	Gatto wafer XL
 549	Gory furioso
 550	
 551	Doron in fiamme stagionato
@@ -559,9 +559,9 @@
 558	Orso perduto
 559	Faccia malvagia
 560	Ciclone Aku
-561	
-562	
-563	
+561	Gatto malvagio
+562	Gatto Panzer malvagio
+563	Gatto ascia malvagio
 564	
 565	
 566	
@@ -574,20 +574,20 @@
 573	Principessa posseduta
 574	
 575	
-576	
-577	
-578	
+576	Palla grande bianca
+577	Palla grande rossa
+578	Palla grande di ferro
 579	
-580	
-581	
-582	
+580	Vento bianco
+581	Vento rosso
+582	Vento nero
 583	Medu-san
 584	Miss Diavolo
 585	Sathankhamun VIII
 586	Rennotte
 587	Assuccio
 588	Kory metal
-589	
+589	Gran Miaoestro mascherato
 590	
 591	
 592	Rosso energico
@@ -596,7 +596,7 @@
 595	
 596	
 597	
-598	
+598	Petardo
 599	Naala bestia suprema
 600	Zapy
 601	
@@ -614,7 +614,7 @@
 613	Rajakong bestia angelica
 614	Formica formicida
 615	Grande Angelico Chibinel
-616	
+616	Yulala spirituale
 617	
 618	
 619	
@@ -631,9 +631,9 @@
 630	Meta-filibustiere
 631	
 632	
-633	
+633	Gatto Panzer assassino
 634	Vermilingua Rangmaster
-635	
+635	Gatto pasquale
 636	Moglie del diavolo
 637	Presagi
 638	Ciclone bianco mini
@@ -658,21 +658,21 @@
 657	
 658	Ciclone angelico mini
 659	Ensanglion la Calamità
-660	
-661	
-662	
-663	
-664	
-665	
-666	
-667	
-668	
+660	Gatto punk malevolo
+661	Gatto gomma malevolo
+662	Gatto oscuro malevolo
+663	Gatto Gambe macho malevolo
+664	Gatto leo malevolo
+665	Gatto volante malevolo
+666	Gattisola malevolo
+667	Gatto Re Dragone malevolo
+668	Gatto Jamiera malevolo
 669	
 670	
 671	
 672	
 673	
-674	
+674	Uril esoterico
 675	
 676	
 677	Maestro della mente Sokrate
@@ -680,3 +680,10 @@
 679	Canenstein
 680	Tarsiangelo
 681	
+682	Dober oscuro
+683	Gigahaniwan
+684	
+685	
+686	Voluptuous Peony - Daji
+687	Madhead
+688	

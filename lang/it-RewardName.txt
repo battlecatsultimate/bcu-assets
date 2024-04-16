@@ -309,6 +309,7 @@
 1174	Godzilla Cat
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
+1183	Madhead
 10010	Gatto fusto
 10011	Gatto ballerino
 10012	Iper Mr.
@@ -841,3 +842,28 @@
 30177	Effetto Resistente + B: Aku
 30178	Effetto Resistente + A: Aku
 30179	Effetto Resistente + S: Aku
+30180	Più attacco D: 
+30181	Più attacco C: 
+30182	Più attacco B: 
+30183	Più attacco A: 
+30184	Più attacco S: 
+30185	Aumento difesa D: 
+30186	Aumento difesa C: 
+30187	Aumento difesa B: 
+30188	Aumento difesa A: 
+30189	Aumento difesa S: 
+30190	Effetto Efficace + D: 
+30191	Effetto Efficace + C: 
+30192	Effetto Efficace + B: 
+30193	Effetto Efficace + A: 
+30194	Effetto Efficace + S: 
+30195	Danni enormi + D: 
+30196	Danni enormi + C: 
+30197	Danni enormi + B: 
+30198	Danni enormi + A: 
+30199	Danni enormi + S: 
+30200	Effetto Resistente + D: 
+30201	Effetto Resistente + C: 
+30202	Effetto Resistente + B: 
+30203	Effetto Resistente + A: 
+30204	Effetto Resistente + S: 
