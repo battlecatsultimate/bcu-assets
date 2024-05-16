@@ -57,6 +57,7 @@
 -2027	熱血運動會(白組)
 -2028	越南大戰系列
 -2029	神魔之塔
+-2030	神劍闖江湖
 E13	聖魔大戰	//Bikkuri
 E14	貓咪的暑假	//Summer Break Cats
 E17	春節活動轉蛋	//Lunar New Year (JP)
@@ -69,6 +70,7 @@ E24	惡魔的完美新娘
 E26	貓咪的暑假
 E27	Medal Cat King's Hall Capsules
 E28	春節活動轉蛋
+E29	惡魔的完美新娘
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -850,3 +852,11 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 878	-107	738
 879	-2029
 880	-109	737
+881	-2	754
+882	-2	754
+883	-106	754
+884	-105	754
+885	-104	754
+886	-107	754
+887	-115	756
+888	-2030

@@ -57,6 +57,7 @@
 -2027	Kunio-kun Collab Gacha (White Team)
 -2028	Metal Slug Collab Gacha
 -2029	Tower of Saviors Collab Gacha
+-2030	Rurouni Kenshin Gacha
 E12	Bikkuriman Chocolate Capsules
 E13	Bikkuriman Chocolate Capsules
 E14	Summer Break Capsules
@@ -74,6 +75,7 @@ E25	9th Anniversary Special Capsules
 E26	Summer Break Capsules
 E27	Medal Cat King's Hall Capsules
 E28	New Moon Capsules
+E29	June Bride of Devil Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -844,3 +846,11 @@ N65	Cats Eye Capsules
 878	-107	738
 879	-2029
 880	-109	737
+881	-2	754
+882	-2	754
+883	-106	754
+884	-105	754
+885	-104	754
+886	-107	754
+887	-115	756
+888	-2030
