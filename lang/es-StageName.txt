@@ -3137,7 +3137,7 @@
 004-054-000	Sin Plan A (Mortal)
 004-055		Moneko Demente
 004-055-000	en LA LUNA
-004-056		#02 ¿En Qué Cae el 13?
+004-056		#03 ¿En Qué Cae el 13?
 004-056-000	Iglesia entre la Bruma
 004-057		Ostentación de Año Nuevo
 004-057-000	¡Tesoros de Año Nuevo!

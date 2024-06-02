@@ -3142,7 +3142,7 @@
 004-054-000	Nessun piano A (Letale)
 004-055		Folle Moneko
 004-055-000	sulla LUNA
-004-056		02: ??? 13
+004-056		03: ??? 13
 004-056-000	La chiesa in un manto di foschia
 004-057		Sfarzo di capodanno
 004-057-000	Che fortuna! Un bottino di capodanno!

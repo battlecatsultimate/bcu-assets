@@ -3202,7 +3202,7 @@
 004-054-000	No Plan A (Deadly)
 004-055		Crazed Moneko Strikes
 004-055-000	in THE MOON
-004-056		#02 ??? the 13th
+004-056		#03 ??? the 13th
 004-056-000	In the Mist-Shrouded Church
 004-057		New Year's Bling
 004-057-000	Lucky! New Year's Loot!

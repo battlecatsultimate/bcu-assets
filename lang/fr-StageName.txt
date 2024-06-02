@@ -3147,7 +3147,7 @@
 004-054-000	Pas de plan A (mortel)
 004-055		Moneko maboule
 004-055-000	Dans la lune
-004-056		#02 ??? le 13e
+004-056		#03 ??? le 13e
 004-056-000	Dans l'église embrumée
 004-057		Bling-bling du Nouvel An
 004-057-000	Joie ! Butin du Nouvel An !
