@@ -3145,7 +3145,7 @@
 004-054-000	Kein Plan A (Tödlich)
 004-055		Verrückte Moneko zu
 004-055-000	auf DEM MOND
-004-056		#02 ??? der 13.
+004-056		#03 ??? der 13.
 004-056-000	In der nebelverhüllten Kirche
 004-057		Neujahrs-Bling
 004-057-000	Glück gehabt! Neujahrsbeute!

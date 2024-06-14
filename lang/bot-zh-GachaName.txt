@@ -26,17 +26,17 @@
 -114	白色情人節轉蛋	//White Day 711
 -115	完美新娘	//June Bride 731
 -116	超生命體破壞者	//Colossus Bus
--117	破壞者祭
+-117	破壞者祭	//BusterFest
 -1000	超強精選	//Ultra Selection 191
 -1001	無敵精選	//Miracle Selection 192
--1002	歲末年終轉蛋	//2017 262
--1003	歡慶新年轉蛋	//2018 263
+-1002	歲末年終轉蛋	// 262
+-1003	歡慶新年轉蛋	// 263
 -1007	超級選拔祭	//BOTB 357
 -1008	特極選拔祭	//NBOTB 460
 -1010	卓越精選	//Excellent Selection 468
 -1011	超國王祭	//Emperor Cat 562
 -1012	女王祭	//Empress Cat 602
--1013	90M Download Anniversary Gacha
+-1013	9000萬下載紀念選拔轉蛋	//90M DL
 -2000	公主踢騎士	//Princess Punt 176
 -2001	消滅都市	//Annihilation City 180
 -2002	梅露可物語	//Merc 185
@@ -50,11 +50,11 @@
 -2010	快打旋風	//SF 415
 -2011	初音未來	//Miku 563
 -2022	亂馬1/2	//Ranma 588
--2023	熱血運動會(赤組)	//Kunio 620
+-2023	熱血運動會(赤組)	//Kunio (red) 620
 -2024	快打旋風V 冠軍版 BLUE TEAM	//SF Blue 763
 -2025	快打旋風V 冠軍版 RED TEAM	//SF Red 764
--2026	福音戰士 2nd
--2027	熱血運動會(白組)
+-2026	福音戰士 2nd	//Eva 2nd 
+-2027	熱血運動會(白組)	//Kunio (white)
 -2028	越南大戰系列
 -2029	神魔之塔
 -2030	神劍闖江湖
