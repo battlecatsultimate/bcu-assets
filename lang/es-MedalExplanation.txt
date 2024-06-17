@@ -114,3 +114,4 @@
 113	Supera el piso 50 de la Torre Infernal.
 114	Recibe a Sórcates Mente Brillante
 115	Supera "¡Gigahaniwan Ataca!"
+116	Supera "Familias Superremate"

@@ -1601,6 +1601,24 @@
 001-368-000	90 Mio.- Feier!
 001-371		Mysteriöses Paket
 001-371-000	Unbekannter Sender
+001-372		Flitterwochenende #1
+001-372-000	Opferdorf
+001-372-001	Bringe ein Opfer zum Verlassen
+001-372-002	Exfreund-Opfer
+001-373		Flitterwochenende #2
+001-373-000	Opferdorf
+001-373-001	Bringe ein Opfer zum Verlassen
+001-373-002	Schwiegermutter-Opfer
+001-374		Flitterwochenende: Finale
+001-374-000	Opferdorf
+001-374-001	Bringe ein Opfer zum Verlassen
+001-374-002	Bräutigam-Opfer
+001-375		NEO Erster Botengang
+001-375-000	Babys zuerst (Gnadenlos)
+001-375-001	Professioneller Brabbler (Gnadenlos)
+001-376		Supersmash-Familien
+001-376-000	Gefährliche Straße (Brutal)
+001-376-001	Schreckliche Straße (Brutal)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3385,6 +3403,8 @@
 011-006-000	Into the Fray: Servants Strike!
 011-007		Arena of Honor
 011-007-000	Aqua Paradiso
+011-008		Arena of Honor
+011-008-000	Princess Punt's Army
 011-010		Arena of Honor
 011-010-000	Angriff der Shakurels
 011-011		Arena of Honor
@@ -5411,3 +5431,10 @@
 034-010-003	Ananasverkäufer
 034-010-004	Bodenkratzer
 034-010-005	Phantomhüttensänger
+034-011		Wochenend-Paradies
+034-011-000	Friedhof der Sojabohnen
+034-011-001	Spitzes Seeufer
+034-011-002	Süßigkeitenregen
+034-011-003	Joghurtarchipel
+034-011-004	Ausstecherruinen
+034-011-005	Pop-Pop-Wunderland

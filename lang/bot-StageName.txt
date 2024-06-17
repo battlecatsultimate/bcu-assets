@@ -1637,6 +1637,24 @@
 001-368-000	90 Million DL Celebration!
 001-371		Mystery Package
 001-371-000	Sender Unknown
+001-372		Weekend Honeymoon #1
+001-372-000	Village of Sacrifice
+001-372-001	Offer Sacrifice to Leave
+001-372-002	Ex-Boyfriend Offering
+001-373		Weekend Honeymoon #2
+001-373-000	Village of Sacrifice
+001-373-001	Offer Sacrifice to Leave
+001-373-002	Mother-In-Law Offering
+001-374		Weekend Honeymoon: Final
+001-374-000	Village of Sacrifice
+001-374-001	Offer Sacrifice to Leave
+001-374-002	Bridegroom Offering
+001-375		NEO First Errand
+001-375-000	Babies First (Merciless)
+001-375-001	Professional Babbler (Merciless)
+001-376		Super Smash Families
+001-376-000	Treacherous Road (Brutal)
+001-376-001	Heinous Road (Brutal)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3442,6 +3460,8 @@
 011-006-000	Into the Fray: Servants Strike!
 011-007		Arena of Honor
 011-007-000	Aqua Paradiso
+011-008		Arena of Honor
+011-008-000	Princess Punt's Army
 011-010		Arena of Honor
 011-010-000	Attack of the Shakurels
 011-011		Arena of Honor
@@ -5541,3 +5561,10 @@
 034-010-003	Pineapple Merchant
 034-010-004	Groundscraper
 034-010-005	Phantom Bluebird
+034-011		Candy Paradise
+034-011-000	Soybean Graveyard
+034-011-001	Pointed Lakeshore
+034-011-002	Candy Downpour
+034-011-003	Yogurt Archipelago
+034-011-004	Cookie Cutter Ruins
+034-011-005	Pop-pop Wonderland

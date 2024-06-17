@@ -190,6 +190,8 @@
 197	1 000 000 XP
 199|S199|I427	Charme légendaire
 200|S200|I428	Lettre d’amour
+201|S201|I11	XP
+202|S202|I429	Eau bénite
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -395,6 +397,7 @@
 10522	Chat Naga
 10532	Ours-Chat cadavre
 10540	Chaterback
+10554	Chat poulet frit
 10555	Uril ésotérique
 10622	Chercheur félin
 10630	Chat punk sous contrôle
@@ -640,6 +643,7 @@
 15718	Chagriculteur
 15721	Chat-Ours déchu
 15725	Nacelle-œuf féline
+15758	Chat mariée
 16131	Ururun et Tama éveillés
 16173	Bus scolaire Nyandam
 16269	Mina éveillée

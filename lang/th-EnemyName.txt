@@ -343,7 +343,7 @@
 342	ทากดำ
 343	ทากเทพ
 344	Cat Kart P
-345	
+345	แคทควันโด SP
 346	Merc & Cat
 347	Titi Cat
 348	Orthos
@@ -687,3 +687,7 @@
 686	Voluptuous Peony - Daji
 687	Madhead
 688	
+689	
+690	
+691	
+692	ด็อกเตอร์ K.O.

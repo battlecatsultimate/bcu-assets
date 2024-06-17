@@ -210,7 +210,7 @@
 209	<br><br>
 210	<br><br>
 211	<br><br>
-212	La forma final tiene las habilidades<br>de repeler y desgastar<br>a enemigos rojos y álienes.
+212	La forma final tiene las habilidades<br>de repeler y desgastar<br>a enemigos rojos y álienes.	¡La ultraforma obtiene<br>rasgos mejorados, más alcance<br>de ataque y matasabios!
 213	La forma final tiene un área de ataque<br><br>
 214	<br><br>
 215	<br><br>
@@ -744,3 +744,15 @@
 743	<br><br>
 744	<br><br>
 745	<br><br>
+746	<br><br>
+747	<br><br>
+748	<br><br>
+749	<br><br>
+750	<br><br>
+751	<br><br>
+752	<br><br>
+753	<br><br>
+754	<br><br>
+755	<br><br>
+756	<br><br>
+757	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>

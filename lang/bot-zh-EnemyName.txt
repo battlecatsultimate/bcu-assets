@@ -17,18 +17,18 @@
 016	黑熊
 017	赤面歌王
 018	臉君
-019	
-020	
+019	(無)
+020	(無)
 021	看板小妹
 022	蛾蛾蛾蛾
 023	惡之帝王貓彈
 024	噴噴老師
-025	Swordsman v1
-026	Chibigau v1
-027	Princess Punt v1
-028	Swordsman v2
-029	Chibigau v2
-030	Princess Punt v2
+025	劍客
+026	小暴龍
+027	飛踢公主
+028	劍客
+029	小暴龍
+030	飛踢公主
 031	師匠
 032	鴕鳥愛美惠
 033	破壞一族
@@ -53,26 +53,26 @@
 052	影子拳擊手
 053	黑澤導演
 054	超級鋼鐵河馬將
-055	Type 10
+055	10式戰車
 056	鋼鐵犀一角
 057	鋼鐵熊
 058	鋼鐵臉君
 059	鋼鐵斑海豹桑
-060	Burning Phoenix
-061	Princess Head
+060	幽靈鷙
+061	超魅惑公主
 062	企課長
 063	惡魔王聖誕老人
 064	赤色旋風
 065	河馬開口獅
 066	福神
 067	熊熊敢死隊
-068	Monkey King v1
+068	猿王
 069	白色旋風
 070	黑色旋風
 071	鋼鐵旋風
-072	Nimue v1
-073	Nimue v2
-074	Monkey King v2
+072	妮妙
+073	歸化型妮妙
+074	SSS猿王
 075	狂亂貓
 076	狂亂坦克貓
 077	狂亂戰鬥貓
@@ -118,9 +118,9 @@
 117	壁犬
 118	紅髮扭扭蛇
 119	生化魚鈴木
-120	3rd Anniversary Birthday Cake
-121	Drury Witch
-122	Drury Swordsman
+120	お祝いケーキわんこ
+121	ドラリー魔法使い
+122	ドラリー剣士
 123	背負・和平・鴿
 124	黑色破壞一族
 125	天使斯雷普尼爾
@@ -139,11 +139,11 @@
 138	貓飯糰
 139	ＡＭＩＧＯ貓
 140	兜襠布貓
-141	Ayanokōji Shō
-142	Saotome Hikaru
-143	Saionji Hitomi
-144	Hoshi Guranmanie
-145	Shiratori Shōchikubai
+141	綾小路 翔
+142	早乙女 光
+143	西園寺 瞳
+144	星愚亂魔弍惠
+145	白鳥松竹梅
 146	浪子漢
 147	鋼鐵狗仔
 148	小戰士貓彈
@@ -155,12 +155,12 @@
 154	沙丁魚
 155	烏賊
 156	快閃無尾熊
-157	Sakura Android
-158	Takuya
-159	Yuki
+157	Droid春
+158	拓也
+159	神祕少女小雪
 160	天使小雞
-161	Mob Cat
-162	Yakuza Vampire
+161	極道にゃんこ
+162	ヤクザヴァンパイア
 163	哈爾修特
 164	可納莉亞
 165	阿洛伊斯
@@ -184,25 +184,25 @@
 183	CyberX
 184	異星貴賓
 185	豪豬教授
-186	20 Million DL Birthday Cake
-187	Rathalos
-188	Rathian
-189	MARS PEOPLE
-190	DONALD MORDEN
-191	ALLEN O'NEIL
-192	MARCO
+186	DL記念ケーキわんこ
+187	リオレウス
+188	リオレイア
+189	火星人
+190	惡魔化身·莫丁
+191	艾倫·歐尼爾
+192	馬可
 193	SV-001
-194	HUGE HERMIT
-195	JUPITER KING
-196	HI-DO
+194	超巨型戰車
+195	木星王者
+196	海德
 197	南瓜狗仔
 198	眉毛伯爵
 199	黑蝙蝠
-200	Junior God of Light Valkyrie
-201	Junior God Brynhildr
-202	Junior God Suruzu
-203	Goddess of Abundance Freya
-204	God of War Odin
+200	光の神徒ヴァルキリー
+201	神徒ブリュンヒルデ
+202	神徒スルズ
+203	豊穣の女神フレイヤ
+204	軍神オーディン
 205	披著水豚皮的水豚
 206	戰鬥無尾熊球
 207	燕梓南
@@ -235,11 +235,11 @@
 234	摔角女貓
 235	鼴小龍
 236	颶風旋風
-237	Nyamusu
-238	Pochi
-239	Kuromi
-240	Setsuko
-241	Nebaaru-kun
+237	ニャームス
+238	ポチ
+239	クロミ
+240	せつ子
+241	ねば～る君
 242	大狂亂摩西根貓
 243	大狂亂橡皮貓
 244	大狂亂暗黑貓
@@ -257,31 +257,31 @@
 256	必殺達也
 257	吉娃娃伯爵
 258	狗仔紅帽咪娜
-259	Takuya & Lovely Yuki
+259	拓也與美腿小雪
 260	風箏貓
 261	天使野豬
 262	太鼓狗仔
 263	坑錢一族
-264	Funghi
+264	菇菇
 265	剛拳貓Ｇ
 266	小光
 267	般若我王
-268	Package Doge
-269	Futenyan
+268	やぐらわんこ
+269	ふてニャン
 270	倒棒貓
 271	森蜜子
 272	小噴噴
-273	Gertrud
-274	Charlotte
-275	Charlotte
-276	Kirsten
-277	Walpurgisnacht
-278	Kyubey
+273	玫瑰園的魔女
+274	零食的魔女
+275	蓓蓓
+276	箱的魔女
+277	舞台裝置的魔女
+278	丘比
 279	火舞貓
 280	黑暗野豬
 281	文化祭看板小妹
 282	促銷妹小雞
-283	Scarecrow Base
+283	木人城
 284	不死狗仔
 285	不死扭扭蛇
 286	不死河馬將
@@ -295,31 +295,31 @@
 294	不死旋風
 295	聖誕樹幹蛋糕貓
 296	歌后貓EX
-297	4th Anniversary Birthday Cake
-298	Niconico TV
-299	W v1
-300	W v2
-301	W v3
-302	NekoHakase
+297	週年紀念生日蛋糕
+298	テレビちゃん城
+299	W
+300	W
+301	W
+302	ネコ博士
 303	墓手花子
 304	不死大鯢
-305	Pikotaro
+305	PIKO太郎
 306	澎湃猛獁
 307	冰牆狗仔
 308	雪球
 309	棺材狗
 310	凹凸駝背
 311	殺意貓
-312	Corrupted Cat Base
-313	Hiroshi Mihara
-314	Nazousagi
-315	Doge Base
+312	殺意城
+313	三原慧悟
+314	クロウサギ
+315	狗仔城
 316	犬武者 武藏
 317	亡者肥普
 318	海豚姑娘
-319	Mobius
-320	Belial
-321	Happy 100
+319	奇蹟調和莫比烏斯
+320	猛進大叛徒貝利亞
+321	幸福連鎖哈皮100
 322	小小摩西根貓
 323	小小橡皮貓
 324	小小暗黑貓
@@ -331,27 +331,27 @@
 330	小小賈拉米貓
 331	復活節大鴨
 332	復活節臭老兔
-333	Moai Statue
-334	Wedding Kerihime
-335	Eternal Sleeping Beauty
+333	摩艾像
+334	婚紗飛踢公主
+335	熟睡的飛踢睡美人
 336	黃金狗仔
 337	金河馬將
 338	鴕鳥愛黃金
-339	Lost World Yuki
+339	失去世界的小雪
 340	炸烏賊天使
 341	紅色鼻涕蟲
 342	黑色鼻涕蟲
 343	天使鼻涕蟲
 344	貓咪賽車G
-345	Nekondo SP
+345	跆拳貓ＳＰ
 346	貓咪與梅露可
 347	貓咪推推
 348	奧爾托斯
 349	米希利亞
 350	留姬
-351	Gudetama Plate
-352	Gudegude à la mode
-353	Nisetama Army
+351	來盤蛋黃哥
+352	焦糖布丁蛋黃哥
+353	蛋黃人軍團
 354	貓咪仙人
 355	蛙助
 356	書呆子大猩猩
@@ -370,50 +370,50 @@
 369	Lancer
 370	Archer
 371	Rider
-372	Gilgamesh
-373	Rin Tohsaka
-374	Illyasviel
+372	吉爾加美什
+373	遠坂凜
+374	伊莉雅蘇菲爾
 375	大夢君
-376	5th Anniversary Birthday Cake
+376	週年紀念生日蛋糕
 377	超級異星旋風
-378	5th Anniversary Scarecrow Base
+378	週年紀念木人城
 379	飛天小豬
 380	神秘假面烏拉拉
-381	Karin Nekozuka
-382	Misaki Konno
-383	Sairi Nijitani
-384	Ren Katagiri
-385	Hater
-386	Prof. Wild Base
+381	貓塚花凜
+382	紺野美崎
+383	虹谷彩理
+384	片桐戀
+385	ゲドーくん
+386	ダイジョーブ博士城
 387	火馬
 388	激動咩咩
 389	及格野郎
 390	臘腸狗與機關槍
-391	Mentori
-392	Sachiel
-393	Ramiel
-394	Bardiel
-395	Zeruel
+391	懶得鳥
+392	第4使徒
+393	第6使徒
+394	第9使徒
+395	第10使徒
 396	狂亂萌貓
 397	狂亂偶像萌貓
 398	螢光棒幫
-399	Pokota
-400	Ovis
-401	Coco
-402	Moe Uzumasa & Doge
-403	Saki Matsuga & Doge
-404	Misa Ono & Doge
+399	POKOTA
+400	OVIS
+401	COCO
+402	太秦萌＆わんこ
+403	松賀咲＆わんこ
+404	小野ミサ＆わんこ
 405	傳奇噴噴Ω
 406	真傳奇噴噴
 407	古代狗仔
-408	Crazed Yuki
-409	Gude-Doge Machine
-410	Gudebene Cat
+408	狂亂的小雪
+409	蛋黃機器貓
+410	班尼迪克蛋黃貓
 411	猩好男人
 412	古代松鼠
 413	古代犀聖
 414	古代蠶舌蛾
-415	Betakkuma
+415	賤萌熊
 416	奈美黑
 417	快豚星人
 418	食蛙星人
@@ -427,14 +427,14 @@
 426	職權騷擾一族部長
 427	科熊怪人
 428	玉米鬚豬
-429	Homulilly
+429	胡桃鉗魔女
 430	宇宙聖誕老人
 431	愛作夢的貘
-432	Hikakin
-433	Mukyakin
+432	ヒカキン
+433	ムキャキン
 434	獅子姐妹
-435	6th Anniversary Birthday Cake
-436	6th Anniversary Scarecrow Base
+435	5週年紀念生日蛋糕
+436	5週年紀念木人城
 437	招福卷狗
 438	古代旋風
 439	小獅豬
@@ -446,68 +446,68 @@
 445	六角龍邪
 446	終極千兆宏偉神
 447	議事阻撓邪星貓
-448	Idol Mihara & Cat
+448	偶像三原&貓咪
 449	柏餅2.0
 450	土偶喵丸
-451	Maji Cat & Cat Tour Group
-452	Super Devil
-453	Satanmaria
-454	Wondermaria
-455	Beastly Nero
-456	Head Rococo
+451	麻吉貓&貓咪旅行團
+452	超級惡魔
+453	撒旦瑪利亞
+454	神奇瑪利亞
+455	魔肖猊玀
+456	首領洛可可
 457	軟糖貓
-458	Kitarou
-459	Eyeball Father
-460	Neko-Musume
-461	Kano & Souma
-462	Gekirinchii
-463	Judgement
-464	Eva Unit-13
+458	きたろう
+459	目玉おやじ
+460	ねこ娘
+461	佳乃與蒼真
+462	ゲキリンチー
+463	ジャッジメント
+464	覺醒的第13號機
 465	HAPPI
-466	HAPPI & Maji Cat & Cat
-467	Chocolate Cat
+466	HAPPI&麻吉貓&貓咪
+467	貓化巧克力
 468	不死小雞
 469	驚悚幫
-470	Shakurel Doge
-471	Shakurel Gory
-472	Shakurel Face
-473	Shakurel Lion
-474	Shakurel Tiger
-475	Shakurel Panda
-476	Dot Hero
+470	戽斗狗仔
+471	戽斗猩猩
+472	戽斗臉君
+473	戽斗獅子
+474	戽斗老虎
+475	戽斗熊貓
+476	點陣英雄
 477	河潤豚
 478	小蛋糕狗仔
 479	超新星鐵砲
-480	Ryu
-481	Chun-Li
-482	Guile
-483	Zangief
-484	Blanka
-485	Dhalsim
-486	Ken
-487	Car
-488	Akuma
-489	7th Anniversary Birthday Cake
-490	7th Anniversary Scarecrow Base
+480	隆
+481	春麗
+482	蓋爾
+483	桑吉爾夫
+484	布蘭卡
+485	塔爾錫
+486	肯
+487	BONUS STAGE
+488	豪鬼
+489	週年紀念生日蛋糕
+490	週年紀念木人城
 491	阿龜我王
 492	聖者波普
 493	太古蜜江
-494	Rat Doge
+494	鼠年狗仔
 495	妖怪河童Jr.
 496	巨狼與烏爾斯
 497	鋼鐵終結鱷
 498	毒火雞
 499	巨大斑海豹桑
-500	Hatsune Miku
-501	Sakura Miku
-502	Kagamine Rin & Len
-503	MikuDoge
-504	MikuGory
-505	MikuBear
+500	初音未來
+501	櫻花未來
+502	鏡音鈴&連
+503	初音狗仔
+504	初音猩猩
+505	初音熊熊
 506	綺羅星汪汪
-507	Messier
-508	Yakisoba U.F.O. Cat
-509	Yakisoba Face
+507	梅西耶
+508	ネコ焼そばU.F.O.
+509	ネコ焼そばカオル君
 510	巨象黑藏
 511	死靈妖精海蝶
 512	迷你不死旋風
@@ -516,39 +516,39 @@
 515	巨蛾蛾蛾
 516	達人烏嚕哩
 517	鋼鐵無尾熊球
-518	Super Zeus
-519	Shaman Khan
-520	Heracrist
+518	超級宙斯
+519	巫師汗
+520	耶穌大力士
 521	約翰藍龍
-522	Curseblast Doge Base
-523	Happy Birthday Cake
-524	Surge Doge Base
+522	古代詛咒城
+523	初音未來生日紀念蛋糕
+524	烈波城
 525	巨大河馬星人
 526	異弟:Re
 527	紫骨不死燕
-528	E. Honda
-529	Balrog
-530	Vega
-531	Sagat
-532	M. Bison
-533	8th Anniversary Birthday Cake
-534	8th Anniversary Scarecrow Base
+528	E. HONDA
+529	拜森
+530	巴洛克
+531	沙卡特
+532	貝卡
+533	週年紀念生日蛋糕
+534	週年紀念木人城
 535	惡之貓帝王
-536	Megurine Luka
-537	Cow Doge
+536	巡音流歌
+537	牛年狗仔
 538	飛機頭豬
 539	巧克力狗仔
-540	Snow Miku 2021
+540	雪未來2021
 541	狐兵衛
-542	Ranma Saotome (Male)
-543	Akane Tendo
-544	Ryoga Hibiki
-545	Shampoo
-546	Mousse
+542	早乙女亂馬（男）
+543	天道茜
+544	響良牙
+545	珊璞
+546	沐絲
 547	魚尾石
 548	威化餅貓BIG
 549	憤怒的黑猩猩
-550	Shin Godzilla
+550	哥吉拉
 551	古神炎多龍
 552	惡魔狗仔哥
 553	惡魔扭扭蛇
@@ -562,22 +562,22 @@
 561	邪惡貓咪
 562	邪惡坦克貓
 563	邪惡戰鬥貓
-564	
-565	
-566	
-567	
-568	
-569	Wicked Titan Cat
+564	惡魔噁心貓
+565	惡魔牛貓
+566	惡魔鳥貓
+567	惡魔魚貓
+568	惡魔蜥蜴貓
+569	惡魔巨神貓
 570	神官瑪魔
 571	大神官瑪魔
 572	破壞神邪根德
 573	受操控的貓咪女王
-574	Aku Altar
-575	Aku Altar (Dispelled)
+574	惡魔城
+575	封印的惡魔城
 576	大球（白色）
 577	大球（紅色）
 578	大球（鋼鐵）
-579	Kyubey
+579	丘比
 580	陣風（白色）
 581	陣風（紅色）
 582	陣風（黑色）
@@ -588,19 +588,19 @@
 587	惡魔達也
 588	惡魔無尾熊球
 589	假面的貓咪仙人
-590	9th Anniversary Cake
-591	9th Anniversary Dojo Base
+590	9週年紀念蛋糕狗仔
+591	9週年紀念木人樁城堡
 592	紅鬣狼G
 593	特大號大天使
 594	巨大企鵝大哥Z
-595	Tiger Doge
-596	Nana
-597	Emelia
+595	虎年狗仔
+596	耐耐&狗仔
+597	艾米莉亞&狗仔
 598	煙火球
 599	超古獸納拉
 600	不死的水豚
-601	Childhood Friend Base
-602	Tomboy Base
+601	心儀對象的邀約
+602	告白聖地
 603	野生狗仔
 604	超鳥獸鴨子喬
 605	超龍獸眉毛角鴞
@@ -615,22 +615,22 @@
 614	超爆獸不死蟻
 615	大天使小海蝶
 616	貓神面烏拉拉
-617	Osamu Mikumo
-618	Yuma Kuga
-619	Marmod (White)
-620	Marmod (Red)
-621	Marmod (Black)
-622	Sakura
-623	Luke
+617	三雲修&狗仔
+618	空閑由真&狗仔
+619	莫爾默德
+620	紅莫爾默德
+621	黑莫爾默德
+622	櫻
+623	路克
 624	超翼獸起源小雞
-625	10th Anniversary Cake
-626	10th Anniversary Scarecrow Base
+625	週年紀念生日蛋糕
+626	週年紀念木人城
 627	超古獸摩鴨喬
 628	超猿獸露薩
 629	超生命體傑洛露薩
 630	異界阻撓貓
-631	Rabbit Doge
-632	Relic Base
+631	兔年狗仔
+632	古木城堡
 633	殺意坦克貓
 634	超舌獸長舌大師
 635	彩蛋貓之３
@@ -642,20 +642,20 @@
 641	超象獸澎澎歐
 642	大魔王貓彈
 643	大魔導士迷魔
-644	
-645	10th Half Anniversary Cake
-646	Readhead Beauty Macho Yuki Cat
-647	Eva Unit-13
-648	Pierrot Castle
+644	(無)
+645	週年紀念生日蛋糕
+646	紅髮筋肉美腿小雪貓
+647	EVA第13號機
+648	完美新娘恐怖婚宴小丑城
 649	聖天極破壞一族
 650	超爆獸恐暴約翰
-651	Shinji Castle
+651	EVA劇終真嗣城
 652	超魚獸不死燈魚
 653	爸氣妖怪河童
 654	機械咩咩
 655	超牙獸鱷魚雷克斯
-656	Hatsune Miku 16th
-657	Sports Day Base
+656	初音未來 16th
+657	熱血！大隊接力之城
 658	迷你天使旋風
 659	超禍獸真格利昂
 660	極惡摩西根貓
@@ -667,22 +667,27 @@
 666	極惡島貓
 667	極惡龍王貓
 668	極惡賈拉米貓
-669	Pot Base
-670	Doge Lord
-671	Doge Lord the Great
-672	11th Anniversary Cake
-673	11th Anniversary Scarecrow Base
+669	ツボ洞窟
+670	わんわん大王Jr
+671	わんわん大王
+672	週年紀念生日蛋糕
+673	週年紀念木人城
 674	貓咪神面烏嚕哩
-675	SOL DAE ROKKER
-676	Dragon Doge
+675	
+676	
 677	論之賢者蘇拉格底
-678	Killer Axe Cat Base
+678	
 679	名賢狗仔
 680	天使眼鏡猴人
-681	Long Dojo Base
+681	
 682	黑暗杜賓
 683	大型陶器埴輪巨犬
-684	Mysterious Disaster
-685	Manipulated Doge Lord
+684	
+685	
 686	染香綺狐 ‧ 妲己
 687	瘋頭
+688	
+689	
+690	
+691	
+692	KO博士袋拳

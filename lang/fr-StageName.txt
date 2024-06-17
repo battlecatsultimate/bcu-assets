@@ -1602,6 +1602,24 @@
 001-368-000	Célébration des 90 millions !
 001-371		Pack mystère
 001-371-000	Expéditeur inconnu
+001-372		Week-end de miel 1
+001-372-000	Village du sacrifice
+001-372-001	Offre un sacrifice pour partir
+001-372-002	Offrande de l'ex
+001-373		Week-end de miel 2
+001-373-000	Village du sacrifice
+001-373-001	Offre un sacrifice pour partir
+001-373-002	Offrande de la belle-mère
+001-374		Week-end de miel : final
+001-374-000	Village du sacrifice
+001-374-001	Offre un sacrifice pour partir
+001-374-002	Offrande de la mariée
+001-375		Première course NEO
+001-375-000	Bébés d'abord (sans répit)
+001-375-001	Jacasseur professionnel (sans répit)
+001-376		Super Smash Familles
+001-376-000	Chemin traître (brutal)
+001-376-001	Chemin atroce (brutal)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3387,6 +3405,8 @@
 011-006-000	Into the Fray: Servants Strike!
 011-007		Arène de l'honneur
 011-007-000	Aqua Paradiso
+011-008		Arena of Honor
+011-008-000	Princess Punt's Army
 011-010		Arène de l'honneur
 011-010-000	Attaque des Shakurels
 011-011		Arène de l'honneur
@@ -5474,3 +5494,10 @@
 034-010-003	Marchand d’ananas
 034-010-004	Micro-gratte-ciel
 034-010-005	Oiseau bleu fantôme
+034-011		Paradis du sucre
+034-011-000	Cimetière de soja
+034-011-001	Rivage du lac Pointu
+034-011-002	Averse de sucreries
+034-011-003	Archipel des yaourts
+034-011-004	Ruines des emporte-pièces
+034-011-005	Pays des merveilles bonbons

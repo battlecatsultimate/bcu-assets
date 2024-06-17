@@ -1597,6 +1597,24 @@
 001-368-000	90M Festeggiamo!
 001-371		Pack misterioso
 001-371-000	Mittente anonimo
+001-372		Weekend Luna di miele n. 1
+001-372-000	Villaggio del sacrificio
+001-372-001	Offri sacrificio per andare via
+001-372-002	Offerta ex-ragazzo
+001-373		Weekend Luna di miele n. 2
+001-373-000	Villaggio del sacrificio
+001-373-001	Offri sacrificio per andare via
+001-373-002	Offerta suocera
+001-374		Weekend Luna di miele: Finale
+001-374-000	Villaggio del sacrificio
+001-374-001	Offri sacrificio per andare via
+001-374-002	Offerta sposo
+001-375		Prima faccenda NEO
+001-375-000	Prima i neonati (Spietato)
+001-375-001	Chiacchierone professionale (Spietato)
+001-376		Famiglie della super schiacciata
+001-376-000	Strada insidiosa (Brutale)
+001-376-001	Strada nefanda (Brutale)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3382,6 +3400,8 @@
 011-006-000	Into the Fray: Servants Strike!
 011-007		Arena of Honor
 011-007-000	Aqua Paradiso
+011-008		Arena of Honor
+011-008-000	Princess Punt's Army
 011-010		Arena of Honor
 011-010-000	L'attacco dei Shakurel
 011-011		Arena of Honor
@@ -5438,3 +5458,10 @@
 034-010-003	Mercante di ananas
 034-010-004	Grattaterra
 034-010-005	Sialia fantasma
+034-011		Paradiso dei dolciumi
+034-011-000	Cimitero dei fagioli di soia
+034-011-001	Lago a punta
+034-011-002	Pioggia di dolciumi
+034-011-003	Arcipelago di yogurt
+034-011-004	Rovine tagliabiscotti
+034-011-005	Paesaggio pop-pop

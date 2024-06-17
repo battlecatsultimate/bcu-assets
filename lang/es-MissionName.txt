@@ -801,3 +801,4 @@
 9486	【88,88 M DCS】. ¡Supera la fase "Paquete Misterioso"!
 9487	【88,88 M DCS】Mejora al Gato Basura al nivel 10 . durante el evento de 88,88 M DCS
 9488	【88,88 M DCS】Mejora al Gato Basura al nivel 20 . durante el evento de 88,88 M DCS
+9492	¡Gana 1 Huevo Antiguo: N205 en . las bolas de Novia del Diablo de Junio!

@@ -190,6 +190,8 @@
 197	1.000.000 XP
 199|S199|I427	Legend. Glücksb.
 200|S200|I428	Liebesbrief
+201|S201|I11	XP
+202|S202|I429	Weihwasser
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -395,6 +397,7 @@
 10522	Nagakatze
 10532	Totengräbärkatze
 10540	Gridiron-Katze
+10554	Pfannenhühnchen-Katze
 10555	Esoterischer Uril
 10622	Katzenforscher
 10630	Gehirngewaschene Irokatze
@@ -640,6 +643,7 @@
 15718	Bauernjungenkatze
 15721	Gefallene Bärenkatze
 15725	Katzeneierkapsel
+15758	Brautkatze
 16131	Erwachte Ururun
 16173	Schulbus-Nyandam
 16269	Erwachte Mina

@@ -190,6 +190,8 @@
 197	1000000 XP
 199|S199|I427	Legendary Charm
 200|S200|I428	Love Letter
+201|S201|I11	XP
+202|S202|I429	Holy Water
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -395,6 +397,7 @@
 10522	Naga Cat
 10532	Cadaver BearCat
 10540	Gridiron Cat
+10554	Fried Chicken Cat
 10555	Esoteric Uril
 10622	Cat Researcher
 10630	Brainwashed Mohawk Cat

@@ -623,8 +623,8 @@
 622	
 623	
 624	Oiseau ancestral nimbé de foudre qui vit dans<br>une tour céleste. Selon la légende, cette créature<br>majestueuse dissimule néanmoins un naturel violent,<br>en particulier quand il est acculé.
-625	
-626	
+625	<br><br><br>
+626	<br><br><br>
 627	Canard vieux jeu qui traîne trois petits.<br>Tendance à se mettre en boule. Un parent<br>sévère qui élève ses canetons pour qu’un jour ils quittent<br>le nid. Envoie de l’argent à son plus jeune caneton.
 628	Un grand gorille qui garde le bois Sacré<br>depuis les temps anciens. Considéré comme l’origine de<br>l’homme. Peut résister aux Béhémoths qui<br>savent manier le « Mal ancien ».
 629	Emmagasine le Charburant et fabrique toutes choses.<br>Grâce à sa puissance ultime totalement éveillée, accule<br>ses ennemis sans pitié avec ses énormes pattes et achève<br>ses proies en faisant montre d’une puissance implacable.
@@ -686,3 +686,8 @@
 685	
 686	
 687	
+688	
+689	
+690	
+691	
+692	Scientifique souhaitant prouver sa bravoure à son<br>fils délinquant en maîtrisant la boxe. A développé<br>une technologie de dopage indétectable grâce à<br>l'intelligence conférée par la pierre de victoire.

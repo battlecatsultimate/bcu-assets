@@ -190,6 +190,8 @@
 197	1.000.000 XP
 199|S199|I427	Amul. leggendario
 200|S200|I428	Lettera d'amore
+201|S201|I11	XP
+202|S202|I429	Acqua santa
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -395,6 +397,7 @@
 10522	Gatto Naga
 10532	Gattorso cadavere
 10540	Gatto griglia
+10554	Gatto pollo fritto
 10555	Uril esoterico
 10622	Gatto ricercatore
 10630	Gatto punk plagiato
@@ -640,6 +643,7 @@
 15718	Gatto contadino
 15721	Gatto Orso perduto
 15725	Gatto capsula uovo
+15758	Gatta sposa
 16131	Ururun risvegliata
 16173	Scuolabus Nyandam
 16269	Mina risvegliata

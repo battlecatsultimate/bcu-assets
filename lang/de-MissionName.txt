@@ -806,3 +806,4 @@
 9486	(88,88M DL). Schließe das Level „Mysteriöses Paket“ ab!
 9487	(88,88M DL) Verbessere Müllkatze auf St. 10. Muss während des 88,88M-DL-Events geschehen
 9488	(88,88M DL) Verbessere Müllkatze auf St. 20. Während des 88,88M-DL-Events abschließen
+9492	Verdiene 1 Uraltes Ei: N205 aus den "Juni-Braut des Teufels"-Kapseln!

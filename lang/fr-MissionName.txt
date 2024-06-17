@@ -806,3 +806,4 @@
 9486	[88,88M] . Termine le niveau Pack mystère !
 9487	[88,88M] Améliore le Chat poubelle au niveau 10. À effectuer pendant l'événement 88 880 000 joueurs
 9488	[88,88M] Améliore le Chat poubelle au niveau 20. À effectuer pendant l'événement 88 880 000 joueurs
+9492	Obtiens 1 œuf ancien N205 dans les Chapsules. de la Mariée de juin !

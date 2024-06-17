@@ -36,7 +36,7 @@
 -1010	卓越精選	//Excellent Selection 468
 -1011	超國王祭	//Emperor Cat 562
 -1012	女王祭	//Empress Cat 602
--1013	90M Download Anniversary Gacha
+-1013	9000萬下載紀念選拔轉蛋
 -2000	公主踢騎士	//Princess Punt 176
 -2001	消滅都市	//Annihilation City 180
 -2002	梅露可物語	//Merc 185
@@ -67,6 +67,7 @@ E20	貓咪的暑假	//Summer Break Cats
 E22	春節活動轉蛋	//Lunar New Year
 E23	心動時分貓咪學園
 E24	惡魔的完美新娘
+E25	9th Anniversary Special Capsules
 E26	貓咪的暑假
 E27	Medal Cat King's Hall Capsules
 E28	春節活動轉蛋

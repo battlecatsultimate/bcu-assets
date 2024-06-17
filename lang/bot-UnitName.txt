@@ -210,7 +210,7 @@
 209	Li'l Cat	Li'l Macho Cat	Li'l Mohawk Cat
 210	Li'l Tank Cat	Li'l Wall Cat	Li'l Eraser Cat
 211	Li'l Axe Cat	Li'l Brave Cat	Li'l Dark Cat
-212	The White Rabbit	The Black Cat	The Grey Fox	Spectrum Cat
+212	The White Rabbit	The Black Cat	The Grey Fox	The Spectral Cat
 213	Catburger	Cat Royale	Value Meal Cat
 214	HYAKUTARO	HYAKUTARO CC
 215	MARCO	MARCO CC
@@ -754,5 +754,5 @@
 753	Kaoru Cat	Kenjutsu Beauty Kaoru Cat
 754	Akechi Mitsuhide	Wargod Mitsuhide
 755	Mitsuhide Spirit
-756	Wedding Cake Cat Machine	Wedding Cake Cat Machine Mk 2
+756	Cake Machine	Wedding Cake Machine
 757	Ancient Egg: N205	Violet Egg: N205	Bride Cat

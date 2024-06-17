@@ -343,7 +343,7 @@
 342	Limace noire
 343	Limace angélique
 344	Cat Kart P
-345	
+345	Chatkwondo SP
 346	Merc & Cat
 347	Titi Cat
 348	Orthos
@@ -687,3 +687,7 @@
 686	Voluptuous Peony - Daji
 687	Madhead
 688	
+689	
+690	
+691	
+692	Docteur K.O.

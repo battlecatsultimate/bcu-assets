@@ -190,6 +190,8 @@
 197	1 000 000 XP
 199|S199|I427	Amuleto legendario
 200|S200|I428	Carta de amor
+201|S201|I11	XP
+202|S202|I429	Agua bendita
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -395,6 +397,7 @@
 10522	Gato Naga
 10532	Gato Cadaveroso
 10540	Quartercat
+10554	Gato Pollo Frito
 10555	Uril Esotérico
 10622	Investigator
 10630	Gato Crestado adoctrinado
@@ -639,6 +642,7 @@
 15718	Gato Granjero
 15721	Oso Caído Gatuno
 15725	Vaina de huevo gatuno
+15758	Gata Prometida
 16131	Ururun Alzado
 16173	Nyandam Bus Escolar
 16269	Mina Alzada

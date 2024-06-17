@@ -711,7 +711,7 @@
 9352	Complete 5 Gamatoto expeditions! Send Gamatoto to any
 50	Clear 15 Behemoth Culling stages for the first time
 51	Clear 20 of Behemoth Culling stages for the first time
-9353	Earn one Ancient Egg: N201 from . the June Bride of the Devil capsules!
+9353	Earn one Ancient Egg: N201 from . June Bride Capsules!
 9354	Clear any "#01 The Ghost Chapel"
 9355	Clear any "#01 The Ghost Chapel"
 9356	Clear any "#01 The Ghost Chapel"
@@ -771,13 +771,13 @@
 58	Clear 45 Behemoth Culling Stages for the first time
 59	Clear all Level 2 Uncanny Legend stages. to complete this mission
 9424	Cyclone Festival Missions. Clear the "The Great Diablo" stage!
-9425	Earn one Ancient Egg: N203 from . the June Bride of the Devil capsules!
+9425	Earn one Ancient Egg: N203 from . June Bride Capsules!
 9426	Score more than 8200 points on . stage 1 of #02 Banquet of Terror!
 9427	Score more than 7200 points on . stage 2 of #02 Banquet of Terror!
 9428	Score more than 7100 points on . stage 3 of #02 Banquet of Terror!
 9429	Score more than 6200 points on . stage 4 of #02 Banquet of Terror!
 9430	Score more than 4500 points on . stage 5 of #02 Banquet of Terror!
-9431	Earn one B. Stone from . clearing the score target on #02 Banquet of Terror stage 1-5!
+9431	Earn one B. Stone by clearing all score targets. in stages 1~5 of  #02 Banquet of Terror!
 9432	【Q1. What's in the Box?】
 9433	【Ultra Quiz】Clear Missions Q1~5 and. claim your Million Dollar prize (according to Cat CPU)!
 60	Clear 50 Behemoth Culling stages for the first time!
@@ -806,3 +806,4 @@
 9486	【88.88M DL】. Clear the "Mystery Package" stage!
 9487	【88.88M DL】Upgrade Trash Cat to Level 10. Must be done during 88,880,000 DL event
 9488	【88.88M DL】Upgrade Trash Cat to Level 20. Complete during the 88,880,000 DL event
+9492	Earn one Ancient Egg: N205 from . June Bride Capsules!

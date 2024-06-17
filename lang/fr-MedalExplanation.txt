@@ -114,3 +114,4 @@
 113	Terminer le 50e étage de la Tour infernale
 114	Reçois Soracte, mentor mental
 115	Termine Attaque de Gigahaniwan !
+116	Termine Super Smash Familles

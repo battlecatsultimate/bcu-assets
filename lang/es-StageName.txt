@@ -1593,6 +1593,24 @@
 001-368-000	¡Celebración de los 90 M!
 001-371		Paquete Misterioso
 001-371-000	Sin Remitente
+001-372		Finde de Luna de Miel 1
+001-372-000	Pueblo del Sacrificio
+001-372-001	Ofrece un sacrificio para salir
+001-372-002	Ofrenda del Exnovio
+001-373		Finde de Luna de Miel 2
+001-373-000	Pueblo del Sacrificio
+001-373-001	Ofrece un sacrificio para salir
+001-373-002	Ofrenda de la Suegra
+001-374		Último Finde de Luna de Miel
+001-374-000	Pueblo del Sacrificio
+001-374-001	Ofrece un sacrificio para salir
+001-374-002	Ofrenda de los Novios
+001-375		Primer Recado NEO
+001-375-000	Bebés Primero (Inhumano)
+001-375-001	Charlatán Profesional (Inhumano)
+001-376		Familias Superremate
+001-376-000	Carretera Traicionera (Brutal)
+001-376-001	Carretera Atroz (Brutal)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3377,6 +3395,8 @@
 011-006-000	Into the Fray: Servants Strike!
 011-007		Arena of Honor
 011-007-000	Aqua Paradiso
+011-008		Arena of Honor
+011-008-000	Princess Punt's Army
 011-010		Arena of Honor
 011-010-000	Ataque de los Shakurels
 011-011		Arena of Honor
@@ -5475,3 +5495,10 @@
 034-010-003	Pineapple Merchant
 034-010-004	Groundscraper
 034-010-005	Phantom Bluebird
+034-011		Paraíso de Chuches
+034-011-000	Cementerio de soja
+034-011-001	Orilla puntiaguda
+034-011-002	Lluvia de chuches
+034-011-003	Archipiélago Yogur
+034-011-004	Ruinas Cortador de Galletas
+034-011-005	País Maravilla de Piruleta

@@ -76,6 +76,7 @@ E26	Summer Break Capsules
 E27	Medal Cat King's Hall Capsules
 E28	New Moon Capsules
 E29	June Bride of Devil Capsules
+E30	10th Anniversary Memorial Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -854,3 +855,4 @@ N65	Cats Eye Capsules
 886	-107	754
 887	-115	756
 888	-2030
+889	-1007	758

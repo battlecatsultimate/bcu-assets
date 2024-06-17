@@ -210,7 +210,7 @@
 209	แมวเล็ก	แมวเล็กนักกล้าม	แมวเล็กโมฮอว์ก	
 210	แมวเล็กแทงก์	แมวเล็กกำแพง	แมวเล็กยางลบ	
 211	แมวเล็กขวาน	แมวเล็กกล้าหาญ	แมวเล็กมืด	
-212	กระต่ายขาว	แมวดำ	จิ้งจอกเทา	
+212	กระต่ายขาว	แมวดำ	จิ้งจอกเทา	แมวภูติผี
 213	แมวเบอร์เกอร์	แมวรอยัลเบอร์เกอร์	แมวมื้อประหยัด	
 214	HYAKUTARO	HYAKUTARO CC		
 215	MARCO	MARCO CC		
@@ -551,7 +551,7 @@
 550	The 10th Angel	10th Angel Cat		
 551	The 9th Angel	9th Angel Cat		
 552	Kaworu Cat	Moon Kaworu Cat		
-553	แมวเบเกอรี่	แมวบูมเมอแรง		
+553	แมวเบเกอรี่	แมวบูมเมอแรง	แมวไก่ทอด	
 554	มาสเตอร์ยูริล	มิสติกยูริล	ยูริลสุดพิลึก	
 555	Shaman Khan	All-Loving Shaman Khan		
 556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba	
@@ -744,3 +744,15 @@
 743	Madhead	Madhead Cat		
 744	Felix the Cat Duke Cat	Mercenary Leader Felix Cat		
 745	Dotty Cat	Birthday Dotty Cat		
+746			
+747			
+748			
+749			
+750			
+751			
+752			
+753			
+754	อะเคชิ มิตซุฮิเดะ	เทพสงคราม มิตซุฮิเดะ		
+755				
+756	เครื่องทำเค้ก	เครื่องทำเค้กแต่งงาน		
+757	ไข่โบราณ: N205	ไข่สีม่วง: N205	แมวเจ้าสาว	

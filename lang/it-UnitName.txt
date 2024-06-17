@@ -210,7 +210,7 @@
 209	Mini Gatto	Mini Gatto macho	Mini Gatto punk	
 210	Mini Gatto Panzer	Mini Gatto muro	Mini Gatto gomma	
 211	Mini Gatto ascia	Mini Gatto prode	Mini Gatto oscuro	
-212	La Bianconiglietta	Il Gatto nero	La Volpe grigia	
+212	La Bianconiglietta	Il Gatto nero	La Volpe grigia	Il gatto spettrale
 213	Miaoburger	Gatto Royal	Gatto Menù	
 214	HYAKUTARO	HYAKUTARO CC		
 215	MARCO	MARCO CC		
@@ -551,7 +551,7 @@
 550	The 10th Angel	10th Angel Cat		
 551	The 9th Angel	9th Angel Cat		
 552	Kaworu Cat	Moon Kaworu Cat		
-553	Gatto fornaio	Gatto boomerang		
+553	Gatto fornaio	Gatto boomerang	Gatto pollo fritto	
 554	Maestro Uril	Uril mistico	Uril esoterico	
 555	Shaman Khan	All-Loving Shaman Khan		
 556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba	
@@ -744,3 +744,15 @@
 743	Madhead	Madhead Cat		
 744	Felix the Cat Duke Cat	Mercenary Leader Felix Cat		
 745	Dotty Cat	Birthday Dotty Cat		
+746			
+747			
+748			
+749			
+750			
+751			
+752			
+753			
+754	Akechi Mitsuhide	Mitsuhide Dio della guerra		
+755				
+756	Macchina torta	Macchina torta nuziale		
+757	Uovo antico N205	Uovo viola N205	Gatta sposa	

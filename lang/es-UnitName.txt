@@ -210,7 +210,7 @@
 209	Minigato	Minigato Mazado	Minigato Crestado	
 210	Minidefensor	Minigato Muro	Minigato Borrador	
 211	Minihachero	Minigato Valiente	Minigato Oscuro	
-212	Conejita Blanca	Gata Negra	Zorro Gris	
+212	Conejita Blanca	Gata Negra	Zorro Gris	Gato Espectral
 213	Gatomburguesa	Gatorroyal	Gato Comida para Llevar	
 214	HYAKUTARO	HYAKUTARO CC		
 215	MARCO	MARCO CC		
@@ -551,7 +551,7 @@
 550	The 10th Angel	10th Angel Cat		
 551	The 9th Angel	9th Angel Cat		
 552	Kaworu Cat	Moon Kaworu Cat		
-553	Gato Repostero	Gato Bumerán		
+553	Gato Repostero	Gato Bumerán	Gato Pollo Frito	
 554	Maestro Uril	Uril Místico	Uril Esotérico	
 555	Shaman Khan	All-Loving Shaman Khan		
 556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba	
@@ -744,3 +744,15 @@
 743	Madhead	Madhead Cat		
 744	Felix the Cat Duke Cat	Mercenary Leader Felix Cat		
 745	Dotty Cat	Birthday Dotty Cat		
+746			
+747			
+748			
+749			
+750			
+751			
+752			
+753			
+754	Akechi Mitsuhide	Dios de la Guerra Mitsuhide		
+755				
+756	Máquina de Tartas	Máquina de Tartas de Boda		
+757	Huevo Antiguo N205	Huevo morado N205	Gata Prometida	
