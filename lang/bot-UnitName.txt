@@ -756,3 +756,4 @@
 755	Mitsuhide Spirit
 756	Cake Machine	Wedding Cake Machine
 757	Ancient Egg: N205	Violet Egg: N205	Bride Cat
+758	Dazzling Mercenary Trixie	Vengeance Mercenary Trixie
