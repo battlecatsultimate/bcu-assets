@@ -37,6 +37,8 @@
 -1011	超國王祭	//Emperor Cat 562
 -1012	女王祭	//Empress Cat 602
 -1013	9000萬下載紀念選拔轉蛋
+-1014	夏日美少女團Sunshine
+-1015	夏日美少女團Blue Ocean
 -2000	公主踢騎士	//Princess Punt 176
 -2001	消滅都市	//Annihilation City 180
 -2002	梅露可物語	//Merc 185
@@ -72,6 +74,7 @@ E26	貓咪的暑假
 E27	Medal Cat King's Hall Capsules
 E28	春節活動轉蛋
 E29	惡魔的完美新娘
+E31	貓咪的暑假
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -861,3 +864,13 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 886	-107	754
 887	-115	756
 888	-2030
+889	-1007	758
+890	-4	760
+891	-4	760
+892	-105	760
+893	-106	760
+894	-104	760
+895	-107	760
+896	-1014
+897	-1015	759
+898	-1011	736, 737, 756

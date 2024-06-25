@@ -37,6 +37,8 @@
 -1011	Dynastyfest	//Emperor Cat 562
 -1012	Royalfest	//Empress Cat 602
 -1013	90M Download Anniversary Gacha
+-1014	Summer Gals Sunshine
+-1015	Summer Gals Blue Ocean
 -2000	Princess Punt Collab Gacha	//Princess Punt 176
 -2001	Annihilation City COllab Gacha	//Annihilation City 180
 -2002	Merc Storia Collab Gacha	//Merc 185
@@ -77,6 +79,7 @@ E27	Medal Cat King's Hall Capsules
 E28	New Moon Capsules
 E29	June Bride of Devil Capsules
 E30	10th Anniversary Memorial Capsules
+E31	Summer Break Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -856,3 +859,12 @@ N65	Cats Eye Capsules
 887	-115	756
 888	-2030
 889	-1007	758
+890	-4	760
+891	-4	760
+892	-105	760
+893	-106	760
+894	-104	760
+895	-107	760
+896	-1014
+897	-1015	759
+898	-1011	736, 737, 756
