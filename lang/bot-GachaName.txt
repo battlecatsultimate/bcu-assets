@@ -27,6 +27,8 @@
 -115	June Bride Gacha	//June Bride 731
 -116	Colossus Busters
 -117	Busterfest
+-118	Gals of Summer Sunshine
+-119	Gals of Summer Blue Ocean
 -1000	Ultra Selection Gacha	//Ultra Selection 191
 -1001	Miracle Selection Gacha	//Miracle Selection 192
 -1002	Farewell Gacha	//2017 262
@@ -37,8 +39,6 @@
 -1011	Dynastyfest	//Emperor Cat 562
 -1012	Royalfest	//Empress Cat 602
 -1013	90M Download Anniversary Gacha
--1014	Summer Gals Sunshine
--1015	Summer Gals Blue Ocean
 -2000	Princess Punt Collab Gacha	//Princess Punt 176
 -2001	Annihilation City COllab Gacha	//Annihilation City 180
 -2002	Merc Storia Collab Gacha	//Merc 185
@@ -865,6 +865,13 @@ N65	Cats Eye Capsules
 893	-106	760
 894	-104	760
 895	-107	760
-896	-1014
-897	-1015	759
+896	-118
+897	-119	759
 898	-1011	736, 737, 756
+899	-106	754
+900	-107	754
+901	-106	760
+902	-107	760
+903	-118
+904	-119	759
+905	-2030
