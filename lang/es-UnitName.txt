@@ -57,7 +57,7 @@
 056	Gato Arquero	Gato Cupido	Gatauro	
 057	Gato Saqueador	Gato Berserker	Gato Paladín	
 058	Gato Espadachín	Gato Maestro de la Espada	Gato Duelista	
-059	Gato Bebé	Gatos Bebés	Cuna de Gatos	
+059	Gato Bebé	Gatos Bebés	Cuna de Gatos	Sillita de Gatos
 060	Gato de Bronce	Gato Miguel Ángel	Gato Concursante	
 061	Gato Sushi	Gato Gamba Frita	Gato Huevas	
 062	Toy Machine Cat	Vendor Cat		
@@ -268,7 +268,7 @@
 267	Gatornado	Huragato	Gatifón	
 268	Mina Caperucita	Mina Carmesí	Mina Alzada	
 269	Gao Bebé	Gao Señor Poderoso		
-270	Crazed Yuki	Crazed Yuki ＆ Cat	Crazed Catgirl Yuki	
+270	Crazed Yuki	Crazed Yuki & Cat	Crazed Catgirl Yuki	
 271	Amaterasu Reluciente	Amaterasu Gloriosa	Amaterasu Todopoderosa	
 272	Ganesha Espléndido	Ganesha Exaltado	Ganesha Todopoderoso	
 273	Gata Animadora	Gata Camarera	Gata Restauradora	
@@ -446,7 +446,7 @@
 445	Gato Cortador	Gato Supercortador	Neogato Cortador	
 446	Gato Retroexcavadora	Gato Superretroexcavadora	Neogato Retroexcavadora	
 447	Gato Aserrador	Gato Superaserrador	Neogato Aserrador	
-448	Musashi Miyamoto	Dios de la Guerra Miyamoto		
+448	Musashi Miyamoto	Dios de la Guerra Miyamoto	Miyamoto Inmortal	
 449	Directora Jeanne	Directora Jeanne (ψ)		
 450	Babel Señor Supremo	Babel Llama Oscura	Babel, Dios Emperador	
 451	Ushiwakamaru	Benkei Colosal		
@@ -526,7 +526,7 @@
 525	Kintaro	Robotropa de Kinrangers	Supertropa de Kinrangers	
 526	Astrogemelas Navideñas	Astrogemelas Navideñas (Φ)		
 527	Gatobaba	Medugato		
-528	Gato Cosaco	Gato Vodka		
+528	Gato Cosaco	Gato Vodka	Guardia Real Gatuna	
 529	Kasli el Azote	Kasli Santa Ritual		
 530	Herme	Herme CC		
 531	Gato Profeoso	Gato Asesinoso	Gato Cadaveroso	
@@ -645,7 +645,7 @@
 644	Mekako Amante	Mekako Agridulce	Mekako Amante Menta	
 645	Gato Hachero Adoctrinado	Gato Valiente Adoctrinado	Gato Oscuro adoctrinado	
 646	Gato Petardo	Gato Petardo macho		
-647	Terun Cazadora	Terun Cazadora ζ		
+647	Terun Cazadora	Terun Cazadora ζ	Terun Cazadora Divina ζ	
 648	Infrademonio Enamorado	Suprademonio Enamorado		
 649	Hattori Hanzo	Dios de la Guerra Hanzo		
 650	Gata Amante	Gata Novia		
@@ -744,15 +744,19 @@
 743	Madhead	Madhead Cat		
 744	Felix the Cat Duke Cat	Mercenary Leader Felix Cat		
 745	Dotty Cat	Birthday Dotty Cat		
-746			
-747			
-748			
-749			
-750			
-751			
-752			
-753			
+746	Kenshin Himura	Kenshin Himura CC		
+747	Sanosuke Sagara	Sanosuke Sagara CC		
+748	Aoshi Shinomori	Aoshi Shinomori CC		
+749	Hajime Saito	Hajime Saito CC		
+750	Li'l Kaoru	Li'l Kaoru CC		
+751	Li'l Yahiko	Li'l Yahiko CC		
+752	Kenshin Cat	Battosai Cat		
+753	Kaoru Cat	Swordscat Kaoru		
 754	Akechi Mitsuhide	Dios de la Guerra Mitsuhide		
 755				
 756	Máquina de Tartas	Máquina de Tartas de Boda		
 757	Huevo Antiguo N205	Huevo morado N205	Gata Prometida	
+758			
+759	Trónica Festival	Trónica Festival β		
+760	Gunduros	Gunduros Dragón Iracundo		
+761				

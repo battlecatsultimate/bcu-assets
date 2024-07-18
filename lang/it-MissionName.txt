@@ -612,7 +612,7 @@
 9239	【Invasione】Supera il livello "Il re e la fanciulla"! Devi anche superare il livello di continuazione associato
 9240	Compito per le vacanze ①: Scegli un argomento per il diario. Supera 5 livelli di Gatti estivi
 9241	Compito per le vacanze ②: Scegli il 2° argomento. Supera 10 livelli di Gatti estivi
-9242	Compito per le vacanze ③: Scegli il 3° argomento. Supera 30 livelli di Gatti estivi
+9242	Compiti per le vacanze ①: Trova un bel tema su cui scrivere.  Supera 20 livelli di Gatti estivi
 9243	Compito per le vacanze ④: Scrivi il diario. Supera Nascondiglio fatiscente 5 volte
 9244	Compito per le vacanze ⑤: Riscrivi il diario con stile. Supera Nascondiglio stiloso 5 volte
 9245	Compito per le vacanze ⑥: Riscrivi il diario alla perfezione. Supera Nascondiglio perfetto 5 volte
@@ -620,7 +620,7 @@
 9247	Crediti extra ②: Cattura esemplari di insetti. Potenzia Gatto Kuwagata al livello 10
 9248	Crediti extra ③: Osserva esemplari di insetti. Potenzia Gatto Kabuto al livello 20
 9249	Crediti extra ④: Osserva esemplari di insetti. Potenzia Gatto Kuwagata al livello 20
-9250	Crediti extra extra ①: Osservazione approfondita. Supera il livello 1 di Diario estivo con Gatto Kabuto
+9364	Crediti extra extra ①: Osservazione approfondita. Supera il livello 1 di Diario estivo con Gatto Kabuto
 9251	Crediti extra extra ②: Osservazione approfondita. Supera il livello 2 di Diario estivo con Gatto Kuwagata
 9252	Crediti extra extra ③: Osservazione approfondita. Supera il livello 4 di Diario estivo con Gatto Kabuto
 9253	Crediti extra extra ④: Osservazione approfondita. Supera il livello 6 di Diario estivo con Gatto Kuwagata
@@ -722,7 +722,7 @@
 9361	Supera un qualsiasi livello di "04: Villaggio ululante". 3 volte!
 9362	Supera un qualsiasi livello di "04: Villaggio ululante". 5 volte!
 9363	Supera un qualsiasi livello di "04: Villaggio ululante". 10 volte!
-9364	Compiti per le vacanze Parte 1 ①: Studia gli insetti.  Ottieni 1 Gatto Kabuto dall'evento Gacha!
+9250	Compiti per le vacanze Parte 1 ①: Studia gli insetti.  Ottieni 1 Gatto Kabuto dall'evento Gacha!
 9365	Compiti per le vacanze Parte 1 ②: Studia gli insetti.  Ottieni 1 Gatto Kuwagata dall'evento Gacha!
 9366	Compiti per le vacanze Parte 1 ③: Studia gli insetti.  Ottieni 1 Uovo antico N202 dall'evento Gacha!
 9367	Compiti per le vacanze Parte 1 ④: Studia gli insetti.  Ottieni 3 Gatti Kabuto dall'evento Gacha!
@@ -806,4 +806,24 @@
 9486	【88,88M DL】. Supera il livello "Pack misterioso"!
 9487	【88,88M DL】Potenzia Gatto spazzatura a livello 10. Deve essere fatto durante l'evento 88,88M
 9488	【88,88M DL】Potenzia Gatto spazzatura a livello 20. Completa durante l'evento 88,88M
+9489	Clear 10 Rurouni Kenshin collab stages
+9490	Clear 30 Rurouni Kenshin collab stages
+9491	Clear 50 Rurouni Kenshin collab stages
 9492	Ottieni 1 Uovo antico N205 dalle capsule Sposa di giugno!
+9493	[Colosseo ultraterreno] Missione evento limitato. Supera Colosseo ultraterreno livello 1 Round 3
+9494	[Colosseo ultraterreno] Missione evento limitato. Supera Colosseo ultraterreno livello 1 Round 5
+9495	[Colosseo ultraterreno] Missione evento limitato. Supera Colosseo ultraterreno livello 2 Round 3
+9496	[Colosseo ultraterreno] Missione evento limitato. Supera Colosseo ultraterreno livello 2 Round 5
+9499	[Livello di invasione] Missione evento limitato. Supera Tribunale del Tormento
+9500	[Livello di invasione] Missione evento limitato. Supera Prima faccenda
+9501	[Livello di invasione] Missione evento limitato. Supera Gloria di Wanwan
+9502	[Livello di invasione] Missione evento limitato. Supera Il ritorno di Z-Onel!
+9503	[Livello di invasione] Missione evento limitato. Supera Vecchia regina
+9504	[Livello di invasione] Missione evento limitato. Supera Paradiso di Papuu
+9505	[Livello di invasione] Supera La tartaruga e il bebè. Supera tutti i livelli e i livelli EX per completare
+9506	[Livello di invasione] Supera Il principe e il fantasma. Supera tutti i livelli e i livelli EX per completare
+9507	[Livello di invasione] Supera La regina e il santo. Supera tutti i livelli e i livelli EX per completare
+9508	Compiti per le vacanze ④: Scrivi un tema perfetto.  Supera 30 livelli di Gatti estivi
+9509	Compiti per le vacanze Parte 2 ⑤: Osservare gli insetti. Supera il liv. 1 di Sera estiva, verso casa con Gatto Kabuto
+9510	Compiti per le vacanze Parte 2 ⑥: Osservare gli insetti. Supera il liv. 2 di Sera estiva, verso casa con Gatto Kuwagata
+9511	Compiti per le vacanze Parte 2 ⑦: Osservare gli insetti. Vinci il liv. 3 di Sera estiva, verso casa con Uovo antico N202

@@ -156,8 +156,8 @@
 155	Squid
 156	Marching Kory
 157	
-158	
-159	
+158	Takuya
+159	Yuki
 160	Poussinange
 161	
 162	
@@ -257,7 +257,7 @@
 256	Hippoka noir
 257	Roi Wahwah
 258	Chaperon à roquettes
-259	
+259	Takuya & Lovely Yuki
 260	Chat cerf-volant
 261	Sangriphin
 262	Toutou tambour sacré
@@ -337,7 +337,7 @@
 336	Toutou d'or
 337	Hippo d'or
 338	Autrux d'or
-339	
+339	Lost World Yuki
 340	Cala Maria
 341	Limace rouge
 342	Limace noire
@@ -406,7 +406,7 @@
 405	Méca-Bun
 406	Bun Bun relique
 407	Toutou relique
-408	
+408	Crazed Yuki
 409	
 410	
 411	Gory alien
@@ -459,7 +459,7 @@
 458	
 459	
 460	
-461	
+461	Kano ＆ Souma
 462	
 463	
 464	
@@ -505,7 +505,7 @@
 504	
 505	
 506	Sa Seigneurie Wanwan
-507	
+507	Messier
 508	
 509	
 510	Le'Grim
@@ -644,7 +644,7 @@
 643	Grand mage Mimon
 644	
 645	
-646	
+646	Redhead Yuki Cat
 647	
 648	
 649	Lutrinae Gokurakko
@@ -686,8 +686,10 @@
 685	
 686	Voluptuous Peony - Daji
 687	Madhead
-688	
-689	
-690	
-691	
+688	Kenshin Himura
+689	Sanosuke Sagara
+690	Aoshi Shinomori
+691	Hajime Saito
 692	Docteur K.O.
+693	
+694	Vieille technohyène

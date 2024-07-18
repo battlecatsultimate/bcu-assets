@@ -57,7 +57,7 @@
 056	Bogenschützenkatze	Cupido-Katze	Katzaur	
 057	Marodeurkatze	Berserkerkatze	Paladinkatze	
 058	Schwertkämpfer-Katze	Schwertmeister-Katze	Elementduellant-Katze	
-059	Babykatze	Babykatzen	Katzen in der Wiege	
+059	Babykatze	Babykatzen	Katzen in der Wiege	Katzen im Kinderwagen
 060	Bronzekatze	Michelangelo-Katze	Rätselmeisterkatze	
 061	Sushi-Katze	Pfannengarnelen-Katze	Rogenkatze	
 062	Toy Machine Cat	Vendor Cat		
@@ -268,7 +268,7 @@
 267	Katzornado	Hurrikatz	Katzentaifun	
 268	Rotkäppchen-Mina	Blutrote Mina	Erwachte Mina	
 269	Baby Gao	Mächtiger Lord Gao		
-270	Crazed Yuki	Crazed Yuki ＆ Cat	Crazed Catgirl Yuki	
+270	Crazed Yuki	Crazed Yuki & Cat	Crazed Catgirl Yuki	
 271	Leuchtende Amaterasu	Glorreiche Amaterasu	Allmächtige Amaterasu	
 272	Herrlicher Ganesha	Erhabener Ganesha	Allmächtiger Ganesha	
 273	Cheerleader-Katze	Kellner-Katze	Soba-Katze	
@@ -446,7 +446,7 @@
 445	Schneidekatze	Superschneidekatze	Neo-Schneidekatze	
 446	Tiefbagger-Katze	Supertiefbagger-Katze	Neo-Tiefbagger-Katze	
 447	Gehrungssägenkatze	Supersägenkatze	Neo-Sägenkatze	
-448	Musashi Miyamoto	Kriegsgott Miyamoto		
+448	Musashi Miyamoto	Kriegsgott Miyamoto	Unsterblicher Miyamoto	
 449	Rektorin Jeanne	Rektorin Jeanne ψ		
 450	Hoher Herr Babel	Babel die Dunkelflamme	Babel der Gottkaiser	
 451	Ushiwakamaru	Kolossaler Benkei		
@@ -526,7 +526,7 @@
 525	Kintaro	Kinrangers-Robokämpfer	Kinrangers-Gigakämpfer	
 526	Winterengel-Zwillinge	Winterengel-Zwillinge, Typ Φ		
 527	Schleimkatze	Geleekatze		
-528	Kosakenkatze	Wodkakatze		
+528	Kosakenkatze	Wodkakatze	Königswachenkatze	
 529	Kasli die Geißel	Ritualheilige Kasli		
 530	Herme	Herme CC		
 531	Lehrerbärkatze	Meuchlerbärkatze	Totengräbärkatze	
@@ -645,7 +645,7 @@
 644	Süße-Liebe-Mekako	Bittersüße Mekako	Minzliebe Mekako	
 645	Gehirngewaschene Axtkatze	Gehirngewaschene Kühne Katze	Gehirngewaschene dunkle Katze	
 646	Böllerkatze	Macho-Böllerkatze		
-647	Jägerin Terun	Jägerin Terun ζ		
+647	Jägerin Terun	Jägerin Terun ζ	Göttliche Jägerin Terun ζ	
 648	Verliebter Unterdämon	Verliebter Oberdämon		
 649	Hattori Hanzo	Kriegsgott Hanzo		
 650	Heimlicher-Schwarm-Katze	Freundin-Katze		
@@ -744,15 +744,19 @@
 743	Madhead	Madhead Cat		
 744	Felix the Cat Duke Cat	Mercenary Leader Felix Cat		
 745	Dotty Cat	Birthday Dotty Cat		
-746			
-747			
-748			
-749			
-750			
-751			
-752			
-753			
+746	Kenshin Himura	Kenshin Himura CC		
+747	Sanosuke Sagara	Sanosuke Sagara CC		
+748	Aoshi Shinomori	Aoshi Shinomori CC		
+749	Hajime Saito	Hajime Saito CC		
+750	Li'l Kaoru	Li'l Kaoru CC		
+751	Li'l Yahiko	Li'l Yahiko CC		
+752	Kenshin Cat	Battosai Cat		
+753	Kaoru Cat	Swordscat Kaoru		
 754	Akechi Mitsuhide	Kriegsgott Mitsuhide		
 755				
 756	Kuchenmaschine	Hochzeitskuchenmaschine		
 757	Uraltes Ei: N205	Violettes Ei: N205	Brautkatze	
+758			
+759	Musikfest-Donneria	Musikfest-Donneria β		
+760	Gunduros	Ballistischer Drache Gunduros		
+761				

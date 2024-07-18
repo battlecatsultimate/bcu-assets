@@ -192,6 +192,7 @@
 200|S200|I428	Love Letter
 201|S201|I11	XP
 202|S202|I429	Holy Water
+203|S203|I430	Legend Net
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -312,6 +313,7 @@
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
 1183	Madhead
+1184	Kenshin Cat
 10010	Beefcake Cat
 10011	Dancer Cat
 10012	Hyper Mr.
@@ -395,6 +397,7 @@
 10474	Rampaging Yamato
 10475	Strike Angel
 10522	Naga Cat
+10529	Royal Guard Cat
 10532	Cadaver BearCat
 10540	Gridiron Cat
 10554	Fried Chicken Cat
@@ -575,6 +578,7 @@
 15446	Neo Cutter Cat
 15447	Neo Backhoe Cat
 15448	Neo Saw Cat
+15449	Immortal Miyamoto
 15451	God-Emperor Babel
 15457	Dark Sakura CC
 15468	Super S-Zeus
@@ -621,6 +625,7 @@
 15635	Demon Knight Kyklops
 15643	Almighty Lucifer
 15645	Minty Love Mekako
+15648	Divine Huntress Terun ζ
 15657	Haniwa Cat
 15659	Courier Cat
 15660	Catarzan

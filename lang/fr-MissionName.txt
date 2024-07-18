@@ -612,7 +612,7 @@
 9239	【Invasion】Termine le niveau Le roi et la jeune fille ! Tu dois aussi terminer le niveau spécial associé
 9240	Devoirs de vacances ① : Choisis un sujet de journal. Termine 5 niveaux Chats de vacances d'été
 9241	Devoirs de vacances ② : Choisis un 2e sujet de journal. Termine 10 niveaux Chats de vacances d'été
-9242	Devoirs de vacances ③ : Choisis un 3e sujet de journal. Termine 30 niveaux Chats de vacances d'été
+9242	Devoirs de vacances ① : cherche un bon sujet de rédaction. Termine 20 niveaux Chats de vacances d’été
 9243	Devoirs de vacances ④ : Écris ton journal. . Termine Cachette délabrée 5 fois
 9244	Devoirs de vacances ⑤ : Réécris le avec plus de style. Termine Cachette stylée 5 fois
 9245	Devoirs de vacances ⑥ : Réécris le pour qu'il soit parfait. Termine Cachette parfaite 5 fois
@@ -620,7 +620,7 @@
 9247	Crédit supplémentaire ② : Capture des spécimens d'insectes. Améliore Chat Kuwagata au niveau 10
 9248	Crédit supplémentaire ③ : Observe des spécimens d'insectes. Améliore Chat Kabuto au niveau 20
 9249	Crédit supplémentaire ④ : Observe des spécimens d'insectes. Améliore Chat Kuwagata au niveau 20
-9250	Crédit extra supplémentaire ① : Observe encore plus. Termine Journal d’été niveau 1 avec Chat Kabuto
+9364	Crédit extra supplémentaire ① : Observe encore plus. Termine Journal d’été niveau 1 avec Chat Kabuto
 9251	Crédit extra supplémentaire ② : Observe encore plus. Termine Journal d’été niveau 2 avec Chat Kuwagata
 9252	Crédit extra supplémentaire ③ : Observe encore plus. Termine Journal d’été niveau 4 avec Chat Kabuto
 9253	Crédit extra supplémentaire ④ : Observe encore plus. Termine Journal d’été niveau 6 avec Chat Kuwagata
@@ -722,7 +722,7 @@
 9361	Termine un niveau de #04 Village miaulant
 9362	Termine un niveau de #04 Village miaulant
 9363	Termine un niveau de #04 Village miaulant
-9364	Devoirs de vacances Part. 1 ① : Étudier des insectes. Obtiens 1 Chat Kabuto auprès du Chachapsule d'événement !
+9250	Devoirs de vacances Part. 1 ① : Étudier des insectes. Obtiens 1 Chat Kabuto auprès du Chachapsule d'événement !
 9365	Devoirs de vacances Part. 1 ② : Étudier des insectes. Obtiens 1 Chat Kuwagata auprès du Chachapsule d'événement !
 9366	Devoirs de vacances Part. 1 ③ : Étudier des insectes. Obtiens 1 Œuf ancien N202 avec Chachapsule d'événement !
 9367	Devoirs de vacances Part. 1 ④ : Étudier des insectes. Obtiens 3 Chats Kabuto auprès du Chachapsule d'événement !
@@ -806,4 +806,24 @@
 9486	[88,88M] . Termine le niveau Pack mystère !
 9487	[88,88M] Améliore le Chat poubelle au niveau 10. À effectuer pendant l'événement 88 880 000 joueurs
 9488	[88,88M] Améliore le Chat poubelle au niveau 20. À effectuer pendant l'événement 88 880 000 joueurs
+9489	Clear 10 Rurouni Kenshin collab stages
+9490	Clear 30 Rurouni Kenshin collab stages
+9491	Clear 50 Rurouni Kenshin collab stages
 9492	Obtiens 1 œuf ancien N205 dans les Chapsules. de la Mariée de juin !
+9493	[Colisée d’outre-monde] Mission d’événement limité. Termine Colisée d’outre-monde niveau 1 étape 3
+9494	[Colisée d’outre-monde] Mission d’événement limité. Termine Colisée d’outre-monde niveau 1 étape 5
+9495	[Colisée d’outre-monde] Mission d’événement limité. Termine Colisée d’outre-monde niveau 2 étape 3
+9496	[Colisée d’outre-monde] Mission d’événement limité. Termine Colisée d’outre-monde niveau 2 étape 5
+9499	[Niveau Invasion] Mission à durée limitée. Termine Tribunal du tourment
+9500	[Niveau Invasion] Mission à durée limitée. Termine Première course
+9501	[Niveau Invasion] Mission à durée limitée. Termine Gloire de Wanwan
+9502	[Niveau Invasion] Mission à durée limitée. Termine Ascension de Z-Onel
+9503	[Niveau Invasion] Mission à durée limitée. Termine La vieille reine
+9504	[Niveau Invasion] Mission à durée limitée. Termine Paradis de Papuu
+9505	[Niveau Invasion] Termine Tortue et bébé. Termine tous les niveaux et niveaux EX
+9506	[Niveau Invasion] Termine Prince et revenant. Termine tous les niveaux et niveaux EX
+9507	[Niveau Invasion] Termine Reine et saint. Termine tous les niveaux et niveaux EX
+9508	Devoirs de vacances ④ : termine une rédaction parfaite. Termine 30 niveaux Chats de vacances d’été
+9509	Devoirs de vacances 2 ⑤ : observe les insectes. Termine Nuit d’été, ret. bercail nv 1 avec Chat Kabuto
+9510	Devoirs de vacances 2 ⑥ : observe les insectes. Termine Nuit d’été, ret. bercail nv 2 avec Chat Kuwagata
+9511	Devoirs de vacances 2 ⑦ : observe les insectes. Termine Nuit d’été, ret. bercail nv 3 avec Œuf ancien N202

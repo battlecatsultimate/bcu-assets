@@ -57,7 +57,7 @@
 056	Wahre-Form-Entwicklung erhöht Vert.,<br>Bewegungstempo, Angriff und Reichweite!<br>
 057	Wahre-Form-Entwicklung erhöht alle Werte<br>und Chance auf Haudrauf-Treffer! Gewährt<br>dazu Resistenz gegen feindliche Rückstöße.
 058	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffskraft!<br>
-059	Wahre-Form-Entwicklung erhöht alle Werte<br>und gewährt Wellenangriff-Fähigkeiten!<br>
+059	Wahre-Form-Entwicklung erhöht alle Werte<br>und gewährt Wellenangriff-Fähigkeiten!<br>	Wahre-Form-Entwicklung erhöht Bewegungs-<br>geschwindigkeit und erhält Rundumschlag!<br>Zudem verbesserte Wellenangriffe!
 060	<br><br>
 061	Wahre Form bietet stärkere Verteidigung!<br><br>
 062	<br><br>
@@ -446,7 +446,7 @@
 445	Wahre-Form-Entwicklung erhöht<br>Angriffskraft und gewährt<br>Immunität gegen Wellen!
 446	Wahre-Form-Entwicklung gewährt<br>Zufallsangriff-Fähigkeiten!<br>
 447	Wahre-Form-Entwicklung erhöht<br>Verteidigung & Angriffskraft und<br>gewährt Abwehrbrecher-Fähigkeiten!
-448	<br><br>
+448	Wahre-Form-Entwicklung erhöht Gesundheit<br>und Angriffskraft! Erhält Kolosstöter,<br>lähmt & wird immun gg. Schwächen!
 449	<br><br>
 450	Wahre-Form-Entwicklung erh. Vert.!<br>Erhält Immunität gegen Rückstoß und Gift<br>sowie Kolosstöter!
 451	<br><br>
@@ -645,7 +645,7 @@
 644	Wahre-Form-Entwicklung erhöht Angriffe,<br>die Relikte einfr., und erhält Immunität<br>gg. Flüche, die Verb.-Fähig. blockieren.
 645	<br><br>
 646	<br><br>
-647	<br><br>
+647	Wahre-Form-Entwicklung erhöht Stärke<br>gg. rote Feinde und Aliens!<br>
 648	<br><br>
 649	<br><br>
 650	<br><br>
@@ -756,3 +756,7 @@
 755	<br><br>
 756	<br><br>
 757	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
+758	<br><br>
+759	<br><br>
+760	<br><br>
+761	<br><br>

@@ -57,7 +57,7 @@
 056	Archer Cat	Cupid Cat	Cataur	
 057	Marauder Cat	Berserker Cat	Paladin Cat	
 058	Swordsman Cat	Sword Master Cat	Elemental Duelist Cat	
-059	Baby Cat	Baby Cats	Cats in the Cradle	
+059	Baby Cat	Baby Cats	Cats in the Cradle	Cats in the Stroller
 060	Bronze Cat	Michelangelo Cat	Quizmaster Cat	
 061	Sushi Cat	Fried Shrimp Cat	Roe Cat	
 062	Toy Machine Cat	Vendor Cat		
@@ -446,7 +446,7 @@
 445	Cutter Cat	Power Cutter Cat	Neo Cutter Cat	
 446	Backhoe Cat	Power Backhoe Cat	Neo Backhoe Cat	
 447	Miter Saw Cat	Power Saw Cat	Neo Saw Cat	
-448	Musashi Miyamoto	Wargod Miyamoto		
+448	Musashi Miyamoto	Wargod Miyamoto	Immortal Miyamoto	
 449	Headmistress Jeanne	Headmistress Jeanne ψ		
 450	High Lord Babel	Babel the Darkflame	God-Emperor Babel	
 451	Ushiwakamaru	Colossal Benkei		
@@ -526,7 +526,7 @@
 525	Kintaro	Kinrangers RoboForce	Kinrangers GigaForce	
 526	Snow Angel Twinstars	Snow Angel Twinstars, type Φ		
 527	Slime Cat	Jellycat		
-528	Cossack Cat	Vodka Cat		
+528	Cossack Cat	Vodka Cat	Royal Guard Cat	
 529	Kasli the Scourge	Ritual Saint Kasli		
 530	Herme	Herme CC		
 531	Teacher BearCat	Assassin BearCat	Cadaver BearCat	
@@ -645,7 +645,7 @@
 644	Sweet Love Mekako	Bittersweet Mekako	Minty Love Mekako	
 645	Brainwashed Axe Cat	Brainwashed Brave Cat	Brainwashed Dark Cat	
 646	Firecracker Cat	Macho Firecracker Cat		
-647	Huntress Terun	Huntress Terun ζ		
+647	Huntress Terun	Huntress Terun ζ	Divine Huntress Terun ζ	
 648	Lovestruck Lesser Demon	Lovestruck Greater Demon		
 649	Hattori Hanzo	Wargod Hanzo		
 650	Secret Crush Cat	Girlfriend Cat		
@@ -744,15 +744,19 @@
 743	Madhead	Madhead Cat		
 744	Felix the Cat Duke Cat	Mercenary Leader Felix Cat		
 745	Dotty Cat	Birthday Dotty Cat		
-746			
-747			
-748			
-749			
-750			
-751			
-752			
-753			
+746	Kenshin Himura	Kenshin Himura CC		
+747	Sanosuke Sagara	Sanosuke Sagara CC		
+748	Aoshi Shinomori	Aoshi Shinomori CC		
+749	Hajime Saito	Hajime Saito CC		
+750	Li'l Kaoru	Li'l Kaoru CC		
+751	Li'l Yahiko	Li'l Yahiko CC		
+752	Kenshin Cat	Battosai Cat		
+753	Kaoru Cat	Swordscat Kaoru		
 754	Akechi Mitsuhide	Wargod Mitsuhide		
 755				
 756	Cake Machine	Wedding Cake Machine		
 757	Ancient Egg: N205	Violet Egg: N205	Bride Cat	
+758			
+759	Music Fest Thundia	Music Fest Thundia β		
+760	Gunduros	Ballistic Dragon Gunduros		
+761				

@@ -156,8 +156,8 @@
 155	<br><br><br>
 156	<br><br><br>
 157	
-158	
-159	
+158	<br><br><br>
+159	<br><br><br>
 160	Una novata de ojos vivos en su segundo día<br>de trabajo divino. Su amigui Pati está hasta la<br>cola de escucharla hablar sobre lo megachachi<br>que es su nuevo piso en el paraíso.
 161	
 162	
@@ -257,7 +257,7 @@
 256	Un lanzador semiprofesional sin escrúpulos que<br>utiliza cualquier medio a su alcance para ganar.<br>Lanza pelotas contra las normas desde muy lejos<br>para intimidar a los bateadores rivales.
 257	Nació en el año 1196 del calendario cósmico<br>y ganó una corona por su servicio militar y sus avances<br>científicos. Por eso le molesta tanto que su hermano<br>pequeño sea más famoso por salir en un reality.
 258	Esta chica que vaga por el bosque es en realidad una<br>asesina a sueldo contratada por el ejército perruno.<br>El ejército felino la teme por su crueldad sin límites.<br>¡Incluso es capaz de utilizar un bazuca de largo alcance!
-259	
+259	<br><br><br>
 260	<br><br><br>
 261	Asistente del productor de discos más famoso<br>del cielo. También ha sido escritor fantasma de<br>dos pelotazos editoriales: «Los gatos no son pecado»<br>y «CPU, inteligencias del futuro: Parte 2».
 262	<br><br><br>
@@ -337,7 +337,7 @@
 336	<br><br><br>
 337	<br><br><br>
 338	<br><br><br>
-339	
+339	<br><br><br>
 340	Un bocadito divino del mar enviado por el Misidiós<br>a modo de visión religiosa para aquellos<br>de corazón puro. El paraíso culinario aguarda<br>a quienes superen esta prueba de fe.
 341	<br><br><br>
 342	<br><br><br>
@@ -406,7 +406,7 @@
 405	Artefacto de un imperio antiguo que gobernó la Tierra<br>hace tiempo. Un clan oscuro de chuchos ha<br>hecho revivir esta terrible fuerza, pero por suerte solo<br>tienen una copia del manual de instrucciones.
 406	Un artefacto imparable que destroza sin piedad<br>a cualquier intruso que ose invadir el reino de los antiguos.<br>Las profecías hablan de ciertos seres capaces<br>de aguantar las maldiciones oscuras de este guardián.
 407	Némesis ancestral del imperio gatuno.<br>Es serio y trabajador, como todos los chuchos,<br>pero a veces se le escapa alguna maldición<br>cuando está muy ofuscado. Eso sí, totalmente sin querer.
-408	
+408	<br><br><br>
 409	
 410	
 411	<br><br><br>
@@ -459,7 +459,7 @@
 458	
 459	
 460	
-461	
+461	<br><br><br>
 462	
 463	
 464	
@@ -505,7 +505,7 @@
 504	
 505	
 506	El mayor playboy del universo, amado por<br>las señoras solitarias de toda la galaxia.<br>Unas palabras de sus labios y cualquiera<br>acaba viendo estrellas y constelaciones.
-507	
+507	<br><br><br>
 508	
 509	
 510	Un laboratorio secreto se dedicó a modificar genoma<br>de forma poco ética para crear un L. Fante Negro<br>enorme, muy agresivo y con ataques que ralentizan.<br>Su letalidad aumenta con cada batalla.
@@ -644,7 +644,7 @@
 643	Una hechicera espantosa que vive en lo más profundo<br>de un laberinto. Las víctimas que caen en su trampa acaban<br>escuchando historias larguísimas sin un final satisfactorio<br>que van sobre su hermano mayor en los reinos de akus.
 644	
 645	
-646	
+646	<br><br><br>
 647	
 648	
 649	Nutria guardiana del Cielo.<br>Manda a los indignos al inframundo con<br>su orbe dorado. Invoca monstruos con el<br>poder de la réplica.
@@ -691,3 +691,5 @@
 690	
 691	
 692	Gato científico que se dedica al boxeo para demostrarle<br>su valía a su hijo delincuente. Posee una<br>inteligencia superior gracias a la piedra de poder<br>Un Golpe, una forma de dopaje indetectable.
+693	
+694	Una hiena mayor considerada la mejor astrónoma<br>de la historia... según un trofeo de participación en<br>una cumbre local de astronomía. Manda a<br>otra dimensión a quienes critican sus teorías.

@@ -482,14 +482,14 @@
 001-026-005	Prête-moi ton Chat
 001-026-006	J.T.M.
 001-026-007	Retour à zéro
-001-027		Lieu du week-end
+001-027		Niveau du week-end
 001-027-000	Douceur XP (facile)
 001-027-001	Douceur XP (normal)
 001-027-002	Douceur XP (difficile)
 001-027-003	Douceur XP (vétéran)
 001-027-004	Douceur XP (expert)
 001-027-005	Douce XP (maniaque)
-001-028		Lieu XP
+001-028		Guerrilla d'XP
 001-028-000	Douceur XP (facile)
 001-028-001	Douceur XP (normal)
 001-028-002	Douceur XP (difficile)
@@ -523,7 +523,7 @@
 001-031-005	Ma chair fraîche
 001-031-006	Sacs de sable sur le cap
 001-031-007	Ici et miaoutenant
-001-032		あの世からの帰省ラッシュ！
+001-032		Intrus d’outre-tombe
 001-032-000	Papa revient nous hanter
 001-032-001	Mais on est en vacances
 001-032-002	Pas de passe-muraille ?
@@ -538,7 +538,7 @@
 001-034-000	Ultra stress ! (maniaque)
 001-035		Étoiles d’événement mensuel Célébration miraculeuse !
 001-035-000	Tactique miracle ! (maniaque)
-001-036		Les vieux de la vieille
+001-036		Club du 3e âge
 001-036-000	Joggeurs de l’aube
 001-036-001	Boxeurs à plein temps
 001-036-002	Fuir de chez soi
@@ -610,7 +610,7 @@
 001-058		Éveil : Chat jupette
 001-058-000	Danger en jupons (vétéran)
 001-058-001	Danger en jupons (maniaque)
-001-059		Megablitz XP !
+001-059		Mega-Guerrilla XP !
 001-059-000	Palais raffiné (maniaque)
 001-060		Doux chagrin
 001-060-000	Chats-mallows
@@ -632,7 +632,7 @@
 001-065-004	No I-A-P!
 001-065-005	Get Those Ubers
 001-065-006	Conquer the Galaxy
-001-065-007	At Nintendo eShop!
+001-065-007	But the App's Fun Too :)
 001-066		Dimension désespoir
 001-066-000	Place au trou noir (maniaque)
 001-068		
@@ -651,15 +651,15 @@
 001-072-003	Un bonbon ou ça barde
 001-072-004	Hello Halloween
 001-072-005	Fête des récoltes
-001-073		Lieu blitz lun.
+001-073		Guerilla du lundi
 001-073-000	Chat fortuné (vétéran)
-001-074		Lieu blitz mar.
+001-074		Guerilla du mardi
 001-074-000	Chaccéléré (vétéran)
-001-075		Lieu blitz mer.
+001-075		Guerilla du mercredi
 001-075-000	Chat diplômé (vétéran)
-001-076		Lieu blitz jeu.
+001-076		Guerilla du jeudi
 001-076-000	Chat tireur (vétéran)
-001-077		Lieu blitz ven.
+001-077		Guerilla du vendredi
 001-077-000	Chat utile (vétéran)
 001-078		Face au danger
 001-078-000	Visage d’acier (mortel)
@@ -880,7 +880,7 @@
 001-154-000	2e c’est bien
 001-154-001	Anniversaire d’argent
 001-154-002	Une route lointaine
-001-155		XP Sans répitle !
+001-155		XP sans répit !
 001-155-000	Le goût du succès (sans répit)
 001-156		Cadeau d’anniversaire !
 001-156-000	5 ans de rigolade !
@@ -900,7 +900,6 @@
 001-161-000	Au Japon
 001-161-001	À Londres
 001-161-002	À New York
-001-161-003	Dans la lune
 001-162		Croissance étrange
 001-162-000	Un secret ancestral (sans répit)
 001-164		Victoire visqueuse
@@ -1228,7 +1227,7 @@
 001-258-001	Mur du démon
 001-259		Le Grand Diablo
 001-259-000	Colère des Enfers (mortel)
-001-260		Jeu de balle passionné
+001-260		River City Ball-Rolling
 001-260-000	Balle fugueuse
 001-260-001	Force cinétique
 001-260-002	Balle spéciale 100 kg
@@ -1237,16 +1236,24 @@
 001-260-005	Couvert de poussière
 001-260-006	Envol des chapeaux
 001-260-007	Arrêt impossible
-001-261		Hotblooded Challenge Course
+001-261		River City Challenge Course
 001-261-000	Aim for the Top
 001-261-001	Power On Through
 001-261-002	Overcome The Odds
 001-261-003	Mistakes Don't Matter
 001-261-004	Good Effort
-001-262		Course à trois jambes passionnée ①
+001-262		River City Three-Leg Race ①
 001-262-000	VS équipe blanche
 001-262-001	VS équipe rouge
 001-262-002	VS équipe noire
+001-263		River City Three-Leg Race ②
+001-263-000	VS équipe blanche
+001-263-001	VS équipe rouge
+001-263-002	VS équipe noire
+001-264		River City Three-Leg Race ③
+001-264-000	VS équipe blanche
+001-264-001	VS équipe rouge
+001-264-002	VS équipe noire
 001-265		Parc du démon
 001-265-000	Sagesse congelée
 001-265-001	Lac maudit
@@ -1292,10 +1299,10 @@
 001-276-002	Études Aku 501 : Recherche sur le terrain
 001-276-003	Études Aku 501 : Enquête
 001-277		Excavation de l'impératrice 1
-001-277-000	Bases d'archéologie : planification
-001-277-001	Bases d'archéologie : méthodes
-001-277-002	Bases d'archéologie : résultats
-001-277-003	Bases d'archéologie : analyse
+001-277-000	Bases d'archéologie 101: planification
+001-277-001	Bases d'archéologie 101: méthodes
+001-277-002	Bases d'archéologie 101: résultats
+001-277-003	Bases d'archéologie 101: analyse
 001-278		Excavation de l'impératrice 2
 001-278-000	Bases d'archéologie 201 : planification
 001-278-001	Bases d'archéologie 201 : méthodes
@@ -1392,7 +1399,32 @@
 001-297-000	Occupation extrascolaire
 001-297-001	Mendier du chocolat
 001-297-002	Guerre de 7 minutes
-001-303		À bas les amoureux
+001-298		Saison 2 : Festival du cœur
+001-298-000	Une semaine sans dormir
+001-298-001	Devant la machine à café
+001-298-002	Chèque presque signé
+001-298-003	Erreur de facturation
+001-298-004	Sonnerie de fin de journée
+001-298-005	Nettoyage de la kermesse
+001-299		Saison 3 : Sortie scolaire
+001-299-000	Enfin en voyage
+001-299-001	Souvenir nerveux
+001-299-002	Éclat saisonnier
+001-299-003	Guerre des oreillers
+001-299-004	Dormir dans l'avion
+001-300		Week-end : Confession
+001-300-000	Appel courageux
+001-300-001	Peur de la réponse
+001-300-002	« Je m'excuse, mais... »
+001-301		Week-end : Confession
+001-301-000	Appel courageux
+001-301-001	Peur de la réponse
+001-301-002	« Pas mon genre »
+001-302		Week-end : Confession
+001-302-000	Appel courageux
+001-302-001	Peur de la réponse
+001-302-002	« On reste amis ? »
+001-303		Saison 4 : Remise des diplômes
 001-303-000	Attendre son arrivée
 001-303-001	Cœur qui s'emballe
 001-303-002	Elle est vraiment venue ?!
@@ -1409,7 +1441,7 @@
 001-306-000	Piège à miel (mortel)
 001-307		Le roi et l'ange
 001-307-000	Grand Prix N-1 (mortel)
-001-308		#02 ??? le 13e
+001-308		#03 ??? le 13e
 001-308-000	Lune de miel au lac brumeux
 001-308-001	Bénédiction du Tue-corbeau
 001-308-002	Cottage dilapidé
@@ -1620,6 +1652,19 @@
 001-376		Super Smash Familles
 001-376-000	Chemin traître (brutal)
 001-376-001	Chemin atroce (brutal)
+001-377		Tortue et bébé
+001-377-000	La terre pure (sans répit)
+001-378		Prince et revenant
+001-378-000	Chienville (sans répit)
+001-379		Reine et saint
+001-379-000	Bébête (sans répit)
+001-380		Nuit d'été, retour au bercail
+001-380-000	Chemins de terre sombres
+001-380-001	Réverbères délabrés
+001-380-002	Abandonné mais occupé
+001-381		Paradoxe de Papuu
+001-381-000	Sœur sanctifiée (sans répit)
+001-381-001	Requiem des anges (sans répit)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -1642,7 +1687,7 @@
 002-003-005	Bookmarkers
 002-003-006	Solid State Rock
 002-003-007	Fiber Cookie
-002-006		Le Dernier Boss arrive ?!
+002-006		Le boss final attaque ?!
 002-006-000	C'est partiiii ! <(@0@)>
 002-007		Merc Storia: Inferno
 002-007-000	A City Aflame (Insane)
@@ -2096,9 +2141,9 @@
 002-170-000	An Encounter With Sin
 002-170-001	Foolish Wanderer Kano
 002-170-002	Wishing for Happiness
-002-171		The World Beyond
+002-171		Godzilla: Final Assault
 002-171-000	God of Destruction (Merciless)
-002-172		The World Beyond
+002-172		Godzilla vs Cats
 002-172-000	The Leviathan Rises
 002-172-001	Disaster Response HQ
 002-172-002	Climactic Cat Clash
@@ -2190,6 +2235,9 @@
 002-198		Holy War: Gilgamesh
 002-198-000	King of Heroes (Veteran)
 002-198-001	King of Heroes (Deadly)
+002-204		Redhead Yuki Cat Awakens!
+002-204-000	Redheaded Rise (Veteran)
+002-204-001	Redheaded Rise (Insane)
 002-205		The 9th Angel Strikes!
 002-205-000	Asuka On Board (Easy)
 002-205-001	Asuka On Board (Expert)
@@ -2224,6 +2272,28 @@
 002-215-002	Super Power-Up
 002-215-003	Perfect Power-Up
 002-215-004	Miracle Power-Up
+002-216		Rurouni Kenshin
+002-216-000	Wandering Swordsman
+002-216-001	Zanza, Fighter for Hire
+002-216-002	Sakabato and Zanbato
+002-216-003	Master of the Oniwaban
+002-216-004	Secret Police
+002-217		Kenshin Himura, Battosai
+002-217-000	Feared Bakumatsu Warrior
+002-217-001	A Blade Which Does Not Kill-Sakabato
+002-217-002	Swift Satsujinken
+002-217-003	Hiten Mitsurugi-ryu
+002-217-004	Master of Battojutsu
+002-218		Sanosuke Sagara, Fighter for Hire
+002-218-000	I've Come for a Fight
+002-218-001	Zanbato, the Giant Sword
+002-218-002	Mark of Villainy
+002-218-003	I Won't Be Beaten!
+002-218-004	Let's Finish This!
+002-219		A Wolf Baring Fangs
+002-219-000	The Wolf Revived
+002-219-001	Evil-Immediate-Slaughter
+002-219-002	I Disavow You Entirely
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -3191,6 +3261,12 @@
 004-064-000	Nature au berceau (mortel)
 004-064-001	Nature au sommet (sans répit)
 004-064-002	Nature frontière (sans répit)
+004-065		Tortue et bébé
+004-065-000	Faux bébé (sans répit)
+004-066		Prince et revenant
+004-066-000	Le dernier des morts (sans répit)
+004-067		Reine et saint
+004-068-000	Sœur sanctifiée (sans répit)
 
 006			Dojo Griffélin
 006-000		Salle des initiés
@@ -3437,6 +3513,10 @@
 011-023-000	9 ans et toutes mes dents
 011-026		Arène de l'honneur
 011-026-000	Allée d’artillerie
+011-027		Arène de l'honneur
+011-027-000	The Swords of Meiji
+011-028		Arène de puissance
+011-028-000	Vagues offensives
 
 012			Challenge Mode
 012-000		Bataille défi
@@ -5239,6 +5319,27 @@
 027-016-007	Floor 8
 027-016-008	Floor 9
 027-016-009	Floor 10
+027-017		Aoshi Shinomori Strikes!
+027-017-000	Oniwaban Group Lv.1
+027-017-001	Oniwaban Group Lv.2
+027-017-002	Oniwaban Group Lv.3
+027-017-003	Oniwaban Group Lv.4
+027-017-004	Oniwaban Group Lv.5
+027-017-005	Oniwaban Group Lv.6
+027-017-006	Oniwaban Group Lv.7
+027-017-007	Oniwaban Group Lv.8
+027-017-008	Oniwaban Group Lv.9
+027-017-009	Oniwaban Group Lv.10
+027-017-010	Oniwaban Group Lv.11
+027-017-011	Oniwaban Group Lv.12
+027-017-012	Oniwaban Group Lv.13
+027-017-013	Oniwaban Group Lv.14
+027-017-014	Oniwaban Group Lv.15
+027-017-015	Oniwaban Group Lv.16
+027-017-016	Oniwaban Group Lv.17
+027-017-017	Oniwaban Group Lv.18
+027-017-018	Oniwaban Group Lv.19
+027-017-019	Oniwaban Group Lv.MAX
 
 031			Behemoth Culling Stages
 031-000		Forêt cachée de Gapra
@@ -5501,3 +5602,24 @@
 034-011-003	Archipel des yaourts
 034-011-004	Ruines des emporte-pièces
 034-011-005	Pays des merveilles bonbons
+034-012		Île rupestre isolée
+034-012-000	Mer de Yodoyo
+034-012-001	Prison putride
+034-012-002	Isolation par pollution
+034-012-003	Mutation absurde
+034-012-004	Toxicité accidentelle
+034-012-005	Homoncule chaleureux
+
+036			Colosseum Stages
+036-000		Colisée d'outre-monde
+036-000-000	1re manche
+036-000-001	2e manche
+036-000-002	3e manche
+036-000-003	4e manche
+036-000-004	5e manche
+036-001		Colisée d'outre-monde
+036-001-000	1re manche
+036-001-001	2e manche
+036-001-002	3e manche
+036-001-003	4e manche
+036-001-004	5e manche

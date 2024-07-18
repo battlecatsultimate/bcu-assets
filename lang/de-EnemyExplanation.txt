@@ -156,8 +156,8 @@
 155	<br><br><br>
 156	<br><br><br>
 157	
-158	
-159	
+158	<br><br><br>
+159	<br><br><br>
 160	Ein quietschfideler Neuling. Heute ist ihr zweiter<br>Tag in ihrem himmlischen Job. Ihre Freundin Ente<br>hat langsam die Nase gestrichen voll, davon zu hören,<br>wie toll die neue Wohnung im Paradies ist.
 161	
 162	
@@ -257,7 +257,7 @@
 256	Ein skrupelloser halbprofessioneller Pitcher, der alles tut,<br>um ein Spiel zu gewinnen.<br>Wirft illegale Bälle aus weiter Entfernung, um die<br>Batter von Auswärtsmannschaften einzuschüchtern.
 257	Im Jahr 1196 des kosmischen Kalenders geboren. Er hat durch<br>seinen Militärdienst und seine Errungenschaften für die<br>Wissenschaft eine Krone verliehen bekommen. Er ist sauer,<br>weil sein Bruder in einer Realityshow bekannter wurde.
 258	Ein umherwanderndes Mädchen aus dem Wald, das von der<br>Hundearmee als Auftragsmörder angeheuert wurde. Wird von der<br>Katzenarmee gefürchtet, weil sie jede Taktik einsetzt, um zu<br>töten. Selbst eine Panzerfaust mit hoher Reichweite!
-259	
+259	<br><br><br>
 260	<br><br><br>
 261	Führender Assistent des berühmtesten Record-Label-Produzenten<br>im Himmel. Ghostwriter für zwei One-Hit-Wonder:<br>„Können Katzen Sünde sein“ und<br>„C. P. U. (Intelligenz der Zukunft Teil II)“
 262	<br><br><br>
@@ -337,7 +337,7 @@
 336	<br><br><br>
 337	<br><br><br>
 338	<br><br><br>
-339	
+339	<br><br><br>
 340	Ein himmlischer Leckerbissen aus dem Meer, der allen mit<br>reinem Herzen als religiöse Vision des Katzengottes<br>erscheint. Das kulinarische Paradies erwartet jene,<br>die diese Glaubensprüfung bestehen können.
 341	<br><br><br>
 342	<br><br><br>
@@ -406,7 +406,7 @@
 405	Überbleibsel eines uralten Imperiums, das einst die Erde<br>regierte. Eine dunkle Hunde-Vereinigung hat diese furchtbare<br>Macht wiedererweckt, aber zum Glück müssen sich alle Piloten<br>die einzige Ausgabe des Benutzerhandbuchs teilen!
 406	Ein unaufhaltbares Artefakt, das gnadenlos jeden Eindringling<br>im Reich der Uralten zermalmt. Den Prophezeiungen zufolge<br>gibt es Helden, die den üblen Flüchen widerstehen können,<br>die dieser Wächter seinen Feinden auferlegt.
 407	Angestammter Erzfeind des Katzenimperiums.<br>Seriös und fleißig wie alle Hunde, aber manchmal rutscht ihm<br>ein Fluch raus, wenn er sich zu sehr konzentriert.<br>Hoppla, tut mir leid!
-408	
+408	<br><br><br>
 409	
 410	
 411	<br><br><br>
@@ -459,7 +459,7 @@
 458	
 459	
 460	
-461	
+461	<br><br><br>
 462	
 463	
 464	
@@ -505,7 +505,7 @@
 504	
 505	
 506	Der größte Gigolo des Universums, dem alle einsamen<br>Damen der Galaxis verfallen sind.<br>Nur ein paar süße Worte von ihm und schon sehen<br>bald alle Sterne.
-507	
+507	<br><br><br>
 508	
 509	
 510	Ein Geheimlabor hat unethische Genmanipulation genutzt, um<br>einen überlegenden Le’noir zu schaffen. Von unübertroffener<br>Größe und Aggression, mit lähmenden Angriffen.<br>Tödlichkeit steigt mit jedem Kampf.
@@ -644,7 +644,7 @@
 643	Grausige Verzauberin, die in den tiefsten Tiefen eines<br>Labyrinths haust. Quält in ihren Fallen gefangene Opfer mit<br>endlosen Geschichten ohne Pointe, immer über ihren großen<br>Bruder im Reich der Aku.
 644	
 645	
-646	
+646	<br><br><br>
 647	
 648	
 649	Otter, der als Torwächter zum Himmel arbeitet.<br>Schickt alle, die des Himmels nicht wert sind,<br>mit seiner goldenen Kugel in die Unterwelt.<br>Beschwört Monster mit der Kraft von Zufallsangriffen.
@@ -691,3 +691,5 @@
 690	
 691	
 692	Wissenschaftler, der seinem auf die schiefe Bahn geratenen<br>Sohn seinen Mut beweisen will, indem er Boxer wird. Mit<br>erhöhter Intelligenz durch den Ein-Schlag-Kraftstein hat er<br>unnachweisbare Doping-Technologie entwickelt.
+693	
+694	Alte Hyäne, die als größter Astronom aller Zeiten gilt …<br>… laut Teilnahmeurkunde des örtlichen Astronomiestammtischs.<br>Schickt alle, die ihre Theorien kritisieren,<br>in eine andere Dimension.

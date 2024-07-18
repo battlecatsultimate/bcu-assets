@@ -612,7 +612,7 @@
 9239	【Invasion】Schließe „König & Jungfrau“ ab! Du musst auch das zugehörige Sonderlevel abschließen
 9240	Sommerhausaufgaben ①: Wähle ein Aufsatzthema! Schließe. 5 Sommerferienkatzen-Level ab
 9241	Sommerhausaufgaben ②: Wähle ein 2. Aufsatzthema! Schließe. 10 Sommerferienkatzen-Level ab
-9242	Sommerhausaufgaben ③: Wähle ein 3. Aufsatzthema! Schließe. 30 Sommerferienkatzen-Level ab
+9242	Sommerhausaufgaben ①: Finde ein gutes Aufsatzthema. Schließe 20 Sommerferienkatzen-Level ab
 9243	Sommerhausaufgaben ④: Schreibe deinen Aufsatz! Schließe. "Schäbiges Versteck" 5-mal ab
 9244	Sommerhausaufgaben ⑤: Schreibe deinen Aufsatz stilvoll um! Schließe "Stilvolles Versteck" 5-mal ab
 9245	Sommerhausaufgaben ⑥: Schreibe den Aufsatz perfekt um! Schließe "Perfektes Versteck" 5-mal ab
@@ -620,7 +620,7 @@
 9247	Fleißarbeit ②: Fange Insekten! Verbessere Kuwagatakatze auf Stufe 10
 9248	Fleißarbeit ③: Beobachte Insekten! Verbessere Kabutokatze auf Stufe 20
 9249	Fleißarbeit ④: Beobachte Insekten! Verbessere Kuwagatakatze auf Stufe 20
-9250	Extra-Fleißarbeit ①: Weitere Beobachtungen! Schließe "Sommertagebuch" Stufe 1 mit der Kabutokatze ab
+9364	Extra-Fleißarbeit ①: Weitere Beobachtungen! Schließe "Sommertagebuch" Stufe 1 mit der Kabutokatze ab
 9251	Extra-Fleißarbeit ②: Weitere Beobachtungen! Schließe "Sommertagebuch" Stufe 2 mit der Kuwagatakatze ab
 9252	Extra-Fleißarbeit ③: Weitere Beobachtungen! Schließe "Sommertagebuch" Stufe 4 mit der Kabutokatze ab
 9253	Extra-Fleißarbeit ④: Weitere Beobachtungen! Schließe "Sommertagebuch" Stufe 6 mit der Kuwagatakatze ab
@@ -722,7 +722,7 @@
 9361	Schließe beliebige Level von „#04 Maunzerdorf“
 9362	Schließe beliebige Level von „#04 Maunzerdorf“
 9363	Schließe beliebige Level von „#04 Maunzerdorf“
-9364	Sommerhausaufgaben Teil 1 ①: Erforsche Insekten. Erhalte 1 Kabutokatze aus dem Event-Gacha!
+9250	Sommerhausaufgaben Teil 1 ①: Erforsche Insekten. Erhalte 1 Kabutokatze aus dem Event-Gacha!
 9365	Sommerhausaufgaben Teil 1 ②: Erforsche Insekten. Erhalte 1 Kuwagatakatze aus dem Event-Gacha!
 9366	Sommerhausaufgaben Teil 1 ③: Erforsche Insekten. Erhalte 1 Uraltes Ei: N202 aus dem Event-Gacha!
 9367	Sommerhausaufgaben Teil 1 ④: Erforsche Insekten. Erhalte 3 Kabutokatzen aus dem Event-Gacha!
@@ -806,4 +806,24 @@
 9486	(88,88M DL). Schließe das Level „Mysteriöses Paket“ ab!
 9487	(88,88M DL) Verbessere Müllkatze auf St. 10. Muss während des 88,88M-DL-Events geschehen
 9488	(88,88M DL) Verbessere Müllkatze auf St. 20. Während des 88,88M-DL-Events abschließen
+9489	Clear 10 Rurouni Kenshin collab stages
+9490	Clear 30 Rurouni Kenshin collab stages
+9491	Clear 50 Rurouni Kenshin collab stages
 9492	Verdiene 1 Uraltes Ei: N205 aus den "Juni-Braut des Teufels"-Kapseln!
+9493	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 1 Level 3 ab
+9494	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 1 Level 5 ab
+9495	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 2 Level 3 ab
+9496	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 2 Level 5 ab
+9499	[Invasionslevel] Limitierte Eventmission. Schließe „Hof der Pein“ ab
+9500	[Invasionslevel] Limitierte Eventmission. Schließe „Erster Botengang“ ab
+9501	[Invasionslevel] Limitierte Eventmission. Schließe „Wanwans Ruhm“ ab
+9502	[Invasionslevel] Limitierte Eventmission. Schließe „Z-Clionel erhebt sich!“ ab
+9503	[Invasionslevel] Limitierte Eventmission. Schließe „Die alte Königin“ ab
+9504	[Invasionslevel] Limitierte Eventmission. Schließe „Papuus Paradies“ ab
+9505	[Invasionslevel] Schließe „Die Schildkröte und das Baby“ ab. Schließe alle Level und EX-Level ab
+9506	[Invasionslevel] Schließe „Der Prinz und die Wiedergängerin“ ab. Schließe alle Level und EX-Level ab
+9507	[Invasionslevel] Schließe „Die Königin und der Heilige“ ab. Schließe alle Level und EX-Level ab
+9508	Sommerhausaufgaben ④: Schließe den perfekten Aufsatz ab. Schließe 30 Sommerferienkatzen-Level ab
+9509	Sommerhausaufgaben Teil 2 ⑤: Insektenbeobachtung. Gewinne Sommernacht, auf dem Weg nach Hause Lv. 1 mit Kabutokatze
+9510	Sommerhausaufgaben Teil 2 ⑥: Insektenbeobachtung. Gewinne Sommernacht, auf dem Weg nach Hause Lv. 2 mit Kuwagatakatze
+9511	Sommerhausaufgaben Teil 2 ⑦: Insektenbeobachtung. Gewinne Sommernacht, auf dem Weg nach Hause Lv. 3 mit Uraltes Ei: N202

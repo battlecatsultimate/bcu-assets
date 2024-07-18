@@ -523,7 +523,7 @@
 001-031-005	Junge trifft Mädchen
 001-031-006	Sandsäcke am Kap
 001-031-007	Im Hier und Fetzt
-001-032		あの世からの帰省ラッシュ！
+001-032		Geisterhafte Gäste
 001-032-000	Papa spukt wieder herum
 001-032-001	Aber wir sind im Urlaub
 001-032-002	Kann nicht durch Wände gehen?
@@ -538,7 +538,7 @@
 001-034-000	Megastress! (Irre)
 001-035		Monatl. Event-Stars Wundersame Feier!
 001-035-000	Wunderstrategie! (Irre)
-001-036		Alte Stadtknacker
+001-036		Alte Dorfknacker
 001-036-000	Dämmerungsjogger
 001-036-001	Alltagsjob = Boxer
 001-036-002	Weg von Daheim
@@ -632,7 +632,7 @@
 001-065-004	No I-A-P!
 001-065-005	Get Those Ubers
 001-065-006	Conquer the Galaxy
-001-065-007	At Nintendo eShop!
+001-065-007	But the App's Fun Too :)
 001-066		Dimension der Verzweiflung
 001-066-000	Wachsendes schwarzes Loch (Irre)
 001-068		
@@ -1065,7 +1065,7 @@
 001-207		König Wahwahs Rückkehr
 001-207-000	Rache von N-1 (Gnadenlos)
 001-207-001	Zorn des Hundeherren (Gnadenlos)
-001-208		Clan der Verrückten
+001-208		Clan der Irren
 001-208-000	Der wilde Tanz (Tödlich)
 001-208-001	Irrer Rhythmus (Gnadenlos)
 001-209		Miau-Miau-Tag
@@ -1236,16 +1236,24 @@
 001-260-005	Staubbedeckt
 001-260-006	Gezückte Hüte
 001-260-007	Jetzt nicht nachlassen
-001-261		Hotblooded Challenge Course
+001-261		River City Challenge Course
 001-261-000	Aim for the Top
 001-261-001	Power On Through
 001-261-002	Overcome The Odds
 001-261-003	Mistakes Don't Matter
 001-261-004	Good Effort
-001-262		Heißblütiger Dreibeinlauf ①
+001-262		River City Three-Leg Race ①
 001-262-000	vs. Team Weiß
 001-262-001	vs. Team Rot
 001-262-002	vs. Team Schwarz
+001-263		River City Three-Leg Race ②
+001-263-000	vs. Team Weiß
+001-263-001	vs. Team Rot
+001-263-002	vs. Team Schwarz
+001-264		River City Three-Leg Race ③
+001-264-000	vs. Team Weiß
+001-264-001	vs. Team Rot
+001-264-002	vs. Team Schwarz
 001-265		Park der Dämonen
 001-265-000	Gefrorene Weisheit
 001-265-001	Verfluchter See
@@ -1266,7 +1274,7 @@
 001-270-001	Aku für Fortgeschrittene: Methoden
 001-270-002	Aku f. Fortgeschr.: Feldforschung
 001-270-003	Aku f. Fortgeschr.: Fragestellung
-001-271		Bericht der Kaiserin 3
+001-271		女Bericht der Kaiserin 3
 001-271-000	Aku für Experten: Einführung
 001-271-001	Aku für Experten: Methoden
 001-271-002	Aku für Experten: Forschung
@@ -1391,7 +1399,32 @@
 001-297-000	Occupy Nachmittagsbetreuung
 001-297-001	Betteln um Schokolade
 001-297-002	Siebenminütiger Krieg
-001-303		Hof der Qual
+001-298		Saison 2: Herzklopfen-Fest
+001-298-000	Tagelang schlaflos
+001-298-001	Kantinenkollegen
+001-298-002	Berührung an der Kasse
+001-298-003	Rechenfehler
+001-298-004	Schulglocke
+001-298-005	Schulfest-Aufräumarbeiten
+001-299		Saison 3: Schulausflug
+001-299-000	Langersehnte Klassenfahrt
+001-299-001	Spontankauf-Souvenir
+001-299-002	Blumen außer Saison
+001-299-003	Die große Kissenschlacht
+001-299-004	Schlaf im Flug
+001-300		Wochenende: Geständnis
+001-300-000	Mutiger Anruf
+001-300-001	Die gefürchtete Antwort
+001-300-002	„Tut mir leid, aber ...“
+001-301		Wochenende: Geständnis
+001-301-000	Mutiger Anruf
+001-301-001	Die gefürchtete Antwort
+001-301-002	„Nicht mein Typ“
+001-302		Wochenende: Geständnis
+001-302-000	Mutiger Anruf
+001-302-001	Die gefürchtete Antwort
+001-302-002	„Freunde bleiben?“
+001-303		Saison 4: Abschlussfeier
 001-303-000	An der Stelle warten
 001-303-001	Schnellerer Puls
 001-303-002	Sie ist wirklich gekommen?!
@@ -1408,7 +1441,7 @@
 001-306-000	Honigtopf (Tödlich)
 001-307		König & Engel
 001-307-000	N-1 Grand Prix (Tödlich)
-001-308		#02 ??? der 13.
+001-308		#03 ??? der 13.
 001-308-000	Nebelsee-Flitterwochen
 001-308-001	Segen des Krähenschwarms
 001-308-002	Verfallenes Häuschen
@@ -1619,6 +1652,19 @@
 001-376		Supersmash-Familien
 001-376-000	Gefährliche Straße (Brutal)
 001-376-001	Schreckliche Straße (Brutal)
+001-377		Die Schildkröte und das Baby
+001-377-000	Das Reine Land (Gnadenlos)
+001-378		Der Prinz und die Wiedergängerin
+001-378-000	Kläfferhausen (Gnadenlos)
+001-379		Die Königin und der Heilige
+001-379-000	Königin sticht (Gnadenlos)
+001-380		Sommernacht, auf dem Weg nach Hause
+001-380-000	Dunkle Landstraßen
+001-380-001	Verfallene Straßenlaternen
+001-380-002	Aufgegeben aber besetzt
+001-381		Papuus Paradoxon
+001-381-000	Heilige Schwester (Gnadenlos)
+001-381-001	Requiem für Engel (Gnadenlos)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2094,9 +2140,9 @@
 002-170-000	An Encounter With Sin
 002-170-001	Foolish Wanderer Kano
 002-170-002	Wishing for Happiness
-002-171		The World Beyond
+002-171		Godzilla: Final Assault
 002-171-000	God of Destruction (Merciless)
-002-172		The World Beyond
+002-172		Godzilla vs Cats
 002-172-000	The Leviathan Rises
 002-172-001	Disaster Response HQ
 002-172-002	Climactic Cat Clash
@@ -2188,6 +2234,9 @@
 002-198		Holy War: Gilgamesh
 002-198-000	King of Heroes (Veteran)
 002-198-001	King of Heroes (Deadly)
+002-204		Redhead Yuki Cat Awakens!
+002-204-000	Redheaded Rise (Veteran)
+002-204-001	Redheaded Rise (Insane)
 002-205		The 9th Angel Strikes!
 002-205-000	Asuka On Board (Easy)
 002-205-001	Asuka On Board (Expert)
@@ -2222,6 +2271,28 @@
 002-215-002	Super Power-Up
 002-215-003	Perfect Power-Up
 002-215-004	Miracle Power-Up
+002-216		Rurouni Kenshin
+002-216-000	Wandering Swordsman
+002-216-001	Zanza, Fighter for Hire
+002-216-002	Sakabato and Zanbato
+002-216-003	Master of the Oniwaban
+002-216-004	Secret Police
+002-217		Kenshin Himura, Battosai
+002-217-000	Feared Bakumatsu Warrior
+002-217-001	A Blade Which Does Not Kill-Sakabato
+002-217-002	Swift Satsujinken
+002-217-003	Hiten Mitsurugi-ryu
+002-217-004	Master of Battojutsu
+002-218		Sanosuke Sagara, Fighter for Hire
+002-218-000	I've Come for a Fight
+002-218-001	Zanbato, the Giant Sword
+002-218-002	Mark of Villainy
+002-218-003	I Won't Be Beaten!
+002-218-004	Let's Finish This!
+002-219		A Wolf Baring Fangs
+002-219-000	The Wolf Revived
+002-219-001	Evil-Immediate-Slaughter
+002-219-002	I Disavow You Entirely
 
 003			
 003-000		EoC Ch.1 Zombie
@@ -3189,6 +3260,12 @@
 004-064-000	Hortwildnis (Tödlich)
 004-064-001	Gipfelwildnis (Gnadenlos)
 004-064-002	Grenzwildnis (Gnadenlos)
+004-065		Die Schildkröte und das Baby
+004-065-000	Falsches Baby (Gnadenlos)
+004-066		Der Prinz und die Wiedergängerin
+004-066-000	Nachhut der Toten (Gnadenlos)
+004-067		Die Königin und der Heilige
+004-067-000	Heilige Schwester (Gnadenlos)
 
 006			Katzenkrallendojo
 006-000		Halle der Initianden
@@ -3435,6 +3512,10 @@
 011-023-000	Freuen mit 9
 011-026		Arena of Honor
 011-026-000	Artillerie-Allee
+011-027		Arena of Honor
+011-027-000	The Swords of Meiji
+011-028		Machtarena
+011-028-000	Angriffswellen
 
 012			Challenge Mode
 012-000		Herausforderungskampf
@@ -4931,19 +5012,19 @@
 025-059		Perfektes Versteck
 025-059-000	Insektenjagd bei Nacht
 025-060		Jägerkarte I
-025-060-000	Lila Steinwald 1
-025-060-001	Roter Steinwald 1
+025-060-000	Lila Steinwald I
+025-060-001	Roter Steinwald I
 025-061		Jägerkarte II
-025-061-000	Lila Steinwald 2
-025-061-001	Roter Steinwald 2
-025-061-002	Blaue Steinwüste 2
-025-061-003	Grüne Steinwüste 2
+025-061-000	Lila Steinwald II
+025-061-001	Roter Steinwald II
+025-061-002	Blaue Steinwüste II
+025-061-003	Grüne Steinwüste II
 025-062		Jägerkarte III
-025-062-000	Lila Steinwald 3
-025-062-001	Blaue Steinwüste 3
-025-062-002	Grüne Steinwüste 3
-025-062-003	Roter Steinwald 3
-025-062-004	Gelber Steinvulkan 3
+025-062-000	Lila Steinwald III
+025-062-001	Blaue Steinwüste III
+025-062-002	Grüne Steinwüste III
+025-062-003	Roter Steinwald III
+025-062-004	Gelber Steinvulkan III
 025-063		Ursprung des bösen Instinkts
 025-063-000	Hortschrein (Tödlich)
 025-064		Apex des bösen Instinkts
@@ -5175,6 +5256,27 @@
 027-016-007	Floor 8
 027-016-008	Floor 9
 027-016-009	Floor 10
+027-017		Aoshi Shinomori Strikes!
+027-017-000	Oniwaban Group Lv.1
+027-017-001	Oniwaban Group Lv.2
+027-017-002	Oniwaban Group Lv.3
+027-017-003	Oniwaban Group Lv.4
+027-017-004	Oniwaban Group Lv.5
+027-017-005	Oniwaban Group Lv.6
+027-017-006	Oniwaban Group Lv.7
+027-017-007	Oniwaban Group Lv.8
+027-017-008	Oniwaban Group Lv.9
+027-017-009	Oniwaban Group Lv.10
+027-017-010	Oniwaban Group Lv.11
+027-017-011	Oniwaban Group Lv.12
+027-017-012	Oniwaban Group Lv.13
+027-017-013	Oniwaban Group Lv.14
+027-017-014	Oniwaban Group Lv.15
+027-017-015	Oniwaban Group Lv.16
+027-017-016	Oniwaban Group Lv.17
+027-017-017	Oniwaban Group Lv.18
+027-017-018	Oniwaban Group Lv.19
+027-017-019	Oniwaban Group Lv.MAX
 
 031			Behemoth Culling Stages
 031-000		Versteckter Gapra-Wald
@@ -5438,3 +5540,24 @@
 034-011-003	Joghurtarchipel
 034-011-004	Ausstecherruinen
 034-011-005	Pop-Pop-Wunderland
+034-012		Abgeschiedene Höhleninsel
+034-012-000	Yodoyomeer
+034-012-001	Fauliges Gefängnis
+034-012-002	Schadstoffisolation
+034-012-003	Unsinnsmutation
+034-012-004	Versehentliche Toxizität
+034-012-005	Herzlicher Homunculus
+
+036			Colosseum Stages
+036-000		Anderwelt-Kolosseum
+036-000-000	Runde 1
+036-000-001	Runde 2
+036-000-002	Runde 3
+036-000-003	Runde 4
+036-000-004	Runde 5
+036-001		Anderwelt-Kolosseum
+036-001-000	Runde 1
+036-001-001	Runde 2
+036-001-002	Runde 3
+036-001-003	Runde 4
+036-001-004	Runde 5

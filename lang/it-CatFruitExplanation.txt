@@ -57,7 +57,7 @@
 056	La Forma Reale aumenta la difesa,<br>la velocità, l'attacco e il raggio!<br>
 057	La Forma Reale aumenta tutti i tratti<br>e la possibilità di danni critici! Poi dà<br>resistenza alla respinta di attacchi nemici.
 058	La Forma Reale migliora<br>la difesa e la potenza d'attacco!<br>
-059	La Forma Reale aumenta tutti i tratti<br>e garantisce le abilità di attacco a ondata!<br>
+059	La Forma Reale aumenta tutti i tratti<br>e garantisce le abilità di attacco a ondata!<br>	La Forma ultra ottiene<br>velocità e bilaterale potenziati!<br>Anche l'attacco a ondata è potenziato!
 060	<br><br>
 061	La Forma Reale ha una difesa molto più forte!<br><br>
 062	<br><br>
@@ -446,7 +446,7 @@
 445	La Forma Reale ottiene<br>maggiore potenza d'attacco e<br>immunità da attacchi a ondata!
 446	La Forma Reale ottiene<br>abilità di attacco a valanga!<br>
 447	La Forma Reale aumenta<br>potenza d'attacco e difesa, e<br>ottiene abilità di sfondamento!
-448	<br><br>
+448	La Forma Reale ottiene maggiore vitalità<br>e potenza d'attacco! Poi ammazzagiganti,<br>rallenta, immunità a indebolimento!
 449	<br><br>
 450	La Forma Reale ottiene maggiore difesa!<br>Ottiene immunità da respinta e veleno,<br>oltre ad ammazzagiganti!
 451	<br><br>
@@ -645,7 +645,7 @@
 644	Forma Reale ottiene attacchi che possono<br>immobilizzare antichi, ed è immune alle<br>malediz. che bloccano abilità alleate.
 645	<br><br>
 646	<br><br>
-647	<br><br>
+647	La Forma Reale<br>è efficace vs rossi e alieni!<br>
 648	<br><br>
 649	<br><br>
 650	<br><br>
@@ -756,3 +756,7 @@
 755	<br><br>
 756	<br><br>
 757	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
+758	<br><br>
+759	<br><br>
+760	<br><br>
+761	<br><br>

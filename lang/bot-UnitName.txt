@@ -57,7 +57,7 @@
 056	Archer Cat	Cupid Cat	Cataur
 057	Marauder Cat	Berserker Cat	Paladin Cat
 058	Swordsman Cat	Sword Master Cat	Elemental Duelist Cat
-059	Baby Cat	Baby Cats	Cats in the Cradle	Baby World Cats
+059	Baby Cat	Baby Cats	Cats in the Cradle	Cats in the Stroller
 060	Bronze Cat	Michelangelo Cat	Quizmaster Cat
 061	Sushi Cat	Fried Shrimp Cat	Roe Cat
 062	Capsule Cat	Vendor Cat
@@ -645,7 +645,7 @@
 644	Sweet Love Mekako	Bittersweet Mekako	Minty Love Mekako
 645	Brainwashed Axe Cat	Brainwashed Brave Cat	Brainwashed Dark Cat
 646	Firecracker Cat	Macho Firecracker Cat
-647	Huntress Terun	Huntress Terun ζ	Divine Terun ζ
+647	Huntress Terun	Huntress Terun ζ	Divine Huntress Terun ζ
 648	Lovestruck Lesser Demon	Lovestruck Greater Demon
 649	Hattori Hanzo	Wargod Hanzo
 650	Secret Crush Cat	Girlfriend Cat
@@ -744,19 +744,19 @@
 743	Madhead	Madhead Cat		
 744	Felix the Cat Duke Cat	Mercenary Leader Felix Cat		
 745	Dotty Cat	Birthday Dotty Cat		
-746	Himura Kenshin	Himura Kenshin CC
-747	Sagara Sanosuke	Sagara Sanousuke CC
-748	Shinomori Aoshi	Shinomori Aoshi CC
-749	Saito Hajime	Saito Hajime CC
-750	Li'l Kaoru	Li'l Kaoru CC
-751	Li'l Yahiko	Li'l Yahiko CC
-752	Kenshin Cat	Battousai Cat
-753	Kaoru Cat	Kenjutsu Beauty Kaoru Cat
+746	Kenshin Himura	Kenshin Himura CC		
+747	Sanosuke Sagara	Sanosuke Sagara CC		
+748	Aoshi Shinomori	Aoshi Shinomori CC		
+749	Hajime Saito	Hajime Saito CC		
+750	Li'l Kaoru	Li'l Kaoru CC		
+751	Li'l Yahiko	Li'l Yahiko CC		
+752	Kenshin Cat	Battosai Cat		
+753	Kaoru Cat	Swordscat Kaoru	
 754	Akechi Mitsuhide	Wargod Mitsuhide
 755	Mitsuhide Spirit
 756	Cake Machine	Wedding Cake Machine
 757	Ancient Egg: N205	Violet Egg: N205	Bride Cat
 758	Dazzling Mercenary Trixie	Vengeance Mercenary Trixie
-759	Summerfest Thundia	Summerfest Thundia β
-760	Cannon Dragon Gandros	Cannon Dragon King Gandros
+759	Music Fest Thundia	Music Fest Thundia β		
+760	Gunduros	Ballistic Dragon Gunduros
 761	Gandros Spirit

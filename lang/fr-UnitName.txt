@@ -57,7 +57,7 @@
 056	Charcher	Chapidon	Chagittaire	
 057	Chat maraudeur	Chat berserker	Chat paladin	
 058	Chat épéiste	Chat épéiste expert	Chat épéiste élémentaire	
-059	Chat bébé	Chats bébés	Chats au berceau	
+059	Chat bébé	Chats bébés	Chats au berceau	Chats en poussette
 060	Chat en bronze	Michal-Ange	Chanimateur	
 061	Chats sushi	Chats crevette frite	Chats œufs de poisson	
 062	Toy Machine Cat	Vendor Cat		
@@ -268,7 +268,7 @@
 267	Chat tornade	Chat ouragan	Chat typhon	
 268	Chaperon Mina	Mina écarlate	Mina éveillée	
 269	Bébé Gao	Puissant seigneur Gao		
-270	Crazed Yuki	Crazed Yuki ＆ Cat	Crazed Catgirl Yuki	
+270	Crazed Yuki	Crazed Yuki & Cat	Crazed Catgirl Yuki	
 271	Reluisante Amaterasu	Scintillante Amaterasu	Amaterasu Toute-puissante	
 272	Splendide Ganesh	Glorieux Ganesh	Ganesh Tout-puissant	
 273	Pom-pom Chatte	Serveuse féline	Soba féline	
@@ -446,7 +446,7 @@
 445	Chat découpeuse	Chat découpeuse électrique	Néo Chat découpeuse	
 446	Chat tractopelle	Chat tractopelle électrique	Néo Chat tractopelle	
 447	Chat scie	Chat scie électrique	Néo Chat scie	
-448	Musashi Miyamoto	Miyamoto dieu de la guerre		
+448	Musashi Miyamoto	Miyamoto dieu de la guerre	Miyamoto immortel	
 449	Principale Jeanne	Principale Jeanne ψ		
 450	Grand seigneur Babel	Babel sombre flamme	Dieu empereur Babel	
 451	Ushiwakamaru	Benkei colochal		
@@ -526,7 +526,7 @@
 525	Kintaro	Kinrangers RoboForce	Kinrangers GigaForce	
 526	Jumelles Angeneige	Jumelles Angeneige, type Φ		
 527	Chat gluant	Chat méduse		
-528	Chat cosaque	Chat vodka		
+528	Chat cosaque	Chat vodka	Chat garde royal	
 529	Kasli le Fléau	Sainte Kasli rituelle		
 530	Herme	Herme CC		
 531	Professeur Ours-Chat	Ours-Chassassin	Ours-Chat cadavre	
@@ -645,7 +645,7 @@
 644	Mekako bel amour	Mekako douce-amère	Mekako amour mentholé	
 645	Chat borgne sous contrôle	Chardi sous contrôle	Chat de l'ombre sous contrôle	
 646	Chat pétard	Chat pétard macho		
-647	Terun chasseresse	Terun chasseresse ζ		
+647	Terun chasseresse	Terun chasseresse ζ	Terun chasseresse divine ζ	
 648	Démon inférieur amoureux	Démon supérieur amoureux		
 649	Hanzo Hattori	Hanzo dieu de la guerre		
 650	Chatte flirt secret	Chatte petite amie		
@@ -744,15 +744,19 @@
 743	Madhead	Madhead Cat		
 744	Felix the Cat Duke Cat	Mercenary Leader Felix Cat		
 745	Dotty Cat	Birthday Dotty Cat		
-746			
-747			
-748			
-749			
-750			
-751			
-752			
-753			
+746	Kenshin Himura	Kenshin Himura CC		
+747	Sanosuke Sagara	Sanosuke Sagara CC		
+748	Aoshi Shinomori	Aoshi Shinomori CC		
+749	Hajime Saito	Hajime Saito CC		
+750	Li'l Kaoru	Li'l Kaoru CC		
+751	Li'l Yahiko	Li'l Yahiko CC		
+752	Kenshin Cat	Battosai Cat		
+753	Kaoru Cat	Swordscat Kaoru		
 754	Akechi Mitsuhide	Mitsuhide dieu guerrier		
 755				
 756	Machine à gâteaux	Machine à gâteaux de mariage		
 757	Œuf ancien N205	Œuf violet N205	Chat mariée	
+758			
+759	Tonnia festivalière	Tonnia festivalière β		
+760	Gunduros	Dragon balistique Gunduros		
+761				

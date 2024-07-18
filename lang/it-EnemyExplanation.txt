@@ -156,8 +156,8 @@
 155	<br><br><br>
 156	<br><br><br>
 157	
-158	
-159	
+158	<br><br><br>
+159	<br><br><br>
 160	Un energico novellino al suo secondo<br>giorno di lavoro in paradiso. L'Oca<br>non ne può più di sentirlo parlare di quanto<br>sia bella la sua nuova casa in paradiso.
 161	
 162	
@@ -257,7 +257,7 @@
 256	Uno spietato lanciatore semiprofessionista che<br>ricorre a qualsiasi mezzo per vincere.<br>Lancia palle non regolamentari da lontano<br>per intimidire i battitori della squadra avversaria.
 257	Nato nell'anno 1196 del calendario cosmico, si è<br>guadagnato una corona grazie al servizio militare<br>e ai progressi scientifici. Infastidito dal fatto<br>che il fratellino sia più famoso per un reality show.
 258	Una ragazza delle foreste scelta come assassina<br>dall'armata canina. L'armata felina la teme per<br>l'uso spietato di qualsiasi tattica necessaria<br>per uccidere. Perfino un bazooka a lungo raggio!
-259	
+259	<br><br><br>
 260	<br><br><br>
 261	Assistente esecutivo del produttore discografico<br>più famoso del paradiso. Ghost writer per due<br>meteore musicali: "Gatto senza peccato" e<br>C.P.U. (Intelligenza futuristica n. II).
 262	<br><br><br>
@@ -337,7 +337,7 @@
 336	<br><br><br>
 337	<br><br><br>
 338	<br><br><br>
-339	
+339	<br><br><br>
 340	Un sapore paradisiaco del mare, inviato<br>come una visione mistica dal Gatto divino per<br>i puri di cuore. Un paradiso culinario<br>attende coloro che superano questa prova di fede.
 341	<br><br><br>
 342	<br><br><br>
@@ -406,7 +406,7 @@
 405	Artefatto di un antico impero che un tempo regnava<br>sulla Terra. Un'oscura congrega di Cani ha riportato<br>in vita questa forza terribile, ma per fortuna hanno<br>solo una copia delle istruzioni da condividere!
 406	Un artefatto inarrestabile che distrugge senza pietà<br>qualsiasi intruso nel regno degli Antichi.<br>Le profezie parlano di qualcuno che possa resistere<br>alle oscure maledizioni lanciate da questo guardiano.
 407	Nemesi ancestrale dell'Impero dei Gatti.<br>Serio e diligente come ogni Cane,<br>ma a volte sbadatamente gli scappa una maledizione<br>se si concentra a lungo. Ops, scusate!
-408	
+408	<br><br><br>
 409	
 410	
 411	<br><br><br>
@@ -459,7 +459,7 @@
 458	
 459	
 460	
-461	
+461	<br><br><br>
 462	
 463	
 464	
@@ -505,7 +505,7 @@
 504	
 505	
 506	Playboy n. 1 dell'universo, amato dalle<br>signore solitarie di tutta la galassia.<br>Bastano poche parole da parte sua<br>e chiunque comincerà a vedere le stelle.
-507	
+507	<br><br><br>
 508	
 509	
 510	Un laboratorio segreto ha modificato un genoma<br>per creare l'Elenoir migliore, di impareggiabile<br>stazza e aggressività, con attacchi che rallentano.<br>La sua letalità aumenta a ogni battaglia.
@@ -644,7 +644,7 @@
 643	Strega raccapricciante che risiede nelle profondità<br>di un labirinto. Sottopone le vittime cadute nelle sue<br>trappole a storie infinite e senza senso,<br>sempre sul fratello maggiore nei regni Aku.
 644	
 645	
-646	
+646	<br><br><br>
 647	
 648	
 649	Lontra che lavora ai cancelli del paradiso.<br>Manda chi non è degno di entrare nei cieli<br>negli inferi con la sua sfera dorata. Evoca<br>mostri con il potere della valanga.
@@ -691,3 +691,5 @@
 690	
 691	
 692	Scienziato che desidera dimostrare il proprio coraggio<br>al figlio delinquente diventando un pugile. Possiede<br>un'intelligenza superiore grazie all'unica pietra del potere,<br>e ha sviluppato una tecnologia antidoping non rilevabile.
+693	
+694	Vecchia iena, teoricamente il miglior astronomo mai<br>esistito... se si dà credito al premio per la partecipazione<br>che ha ricevuto a un evento locale. Chi critica le sue<br>teorie viene spedito in un'altra dimensione.

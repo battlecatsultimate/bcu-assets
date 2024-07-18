@@ -523,7 +523,7 @@
 001-031-005	Chico Complace a Chica
 001-031-006	Sacos de Arena
 001-031-007	Miaquí, Miahora
-001-032		あの世からの帰省ラッシュ！
+001-032		Huéspedes Fantasmales
 001-032-000	Papi Vuelve a Aparecerse
 001-032-001	Estamos de Vacaciones
 001-032-002	A Través de las Paredes
@@ -538,7 +538,7 @@
 001-034-000	¡Ultraestrés! (Demencial)
 001-035		Evento de las Estrellas Mensual ¡Celebración Milagrosa!
 001-035-000	¡Tácticas Milagrosas! (Demencial)
-001-036		Yayos en la Ciudad
+001-036		Yayos en el Pueblo
 001-036-000	Corredores Mañaneros
 001-036-001	Trabajo de Día = Boxeo
 001-036-002	Huida de la Residencia
@@ -632,7 +632,7 @@
 001-065-004	No I-A-P!
 001-065-005	Get Those Ubers
 001-065-006	Conquer the Galaxy
-001-065-007	At Nintendo eShop!
+001-065-007	But the App's Fun Too :)
 001-066		Dimensión Desesperada
 001-066-000	Agujero Negro Creciente (Demencial)
 001-068		
@@ -1227,7 +1227,7 @@
 001-258-001	Muro Demoníaco
 001-259		El Gran Diablo
 001-259-000	Ira del Infierno (Mortal)
-001-260		Iniciativa Impulsiva
+001-260		River City Ball-Rolling
 001-260-000	Balón Fugitivo
 001-260-001	Energía Cinética
 001-260-002	Bola de 100 kg
@@ -1236,16 +1236,24 @@
 001-260-005	Cubierto de Polvo
 001-260-006	Sin Sombrero
 001-260-007	Imposible de Parar
-001-261		Hotblooded Challenge Course
+001-261		River City Challenge Course
 001-261-000	Aim for the Top
 001-261-001	Power On Through
 001-261-002	Overcome The Odds
 001-261-003	Mistakes Don't Matter
 001-261-004	Good Effort
-001-262		Carrera de Tres Piernas ①
+001-262		River City Three-Leg Race ①
 001-262-000	Vs. Equipo Blanco
 001-262-001	Vs. Equipo Rojo
 001-262-002	Vs. Equipo Negro
+001-263		River City Three-Leg Race ②
+001-263-000	Vs. Equipo Blanco
+001-263-001	Vs. Equipo Rojo
+001-263-002	Vs. Equipo Negro
+001-264		River City Three-Leg Race ③
+001-264-000	Vs. Equipo Blanco
+001-264-001	Vs. Equipo Rojo
+001-264-002	Vs. Equipo Negro
 001-265		Parque Demoníaco
 001-265-000	Sabiduría Congelada
 001-265-001	Lago Maldito
@@ -1257,56 +1265,52 @@
 001-268		Gato Liberado
 001-268-000	Las Puertas de Aku
 001-269		Informe de Emperatriz 1
-001-269-000	Aku: Introducción Básica
-001-269-001	Aku: Método Básico
-001-269-002	Aku: Investigación Básica
-001-269-003	Aku: Consulta Básica
+001-269-000	Aku 101: Introducción
+001-269-001	Aku 101: Método
+001-269-002	Aku 101: Investigación
+001-269-003	Aku 101: Consulta
 001-270		Informe de Emperatriz 2
-001-270-000	Aku: Introducción Avanzada
-001-270-001	Aku: Método Avanzado
-001-270-002	Aku: Investigación Avanzada
-001-270-003	Aku: Consulta Avanzada
+001-270-000	Aku 201: Introducción
+001-270-001	Aku 201: Método
+001-270-002	Aku 201: Investigación
+001-270-003	Aku 201: Consulta
+001-271		Informe de Emperatriz 3
+001-271-000	Aku 301: Introducción
+001-271-001	Aku 301: Método
+001-271-002	Aku 301: Investigación
+001-271-003	Aku 301: Consulta
 001-272		Sinfonía de Tentaciones
 001-272-000	Melodía de Akus (Inhumano)
 001-273		Rashomon
 001-273-000	Reencarnación de Akus (Inhumano)
-001-271		Informe de Emperatriz 3
-001-271-000	Aku: Introducción Experta
-001-271-001	Aku: Método Experto
-001-271-002	Aku: Investigación Experta
-001-271-003	Aku: Consulta Experta
-001-272		Sinfonía de Tentaciones
-001-273-000	Reencarnación de Akus (Inhumano)
-001-274		Mal Proliferante
-001-272-000	Melodía de Akus (Inhumano)
 001-274		Mal Proliferante
 001-274-000	Murmullo de Aku (Demencial)
 001-274-001	Murmullo de Aku (Mortal)
 001-274-002	Susurro de Aku (Mortal)
 001-274-003	Susurro de Aku (Inhumano)
 001-275		Informe de Emperatriz 4
-001-275-000	Aku: Introducción Doctorada
-001-275-001	Aku: Método Doctorado
-001-275-002	Aku: Investigación Doctorada
-001-275-003	Aku: Consulta Doctorada
+001-275-000	Aku 401: Introducción
+001-275-001	Aku 401: Método
+001-275-002	Aku 401: Investigación
+001-275-003	Aku 401: Consulta
 001-276		Informe de Emperatriz 5
-001-276-000	Akus: Introducción Profesional
-001-276-001	Akus: Método Profesional
-001-276-002	Akus: Investigación Profesional
-001-276-003	Akus: Consulta Profesional
+001-276-000	Aku 501: Introducción
+001-276-001	Aku 501: Método
+001-276-002	Aku 501: Investigación
+001-276-003	Aku 501: Consulta
 001-277		Excavación de Emperatriz 1
-001-277-000	Arqueología: Preparación Básica
-001-277-001	Arqueología: Métodos Básicos
-001-277-002	Arqueología: Resultados Básicos
-001-277-003	Arqueología: Análisis Básico
+001-277-000	Arqueología 101: Preparación
+001-277-001	Arqueología 101: Métodos
+001-277-002	Arqueología 101: Resultados
+001-277-003	Arqueología 101: Análisis
 001-278		Excavación de Emperatriz 2
 001-278-000	Arqueología 201: Preparación
-001-278-001	Arqueología 201: Método
+001-278-001	Arqueología 201: Métodos
 001-278-002	Arqueología 201: Resultados
 001-278-003	Arqueología 201: Análisis
 001-279		Excavación de Emperatriz 3
 001-279-000	Arqueología 301: Preparación
-001-279-001	Arqueología 301: Método
+001-279-001	Arqueología 301: Métodos
 001-279-002	Arqueología 301: Resultados
 001-279-003	Arqueología 301: Análisis
 001-280		Excavación de Emperatriz 4
@@ -1395,7 +1399,32 @@
 001-297-000	Ocupación de la Escuela
 001-297-001	Plegaria de Chocolate
 001-297-002	Guerra de 7 Minutos
-001-303		Guerra de San Valentín
+001-298		Temp. 2: Festival de Latidos
+001-298-000	Días Sin Dormir
+001-298-001	Compañeros de Trabajo
+001-298-002	Cuenta en Mano
+001-298-003	Factura Inesperada
+001-298-004	Final del Día
+001-298-005	Limpieza Tras el Festival
+001-299		Temp. 3: Excursión
+001-299-000	Excursión Esperada
+001-299-001	Regalo Inesperado
+001-299-002	Florecimiento Prematuro
+001-299-003	Gran Pelea de Almohadas
+001-299-004	Sueñecito en el Avión
+001-300		Finde: Confesión
+001-300-000	Llamada Atrevida
+001-300-001	Respuesta Temida
+001-300-002	Lo Siento, Pero...
+001-301		Finde: Confesión
+001-301-000	Llamada Atrevida
+001-301-001	Respuesta Temida
+001-301-002	No Eres Mi Tipo
+001-302		Finde: Confesión
+001-302-000	Llamada Atrevida
+001-302-001	Respuesta Temida
+001-302-002	Solo Amigos
+001-303		Temp. 4: Día de Graduación
 001-303-000	Espera en el Sitio
 001-303-001	Pulso Acelerado
 001-303-002	¡Ha Venido!
@@ -1412,7 +1441,7 @@
 001-306-000	Trampa Sensual (Mortal)
 001-307		El Rey y el Ángel
 001-307-000	Grand Prix N1 (Mortal)
-001-308		#02 ¿En Qué Cae el 13?
+001-308		#03 ¿En qué cae el 13?
 001-308-000	Luna de Miel en el Lago
 001-308-001	Bendición del Cuervo
 001-308-002	Cabaña Ruinosa
@@ -1548,6 +1577,18 @@
 001-348-001	Rey Fantasma II (Inhumano)
 001-348-002	Rey Fantasma III (Inhumano)
 001-348-003	Rey Fantasma (Brutal)
+001-349		Máquinas en Rebelión
+001-349-000	Reinicio Forzoso (nvl. 1)
+001-349-001	Reinicio Forzoso (nvl. 2)
+001-349-002	Reinicio Forzoso (nvl. 3)
+001-349-003	Reinicio Forzoso (nvl. 4)
+001-349-004	Reinicio Forzoso (nvl. 5)
+001-349-005	Reinicio Forzoso (nvl. 6)
+001-349-006	Reinicio Forzoso (nvl. 7)
+001-349-007	Reinicio Forzoso (nvl. 8)
+001-349-008	Reinicio Forzoso (nvl. 9)
+001-349-009	Reinicio Forzoso (nvl. MÁX)
+001-350		El Gato Malévolo
 001-350-000	Fin de Siglo (Demencial)
 001-351		El Defensor Malévolo
 001-351-000	Cascademonios (Demencial)
@@ -1611,6 +1652,19 @@
 001-376		Familias Superremate
 001-376-000	Carretera Traicionera (Brutal)
 001-376-001	Carretera Atroz (Brutal)
+001-377		La Tortuga y el Bebé
+001-377-000	Tierra Pura (Inhumano)
+001-378		El Príncipe y el Renacido
+001-378-000	Villa Canina (Inhumano)
+001-379		La Reina y el Santo
+001-379-000	Zumbaré (Inhumano)
+001-380		Noche de Verano, de Rumbo a Casa
+001-380-000	Carreteras del País Oscuro
+001-380-001	Farolas Ruinosas
+001-380-002	Abandonado pero Ocupado
+001-381		La Paradoja de Papuu
+001-381-000	Hermana Santa (Inhumano)
+001-381-001	Réquiem por Ángeles (Inhumano)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -1794,6 +1848,7 @@
 002-079-000	Weird
 002-079-001	Furious
 002-079-002	Funky
+002-080		Teachings of the Kicking Kingdom
 002-080-000	In A Rush? Kick!
 002-080-001	Kicks Over Flowers
 002-080-002	The Kicked Get Kicked More
@@ -2086,9 +2141,9 @@
 002-170-000	An Encounter With Sin
 002-170-001	Foolish Wanderer Kano
 002-170-002	Wishing for Happiness
-002-171		The World Beyond
+002-171		Godzilla: Final Assault
 002-171-000	God of Destruction (Merciless)
-002-172		The World Beyond
+002-172		Godzilla vs Cats
 002-172-000	The Leviathan Rises
 002-172-001	Disaster Response HQ
 002-172-002	Climactic Cat Clash
@@ -2180,6 +2235,9 @@
 002-198		Holy War: Gilgamesh
 002-198-000	King of Heroes (Veteran)
 002-198-001	King of Heroes (Deadly)
+002-204		Redhead Yuki Cat Awakens!
+002-204-000	Redheaded Rise (Veteran)
+002-204-001	Redheaded Rise (Insane)
 002-205		The 9th Angel Strikes!
 002-205-000	Asuka On Board (Easy)
 002-205-001	Asuka On Board (Expert)
@@ -2214,6 +2272,28 @@
 002-215-002	Super Power-Up
 002-215-003	Perfect Power-Up
 002-215-004	Miracle Power-Up
+002-216		Rurouni Kenshin
+002-216-000	Wandering Swordsman
+002-216-001	Zanza, Fighter for Hire
+002-216-002	Sakabato and Zanbato
+002-216-003	Master of the Oniwaban
+002-216-004	Secret Police
+002-217		Kenshin Himura, Battosai
+002-217-000	Feared Bakumatsu Warrior
+002-217-001	A Blade Which Does Not Kill-Sakabato
+002-217-002	Swift Satsujinken
+002-217-003	Hiten Mitsurugi-ryu
+002-217-004	Master of Battojutsu
+002-218		Sanosuke Sagara, Fighter for Hire
+002-218-000	I've Come for a Fight
+002-218-001	Zanbato, the Giant Sword
+002-218-002	Mark of Villainy
+002-218-003	I Won't Be Beaten!
+002-218-004	Let's Finish This!
+002-219		A Wolf Baring Fangs
+002-219-000	The Wolf Revived
+002-219-001	Evil-Immediate-Slaughter
+002-219-002	I Disavow You Entirely
 
 003			
 003-000		EoC Ch.1 Zombie
@@ -3181,6 +3261,12 @@
 004-064-000	Naturaleza Base (Mortal)
 004-064-001	Naturaleza Cima (Inhumano)
 004-064-002	Naturaleza Frontera (Inhumano)
+004-065		La Tortuga y el Bebé
+004-065-000	Bebé Falso (Inhumano)
+004-066		El Príncipe y el Renacido
+004-066-000	Último Difunto (Inhumano)
+004-067		La Reina y el Santo
+004-067-000	Hermana Santa (Inhumano)
 
 006			Dojo Afilagarras
 006-000		Sala de Iniciados
@@ -3427,7 +3513,10 @@
 011-023-000	Nueve de la suerte
 011-026		Arena of Honor
 011-026-000	Calle Artillería
-
+011-027		Arena of Honor
+011-027-000	The Swords of Meiji
+011-028		Arena de Poder
+011-028-000	Oleadas de Ataque
 012			Challenge Mode
 012-000		Batalla de Desafío
 012-000-000	Mayor puntuación
@@ -5240,6 +5329,27 @@
 027-016-007	Floor 8
 027-016-008	Floor 9
 027-016-009	Floor 10
+027-017		Aoshi Shinomori Strikes!
+027-017-000	Oniwaban Group Lv.1
+027-017-001	Oniwaban Group Lv.2
+027-017-002	Oniwaban Group Lv.3
+027-017-003	Oniwaban Group Lv.4
+027-017-004	Oniwaban Group Lv.5
+027-017-005	Oniwaban Group Lv.6
+027-017-006	Oniwaban Group Lv.7
+027-017-007	Oniwaban Group Lv.8
+027-017-008	Oniwaban Group Lv.9
+027-017-009	Oniwaban Group Lv.10
+027-017-010	Oniwaban Group Lv.11
+027-017-011	Oniwaban Group Lv.12
+027-017-012	Oniwaban Group Lv.13
+027-017-013	Oniwaban Group Lv.14
+027-017-014	Oniwaban Group Lv.15
+027-017-015	Oniwaban Group Lv.16
+027-017-016	Oniwaban Group Lv.17
+027-017-017	Oniwaban Group Lv.18
+027-017-018	Oniwaban Group Lv.19
+027-017-019	Oniwaban Group Lv.MAX
 
 031			Behemoth Culling Stages
 031-000		Bosque Oculto de Gapra
@@ -5502,3 +5612,24 @@
 034-011-003	Archipiélago Yogur
 034-011-004	Ruinas Cortador de Galletas
 034-011-005	País Maravilla de Piruleta
+034-012		Isla Remota de las Cobayas
+034-012-000	Mar Yodoyo
+034-012-001	Prisión Pérfida
+034-012-002	Aislamiento de la Contaminación
+034-012-003	Mutación Alocada
+034-012-004	Toxicidad Accidental
+034-012-005	Homúnculo Cariñoso
+
+036			Colosseum Stages
+036-000		Coliseo de Otro Mundo
+036-000-000	Ronda 1
+036-000-001	Ronda 2
+036-000-002	Ronda 3
+036-000-003	Ronda 4
+036-000-004	Ronda 5
+036-001		Coliseo de Otro Mundo
+036-001-000	Ronda 1
+036-001-001	Ronda 2
+036-001-002	Ronda 3
+036-001-003	Ronda 4
+036-001-004	Ronda 5

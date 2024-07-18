@@ -156,8 +156,8 @@
 155	<br><br><br>
 156	<br><br><br>
 157	
-158	
-159	
+158	<br><br><br>
+159	<br><br><br>
 160	A bright-eyed rookie only on her second<br>day of her heavenly job. Her friend Duche<br>is getting real sick of hearing her go on<br>about how great her new flat in paradise is.
 161	
 162	
@@ -257,7 +257,7 @@
 256	A ruthless semi-pro pitcher who resorts to<br>any means necessary to win the game.<br>Throws non-regulation balls from long<br>distance to intimidate the away team batters.
 257	Born in Year 1196 of the cosmic calendar, he<br>earned a crown through his military service and<br>advancement of the sciences. Annoyed that his<br>kid brother is more famous for a reality show.
 258	A wandering forest girl hired as an assassin<br>by the Dog Army. Feared by the Cat Army for<br>ruthlessly using any tactic necessary to<br>make the kill. Even a long-distance bazooka!
-259	
+259	<br><br><br>
 260	<br><br><br>
 261	Executive assistant to heaven's most famous<br>recort label producer. Ghost-writer for two<br>one-hit wonders: "Cats Ain't No Sin" and<br>C.P.U. (Future Intelligence Pt. II)
 262	<br><br><br>
@@ -337,7 +337,7 @@
 336	<br><br><br>
 337	<br><br><br>
 338	<br><br><br>
-339	
+339	<br><br><br>
 340	A heavenly taste of the sea, sent<br>as a religious vision by the Cat God to<br>those pure of heart. Culinary paradise<br>awaits those who pass this test of faith.
 341	<br><br><br>
 342	<br><br><br>
@@ -406,7 +406,7 @@
 405	Artifact of an ancient empire which once ruled<br>the Earth. A dark union of Doges has revived<br>this terrible force, but thankfully they only <br>have one copy of the pilot's manual to share!
 406	An unstoppable artifact who mercilessly crushes<br>any intruder into the realm of the ancients.<br>The prophecies speak of some who can resist<br>the dark curses this guardian places on its foes.
 407	Ancestral nemesis of the Cat Empire.<br>Serious and hardworking like any Doge,<br>but sometimes thoughtlessly lets a Curse out<br>when focusing hard. Oops, sorry about that!
-408	
+408	<br><br><br>
 409	
 410	
 411	<br><br><br>
@@ -459,7 +459,7 @@
 458	
 459	
 460	
-461	
+461	<br><br><br>
 462	
 463	
 464	
@@ -505,7 +505,7 @@
 504	
 505	
 506	Universe's #1 playboy, beloved by<br>lonely-heart madames from across the <br>galaxy. Just a few sweet words from him<br>and anyone will soon be seeing stars.
-507	
+507	<br><br><br>
 508	
 509	
 510	A secret lab used unethical genome editing to<br>create a superior Le'noir, unparalleled in size<br>and aggression and with Slowing attacks.<br>Lethality increases with each battle.
@@ -644,7 +644,7 @@
 643	Horrific enchantress who resides in the deepest<br>depths of a labyrinth. Subjects victims caught in<br>her traps to unending stories with no punchline,<br>always about her big brother in the Aku Realms.
 644	
 645	
-646	
+646	<br><br><br>
 647	
 648	
 649	Otter that works as gatekeeper to Heaven.<br>Sends those unworthy of treading the heavens<br>to the underworld with its golden orb. Summons<br>monsters with the power of Surges.
@@ -691,3 +691,5 @@
 690	
 691	
 692	Scientist wishing to prove their bravery to their<br>delinquent son by becoming a boxer. With<br>enhanced intelligence from the One-Hit Power<br>Stone, developed undetectable doping tech.
+693	
+694	Old hyena considered the greatest astronomer<br>ever... according to the participation trophy <br>from a local astronomy summit. Sends those<br>who crtiticize its theories to another dimension.

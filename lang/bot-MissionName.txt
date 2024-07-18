@@ -612,7 +612,7 @@
 9239	【Invasion】Clear the "The King & The Maiden" stage! You must also clear the Continuation Stage
 9240	Summer Homework ①: Choose a Journal Topic. Clear 5 Summer Break Cats stages
 9241	Summer Homework ②: Choose 2nd Journal Topic. Clear 10 Summer Break Cats stages
-9242	Summer Homework ③: Choose 3rd Journal Topic. Clear 30 Summer Break Cats stages
+9242	Summer Homework ③: Search for a good report topic.  Clear 20 Summer Break Cats stages
 9243	Summer Homework ④: Write your Journal. Clear Rundown Hideout 5 times
 9244	Summer Homework ⑤: Rewrite your journal stylishly. Clear Stylish Hideout 5 times
 9245	Summer Homework ⑥: Rewrite your journal to be perfect. Clear Perfect Hideout 5 times
@@ -620,7 +620,7 @@
 9247	Extra Credit ②: Capture Insect Specimens. Upgrade Kuwagata Cat to Level 10
 9248	Extra Credit ③: Observe Insect Specimens. Upgrade Kabuto Cat to Level 20
 9249	Extra Credit ④: Observe Insect Specimens. Upgrade Kuwagata Cat to Level 20
-9250	Extra Extra Credit ①: Further Observation. Clear "Summer Diary" Stage 1 with Kabuto Cat
+9364	Extra Extra Credit ①: Further Observation. Clear "Summer Diary" Stage 1 with Kabuto Cat
 9251	Extra Extra Credit ②: Further Observation. Clear "Summer Diary" Stage 2 with Kuwagata Cat
 9252	Extra Extra Credit ③: Further Observation. Clear "Summer Diary" Stage 4 with Kabuto Cat
 9253	Extra Extra Credit ④: Further Observation. Clear "Summer Diary" Stage 6 with Kuwagata Cat
@@ -722,7 +722,7 @@
 9361	Clear any "#04 Yowling Village"
 9362	Clear any "#04 Yowling Village"
 9363	Clear any "#04 Yowling Village"
-9364	Summer Homework Part 1 ①: Study insect lifeforms.  Obtain 1 Kabuto Cat from the Event Capsules!
+9250	Summer Homework Part 1 ①: Study insect lifeforms.  Obtain 1 Kabuto Cat from the Event Capsules!
 9365	Summer Homework Part 1 ②: Study insect lifeforms.  Obtain 1 Kuwagata Cat from the Event Capsules!
 9366	Summer Homework Part 1 ③: Study insect lifeforms.  Obtain 1 Ancient Egg: N202 from the Event Capsules!
 9367	Summer Homework Part 1 ④: Study insect lifeforms.  Obtain 3 Kabuto Cats from the Event Capsules!
@@ -806,4 +806,24 @@
 9486	【88.88M DL】. Clear the "Mystery Package" stage!
 9487	【88.88M DL】Upgrade Trash Cat to Level 10. Must be done during 88,880,000 DL event
 9488	【88.88M DL】Upgrade Trash Cat to Level 20. Complete during the 88,880,000 DL event
+9489	Clear 10 Rurouni Kenshin collab stages
+9490	Clear 30 Rurouni Kenshin collab stages
+9491	Clear 50 Rurouni Kenshin collab stages
 9492	Earn one Ancient Egg: N205 from . June Bride Capsules!
+9493	[Otherworld Colosseum] Limited event mission. Clear Otherworld Colosseum Level 1 Stage 3
+9494	[Otherworld Colosseum] Limited event mission. Clear Otherworld Colosseum Level 1 Stage 5
+9495	[Otherworld Colosseum] Limited event mission. Clear Otherworld Colosseum Level 2 Stage 3
+9496	[Otherworld Colosseum] Limited event mission. Clear Otherworld Colosseum Level 2 Stage 5
+9499	[Invasion Stage] Limited event mission. Clear Courts of Torment
+9500	[Invasion Stage] Limited event mission. Clear First Errand
+9501	[Invasion Stage] Limited event mission. Clear Wanwan's Glory
+9502	[Invasion Stage] Limited event mission. Clear Z-Onel Rises!
+9503	[Invasion Stage] Limited event mission. Clear The Old Queen
+9504	[Invasion Stage] Limited event mission. Clear Papuu's Paradise
+9505	[Invasion Stage] Clear The Tortoise and the Baby. Clear all stages and EX stages to complete
+9506	[Invasion Stage] Clear The Prince and the Revenant. Clear all stages and EX stages to complete
+9507	[Invasion Stage] Clear The Queen and the Saint. Clear all stages and EX stages to complete
+9508	Summer Homework ④: Finish a perfect report.  Clear 30 Summer Break Cats stages
+9509	Summer Homework Part 2 ⑤: Observing the insects. Clear Summer Night, Homeward Bound stage 1 with Kabuto Cat
+9510	Summer Homework Part 2 ⑥: Observing the insects. Clear Summer Night, Homeward Bound stage 2 with Kuwagata Cat
+9511	Summer Homework Part 2 ⑦: Observing the insects. Win Summer Night, Homeward Bound stg3 with Ancient Egg: N202

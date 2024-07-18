@@ -156,8 +156,8 @@
 155	<br><br><br>
 156	<br><br><br>
 157	
-158	
-159	
+158	<br><br><br>
+159	<br><br><br>
 160	Une nouvelle venue qui met du cœur à l’ouvrage en son<br>deuxième jour de travail céleste. Son ami Kanar commence à<br>en avoir marre de l’entendre se vanter<br>d’avoir un super appart’ au paradis.
 161	
 162	
@@ -257,7 +257,7 @@
 256	Un impitoyable lanceur semi-professionnel qui<br>usera de tous les moyens pour gagner.<br>Lance des balles non réglementaires à distance<br>pour intimider les autres batteurs.
 257	Né en l’an 1196 du calendrier cosmique,<br>il a hérité de la couronne grâce à son service<br>militaire et à ses prouesses scientifiques. Agacé que<br>son frère, star de télé-réalité, soit plus connu que lui.
 258	Une jeune fille de la forêt recrutée comme tueuse<br>par l’armée des Chiens. Redoutée par l’armée des Chats<br>car elle use de toutes les tactiques pour ne jamais rater<br>sa cible, y compris d’un bazooka à longue distance !
-259	
+259	<br><br><br>
 260	<br><br><br>
 261	Assistant d’un directeur de label très connu au paradis.<br>Auteur de deux tubes en tant que prête-plume :<br>« Miauler n’est pas pécher »<br>et « Processeur (Intelligence futuriste, 2e partie) ».
 262	<br><br><br>
@@ -337,7 +337,7 @@
 336	<br><br><br>
 337	<br><br><br>
 338	<br><br><br>
-339	
+339	<br><br><br>
 340	Un avant-goût divin à l’eau de mer, envoyé en tant que<br>vision céleste par le Dieu des Chats pour les cœurs purs.<br>Un paradis culinaire attend ceux qui réussiront<br>leur profession de foi.
 341	<br><br><br>
 342	<br><br><br>
@@ -406,7 +406,7 @@
 405	Artéfact d’un empire ancien qui régnait autrefois<br>sur la Terre. Des Toutous de l’ombre se sont alliés pour<br>raviver cette terrible force, mais heureusement, il n’y a<br>qu’un seul exemplaire du manuel de pilotage !
 406	Un artéfact invincible qui anéantit sans pitié tout intrus<br>dans le royaume des anciens. Une prophétie fait état<br>de combattants capables de résister aux sombres malédictions<br>que ce gardien lance sur ses adversaires.
 407	Ennemi juré ancestral de l’Empire des Chats.<br>Sérieux et travailleur comme tous les autres Toutous,<br>il lance parfois une malédiction sans le vouloir<br>quand il est trop concentré. Oups, désolé !
-408	
+408	<br><br><br>
 409	
 410	
 411	<br><br><br>
@@ -459,7 +459,7 @@
 458	
 459	
 460	
-461	
+461	<br><br><br>
 462	
 463	
 464	
@@ -505,7 +505,7 @@
 504	
 505	
 506	Un play-boy qui fait craquer les cœurs à prendre<br>dans toute la galaxie.<br>Dès qu’il ouvre la bouche,<br>ses interlocuteurs ont des étoiles dans les yeux.
-507	
+507	<br><br><br>
 508	
 509	
 510	Un labo secret d'expériences génétiques douteuses<br>a créé un Éléfombre supérieur. Inégalé en taille comme<br>en agressivité, attaques qui ralentissent.<br>Sa létalité augmente à chaque combat.
@@ -644,7 +644,7 @@
 643	Horrible enchanteresse résidant dans les plus profonds<br>confins d’un labyrinthe. Piège ses victimes dans des<br>boucles d’histoires sans fin affreusement monotones<br>portant sur son grand frère dans les Royaumes Akus.
 644	
 645	
-646	
+646	<br><br><br>
 647	
 648	
 649	Loutre gardienne des portes du paradis.<br>Envoie tous ceux indignes de déambuler au paradis<br>aux enfers grâce à son orbe d’or. Invoque des<br>monstres avec le pouvoir des répliques offensives.
@@ -691,3 +691,5 @@
 690	
 691	
 692	Scientifique souhaitant prouver sa bravoure à son<br>fils délinquant en maîtrisant la boxe. A développé<br>une technologie de dopage indétectable grâce à<br>l'intelligence conférée par la pierre de victoire.
+693	
+694	Vieille hyène qui se prend pour la plus grande des<br>astronomes... tout ça parce qu'elle a reçu un trophée<br>de participation à un colloque d’astronomie local.<br>Elle envoie ses détracteurs dans une autre dimension.

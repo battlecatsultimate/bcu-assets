@@ -192,6 +192,7 @@
 200|S200|I428	Liebesbrief
 201|S201|I11	XP
 202|S202|I429	Weihwasser
+203|S203|I430	Legendennetz
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -312,6 +313,7 @@
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
 1183	Madhead
+1184	Kenshin Cat
 10010	Muskelprotz-Katze
 10011	Tänzerkatze
 10012	Hyper-Mr.
@@ -395,6 +397,7 @@
 10474	Rampaging Yamato
 10475	Strike Angel
 10522	Nagakatze
+10529	Königswachenkatze
 10532	Totengräbärkatze
 10540	Gridiron-Katze
 10554	Pfannenhühnchen-Katze
@@ -575,6 +578,7 @@
 15446	Neo-Schneidekatze
 15447	Neo-Tiefbagger-Katze
 15448	Neo-Sägenkatze
+15449	Unsterblicher Miyamoto
 15451	Babel der Gottkaiser
 15457	Dark Sakura CC
 15468	Super S-Zeus
@@ -621,6 +625,7 @@
 15635	Dämonenritter-Zyklop
 15643	Allmächtiger Luzifer
 15645	Minzliebe Mekako
+15648	Göttliche Jägerin Terun ζ
 15657	Haniwa-Katze
 15659	Kurierkatze
 15660	Katzan

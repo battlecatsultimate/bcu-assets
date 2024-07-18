@@ -192,6 +192,7 @@
 200|S200|I428	Lettre d’amour
 201|S201|I11	XP
 202|S202|I429	Eau bénite
+203|S203|I430	Filet légendaire
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -312,6 +313,7 @@
 1177	Osamu Mikumo & Cat
 1178	Yuma Kuga & Cat
 1183	Madhead
+1184	Kenshin Cat
 10010	Chat malabar
 10011	Chat danseur
 10012	Hyper Mr.
@@ -395,6 +397,7 @@
 10474	Rampaging Yamato
 10475	Strike Angel
 10522	Chat Naga
+10529	Chat garde royal
 10532	Ours-Chat cadavre
 10540	Chaterback
 10554	Chat poulet frit
@@ -575,6 +578,7 @@
 15446	Néo Chat découpeuse
 15447	Néo Chat tractopelle
 15448	Néo Chat scie
+15449	Miyamoto immortel
 15451	Dieu empereur Babel
 15457	Dark Sakura CC
 15468	Super S-Zeus
@@ -621,6 +625,7 @@
 15635	Démon chevalier noir
 15643	Lucifer Tout-puissant
 15645	Mekako amour mentholé
+15648	Terun chasseresse divine ζ
 15657	Chat haniwa
 15659	Chat coursier
 15660	Charzan

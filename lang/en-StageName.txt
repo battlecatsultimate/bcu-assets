@@ -1655,6 +1655,19 @@
 001-376		Super Smash Families
 001-376-000	Treacherous Road (Brutal)
 001-376-001	Heinous Road (Brutal)
+001-377		The Tortoise and the Baby
+001-377-000	The Pure Land (Merciless)
+001-378		The Prince and the Revenant
+001-378-000	Dogsville (Merciless)
+001-379		The Queen and the Saint
+001-379-000	I'll Be Bug (Merciless)
+001-380		Summer Night, Homeward Bound
+001-380-000	Dark Country Roads
+001-380-001	Dilapidated Streetlamps
+001-380-002	Abandoned but Occupied
+001-381		Papuu's Paradox
+001-381-000	Divine Daughter (Merciless)
+001-381-001	Requiem for Angels (Merciless)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2000,18 +2013,8 @@
 002-129-009	Sudden Death Lv.10
 002-129-010	Sudden Death Lv.11
 002-129-011	Sudden Death Lv.12
-002-130		MIKU EXPO
-002-130-000	in INDONESIA
-002-130-001	in TAIWAN
-002-130-002	in JAPAN
-002-130-003	in USA
-002-130-004	in EUROPE
-002-131		MIKU CHERRY
-002-131-000	Spring Popstar
-002-131-001	Scent of Blossoms
-002-131-002	Sakura Dance
 002-134		Hatsune Miku's Birthday!
-002-134-000	♪Birthday Party♪
+002-134-000	♪ Birthday Party ♪
 002-135		Street Fighter (Easy)
 002-135-000	Warrior of Nature
 002-135-001	Illuminating Flame
@@ -2235,6 +2238,9 @@
 002-198		Holy War: Gilgamesh
 002-198-000	King of Heroes (Veteran)
 002-198-001	King of Heroes (Deadly)
+002-204		Redhead Yuki Cat Awakens!
+002-204-000	Redheaded Rise (Veteran)
+002-204-001	Redheaded Rise (Insane)
 002-205		The 9th Angel Strikes!
 002-205-000	Asuka On Board (Easy)
 002-205-001	Asuka On Board (Expert)
@@ -2269,6 +2275,28 @@
 002-215-002	Super Power
 002-215-003	Perfect Power
 002-215-004	Miracle Power
+002-216		Rurouni Kenshin
+002-216-000	Wandering Swordsman
+002-216-001	Zanza, Fighter for Hire
+002-216-002	Sakabato and Zanbato
+002-216-003	Master of the Oniwaban
+002-216-004	Secret Police
+002-217		Kenshin Himura, Battosai
+002-217-000	Feared Bakumatsu Warrior
+002-217-001	A Blade Which Does Not Kill-Sakabato
+002-217-002	Swift Satsujinken
+002-217-003	Hiten Mitsurugi-ryu
+002-217-004	Master of Battojutsu
+002-218		Sanosuke Sagara, Fighter for Hire
+002-218-000	I've Come for a Fight
+002-218-001	Zanbato, the Giant Sword
+002-218-002	Mark of Villainy
+002-218-003	I Won't Be Beaten!
+002-218-004	Let's Finish This!
+002-219		A Wolf Baring Fangs
+002-219-000	The Wolf Revived
+002-219-001	Evil-Immediate-Slaughter
+002-219-002	I Disavow You Entirely
 
 003			Main Story Chapters
 003-000		EoC Ch.1 Zombie
@@ -3246,6 +3274,12 @@
 004-064-000	Cradle Wilderness (Deadly)
 004-064-001	Summit Wilderness (Merciless)
 004-064-002	Frontier Wilderness (Merciless)
+004-065		The Tortoise and the Baby
+004-065-000	Baby Fake (Merciless)
+004-066		The Prince and the Revenant
+004-066-000	Last of the Dead (Merciless)
+004-067		The Queen and the Saint
+004-067-000	Saintly Sister (Merciless)
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
@@ -3492,6 +3526,10 @@
 011-023-000	Feeling Fine at 9
 011-026		Arena of Honor
 011-026-000	Artillery Alley
+011-027		Arena of Honor
+011-027-000	The Swords of Meiji
+011-028		Arena of Power
+011-028-000	Waves of Attack
 
 012			Challenge Mode
 012-000		Challenge
@@ -5306,6 +5344,27 @@
 027-016-007	Floor 8
 027-016-008	Floor 9
 027-016-009	Floor 10
+027-017		Aoshi Shinomori Strikes!
+027-017-000	Oniwaban Group Lv.1
+027-017-001	Oniwaban Group Lv.2
+027-017-002	Oniwaban Group Lv.3
+027-017-003	Oniwaban Group Lv.4
+027-017-004	Oniwaban Group Lv.5
+027-017-005	Oniwaban Group Lv.6
+027-017-006	Oniwaban Group Lv.7
+027-017-007	Oniwaban Group Lv.8
+027-017-008	Oniwaban Group Lv.9
+027-017-009	Oniwaban Group Lv.10
+027-017-010	Oniwaban Group Lv.11
+027-017-011	Oniwaban Group Lv.12
+027-017-012	Oniwaban Group Lv.13
+027-017-013	Oniwaban Group Lv.14
+027-017-014	Oniwaban Group Lv.15
+027-017-015	Oniwaban Group Lv.16
+027-017-016	Oniwaban Group Lv.17
+027-017-017	Oniwaban Group Lv.18
+027-017-018	Oniwaban Group Lv.19
+027-017-019	Oniwaban Group Lv.MAX
 
 031			Behemoth Culling Stages
 031-000		Hidden Forest of Gapra
@@ -5568,3 +5627,24 @@
 034-011-003	Yogurt Archipelago
 034-011-004	Cookie Cutter Ruins
 034-011-005	Pop-pop Wonderland
+034-012		Secluded Cavy Island
+034-012-000	Yodoyo Sea
+034-012-001	Putrid Prison
+034-012-002	Pollution Isolation
+034-012-003	Nonsense Mutation
+034-012-004	Accidental Toxicity
+034-012-005	Heartful Homunculus
+
+036			Colosseum Stages
+036-000		Otherworld Colosseum
+036-000-000	Round 1
+036-000-001	Round 2
+036-000-002	Round 3
+036-000-003	Round 4
+036-000-004	Round 5
+036-001		Otherworld Colosseum
+036-001-000	Round 1
+036-001-001	Round 2
+036-001-002	Round 3
+036-001-003	Round 4
+036-001-004	Round 5

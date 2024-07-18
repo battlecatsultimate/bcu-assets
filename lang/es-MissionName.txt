@@ -24,8 +24,8 @@
 24	Misión del 6.º aniversario. ¡Supera el Imperio de los Gatos (cap. 1) durante el evento!
 25	Supera todas las fases en Las Estrellas También Mueren. (Incluida la fase final del cap. 3 de Gatos Galácticos)
 26	Misión del 7.º aniversario. ¡Supera el Imperio de los Gatos (cap. 1) durante el evento!
-27	Supera el nivel 2 de todas las fases legendarias. para completar esta misión.
-28	Supera el nivel 3 de todas las fases legendarias. para completar esta misión.
+27	Supera el nivel 2 de todas las fases legendarias. para completar esta misión
+28	Supera el nivel 3 de todas las fases legendarias. para completar esta misión
 29	Misión del 8.º aniversario. ¡Supera el Imperio de los Gatos (cap. 1) durante el evento!
 8000	(Verás las fases relevantes en los detalles de la misión)
 8001	(Verás las fases relevantes en los detalles de la misión)
@@ -607,7 +607,7 @@
 9239	【Invasión】¡Supera la fase El Rey y la Doncella! También debes superar la fase de continuación relacionada
 9240	Deberes de Verano ①: Elige un tema del diario. Supera 5 fases de Gatos Estivales
 9241	Deberes de Verano ②: Elige un segundo tema del diario. Supera 10 fases de Gatos Estivales
-9242	Deberes de Verano ③: Elige un tercer tema del diario. Supera 30 fases de Gatos Estivales
+9242	Deberes de Verano ①: Busca un buen tema para la redacción.  Supera 20 fases de Gatos Estivales
 9243	Deberes de Verano ④: Escribe tu diario. Supera Escondite Ruinoso 5 veces
 9244	Deberes de Verano ⑤: Reescribe tu diario con mejor estilo. Supera Escondite Estiloso 5 veces
 9245	Deberes de Verano ⑥: Reescribe tu diario y hazlo perfecto. Supera Escondite Perfecto 5 veces
@@ -615,7 +615,7 @@
 9247	Subir Nota ②: Captura especímenes de insectos. Mejora al Gato Kuwagata al nivel 10
 9248	Subir Nota ③: Observa especímenes de insectos. Mejora al Gato Kabuto al nivel 20
 9249	Subir Nota ④: Observa especímenes de insectos. Mejora al Gato Kuwagata al nivel 20
-9250	Subir Más Nota ①: Realiza una observación exhaustiva. Supera la fase 1 de Agenda Veraniega con el Gato Kabuto
+9364	Subir Más Nota ①: Realiza una observación exhaustiva. Supera la fase 1 de Agenda Veraniega con el Gato Kabuto
 9251	Subir Más Nota ②: Realiza una observación exhaustiva. Supera la fase 2 de Agenda Veraniega con el Gato Kuwagata
 9252	Subir Más Nota ③: Realiza una observación exhaustiva. Supera la fase 4 de Agenda Veraniega con el Gato Kabuto
 9253	Subir Más Nota ④: Realiza una observación exhaustiva. Supera la fase 6 de Agenda Veraniega con el Gato Kuwagata
@@ -717,7 +717,7 @@
 9361	Supera cualquier fase de #04 Aldea de Alaridos 3 veces:
 9362	Supera cualquier fase de #04 Aldea de Alaridos 5 veces:
 9363	Supera cualquier fase de #04 Aldea de Alaridos 10 veces:
-9364	Deberes de Verano (Parte 1) ①: Estudia los insectos. ¡Consigue 1 Gato Kabuto en el evento!
+9250	Deberes de Verano (Parte 1) ①: Estudia los insectos. ¡Consigue 1 Gato Kabuto en el evento!
 9365	Deberes de Verano (Parte 1) ②: Estudia los insectos. ¡Consigue 1 Gato Kuwagata en el evento!
 9366	Deberes de Verano (Parte 1) ③: Estudia los insectos. ¡Consigue 1 Huevo Antiguo: N202 en el evento!
 9367	Deberes de Verano (Parte 1) ④: Estudia los insectos. ¡Consigue 3 Gatos Kabuto en el evento!
@@ -801,4 +801,24 @@
 9486	【88,88 M DCS】. ¡Supera la fase "Paquete Misterioso"!
 9487	【88,88 M DCS】Mejora al Gato Basura al nivel 10 . durante el evento de 88,88 M DCS
 9488	【88,88 M DCS】Mejora al Gato Basura al nivel 20 . durante el evento de 88,88 M DCS
+9489	Clear 10 Rurouni Kenshin collab stages
+9490	Clear 30 Rurouni Kenshin collab stages
+9491	Clear 50 Rurouni Kenshin collab stages
 9492	¡Gana 1 Huevo Antiguo: N205 en . las bolas de Novia del Diablo de Junio!
+9493	[Coliseo de Otro Mundo] Misión de evento exclusivo. Supera Coliseo De Otro Mundo Nivel 1 Fase 3
+9494	[Coliseo de Otro Mundo] Misión de evento exclusivo. Supera Coliseo De Otro Mundo Nivel 1 Fase 5
+9495	[Coliseo de Otro Mundo] Misión de evento exclusivo. Supera Coliseo De Otro Mundo Nivel 2 Fase 3
+9496	[Coliseo de Otro Mundo] Misión de evento exclusivo. Supera Coliseo De Otro Mundo Nivel 2 Fase 5
+9499	[Fase de Invasión] Misión de evento exclusivo. Supera Tribunal de Tormento
+9500	[Fase de Invasión] Misión de evento exclusivo. Supera Primer Recado
+9501	[Fase de Invasión] Misión de evento exclusivo. Supera Gloria de Guauguau
+9502	[Fase de Invasión] Misión de evento exclusivo. Supera Clionel Zombi Ataca
+9503	[Fase de Invasión] Misión de evento exclusivo. Supera Vieja Reina
+9504	[Fase de Invasión] Misión de evento exclusivo. Supera Paraíso de Papuu
+9505	[Fase de Invasión] Supera La Tortuga y el Bebé. Para completarla, supera todas las fases y las fases EX
+9506	[Fase de Invasión] Supera El Príncipe y el Renacido. Para completarla, supera todas las fases y las fases EX
+9507	[Fase de Invasión] Supera La Reina y el Santo. Para completarla, supera todas las fases y las fases EX
+9508	Deberes de Verano ④: Acaba una redacción de diez. Supera 30 fases de Gatos Estivales
+9509	Deberes de Verano (Parte 2) ①: Observa los insectos. Supera NDV, de Rumbo a Casa (fase 1) con Gato Kabuto
+9510	Deberes de Verano (Parte 2) ①: Observa los insectos. Supera NDV, de Rumbo a Casa (fase 2) con Gato Kuwagata
+9511	Deberes de Verano (Parte 2) ①: Observa los insectos. Supera NDV, de Rumbo a Casa (fase 3) con Huevo Antiguo N202

@@ -57,7 +57,7 @@
 056	La forma final tiene mayor defensa,<br>velocidad de movimiento, ataque y alcance.<br>
 057	La forma final tiene mejores rasgos.<br>Además, aumenta su probabilidad de ataque<br>crítico y se vuelve resistente a la repulsión.
 058	La forma final tiene mayor<br>defensa y poder de ataque.<br>
-059	La forma final tiene mejores rasgos.<br>Además, ahora puede atacar en oleada.<br>
+059	La forma final tiene mejores rasgos.<br>Además, ahora puede atacar en oleada.<br>	La ultraforma obtiene más<br>velocidad de movimiento y omniataque.<br>¡Además de mejores oleadas!
 060	<br><br>
 061	La forma final tiene una defensa aún mayor.<br><br>
 062	<br><br>
@@ -446,7 +446,7 @@
 445	La forma final tiene más<br>poder de ataque y se vuelve<br>inmune a las oleadas.
 446	La forma final<br>puede atacar con réplicas.<br>
 447	La forma final tiene más defensa<br>y poder de ataque. Además, obtiene<br>la habilidad de rompebarreras.
-448	<br><br>
+448	La forma final tiene más Vitalidad y<br>ataque. ¡Se convierte en Matacolosos<br>e inmune al desgaste y ralentiza!
 449	<br><br>
 450	¡Su forma final tiene más defensa!<br>¡Inmune contra repulsión y toxicidad,<br>y gana a los matacolosos!
 451	<br><br>
@@ -645,7 +645,7 @@
 644	La forma final gana ataques que pueden<br>paralizar a reliquias y es inmune a<br>maldiciones que bloquean habilidades.
 645	<br><br>
 646	<br><br>
-647	<br><br>
+647	La forma final es más<br>eficaz contra enemigos rojos y álienes.<br>
 648	<br><br>
 649	<br><br>
 650	<br><br>
@@ -756,3 +756,7 @@
 755	<br><br>
 756	<br><br>
 757	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
+758	<br><br>
+759	<br><br>
+760	<br><br>
+761	<br><br>

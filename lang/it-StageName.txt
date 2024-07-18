@@ -523,7 +523,7 @@
 001-031-005	Giovani in carne
 001-031-006	Sabbia sul mantello
 001-031-007	Proprio qui, proprio miao
-001-032		あの世からの帰省ラッシュ！
+001-032		Ospiti Spettrali
 001-032-000	Papà ci perseguita
 001-032-001	Ma siamo in vacanza
 001-032-002	Non attraversi i muri?
@@ -538,7 +538,7 @@
 001-034-000	Ultra Stress! (Folle)
 001-035		Evento All-Star mensile Festeggiamo il miracolo!
 001-035-000	Tattiche miracolose! (Folle)
-001-036		Vegliardi in centro
+001-036		Vegliardi in città
 001-036-000	Jogging all'alba
 001-036-001	Giorno feriale = Boxer
 001-036-002	Fuga da casa
@@ -632,7 +632,7 @@
 001-065-004	No I-A-P!
 001-065-005	Get Those Ubers
 001-065-006	Conquer the Galaxy
-001-065-007	At Nintendo eShop!
+001-065-007	But the App's Fun Too :)
 001-066		Dimensione disperata
 001-066-000	Ascesa del buco nero (Folle)
 001-068		
@@ -1181,6 +1181,8 @@
 001-243		Meglio del peggio
 001-243-000	Portato dalle correnti (Spietato)
 001-243-001	Tutela idrica (Spietato)
+001-244		Regali compleanno
+001-244-000	8 anni di divertimento!
 001-245		Più presenze 2020
 001-245-000	#5 Complimenti
 001-245-001	#4 come previsto
@@ -1227,7 +1229,7 @@
 001-258-001	Muro del demone
 001-259		Il grande diablo
 001-259-000	Ira dell'inferno (Letale)
-001-260		Inizio impulsivo
+001-260		River City Ball-Rolling
 001-260-000	Sfera in fuga
 001-260-001	Potenza cinetica
 001-260-002	Sfera da 100 kg speciale
@@ -1236,16 +1238,24 @@
 001-260-005	Polvere ovunque
 001-260-006	Cappelli volati via
 001-260-007	Impossibile fermarsi
-001-261		Hotblooded Challenge Course
+001-261		River City Challenge Course
 001-261-000	Aim for the Top
 001-261-001	Power On Through
 001-261-002	Overcome The Odds
 001-261-003	Mistakes Don't Matter
 001-261-004	Good Effort
-001-262		Gara in tre tappe impulsiva ①
+001-262		River City Three-Leg Race ①
 001-262-000	VS squadra bianca
 001-262-001	VS squadra rossa
 001-262-002	VS squadra nera
+001-263		River City Three-Leg Race ②
+001-263-000	VS squadra bianca
+001-263-001	VS squadra rossa
+001-263-002	VS squadra nera
+001-264		River City Three-Leg Race ③
+001-264-000	VS squadra bianca
+001-264-001	VS squadra rossa
+001-264-002	VS squadra nera
 001-265		Parco del demone
 001-265-000	Saggezza surgelata
 001-265-001	Lago maledetto
@@ -1254,28 +1264,23 @@
 001-266		Gatto ascia liberato
 001-266-000	Nido Aku
 001-266-001	Guerra del diavolo
-001-267		Gatto ascia liberato
-001-267-000	267-00
-001-267-001	267-01
-001-267-002	267-02
-001-267-003	267-03
 001-268		Gatto liberato
 001-268-000	I cancelli di Aku
 001-269		Resoconto dell'imperatrice 1
-001-269-000	Corso base sugli Aku: introduzione
-001-269-001	Corso base sugli Aku: tecniche
-001-269-002	Corso base sugli Aku: ricerca
-001-269-003	Corso base sugli Aku: inchiesta
+001-269-000	Aku 101: introduzione
+001-269-001	Aku 101: tecniche
+001-269-002	Aku 101: ricerca
+001-269-003	Aku 101: inchiesta
 001-270		Resoconto dell'imperatrice 2
-001-270-000	Corso avanzato sugli Aku: introd.
-001-270-001	Corso avanzato sugli Aku: tecniche
-001-270-002	Corso avanzato sugli Aku: ricerca
-001-270-003	Corso avanzato sugli Aku: inchiesta
+001-270-000	Aku 201: introduzione
+001-270-001	Aku 201: tecniche
+001-270-002	Aku 201: ricerca
+001-270-003	Aku 201: inchiesta
 001-271		Resoconto dell'imperatrice 3
-001-271-000	Corso approfondito sugli Aku: introduzione
-001-271-001	Corso approfondito sugli Aku: tecniche
-001-271-002	Corso approfondito sugli Aku: ricerca
-001-271-003	Corso approfondito sugli Aku: inchiesta
+001-271-000	Aku 301: introduzione
+001-271-001	Aku 301: tecniche
+001-271-002	Aku 301: ricerca
+001-271-003	Aku 301: inchiesta
 001-272		Sinfonia della tentazione
 001-272-000	Melodia Aku (Spietato)
 001-273		Rashomon
@@ -1286,20 +1291,20 @@
 001-274-002	Sussurro Aku (Letale)
 001-274-003	Sussurro Aku (Spietato)
 001-275		Resoconto dell'imperatrice 4
-001-275-000	Corso specialistico sugli Aku: introduzione
-001-275-001	Corso specialistico sugli Aku: tecniche
-001-275-002	Corso specialistico sugli Aku: ricerca
-001-275-003	Corso specialistico sugli Aku: inchiesta
+001-275-000	Aku 401: introduzione
+001-275-001	Aku 401: tecniche
+001-275-002	Aku 401: ricerca
+001-275-003	Aku 401: inchiesta
 001-276		Resoconto dell'imperatrice 5
-001-276-000	Corso superiore sugli Aku: introd.
-001-276-001	Corso superiore sugli Aku: tecniche
-001-276-002	Corso superiore sugli Aku: ricerca
-001-276-003	Corso super. sugli Aku: inchiesta
+001-276-000	Aku 501: introduzione
+001-276-001	Aku 501: tecniche
+001-276-002	Aku 501: ricerca
+001-276-003	Aku 501: inchiesta
 001-277		Scavo dell'imperatrice 1
-001-277-000	Corso base di archeologia: pianificazione
-001-277-001	Corso base di archeologia: metodi
-001-277-002	Corso base di archeologia: risultati
-001-277-003	Corso base di archeologia: analisi
+001-277-000	Archeologia 101: pianificazione
+001-277-001	Archeologia 101: metodi
+001-277-002	Archeologia 101: risultati
+001-277-003	Archeologia 101: analisi
 001-278		Scavo dell'imperatrice 2
 001-278-000	Archeologia 201: pianificazione
 001-278-001	Archeologia 201: metodi
@@ -1358,14 +1363,14 @@
 001-286-006	Lettera al nonno
 001-286-007	Niente regali
 001-287		Coltre di tenebre
-001-287-000	Antro degli inizi
+001-287-000	Grotta degli inizi
 001-287-001	Foresta oscura
 001-287-002	Cimitero orientale
 001-287-003	Passo occidentale
 001-287-004	Forte del sud
 001-287-005	Voragine a nord
 001-287-006	Distesa gelida
-001-287-007	Battaglia finale
+001-287-007	Ultimo campo di battaglia
 001-288		Regali a fiumi per il Capodanno lunare!
 001-288-000	Buon Festival felino
 001-289		L'avanzata delle fiamme
@@ -1396,6 +1401,40 @@
 001-297-000	Occupazione del doposcuola
 001-297-001	Implorare per il cioccolato
 001-297-002	Guerra da 7 minuti
+001-298		Stagione 2: Festival del Batticuore
+001-298-000	Insonnia duratura
+001-298-001	Colleghi al bar
+001-298-002	Mani sul conto
+001-298-003	Mancia esagerata
+001-298-004	Tutti a casa
+001-298-005	Pulizie di fine festival
+001-299		Stagione 3: Gita
+001-299-000	L'attesissima gita
+001-299-001	Souvenir d'impulso
+001-299-002	Fiori fuori stagione
+001-299-003	La guerra dei cuscini
+001-299-004	Torpore aeronautico
+001-300		Weekend: Dichiarazione
+001-300-000	Telefonata coraggiosa
+001-300-001	La temuta risposta
+001-300-002	Mi spiace, ma...
+001-301		Weekend: Dichiarazione
+001-301-000	Telefonata coraggiosa
+001-301-001	La temuta risposta
+001-301-002	Non sei il mio tipo
+001-302		Weekend: Dichiarazione
+001-302-000	Telefonata coraggiosa
+001-302-001	La temuta risposta
+001-302-002	Solo amici?
+001-303		Stagione 4: Diploma
+001-303-000	Attesa infinita
+001-303-001	Battito accelerato
+001-303-002	È venuta davvero?!
+001-303-003	Una mossa audace
+001-303-004	Tappeto di petali
+001-303-005	Supporto morale
+001-303-006	Dichiarazione segreta
+001-303-007	Non sei più single?
 001-304		Festeggiamenti 70M Regali a fiumi!
 001-304-000	Gioia da 70 milioni!
 001-305		Il morto e il gonfio
@@ -1404,7 +1443,7 @@
 001-306-000	Specchietto per allodole (Letale)
 001-307		Il re e l'angelo
 001-307-000	Gran premio N-1 (Letale)
-001-308		02: ??? 13
+001-308		03: ??? 13
 001-308-000	Luna di miele sul lago nebbioso
 001-308-001	La benedizione dei corvi
 001-308-002	Casolare fatiscente
@@ -1615,6 +1654,19 @@
 001-376		Famiglie della super schiacciata
 001-376-000	Strada insidiosa (Brutale)
 001-376-001	Strada nefanda (Brutale)
+001-377		La tartaruga e il bebè
+001-377-000	La terra pura (Spietato)
+001-378		Il principe e il fantasma
+001-378-000	Bauville (Spietato)
+001-379		La regina e il santo
+001-379-000	Vita da insetti (Spietato)
+001-380		Sera estiva, verso casa
+001-380-000	Strade campestri buie
+001-380-001	Lampioni fatiscenti
+001-380-002	Abbandonato ma occupato
+001-381		Paradosso di Papuu
+001-381-000	Santa sorella (Spietato)
+001-381-001	Requiem per angelici (Spietato)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -1693,10 +1745,10 @@
 002-034-000	The Box Witch (Hard)
 002-034-001	The Box Witch (Insane)
 002-035		Walpurgisnacht
+002-035-000	The Stagebuilding Witch (Deadly)
 002-037		Arriva Gatto cabaret!
 002-037-000	Crescendo (Veterani)
 002-037-001	Crescendo (Folle)
-002-035-000	The Stagebuilding Witch (Deadly)
 002-038		PIKOTARO
 002-038-000	PPAP
 002-041		Gates of ALICE
@@ -1946,6 +1998,7 @@
 002-128		MIKU CHERRY
 002-128-000	Spring Popstar
 002-128-001	Scent of Blossoms
+002-128-002	Sakura Dance
 002-129		Manbosaki Strikes!
 002-129-000	Sudden Death Lv.1
 002-129-001	Sudden Death Lv.2
@@ -1959,7 +2012,6 @@
 002-129-009	Sudden Death Lv.10
 002-129-010	Sudden Death Lv.11
 002-129-011	Sudden Death Lv.12
-002-128-002	Sakura Dance
 002-134		Hatsune Miku's Birthday!
 002-134-000	♪ Birthday Party ♪
 002-135		ストリートファイター EASY
@@ -2091,9 +2143,9 @@
 002-170-000	An Encounter With Sin
 002-170-001	Foolish Wanderer Kano
 002-170-002	Wishing for Happiness
-002-171		The World Beyond
+002-171		Godzilla: Final Assault
 002-171-000	God of Destruction (Merciless)
-002-172		The World Beyond
+002-172		Godzilla vs Cats
 002-172-000	The Leviathan Rises
 002-172-001	Disaster Response HQ
 002-172-002	Climactic Cat Clash
@@ -2185,6 +2237,9 @@
 002-198		Holy War: Gilgamesh
 002-198-000	King of Heroes (Veteran)
 002-198-001	King of Heroes (Deadly)
+002-204		Redhead Yuki Cat Awakens!
+002-204-000	Redheaded Rise (Veteran)
+002-204-001	Redheaded Rise (Insane)
 002-205		The 9th Angel Strikes!
 002-205-000	Asuka On Board (Easy)
 002-205-001	Asuka On Board (Expert)
@@ -2219,6 +2274,28 @@
 002-215-002	Super Power-Up
 002-215-003	Perfect Power-Up
 002-215-004	Miracle Power-Up
+002-216		Rurouni Kenshin
+002-216-000	Wandering Swordsman
+002-216-001	Zanza, Fighter for Hire
+002-216-002	Sakabato and Zanbato
+002-216-003	Master of the Oniwaban
+002-216-004	Secret Police
+002-217		Kenshin Himura, Battosai
+002-217-000	Feared Bakumatsu Warrior
+002-217-001	A Blade Which Does Not Kill-Sakabato
+002-217-002	Swift Satsujinken
+002-217-003	Hiten Mitsurugi-ryu
+002-217-004	Master of Battojutsu
+002-218		Sanosuke Sagara, Fighter for Hire
+002-218-000	I've Come for a Fight
+002-218-001	Zanbato, the Giant Sword
+002-218-002	Mark of Villainy
+002-218-003	I Won't Be Beaten!
+002-218-004	Let's Finish This!
+002-219		A Wolf Baring Fangs
+002-219-000	The Wolf Revived
+002-219-001	Evil-Immediate-Slaughter
+002-219-002	I Disavow You Entirely
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -3186,6 +3263,12 @@
 004-064-000	Culla selvaggia (Letale)
 004-064-001	Cima selvaggia (Spietato)
 004-064-002	Confine selvaggio (Spietato)
+004-065		La tartaruga e il bebè
+004-065-000	Finto bebè (Spietato)
+004-066		Il principe e il fantasma
+004-066-000	Ultimo dei morti (Spietato)
+004-067		La regina e il santo
+004-067-000	Santa sorella (Spietato)
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -3432,6 +3515,10 @@
 011-023-000	La gioia dei 9 anni
 011-026		Arena of Honor
 011-026-000	Raduno dei ranger
+011-027		Arena of Honor
+011-027-000	The Swords of Meiji
+011-028		Arena della potenza
+011-028-000	Attacco a ondate
 
 012			Challenge Mode
 012-000		Battaglia sfida
@@ -5203,6 +5290,27 @@
 027-016-007	Floor 8
 027-016-008	Floor 9
 027-016-009	Floor 10
+027-017		Aoshi Shinomori Strikes!
+027-017-000	Oniwaban Group Lv.1
+027-017-001	Oniwaban Group Lv.2
+027-017-002	Oniwaban Group Lv.3
+027-017-003	Oniwaban Group Lv.4
+027-017-004	Oniwaban Group Lv.5
+027-017-005	Oniwaban Group Lv.6
+027-017-006	Oniwaban Group Lv.7
+027-017-007	Oniwaban Group Lv.8
+027-017-008	Oniwaban Group Lv.9
+027-017-009	Oniwaban Group Lv.10
+027-017-010	Oniwaban Group Lv.11
+027-017-011	Oniwaban Group Lv.12
+027-017-012	Oniwaban Group Lv.13
+027-017-013	Oniwaban Group Lv.14
+027-017-014	Oniwaban Group Lv.15
+027-017-015	Oniwaban Group Lv.16
+027-017-016	Oniwaban Group Lv.17
+027-017-017	Oniwaban Group Lv.18
+027-017-018	Oniwaban Group Lv.19
+027-017-019	Oniwaban Group Lv.MAX
 
 031			Behemoth Culling Stages
 031-000		Foresta segreta di Gapra
@@ -5465,3 +5573,24 @@
 034-011-003	Arcipelago di yogurt
 034-011-004	Rovine tagliabiscotti
 034-011-005	Paesaggio pop-pop
+034-012		Isola dei Cavidi sperduta
+034-012-000	Mar Yodoyo
+034-012-001	Prigione putrida
+034-012-002	Isolamento da inquinamento
+034-012-003	Mutazione assurda
+034-012-004	Tossicità accidentale
+034-012-005	Omuncolo sincero
+
+036			Colosseum Stages
+036-000		Colosseo ultraterreno
+036-000-000	Round 1
+036-000-001	Round 2
+036-000-002	Round 3
+036-000-003	Round 4
+036-000-004	Round 5
+036-001		Colosseo ultraterreno
+036-001-000	Round 1
+036-001-001	Round 2
+036-001-002	Round 3
+036-001-003	Round 4
+036-001-004	Round 5

@@ -156,8 +156,8 @@
 155	Squid
 156	Marching Kory
 157	
-158	
-159	
+158	Takuya
+159	Yuki
 160	Pollito Ángel
 161	
 162	
@@ -257,7 +257,7 @@
 256	Caballito del Mar Negro
 257	Rey Guau
 258	Caperucita Espía
-259	
+259	Takuya & Lovely Yuki
 260	Gato Cometa
 261	Don Javier Li
 262	Chucho del Ritual de los Tambores
@@ -337,7 +337,7 @@
 336	Chucho Dorado
 337	Hipo Dorado
 338	A. Vestruz de Oro Puro
-339	
+339	Lost World Yuki
 340	Cala María
 341	Babosa Roja
 342	Babosa Negra
@@ -406,7 +406,7 @@
 405	Bun Bun Mecánico
 406	Bun Bun Reliquia
 407	Chucho Reliquia
-408	
+408	Crazed Yuki
 409	
 410	
 411	Goriliano
@@ -459,7 +459,7 @@
 458	
 459	
 460	
-461	
+461	Kano ＆ Souma
 462	
 463	
 464	
@@ -505,7 +505,7 @@
 504	
 505	
 506	Chihuahui Gobernador
-507	
+507	Messier
 508	
 509	
 510	L. Fante Letal
@@ -644,7 +644,7 @@
 643	Gran Maga Mimon
 644	
 645	
-646	
+646	Redhead Yuki Cat
 647	
 648	
 649	Lutrinae Gokurakko
@@ -686,8 +686,10 @@
 685	
 686	Voluptuous Peony - Daji
 687	Madhead
-688	
-689	
-690	
-691	
+688	Kenshin Himura
+689	Sanosuke Sagara
+690	Aoshi Shinomori
+691	Hajime Saito
 692	Doctor KO
+693	
+694	Hiena AnticuaTec

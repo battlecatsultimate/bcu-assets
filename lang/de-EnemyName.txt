@@ -156,8 +156,8 @@
 155	Squid
 156	Marching Kory
 157	
-158	
-159	
+158	Takuya
+159	Yuki
 160	Küken E
 161	
 162	
@@ -257,7 +257,7 @@
 256	Tacki
 257	König Wahwah
 258	Codename Rotkäppchen
-259	
+259	Takuya & Lovely Yuki
 260	Fesseldrachenkatze
 261	Ebärphim
 262	Ritualtrommelhund
@@ -337,7 +337,7 @@
 336	Goldener Hund
 337	Goldenes Nilpferd
 338	Reingold-V. Strauß
-339	
+339	Lost World Yuki
 340	Cala Maria
 341	Rote Schnecke
 342	Schwarze Schnecke
@@ -406,7 +406,7 @@
 405	Mecha Bun
 406	Relikt Bun Bun
 407	Relikt-Hund
-408	
+408	Crazed Yuki
 409	
 410	
 411	Gorilla in spe
@@ -459,7 +459,7 @@
 458	
 459	
 460	
-461	
+461	Kano ＆ Souma
 462	
 463	
 464	
@@ -505,7 +505,7 @@
 504	
 505	
 506	Immerfürst Wanwan
-507	
+507	Messier
 508	
 509	
 510	Grummelfant
@@ -644,7 +644,7 @@
 643	Großmagier Mimon
 644	
 645	
-646	
+646	Redhead Yuki Cat
 647	
 648	
 649	Lutrinae Gokurakko
@@ -686,8 +686,10 @@
 685	
 686	Voluptuous Peony - Daji
 687	Madhead
-688	
-689	
-690	
-691	
+688	Kenshin Himura
+689	Sanosuke Sagara
+690	Aoshi Shinomori
+691	Hajime Saito
 692	Doktor K. O.
+693	
+694	Techn-Alte Hyäne
