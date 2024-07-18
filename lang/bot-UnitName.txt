@@ -596,7 +596,7 @@
 595	Blooming Kamukura	Everbloom Kamukura	Everbloom Lord Kamukura
 596	Ranma Saotome (M)	Ranma Saotome (F)
 597	Akane Tendo	Akane Tendo (Gi)
-598	Hibiki Ryoga (Pig)	Ryoga Hibik
+598	Hibiki Ryoga (Pig)	Ryoga Hibiki
 599	Shampoo (Cat)	Shampoo
 600	Mousse (Duck)	Mousse
 601	Happosai	Happosai (Lewd)
