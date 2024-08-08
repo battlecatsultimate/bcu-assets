@@ -80,6 +80,8 @@ E28	New Moon Capsules
 E29	June Bride of Devil Capsules
 E30	10th Anniversary Memorial Capsules
 E31	Summer Break Capsules
+E32	Summer Break Survival Capsules
+E33	Bikkuriman Chocolate Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -875,3 +877,11 @@ N65	Cats Eye Capsules
 903	-118
 904	-119	759
 905	-2030
+906	-102	715
+907	-1	763
+908	-1	763
+909	-105	763
+910	-106	763
+911	-104	763
+912	-107	763
+913	-2009	762

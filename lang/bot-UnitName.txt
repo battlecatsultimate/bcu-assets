@@ -469,8 +469,8 @@
 468	Holy Phoenix	Holy Warrior Phoenix	Head Rococo
 469	Super Devil	Imposter Super Devil	Super D-Devil
 470	Satanmaria	Wondermaria
-471	Heracrist	Perfect Heracrist
-472	Fiendish Nero	Beastly Nero
+471	Heracrist	Perfect Heracrist	Black Heracrist
+472	Fiendish Nero	Beastly Nero	Great Nero
 473	Prince Yamato	Holy Yamato	Rampaging Yamato
 474	Rosary Angel	Cross Angel	Strike Angel
 475	Wakamiko Cat	Warrior King Cat
@@ -525,7 +525,7 @@
 524
 525	Kintaro	Kinrangers RoboForce	Kinrangers GigaForce
 526	Snow Angel Twinstars	Snow Angel Twinstars, type Φ
-527	Slime Cat	Jellycat
+527	Slime Cat	Jellycat	Jelly Manju Cat
 528	Cossack Cat	Vodka Cat	Royal Guard Cat
 529	Kasli the Scourge	Ritual Saint Kasli
 530	Herme	Herme CC	
@@ -653,7 +653,7 @@
 652	Chalkboard Eraser Cat	Chalkboard Punk Cat
 653	Elder Beast Naala	Storm Beast Naala	Awakened Naala
 654	Brainwashed Gross Cat	Brainwashed Sexy Legs Cat	Brainwashed Macho Legs
-655	Bliza	Blizana
+655	Bliza	Blizana	Blizalina
 656	Ancient Egg N001	Mystic Egg N001	Haniwa Cat
 657	Iz the Dancer of Grief	Iz the Lady of Mourning
 658	Ancient Egg: N101	Cinnabar Egg: N101	Courier Cat
@@ -760,3 +760,9 @@
 759	Music Fest Thundia	Music Fest Thundia β		
 760	Gunduros	Ballistic Dragon Gunduros
 761	Gandros Spirit
+762	God of the Sky Super Zeus	Almighty Super Zeus
+763	Dinosaur Cat	Mecha Dinosaur Cat
+764	Dinosaur Cat Spirit
+765	Ancient Egg: N206	Cinnabar Egg: N206	Scallop Cat
+766	Sardine	Sardine CC
+767	Squid	Squid CC

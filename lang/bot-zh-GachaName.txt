@@ -75,6 +75,8 @@ E27	Medal Cat King's Hall Capsules
 E28	春節活動轉蛋
 E29	惡魔的完美新娘
 E31	貓咪的暑假
+E32	Summer Break Survival Capsules
+E33	聖魔大戰
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -881,3 +883,11 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 903	-118
 904	-119	759
 905	-2030
+906	-102	715
+907	-1	763
+908	-1	763
+909	-105	763
+910	-106	763
+911	-104	763
+912	-107	763
+913	-2009	762

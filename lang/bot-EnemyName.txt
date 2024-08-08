@@ -693,3 +693,6 @@
 692	Doctor K.O.
 693	Wave Dojo Base
 694	Techn-Old Hyena
+695	Log
+696	Giant Rock
+697	Satan Brollow
