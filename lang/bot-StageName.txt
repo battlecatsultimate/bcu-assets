@@ -5568,7 +5568,7 @@
 034-003-001	Hard-Luck Homestay
 034-003-002	AI Fishing
 034-003-003	Sacrifice Apprenticeship
-034-004		New World WEhen
+034-004		New World Ehen
 034-004-000	Interesting Inlet
 034-004-001	Banishin' Tigers
 034-004-002	Theheckareyou Island
