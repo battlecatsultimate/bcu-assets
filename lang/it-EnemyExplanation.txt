@@ -693,3 +693,6 @@
 692	Scienziato che desidera dimostrare il proprio coraggio<br>al figlio delinquente diventando un pugile. Possiede<br>un'intelligenza superiore grazie all'unica pietra del potere,<br>e ha sviluppato una tecnologia antidoping non rilevabile.
 693	
 694	Vecchia iena, teoricamente il miglior astronomo mai<br>esistito... se si dà credito al premio per la partecipazione<br>che ha ricevuto a un evento locale. Chi critica le sue<br>teorie viene spedito in un'altra dimensione.
+695	
+696	
+697	Un avido pennuto ossessionato dagli oggetti di valore.<br>Un giorno, ha trovato una pietra scintillante e ha deciso di<br>avviare un'attività di vendita di tesori. Se il compratore<br>promette di saldare il suo debito, la transazione è completa.

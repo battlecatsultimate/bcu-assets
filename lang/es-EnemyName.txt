@@ -623,7 +623,7 @@
 622	
 623	
 624	Gallus Nublados
-625	
+625	Tartachucho 10º Aniv.
 626	
 627	Magamojoe Superancestral
 628	Luza Supersimio
@@ -693,3 +693,6 @@
 692	Doctor KO
 693	
 694	Hiena AnticuaTec
+695	Tronco
+696	Peñasco
+697	Diablondrino

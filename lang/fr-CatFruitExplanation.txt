@@ -395,7 +395,7 @@
 394	La forme ultime a un taux d’attaque<br>plus lent, mais une défense, une puissance<br>d’attaque et une portée d’attaque accrues !
 395	La forme ultime augmente fortement<br>la puissance d’attaque et la défense !<br>Octroie une immun. aux vagues offensives !
 396	La forme ultime améliore la défense<br>et repousse mieux les ennemis !<br>
-397	La forme ultime gagne<br>une résistance acharnée<br>contre les ennemis métal !
+397	La forme ultime gagne<br>une résistance acharnée<br>contre les ennemis métal !	L'ultra forme gagne devant-derrière,<br>déf., att. et ch. de crit. améliorées !<br>Temps debuff contre ennemis métal amél.
 398	<br><br>
 399	<br><br>
 400	<br><br>
@@ -653,7 +653,7 @@
 652	<br><br>
 653	La forme ultime augmente la défense !<br>Renforce aussi les debuffs aux reliques !<br>Gagne Fléau des Colosses/Béhémoths !
 654	<br><br>
-655	<br><br>
+655	La forme ultime améliore la déf., la puiss.<br>Déf. et att. ! Effet ralentissement dure<br>plus longtemps + immun. toxique !
 656	La forme ultime révèle son aspect final<br>et gagne Fléau des Béhémoths !<br>
 657	<br><br>
 658	La forme ultime révèle son aspect final<br>et gagne Fléau des Béhémoths !<br>
@@ -760,3 +760,9 @@
 759	<br><br>
 760	<br><br>
 761	<br><br>
+762	<br><br>
+763	<br><br>
+764	<br><br>
+765	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
+766	<br><br>
+767	<br><br>

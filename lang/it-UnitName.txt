@@ -395,7 +395,7 @@
 394	Subaru Hoshi	Subaru Hoshi CC	Dark Subaru CC	
 395	Miyabi Oyama	Miyabi Oyama CC	Baseball Mask δ	
 396	Ganglion	Ganglion l'Antico	Ganglion liberato	
-397	Sakura Sonica	Sakura doposcuola	Sakura Spada sacra	
+397	Sakura Sonica	Sakura doposcuola	Sakura Spada sacra	Sakura Spada sacra Z
 398				
 399	Mentori	Mentori CC		
 400	Imoto	Imoto CC		
@@ -525,7 +525,7 @@
 524				
 525	Kintaro	Robotruppa Kinrangers	Gigatruppa Kinrangers	
 526	Stelle gemelle invernali	Stelle gemelle invernali Φ		
-527	Gatto melma	Gatto gelatina		
+527	Gatto melma	Gatto gelatina	Gatto raviolo gelatinoso	
 528	Gatto cosacco	Gatto vodka	Gatto guardia reale	
 529	Kasli il Flagello	Kasli santa rituale		
 530	Herme	Herme CC		
@@ -653,7 +653,7 @@
 652	Gatto cancellino	Gatto cancellino punk		
 653	Naala bestia stagionata	Naala bestia tempestosa	Naala risvegliata	
 654	Gatto alto plagiato	Gatto Gambe sexy plagiato	Gatto Gambe macho plagiato	
-655	Bliza	Blizana		
+655	Bliza	Blizana	Blizarena	
 656	Uovo antico N001	Uovo mistico N001	Gatto haniwa	
 657	Iz ballerina del dolore	Iz signora del pianto		
 658	Uovo antico N101	Uovo vermiglione N101	Gatto corriere	
@@ -687,7 +687,7 @@
 686	Sirio dea della luce	Sirio dea dell'alba		
 687	Terun renna	Terun renna ζ		
 688	Lucertogatto plagiato	Gatto Dragone plagiato	Gatto Re Dragone plagiato	
-689				
+689	Gatto meditativo	Gatto esemplare		
 690	Phono figlio del destino	Phonoa re del destino		
 691	Uovo antico N000	Uovo di seconda mano N000	Luza lo scimmione	
 692	Issun Boshi	Oni Landshaker Kozuchimaru		
@@ -756,7 +756,13 @@
 755				
 756	Macchina torta	Macchina torta nuziale		
 757	Uovo antico N205	Uovo viola N205	Gatta sposa	
-758			
+758	Trixi la mercenaria	Trixi la rediviva		
 759	Tuonia festival musicale	Tuonia festival musicale β		
 760	Gunduros	Gunduros drago furioso		
 761				
+762				
+763	Gattosauro Rex	Gattosauro Mech		
+764				
+765	Uovo antico N206	Uovo vermiglione N206	Gatta vongola	
+766	Sardina	Sardina CC	Arriva da "Survive! Mola Mola!". Le spine possono	
+767	Calamaro	Calamaro CC		

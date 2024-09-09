@@ -623,7 +623,7 @@
 622	
 623	
 624	Kumulus Gallus
-625	
+625	10.-Jubiläum-Kuchenhund
 626	
 627	Uralter Behemoth Magamojoe
 628	Großer Affenbehemoth Luza
@@ -693,3 +693,6 @@
 692	Doktor K. O.
 693	
 694	Techn-Alte Hyäne
+695	Baumstamm
+696	Felsbrocken
+697	Diabrolbe

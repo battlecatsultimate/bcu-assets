@@ -1487,6 +1487,29 @@
 001-321-000	El mundo se duerme
 001-321-001	Océanos de gelatina
 001-321-002	El mundo paralizado
+001-322		Pt. 2: Maniobras Enemigas
+001-322-000	Debut de 2012
+001-322-001	Debut de 2013
+001-322-002	Debut de 2014
+001-322-003	Debut de 2015
+001-322-004	Debut de 2016
+001-322-005	Debut de 2017
+001-322-006	Debut de 2018
+001-322-007	Debut de 2019
+001-322-008	Debut de 2020
+001-322-009	Debut de 2021
+001-322-010	Debut de 2022
+001-323		Pt. 5: Desfile Musical
+001-323-000	El Comienzo de la Invasión
+001-323-001	¡Preparaos, Ejército Felino!
+001-323-002	Despliegue
+001-323-003	Invasión Mundial
+001-323-004	Las Bestias que Dejan Huella
+001-323-005	La Aventura de Gamatoto
+001-323-006	Batalla Lunar
+001-323-007	Encuentro Final
+001-324		Regalos de Aniversario
+001-324-000	¡10 Años de Diversión!
 001-325		Noche 1: Santa Miaus en acción
 001-325-000	5000 regalos por segundo
 001-325-001	Niños desvelados
@@ -1665,6 +1688,14 @@
 001-381		La Paradoja de Papuu
 001-381-000	Hermana Santa (Inhumano)
 001-381-001	Réquiem por Ángeles (Inhumano)
+001-382		Supervivencia en la Jungla
+001-382-000	Caza por Supervivencia
+001-382-001	Gatos Llevados por la Corriente
+001-382-002	Piedra Intacta, Corazón Roto
+001-382-003	Resistiendo las Fuertes Corrientes
+001-383		La Reina Más Vieja
+001-383-000	El Regreso del Insecto (Inhumano)
+001-383-001	La Reina de las Abejas (Inhumano)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -4730,7 +4761,7 @@
 024-047-007	¡Maestro! (nvl. 18)
 024-047-008	¡Maestro! (nvl. 19)
 024-047-009	¡Maestro! (nvl. máx.)
-024-048		Ataque del Corazón Solitario
+024-048		Temp. 1: Días Escolares
 024-048-000	Escritorio del Destino
 024-048-001	Escritorio Compartido
 024-048-002	Goma de Borrar Perdida
@@ -4866,6 +4897,27 @@
 024-056-007	Desfile (nvl. 8)
 024-056-008	Desfile (nvl. 9)
 024-056-009	Desfile (nvl. máx.)
+024-057		Pt. 1: Recordando Diez Años
+024-057-000	2012
+024-057-001	2013 Parte 1
+024-057-002	2013 Parte 2
+024-057-003	2014 Parte 1
+024-057-004	2014 Parte 2
+024-057-005	2015 Parte 1
+024-057-006	2015 Parte 2
+024-057-007	2016 Parte 1
+024-057-008	2016 Parte 2
+024-057-009	2017 Parte 1
+024-057-010	2017 Parte 2
+024-057-011	2018 Parte 1
+024-057-012	2018 Parte 2
+024-057-013	2020 Parte 1
+024-057-014	2020 Parte 2
+024-057-015	2021 Parte 1
+024-057-016	2021 Parte 2
+024-057-017	2023 Parte 1
+024-057-018	2023 Parte 2
+024-057-019	2024
 024-058		Noche 2: Entrega de Nochebuena
 024-058-000	Entrega (nvl. 1)
 024-058-001	Entrega (nvl. 2)
@@ -4968,6 +5020,17 @@
 024-065-017	Excavación (nvl. 18)
 024-065-018	Excavación (nvl. 19)
 024-065-019	Excavación (nvl. máx.)
+024-067		Naufragio de los Gatos Estivales
+024-067-000	Despertar en la Playa
+024-067-001	Escalofríos en la Cueva
+024-067-002	SOS sin Socorrer
+024-067-003	Dolor de Tripa por Seta
+024-067-004	Sueños de Huida
+024-067-005	¡Caza Exitosa!
+024-067-006	Creación de Balsas para Novatos
+024-067-007	Nos Vamos por Fin
+024-067-008	Balsa Tragada por la Tormenta
+024-067-009	Los Gatos Estivales Vuelven a Casa
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -5619,6 +5682,13 @@
 034-012-003	Mutación Alocada
 034-012-004	Toxicidad Accidental
 034-012-005	Homúnculo Cariñoso
+034-013		Resort De La Cospa
+034-013-000	Catedral Prefabricada
+034-013-001	Siesta de Mediodía
+034-013-002	Jardín de Maleza
+034-013-003	Desfile Veloz
+034-013-004	Playa Privada
+034-013-005	Emigración Costosa
 
 036			Colosseum Stages
 036-000		Coliseo de Otro Mundo
@@ -5633,3 +5703,21 @@
 036-001-002	Ronda 3
 036-001-003	Ronda 4
 036-001-004	Ronda 5
+036-002		Coliseo de Otro Mundo
+036-002-000	Ronda 1
+036-002-001	Ronda 2
+036-002-002	Ronda 3
+036-002-003	Ronda 4
+036-002-004	Ronda 5
+036-003		Coliseo de Otro Mundo
+036-003-000	Ronda 1
+036-003-001	Ronda 2
+036-003-002	Ronda 3
+036-003-003	Ronda 4
+036-003-004	Ronda 5
+036-004		Coliseo de Otro Mundo
+036-004-000	Ronda 1
+036-004-001	Ronda 2
+036-004-002	Ronda 3
+036-004-003	Ronda 4
+036-004-004	Ronda 5

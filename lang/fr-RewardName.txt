@@ -169,6 +169,7 @@
 175|S175|I711	Médaille d’argent
 176|S176|I712	Médaille d’or
 177|S177|I713	Médaille platine
+178|S178|I421	Pass Légende
 179|S179|I523	G. Béhém. violette
 180|S180|I524	Gemme Béhém. rouge
 181|S181|I525	Gemme Béhém. bleue
@@ -193,6 +194,7 @@
 201|S201|I11	XP
 202|S202|I429	Eau bénite
 203|S203|I430	Filet légendaire
+204|S204|I431	Piège légendaire
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -397,6 +399,7 @@
 10474	Rampaging Yamato
 10475	Strike Angel
 10522	Chat Naga
+10528	Chat boulette de gelée
 10529	Chat garde royal
 10532	Ours-Chat cadavre
 10540	Chaterback
@@ -626,6 +629,7 @@
 15643	Lucifer Tout-puissant
 15645	Mekako amour mentholé
 15648	Terun chasseresse divine ζ
+15656	Blizarène
 15657	Chat haniwa
 15659	Chat coursier
 15660	Charzan
@@ -649,6 +653,7 @@
 15721	Chat-Ours déchu
 15725	Nacelle-œuf féline
 15758	Chat mariée
+15766	Chapalourde
 16131	Ururun et Tama éveillés
 16173	Bus scolaire Nyandam
 16269	Mina éveillée

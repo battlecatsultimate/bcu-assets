@@ -693,3 +693,6 @@
 692	Scientifique souhaitant prouver sa bravoure à son<br>fils délinquant en maîtrisant la boxe. A développé<br>une technologie de dopage indétectable grâce à<br>l'intelligence conférée par la pierre de victoire.
 693	
 694	Vieille hyène qui se prend pour la plus grande des<br>astronomes... tout ça parce qu'elle a reçu un trophée<br>de participation à un colloque d’astronomie local.<br>Elle envoie ses détracteurs dans une autre dimension.
+695	
+696	
+697	Oiseau cupide obsédé par les objets de valeur.<br>A créé un commerce de vente de trésors après avoir trouvé<br>une pierre brillante. Si l'acheteur promet de<br>rembourser sa dette, la transaction est effectuée.

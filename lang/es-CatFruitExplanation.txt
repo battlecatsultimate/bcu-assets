@@ -395,7 +395,7 @@
 394	La forma final ataca más lento, pero a cambio<br>mejora su defensa, su poder de ataque<br>y su alcance.
 395	La forma final tiene mucho más<br>poder de ataque y defensa.<br>Además, se hace inmune a oleadas.
 396	La forma final tiene mejor defensa.<br>Además, mejora su habilidad de repulsión.<br>
-397	La forma final tiene<br>una defensa superdura<br>contra enemigos metálicos.
+397	La forma final tiene<br>una defensa superdura<br>contra enemigos metálicos.	¡La ultraforma da un omniataque,<br>y más defensa, ataque y daño crítico!<br>Más penalización contra metálicos.
 398	<br><br>
 399	<br><br>
 400	<br><br>
@@ -653,7 +653,7 @@
 652	<br><br>
 653	¡La forma final tiene más defensa!<br>¡Y fortalece las penalizaciones a reliquias!<br>¡Es matacolosos y matamastodontes!
 654	<br><br>
-655	<br><br>
+655	La forma final tiene una mayor defensa<br>y ataque. ¡La ralentización dura más<br>y obtiene inmunidad a toxicidad!
 656	La forma final revela su apariencia real<br>y es matamastodontes.<br>
 657	<br><br>
 658	La forma final revela su apariencia real<br>y es matamastodontes.<br>
@@ -760,3 +760,9 @@
 759	<br><br>
 760	<br><br>
 761	<br><br>
+762	<br><br>
+763	<br><br>
+764	<br><br>
+765	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
+766	<br><br>
+767	<br><br>

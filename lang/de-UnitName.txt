@@ -395,7 +395,7 @@
 394	Subaru Hoshi	Subaru Hoshi CC	Dark Subaru CC	
 395	Miyabi Oyama	Miyabi Oyama CC	Baseball Mask δ	
 396	Ganglion	Ganglion der Alte	Ganglion der Entfesselte	
-397	Schall-Sakura	Freizeit-Sakura	Heilige-Klinge-Sakura	
+397	Schall-Sakura	Freizeit-Sakura	Heilige-Klinge-Sakura	Heilige-Klinge-Sakura Z
 398				
 399	Mentori	Mentori CC		
 400	Imoto	Imoto CC		
@@ -525,7 +525,7 @@
 524				
 525	Kintaro	Kinrangers-Robokämpfer	Kinrangers-Gigakämpfer	
 526	Winterengel-Zwillinge	Winterengel-Zwillinge, Typ Φ		
-527	Schleimkatze	Geleekatze		
+527	Schleimkatze	Geleekatze	Puddingklößchen-Katze	
 528	Kosakenkatze	Wodkakatze	Königswachenkatze	
 529	Kasli die Geißel	Ritualheilige Kasli		
 530	Herme	Herme CC		
@@ -653,7 +653,7 @@
 652	Tafelschwammkatze	Tafelschwamm-Punkkatze		
 653	Ältestenbestie Naala	Sturmbestie Naala	Erwachte Naala	
 654	Gehirngew. Stelzenkatze	Gehirng. Hübsche-Beine Katze	Gehirng. Macho-Katze	
-655	Bliza	Blizana		
+655	Bliza	Blizana	Blizarena	
 656	Uraltes Ei: N001	Mystisches Ei: N001	Haniwa-Katze	
 657	Iz, die Tänzerin des Kummers	Iz, Dame der Trauer		
 658	Uraltes Ei: N101	Zinnober-Ei: N101	Kurierkatze	
@@ -687,7 +687,7 @@
 686	Lichtgöttin Sirius	Sonnenaufgangsgöttin Sirius		
 687	Rentier Terun	Rentier Terunζ		
 688	Gehirngewaschene Echsenkatze	Gehirngew. Drachenkatze	Gehirngew. Königsdrachenkatze	
-689				
+689	Meditationskatze	Paragonkatze		
 690	Schicksalskind Phono	Schicksalskönig Phonoa		
 691	Uraltes Ei: N000	Second-Hand-Ei: N000	Affenlord Uza	
 692	Issun Boshi	Oni-Aufmischer Kozuchimaru		
@@ -756,7 +756,13 @@
 755				
 756	Kuchenmaschine	Hochzeitskuchenmaschine		
 757	Uraltes Ei: N205	Violettes Ei: N205	Brautkatze	
-758			
+758	Trixi die Söldnerin	Trixi die Wiedergängerin		
 759	Musikfest-Donneria	Musikfest-Donneria β		
 760	Gunduros	Ballistischer Drache Gunduros		
 761				
+762				
+763	Dynasaurus-Katze	Mecha-Dynasaurus-Katze		
+764				
+765	Uraltes Ei: N206	Zinnober-Ei: N206	Muschelkatze	
+766	Sardine	Sardine CC	Zu Besuch aus „Survive! Mola Mola“. Winzige Knochen können	
+767	Tintenfisch	Tintenfisch CC		

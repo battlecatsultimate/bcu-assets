@@ -1487,6 +1487,29 @@
 001-321-000	Panne de réveil mondiale
 001-321-001	Océans gélifiés
 001-321-002	Terre arrêtée
+001-322		2e partie : Manœuvres adverses
+001-322-000	2012 Débuts
+001-322-001	2013 Débuts
+001-322-002	2014 Débuts
+001-322-003	2015 Débuts
+001-322-004	2016 Débuts
+001-322-005	2017 Débuts
+001-322-006	2018 Débuts
+001-322-007	2019 Débuts
+001-322-008	2020 Débuts
+001-322-009	2021 Débuts
+001-322-010	2022 Débuts
+001-323		5e partie : Défilé musical
+001-323-000	Début de l'invasion
+001-323-001	Armée de Chats, rassemblement !
+001-323-002	Déploiement
+001-323-003	Invasion mondiale
+001-323-004	Monstres qui font trembler la Terre
+001-323-005	Aventure de Gamatoto
+001-323-006	Bataille lunaire
+001-323-007	La dernière rencontre
+001-324		Cadeaux d’anniv
+001-324-000	10 ans de rigolade !
 001-325		Nuit 1 : Père Noël griffu au travail
 001-325-000	5 000 cadeaux/s
 001-325-001	Enfants sans sommeil
@@ -1665,6 +1688,14 @@
 001-381		Paradoxe de Papuu
 001-381-000	Sœur sanctifiée (sans répit)
 001-381-001	Requiem des anges (sans répit)
+001-382		Survie dans la jungle
+001-382-000	Chasse pour la vie
+001-382-001	Chats à la dérive
+001-382-002	Rocher imbrisable, cœur brisé
+001-382-003	Résistance au bouillon
+001-383		La reine aînée
+001-383-000	Je suis Big Bug (sans répit)
+001-383-001	La reine mère (sans répit)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -4720,7 +4751,7 @@
 024-047-007	Sensei ! niv. 18
 024-047-008	Sensei ! niv. 19
 024-047-009	Sensei ! niv. max
-024-048		Attaque des célibataires
+024-048		Saison 1 : Jours d'école
 024-048-000	Bureau du destin
 024-048-001	À côté de ton flirt
 024-048-002	Une gomme par terre
@@ -4856,6 +4887,27 @@
 024-056-007	Défilé niv. 8
 024-056-008	Défilé niv. 9
 024-056-009	Défilé niv. max
+024-057		1re partie : 10 ans de souvenirs
+024-057-000	2012
+024-057-001	2013 1re partie
+024-057-002	2013 2e partie
+024-057-003	2014 1re partie
+024-057-004	2014 2e partie
+024-057-005	2015 1re partie
+024-057-006	2015 2e partie
+024-057-007	2016 1re partie
+024-057-008	2016 2e partie
+024-057-009	2017 1re partie
+024-057-010	2017 2e partie
+024-057-011	2018 1re partie
+024-057-012	2018 2e partie
+024-057-013	2020 1re partie
+024-057-014	2020 2e partie
+024-057-015	2021 1re partie
+024-057-016	2021 2e partie
+024-057-017	2023 1re partie
+024-057-018	2023 1re partie
+024-057-019	2024
 024-058		Nuit 2 : Livraison de la veille de Noël
 024-058-000	Livraison niv. 1
 024-058-001	Livraison niv. 2
@@ -4958,6 +5010,17 @@
 024-065-017	Excavation niv. 18
 024-065-018	Excavation niv. 19
 024-065-019	Excavation niv. max
+024-067		Chats de vacances d’été naufragés
+024-067-000	Réveil sur une plage
+024-067-001	Frissons dans une grotte
+024-067-002	SOS ignoré
+024-067-003	Intoxication fongique
+024-067-004	Rêves d'ailleurs
+024-067-005	Chasse réussie !
+024-067-006	Initiation à la fabrication de radeaux
+024-067-007	Départ tant attendu
+024-067-008	Radeau englouti par la tempête
+024-067-009	Bienvenue chez vous, Chats de vacances d’été
 
 025			Enigma Stages
 025-000		Champs Aitum
@@ -5609,6 +5672,13 @@
 034-012-003	Mutation absurde
 034-012-004	Toxicité accidentelle
 034-012-005	Homoncule chaleureux
+034-013		Station De la Cospa
+034-013-000	Cathédrale préfabriquée
+034-013-001	Sieste digestive
+034-013-002	Jardin mal entretenu
+034-013-003	Parade sprintée
+034-013-004	Plage privée
+034-013-005	Émigration coûteuse
 
 036			Colosseum Stages
 036-000		Colisée d'outre-monde
@@ -5623,3 +5693,21 @@
 036-001-002	3e manche
 036-001-003	4e manche
 036-001-004	5e manche
+036-002		Colisée d'outre-monde
+036-002-000	1re manche
+036-002-001	2e manche
+036-002-002	3e manche
+036-002-003	4e manche
+036-002-004	5e manche
+036-003		Colisée d'outre-monde
+036-003-000	1re manche
+036-003-001	2e manche
+036-003-002	3e manche
+036-003-003	4e manche
+036-003-004	5e manche
+036-004		Colisée d'outre-monde
+036-004-000	1re manche
+036-004-001	2e manche
+036-004-002	3e manche
+036-004-003	4e manche
+036-004-004	5e manche

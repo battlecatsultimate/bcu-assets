@@ -693,3 +693,6 @@
 692	Doctor K.O.
 693	
 694	Techn-Old Hyena
+695	Log
+696	Boulder
+697	Diabrollow

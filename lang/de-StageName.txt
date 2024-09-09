@@ -1487,6 +1487,29 @@
 001-321-000	Weltweites Verschlafen
 001-321-001	Gelierte Ozeane
 001-321-002	Erde im Stillstand
+001-322		Teil 2: Feindliche Manöver
+001-322-000	2012 Debüt
+001-322-001	2013 Debüt
+001-322-002	2014 Debüt
+001-322-003	2015 Debüt
+001-322-004	2016 Debüt
+001-322-005	2017 Debüt
+001-322-006	2018 Debüt
+001-322-007	2019 Debüt
+001-322-008	2020 Debüt
+001-322-009	2021 Debüt
+001-322-010	2022 Debüt
+001-323		Teil 5: Musikparade
+001-323-000	Beginn der Invasion
+001-323-001	Katzenarmee, vereinigt euch!
+001-323-002	Einsatz
+001-323-003	Invasion der Welt
+001-323-004	Erderschütternde Bestien
+001-323-005	Gamatoto-Abenteuer
+001-323-006	Mondschlacht
+001-323-007	Das letzte Treffen
+001-324		Geburtstagsgeschenke
+001-324-000	10 Jahre Spaß!
 001-325		Nacht 1: Santa Klaus bei der Arbeit
 001-325-000	5.000 Geschenke/Sek.
 001-325-001	Schlaflose Kinder
@@ -1665,6 +1688,14 @@
 001-381		Papuus Paradoxon
 001-381-000	Heilige Schwester (Gnadenlos)
 001-381-001	Requiem für Engel (Gnadenlos)
+001-382		Überleben im Dschungel
+001-382-000	Jagd nach Nahrung
+001-382-001	Aktuell gehaltene Katzen
+001-382-002	Ungebrochener Fels, gebrochenes Herz
+001-382-003	Widerstehe dem reißenden Strom
+001-383		Die älteste Königin
+001-383-000	Ich werde Big Bug (Gnadenlos)
+001-383-001	Bienenkönigin sein (Gnadenlos)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -4334,7 +4365,7 @@
 024-019		Sommerferienkatzen
 024-019-000	Sommeranfang
 024-019-001	Abendkonzert
-024-019-002	Überbordendes Licht
+024-019-002	Überquellendes Licht
 024-019-003	Verstecktes Baumhaus
 024-019-004	Essen ist fertig
 024-019-005	Citronelladuft
@@ -4646,7 +4677,7 @@
 024-041		Festkatzen: Mond-Neujahr
 024-041-000	Schon Mond-Neujahr?
 024-041-001	Bunte Feuerwerk-Show
-024-041-002	Vertreibe des Böse mit einem Knaller
+024-041-002	Vertreibe das Böse mit einem Knaller
 024-041-003	Betteln um Geschenke
 024-041-004	Für langes Leben beten
 024-041-005	Akrobatischer Löwentanz
@@ -4708,6 +4739,27 @@
 024-045-017	Trostgeschenk St. 18
 024-045-018	Trostgeschenk St. 19
 024-045-019	Trostgeschenk St. MAX
+024-048		Saison 1: Schulzeit
+024-048-000	Pult des Schicksals
+024-048-001	Neben dem Schwarm sitzen
+024-048-002	Fallengelassener Radiergummi
+024-048-003	Schulbücher teilen
+024-048-004	Hausaufgaben abschreiben
+024-048-005	Heimliches Flüstern
+024-048-006	Tagtraum im Unterricht
+024-048-007	Völkerball-Deserteur
+024-048-008	Rennen zur Kantine
+024-048-009	Mit ihr lernen
+024-048-010	Fleißsternchen
+024-048-011	Ungelernte Themen
+024-048-012	Schummler-Handzeichen
+024-048-013	Überraschungstest-Schmerzen
+024-048-014	Knapp bestanden
+024-048-015	Ohne Lehrbuch
+024-048-016	Mit ihr aufräumen
+024-048-017	Immer im Kopf
+024-048-018	Büffeln für die Katz
+024-048-019	Notenpanik
 024-049		Monatl. Event-Stars Dankbare Versammlung
 024-049-000	Dankbare XP St. 1
 024-049-001	Dankbare XP St. 2
@@ -4823,6 +4875,27 @@
 024-056-007	Parade St. 8
 024-056-008	Parade St. 9
 024-056-009	Parade St. MAX
+024-057		Teil 1: 10 Jahre Erinnerungen
+024-057-000	2012
+024-057-001	2013 Teil 1
+024-057-002	2013 Teil 2
+024-057-003	2014 Teil 1
+024-057-004	2014 Teil 2
+024-057-005	2015 Teil 1
+024-057-006	2015 Teil 2
+024-057-007	2016 Teil 1
+024-057-008	2016 Teil 2
+024-057-009	2017 Teil 1
+024-057-010	2017 Teil 2
+024-057-011	2018 Teil 1
+024-057-012	2018 Teil 2
+024-057-013	2020 Teil 1
+024-057-014	2020 Teil 2
+024-057-015	2021 Teil 1
+024-057-016	2021 Teil 2
+024-057-017	2023 Teil 1
+024-057-018	2023 Teil 2
+024-057-019	2024
 024-058		Nacht 2: Lieferung am Weihnachtsabend
 024-058-000	Lieferung St. 1
 024-058-001	Lieferung St. 2
@@ -4925,6 +4998,17 @@
 024-065-017	Ausgrabung St. 18
 024-065-018	Ausgrabung St. 19
 024-065-019	Ausgrabung St. MAX
+024-067		Naufragio dei Gatti estivi
+024-067-000	Erwachen am Strand
+024-067-001	Zittern in einer Höhle
+024-067-002	Unbemerktes SOS
+024-067-003	Fliegenpilz-Bauchschmerzen
+024-067-004	Träume von Flucht
+024-067-005	Erfolgreiche Jagd!
+024-067-006	Einführung in den Floßbau
+024-067-007	Endlich Abreise
+024-067-008	Sturmgeschlucktes Floß
+024-067-009	Willkommen zu Hause, Sommerferienkatzen
 
 025			Enigma Stages
 025-000		Atium-Felder
@@ -5547,6 +5631,13 @@
 034-012-003	Unsinnsmutation
 034-012-004	Versehentliche Toxizität
 034-012-005	Herzlicher Homunculus
+034-013		Resort De La Cospa
+034-013-000	Vorgefertigte Kathedrale
+034-013-001	Mittagsschlaf
+034-013-002	Unkrautgarten
+034-013-003	Sprintparade
+034-013-004	Privatstrand
+034-013-005	Teure Auswanderung
 
 036			Colosseum Stages
 036-000		Anderwelt-Kolosseum
@@ -5561,3 +5652,21 @@
 036-001-002	Runde 3
 036-001-003	Runde 4
 036-001-004	Runde 5
+036-002		Anderwelt-Kolosseum
+036-002-000	Runde 1
+036-002-001	Runde 2
+036-002-002	Runde 3
+036-002-003	Runde 4
+036-002-004	Runde 5
+036-003		Anderwelt-Kolosseum
+036-003-000	Runde 1
+036-003-001	Runde 2
+036-003-002	Runde 3
+036-003-003	Runde 4
+036-003-004	Runde 5
+036-004		Anderwelt-Kolosseum
+036-004-000	Runde 1
+036-004-001	Runde 2
+036-004-002	Runde 3
+036-004-003	Runde 4
+036-004-004	Runde 5

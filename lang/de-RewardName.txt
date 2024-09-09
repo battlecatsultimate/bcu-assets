@@ -169,6 +169,7 @@
 175|S175|I711	Silbermedaille
 176|S176|I712	Goldmedaille
 177|S177|I713	Platinmedaille
+178|S178|I421	Legendenpass
 179|S179|I523	Lila Behem.-Juwel
 180|S180|I524	Rotes Behem.-Juwel
 181|S181|I525	Blaues Behem.-Juw.
@@ -193,6 +194,7 @@
 201|S201|I11	XP
 202|S202|I429	Weihwasser
 203|S203|I430	Legendennetz
+204|S204|I431	Legendenfalle
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -397,6 +399,7 @@
 10474	Rampaging Yamato
 10475	Strike Angel
 10522	Nagakatze
+10528	Puddingklößchen-Katze
 10529	Königswachenkatze
 10532	Totengräbärkatze
 10540	Gridiron-Katze
@@ -626,6 +629,7 @@
 15643	Allmächtiger Luzifer
 15645	Minzliebe Mekako
 15648	Göttliche Jägerin Terun ζ
+15656	Blizarena
 15657	Haniwa-Katze
 15659	Kurierkatze
 15660	Katzan
@@ -649,6 +653,7 @@
 15721	Gefallene Bärenkatze
 15725	Katzeneierkapsel
 15758	Brautkatze
+15766	Muschelkatze
 16131	Erwachte Ururun
 16173	Schulbus-Nyandam
 16269	Erwachte Mina

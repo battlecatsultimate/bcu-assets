@@ -749,6 +749,23 @@
 9385	Clear stages from "Street Fighter V CE Collab"
 9386	Clear stages from "Street Fighter V CE Collab"
 9387	Clear stages from "Street Fighter V CE Collab"
+9388	[Teil 1: 10 Jahre Erinnerungen] 1. Sammle eine Jubiläumseinheit! Tipp: Medaille zum 5. Jubiläum der Battle Cats
+9389	[Teil 1: 10 Jahre Erinnerungen] 2. Sammle eine Jubiläumseinheit! Tipp: Katze, die bei Events. Glück hat
+9391	[Teil 1: 10 Jahre Erinnerungen] 4. Sammle eine Jubiläumseinheit! Tipp: Wertvolle Katze der. 9. Jubiläumsfeier
+9392	[Teil 1: 10 Jahre Erinnerungen] 5. Sammle eine Jubiläumseinheit! Tipp: Ein Meditierender. vom 10. Jubiläum
+9394	[Teil 1: 10 Jahre Erinnerungen] Schließe „10 Jahre Erinnerungen“-Lvl 5-mal ab!
+9395	[Teil 1: 10 Jahre Erinnerungen] Schließe „10 Jahre Erinnerungen“-Lvl 15-mal ab!
+9396	[Teil 1: 10 Jahre Erinnerungen] Schließe „10 Jahre Erinnerungen“-Lvl 30-mal ab!
+9397	[Teil 2: Feindliche Manöver] Schließe die „Feindliche Manöver“-Level 5-mal ab!
+9398	[Teil 3: Katzenklatsch] Sprich an 4 Tagen. mit der Katze in der Katzenbasis. über die Geschichte der Battle Cats!
+9399	[Teil 4: Katzenjagd] 1. Finde die Katze in Katzenimperium! Tipp: Hauptstadtname ist längster der Welt
+9400	[Teil 4: Katzenjagd] 2. Finde die versteckte Katze in. Katzenimperium! Tipp: Eine große wolkenlose Wüste
+9401	[Teil 4: Katzenjagd] 3. Finde die versteckte Katze in. Katzenimperium! Tipp: Sein Symbol ist ein Ahornblatt
+9402	[Teil 4: Katzenjagd] 4. Finde die Katze in Katzenimperium! Tipp: Von hier wurde die Mondlandung gelenkt
+9403	[Teil 4: Katzenjagd] 5. Finde die versteckte Katze in. Katzenimperium! Tipp: Längste Lebenserwartung in den USA
+9404	[Teil 4: Katzenjagd] Bereise die Welt. und finde alle versteckten Katzen!
+9405	[Teil 5: Musikparade] Schließe „Musikparade“-Level 8-mal ab! Schließe „Musikparade“-Level ab
+55	10.-Jubiläum-Mission. Schließe während des Events Katzenimperium Kapitel 1 ab
 9407	Schließe 5-mal „Mond-Neujahr“-Level ab!
 9408	Schließe 10-mal „Mond-Neujahr“-Level ab!
 9409	Schließe 15-mal „Mond-Neujahr“-Level ab!
@@ -814,6 +831,8 @@
 9494	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 1 Level 5 ab
 9495	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 2 Level 3 ab
 9496	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 2 Level 5 ab
+9497	[Teil 1: 10 Jahre Erinnerungen] Sammle Jubiläumseinheiten
+9498	[10.-Jubiläum-Parade] Schließe alle Missionen von. Teil 1–5 ab und hol dir ein Legenden-Ticket
 9499	[Invasionslevel] Limitierte Eventmission. Schließe „Hof der Pein“ ab
 9500	[Invasionslevel] Limitierte Eventmission. Schließe „Erster Botengang“ ab
 9501	[Invasionslevel] Limitierte Eventmission. Schließe „Wanwans Ruhm“ ab
@@ -827,3 +846,9 @@
 9509	Sommerhausaufgaben Teil 2 ⑤: Insektenbeobachtung. Gewinne Sommernacht, auf dem Weg nach Hause Lv. 1 mit Kabutokatze
 9510	Sommerhausaufgaben Teil 2 ⑥: Insektenbeobachtung. Gewinne Sommernacht, auf dem Weg nach Hause Lv. 2 mit Kuwagatakatze
 9511	Sommerhausaufgaben Teil 2 ⑦: Insektenbeobachtung. Gewinne Sommernacht, auf dem Weg nach Hause Lv. 3 mit Uraltes Ei: N202
+9518	[Schiffbruch-Flucht Teil 1] ①: Wildnisüberleben
+9519	[Schiffbruch-Flucht Teil 1] ②: Wildnisüberleben
+9520	[Schiffbruch-Flucht Teil 1] ③: Wildnisüberleben
+9524	[Schiffbruch-Flucht Teil 2] ①: Kampf gegen die Natur. Schließe Lv. 1 von „Überleben im Dschungel“ ab!
+9525	[Schiffbruch-Flucht Teil 2] ②: Kampf gegen die Natur. Schließe Lv. 4 von „Überleben im Dschungel“ ab!
+65	[Kontoverbindung]. In Optionen→Konto ändern/Konto mit Gerät verbinden

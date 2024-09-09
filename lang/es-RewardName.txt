@@ -169,6 +169,7 @@
 175|S175|I711	Medalla de plata
 176|S176|I712	Medalla de oro
 177|S177|I713	Medalla de platino
+178|S178|I421	Pase legendario
 179|S179|I523	Gema de mast. mor.
 180|S180|I524	Gema de mast. roja
 181|S181|I525	Gema de mast. azul
@@ -193,6 +194,7 @@
 201|S201|I11	XP
 202|S202|I429	Agua bendita
 203|S203|I430	Red legendaria
+204|S204|I431	Trampa legendaria
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -397,6 +399,7 @@
 10474	Rampaging Yamato
 10475	Strike Angel
 10522	Gato Naga
+10528	Gato Gelatinoso
 10529	Guardia Real Gatuna
 10532	Gato Cadaveroso
 10540	Quartercat
@@ -625,6 +628,7 @@
 15643	Lucifer Todopoderoso
 15645	Mekako Amante Menta
 15648	Terun Cazadora Divina ζ
+15656	Ventirena
 15657	Gato Haniwa
 15659	Gato Mensajero
 15660	Gatarzán
@@ -648,6 +652,7 @@
 15721	Oso Caído Gatuno
 15725	Vaina de huevo gatuno
 15758	Gata Prometida
+15766	Gato Almeja
 16131	Ururun Alzado
 16173	Nyandam Bus Escolar
 16269	Mina Alzada

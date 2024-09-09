@@ -395,7 +395,7 @@
 394	Wahre-Form-Entwicklung senkt die Angriffsrate,<br>aber steigert Verteidigung, Angriffskraft und<br>Angriffsreichweite!
 395	Wahre-Form-Entwicklung erhöht Angriffskraft<br>und Verteidigung!<br>Wird zudem immun gegen Welleneffekte!	Wahre-Form-Entwicklung erhöht Angriffskraft<br>und Verteidigung!<br>Wird zudem Immun gegen Welleneffekte!
 396	Wahre-Form-Entwicklung erhöht Vert.,<br>und stärkt Rückstöße gegen Feinde!<br>
-397	Wahre-Form-Entwicklung gewährt<br>Irre robuste Verteidigung<br>gegen eiserne Feinde!
+397	Wahre-Form-Entwicklung gewährt<br>Irre robuste Verteidigung<br>gegen eiserne Feinde!	Ultra-Form-Entw. gewährt Rundumschlag,<br>Verteidigung, Angriff und Reichweite!<br>Zudem erh. Schwächungseff. gg. Eiserne.
 398	<br><br>
 399	<br><br>
 400	<br><br>
@@ -653,7 +653,7 @@
 652	<br><br>
 653	Wahre Form gewährt erhöhte Verteidigung!<br>Verbessert auch Schwächungen bei Relikten!<br>Gewährt zudem Koloss-/Behemothtöter!
 654	<br><br>
-655	<br><br>
+655	Wahre-Form-Entwicklung erhöht<br>Vert. und Angr.! Lähmungseffekt hält<br>länger an, plus Immun. gg. Wellenang.!
 656	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
 657	<br><br>
 658	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
@@ -760,3 +760,9 @@
 759	<br><br>
 760	<br><br>
 761	<br><br>
+762	<br><br>
+763	<br><br>
+764	<br><br>
+765	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
+766	<br><br>
+767	<br><br>

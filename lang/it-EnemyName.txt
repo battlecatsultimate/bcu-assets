@@ -623,7 +623,7 @@
 622	
 623	
 624	Gallo delle nubi
-625	
+625	Cane torta del 10º anniversario
 626	
 627	Magamojoe Behemoth super secolare
 628	Luza Behemoth super scimmione
@@ -693,3 +693,6 @@
 692	Dottor K.O.
 693	
 694	Vecchia iena tecnica
+695	Tronco
+696	Masso
+697	Rondinone diabolico

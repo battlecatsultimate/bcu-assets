@@ -749,6 +749,23 @@
 9385	Clear stages from "Street Fighter V CE Collab"
 9386	Clear stages from "Street Fighter V CE Collab"
 9387	Clear stages from "Street Fighter V CE Collab"
+9388	【Pt. 1: Dieci anni di ricordi】1. Ottieni un'unità anniv. dalle capsule evento! Sugg.: medaglia del 5° anniversario
+9389	【Pt. 1: Dieci anni di ricordi】2. Ottieni un'unità anniv. dalle capsule evento! Sugg.: Gatto portafortuna agli eventi
+9391	【Pt. 1: Dieci anni di ricordi】4. Ottieni un'unità anniv. dalle capsule evento! Sugg.: Gatto ricompensa del 9º anniv
+9392	【Pt. 1: Dieci anni di ricordi】5. Ottieni un'unità anniv. dalle capsule evento! Sugg.: Gatto pensatore del 10º anniv
+9394	【Pt. 1: Dieci anni di ricordi】Supera i livelli collab. di Dieci anni di ricordi 5 volte! Supera dei liv.:
+9395	【Pt. 1: Dieci anni di ricordi】Supera i livelli collab. di Dieci anni di ricordi 15 volte! Supera dei liv.:
+9396	【Pt. 1: Dieci anni di ricordi】Supera i livelli collab. di Dieci anni di ricordi 30 volte! Supera dei liv.:
+9397	【Pt. 2: Manovre nemiche】Supera i livelli di. Manovre nemiche 5 volte! Supera qualsiasi livello:
+9398	【Pt. 3: Chiacchiere tra gatti 】Parla con un Gatto alla Base felina.  per 4 gg. e scopri la storia di The Battle Cats!
+9399	【Pt. 4: Caccia ai Gatti】1. Trova il Gatto nascosto in. Impero dei Gatti! Sugg: capitale con il nome + lungo al mondo
+9400	【Pt. 4: Caccia ai Gatti】2. Trova il Gatto nascosto in. Impero dei Gatti! Sugg: grande deserto senza nuvole
+9401	【Pt. 4: Caccia ai Gatti】3. Trova il Gatto nascosto in. Impero dei Gatti! Sugg: il suo simbolo è la foglia di acero
+9402	【Pt. 4: Caccia ai Gatti】4. Trova il Gatto nascosto in. Impero dei Gatti! Sugg: da qui partì la missione sulla Luna
+9403	【Pt. 4: Caccia ai Gatti】5. Trova il Gatto nascosto in. Impero dei Gatti! Sugg: aspettativa di vita + lunga in USA
+9404	【Pt. 4: Caccia ai Gatti】Viaggia per il mondo. e trova tutti i Gatti nascosti!
+9405	【Pt. 5: Parata musicale】Supera i livelli di. Parata musicale 8 volte! Supera qualsiasi livello:
+55	Missione 10º anniversario. Supera Impero dei Gatti Cap. 1 durante l'evento
 9407	Supera livelli "Capodanno lunare" 5 volte!
 9408	Supera livelli "Capodanno lunare" 10 volte!
 9409	Supera livelli "Capodanno lunare" 15 volte!
@@ -814,6 +831,8 @@
 9494	[Colosseo ultraterreno] Missione evento limitato. Supera Colosseo ultraterreno livello 1 Round 5
 9495	[Colosseo ultraterreno] Missione evento limitato. Supera Colosseo ultraterreno livello 2 Round 3
 9496	[Colosseo ultraterreno] Missione evento limitato. Supera Colosseo ultraterreno livello 2 Round 5
+9497	[Parte 1: Dieci anni di ricordi] Ottieni tutte le unità. anniversario dalle capsule evento!
+9498	[Parata in onore dei dieci anni] Supera tutte le missioni. di tutte le parti per riscattare un Biglietto leggendario
 9499	[Livello di invasione] Missione evento limitato. Supera Tribunale del Tormento
 9500	[Livello di invasione] Missione evento limitato. Supera Prima faccenda
 9501	[Livello di invasione] Missione evento limitato. Supera Gloria di Wanwan
@@ -827,3 +846,9 @@
 9509	Compiti per le vacanze Parte 2 ⑤: Osservare gli insetti. Supera il liv. 1 di Sera estiva, verso casa con Gatto Kabuto
 9510	Compiti per le vacanze Parte 2 ⑥: Osservare gli insetti. Supera il liv. 2 di Sera estiva, verso casa con Gatto Kuwagata
 9511	Compiti per le vacanze Parte 2 ⑦: Osservare gli insetti. Vinci il liv. 3 di Sera estiva, verso casa con Uovo antico N202
+9518	[Fuga del naufrago Parte 1] ①:  Sopravvivenza selvaggia. Supera 5 livelli Naufrago!
+9519	[Fuga del naufrago Parte 1] ②: Sopravvivenza selvaggia. Supera 10 livelli Naufrago!
+9520	[Fuga del naufrago Parte 1] ③: Sopravvivenza selvaggia. Supera 15 livelli Naufrago!
+9524	[Fuga del naufrago Parte 2] ①: Battaglia contro la natura. Supera il livello 1 di Vita nella giungla!
+9525	[Fuga del naufrago Parte 2] ②: Battaglia contro la natura. Supera il livello 4 di Vita nella giungla!
+65	[Collega account] Vai a Impostazioni→. Cambia account/dispositivo per collegarlo

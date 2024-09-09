@@ -169,6 +169,7 @@
 175|S175|I711	Silver Medal
 176|S176|I712	Gold Medal
 177|S177|I713	Platinum Medal
+178|S178|I421	Legend Pass
 179|S179|I523	Purple B. Gem
 180|S180|I524	Red B. Gem
 181|S181|I525	Blue B. Gem
@@ -193,6 +194,7 @@
 201|S201|I11	XP
 202|S202|I429	Holy Water
 203|S203|I430	Legend Net
+204|S204|I431	Legend Trap
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -397,6 +399,7 @@
 10474	Rampaging Yamato
 10475	Strike Angel
 10522	Naga Cat
+10528	Jelly Dumpling Cat
 10529	Royal Guard Cat
 10532	Cadaver BearCat
 10540	Gridiron Cat
@@ -626,6 +629,7 @@
 15643	Almighty Lucifer
 15645	Minty Love Mekako
 15648	Divine Huntress Terun ζ
+15656	Blizarena
 15657	Haniwa Cat
 15659	Courier Cat
 15660	Catarzan
@@ -649,6 +653,7 @@
 15721	Fallen Bear Cat
 15725	Cat Egg Pod
 15758	Bride Cat
+15766	Clam Cat
 16131	Awakened Ururun
 16173	Schoolbus Nyandam
 16269	Awakened Mina

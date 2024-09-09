@@ -749,6 +749,23 @@
 9385	Clear stages from "Street Fighter V CE Collab"
 9386	Clear stages from "Street Fighter V CE Collab"
 9387	Clear stages from "Street Fighter V CE Collab"
+9388	[1 : 10 ans de souvenirs] 1. Unité anniv. dans Chapsules ! Médaille créée pour le 5e anniversaire de The Battle Cats
+9389	[1 : 10 ans de souvenirs] 2. Unité anniv. dans Chapsules ! Chat qui accueille la fortune dans les événements live
+9391	[1 : 10 ans de souvenirs] 4. Unité anniv. dans Chapsules ! Chat précieux offert aux gagnants durant le 9e anniversaire
+9392	[1 : 10 ans de souvenirs] 5. Unité anniv. dans Chapsules ! Chat du 10e anniversaire qui médite perché sur un rocher
+9394	[1 : 10 ans de souvenirs] Termine ces niveaux 5 fois !
+9395	[1 : 10 ans de souvenirs] Termine ces niveaux 15 fois !
+9396	[1 : 10 ans de souvenirs] Termine ces niveaux 30 fois !
+9397	[2 : manœuvres adverses] Termine ces niveaux 5 fois !
+9398	[3 : Discussions félines] Discute pendant 4 jours à la base féline. pour découvrir l'histoire de The Battle Cats !
+9399	[4 : Chasse au Chat] 1. Trouve le Chat caché dans L'emp. Ch. La capitale porte le nom de ville le plus long au monde
+9400	[4 : Chasse au Chat] 2. Trouve le Chat caché dans L'emp. Ch. Un vaste désert sans aucun nuage
+9401	[4 : Chasse au Chat] 3. Trouve le Chat caché dans L'emp. Ch. Son symbole est une feuille d'érable
+9402	[4 : Chasse au Chat] 4. Trouve le Chat caché dans L'emp. Ch. C'est de là qu'est partie la mission d'alunissage
+9403	[4 : Chasse au Chat] 5. Trouve le Chat caché dans L'emp. Ch. La plus longue espérance de vie des États US
+9404	[4 : Chasse au Chat] Sillonne le monde. et trouve tous les Chats cachés !
+9405	[5 : Défilé musical] Termine ces niveaux 8 fois !
+55	Mission du 10e anniversaire. Termine L'empire des Chats ch. 1 pendant l'événement
 9407	Termine les niv. Nouvel An lunaire 5 fois !
 9408	Termine les niv. Nouvel An lunaire 10 fois !
 9409	Termine les niv. Nouvel An lunaire 15 fois !
@@ -814,6 +831,8 @@
 9494	[Colisée d’outre-monde] Mission d’événement limité. Termine Colisée d’outre-monde niveau 1 étape 5
 9495	[Colisée d’outre-monde] Mission d’événement limité. Termine Colisée d’outre-monde niveau 2 étape 3
 9496	[Colisée d’outre-monde] Mission d’événement limité. Termine Colisée d’outre-monde niveau 2 étape 5
+9497	[1 : 10 ans de souvenirs] Obtiens toutes les unités anniv
+9498	[Défilé des 10 ans] Termine toutes les missions des parties. 1 à 5 pour obtenir un ticket légendaire
 9499	[Niveau Invasion] Mission à durée limitée. Termine Tribunal du tourment
 9500	[Niveau Invasion] Mission à durée limitée. Termine Première course
 9501	[Niveau Invasion] Mission à durée limitée. Termine Gloire de Wanwan
@@ -827,3 +846,9 @@
 9509	Devoirs de vacances 2 ⑤ : observe les insectes. Termine Nuit d’été, ret. bercail nv 1 avec Chat Kabuto
 9510	Devoirs de vacances 2 ⑥ : observe les insectes. Termine Nuit d’été, ret. bercail nv 2 avec Chat Kuwagata
 9511	Devoirs de vacances 2 ⑦ : observe les insectes. Termine Nuit d’été, ret. bercail nv 3 avec Œuf ancien N202
+9518	[1 : Évasion du naufragé] ① : Survie dans la nature
+9519	[1 : Évasion du naufragé] ② : Survie dans la nature
+9520	[1 : Évasion du naufragé] ③ : Survie dans la nature
+9524	[2 : Évasion du naufragé] ① : Combat contre la nature. Termine le niveau 1 de Survie dans la jungle !
+9525	[2 : Évasion du naufragé] ② : Combat contre la nature. Termine le niveau 4 de Survie dans la jungle !
+65	[Associer un compte] Va dans Paramètres →. Changer de compte/d'appareil pour lier ton compte

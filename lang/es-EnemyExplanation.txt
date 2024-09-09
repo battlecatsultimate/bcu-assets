@@ -693,3 +693,6 @@
 692	Gato científico que se dedica al boxeo para demostrarle<br>su valía a su hijo delincuente. Posee una<br>inteligencia superior gracias a la piedra de poder<br>Un Golpe, una forma de dopaje indetectable.
 693	
 694	Una hiena mayor considerada la mejor astrónoma<br>de la historia... según un trofeo de participación en<br>una cumbre local de astronomía. Manda a<br>otra dimensión a quienes critican sus teorías.
+695	
+696	
+697	Pájaro avaricioso obsesionado con los objetos valiosos.<br>Montó un negocio de venta de tesoros después<br>de coger una piedra brillante. Si el comprador promete<br>pagar sus deudas, se completará la transacción.

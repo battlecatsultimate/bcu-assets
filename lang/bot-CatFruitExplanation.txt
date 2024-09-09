@@ -395,7 +395,7 @@
 394	True Form evolution has a slower attack<br>rate but gains increased defense, attack<br>power and attack range!
 395	True Form evolution greatly increases<br>attack power and defense!<br>Plus, becomes immune to wave effects!
 396	True Form evolution gains improved<br>defense and pushbacks against enemies!<br>
-397	True Form Evolution gains<br>Insanely Tough defense<br>against Metal enemies!
+397	True Form Evolution gains<br>Insanely Tough defense<br>against Metal enemies!	Ultra Form evolution gains Omnistrike,<br>improved Defense, Attack and Critical chance!<br>Also increased debuff time vs. Metal enemies.
 398	<br><br>
 399	<br><br>
 400	<br><br>
@@ -653,7 +653,7 @@
 652	<br><br>
 653	True Form gains increased defense!<br>Also strengthens debuffs to Relics!<br>Gains Colossus/Behemoth Slayer!
 654	<br><br>
-655	<br><br>
+655	True Form evolution gains improved<br>Defense and attack! Slow effects last<br>longer, plus gains immunity to Toxic!
 656	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 657	<br><br>
 658	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
@@ -759,3 +759,10 @@
 758	<br><br>
 759	<br><br>
 760	<br><br>
+761	<br><br>
+762	<br><br>
+763	<br><br>
+764	<br><br>
+765	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
+766	<br><br>
+767	<br><br>

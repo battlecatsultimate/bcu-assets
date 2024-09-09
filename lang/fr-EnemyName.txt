@@ -623,7 +623,7 @@
 622	
 623	
 624	Cumulus Gallus
-625	
+625	Gâteau Toutou 10e anniv
 626	
 627	Super ancien Béhémoth Magamojoe
 628	Super gorille Béhémoth Luza
@@ -693,3 +693,6 @@
 692	Docteur K.O.
 693	
 694	Vieille technohyène
+695	Rondin
+696	Rocher
+697	Belzépiaf

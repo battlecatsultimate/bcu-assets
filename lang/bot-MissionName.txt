@@ -749,6 +749,23 @@
 9385	Clear stages from "Street Fighter V CE Collab"
 9386	Clear stages from "Street Fighter V CE Collab"
 9387	Clear stages from "Street Fighter V CE Collab"
+9388	【Pt. 1: A Decade of Memories】1. Collect an anniversary unit from the Event Capsules! Hint: Medal created for the 5th anniversary of The Battle Cats
+9389	【Pt. 1: A Decade of Memories】2. Get an ann. unit from Event. Capsules! Hint: Cat who welcomes fortune during live events
+9391	【Pt. 1: A Decade of Memories】2. Get an ann. unit from Event. Capsules! Hint: An expensive Cat awarded for the 9th anniv
+9392	【Pt. 1: A Decade of Memories】2. Get an ann. unit from Event. Capsules! Hint: A 10th anniv. Cat that ponders atop a rock
+9394	【Pt. 1: A Decade of Memories】Clear A Decade of Memories collab stages 5 times!
+9395	【Pt. 1: A Decade of Memories】Clear A Decade of Memories collab stages 15 times!
+9396	【Pt. 1: A Decade of Memories】Clear A Decade of Memories collab stages 30 times!
+9397	【Pt. 2: Enemy Maneuvers】Clear Enemy Maneuvers stages 5 times!
+9398	【Pt. 3: Cat Chats】Talk with Cat for 4 days at the Cat Base. to learn the history of The Battle Cats!
+9399	【Pt. 4: Cat Hunting】1. Find the hidden Cat in Empire of Cats. Hint: Country whose capital is the world's longest city name
+9400	【Pt. 4: Cat Hunting】2. Find the hidden Cat in Empire of Cats. Hint: A large desert with no cloud cover
+9401	【Pt. 4: Cat Hunting】3. Find the hidden Cat in Empire of Cats. Hint: Its symbol is a maple leaf
+9402	【Pt. 4: Cat Hunting】4. Find the hidden Cat in Empire of Cats. Hint: The moon landing mission was led from here
+9403	【Pt. 4: Cat Hunting】5. Find the hidden Cat in Empire of Cats. Hint: Longest life expectancy of any US state
+9404	【Pt. 4: Cat Hunting】Travel the world. and find all of the hidden Cats!
+9405	【Pt. 5 Musical Parade】Clear Musical Parade collab stages 8 times!
+55	10th Anniversary Mission. Clear Empire of Cats Ch.1 during the event
 9407	Clear "Lunar New Year's" stages 5 times!
 9408	Clear "Lunar New Year's" stages 10 times!
 9409	Clear "Lunar New Year's" stages 15 times!
@@ -814,6 +831,8 @@
 9494	[Otherworld Colosseum] Limited event mission. Clear Otherworld Colosseum Level 1 Stage 5
 9495	[Otherworld Colosseum] Limited event mission. Clear Otherworld Colosseum Level 2 Stage 3
 9496	[Otherworld Colosseum] Limited event mission. Clear Otherworld Colosseum Level 2 Stage 5
+9497	[Pt. 1: A Decade of Memories] Collect 4 anniversary units
+9498	[10-Year Memorial Parade] Clear all missions from. Pt.1 - Pt.5 to claim a Legend Ticket
 9499	[Invasion Stage] Limited event mission. Clear Courts of Torment
 9500	[Invasion Stage] Limited event mission. Clear First Errand
 9501	[Invasion Stage] Limited event mission. Clear Wanwan's Glory
@@ -827,3 +846,9 @@
 9509	Summer Homework Part 2 ⑤: Observing the insects. Clear Summer Night, Homeward Bound stage 1 with Kabuto Cat
 9510	Summer Homework Part 2 ⑥: Observing the insects. Clear Summer Night, Homeward Bound stage 2 with Kuwagata Cat
 9511	Summer Homework Part 2 ⑦: Observing the insects. Win Summer Night, Homeward Bound stg3 with Ancient Egg: N202
+9518	[Castaway Escape Pt. 1] ①:  Wild Survival
+9519	[Castaway Escape Pt. 1] ②: Wild Survival
+9520	[Castaway Escape Pt. 1] ③: Wild Survival
+9524	[Castaway Escape Pt. 2] ①: Battle Against Nature. Clear Jungle Survival Stage 1!
+9525	[Castaway Escape Pt. 2] ②: Battle Against Nature. Clear Jungle Survival Stage 4!
+65	[Account Link]. Go to Options→Change Account/Device to link your account

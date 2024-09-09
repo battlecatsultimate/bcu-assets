@@ -169,6 +169,7 @@
 175|S175|I711	Medaglia argento
 176|S176|I712	Medaglia oro
 177|S177|I713	Medaglia platino
+178|S178|I421	Pass leggendario
 179|S179|I523	Gem. Behem. viola
 180|S180|I524	Gem. Behem. rossa
 181|S181|I525	Gem. Behem. blu
@@ -193,6 +194,7 @@
 201|S201|I11	XP
 202|S202|I429	Acqua santa
 203|S203|I430	Rete leggendaria
+204|S204|I431	Trappola leggend.
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -397,6 +399,7 @@
 10474	Rampaging Yamato
 10475	Strike Angel
 10522	Gatto Naga
+10528	Gatto raviolo gelatinoso
 10529	Gatto guardia reale
 10532	Gattorso cadavere
 10540	Gatto griglia
@@ -626,6 +629,7 @@
 15643	Lucifero Onnipotente
 15645	Mekako fresco amore
 15648	Terun cacciatrice divina ζ
+15656	Blizarena
 15657	Gatto haniwa
 15659	Gatto corriere
 15660	Gattarzan
@@ -649,6 +653,7 @@
 15721	Gatto Orso perduto
 15725	Gatto capsula uovo
 15758	Gatta sposa
+15766	Gatta vongola
 16131	Ururun risvegliata
 16173	Scuolabus Nyandam
 16269	Mina risvegliata

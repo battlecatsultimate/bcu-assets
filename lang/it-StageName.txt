@@ -1489,6 +1489,28 @@
 001-321-000	Il mondo va a dormire
 001-321-001	Oceani gelatinosi
 001-321-002	Terra ferma
+001-322-000	Debutto 2012
+001-322-001	Debutto 2013
+001-322-002	Debutto 2014
+001-322-003	Debutto 2015
+001-322-004	Debutto 2016
+001-322-005	Debutto 2017
+001-322-006	Debutto 2018
+001-322-007	Debutto 2019
+001-322-008	Debutto 2020
+001-322-009	Debutto 2021
+001-322-010	Debutto 2022
+001-323		Parte 5: Parata musicale
+001-323-000	Inizio dell'invasione
+001-323-001	Armata felina pronta!
+001-323-002	Dispiegamento
+001-323-003	Invasione del mondo
+001-323-004	Belve che scuotono la terra
+001-323-005	Avventura Gamatoto
+001-323-006	Battaglia lunare
+001-323-007	Scontro finale
+001-324		Regali compleanno
+001-324-000	10 anni di divertimento!
 001-325		Notte 1: Babbo Nachele al lavoro
 001-325-000	5000 regali al sec.
 001-325-001	Bambini insonni
@@ -1667,6 +1689,14 @@
 001-381		Paradosso di Papuu
 001-381-000	Santa sorella (Spietato)
 001-381-001	Requiem per angelici (Spietato)
+001-382		Vita nella giungla
+001-382-000	Caccia per la sopravvivenza
+001-382-001	Gatti nella corrente
+001-382-002	Roccia intatta, cuore infranto
+001-382-003	Resistendo alla corrente impetuosa
+001-383		Anziana regina
+001-383-000	Il ritorno degli insetti (Spietato)
+001-383-001	La Regina delle api (spietato)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -4712,6 +4742,27 @@
 024-045-017	Regalo per pietà Liv.18
 024-045-018	Regalo per pietà Liv.19
 024-045-019	Regalo per pietà Liv. MAX
+024-048		Stagione 1: Giorni di scuola
+024-048-000	Banco del destino
+024-048-001	Vicino alla tua cotta
+024-048-002	La gomma caduta
+024-048-003	Letture comuni
+024-048-004	Compiti copiati
+024-048-005	Sussurri furtivi
+024-048-006	Sogni scolastici
+024-048-007	Calcetti a calcetto
+024-048-008	Corsa in mensa
+024-048-009	Studiare con lei
+024-048-010	Commento edificante
+024-048-011	Lezioni saltate
+024-048-012	Segnali in verifica
+024-048-013	Interrogazione sofferta
+024-048-014	Appena sufficiente
+024-048-015	Libri al chiodo
+024-048-016	Pulire con lei
+024-048-017	Ti penso sempre
+024-048-018	Full immersion fallita
+024-048-019	Incrociamo le dita
 024-049		Evento All-Star mensile Grato raduno
 024-049-000	Grati XP Liv. 1
 024-049-001	Grati XP Liv. 2
@@ -4827,6 +4878,27 @@
 024-056-007	Parata Liv. 8
 024-056-008	Parata Liv. 9
 024-056-009	Parata Liv. MAX
+024-057		Parte 1: Dieci anni di ricordi
+024-057-000	2012
+024-057-001	2013 parte 1
+024-057-002	2013 parte 2
+024-057-003	2014 parte 1
+024-057-004	2014 parte 2
+024-057-005	2015 parte 1
+024-057-006	2015 parte 2
+024-057-007	2016 parte 1
+024-057-008	2016 parte 2
+024-057-009	2017 parte 1
+024-057-010	2017 parte 2
+024-057-011	2018 parte 1
+024-057-012	2018 parte 2
+024-057-013	2020 parte 1
+024-057-014	2020 parte 2
+024-057-015	2021 parte 1
+024-057-016	2021 parte 2
+024-057-017	2023 parte 1
+024-057-018	2023 parte 2
+024-057-019	2024
 024-058		Notte 2: Consegna natalizia
 024-058-000	Consegna Liv. 1
 024-058-001	Consegna Liv. 2
@@ -4929,6 +5001,17 @@
 024-065-017	Scavo Liv. 18
 024-065-018	Scavo Liv. 19
 024-065-019	Scavo Liv. MAX
+024-067		Naufragio dei Gatti estivi
+024-067-000	Risveglio sulla spiaggia
+024-067-001	Brividi nella grotta
+024-067-002	SOS senza seguito
+024-067-003	Indigestione di funghi
+024-067-004	Sognando di fuggire
+024-067-005	Ottima caccia!
+024-067-006	Come costruire una zattera
+024-067-007	Finalmente si parte
+024-067-008	Zattera nella tempesta
+024-067-009	I Gatti estivi tornano a casa
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -5580,6 +5663,13 @@
 034-012-003	Mutazione assurda
 034-012-004	Tossicità accidentale
 034-012-005	Omuncolo sincero
+034-013		Resort De La Cospa
+034-013-000	Cattedrale prefabbricata
+034-013-001	Pisolino postprandiale
+034-013-002	Giardino infestato
+034-013-003	Parata veloce
+034-013-004	Spiaggia privata
+034-013-005	Emigrazione costosa
 
 036			Colosseum Stages
 036-000		Colosseo ultraterreno
@@ -5594,3 +5684,21 @@
 036-001-002	Round 3
 036-001-003	Round 4
 036-001-004	Round 5
+036-002		Colosseo ultraterreno
+036-002-000	Round 1
+036-002-001	Round 2
+036-002-002	Round 3
+036-002-003	Round 4
+036-002-004	Round 5
+036-003		Colosseo ultraterreno
+036-003-000	Round 1
+036-003-001	Round 2
+036-003-002	Round 3
+036-003-003	Round 4
+036-003-004	Round 5
+036-004		Colosseo ultraterreno
+036-004-000	Round 1
+036-004-001	Round 2
+036-004-002	Round 3
+036-004-003	Round 4
+036-004-004	Round 5

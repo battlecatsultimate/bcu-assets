@@ -268,7 +268,7 @@
 267	Catornado	Hurricat	Catyphoon	
 268	Red Riding Mina	Crimson Mina	Awakened Mina	
 269	Baby Gao	Mighty Lord Gao		
-270	Crazed Yuki	Crazed Yuki ＆ Cat	Crazed Catgirl Yuki	
+270	Crazed Yuki	Crazed Yuki & Cat	Crazed Catgirl Yuki	
 271	Shining Amaterasu	Glorious Amaterasu	Almighty Amaterasu	
 272	Splendid Ganesha	Exalted Ganesha	Almighty Ganesha	
 273	Cheerleader Cat	Waitress Cat	Soba Cat	
@@ -395,7 +395,7 @@
 394	Subaru Hoshi	Subaru Hoshi CC	Dark Subaru CC	
 395	Miyabi Oyama	Miyabi Oyama CC	Baseball Mask δ	
 396	Ganglion	Ganglion the Ancient	Ganglion the Unleashed	
-397	Sakura Sonic	Afterschool Sakura	Sacred Blade Sakura	
+397	Sakura Sonic	Afterschool Sakura	Sacred Blade Sakura	Sacred Blade Sakura Z
 398				
 399	Mentori	Mentori CC		
 400	Imoto	Imoto CC		
@@ -525,7 +525,7 @@
 524				
 525	Kintaro	Kinrangers RoboForce	Kinrangers GigaForce	
 526	Snow Angel Twinstars	Snow Angel Twinstars, type Φ		
-527	Slime Cat	Jellycat		
+527	Slime Cat	Jellycat	Jelly Dumpling Cat	
 528	Cossack Cat	Vodka Cat	Royal Guard Cat	
 529	Kasli the Scourge	Ritual Saint Kasli		
 530	Herme	Herme CC		
@@ -653,7 +653,7 @@
 652	Chalkboard Eraser Cat	Chalkboard Punk Cat		
 653	Elder Beast Naala	Storm Beast Naala	Awakened Naala	
 654	Brainwashed Gross Cat	Brainwashed Sexy Legs Cat	Brainwashed Macho Legs Cat	
-655	Bliza	Blizana		
+655	Bliza	Blizana	Blizarena	
 656	Ancient Egg: N001	Mystic Egg: N001	Haniwa Cat	
 657	Iz the Dancer of Grief	Iz the Lady of Mourning		
 658	Ancient Egg: N101	Cinnabar Egg: N101	Courier Cat	
@@ -687,7 +687,7 @@
 686	Goddess of Light Sirius	Goddess of Sunrise Sirius		
 687	Reindeer Terun	Reindeer Terunζ		
 688	Brainwashed Lizard Cat	Brainwashed Dragon Cat	Brainwashed King Dragon Cat	
-689				
+689	Meditation Cat	Paragon Cat		
 690	Child of Destiny Phono	King of Destiny Phonoa		
 691	Ancient Egg: N000	Elder Egg: N000	Ape Lord Luza	
 692	Issun Boshi	Oni Landshaker Kozuchimaru		
@@ -756,7 +756,13 @@
 755				
 756	Cake Machine	Wedding Cake Machine		
 757	Ancient Egg: N205	Violet Egg: N205	Bride Cat	
-758			
+758	Trixi the Merc	Trixi the Revenant		
 759	Music Fest Thundia	Music Fest Thundia β		
 760	Gunduros	Ballistic Dragon Gunduros		
 761				
+762				
+763	Dynasaurus Cat	Mecha Dynasaurus Cat		
+764				
+765	Ancient Egg: N206	Cinnabar Egg: N206	Clam Cat	
+766	Sardine	Sardine CC	Dropping in from "Survive! Mola Mola!" Tiny bones	
+767	Squid	Squid CC		

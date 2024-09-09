@@ -744,6 +744,23 @@
 9385	Clear stages from "Street Fighter V CE Collab"
 9386	Clear stages from "Street Fighter V CE Collab"
 9387	Clear stages from "Street Fighter V CE Collab"
+9388	【Pt. 1: Recordando Diez Años】1. ¡Obtén una unidad de aniv. en bolas de evento! Pista: Miaudalla del 5.º aniversario
+9389	【Pt. 1: Recordando Diez Años】2. ¡Obtén una unidad de aniv. en bolas de evento! Pista: Gato que da suerte en eventos
+9391	【Pt. 1: Recordando Diez Años】4. ¡Obtén una unidad de aniv. en bolas de evento! Pista: Recompensa durante el 9.º aniv
+9392	【Pt. 1: Recordando Diez Años】5. ¡Obtén una unidad de aniv. en bolas de evento! Pista: Gato pensador del 10.º aniv
+9394	【Pt. 1: Recordando Diez Años】¡Supera las fases colab. de. Recordando Diez Años 5 veces! Supera cualq. fase
+9395	【Pt. 1: Recordando Diez Años】¡Supera las fases colab. de. Recordando Diez Años 15 veces! Supera cualq. fase
+9396	【Pt. 1: Recordando Diez Años】¡Supera las fases colab. de. Recordando Diez Años 30 veces! Supera cualq. fase
+9397	【Pt. 2: Maniobras enemigas】¡Supera las fases de. Maniobras Enemigas 5 veces! Supera cualq. fase
+9398	【Pt. 3: Charlas Gatunas】¡Habla con el gato de la base gatuna. durante 4 días y conoce la historia de The Battle Cats!
+9399	【Pt. 4: Caza gatuna】1. ¡Encuentra el gato escondido en el. Imperio! Pista: capital con el nombre más largo del mundo
+9400	【Pt. 4: Caza gatuna】2. ¡Encuentra el gato escondido en el. Imperio! Pista: gran desierto donde no hay nubes
+9401	【Pt. 4: Caza gatuna】3. ¡Encuentra el gato escondido en el. Imperio! Pista: su símbolo es una hoja de arce
+9402	【Pt. 4: Caza gatuna】4. ¡Encuentra el gato escondido en el. Imperio! Pista: aquí se dirigió el aterrizaje en la luna
+9403	【Pt. 4: Caza gatuna】5. ¡Encuentra el gato escondido en el. Imperio! Pista: esperanza de vida más alta en EE. UU
+9404	【Pt. 4: Caza gatuna】¡Viaja por el mundo y encuentra. todos los gatos escondidos!
+9405	【Pt. 5 Desfile Musical】¡Supera las fases colab. de . Desfile Musical 8 veces! Supera cualq. fase
+55	Misión del 10.º aniversario. Supera Imperio de los Gatos (cap. 1) durante el evento
 9407	¡Supera las fases de Año Nuevo Lunar 5 veces!
 9408	¡Supera las fases de Año Nuevo Lunar 10 veces!
 9409	¡Supera las fases de Año Nuevo Lunar 15 veces!
@@ -809,6 +826,8 @@
 9494	[Coliseo de Otro Mundo] Misión de evento exclusivo. Supera Coliseo De Otro Mundo Nivel 1 Fase 5
 9495	[Coliseo de Otro Mundo] Misión de evento exclusivo. Supera Coliseo De Otro Mundo Nivel 2 Fase 3
 9496	[Coliseo de Otro Mundo] Misión de evento exclusivo. Supera Coliseo De Otro Mundo Nivel 2 Fase 5
+9497	[Pt. 1: Recordando Diez Años] ¡Obtén todas las unidades. de aniversario en bolas de evento!
+9498	[Desfile en Honor a los Diez Años] Supera todas las misiones. de las partes 1 a 5 y recoge un tique legendario
 9499	[Fase de Invasión] Misión de evento exclusivo. Supera Tribunal de Tormento
 9500	[Fase de Invasión] Misión de evento exclusivo. Supera Primer Recado
 9501	[Fase de Invasión] Misión de evento exclusivo. Supera Gloria de Guauguau
@@ -822,3 +841,9 @@
 9509	Deberes de Verano (Parte 2) ①: Observa los insectos. Supera NDV, de Rumbo a Casa (fase 1) con Gato Kabuto
 9510	Deberes de Verano (Parte 2) ①: Observa los insectos. Supera NDV, de Rumbo a Casa (fase 2) con Gato Kuwagata
 9511	Deberes de Verano (Parte 2) ①: Observa los insectos. Supera NDV, de Rumbo a Casa (fase 3) con Huevo Antiguo N202
+9518	[Huida del Náufrago Pt. 1] ①: Supervivencia Salvaje. ¡Supera 5 fases de Náufrago!
+9519	[Huida del Náufrago Pt. 1] ②: Supervivencia Salvaje. ¡Supera 10 fases de Náufrago!
+9520	[Huida del Náufrago Pt. 1] ③: Supervivencia Salvaje. ¡Supera 15 fases de Náufrago!
+9524	[Huida del Náufrago Pt. 2] ①: Batalla Contra la Naturaleza. ¡Supera la fase 1 de Supervivencia en la Jungla!
+9525	[Huida del Náufrago Pt. 2] ②: Batalla Contra la Naturaleza. ¡Supera la fase 4 de Supervivencia en la Jungla!
+65	[Vincular cuenta]. Ve a Ajustes→Cambiar cuenta/dispositivo para vincularla

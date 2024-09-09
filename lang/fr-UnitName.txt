@@ -395,7 +395,7 @@
 394	Subaru Hoshi	Subaru Hoshi CC	Dark Subaru CC	
 395	Miyabi Oyama	Miyabi Oyama CC	Baseball Mask δ	
 396	Ganglion	Ganglion l’ancien	Ganglion en liberté	
-397	Sakura sonique	Sakura extrascolaire	Sakura lame sacrée	
+397	Sakura sonique	Sakura extrascolaire	Sakura lame sacrée	Sakura lame sacrée Z
 398				
 399	Mentori	Mentori CC		
 400	Imoto	Imoto CC		
@@ -525,7 +525,7 @@
 524				
 525	Kintaro	Kinrangers RoboForce	Kinrangers GigaForce	
 526	Jumelles Angeneige	Jumelles Angeneige, type Φ		
-527	Chat gluant	Chat méduse		
+527	Chat gluant	Chat méduse	Chat boulette de gelée	
 528	Chat cosaque	Chat vodka	Chat garde royal	
 529	Kasli le Fléau	Sainte Kasli rituelle		
 530	Herme	Herme CC		
@@ -653,7 +653,7 @@
 652	Chat effaceur de tableau	Chat purificateur de tableau		
 653	Bête ancestrale Naala	Bête tempête Naala	Naala éveillée	
 654	Grand Chat sous contrôle	Chat gambettes sous contrôle	Chat jambes d'acier sous contrôle	
-655	Bliza	Blizana		
+655	Bliza	Blizana	Blizarène	
 656	Œuf ancien N001	Œuf mystique N001	Chat haniwa	
 657	Iz la danseuse du chagrin	Iz la dame du deuil		
 658	Œuf ancien N101	Œuf cinabre N101	Chat coursier	
@@ -687,7 +687,7 @@
 686	Sirius déesse de la lumière	Sirius déesse de l'aube		
 687	Terun le renne	Terunζ le renne		
 688	Chat lézard sous contrôle	Chat dragon sous contrôle	Chat roi dragon sous contrôle	
-689				
+689	Transcendenchal	Chat parangon		
 690	Phono l’enfant du destin	Phonoa l’enfant du destin		
 691	Œuf ancien N000	Œuf d’occasion N000	Seigneur gorille Luza	
 692	Issun Boshi	Oni Trembleur Kozuchimaru		
@@ -756,7 +756,13 @@
 755				
 756	Machine à gâteaux	Machine à gâteaux de mariage		
 757	Œuf ancien N205	Œuf violet N205	Chat mariée	
-758			
+758	Trixi la mercenaire	Trixi la revenante		
 759	Tonnia festivalière	Tonnia festivalière β		
 760	Gunduros	Dragon balistique Gunduros		
 761				
+762				
+763	Chat dinosaure	Chat mecha-dinosaure		
+764				
+765	Œuf ancien N206	Œuf cinabre N206	Chapalourde	
+766	Sardine	Sardine CC	Provient de "Survive! Mola Mola!". Ses petites arêtes	
+767	Calmar	Calmar CC		

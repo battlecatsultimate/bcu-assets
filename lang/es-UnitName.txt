@@ -395,7 +395,7 @@
 394	Subaru Hoshi	Subaru Hoshi CC	Dark Subaru CC	
 395	Miyabi Oyama	Miyabi Oyama CC	Baseball Mask δ	
 396	Ganglión	Ganglión el Ancestral	Ganglión Liberado	
-397	Sakura Sónica	Sakura Extraescolar	Sakura Hoja Sagrada	
+397	Sakura Sónica	Sakura Extraescolar	Sakura Hoja Sagrada	Sakura Hoja Sagrada Z
 398				
 399	Mentori	Mentori CC		
 400	Imoto	Imoto CC		
@@ -525,7 +525,7 @@
 524				
 525	Kintaro	Robotropa de Kinrangers	Supertropa de Kinrangers	
 526	Astrogemelas Navideñas	Astrogemelas Navideñas (Φ)		
-527	Gatobaba	Medugato		
+527	Gatobaba	Medugato	Gato Gelatinoso	
 528	Gato Cosaco	Gato Vodka	Guardia Real Gatuna	
 529	Kasli el Azote	Kasli Santa Ritual		
 530	Herme	Herme CC		
@@ -653,7 +653,7 @@
 652	Gato Borrapizarras	Gato Borrapizarras Punk		
 653	Bestia Naala Viejuna	Bestia Naala Tormenta	Naala Alzada	
 654	Gatilargo Adoctrinado	Gato Muslamen Adoctrinado	Gato Muslamen adoctrinado	
-655	Ventis	Ventiscana		
+655	Ventis	Ventiscana	Ventirena	
 656	Huevo Antiguo N001	Huevo Místico N001	Gato Haniwa	
 657	Iz la Bailarina del Dolor	Iz la Joven de Luto		
 658	Huevo Antiguo N101	Huevo Bermellón N101	Gato Mensajero	
@@ -687,7 +687,7 @@
 686	Diosa de la luz Sirius	Diosa del amanecer Sirius		
 687	Terun Reno	Terun Renoζ		
 688	Gato Lagarto Adoctrinado	Gato Dragón Adoctrinado	Gato Dragón Rey adoctrinado	
-689				
+689	Gato Meditador	Gato Virtuoso		
 690	Phono, Hijo del Destino	Phonoa, Reina del Destino		
 691	Huevo Antiguo N000	Huevo Anciano N000	Lord Luza Simio	
 692	Issun Boshi	Destructor Oni Kozuchimaru		
@@ -756,7 +756,13 @@
 755				
 756	Máquina de Tartas	Máquina de Tartas de Boda		
 757	Huevo Antiguo N205	Huevo morado N205	Gata Prometida	
-758			
+758	Mercenaria Trixi	Renacida Trixi		
 759	Trónica Festival	Trónica Festival β		
 760	Gunduros	Gunduros Dragón Iracundo		
 761				
+762				
+763	Gatosaurio	Mecha Gatosaurio		
+764				
+765	Huevo Antiguo N206	Huevo Bermellón N206	Gato Almeja	
+766	Sardina	Sardina CC	Vienen directamente de «Survive! Mola Mola!».	
+767	Calamar	Calamar CC		
