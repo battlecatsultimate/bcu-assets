@@ -268,7 +268,7 @@
 267	Catornado	Hurricat	Catyphoon
 268	Red Riding Mina	Crimson Mina	Awakened Mina
 269	Baby Gao	Mighty Lord Gao
-270	Crazed Yuki	Crazed Yuki ＆ Cat	Crazed Catgirl Yuki
+270	Crazed Yuki	Crazed Yuki & Cat	Crazed Catgirl Yuki
 271	Shining Amaterasu	Glorious Amaterasu	Almighty Amaterasu
 272	Splendid Ganesha	Exalted Ganesha	Almighty Ganesha
 273	Cheerleader Cat	Waitress Cat	Soba Cat
@@ -687,7 +687,7 @@
 686	Goddess of Light Sirius	Goddess of Sunrise Sirius
 687	Reindeer Terun	Reindeer Terunζ
 688	Brainwashed Lizard Cat	Brainwashed Dragon Cat	Brainwashed King Dragon
-689	10 Years on a Stone Cat	10 Years on a Stone Cat Statue
+689	Meditation Cat	Paragon Cat
 690	Child of Destiny Phono	King of Destiny Phonoa
 691	Ancient Egg: N000	Elder Egg: N000	Ape Lord Luza
 692	Issun Boshi	Oni Landshaker Kozuchimaru
@@ -727,7 +727,7 @@
 726	Medal Cat King	Great Medal Cat King
 727	SOL DAE ROKKER	SOL DAE ROKKER CC
 728	Master of Mind Soractes	Master of Mind Catcrates
-729	Soractis Spirit
+729	Soractes Spirit
 730	Ancient Egg: N204	Cinnabar Egg: N204	Lion Dance Cat
 731	Daybreaker Izanagi	Dawnbringer Izanagi	
 732	Izanagi Spirit
@@ -756,13 +756,13 @@
 755	Mitsuhide Spirit
 756	Cake Machine	Wedding Cake Machine
 757	Ancient Egg: N205	Violet Egg: N205	Bride Cat
-758	Dazzling Mercenary Trixie	Vengeance Mercenary Trixie
+758	Trixi the Merc	Trixi the Revenant
 759	Music Fest Thundia	Music Fest Thundia β		
 760	Gunduros	Ballistic Dragon Gunduros
-761	Gandros Spirit
+761	Gunduros Spirit
 762	God of the Sky Super Zeus	Almighty Super Zeus
 763	Dynasaurus Cat	Mecha Dynasaurus Cat
-764	Dinosaur Cat Spirit
+764	Dynasaurus Cat Spirit
 765	Ancient Egg: N206	Cinnabar Egg: N206	Clam Cat
 766	Sardine	Sardine CC
 767	Squid	Squid CC
