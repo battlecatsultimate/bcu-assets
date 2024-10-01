@@ -77,6 +77,7 @@ E29	惡魔的完美新娘
 E31	貓咪的暑假
 E32	Summer Break Survival Capsules
 E33	聖魔大戰
+E34	Halloween Party Capsules
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -893,3 +894,13 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 913	-2009	762
 914	-112	738
 915	-102	715
+916	-5	769
+917	-5	769
+918	-105	769
+919	-106	769
+920	-104	769
+921	-107	769
+922 -110	772
+923	-1011	759
+924	-2027	137, 177, 619
+925	-2002	768

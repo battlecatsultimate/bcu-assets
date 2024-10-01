@@ -696,3 +696,7 @@
 695	Log
 696	Boulder
 697	Diabrollow
+698	Z. Ost
+699	Sage of Life Dr. Nova
+700	Idi:Ne
+701	School Lunch Cat
