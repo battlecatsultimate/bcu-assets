@@ -195,6 +195,7 @@
 202|S202|I429	Eau bénite
 203|S203|I430	Filet légendaire
 204|S204|I431	Piège légendaire
+206|S206|I433	Esprit légendaire
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -316,6 +317,7 @@
 1178	Yuma Kuga & Cat
 1183	Madhead
 1184	Kenshin Cat
+1185	Maître de la vie Dr Nova
 10010	Chat malabar
 10011	Chat danseur
 10012	Hyper Mr.
@@ -380,6 +382,7 @@
 10288	Chat golfeur
 10300	Li'l Ultimate Madoka
 10301	Li'l Devil Homura
+10304	Chat de la cantine
 10312	P’tit Chat île
 10313	P’tit Chat roi dragon
 10314	P’tit Chat Jamilar
@@ -503,6 +506,10 @@
 15200	Chat navigateur
 15204	Brigade d’assaut Kachiyama
 15213	Le renard gris
+15223	GOLDEN HUGE HERMIT CC
+15224	GOLDEN JUPITER CC
+15225	GOLDEN MORDEN CC
+15226	HI-DO MK III
 15227	Klay le savant fou
 15228	Chat funeste
 15229	Neneko sorcière costumée
@@ -629,6 +636,7 @@
 15643	Lucifer Tout-puissant
 15645	Mekako amour mentholé
 15648	Terun chasseresse divine ζ
+15650	Hanzo immortel
 15656	Blizarène
 15657	Chat haniwa
 15659	Chat coursier
@@ -641,6 +649,7 @@
 15675	Soucoupe extradimensionnelle
 15676	Chat raquette
 15677	Chapignon
+15684	Yukimura vampirique
 15686	Chat supercar
 15692	Seigneur gorille Luza
 15698	Chef Chat
@@ -662,6 +671,7 @@
 16463	Métaflibustier
 16465	Guer. Toutoumon ressuscité
 16533	Urs éveillé
+16569	Idi:NX
 16614	Doron éveillé
 16654	Naala éveillée
 18025	Chalkyrie sacrée

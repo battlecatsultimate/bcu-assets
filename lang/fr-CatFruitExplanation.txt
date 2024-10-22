@@ -156,7 +156,7 @@
 155	<br><br>
 156	<br><br>
 157	<br><br>
-158	La forme ultime augmente la défense,<br>la vitesse de déplacement et d’attaque !<br>vitesse d’attaque !
+158	La forme ultime augmente la défense,<br>la vitesse de déplacement et d’attaque !<br>	L'ultra forme améliore déf., portée<br>d'att. et récup. entre les déploiements.<br>100 % de chances de mini-vague.
 159	La forme ultime améliore<br>la puissance d’attaque et la portée !<br>
 160	True Form evolution increases Defense and<br>attack range, move speed, and attack speed!<br>
 161	True Form evolution increases<br>defense, attack speed and attack range!<br>Plus, higher Knockback chance vs Metal!
@@ -220,10 +220,10 @@
 219	<br><br>
 220	<br><br>
 221	<br><br>
-222	<br><br>
-223	<br><br>
-224	<br><br>
-225	<br><br>
+222	True form evolution gains improved defense!<br>Also gain Strong vs. Black and gains<br>immunity to Warp effects.
+223	True form evolution gains improved defense!<br>Also gains Surge Attacks and Barrier Break!<br>
+224	True Form evolution gains Resistance<br>vs. Traitless, and may sometimes<br>Knockback enemies!
+225	True Form evolution gains improved attack<br>and defense! Also lower deployment cost!<br>
 226	La forme ultime n'att. que les aliens, mais<br>la déf. et la puiss. d'att. sont fortement<br>améliorées. Résist. aux malus répétés.
 227	La forme ultime est plus efficace contre les<br>ennemis noirs ! Gagne en plus Fléau des<br>Béhémoths !
 228	La forme ultime bloque les vagues off.<br>et gagne immunité aux vagues offensives.<br>
@@ -566,7 +566,7 @@
 565	La forme ultime augmente ses<br>vitesses de défense et de déplacement.<br>
 566	La forme ultime gagne Fléau de Béhémoths !<br><br>
 567	<br><br>
-568	<br><br>
+568	La forme ultime augmente la défense !<br>Inflige des dégâts insensés aux reliques<br>et confère Fléau des Sages !	<br><br>
 569	La forme ultime augmente la défense,<br>la défense et la puissance d’attaque !<br>la défense et élargit la vague offensive.
 570	La forme ultime gagne<br>100 % de chances de repousser/ralentir<br>zombies et aliens.
 571	<br><br>
@@ -647,7 +647,7 @@
 646	<br><br>
 647	La forme ultime devient forte<br>contre les ennemis rouges et aliens !<br>
 648	<br><br>
-649	<br><br>
+649	La forme ultime améliore la déf., la puiss.<br>d'attaque et la durée d'immobilisation !<br>
 650	<br><br>
 651	<br><br>
 652	<br><br>
@@ -681,7 +681,7 @@
 680	<br><br>
 681	<br><br>
 682	<br><br>
-683	<br><br>
+683	La forme ultime améliore la puissance<br>d'attaque et la vitesse de déplacement.<br>100 % de survie aux frappes fatales !
 684	<br><br>
 685	La forme ultime révèle son aspect final !<br>Garantie de percer/briser<br>boucliers et barrières !
 686	<br><br>
@@ -766,3 +766,9 @@
 765	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
 766	<br><br>
 767	<br><br>
+768	<br><br>
+769	<br><br>
+770	<br><br>
+771	<br><br>
+772	<br><br>
+773	<br><br>

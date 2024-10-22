@@ -187,14 +187,14 @@
 186	
 187	
 188	
-189	
-190	
-191	
-192	
-193	
-194	
-195	
-196	
+189	MARS PEOPLE
+190	DONALD MORDEN
+191	ALLEN O'NEIL
+192	MARCO
+193	SV-001
+194	HUGE HERMIT
+195	JUPITER KING
+196	HI-DO
 197	Kürbishund
 198	Graf Eulheul
 199	Vlad die Taubitze
@@ -673,7 +673,7 @@
 672	
 673	
 674	Esoterischer Uril
-675	
+675	SOL DAE ROKKER
 676	
 677	Meister der Gedanken Soraktes
 678	
@@ -696,3 +696,7 @@
 695	Baumstamm
 696	Felsbrocken
 697	Diabrolbe
+698	Altstrauß
+699	Meister des Lebens Dr. Nova
+700	Idi:Ne
+701	Kantinenkatze

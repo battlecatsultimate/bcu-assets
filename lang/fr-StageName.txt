@@ -1476,14 +1476,14 @@
 001-319-000	Tentation du diablotin
 001-319-001	Tentation du démon
 001-319-002	Tentation de l'archidiable
-001-320		#01 Combat sucré
+001-320		#02 Combat sucré
 001-320-000	Gâteau simple
 001-320-001	Chocolat sans cacao
 001-320-002	Bonbon mastoc
 001-320-003	Caramel dent d'argent
 001-320-004	Cookie humain
 001-320-005	Ruine de pain d'épices
-001-321		#03 Tours pendables
+001-321		#04 Tours pendables
 001-321-000	Panne de réveil mondiale
 001-321-001	Océans gélifiés
 001-321-002	Terre arrêtée
@@ -1696,6 +1696,9 @@
 001-383		La reine aînée
 001-383-000	Je suis Big Bug (sans répit)
 001-383-001	La reine mère (sans répit)
+001-384		Éveil : Chat stand !
+001-384-000	Évolution interrompue 1 (maniaque)
+001-384-001	Évolution interrompue 2 (maniaque)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3297,7 +3300,11 @@
 004-066		Prince et revenant
 004-066-000	Le dernier des morts (sans répit)
 004-067		Reine et saint
-004-068-000	Sœur sanctifiée (sans répit)
+004-067-000	Sœur sanctifiée (sans répit)
+004-068		
+004-068-000	Visage divin
+004-069		
+004-069-000	Retour aux sources
 
 006			Dojo Griffélin
 006-000		Salle des initiés
@@ -5021,6 +5028,17 @@
 024-067-007	Départ tant attendu
 024-067-008	Radeau englouti par la tempête
 024-067-009	Bienvenue chez vous, Chats de vacances d’été
+024-068		#01 Panique fantôme
+024-068-000	Réunion fantomatique
+024-068-001	Chasseur de fantômes
+024-068-002	Citoyens possédés
+024-068-003	Démon dans la foule
+024-068-004	Faux flic à la rescousse
+024-068-005	Sel super efficace
+024-068-006	Entreprise antifantôme
+024-068-007	Spot photo hanté
+024-068-008	Spectres obstinés
+024-068-009	Capturons-les tous
 
 025			Enigma Stages
 025-000		Champs Aitum
@@ -5679,6 +5697,13 @@
 034-013-003	Parade sprintée
 034-013-004	Plage privée
 034-013-005	Émigration coûteuse
+034-014		Zone interdite
+034-014-000	Canal de Fleming
+034-014-001	Jungle antimatière
+034-014-002	Champ magnétique nul
+034-014-003	Entropie tropicale
+034-014-004	Archipel d'Euler
+034-014-005	Fruit antiparadis
 
 036			Colosseum Stages
 036-000		Colisée d'outre-monde

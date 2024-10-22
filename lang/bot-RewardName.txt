@@ -195,6 +195,7 @@
 202|S202|I429	Holy Water
 203|S203|I430	Legend Net
 204|S204|I431	Legend Trap
+206|S206|I433	Legendary Spirit
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -316,6 +317,7 @@
 1178	Yuma Kuga & Cat
 1183	Madhead
 1184	Kenshin Cat
+1185	Master of Life Dr. Nova
 10010	Beefcake Cat
 10011	Dancer Cat
 10012	Hyper Mr.
@@ -380,6 +382,7 @@
 10288	Golfer Cat
 10300	Li'l Ultimate Madoka
 10301	Li'l Devil Homura
+10304	Cafeteria Cat
 10312	Li'l Island Cat
 10313	Li'l King Dragon Cat
 10314	Li'l Jamiera Cat
@@ -503,6 +506,10 @@
 15200	Seafarer Cat
 15204	Kachiyama Assault Brigade
 15213	The Grey Fox
+15223	GOLDEN HUGE HERMIT CC
+15224	GOLDEN JUPITER CC
+15225	GOLDEN MORDEN CC
+15226	HI-DO MK III
 15227	Mad Doctor Klay
 15228	Harbinger Cat
 15229	Costumed Witchy Neneko
@@ -629,6 +636,7 @@
 15643	Almighty Lucifer
 15645	Minty Love Mekako
 15648	Divine Huntress Terun ζ
+15650	Immortal Hanzo
 15656	Blizarena
 15657	Haniwa Cat
 15659	Courier Cat
@@ -641,6 +649,7 @@
 15675	Extradimensional Envanz
 15676	Racquet Cat
 15677	Mushroom Cat
+15684	Vampiric Yukimura
 15686	Supercar Cat
 15692	Ape Lord Luza
 15698	Cat Chief
@@ -662,6 +671,7 @@
 16463	Metafilibuster
 16465	Reborn Warrior Doguemon
 16533	Awakened Urs
+16569	Idi:NX
 16614	Awakened Doron
 16654	Awakened Naala
 18025	Holy Valkyrie Cat

@@ -156,7 +156,7 @@
 155				
 156				
 157				
-158	Uesugi Kenshin	Wargod Kenshin	Immortal Kenshin	
+158	Uesugi Kenshin	Wargod Kenshin	Immortal Kenshin	Hellrider Kenshin
 159	Kalisa	Kalisa, type χ	Divine Kalisa	
 160	Yurinchi	Phoenix Yurinchi	Gekirinchi	
 161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt	
@@ -220,10 +220,10 @@
 219	SV-001	SV-001 CC		
 220	ALLEN O'NEIL	ALLEN O'NEIL CC		
 221	MARS PEOPLE	MARS PEOPLE CC		
-222	HUGE HERMIT	HUGE HERMIT CC		
-223	JUPITER KING	JUPITER KING CC		
-224	DONALD MORDEN	GENERAL MORDEN		
-225	HI-DO	HI-DO CC		
+222	HUGE HERMIT	HUGE HERMIT CC	GOLDEN HUGE HERMIT CC	
+223	JUPITER KING	JUPITER KING CC	GOLDEN JUPITER CC	
+224	DONALD MORDEN	GENERAL MORDEN	GOLDEN MORDEN CC	
+225	HI-DO	HI-DO CC	HI-DO MK III	
 226	Warlock and Pierre	Dark Merchant Babil	Mad Doctor Klay	
 227	Pumpcat	Cat O'Lantern	Harbinger Cat	
 228	Gloomy Neneko	Witchy Neneko	Costumed Witchy Neneko	
@@ -301,7 +301,7 @@
 300	Li'l Homura	Li'l Magical Girl Homura	Li'l Devil Homura	
 301	Kyubey Cat	Tank Kyubey Cat		
 302	Lilith Cat	Succubus Cat	Queen Succubus Cat	
-303	Food Stall Cat	Delivery Cat		
+303	Food Stall Cat	Delivery Cat	Cafeteria Cat	
 304	Mighty Kat-A-Pult	CAT-6 Siege Engine	CAT-8 Behemoth	CAT-10 Gigapult
 305	Mighty Drednot	B.C.S. Lionheart	B.C.S. Tigerclaw	
 306	Mighty Bomburr	NEK-0 Sky Fortress	NEK-02 Air Citadel	
@@ -566,7 +566,7 @@
 565	Suntan Cat	Macho Suntan Cat	Permed Suntan Cat 	
 566	Lifeguard Cats	Sweet Bro Cats	Gelato Bro Cats	
 567				
-568	Idi:N	Idi:N2		
+568	Idi:N	Idi:N2	Idi:NX	
 569	Gravi	Gravolo	Gravolodon	
 570	Skull Rider Vars	Nightmare King Vars	Halloween Knight Vars	
 571	E. Honda	E. Honda CC		
@@ -647,7 +647,7 @@
 646	Firecracker Cat	Macho Firecracker Cat		
 647	Huntress Terun	Huntress Terun ζ	Divine Huntress Terun ζ	
 648	Lovestruck Lesser Demon	Lovestruck Greater Demon		
-649	Hattori Hanzo	Wargod Hanzo		
+649	Hattori Hanzo	Wargod Hanzo	Immortal Hanzo	
 650	Secret Crush Cat	Girlfriend Cat		
 651	Tomboy Lion Cat	Iron-Masked Lion Cat		
 652	Chalkboard Eraser Cat	Chalkboard Punk Cat		
@@ -681,7 +681,7 @@
 680	Sakura	Sakura CC		
 681	Luke	Luke CC		
 682	Spectral Goth Vega	Illusory Guardian Vega		
-683	Count Yukimura	Nosferatu Yukimura		
+683	Count Yukimura	Nosferatu Yukimura	Vampiric Yukimura	
 684	Brainwashed Fish Cat	Brainwashed Whale Cat	Brainwashed Island Cat	Brainwashed Whale Cat
 685	Ancient Egg: N004	Mystic Egg: N004	Supercar Cat	
 686	Goddess of Light Sirius	Goddess of Sunrise Sirius		
@@ -725,7 +725,7 @@
 724	Ancient Egg: N112	Mystic Egg: N112	Cat Egg Pod	
 725	Ninja Girl Tomoe	Gourmand Ninja Girl Tomoe		
 726				
-727				
+727	SOL DAE ROKKER	SOL DAE ROKKER CC		
 728	Master of Mind Soractes	Master of Mind Catcrates		
 729				
 730				
@@ -766,3 +766,9 @@
 765	Ancient Egg: N206	Cinnabar Egg: N206	Clam Cat	
 766	Sardine	Sardine CC	Dropping in from "Survive! Mola Mola!" Tiny bones	
 767	Squid	Squid CC		
+768				
+769	Hanasaka Cat	Ravenous Cherry		
+770				
+771	Master of Life Dr. Nova	Master of Life Catnova		
+772	Pumpkin Sodom	Sodom-o'-Lantern		
+773	Mummy Sumo	Mama Mummy Sumo		

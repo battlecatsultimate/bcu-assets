@@ -669,7 +669,7 @@
 9303	【C5. Tiempo y fortuna】¡Supera la fase, da suerte a un aliado
 46	Misión del 9.º aniversario. ¡Supera el Imperio de los Gatos (cap. 1) durante el evento!
 9305	Supera el piso 30 de la Torre Infernal. (Estos premios solo se pueden recoger una vez)
-47	Informe de Emperatriz: Investigación de Aku. Supera 5 veces. las fases 1-5 de Informe de Emperatriz
+47	Informe de Emperatriz: Investigación de Aku. Supera 5 veces. las fases 1-5 de cada Informe de Emperatriz
 9321	【Invasión】Supera la fase. Ascendente Clionel 1 veces con 7 gatos especiales o más
 9322	【Invasión】Supera la fase Coronación de Reina. 1 veces con 7 normales o más
 9323	【Invasión】Supera la fase. El Muerto y el Hinchado 1 veces con 7 especiales o más
@@ -803,6 +803,9 @@
 9441	Clear Hatsune Miku collab stages 30 times!
 9442	Clear Hatsune Miku collab stages 50 times!
 9467	Supera el piso 50 de la Torre Celestial. (Este premio solo se puede recoger una vez)
+9468	Clear stages from "Metal Slug Collab"
+9469	Clear stages from "Metal Slug Collab"
+9470	Clear stages from "Metal Slug Collab"
 9471	【90 M DCS】¡Completa todas las misiones de evento. para ganar 1 fragmento de platino!
 9472	【90 M DCS】 Envía a Gamatoto a 1 excursiones exitosas. (Completa 1 expedición a cualquier zona)
 9473	【90 M DCS】 Envía a Gamatoto a 3 excursiones exitosas. (Completa 3 expediciones a cualquier zona)
@@ -826,7 +829,7 @@
 9494	[Coliseo de Otro Mundo] Misión de evento exclusivo. Supera Coliseo De Otro Mundo Nivel 1 Fase 5
 9495	[Coliseo de Otro Mundo] Misión de evento exclusivo. Supera Coliseo De Otro Mundo Nivel 2 Fase 3
 9496	[Coliseo de Otro Mundo] Misión de evento exclusivo. Supera Coliseo De Otro Mundo Nivel 2 Fase 5
-9497	[Pt. 1: Recordando Diez Años] ¡Obtén todas las unidades. de aniversario en bolas de evento!
+9497	[Pt. 1: Recordando Diez Años] ¡Obtén 4 unidades. de aniversario en bolas de evento!
 9498	[Desfile en Honor a los Diez Años] Supera todas las misiones. de las partes 1 a 5 y recoge un tique legendario
 9499	[Fase de Invasión] Misión de evento exclusivo. Supera Tribunal de Tormento
 9500	[Fase de Invasión] Misión de evento exclusivo. Supera Primer Recado
@@ -847,3 +850,14 @@
 9524	[Huida del Náufrago Pt. 2] ①: Batalla Contra la Naturaleza. ¡Supera la fase 1 de Supervivencia en la Jungla!
 9525	[Huida del Náufrago Pt. 2] ②: Batalla Contra la Naturaleza. ¡Supera la fase 4 de Supervivencia en la Jungla!
 65	[Vincular cuenta]. Ve a Ajustes→Cambiar cuenta/dispositivo para vincularla
+9526	¡Supera las fases del «Evento de Halloween». 10 veces! (Cualquier fase de evento)
+9527	¡Supera las fases del «Evento de Halloween». 20 veces! (Cualquier fase de evento)
+9528	¡Supera las fases del «Evento de Halloween». 30 veces! (Cualquier fase de evento)
+9529	Consigue un objeto destacado de las. cápsulas del Evento de la Fiesta Halloween
+9530	¡Supera todas las misiones del Evento de Halloween. y gana 1 tique raro!
+9531	[Campaña para principiantes] Supera 4 fases del Imperio. de los Gatos (cualquier fase)
+9532	[Campaña para principiantes] Supera 8 fases del Imperio. de los Gatos (cualquier fase)
+9533	[Campaña para principiantes] Supera 12 fases del Imperio. de los Gatos (cualquier fase)
+9534	[Campaña para principiantes] Supera la fase del Imperio de los. Gatos Japón y consigue un tique raro para las bolas raras
+9535	[Campaña para principiantes] Supera la fase del Imperio de los. Gatos Japón y consigue liderazgo para recuperar energía
+66	Vence al ser vivo en el Laberinto del Bosque Viejo. Nivel 1 Fase 6

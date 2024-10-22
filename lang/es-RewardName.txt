@@ -195,6 +195,7 @@
 202|S202|I429	Agua bendita
 203|S203|I430	Red legendaria
 204|S204|I431	Trampa legendaria
+206|S206|I433	Alma Legendaria
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -316,6 +317,7 @@
 1178	Yuma Kuga & Cat
 1183	Madhead
 1184	Kenshin Cat
+1185	Maestro de la Vida Dr. Nova
 10010	Gato Cachas
 10011	Gato Bailarín
 10012	Hiper Sr.
@@ -380,6 +382,7 @@
 10288	Gato Golfista
 10300	Li'l Ultimate Madoka
 10301	Li'l Devil Homura
+10304	Gato de Cafetería
 10312	Minigato Isleño
 10313	Minigato Dragón Rey
 10314	Minimiautante
@@ -503,6 +506,10 @@
 15200	Gato Marinero
 15204	Brigada de Asalto Kachiyama
 15213	Zorro Gris
+15223	GOLDEN HUGE HERMIT CC
+15224	GOLDEN JUPITER CC
+15225	GOLDEN MORDEN CC
+15226	HI-DO MK III
 15227	Doctor Klay Loco
 15228	Gato Presagio
 15229	Disfraz de Neneko Bruja
@@ -628,6 +635,7 @@
 15643	Lucifer Todopoderoso
 15645	Mekako Amante Menta
 15648	Terun Cazadora Divina ζ
+15650	Hanzo Inmortal
 15656	Ventirena
 15657	Gato Haniwa
 15659	Gato Mensajero
@@ -640,6 +648,7 @@
 15675	Gataque extradimensional
 15676	Gata Raqueta
 15677	Gato Hongo
+15684	Yukimura Vampírico
 15686	Gato Supercoche
 15692	Lord Luza Simio
 15698	Gato Jefe
@@ -661,6 +670,7 @@
 16463	Metafiliembustero
 16465	Perromón Guerrero Renacido
 16533	Urs Alzado
+16569	Idi:NX
 16614	Doron Alzado
 16654	Naala Alzada
 18025	Gata Valquiria Sagrada

@@ -1227,7 +1227,7 @@
 001-258-001	Dämonenwand
 001-259		Der große Diablo
 001-259-000	Höllenzorn (Tödlich)
-001-260		Heißblütiges Ballrollen
+001-260		River City Ball-Rolling
 001-260-000	Ausreißer-Ball
 001-260-001	Kinetische Kraft
 001-260-002	100-Kilo-Spezialball
@@ -1476,14 +1476,14 @@
 001-319-000	Versuchung des Teufelchens
 001-319-001	Versuchung des Dämonen
 001-319-002	Versuchung des Erzdämonen
-001-320		#01 Zuckerkämpfe
+001-320		#02 Zuckerkämpfe
 001-320-000	Schlichter Kuchen
 001-320-001	Kakaofreie Schokolade
 001-320-002	Schwere Gummibonbons
 001-320-003	Silberzahn-Karamell
 001-320-004	Lebendiger Lebkuchenmann
 001-320-005	Verfallenes Lebkuchenhaus
-001-321		#03 Schelmische Streiche
+001-321		#04 Schelmische Streiche
 001-321-000	Weltweites Verschlafen
 001-321-001	Gelierte Ozeane
 001-321-002	Erde im Stillstand
@@ -1696,6 +1696,9 @@
 001-383		Die älteste Königin
 001-383-000	Ich werde Big Bug (Gnadenlos)
 001-383-001	Bienenkönigin sein (Gnadenlos)
+001-384		Essensstandkatze erwacht!
+001-384-000	Aufgehaltene Entwicklung 1 (Irre)
+001-384-001	Aufgehaltene Entwicklung 2 (Irre)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3297,6 +3300,10 @@
 004-066-000	Nachhut der Toten (Gnadenlos)
 004-067		Die Königin und der Heilige
 004-067-000	Heilige Schwester (Gnadenlos)
+004-068		
+004-068-000	Das Antlitz Gottes
+004-069		
+004-069-000	Wiederbelebung des Ursprungs
 
 006			Katzenkrallendojo
 006-000		Halle der Initianden
@@ -5009,6 +5016,17 @@
 024-067-007	Endlich Abreise
 024-067-008	Sturmgeschlucktes Floß
 024-067-009	Willkommen zu Hause, Sommerferienkatzen
+024-068		#01 Geisterpanik
+024-068-000	Geisterhafte Versammlung
+024-068-001	Stadt-Geisterjäger
+024-068-002	Besessene Bürger
+024-068-003	Unhold in der Menge
+024-068-004	Falscher Polizist kommt zur Rettung
+024-068-005	Supereffektives Salz
+024-068-006	Geisterentfernungsgeschäft
+024-068-007	Spukpanorama
+024-068-008	Störrische Gespenster
+024-068-009	Muss sie alle fangen
 
 025			Enigma Stages
 025-000		Atium-Felder
@@ -5638,6 +5656,13 @@
 034-013-003	Sprintparade
 034-013-004	Privatstrand
 034-013-005	Teure Auswanderung
+034-014		Eingeschr. Gebiet
+034-014-000	Fleming-Seeweg
+034-014-001	Antimaterie-Dschungel
+034-014-002	Inerter Nullfluss
+034-014-003	Tropische Entropie
+034-014-004	Euler-Archipel
+034-014-005	Himmelstrotzende Flucht
 
 036			Colosseum Stages
 036-000		Anderwelt-Kolosseum

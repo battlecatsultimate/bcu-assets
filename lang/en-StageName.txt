@@ -394,9 +394,9 @@
 001-004-000	Helpful Cat (Easy)
 001-004-001	Helpful Cat (Normal)
 001-004-002	Helpful Cat (Hard)
-001-005		Weekend Stage (Old)
+001-005		Weekend Stage
 001-005-000	Sweet XP (Easy)
-001-005-001	Sweet XP (Medium)
+001-005-001	Sweet XP (Normal)
 001-005-002	Sweet XP (Hard)
 001-006		Cat Ticket Chance!
 001-006-000	Love, Metal Hippoe (Hard)
@@ -422,7 +422,7 @@
 001-010-005	Santa or Satan!?
 001-010-006	Santa is on Salary
 001-010-007	Happy Merry X-mas
-001-011		Happy New Year?
+001-011		Happy New Year ?
 001-011-000	No Happy Holidays
 001-011-001	Holiday Diet Fail
 001-011-002	No More Resolutions
@@ -458,7 +458,7 @@
 001-017		The Crazed Cat
 001-017-000	Dark Souls (Insane)
 001-018		The Crazed Tank
-001-018-000	Absolute Defense (Insane)
+001-018-000	Absolute Defence (Insane)
 001-019		The Crazed Axe
 001-019-000	Berserk (Insane)
 001-020		The Crazed Gross
@@ -473,7 +473,7 @@
 001-024-000	Mammals? (Insane)
 001-025		The Crazed Titan
 001-025-000	Crazy Cats (Insane)
-001-026		Teacher! It’s Spring!
+001-026		Teacher! It's Spring!
 001-026-000	Cat School Musical
 001-026-001	I can feel it
 001-026-002	The Catbook
@@ -481,17 +481,17 @@
 001-026-004	100 Cat Dates
 001-026-005	Lament
 001-026-006	I L U
-001-026-007	Let’s Start Over
+001-026-007	Let's Start Over
 001-027		Weekend Stage
 001-027-000	Sweet XP (Easy)
-001-027-001	Sweet XP (Medium)
+001-027-001	Sweet XP (Normal)
 001-027-002	Sweet XP (Hard)
 001-027-003	Sweet XP (Veteran)
 001-027-004	Sweet XP (Expert)
 001-027-005	Sweet XP (Insane)
 001-028		XP Stage
 001-028-000	Sweet XP (Easy)
-001-028-001	Sweet XP (Medium)
+001-028-001	Sweet XP (Normal)
 001-028-002	Sweet XP (Hard)
 001-028-003	Sweet XP (Veteran)
 001-028-004	Sweet XP (Expert)
@@ -503,17 +503,17 @@
 001-029-003	Online Dating!
 001-029-004	Blocked on FB!
 001-029-005	Work or Me!
-001-029-006	Let’s Just Be Friends
+001-029-006	Let's Just Be Friends
 001-029-007	Never Give Up!
 001-030		The Forbidden Bride
-001-030-000	Wedding Tolls
+001-030-000	Wedding Toils
 001-030-001	Sending a Friend
-001-030-002	BGM is “Macarena”
+001-030-002	BGM is "Macarena"
 001-030-003	Bouquet Finds Water
 001-030-004	Family Drama Woes
-001-030-005	Mistook Bride’s Name
+001-030-005	Mistook Bride's Name
 001-030-006	Ex says I object
-001-030-007	...No, I Do Not
+001-030-007	… No, I Do Not
 001-031		Never Summer!
 001-031-000	Glutton Next Door
 001-031-001	Summer Already?
@@ -524,19 +524,19 @@
 001-031-006	Sandbags on the Cape
 001-031-007	Right here, right meow
 001-032		Ghostly Houseguests
-001-032-000	Dad’s back to haunt us
-001-032-001	But we’re on vacation
-001-032-002	Can’t pass thru walls?
+001-032-000	Dad's back to haunt us
+001-032-001	But we're on vacation
+001-032-002	Can't pass thru walls?
 001-032-003	Just hit the skies!
 001-032-004	Wasting inheritance
 001-032-005	Hiring fake mourners
 001-032-006	Grave is just plastic…
-001-032-007	I’m not here anymore.
-001-033		Monthly Event All-Stars Special Anniversary!
-001-033-000	Special Thanks! (Insane)		
-001-034		Monthly Event All-Stars Ultra Anniversary!
+001-032-007	I'm not here anymore.
+001-033		Monthly Event All-Stars Special Celebration!
+001-033-000	Special Thanks! (Insane)
+001-034		Monthly Event All-Stars Ultra Celebration!
 001-034-000	Ultra Stress! (Insane)
-001-035		Monthly Event All-Stars Miracle Anniversary!
+001-035		Monthly Event All-Stars Miracle Celebration!
 001-035-000	Miracle Tactics! (Insane)
 001-036		Old Guys About Town
 001-036-000	Dawn Joggers
@@ -547,8 +547,6 @@
 001-036-005	Trophy Wives
 001-036-006	Living the Dream
 001-036-007	Wife Still the Boss
-001-037		Korean Special Stage
-001-037-000	Extremity of Kicking Technique
 001-038		Autumn = Sports Day!
 001-038-000	Gotta Warm Up First
 001-038-001	Awkward Entrance
@@ -559,20 +557,20 @@
 001-038-006	Chicken Run
 001-038-007	Everyone Wins
 001-039		Wrath of Heaven
-001-039-000	Oncoming Maelstorm (Expert)
-001-040		Happy Birthday No. 1
-001-040-000	Happy Birthday Part 1 Stage
-001-041		Happy Birthday No. 2
-001-041-000	Happy Birthday Part 2 Stage
-001-042		Happy Birthday No. 3
-001-042-000	Happy Birthday Part 3 Stage (Source: wikia)
+001-039-000	Oncoming Maelstrom (Expert)
+001-040		Happy Birthday! No. 1
+001-040-000	Grats! 2 Years!!
+001-041		Happy Birthday! No. 2
+001-041-000	Grats! 2 Years!!
+001-042		Happy Birthday! No. 3
+001-042-000	Grats! 2 Years!!
 001-043		Sweet Irony
 001-043-000	Attack on Titanium (Insane)
 001-044		Happy 2015!
-001-044-000	New Year’s Dawn
+001-044-000	First Sunrise!
 001-045		Actress Awakens!
 001-045-000	Taking the Stage (Veteran)
-001-045-001	Taking The Stage (Insane)
+001-045-001	Taking the Stage (Insane)
 001-046		Kung-Fu Awakens!
 001-046-000	Path of Kung-Fu (Expert)
 001-046-001	Path of Kung-Fu (Insane)
@@ -585,7 +583,7 @@
 001-049		The Dom Awakens!
 001-049-000	Whipped into Shape (Expert)
 001-049-001	Whipped into Shape (Insane)
-001-050		Box Cats Awakens
+001-050		Box Cats Awaken!
 001-050-000	Boxing Clever (Expert)
 001-050-001	Boxing Clever (Insane)
 001-051		Panties Awakens!
@@ -627,19 +625,19 @@
 001-064		Dark Descent ∞
 001-064-000	Northern Crater
 001-065		The Battle Cats POP!
-001-065-000	Poppin’ in 3D!
+001-065-000	Poppin' in 3D!
 001-065-001	Fight your Friends!
 001-065-002	Player VS Player
 001-065-003	Pay Only Once!
 001-065-004	No I-A-P!
-001-065-005	Get Those Ubers!
+001-065-005	Get Those Ubers
 001-065-006	Conquer the Galaxy
-001-065-007	At Nintendo eShop!
+001-065-007	But the App's Fun Too :)
 001-066		Dimension of Despair
 001-066-000	Black Hole Rising (Insane)
-001-068		20 Million Downloads Special Gift!
+001-068		20 Mil Downloads Special Gift!
 001-068-000	Joy of 20 Million!
-001-069		Deadly Carnival
+001-069		Deadly Carnival!
 001-069-000	Tornado Carnival (Deadly)
 001-069-001	Awakened Carnival (Deadly)
 001-070		Monthly Event All-Stars Wonderful Celebration!
@@ -648,7 +646,7 @@
 001-071-000	Faster Than Fast Food
 001-072		All Hallows Road
 001-072-000	Sweet Samhain
-001-072-001	Lantern O’Jack
+001-072-001	Lantern O'Jack
 001-072-002	Cosplay Carnival
 001-072-003	Trick or Treatment
 001-072-004	Hello Hello Halloween
@@ -662,18 +660,18 @@
 001-076		Thurs. Blitz Stage
 001-076-000	Sniper Cat (Veteran)
 001-077		Fri. Blitz Stage
-001-077-000	Cat CPU (Veteran)
+001-077-000	Helpful Cat (Veteran)
 001-078		Facing Danger
 001-078-000	Steel Visage (Deadly)
 001-079		Event All-Stars Excellent Celebration!
-001-079-000	Elite Corps (Insane) 
-001-080		BCJP Third Anniversary
-001-080-000	3rd Anniversary Birthday Presents (Source: wikia)
+001-079-000	Elite Corps (Insane)
+001-080		Birthday Present!
+001-080-000	Grats! 3 Years!!
 001-081		Jolly St. Nick
 001-081-000	Coming to Town!
 001-081-001	Reindeer Games
 001-081-002	Whipped Cream
-001-081-003	Coup d’Workshop
+001-081-003	Coup d'Workshop
 001-081-004	War on Xmas
 001-082		Auld Lang Syne!
 001-082-000	Year's First Dawn!
@@ -689,19 +687,19 @@
 001-086		Maiden Awakes!
 001-086-000	Order Maiden (Expert)
 001-086-001	Order Maiden (Insane)
-001-087		Koi Awakes!
+001-087		Koi Awakens!
 001-087-000	Carp A Diem (Expert)
 001-087-001	Carp A Diem (Insane)
-001-088		Bride Awakes!
+001-088		Bride Awakens!
 001-088-000	Bridal Blues (Expert)
 001-088-001	Bridal Blues (Insane)
-001-089		Vacation Awakes!
+001-089		Vacation Awakens!
 001-089-000	End of Holiday (Expert)
 001-089-001	End of Holiday (Insane)
 001-090		Vengeance Awakes!
 001-090-000	No Need to Curse! (Expert)
 001-090-001	No Need to Curse! (Insane)
-001-091		Kung-Fu X Awakens!
+001-091		Kung-Fu X Awakes!
 001-091-000	Old Master (Expert)
 001-091-001	Old Master (Insane)
 001-092		Sports Day Awakens!
@@ -755,16 +753,12 @@
 001-109-000	Draconian (Deadly)
 001-110		Titan Maniac
 001-110-000	Resident Feline (Deadly)
-001-111		Bad To Worse
+001-111		Bad to Worse
 001-111-000	Tragedy in Red (Insane)
-001-112		Day of Judgement
+001-112		Day of Judgment
 001-112-000	Explosion in the Sky (Insane)
-001-112-001	Acts of Cat-God (Insane)
-001-113		BitSummit 4th Sponsorship Memorial
-001-113-000	Held in Miyako Messe!
 001-114		Techneurosis
-001-114-000	Nuts ‘n’ Bolts (Expert)
-001-114-001	Space is the Place (Insane)
+001-114-000	Nuts 'n' Bolts (Expert)
 001-115		Summer Diary
 001-115-000	Short Shorts
 001-115-001	Squirtgun Warfare
@@ -776,24 +770,24 @@
 001-116-000	Sender Unknown
 001-117		River Styx
 001-117-000	Realm of Carnage (Deadly)
-001-118	   	Catfruit Buffet
+001-118		Catfruit Buffet
 001-118-000	Green Envy (Hard)
 001-118-001	Green Envy (Expert)
 001-118-002	Green Envy (Insane)
-001-119		Queen’s Coronation
-001-119-000	Honey Trap (Deadly)  
-001-120		Deadly Carnival II	  
+001-119		Queen's Coronation
+001-119-000	Honey Trap (Deadly)
+001-120		Deadly Carnival II
 001-120-000	Tornado Carnival II (Deadly)
 001-120-001	Awakened Carnival II (Deadly)
-001-121		A Cultured Festival	  
+001-121		A Cultured Festival
 001-121-000	Meatless Wieners
 001-121-001	Deep Fried Air
 001-121-002	Burnt to Perfection
 001-121-003	Not Quite Organic
-001-121-004	Outta Change…
-001-121-005	Always In the Red  
-001-122		The Rolling Dead	  
-001-122-000	Unholy Tempest (Insane)  
+001-121-004	Outta Change...
+001-121-005	Always In the Red
+001-122		The Rolling Dead
+001-122-000	Unholy Tempest (Insane)
 001-123		Birthday Present!
 001-123-000	Four Years of Fun!!
 001-124		XP Colosseum
@@ -819,26 +813,26 @@
 001-129-003	Native Cultures
 001-129-004	Most Ancient
 001-129-005	Rongorongo
-001-130		Li’l Cat Awakens!
+001-130		Li'l Cat Awakens!
 001-130-000	Tiny Meows (Deadly)
-001-131		Li’l Tank Awakens!
+001-131		Li'l Tank Awakens!
 001-131-000	Tiny Will (Deadly)
-001-132		Li’l Axe Awakens!
+001-132		Li'l Axe Awakens!
 001-132-000	Tiny Chopper (Deadly)
-001-133		Li’l Gross Awakens!
+001-133		Li'l Gross Awakens!
 001-133-000	Tiny Creeper (Deadly)
-001-134		Li’l Cow Awakens!
+001-134		Li'l Cow Awakens!
 001-134-000	Tiny Horns (Deadly)
-001-135		Li’l Bird Awakens!
+001-135		Li'l Bird Awakens!
 001-135-000	Tiny Wings (Deadly)
-001-136		Li’l Fish Awakens!
+001-136		Li'l Fish Awakens!
 001-136-000	Tiny Fins (Deadly)
-001-137		Li’l Lizard Awakens!
+001-137		Li'l Lizard Awakens!
 001-137-000	Tiny Tail (Deadly)
-001-138		Li’l Titan Awakens!
+001-138		Li'l Titan Awakens!
 001-138-000	Tiny Fists (Deadly)
 001-139		For the Fans
-000-139-000	We're Number One
+001-139-000	We're Number One
 001-140		The Midas Touch
 001-140-000	Gold in a Coal Mine
 001-140-001	I My Me Miner
@@ -892,11 +886,11 @@
 001-156-000	Five Years of Fun!!
 001-157		The 2nd Dimension
 001-157-000	The Wormhole Opens (Deadly)
-001-158		King Wahwah’s Revenge
+001-158		King Wahwah's Revenge
 001-158-000	N-1 Grand Prix (Deadly)
 001-159		You Nears!
 001-159-000	Year's First Dawn
-001-160		Go Go Graduates
+001-160		Go Go Graduates!
 001-160-000	Pencil Launcher
 001-160-001	Demon Drill Sgt
 001-160-002	One-Use Cannon
@@ -925,7 +919,7 @@
 001-166-001	Cats of Yesterday
 001-166-002	Heat Wave Blues
 001-166-003	Lazy Tomorrow
-001-166-004	See You Next Year
+001-166-004	Young Nyan
 001-167		Ghostly Strangers
 001-167-000	Dad's Back to Heaven
 001-167-001	Long Line at Cerberus
@@ -947,7 +941,7 @@
 001-170-002	Grave Bouquet
 001-170-003	Fallen Priest
 001-170-004	Hours 'Til Morning
-001-171		Worker’s Revolution
+001-171		Worker's Revolution
 001-171-000	Premium Friday
 001-171-001	Total Professional
 001-171-002	CORE TIME
@@ -956,7 +950,7 @@
 001-172		NEO Darkness Heaven
 001-172-000	Wrath of B-Cyclone (Insane)
 001-172-001	Revenge of B-Cyclone (Deadly)
-001-173		Cybear’s Vengeance
+001-173		Cybear's Vengeance
 001-173-000	Forged to Kill (Deadly)
 001-174		A Cultured Festival
 001-174-000	Meatless Wieners
@@ -1093,10 +1087,12 @@
 001-213-001	Elite (Expert)
 001-213-002	Commander (Insane)
 001-214		A Deeper Dream
-001-214-000	Wrath of the Dreamer (Deadly)
+001-214-000	Wrath of the Dreamer  (Deadly)
 001-214-001	Revenge of the Dreamer (Merciless)
 001-215		Blue Impact
 001-215-000	Puffer Planet (Merciless)
+001-216		B-Day Gifts
+001-216-000	7 Years of Fun!!
 001-217		Courts of Torment
 001-217-000	The Pure Land (Merciless)
 001-219		Papuu's Paradise
@@ -1107,7 +1103,6 @@
 001-221-000	Happy 2020!
 001-222		Growing Epic
 001-222-000	Spectrum of Truth (Deadly)
-001-222-001	Miracle Iris (Deadly)
 001-223		Most Defeated 2019
 001-223-000	Surprising #5
 001-223-001	Not Uncommon #4
@@ -1116,7 +1111,7 @@
 001-223-004	Unbelievable #1
 001-223-005	Unseen in 2019
 001-224		Lunar New Year
-001-224-000	Year of the Rat
+001-224-000	Joy & Prosperity
 001-225		Mystery Package
 001-225-000	Sender Unknown
 001-226		Bottom of the Swamp
@@ -1128,7 +1123,7 @@
 001-228		50M Celebration Gifts Galore!
 001-228-000	Joy of 50 Million!
 001-229		Wanwan's Glory
-001-229-000	Dogsville (Insane)
+001-229-000	Dogsville (Merciless)
 001-230		B-Day Gifts
 001-230-000	Golden Week Special!!
 001-231		Z-Onel Rises!
@@ -1186,6 +1181,8 @@
 001-243		Top of the Bog
 001-243-000	Guided by Currents (Merciless)
 001-243-001	Water Conservancy (Merciless)
+001-244		B-Day Gifts
+001-244-000	8 Years of Fun!
 001-245		Most Appearances 2020
 001-245-000	Congrats on #5
 001-245-001	#4 As Expected
@@ -1232,7 +1229,7 @@
 001-258-001	Demon's Wall
 001-259		The Great Diablo
 001-259-000	Wrath of Hell (Deadly)
-001-260		Hotblooded Ball-Rolling
+001-260		River City Ball-Rolling
 001-260-000	Runaway Ball
 001-260-001	Kinetic Power
 001-260-002	Special 100kg Ball
@@ -1241,21 +1238,21 @@
 001-260-005	Covered in Dust
 001-260-006	Hats Blown Away
 001-260-007	Can't Stop Now
-001-261		Hotblooded Challenge Course
+001-261		River City Challenge Course
 001-261-000	Aim for the Top
 001-261-001	Power On Through
 001-261-002	Overcome The Odds
 001-261-003	Mistakes Don't Matter
 001-261-004	Good Effort
-001-262		Hotblooded Three-Leg Race ①
+001-262		River City Three-Leg Race ①
 001-262-000	VS Team White
 001-262-001	VS Team Red
 001-262-002	VS Team Black
-001-263		Hotblooded Three-Leg Race ②
+001-263		River City Three-Leg Race ②
 001-263-000	VS Team White
 001-263-001	VS Team Red
 001-263-002	VS Team Black
-001-264		Hotblooded Three-Leg Race ③
+001-264		River City Three-Leg Race ③
 001-264-000	VS Team White
 001-264-001	VS Team Red
 001-264-002	VS Team Black
@@ -1374,6 +1371,8 @@
 001-287-005	Northern Crater
 001-287-006	Cold Snowfield
 001-287-007	Final Battleground
+001-288		Lunar New Year's Gifts Galore!
+001-288-000	Happy Festival Cats
 001-289		The March of Flames
 001-289-000	Cave of Beginnings
 001-289-001	Wanderer's Forest
@@ -1444,7 +1443,7 @@
 001-306-000	Honey Trap (Deadly)
 001-307		The King & The Angel
 001-307-000	N-1 Grand Prix (Deadly)
-001-308		#02 ??? the 13th
+001-308		#03 ??? the 13th
 001-308-000	Foggy Lake Honeymoon
 001-308-001	Crow Murder's Blessing
 001-308-002	Dilapidated Cottage
@@ -1479,14 +1478,14 @@
 001-319-000	Imp's Temptation
 001-319-001	Demon's Temptation
 001-319-002	Archfiend's Temptation
-001-320		#01 Sugar Struggle
+001-320		#02 Sugar Struggle
 001-320-000	Plain-Looking Cake
 001-320-001	Cacao-less Chocolate
 001-320-002	Heavy Gummy
 001-320-003	Silver-Tooth Caramel
 001-320-004	Living Cookie Man
 001-320-005	Decrepit Gingerbread House
-001-321		#03 Mischevous Schemes
+001-321		#04 Mischevous Schemes
 001-321-000	Worldwide Oversleep
 001-321-001	Jellified Oceans
 001-321-002	Standstill Earth
@@ -1541,11 +1540,11 @@
 001-331		Weekend ~Another Confession~
 001-331-000	One More Courageous Call
 001-331-001	The Dreaded Reply
-001-331-002	"I'm Busy Studying"
+001-331-002	"I'm Busy Studying Now"
 001-332		Weekend ~Another Confession~
 001-332-000	One More Courageous Call
 001-332-001	The Dreaded Reply
-001-332-002	"I Don't See You Like That"
+001-332-002	"I Don't See You That Way"
 001-333		Affliction in the Forest II
 001-333-000	Tip of the Beast’s Tongue
 001-334		Oddity in the Desert II
@@ -1699,6 +1698,9 @@
 001-383		The Eldest Queen
 001-383-000	I'll Big Bug (Merciless)
 001-383-001	Be Bee Queen (Merciless)
+001-384		Food Stall Cat Awakes!
+001-384-000	Stalled Evolution 1 (Insane)
+001-384-001	Stalled Evolution 2 (Insane)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3311,6 +3313,10 @@
 004-066-000	Last of the Dead (Merciless)
 004-067		The Queen and the Saint
 004-067-000	Saintly Sister (Merciless)
+004-068		
+004-068-000	The Face of God
+004-069		
+004-069-000	Revival of Origin
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
@@ -5066,6 +5072,17 @@
 024-067-007	Departure At Last
 024-067-008	Storm-Swallowed Raft
 024-067-009	Welcome Home, Summer Break Cats
+024-068		#01 Ghost Panic
+024-068-000	Ghostly Gathering
+024-068-001	City Ghost Hunter
+024-068-002	Possessed Citizens
+024-068-003	Fiend in the Crowd
+024-068-004	Fake Cop to the Rescue
+024-068-005	Super-Effective Salt
+024-068-006	Spirit Removal Business
+024-068-007	Haunted Photo Spot
+024-068-008	Obstinate Geists
+024-068-009	Must Capture Them All
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -5725,6 +5742,13 @@
 034-013-003	Sprint Parade
 034-013-004	Private Beach
 034-013-005	Costly Emigration
+034-014		Restricted Area
+034-014-000	Fleming Seaway
+034-014-001	Antimatter Jungle
+034-014-002	Inert Zero Flux
+034-014-003	Tropical Entropy
+034-014-004	Euler Archipelago
+034-014-005	Heaven-Defying Fruit
 
 036			Colosseum Stages
 036-000		Otherworld Colosseum

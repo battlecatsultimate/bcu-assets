@@ -195,6 +195,7 @@
 202|S202|I429	Weihwasser
 203|S203|I430	Legendennetz
 204|S204|I431	Legendenfalle
+206|S206|I433	Legendärer Geist
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -316,6 +317,7 @@
 1178	Yuma Kuga & Cat
 1183	Madhead
 1184	Kenshin Cat
+1185	Meister des Lebens Dr. Nova
 10010	Muskelprotz-Katze
 10011	Tänzerkatze
 10012	Hyper-Mr.
@@ -380,6 +382,7 @@
 10288	Golfkatze
 10300	Li'l Ultimate Madoka
 10301	Li'l Devil Homura
+10304	Kantinenkatze
 10312	Kleine Inselkatze
 10313	Kleine Königsdrachenkatze
 10314	Kleine Jamierakatze
@@ -503,6 +506,10 @@
 15200	Seefahrer-Katze
 15204	Kachiyama-Sturmabteilung
 15213	Grauer Fuchs
+15223	GOLDEN HUGE HERMIT CC
+15224	GOLDEN JUPITER CC
+15225	GOLDEN MORDEN CC
+15226	HI-DO MK III
 15227	Irrer Doktor Klay
 15228	Vorbotenkatze
 15229	Kostümierte Hexe Neneko
@@ -629,6 +636,7 @@
 15643	Allmächtiger Luzifer
 15645	Minzliebe Mekako
 15648	Göttliche Jägerin Terun ζ
+15650	Unsterblicher Hanzo
 15656	Blizarena
 15657	Haniwa-Katze
 15659	Kurierkatze
@@ -641,6 +649,7 @@
 15675	Extradimensionaler Envanz
 15676	Racquetkatze
 15677	Pilzkatze
+15684	Vampirischer Yukimura
 15686	Supersportwagen-Katze
 15692	Affenlord Uza
 15698	Häuptlingskatze
@@ -662,6 +671,7 @@
 16463	Metafilibuster
 16465	Wiedergeb. Krieger Doguemon
 16533	Erwachter Urs
+16569	Idi:NX
 16614	Erwachter Doron
 16654	Erwachte Naala
 18025	Heilige Walkürenkatze

@@ -185,16 +185,16 @@
 184	Die einzige Tochter aus dem politisch einflussreichsten Hause<br>von Centauri im Jahr 1192. Schönheit, Klugheit, Gerissenheit.<br>Und trotzdem hat sie einen Chihuahua, der Reality-TV-„Star“<br>ist, geheiratet. Wird nach erlittenem Schaden stärker.
 185	Obwohl er noch zur Uni geht, ist seine Forschung in<br>schmuddeligen Dingen so weit vorangeschritten, dass<br>seine Freunde ihn Professor nennen.<br>Dating-Erfahrung hat er irgendwie immer noch keine.
 186	
-187	
-188	
-189	
-190	
-191	
-192	
-193	
-194	
-195	
-196	
+187	<br><br><br>
+188	<br><br><br>
+189	<br><br><br>
+190	<br><br><br>
+191	<br><br><br>
+192	<br><br><br>
+193	<br><br><br>
+194	<br><br><br>
+195	<br><br><br>
+196	<br><br><br>
 197	<br><br><br>
 198	<br><br><br>
 199	<br><br><br>
@@ -671,9 +671,9 @@
 670	<br><br><br>
 671	<br><br><br>
 672	<br><br><br>
-673	
+673	<br><br><br>
 674	<br><br><br>
-675	
+675	<br><br><br>
 676	
 677	Hochrangiger Weiser, der die Welt aus einer anderen Ebene<br>studiert. Hat einen Pakt mit der Menschheit geschlossen und<br>teilt seine Weisheit mit ihnen. Unstillbarer Durst nach<br>Wissen führte zu Schicksalstreffen mit den Katzen.
 678	
@@ -696,3 +696,7 @@
 695	
 696	
 697	Gieriger Vogel, der von Wertsachen besessen ist.<br>Macht Geschäfte mit dem Verkauf von Schätzen, seit er eines<br>Tages einen glitzernden Stein eingesammelt hat. Wenn der<br>Käufer verspricht, seine Schulden zu zahlen, gilt der Handel.
+698	Unsterblicher Comedian, der alle Gefühle gegen die<br>ultimative Pointe getauscht hat. Chronische Amnesie<br>führt zu vielen vergessenen Witzen bei Auftritten,<br>doch das scheint ihn nicht zu bekümmern.
+699	Ergebnis der Bemühungen eines antiken Wissenschaftlers,<br>ein Superwesen zu schaffen, das die Menschheit übertrifft.<br>Nachdem er die Katzen in eine andere Dimension geführt hatte,<br>verschlang ein seltsamer Kristall sein Ego.
+700	Exemplar Nr. ???. Status: Instabile Mikroben<br>gefunden. Kampfenergie: Unermesslich.<br>Pflanzt sich durch aufsparen und verbreiten von Samen fort.<br>Die ultimative Lebensform ist beinahe da.
+701	

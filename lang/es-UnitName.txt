@@ -156,7 +156,7 @@
 155				
 156				
 157				
-158	Uesugi Kenshin	Dios de la Guerra Kenshin	Kenshin Inmortal	
+158	Uesugi Kenshin	Dios de la Guerra Kenshin	Kenshin Inmortal	Kenshin Jinete del Infierno
 159	Kalisa	Kalisa (γ)	Kalisa Divina	
 160	Yurinchi	Phoenix Yurinchi	Gekirinchi	
 161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt	
@@ -212,7 +212,7 @@
 211	Minihachero	Minigato Valiente	Minigato Oscuro	
 212	Conejita Blanca	Gata Negra	Zorro Gris	Gato Espectral
 213	Gatomburguesa	Gatorroyal	Gato Comida para Llevar	
-214	HYAKUTARO	HYAKUTARO CC		
+214	HYAKUTARO	HYAKUTARO CC	Recruited from the Metal Slug series!	
 215	MARCO	MARCO CC		
 216	TARMA	TARMA CC		
 217	ERI	ERI CC		
@@ -220,10 +220,10 @@
 219	SV-001	SV-001 CC		
 220	ALLEN O'NEIL	ALLEN O'NEIL CC		
 221	MARS PEOPLE	MARS PEOPLE CC		
-222	HUGE HERMIT	HUGE HERMIT CC		
-223	JUPITER KING	JUPITER KING CC		
-224	DONALD MORDEN	GENERAL MORDEN		
-225	HI-DO	HI-DO CC		
+222	HUGE HERMIT	HUGE HERMIT CC	GOLDEN HUGE HERMIT CC	
+223	JUPITER KING	JUPITER KING CC	GOLDEN JUPITER CC	
+224	DONALD MORDEN	GENERAL MORDEN	GOLDEN MORDEN CC	
+225	HI-DO	HI-DO CC	HI-DO MK III	
 226	Brujo y Pedrín	Mercader Oscuro Babil	Doctor Klay Loco	
 227	Calabagato	Gato de Halloween	Gato Presagio	
 228	Neneko Oscura	Neneko Bruja	Disfraz de Neneko Bruja	
@@ -301,7 +301,7 @@
 300	Li'l Homura	Li'l Magical Girl Homura	Li'l Devil Homura	
 301	Kyubey Cat	Tank Kyubey Cat		
 302	Gata Lilit	Gata Súcubo	Gata Reina Súcubo	
-303	Vendedor de Comida	Gato Repartidor		
+303	Vendedor de Comida	Gato Repartidor	Gato de Cafetería	
 304	Gatapulta Brutal	Máquina de Asedio	Mastodonte de Asalto	Gigapulta de destrucción gatopardo
 305	Buque Brutal	BCS Corazón de León	BCS Garra de Tigre	
 306	Bombardero Brutal	MIAU-0 Fortaleza Aérea	MIAU-02 Ciudadela Aérea	
@@ -566,7 +566,7 @@
 565	Gato Bronceado	Gato Bronceado Mazado	Gato Bronceado con Permanente	
 566	Gatos Socorristas	Gatos Apilados	Gatos Gelatos	
 567	Huevo de Minigatíclope	Minigatíclope		
-568	Idi:N	Idi:N2		
+568	Idi:N	Idi:N2	Idi:NX	
 569	Petro	Petrolo	Petrolodón	
 570	Vars Jinete Esquelético	Vars Rey de Pesadilla	Caballero de Halloween Vars	
 571	E. Honda	E. Honda CC		
@@ -647,7 +647,7 @@
 646	Gato Petardo	Gato Petardo macho		
 647	Terun Cazadora	Terun Cazadora ζ	Terun Cazadora Divina ζ	
 648	Infrademonio Enamorado	Suprademonio Enamorado		
-649	Hattori Hanzo	Dios de la Guerra Hanzo		
+649	Hattori Hanzo	Dios de la Guerra Hanzo	Hanzo Inmortal	
 650	Gata Amante	Gata Novia		
 651	Gata Leona	Gata Leona Enmascarada		
 652	Gato Borrapizarras	Gato Borrapizarras Punk		
@@ -681,7 +681,7 @@
 680	Sakura	Sakura CC		
 681	Luke	Luke CC		
 682	Gótica espectral Vega	Guardiana ilusoria Vega		
-683	Conde Yukimura	Yukimura Nosferatu		
+683	Conde Yukimura	Yukimura Nosferatu	Yukimura Vampírico	
 684	Piscigato Adoctrinado	Ballegato Adoctrinado	Gato Isleño adoctrinado	
 685	Huevo antiguo N004	Huevo Místico N004	Gato Supercoche	
 686	Diosa de la luz Sirius	Diosa del amanecer Sirius		
@@ -725,7 +725,7 @@
 724	Huevo Antiguo N112	Huevo Místico N112	Vaina de huevo gatuno	
 725	Chica Ninja Tomoe	Chica Ninja Tomoe Glotona		
 726				
-727				
+727	SOL DAE ROKKER	SOL DAE ROKKER CC		
 728	Sórcates Mente Brillante	Gatócrates Mente Brillante		
 729				
 730				
@@ -766,3 +766,9 @@
 765	Huevo Antiguo N206	Huevo Bermellón N206	Gato Almeja	
 766	Sardina	Sardina CC	Vienen directamente de «Survive! Mola Mola!».	
 767	Calamar	Calamar CC		
+768				
+769	Gato Hanasaka	Cereza Hambrienta		
+770				
+771	Maestro de la Vida Dr. Nova	Maestro de la Vida Catnova		
+772	Sodoma Calabaza	Sodoma de Halloween		
+773	Momia Sumo	Momia Sumo Mamá		

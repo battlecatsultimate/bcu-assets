@@ -195,6 +195,7 @@
 202|S202|I429	Acqua santa
 203|S203|I430	Rete leggendaria
 204|S204|I431	Trappola leggend.
+206|S206|I433	Spirito leggenda
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -316,6 +317,7 @@
 1178	Yuma Kuga & Cat
 1183	Madhead
 1184	Kenshin Cat
+1185	Maestro di vita dott. Nova
 10010	Gatto fusto
 10011	Gatto ballerino
 10012	Iper Mr.
@@ -380,6 +382,7 @@
 10288	Gatto Golf
 10300	Li'l Ultimate Madoka
 10301	Li'l Devil Homura
+10304	Gatto della mensa
 10312	Mini Gattisola
 10313	Mini Gatto Re Dragone
 10314	Mini Gatto Jamiera
@@ -503,6 +506,10 @@
 15200	Gatto navigatore
 15204	Brigata d'assalto Kachiyama
 15213	La Volpe grigia
+15223	GOLDEN HUGE HERMIT CC
+15224	GOLDEN JUPITER CC
+15225	GOLDEN MORDEN CC
+15226	HI-DO MK III
 15227	Klay Dottore pazzo
 15228	Gatto annunciatore
 15229	Neneko Strega in costume
@@ -629,6 +636,7 @@
 15643	Lucifero Onnipotente
 15645	Mekako fresco amore
 15648	Terun cacciatrice divina ζ
+15650	Hanzo immortale
 15656	Blizarena
 15657	Gatto haniwa
 15659	Gatto corriere
@@ -641,6 +649,7 @@
 15675	Envanz extradimensionale
 15676	Gatta con racchetta
 15677	Fungatto
+15684	Yukimura vampiro
 15686	Gatto Supercar
 15692	Luza lo scimmione
 15698	Gatto capo
@@ -662,6 +671,7 @@
 16463	Meta-filibustiere
 16465	Canemon guerriero rinato
 16533	Urs risvegliato
+16569	Idi:NX
 16614	Doron risvegliato
 16654	Naala risvegliata
 18025	Gatta Valchiria Sacra

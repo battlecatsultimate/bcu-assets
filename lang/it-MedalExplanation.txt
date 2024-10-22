@@ -115,3 +115,5 @@
 114	Ricevi Maestro della mente Sokrate
 115	Supera "Gigahaniwan colpisce!"
 116	Supera "Famiglie della super schiacciata"
+117	Supera tutte le Leggende misteriose di livello 4
+118	Supera il livello Nova

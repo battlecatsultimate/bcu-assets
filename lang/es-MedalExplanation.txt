@@ -115,3 +115,5 @@
 114	Recibe a Sórcates Mente Brillante
 115	Supera "¡Gigahaniwan Ataca!"
 116	Supera "Familias Superremate"
+117	Supera el nivel 4 de las Etapas de Leyenda Inquietante
+118	Supera la fase Nova

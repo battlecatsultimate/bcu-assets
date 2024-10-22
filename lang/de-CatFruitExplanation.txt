@@ -156,7 +156,7 @@
 155	<br><br>
 156	<br><br>
 157	<br><br>
-158	Wahre-Form-Entwicklung erhöht Vert.,<br>Bewegungstempo und Angriffstempo!<br>
+158	Wahre-Form-Entwicklung erhöht Vert.,<br>Bewegungstempo und Angriffstempo!<br>	Ultra-Form erhält verb. Verteidigung!<br>nach Einsätzen!<br>100-%-Chance auf Mini-Welle!
 159	Wahre-Form-Entwicklung bietet verbesserte<br>Angriffskraft und Reichweite!<br>
 160	True Form evolution increases Defense and<br>attack range, move speed, and attack speed!<br>
 161	True Form evolution increases<br>defense, attack speed and attack range!<br>Plus, higher Knockback chance vs Metal!
@@ -220,10 +220,10 @@
 219	<br><br>
 220	<br><br>
 221	<br><br>
-222	<br><br>
-223	<br><br>
-224	<br><br>
-225	<br><br>
+222	True form evolution gains improved defense!<br>Also gain Strong vs. Black and gains<br>immunity to Warp effects.
+223	True form evolution gains improved defense!<br>Also gains Surge Attacks and Barrier Break!<br>
+224	True Form evolution gains Resistance<br>vs. Traitless, and may sometimes<br>Knockback enemies!
+225	True Form evolution gains improved attack<br>and defense! Also lower deployment cost!<br>
 226	Wahre Form greift nur Aliens an,<br>aber Verteidigung & Angriffskraft sind höher!<br>Resistent gegen wiederholte Schwächungen.
 227	Wahre-Form-Entwicklung ist stärker gegen<br>schwarze Feinde! Erhält zudem<br>„Behemothtöter“!
 228	Wahre Form blockiert Wellenangriffe.<br>Immunität gegen Wellenangriffe.<br>
@@ -566,7 +566,7 @@
 565	Wahre Form gewährt erhöhte<br>Verteidigung und schnelleres Tempo!<br>
 566	Wahre Form gewährt Behemothtöter!<br><br>
 567	<br><br>
-568	<br><br>
+568	Wahre Form gewährt erhöhte Verteidigung!<br>Zudem irrer Schaden gegen Relikte<br>und erhält „Weiser Töter“-	<br><br>
 569	Wahre-Form-Entwicklung erhöht Vert.,<br>und Angriffskraft!<br>Verteidigung und die Wellenangriffsfläche!
 570	Wahre-Form-Entwicklung gewährt<br>garantierten Rückstoß/Lähmen gg.<br>Zombies und Aliens.
 571	<br><br>
@@ -647,7 +647,7 @@
 646	<br><br>
 647	Wahre-Form-Entwicklung erhöht Stärke<br>gg. rote Feinde und Aliens!<br>
 648	<br><br>
-649	<br><br>
+649	Wahre-Form-Entwicklung erhöht<br>Kraft sowie erhöhte Einfrieren-Dauer!<br>
 650	<br><br>
 651	<br><br>
 652	<br><br>
@@ -681,7 +681,7 @@
 680	<br><br>
 681	<br><br>
 682	<br><br>
-683	<br><br>
+683	Wahre-Form-Entw. steigert Angriffskraft!<br>Erhält zudem erhöhte Bewegungsgeschw.<br>und überlebt 1 tödl. Schlag garantiert!
 684	<br><br>
 685	Wahre Form enthüllt letzte Form!<br>Durchbricht/durchdringt außerdem<br>garantiert Schilde und Barrieren!
 686	<br><br>
@@ -766,3 +766,9 @@
 765	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
 766	<br><br>
 767	<br><br>
+768	<br><br>
+769	<br><br>
+770	<br><br>
+771	<br><br>
+772	<br><br>
+773	<br><br>

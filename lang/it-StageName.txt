@@ -1478,17 +1478,18 @@
 001-319-000	Tentazione del folletto
 001-319-001	Tentazione del demone
 001-319-002	Tentazione dell'arcidiavolo
-001-320		#01 Zuffa zuccherosa
+001-320		#02 Zuffa zuccherosa
 001-320-000	Torta semplice
 001-320-001	Cioccolato senza cacao
 001-320-002	Gomma pesante
 001-320-003	Dente d’argento caramellato
 001-320-004	Uomo biscotto vivente
 001-320-005	Casa di pan di zenzero fatiscente
-001-321		#03 Piani dispettosi
+001-321		#04 Piani dispettosi
 001-321-000	Il mondo va a dormire
 001-321-001	Oceani gelatinosi
 001-321-002	Terra ferma
+001-322		Parte 2: Manovre nemiche
 001-322-000	Debutto 2012
 001-322-001	Debutto 2013
 001-322-002	Debutto 2014
@@ -1697,6 +1698,9 @@
 001-383		Anziana regina
 001-383-000	Il ritorno degli insetti (Spietato)
 001-383-001	La Regina delle api (spietato)
+001-384		Arriva il Street food miao!
+001-384-000	Evoluzione in stallo 1 (Folle)
+001-384-001	Evoluzione in stallo 2 (Folle)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3299,6 +3303,10 @@
 004-066-000	Ultimo dei morti (Spietato)
 004-067		La regina e il santo
 004-067-000	Santa sorella (Spietato)
+004-068		
+004-068-000	Il volto divino
+004-069		
+004-069-000	Il ritorno dell'origine
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -5012,6 +5020,17 @@
 024-067-007	Finalmente si parte
 024-067-008	Zattera nella tempesta
 024-067-009	I Gatti estivi tornano a casa
+024-068		#01 Panico fantasma
+024-068-000	Raduno spettrale
+024-068-001	Cacciatore di spettri urbani
+024-068-002	Cittadini posseduti
+024-068-003	Demone nella folla
+024-068-004	Finto poliziotto alla riscossa
+024-068-005	Sale efficacissimo
+024-068-006	Ditta rimuovi spiriti
+024-068-007	Punto fotografico spettrale
+024-068-008	Fantasmi ostinati
+024-068-009	Da catturare tutti
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -5670,6 +5689,13 @@
 034-013-003	Parata veloce
 034-013-004	Spiaggia privata
 034-013-005	Emigrazione costosa
+034-014		Area limitata
+034-014-000	Rotta di Fleming
+034-014-001	Giungla antimaterica
+034-014-002	Flusso zero inerte
+034-014-003	Entropia tropicale
+034-014-004	Arcipelago di Eulero
+034-014-005	Frutto anti paradiso
 
 036			Colosseum Stages
 036-000		Colosseo ultraterreno

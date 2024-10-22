@@ -185,16 +185,16 @@
 184	Fille unique de la dynastie politique la plus puissante<br>du Centaure, an 1192. Belle, intelligente, pleine d’esprit...<br>Et pourtant, elle a épousé un chihuahua vedette<br>de télé-réalité. Se renforce après avoir subi des dégâts.
 185	Même s’il n’est pas encore diplômé,<br>ses histoires d’adultes sont tellement approfondies<br>et documentées que ses amis l’appellent « Professeur ».<br>Pourtant, il n’a toujours pas eu de rendez-vous galant.
 186	
-187	
-188	
-189	
-190	
-191	
-192	
-193	
-194	
-195	
-196	
+187	<br><br><br>
+188	<br><br><br>
+189	<br><br><br>
+190	<br><br><br>
+191	<br><br><br>
+192	<br><br><br>
+193	<br><br><br>
+194	<br><br><br>
+195	<br><br><br>
+196	<br><br><br>
 197	<br><br><br>
 198	<br><br><br>
 199	<br><br><br>
@@ -671,9 +671,9 @@
 670	<br><br><br>
 671	<br><br><br>
 672	<br><br><br>
-673	
+673	<br><br><br>
 674	<br><br><br>
-675	
+675	<br><br><br>
 676	
 677	Sage de haut niveau qui étudie le monde depuis<br>un autre royaume. Parvenu à un accord avec l'humanité,<br>il leur dispense son savoir. Sa soif insatiable de<br>connaissances le prédestinait à rencontrer les Chats.
 678	
@@ -696,3 +696,7 @@
 695	
 696	
 697	Oiseau cupide obsédé par les objets de valeur.<br>A créé un commerce de vente de trésors après avoir trouvé<br>une pierre brillante. Si l'acheteur promet de<br>rembourser sa dette, la transaction est effectuée.
+698	Un comique immortel qui a échangé tout sentiment<br>contre la réplique ultime. Son amnésie chronique lui<br>fait perdre le fil de ses blagues à chaque spectacle<br>mais ça n'a pas l'air de l'inquiéter.
+699	Le fruit du travail d'un ancien chercheur qui voulait<br>créer un être supérieur dépassant l'humanité.<br>Après avoir guidé les Chats vers une autre dimension,<br>son égo fut consumé par un étrange cristal.
+700	Spécimen n° ???. Statut : microbes instables<br>détectés. Énergie au combat : incalculable.<br>Se reproduit en conservant et en semant des graines.<br>La forme de vie ultime est à portée de main.
+701	

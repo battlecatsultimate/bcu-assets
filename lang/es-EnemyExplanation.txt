@@ -185,16 +185,16 @@
 184	Hija única de la dinastía política más importante de<br>Centauri, año 1192. Tiene belleza, bondad, inteligencia...,<br>y aun así está casada con un chihuahua estrella de<br>un reality. Se fortalece tras sufrir daño.
 185	Aunque sigue siendo universitario, está realizando<br>una investigación tan profunda y exhaustiva sobre<br>todo lo obsceno que sus colegas lo llaman «profesor».<br>De todas formas, sigue sin comerse un rosco.
 186	
-187	
-188	
-189	
-190	
-191	
-192	
-193	
-194	
-195	
-196	
+187	<br><br><br>
+188	<br><br><br>
+189	<br><br><br>
+190	<br><br><br>
+191	<br><br><br>
+192	<br><br><br>
+193	<br><br><br>
+194	<br><br><br>
+195	<br><br><br>
+196	<br><br><br>
 197	<br><br><br>
 198	<br><br><br>
 199	<br><br><br>
@@ -671,9 +671,9 @@
 670	<br><br><br>
 671	<br><br><br>
 672	<br><br><br>
-673	
+673	<br><br><br>
 674	<br><br><br>
-675	
+675	<br><br><br>
 676	
 677	Un sabio de alto rango que estudia el mundo<br>desde otro plano. Llegó a un acuerdo con la humanidad,<br>concediéndoles sabiduría. Su sed insaciable de<br>conocimiento le garantizó un encuentro con los gatos.
 678	
@@ -696,3 +696,7 @@
 695	
 696	
 697	Pájaro avaricioso obsesionado con los objetos valiosos.<br>Montó un negocio de venta de tesoros después<br>de coger una piedra brillante. Si el comprador promete<br>pagar sus deudas, se completará la transacción.
+698	Ser inmortal que se dedica a la comedia. Intercambió<br>sus sentimientos por el chiste definitivo.<br>Tiene amnesia crónica y se olvida de los chistes<br>en las actuaciones, pero no parece preocuparle mucho.
+699	Un científico quiso crear un superser que<br>superara a la humanidad y este es el resultado.<br>Tras guiar a los gatos hasta otra dimensión,<br>un extraño cristal se alimentó de su ego.
+700	Espécimen n.º ???. Estado: se han detectado<br>microbios inestables. Energía de batalla: incalculable.<br>Se reproduce guardando y plantando semillas.<br>El ser vivo definitivo ya casi está aquí.
+701	

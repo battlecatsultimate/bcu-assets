@@ -187,14 +187,14 @@
 186	
 187	
 188	
-189	
-190	
-191	
-192	
-193	
-194	
-195	
-196	
+189	MARS PEOPLE
+190	DONALD MORDEN
+191	ALLEN O'NEIL
+192	MARCO
+193	SV-001
+194	HUGE HERMIT
+195	JUPITER KING
+196	HI-DO
 197	Cane zucca
 198	Conte Gufotto
 199	Vampirotto
@@ -673,7 +673,7 @@
 672	
 673	
 674	Uril esoterico
-675	
+675	SOL DAE ROKKER
 676	
 677	Maestro della mente Sokrate
 678	
@@ -696,3 +696,7 @@
 695	Tronco
 696	Masso
 697	Rondinone diabolico
+698	Struzzo antico
+699	Maestro di vita dott. Nova
+700	Idi:Ne
+701	Gatto della mensa

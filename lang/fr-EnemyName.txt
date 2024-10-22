@@ -187,14 +187,14 @@
 186	
 187	
 188	
-189	
-190	
-191	
-192	
-193	
-194	
-195	
-196	
+189	MARS PEOPLE
+190	DONALD MORDEN
+191	ALLEN O'NEIL
+192	MARCO
+193	SV-001
+194	HUGE HERMIT
+195	JUPITER KING
+196	HI-DO
 197	Toutou citrouille
 198	Comte Hibougre
 199	Vlad de sable
@@ -673,7 +673,7 @@
 672	
 673	
 674	Uril ésotérique
-675	
+675	SOL DAE ROKKER
 676	
 677	Soracte, mentor mental
 678	
@@ -696,3 +696,7 @@
 695	Rondin
 696	Rocher
 697	Belzépiaf
+698	Vieille-truche
+699	Maître de la vie Dr Nova
+700	Idi:Ne
+701	Chat de la cantine

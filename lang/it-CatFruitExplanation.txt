@@ -156,7 +156,7 @@
 155	<br><br>
 156	<br><br>
 157	<br><br>
-158	La Forma Reale aumenta la difesa,<br>la velocità di movimento e di attacco!<br>
+158	La Forma Reale aumenta la difesa,<br>la velocità di movimento e di attacco!<br>	Forma ultra: difesa e attacco migliorati<br>il tempo di ricarica dopo lo schieramento!<br>Probabilità del 100% di mini-ondata.
 159	La Forma Reale dà potenza<br>d'attacco e raggio migliorati!<br>
 160	True Form evolution increases Defense and<br>attack range, move speed, and attack speed!<br>
 161	True Form evolution increases<br>defense, attack speed and attack range!<br>Plus, higher Knockback chance vs Metal!
@@ -220,10 +220,10 @@
 219	<br><br>
 220	<br><br>
 221	<br><br>
-222	<br><br>
-223	<br><br>
-224	<br><br>
-225	<br><br>
+222	True form evolution gains improved defense!<br>Also gain Strong vs. Black and gains<br>immunity to Warp effects.
+223	True form evolution gains improved defense!<br>Also gains Surge Attacks and Barrier Break!<br>
+224	True Form evolution gains Resistance<br>vs. Traitless, and may sometimes<br>Knockback enemies!
+225	True Form evolution gains improved attack<br>and defense! Also lower deployment cost!<br>
 226	La Forma Reale può attaccare solo alieni,<br>ma potenza d'attacco e difesa aumentano<br>moltissimo! Resiste a ripetuti debuff.
 227	La Forma Reale è efficace contro<br>nemici neri! Ottiene anche Ammazza<br>Behemoth!
 228	Forma Reale blocca attacchi a ondata.<br>Più immunità da attacchi a ondata.<br>
@@ -566,7 +566,7 @@
 565	La Forma Reale ha maggiore<br>difesa e velocità!<br>
 566	La Forma Reale ottiene Ammazza Behemoth!<br><br>
 567	<br><br>
-568	<br><br>
+568	La Forma Reale ha maggiore difesa!<br>Infligge danni enormi agli antichi<br>e ottiene Sterminatore di saggi!	<br><br>
 569	La Forma Reale aumenta la difesa,<br>la difesa e la potenza d'attacco!<br>maggiore e un att. ondata con area più ampia!
 570	La Forma Reale ottiene<br>respinta/rallentamento al 100%<br>vs zombi e alieni.
 571	<br><br>
@@ -647,7 +647,7 @@
 646	<br><br>
 647	La Forma Reale<br>è efficace vs rossi e alieni!<br>
 648	<br><br>
-649	<br><br>
+649	La Forma Reale ottiene maggiori potenza<br>e maggiore durata dell'immobilità!<br>
 650	<br><br>
 651	<br><br>
 652	<br><br>
@@ -681,7 +681,7 @@
 680	<br><br>
 681	<br><br>
 682	<br><br>
-683	<br><br>
+683	Forma Reale: più potenza d'attacco e<br>velocità di movimento.<br>Sopravvive al 100% a un colpo letale!
 684	<br><br>
 685	La Forma Reale rivela la sua forma finale!<br>Garantisce anche la perforazione/rottura<br>di scudi e barriere!
 686	<br><br>
@@ -766,3 +766,9 @@
 765	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 766	<br><br>
 767	<br><br>
+768	<br><br>
+769	<br><br>
+770	<br><br>
+771	<br><br>
+772	<br><br>
+773	<br><br>

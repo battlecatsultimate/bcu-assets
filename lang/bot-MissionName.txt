@@ -808,6 +808,9 @@
 9441	Clear Hatsune Miku collab stages 30 times!
 9442	Clear Hatsune Miku collab stages 50 times!
 9467	Defeat the 50th floor of the Infernal Tower. (This reward can only be claimed once.)
+9468	Clear stages from "Metal Slug Collab"
+9469	Clear stages from "Metal Slug Collab"
+9470	Clear stages from "Metal Slug Collab"
 9471	【90M DL】Clear all event missions. to earn 1 Platinum Shard!
 9472	【90M DL】Send Gamatoto on 1 successful expedition!
 9473	【90M DL】Send Gamatoto on 3 successful expeditions!
@@ -852,3 +855,14 @@
 9524	[Castaway Escape Pt. 2] ①: Battle Against Nature. Clear Jungle Survival Stage 1!
 9525	[Castaway Escape Pt. 2] ②: Battle Against Nature. Clear Jungle Survival Stage 4!
 65	[Account Link]. Go to Options→Change Account/Device to link your account
+9526	Clear stages from "Halloween Event"
+9527	Clear stages from "Halloween Event"
+9528	Clear stages from "Halloween Event"
+9529	Earn a Featured Item from. the Halloween Party Event Capsules!
+9530	Clear all Halloween Event Missions. to earn 1 Rare Ticket!
+9531	[Beginner Campaign] Clear 4 Empire of Cats stages
+9532	[Beginner Campaign] Clear 8 Empire of Cats stages
+9533	[Beginner Campaign] Clear 12 Empire of Cats stages
+9534	[Beginner Campaign] Clear Empire of Cats Japan stage. and earn a Rare Ticket for the Rare Capsules!
+9535	[Beginner Campaign] Clear Empire of Cats Japan stage. and earn Leadership to recover Cat Energy!
+66	Defeat the lifeform in Ancient Forest Labyrinth. Lv.1 Stage 6

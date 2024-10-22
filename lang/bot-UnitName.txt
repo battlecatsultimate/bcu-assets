@@ -156,7 +156,7 @@
 155
 156
 157
-158	Uesugi Kenshin	Wargod Kenshin	Immortal Kenshin	Phantasmal Kenshin
+158	Uesugi Kenshin	Wargod Kenshin	Immortal Kenshin	Hellrider Kenshin
 159	Kalisa	Kalisa, type χ	Divine Kalisa
 160	Yurinchi	Phoenix Yurinchi	Gekirinchi
 161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt
@@ -221,9 +221,9 @@
 220	ALLEN O'NEIL	ALLEN O'NEIL CC
 221	MARS PEOPLE	MARS PEOPLE CC
 222	HUGE HERMIT	HUGE HERMIT CC	GOLDEN HUGE HERMIT CC
-223	JUPITER KING	JUPITER KING CC	GOLDEN JUPITER KING CC
-224	DONALD MORDEN	GENERAL MORDEN	GOLDEN DONALD MORDEN CC
-225	HI-DO	HI-DO CC	HI-DO MK III CC
+223	JUPITER KING	JUPITER KING CC	GOLDEN JUPITER CC
+224	DONALD MORDEN	GENERAL MORDEN	GOLDEN MORDEN CC
+225	HI-DO	HI-DO CC	HI-DO MK III
 226	Warlock and Pierre	Dark Merchant Babil	Mad Doctor Klay
 227	Pumpcat	Cat O'Lantern	Harbinger Cat
 228	Gloomy Neneko	Witchy Neneko	Costumed Witchy Neneko
@@ -301,7 +301,7 @@
 300	Li'l Homura	Li'l Magical Girl Homura	Li'l Devil Homura
 301	Kyubey Cat	Tank Kyubey Cat
 302	Lilith Cat	Succubus Cat	Queen Succubus Cat
-303	Food Stall Cat	Delivery Cat	School Lunch Cat
+303	Food Stall Cat	Delivery Cat	Cafeteria Cat
 304	Mighty Kat-A-Pult	CAT-6 Siege Engine	CAT-8 Behemoth	CAT-10 Gigapult
 305	Mighty Drednot	B.C.S. Lionheart	B.C.S. Tigerclaw
 306	Mighty Bomburr	NEK-0 Sky Fortress	NEK-02 Air Citadel
@@ -681,7 +681,7 @@
 680	Sakura	Sakura CC
 681	Luke	Luke CC
 682	Spectral Goth Vega	Illusory Guardian Vega
-683	Count Yukimura	Nosferatu Yukimura	Vampire Duke Yukimura
+683	Count Yukimura	Nosferatu Yukimura	Vampiric Yukimura
 684	Brainwashed Fish Cat	Brainwashed Whale Cat	Brainwashed Island Cat
 685	Ancient Egg: N004	Mystic Egg: N004	Supercar Cat
 686	Goddess of Light Sirius	Goddess of Sunrise Sirius
@@ -767,8 +767,8 @@
 766	Sardine	Sardine CC
 767	Squid	Squid CC
 768	Taitenki	Taitenki CC
-769	Hanasaka Jiisan	Monster Tree Oozakura
-770	Oozakura Spirit
-771	Sage of Life Dr. Nova	Sage of Life Nova Cat
-772	Pumpkin Sodom	Sodom O' Lantern
-773	Sumo The Mummy	Mummy The Halloween
+769	Hanasaka Cat	Ravenous Cherry	
+770	Cherry Spirit
+771	Master of Life Dr. Nova	Master of Life Catnova		
+772	Pumpkin Sodom	Sodom-o'-Lantern		
+773	Mummy Sumo	Mama Mummy Sumo	

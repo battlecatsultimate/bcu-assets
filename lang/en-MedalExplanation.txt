@@ -115,3 +115,5 @@
 114	Receive Master of Mind Soractes
 115	Clear "Gigahaniwan Strikes!"
 116	Clear "Super Smash Families"
+117	Clear All Level 4 Uncanny Legend stages
+118	Clear Nova Stage

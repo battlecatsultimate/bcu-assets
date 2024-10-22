@@ -674,7 +674,7 @@
 9303	[Q5. Temps et chance] Après complétion du niveau, porte chance
 46	Mission du 9e anniversaire. Termine L’empire des Chats ch. 1 pendant cet événement !
 9305	Termine le 30e étage de la Tour infernale. * Récompense à récupérer une seule fois
-47	Rapport de l'impératrice : Chercheur en Aku. Termine les niv. 1 à 5, 5 fois chacun
+47	Rapport de l'impératrice : Chercheur en Aku. Termine chacun des niv. Rapport de l'impératrice, 5 fois chacun
 9321	【Invasion】Termine le niveau Clionel ascendant. 1 fois en utilisant 7 Chats spéciaux ou +
 9322	【Invasion】Termine le niveau Couronnement de la reine. 1 fois en utilisant 7 Chats classiques ou +
 9323	【Invasion】Termine le niveau Morts et boursouflés ! Tu dois aussi terminer le niveau spécial associé
@@ -808,6 +808,9 @@
 9441	Clear Hatsune Miku collab stages 30 times!
 9442	Clear Hatsune Miku collab stages 50 times!
 9467	Viens à bout du 50e étage de la Tour céleste. ※ Cette récompense ne s’obtient qu’une fois
+9468	Clear stages from "Metal Slug Collab"
+9469	Clear stages from "Metal Slug Collab"
+9470	Clear stages from "Metal Slug Collab"
 9471	[90 M de DL] Termine toutes les missions d’événement. pour gagner 1 éclat platine !
 9472	[90 M de DL] Réussis 1 expéditions avec Gamatoto !
 9473	[90 M de DL] Réussis 3 expéditions avec Gamatoto !
@@ -831,7 +834,7 @@
 9494	[Colisée d’outre-monde] Mission d’événement limité. Termine Colisée d’outre-monde niveau 1 étape 5
 9495	[Colisée d’outre-monde] Mission d’événement limité. Termine Colisée d’outre-monde niveau 2 étape 3
 9496	[Colisée d’outre-monde] Mission d’événement limité. Termine Colisée d’outre-monde niveau 2 étape 5
-9497	[1 : 10 ans de souvenirs] Obtiens toutes les unités anniv
+9497	[Partie 1 : 10 ans de souvenirs] Obtiens 4 unités anniv
 9498	[Défilé des 10 ans] Termine toutes les missions des parties. 1 à 5 pour obtenir un ticket légendaire
 9499	[Niveau Invasion] Mission à durée limitée. Termine Tribunal du tourment
 9500	[Niveau Invasion] Mission à durée limitée. Termine Première course
@@ -852,3 +855,14 @@
 9524	[2 : Évasion du naufragé] ① : Combat contre la nature. Termine le niveau 1 de Survie dans la jungle !
 9525	[2 : Évasion du naufragé] ② : Combat contre la nature. Termine le niveau 4 de Survie dans la jungle !
 65	[Associer un compte] Va dans Paramètres →. Changer de compte/d'appareil pour lier ton compte
+9526	Termine des niveaux de l'événement d'Halloween
+9527	Termine des niveaux de l'événement d'Halloween
+9528	Termine des niveaux de l'événement d'Halloween
+9529	Gagne un objet vedette dans les Chapsules. de l'événement Fête d'Halloween !
+9530	Termine toutes les missions de l'événement d'Halloween. pour gagner 1 ticket rare !
+9531	[Campagne Débutant] Termine 4 niv. de L'empire des Chats
+9532	[Campagne Débutant] Termine 8 niv. de L'empire des Chats
+9533	[Campagne Débutant] Termine 12 niv. de L'empire des Chats
+9534	[Campagne Débutant] Termine le niv. Japon de L'empire des. Chats et gagne un ticket rare pour des Chapsules rares !
+9535	[Campagne Débutant] Termine le niv. Japon de L'empire des. Chats et gagne de l'Autorité pour récupérer du Charburant !
+66	Viens à bout de la forme de vie dans le Labyrinthe. de l'ancienne forêt, niveau 1 étape 6

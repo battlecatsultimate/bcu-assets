@@ -156,8 +156,8 @@
 155	Squid
 156	Marching Kory
 157	
-158	
-159	
+158	Takuya
+159	Yuki
 160	Chickful A
 161	
 162	
@@ -187,14 +187,14 @@
 186	
 187	
 188	
-189	
-190	
-191	
-192	
-193	
-194	
-195	
-196	
+189	MARS PEOPLE
+190	DONALD MORDEN
+191	ALLEN O'NEIL
+192	MARCO
+193	SV-001
+194	HUGE HERMIT
+195	JUPITER KING
+196	HI-DO
 197	Pumpkin Doge
 198	Count Owlbrow
 199	Vlad de Sable
@@ -257,7 +257,7 @@
 256	Tackey
 257	King Wahwah
 258	Codename "Red Riding"
-259	
+259	Takuya & Lovely Yuki
 260	Kite Cat
 261	Boraphim
 262	Ritual Drum Doge
@@ -337,13 +337,13 @@
 336	Golden Doge
 337	Gold Hippoe
 338	Pure Gold R.Ost
-339	
+339	Lost World Yuki
 340	Cala Maria
 341	Red Slug
 342	Black Slug
 343	Angelic Slug
 344	Cat Kart P
-345	
+345	Catkwondo SP
 346	Merc & Cat
 347	Titi Cat
 348	Orthos
@@ -406,7 +406,7 @@
 405	Mecha-Bun
 406	Relic Bun-Bun
 407	Relic Doge
-408	
+408	Crazed Yuki
 409	
 410	
 411	Gorilliam
@@ -459,7 +459,7 @@
 458	
 459	
 460	
-461	
+461	Kano ＆ Souma
 462	
 463	
 464	
@@ -505,7 +505,7 @@
 504	
 505	
 506	Everlord Wanwan
-507	
+507	Messier
 508	
 509	
 510	Le'Grim
@@ -623,7 +623,7 @@
 622	
 623	
 624	Cumulus Gallus
-625	
+625	10th Anniv. Cake Doge
 626	
 627	Ancient Magamojoe
 628	Great Ape Luza
@@ -644,7 +644,7 @@
 643	Grand Mage Mimon
 644	
 645	
-646	
+646	Redhead Yuki Cat
 647	
 648	
 649	Lutrinae Gokurakko
@@ -673,7 +673,7 @@
 672	
 673	
 674	Esoteric Uril
-675	
+675	SOL DAE ROKKER
 676	
 677	Sage of Mind Soractes
 678	
@@ -686,13 +686,17 @@
 685	
 686	Voluptuous Peony - Daji
 687	Madhead
-688	
-689	
-690	
-691	
+688	Kenshin Himura
+689	Sanosuke Sagara
+690	Aoshi Shinomori
+691	Hajime Saito
 692	Doctor K.O.
 693	
 694	Techn-Old Hyena
 695	Log
 696	Boulder
 697	Diabrollow
+698	Oldstrich
+699	Sage of Life Dr. Nova
+700	Idi:Ne
+701	Cafeteria Cat

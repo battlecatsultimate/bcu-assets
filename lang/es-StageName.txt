@@ -1476,14 +1476,14 @@
 001-319-000	Tentación del Impío
 001-319-001	Tentación del Demonio
 001-319-002	Tentación del Archienemigo
-001-320		#01 Lucha de azúcar
+001-320		#02 Lucha de azúcar
 001-320-000	Tarta simple
 001-320-001	Chocolate sin cacao
 001-320-002	Gominola pesada
 001-320-003	Caramelo de diente de plata
 001-320-004	Hombre de galleta viviente
 001-320-005	Casa de jengibre decrépita
-001-321		#03 Planes traviesos
+001-321		#04 Planes traviesos
 001-321-000	El mundo se duerme
 001-321-001	Océanos de gelatina
 001-321-002	El mundo paralizado
@@ -1696,6 +1696,9 @@
 001-383		La Reina Más Vieja
 001-383-000	El Regreso del Insecto (Inhumano)
 001-383-001	La Reina de las Abejas (Inhumano)
+001-384		Vendedor de Comida, Álzate！
+001-384-000	Evolución Aplazada 1 (Demencial)
+001-384-001	Evolución Aplazada 2 (Demencial)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3298,6 +3301,10 @@
 004-066-000	Último Difunto (Inhumano)
 004-067		La Reina y el Santo
 004-067-000	Hermana Santa (Inhumano)
+004-068		
+004-068-000	La Cara de Dios
+004-069		
+004-069-000	Revivir del Origen
 
 006			Dojo Afilagarras
 006-000		Sala de Iniciados
@@ -5031,6 +5038,17 @@
 024-067-007	Nos Vamos por Fin
 024-067-008	Balsa Tragada por la Tormenta
 024-067-009	Los Gatos Estivales Vuelven a Casa
+024-068		#01 Fantasmagoría
+024-068-000	Reunión Fantasmal
+024-068-001	Exorcista Urbano
+024-068-002	Civiles Poseídos
+024-068-003	Demonio Disfrazado
+024-068-004	Poli Falso al Rescate
+024-068-005	Sal Supereficaz
+024-068-006	Asuntos Exorcizantes
+024-068-007	Ubicación Encantada
+024-068-008	Espíritus Cabezotas
+024-068-009	Atrápalos a Todos
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -5689,6 +5707,13 @@
 034-013-003	Desfile Veloz
 034-013-004	Playa Privada
 034-013-005	Emigración Costosa
+034-014		Zona restringida
+034-014-000	Canal de Fleming
+034-014-001	Jungla Antimateria
+034-014-002	Flujo Cero Inerte
+034-014-003	Entropía Tropical
+034-014-004	Archipiélago Euler
+034-014-005	Fruta de poder divino
 
 036			Colosseum Stages
 036-000		Coliseo de Otro Mundo

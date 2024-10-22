@@ -187,14 +187,14 @@
 186	
 187	
 188	
-189	
-190	
-191	
-192	
-193	
-194	
-195	
-196	
+189	MARS PEOPLE
+190	DONALD MORDEN
+191	ALLEN O'NEIL
+192	MARCO
+193	SV-001
+194	HUGE HERMIT
+195	JUPITER KING
+196	HI-DO
 197	Chucho Calabaza
 198	Conde Lechuzo
 199	Murciélago de la Paz
@@ -673,7 +673,7 @@
 672	
 673	
 674	Uril Esotérico
-675	
+675	SOL DAE ROKKER
 676	
 677	Sórcates Mente Brillante
 678	
@@ -696,3 +696,7 @@
 695	Tronco
 696	Peñasco
 697	Diablondrino
+698	Aviejastruz
+699	Maestro de la Vida Dr. Nova
+700	Idi:Ne
+701	Gato de Cafetería

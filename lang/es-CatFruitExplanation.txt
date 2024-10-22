@@ -156,7 +156,7 @@
 155	<br><br>
 156	<br><br>
 157	<br><br>
-158	La forma final tiene una mayor defensa<br>y más velocidad de ataque y de movimiento.<br>
+158	La forma final tiene una mayor defensa<br>y más velocidad de ataque y de movimiento.<br>	Ultraforma mejora la defensa, el ataque<br>y reduce el tiempo de recuperación tras<br>el despliegue! 100% lanza minioleadas.
 159	La forma final tiene más<br>poder de ataque y alcance.<br>
 160	True Form evolution increases Defense and<br>attack range, move speed, and attack speed!<br>
 161	True Form evolution increases<br>defense, attack speed and attack range!<br>Plus, higher Knockback chance vs Metal!
@@ -220,10 +220,10 @@
 219	<br><br>
 220	<br><br>
 221	<br><br>
-222	<br><br>
-223	<br><br>
-224	<br><br>
-225	<br><br>
+222	True form evolution gains improved defense!<br>Also gain Strong vs. Black and gains<br>immunity to Warp effects.
+223	True form evolution gains improved defense!<br>Also gains Surge Attacks and Barrier Break!<br>
+224	True Form evolution gains Resistance<br>vs. Traitless, and may sometimes<br>Knockback enemies!
+225	True Form evolution gains improved attack<br>and defense! Also lower deployment cost!<br>
 226	La forma final solo ataca a álienes,<br>pero tiene una defensa y un poder de ataque<br>mucho mayores y resiste a penalizaciones.
 227	La forma final es más fuerte contra<br>enemigos negros. ¡También gana<br>Matamastodondes!
 228	La forma final bloquea oleadas.<br>Y es inmune a las oleadas.<br>
@@ -566,7 +566,7 @@
 565	La forma final tiene más<br>defensa y velocidad de movimiento.<br>
 566	La forma final es matamastodontes.<br><br>
 567	<br><br>
-568	<br><br>
+568	¡La forma final tiene más defensa!<br>Hace daño demencial a reliquias<br>y obtiene Asesino Sabio.	<br><br>
 569	La forma final tiene más defensa,<br>defensa y poder de ataque.<br>y un área de efecto de oleada más amplia.
 570	La forma final<br>siempre repele y ralentiza a<br>zombis y álienes.
 571	<br><br>
@@ -647,7 +647,7 @@
 646	<br><br>
 647	La forma final es más<br>eficaz contra enemigos rojos y álienes.<br>
 648	<br><br>
-649	<br><br>
+649	La forma final tiene una mayor defensa<br>y paraliza más tiempo.<br>
 650	<br><br>
 651	<br><br>
 652	<br><br>
@@ -681,7 +681,7 @@
 680	<br><br>
 681	<br><br>
 682	<br><br>
-683	<br><br>
+683	Forma final: tiene más poder de ataque<br>Gana más velocidad de movimiento<br>y siempre sobrevive a un golpe mortal.
 684	<br><br>
 685	La forma final revela su apariencia real.<br>Además, garantiza atravesar y romper<br>escudos y barreras.
 686	<br><br>
@@ -766,3 +766,9 @@
 765	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
 766	<br><br>
 767	<br><br>
+768	<br><br>
+769	<br><br>
+770	<br><br>
+771	<br><br>
+772	<br><br>
+773	<br><br>

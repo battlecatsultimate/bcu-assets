@@ -115,3 +115,5 @@
 114	Du erhältst Meister der Gedanken Soraktes
 115	Schließe „Gigahaniwan schlägt zu!“ ab
 116	Schließe „Supersmash-Familien“ ab.
+117	Schließe alle „Unh. Legenden“-Level der Stufe 4 ab.
+118	Schließe ein Nova-Level ab

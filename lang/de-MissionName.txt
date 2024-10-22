@@ -674,7 +674,7 @@
 9303	[F5. „Glückssache“-Quiz] Verschenke Glück nach Levelabschluss
 46	Mission zum 9. Jubiläum. Schließe während dieses Events „Katzenimperium Kap. 1“ ab!
 9305	Schließe Ebene 30 des Höllischen Turms ab. * Belohnung kann nur ein Mal eingefordert werden
-47	Bericht der Kaiserin: Aku-Forschung. Schließe „Bericht der Kaiserin 1 - 5“-Level jeweils 5 Mal ab
+47	Bericht der Kaiserin: Aku-Forschung. Schließe jedes „Bericht der Kaiserin“-Level jeweils 5 Mal ab
 9321	【Invasion】Schließe „Aufsteigender. Clionel“ 1-mal mit min. 7 Sonderkatzen ab
 9322	【Invasion】Schließe „Krönung. der Königin“ 1-mal mit min. 7 Normalen Katzen ab
 9323	【Invasion】Schließe „Tot & rund“ ab! Du musst auch das zugehörige Sonderlevel abschließen
@@ -750,9 +750,9 @@
 9386	Clear stages from "Street Fighter V CE Collab"
 9387	Clear stages from "Street Fighter V CE Collab"
 9388	[Teil 1: 10 Jahre Erinnerungen] 1. Sammle eine Jubiläumseinheit! Tipp: Medaille zum 5. Jubiläum der Battle Cats
-9389	[Teil 1: 10 Jahre Erinnerungen] 2. Sammle eine Jubiläumseinheit! Tipp: Katze, die bei Events. Glück hat
-9391	[Teil 1: 10 Jahre Erinnerungen] 4. Sammle eine Jubiläumseinheit! Tipp: Wertvolle Katze der. 9. Jubiläumsfeier
-9392	[Teil 1: 10 Jahre Erinnerungen] 5. Sammle eine Jubiläumseinheit! Tipp: Ein Meditierender. vom 10. Jubiläum
+9389	[Teil 1: 10 Jahre Erinnerungen] 2. Sammle eine Jubiläumseinheit! Tipp: Katze, die bei Events Glück hat
+9391	[Teil 1: 10 Jahre Erinnerungen] 4. Sammle eine Jubiläumseinheit! Tipp: Wertvolle Katze der 9. Jubiläumsfeier
+9392	[Teil 1: 10 Jahre Erinnerungen] 5. Sammle eine Jubiläumseinheit! Tipp: Ein Meditierender vom 10. Jubiläum
 9394	[Teil 1: 10 Jahre Erinnerungen] Schließe „10 Jahre Erinnerungen“-Lvl 5-mal ab!
 9395	[Teil 1: 10 Jahre Erinnerungen] Schließe „10 Jahre Erinnerungen“-Lvl 15-mal ab!
 9396	[Teil 1: 10 Jahre Erinnerungen] Schließe „10 Jahre Erinnerungen“-Lvl 30-mal ab!
@@ -808,6 +808,9 @@
 9441	Clear Hatsune Miku collab stages 30 times!
 9442	Clear Hatsune Miku collab stages 50 times!
 9467	Schließe die 50. Ebene des Himmlischen Turms ab. (Diese Belohnung kann nur einmal abgeholt werden.)
+9468	Clear stages from "Metal Slug Collab"
+9469	Clear stages from "Metal Slug Collab"
+9470	Clear stages from "Metal Slug Collab"
 9471	(90 Mio. DL) Schließe alle Eventmissionen ab. und verdiene 1 Platinsplitter!
 9472	(90 Mio. DL) Schicke Gamatoto auf 1 erfolgr. Expedition!
 9473	(90 Mio. DL) Schicke Gamatoto auf 3 erfolgr. Expeditionen!
@@ -831,7 +834,7 @@
 9494	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 1 Level 5 ab
 9495	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 2 Level 3 ab
 9496	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 2 Level 5 ab
-9497	[Teil 1: 10 Jahre Erinnerungen] Sammle Jubiläumseinheiten
+9497	[Teil 1: 10 Jahre Erinnerungen] Sammle 4 Jubiläumseinheiten
 9498	[10.-Jubiläum-Parade] Schließe alle Missionen von. Teil 1–5 ab und hol dir ein Legenden-Ticket
 9499	[Invasionslevel] Limitierte Eventmission. Schließe „Hof der Pein“ ab
 9500	[Invasionslevel] Limitierte Eventmission. Schließe „Erster Botengang“ ab
@@ -852,3 +855,14 @@
 9524	[Schiffbruch-Flucht Teil 2] ①: Kampf gegen die Natur. Schließe Lv. 1 von „Überleben im Dschungel“ ab!
 9525	[Schiffbruch-Flucht Teil 2] ②: Kampf gegen die Natur. Schließe Lv. 4 von „Überleben im Dschungel“ ab!
 65	[Kontoverbindung]. In Optionen→Konto ändern/Konto mit Gerät verbinden
+9526	Schließe Level aus „Halloween-Event“
+9527	Schließe Level aus „Halloween-Event“
+9528	Schließe Level aus „Halloween-Event“
+9529	Verdiene einen Sondergegenstand aus. den Halloween-Party-Eventkapseln!
+9530	Schließe alle Halloween-Eventmissionen ab. und verdiene 1 seltenes Ticket!
+9531	[Anfängerkampagne] Schließe 4 Katzenimperium-Level ab
+9532	[Anfängerkampagne] Schließe 8 Katzenimperium-Level ab
+9533	[Anfängerkampagne] Schließe 12 Katzenimperium-Level ab
+9534	[Anfängerkampagne] Schließe das Japan-Level in Katzenimperium ab. und verdiene ein seltenes Ticket für die seltenen Kapseln!
+9535	[Anfängerkampagne] Schließe das Japan-Level in Katzenimperium ab. und verdiene Führung, um Katzenenergie wiederherzustellen!
+66	Besiege die Lebensform im Uralten Waldlabyrinth. St.1 Level 6

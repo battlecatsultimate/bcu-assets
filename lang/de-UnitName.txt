@@ -156,7 +156,7 @@
 155				
 156				
 157				
-158	Uesugi Kenshin	Kriegsgöttin Kenshin	Unsterbliche Kenshin	
+158	Uesugi Kenshin	Kriegsgöttin Kenshin	Unsterbliche Kenshin	Höllenreiterin-Kenshin
 159	Kalisa	Kalisa, Typ χ	Himmlische Kalisa	
 160	Yurinchi	Phoenix Yurinchi	Gekirinchi	
 161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt	
@@ -212,7 +212,7 @@
 211	Kleine Axtkatze	Kleine kühne Katze	Kleine dunkle Katze	
 212	Das weiße Häschen	Die schwarze Katze	Grauer Fuchs	Die spektrale Katze
 213	Catburger	Cat Royale	Menü-Katze	
-214	HYAKUTARO	HYAKUTARO CC		
+214	HYAKUTARO	HYAKUTARO CC	Recruited from the Metal Slug series!	
 215	MARCO	MARCO CC		
 216	TARMA	TARMA CC		
 217	ERI	ERI CC		
@@ -220,10 +220,10 @@
 219	SV-001	SV-001 CC		
 220	ALLEN O'NEIL	ALLEN O'NEIL CC		
 221	MARS PEOPLE	MARS PEOPLE CC		
-222	HUGE HERMIT	HUGE HERMIT CC		
-223	JUPITER KING	JUPITER KING CC		
-224	DONALD MORDEN	GENERAL MORDEN		
-225	HI-DO	HI-DO CC		
+222	HUGE HERMIT	HUGE HERMIT CC	GOLDEN HUGE HERMIT CC	
+223	JUPITER KING	JUPITER KING CC	GOLDEN JUPITER CC	
+224	DONALD MORDEN	GENERAL MORDEN	GOLDEN MORDEN CC	
+225	HI-DO	HI-DO CC	HI-DO MK III	
 226	Hexer und Pierre	Dunkler Händler Babil	Irrer Doktor Klay	
 227	Kürbiskatze	Geisterlaternenkatze	Vorbotenkatze	
 228	Düstere Neneko	Hexe Neneko	Kostümierte Hexe Neneko	
@@ -301,7 +301,7 @@
 300	Li'l Homura	Li'l Magical Girl Homura	Li'l Devil Homura	
 301	Kyubey Cat	Tank Kyubey Cat		
 302	Lilith-Katze	Succubus-Katze	Königin Succubus-Katze	
-303	Essensstandkatze	Lieferdienstkatze		
+303	Essensstandkatze	Lieferdienstkatze	Kantinenkatze	
 304	Mächtiges Katzapult	KATZ-6-Belagerungswaffe	KATZ-8-Behemoth	KAT-10-Gigapult
 305	Mächtiges Kampfschiff	K.K.S. Löwenherz	K.K.S. Tigerklaue	
 306	Mächtiger Bomber	NEK-0-Himmelsfestung	NEK-02-Luftzitadelle	
@@ -566,7 +566,7 @@
 565	Gebräunte Katze	Gebräunte Macho-Katze	Lockige gebräunte Katze	
 566	Rettungsschwimmerkatzen	Süße Brüderkatzen	Gelato-Brüderkatzen	
 567	Kleines Zyklopenkatzenei	Kleine Zyklopenkatze		
-568	Idi:N	Idi:N2		
+568	Idi:N	Idi:N2	Idi:NX	
 569	Kiesi	Kiesolo	Kiesolodon	
 570	Schädelreiter Vars	Albtraumkönig Vars	Halloweenritter Vars	
 571	E. Honda	E. Honda CC		
@@ -647,7 +647,7 @@
 646	Böllerkatze	Macho-Böllerkatze		
 647	Jägerin Terun	Jägerin Terun ζ	Göttliche Jägerin Terun ζ	
 648	Verliebter Unterdämon	Verliebter Oberdämon		
-649	Hattori Hanzo	Kriegsgott Hanzo		
+649	Hattori Hanzo	Kriegsgott Hanzo	Unsterblicher Hanzo	
 650	Heimlicher-Schwarm-Katze	Freundin-Katze		
 651	Wildfang-Löwenkatze	Löwenkatze in eiserner Maske		
 652	Tafelschwammkatze	Tafelschwamm-Punkkatze		
@@ -681,7 +681,7 @@
 680	Sakura	Sakura CC		
 681	Luke	Luke CC		
 682	Spektralgrufti Vega	Illusionäre Wächterin Vega		
-683	Graf Yukimura	Nosferatu Yukimura		
+683	Graf Yukimura	Nosferatu Yukimura	Vampirischer Yukimura	
 684	Gehirngewaschene Fischkatze	Gehirngewaschene Walkatze	Gehirngewaschene Inselkatze	
 685	Uraltes Ei: N004	Mystisches Ei: N004	Supersportwagen-Katze	
 686	Lichtgöttin Sirius	Sonnenaufgangsgöttin Sirius		
@@ -725,7 +725,7 @@
 724	Uraltes Ei: N112	Mystisches Ei: N112	Katzeneierkapsel	
 725	Ninjamädchen Tomoe	Gourmand-Ninjamädchen Tomoe		
 726				
-727				
+727	SOL DAE ROKKER	SOL DAE ROKKER CC		
 728	Meister der Gedanken Soraktes	Meister der Gedanken Katzkrates		
 729				
 730				
@@ -766,3 +766,9 @@
 765	Uraltes Ei: N206	Zinnober-Ei: N206	Muschelkatze	
 766	Sardine	Sardine CC	Zu Besuch aus „Survive! Mola Mola“. Winzige Knochen können	
 767	Tintenfisch	Tintenfisch CC		
+768				
+769	Hanasaka-Katze	Verfressene Kirsche		
+770				
+771	Meister des Lebens Dr. Nova	Meister des Lebens Katznova		
+772	Kürbis-Sodom	Sodomlaterne		
+773	Mumien-Sumo	Mama-Mumien-Sumo		

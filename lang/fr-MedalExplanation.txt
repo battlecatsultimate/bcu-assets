@@ -115,3 +115,5 @@
 114	Reçois Soracte, mentor mental
 115	Termine Attaque de Gigahaniwan !
 116	Termine Super Smash Familles
+117	Termine tous les niveaux Légende mystérieuse de niv. 4
+118	Termine le niveau Nova

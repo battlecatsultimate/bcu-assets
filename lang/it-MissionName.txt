@@ -674,7 +674,7 @@
 9303	【D5. Tempo e fortuna】 Supera il livello, porta fortuna e. apri la porta! Supera 3 livelli Paradiso! ()
 46	Missione del nono anniversario. Supera Impero dei Gatti Cap. 1 durante questo evento!
 9305	Supera il 30° piano della Torre infernale. * Puoi ricevere la ricompensa solo una volta
-47	Resoconto dell'imperatrice: Ricerca di Aku. Resoconto dell'imperatrice 1: supera 5 liv. 5 volte.
+47	Resoconto dell'imperatrice: Ricerca di Aku. Resoconto dell'imperatrice: supera ogni liv. 5 volte.
 9321	【Invasione】Supera il livello "Clionel Ascendente". 1 volte usando 7 o più Gatti speciali
 9322	【Invasione】Supera il livello "Incoronazione regale". 1 volte usando 7 o più Gatti normali
 9323	【Invasione】Supera il livello "Il morto e il gonfio"! Devi anche superare il livello di continuazione associato
@@ -808,6 +808,9 @@
 9441	Clear Hatsune Miku collab stages 30 times!
 9442	Clear Hatsune Miku collab stages 50 times!
 9467	Supera il 50° piano della Torre celestiale. (Questa ricompensa può essere riscattata una volta sola.)
+9468	Clear stages from "Metal Slug Collab"
+9469	Clear stages from "Metal Slug Collab"
+9470	Clear stages from "Metal Slug Collab"
 9471	【90M DL】Supera tutte le missioni evento. e ottieni 1 pezzo di platino!
 9472	【90M DL】Manda Gamatoto in 1 spedizioni riuscite! (Completa 1 spedizione in un'area Gamatoto)
 9473	【90M DL】Manda Gamatoto in 3 spedizioni riuscite! . (Completa 3 spedizioni in un'area Gamatoto)
@@ -831,7 +834,7 @@
 9494	[Colosseo ultraterreno] Missione evento limitato. Supera Colosseo ultraterreno livello 1 Round 5
 9495	[Colosseo ultraterreno] Missione evento limitato. Supera Colosseo ultraterreno livello 2 Round 3
 9496	[Colosseo ultraterreno] Missione evento limitato. Supera Colosseo ultraterreno livello 2 Round 5
-9497	[Parte 1: Dieci anni di ricordi] Ottieni tutte le unità. anniversario dalle capsule evento!
+9497	[Parte 1: Dieci anni di ricordi] Ottieni 4 unità. anniversario dalle capsule evento!
 9498	[Parata in onore dei dieci anni] Supera tutte le missioni. di tutte le parti per riscattare un Biglietto leggendario
 9499	[Livello di invasione] Missione evento limitato. Supera Tribunale del Tormento
 9500	[Livello di invasione] Missione evento limitato. Supera Prima faccenda
@@ -852,3 +855,14 @@
 9524	[Fuga del naufrago Parte 2] ①: Battaglia contro la natura. Supera il livello 1 di Vita nella giungla!
 9525	[Fuga del naufrago Parte 2] ②: Battaglia contro la natura. Supera il livello 4 di Vita nella giungla!
 65	[Collega account] Vai a Impostazioni→. Cambia account/dispositivo per collegarlo
+9526	Supera i livelli dell'evento Halloween. 10 volte! (Qualsiasi livello evento)
+9527	Supera i livelli dell'evento Halloween. 20 volte! (Qualsiasi livello evento)
+9528	Supera i livelli dell'evento Halloween. 30 volte! (Qualsiasi livello evento)
+9529	Acquista un oggetto in evidenza dalle. capsule dell'evento Festa di Halloween!
+9530	Supera tutte le missioni dell'evento Halloween. e ottieni 1 biglietto raro!
+9531	[Campagna principianti] Supera 4 livelli di Impero dei Gatti. (Qualsiasi livello di Impero dei Gatti)
+9532	[Campagna principianti] Supera 8 livelli di Impero dei Gatti. (Qualsiasi livello di Impero dei Gatti)
+9533	[Campagna principianti] Supera 12 livelli di Impero dei Gatti. (Qualsiasi livello di Impero dei Gatti)
+9534	[Campagna principianti] Supera Giappone di Impero. dei Gatti e ottieni 1 biglietto raro per capsule rare!
+9535	[Campagna principianti] Supera Giappone di Impero dei. Gatti e ottieni leadership per recuperare energia felina!
+66	Sconfiggi la forma di vita nel Labirinto antica foresta. Liv.1 fase 6

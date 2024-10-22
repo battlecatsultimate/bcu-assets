@@ -185,16 +185,16 @@
 184	Unica figlia della dinastia politica più potente<br>di Centauri anno 1192. Bella, intelligente,<br>spiritosa... eppure ha sposato un chihuahua<br>di un reality. Più forte dopo aver subito danni.
 185	Anche se è ancora uno studente universitario,<br>la sua ricerca sulle cose zozze è così profonda<br>e meticolosa che gli amici lo chiamano Professore.<br>Le esperienze amorose sono ancora a zero.
 186	
-187	
-188	
-189	
-190	
-191	
-192	
-193	
-194	
-195	
-196	
+187	<br><br><br>
+188	<br><br><br>
+189	<br><br><br>
+190	<br><br><br>
+191	<br><br><br>
+192	<br><br><br>
+193	<br><br><br>
+194	<br><br><br>
+195	<br><br><br>
+196	<br><br><br>
 197	<br><br><br>
 198	<br><br><br>
 199	<br><br><br>
@@ -671,9 +671,9 @@
 670	<br><br><br>
 671	<br><br><br>
 672	<br><br><br>
-673	
+673	<br><br><br>
 674	<br><br><br>
-675	
+675	<br><br><br>
 676	
 677	Saggio di rango alto che studia il mondo da<br>un altro regno. Ha raggiunto un accordo con il genere umano,<br>dispensando loro saggezza. La sete insaziabile<br>di conoscenza gli ha garantito un incontro con i Gatti.
 678	
@@ -696,3 +696,7 @@
 695	
 696	
 697	Un avido pennuto ossessionato dagli oggetti di valore.<br>Un giorno, ha trovato una pietra scintillante e ha deciso di<br>avviare un'attività di vendita di tesori. Se il compratore<br>promette di saldare il suo debito, la transazione è completa.
+698	Comico immortale. Ha rinunciato ai sentimenti<br>per diventare più bravo. L'amnesia cronica<br>gli fa dimenticare battute durante le<br>esibizioni, ma non sembra sia un problema.
+699	Il frutto del lavoro di un antico scienziato per<br>creare un essere che superasse l'umanità.<br>Dopo aver condotto i Gatti in un'altra dimensione,<br>uno strano cristallo ne ha consumato l'ego.
+700	Esemplare #???. Stato: microbi instabili.<br>Energia di battaglia: incalcolabile.<br>Si riproduce conservando e diffondendo semi.<br>La forma di vita definitiva è quasi arrivata.
+701	

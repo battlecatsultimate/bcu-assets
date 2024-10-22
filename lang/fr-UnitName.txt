@@ -156,7 +156,7 @@
 155				
 156				
 157				
-158	Uesugi Kenshin	Kenshin déesse de la guerre	Kenshin immortelle	
+158	Uesugi Kenshin	Kenshin déesse de la guerre	Kenshin immortelle	Kenshin infernale
 159	Kalisa	Kalisa, type χ	Kalisa divine	
 160	Yurinchi	Phoenix Yurinchi	Gekirinchi	
 161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt	
@@ -212,7 +212,7 @@
 211	P’tit Chat borgne	P’tit Chardi	P’tit Chat de l’ombre	
 212	Le lapin blanc	Le Chat noir	Le renard gris	Le Chat spectral
 213	Chat burger	Chat royal	Chappy meal	
-214	HYAKUTARO	HYAKUTARO CC		
+214	HYAKUTARO	HYAKUTARO CC	Recruited from the Metal Slug series!	
 215	MARCO	MARCO CC		
 216	TARMA	TARMA CC		
 217	ERI	ERI CC		
@@ -220,10 +220,10 @@
 219	SV-001	SV-001 CC		
 220	ALLEN O'NEIL	ALLEN O'NEIL CC		
 221	MARS PEOPLE	MARS PEOPLE CC		
-222	HUGE HERMIT	HUGE HERMIT CC		
-223	JUPITER KING	JUPITER KING CC		
-224	DONALD MORDEN	GENERAL MORDEN		
-225	HI-DO	HI-DO CC		
+222	HUGE HERMIT	HUGE HERMIT CC	GOLDEN HUGE HERMIT CC	
+223	JUPITER KING	JUPITER KING CC	GOLDEN JUPITER CC	
+224	DONALD MORDEN	GENERAL MORDEN	GOLDEN MORDEN CC	
+225	HI-DO	HI-DO CC	HI-DO MK III	
 226	Sorcier et Pierre	Babil le marchand de l’ombre	Klay le savant fou	
 227	Chatrouille	Chatrouille-lanterne	Chat funeste	
 228	Neneko sombre	Neneko sorcière	Neneko sorcière costumée	
@@ -301,7 +301,7 @@
 300	Li'l Homura	Li'l Magical Girl Homura	Li'l Devil Homura	
 301	Kyubey Cat	Tank Kyubey Cat		
 302	Lilith féline	Chatte succube	Reine succube	
-303	Chat stand	Chat livreur		
+303	Chat stand	Chat livreur	Chat de la cantine	
 304	Puissante chatapulte	Engin de siège CHAT-6	Béhémoth CHAT-8	Gigapulte CAT-10
 305	Puissant cuiraté	Navire Cœur de lion	Navire Griffe de tigre	
 306	Puissant ronronbardier	Forteresse aérienne NEK-0	Citadelle aérienne NEK-02	
@@ -566,7 +566,7 @@
 565	Chat bronzé	Chat bronzé macho	Chat bronzé à la permanente	
 566	Chats sauveteurs	Chats frangins	Chats frangins gelato	
 567	Œuf de Chat P’tit Clops	Chat P’tit Clops		
-568	Idi:N	Idi:N2		
+568	Idi:N	Idi:N2	Idi:NX	
 569	Gravi	Gravolo	Gravolodon	
 570	Cavalier squelettique Vars	Roi cauchemardesque Vars	Chavalier d’Halloween Vars	
 571	E. Honda	E. Honda CC		
@@ -647,7 +647,7 @@
 646	Chat pétard	Chat pétard macho		
 647	Terun chasseresse	Terun chasseresse ζ	Terun chasseresse divine ζ	
 648	Démon inférieur amoureux	Démon supérieur amoureux		
-649	Hanzo Hattori	Hanzo dieu de la guerre		
+649	Hanzo Hattori	Hanzo dieu de la guerre	Hanzo immortel	
 650	Chatte flirt secret	Chatte petite amie		
 651	Chatte lion écolière	Chatte lion masque de fer		
 652	Chat effaceur de tableau	Chat purificateur de tableau		
@@ -681,7 +681,7 @@
 680	Sakura	Sakura CC		
 681	Luke	Luke CC		
 682	Déesse spectrale Véga	Gardienne illusoire Véga		
-683	Comte Yukimura	Nosferatu Yukimura		
+683	Comte Yukimura	Nosferatu Yukimura	Yukimura vampirique	
 684	Chat poisson sous contrôle	Chat baleine sous contrôle	Chat île sous contrôle	
 685	Œuf ancien N004	Œuf mystique N004	Chat supercar	
 686	Sirius déesse de la lumière	Sirius déesse de l'aube		
@@ -725,7 +725,7 @@
 724	Œuf ancien N112	Œuf mystique N112	Nacelle-œuf féline	
 725	Tomoe kunoichi	Tomoe kunoichi gourmande		
 726				
-727				
+727	SOL DAE ROKKER	SOL DAE ROKKER CC		
 728	Soracte, mentor mental	Sochate, mentor mental		
 729				
 730				
@@ -766,3 +766,9 @@
 765	Œuf ancien N206	Œuf cinabre N206	Chapalourde	
 766	Sardine	Sardine CC	Provient de "Survive! Mola Mola!". Ses petites arêtes	
 767	Calmar	Calmar CC		
+768				
+769	Chat Hanasaka	Cerise vorace		
+770				
+771	Maître de la vie Dr Nova	Maître de la vie Chanova		
+772	Sodom citrouille	Sodom-o'-Lanterne		
+773	Momie sumo	Maman momie sumo		
