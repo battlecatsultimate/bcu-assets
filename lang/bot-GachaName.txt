@@ -82,7 +82,7 @@ E30	10th Anniversary Memorial Capsules
 E31	Summer Break Capsules
 E32	Summer Break Survival Capsules
 E33	Bikkuriman Chocolate Capsules
-E34 Halloween Party Capsules
+E34	Halloween Party Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -894,7 +894,7 @@ N65	Cats Eye Capsules
 919	-106	769
 920	-104	769
 921	-107	769
-922 -110	772
+922	-110	772
 923	-1011	759
 924	-2027	137, 177, 619
 925	-2002	768
