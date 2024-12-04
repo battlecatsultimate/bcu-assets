@@ -303,7 +303,7 @@
 302	Lilith Cat	Succubus Cat	Queen Succubus Cat
 303	Food Stall Cat	Delivery Cat	Cafeteria Cat
 304	Mighty Kat-A-Pult	CAT-6 Siege Engine	CAT-8 Behemoth	CAT-10 Gigapult
-305	Mighty Drednot	B.C.S. Lionheart	B.C.S. Tigerclaw
+305	Mighty Drednot	B.C.S. Lionheart	B.C.S. Tigerclaw	B.C.S. Beartooth
 306	Mighty Bomburr	NEK-0 Sky Fortress	NEK-02 Air Citadel
 307	Vaulter Cat	Polevaulter Cat	Housewife Cat
 308	Gardener Cat	Lumbercat	Weedwacker Cat
@@ -666,7 +666,7 @@
 665	Ancient Egg: N201	Dark Egg: N201	Exorcist Cat
 666	Night Beach Lilin	Night Beach Lilinπ
 667	Brainwashed Bird Cat	Brainwashed UFO Cat	Brainwashed Flying Cat
-668	Cat Tengu	Grand Yokai Tengu
+668	Cat Tengu	Grand Yokai Tengu	Immortal Master Tengu
 669	Ancient Egg: N003	Evil Egg: N003	Cat Cactus
 670	Ancient Egg: N202	Cinnabar Egg: N202	Armored Firefly Cat
 671	Ranma Saotome (Leotard)	Ranma Saotome (Cheerleader)
@@ -728,7 +728,7 @@
 727	SOL DAE ROKKER	SOL DAE ROKKER CC
 728	Master of Mind Soractes	Master of Mind Catcrates
 729	Soractes Spirit
-730	Ancient Egg: N204	Cinnabar Egg: N204	Lion Dance Cat
+730	Ancient Egg: N204	Cinnabar Egg: N204	Lion Dancer Cat
 731	Daybreaker Izanagi	Dawnbringer Izanagi	
 732	Izanagi Spirit
 733	Pegasa	Pegasa ν
