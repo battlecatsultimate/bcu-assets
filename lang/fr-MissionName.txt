@@ -1,6 +1,6 @@
 0	Améliore une unité depuis le menu Améliorer ! * Touche Améliorer sous une de tes unités
 1	Active la boisson énergisante dans Place aux Battle Cats ! * Trouve les 7 premiers trésors pour des capacités bonus
-2	Augmente ton rang joueur de 10 !
+2	Augmente ton rang joueur de 0 !
 3	Ouvre une Chapsule à la base féline ! * Obtiens et utilise un ticket Chapsule gratuit chaque jour
 4	Recrute un auxiliaire de Gamatoto ! * S’obtient en récompense d’expédition
 5	Termine un lieu avec un combo félin activé ! * Déploie certaines unités dans ta formation
@@ -27,33 +27,33 @@
 27	Termine toutes les Histoires lég. de niv. 2 pour finir la mission
 28	Termine toutes les Histoires lég. de niv. 3 pour finir la mission
 29	Mission du 8e anniversaire. Termine L’empire des Chats ch. 1 pendant cet événement !
-8000	Termine des lieux à récompenses tickets Chapsules 3 fois !
-8001	Termine des lieux à récompenses XP 5 fois !
-8002	Termine 5 Histoires légendaires jaunes !
-8003	Réussis 7 expéditions avec Gamatoto !
+8000	Termine des lieux à récompenses tickets Chapsules 13 fois !
+8001	Termine des lieux à récompenses XP 13 fois !
+8002	Termine 9 Histoires légendaires jaunes !
+8003	Réussis 17 expéditions avec Gamatoto !
 8004	Termine toutes les missions hebdomadaires !
-8005	Termine des lieux à récompenses tickets Chapsules 3 fois !
-8006	Termine des lieux à récompenses XP 5 fois !
-8007	Réussis 10 expéditions avec Gamatoto !
-8008	Termine des lieux à récompenses Chagrume 3 fois !
-8009	Termine 10 Histoires légendaires jaunes !
+8005	Termine des lieux à récompenses tickets Chapsules 13 fois !
+8006	Termine des lieux à récompenses XP 13 fois !
+8007	Réussis 17 expéditions avec Gamatoto !
+8008	Termine des lieux à récompenses Chagrume 13 fois !
+8009	Termine 9 Histoires légendaires jaunes !
 8010	Termine toutes les missions hebdomadaires !
 8011	Termine toutes les missions hebdomadaires !
 9000	Viens à bout du 30e étage de la Tour céleste. ※ Cette récompense ne s’obtient qu’une fois
-9001	Termine des lieux de Cours d’été 5 fois !
-9002	Termine des lieux de Cours d’été 10 fois !
-9003	Termine des lieux de Cours d’été 20 fois !
+9001	Termine des lieux de Cours d’été 9 fois !
+9002	Termine des lieux de Cours d’été 9 fois !
+9003	Termine des lieux de Cours d’été 9 fois !
 9004	Récupère l’unité rare : Chat Awa-Odori ! ※ Disponible dans n’importe quel lieu de Journal d’été
 9005	Termine toutes les missions spéciales !
-9011	Termine des lieux Silver Week 5 fois !
-9012	Termine des lieux Silver Week 10 fois !
-9013	Termine des lieux Silver Week 20 fois !
+9011	Termine des lieux Silver Week 9 fois !
+9012	Termine des lieux Silver Week 9 fois !
+9013	Termine des lieux Silver Week 9 fois !
 9014	Termine toutes les missions Silver Week !
 9015	Score 5000 or more on "Immortal Allen O'Neill"! Receive your score upon stage clear
 9016	Score 5000 or more on "Attack On Huge Hermit"! Receive your score upon stage clear
 9017	Score 5000 or more on "Jupiter King Convoy"! Receive your score upon stage clear
 9018	Score 3000 or more on "Devils on the Doorstep"! Receive your score upon stage clear
-9019	Termine 5 ans de rigolade 5 fois ! Nouv. lieux + récomp. tous les jours !
+9019	Termine 5 ans de rigolade 9 fois ! Nouv. lieux + récomp. tous les jours !
 9020	Marque 5 555 points dans Plan quinquennal ! Trouve ce lieu à classement dans le Dojo Griffélin !
 9021	Fais évoluer Chat pièce ! ※ Le Chat doit évoluer avant la fin de l’événement
 9022	Score 4000 or more on "Schoolyard Clash"! Receive your score upon stage clear
@@ -61,33 +61,33 @@
 9024	Score 3000 or more on "Manor Ruins"! Receive your score upon stage clear
 9025	Score 2500 or more on "Inconspicuous Trap"! Receive your score upon stage clear
 9026	Score 1500 or more on "Beginning of the End"! Receive your score upon stage clear
-9027	Termine des lieux collab. blitz quotidiens 5 fois !
+9027	Termine des lieux collab. blitz quotidiens 9 fois !
 9028	Termine le 40e étage de la Tour céleste ! ※ Les récompenses ne sont remises qu’une fois
 9029	Marque plus de 2 500 points en. terminant le lieu On arrive en ville !
 9030	Marque plus de 2 000 points. dans le lieu Renne d’un soir !
 9031	Marque plus de 2 000 points. dans le lieu Crème fouettée !
 9032	Marque plus de 2 000 points. dans le lieu Coup d’atelier !
 9033	Marque plus de 1 500 points. dans le lieu Noël en guerre !
-9034	Termine Les Chats à la neige 5 fois !
-9035	Termine Les Chats à la neige 10 fois !
-9036	Termine Les Chats à la neige 20 fois !
+9034	Termine Les Chats à la neige 9 fois !
+9035	Termine Les Chats à la neige 9 fois !
+9036	Termine Les Chats à la neige 9 fois !
 9037	Score more than 3000 points on the. PowerPro collab stage "Round 1 (Easy)"!
 9038	Score more than 6000 points on the. PowerPro collab stage "Round 2 (Normal)"!
 9039	Score more than 6500 points on the. PowerPro collab stage "Final Round (Hard)"!
 9040	Marque plus de 2 000 points. dans le lieu ponctuel Chats-mallows !
 9041	Marque plus de 5 000 points. dans le lieu ponctuel Masque-pain !
 9042	Marque plus de 6 000 points. dans le lieu ponctuel Cavité grouillante !
-9043	Termine Allez les diplômés ! 5 fois !
-9044	Termine Allez les diplômés ! 10 fois !
-9045	Termine Allez les diplômés ! 20 fois !
+9043	Termine Allez les diplômés ! 9 fois !
+9044	Termine Allez les diplômés ! 9 fois !
+9045	Termine Allez les diplômés ! 9 fois !
 9046	Marque plus de 2 000 points. dans le lieu spécial Chats-mallows !
 9047	Marque plus de 5 000 points. dans le lieu spécial Masque-pain !
 9048	Marque plus de 6 000 points. dans le lieu spécial Cavité grouillante !
 9049	Améliore le Chat œuf jusqu’au niveau 10 ! ※ Le Chat doit évoluer avant la fin de l’événement
 9050	Upgrade Shinji & Cat to Level 10! (You must evolve the Cat before the event ends!)
-9051	Clear "Decisive Battle!" 5 times!
-9052	Clear "Decisive Battle!" 10 times!
-9053	Clear "Decisive Battle!" 20 times!
+9051	Clear "Decisive Battle!" 9 times!
+9052	Clear "Decisive Battle!" 9 times!
+9053	Clear "Decisive Battle!" 9 times!
 9054	Clear a stage using a catcombo with "Eva Angel Killer" effect! Use Shinji and ??? together (after Empire Ch. 1)
 9055	Destroy the 4th Angel. Encounter this enemy at "State of Emergency"
 9056	Destroy the 6th Angel. Encounter this enemy at "Futagoyama Fortress"
@@ -97,46 +97,46 @@
 9060	Evolve Pokota at Level 10! This mission can only be completed during the LINE Pokopang! collab event!
 9061	Evolve Ovis at Level 10! This mission can only be completed during the LINE Pokopang! collab event!
 9062	Evolve Coco at Level 10! This mission can only be completed during the LINE Pokopang! collab event!
-9063	Clear "Trio from the Woods" 5 times!
-9064	Clear "Trio from the Woods" 10 times!
-9065	Clear "Trio from the Woods" 20 times!
-9072	Termine La main de Midas 5 fois !
-9073	Termine La main de Midas 10 fois !
-9074	Termine La main de Midas 20 fois !
-9075	Clear "City of Souls" 5 times!
-9076	Clear "City of Souls" 10 times!
-9077	Clear "City of Souls" 20 times!
+9063	Clear "Trio from the Woods" 9 times!
+9064	Clear "Trio from the Woods" 9 times!
+9065	Clear "Trio from the Woods" 9 times!
+9072	Termine La main de Midas 9 fois !
+9073	Termine La main de Midas 9 fois !
+9074	Termine La main de Midas 9 fois !
+9075	Clear "City of Souls" 9 times!
+9076	Clear "City of Souls" 9 times!
+9077	Clear "City of Souls" 9 times!
 9078	Upgrade Yuki Cat to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
 9079	Upgrade Takuya ＆ Yuki to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
 9080	Upgrade Redhead Yuki Cat to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
-9085	Termine Victoire visqueuse 5 fois !
-9086	Termine Victoire visqueuse 10 fois !
-9087	Termine Victoire visqueuse 20 fois !
+9085	Termine Victoire visqueuse 9 fois !
+9086	Termine Victoire visqueuse 9 fois !
+9087	Termine Victoire visqueuse 9 fois !
 9088	Fais évoluer le Chat jockey au niveau 10 ! Uniquement pendant l’événement Étalons gluants !
-9089	Termine La noce interdite Partie 2 5 fois !
-9090	Termine La noce interdite Partie 2 10 fois !
-9091	Termine La noce interdite Partie 2 20 fois !
+9089	Termine La noce interdite Partie 2 9 fois !
+9090	Termine La noce interdite Partie 2 9 fois !
+9091	Termine La noce interdite Partie 2 9 fois !
 9092	Fais évoluer Madame mariée au niveau 10 ! Uniquement pendant l’événement mensuel de juin !
-9093	Termine The Battle Cats POP! 5 fois !
-9094	Termine The Battle Cats POP! 10 fois !
-9095	Termine The Battle Cats POP! 20 fois !
-9096	Termine The Battle Cats POP! 32 fois !
+9093	Termine The Battle Cats POP! 9 fois !
+9094	Termine The Battle Cats POP! 9 fois !
+9095	Termine The Battle Cats POP! 9 fois !
+9096	Termine The Battle Cats POP! 9 fois !
 9097	Fais évoluer Betakkuma au niveau 10 ! Uniquement pendant la collab. Betakkuma !
-9098	Termine Jamais pas l’été ! 5 fois !
-9099	Termine Jamais pas l’été ! 10 fois !
-9100	Termine Jamais pas l’été ! 20 fois !
+9098	Termine Jamais pas l’été ! 9 fois !
+9099	Termine Jamais pas l’été ! 9 fois !
+9100	Termine Jamais pas l’été ! 9 fois !
 9101	Fais évoluer Reine des vacances au niveau 10 ! Uniquement pendant l’événement mensuel de juillet !
-9111	Termine Inconnus d’outre-tombe 5 fois !
-9112	Termine Inconnus d’outre-tombe 10 fois !
-9113	Termine Inconnus d’outre-tombe 20 fois !
+9111	Termine Inconnus d’outre-tombe 9 fois !
+9112	Termine Inconnus d’outre-tombe 9 fois !
+9113	Termine Inconnus d’outre-tombe 9 fois !
 9114	Fais évoluer Chat vengeur au niveau 10 ! Uniquement quand les lieux d’outre-tombe sont disponibles !
-9115	Termine Les vieux de la vieille 5 fois !
-9116	Termine Les vieux de la vieille 10 fois !
-9117	Termine Les vieux de la vieille 20 fois !
+9115	Termine Les vieux de la vieille 9 fois !
+9116	Termine Les vieux de la vieille 9 fois !
+9117	Termine Les vieux de la vieille 9 fois !
 9118	Fais évoluer Chat kung-fu au niveau 10 ! Uniquement quand les lieux Les vieux sont disponibles !
-9119	Termine Cours d’été 5 fois !
-9120	Termine Cours d’été 10 fois !
-9121	Termine Cours d’été 20 fois !
+9119	Termine Cours d’été 9 fois !
+9120	Termine Cours d’été 9 fois !
+9121	Termine Cours d’été 9 fois !
 9122	Fais évoluer Awa Odori au niveau 10 ! Uniquement quand les lieux Journal d’été sont disponibles !
 9123	Defeat the Rose Garden Witch. Find this enemy at the "The Rose Garden Witch (Easy)" stage
 9124	Defeat the Dessert Witch. Find this enemy at the "The Dessert Witch (Normal)" stage
@@ -146,35 +146,35 @@
 9128	Destroy all Witches
 9129	Evolve Li'l Madoka at Level 10! This mission can only be completed while the Puella Magi Madoka Magica collab is available!
 9130	Evolve Kyubey Cat Level 10! This mission can only be completed while the Puella Magi Madoka Magica collab is available!
-9131	Clear "Queen Rampant" 5 times!
-9132	Clear "Queen Rampant" 10 times!
-9133	Clear "Queen Rampant" 20 times!
-9134	Termine Nuit des sports 5 fois !
-9135	Termine Nuit des sports 10 fois !
-9136	Termine Nuit des sports 20 fois !
+9131	Clear "Queen Rampant" 9 times!
+9132	Clear "Queen Rampant" 9 times!
+9133	Clear "Queen Rampant" 9 times!
+9134	Termine Nuit des sports 9 fois !
+9135	Termine Nuit des sports 9 fois !
+9136	Termine Nuit des sports 9 fois !
 9137	Fais évoluer Chat Jour des sports au niveau 10 ! Uniquement pendant l’événement Automne = Jour des sports !
-9138	Termine Révolution salariale 5 fois !
-9139	Termine Révolution salariale 10 fois !
-9140	Termine Révolution salariale 20 fois !
+9138	Termine Révolution salariale 9 fois !
+9139	Termine Révolution salariale 9 fois !
+9140	Termine Révolution salariale 9 fois !
 9141	Fais évoluer Chat salarié au niveau 10 ! Uniquement pendant l’événement L’amour du travail !
-9142	Clear "Merc Storia: Attack" stages 5 times!
-9143	Clear "Merc Storia: Attack" stages 10 times!
-9144	Clear "Merc Storia: Attack" stages 20 times!
+9142	Clear "Merc Storia: Attack" stages 9 times!
+9143	Clear "Merc Storia: Attack" stages 9 times!
+9144	Clear "Merc Storia: Attack" stages 9 times!
 9145	Challenge the Ranking Stage "Weak of Spirit"!  Select this stage at the Catclaw Dojo!
 9146	Evolve Healer at Level 10! This mission can only be completed during the Merc Storia Collab Event!
-9147	Termine Festival des saveurs 5 fois !
-9148	Termine Festival des saveurs 10 fois !
-9149	Termine Festival des saveurs 20 fois !
+9147	Termine Festival des saveurs 9 fois !
+9148	Termine Festival des saveurs 9 fois !
+9149	Termine Festival des saveurs 9 fois !
 9150	Fais évoluer Chat stand au niveau 10 ! Uniquement pendant le Festival des saveurs !
-9151	Termine Noël spatial 5 fois !
-9152	Termine Noël spatial 10 fois !
-9153	Termine Noël spatial 20 fois !
+9151	Termine Noël spatial 9 fois !
+9152	Termine Noël spatial 9 fois !
+9153	Termine Noël spatial 9 fois !
 9154	Fais évoluer Chat poisson renne au niveau 10 ! Uniquement quand les lieux de décembre sont disponibles !
 9155	Fais évoluer Chatrouille renne au niveau 10 ! Uniquement quand les lieux de Toussaint sont disponibles !
 9156	Fais évoluer Chadeau au niveau 10 ! Uniquement dans les lieux de Ça sent le sapin !
-9157	Termine des lieux Un autre Nouvel an 5 fois !
-9158	Termine des lieux Un autre Nouvel an 10 fois !
-9159	Termine des lieux Un autre Nouvel an 20 fois !
+9157	Termine des lieux Un autre Nouvel an 9 fois !
+9158	Termine des lieux Un autre Nouvel an 9 fois !
+9159	Termine des lieux Un autre Nouvel an 9 fois !
 9160	Fais évoluer Chat adulte au niveau 10 ! Uniquement quand les lieux de janvier sont disponibles !
 9161	Missions d'événement Invasion à durée limitée. Termine le niveau Clionel ascendant !
 9162	Missions d'événement Invasion à durée limitée. Termine le niveau Fleuve Styx !
@@ -183,37 +183,37 @@
 9165	Missions d'événement Invasion à durée limitée. Termine le niveau Revanche du Roi Wahwah !
 9166	Missions d'événement Invasion à durée limitée. Termine le niveau Profonde rêverie !
 9167	Termine une fois chaque lieu du festival ponctuel !
-9168	Termine des lieux Six ans 6 fois !
+9168	Termine des lieux Six ans 9 fois !
 9169	Marque 6 666 points dans Six ans de force ! Trouve ce lieu à classement dans le Dojo Griffélin !
-9170	Termine des lieux de Rituel confus 5 fois !
-9171	Termine des lieux de Rituel confus 10 fois !
-9172	Termine des lieux de Rituel confus 20 fois !
+9170	Termine des lieux de Rituel confus 9 fois !
+9171	Termine des lieux de Rituel confus 9 fois !
+9172	Termine des lieux de Rituel confus 9 fois !
 9173	Fais évoluer Chat diabolique au niveau 10 ! Uniquement quand les lieux de février sont disponibles !
-9174	Termine des lieux Le retour des ursidés 5 fois !
-9175	Termine des lieux Le retour des ursidés 10 fois !
-9176	Termine des lieux Le retour des ursidés 20 fois !
+9174	Termine des lieux Le retour des ursidés 9 fois !
+9175	Termine des lieux Le retour des ursidés 9 fois !
+9176	Termine des lieux Le retour des ursidés 9 fois !
 9177	Fais évoluer les Chats poupées au niveau 10 ! Uniquement quand les lieux de mars sont disponibles !
 9178	Evolve Shirou the Cat Level 10! This mission can only be completed during the Fate/stay night [HF] event!
-9179	Termine des lieux Le printemps du sensei 5 fois !
-9180	Termine des lieux Le printemps du sensei 10 fois !
-9181	Termine des lieux Le printemps du sensei 20 fois !
+9179	Termine des lieux Le printemps du sensei 9 fois !
+9180	Termine des lieux Le printemps du sensei 9 fois !
+9181	Termine des lieux Le printemps du sensei 9 fois !
 9182	Fais évoluer Minette au niveau 10 ! Uniquement pendant l’événement mensuel d’avril !
 9183	Evolve Meowla Meowla at Level 10! This mission can only be completed during the Survive! Mola Mola event!
-9184	Termine des lieux Énième amourette 5 fois !
-9185	Termine des lieux Énième amourette 10 fois !
-9186	Termine des lieux Énième amourette 20 fois !
+9184	Termine des lieux Énième amourette 9 fois !
+9185	Termine des lieux Énième amourette 9 fois !
+9186	Termine des lieux Énième amourette 9 fois !
 9187	Fais évoluer Chat koï au niveau 10 ! Uniquement pendant l’événement mensuel de mai !
 9191	Upgrade Prince Yamato to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
 9192	Upgrade Rosary Angel to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
 9193	Clear the first "Devilish Illusion" stage! You must earn a victory on "A Tower Piercing the Sky (Hard)"
 9194	Clear the first "Yamato Awakens!" stage! You must earn a victory on "Inherited Ambition (Veteran)"
-9195	Clear "Bikkuriman Choco" stages 5 times!
-9196	Clear "Bikkuriman Choco" stages 10 times!
-9197	Clear "Bikkuriman Choco" stages 20 times!
+9195	Clear "Bikkuriman Choco" stages 9 times!
+9196	Clear "Bikkuriman Choco" stages 9 times!
+9197	Clear "Bikkuriman Choco" stages 9 times!
 9198	Upgrade Kano ＆ Souma to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
-9199	Termine Planète Shakurel 5 fois !
-9200	Termine Planète Shakurel 10 fois !
-9201	Termine Planète Shakurel 15 fois !
+9199	Termine Planète Shakurel 9 fois !
+9200	Termine Planète Shakurel 9 fois !
+9201	Termine Planète Shakurel 9 fois !
 9202	Améliore Chat Shakurel jusqu’au niveau 10 ! ※ Le Chat doit évoluer avant la fin de l’événement
 17001	Termine toutes les missions mensuelles !
 17002	Termine toutes les missions mensuelles !
@@ -223,375 +223,375 @@
 17006	Termine toutes les missions mensuelles !
 17007	Termine toutes les missions mensuelles !
 17008	Termine toutes les missions mensuelles !
-1000	Élimine Hippo dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1001	Élimine Porca dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1002	Élimine Jackie Peng dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1003	Élimine Gory dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1004	Élimine Bêê Bêê dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1005	Élimine Sire Phoque dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1006	Élimine Croco dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1007	Élimine Élèfe dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1008	Élimine Lapro dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1009	Élimine Kang Rou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1010	Élimine Écurieux dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1011	Élimine Fa Lèn dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1012	Élimine Monocorne dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1013	Élimine Professeur Ours dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1014	Élimine Sombre empereur Nyandam dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1100	Élimine Hippo dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1101	Élimine Porca dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1102	Élimine Jackie Peng dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1103	Élimine Gory dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1104	Élimine Bêê Bêê dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1105	Élimine Sire Phoque dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1106	Élimine Croco dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1107	Élimine Élèfe dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1108	Élimine Lapro dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1109	Élimine Kang Rou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1110	Élimine Écurieux dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1111	Élimine Fa Lèn dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1112	Élimine Monocorne dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1113	Élimine Professeur Ours dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1114	Élimine Professeur Bun Bun dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1200	Élimine Hippo dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1201	Élimine Porca dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1202	Élimine Jackie Peng dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1203	Élimine Gory dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1204	Élimine Croco dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1205	Élimine Sire Phoque dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1206	Élimine Hyppalien dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1207	Élimine Monocorne dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1208	Élimine Fa Lèn dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1209	Élimine Kang Rou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1210	Élimine Professeur Ours dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1211	Élimine Bernard-l’alien dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1212	Élimine Élèfe dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1213	Élimine Hippo métal dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1214	Élimine Imperatus Foc dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1215	Élimine Sombre toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1216	Élimine Falien dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1217	Élimine Timide dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1218	Élimine Visalien dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1219	Élimine Gabriel dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1220	Élimine Gory noir dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1221	Élimine Grande ourse dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1222	Élimine Hippo céleste dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1223	Élimine Sombrourou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1224	Élimine La Tête dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1225	Élimine Crocalien dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1226	Élimine Lémurios dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1227	Élimine Elizabête dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1228	Élimine Sangrillé Nimoy dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1229	Élimine Cli-On dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1300	Élimine Cisaillourou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1301	Élimine Kang Rou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1302	Élimine Professeur Ours dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1303	Élimine Bernard-l’alien dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1304	Élimine Grande ourse dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1305	Élimine Cybercornu dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1306	Élimine Dame caniche dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1307	Élimine Timide dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1308	Élimine Gory noir dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1309	Élimine Vipèrouge dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1310	Élimine Sombrourou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1311	Élimine Troll des blogs dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1312	Élimine La Tête dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1313	Élimine Sombrotarie dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1314	Élimine Elizabête dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1315	Élimine Visalien dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1316	Élimine Sangrillé Nimoy dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1317	Élimine Valkyrie corrompue dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1318	Élimine Sainte Porca II dans. une Histoire légendaire de niv. 1 !
-1319	Élimine Sombre toutou dans. une Histoire légendaire de niv. 1 !
-1320	Élimine Maître Taman dans. une Histoire légendaire de niv. 1 !
-1321	Élimine Telquel dans. une Histoire légendaire de niv. 1 !
-1322	Élimine Caniche starlette dans. une Histoire légendaire de niv. 1 !
-1323	Élimine Laparesse dans. une Histoire légendaire de niv. 1 !
-1324	Élimine Otaroc dans. une Histoire légendaire de niv. 1 !
-1325	Élimine Rouge Bun Bun dans. une Histoire légendaire de niv. 1 !
-1326	Élimine Sangrillé dans. une Histoire légendaire de niv. 1 !
-1327	Élimine Hibougre dans. une Histoire légendaire de niv. 1 !
-1328	Élimine Camela dans. une Histoire légendaire de niv. 1 !
-1329	Élimine Koko dans. une Histoire légendaire de niv. 1 !
-1330	Élimine Réal Kurosawah dans. une Histoire légendaire de niv. 1 !
-1331	Élimine Monocorne métal dans. une Histoire légendaire de niv. 1 !
-1332	Élimine Hi Yen dans. une Histoire légendaire de niv. 1 !
-1333	Élimine Loup ururun dans. une Histoire légendaire de niv. 1 !
-1334	Élimine Cyclone rouge dans Catastrophe écarlate. ※ Une fois dans un lieu de Catastrophe écarlate
-1335	Élimine Cyclone noir dans Paradis des ténèbres. ※ Une fois dans un lieu de Paradis des ténèbres
-1400	Élimine Dame caniche dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1401	Élimine Cisaillourou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1402	Élimine Kang Rou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1403	Élimine Calamary dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1404	Élimine Cybercornu dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1405	Élimine Professeur Ours dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1406	Élimine Grande ourse dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1407	Élimine Alpadrom dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1408	Élimine Elizabête dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1409	Élimine Sombrourou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1410	Élimine Visalien dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1411	Élimine La Tête dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1412	Élimine Timide dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1413	Élimine Ancêtre paresseux dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1414	Élimine Sombrotarie dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1415	Élimine Sangrillé Nimoy dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1416	Élimine Chat Bahamut enragé dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1417	Élimine Dobert dans. une Histoire légendaire de niv. 1 !
-1418	Élimine Autrux dans. une Histoire légendaire de niv. 1 !
-1419	Élimine Gégé poisson-lune dans. une Histoire légendaire de niv. 1 !
-1420	Élimine Super hippo métal dans. une Histoire légendaire de niv. 1 !
-1421	Élimine Toutou mur dans. une Histoire légendaire de niv. 1 !
-1422	Élimine Pigeon de sable dans. une Histoire légendaire de niv. 1 !
-1423	Élimine Sleipnir angélique dans. une Histoire légendaire de niv. 1 !
-1424	Élimine P’tit Nyandam dans. une Histoire légendaire de niv. 1 !
-1425	Élimine Poussinange dans. une Histoire légendaire de niv. 1 !
-1426	Élimine Caby dans. une Histoire légendaire de niv. 1 !
-1427	Élimine Piaf dans. une Histoire légendaire de niv. 1 !
-1428	Élimine Berserkoko dans. une Histoire légendaire de niv. 1 !
-1429	Élimine Mr. Taupe dans. une Histoire légendaire de niv. 1 !
-1430	Élimine Toukan dans. une Histoire légendaire de niv. 1 !
-1431	Élimine Chaperon à roquettes dans. une Histoire légendaire de niv. 1 !
-1432	Élimine Hippoka noir dans. une Histoire légendaire de niv. 1 !
-1433	Élimine Sangriphin dans. une Histoire légendaire de niv. 1 !
-1434	Élimine Cyclone blanc dans Sans égal. ※ Une fois dans un lieu de Sans égal
-1435	Élimine Cyclone divin dans Colère des cieux. ※ Une fois dans un lieu de Colère des dieux
-1500	Élimine Extratoutou d’élite dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1501	Élimine Monocorne dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1502	Élimine Porca dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1503	Élimine Peng étoilé dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1504	Élimine Général GréGory dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1505	Élimine Elizabête dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1506	Élimine Étoiléfante dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1507	Élimine Gory angélique dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1508	Élimine Gabriel dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1509	Élimine Projet Taman dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1510	Élimine Sombrourou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1511	Élimine Hippo céleste dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1512	Élimine Caporal Topox dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1513	Élimine Gory dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1514	Élimine Spatio-poisson dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1515	Élimine Toutou métal dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1516	Élimine Le Dieu des Chats dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1517	Élimine Laparesse dans. une Histoire légendaire de niv. 2 !
-1518	Élimine Timide dans. une Histoire légendaire de niv. 2 !
-1519	Élimine Rouge Bun Bun dans. une Histoire légendaire de niv. 2 !
-1520	Élimine Sombre empereur Nyandam dans. une Histoire légendaire de niv. 2 !
-1521	Élimine Professeur Bun Bun dans. une Histoire légendaire de niv. 2 !
-1522	Élimine Sangrillé dans. une Histoire légendaire de niv. 2 !
-1523	Élimine Koko dans. une Histoire légendaire de niv. 2 !
-1524	Élimine Réal Kurosawah dans. une Histoire légendaire de niv. 2 !
-1525	Élimine Autrux dans. une Histoire légendaire de niv. 2 !
-1526	Élimine Loup ururun dans. une Histoire légendaire de niv. 2 !
-1527	Élimine Sleipnir angélique dans. une Histoire légendaire de niv. 2 !
-1528	Élimine P’tit Nyandam dans. une Histoire légendaire de niv. 2 !
-1529	Élimine Berserkoko dans. une Histoire légendaire de niv. 2 !
-1530	Élimine Rennato dans. une Histoire légendaire de niv. 2 !
-1531	Élimine Camela dans. une Histoire légendaire de niv. 2 !
-1532	Élimine Hi Yen dans. une Histoire légendaire de niv. 2 !
-1533	Élimine Dobert dans. une Histoire légendaire de niv. 2 !
-1534	Élimine Cyclone métal dans Douce ironie. ※ Une fois dans un lieu de Douce ironie
-1535	Élimine Cyclone cosmique dans Dimension désespoir. ※ Une fois dans un lieu de Dimension désespoir
-1600	Élimine UltraBêêBêê dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1601	Élimine Extratoutou d’élite dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1602	Élimine Peng étoilé dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1603	Élimine Caporal Topox dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1604	Élimine Général GréGory dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1605	Élimine Globivraison dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1606	Élimine Vipèrouge dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1607	Élimine Étoiléfante dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1608	Élimine Gabriel dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1609	Élimine Gory angélique dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1610	Élimine Crapalien dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1611	Élimine Projet Taman dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1612	Élimine Sombrourou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1613	Élimine Maître galactique Nyandam dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1614	Élimine Spatio-poisson dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1615	Élimine Sangrillé dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1616	Élimine Cli-On dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1617	Élimine Gory dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1618	Élimine Monocorne métal dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1619	Élimine Dieu des Chats dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1620	Élimine Mr. Ange dans. une Histoire légendaire de niv. 1 !
-1621	Élimine Henry dans. une Histoire légendaire de niv. 1 !
-1622	Élimine P’tit Bun Bun dans. une Histoire légendaire de niv. 1 !
-1623	Élimine Professeur Taman dans. une Histoire légendaire de niv. 1 !
-1624	Élimine Zanglier dans. une Histoire légendaire de niv. 1 !
-1625	Élimine Zombitou dans. une Histoire légendaire de niv. 1 !
-1626	Élimine Zombippo dans. une Histoire légendaire de niv. 1 !
-1627	Élimine Zombiporca dans. une Histoire légendaire de niv. 1 !
-1628	Élimine Zackie Peng dans. une Histoire légendaire de niv. 1 !
-1629	Élimine Toutombeau dans. une Histoire légendaire de niv. 1 !
-1630	Élimine Salamoindre dans. une Histoire légendaire de niv. 1 !
-1631	Élimine Chiencueil dans. une Histoire légendaire de niv. 1 !
-1632	Élimine Zamela dans. une Histoire légendaire de niv. 1 !
-1633	Élimine RIP toutou dans. une Histoire légendaire de niv. 1 !
-1634	Élimine Parfait cyclone dans Rouge levant. ※ Une fois dans un lieu de Rouge levant
-1635	Élimine Zyclone dans La mort qui roule. ※ Une fois dans un lieu de La mort qui roule
-1700	Élimine Mesocosmocyclone dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1701	Élimine Globivraison dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1702	Élimine Extratoutou d’élite dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1703	Élimine Peng étoilé dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1704	Élimine Général GréGory dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1705	Élimine Crapalien dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1706	Élimine Caporal Topox dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1707	Élimine Étoiléfante dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1708	Élimine Franguilles dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1709	Élimine UltraBêêBêê dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1710	Élimine Cybercornu dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1711	Élimine Sombrourou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1712	Élimine Gory angélique dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1713	Élimine Axoloty dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1714	Élimine Projet Taman dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1715	Élimine Spatio-poisson dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1716	Élimine Sangrillé dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1717	Élimine Alpadrom dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1718	Élimine Toutou métal dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1719	Élimine Boss final Méga-Dieu dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1720	Élimine Sire Phoque métal dans. une Histoire légendaire de niv. 1 !
-1721	Élimine Toutou métal dans. une Histoire légendaire de niv. 1 !
-1722	Élimine Éléfombre dans. une Histoire légendaire de niv. 1 !
-1723	Élimine Zombicroc dans. une Histoire légendaire de niv. 1 !
-1724	Élimine Zory dans. une Histoire légendaire de niv. 1 !
-1725	Élimine Zire phoque dans. une Histoire légendaire de niv. 1 !
-1726	Élimine Zang Rou dans. une Histoire légendaire de niv. 1 !
-1727	Élimine Inumusha dans. une Histoire légendaire de niv. 1 !
-1728	Élimine Dolphina dans. une Histoire légendaire de niv. 1 !
-1729	Élimine Cala Maria dans. une Histoire légendaire de niv. 1 !
-1730	Élimine Croapaud dans. une Histoire légendaire de niv. 1 !
-1731	Élimine Cantou dans. une Histoire légendaire de niv. 1 !
-1732	Élimine Porca ailée dans. une Histoire légendaire de niv. 1 !
-1733	Élimine Hippoka rouge dans. une Histoire légendaire de niv. 1 !
-1734	Élimine Méca-Bun dans. une Histoire légendaire de niv. 1 !
-1735	Élimine Cyclone super cosmique dans 2e dimension. ※ Une fois dans un lieu de 2e dimension
-1800	Élimine Loup ururun dans . une Histoire légendaire de niv. 3 !
-1801	Élimine P’tit Nyandam dans . une Histoire légendaire de niv. 3 !
-1802	Élimine Berserkoko dans . une Histoire légendaire de niv. 3 !
-1803	Élimine Chaperon à roquettes dans . une Histoire légendaire de niv. 3 !
-1804	Élimine Hippoka noir dans . une Histoire légendaire de niv. 3 !
-1805	Élimine Sangriphin dans . une Histoire légendaire de niv. 3 !
-1806	Élimine Henry dans . une Histoire légendaire de niv. 3 !
-1807	Élimine P’tit Bun Bun dans . une Histoire légendaire de niv. 3 !
-1808	Élimine Professeur Taman dans . une Histoire légendaire de niv. 3 !
-1809	Élimine Zanglier dans . une Histoire légendaire de niv. 3 !
-1810	Élimine Zombitou dans . une Histoire légendaire de niv. 3 !
-1811	Élimine Zang Rou dans . une Histoire légendaire de niv. 3 !
-1812	Élimine Zombicroc dans . une Histoire légendaire de niv. 3 !
-1813	Élimine Zackie Peng dans . une Histoire légendaire de niv. 3 !
-1814	Élimine Zory dans . une Histoire légendaire de niv. 3 !
-1815	Élimine Zire phoque dans . une Histoire légendaire de niv. 3 !
-1816	Élimine Toutombeau dans . une Histoire légendaire de niv. 3 !
-1817	Élimine Salamoindre dans . une Histoire légendaire de niv. 3 !
-1818	Élimine Chiencueil dans . une Histoire légendaire de niv. 3 !
-1819	Élimine Zamela dans . une Histoire légendaire de niv. 3 !
-1820	Élimine RIP toutou dans . une Histoire légendaire de niv. 3 !
-1821	Élimine Inumusha dans . une Histoire légendaire de niv. 3 !
-1822	Élimine Dolphina dans . une Histoire légendaire de niv. 3 !
-1823	Élimine Cala Maria dans . une Histoire légendaire de niv. 3 !
-1824	Élimine Croapaud dans . une Histoire légendaire de niv. 3 !
-1825	Élimine Cantou dans . une Histoire légendaire de niv. 3 !
-1826	Élimine Porca ailée dans . une Histoire légendaire de niv. 3 !
-1827	Élimine Extratoutou d’élite dans . une Histoire légendaire de niv. 3 !
-1828	Élimine Caporal Topox dans . une Histoire légendaire de niv. 3 !
-1829	Élimine Spatio-poisson dans . une Histoire légendaire de niv. 3 !
-1830	Élimine Projet Taman dans . une Histoire légendaire de niv. 3 !
-1831	Élimine Général GréGory dans . une Histoire légendaire de niv. 3 !
-1832	Élimine Peng étoilé dans . une Histoire légendaire de niv. 3 !
-1833	Élimine Hippoka rouge dans . une Histoire légendaire de niv. 3 !
-1834	Élimine UltraBêêBêê dans . une Histoire légendaire de niv. 3 !
-1835	Élimine Méca-Bun dans . une Histoire légendaire de niv. 3 !
-1900	Élimine Rouge Bun Bun dans . une Histoire légendaire de niv. 4 !
-1901	Élimine Sangrillé dans . une Histoire légendaire de niv. 4 !
-1902	Élimine Professeur Bun Bun dans . une Histoire légendaire de niv. 4 !
-1903	Élimine Koko dans . une Histoire légendaire de niv. 4 !
-1904	Élimine Réal Kurosawah dans . une Histoire légendaire de niv. 4 !
-1905	Élimine Noir Bun Bun dans . une Histoire légendaire de niv. 4 !
-1906	Élimine Autrux dans . une Histoire légendaire de niv. 4 !
-1907	Élimine Loup ururun dans . une Histoire légendaire de niv. 4 !
-1908	Élimine Toutou mur dans . une Histoire légendaire de niv. 4 !
-1909	Élimine Sleipnir angélique dans . une Histoire légendaire de niv. 4 !
-1910	Élimine Toutou métal dans . une Histoire légendaire de niv. 4 !
-1911	Élimine P’tit Nyandam dans . une Histoire légendaire de niv. 4 !
-1912	Élimine Berserkoko dans . une Histoire légendaire de niv. 4 !
-1913	Élimine Mr. Taupe dans . une Histoire légendaire de niv. 4 !
-1914	Élimine Chaperon à roquettes dans . une Histoire légendaire de niv. 4 !
-1915	Élimine Toukan dans . une Histoire légendaire de niv. 4 !
-1916	Élimine Hippoka noir dans . une Histoire légendaire de niv. 4 !
-1917	Élimine Sangriphin dans . une Histoire légendaire de niv. 4 !
-1918	Élimine Henry dans . une Histoire légendaire de niv. 4 !
-1919	Élimine P’tit Bun Bun dans . une Histoire légendaire de niv. 4 !
-1920	Élimine Professeur Taman dans . une Histoire légendaire de niv. 4 !
-1921	Élimine Zanglier dans . une Histoire légendaire de niv. 4 !
-1922	Élimine Zombitou dans . une Histoire légendaire de niv. 4 !
-1923	Élimine Zang Rou dans . une Histoire légendaire de niv. 4 !
-1924	Élimine Zory dans . une Histoire légendaire de niv. 4 !
-1925	Élimine Chiencueil dans . une Histoire légendaire de niv. 4 !
-1926	Élimine Inumusha dans . une Histoire légendaire de niv. 4 !
-1927	Élimine Dolphina dans . une Histoire légendaire de niv. 4 !
-1928	Élimine Cala Maria dans . une Histoire légendaire de niv. 4 !
-1929	Élimine Croapaud dans . une Histoire légendaire de niv. 4 !
-1930	Élimine Porca ailée dans . une Histoire légendaire de niv. 4 !
-1931	Élimine Extratoutou d’élite dans . une Histoire légendaire de niv. 4 !
-1932	Élimine Caporal Topox dans . une Histoire légendaire de niv. 4 !
-1933	Élimine Spatio-poisson dans . une Histoire légendaire de niv. 4 !
-1934	Élimine Général GréGory dans . une Histoire légendaire de niv. 4 !
-1935	Élimine Peng étoilé dans . une Histoire légendaire de niv. 4 !
-2000	Élimine La Tête dans . une Histoire légendaire de niv. 4 !
-2001	Élimine Timide dans . une Histoire légendaire de niv. 4 !
-2002	Élimine Otaroc dans . une Histoire légendaire de niv. 4 !
-2003	Élimine Camela dans . une Histoire légendaire de niv. 4 !
-2004	Élimine Kanar dans . une Histoire légendaire de niv. 4 !
-2005	Élimine Hibougre dans . une Histoire légendaire de niv. 4 !
-2006	Élimine Laparesse dans . une Histoire légendaire de niv. 4 !
-2007	Élimine Rennato dans . une Histoire légendaire de niv. 4 !
-2008	Élimine Caniche starlette dans . une Histoire légendaire de niv. 4 !
-2009	Élimine Sombre empereur Nyandam dans . une Histoire légendaire de niv. 4 !
-2010	Élimine Maître Taman dans . une Histoire légendaire de niv. 4 !
-2011	Élimine Cisaillourou dans . une Histoire légendaire de niv. 4 !
-2012	Élimine Hi Yen dans . une Histoire légendaire de niv. 4 !
-2013	Élimine Dobert dans . une Histoire légendaire de niv. 4 !
-2014	Élimine Hippo métal dans . une Histoire légendaire de niv. 4 !
-2015	Élimine Sainte Porca II dans . une Histoire légendaire de niv. 4 !
-2016	Élimine Gégé poisson-lune dans . une Histoire légendaire de niv. 4 !
-2017	Élimine Pigeon de sable dans . une Histoire légendaire de niv. 4 !
-2018	Élimine Zerpan dans . une Histoire légendaire de niv. 4 !
-2019	Élimine Zombippo dans . une Histoire légendaire de niv. 4 !
-2020	Élimine Zombiporca dans . une Histoire légendaire de niv. 4 !
-2021	Élimine Zackie Peng dans . une Histoire légendaire de niv. 4 !
-2022	Élimine Dame caniche dans . une Histoire légendaire de niv. 4 !
-2023	Élimine Zire phoque dans . une Histoire légendaire de niv. 4 !
-2024	Élimine Zombicroc dans . une Histoire légendaire de niv. 4 !
-2025	Élimine Toutombeau dans . une Histoire légendaire de niv. 4 !
-2026	Élimine Telquel dans . une Histoire légendaire de niv. 4 !
-2027	Élimine Gory noir dans . une Histoire légendaire de niv. 4 !
-2028	Élimine Étoiléfante dans . une Histoire légendaire de niv. 4 !
-2029	Élimine Projet Taman dans . une Histoire légendaire de niv. 4 !
-2030	Élimine Sombrourou dans . une Histoire légendaire de niv. 4 !
-2031	Élimine Super hippo métal dans . une Histoire légendaire de niv. 4 !
-2032	Élimine Sombrotarie dans . une Histoire légendaire de niv. 4 !
-2033	Élimine Poussinange dans . une Histoire légendaire de niv. 4 !
-2034	Élimine Sangrillé Nimoy dans . une Histoire légendaire de niv. 4 !
-2035	Élimine Elizabête dans . une Histoire légendaire de niv. 4 !
+1000	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1001	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1002	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1003	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1004	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1005	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1006	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1007	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1008	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1009	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1010	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1011	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1012	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1013	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1014	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
+1100	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1101	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1102	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1103	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1104	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1105	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1106	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1107	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1108	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1109	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1110	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1111	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1112	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1113	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1114	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
+1200	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1201	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1202	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1203	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1204	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1205	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1206	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1207	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1208	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1209	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1210	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1211	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1212	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1213	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1214	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1215	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1216	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1217	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1218	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1219	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1220	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1221	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1222	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1223	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1224	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1225	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1226	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1227	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1228	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1229	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
+1300	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1301	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1302	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1303	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1304	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1305	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1306	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1307	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1308	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1309	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1310	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1311	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1312	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1313	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1314	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1315	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1316	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1317	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1318	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1319	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1320	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1321	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1322	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1323	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1324	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1325	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1326	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1327	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1328	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1329	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1330	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1331	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1332	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1333	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1334	Élimine Toutou dans Catastrophe écarlate. ※ Une fois dans un lieu de Catastrophe écarlate
+1335	Élimine Toutou dans Paradis des ténèbres. ※ Une fois dans un lieu de Paradis des ténèbres
+1400	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1401	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1402	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1403	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1404	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1405	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1406	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1407	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1408	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1409	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1410	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1411	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1412	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1413	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1414	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1415	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1416	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1417	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1418	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1419	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1420	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1421	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1422	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1423	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1424	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1425	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1426	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1427	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1428	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1429	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1430	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1431	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1432	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1433	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1434	Élimine Toutou dans Sans égal. ※ Une fois dans un lieu de Sans égal
+1435	Élimine Toutou dans Colère des cieux. ※ Une fois dans un lieu de Colère des dieux
+1500	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1501	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1502	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1503	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1504	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1505	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1506	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1507	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1508	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1509	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1510	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1511	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1512	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1513	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1514	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1515	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1516	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1517	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1518	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1519	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1520	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1521	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1522	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1523	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1524	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1525	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1526	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1527	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1528	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1529	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1530	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1531	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1532	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1533	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
+1534	Élimine Toutou dans Douce ironie. ※ Une fois dans un lieu de Douce ironie
+1535	Élimine Toutou dans Dimension désespoir. ※ Une fois dans un lieu de Dimension désespoir
+1600	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1601	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1602	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1603	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1604	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1605	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1606	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1607	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1608	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1609	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1610	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1611	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1612	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1613	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1614	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1615	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1616	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1617	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1618	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1619	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1620	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1621	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1622	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1623	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1624	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1625	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1626	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1627	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1628	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1629	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1630	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1631	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1632	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1633	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1634	Élimine Toutou dans Rouge levant. ※ Une fois dans un lieu de Rouge levant
+1635	Élimine Toutou dans La mort qui roule. ※ Une fois dans un lieu de La mort qui roule
+1700	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1701	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1702	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1703	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1704	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1705	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1706	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1707	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1708	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1709	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1710	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1711	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1712	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1713	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1714	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1715	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1716	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1717	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1718	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1719	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1720	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1721	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1722	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1723	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1724	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1725	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1726	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1727	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1728	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1729	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1730	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1731	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1732	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1733	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1734	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
+1735	Élimine Toutou dans 2e dimension. ※ Une fois dans un lieu de 2e dimension
+1800	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1801	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1802	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1803	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1804	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1805	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1806	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1807	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1808	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1809	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1810	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1811	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1812	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1813	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1814	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1815	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1816	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1817	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1818	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1819	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1820	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1821	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1822	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1823	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1824	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1825	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1826	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1827	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1828	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1829	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1830	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1831	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1832	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1833	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1834	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1835	Élimine Les trois gars dans . une Histoire légendaire de niv. 3 !
+1900	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1901	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1902	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1903	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1904	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1905	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1906	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1907	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1908	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1909	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1910	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1911	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1912	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1913	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1914	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1915	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1916	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1917	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1918	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1919	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1920	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1921	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1922	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1923	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1924	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1925	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1926	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1927	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1928	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1929	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1930	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1931	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1932	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1933	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1934	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+1935	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2000	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2001	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2002	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2003	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2004	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2005	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2006	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2007	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2008	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2009	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2010	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2011	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2012	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2013	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2014	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2015	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2016	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2017	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2018	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2019	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2020	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2021	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2022	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2023	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2024	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2025	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2026	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2027	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2028	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2029	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2030	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2031	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2032	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2033	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2034	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
+2035	Élimine Hippo dans . une Histoire légendaire de niv. 4 !
 9205	Upgrade Akuma Giraffe to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9206	Upgrade Ryu Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
-9208	Clear "7 Years of Fun!!" stages 7 times!
+9208	Clear "7 Years of Fun!!" stages 9 times!
 9209	Score 7777 pts in "Lucky Number 7"! Find this Ranking Stage at the Catclaw Dojo!
 9211	Missions d'événement Invasion à durée limitée. Termine le niveau Impact bleu !
-9212	Termine les 7 missions d'évén. Invasion à durée limitée !
+9212	Termine les 0 missions d'évén. Invasion à durée limitée !
 9213	Upgrade Miku Cat to Level 10! (You must evolve the Cat before the Hatsune Miku collab ends!)
-9214	Clear "MIKU EXPO" 5 times!
-9215	Clear "MIKU EXPO" 10 times!
-9216	Clear "MIKU EXPO" 20 times!
-9221	Complete 5 Gamatoto Expeditions during
+9214	Clear "MIKU EXPO" 9 times!
+9215	Clear "MIKU EXPO" 9 times!
+9216	Clear "MIKU EXPO" 9 times!
+9221	Complete 17 Gamatoto Expeditions during
 9222	Termine le 50e étage de la Tour céleste ! ※ Les récompenses ne sont remises qu’une fois
 9223	Upgrade Heavenly Jack to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
-9224	Termine des lieux 8 ans de rigolade ! 8 fois !
+9224	Termine des lieux 8 ans de rigolade ! 9 fois !
 9225	Marque plus de 8 888 points dans 8 ne suffisent pas ! Trouve ce lieu à classement dans le Dojo Griffélin !
 9226	Upgrade Ranma Cat (M) to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
 9227	Upgrade Panda Cat to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
-9228	Clear "The Cursed Springs" 5 times!
-9229	Clear "The Cursed Springs" 10 times!
-9230	Clear "The Cursed Springs" 20 times!
+9228	Clear "The Cursed Springs" 9 times!
+9229	Clear "The Cursed Springs" 9 times!
+9230	Clear "The Cursed Springs" 9 times!
 30	Obtiens tous les trésors suprêmes du ch. 1 de L’Empire
 31	Obtiens tous les trésors suprêmes du ch. 2 de L’Empire
 32	Obtiens tous les trésors suprêmes du ch. 3 de L’Empire
@@ -606,16 +606,16 @@
 9233	Missions d'événement Invasion à durée limitée. Termine Revanche du Roi Wahwah 1x avec 9 Chats normaux ou +
 9234	Missions d'événement Invasion à durée limitée. Termine Impact bleu 1x avec uniquement les 2e formes
 9235	Missions d'événement d'Invasion à durée limitée. Termine Profonde rêverie 1x avec les 1res formes non évoluées
-9236	Termine les 5 missions d'évén. Invasion à durée limitée !
+9236	Termine les 0 missions d'évén. Invasion à durée limitée !
 9237	【Invasion】Termine le niveau L'ange et le démon ! Tu dois aussi terminer le niveau spécial associé
 9238	【Invasion】Termine le niveau La reine et la mort ! Tu dois aussi terminer le niveau spécial associé
 9239	【Invasion】Termine le niveau Le roi et la jeune fille ! Tu dois aussi terminer le niveau spécial associé
-9240	Devoirs de vacances ① : Choisis un sujet de journal. Termine 5 niveaux Chats de vacances d'été
-9241	Devoirs de vacances ② : Choisis un 2e sujet de journal. Termine 10 niveaux Chats de vacances d'été
-9242	Devoirs de vacances ① : cherche un bon sujet de rédaction. Termine 20 niveaux Chats de vacances d’été
-9243	Devoirs de vacances ④ : Écris ton journal. . Termine Cachette délabrée 5 fois
-9244	Devoirs de vacances ⑤ : Réécris le avec plus de style. Termine Cachette stylée 5 fois
-9245	Devoirs de vacances ⑥ : Réécris le pour qu'il soit parfait. Termine Cachette parfaite 5 fois
+9240	Devoirs de vacances ① : Choisis un sujet de journal. Termine 9 niveaux Chats de vacances d'été
+9241	Devoirs de vacances ② : Choisis un 2e sujet de journal. Termine 9 niveaux Chats de vacances d'été
+9242	Devoirs de vacances ① : cherche un bon sujet de rédaction. Termine 9 niveaux Chats de vacances d’été
+9243	Devoirs de vacances ④ : Écris ton journal. . Termine Cachette délabrée 9 fois
+9244	Devoirs de vacances ⑤ : Réécris le avec plus de style. Termine Cachette stylée 9 fois
+9245	Devoirs de vacances ⑥ : Réécris le pour qu'il soit parfait. Termine Cachette parfaite 9 fois
 9246	Crédit supplémentaire ① : Capture des spécimens d'insectes. Améliore Chat Kabuto au niveau 10
 9247	Crédit supplémentaire ② : Capture des spécimens d'insectes. Améliore Chat Kuwagata au niveau 10
 9248	Crédit supplémentaire ③ : Observe des spécimens d'insectes. Améliore Chat Kabuto au niveau 20
@@ -624,28 +624,28 @@
 9251	Crédit extra supplémentaire ② : Observe encore plus. Termine Journal d’été niveau 2 avec Chat Kuwagata
 9252	Crédit extra supplémentaire ③ : Observe encore plus. Termine Journal d’été niveau 4 avec Chat Kabuto
 9253	Crédit extra supplémentaire ④ : Observe encore plus. Termine Journal d’été niveau 6 avec Chat Kuwagata
-9254	École d'été ① : Littérature. Termine 5 niveaux Cours d’été
-9255	École d'été ② : Algèbre. Termine 10 niveaux Cours d’été
-9256	École d'été ③ : Sciences sociales. Termine 15 niveaux Cours d’été
-9257	École d'été ④ : Réunion générale. Termine 20 niveaux Cours d’été
+9254	École d'été ① : Littérature. Termine 9 niveaux Cours d’été
+9255	École d'été ② : Algèbre. Termine 9 niveaux Cours d’été
+9256	École d'été ③ : Sciences sociales. Termine 9 niveaux Cours d’été
+9257	École d'été ④ : Réunion générale. Termine 9 niveaux Cours d’été
 9258	Méga crédit supplém. ① : Recherche en vie marine. Termine le niveau 1 de Survive! Mola Mola! avec Chat Kabuto
 9259	Méga crédit supplém. ② : Recherche en vie marine. Termine le niv. 3 de Survive! Mola Mola! avec Chat Kuwagata
-9260	Méga crédit supplém. ③ : Plus de vie marine. Termine 300. Million Dead Molas 3 fois avec Chat Kabuto
-9261	Mega crédit supplém. ④ : Plus de vie marine. Termine 300. Million Dead Molas 5 fois avec Chat Kuwagata
+9260	Méga crédit supplém. ③ : Plus de vie marine. Termine 300. Million Dead Molas 1 fois avec Chat Kabuto
+9261	Mega crédit supplém. ④ : Plus de vie marine. Termine 300. Million Dead Molas 1 fois avec Chat Kuwagata
 39	Recherche de l'impératrice 1 : Grimoires hérétiques. Termine Confluence arcanique et Chat méchant !
 40	Recherche de l'impératrice 2 : Agents des ennemis Akus. Termine Serviteur des ténèbres et Tank méchant !
-9262	Clear "River City Ball-Rolling" 5 times!
-9263	Clear "River City Ball-Rolling" 10 times!
-9264	Clear "River City Challenge Course" 5 times!
+9262	Clear "River City Ball-Rolling" 9 times!
+9263	Clear "River City Ball-Rolling" 9 times!
+9264	Clear "River City Challenge Course" 9 times!
 9265	Clear stages from "River City Challenge Course"
-9266	Defeat Jackie Peng at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
-9267	Defeat Sombre toutou at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
-9268	Clear all 6 River City Cat Clash Limited  Missions!
+9266	Defeat Toutou at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9267	Defeat Toutou at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9268	Clear all 0 River City Cat Clash Limited  Missions!
 9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
 9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!
 9271	Defeat the Box Witch! Find this Witch at the "Witch's Labyrinth: Box Witch" map!
 9272	Defeat the Nutcracker Witch! Find this Witch at the "Witch's Labyrinth: Nutcracker Witch" map!
-9273	Defeat all Witches!  Complete all 4 Witch missions!
+9273	Defeat all Witches!  Complete all 0 Witch missions!
 9274	Upgrade Li'l Madoka to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
 9275	Upgrade Kyubey Cat to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
 41	Recherche de l’impératrice 3 : Le coût de la sorcellerie. Termine Parc du démon et Chat Borgne méchant
@@ -674,14 +674,14 @@
 9303	[Q5. Temps et chance] Après complétion du niveau, porte chance
 46	Mission du 9e anniversaire. Termine L’empire des Chats ch. 1 pendant cet événement !
 9305	Termine le 30e étage de la Tour infernale. * Récompense à récupérer une seule fois
-47	Rapport de l'impératrice : Chercheur en Aku. Termine chacun des niv. Rapport de l'impératrice, 5 fois chacun
+47	Rapport de l'impératrice : Chercheur en Aku. Termine chacun des niv. Rapport de l'impératrice, 9 fois chacun
 9321	【Invasion】Termine le niveau Clionel ascendant. 1 fois en utilisant 7 Chats spéciaux ou +
 9322	【Invasion】Termine le niveau Couronnement de la reine. 1 fois en utilisant 7 Chats classiques ou +
 9323	【Invasion】Termine le niveau Morts et boursouflés ! Tu dois aussi terminer le niveau spécial associé
 9324	【Invasion】Termine le niveau La reine et la jeune fille ! Tu dois aussi terminer le niveau spécial associé
 9325	【Invasion】Termine Le roi et l'ange ! Tu dois aussi terminer le niveau spécial associé
-48	Termine 5 niv. Abattage de Béhémoths pour la 1re fois
-49	Termine 10 niveaux Abattage de Béhémoths pour la 1re fois
+48	Termine 9 niv. Abattage de Béhémoths pour la 1re fois
+49	Termine 9 niveaux Abattage de Béhémoths pour la 1re fois
 9326	Missions du Festival du Cyclone. Termine le niveau Catastrophe écarlate !
 9327	Missions du Festival du Cyclone. Termine le niveau Paradis des ténèbres !
 9328	Missions du Festival du Cyclone. Termine le niveau Sans égal !
@@ -705,12 +705,12 @@
 9346	Termine 1 niveau(x) Ville anéantie avec Takuya et Yuki
 9347	Termine 1 niveau(x) Ville anéantie avec Yuki crin. rouge
 9348	Termine 1 niveau(x) Ville anéantie avec Kano et Souma
-9349	Clear 5  Shoumetsu Toshi collab stages
-9350	Clear 15  Shoumetsu Toshi collab stages
-9351	Clear 30  Shoumetsu Toshi collab stages
-9352	Complete 5 Gamatoto expeditions! Send Gamatoto to any
-50	Termine 15 niveaux Abattage de Béhémoths pour la 1re fois
-51	Termine 20 niveaux Abattage de Béhémoths pour la 1re fois
+9349	Clear 9  Shoumetsu Toshi collab stages
+9350	Clear 9  Shoumetsu Toshi collab stages
+9351	Clear 9  Shoumetsu Toshi collab stages
+9352	Complete 17 Gamatoto expeditions! Send Gamatoto to any
+50	Termine 9 niveaux Abattage de Béhémoths pour la 1re fois
+51	Termine 9 niveaux Abattage de Béhémoths pour la 1re fois
 9353	Gagne un Œuf ancien N201 dans. les Chapsules de la Mariée du démon de juin
 9354	Termine un niveau de #01 La chapelle fantôme
 9355	Termine un niveau de #01 La chapelle fantôme
@@ -731,11 +731,11 @@
 9370	Devoirs de vacances Part. 1 ⑦ : Étudier des insectes. Obtiens 5 Chats Kabuto auprès du Chachapsule d'événement !
 9371	Devoirs de vacances Part. 1 ⑧ : Étudier des insectes. Obtiens 5 Chats Kuwagata auprès du Chachapsule d'événement !
 9372	Devoirs de vacances Part. 1 ⑨ : Étudier des insectes. Obtiens 5 Œufs anciens N202 auprès du Chachapsule d'événement !
-9373	Clear 15  "Ranma 1/2" collab stages
-9374	Clear 30  "Ranma 1/2" collab stages
-9375	Clear 50  "Ranma 1/2" collab stages
-52	Termine 25 niveaux Abattage de Béhémoths pour la 1re fois
-53	Termine 30 niveaux Abattage de Béhémoths pour la 1re fois
+9373	Clear 9  "Ranma 1/2" collab stages
+9374	Clear 9  "Ranma 1/2" collab stages
+9375	Clear 9  "Ranma 1/2" collab stages
+52	Termine 9 niveaux Abattage de Béhémoths pour la 1re fois
+53	Termine 9 niveaux Abattage de Béhémoths pour la 1re fois
 9376	Clear stages from "Merc Storia Collab"
 9377	Clear stages from "Merc Storia Collab"
 9378	Clear stages from "Merc Storia Collab"
@@ -753,10 +753,10 @@
 9389	[1 : 10 ans de souvenirs] 2. Unité anniv. dans Chapsules ! Chat qui accueille la fortune dans les événements live
 9391	[1 : 10 ans de souvenirs] 4. Unité anniv. dans Chapsules ! Chat précieux offert aux gagnants durant le 9e anniversaire
 9392	[1 : 10 ans de souvenirs] 5. Unité anniv. dans Chapsules ! Chat du 10e anniversaire qui médite perché sur un rocher
-9394	[1 : 10 ans de souvenirs] Termine ces niveaux 5 fois !
-9395	[1 : 10 ans de souvenirs] Termine ces niveaux 15 fois !
-9396	[1 : 10 ans de souvenirs] Termine ces niveaux 30 fois !
-9397	[2 : manœuvres adverses] Termine ces niveaux 5 fois !
+9394	[1 : 10 ans de souvenirs] Termine ces niveaux 9 fois !
+9395	[1 : 10 ans de souvenirs] Termine ces niveaux 9 fois !
+9396	[1 : 10 ans de souvenirs] Termine ces niveaux 9 fois !
+9397	[2 : manœuvres adverses] Termine ces niveaux 9 fois !
 9398	[3 : Discussions félines] Discute pendant 4 jours à la base féline. pour découvrir l'histoire de The Battle Cats !
 9399	[4 : Chasse au Chat] 1. Trouve le Chat caché dans L'emp. Ch. La capitale porte le nom de ville le plus long au monde
 9400	[4 : Chasse au Chat] 2. Trouve le Chat caché dans L'emp. Ch. Un vaste désert sans aucun nuage
@@ -764,28 +764,28 @@
 9402	[4 : Chasse au Chat] 4. Trouve le Chat caché dans L'emp. Ch. C'est de là qu'est partie la mission d'alunissage
 9403	[4 : Chasse au Chat] 5. Trouve le Chat caché dans L'emp. Ch. La plus longue espérance de vie des États US
 9404	[4 : Chasse au Chat] Sillonne le monde. et trouve tous les Chats cachés !
-9405	[5 : Défilé musical] Termine ces niveaux 8 fois !
+9405	[5 : Défilé musical] Termine ces niveaux 9 fois !
 55	Mission du 10e anniversaire. Termine L'empire des Chats ch. 1 pendant l'événement
-9407	Termine les niv. Nouvel An lunaire 5 fois !
-9408	Termine les niv. Nouvel An lunaire 10 fois !
-9409	Termine les niv. Nouvel An lunaire 15 fois !
-9410	Termine les niv. Nouvel An lunaire 20 fois !
-9411	Termine les niv. Nouvel An lunaire 30 fois !
-56	Termine 35 niv. Abattage de Béhémoths pour la 1re fois
-9412	Clear 10 Fate/stay night [HF] collab stages
-9413	Clear 30 Fate/stay night [HF] collab stages
-9414	Clear 50 Fate/stay night [HF] collab stages
-9415	【80 M de joueurs】Réussis 1 expéditions avec Gamatoto !
-9416	【80 M de joueurs】Réussis 5 expéditions avec Gamatoto !
-9417	【80 M】Termine 1 fois le Cadeau joyeux 80 M de joueurs !
-9418	【80 M】Termine 2 fois le Cadeau joyeux 80 M de joueurs !
-9419	【80 M】Termine 3 fois le Cadeau joyeux 80 M de joueurs !
-9420	【80 M】Termine les niv. Étoiles d’évén. mensuel 1 fois !
-9421	【80 M】Termine les niv. Étoiles d’évén. mensuel 3 fois !
-9422	【80 M】Termine les niv. Étoiles d’évén. mensuel 5 fois !
+9407	Termine les niv. Nouvel An lunaire 9 fois !
+9408	Termine les niv. Nouvel An lunaire 9 fois !
+9409	Termine les niv. Nouvel An lunaire 9 fois !
+9410	Termine les niv. Nouvel An lunaire 9 fois !
+9411	Termine les niv. Nouvel An lunaire 9 fois !
+56	Termine 9 niv. Abattage de Béhémoths pour la 1re fois
+9412	Clear 9 Fate/stay night [HF] collab stages
+9413	Clear 9 Fate/stay night [HF] collab stages
+9414	Clear 9 Fate/stay night [HF] collab stages
+9415	【80 M de joueurs】Réussis 17 expéditions avec Gamatoto !
+9416	【80 M de joueurs】Réussis 17 expéditions avec Gamatoto !
+9417	【80 M】Termine 9 fois le Cadeau joyeux 80 M de joueurs !
+9418	【80 M】Termine 9 fois le Cadeau joyeux 80 M de joueurs !
+9419	【80 M】Termine 9 fois le Cadeau joyeux 80 M de joueurs !
+9420	【80 M】Termine les niv. Étoiles d’évén. mensuel 9 fois !
+9421	【80 M】Termine les niv. Étoiles d’évén. mensuel 9 fois !
+9422	【80 M】Termine les niv. Étoiles d’évén. mensuel 9 fois !
 9423	【80 M de joueurs】Termine toutes les missions d’événement. pour gagner 1 éclat platine !
-57	Termine 40 niv. Abattage de Béhémoths pour la 1re fois
-58	Termine 45 niv. Abattage de Béhémoths pour la 1re fois
+57	Termine 9 niv. Abattage de Béhémoths pour la 1re fois
+58	Termine 9 niv. Abattage de Béhémoths pour la 1re fois
 59	Termine tous les niv. Légende mystérieuse. niv. 2 pour accomplir cette mission
 9424	Missions du Festival du cyclone. Termine le niveau Le Grand Diablo !
 9425	Gagne un Œuf ancien N203 dans. les Chapsules de la Mariée du démon de juin
@@ -797,44 +797,44 @@
 9431	Gagne une pierre B. en atteignant le score cible. sur #02 Le mariage de la peur, niveaux 1-5 !
 9432	[Q1. Qu’y a-t-il dans la boîte ?] Gagne toutes les
 9433	[Ultra quiz] Termine les missions Q1~5 pour gagner un prix. valant 1 million de $(selon les Chats numériques) !
-60	Termine 50 niveaux Abattage de Béhémoths pour la 1re fois
-61	Termine 55 niveaux Abattage de Béhémoths pour la 1re fois
-9434	Clear Princess Punt Sweets collab stages 10 times!
-9435	Clear Princess Punt Sweets collab stages 25 times!
-9436	Clear Princess Punt Sweets collab stages 50 times!
+60	Termine 9 niveaux Abattage de Béhémoths pour la 1re fois
+61	Termine 9 niveaux Abattage de Béhémoths pour la 1re fois
+9434	Clear Princess Punt Sweets collab stages 9 times!
+9435	Clear Princess Punt Sweets collab stages 9 times!
+9436	Clear Princess Punt Sweets collab stages 9 times!
 62	Termine tous les niv. Légende mystérieuse. niv. 3 pour accomplir cette mission
-63	Termine les 60 niveaux Abattage de Béhémoths !
-9440	Clear Hatsune Miku collab stages 10 times!
-9441	Clear Hatsune Miku collab stages 30 times!
-9442	Clear Hatsune Miku collab stages 50 times!
+63	Termine les 9 niveaux Abattage de Béhémoths !
+9440	Clear Hatsune Miku collab stages 9 times!
+9441	Clear Hatsune Miku collab stages 9 times!
+9442	Clear Hatsune Miku collab stages 9 times!
 9467	Viens à bout du 50e étage de la Tour céleste. ※ Cette récompense ne s’obtient qu’une fois
 9468	Clear stages from "Metal Slug Collab"
 9469	Clear stages from "Metal Slug Collab"
 9470	Clear stages from "Metal Slug Collab"
 9471	[90 M de DL] Termine toutes les missions d’événement. pour gagner 1 éclat platine !
-9472	[90 M de DL] Réussis 1 expéditions avec Gamatoto !
-9473	[90 M de DL] Réussis 3 expéditions avec Gamatoto !
-9474	[90 M de DL] Réussis 5 expéditions avec Gamatoto !
-9475	[90 M] Termine 1 fois le Cadeau joyeux 90 M de DL !
-9476	[90 M] Termine 2 fois le Cadeau joyeux 90 M de DL !
-9477	[90 M] Termine 3 fois le Cadeau joyeux 90 M de DL !
-9478	[90 M] Termine 5 niveaux The Battle Cats !
-9479	[90 M] Termine 10 niveaux The Battle Cats !
-9483	Clear Tower of Saviors collab stages 5 times!
-9484	Clear Tower of Saviors collab stages 10 times!
-9485	Clear Tower of Saviors collab stages 20 times!
+9472	[90 M de DL] Réussis 17 expéditions avec Gamatoto !
+9473	[90 M de DL] Réussis 17 expéditions avec Gamatoto !
+9474	[90 M de DL] Réussis 17 expéditions avec Gamatoto !
+9475	[90 M] Termine 9 fois le Cadeau joyeux 90 M de DL !
+9476	[90 M] Termine 9 fois le Cadeau joyeux 90 M de DL !
+9477	[90 M] Termine 9 fois le Cadeau joyeux 90 M de DL !
+9478	[90 M] Termine 9 niveaux The Battle Cats !
+9479	[90 M] Termine 9 niveaux The Battle Cats !
+9483	Clear Tower of Saviors collab stages 9 times!
+9484	Clear Tower of Saviors collab stages 9 times!
+9485	Clear Tower of Saviors collab stages 9 times!
 9486	[88,88M] . Termine le niveau Pack mystère !
 9487	[88,88M] Améliore le Chat poubelle au niveau 10. À effectuer pendant l'événement 88 880 000 joueurs
 9488	[88,88M] Améliore le Chat poubelle au niveau 20. À effectuer pendant l'événement 88 880 000 joueurs
-9489	Clear 10 Rurouni Kenshin collab stages
-9490	Clear 30 Rurouni Kenshin collab stages
-9491	Clear 50 Rurouni Kenshin collab stages
+9489	Clear 9 Rurouni Kenshin collab stages
+9490	Clear 9 Rurouni Kenshin collab stages
+9491	Clear 9 Rurouni Kenshin collab stages
 9492	Obtiens 1 œuf ancien N205 dans les Chapsules. de la Mariée de juin !
 9493	[Colisée d’outre-monde] Mission d’événement limité. Termine Colisée d’outre-monde niveau 1 étape 3
 9494	[Colisée d’outre-monde] Mission d’événement limité. Termine Colisée d’outre-monde niveau 1 étape 5
 9495	[Colisée d’outre-monde] Mission d’événement limité. Termine Colisée d’outre-monde niveau 2 étape 3
 9496	[Colisée d’outre-monde] Mission d’événement limité. Termine Colisée d’outre-monde niveau 2 étape 5
-9497	[Partie 1 : 10 ans de souvenirs] Obtiens 4 unités anniv
+9497	[Partie 1 : 10 ans de souvenirs] Obtiens 0 unités anniv
 9498	[Défilé des 10 ans] Termine toutes les missions des parties. 1 à 5 pour obtenir un ticket légendaire
 9499	[Niveau Invasion] Mission à durée limitée. Termine Tribunal du tourment
 9500	[Niveau Invasion] Mission à durée limitée. Termine Première course
@@ -845,7 +845,7 @@
 9505	[Niveau Invasion] Termine Tortue et bébé. Termine tous les niveaux et niveaux EX
 9506	[Niveau Invasion] Termine Prince et revenant. Termine tous les niveaux et niveaux EX
 9507	[Niveau Invasion] Termine Reine et saint. Termine tous les niveaux et niveaux EX
-9508	Devoirs de vacances ④ : termine une rédaction parfaite. Termine 30 niveaux Chats de vacances d’été
+9508	Devoirs de vacances ④ : termine une rédaction parfaite. Termine 9 niveaux Chats de vacances d’été
 9509	Devoirs de vacances 2 ⑤ : observe les insectes. Termine Nuit d’été, ret. bercail nv 1 avec Chat Kabuto
 9510	Devoirs de vacances 2 ⑥ : observe les insectes. Termine Nuit d’été, ret. bercail nv 2 avec Chat Kuwagata
 9511	Devoirs de vacances 2 ⑦ : observe les insectes. Termine Nuit d’été, ret. bercail nv 3 avec Œuf ancien N202
@@ -860,9 +860,14 @@
 9528	Termine des niveaux de l'événement d'Halloween
 9529	Gagne un objet vedette dans les Chapsules. de l'événement Fête d'Halloween !
 9530	Termine toutes les missions de l'événement d'Halloween. pour gagner 1 ticket rare !
-9531	[Campagne Débutant] Termine 4 niv. de L'empire des Chats
-9532	[Campagne Débutant] Termine 8 niv. de L'empire des Chats
-9533	[Campagne Débutant] Termine 12 niv. de L'empire des Chats
+9531	[Campagne Débutant] Termine 9 niv. de L'empire des Chats
+9532	[Campagne Débutant] Termine 9 niv. de L'empire des Chats
+9533	[Campagne Débutant] Termine 9 niv. de L'empire des Chats
 9534	[Campagne Débutant] Termine le niv. Japon de L'empire des. Chats et gagne un ticket rare pour des Chapsules rares !
 9535	[Campagne Débutant] Termine le niv. Japon de L'empire des. Chats et gagne de l'Autorité pour récupérer du Charburant !
 66	Viens à bout de la forme de vie dans le Labyrinthe. de l'ancienne forêt, niveau 1 étape 6
+67	[Championnats Griffélin] Termine les 9 niveaux du Rang 1
+68	[Championnats Griffélin] Obtiens 4 Chats légendaires. Progresse dans les niveaux
+69	[Championnats Griffélin] Obtiens 4 Chats légendaires. Progresse dans les niveaux
+70	[Championnats Griffélin] Obtiens 4 Chats légendaires. Progresse dans les niveaux
+71	[Championnats Griffélin] Obtiens 4 Chats légendaires. Progresse dans les niveaux

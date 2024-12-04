@@ -185,8 +185,8 @@
 184	Hija única de la dinastía política más importante de<br>Centauri, año 1192. Tiene belleza, bondad, inteligencia...,<br>y aun así está casada con un chihuahua estrella de<br>un reality. Se fortalece tras sufrir daño.
 185	Aunque sigue siendo universitario, está realizando<br>una investigación tan profunda y exhaustiva sobre<br>todo lo obsceno que sus colegas lo llaman «profesor».<br>De todas formas, sigue sin comerse un rosco.
 186	
-187	<br><br><br>
-188	<br><br><br>
+187	
+188	
 189	<br><br><br>
 190	<br><br><br>
 191	<br><br><br>
@@ -671,7 +671,7 @@
 670	<br><br><br>
 671	<br><br><br>
 672	<br><br><br>
-673	<br><br><br>
+673	
 674	<br><br><br>
 675	<br><br><br>
 676	
@@ -700,3 +700,12 @@
 699	Un científico quiso crear un superser que<br>superara a la humanidad y este es el resultado.<br>Tras guiar a los gatos hasta otra dimensión,<br>un extraño cristal se alimentó de su ego.
 700	Espécimen n.º ???. Estado: se han detectado<br>microbios inestables. Energía de batalla: incalculable.<br>Se reproduce guardando y plantando semillas.<br>El ser vivo definitivo ya casi está aquí.
 701	
+702	
+703	
+704	
+705	
+706	
+707	
+708	
+709	
+710	

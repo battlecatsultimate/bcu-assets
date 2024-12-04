@@ -5749,6 +5749,13 @@
 034-014-003	Tropical Entropy
 034-014-004	Euler Archipelago
 034-014-005	Heaven-Defying Fruit
+034-015		Cruise Ship Panic
+034-015-000	Mysterious Captain
+034-015-001	The Locked Suite
+034-015-002	Proposal at Sea
+034-015-003	Automatic Avoidance
+034-015-004	Pirates Breaking Rank
+034-015-005	Smooth Docking
 
 036			Colosseum Stages
 036-000		Otherworld Colosseum
@@ -5781,3 +5788,52 @@
 036-004-002	Round 3
 036-004-003	Round 4
 036-004-004	Round 5
+036-005		Otherworld Colosseum
+036-005-000	Round 1
+036-005-001	Round 2
+036-005-002	Round 3
+036-005-003	Round 4
+036-005-004	Round 5
+
+037			Catclaw Championships
+037-000		Catclaw Championships Rank 1
+037-000-000	Rank-Up Test 1
+037-000-001	Rank-Up Test 2
+037-000-002	Rank-Up Test 3
+037-001		Catclaw Championships Rank 2
+037-001-000	Rank-Up Test 1
+037-001-001	Rank-Up Test 2
+037-001-002	Rank-Up Test 3
+037-002		Catclaw Championships Rank 3
+037-002-000	Rank-Up Test 1
+037-002-001	Rank-Up Test 2
+037-003		Catclaw Championships Rank 4
+037-003-000	Rank-Up Test 1
+037-003-001	Rank-Up Test 2
+037-004		Catclaw Championships Rank 5
+037-004-000	Rank-Up Test 1
+037-004-001	Rank-Up Test 2
+037-004-002	Rank-Up Test 3
+037-005		Catclaw Championships Rank 6
+037-005-000	Rank-Up Test 1
+037-005-001	Rank-Up Test 2
+037-006		Catclaw Championships Rank 7
+037-006-000	Rank-Up Test 1
+037-006-001	Rank-Up Test 2
+037-007		Catclaw Championships Rank 8
+037-007-000	Rank-Up Test 1
+037-007-001	Rank-Up Test 2
+037-007-002	Rank-Up Test 3
+037-008		Catclaw Championships Rank 9
+037-008-000	Rank-Up Test 1
+037-008-001	Rank-Up Test 2
+037-008-002	Rank-Up Test 3
+037-009		Catclaw Championships Rank 10
+037-009-000	Rank-Up Test
+037-010		Catclaw Championships Rank 11
+037-010-000	Rank-Up Test 1
+037-010-001	Rank-Up Test 2
+037-011		Catclaw Championships Rank 12
+037-011-000	Rank-Up Test 1
+037-011-001	Rank-Up Test 2
+037-011-002	Rank-Up Test 3

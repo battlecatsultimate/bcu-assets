@@ -5663,6 +5663,13 @@
 034-014-003	Tropische Entropie
 034-014-004	Euler-Archipel
 034-014-005	Himmelstrotzende Flucht
+034-015		Panik auf dem Kreuzfahrtschiff
+034-015-000	Mysteriöser Kapitän
+034-015-001	Die verschlossene Suite
+034-015-002	Antrag auf See
+034-015-003	Automatische Vermeidung
+034-015-004	Piraten brechen den Rang
+034-015-005	Sanftes Andocken
 
 036			Colosseum Stages
 036-000		Anderwelt-Kolosseum
@@ -5695,3 +5702,52 @@
 036-004-002	Runde 3
 036-004-003	Runde 4
 036-004-004	Runde 5
+036-005		Anderwelt-Kolosseum
+036-005-000	Runde 1
+036-005-001	Runde 2
+036-005-002	Runde 3
+036-005-003	Runde 4
+036-005-004	Runde 5
+
+037			Katzenkrall-Meisterschaften
+037-000		Katzenkrall-Meisterschaften Rang 1
+037-000-000	Rangaufstiegtest 1
+037-000-001	Rangaufstiegtest 2
+037-000-002	Rangaufstiegtest 3
+037-001		Katzenkrall-Meisterschaften Rang 2
+037-001-000	Rangaufstiegtest 1
+037-001-001	Rangaufstiegtest 2
+037-001-002	Rangaufstiegtest 3
+037-002		Katzenkrall-Meisterschaften Rang 3
+037-002-000	Rangaufstiegtest 1
+037-002-001	Rangaufstiegtest 2
+037-003		Katzenkrall-Meisterschaften Rang 4
+037-003-000	Rangaufstiegtest 1
+037-003-001	Rangaufstiegtest 2
+037-004		Katzenkrall-Meisterschaften Rang 5
+037-004-000	Rangaufstiegtest 1
+037-004-001	Rangaufstiegtest 2
+037-004-002	Rangaufstiegtest 3
+037-005		Katzenkrall-Meisterschaften Rang 6
+037-005-000	Rangaufstiegtest 1
+037-005-001	Rangaufstiegtest 2
+037-006		Katzenkrall-Meisterschaften Rang 7
+037-006-000	Rangaufstiegtest 1
+037-006-001	Rangaufstiegtest 2
+037-007		Katzenkrall-Meisterschaften Rang 8
+037-007-000	Rangaufstiegtest 1
+037-007-001	Rangaufstiegtest 2
+037-007-002	Rangaufstiegtest 3
+037-008		Katzenkrall-Meisterschaften Rang 9
+037-008-000	Rangaufstiegtest 1
+037-008-001	Rangaufstiegtest 2
+037-008-002	Rangaufstiegtest 3
+037-009		Katzenkrall-Meisterschaften Rang 10
+037-009-000	Rangaufstiegtest
+037-010		Katzenkrall-Meisterschaften Rang 11
+037-010-000	Rangaufstiegtest 1
+037-010-001	Rangaufstiegtest 2
+037-011		Katzenkrall-Meisterschaften Rang 12
+037-011-000	Rangaufstiegtest 1
+037-011-001	Rangaufstiegtest 2
+037-011-002	Rangaufstiegtest 3

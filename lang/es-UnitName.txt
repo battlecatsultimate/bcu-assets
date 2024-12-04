@@ -303,7 +303,7 @@
 302	Gata Lilit	Gata Súcubo	Gata Reina Súcubo	
 303	Vendedor de Comida	Gato Repartidor	Gato de Cafetería	
 304	Gatapulta Brutal	Máquina de Asedio	Mastodonte de Asalto	Gigapulta de destrucción gatopardo
-305	Buque Brutal	BCS Corazón de León	BCS Garra de Tigre	
+305	Buque Brutal	BCS Corazón de León	BCS Garra de Tigre	BCS Garra de Oso
 306	Bombardero Brutal	MIAU-0 Fortaleza Aérea	MIAU-02 Ciudadela Aérea	
 307	Gato con Pértiga	Gata con Pértiga	Gata Ama de Casa	
 308	Gato Jardinero	Gato Leñador	Gato Desbrozador	
@@ -666,7 +666,7 @@
 665	Huevo Antiguo N201	Huevo Negro N201	Gato Exorcista	
 666	Lilin Playa Nocturna	Lilin Playa Nocturna π		
 667	Gato Pájaro Adoctrinado	Gatovni Adoctrinado	Gato Volador adoctrinado	
-668	Gatengu	Gran Tengu Yokai		
+668	Gatengu	Gran Tengu Yokai	Maestro Inmortal Tengu	
 669	Huevo antiguo N003	Huevo Malvado N003	Gactus	
 670	Huevo antiguo N202	Huevo Bermellón N202	Gato Luciérnaga Blindado	
 671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)		
@@ -728,7 +728,7 @@
 727	SOL DAE ROKKER	SOL DAE ROKKER CC		
 728	Sórcates Mente Brillante	Gatócrates Mente Brillante		
 729				
-730				
+730	Huevo Antiguo N204	Huevo Bermellón N204	Gato León Bailarín	
 731	Izanagi Alboreo	Izanagi Crepuscular		
 732				
 733	Pegasa	Pegasa v	Indiferente a los planes y quehaceres de los adultos,	
@@ -772,3 +772,7 @@
 771	Maestro de la Vida Dr. Nova	Maestro de la Vida Catnova		
 772	Sodoma Calabaza	Sodoma de Halloween		
 773	Momia Sumo	Momia Sumo Mamá		
+774	Guardia mecánico Axel	Sargento Metálico Axel		
+775				
+776				
+777	General de Invierno Kaihime	Comandante de Invierno Kaihime		

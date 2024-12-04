@@ -700,3 +700,12 @@
 699	Sage of Life Dr. Nova
 700	Idi:Ne
 701	Cafeteria Cat
+702	Bannerman Doge
+703	Commander Face
+704	Commander Nyandam
+705	Commander Hannya
+706	Commander Bun Bun
+707	Revolutionary Nobunaga
+708	12th Anniversary Cake
+709	12th Anniversary Scarecrow Base
+710	Catclaw Castle

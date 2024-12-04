@@ -185,8 +185,8 @@
 184	Only daughter of the most powerful political<br>dynasty of Centauri year 1192. Beauty, brains,<br>wit… and yet she married a chihuahua reality<br>TV "star". Get stronger after being damaged.
 185	Even though he's still a college undergrad,<br>his research into dirty stuff is so in-depth<br>and thorough that his friends call him Professor.<br>Dating experience is somehow still zero.
 186	
-187	<br><br><br>
-188	<br><br><br>
+187	
+188	
 189	<br><br><br>
 190	<br><br><br>
 191	<br><br><br>
@@ -671,7 +671,7 @@
 670	<br><br><br>
 671	<br><br><br>
 672	<br><br><br>
-673	<br><br><br>
+673	
 674	<br><br><br>
 675	<br><br><br>
 676	
@@ -700,3 +700,12 @@
 699	The result of an ancient scientist's work to<br>create a super-being to surpass humanity.<br>After guiding the Cats to another dimension,<br>their ego was consumed by a strange crystal.
 700	Specimen No. ???. Status: Unstable microbes<br>detected. Battle energy: Incalculable.<br>Reproduces by saving and spreading seeds.<br>The ultimate lifeform is almost upon us.
 701	
+702	
+703	
+704	
+705	
+706	
+707	
+708	
+709	
+710	

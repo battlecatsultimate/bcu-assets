@@ -644,6 +644,7 @@
 15664	Chat masque à gaz
 15665	Chat chirurgien
 15666	Chat exorciste
+15669	Maître Tengu immortel
 15670	Chat cactus
 15671	Chat luciole blindé
 15675	Soucoupe extradimensionnelle
@@ -661,6 +662,7 @@
 15718	Chagriculteur
 15721	Chat-Ours déchu
 15725	Nacelle-œuf féline
+15731	Chat lion danseur
 15758	Chat mariée
 15766	Chapalourde
 16131	Ururun et Tama éveillés

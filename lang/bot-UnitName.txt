@@ -772,3 +772,7 @@
 771	Master of Life Dr. Nova	Master of Life Catnova		
 772	Pumpkin Sodom	Sodom-o'-Lantern		
 773	Mummy Sumo	Mama Mummy Sumo	
+774	Mech Patrol Axel	Steel Sergeant Axel		
+775	Axel Spirit			
+776	Apprentice Warrior Cat	Warlord Cat		
+777	Winter General Kaihime	Winter Commander Kaihime		

@@ -419,7 +419,7 @@
 418	Rano
 419	Misidiós
 420	Loris
-421	divino Le'saint
+421	Divino Le'saint
 422	Maloso Bermejo
 423	K. Reto
 424	A. B. Struz
@@ -700,3 +700,12 @@
 699	Maestro de la Vida Dr. Nova
 700	Idi:Ne
 701	Gato de Cafetería
+702	Chucho Portaestandarte
+703	Comandante Careto
+704	Comandante Nyandam
+705	Comandante Hannya
+706	Comandante Bun Bun
+707	Nobunaga Revolucionario
+708	
+709	
+710	Castillo Afilagarras

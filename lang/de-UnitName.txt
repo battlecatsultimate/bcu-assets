@@ -303,7 +303,7 @@
 302	Lilith-Katze	Succubus-Katze	Königin Succubus-Katze	
 303	Essensstandkatze	Lieferdienstkatze	Kantinenkatze	
 304	Mächtiges Katzapult	KATZ-6-Belagerungswaffe	KATZ-8-Behemoth	KAT-10-Gigapult
-305	Mächtiges Kampfschiff	K.K.S. Löwenherz	K.K.S. Tigerklaue	
+305	Mächtiges Kampfschiff	K.K.S. Löwenherz	K.K.S. Tigerklaue	K.K.S. Bärenklaue
 306	Mächtiger Bomber	NEK-0-Himmelsfestung	NEK-02-Luftzitadelle	
 307	Hochsprungkatze	Stabsprungkatze	Hausfrauenkatze	
 308	Gärtnerkatze	Holzfällerkatze	Unkrautjäter-Katze	
@@ -666,7 +666,7 @@
 665	Uraltes Ei: N201	Dunkles Ei: N201	Exorzistenkatze	
 666	Nachtstrand-Lilin	Nachtstrand-Lilin π		
 667	Gehirngewaschene Vogelkatze	Gehirngewaschenes UFO	Gehirngewaschene Flugkatze	
-668	Katzen-Tengu	Großer Yokai-Tengu		
+668	Katzen-Tengu	Großer Yokai-Tengu	Unsterblicher Meister Tengu	
 669	Uraltes Ei: N003	Böses Ei: N003	Katzenkaktus	
 670	Uraltes Ei: N202	Zinnober-Ei: N202	Gepanzerte Glühwürmchenkatze	
 671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)		
@@ -728,7 +728,7 @@
 727	SOL DAE ROKKER	SOL DAE ROKKER CC		
 728	Meister der Gedanken Soraktes	Meister der Gedanken Katzkrates		
 729				
-730				
+730	Uraltes Ei: N204	Zinnober-Ei: N204	Löwentänzer-Katze	
 731	Tagbrecher Izanagi	Tagbringer Izanagi		
 732				
 733	Pegasa	Pegasa ν	Hat kein Interesse an Plänen und Komplotten der Erwachsenen.	
@@ -772,3 +772,7 @@
 771	Meister des Lebens Dr. Nova	Meister des Lebens Katznova		
 772	Kürbis-Sodom	Sodomlaterne		
 773	Mumien-Sumo	Mama-Mumien-Sumo		
+774	Mecha-Patrouille Axel	Stahlsergeant Axel		
+775				
+776				
+777	Wintergeneralin Kaihime	Winterkommandantin Kaihime		

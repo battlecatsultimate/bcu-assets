@@ -185,8 +185,8 @@
 184	Die einzige Tochter aus dem politisch einflussreichsten Hause<br>von Centauri im Jahr 1192. Schönheit, Klugheit, Gerissenheit.<br>Und trotzdem hat sie einen Chihuahua, der Reality-TV-„Star“<br>ist, geheiratet. Wird nach erlittenem Schaden stärker.
 185	Obwohl er noch zur Uni geht, ist seine Forschung in<br>schmuddeligen Dingen so weit vorangeschritten, dass<br>seine Freunde ihn Professor nennen.<br>Dating-Erfahrung hat er irgendwie immer noch keine.
 186	
-187	<br><br><br>
-188	<br><br><br>
+187	
+188	
 189	<br><br><br>
 190	<br><br><br>
 191	<br><br><br>
@@ -671,7 +671,7 @@
 670	<br><br><br>
 671	<br><br><br>
 672	<br><br><br>
-673	<br><br><br>
+673	
 674	<br><br><br>
 675	<br><br><br>
 676	
@@ -700,3 +700,12 @@
 699	Ergebnis der Bemühungen eines antiken Wissenschaftlers,<br>ein Superwesen zu schaffen, das die Menschheit übertrifft.<br>Nachdem er die Katzen in eine andere Dimension geführt hatte,<br>verschlang ein seltsamer Kristall sein Ego.
 700	Exemplar Nr. ???. Status: Instabile Mikroben<br>gefunden. Kampfenergie: Unermesslich.<br>Pflanzt sich durch aufsparen und verbreiten von Samen fort.<br>Die ultimative Lebensform ist beinahe da.
 701	
+702	
+703	
+704	
+705	
+706	
+707	
+708	
+709	
+710	

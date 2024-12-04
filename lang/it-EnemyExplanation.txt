@@ -185,8 +185,8 @@
 184	Unica figlia della dinastia politica più potente<br>di Centauri anno 1192. Bella, intelligente,<br>spiritosa... eppure ha sposato un chihuahua<br>di un reality. Più forte dopo aver subito danni.
 185	Anche se è ancora uno studente universitario,<br>la sua ricerca sulle cose zozze è così profonda<br>e meticolosa che gli amici lo chiamano Professore.<br>Le esperienze amorose sono ancora a zero.
 186	
-187	<br><br><br>
-188	<br><br><br>
+187	
+188	
 189	<br><br><br>
 190	<br><br><br>
 191	<br><br><br>
@@ -671,7 +671,7 @@
 670	<br><br><br>
 671	<br><br><br>
 672	<br><br><br>
-673	<br><br><br>
+673	
 674	<br><br><br>
 675	<br><br><br>
 676	
@@ -700,3 +700,12 @@
 699	Il frutto del lavoro di un antico scienziato per<br>creare un essere che superasse l'umanità.<br>Dopo aver condotto i Gatti in un'altra dimensione,<br>uno strano cristallo ne ha consumato l'ego.
 700	Esemplare #???. Stato: microbi instabili.<br>Energia di battaglia: incalcolabile.<br>Si riproduce conservando e diffondendo semi.<br>La forma di vita definitiva è quasi arrivata.
 701	
+702	
+703	
+704	
+705	
+706	
+707	
+708	
+709	
+710	

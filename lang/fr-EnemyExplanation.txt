@@ -185,8 +185,8 @@
 184	Fille unique de la dynastie politique la plus puissante<br>du Centaure, an 1192. Belle, intelligente, pleine d’esprit...<br>Et pourtant, elle a épousé un chihuahua vedette<br>de télé-réalité. Se renforce après avoir subi des dégâts.
 185	Même s’il n’est pas encore diplômé,<br>ses histoires d’adultes sont tellement approfondies<br>et documentées que ses amis l’appellent « Professeur ».<br>Pourtant, il n’a toujours pas eu de rendez-vous galant.
 186	
-187	<br><br><br>
-188	<br><br><br>
+187	
+188	
 189	<br><br><br>
 190	<br><br><br>
 191	<br><br><br>
@@ -671,7 +671,7 @@
 670	<br><br><br>
 671	<br><br><br>
 672	<br><br><br>
-673	<br><br><br>
+673	
 674	<br><br><br>
 675	<br><br><br>
 676	
@@ -700,3 +700,12 @@
 699	Le fruit du travail d'un ancien chercheur qui voulait<br>créer un être supérieur dépassant l'humanité.<br>Après avoir guidé les Chats vers une autre dimension,<br>son égo fut consumé par un étrange cristal.
 700	Spécimen n° ???. Statut : microbes instables<br>détectés. Énergie au combat : incalculable.<br>Se reproduit en conservant et en semant des graines.<br>La forme de vie ultime est à portée de main.
 701	
+702	
+703	
+704	
+705	
+706	
+707	
+708	
+709	
+710	

@@ -700,3 +700,12 @@
 699	Maître de la vie Dr Nova
 700	Idi:Ne
 701	Chat de la cantine
+702	Toutou bannière
+703	Commandant Face
+704	Commandant Nyandam
+705	Commandant Hannya
+706	Commandant Bun Bun
+707	Nobunaga révolutionnaire
+708	
+709	
+710	Château Griffélin

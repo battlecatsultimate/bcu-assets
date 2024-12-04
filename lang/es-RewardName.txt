@@ -643,6 +643,7 @@
 15664	Gato con Máscara de Gas
 15665	Gato Cirujano
 15666	Gato Exorcista
+15669	Maestro Inmortal Tengu
 15670	Gactus
 15671	Gato Luciérnaga Blindado
 15675	Gataque extradimensional
@@ -660,6 +661,7 @@
 15718	Gato Granjero
 15721	Oso Caído Gatuno
 15725	Vaina de huevo gatuno
+15731	Gato León Bailarín
 15758	Gata Prometida
 15766	Gato Almeja
 16131	Ururun Alzado

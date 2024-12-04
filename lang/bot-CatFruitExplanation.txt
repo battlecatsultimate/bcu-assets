@@ -303,7 +303,7 @@
 302	True Form evolution improves<br>attack power and range! Plus,<br>gains the ability to Freeze Aku.	True Form gains improved<br>attack power and range! Plus,<br>gains the ability to Freeze Aku.
 303	<br><br>
 304	True Form evolution improves attack<br>distance and attack area range!<br>	Ultra Form gains improved attack power!<br>Resists Zombies and Relics, and gains<br>the ability to 100% Weaken enemies.
-305	True Form evolution improves<br>attack speed!<br>
+305	True Form evolution improves<br>attack speed!<br>	Ultra Form gains reduced deploy cooldown!<br>Improved Defense, atk. speed/range!<br>Also gains immunity to Knockback!
 306	True Form evolution improves<br>defense and knockback rate!<br>
 307	True form greatly increases defense and<br>movement speed! Plus, Slow effects against<br>Zombies will last for longer!
 308	True form greatly increases defense!<br>Attack range also improves, and<br>freeze time versus zombies increases!
@@ -666,7 +666,7 @@
 665	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 666	<br><br>
 667	<br><br>
-668	<br><br>
+668	True Form gains increased defense!<br>Also improved Knockback chance,<br>and easier improvements to attack power!
 669	True Form evolution reveals its final form!<br>Also gains immunity to Surge Attacks!<br>
 670	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 671	<br><br>
@@ -772,3 +772,7 @@
 771	<br><br>
 772	<br><br>
 773	<br><br>
+774	<br><br>
+775	<br><br>
+776	<br><br>
+777	<br><br>

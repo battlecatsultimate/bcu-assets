@@ -644,6 +644,7 @@
 15664	Gas Mask Cat
 15665	Surgeon Cat
 15666	Exorcist Cat
+15669	Immortal Master Tengu
 15670	Cat Cactus
 15671	Armored Firefly Cat
 15675	Extradimensional Envanz
@@ -661,6 +662,7 @@
 15718	Farmboy Cat
 15721	Fallen Bear Cat
 15725	Cat Egg Pod
+15731	Lion Dancer Cat
 15758	Bride Cat
 15766	Clam Cat
 16131	Awakened Ururun

@@ -303,7 +303,7 @@
 302	Lilith féline	Chatte succube	Reine succube	
 303	Chat stand	Chat livreur	Chat de la cantine	
 304	Puissante chatapulte	Engin de siège CHAT-6	Béhémoth CHAT-8	Gigapulte CAT-10
-305	Puissant cuiraté	Navire Cœur de lion	Navire Griffe de tigre	
+305	Puissant cuiraté	Navire Cœur de lion	Navire Griffe de tigre	Navire Griffe d'ours
 306	Puissant ronronbardier	Forteresse aérienne NEK-0	Citadelle aérienne NEK-02	
 307	Chatte perchiste	Chatte sauteuse	Chatte au foyer	
 308	Chardinier	Bûcharon	Charticulteur	
@@ -666,7 +666,7 @@
 665	Œuf ancien N201	Œuf sombre N201	Chat exorciste	
 666	Lilin plage nocturne	Lilin plage nocturne π		
 667	Chat oiseau sous contrôle	OVNI sous contrôle	Chat volant sous contrôle	
-668	Chat Tengu	Tengu grand yokai		
+668	Chat Tengu	Tengu grand yokai	Maître Tengu immortel	
 669	Œuf ancien N003	Œuf diabolique N003	Chat cactus	
 670	Œuf ancien N202	Œuf cinabre N202	Chat luciole blindé	
 671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)		
@@ -728,7 +728,7 @@
 727	SOL DAE ROKKER	SOL DAE ROKKER CC		
 728	Soracte, mentor mental	Sochate, mentor mental		
 729				
-730				
+730	Œuf ancien N204	Œuf cinabre N204	Chat lion danseur	
 731	Izanagi du levant	Izanagi de l'aube		
 732				
 733	Pégasa	Pégasa ν	Guère intéressée par les machinations des adultes,	
@@ -772,3 +772,7 @@
 771	Maître de la vie Dr Nova	Maître de la vie Chanova		
 772	Sodom citrouille	Sodom-o'-Lanterne		
 773	Momie sumo	Maman momie sumo		
+774	Méca-patrouille Axel	Sergent d'acier Axel		
+775				
+776				
+777	Générale Kaihime d'hiver	Commandante Kaihime d'hiver		

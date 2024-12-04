@@ -5714,6 +5714,13 @@
 034-014-003	Entropía Tropical
 034-014-004	Archipiélago Euler
 034-014-005	Fruta de poder divino
+034-015		Pánico en el crucero
+034-015-000	Capitán Misterioso
+034-015-001	La suite cerrada
+034-015-002	Pedida en alta mar
+034-015-003	Evasión automática
+034-015-004	Piratas rompefilas
+034-015-005	Atraque perfecto
 
 036			Colosseum Stages
 036-000		Coliseo de Otro Mundo
@@ -5746,3 +5753,52 @@
 036-004-002	Ronda 3
 036-004-003	Ronda 4
 036-004-004	Ronda 5
+036-005		Coliseo de Otro Mundo
+036-005-000	Ronda 1
+036-005-001	Ronda 2
+036-005-002	Ronda 3
+036-005-003	Ronda 4
+036-005-004	Ronda 5
+
+037			Campeonatos Afilagarras
+037-000		Campeonatos Afilagarras Rango 1
+037-000-000	Prueba de subida de rango 1
+037-000-001	Prueba de subida de rango 2
+037-000-002	Prueba de subida de rango 3
+037-001		Los Campeonatos Afilagarras Rango 2
+037-001-000	Prueba de subida de rango 1
+037-001-001	Prueba de subida de rango 2
+037-001-002	Prueba de subida de rango 3
+037-002		Campeonatos Afilagarras Rango 3
+037-002-000	Prueba de subida de rango 1
+037-002-001	Prueba de subida de rango 2
+037-003		Campeonatos Afilagarras Rango 4
+037-003-000	Prueba de subida de rango 1
+037-003-001	Prueba de subida de rango 2
+037-004		Campeonatos Afilagarras Rango 5
+037-004-000	Prueba de subida de rango 1
+037-004-001	Prueba de subida de rango 2
+037-004-002	Prueba de subida de rango 3
+037-005		Campeonatos Afilagarras Rango 6
+037-005-000	Prueba de subida de rango 1
+037-005-001	Prueba de subida de rango 2
+037-006		Campeonatos Afilagarras Rango 7
+037-006-000	Prueba de subida de rango 1
+037-006-001	Prueba de subida de rango 2
+037-007		Campeonatos Afilagarras Rango 8
+037-007-000	Prueba de subida de rango 1
+037-007-001	Prueba de subida de rango 2
+037-007-002	Prueba de subida de rango 3
+037-008		Campeonatos Afilagarras Rango 9
+037-008-000	Prueba de subida de rango 1
+037-008-001	Prueba de subida de rango 2
+037-008-002	Prueba de subida de rango 3
+037-009		Campeonatos Afilagarras Rango 10
+037-009-000	Prueba de subida de rango
+037-010		Campeonatos Afilagarras Rango 11
+037-010-000	Prueba de subida de rango 1
+037-010-001	Prueba de subida de rango 2
+037-011		Campeonatos Afilagarras Rango 12
+037-011-000	Prueba de subida de rango 1
+037-011-001	Prueba de subida de rango 2
+037-011-002	Prueba de subida de rango 3

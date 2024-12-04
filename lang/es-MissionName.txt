@@ -44,7 +44,7 @@
 9002	(Completa cualquier fase de Lección Veraniega)
 9003	(Completa cualquier fase de Lección Veraniega)
 9004	Consigue al gato raro Bailarina de Awa. (Está disponible en las fases de Agenda Veraniega)
-9005	(Completa las 4 misiones del evento veraniego)
+9005	(Completa las 0 misiones del evento veraniego)
 9015	Score 5000 or more on "Immortal Allen O'Neill"! Receive your score upon stage clear
 9016	Score 5000 or more on "Attack On Huge Hermit"! Receive your score upon stage clear
 9017	Score 5000 or more on "Jupiter King Convoy"! Receive your score upon stage clear
@@ -81,9 +81,9 @@
 9048	Gana más de 6000 puntos. en la fase especial Caries Incipiente
 9049	Mejora al Gatohuevo al nivel 10. (Debes hacerlo antes de que acabe el evento)
 9050	Upgrade Shinji & Cat to Level 10! (You must evolve the Cat before the event ends!)
-9051	Clear "Decisive Battle!" 5 times!
-9052	Clear "Decisive Battle!" 10 times!
-9053	Clear "Decisive Battle!" 20 times!
+9051	Clear "Decisive Battle!" 9 times!
+9052	Clear "Decisive Battle!" 9 times!
+9053	Clear "Decisive Battle!" 9 times!
 9054	Clear a stage using a catcombo with "Eva Angel Killer" effect! Use Shinji and ??? together (after Empire Ch. 1)
 9055	Destroy the 4th Angel. Encounter this enemy at "State of Emergency"
 9056	Destroy the 6th Angel. Encounter this enemy at "Futagoyama Fortress"
@@ -93,15 +93,15 @@
 9060	Evolve Pokota at Level 10! This mission can only be completed during the LINE Pokopang! collab event!
 9061	Evolve Ovis at Level 10! This mission can only be completed during the LINE Pokopang! collab event!
 9062	Evolve Coco at Level 10! This mission can only be completed during the LINE Pokopang! collab event!
-9063	Clear "Trio from the Woods" 5 times!
-9064	Clear "Trio from the Woods" 10 times!
-9065	Clear "Trio from the Woods" 20 times!
+9063	Clear "Trio from the Woods" 9 times!
+9064	Clear "Trio from the Woods" 9 times!
+9065	Clear "Trio from the Woods" 9 times!
 9072	(Completa cualquier fase de El Toque de Midas)
 9073	(Completa cualquier fase de El Toque de Midas)
 9074	(Completa cualquier fase de El Toque de Midas)
-9075	Clear "City of Souls" 5 times!
-9076	Clear "City of Souls" 10 times!
-9077	Clear "City of Souls" 20 times!
+9075	Clear "City of Souls" 9 times!
+9076	Clear "City of Souls" 9 times!
+9077	Clear "City of Souls" 9 times!
 9078	Upgrade Yuki Cat to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
 9079	Upgrade Takuya ＆ Yuki to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
 9080	Upgrade Redhead Yuki Cat to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
@@ -142,9 +142,9 @@
 9128	Destroy all Witches
 9129	Evolve Li'l Madoka at Level 10! This mission can only be completed while the Puella Magi Madoka Magica collab is available!
 9130	Evolve Kyubey Cat Level 10! This mission can only be completed while the Puella Magi Madoka Magica collab is available!
-9131	Clear "Queen Rampant" 5 times!
-9132	Clear "Queen Rampant" 10 times!
-9133	Clear "Queen Rampant" 20 times!
+9131	Clear "Queen Rampant" 9 times!
+9132	Clear "Queen Rampant" 9 times!
+9133	Clear "Queen Rampant" 9 times!
 9134	(Completa cualquier fase de Noche Deportiva)
 9135	(Completa cualquier fase de Noche Deportiva)
 9136	(Completa cualquier fase de Noche Deportiva)
@@ -153,9 +153,9 @@
 9139	(Completa cualquier fase de Revolución Laboral)
 9140	(Completa cualquier fase de Revolución Laboral)
 9141	Muta al Gato Currito en el nivel 10. (Solo en las fases exclusivas de Amado Trabajo)
-9142	Clear "Merc Storia: Attack" stages 5 times!
-9143	Clear "Merc Storia: Attack" stages 10 times!
-9144	Clear "Merc Storia: Attack" stages 20 times!
+9142	Clear "Merc Storia: Attack" stages 9 times!
+9143	Clear "Merc Storia: Attack" stages 9 times!
+9144	Clear "Merc Storia: Attack" stages 9 times!
 9145	Challenge the Ranking Stage "Weak of Spirit"!  Select this stage at the Catclaw Dojo!
 9146	Evolve Healer at Level 10! This mission can only be completed during the Merc Storia Collab Event!
 9147	(Completa cualquier fase de Feria Gastronómica)
@@ -178,7 +178,7 @@
 9164	Misiones de Invasión del Festival Exclusivo. ¡Supera la fase Difunto Debutante!
 9165	Misiones de Invasión del Festival Exclusivo. ¡Supera la fase Venganza del Rey Guau!
 9166	Misiones de Invasión del Festival Exclusivo. ¡Supera la fase Sueño Profundo!
-9167	(Completa las 6 fases disponibles)
+9167	(Completa las 0 fases disponibles)
 9168	(Completa cualquier fase de Seis Años)
 9169	Gana 6666 puntos en 6 Años de Fuerza. (Es una fase de clasificación en el Dojo Afilagarras)
 9170	(Completa cualquier fase de Caos Ritual)
@@ -203,9 +203,9 @@
 9192	Upgrade Rosary Angel to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
 9193	Clear the first "Devilish Illusion" stage! You must earn a victory on "A Tower Piercing the Sky (Hard)"
 9194	Clear the first "Yamato Awakens!" stage! You must earn a victory on "Inherited Ambition (Veteran)"
-9195	Clear "Bikkuriman Choco" stages 5 times!
-9196	Clear "Bikkuriman Choco" stages 10 times!
-9197	Clear "Bikkuriman Choco" stages 20 times!
+9195	Clear "Bikkuriman Choco" stages 9 times!
+9196	Clear "Bikkuriman Choco" stages 9 times!
+9197	Clear "Bikkuriman Choco" stages 9 times!
 9198	Upgrade Kano ＆ Souma to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
 9199	(Completa cualquier fase de Shakurel Planet)
 9200	(Completa cualquier fase de Shakurel Planet)
@@ -219,374 +219,374 @@
 17006	Supera todas las misiones mensuales:
 17007	Supera todas las misiones mensuales:
 17008	Supera todas las misiones mensuales:
-1000	Vence a Hipo en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1001	Vence a Cerdi en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1002	Vence a Ping Pong en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1003	Vence a Gori en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1004	Vence a Bee-Bee en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1005	Vence a Señor Foca en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1006	Vence a Kodri en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1007	Vence a L'Fante en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1008	Vence a Lali Ebre en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1009	Vence a Kan Gu en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1010	Vence a Ardi en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1011	Vence a Pol Illa en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1012	Vence a Ceronte en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1013	Vence a Profeoso en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1014	Vence a Emperador Nyandam en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1100	Vence a Hipo en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1101	Vence a Cerdi en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1102	Vence a Ping Pong en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1103	Vence a Gori en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1104	Vence a Bee-Bee en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1105	Vence a Señor Foca en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1106	Vence a Kodri en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1107	Vence a L'Fante en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1108	Vence a Lali Ebre en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1109	Vence a Kan Gu en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1110	Vence a Ardi en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1111	Vence a Pol Illa en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1112	Vence a Ceronte en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1113	Vence a Profeoso en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1114	Vence a Profe Bun Bun en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1200	Vence a Hipo en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1201	Vence a Cerdi en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1202	Vence a Ping Pong en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1203	Vence a Gori en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1204	Vence a Kodri en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1205	Vence a Señor Foca en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1206	Vence a Hipo Alien en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1207	Vence a Ceronte en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1208	Vence a Pol Illa en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1209	Vence a Kan Gu en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1210	Vence a Profeoso en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1211	Vence a Ermitaño Tacaño en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1212	Vence a L'Fante en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1213	Vence a Hipo Metálico en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1214	Vence a Señor Focalien en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1215	Vence a Chucho Oscuro en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1216	Vence a Pol Illalien en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1217	Vence a Timidín en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1218	Vence a Careto, el Octavo Pasajero en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1219	Vence a Gabriel en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1220	Vence a Gori Negro en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1221	Vence a Osa Mayor en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1222	Vence a Hipo Angelical en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1223	Vence a Kan Gu Sombra en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1224	Vence a Careto en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1225	Vence a Kodri Alien en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1226	Vence a L. Murr en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1227	Vence a Elizabeth LVI en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1228	Vence a Javi Li Espacial en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1229	Vence a Clio Nel en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1300	Vence a Kan Gu Manostijeras en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1301	Vence a Kan Gu en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1302	Vence a Profeoso en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1303	Vence a Ermitaño Tacaño en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1304	Vence a Osa Mayor en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1305	Vence a Ciberceronte en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1306	Vence a Señorita Celebriche en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1307	Vence a Timidín en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1308	Vence a Gori Negro en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1309	Vence a Serpi Roji en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1310	Vence a Kan Gu Sombra en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1311	Vence a Pandillero Bloguero en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1312	Vence a Careto en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1313	Vence a Nutri Negro en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1314	Vence a Elizabeth LVI en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1315	Vence a Careto, el Octavo Pasajero en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1316	Vence a Javi Li Espacial en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1317	Vence a Valquiria Corrupta en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1318	Vence a Sir Cerdi II en. el nivel 1 de una fase legendaria
-1319	Vence a Chucho Oscuro en. el nivel 1 de una fase legendaria
-1320	Vence a Jefe H. en. el nivel 1 de una fase legendaria
-1321	Vence a Perrito Caliente en. el nivel 1 de una fase legendaria
-1322	Vence a Celebriche en. el nivel 1 de una fase legendaria
-1323	Vence a Pérez Oso en. el nivel 1 de una fase legendaria
-1324	Vence a Nutri Ente en. el nivel 1 de una fase legendaria
-1325	Vence a J. K. Bun Bun en. el nivel 1 de una fase legendaria
-1326	Vence a Javi Li en. el nivel 1 de una fase legendaria
-1327	Vence a Lechuzo en. el nivel 1 de una fase legendaria
-1328	Vence a Camelle en. el nivel 1 de una fase legendaria
-1329	Vence a Kory en. el nivel 1 de una fase legendaria
-1330	Vence a Emperador Nyandam Oscuro en. el nivel 1 de una fase legendaria
-1331	Vence a Ceronte Metálico en. el nivel 1 de una fase legendaria
-1332	Vence a H. Nah en. el nivel 1 de una fase legendaria
-1333	Vence a Lobo Ururun en. el nivel 1 de una fase legendaria
-1334	Vence a Ciclón Rojo en Catástrofe Carmesí. (Una vez en cualquier fase)
-1335	Vence a Ciclón Negro en Paraíso de Oscuridad. (Una vez en cualquier fase)
-1400	Vence a Señorita Celebriche en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1401	Vence a Kan Gu Manostijeras en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1402	Vence a Kan Gu en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1403	Vence a Calamardi en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1404	Vence a Ciberceronte en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1405	Vence a Profeoso en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1406	Vence a Osa Mayor en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1407	Vence a Alfaca en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1408	Vence a Elizabeth LVI en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1409	Vence a Kan Gu Sombra en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1410	Vence a Careto, el Octavo Pasajero en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1411	Vence a Careto en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1412	Vence a Timidín en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1413	Vence a Perezoso Viejuno en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1414	Vence a Nutri Negro en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1415	Vence a Javi Li Espacial en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1416	Vence a Gato Bégimo Alien en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1417	Vence a Dóberman Poli en. el nivel 1 de una fase legendaria
-1418	Vence a A. Vestruz en. el nivel 1 de una fase legendaria
-1419	Vence a Pez Lunángel en. el nivel 1 de una fase legendaria
-1420	Vence a Hipo Supermetálico en. el nivel 1 de una fase legendaria
-1421	Vence a Perromuro en. el nivel 1 de una fase legendaria
-1422	Vence a Paloma Pacifista en. el nivel 1 de una fase legendaria
-1423	Vence a Pegaso Angelical en. el nivel 1 de una fase legendaria
-1424	Vence a Mininyandam en. el nivel 1 de una fase legendaria
-1425	Vence a Pollito Ángel en. el nivel 1 de una fase legendaria
-1426	Vence a Capi B. Ara en. el nivel 1 de una fase legendaria
-1427	Vence a Golondrino en. el nivel 1 de una fase legendaria
-1428	Vence a Kory Salvaje en. el nivel 1 de una fase legendaria
-1429	Vence a Sr. Topo en. el nivel 1 de una fase legendaria
-1430	Vence a Tu Can Can en. el nivel 1 de una fase legendaria
-1431	Vence a Caperucita Espía en. el nivel 1 de una fase legendaria
-1432	Vence a Caballito del Mar Negro en. el nivel 1 de una fase legendaria
-1433	Vence a Don Javier Li en. el nivel 1 de una fase legendaria
-1434	Vence a Ciclón Blanco en Inigualable. (Una vez en cualquier fase)
-1435	Vence a Ciclón Divino en Ira de los Cielos. (Una vez en cualquier fase)
-1500	Vence a Chucho Alien de Élite en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1501	Vence a Ceronte en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1502	Vence a Cerdi en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1503	Vence a Ping Pong Estrella en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1504	Vence a General Gori en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1505	Vence a Elizabeth LVI en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1506	Vence a L. Fante Solar en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1507	Vence a Gori Angelical en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1508	Vence a Gabriel en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1509	Vence a Proyecto H. en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1510	Vence a Kan Gu Sombra en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1511	Vence a Hipo Angelical en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1512	Vence a Cabo Topo en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1513	Vence a Gori en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1514	Vence a Pez Luna Estrellada en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1515	Vence a Chucho Metálico en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1516	Vence a Misidiós en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1517	Vence a Pérez Oso en. el nivel 2 de una fase legendaria
-1518	Vence a Timidín en. el nivel 2 de una fase legendaria
-1519	Vence a J. K. Bun Bun en. el nivel 2 de una fase legendaria
-1520	Vence a Emperador Nyandam en. el nivel 2 de una fase legendaria
-1521	Vence a Profe Bun Bun en. el nivel 2 de una fase legendaria
-1522	Vence a Javi Li en. el nivel 2 de una fase legendaria
-1523	Vence a Kory en. el nivel 2 de una fase legendaria
-1524	Vence a Emperador Nyandam Oscuro en. el nivel 2 de una fase legendaria
-1525	Vence a A. Vestruz en. el nivel 2 de una fase legendaria
-1526	Vence a Lobo Ururun en. el nivel 2 de una fase legendaria
-1527	Vence a Pegaso Angelical en. el nivel 2 de una fase legendaria
-1528	Vence a Mininyandam en. el nivel 2 de una fase legendaria
-1529	Vence a Kory Salvaje en. el nivel 2 de una fase legendaria
-1530	Vence a Mac. Reno en. el nivel 2 de una fase legendaria
-1531	Vence a Camelle en. el nivel 2 de una fase legendaria
-1532	Vence a H. Nah en. el nivel 2 de una fase legendaria
-1533	Vence a Dóberman Poli en. el nivel 2 de una fase legendaria
-1534	Vence a Ciclón Metálico en Dulce Ironía. (Una vez en cualquier fase)
-1535	Vence a Ciclón Espacial en Dimensión Desesperada. (Una vez en cualquier fase)
-1600	Vence a Ultraborrego en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1601	Vence a Chucho Alien de Élite en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1602	Vence a Ping Pong Estrella en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1603	Vence a Cabo Topo en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1604	Vence a General Gori en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1605	Vence a Delfi Nal en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1606	Vence a Serpi Roji en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1607	Vence a L. Fante Solar en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1608	Vence a Gabriel en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1609	Vence a Gori Angelical en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1610	Vence a Rano en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1611	Vence a Proyecto H. en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1612	Vence a Kan Gu Sombra en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1613	Vence a Nyandam Galáctico en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1614	Vence a Pez Luna Estrellada en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1615	Vence a Javi Li en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1616	Vence a Clio Nel en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1617	Vence a Gori en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1618	Vence a Ceronte Metálico en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1619	Vence a Misidiós en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1620	Vence a Sr. Ángel en. el nivel 1 de una fase legendaria
-1621	Vence a Henry en. el nivel 1 de una fase legendaria
-1622	Vence a Minibunbun en. el nivel 1 de una fase legendaria
-1623	Vence a Profe H. en. el nivel 1 de una fase legendaria
-1624	Vence a Javi Li Rebelde en. el nivel 1 de una fase legendaria
-1625	Vence a Chucho Z. en. el nivel 1 de una fase legendaria
-1626	Vence a Zipo en. el nivel 1 de una fase legendaria
-1627	Vence a Zerdi en. el nivel 1 de una fase legendaria
-1628	Vence a Ping Pong Z. en. el nivel 1 de una fase legendaria
-1629	Vence a Zeñor Lápido en. el nivel 1 de una fase legendaria
-1630	Vence a Pérez Ozo en. el nivel 1 de una fase legendaria
-1631	Vence a Chucho Féretro en. el nivel 1 de una fase legendaria
-1632	Vence a Camelle Casiviva en. el nivel 1 de una fase legendaria
-1633	Vence a Zeñora Lápida en. el nivel 1 de una fase legendaria
-1634	Vence a Ciclón Perfecto en Cielo Rojo Matutino. (Una vez en cualquier fase)
-1635	Vence a Ziclón en Muertos Rodantes. (Una vez en cualquier fase)
-1700	Vence a Mesocosmociclón en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1701	Vence a Delfi Nal en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1702	Vence a Chucho Alien de Élite en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1703	Vence a Ping Pong Estrella en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1704	Vence a General Gori en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1705	Vence a Rano en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1706	Vence a Cabo Topo en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1707	Vence a L. Fante Solar en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1708	Vence a Hermanos Angui en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1709	Vence a Ultraborrego en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1710	Vence a Ciberceronte en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1711	Vence a Kan Gu Sombra en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1712	Vence a Gori Angelical en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1713	Vence a Ajoloti en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1714	Vence a Proyecto H. en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1715	Vence a Pez Luna Estrellada en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1716	Vence a Javi Li en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1717	Vence a Alfaca en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1718	Vence a Chucho Metálico en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1719	Vence a Gigadiós Jefe Final en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1720	Vence a Señor Foca Metálica en. el nivel 1 de una fase legendaria
-1721	Vence a Chucho Metálico en. el nivel 1 de una fase legendaria
-1722	Vence a L. Fante Negro en. el nivel 1 de una fase legendaria
-1723	Vence a Kodrizzz en. el nivel 1 de una fase legendaria
-1724	Vence a Gori Zombi en. el nivel 1 de una fase legendaria
-1725	Vence a Zeñor Foca en. el nivel 1 de una fase legendaria
-1726	Vence a Kan Zu en. el nivel 1 de una fase legendaria
-1727	Vence a Inumusha en. el nivel 1 de una fase legendaria
-1728	Vence a Delfina en. el nivel 1 de una fase legendaria
-1729	Vence a Cala María en. el nivel 1 de una fase legendaria
-1730	Vence a Mar Rana en. el nivel 1 de una fase legendaria
-1731	Vence a Tu Tu Can Can en. el nivel 1 de una fase legendaria
-1732	Vence a Cerdi Alado en. el nivel 1 de una fase legendaria
-1733	Vence a Caballito del Mar Rojo en. el nivel 1 de una fase legendaria
-1734	Vence a Bun Bun Mecánico en. el nivel 1 de una fase legendaria
-1735	Vence a Ciclón Supercósmico en La Segunda Dimensión. (Una vez en cualquier fase)
-1800	Vence a Lobo Ururun en. el nivel 3 de una fase legendaria
-1801	Vence a Mininyandam en. el nivel 3 de una fase legendaria
-1802	Vence a Kory Salvaje en. el nivel 3 de una fase legendaria
-1803	Vence a Caperucita Espía en. el nivel 3 de una fase legendaria
-1804	Vence a Caballito del Mar Negro en. el nivel 3 de una fase legendaria
-1805	Vence a Don Javier Li en. el nivel 3 de una fase legendaria
-1806	Vence a Henry en. el nivel 3 de una fase legendaria
-1807	Vence a Minibunbun en. el nivel 3 de una fase legendaria
-1808	Vence a Profe H. en. el nivel 3 de una fase legendaria
-1809	Vence a Javi Li Rebelde en. el nivel 3 de una fase legendaria
-1810	Vence a Chucho Z. en. el nivel 3 de una fase legendaria
-1811	Vence a Kan Zu en. el nivel 3 de una fase legendaria
-1812	Vence a Kodrizzz en. el nivel 3 de una fase legendaria
-1813	Vence a Ping Pong Z. en. el nivel 3 de una fase legendaria
-1814	Vence a Gori Zombi en. el nivel 3 de una fase legendaria
-1815	Vence a Zeñor Foca en. el nivel 3 de una fase legendaria
-1816	Vence a Zeñor Lápido en. el nivel 3 de una fase legendaria
-1817	Vence a Pérez Ozo en. el nivel 3 de una fase legendaria
-1818	Vence a Chucho Féretro en. el nivel 3 de una fase legendaria
-1819	Vence a Camelle Casiviva en. el nivel 3 de una fase legendaria
-1820	Vence a Zeñora Lápida en. el nivel 3 de una fase legendaria
-1821	Vence a Inumusha en. el nivel 3 de una fase legendaria
-1822	Vence a Delfina en. el nivel 3 de una fase legendaria
-1823	Vence a Cala María en. el nivel 3 de una fase legendaria
-1824	Vence a Mar Rana en. el nivel 3 de una fase legendaria
-1825	Vence a Tu Tu Can Can en. el nivel 3 de una fase legendaria
-1826	Vence a Cerdi Alado en. el nivel 3 de una fase legendaria
-1827	Vence a Chucho Alien de Élite en. el nivel 3 de una fase legendaria
-1828	Vence a Cabo Topo en. el nivel 3 de una fase legendaria
-1829	Vence a Pez Luna Estrellada en. el nivel 3 de una fase legendaria
-1830	Vence a Proyecto H. en. el nivel 3 de una fase legendaria
-1831	Vence a General Gori en. el nivel 3 de una fase legendaria
-1832	Vence a Ping Pong Estrella en. el nivel 3 de una fase legendaria
-1833	Vence a Caballito del Mar Rojo en. el nivel 3 de una fase legendaria
-1834	Vence a Ultraborrego en. el nivel 3 de una fase legendaria
-1835	Vence a Bun Bun Mecánico en. el nivel 3 de una fase legendaria
-1900	Vence a J. K. Bun Bun en. el nivel 4 de una fase legendaria
-1901	Vence a Javi Li en. el nivel 4 de una fase legendaria
-1902	Vence a Profe Bun Bun en. el nivel 4 de una fase legendaria
-1903	Vence a Kory en. el nivel 4 de una fase legendaria
-1904	Vence a Emperador Nyandam Oscuro en. el nivel 4 de una fase legendaria
-1905	Vence a Bun Bun Negro en. el nivel 4 de una fase legendaria
-1906	Vence a A. Vestruz en. el nivel 4 de una fase legendaria
-1907	Vence a Lobo Ururun en. el nivel 4 de una fase legendaria
-1908	Vence a Perromuro en. el nivel 4 de una fase legendaria
-1909	Vence a Pegaso Angelical en. el nivel 4 de una fase legendaria
-1910	Vence a Chucho Metálico en. el nivel 4 de una fase legendaria
-1911	Vence a Mininyandam en. el nivel 4 de una fase legendaria
-1912	Vence a Kory Salvaje en. el nivel 4 de una fase legendaria
-1913	Vence a Sr. Topo en. el nivel 4 de una fase legendaria
-1914	Vence a Caperucita Espía en. el nivel 4 de una fase legendaria
-1915	Vence a Tu Can Can en. el nivel 4 de una fase legendaria
-1916	Vence a Caballito del Mar Negro en. el nivel 4 de una fase legendaria
-1917	Vence a Don Javier Li en. el nivel 4 de una fase legendaria
-1918	Vence a Henry en. el nivel 4 de una fase legendaria
-1919	Vence a Minibunbun en. el nivel 4 de una fase legendaria
-1920	Vence a Profe H. en. el nivel 4 de una fase legendaria
-1921	Vence a Javi Li Rebelde en. el nivel 4 de una fase legendaria
-1922	Vence a Chucho Z. en. el nivel 4 de una fase legendaria
-1923	Vence a Kan Zu en. el nivel 4 de una fase legendaria
-1924	Vence a Gori Zombi en. el nivel 4 de una fase legendaria
-1925	Vence a Chucho Féretro en. el nivel 4 de una fase legendaria
-1926	Vence a Inumusha en. el nivel 4 de una fase legendaria
-1927	Vence a Delfina en. el nivel 4 de una fase legendaria
-1928	Vence a Cala María en. el nivel 4 de una fase legendaria
-1929	Vence a Mar Rana en. el nivel 4 de una fase legendaria
-1930	Vence a Cerdi Alado en. el nivel 4 de una fase legendaria
-1931	Vence a Chucho Alien de Élite en. el nivel 4 de una fase legendaria
-1932	Vence a Cabo Topo en. el nivel 4 de una fase legendaria
-1933	Vence a Pez Luna Estrellada en. el nivel 4 de una fase legendaria
-1934	Vence a General Gori en. el nivel 4 de una fase legendaria
-1935	Vence a Ping Pong Estrella en. el nivel 4 de una fase legendaria
-2000	Vence a Careto en. el nivel 4 de una fase legendaria
-2001	Vence a Timidín en. el nivel 4 de una fase legendaria
-2002	Vence a Nutri Ente en. el nivel 4 de una fase legendaria
-2003	Vence a Camelle en. el nivel 4 de una fase legendaria
-2004	Vence a Pati Difuso en. el nivel 4 de una fase legendaria
-2005	Vence a Lechuzo en. el nivel 4 de una fase legendaria
-2006	Vence a Pérez Oso en. el nivel 4 de una fase legendaria
-2007	Vence a Mac. Reno en. el nivel 4 de una fase legendaria
-2008	Vence a Celebriche en. el nivel 4 de una fase legendaria
-2009	Vence a Emperador Nyandam en. el nivel 4 de una fase legendaria
-2010	Vence a Jefe H. en. el nivel 4 de una fase legendaria
-2011	Vence a Kan Gu Manostijeras en. el nivel 4 de una fase legendaria
-2012	Vence a H. Nah en. el nivel 4 de una fase legendaria
-2013	Vence a Dóberman Poli en. el nivel 4 de una fase legendaria
-2014	Vence a Hipo Metálico en. el nivel 4 de una fase legendaria
-2015	Vence a Sir Cerdi II en. el nivel 4 de una fase legendaria
-2016	Vence a Pez Lunángel en. el nivel 4 de una fase legendaria
-2017	Vence a Paloma Pacifista en. el nivel 4 de una fase legendaria
-2018	Vence a Zerpi en. el nivel 4 de una fase legendaria
-2019	Vence a Zipo en. el nivel 4 de una fase legendaria
-2020	Vence a Zerdi en. el nivel 4 de una fase legendaria
-2021	Vence a Ping Pong Z. en. el nivel 4 de una fase legendaria
-2022	Vence a Señorita Celebriche en. el nivel 4 de una fase legendaria
-2023	Vence a Zeñor Foca en. el nivel 4 de una fase legendaria
-2024	Vence a Kodrizzz en. el nivel 4 de una fase legendaria
-2025	Vence a Zeñor Lápido en. el nivel 4 de una fase legendaria
-2026	Vence a Perrito Caliente en. el nivel 4 de una fase legendaria
-2027	Vence a Gori Negro en. el nivel 4 de una fase legendaria
-2028	Vence a L. Fante Solar en. el nivel 4 de una fase legendaria
-2029	Vence a Proyecto H. en. el nivel 4 de una fase legendaria
-2030	Vence a Kan Gu Sombra en. el nivel 4 de una fase legendaria
-2031	Vence a Hipo Supermetálico en. el nivel 4 de una fase legendaria
-2032	Vence a Nutri Negro en. el nivel 4 de una fase legendaria
-2033	Vence a Pollito Ángel en. el nivel 4 de una fase legendaria
-2034	Vence a Javi Li Espacial en. el nivel 4 de una fase legendaria
-2035	Vence a Elizabeth LVI en. el nivel 4 de una fase legendaria
+1000	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
+1001	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
+1002	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
+1003	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
+1004	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
+1005	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
+1006	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
+1007	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
+1008	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
+1009	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
+1010	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
+1011	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
+1012	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
+1013	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
+1014	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
+1100	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
+1101	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
+1102	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
+1103	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
+1104	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
+1105	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
+1106	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
+1107	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
+1108	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
+1109	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
+1110	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
+1111	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
+1112	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
+1113	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
+1114	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
+1200	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1201	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1202	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1203	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1204	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1205	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1206	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1207	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1208	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1209	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1210	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1211	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1212	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1213	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1214	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1215	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1216	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1217	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1218	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1219	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1220	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1221	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1222	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1223	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1224	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1225	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1226	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1227	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1228	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1229	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
+1300	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1301	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1302	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1303	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1304	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1305	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1306	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1307	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1308	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1309	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1310	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1311	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1312	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1313	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1314	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1315	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1316	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1317	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1318	Vence a Chucho en. el nivel 1 de una fase legendaria
+1319	Vence a Chucho en. el nivel 1 de una fase legendaria
+1320	Vence a Chucho en. el nivel 1 de una fase legendaria
+1321	Vence a Chucho en. el nivel 1 de una fase legendaria
+1322	Vence a Chucho en. el nivel 1 de una fase legendaria
+1323	Vence a Chucho en. el nivel 1 de una fase legendaria
+1324	Vence a Chucho en. el nivel 1 de una fase legendaria
+1325	Vence a Chucho en. el nivel 1 de una fase legendaria
+1326	Vence a Chucho en. el nivel 1 de una fase legendaria
+1327	Vence a Chucho en. el nivel 1 de una fase legendaria
+1328	Vence a Chucho en. el nivel 1 de una fase legendaria
+1329	Vence a Chucho en. el nivel 1 de una fase legendaria
+1330	Vence a Chucho en. el nivel 1 de una fase legendaria
+1331	Vence a Chucho en. el nivel 1 de una fase legendaria
+1332	Vence a Chucho en. el nivel 1 de una fase legendaria
+1333	Vence a Chucho en. el nivel 1 de una fase legendaria
+1334	Vence a Chucho en Catástrofe Carmesí. (Una vez en cualquier fase)
+1335	Vence a Chucho en Paraíso de Oscuridad. (Una vez en cualquier fase)
+1400	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1401	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1402	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1403	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1404	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1405	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1406	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1407	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1408	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1409	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1410	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1411	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1412	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1413	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1414	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1415	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1416	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1417	Vence a Chucho en. el nivel 1 de una fase legendaria
+1418	Vence a Chucho en. el nivel 1 de una fase legendaria
+1419	Vence a Chucho en. el nivel 1 de una fase legendaria
+1420	Vence a Chucho en. el nivel 1 de una fase legendaria
+1421	Vence a Chucho en. el nivel 1 de una fase legendaria
+1422	Vence a Chucho en. el nivel 1 de una fase legendaria
+1423	Vence a Chucho en. el nivel 1 de una fase legendaria
+1424	Vence a Chucho en. el nivel 1 de una fase legendaria
+1425	Vence a Chucho en. el nivel 1 de una fase legendaria
+1426	Vence a Chucho en. el nivel 1 de una fase legendaria
+1427	Vence a Chucho en. el nivel 1 de una fase legendaria
+1428	Vence a Chucho en. el nivel 1 de una fase legendaria
+1429	Vence a Chucho en. el nivel 1 de una fase legendaria
+1430	Vence a Chucho en. el nivel 1 de una fase legendaria
+1431	Vence a Chucho en. el nivel 1 de una fase legendaria
+1432	Vence a Chucho en. el nivel 1 de una fase legendaria
+1433	Vence a Chucho en. el nivel 1 de una fase legendaria
+1434	Vence a Chucho en Inigualable. (Una vez en cualquier fase)
+1435	Vence a Chucho en Ira de los Cielos. (Una vez en cualquier fase)
+1500	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1501	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1502	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1503	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1504	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1505	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1506	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1507	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1508	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1509	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1510	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1511	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1512	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1513	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1514	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1515	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1516	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1517	Vence a Serpi en. el nivel 2 de una fase legendaria
+1518	Vence a Serpi en. el nivel 2 de una fase legendaria
+1519	Vence a Serpi en. el nivel 2 de una fase legendaria
+1520	Vence a Serpi en. el nivel 2 de una fase legendaria
+1521	Vence a Serpi en. el nivel 2 de una fase legendaria
+1522	Vence a Serpi en. el nivel 2 de una fase legendaria
+1523	Vence a Serpi en. el nivel 2 de una fase legendaria
+1524	Vence a Serpi en. el nivel 2 de una fase legendaria
+1525	Vence a Serpi en. el nivel 2 de una fase legendaria
+1526	Vence a Serpi en. el nivel 2 de una fase legendaria
+1527	Vence a Serpi en. el nivel 2 de una fase legendaria
+1528	Vence a Serpi en. el nivel 2 de una fase legendaria
+1529	Vence a Serpi en. el nivel 2 de una fase legendaria
+1530	Vence a Serpi en. el nivel 2 de una fase legendaria
+1531	Vence a Serpi en. el nivel 2 de una fase legendaria
+1532	Vence a Serpi en. el nivel 2 de una fase legendaria
+1533	Vence a Serpi en. el nivel 2 de una fase legendaria
+1534	Vence a Chucho en Dulce Ironía. (Una vez en cualquier fase)
+1535	Vence a Chucho en Dimensión Desesperada. (Una vez en cualquier fase)
+1600	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1601	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1602	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1603	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1604	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1605	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1606	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1607	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1608	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1609	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1610	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1611	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1612	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1613	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1614	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1615	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1616	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1617	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1618	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1619	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1620	Vence a Chucho en. el nivel 1 de una fase legendaria
+1621	Vence a Chucho en. el nivel 1 de una fase legendaria
+1622	Vence a Chucho en. el nivel 1 de una fase legendaria
+1623	Vence a Chucho en. el nivel 1 de una fase legendaria
+1624	Vence a Chucho en. el nivel 1 de una fase legendaria
+1625	Vence a Chucho en. el nivel 1 de una fase legendaria
+1626	Vence a Chucho en. el nivel 1 de una fase legendaria
+1627	Vence a Chucho en. el nivel 1 de una fase legendaria
+1628	Vence a Chucho en. el nivel 1 de una fase legendaria
+1629	Vence a Chucho en. el nivel 1 de una fase legendaria
+1630	Vence a Chucho en. el nivel 1 de una fase legendaria
+1631	Vence a Chucho en. el nivel 1 de una fase legendaria
+1632	Vence a Chucho en. el nivel 1 de una fase legendaria
+1633	Vence a Chucho en. el nivel 1 de una fase legendaria
+1634	Vence a Chucho en Cielo Rojo Matutino. (Una vez en cualquier fase)
+1635	Vence a Chucho en Muertos Rodantes. (Una vez en cualquier fase)
+1700	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1701	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1702	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1703	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1704	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1705	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1706	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1707	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1708	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1709	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1710	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1711	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1712	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1713	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1714	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1715	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1716	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1717	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1718	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1719	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1720	Vence a Chucho en. el nivel 1 de una fase legendaria
+1721	Vence a Chucho en. el nivel 1 de una fase legendaria
+1722	Vence a Chucho en. el nivel 1 de una fase legendaria
+1723	Vence a Chucho en. el nivel 1 de una fase legendaria
+1724	Vence a Chucho en. el nivel 1 de una fase legendaria
+1725	Vence a Chucho en. el nivel 1 de una fase legendaria
+1726	Vence a Chucho en. el nivel 1 de una fase legendaria
+1727	Vence a Chucho en. el nivel 1 de una fase legendaria
+1728	Vence a Chucho en. el nivel 1 de una fase legendaria
+1729	Vence a Chucho en. el nivel 1 de una fase legendaria
+1730	Vence a Chucho en. el nivel 1 de una fase legendaria
+1731	Vence a Chucho en. el nivel 1 de una fase legendaria
+1732	Vence a Chucho en. el nivel 1 de una fase legendaria
+1733	Vence a Chucho en. el nivel 1 de una fase legendaria
+1734	Vence a Chucho en. el nivel 1 de una fase legendaria
+1735	Vence a Chucho en La Segunda Dimensión. (Una vez en cualquier fase)
+1800	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1801	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1802	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1803	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1804	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1805	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1806	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1807	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1808	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1809	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1810	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1811	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1812	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1813	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1814	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1815	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1816	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1817	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1818	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1819	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1820	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1821	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1822	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1823	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1824	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1825	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1826	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1827	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1828	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1829	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1830	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1831	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1832	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1833	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1834	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1835	Vence a Pandilla en. el nivel 3 de una fase legendaria
+1900	Vence a Hipo en. el nivel 4 de una fase legendaria
+1901	Vence a Hipo en. el nivel 4 de una fase legendaria
+1902	Vence a Hipo en. el nivel 4 de una fase legendaria
+1903	Vence a Hipo en. el nivel 4 de una fase legendaria
+1904	Vence a Hipo en. el nivel 4 de una fase legendaria
+1905	Vence a Hipo en. el nivel 4 de una fase legendaria
+1906	Vence a Hipo en. el nivel 4 de una fase legendaria
+1907	Vence a Hipo en. el nivel 4 de una fase legendaria
+1908	Vence a Hipo en. el nivel 4 de una fase legendaria
+1909	Vence a Hipo en. el nivel 4 de una fase legendaria
+1910	Vence a Hipo en. el nivel 4 de una fase legendaria
+1911	Vence a Hipo en. el nivel 4 de una fase legendaria
+1912	Vence a Hipo en. el nivel 4 de una fase legendaria
+1913	Vence a Hipo en. el nivel 4 de una fase legendaria
+1914	Vence a Hipo en. el nivel 4 de una fase legendaria
+1915	Vence a Hipo en. el nivel 4 de una fase legendaria
+1916	Vence a Hipo en. el nivel 4 de una fase legendaria
+1917	Vence a Hipo en. el nivel 4 de una fase legendaria
+1918	Vence a Hipo en. el nivel 4 de una fase legendaria
+1919	Vence a Hipo en. el nivel 4 de una fase legendaria
+1920	Vence a Hipo en. el nivel 4 de una fase legendaria
+1921	Vence a Hipo en. el nivel 4 de una fase legendaria
+1922	Vence a Hipo en. el nivel 4 de una fase legendaria
+1923	Vence a Hipo en. el nivel 4 de una fase legendaria
+1924	Vence a Hipo en. el nivel 4 de una fase legendaria
+1925	Vence a Hipo en. el nivel 4 de una fase legendaria
+1926	Vence a Hipo en. el nivel 4 de una fase legendaria
+1927	Vence a Hipo en. el nivel 4 de una fase legendaria
+1928	Vence a Hipo en. el nivel 4 de una fase legendaria
+1929	Vence a Hipo en. el nivel 4 de una fase legendaria
+1930	Vence a Hipo en. el nivel 4 de una fase legendaria
+1931	Vence a Hipo en. el nivel 4 de una fase legendaria
+1932	Vence a Hipo en. el nivel 4 de una fase legendaria
+1933	Vence a Hipo en. el nivel 4 de una fase legendaria
+1934	Vence a Hipo en. el nivel 4 de una fase legendaria
+1935	Vence a Hipo en. el nivel 4 de una fase legendaria
+2000	Vence a Hipo en. el nivel 4 de una fase legendaria
+2001	Vence a Hipo en. el nivel 4 de una fase legendaria
+2002	Vence a Hipo en. el nivel 4 de una fase legendaria
+2003	Vence a Hipo en. el nivel 4 de una fase legendaria
+2004	Vence a Hipo en. el nivel 4 de una fase legendaria
+2005	Vence a Hipo en. el nivel 4 de una fase legendaria
+2006	Vence a Hipo en. el nivel 4 de una fase legendaria
+2007	Vence a Hipo en. el nivel 4 de una fase legendaria
+2008	Vence a Hipo en. el nivel 4 de una fase legendaria
+2009	Vence a Hipo en. el nivel 4 de una fase legendaria
+2010	Vence a Hipo en. el nivel 4 de una fase legendaria
+2011	Vence a Hipo en. el nivel 4 de una fase legendaria
+2012	Vence a Hipo en. el nivel 4 de una fase legendaria
+2013	Vence a Hipo en. el nivel 4 de una fase legendaria
+2014	Vence a Hipo en. el nivel 4 de una fase legendaria
+2015	Vence a Hipo en. el nivel 4 de una fase legendaria
+2016	Vence a Hipo en. el nivel 4 de una fase legendaria
+2017	Vence a Hipo en. el nivel 4 de una fase legendaria
+2018	Vence a Hipo en. el nivel 4 de una fase legendaria
+2019	Vence a Hipo en. el nivel 4 de una fase legendaria
+2020	Vence a Hipo en. el nivel 4 de una fase legendaria
+2021	Vence a Hipo en. el nivel 4 de una fase legendaria
+2022	Vence a Hipo en. el nivel 4 de una fase legendaria
+2023	Vence a Hipo en. el nivel 4 de una fase legendaria
+2024	Vence a Hipo en. el nivel 4 de una fase legendaria
+2025	Vence a Hipo en. el nivel 4 de una fase legendaria
+2026	Vence a Hipo en. el nivel 4 de una fase legendaria
+2027	Vence a Hipo en. el nivel 4 de una fase legendaria
+2028	Vence a Hipo en. el nivel 4 de una fase legendaria
+2029	Vence a Hipo en. el nivel 4 de una fase legendaria
+2030	Vence a Hipo en. el nivel 4 de una fase legendaria
+2031	Vence a Hipo en. el nivel 4 de una fase legendaria
+2032	Vence a Hipo en. el nivel 4 de una fase legendaria
+2033	Vence a Hipo en. el nivel 4 de una fase legendaria
+2034	Vence a Hipo en. el nivel 4 de una fase legendaria
+2035	Vence a Hipo en. el nivel 4 de una fase legendaria
 9205	Upgrade Akuma Giraffe to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9206	Upgrade Ryu Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
-9208	Clear "7 Years of Fun!!" stages 7 times!
+9208	Clear "7 Years of Fun!!" stages 9 times!
 9209	Score 7777 pts in "Lucky Number 7"! Find this Ranking Stage at the Catclaw Dojo!
 9211	Misiones de Invasión del Festival Exclusivo. ¡Supera la fase Impacto Azul!
-9212	Supera las 7 Misiones de Invasión del Festival Exclusivo
+9212	Supera las 0 Misiones de Invasión del Festival Exclusivo
 9213	Upgrade Miku Cat to Level 10! (You must evolve the Cat before the Hatsune Miku collab ends!)
-9214	Clear "MIKU EXPO" 5 times!
-9215	Clear "MIKU EXPO" 10 times!
-9216	Clear "MIKU EXPO" 20 times!
-9221	Complete 5 Gamatoto Expeditions during
+9214	Clear "MIKU EXPO" 9 times!
+9215	Clear "MIKU EXPO" 9 times!
+9216	Clear "MIKU EXPO" 9 times!
+9221	Complete 17 Gamatoto Expeditions during
 9222	Supera el piso 50 de la Torre Celestial. (Estos premios solo se pueden recoger una vez)
 9223	Upgrade Heavenly Jack to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
 9225	Gana 8888 puntos en 8 No Son Suficientes. (Es una fase de clasificación en el Dojo Afilagarras)
 9226	Upgrade Ranma Cat (M) to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
 9227	Upgrade Panda Cat to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
-9228	Clear "The Cursed Springs" 5 times!
-9229	Clear "The Cursed Springs" 10 times!
-9230	Clear "The Cursed Springs" 20 times!
+9228	Clear "The Cursed Springs" 9 times!
+9229	Clear "The Cursed Springs" 9 times!
+9230	Clear "The Cursed Springs" 9 times!
 30	Reúne los tesoros superiores en Imperio de los Gatos cap. 1
 31	Reúne los tesoros superiores en Imperio de los Gatos cap. 2
 32	Reúne los tesoros superiores en Imperio de los Gatos cap. 3
@@ -601,16 +601,16 @@
 9233	¡Misiones de Invasión del Festival Exclusivo! Supera la fase. Venganza del Rey Guau 1 veces con 9 gatos normales
 9234	¡Misiones de Invasión del Festival Exclusivo! Supera la fase. Impacto Azul 1 veces solo con segundas formas
 9235	¡Misiones de Invasión del Festival Exclusivo! Supera la fase. Sueño Profundo 1 veces solo con formas sin evolucionar
-9236	Supera las 5 Misiones de Invasión del Festival Exclusivo
+9236	Supera las 0 Misiones de Invasión del Festival Exclusivo
 9237	【Invasión】¡Supera la fase El Ángel y el Demonio! También debes superar la fase de continuación relacionada
 9238	【Invasión】¡Supera la fase La Reina y el Muerto! También debes superar la fase de continuación relacionada
 9239	【Invasión】¡Supera la fase El Rey y la Doncella! También debes superar la fase de continuación relacionada
-9240	Deberes de Verano ①: Elige un tema del diario. Supera 5 fases de Gatos Estivales
-9241	Deberes de Verano ②: Elige un segundo tema del diario. Supera 10 fases de Gatos Estivales
-9242	Deberes de Verano ①: Busca un buen tema para la redacción.  Supera 20 fases de Gatos Estivales
-9243	Deberes de Verano ④: Escribe tu diario. Supera Escondite Ruinoso 5 veces
-9244	Deberes de Verano ⑤: Reescribe tu diario con mejor estilo. Supera Escondite Estiloso 5 veces
-9245	Deberes de Verano ⑥: Reescribe tu diario y hazlo perfecto. Supera Escondite Perfecto 5 veces
+9240	Deberes de Verano ①: Elige un tema del diario. Supera 9 fases de Gatos Estivales
+9241	Deberes de Verano ②: Elige un segundo tema del diario. Supera 9 fases de Gatos Estivales
+9242	Deberes de Verano ①: Busca un buen tema para la redacción.  Supera 9 fases de Gatos Estivales
+9243	Deberes de Verano ④: Escribe tu diario. Supera Escondite Ruinoso 9 veces
+9244	Deberes de Verano ⑤: Reescribe tu diario con mejor estilo. Supera Escondite Estiloso 9 veces
+9245	Deberes de Verano ⑥: Reescribe tu diario y hazlo perfecto. Supera Escondite Perfecto 9 veces
 9246	Subir Nota ①: Captura especímenes de insectos. Mejora al Gato Kabuto al nivel 10
 9247	Subir Nota ②: Captura especímenes de insectos. Mejora al Gato Kuwagata al nivel 10
 9248	Subir Nota ③: Observa especímenes de insectos. Mejora al Gato Kabuto al nivel 20
@@ -619,32 +619,32 @@
 9251	Subir Más Nota ②: Realiza una observación exhaustiva. Supera la fase 2 de Agenda Veraniega con el Gato Kuwagata
 9252	Subir Más Nota ③: Realiza una observación exhaustiva. Supera la fase 4 de Agenda Veraniega con el Gato Kabuto
 9253	Subir Más Nota ④: Realiza una observación exhaustiva. Supera la fase 6 de Agenda Veraniega con el Gato Kuwagata
-9254	Escuela de Verano ①: Estudia literatura. Supera 5 fases de Lección Veraniega
-9255	Escuela de Verano ②: Estudia álgebra. Supera 10 fases de Lección Veraniega
-9256	Escuela de Verano ③: Estudia conocimiento del medio. Supera 15 fases de Lección Veraniega
-9257	Escuela de Verano ④: Participa en las asambleas. Supera 20 fases de Lección Veraniega
+9254	Escuela de Verano ①: Estudia literatura. Supera 9 fases de Lección Veraniega
+9255	Escuela de Verano ②: Estudia álgebra. Supera 9 fases de Lección Veraniega
+9256	Escuela de Verano ③: Estudia conocimiento del medio. Supera 9 fases de Lección Veraniega
+9257	Escuela de Verano ④: Participa en las asambleas. Supera 9 fases de Lección Veraniega
 9258	Matrícula de Honor ①: Investiga la vida marina. Supera la fase 1 de Survive! Mola Mola! con Gato Kabuto
 9259	Matrícula de Honor ②: Investiga la vida marina. Supera la fase 3 de Survive! Mola Mola! con Gato Kuwagata
-9260	Matrícula de Honor ③: Investiga más el mar. Supera 300. Million Dead Molas 3 veces con Gato Kabuto
-9261	Matrícula de Honor ④: Investiga más el mar. Supera 300. Million Dead Molas 5 veces con Gato Kuwagata
+9260	Matrícula de Honor ③: Investiga más el mar. Supera 300. Million Dead Molas 1 veces con Gato Kabuto
+9261	Matrícula de Honor ④: Investiga más el mar. Supera 300. Million Dead Molas 1 veces con Gato Kuwagata
 39	Investigación de la Emperatriz 1: Estudia los libros. heréticos. Supera Confluencia Arcana y Gato Maligno
 40	Investigación de la Emperatriz 2: Estudia a los agentes. akus. Supera Sirviente de la Oscuridad y Tanque Maligno
-9262	Clear "River City Ball-Rolling" 5 times!
-9263	Clear "River City Ball-Rolling" 10 times!
-9264	Clear "River City Challenge Course" 5 times!
+9262	Clear "River City Ball-Rolling" 9 times!
+9263	Clear "River City Ball-Rolling" 9 times!
+9264	Clear "River City Challenge Course" 9 times!
 9265	Clear stages from "River City Challenge Course"
-9266	Defeat Ping Pong at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
-9267	Defeat Chucho Oscuro at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
-9268	Clear all 6 River City Cat Clash Limited  Missions!
+9266	Defeat Chucho at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9267	Defeat Chucho at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9268	Clear all 0 River City Cat Clash Limited  Missions!
 9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
 9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!
 9271	Defeat the Box Witch! Find this Witch at the "Witch's Labyrinth: Box Witch" map!
 9272	Defeat the Nutcracker Witch! Find this Witch at the "Witch's Labyrinth: Nutcracker Witch" map!
-9273	Defeat all Witches!  Complete all 4 Witch missions!
+9273	Defeat all Witches!  Complete all 0 Witch missions!
 9274	Upgrade Li'l Madoka to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
 9275	Upgrade Kyubey Cat to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
 41	Investigación de la Emperatriz 3: Coste de brujería. Supera Parque Demoníaco y Liberación de los Gatos
-42	Completa todas las 3 fases de Investigación de la Emperatriz. (Completadas)
+42	Completa todas las 0 fases de Investigación de la Emperatriz. (Completadas)
 43	Llamada de la Emperatriz: ¡Libera a los gatos corruptos! Supera Liberación de los Gatos. (Las puertas se abren...)
 44	Supera Los reinos de akus. Completa todas las fases de Los reinos de akus
 45	Supera Los reinos de akus. Completa todas las fases de Los reinos de akus
@@ -669,14 +669,14 @@
 9303	【C5. Tiempo y fortuna】¡Supera la fase, da suerte a un aliado
 46	Misión del 9.º aniversario. ¡Supera el Imperio de los Gatos (cap. 1) durante el evento!
 9305	Supera el piso 30 de la Torre Infernal. (Estos premios solo se pueden recoger una vez)
-47	Informe de Emperatriz: Investigación de Aku. Supera 5 veces. las fases 1-5 de cada Informe de Emperatriz
+47	Informe de Emperatriz: Investigación de Aku. Supera 9 veces. las fases 1-5 de cada Informe de Emperatriz
 9321	【Invasión】Supera la fase. Ascendente Clionel 1 veces con 7 gatos especiales o más
 9322	【Invasión】Supera la fase Coronación de Reina. 1 veces con 7 normales o más
-9323	【Invasión】Supera la fase. El Muerto y el Hinchado 1 veces con 7 especiales o más
-9324	【Invasión】Supera la fase. La Reina y la Doncella 1 veces con 7 especiales o más
-9325	【Invasión】Supera la fase. El Rey y el Ángel 1 veces con 7 especiales o más
-48	Supera 5 fases de Matanza de Mastodontes por primera vez:
-49	Supera 10 fases de Matanza de Mastodontes por primera vez:
+9323	【Invasión】Supera la fase. El Muerto y el Hinchado 9 veces con 7 especiales o más
+9324	【Invasión】Supera la fase. La Reina y la Doncella 9 veces con 7 especiales o más
+9325	【Invasión】Supera la fase. El Rey y el Ángel 9 veces con 7 especiales o más
+48	Supera 9 fases de Matanza de Mastodontes por primera vez:
+49	Supera 9 fases de Matanza de Mastodontes por primera vez:
 9326	Misiones del Festival de Ciclón. Supera la fase Catástrofe Carmesí
 9327	Misiones del Festival de Ciclón. Supera la fase Paraíso de Oscuridad
 9328	Misiones del Festival de Ciclón. Supera la fase Inigualable
@@ -700,23 +700,23 @@
 9346	Supera 1 fase/s de Ciudad Arrasada con Takuya y Yuki
 9347	Supera 1 fase/s de Ciudad Arrasada con Yuki pelirroja
 9348	Supera 1 fase/s de Ciudad Arrasada con Kano y Souma
-9349	Clear 5  Shoumetsu Toshi collab stages
-9350	Clear 15  Shoumetsu Toshi collab stages
-9351	Clear 30  Shoumetsu Toshi collab stages
-9352	Complete 5 Gamatoto expeditions! Send Gamatoto to any
-50	Supera 15 fases de Matanza de Mastodontes por primera vez:
-51	Supera 20 fases de Matanza de Mastodontes por primera vez:
+9349	Clear 9  Shoumetsu Toshi collab stages
+9350	Clear 9  Shoumetsu Toshi collab stages
+9351	Clear 9  Shoumetsu Toshi collab stages
+9352	Complete 17 Gamatoto expeditions! Send Gamatoto to any
+50	Supera 9 fases de Matanza de Mastodontes por primera vez:
+51	Supera 9 fases de Matanza de Mastodontes por primera vez:
 9353	Gana un Huevo Antiguo N201. en las bolas de Novia del Diablo de Junio
-9354	Supera cualquier fase de #01 La Capilla Fantasma 5 veces:
-9355	Supera cualquier fase de #01 La Capilla Fantasma 10 veces:
-9356	Supera cualquier fase de #01 La Capilla Fantasma 15 veces:
-9357	Supera cualquier fase de #01 La Capilla Fantasma 20 veces:
-9358	Supera cualquier fase de #03 ¿En Qué Cae el 13? 3 veces:
-9359	Supera cualquier fase de #03 ¿En Qué Cae el 13? 5 veces:
+9354	Supera cualquier fase de #01 La Capilla Fantasma 9 veces:
+9355	Supera cualquier fase de #01 La Capilla Fantasma 9 veces:
+9356	Supera cualquier fase de #01 La Capilla Fantasma 9 veces:
+9357	Supera cualquier fase de #01 La Capilla Fantasma 9 veces:
+9358	Supera cualquier fase de #03 ¿En Qué Cae el 13? 9 veces:
+9359	Supera cualquier fase de #03 ¿En Qué Cae el 13? 9 veces:
 9360	Supera la fase de continuación
-9361	Supera cualquier fase de #04 Aldea de Alaridos 3 veces:
-9362	Supera cualquier fase de #04 Aldea de Alaridos 5 veces:
-9363	Supera cualquier fase de #04 Aldea de Alaridos 10 veces:
+9361	Supera cualquier fase de #04 Aldea de Alaridos 9 veces:
+9362	Supera cualquier fase de #04 Aldea de Alaridos 9 veces:
+9363	Supera cualquier fase de #04 Aldea de Alaridos 9 veces:
 9250	Deberes de Verano (Parte 1) ①: Estudia los insectos. ¡Consigue 1 Gato Kabuto en el evento!
 9365	Deberes de Verano (Parte 1) ②: Estudia los insectos. ¡Consigue 1 Gato Kuwagata en el evento!
 9366	Deberes de Verano (Parte 1) ③: Estudia los insectos. ¡Consigue 1 Huevo Antiguo: N202 en el evento!
@@ -726,11 +726,11 @@
 9370	Deberes de Verano (Parte 1) ⑦: Estudia los insectos. ¡Consigue 5 Gatos Kabuto en el evento!
 9371	Deberes de Verano (Parte 1) ⑧: Estudia los insectos. ¡Consigue 5 Gatos Kuwagata en el evento!
 9372	Deberes de Verano (Parte 1) ⑨: Estudia los insectos. ¡Consigue 5 Huevos Antiguos: N202 en el evento!
-9373	Clear 15  "Ranma 1/2" collab stages
-9374	Clear 30  "Ranma 1/2" collab stages
-9375	Clear 50  "Ranma 1/2" collab stages
-52	Supera 25 fases de Matanza de Mastodontes por primera vez:
-53	Supera 30 fases de Matanza de Mastodontes por primera vez:
+9373	Clear 9  "Ranma 1/2" collab stages
+9374	Clear 9  "Ranma 1/2" collab stages
+9375	Clear 9  "Ranma 1/2" collab stages
+52	Supera 9 fases de Matanza de Mastodontes por primera vez:
+53	Supera 9 fases de Matanza de Mastodontes por primera vez:
 9376	Clear stages from "Merc Storia Collab"
 9377	Clear stages from "Merc Storia Collab"
 9378	Clear stages from "Merc Storia Collab"
@@ -748,10 +748,10 @@
 9389	【Pt. 1: Recordando Diez Años】2. ¡Obtén una unidad de aniv. en bolas de evento! Pista: Gato que da suerte en eventos
 9391	【Pt. 1: Recordando Diez Años】4. ¡Obtén una unidad de aniv. en bolas de evento! Pista: Recompensa durante el 9.º aniv
 9392	【Pt. 1: Recordando Diez Años】5. ¡Obtén una unidad de aniv. en bolas de evento! Pista: Gato pensador del 10.º aniv
-9394	【Pt. 1: Recordando Diez Años】¡Supera las fases colab. de. Recordando Diez Años 5 veces! Supera cualq. fase
-9395	【Pt. 1: Recordando Diez Años】¡Supera las fases colab. de. Recordando Diez Años 15 veces! Supera cualq. fase
-9396	【Pt. 1: Recordando Diez Años】¡Supera las fases colab. de. Recordando Diez Años 30 veces! Supera cualq. fase
-9397	【Pt. 2: Maniobras enemigas】¡Supera las fases de. Maniobras Enemigas 5 veces! Supera cualq. fase
+9394	【Pt. 1: Recordando Diez Años】¡Supera las fases colab. de. Recordando Diez Años 9 veces! Supera cualq. fase
+9395	【Pt. 1: Recordando Diez Años】¡Supera las fases colab. de. Recordando Diez Años 9 veces! Supera cualq. fase
+9396	【Pt. 1: Recordando Diez Años】¡Supera las fases colab. de. Recordando Diez Años 9 veces! Supera cualq. fase
+9397	【Pt. 2: Maniobras enemigas】¡Supera las fases de. Maniobras Enemigas 9 veces! Supera cualq. fase
 9398	【Pt. 3: Charlas Gatunas】¡Habla con el gato de la base gatuna. durante 4 días y conoce la historia de The Battle Cats!
 9399	【Pt. 4: Caza gatuna】1. ¡Encuentra el gato escondido en el. Imperio! Pista: capital con el nombre más largo del mundo
 9400	【Pt. 4: Caza gatuna】2. ¡Encuentra el gato escondido en el. Imperio! Pista: gran desierto donde no hay nubes
@@ -759,17 +759,17 @@
 9402	【Pt. 4: Caza gatuna】4. ¡Encuentra el gato escondido en el. Imperio! Pista: aquí se dirigió el aterrizaje en la luna
 9403	【Pt. 4: Caza gatuna】5. ¡Encuentra el gato escondido en el. Imperio! Pista: esperanza de vida más alta en EE. UU
 9404	【Pt. 4: Caza gatuna】¡Viaja por el mundo y encuentra. todos los gatos escondidos!
-9405	【Pt. 5 Desfile Musical】¡Supera las fases colab. de . Desfile Musical 8 veces! Supera cualq. fase
+9405	【Pt. 5 Desfile Musical】¡Supera las fases colab. de . Desfile Musical 9 veces! Supera cualq. fase
 55	Misión del 10.º aniversario. Supera Imperio de los Gatos (cap. 1) durante el evento
-9407	¡Supera las fases de Año Nuevo Lunar 5 veces!
-9408	¡Supera las fases de Año Nuevo Lunar 10 veces!
-9409	¡Supera las fases de Año Nuevo Lunar 15 veces!
-9410	¡Supera las fases de Año Nuevo Lunar 20 veces!
-9411	¡Supera las fases de Año Nuevo Lunar 30 veces!
-56	Supera 35 fases de Matanza de Mastodontes por primera vez:
-9412	Clear 10 Fate/stay night [HF] collab stages
-9413	Clear 30 Fate/stay night [HF] collab stages
-9414	Clear 50 Fate/stay night [HF] collab stages
+9407	¡Supera las fases de Año Nuevo Lunar 9 veces!
+9408	¡Supera las fases de Año Nuevo Lunar 9 veces!
+9409	¡Supera las fases de Año Nuevo Lunar 9 veces!
+9410	¡Supera las fases de Año Nuevo Lunar 9 veces!
+9411	¡Supera las fases de Año Nuevo Lunar 9 veces!
+56	Supera 9 fases de Matanza de Mastodontes por primera vez:
+9412	Clear 9 Fate/stay night [HF] collab stages
+9413	Clear 9 Fate/stay night [HF] collab stages
+9414	Clear 9 Fate/stay night [HF] collab stages
 9415	(Completa 1 expedición a cualquier zona)
 9416	(Completa 5 expediciones a cualquier zona)
 9417	【80 M DCS】Completa Regalo feliz de
@@ -779,8 +779,8 @@
 9421	【80 M DCS】Completa fases del «Evento de las Estrellas
 9422	【80 M DCS】Completa fases del «Evento de las Estrellas
 9423	【80 M DCS】¡Completa todas las misiones de evento. para ganar 1 fragmento de platino!
-57	Supera 40 fases de Matanza de Mastodontes por primera vez:
-58	Supera 45 fases de Matanza de Mastodontes por primera vez:
+57	Supera 9 fases de Matanza de Mastodontes por primera vez:
+58	Supera 9 fases de Matanza de Mastodontes por primera vez:
 59	Para completar esta misión, supera el nivel 2. de todas las Etapas de Leyenda Inquietante
 9424	Misiones del Festival de Ciclón. ¡Supera la fase El Gran Diablo!
 9425	¡Gana un Huevo Antiguo N203 en . las bolas de Novia del Diablo de Junio!
@@ -792,44 +792,44 @@
 9431	¡Consigue una Piedra M. tras superar la puntuación. indicada en #02 Una boda de muerte en las fases 1-5!
 9432	【C1. ¡¿Qué hay en la caja?!】¡Hazte con todas
 9433	【Ultraconcurso】Supera las misiones C1-5 y pide tu premio. con valor de 1 millón de dólares (o eso dice el gatomático)
-60	Supera 50 fases de Matanza de Mastodontes por primera vez
-61	Supera 55 fases de Matanza de Mastodontes por primera vez
-9434	Clear Princess Punt Sweets collab stages 10 times!
-9435	Clear Princess Punt Sweets collab stages 25 times!
-9436	Clear Princess Punt Sweets collab stages 50 times!
+60	Supera 9 fases de Matanza de Mastodontes por primera vez
+61	Supera 9 fases de Matanza de Mastodontes por primera vez
+9434	Clear Princess Punt Sweets collab stages 9 times!
+9435	Clear Princess Punt Sweets collab stages 9 times!
+9436	Clear Princess Punt Sweets collab stages 9 times!
 62	Para completar esta misión, supera el nivel 3. de todas las Etapas de Leyenda Inquietante
-63	¡Supera las 60 fases de Matanza de Mastodontes! (Comprueba
-9440	Clear Hatsune Miku collab stages 10 times!
-9441	Clear Hatsune Miku collab stages 30 times!
-9442	Clear Hatsune Miku collab stages 50 times!
+63	¡Supera las 9 fases de Matanza de Mastodontes! (Comprueba
+9440	Clear Hatsune Miku collab stages 9 times!
+9441	Clear Hatsune Miku collab stages 9 times!
+9442	Clear Hatsune Miku collab stages 9 times!
 9467	Supera el piso 50 de la Torre Celestial. (Este premio solo se puede recoger una vez)
 9468	Clear stages from "Metal Slug Collab"
 9469	Clear stages from "Metal Slug Collab"
 9470	Clear stages from "Metal Slug Collab"
 9471	【90 M DCS】¡Completa todas las misiones de evento. para ganar 1 fragmento de platino!
-9472	【90 M DCS】 Envía a Gamatoto a 1 excursiones exitosas. (Completa 1 expedición a cualquier zona)
-9473	【90 M DCS】 Envía a Gamatoto a 3 excursiones exitosas. (Completa 3 expediciones a cualquier zona)
-9474	【90 M DCS】 Envía a Gamatoto a 5 excursiones exitosas. (Completa 5 expediciones a cualquier zona)
+9472	【90 M DCS】 Envía a Gamatoto a 17 excursiones exitosas. (Completa 1 expedición a cualquier zona)
+9473	【90 M DCS】 Envía a Gamatoto a 17 excursiones exitosas. (Completa 3 expediciones a cualquier zona)
+9474	【90 M DCS】 Envía a Gamatoto a 17 excursiones exitosas. (Completa 5 expediciones a cualquier zona)
 9475	【90 M DCS】Completa Regalo feliz
 9476	【90 M DCS】Completa Regalo feliz
 9477	【90 M DCS】Completa Regalo feliz
-9478	【90 M DCS】Supera 5 fases de The Battle Cats:
-9479	【90 M DCS】Supera 10 fases de The Battle Cats:
-9483	Clear Tower of Saviors collab stages 5 times!
-9484	Clear Tower of Saviors collab stages 10 times!
-9485	Clear Tower of Saviors collab stages 20 times!
+9478	【90 M DCS】Supera 9 fases de The Battle Cats:
+9479	【90 M DCS】Supera 9 fases de The Battle Cats:
+9483	Clear Tower of Saviors collab stages 9 times!
+9484	Clear Tower of Saviors collab stages 9 times!
+9485	Clear Tower of Saviors collab stages 9 times!
 9486	【88,88 M DCS】. ¡Supera la fase "Paquete Misterioso"!
 9487	【88,88 M DCS】Mejora al Gato Basura al nivel 10 . durante el evento de 88,88 M DCS
 9488	【88,88 M DCS】Mejora al Gato Basura al nivel 20 . durante el evento de 88,88 M DCS
-9489	Clear 10 Rurouni Kenshin collab stages
-9490	Clear 30 Rurouni Kenshin collab stages
-9491	Clear 50 Rurouni Kenshin collab stages
+9489	Clear 9 Rurouni Kenshin collab stages
+9490	Clear 9 Rurouni Kenshin collab stages
+9491	Clear 9 Rurouni Kenshin collab stages
 9492	¡Gana 1 Huevo Antiguo: N205 en . las bolas de Novia del Diablo de Junio!
 9493	[Coliseo de Otro Mundo] Misión de evento exclusivo. Supera Coliseo De Otro Mundo Nivel 1 Fase 3
 9494	[Coliseo de Otro Mundo] Misión de evento exclusivo. Supera Coliseo De Otro Mundo Nivel 1 Fase 5
 9495	[Coliseo de Otro Mundo] Misión de evento exclusivo. Supera Coliseo De Otro Mundo Nivel 2 Fase 3
 9496	[Coliseo de Otro Mundo] Misión de evento exclusivo. Supera Coliseo De Otro Mundo Nivel 2 Fase 5
-9497	[Pt. 1: Recordando Diez Años] ¡Obtén 4 unidades. de aniversario en bolas de evento!
+9497	[Pt. 1: Recordando Diez Años] ¡Obtén 0 unidades. de aniversario en bolas de evento!
 9498	[Desfile en Honor a los Diez Años] Supera todas las misiones. de las partes 1 a 5 y recoge un tique legendario
 9499	[Fase de Invasión] Misión de evento exclusivo. Supera Tribunal de Tormento
 9500	[Fase de Invasión] Misión de evento exclusivo. Supera Primer Recado
@@ -840,24 +840,29 @@
 9505	[Fase de Invasión] Supera La Tortuga y el Bebé. Para completarla, supera todas las fases y las fases EX
 9506	[Fase de Invasión] Supera El Príncipe y el Renacido. Para completarla, supera todas las fases y las fases EX
 9507	[Fase de Invasión] Supera La Reina y el Santo. Para completarla, supera todas las fases y las fases EX
-9508	Deberes de Verano ④: Acaba una redacción de diez. Supera 30 fases de Gatos Estivales
+9508	Deberes de Verano ④: Acaba una redacción de diez. Supera 9 fases de Gatos Estivales
 9509	Deberes de Verano (Parte 2) ①: Observa los insectos. Supera NDV, de Rumbo a Casa (fase 1) con Gato Kabuto
 9510	Deberes de Verano (Parte 2) ①: Observa los insectos. Supera NDV, de Rumbo a Casa (fase 2) con Gato Kuwagata
 9511	Deberes de Verano (Parte 2) ①: Observa los insectos. Supera NDV, de Rumbo a Casa (fase 3) con Huevo Antiguo N202
-9518	[Huida del Náufrago Pt. 1] ①: Supervivencia Salvaje. ¡Supera 5 fases de Náufrago!
-9519	[Huida del Náufrago Pt. 1] ②: Supervivencia Salvaje. ¡Supera 10 fases de Náufrago!
-9520	[Huida del Náufrago Pt. 1] ③: Supervivencia Salvaje. ¡Supera 15 fases de Náufrago!
+9518	[Huida del Náufrago Pt. 1] ①: Supervivencia Salvaje. ¡Supera 9 fases de Náufrago!
+9519	[Huida del Náufrago Pt. 1] ②: Supervivencia Salvaje. ¡Supera 9 fases de Náufrago!
+9520	[Huida del Náufrago Pt. 1] ③: Supervivencia Salvaje. ¡Supera 9 fases de Náufrago!
 9524	[Huida del Náufrago Pt. 2] ①: Batalla Contra la Naturaleza. ¡Supera la fase 1 de Supervivencia en la Jungla!
 9525	[Huida del Náufrago Pt. 2] ②: Batalla Contra la Naturaleza. ¡Supera la fase 4 de Supervivencia en la Jungla!
 65	[Vincular cuenta]. Ve a Ajustes→Cambiar cuenta/dispositivo para vincularla
-9526	¡Supera las fases del «Evento de Halloween». 10 veces! (Cualquier fase de evento)
-9527	¡Supera las fases del «Evento de Halloween». 20 veces! (Cualquier fase de evento)
-9528	¡Supera las fases del «Evento de Halloween». 30 veces! (Cualquier fase de evento)
+9526	¡Supera las fases del «Evento de Halloween». 9 veces! (Cualquier fase de evento)
+9527	¡Supera las fases del «Evento de Halloween». 9 veces! (Cualquier fase de evento)
+9528	¡Supera las fases del «Evento de Halloween». 9 veces! (Cualquier fase de evento)
 9529	Consigue un objeto destacado de las. cápsulas del Evento de la Fiesta Halloween
 9530	¡Supera todas las misiones del Evento de Halloween. y gana 1 tique raro!
-9531	[Campaña para principiantes] Supera 4 fases del Imperio. de los Gatos (cualquier fase)
-9532	[Campaña para principiantes] Supera 8 fases del Imperio. de los Gatos (cualquier fase)
-9533	[Campaña para principiantes] Supera 12 fases del Imperio. de los Gatos (cualquier fase)
+9531	[Campaña para principiantes] Supera 9 fases del Imperio. de los Gatos (cualquier fase)
+9532	[Campaña para principiantes] Supera 9 fases del Imperio. de los Gatos (cualquier fase)
+9533	[Campaña para principiantes] Supera 9 fases del Imperio. de los Gatos (cualquier fase)
 9534	[Campaña para principiantes] Supera la fase del Imperio de los. Gatos Japón y consigue un tique raro para las bolas raras
 9535	[Campaña para principiantes] Supera la fase del Imperio de los. Gatos Japón y consigue liderazgo para recuperar energía
 66	Vence al ser vivo en el Laberinto del Bosque Viejo. Nivel 1 Fase 6
+67	[Campeonatos Afilagarras] Supera 9 fases de Campeonatos Afilagarras de rango 1
+68	[Campeonatos Afilagarras] Consigue 4 Gatos Legendarios. Avanza en Etapas
+69	[Campeonatos Afilagarras] Consigue 4 Gatos Legendarios. Avanza en Etapas
+70	[Campeonatos Afilagarras] Consigue 4 Gatos Legendarios. Avanza en Etapas
+71	[Campeonatos Afilagarras] Consigue 4 Gatos Legendarios. Avanza en Etapas

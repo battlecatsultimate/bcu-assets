@@ -303,7 +303,7 @@
 302	Gatta Lilith	Gatta Succubo	Gatta Succubo regina	
 303	Street food miao	Gatto fattorino	Gatto della mensa	
 304	Gattapulta possente	Macchina d'assedio GAT-6	GAT-8 Behemoth	Gigapulta CAT-10
-305	Natante possente	Nave Cuordileone	Nave Artiglio	
+305	Natante possente	Nave Cuordileone	Nave Artiglio	Unità Artigliorso
 306	Bombardo possente	Aero-fortezza NEK-0	Aeroccaforte NEK-02	
 307	Gatta con l'asta	Gatta astista	Gatta casalinga	
 308	Gatto giardiniere	Gattaiolo	Gattosaerba	
@@ -666,7 +666,7 @@
 665	Uovo antico N201	Uovo oscuro N201	Gattorcista	
 666	Lilin spiaggia notturna	Lillin spiaggia notturna π		
 667	Gatto uccello plagiato	UFO plagiato	Gatto volante plagiato	
-668	Gatto Tengu	Gran Yokai Tengu		
+668	Gatto Tengu	Gran Yokai Tengu	Maestro Tengu Immortale	
 669	Uovo antico N003	Uovo malvagio N003	Gatto cactus	
 670	Uovo antico N202	Uovo vermiglione N202	Gatto lucciola corazzato	
 671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)		
@@ -728,7 +728,7 @@
 727	SOL DAE ROKKER	SOL DAE ROKKER CC		
 728	Maestro della mente Sokrate	Maestro della mente Catcrate		
 729				
-730				
+730	Uovo antico N204	Uovo vermiglione N204	Gatto leo ballerino	
 731	Portatore di luce Izanagi	Portatore di oscurità Izanagi		
 732				
 733	Pegasa	Pegasa v	Disinteressata alle trame e ai piani degli adulti, compie	
@@ -772,3 +772,7 @@
 771	Maestro di vita dott. Nova	Maestro di vita Catnova		
 772	Zucca Sodoma	Sodoma di Halloween		
 773	Mummia sumo	Mamma mummia sumo		
+774	Axel Pattuglia Mech	Axel Sergente d'acciaio		
+775				
+776				
+777	Kaihime Generale d'inverno	Kahime Comandante d'inverno		

@@ -303,7 +303,7 @@
 302	Wahre-Form-Entwicklung erhöht<br>Angriffskraft und Reichweite!<br>Erhält die Fähigkeit, Aku einzufrieren.
 303	<br><br>
 304	Wahre-Form-Entwicklung erhöht Angriffs-<br>reichweite und Angriffsflächengröße!<br>	Ultra-Form-Entw. erhöht Angriffskraft!<br>Resistent gegen Zombies und Relikt und<br>erhält Fähigkeit, garant. zu schwächen.
-305	Wahre-Form-Entwicklung erhöht<br>Angriffstempo!<br>
+305	Wahre-Form-Entwicklung erhöht<br>Angriffstempo!<br>	Ultra-Form: reduzierte Einsatz-Abklingzeit!<br>Erhöhte Vert., Angriffstempo/-reichweite!<br>Erhält zudem Immunität gegen Rückstoß!
 306	Wahre-Form-Entwicklung erhöht Vert.<br>und Rückstoß-Rate!<br>
 307	Wahre Form erhöht Vert. und Bewegungs-<br>tempo deutlich! Zudem halten bei<br>Zombies Verlangsamen-Effekte länger an!
 308	Wahre Form erhöht Verteidigung deutlich!<br>Auch die Angriffsreichweite wird erhöht und<br>die Einfrierdauer bei Zombies steigt!
@@ -666,7 +666,7 @@
 665	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
 666	<br><br>
 667	<br><br>
-668	<br><br>
+668	Wahre Form gewährt erhöhte Verteidigung!<br>Hat zudem verbesserte Rückstoßchance<br>u. leichte Verbesserungen der Angriffskraft!
 669	Wahre Form enthüllt letzte Form!<br>Zudem Immunität gegen Zufallsangriffe!<br>
 670	Wahre Form enthüllt letzte Form!<br>Erhält zudem „Behemothtöter“!<br>
 671	<br><br>
@@ -772,3 +772,7 @@
 771	<br><br>
 772	<br><br>
 773	<br><br>
+774	<br><br>
+775	<br><br>
+776	<br><br>
+777	<br><br>

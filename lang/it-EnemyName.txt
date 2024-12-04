@@ -419,7 +419,7 @@
 418	Ribbo
 419	Gatto divino
 420	Loris
-421	celestiale Elesanto
+421	Celestiale Elesanto
 422	Rosso Malvagio
 423	Moderato
 424	S. Pruzzo
@@ -700,3 +700,12 @@
 699	Maestro di vita dott. Nova
 700	Idi:Ne
 701	Gatto della mensa
+702	Cane portabandiera
+703	Comandante Face
+704	Comandante Nyandam
+705	Comandante Hannya
+706	Comandante Bum-bum
+707	Nobunaga rivoluzionario
+708	
+709	
+710	Castello miciodiale

@@ -303,7 +303,7 @@
 302	La forma final tiene más<br>poder de ataque y alcance.<br>Obtiene la habilidad de paralizar a akus.
 303	<br><br>
 304	La forma final tiene mejor distancia<br>de ataque y alcance de área.<br>	¡La ultraforma gana poder de ataque!<br>Resiste zombis y reliquias y gana<br>la habilidad de desgastar 100 %.
-305	La forma final tiene más<br>velocidad de ataque.<br>
+305	La forma final tiene más<br>velocidad de ataque.<br>	Ultraforma: menor t. de esp. de despliegue.<br>¡Mejor defensa, vel. de ataque y alcance!<br>¡Y se hace inmune contra la repulsión!
 306	La forma final tiene una mayor<br>defensa y más probabilidades de repeler.<br>
 307	La forma final tiene una mayor defensa<br>y más velocidad de movimiento. Ralentiza<br>a los zombis durante más tiempo.
 308	La forma final tiene una mayor defensa<br>y más alcance. Además, paraliza<br>a los zombis durante más tiempo.
@@ -666,7 +666,7 @@
 665	La forma final revela su apariencia real<br>y es matamastodontes.<br>
 666	<br><br>
 667	<br><br>
-668	<br><br>
+668	¡La forma final tiene más defensa!<br>¡Mejora de repulsión<br>y de poder de ataque!
 669	La forma final revela su apariencia real<br>y se hace inmune a réplicas.<br>
 670	La forma final revela su apariencia real<br>y es matamastodontes.<br>
 671	<br><br>
@@ -772,3 +772,7 @@
 771	<br><br>
 772	<br><br>
 773	<br><br>
+774	<br><br>
+775	<br><br>
+776	<br><br>
+777	<br><br>

@@ -644,6 +644,7 @@
 15664	Gasmaskenkatze
 15665	Chirurgen-Katze
 15666	Exorzistenkatze
+15669	Unsterblicher Meister Tengu
 15670	Katzenkaktus
 15671	Gepanzerte Glühwürmchenkatze
 15675	Extradimensionaler Envanz
@@ -661,6 +662,7 @@
 15718	Bauernjungenkatze
 15721	Gefallene Bärenkatze
 15725	Katzeneierkapsel
+15731	Löwentänzer-Katze
 15758	Brautkatze
 15766	Muschelkatze
 16131	Erwachte Ururun

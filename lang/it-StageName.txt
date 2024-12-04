@@ -5696,6 +5696,13 @@
 034-014-003	Entropia tropicale
 034-014-004	Arcipelago di Eulero
 034-014-005	Frutto anti paradiso
+034-015		Panico in crociera
+034-015-000	Capitano misterioso
+034-015-001	La cabina chiusa a chiave
+034-015-002	Proposta in mezzo al mare
+034-015-003	Distacco digitale
+034-015-004	Pirati che rompono i ranghi
+034-015-005	Attracco senza intoppi
 
 036			Colosseum Stages
 036-000		Colosseo ultraterreno
@@ -5728,3 +5735,52 @@
 036-004-002	Round 3
 036-004-003	Round 4
 036-004-004	Round 5
+036-005		Colosseo ultraterreno
+036-005-000	Round 1
+036-005-001	Round 2
+036-005-002	Round 3
+036-005-003	Round 4
+036-005-004	Round 5
+
+037			Campionati miciodiali
+037-000		Campionati miciodiali Grado 1
+037-000-000	Test aumento 1
+037-000-001	Test aumento 2
+037-000-002	Test aumento 3
+037-001		Campionati miciodiali Grado 2
+037-001-000	Test aumento 1
+037-001-001	Test aumento 2
+037-001-002	Test aumento 3
+037-002		Campionati miciodiali Grado 3
+037-002-000	Test aumento 1
+037-002-001	Test aumento 2
+037-003		Campionati miciodiali Grado 4
+037-003-000	Test aumento 1
+037-003-001	Test aumento 2
+037-004		Campionati miciodiali Grado 5
+037-004-000	Test aumento 1
+037-004-001	Test aumento 2
+037-004-002	Test aumento 3
+037-005		Campionati miciodiali Grado 6
+037-005-000	Test aumento 1
+037-005-001	Test aumento 2
+037-006		Campionati miciodiali Grado 7
+037-006-000	Test aumento 1
+037-006-001	Test aumento 2
+037-007		Campionati miciodiali Grado 8
+037-007-000	Test aumento 1
+037-007-001	Test aumento 2
+037-007-002	Test aumento 3
+037-008		Campionati miciodiali Grado 9
+037-008-000	Test aumento 1
+037-008-001	Test aumento 2
+037-008-002	Test aumento 3
+037-009		Campionati miciodiali Grado 10
+037-009-000	Test aumento
+037-010		Campionati miciodiali Grado 11
+037-010-000	Test aumento 1
+037-010-001	Test aumento 2
+037-011		Campionati miciodiali Grado 12
+037-011-000	Test aumento 1
+037-011-001	Test aumento 2
+037-011-002	Test aumento 3

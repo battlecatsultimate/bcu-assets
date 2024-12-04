@@ -1,6 +1,6 @@
 0	Verbessere eine Katze im Verbesserungenmenü! (Tippe auf die Verbessern!-Schaltfläche unter einer Katze)
 1	Aktiviere den Energydrink in Kampfkatzen auf dem Vormarsch! (Bonusfähigkeit durch Sammeln der ersten 7 Schätze)
-2	Erhöhe deinen Benutzerrang um 10!
+2	Erhöhe deinen Benutzerrang um 0!
 3	Ziehe eine Katzenkapsel in der Katzenbasis! (Erhalte täglich ein Katzenticket und nutze eines)
 4	Rekrutiere einen Gamatoto-Assistenten! (Erhalte Assistenten als Belohnung der Gamatoto-Expedition)
 5	Schließe ein Level mit einer Katzenkombo ab! (Nutze eine vorgefertigte Katzengruppe in deiner Formation!)
@@ -27,33 +27,33 @@
 27	Schließe alle legendären Level.  der Stufe 2 ab, um diese Mission abzuschließen
 28	Schließe alle legendären Level.  der Stufe 3 ab, um diese Mission abzuschließen
 29	8. Jubiläum-Mission. Schließe „Katzenimperium Kapitel 1“ im Event ab!
-8000	Schließe Katzenticket-Belohnungslevel 3 Mal ab!
-8001	Schließe XP-Belohnungslevel 5 Mal ab!
-8002	Schließe 5 Legenden-Level ab!
-8003	Schicke Gamatoto auf 7 erfolgreiche Expeditionen!
+8000	Schließe Katzenticket-Belohnungslevel 13 Mal ab!
+8001	Schließe XP-Belohnungslevel 13 Mal ab!
+8002	Schließe 9 Legenden-Level ab!
+8003	Schicke Gamatoto auf 17 erfolgreiche Expeditionen!
 8004	Schließe alle Wochenmissionen ab!
-8005	Schließe Katzenticket-Belohnungslevel 3 Mal ab!
-8006	Schließe XP-Belohnungslevel 5 Mal ab!
-8007	Schicke Gamatoto auf 10 erfolgreiche Expeditionen!
-8008	Schließe Katzenfrucht-Belohnungslevel 3 Mal ab!
-8009	Schließe 10 Legenden-Level ab!
+8005	Schließe Katzenticket-Belohnungslevel 13 Mal ab!
+8006	Schließe XP-Belohnungslevel 13 Mal ab!
+8007	Schicke Gamatoto auf 17 erfolgreiche Expeditionen!
+8008	Schließe Katzenfrucht-Belohnungslevel 13 Mal ab!
+8009	Schließe 9 Legenden-Level ab!
 8010	Schließe alle Wochenmissionen ab!
 8011	Schließe alle Wochenmissionen ab!
 9000	Schließe die 30. Ebene des Himmlischen Turms ab. (Diese Belohnung kann nur einmal abgeholt werden.)
-9001	Schließe Sommerschule-Level 5 Mal ab!
-9002	Schließe Sommerschule-Level 10 Mal ab!
-9003	Schließe Sommerschule-Level 20 Mal ab!
+9001	Schließe Sommerschule-Level 9 Mal ab!
+9002	Schließe Sommerschule-Level 9 Mal ab!
+9003	Schließe Sommerschule-Level 9 Mal ab!
 9004	Sammle die seltene Einheit Awa-Odori-Katze! (Verfügbar in beliebigen Sommertagebuch-Leveln.)
 9005	Schließe alle Spezialmissionen ab!
-9011	Schließe Silberwoche-Level 5 Mal ab
-9012	Schließe Silberwoche-Level 10 Mal ab
-9013	Schließe Silberwoche-Level 20 Mal ab
+9011	Schließe Silberwoche-Level 9 Mal ab
+9012	Schließe Silberwoche-Level 9 Mal ab
+9013	Schließe Silberwoche-Level 9 Mal ab
 9014	Schließe alle Silberwoche-Missionen ab
 9015	Score 5000 or more on "Immortal Allen O'Neill"! Receive your score upon stage clear
 9016	Score 5000 or more on "Attack On Huge Hermit"! Receive your score upon stage clear
 9017	Score 5000 or more on "Jupiter King Convoy"! Receive your score upon stage clear
 9018	Score 3000 or more on "Devils on the Doorstep"! Receive your score upon stage clear
-9019	Schließe 5 Jahre Spaß 5 Mal ab!
+9019	Schließe 5 Jahre Spaß 9 Mal ab!
 9020	Erreiche 5555 Punkte in 5-Jahres-Plan! Dieses Ranglistenlevel gibt es im Katzenkrallendojo!
 9021	Entwickle Münzkatze! (Du musst die Katze vor Eventende entwickeln!)
 9022	Score 4000 or more on "Schoolyard Clash"! Receive your score upon stage clear
@@ -61,33 +61,33 @@
 9024	Score 3000 or more on "Manor Ruins"! Receive your score upon stage clear
 9025	Score 2500 or more on "Inconspicuous Trap"! Receive your score upon stage clear
 9026	Score 1500 or more on "Beginning of the End"! Receive your score upon stage clear
-9027	Schließe tägliche Blitz-Kollaborationslevel 5 Mal ab!
+9027	Schließe tägliche Blitz-Kollaborationslevel 9 Mal ab!
 9028	Schließe die 40. Ebene des Himmlischen Turms ab. *Belohnungen können nur einmal abgeholt werden
 9029	Erreiche mehr als 2500 Punkte beim. Abschluss des O-Tannenbaum-Levels!
 9030	Erreiche mehr als 2000 Punkte im. Rentierspiele-Level!
 9031	Erreiche mehr als 2000 Punkte im. Schlagsahne-Level!
 9032	Erreiche mehr als 2000 Punkte im. Wahnwitzige-Werkstatt-Level!
 9033	Erreiche mehr als 1500 Punkte im. Krieg-gg.-Weihnachten-Level!
-9034	Schließe Katzen im Schnee 5 Mal ab!
-9035	Schließe Katzen im Schnee 10 Mal ab!
-9036	Schließe Katzen im Schnee 20 Mal ab!
+9034	Schließe Katzen im Schnee 9 Mal ab!
+9035	Schließe Katzen im Schnee 9 Mal ab!
+9036	Schließe Katzen im Schnee 9 Mal ab!
 9037	Score more than 3000 points on the. PowerPro collab stage "Round 1 (Easy)"!
 9038	Score more than 6000 points on the. PowerPro collab stage "Round 2 (Normal)"!
 9039	Score more than 6500 points on the. PowerPro collab stage "Final Round (Hard)"!
 9040	Erreiche mehr als 2000 Punkte im. limitierten Marsch-Mallow-Level!
 9041	Erreiche mehr als 5000 Punkte im. limitierten Marzipein-Level!
 9042	Erreiche mehr als 6000 Punkte im. limitierten Karieskriecher-Level!
-9043	Schließe Absolventen vor 5 Mal ab!
-9044	Schließe Absolventen vor 10 Mal ab!
-9045	Schließe Absolventen vor 20 Mal ab!
+9043	Schließe Absolventen vor 9 Mal ab!
+9044	Schließe Absolventen vor 9 Mal ab!
+9045	Schließe Absolventen vor 9 Mal ab!
 9046	Erreiche mehr als 2000 Punkte im. Marsch-Mallow-Sonderlevel!
 9047	Erreiche mehr als 5000 Punkte im. Marzipein-Sonderlevel!
 9048	Erreiche mehr als 6000 Punkte im. Karieskriecher-Sonderlevel!
 9049	Verbessere Eierkatze auf Stufe 10! (Du musst die Katze vor Eventende entwickeln!)
 9050	Upgrade Shinji & Cat to Level 10! (You must evolve the Cat before the event ends!)
-9051	Clear "Decisive Battle!" 5 times!
-9052	Clear "Decisive Battle!" 10 times!
-9053	Clear "Decisive Battle!" 20 times!
+9051	Clear "Decisive Battle!" 9 times!
+9052	Clear "Decisive Battle!" 9 times!
+9053	Clear "Decisive Battle!" 9 times!
 9054	Clear a stage using a catcombo with "Eva Angel Killer" effect! Use Shinji and ??? together (after Empire Ch. 1)
 9055	Destroy the 4th Angel. Encounter this enemy at "State of Emergency"
 9056	Destroy the 6th Angel. Encounter this enemy at "Futagoyama Fortress"
@@ -97,46 +97,46 @@
 9060	Evolve Pokota at Level 10! This mission can only be completed during the LINE Pokopang! collab event!
 9061	Evolve Ovis at Level 10! This mission can only be completed during the LINE Pokopang! collab event!
 9062	Evolve Coco at Level 10! This mission can only be completed during the LINE Pokopang! collab event!
-9063	Clear "Trio from the Woods" 5 times!
-9064	Clear "Trio from the Woods" 10 times!
-9065	Clear "Trio from the Woods" 20 times!
-9072	Schließe Midas’ Hand 5 Mal ab!
-9073	Schließe Midas’ Hand 10 Mal ab!
-9074	Schließe Midas’ Hand 20 Mal ab!
-9075	Clear "City of Souls" 5 times!
-9076	Clear "City of Souls" 10 times!
-9077	Clear "City of Souls" 20 times!
+9063	Clear "Trio from the Woods" 9 times!
+9064	Clear "Trio from the Woods" 9 times!
+9065	Clear "Trio from the Woods" 9 times!
+9072	Schließe Midas’ Hand 9 Mal ab!
+9073	Schließe Midas’ Hand 9 Mal ab!
+9074	Schließe Midas’ Hand 9 Mal ab!
+9075	Clear "City of Souls" 9 times!
+9076	Clear "City of Souls" 9 times!
+9077	Clear "City of Souls" 9 times!
 9078	Upgrade Yuki Cat to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
 9079	Upgrade Takuya ＆ Yuki to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
 9080	Upgrade Redhead Yuki Cat to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
-9085	Schließe Schleimiges Rennen 5 Mal ab!
-9086	Schließe Schleimiges Rennen 10 Mal ab!
-9087	Schließe Schleimiges Rennen 20 Mal ab!
+9085	Schließe Schleimiges Rennen 9 Mal ab!
+9086	Schließe Schleimiges Rennen 9 Mal ab!
+9087	Schließe Schleimiges Rennen 9 Mal ab!
 9088	Entwickle Schneckenreiter-Katze auf Stufe 10! Kann nur während des Schleimhengste-Events abgeschlossen werden!
-9089	Schließe Die verbotene Braut II 5 Mal ab!
-9090	Schließe Die verbotene Braut II 10 Mal ab!
-9091	Schließe Die verbotene Braut II 20 Mal ab!
+9089	Schließe Die verbotene Braut II 9 Mal ab!
+9090	Schließe Die verbotene Braut II 9 Mal ab!
+9091	Schließe Die verbotene Braut II 9 Mal ab!
 9092	Entwickle Die Braut auf Stufe 10! Kann nur während des Juni-Monatsevents abgeschlossen werden!
-9093	Schließe The Battle Cats lassen es knallen! 5 Mal ab!
-9094	Schließe The Battle Cats lassen es knallen! 10 Mal ab!
-9095	Schließe The Battle Cats lassen es knallen! 20 Mal ab!
-9096	Schließe The Battle Cats lassen es knallen! 32 Mal ab!
+9093	Schließe The Battle Cats lassen es knallen! 9 Mal ab!
+9094	Schließe The Battle Cats lassen es knallen! 9 Mal ab!
+9095	Schließe The Battle Cats lassen es knallen! 9 Mal ab!
+9096	Schließe The Battle Cats lassen es knallen! 9 Mal ab!
 9097	Entwickle Betakkuma auf Stufe 10! Kann nur während des Betakkuma-Kollab.-Events abgeschlossen werden!
-9098	Schließe Für immer Sommer 5 Mal ab!
-9099	Schließe Für immer Sommer 10 Mal ab!
-9100	Schließe Für immer Sommer 20 Mal ab!
+9098	Schließe Für immer Sommer 9 Mal ab!
+9099	Schließe Für immer Sommer 9 Mal ab!
+9100	Schließe Für immer Sommer 9 Mal ab!
 9101	Entwickle Urlaubskönigin auf Stufe 10! Kann nur während des Juli-Monatsevents abgeschlossen werden!
-9111	Schließe Geisterhafte Fremde 5 Mal ab!
-9112	Schließe Geisterhafte Fremde 10 Mal ab!
-9113	Schließe Geisterhafte Fremde 20 Mal ab!
+9111	Schließe Geisterhafte Fremde 9 Mal ab!
+9112	Schließe Geisterhafte Fremde 9 Mal ab!
+9113	Schließe Geisterhafte Fremde 9 Mal ab!
 9114	Entwickle Rache-Katze auf Stufe 10! Kann nur abgeschlossen werden, während Geisterlevel verfügbar sind!
-9115	Schließe Alte Stadtknacker 5 Mal ab!
-9116	Schließe Alte Stadtknacker 10 Mal ab!
-9117	Schließe Alte Stadtknacker 20 Mal ab!
+9115	Schließe Alte Stadtknacker 9 Mal ab!
+9116	Schließe Alte Stadtknacker 9 Mal ab!
+9117	Schließe Alte Stadtknacker 9 Mal ab!
 9118	Entwickle Kung-Fu-Katze X auf Stufe 10! Kann nur abgeschlossen werden, während Alte-Knacker-Level verfügbar sind!
-9119	Schließe Sommerschule 5 Mal ab!
-9120	Schließe Sommerschule 10 Mal ab!
-9121	Schließe Sommerschule 20 Mal ab!
+9119	Schließe Sommerschule 9 Mal ab!
+9120	Schließe Sommerschule 9 Mal ab!
+9121	Schließe Sommerschule 9 Mal ab!
 9122	Entwickle Awa-Odori-Katze auf Stufe 10! Kann nur abgeschlossen werden, während Sommertagebuch-Level verfügbar sind!
 9123	Defeat the Rose Garden Witch. Find this enemy at the "The Rose Garden Witch (Easy)" stage
 9124	Defeat the Dessert Witch. Find this enemy at the "The Dessert Witch (Normal)" stage
@@ -146,35 +146,35 @@
 9128	Destroy all Witches
 9129	Evolve Li'l Madoka at Level 10! This mission can only be completed while the Puella Magi Madoka Magica collab is available!
 9130	Evolve Kyubey Cat Level 10! This mission can only be completed while the Puella Magi Madoka Magica collab is available!
-9131	Clear "Queen Rampant" 5 times!
-9132	Clear "Queen Rampant" 10 times!
-9133	Clear "Queen Rampant" 20 times!
-9134	Schließe Sportabend 5 Mal ab!
-9135	Schließe Sportabend 10 Mal ab!
-9136	Schließe Sportabend 20 Mal ab!
+9131	Clear "Queen Rampant" 9 times!
+9132	Clear "Queen Rampant" 9 times!
+9133	Clear "Queen Rampant" 9 times!
+9134	Schließe Sportabend 9 Mal ab!
+9135	Schließe Sportabend 9 Mal ab!
+9136	Schließe Sportabend 9 Mal ab!
 9137	Entwickle Sporttagkatze auf Stufe 10! Kann nur abgeschlossen werden, während Herbst = Sporttag-Level verfügbar sind!
-9138	Schließe Arbeiterrevolution 5 Mal ab!
-9139	Schließe Arbeiterrevolution 10 Mal ab!
-9140	Schließe Arbeiterrevolution 20 Mal ab!
+9138	Schließe Arbeiterrevolution 9 Mal ab!
+9139	Schließe Arbeiterrevolution 9 Mal ab!
+9140	Schließe Arbeiterrevolution 9 Mal ab!
 9141	Entwickle Angestellten-Katze auf Stufe 10! Kann nur abgeschlossen werden, während Arbeitsliebe-Level verfügbar sind!
-9142	Clear "Merc Storia: Attack" stages 5 times!
-9143	Clear "Merc Storia: Attack" stages 10 times!
-9144	Clear "Merc Storia: Attack" stages 20 times!
+9142	Clear "Merc Storia: Attack" stages 9 times!
+9143	Clear "Merc Storia: Attack" stages 9 times!
+9144	Clear "Merc Storia: Attack" stages 9 times!
 9145	Challenge the Ranking Stage "Weak of Spirit"!  Select this stage at the Catclaw Dojo!
 9146	Evolve Healer at Level 10! This mission can only be completed during the Merc Storia Collab Event!
-9147	Schließe Kulturfestival 5 Mal ab!
-9148	Schließe Kulturfestival 10 Mal ab!
-9149	Schließe Kulturfestival 20 Mal ab!
+9147	Schließe Kulturfestival 9 Mal ab!
+9148	Schließe Kulturfestival 9 Mal ab!
+9149	Schließe Kulturfestival 9 Mal ab!
 9150	Entwickle Essensstandkatze auf Stufe 10! Kann nur abgeschlossen werden, während „Ein kultiviertes Fest“-Level verfügbar sind!
-9151	Schließe Weihnachten im All 5 Mal ab!
-9152	Schließe Weihnachten im All 10 Mal ab!
-9153	Schließe Weihnachten im All 20 Mal ab!
+9151	Schließe Weihnachten im All 9 Mal ab!
+9152	Schließe Weihnachten im All 9 Mal ab!
+9153	Schließe Weihnachten im All 9 Mal ab!
 9154	Entwickle Rentierfisch-Katze auf Stufe 10! Kann nur abgeschlossen werden, während Dezember-Level verfügbar sind!
 9155	Entwickle Kürbiskatze auf Stufe 10! Kann nur abgeschlossen werden, während Halloween-Straße-Level verfügbar sind!
 9156	Entwickle Katzengeschenk auf Stufe 10! Kann nur abgeschlossen werden, während „Froher St. Niklas“-Level verfügbar sind!
-9157	Schließe Noch ein Neujahr 5 Mal ab!
-9158	Schließe Noch ein Neujahr 10 Mal ab!
-9159	Schließe Noch ein Neujahr 20 Mal ab!
+9157	Schließe Noch ein Neujahr 9 Mal ab!
+9158	Schließe Noch ein Neujahr 9 Mal ab!
+9159	Schließe Noch ein Neujahr 9 Mal ab!
 9160	Entwickle Erwachsene Katze auf Stufe 10! Kann nur abgeschlossen werden, während Januar-Level verfügbar sind!
 9161	Limit. Fest-Invasionsmissionen. Schließe „Aufsteigender Clionel“ ab!
 9162	Limit. Fest-Invasionsmissionen:. Schließe „Fluss Styx“ ab!
@@ -183,37 +183,37 @@
 9165	Limit. Fest-Invasionsmissionen:. Schließe „König Wahwahs Rache“ ab!
 9166	Limit. Fest-Invasionsmissionen:. Schließe „Tiefschlaf“ ab!
 9167	Schließe alle limitierten Festival-Level einmal ab!
-9168	Schließe Sechs Jahre 6 Mal ab!
+9168	Schließe Sechs Jahre 9 Mal ab!
 9169	Erreiche 6666 Punkte in „Sechs Jahre stark“! Dieses Ranglistenlevel gibt es im Katzenkrallendojo!
-9170	Schließe 5 Mal die Level von Chaosritual ab!
-9171	Schließe 10 Mal die Level von Chaosritual ab!
-9172	Schließe 20 Mal die Level von Chaosritual ab!
+9170	Schließe 9 Mal die Level von Chaosritual ab!
+9171	Schließe 9 Mal die Level von Chaosritual ab!
+9172	Schließe 9 Mal die Level von Chaosritual ab!
 9173	Entwickle Böse Katze auf Stufe 10! Kann nur abgeschlossen werden, während Februar-Level verfügbar sind!
-9174	Schließe 5 Mal die Level von Zugabe der Bären ab!
-9175	Schließe 10 Mal die Level von Zugabe der Bären ab!
-9176	Schließe 20 Mal die Level von Zugabe der Bären ab!
+9174	Schließe 9 Mal die Level von Zugabe der Bären ab!
+9175	Schließe 9 Mal die Level von Zugabe der Bären ab!
+9176	Schließe 9 Mal die Level von Zugabe der Bären ab!
 9177	Entwickle Puppenkatzen auf Stufe 10! Kann nur abgeschlossen werden, während März-Level verfügbar sind!
 9178	Evolve Shirou the Cat Level 10! This mission can only be completed during the Fate/stay night [HF] event!
-9179	Schließe 5 Mal die Level von Frühlingsflirt ab
-9180	Schließe 10 Mal die Level von Frühlingsflirt ab
-9181	Schließe 20 Mal die Level von Frühlingsflirt ab
+9179	Schließe 9 Mal die Level von Frühlingsflirt ab
+9180	Schließe 9 Mal die Level von Frühlingsflirt ab
+9181	Schließe 9 Mal die Level von Frühlingsflirt ab
 9182	Entwickle Mädchen-Katze auf Stufe 10! Kann nur während des April-Monatsevents abgeschlossen werden!
 9183	Evolve Meowla Meowla at Level 10! This mission can only be completed during the Survive! Mola Mola event!
-9184	Schließe 5 Mal die Level von Neuer Herzschmerz ab
-9185	Schließe 10 Mal die Level von Neuer Herzschmerz ab
-9186	Schließe 20 Mal die Level von Neuer Herzschmerz ab
+9184	Schließe 9 Mal die Level von Neuer Herzschmerz ab
+9185	Schließe 9 Mal die Level von Neuer Herzschmerz ab
+9186	Schließe 9 Mal die Level von Neuer Herzschmerz ab
 9187	Entwickle Koi-Katze auf Stufe 10! Kann nur während des Mai-Monatsevents abgeschlossen werden!
 9191	Upgrade Prince Yamato to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
 9192	Upgrade Rosary Angel to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
 9193	Clear the first "Devilish Illusion" stage! You must earn a victory on "A Tower Piercing the Sky (Hard)"
 9194	Clear the first "Yamato Awakens!" stage! You must earn a victory on "Inherited Ambition (Veteran)"
-9195	Clear "Bikkuriman Choco" stages 5 times!
-9196	Clear "Bikkuriman Choco" stages 10 times!
-9197	Clear "Bikkuriman Choco" stages 20 times!
+9195	Clear "Bikkuriman Choco" stages 9 times!
+9196	Clear "Bikkuriman Choco" stages 9 times!
+9197	Clear "Bikkuriman Choco" stages 9 times!
 9198	Upgrade Kano ＆ Souma to Level 10! (You must evolve the Cat before the Shoumetsu Toshi collab ends!)
-9199	Schließe Shakurel-Planet 5 Mal ab!
-9200	Schließe Shakurel-Planet 10 Mal ab!
-9201	Schließe Shakurel-Planet 15 Mal ab!
+9199	Schließe Shakurel-Planet 9 Mal ab!
+9200	Schließe Shakurel-Planet 9 Mal ab!
+9201	Schließe Shakurel-Planet 9 Mal ab!
 9202	Verbessere Shakurelkatze auf Stufe 10! (Vor Ende des Events!)
 17001	Schließe alle Monatsmissionen ab!
 17002	Schließe alle Monatsmissionen ab!
@@ -223,375 +223,375 @@
 17006	Schließe alle Monatsmissionen ab!
 17007	Schließe alle Monatsmissionen ab!
 17008	Schließe alle Monatsmissionen ab!
-1000	Besiege Nilpferd in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1001	Besiege Schwein in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1002	Besiege Jackie Peng in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1003	Besiege Gorilla in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1004	Besiege Mäh-Mäh in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1005	Besiege Sir Robbe in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1006	Besiege Kroko in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1007	Besiege Le'boin in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1008	Besiege B.B.Bunny in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1009	Besiege Käng Ru in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1010	Besiege Eich Horn in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1011	Besiege Mootte in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1012	Besiege Einhorn in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1013	Besiege Lehrerbär in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1014	Besiege Finsterer Herrscher Nyandam in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1100	Besiege Nilpferd in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1101	Besiege Schwein in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1102	Besiege Jackie Peng in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1103	Besiege Gorilla in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1104	Besiege Mäh-Mäh in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1105	Besiege Sir Robbe in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1106	Besiege Kroko in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1107	Besiege Le'boin in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1108	Besiege B.B.Bunny in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1109	Besiege Käng Ru in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1110	Besiege Eich Horn in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1111	Besiege Mootte in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1112	Besiege Einhorn in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1113	Besiege Lehrerbär in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1114	Besiege Lehrer Bun Bun in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1200	Besiege Nilpferd in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1201	Besiege Schwein in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1202	Besiege Jackie Peng in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1203	Besiege Gorilla in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1204	Besiege Kroko in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1205	Besiege Sir Robbe in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1206	Besiege Nüllpferd in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1207	Besiege Einhorn in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1208	Besiege Mootte in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1209	Besiege Käng Ru in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1210	Besiege Lehrerbär in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1211	Besiege Helmut Krabbe in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1212	Besiege Le'boin in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1213	Besiege Eisernes Nilpferd in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1214	Besiege Imperator Rohb in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1215	Besiege Finsterhund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1216	Besiege Moohthe in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1217	Besiege Schüchtermann in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1218	Besiege Binge Sicht in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1219	Besiege Gabriel in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1220	Besiege Schwarzer Gorilla in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1221	Besiege Ursamajor in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1222	Besiege Himmlisches Nilpferd in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1223	Besiege Schattenboxer K in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1224	Besiege Das Gesicht in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1225	Besiege Kroxo in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1226	Besiege LeMurr in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1227	Besiege Elizabeth LVI. in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1228	Besiege Nimoy-Ebär in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1229	Besiege Cli-One in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1300	Besiege Scheruru in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1301	Besiege Käng Ru in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1302	Besiege Lehrerbär in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1303	Besiege Helmut Krabbe in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1304	Besiege Ursamajor in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1305	Besiege Cyberhorn in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1306	Besiege Prinzessin Promi-Pudel in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1307	Besiege Schüchtermann in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1308	Besiege Schwarzer Gorilla in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1309	Besiege Rote Schlänge in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1310	Besiege Schattenboxer K in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1311	Besiege Trolly Blogger in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1312	Besiege Das Gesicht in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1313	Besiege Dunkler Otter in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1314	Besiege Elizabeth LVI. in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1315	Besiege Binge Sicht in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1316	Besiege Nimoy-Ebär in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1317	Besiege Verdorbene Walküre in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1318	Besiege St. Schwein II. in einem. legendären Level der Stufe 1!
-1319	Besiege Finsterhund in einem. legendären Level der Stufe 1!
-1320	Besiege Meister A. in einem. legendären Level der Stufe 1!
-1321	Besiege Dachshund in einem. legendären Level der Stufe 1!
-1322	Besiege Promi-Pudel in einem. legendären Level der Stufe 1!
-1323	Besiege DAS FAULTIER in einem. legendären Level der Stufe 1!
-1324	Besiege Klopper-Otter in einem. legendären Level der Stufe 1!
-1325	Besiege J.K. Bun Bun in einem. legendären Level der Stufe 1!
-1326	Besiege Ebär in einem. legendären Level der Stufe 1!
-1327	Besiege Eulheul in einem. legendären Level der Stufe 1!
-1328	Besiege Camelle in einem. legendären Level der Stufe 1!
-1329	Besiege Kory in einem. legendären Level der Stufe 1!
-1330	Besiege Regisseur Kurosawah in einem. legendären Level der Stufe 1!
-1331	Besiege Eisernes Einhorn in einem. legendären Level der Stufe 1!
-1332	Besiege H. Nee in einem. legendären Level der Stufe 1!
-1333	Besiege Ururun-Wolf in einem. legendären Level der Stufe 1!
-1334	Besiege Roter Zyklon in Blutrote Katastrophe. (1x in einem beliebigen Level von Blutrote Katastrophe)
-1335	Besiege Schwarzer Zyklon in Himmel der Dunkelheit. (1x in einem beliebigen Level von Himmel der Dunkelheit)
-1400	Besiege Prinzessin Promi-Pudel in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1401	Besiege Scheruru in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1402	Besiege Käng Ru in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1403	Besiege Calamary in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1404	Besiege Cyberhorn in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1405	Besiege Lehrerbär in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1406	Besiege Ursamajor in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1407	Besiege Alpacky in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1408	Besiege Elizabeth LVI. in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1409	Besiege Schattenboxer K in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1410	Besiege Binge Sicht in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1411	Besiege Das Gesicht in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1412	Besiege Schüchtermann in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1413	Besiege Altes Faultier in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1414	Besiege Dunkler Otter in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1415	Besiege Nimoy-Ebär in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1416	Besiege Rasende Bahamut-Katze in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1417	Besiege Dober P.D in einem. legendären Level der Stufe 1!
-1418	Besiege V. Strauß in einem. legendären Level der Stufe 1!
-1419	Besiege Mondfisch Jones in einem. legendären Level der Stufe 1!
-1420	Besiege Supereisernes Nilpferd in einem. legendären Level der Stufe 1!
-1421	Besiege Wallhund in einem. legendären Level der Stufe 1!
-1422	Besiege Taubitze in einem. legendären Level der Stufe 1!
-1423	Besiege Engelhafter Sleipnir in einem. legendären Level der Stufe 1!
-1424	Besiege Kleiner Nyandam in einem. legendären Level der Stufe 1!
-1425	Besiege Küken E in einem. legendären Level der Stufe 1!
-1426	Besiege Capy in einem. legendären Level der Stufe 1!
-1427	Besiege Brolbe in einem. legendären Level der Stufe 1!
-1428	Besiege Berserkory in einem. legendären Level der Stufe 1!
-1429	Besiege Mr. Maulwurf in einem. legendären Level der Stufe 1!
-1430	Besiege Tu Kahn in einem. legendären Level der Stufe 1!
-1431	Besiege Codename Rotkäppchen in einem. legendären Level der Stufe 1!
-1432	Besiege Tacki in einem. legendären Level der Stufe 1!
-1433	Besiege Ebärphim in einem. legendären Level der Stufe 1!
-1434	Besiege Weißer Zyklon in Unvergleichlich. (1x in einem beliebigen Level von Unvergleichlich)
-1435	Besiege Göttlicher Zyklon in Zorn des Himmels. (1x in einem beliebigen Level von Zorn des Himmels)
-1500	Besiege Shibalien-Elite in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1501	Besiege Einhorn in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1502	Besiege Schwein in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1503	Besiege Sternenpeng in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1504	Besiege General GreGorilla in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1505	Besiege Elizabeth LVI. in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1506	Besiege Le'Solar in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1507	Besiege Engelhafter Gorilla in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1508	Besiege Gabriel in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1509	Besiege Projekt A in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1510	Besiege Schattenboxer K in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1511	Besiege Himmlisches Nilpferd in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1512	Besiege Korporal Weyland in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1513	Besiege Gorilla in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1514	Besiege Raumfisch Jones in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1515	Besiege Eisenhund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1516	Besiege Der Katzengott in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1517	Besiege DAS FAULTIER in einem. legendären Level der Stufe 2!
-1518	Besiege Schüchtermann in einem. legendären Level der Stufe 2!
-1519	Besiege J.K. Bun Bun in einem. legendären Level der Stufe 2!
-1520	Besiege Finsterer Herrscher Nyandam in einem. legendären Level der Stufe 2!
-1521	Besiege Lehrer Bun Bun in einem. legendären Level der Stufe 2!
-1522	Besiege Ebär in einem. legendären Level der Stufe 2!
-1523	Besiege Kory in einem. legendären Level der Stufe 2!
-1524	Besiege Regisseur Kurosawah in einem. legendären Level der Stufe 2!
-1525	Besiege V. Strauß in einem. legendären Level der Stufe 2!
-1526	Besiege Ururun-Wolf in einem. legendären Level der Stufe 2!
-1527	Besiege Engelhafter Sleipnir in einem. legendären Level der Stufe 2!
-1528	Besiege Kleiner Nyandam in einem. legendären Level der Stufe 2!
-1529	Besiege Berserkory in einem. legendären Level der Stufe 2!
-1530	Besiege Ren T. in einem. legendären Level der Stufe 2!
-1531	Besiege Camelle in einem. legendären Level der Stufe 2!
-1532	Besiege H. Nee in einem. legendären Level der Stufe 2!
-1533	Besiege Dober P.D in einem. legendären Level der Stufe 2!
-1534	Besiege Eiserner Zyklon in Süße Ironie. (1x in einem beliebigen Level von Süße Ironie)
-1535	Besiege Kosmischer Zyklon in Dimension der Verzweiflung. (1x in einem beliebigen Lvl. von Dimension d. Verzweiflung)
-1600	Besiege UltraMähMäh in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1601	Besiege Shibalien-Elite in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1602	Besiege Sternenpeng in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1603	Besiege Korporal Weyland in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1604	Besiege General GreGorilla in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1605	Besiege Kid Tappa in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1606	Besiege Rote Schlänge in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1607	Besiege Le'Solar in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1608	Besiege Gabriel in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1609	Besiege Engelhafter Gorilla in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1610	Besiege Unko in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1611	Besiege Projekt A in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1612	Besiege Schattenboxer K in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1613	Besiege Galaktischer Oberaufseher Nyandam in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1614	Besiege Raumfisch Jones in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1615	Besiege Ebär in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1616	Besiege Cli-One in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1617	Besiege Gorilla in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1618	Besiege Eisernes Einhorn in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1619	Besiege Katzengott in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1620	Besiege Mr. Engel in einem. legendären Level der Stufe 1!
-1621	Besiege Henry in einem. legendären Level der Stufe 1!
-1622	Besiege Kleiner Bun Bun in einem. legendären Level der Stufe 1!
-1623	Besiege Professor A. in einem. legendären Level der Stufe 1!
-1624	Besiege Klingenrücken in einem. legendären Level der Stufe 1!
-1625	Besiege Zund in einem. legendären Level der Stufe 1!
-1626	Besiege Zomboe in einem. legendären Level der Stufe 1!
-1627	Besiege Zwein in einem. legendären Level der Stufe 1!
-1628	Besiege Zackie Peng in einem. legendären Level der Stufe 1!
-1629	Besiege Lord Grabi in einem. legendären Level der Stufe 1!
-1630	Besiege Zalamander in einem. legendären Level der Stufe 1!
-1631	Besiege Sarg-Zund in einem. legendären Level der Stufe 1!
-1632	Besiege Zamelle in einem. legendären Level der Stufe 1!
-1633	Besiege Fräulein Haka in einem. legendären Level der Stufe 1!
-1634	Besiege Der perfekte Zyklon in Morgenrot. (1x in einem beliebigen Level von Morgenrot)
-1635	Besiege Zyklombie in Wandelnde Tote. (1x in einem beliebigen Level von Wandelnde Tote)
-1700	Besiege Mesokosmozyklon in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1701	Besiege Kid Tappa in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1702	Besiege Shibalien-Elite in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1703	Besiege Sternenpeng in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1704	Besiege General GreGorilla in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1705	Besiege Unko in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1706	Besiege Korporal Weyland in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1707	Besiege Le'Solar in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1708	Besiege Gebrüder Röhrenaal in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1709	Besiege UltraMähMäh in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1710	Besiege Cyberhorn in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1711	Besiege Schattenboxer K in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1712	Besiege Engelhafter Gorilla in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1713	Besiege Axoloty in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1714	Besiege Projekt A in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1715	Besiege Raumfisch Jones in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1716	Besiege Ebär in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1717	Besiege Alpacky in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1718	Besiege Eisenhund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1719	Besiege Endgegner Giga-Gott in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1720	Besiege Sir Eisenrobbe in einem. legendären Level der Stufe 1!
-1721	Besiege Eisenhund in einem. legendären Level der Stufe 1!
-1722	Besiege Le’noir in einem. legendären Level der Stufe 1!
-1723	Besiege Zroco in einem. legendären Level der Stufe 1!
-1724	Besiege Zory in einem. legendären Level der Stufe 1!
-1725	Besiege Zir Robbe in einem. legendären Level der Stufe 1!
-1726	Besiege Zäng Ru in einem. legendären Level der Stufe 1!
-1727	Besiege Inumusha in einem. legendären Level der Stufe 1!
-1728	Besiege Delfina in einem. legendären Level der Stufe 1!
-1729	Besiege Cala Maria in einem. legendären Level der Stufe 1!
-1730	Besiege Quakley in einem. legendären Level der Stufe 1!
-1731	Besiege Dukann in einem. legendären Level der Stufe 1!
-1732	Besiege Flügelschwein in einem. legendären Level der Stufe 1!
-1733	Besiege Hacki in einem. legendären Level der Stufe 1!
-1734	Besiege Mecha Bun in einem. legendären Level der Stufe 1!
-1735	Besiege Superkosmischer Zyklon in Die 2. Dimension. (1x in einem beliebigen Level von Die 2. Dimension)
-1800	Besiege Ururun-Wolf in einem. legendären Level der Stufe 3!
-1801	Besiege Kleiner Nyandam in einem. legendären Level der Stufe 3!
-1802	Besiege Berserkory in einem. legendären Level der Stufe 3!
-1803	Besiege Codename Rotkäppchen in einem. legendären Level der Stufe 3!
-1804	Besiege Tacki in einem. legendären Level der Stufe 3!
-1805	Besiege Ebärphim in einem. legendären Level der Stufe 3!
-1806	Besiege Henry in einem. legendären Level der Stufe 3!
-1807	Besiege Kleiner Bun Bun in einem. legendären Level der Stufe 3!
-1808	Besiege Professor A. in einem. legendären Level der Stufe 3!
-1809	Besiege Klingenrücken in einem. legendären Level der Stufe 3!
-1810	Besiege Zund in einem. legendären Level der Stufe 3!
-1811	Besiege Zäng Ru in einem. legendären Level der Stufe 3!
-1812	Besiege Zroco in einem. legendären Level der Stufe 3!
-1813	Besiege Zackie Peng in einem. legendären Level der Stufe 3!
-1814	Besiege Zory in einem. legendären Level der Stufe 3!
-1815	Besiege Zir Robbe in einem. legendären Level der Stufe 3!
-1816	Besiege Lord Grabi in einem. legendären Level der Stufe 3!
-1817	Besiege Zalamander in einem. legendären Level der Stufe 3!
-1818	Besiege Sarg-Zund in einem. legendären Level der Stufe 3!
-1819	Besiege Zamelle in einem. legendären Level der Stufe 3!
-1820	Besiege Fräulein Haka in einem. legendären Level der Stufe 3!
-1821	Besiege Inumusha in einem. legendären Level der Stufe 3!
-1822	Besiege Delfina in einem. legendären Level der Stufe 3!
-1823	Besiege Cala Maria in einem. legendären Level der Stufe 3!
-1824	Besiege Quakley in einem. legendären Level der Stufe 3!
-1825	Besiege Dukann in einem. legendären Level der Stufe 3!
-1826	Besiege Flügelschwein in einem. legendären Level der Stufe 3!
-1827	Besiege Shibalien-Elite in einem. legendären Level der Stufe 3!
-1828	Besiege Korporal Weyland in einem. legendären Level der Stufe 3!
-1829	Besiege Raumfisch Jones in einem. legendären Level der Stufe 3!
-1830	Besiege Projekt A in einem. legendären Level der Stufe 3!
-1831	Besiege General GreGorilla in einem. legendären Level der Stufe 3!
-1832	Besiege Sternenpeng in einem. legendären Level der Stufe 3!
-1833	Besiege Hacki in einem. legendären Level der Stufe 3!
-1834	Besiege UltraMähMäh in einem. legendären Level der Stufe 3!
-1835	Besiege Mecha Bun in einem. legendären Level der Stufe 3!
-1900	Besiege J.K. Bun Bun in einem. legendären Level der Stufe 4!
-1901	Besiege Ebär in einem. legendären Level der Stufe 4!
-1902	Besiege Lehrer Bun Bun in einem. legendären Level der Stufe 4!
-1903	Besiege Kory in einem. legendären Level der Stufe 4!
-1904	Besiege Regisseur Kurosawah in einem. legendären Level der Stufe 4!
-1905	Besiege Bun Bun Schwarz in einem. legendären Level der Stufe 4!
-1906	Besiege V. Strauß in einem. legendären Level der Stufe 4!
-1907	Besiege Ururun-Wolf in einem. legendären Level der Stufe 4!
-1908	Besiege Wallhund in einem. legendären Level der Stufe 4!
-1909	Besiege Engelhafter Sleipnir in einem. legendären Level der Stufe 4!
-1910	Besiege Eisenhund in einem. legendären Level der Stufe 4!
-1911	Besiege Kleiner Nyandam in einem. legendären Level der Stufe 4!
-1912	Besiege Berserkory in einem. legendären Level der Stufe 4!
-1913	Besiege Mr. Maulwurf in einem. legendären Level der Stufe 4!
-1914	Besiege Codename Rotkäppchen in einem. legendären Level der Stufe 4!
-1915	Besiege Tu Kahn in einem. legendären Level der Stufe 4!
-1916	Besiege Tacki in einem. legendären Level der Stufe 4!
-1917	Besiege Ebärphim in einem. legendären Level der Stufe 4!
-1918	Besiege Henry in einem. legendären Level der Stufe 4!
-1919	Besiege Kleiner Bun Bun in einem. legendären Level der Stufe 4!
-1920	Besiege Professor A. in einem. legendären Level der Stufe 4!
-1921	Besiege Klingenrücken in einem. legendären Level der Stufe 4!
-1922	Besiege Zund in einem. legendären Level der Stufe 4!
-1923	Besiege Zäng Ru in einem. legendären Level der Stufe 4!
-1924	Besiege Zory in einem. legendären Level der Stufe 4!
-1925	Besiege Sarg-Zund in einem. legendären Level der Stufe 4!
-1926	Besiege Inumusha in einem. legendären Level der Stufe 4!
-1927	Besiege Delfina in einem. legendären Level der Stufe 4!
-1928	Besiege Cala Maria in einem. legendären Level der Stufe 4!
-1929	Besiege Quakley in einem. legendären Level der Stufe 4!
-1930	Besiege Flügelschwein in einem. legendären Level der Stufe 4!
-1931	Besiege Shibalien-Elite in einem. legendären Level der Stufe 4!
-1932	Besiege Korporal Weyland in einem. legendären Level der Stufe 4!
-1933	Besiege Raumfisch Jones in einem. legendären Level der Stufe 4!
-1934	Besiege General GreGorilla in einem. legendären Level der Stufe 4!
-1935	Besiege Sternenpeng in einem. legendären Level der Stufe 4!
-2000	Besiege Das Gesicht in einem. legendären Level der Stufe 4!
-2001	Besiege Schüchtermann in einem. legendären Level der Stufe 4!
-2002	Besiege Klopper-Otter in einem. legendären Level der Stufe 4!
-2003	Besiege Camelle in einem. legendären Level der Stufe 4!
-2004	Besiege Ente in einem. legendären Level der Stufe 4!
-2005	Besiege Eulheul in einem. legendären Level der Stufe 4!
-2006	Besiege DAS FAULTIER in einem. legendären Level der Stufe 4!
-2007	Besiege Ren T. in einem. legendären Level der Stufe 4!
-2008	Besiege Promi-Pudel in einem. legendären Level der Stufe 4!
-2009	Besiege Finsterer Herrscher Nyandam in einem. legendären Level der Stufe 4!
-2010	Besiege Meister A. in einem. legendären Level der Stufe 4!
-2011	Besiege Scheruru in einem. legendären Level der Stufe 4!
-2012	Besiege H. Nee in einem. legendären Level der Stufe 4!
-2013	Besiege Dober P.D in einem. legendären Level der Stufe 4!
-2014	Besiege Eisernes Nilpferd in einem. legendären Level der Stufe 4!
-2015	Besiege St. Schwein II. in einem. legendären Level der Stufe 4!
-2016	Besiege Mondfisch Jones in einem. legendären Level der Stufe 4!
-2017	Besiege Taubitze in einem. legendären Level der Stufe 4!
-2018	Besiege Zlänge in einem. legendären Level der Stufe 4!
-2019	Besiege Zomboe in einem. legendären Level der Stufe 4!
-2020	Besiege Zwein in einem. legendären Level der Stufe 4!
-2021	Besiege Zackie Peng in einem. legendären Level der Stufe 4!
-2022	Besiege Prinzessin Promi-Pudel in einem. legendären Level der Stufe 4!
-2023	Besiege Zir Robbe in einem. legendären Level der Stufe 4!
-2024	Besiege Zroco in einem. legendären Level der Stufe 4!
-2025	Besiege Lord Grabi in einem. legendären Level der Stufe 4!
-2026	Besiege Dachshund in einem. legendären Level der Stufe 4!
-2027	Besiege Schwarzer Gorilla in einem. legendären Level der Stufe 4!
-2028	Besiege Le'Solar in einem. legendären Level der Stufe 4!
-2029	Besiege Projekt A in einem. legendären Level der Stufe 4!
-2030	Besiege Schattenboxer K in einem. legendären Level der Stufe 4!
-2031	Besiege Supereisernes Nilpferd in einem. legendären Level der Stufe 4!
-2032	Besiege Dunkler Otter in einem. legendären Level der Stufe 4!
-2033	Besiege Küken E in einem. legendären Level der Stufe 4!
-2034	Besiege Nimoy-Ebär in einem. legendären Level der Stufe 4!
-2035	Besiege Elizabeth LVI. in einem. legendären Level der Stufe 4!
+1000	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
+1001	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
+1002	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
+1003	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
+1004	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
+1005	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
+1006	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
+1007	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
+1008	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
+1009	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
+1010	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
+1011	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
+1012	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
+1013	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
+1014	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
+1100	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
+1101	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
+1102	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
+1103	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
+1104	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
+1105	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
+1106	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
+1107	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
+1108	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
+1109	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
+1110	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
+1111	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
+1112	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
+1113	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
+1114	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
+1200	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1201	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1202	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1203	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1204	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1205	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1206	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1207	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1208	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1209	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1210	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1211	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1212	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1213	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1214	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1215	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1216	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1217	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1218	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1219	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1220	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1221	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1222	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1223	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1224	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1225	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1226	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1227	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1228	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1229	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
+1300	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1301	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1302	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1303	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1304	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1305	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1306	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1307	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1308	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1309	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1310	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1311	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1312	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1313	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1314	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1315	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1316	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1317	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1318	Besiege Hund in einem. legendären Level der Stufe 1!
+1319	Besiege Hund in einem. legendären Level der Stufe 1!
+1320	Besiege Hund in einem. legendären Level der Stufe 1!
+1321	Besiege Hund in einem. legendären Level der Stufe 1!
+1322	Besiege Hund in einem. legendären Level der Stufe 1!
+1323	Besiege Hund in einem. legendären Level der Stufe 1!
+1324	Besiege Hund in einem. legendären Level der Stufe 1!
+1325	Besiege Hund in einem. legendären Level der Stufe 1!
+1326	Besiege Hund in einem. legendären Level der Stufe 1!
+1327	Besiege Hund in einem. legendären Level der Stufe 1!
+1328	Besiege Hund in einem. legendären Level der Stufe 1!
+1329	Besiege Hund in einem. legendären Level der Stufe 1!
+1330	Besiege Hund in einem. legendären Level der Stufe 1!
+1331	Besiege Hund in einem. legendären Level der Stufe 1!
+1332	Besiege Hund in einem. legendären Level der Stufe 1!
+1333	Besiege Hund in einem. legendären Level der Stufe 1!
+1334	Besiege Hund in Blutrote Katastrophe. (1x in einem beliebigen Level von Blutrote Katastrophe)
+1335	Besiege Hund in Himmel der Dunkelheit. (1x in einem beliebigen Level von Himmel der Dunkelheit)
+1400	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1401	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1402	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1403	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1404	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1405	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1406	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1407	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1408	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1409	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1410	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1411	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1412	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1413	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1414	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1415	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1416	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1417	Besiege Hund in einem. legendären Level der Stufe 1!
+1418	Besiege Hund in einem. legendären Level der Stufe 1!
+1419	Besiege Hund in einem. legendären Level der Stufe 1!
+1420	Besiege Hund in einem. legendären Level der Stufe 1!
+1421	Besiege Hund in einem. legendären Level der Stufe 1!
+1422	Besiege Hund in einem. legendären Level der Stufe 1!
+1423	Besiege Hund in einem. legendären Level der Stufe 1!
+1424	Besiege Hund in einem. legendären Level der Stufe 1!
+1425	Besiege Hund in einem. legendären Level der Stufe 1!
+1426	Besiege Hund in einem. legendären Level der Stufe 1!
+1427	Besiege Hund in einem. legendären Level der Stufe 1!
+1428	Besiege Hund in einem. legendären Level der Stufe 1!
+1429	Besiege Hund in einem. legendären Level der Stufe 1!
+1430	Besiege Hund in einem. legendären Level der Stufe 1!
+1431	Besiege Hund in einem. legendären Level der Stufe 1!
+1432	Besiege Hund in einem. legendären Level der Stufe 1!
+1433	Besiege Hund in einem. legendären Level der Stufe 1!
+1434	Besiege Hund in Unvergleichlich. (1x in einem beliebigen Level von Unvergleichlich)
+1435	Besiege Hund in Zorn des Himmels. (1x in einem beliebigen Level von Zorn des Himmels)
+1500	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1501	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1502	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1503	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1504	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1505	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1506	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1507	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1508	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1509	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1510	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1511	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1512	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1513	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1514	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1515	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1516	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1517	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1518	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1519	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1520	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1521	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1522	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1523	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1524	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1525	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1526	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1527	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1528	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1529	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1530	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1531	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1532	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1533	Besiege Schlänge in einem. legendären Level der Stufe 2!
+1534	Besiege Hund in Süße Ironie. (1x in einem beliebigen Level von Süße Ironie)
+1535	Besiege Hund in Dimension der Verzweiflung. (1x in einem beliebigen Lvl. von Dimension d. Verzweiflung)
+1600	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1601	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1602	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1603	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1604	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1605	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1606	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1607	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1608	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1609	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1610	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1611	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1612	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1613	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1614	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1615	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1616	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1617	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1618	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1619	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1620	Besiege Hund in einem. legendären Level der Stufe 1!
+1621	Besiege Hund in einem. legendären Level der Stufe 1!
+1622	Besiege Hund in einem. legendären Level der Stufe 1!
+1623	Besiege Hund in einem. legendären Level der Stufe 1!
+1624	Besiege Hund in einem. legendären Level der Stufe 1!
+1625	Besiege Hund in einem. legendären Level der Stufe 1!
+1626	Besiege Hund in einem. legendären Level der Stufe 1!
+1627	Besiege Hund in einem. legendären Level der Stufe 1!
+1628	Besiege Hund in einem. legendären Level der Stufe 1!
+1629	Besiege Hund in einem. legendären Level der Stufe 1!
+1630	Besiege Hund in einem. legendären Level der Stufe 1!
+1631	Besiege Hund in einem. legendären Level der Stufe 1!
+1632	Besiege Hund in einem. legendären Level der Stufe 1!
+1633	Besiege Hund in einem. legendären Level der Stufe 1!
+1634	Besiege Hund in Morgenrot. (1x in einem beliebigen Level von Morgenrot)
+1635	Besiege Hund in Wandelnde Tote. (1x in einem beliebigen Level von Wandelnde Tote)
+1700	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1701	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1702	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1703	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1704	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1705	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1706	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1707	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1708	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1709	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1710	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1711	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1712	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1713	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1714	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1715	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1716	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1717	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1718	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1719	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1720	Besiege Hund in einem. legendären Level der Stufe 1!
+1721	Besiege Hund in einem. legendären Level der Stufe 1!
+1722	Besiege Hund in einem. legendären Level der Stufe 1!
+1723	Besiege Hund in einem. legendären Level der Stufe 1!
+1724	Besiege Hund in einem. legendären Level der Stufe 1!
+1725	Besiege Hund in einem. legendären Level der Stufe 1!
+1726	Besiege Hund in einem. legendären Level der Stufe 1!
+1727	Besiege Hund in einem. legendären Level der Stufe 1!
+1728	Besiege Hund in einem. legendären Level der Stufe 1!
+1729	Besiege Hund in einem. legendären Level der Stufe 1!
+1730	Besiege Hund in einem. legendären Level der Stufe 1!
+1731	Besiege Hund in einem. legendären Level der Stufe 1!
+1732	Besiege Hund in einem. legendären Level der Stufe 1!
+1733	Besiege Hund in einem. legendären Level der Stufe 1!
+1734	Besiege Hund in einem. legendären Level der Stufe 1!
+1735	Besiege Hund in Die 2. Dimension. (1x in einem beliebigen Level von Die 2. Dimension)
+1800	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1801	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1802	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1803	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1804	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1805	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1806	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1807	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1808	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1809	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1810	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1811	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1812	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1813	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1814	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1815	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1816	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1817	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1818	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1819	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1820	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1821	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1822	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1823	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1824	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1825	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1826	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1827	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1828	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1829	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1830	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1831	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1832	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1833	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1834	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1835	Besiege Die Anderen in einem. legendären Level der Stufe 3!
+1900	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1901	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1902	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1903	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1904	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1905	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1906	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1907	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1908	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1909	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1910	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1911	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1912	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1913	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1914	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1915	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1916	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1917	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1918	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1919	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1920	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1921	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1922	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1923	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1924	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1925	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1926	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1927	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1928	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1929	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1930	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1931	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1932	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1933	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1934	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+1935	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2000	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2001	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2002	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2003	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2004	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2005	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2006	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2007	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2008	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2009	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2010	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2011	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2012	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2013	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2014	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2015	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2016	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2017	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2018	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2019	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2020	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2021	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2022	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2023	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2024	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2025	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2026	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2027	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2028	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2029	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2030	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2031	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2032	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2033	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2034	Besiege Nilpferd in einem. legendären Level der Stufe 4!
+2035	Besiege Nilpferd in einem. legendären Level der Stufe 4!
 9205	Upgrade Akuma Giraffe to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9206	Upgrade Ryu Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
 9207	Upgrade Chun-Li Cat to Level 10! (You must evolve the Cat before the Street Fighter V collab ends!)
-9208	Clear "7 Years of Fun!!" stages 7 times!
+9208	Clear "7 Years of Fun!!" stages 9 times!
 9209	Score 7777 pts in "Lucky Number 7"! Find this Ranking Stage at the Catclaw Dojo!
 9211	Limit. Fest-Invasionsmissionen:. Schließe „Blauer Schlag“ ab!
-9212	Schließe alle 7 limit. Fest-Invasionsmissionen ab!
+9212	Schließe alle 0 limit. Fest-Invasionsmissionen ab!
 9213	Upgrade Miku Cat to Level 10! (You must evolve the Cat before the Hatsune Miku collab ends!)
-9214	Clear "MIKU EXPO" 5 times!
-9215	Clear "MIKU EXPO" 10 times!
-9216	Clear "MIKU EXPO" 20 times!
-9221	Complete 5 Gamatoto Expeditions during
+9214	Clear "MIKU EXPO" 9 times!
+9215	Clear "MIKU EXPO" 9 times!
+9216	Clear "MIKU EXPO" 9 times!
+9221	Complete 17 Gamatoto Expeditions during
 9222	Schließe die 50. Ebene des Himmlischen Turms ab. *Belohnungen können nur einmal abgeholt werden
 9223	Upgrade Heavenly Jack to Level 10! (You must evolve the Cat before the Bikkuriman collab ends!)
 9224	Schließe beliebige Level von „8 Jahre Spaß!“ ab!
 9225	Erreiche 8888 Punkte in „8 sind nicht genug“. Dieses Ranglistenlevel gibt es im Katzenkrallendojo!
 9226	Upgrade Ranma Cat (M) to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
 9227	Upgrade Panda Cat to Level 10! (You must evolve the Cat before the Ranma 1/2 collab ends!)
-9228	Clear "The Cursed Springs" 5 times!
-9229	Clear "The Cursed Springs" 10 times!
-9230	Clear "The Cursed Springs" 20 times!
+9228	Clear "The Cursed Springs" 9 times!
+9229	Clear "The Cursed Springs" 9 times!
+9230	Clear "The Cursed Springs" 9 times!
 30	Sammle alle ausgezeichneten Schätze aus. Katzenimperium Kapitel 1
 31	Sammle alle ausgezeichneten Schätze. aus Katzenimperium Kapitel 2
 32	Sammle alle ausgezeichneten Schätze. aus Katzenimperium Kapitel 3
@@ -606,16 +606,16 @@
 9233	Limit. Fest-Invasionsmissionen: Schließe „König Wahwahs. Rache“ 1-mal mit 9 normalen Katzen ab
 9234	Limit. Fest-Invasionsmissionen: Schließe „Blauer Schlag“. 1-mal nur mit zweiten Formen ab
 9235	Limit. Fest-Invasionsmissionen: Schließe „Tiefschlaf“. 1-mal nur mit unentwickelten ersten Formen ab
-9236	Schließe alle 5 limit. Fest-Invasionsmissionen ab!
+9236	Schließe alle 0 limit. Fest-Invasionsmissionen ab!
 9237	【Invasion】Schließe „Engel & Teufel“ ab! Du musst auch das zugehörige Sonderlevel abschließen
 9238	【Invasion】Schließe „Königin & Tote“ ab! Du musst auch das zugehörige Sonderlevel abschließen
 9239	【Invasion】Schließe „König & Jungfrau“ ab! Du musst auch das zugehörige Sonderlevel abschließen
-9240	Sommerhausaufgaben ①: Wähle ein Aufsatzthema! Schließe. 5 Sommerferienkatzen-Level ab
-9241	Sommerhausaufgaben ②: Wähle ein 2. Aufsatzthema! Schließe. 10 Sommerferienkatzen-Level ab
-9242	Sommerhausaufgaben ①: Finde ein gutes Aufsatzthema. Schließe 20 Sommerferienkatzen-Level ab
-9243	Sommerhausaufgaben ④: Schreibe deinen Aufsatz! Schließe. "Schäbiges Versteck" 5-mal ab
-9244	Sommerhausaufgaben ⑤: Schreibe deinen Aufsatz stilvoll um! Schließe "Stilvolles Versteck" 5-mal ab
-9245	Sommerhausaufgaben ⑥: Schreibe den Aufsatz perfekt um! Schließe "Perfektes Versteck" 5-mal ab
+9240	Sommerhausaufgaben ①: Wähle ein Aufsatzthema! Schließe. 9 Sommerferienkatzen-Level ab
+9241	Sommerhausaufgaben ②: Wähle ein 2. Aufsatzthema! Schließe. 9 Sommerferienkatzen-Level ab
+9242	Sommerhausaufgaben ①: Finde ein gutes Aufsatzthema. Schließe 9 Sommerferienkatzen-Level ab
+9243	Sommerhausaufgaben ④: Schreibe deinen Aufsatz! Schließe. "Schäbiges Versteck" 9-mal ab
+9244	Sommerhausaufgaben ⑤: Schreibe deinen Aufsatz stilvoll um! Schließe "Stilvolles Versteck" 9-mal ab
+9245	Sommerhausaufgaben ⑥: Schreibe den Aufsatz perfekt um! Schließe "Perfektes Versteck" 9-mal ab
 9246	Fleißarbeit ①: Fange Insekten! Verbessere Kabutokatze auf Stufe 10
 9247	Fleißarbeit ②: Fange Insekten! Verbessere Kuwagatakatze auf Stufe 10
 9248	Fleißarbeit ③: Beobachte Insekten! Verbessere Kabutokatze auf Stufe 20
@@ -624,32 +624,32 @@
 9251	Extra-Fleißarbeit ②: Weitere Beobachtungen! Schließe "Sommertagebuch" Stufe 2 mit der Kuwagatakatze ab
 9252	Extra-Fleißarbeit ③: Weitere Beobachtungen! Schließe "Sommertagebuch" Stufe 4 mit der Kabutokatze ab
 9253	Extra-Fleißarbeit ④: Weitere Beobachtungen! Schließe "Sommertagebuch" Stufe 6 mit der Kuwagatakatze ab
-9254	Sommerschule ①: Literatur! Schließe . 5 "Sommerlektionen"-Level ab
-9255	Sommerschule ②: Mathematik! Schließe. 10 "Sommerlektionen"-Level ab
-9256	Sommerschule ③: Sozialkunde! Schließe. 15 "Sommerlektionen"-Level ab
-9257	Sommerschule ④: Schulversammlung! Schließe. 20 "Sommerlektionen"-Level ab
+9254	Sommerschule ①: Literatur! Schließe . 9 "Sommerlektionen"-Level ab
+9255	Sommerschule ②: Mathematik! Schließe. 9 "Sommerlektionen"-Level ab
+9256	Sommerschule ③: Sozialkunde! Schließe. 9 "Sommerlektionen"-Level ab
+9257	Sommerschule ④: Schulversammlung! Schließe. 9 "Sommerlektionen"-Level ab
 9258	Mega-Fleißarbeit ①: Meeresbiologie! Schließe. "Survive! Mola Mola!" Stufe 1 mit der Kabutokatze ab
 9259	Mega-Fleißarbeit ②: Meeresbiologie! Schließe. "Survive! Mola Mola!" Stufe 3 mit der Kuwagatakatze ab
-9260	Mega-Fleißarbeit ③: Mehr Meeresbiologie! Schließe "300. Million Dead Molas" 3-mal mit Kabutokatze ab
-9261	Mega-Fleißarbeit ④: Mehr Meeresbiologie! Schließe "300. Million Dead Molas" 5-mal mit Kuwagatakatze ab
+9260	Mega-Fleißarbeit ③: Mehr Meeresbiologie! Schließe "300. Million Dead Molas" 1-mal mit Kabutokatze ab
+9261	Mega-Fleißarbeit ④: Mehr Meeresbiologie! Schließe "300. Million Dead Molas" 1-mal mit Kuwagatakatze ab
 39	Forschung der Kaiserin 1: Ketzerische Zauberbücher durch. Abschluss von „Arkane Konfluenz“ und „Gemeine Katze“!
 40	Forschung der Kaiserin 2: Agenten der Aku durch. Abschluss von „Diener der Dunkelheit“ und „Gemeiner Panzer“
-9262	Clear "River City Ball-Rolling" 5 times!
-9263	Clear "River City Ball-Rolling" 10 times!
-9264	Clear "River City Challenge Course" 5 times!
+9262	Clear "River City Ball-Rolling" 9 times!
+9263	Clear "River City Ball-Rolling" 9 times!
+9264	Clear "River City Challenge Course" 9 times!
 9265	Clear stages from "River City Challenge Course"
-9266	Defeat Jackie Peng at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
-9267	Defeat Finsterhund at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
-9268	Clear all 6 River City Cat Clash Limited  Missions!missionen ab!
+9266	Defeat Hund at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9267	Defeat Hund at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
+9268	Clear all 0 River City Cat Clash Limited  Missions!missionen ab!
 9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
 9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!
 9271	Defeat the Box Witch! Find this Witch at the "Witch's Labyrinth: Box Witch" map!
 9272	Defeat the Nutcracker Witch! Find this Witch at the "Witch's Labyrinth: Nutcracker Witch" map!
-9273	Defeat all Witches!  Complete all 4 Witch missions!
+9273	Defeat all Witches!  Complete all 0 Witch missions!
 9274	Upgrade Li'l Madoka to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
 9275	Upgrade Kyubey Cat to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
 41	Forschung der Kaiserin 3: Kosten der Zauberei. Schließe „Park der Dämonen“ und „Die böse Axt“ ab
-42	Meistere alle 3 Missionen für „Forschung der Kaiserin“ 1-3!
+42	Meistere alle 0 Missionen für „Forschung der Kaiserin“ 1-3!
 43	Ruf zu den Waffen: Befreie die verdorbenen Katzen! Meistere „Die Katzen entfesseln“ (Die Tore gehen auf ...)
 44	Schließe „Das Reich der Aku“ ab! Meistere die Mission,. indem du alle Level in „Das Reich der Aku“ abschließt
 45	Schließe „Das Reich der Aku“ ab! Meistere die Mission,. indem du alle Level in „Das Reich der Aku“ abschließt
@@ -674,14 +674,14 @@
 9303	[F5. „Glückssache“-Quiz] Verschenke Glück nach Levelabschluss
 46	Mission zum 9. Jubiläum. Schließe während dieses Events „Katzenimperium Kap. 1“ ab!
 9305	Schließe Ebene 30 des Höllischen Turms ab. * Belohnung kann nur ein Mal eingefordert werden
-47	Bericht der Kaiserin: Aku-Forschung. Schließe jedes „Bericht der Kaiserin“-Level jeweils 5 Mal ab
+47	Bericht der Kaiserin: Aku-Forschung. Schließe jedes „Bericht der Kaiserin“-Level jeweils 9 Mal ab
 9321	【Invasion】Schließe „Aufsteigender. Clionel“ 1-mal mit min. 7 Sonderkatzen ab
 9322	【Invasion】Schließe „Krönung. der Königin“ 1-mal mit min. 7 Normalen Katzen ab
 9323	【Invasion】Schließe „Tot & rund“ ab! Du musst auch das zugehörige Sonderlevel abschließen
 9324	【Invasion】Schließe „Königin & Jungfrau“ ab! Du musst auch das zugehörige Sonderlevel abschließen
 9325	【Invasion】Schließe „König & Engel“ ab! Du musst auch das zugehörige Sonderlevel abschließen
-48	Schließe 5 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
-49	Schließe 10 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+48	Schließe 9 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+49	Schließe 9 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
 9326	Zyklonfest-Missionen. Schließe das Level „Blutrote Katastrophe“ ab!
 9327	Zyklonfest-Missionen. Schließe das Level „Himmel der Dunkelheit“ ab!
 9328	Zyklonfest-Missionen. Schließe das Level „Unvergleichlich“ ab!
@@ -705,12 +705,12 @@
 9346	Schließ 1 Level von „Vern. Stadt“ mit Takuya & Yuki ab. Alle Level von „Vern. Stadt“ zählen für die Mission
 9347	Schließ 1 Level von „Vern. Stadt“ mit Roth. Yuki-Katze ab. Alle Level von „Vern. Stadt“ zählen für die Mission
 9348	Schließ 1 Level von „Vern. Stadt“ mit Kano & Souma ab. Alle Level von „Vern. Stadt“ zählen für die Mission
-9349	Clear 5  Shoumetsu Toshi collab stages
-9350	Clear 15  Shoumetsu Toshi collab stages
-9351	Clear 30  Shoumetsu Toshi collab stages
-9352	Complete 5 Gamatoto expeditions! Send Gamatoto to any
-50	Schließe 15 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
-51	Schließe 20 aller Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+9349	Clear 9  Shoumetsu Toshi collab stages
+9350	Clear 9  Shoumetsu Toshi collab stages
+9351	Clear 9  Shoumetsu Toshi collab stages
+9352	Complete 17 Gamatoto expeditions! Send Gamatoto to any
+50	Schließe 9 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+51	Schließe 9 aller Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
 9353	Verdiene ein Uraltes Ei: N201 aus den. „Juni-Braut des Teufels“-Kapseln!
 9354	Schließe beliebige Level von „#01 Die Geisterkapelle“
 9355	Schließe beliebige Level von „#01 Die Geisterkapelle“
@@ -731,11 +731,11 @@
 9370	Sommerhausaufgaben Teil 1 ⑦: Erforsche Insekten. Erhalte 5 Kabutokatzen aus dem Event-Gacha!
 9371	Sommerhausaufgaben Teil 1 ⑧: Erforsche Insekten. Erhalte 5 Kuwagatakatzen aus dem Event-Gacha!
 9372	Sommerhausaufgaben Teil 1 ⑨: Erforsche Insekten. Erhalte 5 Uralte Eier: N202 aus dem Event-Gacha!
-9373	Clear 15  "Ranma 1/2" collab stages
-9374	Clear 30  "Ranma 1/2" collab stages
-9375	Clear 50  "Ranma 1/2" collab stages
-52	Schließe 25 aller Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
-53	Schließe 30 aller Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+9373	Clear 9  "Ranma 1/2" collab stages
+9374	Clear 9  "Ranma 1/2" collab stages
+9375	Clear 9  "Ranma 1/2" collab stages
+52	Schließe 9 aller Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+53	Schließe 9 aller Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
 9376	Clear stages from "Merc Storia Collab"
 9377	Clear stages from "Merc Storia Collab"
 9378	Clear stages from "Merc Storia Collab"
@@ -753,10 +753,10 @@
 9389	[Teil 1: 10 Jahre Erinnerungen] 2. Sammle eine Jubiläumseinheit! Tipp: Katze, die bei Events Glück hat
 9391	[Teil 1: 10 Jahre Erinnerungen] 4. Sammle eine Jubiläumseinheit! Tipp: Wertvolle Katze der 9. Jubiläumsfeier
 9392	[Teil 1: 10 Jahre Erinnerungen] 5. Sammle eine Jubiläumseinheit! Tipp: Ein Meditierender vom 10. Jubiläum
-9394	[Teil 1: 10 Jahre Erinnerungen] Schließe „10 Jahre Erinnerungen“-Lvl 5-mal ab!
-9395	[Teil 1: 10 Jahre Erinnerungen] Schließe „10 Jahre Erinnerungen“-Lvl 15-mal ab!
-9396	[Teil 1: 10 Jahre Erinnerungen] Schließe „10 Jahre Erinnerungen“-Lvl 30-mal ab!
-9397	[Teil 2: Feindliche Manöver] Schließe die „Feindliche Manöver“-Level 5-mal ab!
+9394	[Teil 1: 10 Jahre Erinnerungen] Schließe „10 Jahre Erinnerungen“-Lvl 9-mal ab!
+9395	[Teil 1: 10 Jahre Erinnerungen] Schließe „10 Jahre Erinnerungen“-Lvl 9-mal ab!
+9396	[Teil 1: 10 Jahre Erinnerungen] Schließe „10 Jahre Erinnerungen“-Lvl 9-mal ab!
+9397	[Teil 2: Feindliche Manöver] Schließe die „Feindliche Manöver“-Level 9-mal ab!
 9398	[Teil 3: Katzenklatsch] Sprich an 4 Tagen. mit der Katze in der Katzenbasis. über die Geschichte der Battle Cats!
 9399	[Teil 4: Katzenjagd] 1. Finde die Katze in Katzenimperium! Tipp: Hauptstadtname ist längster der Welt
 9400	[Teil 4: Katzenjagd] 2. Finde die versteckte Katze in. Katzenimperium! Tipp: Eine große wolkenlose Wüste
@@ -764,28 +764,28 @@
 9402	[Teil 4: Katzenjagd] 4. Finde die Katze in Katzenimperium! Tipp: Von hier wurde die Mondlandung gelenkt
 9403	[Teil 4: Katzenjagd] 5. Finde die versteckte Katze in. Katzenimperium! Tipp: Längste Lebenserwartung in den USA
 9404	[Teil 4: Katzenjagd] Bereise die Welt. und finde alle versteckten Katzen!
-9405	[Teil 5: Musikparade] Schließe „Musikparade“-Level 8-mal ab! Schließe „Musikparade“-Level ab
+9405	[Teil 5: Musikparade] Schließe „Musikparade“-Level 9-mal ab! Schließe „Musikparade“-Level ab
 55	10.-Jubiläum-Mission. Schließe während des Events Katzenimperium Kapitel 1 ab
-9407	Schließe 5-mal „Mond-Neujahr“-Level ab!
-9408	Schließe 10-mal „Mond-Neujahr“-Level ab!
-9409	Schließe 15-mal „Mond-Neujahr“-Level ab!
-9410	Schließe 20-mal „Mond-Neujahr“-Level ab!
-9411	Schließe 30-mal „Mond-Neujahr“-Level ab!
-56	Schließe 35 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in "Über Herausforderungen"
-9412	Clear 10 Fate/stay night [HF] collab stages
-9413	Clear 30 Fate/stay night [HF] collab stages
-9414	Clear 50 Fate/stay night [HF] collab stages
-9415	【80 Mio. DL】 Schicke Gamatoto auf 1 erfolgr. Expeditionen!
-9416	【80 Mio. DL】 Schicke Gamatoto auf 5 erfolg. Expeditionen!
-9417	【80 Mio. DL】Schließ 1x Fröhl. Geschenk für 80 Mio. DLs ab!
-9418	【80 Mio. DL】Schließ 2x Fröhl. Geschenk für 80 Mio. DLs ab!
-9419	【80 Mio. DL】Schließ 3x Fröhl. Geschenk für 80 Mio. DLs ab!
-9420	【80 Mio. DL】Schließ 1x Level von "Monatl. Event-Stars" ab!
-9421	【80 Mio. DL】Schließ 3x Level von "Monatl. Event-Stars" ab!
-9422	【80 Mio. DL】Schließ 5x Level von "Monatl. Event-Stars" ab!
+9407	Schließe 9-mal „Mond-Neujahr“-Level ab!
+9408	Schließe 9-mal „Mond-Neujahr“-Level ab!
+9409	Schließe 9-mal „Mond-Neujahr“-Level ab!
+9410	Schließe 9-mal „Mond-Neujahr“-Level ab!
+9411	Schließe 9-mal „Mond-Neujahr“-Level ab!
+56	Schließe 9 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in "Über Herausforderungen"
+9412	Clear 9 Fate/stay night [HF] collab stages
+9413	Clear 9 Fate/stay night [HF] collab stages
+9414	Clear 9 Fate/stay night [HF] collab stages
+9415	【80 Mio. DL】 Schicke Gamatoto auf 17 erfolgr. Expeditionen!
+9416	【80 Mio. DL】 Schicke Gamatoto auf 17 erfolg. Expeditionen!
+9417	【80 Mio. DL】Schließ 9x Fröhl. Geschenk für 80 Mio. DLs ab!
+9418	【80 Mio. DL】Schließ 9x Fröhl. Geschenk für 80 Mio. DLs ab!
+9419	【80 Mio. DL】Schließ 9x Fröhl. Geschenk für 80 Mio. DLs ab!
+9420	【80 Mio. DL】Schließ 9x Level von "Monatl. Event-Stars" ab!
+9421	【80 Mio. DL】Schließ 9x Level von "Monatl. Event-Stars" ab!
+9422	【80 Mio. DL】Schließ 9x Level von "Monatl. Event-Stars" ab!
 9423	【80 Mio. DL】Schließe alle Eventmissionen ab. und verdiene 1 Platinsplitter!
-57	Schließe 40 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
-58	Schließe 45 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+57	Schließe 9 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+58	Schließe 9 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
 59	Schließe alle „Unh. Legenden“-Level der Stufe 2 ab,. um diese Mission abzuschließen
 9424	Zyklonfest-Missionen. Schließe das Level „Der große Diablo“ ab!
 9425	Verdiene ein Uraltes Ei: N203 aus den. „Juni-Braut des Teufels“-Kapseln!
@@ -797,44 +797,44 @@
 9431	Verdiene einen Behemoth-Stein, indem du die Punkte-. vorgabe bei #02 Die Hochzeit der Angst, Levels 1–5 erfüllst!
 9432	[F1. Was ist in der Schachtel?] Verdiene alle
 9433	[Ultra-Quiz] Schließe Missionen F1-5 ab und hol dir deinen. Preis im Wert von 1 Million (laut des Katzencomputers)!
-60	Schließe 50 Behemothjagd-Level zum ersten Mal ab!
-61	Schließe 55 Behemothjagd-Level zum ersten Mal ab!
-9434	Clear Princess Punt Sweets collab stages 10 times!
-9435	Clear Princess Punt Sweets collab stages 25 times!
-9436	Clear Princess Punt Sweets collab stages 50 times!
+60	Schließe 9 Behemothjagd-Level zum ersten Mal ab!
+61	Schließe 9 Behemothjagd-Level zum ersten Mal ab!
+9434	Clear Princess Punt Sweets collab stages 9 times!
+9435	Clear Princess Punt Sweets collab stages 9 times!
+9436	Clear Princess Punt Sweets collab stages 9 times!
 62	Schließe alle „Unh. Legenden“-Level der Stufe 3 ab,. um diese Mission abzuschließen
-63	Schließe alle 60 Behemothjagd-Level ab!
-9440	Clear Hatsune Miku collab stages 10 times!
-9441	Clear Hatsune Miku collab stages 30 times!
-9442	Clear Hatsune Miku collab stages 50 times!
+63	Schließe alle 9 Behemothjagd-Level ab!
+9440	Clear Hatsune Miku collab stages 9 times!
+9441	Clear Hatsune Miku collab stages 9 times!
+9442	Clear Hatsune Miku collab stages 9 times!
 9467	Schließe die 50. Ebene des Himmlischen Turms ab. (Diese Belohnung kann nur einmal abgeholt werden.)
 9468	Clear stages from "Metal Slug Collab"
 9469	Clear stages from "Metal Slug Collab"
 9470	Clear stages from "Metal Slug Collab"
 9471	(90 Mio. DL) Schließe alle Eventmissionen ab. und verdiene 1 Platinsplitter!
-9472	(90 Mio. DL) Schicke Gamatoto auf 1 erfolgr. Expedition!
-9473	(90 Mio. DL) Schicke Gamatoto auf 3 erfolgr. Expeditionen!
-9474	(90 Mio. DL) Schicke Gamatoto auf 5 erfolgr. Expeditionen!
-9475	(90 Mio. DL) Schließe 1x Fröhl. Geschenk f. 90 Mio. DLs ab!
-9476	(90 Mio. DL) Schließe 2x Fröhl. Geschenk f. 90 Mio. DLs ab!
-9477	(90 Mio. DL) Schließe 3x Fröhl. Geschenk f. 90 Mio. DLs ab!
-9478	(90 Mio. DL) Schließe 5 Level von The Battle Cats ab
-9479	(90 Mio. DL) Schließe 10 Level von The Battle Cats ab
-9483	Clear Tower of Saviors collab stages 5 times!
-9484	Clear Tower of Saviors collab stages 10 times!
-9485	Clear Tower of Saviors collab stages 20 times!
+9472	(90 Mio. DL) Schicke Gamatoto auf 17 erfolgr. Expedition!
+9473	(90 Mio. DL) Schicke Gamatoto auf 17 erfolgr. Expeditionen!
+9474	(90 Mio. DL) Schicke Gamatoto auf 17 erfolgr. Expeditionen!
+9475	(90 Mio. DL) Schließe 9x Fröhl. Geschenk f. 90 Mio. DLs ab!
+9476	(90 Mio. DL) Schließe 9x Fröhl. Geschenk f. 90 Mio. DLs ab!
+9477	(90 Mio. DL) Schließe 9x Fröhl. Geschenk f. 90 Mio. DLs ab!
+9478	(90 Mio. DL) Schließe 9 Level von The Battle Cats ab
+9479	(90 Mio. DL) Schließe 9 Level von The Battle Cats ab
+9483	Clear Tower of Saviors collab stages 9 times!
+9484	Clear Tower of Saviors collab stages 9 times!
+9485	Clear Tower of Saviors collab stages 9 times!
 9486	(88,88M DL). Schließe das Level „Mysteriöses Paket“ ab!
 9487	(88,88M DL) Verbessere Müllkatze auf St. 10. Muss während des 88,88M-DL-Events geschehen
 9488	(88,88M DL) Verbessere Müllkatze auf St. 20. Während des 88,88M-DL-Events abschließen
-9489	Clear 10 Rurouni Kenshin collab stages
-9490	Clear 30 Rurouni Kenshin collab stages
-9491	Clear 50 Rurouni Kenshin collab stages
+9489	Clear 9 Rurouni Kenshin collab stages
+9490	Clear 9 Rurouni Kenshin collab stages
+9491	Clear 9 Rurouni Kenshin collab stages
 9492	Verdiene 1 Uraltes Ei: N205 aus den "Juni-Braut des Teufels"-Kapseln!
 9493	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 1 Level 3 ab
 9494	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 1 Level 5 ab
 9495	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 2 Level 3 ab
 9496	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 2 Level 5 ab
-9497	[Teil 1: 10 Jahre Erinnerungen] Sammle 4 Jubiläumseinheiten
+9497	[Teil 1: 10 Jahre Erinnerungen] Sammle 0 Jubiläumseinheiten
 9498	[10.-Jubiläum-Parade] Schließe alle Missionen von. Teil 1–5 ab und hol dir ein Legenden-Ticket
 9499	[Invasionslevel] Limitierte Eventmission. Schließe „Hof der Pein“ ab
 9500	[Invasionslevel] Limitierte Eventmission. Schließe „Erster Botengang“ ab
@@ -845,7 +845,7 @@
 9505	[Invasionslevel] Schließe „Die Schildkröte und das Baby“ ab. Schließe alle Level und EX-Level ab
 9506	[Invasionslevel] Schließe „Der Prinz und die Wiedergängerin“ ab. Schließe alle Level und EX-Level ab
 9507	[Invasionslevel] Schließe „Die Königin und der Heilige“ ab. Schließe alle Level und EX-Level ab
-9508	Sommerhausaufgaben ④: Schließe den perfekten Aufsatz ab. Schließe 30 Sommerferienkatzen-Level ab
+9508	Sommerhausaufgaben ④: Schließe den perfekten Aufsatz ab. Schließe 9 Sommerferienkatzen-Level ab
 9509	Sommerhausaufgaben Teil 2 ⑤: Insektenbeobachtung. Gewinne Sommernacht, auf dem Weg nach Hause Lv. 1 mit Kabutokatze
 9510	Sommerhausaufgaben Teil 2 ⑥: Insektenbeobachtung. Gewinne Sommernacht, auf dem Weg nach Hause Lv. 2 mit Kuwagatakatze
 9511	Sommerhausaufgaben Teil 2 ⑦: Insektenbeobachtung. Gewinne Sommernacht, auf dem Weg nach Hause Lv. 3 mit Uraltes Ei: N202
@@ -860,9 +860,14 @@
 9528	Schließe Level aus „Halloween-Event“
 9529	Verdiene einen Sondergegenstand aus. den Halloween-Party-Eventkapseln!
 9530	Schließe alle Halloween-Eventmissionen ab. und verdiene 1 seltenes Ticket!
-9531	[Anfängerkampagne] Schließe 4 Katzenimperium-Level ab
-9532	[Anfängerkampagne] Schließe 8 Katzenimperium-Level ab
-9533	[Anfängerkampagne] Schließe 12 Katzenimperium-Level ab
+9531	[Anfängerkampagne] Schließe 9 Katzenimperium-Level ab
+9532	[Anfängerkampagne] Schließe 9 Katzenimperium-Level ab
+9533	[Anfängerkampagne] Schließe 9 Katzenimperium-Level ab
 9534	[Anfängerkampagne] Schließe das Japan-Level in Katzenimperium ab. und verdiene ein seltenes Ticket für die seltenen Kapseln!
 9535	[Anfängerkampagne] Schließe das Japan-Level in Katzenimperium ab. und verdiene Führung, um Katzenenergie wiederherzustellen!
 66	Besiege die Lebensform im Uralten Waldlabyrinth. St.1 Level 6
+67	[Katzenkrall-Meisterschaften] Schließe 9 Level der Katzenkrall-Meisterschaften Rang 1 ab
+68	[Katzenkrall-Meisterschaften] Erhalte 4 legendäre Katzen. Mach Fortschritte
+69	[Katzenkrall-Meisterschaften] Erhalte 4 legendäre Katzen. Mach Fortschritte
+70	[Katzenkrall-Meisterschaften] Erhalte 4 legendäre Katzen. Mach Fortschritte
+71	[Katzenkrall-Meisterschaften] Erhalte 4 legendäre Katzen. Mach Fortschritte

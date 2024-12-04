@@ -644,6 +644,7 @@
 15664	Gatto maschera antigas
 15665	Gatto chirurgo
 15666	Gattorcista
+15669	Maestro Tengu Immortale
 15670	Gatto cactus
 15671	Gatto lucciola corazzato
 15675	Envanz extradimensionale
@@ -661,6 +662,7 @@
 15718	Gatto contadino
 15721	Gatto Orso perduto
 15725	Gatto capsula uovo
+15731	Gatto leo ballerino
 15758	Gatta sposa
 15766	Gatta vongola
 16131	Ururun risvegliata

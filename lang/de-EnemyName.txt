@@ -700,3 +700,12 @@
 699	Meister des Lebens Dr. Nova
 700	Idi:Ne
 701	Kantinenkatze
+702	Bannerman-Hund
+703	Kommandant Face
+704	Kommandant Nyandam
+705	Kommandant Hannya
+706	Kommandant Bun Bun
+707	Revolutionärer Nobunaga
+708	
+709	
+710	Schloss Katzenkrall
