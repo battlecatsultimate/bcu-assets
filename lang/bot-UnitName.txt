@@ -658,7 +658,7 @@
 657	Iz the Dancer of Grief	Iz the Lady of Mourning
 658	Ancient Egg: N101	Cinnabar Egg: N101	Courier Cat
 659	Ancient Egg: N102	Teal Egg: N102	Catarzan
-660	Sea Serpent Daliasan	Sea King Daliasan
+660	Sea Serpent Daliasan	Sea King Daliasan	God-Emperor Daliasan
 661	Chronos the Bride	Wedding Chronos
 662	Brainwashed Cow Cat	Brainwashed Giraffe Cat	Brainwashed Lion Cat
 663	Ancient Egg: N103	Black Egg: N103	Gas Mask Cat
@@ -776,3 +776,6 @@
 775	Axel Spirit			
 776	Apprentice Warrior Cat	Warlord Cat		
 777	Winter General Kaihime	Winter Commander Kaihime		
+778
+779	Young Angel Luna	Angel of Salvation Lunasha
+780	Bowler Cat	Dodgeballer Cat

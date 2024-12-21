@@ -86,6 +86,7 @@ E31	Summer Break Capsules
 E32	Summer Break Survival Capsules
 E33	Bikkuriman Chocolate Capsules
 E34	Halloween Party Capsules
+E35	New Moon Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -916,3 +917,20 @@ N65	Cats Eye Capsules
 938	-1016	44, 136, 196, 351
 939	-117	715, 358
 940	-108	777
+941	-11
+942	-1
+943	-2
+944	-3
+945	-4
+946	-5
+947	-6
+948	-7
+949	-8
+950	-9
+951	-10
+952	-105	778
+953	-104	778
+954	-107	778
+955	-1011	777,773,772
+956	-112	758, 778
+957	-1003

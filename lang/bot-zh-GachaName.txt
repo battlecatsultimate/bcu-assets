@@ -81,6 +81,7 @@ E31	貓咪的暑假
 E32	Summer Break Survival Capsules
 E33	聖魔大戰
 E34	Halloween Party Capsules
+E35	春節活動轉蛋
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -922,3 +923,20 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 938	-1016	44, 136, 196, 351
 939	-117	715, 358
 940	-108	777
+941	-11
+942	-1
+943	-2
+944	-3
+945	-4
+946	-5
+947	-6
+948	-7
+949	-8
+950	-9
+951	-10
+952	-105	778
+953	-104	778
+954	-107	778
+955	-1011	777,773,772
+956	-112	758, 778
+957	-1003
