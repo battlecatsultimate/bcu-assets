@@ -86,7 +86,7 @@ E31	Summer Break Capsules
 E32	Summer Break Survival Capsules
 E33	Bikkuriman Chocolate Capsules
 E34	Halloween Party Capsules
-E35	New Moon Capsules
+E36	New Moon Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules

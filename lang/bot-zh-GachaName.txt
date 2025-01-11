@@ -81,7 +81,7 @@ E31	貓咪的暑假
 E32	Summer Break Survival Capsules
 E33	聖魔大戰
 E34	Halloween Party Capsules
-E35	春節活動轉蛋
+E36	春節活動轉蛋
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
