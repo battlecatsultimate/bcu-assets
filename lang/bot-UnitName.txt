@@ -287,7 +287,7 @@
 286	Strike Unit R.E.I.	Assault Unit R.E.I.	Flight Unit R.E.I.
 287	Little Leaguer Cat	Major Leaguer Cat	Golfer Cat
 288	Madoka Kaname	Madoka & Cat	Ultimate Madoka
-289	Homura Akemi	Homura & Cat	Witch Homura
+289	Homura Akemi	Homura & Cat	Devil Homura
 290	Sayaka Miki	Sayaka & Cat
 291	Mami Tomoe	Mami & Cat
 292	Kyoko Sakura	Kyoko & Cat
