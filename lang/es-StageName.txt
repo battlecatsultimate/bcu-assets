@@ -3503,43 +3503,43 @@
 007-009-009	Último Piso
 
 011			Ranking Dojo Stages
-011-000		Arena of Honor
+011-000		Arena Honorífica
 011-000-000	Prueba Carmesí
-011-001		Arena of Honor
+011-001		Arena Honorífica
 011-001-000	Prueba Sombría
-011-002		Arena of Honor
+011-002		Arena Honorífica
 011-002-000	Prueba del Fénix
-011-003		Arena of Honor
+011-003		Arena Honorífica
 011-003-000	Plan Quinquenal
-011-004		Arena of Honor
+011-004		Arena Honorífica
 011-004-000	Weak of Spirit
-011-005		Arena of Honor
+011-005		Arena Honorífica
 011-005-000	¡6 Años de Fuerza!
-011-006		Arena of Honor
+011-006		Arena Honorífica
 011-006-000	Into the Fray: Servants Strike!
-011-007		Arena of Honor
+011-007		Arena Honorífica
 011-007-000	Aqua Paradiso
-011-008		Arena of Honor
+011-008		Arena Honorífica
 011-008-000	Princess Punt's Army
-011-010		Arena of Honor
+011-010		Arena Honorífica
 011-010-000	Ataque de los Shakurels
-011-011		Arena of Honor
+011-011		Arena Honorífica
 011-011-000	Consejo Vampírico
-011-012		Arena of Honor
+011-012		Arena Honorífica
 011-012-000	Baile Celestial
-011-013		Arena of Honor
+011-013		Arena Honorífica
 011-013-000	Zombis del Espacio
-011-014		Arena of Honor
+011-014		Arena Honorífica
 011-014-000	I Seek the Strongest
-011-015		Arena of Honor
+011-015		Arena Honorífica
 011-015-000	7, Número de la Suerte
-011-016		Arena of Honor
+011-016		Arena Honorífica
 011-016-000	MikuMiku Music Fest
-011-017		Arena of Honor
+011-017		Arena de Poder
 011-017-000	Torneo Emotivo
-011-018		Arena of Honor
+011-018		Arena Honorífica
 011-018-000	I Seek the Strongest
-011-019		Arena of Honor
+011-019		Arena Honorífica
 011-019-000	8 No Son Suficientes
 011-020		Historias Honoríficas
 011-020-000	Prueba Carmesí
@@ -3547,14 +3547,15 @@
 011-021-000	Prueba Sombría
 011-022		Historias Honoríficas
 011-022-000	Prueba del Fénix
-011-023		Arena of Honor
+011-023		Arena Honorífica
 011-023-000	Nueve de la suerte
-011-026		Arena of Honor
+011-026		Arena de Poder
 011-026-000	Calle Artillería
 011-027		Arena of Honor
 011-027-000	The Swords of Meiji
 011-028		Arena de Poder
 011-028-000	Oleadas de Ataque
+
 012			Challenge Mode
 012-000		Batalla de Desafío
 012-000-000	Mayor puntuación

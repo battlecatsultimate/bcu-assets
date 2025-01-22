@@ -286,8 +286,8 @@
 285
 286	Strike Unit R.E.I.	Assault Unit R.E.I.	Flight Unit R.E.I.
 287	Little Leaguer Cat	Major Leaguer Cat	Golfer Cat
-288	Madoka Kaname	Madoka & Cat
-289	Homura Akemi	Homura & Cat
+288	Madoka Kaname	Madoka & Cat	Ultimate Madoka
+289	Homura Akemi	Homura & Cat	Witch Homura
 290	Sayaka Miki	Sayaka & Cat
 291	Mami Tomoe	Mami & Cat
 292	Kyoko Sakura	Kyoko & Cat
@@ -438,7 +438,7 @@
 437	Cat God the Great	Cat God the Awesome	Cat God the Golden
 438	Waverider Kuu	Waverider Kuu, type γ
 439	Empress Chronos	Chronos the Infinite	Almighty Chronos
-440	Bebe	Nagisa & Cat
+440	Bebe	Nagisa & Cat	Messenger of Law of Cycles Nagisa
 441	D'arktanyan	Valiant D'arktanyan
 442	Lone Cat and Kitten	Vendor Cat and Kitten	Tourist Cat
 443	Driller Cat	Power Driller Cat	Neo Driller Cat
@@ -776,6 +776,6 @@
 775	Axel Spirit			
 776	Apprentice Warrior Cat	Warlord Cat		
 777	Winter General Kaihime	Winter Commander Kaihime		
-778
+778	Madoka & Homura Cat	Magic Association Cats☆Magica
 779	Young Angel Luna	Angel of Salvation Lunasha
 780	Bowler Cat	Dodgeballer Cat

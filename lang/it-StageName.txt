@@ -3505,43 +3505,43 @@
 007-009-009	Ultimo piano
 
 011			Ranking Dojo Stages
-011-000		Arena of Honor
+011-000		Arena dell'onore
 011-000-000	Prova cremisi
-011-001		Arena of Honor
+011-001		Arena dell'onore
 011-001-000	Prova dell'ombra
-011-002		Arena of Honor
+011-002		Arena dell'onore
 011-002-000	Prova della fenice
-011-003		Arena of Honor
+011-003		Arena dell'onore
 011-003-000	Piano quinquennale
-011-004		Arena of Honor
+011-004		Arena dell'onore
 011-004-000	Weak of Spirit
-011-005		Arena of Honor
+011-005		Arena dell'onore
 011-005-000	Forti da sei anni
-011-006		Arena of Honor
+011-006		Arena dell'onore
 011-006-000	Into the Fray: Servants Strike!
-011-007		Arena of Honor
+011-007		Arena dell'onore
 011-007-000	Aqua Paradiso
-011-008		Arena of Honor
+011-008		Arena dell'onore
 011-008-000	Princess Punt's Army
-011-010		Arena of Honor
+011-010		Arena dell'onore
 011-010-000	L'attacco dei Shakurel
-011-011		Arena of Honor
+011-011		Arena dell'onore
 011-011-000	Comitato di vampiri
-011-012		Arena of Honor
+011-012		Arena dell'onore
 011-012-000	Danza nel cielo
-011-013		Arena of Honor
+011-013		Arena dell'onore
 011-013-000	Morte dallo spazio
-011-014		Arena of Honor
+011-014		Arena dell'onore
 011-014-000	I Seek the Strongest
-011-015		Arena of Honor
+011-015		Arena dell'onore
 011-015-000	7 portafortuna
-011-016		Arena of Honor
+011-016		Arena dell'onore
 011-016-000	MikuMiku Music Fest
-011-017		Arena of Honor
+011-017		Arena della potenza
 011-017-000	Torneo strappalacrime
-011-018		Arena of Honor
+011-018		Arena dell'onore
 011-018-000	I Seek the Strongest
-011-019		Arena of Honor
+011-019		Arena dell'onore
 011-019-000	8 non bastano
 011-020		Racconti dell'onore
 011-020-000	Prova cremisi
@@ -3549,9 +3549,9 @@
 011-021-000	Prova dell'ombra
 011-022		Racconti dell'onore
 011-022-000	Prova della fenice
-011-023		Arena of Honor
+011-023		Arena dell'onore
 011-023-000	La gioia dei 9 anni
-011-026		Arena of Honor
+011-026		Arena della potenza
 011-026-000	Raduno dei ranger
 011-027		Arena of Honor
 011-027-000	The Swords of Meiji

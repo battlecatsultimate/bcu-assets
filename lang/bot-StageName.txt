@@ -3547,7 +3547,7 @@
 011-015-000	Lucky Number 7
 011-016		Arena of Honor
 011-016-000	MikuMiku Music Fest
-011-017		Arena of Honor
+011-017		Arena of Power
 011-017-000	Tearful Tournament
 011-018		Arena of Honor
 011-018-000	I Seek the Strongest
@@ -3561,7 +3561,7 @@
 011-022-000	Phoenix Trial
 011-023		Arena of Honor
 011-023-000	Feeling Fine at 9
-011-026		Arena of Honor
+011-026		Arena of Power
 011-026-000	Artillery Alley
 011-027		Arena of Honor
 011-027-000	The Swords of Meiji

@@ -3535,7 +3535,7 @@
 011-015-000	Numéro 7 chanceux
 011-016		Arène de l'honneur
 011-016-000	MikuMiku Music Fest
-011-017		Arène de l'honneur
+011-017		Arène de puissance
 011-017-000	Tournoi des larmes
 011-018		Arène de l'honneur
 011-018-000	I Seek the Strongest
@@ -3549,7 +3549,7 @@
 011-022-000	Épreuve du phénix
 011-023		Arène de l'honneur
 011-023-000	9 ans et toutes mes dents
-011-026		Arène de l'honneur
+011-026		Arène de puissance
 011-026-000	Allée d’artillerie
 011-027		Arène de l'honneur
 011-027-000	The Swords of Meiji

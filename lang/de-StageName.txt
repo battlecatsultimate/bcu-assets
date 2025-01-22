@@ -3502,43 +3502,43 @@
 007-009-009	Oberste Ebene
 
 011			Ranking Dojo Stages
-011-000		Arena of Honor
+011-000		Ehrenarena
 011-000-000	Blutrote Prüfung
-011-001		Arena of Honor
+011-001		Ehrenarena
 011-001-000	Schattenprüfung
-011-002		Arena of Honor
+011-002		Ehrenarena
 011-002-000	Phönixprüfung
-011-003		Arena of Honor
+011-003		Ehrenarena
 011-003-000	5-Jahres-Plan
-011-004		Arena of Honor
+011-004		Ehrenarena
 011-004-000	Weak of Spirit
-011-005		Arena of Honor
+011-005		Ehrenarena
 011-005-000	Sechs Jahre stark
-011-006		Arena of Honor
+011-006		Ehrenarena
 011-006-000	Into the Fray: Servants Strike!
-011-007		Arena of Honor
+011-007		Ehrenarena
 011-007-000	Aqua Paradiso
-011-008		Arena of Honor
+011-008		Ehrenarena
 011-008-000	Princess Punt's Army
-011-010		Arena of Honor
+011-010		Ehrenarena
 011-010-000	Angriff der Shakurels
-011-011		Arena of Honor
+011-011		Ehrenarena
 011-011-000	Hof der Vampire
-011-012		Arena of Honor
+011-012		Ehrenarena
 011-012-000	Tanz im Himmel
-011-013		Arena of Honor
+011-013		Ehrenarena
 011-013-000	Tote aus dem All
-011-014		Arena of Honor
+011-014		Ehrenarena
 011-014-000	I Seek the Strongest
-011-015		Arena of Honor
+011-015		Ehrenarena
 011-015-000	Glückszahl 7
-011-016		Arena of Honor
+011-016		Ehrenarena
 011-016-000	MikuMiku Music Fest
-011-017		Arena of Honor
+011-017		Machtarena
 011-017-000	Tränenturnier
-011-018		Arena of Honor
+011-018		Ehrenarena
 011-018-000	I Seek the Strongest
-011-019		Arena of Honor
+011-019		Ehrenarena
 011-019-000	8 sind nicht genug
 011-020		Geschichten der Ehre
 011-020-000	Blutrote Prüfung
@@ -3546,9 +3546,9 @@
 011-021-000	Schattenprüfung
 011-022		Geschichten der Ehre
 011-022-000	Phönixprüfung
-011-023		Arena of Honor
+011-023		Ehrenarena
 011-023-000	Freuen mit 9
-011-026		Arena of Honor
+011-026		Machtarena
 011-026-000	Artillerie-Allee
 011-027		Arena of Honor
 011-027-000	The Swords of Meiji
