@@ -286,8 +286,8 @@
 285				
 286	Elitekämpferin R.E.I.	Sturmkämpferin R.E.I.	Flugeinheit R.E.I.	
 287	Little-League-Katze	Major-League-Katze	Golfkatze	
-288	Madoka Kaname	Madoka & Cat		
-289	Homura Akemi	Homura & Cat		
+288	Madoka Kaname	Madoka & Cat	Ultimate Madoka	
+289	Homura Akemi	Homura & Cat	Devil Homura	
 290	Sayaka Miki	Sayaka & Cat		
 291	Mami Tomoe	Mami & Cat		
 292	Kyoko Sakura	Kyoko & Cat		
@@ -357,7 +357,7 @@
 356				
 357	Wolfskind Deale	Wolfsprinzessin Deale	Narrenkönigin Deale	
 358	Grabesblume Verbena	Verbena die Braut	Opulente Verbena	
-359	Bora	Bazibon	Bazibastra	
+359	Bora	Bazibon	Bazibastra	Bazifenix
 360	Mizli	Marinmizu	Mizuririn	
 361	Aer	Erphuan	Aervanta	Aervantex
 362	Saber	Saber CC	Saber Alter CC	
@@ -438,7 +438,7 @@
 437	Katzengott der Große	Katzengott der Fantastische	Katzengott der Goldene	
 438	Wellenreiter-Kuu	Wellenreiter-Kuu, Typ γ		
 439	Kaiserin Chronos	Chronos die Unendliche	Allmächtige Chronos	
-440	Bebe	Nagisa & Cat		
+440	Bebe	Nagisa & Cat	Law of Cycles Nagisa	
 441	D’Arktamiau	Tapferer D’Arktamiau		
 442	Einsame Katze und Kätzchen	Händlerkatze und Kätzchen	Touristenkatze	
 443	Bohrerkatze	Megabohrerkatze	Neo-Bohrerkatze	
@@ -658,7 +658,7 @@
 657	Iz, die Tänzerin des Kummers	Iz, Dame der Trauer		
 658	Uraltes Ei: N101	Zinnober-Ei: N101	Kurierkatze	
 659	Uraltes Ei: N102	Petrol-Ei: N102	Katzan	
-660	Seeschlange Daliasan	Seekönig Daliasan		
+660	Seeschlange Daliasan	Seekönig Daliasan	Gottkaiser Daliasan	
 661	Chronos die Braut	Hochzeits-Chronos		
 662	Gehirngewaschene Kuhkatze	Gehirngew. Giraffenkatze	Gehirngewaschene Löwenkatze	
 663	Uraltes Ei: N103	Schwarzes Ei: N103	Gasmaskenkatze	
@@ -776,3 +776,6 @@
 775				
 776				
 777	Wintergeneralin Kaihime	Winterkommandantin Kaihime		
+778	Madoka Cat & Homura	Magical Cat☆ Magica		
+779	Himmlisches Kind Luna	Tochter der Erlösung Lunacia		
+780	Bowler-Katze	Völkerball-Katze		

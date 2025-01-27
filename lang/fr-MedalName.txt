@@ -117,3 +117,5 @@
 116	★ Famille horrible ★
 117	★ Je suis une Légende mystérieuse 4 ★
 118	★ Attaque mystérieuse de la forme de vie ★
+119	★ Xénomonstre Bunaglios ★
+120	★ Sous terre, niv. 100 ★

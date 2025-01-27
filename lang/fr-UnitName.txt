@@ -286,8 +286,8 @@
 285				
 286	Unité de frappe R.E.I.	Unité d’assaut R.E.I.	Unité volante R.E.I.	
 287	Chat de ligue mineure	Chat de ligue majeure	Chat golfeur	
-288	Madoka Kaname	Madoka & Cat		
-289	Homura Akemi	Homura & Cat		
+288	Madoka Kaname	Madoka & Cat	Ultimate Madoka	
+289	Homura Akemi	Homura & Cat	Devil Homura	
 290	Sayaka Miki	Sayaka & Cat		
 291	Mami Tomoe	Mami & Cat		
 292	Kyoko Sakura	Kyoko & Cat		
@@ -357,7 +357,7 @@
 356				
 357	Jeune louve montante	Princesse louve	Louve comique	
 358	Verveine défunte	Verveine mariée	Verveine opulente	
-359	Bora	Bazibon	Bazibastra	
+359	Bora	Bazibon	Bazibastra	Bazifenix
 360	Mizli	Marinmizu	Mizuririn	
 361	Aer	Erphuan	Aervanta	Aervantex
 362	Saber	Saber CC	Saber Alter CC	
@@ -438,7 +438,7 @@
 437	Le grand Dieu des Chats	Le super Dieu des Chats	Le doré Dieu des Chats	
 438	Kuu surfeuse	Kuu surfeuse, type γ		
 439	Impératrice Chronos	Chronos infinie	Chronos Toute-puissante	
-440	Bebe	Nagisa & Cat		
+440	Bebe	Nagisa & Cat	Law of Cycles Nagisa	
 441	Darktanyan	Darktanyan vaillant		
 442	Chat et son chaton	Hôtesse et son chaton	Chats touristes	
 443	Chat perceuse	Chat perceuse électrique	Néo Chat perceuse	
@@ -658,7 +658,7 @@
 657	Iz la danseuse du chagrin	Iz la dame du deuil		
 658	Œuf ancien N101	Œuf cinabre N101	Chat coursier	
 659	Œuf ancien N102	Œuf bleu sarcelle N102	Charzan	
-660	Daliasan serpent de mer	Daliasan roi des mers		
+660	Daliasan serpent de mer	Daliasan roi des mers	Dieu empereur Daliasan	
 661	Chronos mariée	Chronos nuptiale		
 662	Chat vache sous contrôle	Chat girafe sous contrôle	Chat lion sous contrôle	
 663	Œuf ancien N103	Œuf noir N103	Chat masque à gaz	
@@ -776,3 +776,6 @@
 775				
 776				
 777	Générale Kaihime d'hiver	Commandante Kaihime d'hiver		
+778	Madoka Cat & Homura	Magical Cat☆ Magica		
+779	Luna, enfant céleste	Lunacia, fille du salut		
+780	Chat joueur de bowling	Chat ballon prisonnier		

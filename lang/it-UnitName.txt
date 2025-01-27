@@ -286,8 +286,8 @@
 285				
 286	Assaltatore R.E.I.	Unità d'attacco R.E.I.	Intercettore R.E.I.	
 287	Gatto Serie B	Gatto Serie A	Gatto Golf	
-288	Madoka Kaname	Madoka & Cat		
-289	Homura Akemi	Homura & Cat		
+288	Madoka Kaname	Madoka & Cat	Ultimate Madoka	
+289	Homura Akemi	Homura & Cat	Devil Homura	
 290	Sayaka Miki	Sayaka & Cat		
 291	Mami Tomoe	Mami & Cat		
 292	Kyoko Sakura	Kyoko & Cat		
@@ -357,7 +357,7 @@
 356				
 357	Lupetta Deale	Principessa Deale	Deale regina giullare	
 358	Verbena Tombale	Verbena la sposa	Verbena Opulenta	
-359	Bora	Bazibon	Bazibastra	
+359	Bora	Bazibon	Bazibastra	Ardifenice
 360	Mizli	Marinmizu	Mizuririn	
 361	Aer	Erphuan	Aervanta	Aervantex
 362	Saber	Saber CC	Saber Alter CC	
@@ -438,7 +438,7 @@
 437	Gatto divino il grande	Gatto divino fantastico	Gatto divino dorato	
 438	Kuu Surfista	Kuu Surfista γ		
 439	Imperatrice Chronos	Chronos l'Infinita	Chronos Onnipotente	
-440	Bebe	Nagisa & Cat		
+440	Bebe	Nagisa & Cat	Law of Cycles Nagisa	
 441	D'Arkamiao	D'Arkamiao Valoroso		
 442	Gatto single e micio	Gatta ambulante e micio	Gatto turista	
 443	Gatto trivella	Gatto super trivella	Neo Gatto trivella	
@@ -658,7 +658,7 @@
 657	Iz ballerina del dolore	Iz signora del pianto		
 658	Uovo antico N101	Uovo vermiglione N101	Gatto corriere	
 659	Uovo antico N102	Uovo verde acqua N102	Gattarzan	
-660	Daliasan serpente marino	Daliasan re del mare		
+660	Daliasan serpente marino	Daliasan re del mare	Daliasan Dio-Imperatore	
 661	Chronos la sposa	Chronos nuziale		
 662	Gatto mucca plagiato	Gatto giraffa plagiato	Gatto leo plagiato	
 663	Uovo antico N103	Uovo nero N103	Gatto maschera antigas	
@@ -776,3 +776,6 @@
 775				
 776				
 777	Kaihime Generale d'inverno	Kahime Comandante d'inverno		
+778	Madoka Cat & Homura	Magical Cat☆ Magica		
+779	Luna fanciulla celestiale	Lunacia progenie della salvezza		
+780	Gatto bowling	Palla di pelo avvelenata		

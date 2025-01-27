@@ -117,3 +117,5 @@
 116	Schließe „Supersmash-Familien“ ab.
 117	Schließe alle „Unh. Legenden“-Level der Stufe 4 ab.
 118	Schließe ein Nova-Level ab
+119	Schließe Jagd auf die Xenobestie ab
+120	Schließe Untergrund-Labyrinth B100F ab

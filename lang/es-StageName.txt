@@ -1646,8 +1646,9 @@
 001-365-005	Turno Omitido
 001-366		Chucho Nieve
 001-366-000	Ave Chucho
-001-366-001	Jardín Chucho Hasta Los Topes
-001-366-002	Gatos Peleando Cálidamente
+001-366-001	Nevadas Eternas
+001-366-002	Jardín Chucho Hasta Los Topes
+001-366-003	Gatos Peleando Cálidamente
 001-367		Fiebre de las ofertas del Año Nuevo Lunar
 001-367-000	Festín Año Nuevo Lunar
 001-367-001	Ataque de DDoS
@@ -1699,6 +1700,16 @@
 001-384		Vendedor de Comida, Álzate！
 001-384-000	Evolución Aplazada 1 (Demencial)
 001-384-001	Evolución Aplazada 2 (Demencial)
+001-391		Encuentra al Engendro Cósmico
+001-391-000	Rey de las Bestias I (Mortal)
+001-391-001	Rey de las Bestias II (Inhumano)
+001-391-002	Rey de las Bestias III (Inhumano)
+001-391-003	Rey de las Bestias: Combate Final (Brutal)
+001-392		Recuerdos de 2024
+001-392-000	Recuerdos de primavera
+001-392-001	Recuerdos de verano
+001-392-002	Recuerdos de otoño
+001-392-003	Recuerdos de invierno
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2328,6 +2339,24 @@
 002-219-000	The Wolf Revived
 002-219-001	Evil-Immediate-Slaughter
 002-219-002	I Disavow You Entirely
+002-220		Witch's Labyrinth: Rose Garden Witch
+002-220-000	Allow Me To Introduce Myself
+002-220-001	But Before That
+002-220-002	Some Cleaning Up
+002-220-003	Is In Order
+002-220-004	Tiro Finale!
+002-221		Witch's Labyrinth: Dessert Witch
+002-221-000	My Body Is Light
+002-221-001	With Such Joy
+002-221-002	A Battle Like This
+002-221-003	I'm Afraid of Nothing
+002-221-004	I'm Not Alone Anymore
+002-222		Witch's Labyrinth: Box Witch
+002-222-000	I Know My Wish
+002-222-001	Miracles and Magic Are Real
+002-222-002	Did I Do Well?
+002-222-003	I Have No Regrets
+002-222-004	You'll Be Happy, Won't You
 
 003			
 003-000		EoC Ch.1 Zombie
@@ -3305,6 +3334,16 @@
 004-068-000	La Cara de Dios
 004-069		
 004-069-000	Revivir del Origen
+004-072		Recuerdos de 2024
+004-072-000	Recuerdos de primavera (página 2)
+004-072-001	Recuerdos de verano (página 2)
+004-072-002	Recuerdos de otoño (página 2)
+004-072-003	Recuerdos de invierno (página 2)
+004-073		Recuerdos de 2024
+004-073-000	Recuerdos de primavera (página 3)
+004-073-001	Recuerdos de verano (página 3)
+004-073-002	Recuerdos de otoño (página 3)
+004-073-003	Recuerdos de invierno (página 3)
 
 006			Dojo Afilagarras
 006-000		Sala de Iniciados
@@ -5050,6 +5089,17 @@
 024-068-007	Ubicación Encantada
 024-068-008	Espíritus Cabezotas
 024-068-009	Atrápalos a Todos
+024-069		¡El Año Nuevo más feliz!
+024-069-000	Año de la Serpiente (nvl. 1)
+024-069-001	Año de la Serpiente (nvl. 2)
+024-069-002	Año de la Serpiente (nvl. 3)
+024-069-003	Año de la Serpiente (nvl. 4)
+024-069-004	Año de la Serpiente (nvl. 5)
+024-069-005	Año de la Serpiente (nvl. 6)
+024-069-006	Año de la Serpiente (nvl. 7)
+024-069-007	Año de la Serpiente (nvl. 8)
+024-069-008	Año de la Serpiente (nvl. 9)
+024-069-009	Año de la Serpiente (nvl. máx.)
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -5722,6 +5772,13 @@
 034-015-003	Evasión automática
 034-015-004	Piratas rompefilas
 034-015-005	Atraque perfecto
+034-016		Templo de la Vigilia
+034-016-000	Centinela Inepto
+034-016-001	Trampa Legendaria
+034-016-002	Laberinto Errante
+034-016-003	Bárbaro Alegre
+034-016-004	Escotilla Iluminada
+034-016-005	Escondrijo Descarado
 
 036			Colosseum Stages
 036-000		Coliseo de Otro Mundo
@@ -5760,6 +5817,18 @@
 036-005-002	Ronda 3
 036-005-003	Ronda 4
 036-005-004	Ronda 5
+036-006		Coliseo de Otro Mundo
+036-006-000	Ronda 1
+036-006-001	Ronda 2
+036-006-002	Ronda 3
+036-006-003	Ronda 4
+036-006-004	Ronda 5
+036-007		Coliseo de Otro Mundo
+036-007-000	Ronda 1
+036-007-001	Ronda 2
+036-007-002	Ronda 3
+036-007-003	Ronda 4
+036-007-004	Ronda 5
 
 037			Campeonatos Afilagarras
 037-000		Campeonatos Afilagarras Rango 1

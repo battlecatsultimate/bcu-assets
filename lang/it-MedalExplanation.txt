@@ -117,3 +117,5 @@
 116	Supera "Famiglie della super schiacciata"
 117	Supera tutte le Leggende misteriose di livello 4
 118	Supera il livello Nova
+119	Supera Caccia alla Xenobestia
+120	Supera Labirinto sotterraneo B100F

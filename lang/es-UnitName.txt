@@ -286,8 +286,8 @@
 285				
 286	Centinela R. E. I.	Unidad de Asalto R. E. I.	Unidad Voladora R. E. I.	
 287	Gato de Ligas Inferiores	Gato de Ligas Superiores	Gato Golfista	
-288	Madoka Kaname	Madoka & Cat		
-289	Homura Akemi	Homura & Cat		
+288	Madoka Kaname	Madoka & Cat	Ultimate Madoka	
+289	Homura Akemi	Homura & Cat	Devil Homura	
 290	Sayaka Miki	Sayaka & Cat		
 291	Mami Tomoe	Mami & Cat		
 292	Kyoko Sakura	Kyoko & Cat		
@@ -357,7 +357,7 @@
 356				
 357	Lobata Deale	Deale Princesa Loba	Deale Reina Bufona	
 358	Verbena Ultratumba	Verbena Nupcial	Verbena Opulenta	
-359	Bora	Bazibon	Bazibastra	
+359	Bora	Bazibon	Bazibastra	Bazifénix
 360	Mizli	Marinmizu	Mizuririn	
 361	Aer	Erphuan	Aervanta	Aervantex
 362	Saber	Saber CC	Saber Alter CC	
@@ -438,7 +438,7 @@
 437	Misidiós el Fantástico	Misidiós el Increíble	Misidiós el Dorado	
 438	Kuu Surfera	Kuu Surfera (γ)		
 439	Emperatriz Chronos	Chronos Infinita	Chronos Todopoderosa	
-440	Bebe	Nagisa & Cat		
+440	Bebe	Nagisa & Cat	Law of Cycles Nagisa	
 441	D’Artamiau Oscuro	D'Artamiau Valiente		
 442	Gato Solitario y Gatito	Gata Vendedora y Gatito	Gato Turista	
 443	Gato Taladrador	Gato Supertaladrador	Neogato Taladrador	
@@ -658,7 +658,7 @@
 657	Iz la Bailarina del Dolor	Iz la Joven de Luto		
 658	Huevo Antiguo N101	Huevo Bermellón N101	Gato Mensajero	
 659	Huevo Antiguo N102	Huevo Verde N102	Gatarzán	
-660	Daliasan Serpiente Marina	Daliasan Rey de los Mares		
+660	Daliasan Serpiente Marina	Daliasan Rey de los Mares	Daliasan, Dios Emperador	
 661	Chronos Novia	Chronos de Boda		
 662	Gato Lechero Adoctrinado	Jirafelino Adoctrinado	Gato León adoctrinado	
 663	Huevo Antiguo N103	Huevo Negro N103	Gato con Máscara de Gas	
@@ -776,3 +776,6 @@
 775				
 776				
 777	General de Invierno Kaihime	Comandante de Invierno Kaihime		
+778	Madoka Cat & Homura	Magical Cat☆ Magica		
+779	Luna Hija Celestial	Lunacia Hija de la Salvación		
+780	Gato Jugador de Bolos	Gato Balón Prisionero		

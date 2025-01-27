@@ -641,11 +641,11 @@
 9266	Defeat Cane at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
 9267	Defeat Cane at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
 9268	Clear all 0 River City Cat Clash Limited  Missions!
-9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
-9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!
-9271	Defeat the Box Witch! Find this Witch at the "Witch's Labyrinth: Box Witch" map!
-9272	Defeat the Nutcracker Witch! Find this Witch at the "Witch's Labyrinth: Nutcracker Witch" map!
-9273	Defeat all Witches!  Complete all 0 Witch missions!
+9269	Witch Culling Mission 1: Defeat Rose Garden Witch. Appears in the stage Witch's Labyrinth: The Rose Garden Witch
+9270	Witch Culling Mission 2: Defeat Dessert Witch. Appears in the stage Witch's Labyrinth: Dessert Witch
+9271	Witch Culling Mission 3: Defeat Box Witch. Appears in the stage Witch's Labyrinth - Box Witch
+9272	Witch Culling Mission 5: Defeat Nutcracker Witch. Appears in the stage Nutcracker Witch
+9273	Defeat all of the Witches. Clear Witch Culling Missions 1-5
 9274	Upgrade Li'l Madoka to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
 9275	Upgrade Kyubey Cat to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
 41	Ricerca dell'imperatrice 3: Il prezzo della stregoneria. Supera "Parco del demone" e "Ascia malvagia"
@@ -871,3 +871,14 @@
 69	[Campionati miciodiali] Ottieni 4 Gatti leggendari. Vai avanti nei livelli. leggendari per raccoglierli nei livelli speciali
 70	[Campionati miciodiali] Ottieni 4 Gatti leggendari. Vai avanti nei livelli. leggendari per raccoglierli nei livelli speciali
 71	[Campionati miciodiali] Ottieni 4 Gatti leggendari. Vai avanti nei livelli. leggendari per raccoglierli nei livelli speciali
+73	Tocca 2 volte un Tesoro nella Lista per saltare al livello. Apri la Lista tesori dalla Base felina
+74	Tocca l'icona nemico nella schermata di sel. liv. e apri la. Guida ai nemici. Tocca nome liv. sup. per mostrare i nemici
+75	Usa Vitamiao A per ripristinare i tentativi di un livello. Usa Vitamiao A in un livello leggendario
+76	Tocca 2 volte Gatto CPU per saltare il livello. I livelli superati nella schermata di selezione livello possono essere saltati
+77	Tieni premuto il puls. Equipaggia nella schermata sel. liv. Tieni premuto per equip. la form. con cui hai sup. liv
+78	Salta a un livello dalla schermata di evoluzione. Tocca un materiale evol. dalla schermata dal menu Potenzia
+79	Controlla il Codice di richiesta. Tocca in alto a sin. menu titolo o in basso a sin. menu Opzioni
+9550	Clear 9 Madoka Magica collab stages
+9551	Clear 9 Madoka Magica collab stages
+9552	Clear 9 Madoka Magica collab stages
+9553	Witch Culling Mission 4: Defeat Stagebuilder Witch. Appears in the stage Walpurgisnacht

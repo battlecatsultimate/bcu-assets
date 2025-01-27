@@ -357,7 +357,7 @@
 356
 357	Wolfchild Deale	Wolf Princess Deale	Jester Queen Deale
 358	Graveflower Verbena	Verbena the Bride	Opulent Verbena
-359	Bora	Bazibon	Bazibastra
+359	Bora	Bazibon	Bazibastra	Bazifenix
 360	Mizli	Marinmizu	Mizuririn
 361	Aer	Erphuan	Aervanta	Aervantex
 362	Saber	Saber CC	Saber Alter CC
@@ -438,7 +438,7 @@
 437	Cat God the Great	Cat God the Awesome	Cat God the Golden
 438	Waverider Kuu	Waverider Kuu, type γ
 439	Empress Chronos	Chronos the Infinite	Almighty Chronos
-440	Bebe	Nagisa & Cat	Messenger of Law of Cycles Nagisa
+440	Bebe	Nagisa & Cat	Law of Cycles Nagisa
 441	D'arktanyan	Valiant D'arktanyan
 442	Lone Cat and Kitten	Vendor Cat and Kitten	Tourist Cat
 443	Driller Cat	Power Driller Cat	Neo Driller Cat
@@ -776,6 +776,6 @@
 775	Axel Spirit			
 776	Apprentice Warrior Cat	Warlord Cat		
 777	Winter General Kaihime	Winter Commander Kaihime		
-778	Madoka & Homura Cat	Magic Association Cats☆Magica
-779	Young Angel Luna	Angel of Salvation Lunasha
+778	Madoka Cat & Homura	Magical Cat☆ Magica		
+779	Celestial Child Luna	Salvation's Daughter Lunacia		
 780	Bowler Cat	Dodgeballer Cat

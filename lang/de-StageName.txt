@@ -1646,8 +1646,9 @@
 001-365-005	Runde übersprungen
 001-366		Schneehunde
 001-366-000	Hagelhund
-001-366-001	Garten voller Hunde
-001-366-002	Warme Katzenkämpfe
+001-366-001	Schneefall für immer
+001-366-002	Garten voller Hunde
+001-366-003	Warme Katzenkämpfe
 001-367		Rangelei zum Mond-Neujahr
 001-367-000	Mondneujahr-Kantersieg
 001-367-001	DDoS-Attacke
@@ -1699,6 +1700,16 @@
 001-384		Essensstandkatze erwacht!
 001-384-000	Aufgehaltene Entwicklung 1 (Irre)
 001-384-001	Aufgehaltene Entwicklung 2 (Irre)
+001-391		Jagd auf die Xenobestie
+001-391-000	König der Tiere I (Tödlich)
+001-391-001	König der Tiere II (Gnadenlos)
+001-391-002	König der Tiere III (Gnadenlos)
+001-391-003	König der Tiere: Letzte Runde (Brutal)
+001-392		Erinnerungen an 2024
+001-392-000	Frühlingserinnerungen
+001-392-001	Sommererinnerungen
+001-392-002	Herbsterinnerungen
+001-392-003	Wintererinnerungen
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2327,6 +2338,24 @@
 002-219-000	The Wolf Revived
 002-219-001	Evil-Immediate-Slaughter
 002-219-002	I Disavow You Entirely
+002-220		Witch's Labyrinth: Rose Garden Witch
+002-220-000	Allow Me To Introduce Myself
+002-220-001	But Before That
+002-220-002	Some Cleaning Up
+002-220-003	Is In Order
+002-220-004	Tiro Finale!
+002-221		Witch's Labyrinth: Dessert Witch
+002-221-000	My Body Is Light
+002-221-001	With Such Joy
+002-221-002	A Battle Like This
+002-221-003	I'm Afraid of Nothing
+002-221-004	I'm Not Alone Anymore
+002-222		Witch's Labyrinth: Box Witch
+002-222-000	I Know My Wish
+002-222-001	Miracles and Magic Are Real
+002-222-002	Did I Do Well?
+002-222-003	I Have No Regrets
+002-222-004	You'll Be Happy, Won't You
 
 003			
 003-000		EoC Ch.1 Zombie
@@ -3304,6 +3333,16 @@
 004-068-000	Das Antlitz Gottes
 004-069		
 004-069-000	Wiederbelebung des Ursprungs
+004-072		Erinnerungen an 2024
+004-072-000	Frühlingserinnerungen, Seite 2
+004-072-001	Sommererinnerungen, Seite 2
+004-072-002	Herbsterinnerungen, Seite 2
+004-072-003	Wintererinnerungen, Seite 2
+004-073		Erinnerungen an 2024
+004-073-000	Frühlingserinnerungen, Seite 3
+004-073-001	Sommererinnerungen, Seite 3
+004-073-002	Herbsterinnerungen, Seite 3
+004-073-003	Wintererinnerungen, Seite 3
 
 006			Katzenkrallendojo
 006-000		Halle der Initianden
@@ -5027,6 +5066,17 @@
 024-068-007	Spukpanorama
 024-068-008	Störrische Gespenster
 024-068-009	Muss sie alle fangen
+024-069		Ein kolossales Neujahr!
+024-069-000	Jahr der Schlange, St. 1
+024-069-001	Jahr der Schlange, St. 2
+024-069-002	Jahr der Schlange, St. 3
+024-069-003	Jahr der Schlange, St. 4
+024-069-004	Jahr der Schlange, St. 5
+024-069-005	Jahr der Schlange, St. 6
+024-069-006	Jahr der Schlange, St. 7
+024-069-007	Jahr der Schlange, St. 8
+024-069-008	Jahr der Schlange, St. 9
+024-069-009	Jahr der Schlange, St. MAX
 
 025			Enigma Stages
 025-000		Atium-Felder
@@ -5670,6 +5720,13 @@
 034-015-003	Automatische Vermeidung
 034-015-004	Piraten brechen den Rang
 034-015-005	Sanftes Andocken
+034-016		En-Garde-Schrein
+034-016-000	Inkompetenter Wächter
+034-016-001	Sanfte Falle
+034-016-002	Auto-Laufen-Labyrinth
+034-016-003	Fröhlicher Häretiker
+034-016-004	Beleuchtete Falltür
+034-016-005	Offensichtliches Versteck
 
 036			Colosseum Stages
 036-000		Anderwelt-Kolosseum
@@ -5708,6 +5765,18 @@
 036-005-002	Runde 3
 036-005-003	Runde 4
 036-005-004	Runde 5
+036-006		Anderwelt-Kolosseum
+036-006-000	Runde 1
+036-006-001	Runde 2
+036-006-002	Runde 3
+036-006-003	Runde 4
+036-006-004	Runde 5
+036-007		Anderwelt-Kolosseum
+036-007-000	Runde 1
+036-007-001	Runde 2
+036-007-002	Runde 3
+036-007-003	Runde 4
+036-007-004	Runde 5
 
 037			Katzenkrall-Meisterschaften
 037-000		Katzenkrall-Meisterschaften Rang 1

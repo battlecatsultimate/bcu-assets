@@ -117,3 +117,5 @@
 116	Clear "Super Smash Families"
 117	Clear All Level 4 Uncanny Legend stages
 118	Clear Nova Stage
+119	Clear Hunt for the Xenobeast
+120	Clear Underground Labyrinth B100F

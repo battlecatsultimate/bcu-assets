@@ -271,12 +271,12 @@
 270	Amokkatzen
 271	Königin B
 272	Kleiner Bun Bun
-273	
-274	
-275	
-276	
-277	
-278	
+273	The Rose Garden Witch
+274	Dessert Witch - Obsession
+275	Dessert Witch
+276	Box Witch and Minions
+277	Walpurgisnacht
+278	Kyuubei
 279	Ritualkatze
 280	Klingenrücken
 281	Festzeichenmädchen
@@ -427,7 +427,7 @@
 426	Vorstandsrobbe
 427	Totengräbär
 428	Schreckensebär
-429	
+429	Nutcracker Witch
 430	Satan Claus
 431	Baku
 432	
@@ -577,7 +577,7 @@
 576	Großer weißer Ball
 577	Großer roter Ball
 578	Großer Eisenball
-579	
+579	Incubator
 580	Weißer Wind
 581	Roter Wind
 582	Schwarzer Wind
@@ -708,4 +708,8 @@
 707	Revolutionärer Nobunaga
 708	
 709	
-710	Schloss Katzenkrall
+710	
+711	Schlänge-Hund
+712	Überraschungsschneehaufen
+713	Prof. Eulheul
+714	Xenobestie Bunaglios

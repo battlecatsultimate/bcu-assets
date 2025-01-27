@@ -117,3 +117,5 @@
 116	★ Famiglia ignobile ★
 117	★ Io sono Leggenda misteriosa 4 ★
 118	★ Attacco misterioso della forma di vita ★
+119	★ Xenobestia Bunaglios ★
+120	★ Sotterranei B100F ★

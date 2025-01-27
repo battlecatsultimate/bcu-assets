@@ -117,3 +117,5 @@
 116	★ Schreckliche Familie ★
 117	★ Ich bin Unheimliche Legende 4 ★
 118	★ Mysteriöser Angriff der Lebensform ★
+119	★ Xenobestie Bunaglios ★
+120	★ Untergrund B100F ★

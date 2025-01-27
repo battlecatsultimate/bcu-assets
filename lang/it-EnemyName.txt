@@ -271,12 +271,12 @@
 270	Gatti furenti
 271	ReginA
 272	Mini Bum-bum
-273	
-274	
-275	
-276	
-277	
-278	
+273	The Rose Garden Witch
+274	Dessert Witch - Obsession
+275	Dessert Witch
+276	Box Witch and Minions
+277	Walpurgisnacht
+278	Kyuubei
 279	Gatto rituale
 280	Cinghiale selvatico
 281	Ragazza segno del festival
@@ -427,7 +427,7 @@
 426	Foca dirigente
 427	Orso cadavere
 428	Cinghio del terrore
-429	
+429	Nutcracker Witch
 430	Satana Natale
 431	Tapiro
 432	
@@ -577,7 +577,7 @@
 576	Palla grande bianca
 577	Palla grande rossa
 578	Palla grande di ferro
-579	
+579	Incubator
 580	Vento bianco
 581	Vento rosso
 582	Vento nero
@@ -708,4 +708,8 @@
 707	Nobunaga rivoluzionario
 708	
 709	
-710	Castello miciodiale
+710	
+711	Cane serpe
+712	Cumuloneve misterioso
+713	Professor Gufottolo
+714	Xenobestia Bunaglios

@@ -641,11 +641,11 @@
 9266	Defeat โฮ่ง at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
 9267	Defeat โฮ่ง at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
 9268	Clear all 0 River City Cat Clash Limited  Missions!
-9269	Defeat the Rose Garden Witch! Find this Witch at the "Witch's Labyrinth: Rose Garden Witch" map!
-9270	Defeat the Dessert Witch! Find this Witch at the "Witch's Labyrinth: Dessert Witch" map!
-9271	Defeat the Box Witch! Find this Witch at the "Witch's Labyrinth: Box Witch" map!
-9272	Defeat the Nutcracker Witch! Find this Witch at the "Witch's Labyrinth: Nutcracker Witch" map!
-9273	Defeat all Witches! Complete all 0 Witch missions!
+9269	Witch Culling Mission 1: Defeat Rose Garden Witch. Appears in the stage Witch's Labyrinth: The Rose Garden Witch
+9270	Witch Culling Mission 2: Defeat Dessert Witch. Appears in the stage Witch's Labyrinth: Dessert Witch
+9271	Witch Culling Mission 3: Defeat Box Witch. Appears in the stage Witch's Labyrinth - Box Witch
+9272	Witch Culling Mission 5: Defeat Nutcracker Witch. Appears in the stage Nutcracker Witch
+9273	Defeat all of the Witches. Clear Witch Culling Missions 1-5
 9274	Upgrade Li'l Madoka to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
 9275	Upgrade Kyubey Cat to Level 10! (You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
 41	การวิจัยของจักรพรรดินี 3: ราคาของแม่มด. เคลียร์ "สวนปีศาจ" และ "ความชั่วร้าย"
@@ -871,3 +871,14 @@
 69	[กรงเล็บแมวแชมเปี้ยนชิป] รับแมวในตำนาน 4 ตัว. เล่นด่านเรื่องราวแห่งตำนาน เพื่อเก็บสะสมแมวเหล่านี้จากด่านพิเศษ
 70	[กรงเล็บแมวแชมเปี้ยนชิป] รับแมวในตำนาน 4 ตัว. เล่นด่านเรื่องราวแห่งตำนาน เพื่อเก็บสะสมแมวเหล่านี้จากด่านพิเศษ
 71	[กรงเล็บแมวแชมเปี้ยนชิป] รับแมวในตำนาน 4 ตัว. เล่นด่านเรื่องราวแห่งตำนาน เพื่อเก็บสะสมแมวเหล่านี้จากด่านพิเศษ
+73	แตะสองครั้งที่สมบัติในรายการสมบัติเพื่อไปด่านนั้น. เปิดรายการสมบัติได้จากฐานทัพแมว
+74	แตะไอคอนศัตรูที่หน้าเลือกด่านเพื่อไปที่คู่มือศัตรู. แตะชื่อด่านที่เคลียร์แล้วเพื่อดูศัตรู
+75	ใช้วิตาเมี้ยว A เพื่อเติมจำนวนครั้งที่เข้าเล่นได้. ใช้วิตาเมี้ยว A กับด่านตำนาน
+76	แตะที่แมวซีพียู 2 ครั้งเพื่อข้ามด่าน. ข้ามด่านที่เคลียร์แล้วได้ที่หน้าเลือกด่าน
+77	แตะปุ่มติดตั้งที่หน้าเลือกด่านค้างไว้. แตะค้างเพื่อติดตั้งกระบวนทัพที่เคยเคลียร์ด่านได้อีกครั้ง
+78	ไปที่ด่านได้จากหน้าการวิวัฒน์. แตะที่วัสดุวิวัฒน์หลังจากเข้าเมนูอัปเกรด
+79	ไปที่รหัสสอบถาม. แตะที่มุมซ้ายบนของหน้าจอแรกหรือมุมซ้ายล่างของเมนูการตั้งค่า
+9550	Clear 9 Madoka Magica collab stages
+9551	Clear 9 Madoka Magica collab stages
+9552	Clear 9 Madoka Magica collab stages
+9553	Witch Culling Mission 4: Defeat Stagebuilder Witch. Appears in the stage Walpurgisnacht

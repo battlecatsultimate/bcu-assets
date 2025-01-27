@@ -709,3 +709,7 @@
 708	
 709	
 710	Catclaw Castle
+711	Snache Doge
+712	Mystery Snowmound
+713	Prof. Owlbrowley
+714	Xenobeast Bunaglios

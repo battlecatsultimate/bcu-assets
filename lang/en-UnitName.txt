@@ -286,8 +286,8 @@
 285				
 286	Strike Unit R.E.I.	Assault Unit R.E.I.	Flight Unit R.E.I.	
 287	Little Leaguer Cat	Major Leaguer Cat	Golfer Cat	
-288	Madoka Kaname	Madoka & Cat		
-289	Homura Akemi	Homura & Cat		
+288	Madoka Kaname	Madoka & Cat	Ultimate Madoka	
+289	Homura Akemi	Homura & Cat	Devil Homura	
 290	Sayaka Miki	Sayaka & Cat		
 291	Mami Tomoe	Mami & Cat		
 292	Kyoko Sakura	Kyoko & Cat		
@@ -357,7 +357,7 @@
 356				
 357	Wolfchild Deale	Wolf Princess Deale	Jester Queen Deale	
 358	Graveflower Verbena	Verbena the Bride	Opulent Verbena 	
-359	Bora	Bazibon	Bazibastra	
+359	Bora	Bazibon	Bazibastra	Bazifenix
 360	Mizli	Marinmizu	Mizuririn	
 361	Aer	Erphuan	Aervanta	Aervantex
 362	Saber	Saber CC	Saber Alter CC	
@@ -438,7 +438,7 @@
 437	Cat God the Great	Cat God the Awesome	Cat God the Golden	
 438	Waverider Kuu	Waverider Kuu, type γ		
 439	Empress Chronos	Chronos the Infinite	Almighty Chronos	
-440	Bebe	Nagisa & Cat		
+440	Bebe	Nagisa & Cat	Law of Cycles Nagisa	
 441	D'arktanyan	Valiant D'arktanyan		
 442	Lone Cat and Kitten	Vendor Cat and Kitten	Tourist Cat	
 443	Driller Cat	Power Driller Cat	Neo Driller Cat	
@@ -658,7 +658,7 @@
 657	Iz the Dancer of Grief	Iz the Lady of Mourning		
 658	Ancient Egg: N101	Cinnabar Egg: N101	Courier Cat	
 659	Ancient Egg: N102	Teal Egg: N102	Catarzan	
-660	Sea Serpent Daliasan	Sea King Daliasan		
+660	Sea Serpent Daliasan	Sea King Daliasan	God-Emperor Daliasan	
 661	Chronos the Bride	Wedding Chronos		
 662	Brainwashed Cow Cat	Brainwashed Giraffe Cat	Brainwashed Lion Cat	
 663	Ancient Egg: N103	Black Egg: N103	Gas Mask Cat	
@@ -682,7 +682,7 @@
 681	Luke	Luke CC		
 682	Spectral Goth Vega	Illusory Guardian Vega		
 683	Count Yukimura	Nosferatu Yukimura	Vampiric Yukimura	
-684	Brainwashed Fish Cat	Brainwashed Whale Cat	Brainwashed Island Cat	Brainwashed Whale Cat
+684	Brainwashed Fish Cat	Brainwashed Whale Cat	Brainwashed Island Cat	
 685	Ancient Egg: N004	Mystic Egg: N004	Supercar Cat	
 686	Goddess of Light Sirius	Goddess of Sunrise Sirius		
 687	Reindeer Terun	Reindeer Terunζ		
@@ -776,3 +776,6 @@
 775				
 776				
 777	Winter General Kaihime	Winter Commander Kaihime		
+778	Madoka Cat & Homura	Magical Cat☆ Magica		
+779	Celestial Child Luna	Salvation's Daughter Lunacia		
+780	Bowler Cat	Dodgeballer Cat		

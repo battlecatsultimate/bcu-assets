@@ -42,6 +42,7 @@
 -1014	Ultra 4 Selection Gacha
 -1015	Miracle 4 Selection Gacha
 -1016	Excellent 4 Selection Gacha
+-1017	Lunar New Year's Capsules Gacha
 -2000	Princess Punt Collab Gacha	//Princess Punt 176
 -2001	Annihilation City COllab Gacha	//Annihilation City 180
 -2002	Merc Storia Collab Gacha	//Merc 185
@@ -936,3 +937,5 @@ N65	Cats Eye Capsules
 956	-112	758, 779
 957	-1003
 958	-2007	778
+959	-1017
+960	-2007	778

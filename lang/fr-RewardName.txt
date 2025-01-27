@@ -261,6 +261,7 @@
 1066	Chat mélasse
 1067	Œuf ancien : N006
 1068	Soracte, mentor mental
+1069	Chat joueur de bowling
 1100	Chat en bronze
 1101	Chastronaute
 1102	Chat corde à sauter
@@ -530,6 +531,8 @@
 15283	Chat tchatcha
 15284	Pai-Pai DX
 15287	Unité volante R.E.I.
+15289	Ultimate Madoka
+15290	Devil Homura
 15303	Reine succube
 15305	Béhémoth CHAT-8
 15306	Navire Griffe de tigre
@@ -583,6 +586,7 @@
 15437	Mystican Pasalan
 15438	Le doré Dieu des Chats
 15440	Chronos Toute-puissante
+15441	Law of Cycles Nagisa
 15444	Néo Chat perceuse
 15445	Néo Chat foreuse
 15446	Néo Chat découpeuse
@@ -641,6 +645,7 @@
 15657	Chat haniwa
 15659	Chat coursier
 15660	Charzan
+15661	Dieu empereur Daliasan
 15664	Chat masque à gaz
 15665	Chat chirurgien
 15666	Chat exorciste

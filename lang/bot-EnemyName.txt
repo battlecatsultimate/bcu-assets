@@ -709,7 +709,7 @@
 708	12th Anniversary Cake
 709	12th Anniversary Scarecrow Base
 710	Catclaw Castle
-711	Snake Doge
-712	Mysterious Snow Mountain
-713	Dr. Owl
-714	Superfist Beast Bunnaglios
+711	Snache Doge
+712	Mystery Snowmound
+713	Prof. Owlbrowley
+714	Xenobeast Bunaglios

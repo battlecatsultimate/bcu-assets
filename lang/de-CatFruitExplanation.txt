@@ -286,8 +286,8 @@
 285	<br><br>
 286	Wahre-Form-Entwicklung gewährt erhöhtes<br>Angriffstempo. Verteidigung gg. fliegende<br>Feinde von robust zu irre robust verbessert.
 287	<br><br>
-288	<br><br>
-289	<br><br>
+288	Wahre-Form-Entwicklung fügt Fliegenden,<br>Zombies und Relikten irren Schaden zu.<br>Zudem immun gegen Flüche!
+289	Wahre-Form-Entwicklung ist stark gegen<br>rote, schwarze und Aku-Feinde! Erhält<br>zudem Distanz-Flächenangriffe!
 290	<br><br>
 291	<br><br>
 292	<br><br>
@@ -357,7 +357,7 @@
 356	<br><br>
 357	Wahre Form steigert Angriffstempo!<br><br>
 358	Wahre-Form-Entwicklung erhöht Verteidi-<br>gung und Chance auf Haudrauf-Treffer!<br>
-359	Wahre-Form-Entwicklung erhöht Angriff<br>und Verteidigung!<br>
+359	Wahre-Form-Entwicklung erhöht Angriff<br>und Verteidigung!<br>	Ultra-Form-Entw. erhöht Verteidigung,<br>Angriffskraft, Tempo & Angriffsreichw.<br>und verleiht Schwächen gg. Aliens!
 360	Wahre-Form-Entwicklung erhöht Angriff<br>und Verteidigung!<br>
 361	Wahre-Form-Entwicklung erhöht Angriff<br>und Verteidigung!<br>	Wahre Form hat +Vert. und größere<br>Angriffsreichweite auf hohe Distanz!<br>Erhält zudem Rückstoß gg. Aliens!
 362	Wahre-Form-Entwicklung verstärkt Angriffe,<br>Verteidigung und Angriffsreichweite!<br>
@@ -438,7 +438,7 @@
 437	Also, ich überleg' ja auch, ob ich mich mal<br>entwickeln sollte. Aber nur mit goldener<br>Katzenfrucht. Gibt's vielleicht am Schrein?
 438	<br><br>
 439	Wahre-Form-Entwicklung erhöht<br>Verteidigung und Angriffskraft! Wird zudem<br>immun gegen feindliche Teleport-Effekte!
-440	<br><br>
+440	Wahre-Form-Entw. erhöht Angriffskraft!<br>Kann zudem Angriffen ausweichen<br>und erhält Fähigkeit „Abwehrbrecher“!
 441	<br><br>
 442	<br><br>
 443	Wahre-Form-Entwicklung gewährt erhöhtes<br>Angriffstempo und die Fähigkeit<br>„Stark gegen wertelose Feinde“!
@@ -658,7 +658,7 @@
 657	<br><br>
 658	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
 659	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
-660	<br><br>
+660	Wahre-Form-Entwicklung erhöht<br>Verteidigung & Tempo<br>und erhöht Chance auf wilde Schläge!
 661	<br><br>
 662	<br><br>
 663	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
@@ -776,3 +776,6 @@
 775	<br><br>
 776	<br><br>
 777	<br><br>
+778	<br><br>
+779	<br><br>
+780	<br><br>

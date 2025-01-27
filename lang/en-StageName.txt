@@ -1648,8 +1648,9 @@
 001-365-005	Skipped Turn
 001-366		Snow Doges
 001-366-000	Hail Doge
-001-366-001	Doge-Packed Garden
-001-366-002	Cats Warmly Battling
+001-366-001	Snow Falls Forevermore
+001-366-002	Doge-Packed Garden
+001-366-003	Cats Warmly Battling
 001-367		Lunar New Year Sale Scuffle
 001-367-000	Lunar New Year Blowout
 001-367-001	DDoS Takedown
@@ -1701,6 +1702,16 @@
 001-384		Food Stall Cat Awakes!
 001-384-000	Stalled Evolution 1 (Insane)
 001-384-001	Stalled Evolution 2 (Insane)
+001-391		Hunt for the Xenobeast
+001-391-000	King of the Beasts I (Deadly)
+001-391-001	King of the Beasts II (Merciless)
+001-391-002	King of the Beasts III (Merciless)
+001-391-003	King of the Beasts: Final Bout (Brutal)
+001-392		Memories of 2024
+001-392-000	Memories of Spring
+001-392-001	Memories of Summer
+001-392-002	Memories of Fall
+001-392-003	Memories of Winter
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2330,6 +2341,24 @@
 002-219-000	The Wolf Revived
 002-219-001	Evil-Immediate-Slaughter
 002-219-002	I Disavow You Entirely
+002-220		Witch's Labyrinth: Rose Garden Witch
+002-220-000	Allow Me To Introduce Myself
+002-220-001	But Before That
+002-220-002	Some Cleaning Up
+002-220-003	Is In Order
+002-220-004	Tiro Finale!
+002-221		Witch's Labyrinth: Dessert Witch
+002-221-000	My Body Is Light
+002-221-001	With Such Joy
+002-221-002	A Battle Like This
+002-221-003	I'm Afraid of Nothing
+002-221-004	I'm Not Alone Anymore
+002-222		Witch's Labyrinth: Box Witch
+002-222-000	I Know My Wish
+002-222-001	Miracles and Magic Are Real
+002-222-002	Did I Do Well?
+002-222-003	I Have No Regrets
+002-222-004	You'll Be Happy, Won't You
 
 003			Main Story Chapters
 003-000		EoC Ch.1 Zombie
@@ -3317,6 +3346,16 @@
 004-068-000	The Face of God
 004-069		
 004-069-000	Revival of Origin
+004-072		Memories of 2024
+004-072-000	Memories of Spring Page 2
+004-072-001	Memories of Summer Page 2
+004-072-002	Memories of Fall Page 2
+004-072-003	Memories of Winter Page 2
+004-073		Memories of 2024
+004-073-000	Memories of Spring Page 3
+004-073-001	Memories of Summer Page 3
+004-073-002	Memories of Fall Page 3
+004-073-003	Memories of Winter Page 3
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
@@ -5083,6 +5122,17 @@
 024-068-007	Haunted Photo Spot
 024-068-008	Obstinate Geists
 024-068-009	Must Capture Them All
+024-069		A Colossal New Year!
+024-069-000	Year of the Snake Lv.1
+024-069-001	Year of the Snake Lv.2
+024-069-002	Year of the Snake Lv.3
+024-069-003	Year of the Snake Lv.4
+024-069-004	Year of the Snake Lv.5
+024-069-005	Year of the Snake Lv.6
+024-069-006	Year of the Snake Lv.7
+024-069-007	Year of the Snake Lv.8
+024-069-008	Year of the Snake Lv.9
+024-069-009	Year of the Snake Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -5756,6 +5806,13 @@
 034-015-003	Automatic Avoidance
 034-015-004	Pirates Breaking Rank
 034-015-005	Smooth Docking
+034-016		En Garde Shrine
+034-016-000	Incompetent Watchman
+034-016-001	Tender Trap
+034-016-002	Auto-Walk Labyrinth
+034-016-003	Cheerful Heretic
+034-016-004	Illuminated Trapdoor
+034-016-005	Obvious Cache
 
 036			Colosseum Stages
 036-000		Otherworld Colosseum
@@ -5794,6 +5851,18 @@
 036-005-002	Round 3
 036-005-003	Round 4
 036-005-004	Round 5
+036-006		Otherworld Colosseum
+036-006-000	Round 1
+036-006-001	Round 2
+036-006-002	Round 3
+036-006-003	Round 4
+036-006-004	Round 5
+036-007		Otherworld Colosseum
+036-007-000	Round 1
+036-007-001	Round 2
+036-007-002	Round 3
+036-007-003	Round 4
+036-007-004	Round 5
 
 037			Catclaw Championships
 037-000		Catclaw Championships Rank 1

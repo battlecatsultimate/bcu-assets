@@ -261,6 +261,7 @@
 1066	Maize Cat
 1067	Ancient Egg: N006
 1068	Master of Mind Soractes
+1069	Bowler Cat
 1100	Bronze Cat
 1101	Space Cat
 1102	Rope Jump Cat
@@ -530,6 +531,8 @@
 15283	Gorgeous Groovin' Cat
 15284	Pai-Pai DX
 15287	Flight Unit R.E.I.
+15289	Ultimate Madoka
+15290	Devil Homura
 15303	Queen Succubus Cat
 15305	CAT-8 Behemoth
 15306	B.C.S. Tigerclaw
@@ -583,6 +586,7 @@
 15437	Mystican Pasalan
 15438	Cat God the Golden
 15440	Almighty Chronos
+15441	Law of Cycles Nagisa
 15444	Neo Driller Cat
 15445	Neo Piledriver Cat
 15446	Neo Cutter Cat
@@ -641,6 +645,7 @@
 15657	Haniwa Cat
 15659	Courier Cat
 15660	Catarzan
+15661	God-Emperor Daliasan
 15664	Gas Mask Cat
 15665	Surgeon Cat
 15666	Exorcist Cat

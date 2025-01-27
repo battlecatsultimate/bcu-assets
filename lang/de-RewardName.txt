@@ -261,6 +261,7 @@
 1066	Maiskatze
 1067	Uraltes Ei: N006
 1068	Meister der Gedanken Soraktes
+1069	Bowler-Katze
 1100	Bronzekatze
 1101	Weltraumkatze
 1102	Seilhüpfkatze
@@ -530,6 +531,8 @@
 15283	Gala-Groove-Katze
 15284	Pai-Pai DX
 15287	Flugeinheit R.E.I.
+15289	Ultimate Madoka
+15290	Devil Homura
 15303	Königin Succubus-Katze
 15305	KATZ-8-Behemoth
 15306	K.K.S. Tigerklaue
@@ -583,6 +586,7 @@
 15437	Mystican Pasalan
 15438	Katzengott der Goldene
 15440	Allmächtige Chronos
+15441	Law of Cycles Nagisa
 15444	Neo-Bohrerkatze
 15445	Neo-Ramme-Katze
 15446	Neo-Schneidekatze
@@ -641,6 +645,7 @@
 15657	Haniwa-Katze
 15659	Kurierkatze
 15660	Katzan
+15661	Gottkaiser Daliasan
 15664	Gasmaskenkatze
 15665	Chirurgen-Katze
 15666	Exorzistenkatze

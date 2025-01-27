@@ -261,6 +261,7 @@
 1066	Gatturco
 1067	Uovo antico N006
 1068	Maestro della mente Sokrate
+1069	Gatto bowling
 1100	Busto di Gatto
 1101	Gatto spaziale
 1102	Gatto con la corda
@@ -530,6 +531,8 @@
 15283	Splendido Gatto ballerino
 15284	Pai-Pai DX
 15287	Intercettore R.E.I.
+15289	Ultimate Madoka
+15290	Devil Homura
 15303	Gatta Succubo regina
 15305	GAT-8 Behemoth
 15306	Nave Artiglio
@@ -583,6 +586,7 @@
 15437	Mystican Pasalan
 15438	Gatto divino dorato
 15440	Chronos Onnipotente
+15441	Law of Cycles Nagisa
 15444	Neo Gatto trivella
 15445	Neo Gatta battipalo
 15446	Neo Gatto tagliatutto
@@ -641,6 +645,7 @@
 15657	Gatto haniwa
 15659	Gatto corriere
 15660	Gattarzan
+15661	Daliasan Dio-Imperatore
 15664	Gatto maschera antigas
 15665	Gatto chirurgo
 15666	Gattorcista

@@ -117,3 +117,5 @@
 116	Termine Super Smash Familles
 117	Termine tous les niveaux Légende mystérieuse de niv. 4
 118	Termine le niveau Nova
+119	Termine Chasse au xénomonstre
+120	Termine Labyrinthe souterrain niv. 100

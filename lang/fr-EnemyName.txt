@@ -271,12 +271,12 @@
 270	Chats déchaînés
 271	Apis Regina
 272	P’tit Bun Bun
-273	
-274	
-275	
-276	
-277	
-278	
+273	The Rose Garden Witch
+274	Dessert Witch - Obsession
+275	Dessert Witch
+276	Box Witch and Minions
+277	Walpurgisnacht
+278	Kyuubei
 279	Chat ritualiste
 280	Zanglier
 281	Miss Panneau de festival
@@ -427,7 +427,7 @@
 426	Phoque dirigeant
 427	Cadavrours
 428	Rastaglier
-429	
+429	Nutcracker Witch
 430	Satan Claus
 431	Bakoo
 432	
@@ -577,7 +577,7 @@
 576	Grande balle blanche
 577	Grande balle rouge
 578	Grande balle de fer
-579	
+579	Incubator
 580	Vent blanc
 581	Vent rouge
 582	Vent noir
@@ -708,4 +708,8 @@
 707	Nobunaga révolutionnaire
 708	
 709	
-710	Château Griffélin
+710	
+711	Toutou Serpan
+712	Monticule mystère
+713	Prof. Hibougret
+714	Xénomonstre Bunaglios

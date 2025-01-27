@@ -117,3 +117,5 @@
 116	★ Familia Atroz ★
 117	★ Soy Leyenda Inquietante 4 ★
 118	★ Misteriosoo ataque del ser vivo ★
+119	★ Engendro Cósmico Bunaglios ★
+120	★ Bajo Tierra S100 ★

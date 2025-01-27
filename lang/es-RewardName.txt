@@ -261,6 +261,7 @@
 1066	Gato Maicero
 1067	Huevo Antiguo N006
 1068	Sórcates Mente Brillante
+1069	Gato Jugador de Bolos
 1100	Gato de Bronce
 1101	Gato Espacial
 1102	Gato con Comba
@@ -530,6 +531,8 @@
 15283	Gato Bailongo Precioso
 15284	Pai-Pai DX
 15287	Unidad Voladora R. E. I.
+15289	Ultimate Madoka
+15290	Devil Homura
 15303	Gata Reina Súcubo
 15305	Mastodonte de Asalto
 15306	BCS Garra de Tigre
@@ -582,6 +585,7 @@
 15437	Pasalan Místico
 15438	Misidiós el Dorado
 15440	Chronos Todopoderosa
+15441	Law of Cycles Nagisa
 15444	Neogato Taladrador
 15445	Neogato Martinete
 15446	Neogato Cortador
@@ -640,6 +644,7 @@
 15657	Gato Haniwa
 15659	Gato Mensajero
 15660	Gatarzán
+15661	Daliasan, Dios Emperador
 15664	Gato con Máscara de Gas
 15665	Gato Cirujano
 15666	Gato Exorcista

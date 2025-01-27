@@ -271,12 +271,12 @@
 270	Gatos Violentos
 271	Abeja Reina
 272	Minibunbun
-273	
-274	
-275	
-276	
-277	
-278	
+273	The Rose Garden Witch
+274	Dessert Witch - Obsession
+275	Dessert Witch
+276	Box Witch and Minions
+277	Walpurgisnacht
+278	Kyuubei
 279	Gato Ritual
 280	Javi Li Rebelde
 281	Señora Cartelita Festiva
@@ -427,7 +427,7 @@
 426	Director Foca
 427	Oso Cadaveroso
 428	Javi Malacara
-429	
+429	Nutcracker Witch
 430	Satán Noel
 431	Bakoo
 432	
@@ -577,7 +577,7 @@
 576	Pelota Blanca Gigante
 577	Pelota Roja Gigante
 578	Pelota de Acero Gigante
-579	
+579	Incubator
 580	Viento Blanco
 581	Viento Rojo
 582	Viento Negro
@@ -708,4 +708,8 @@
 707	Nobunaga Revolucionario
 708	
 709	
-710	Castillo Afilagarras
+710	
+711	Serpichucho
+712	Montón de Nieve Misterioso
+713	Profesor Lechuzón
+714	Engendro Cósmico Bunaglios
