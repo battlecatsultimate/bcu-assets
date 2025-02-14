@@ -43,6 +43,8 @@
 -1015	Miracle 4 Selection Gacha
 -1016	Excellent 4 Selection Gacha
 -1017	Lunar New Year's Capsules Gacha
+-1018	100M Download Anniversary Gacha
+-1019	100M Download Selection Gacha
 -2000	Princess Punt Collab Gacha	//Princess Punt 176
 -2001	Annihilation City COllab Gacha	//Annihilation City 180
 -2002	Merc Storia Collab Gacha	//Merc 185
@@ -89,6 +91,7 @@ E33	Bikkuriman Chocolate Capsules
 E34	Halloween Party Capsules
 E35	New Moon Capsules
 E36	New Moon Capsules
+E37	Love Letter Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -939,3 +942,11 @@ N65	Cats Eye Capsules
 958	-2007	778
 959	-1017
 960	-2007	778
+961	-1018
+962	-11	781
+963	-105	781
+964	-106	781
+965	-104	781
+966	-107	781
+967	-1019	783
+968	-114	786

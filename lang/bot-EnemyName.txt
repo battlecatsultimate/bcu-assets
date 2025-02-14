@@ -713,3 +713,8 @@
 712	Mystery Snowmound
 713	Prof. Owlbrowley
 714	Xenobeast Bunaglios
+715	Shachiko
+716	Holy Valkyrie Cat
+717	Awakened Bahamut Cat
+718	Chocosurp Cat Capsule
+719	Killer Gross Cat

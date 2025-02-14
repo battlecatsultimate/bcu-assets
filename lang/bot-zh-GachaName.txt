@@ -43,6 +43,8 @@
 -1015	無敵4精選
 -1016	卓越4精選
 -1017	春節新年轉蛋
+-1018	100M Download Anniversary Gacha
+-1019	100M Download Selection Gacha
 -2000	公主踢騎士	//Princess Punt 176
 -2001	消滅都市	//Annihilation City 180
 -2002	梅露可物語	//Merc 185
@@ -84,6 +86,7 @@ E33	聖魔大戰
 E34	Halloween Party Capsules
 E35	春節活動轉蛋
 E36	春節活動轉蛋
+E37	心動時分貓咪學園
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -945,3 +948,11 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 958	-2007	778
 959	-1017
 960	-2007	778
+961	-1018
+962	-11	781
+963	-105	781
+964	-106	781
+965	-104	781
+966	-107	781
+967	-1019	783
+968	-114	786
