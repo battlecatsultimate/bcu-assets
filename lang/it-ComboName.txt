@@ -237,3 +237,5 @@
 3053	Contratto oscuro
 3054	Davide batte Golia
 3055	Tallone tuonante
+3056	Sospiro di sollievo
+3057	パッカーン

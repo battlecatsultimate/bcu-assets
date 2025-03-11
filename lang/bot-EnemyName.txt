@@ -716,5 +716,5 @@
 715	Shachiko
 716	Holy Valkyrie Cat
 717	Awakened Bahamut Cat
-718	Chocosurp Cat Capsule
+718	Choco Capsule
 719	Killer Gross Cat

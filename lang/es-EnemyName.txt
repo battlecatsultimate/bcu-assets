@@ -184,7 +184,7 @@
 183	Ciberceronte
 184	Señorita Celebriche
 185	Profe H.
-186	
+186	Tartachucho de los 100 M
 187	
 188	
 189	MARS PEOPLE
@@ -713,3 +713,9 @@
 712	Montón de Nieve Misterioso
 713	Profesor Lechuzón
 714	Engendro Cósmico Bunaglios
+715	Shachiko
+716	Gata Valquiria Sagrada
+717	Gato Bégimo Alzado
+718	Choco Capsule
+719	Gatilargo Asesino
+720	

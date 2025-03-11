@@ -1710,6 +1710,15 @@
 001-392-001	Sommererinnerungen
 001-392-002	Herbsterinnerungen
 001-392-003	Wintererinnerungen
+001-393		Z-Clionel wiederbelebt!
+001-393-000	Die letzte Leiche (Gnadenlos)
+001-393-001	Mein Beileid (Gnadenlos)
+001-394		Prüfung der Walkürenkatze
+001-394-000	Die Reise zum Talent
+001-395		Prüfung der Bahamut-Katze
+001-395-000	Die Reise zum Talent
+001-396		Haufenweise Geschenke zur Feier von 100 Mio.!
+001-396-000	Hurra! 100 Mio. Downloads!
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -1745,7 +1754,7 @@
 002-008-005	Lost Memories
 002-008-006	Threads of Love
 002-008-007	300 Yard Strike
-002-009		
+002-009
 002-009-000	20-on-20
 002-009-001	Cat Battle
 002-009-002	Nyanko Coliseum
@@ -1759,11 +1768,11 @@
 002-018		Healer Awakens!
 002-018-000	Healer Awakens (Expert)
 002-018-001	Healer Awakens (Insane)
-002-021		Matal Slug Defense
+002-021		Metal Slug Defense
 002-021-000	Immortal Allen O'Neill
 002-021-001	Attack on Huge Hermit
 002-021-002	Jupiter King Convoy
-002-022		Super Matal Slug Defense
+002-022		Super Metal Slug Defense
 002-022-000	Devils on the Doorstep (Insane)
 002-028		Takuya & Yuki Awaken
 002-028-000	Takuya ＆ Yuki Awaken! (Veteran)
@@ -3539,6 +3548,57 @@
 007-009-007	Ebene 8
 007-009-008	Ebene 9
 007-009-009	Oberste Ebene
+007-010		Goldener Turm
+007-010-000	Ebene 1
+007-010-001	Ebene 2
+007-010-002	Ebene 3
+007-010-003	Ebene 4
+007-010-004	Ebene 5
+007-010-005	Ebene 6
+007-010-006	Ebene 7
+007-010-007	Ebene 8
+007-010-008	Ebene 9
+007-010-009	Ebene 10
+007-010-010	Ebene 11
+007-010-011	Ebene 12
+007-010-012	Ebene 13
+007-010-013	Ebene 14
+007-010-014	Ebene 15
+007-010-015	Ebene 16
+007-010-016	Ebene 17
+007-010-017	Ebene 18
+007-010-018	Ebene 19
+007-010-019	Ebene 20
+007-010-020	Ebene 21
+007-010-021	Ebene 22
+007-010-022	Ebene 23
+007-010-023	Ebene 24
+007-010-024	Ebene 25
+007-010-025	Ebene 26
+007-010-026	Ebene 27
+007-010-027	Ebene 28
+007-010-028	Ebene 29
+007-010-029	Ebene 30
+007-010-030	Ebene 31
+007-010-031	Ebene 32
+007-010-032	Ebene 33
+007-010-033	Ebene 34
+007-010-034	Ebene 35
+007-010-035	Ebene 36
+007-010-036	Ebene 37
+007-010-037	Ebene 38
+007-010-038	Ebene 39
+007-010-039	Ebene 40
+007-010-040	Ebene 41
+007-010-041	Ebene 42
+007-010-042	Ebene 43
+007-010-043	Ebene 44
+007-010-044	Ebene 45
+007-010-045	Ebene 46
+007-010-046	Ebene 47
+007-010-047	Ebene 48
+007-010-048	Ebene 49
+007-010-049	Ebene 50
 
 011			Ranking Dojo Stages
 011-000		Ehrenarena
@@ -5727,6 +5787,13 @@
 034-016-003	Fröhlicher Häretiker
 034-016-004	Beleuchtete Falltür
 034-016-005	Offensichtliches Versteck
+034-017		Waldspielplatz
+034-017-000	Abflug des Bambuskopters
+034-017-001	Laubbaum-Yo-Yo
+034-017-002	Marmorsumpf
+034-017-003	Seegrastrompete
+034-017-004	Trompohügel
+034-017-005	Geliebter Wasserfall
 
 036			Colosseum Stages
 036-000		Anderwelt-Kolosseum
@@ -5777,6 +5844,12 @@
 036-007-002	Runde 3
 036-007-003	Runde 4
 036-007-004	Runde 5
+036-008		Anderwelt-Kolosseum
+036-008-000	Runde 1
+036-008-001	Runde 2
+036-008-002	Runde 3
+036-008-003	Runde 4
+036-008-004	Runde 5
 
 037			Katzenkrall-Meisterschaften
 037-000		Katzenkrall-Meisterschaften Rang 1

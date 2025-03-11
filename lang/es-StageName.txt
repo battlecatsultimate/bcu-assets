@@ -1710,6 +1710,15 @@
 001-392-001	Recuerdos de verano
 001-392-002	Recuerdos de otoño
 001-392-003	Recuerdos de invierno
+001-393		¡Resurrección de Clionel Zombi!
+001-393-000	El Último Aliento (Inhumano)
+001-393-001	Con compasión (Inhumano)
+001-394		Prueba de la Gata Valquiria
+001-394-000	Sendero del Talento
+001-395		Prueba del Gato Bégimo
+001-395-000	Sendero del Talento
+001-396		¡Oleada de regalos de los 100 M!
+001-396-000	¡Bien! ¡100 millones de descargas!
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3540,6 +3549,57 @@
 007-009-007	Piso 8
 007-009-008	Piso 9
 007-009-009	Último Piso
+007-010		Torre Dorada
+007-010-000	Piso 1
+007-010-001	Piso 2
+007-010-002	Piso 3
+007-010-003	Piso 4
+007-010-004	Piso 5
+007-010-005	Piso 6
+007-010-006	Piso 7
+007-010-007	Piso 8
+007-010-008	Piso 9
+007-010-009	Piso 10
+007-010-010	Piso 11
+007-010-011	Piso 12
+007-010-012	Piso 13
+007-010-013	Piso 14
+007-010-014	Piso 15
+007-010-015	Piso 16
+007-010-016	Piso 17
+007-010-017	Piso 18
+007-010-018	Piso 19
+007-010-019	Piso 20
+007-010-020	Piso 21
+007-010-021	Piso 22
+007-010-022	Piso 23
+007-010-023	Piso 24
+007-010-024	Piso 25
+007-010-025	Piso 26
+007-010-026	Piso 27
+007-010-027	Piso 28
+007-010-028	Piso 29
+007-010-029	Piso 30
+007-010-030	Piso 31
+007-010-031	Piso 32
+007-010-032	Piso 33
+007-010-033	Piso 34
+007-010-034	Piso 35
+007-010-035	Piso 36
+007-010-036	Piso 37
+007-010-037	Piso 38
+007-010-038	Piso 39
+007-010-039	Piso 40
+007-010-040	Piso 41
+007-010-041	Piso 42
+007-010-042	Piso 43
+007-010-043	Piso 44
+007-010-044	Piso 45
+007-010-045	Piso 46
+007-010-046	Piso 47
+007-010-047	Piso 48
+007-010-048	Piso 49
+007-010-049	Piso 50
 
 011			Ranking Dojo Stages
 011-000		Arena Honorífica
@@ -5779,6 +5839,13 @@
 034-016-003	Bárbaro Alegre
 034-016-004	Escotilla Iluminada
 034-016-005	Escondrijo Descarado
+034-017		Bosque Lúdico
+034-017-000	Lanzamiento del Bambucóptero
+034-017-001	Yo-Yo Latifolio
+034-017-002	Pantano Marmóreo
+034-017-003	Eco de Maleza Acuática
+034-017-004	Cumbres del Vórtice
+034-017-005	Cascada Sagrada
 
 036			Colosseum Stages
 036-000		Coliseo de Otro Mundo
@@ -5829,6 +5896,12 @@
 036-007-002	Ronda 3
 036-007-003	Ronda 4
 036-007-004	Ronda 5
+036-008		Coliseo de Otro Mundo
+036-008-000	Ronda 1
+036-008-001	Ronda 2
+036-008-002	Ronda 3
+036-008-003	Ronda 4
+036-008-004	Ronda 5
 
 037			Campeonatos Afilagarras
 037-000		Campeonatos Afilagarras Rango 1

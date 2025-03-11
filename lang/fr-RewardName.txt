@@ -46,15 +46,15 @@
 47|S23|I408	Ticket chance
 48|S24|I409	Ticket chance
 49|S25|I410	Ticket chance
-50|S50|I600	Œil de Chat [spécial]
-51|S51|I601	Œil de chat [rare]
-52|S52|I602	Œil de chat [super rare]
-53|S53|I603	Œil de chat [ultra rare]
-54|S54|I604	Œil de chat [légendaire]
+50|S50|I600	Œil-de-chat [spécial]
+51|S51|I601	Œil-de-chat [rare]
+52|S52|I602	Œil-de-chat [super rare]
+53|S53|I603	Œil-de-chat [ultra rare]
+54|S54|I604	Œil-de-chat [légendaire]
 55|S55|I700	Vichamine [A]
 56|S56|I701	Vichamine [B]
 57|S57|I702	Vichamine [C]
-58|S58|I605	Œ.-de-chat [ombre]
+58|S58|I605	Œil-de-chat [ombre]
 60|S60	Attaque du Chanon
 61|S61	Portée du Chanon
 62|S62	Charge du Chanon
@@ -196,6 +196,11 @@
 203|S203|I430	Filet légendaire
 204|S204|I431	Piège légendaire
 206|S206|I433	Esprit légendaire
+209	ダミー
+210	ダミー
+211	ダミー
+212|I265	Ticket des 100M
+213|S213|I438	Lettre d’amour
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -407,6 +412,7 @@
 10529	Chat garde royal
 10532	Ours-Chat cadavre
 10540	Chaterback
+10546	Chat-bulle
 10554	Chat poulet frit
 10555	Uril ésotérique
 10622	Chercheur félin
@@ -464,6 +470,7 @@
 15106	Kuu divine
 15107	Kai divine
 15108	Mine divine
+15112	Frolicking Nono CC
 15120	Wyvern and Alec
 15124	Chats Val Val
 15125	Masamune immortel
@@ -658,6 +665,7 @@
 15684	Yukimura vampirique
 15686	Chat supercar
 15692	Seigneur gorille Luza
+15693	Oni Bathyscaphe Kozuchimaru
 15698	Chef Chat
 15701	Chat tueur à gages
 15707	Chat savonneur

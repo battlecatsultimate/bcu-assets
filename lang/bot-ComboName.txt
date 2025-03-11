@@ -237,3 +237,5 @@
 3053	Dark Contract
 3054	David Beats Goliath
 3055	Thunder Heel Drop
+3056	Sigh of Relief
+3057	パッカーン

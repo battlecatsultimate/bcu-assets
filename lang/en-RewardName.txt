@@ -196,6 +196,11 @@
 203|S203|I430	Legend Net
 204|S204|I431	Legend Trap
 206|S206|I433	Legendary Spirit
+209	ダミー
+210	ダミー
+211	ダミー
+212|I265	100M DL Celebration Ticket
+213|S213|I438	Love Letter
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -407,6 +412,7 @@
 10529	Royal Guard Cat
 10532	Cadaver BearCat
 10540	Gridiron Cat
+10546	Bubble Cat
 10554	Fried Chicken Cat
 10555	Esoteric Uril
 10622	Cat Researcher
@@ -464,6 +470,7 @@
 15106	Divine Kuu
 15107	Divine Kai
 15108	Divine Coppermine
+15112	Frolicking Nono CC
 15120	Wyvern and Alec
 15124	Val Val Cat
 15125	Immortal Masamune
@@ -658,6 +665,7 @@
 15684	Vampiric Yukimura
 15686	Supercar Cat
 15692	Ape Lord Luza
+15693	Oni Battlepod Kozuchimaru
 15698	Cat Chief
 15701	Hitman Cat
 15707	Soap Cat

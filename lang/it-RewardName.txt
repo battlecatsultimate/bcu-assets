@@ -196,6 +196,11 @@
 203|S203|I430	Rete leggendaria
 204|S204|I431	Trappola leggend.
 206|S206|I433	Spirito leggenda
+209	ダミー
+210	ダミー
+211	ダミー
+212|I265	Big. Festa 100M DL
+213|S213|I438	Lettera d'amore
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -407,6 +412,7 @@
 10529	Gatto guardia reale
 10532	Gattorso cadavere
 10540	Gatto griglia
+10546	Gatto bolla
 10554	Gatto pollo fritto
 10555	Uril esoterico
 10622	Gatto ricercatore
@@ -464,6 +470,7 @@
 15106	Kuu divina
 15107	Kai divina
 15108	Ramina divina
+15112	Frolicking Nono CC
 15120	Wyvern and Alec
 15124	Gatti Val Val
 15125	Masamune Immortale
@@ -658,6 +665,7 @@
 15684	Yukimura vampiro
 15686	Gatto Supercar
 15692	Luza lo scimmione
+15693	Oni Battlepod Kozuchimaru
 15698	Gatto capo
 15701	Gatto killer
 15707	Gatto sapone

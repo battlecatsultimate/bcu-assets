@@ -882,3 +882,22 @@
 9551	Clear 9 Madoka Magica collab stages
 9552	Clear 9 Madoka Magica collab stages
 9553	Witch Culling Mission 4: Defeat Stagebuilder Witch. Appears in the stage Walpurgisnacht
+9554	Supera il 30° piano della Torre dorata. (Questa ricompensa può essere riscattata una volta sola)
+9555	Supera il 40° piano della Torre dorata. (Questa ricompensa può essere riscattata una volta sola)
+9556	Supera il 50° piano della Torre dorata. (Questa ricompensa può essere riscattata una volta sola)
+9557	【100M DL】Supera tutte le missioni dell'evento. e ottieni un pezzo di platino
+9558	【100M DL】Manda Gamatoto in 17 spedizioni riuscite! (Completa 1 spedizione in un'area Gamatoto: )
+9559	【100M DL】Manda Gamatoto in 17 spedizioni riuscite! (Completa 3 spedizioni in un'area Gamatoto: )
+9560	【100M DL】Manda Gamatoto in 17 spedizioni riuscite! (Completa 5 spedizioni in un'area Gamatoto: )
+9561	【100M DL】Supera Regali a fiumi Festa 100M DL! 9 volte! ()
+9562	【100M DL】Supera Regali a fiumi Festa 100M DL! 9 volte! ()
+9563	【100M DL】Supera Regali a fiumi Festa 100M DL! 9 volte! ()
+9564	【100M DL】Supera 0 liv. di "The Battle Cats". Qualunque liv. vale ai fini del conteggio totale. ()
+9565	【100M DL】Supera 0 liv. di "The Battle Cats". Qualunque liv. vale ai fini del conteggio totale. ()
+9566	Supera 9 liv. di "Stagione 1: Giorni di scuola". Qualunque liv. vale ai fini del conteggio totale. ()
+9567	Supera 9 liv. di "Stagione 2: Festival del Batticuore". Qualunque liv. vale ai fini del conteggio totale. ()
+9568	Supera 9 liv. di "Stagione 3: Gita". Qualunque liv. vale ai fini del conteggio totale. ()
+9569	Supera 9 liv. di "Stagione 4: Diploma". Qualunque liv. vale ai fini del conteggio totale. ()
+9570	Supera 9 liv. di "Weekend: Dichiarazione". Qualunque liv. vale ai fini del conteggio totale. ()
+80	Sblocca i talenti per la Gatta Valchiria Sacra. Supera la Prova della Gatta Valchiria per sbloccare
+81	Sblocca i talenti per il Gatto Bahamut risvegliato. Supera la Prova del Gatto Bahamut risvegliato per sbloccare

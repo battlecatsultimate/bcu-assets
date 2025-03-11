@@ -882,3 +882,22 @@
 9551	Clear 9 Madoka Magica collab stages
 9552	Clear 9 Madoka Magica collab stages
 9553	Witch Culling Mission 4: Defeat Stagebuilder Witch. Appears in the stage Walpurgisnacht
+9554	Clear Floor 30 of the Golden Tower. (This reward can only be claimed once.)
+9555	Clear Floor 40 of the Golden Tower. (This reward can only be claimed once.)
+9556	Clear Floor 50 of the Golden Tower. (This reward can only be claimed once.)
+9557	【100M DL】Clear all of the event missions. and earn a Platinum Shard
+9558	【100M DL】Send Gamatoto on 17 successful expeditions!
+9559	【100M DL】Send Gamatoto on 17 successful expeditions!
+9560	【100M DL】Send Gamatoto on 17 successful expeditions!
+9561	【100M DL】Clear 100M Celebration Gifts
+9562	【100M DL】Clear 100M Celebration Gifts
+9563	【100M DL】Clear 100M Celebration Gifts
+9564	【100M DL】Clear 0 The Battle Cats stages
+9565	【100M DL】Clear 0 The Battle Cats stages
+9566	Clear 9 Season 1: School Days stages
+9567	Clear 9 Season 2: Heartbeat Festival stages
+9568	Clear 9 Season 3: Field Trip stages
+9569	Clear 9 Season 4: Graduation Day stages
+9570	Clear 9 Weekend: Confession stages
+80	Unlock Talents for Holy Valkyrie Cat. Clear Valkyrie Cat's Trial to unlock
+81	Unlock Talents for Awakened Bahamut Cat. Clear Bahamut Cat's Trial to unlock

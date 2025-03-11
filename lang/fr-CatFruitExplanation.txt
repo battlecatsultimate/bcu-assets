@@ -109,7 +109,7 @@
 108	<br><br>
 109	<br><br>
 110	<br><br>
-111	<br><br>
+111	True Form evolution increases movement<br>speed and lowers deploy cost!<br>Gains a small chance to Survive a fatal blow!
 112	<br><br>
 113	<br><br>
 114	<br><br>
@@ -133,7 +133,7 @@
 132	<br><br>
 133	<br><br>
 134	La forme ultime augmente la défense,<br>la puissance d’att., la portée et accorde<br>une immun. aux affaiblissements ennemis.
-135	La forme ultime augmente la puissance<br>d’attaque et donne 100 % de chances<br>d’immobiliser les ennemis flottants/anges !
+135	La forme ultime augmente la puissance<br>d’attaque et donne 100 % de chances<br>d’immobiliser les ennemis flottants/anges !	L’ultra forme gagne devant-derrière et<br>défense améliorée ! Coût déploiement ↓<br>+ vague offensive et Fléau des Sages !
 136	La forme ultime augmente toutes les caract.<br>et donne une chance accrue d’immobiliser<br>les ennemis rouges/anges !
 137	La forme ultime augmente la défense,<br>la portée et le taux d’attaque !<br>d’attaque !
 138	La forme ultime augmente toutes les caract.<br>et a 100 % de chances de ralentir<br>les ennemis anges/métal.	L'ultra forme révèle<br>sa forme la plus puissante !<br>Gagne aussi Métallicide !
@@ -690,7 +690,7 @@
 689	<br><br>
 690	<br><br>
 691	La forme ultime révèle son aspect final !<br>Gagne Fléau des Béhémoths !<br>Plus immun. séries offensives !	La forme ultime révèle son aspect final !<br>Gagne Fléau des Béhémoths !<br>Plus immunité contre répliques offensives !
-692	<br><br>
+692	La forme ultime améliore l’attaque !<br>Vitesse de déplacement augmentée et<br>immunité aux effets d’immobilisation !	<br><br>
 693	<br><br>
 694	<br><br>
 695	<br><br>
@@ -779,3 +779,9 @@
 778	<br><br>
 779	<br><br>
 780	<br><br>
+781	<br><br>
+782	<br><br>
+783	<br><br>
+784	<br><br>
+785	<br><br>
+786	<br><br>

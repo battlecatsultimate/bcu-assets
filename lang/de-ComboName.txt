@@ -237,3 +237,5 @@
 3053	Dunkler Pakt
 3054	David besiegt Goliath
 3055	Donnerkeil-Fall
+3056	Seufzer der Erleichterung
+3057	パッカーン

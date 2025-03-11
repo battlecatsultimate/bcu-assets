@@ -1712,6 +1712,15 @@
 001-392-001	Memories of Summer
 001-392-002	Memories of Fall
 001-392-003	Memories of Winter
+001-393		Z-Onel Resurrected!
+001-393-000	The Final Corpse (Merciless)
+001-393-001	With Sympathy (Merciless)
+001-394		Valkyrie Cat's Trial
+001-394-000	Journey to Talent
+001-395		Bahamut Cat's Trial
+001-395-000	Journey to Talent
+001-396		100M Celebration Gifts Galore!
+001-396-000	Grats! 100 Million DLs!
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3552,6 +3561,57 @@
 007-009-007	Floor 8
 007-009-008	Floor 9
 007-009-009	Top Floor
+007-010		Golden Tower
+007-010-000	Floor 1
+007-010-001	Floor 2
+007-010-002	Floor 3
+007-010-003	Floor 4
+007-010-004	Floor 5
+007-010-005	Floor 6
+007-010-006	Floor 7
+007-010-007	Floor 8
+007-010-008	Floor 9
+007-010-009	Floor 10
+007-010-010	Floor 11
+007-010-011	Floor 12
+007-010-012	Floor 13
+007-010-013	Floor 14
+007-010-014	Floor 15
+007-010-015	Floor 16
+007-010-016	Floor 17
+007-010-017	Floor 18
+007-010-018	Floor 19
+007-010-019	Floor 20
+007-010-020	Floor 21
+007-010-021	Floor 22
+007-010-022	Floor 23
+007-010-023	Floor 24
+007-010-024	Floor 25
+007-010-025	Floor 26
+007-010-026	Floor 27
+007-010-027	Floor 28
+007-010-028	Floor 29
+007-010-029	Floor 30
+007-010-030	Floor 31
+007-010-031	Floor 32
+007-010-032	Floor 33
+007-010-033	Floor 34
+007-010-034	Floor 35
+007-010-035	Floor 36
+007-010-036	Floor 37
+007-010-037	Floor 38
+007-010-038	Floor 39
+007-010-039	Floor 40
+007-010-040	Floor 41
+007-010-041	Floor 42
+007-010-042	Floor 43
+007-010-043	Floor 44
+007-010-044	Floor 45
+007-010-045	Floor 46
+007-010-046	Floor 47
+007-010-047	Floor 48
+007-010-048	Floor 49
+007-010-049	Floor 50
 
 011			Ranking Dojo Stages
 011-000		Arena of Honor
@@ -5813,6 +5873,13 @@
 034-016-003	Cheerful Heretic
 034-016-004	Illuminated Trapdoor
 034-016-005	Obvious Cache
+034-017		Forest Playground
+034-017-000	Bamboocopter Launch
+034-017-001	Broadleaf Yo-Yo
+034-017-002	Marble Swamp
+034-017-003	Waterweed Trumpet
+034-017-004	Trompo Foothills
+034-017-005	Beloved Waterfall
 
 036			Colosseum Stages
 036-000		Otherworld Colosseum
@@ -5863,6 +5930,12 @@
 036-007-002	Round 3
 036-007-003	Round 4
 036-007-004	Round 5
+036-008		Otherworld Colosseum
+036-008-000	Round 1
+036-008-001	Round 2
+036-008-002	Round 3
+036-008-003	Round 4
+036-008-004	Round 5
 
 037			Catclaw Championships
 037-000		Catclaw Championships Rank 1

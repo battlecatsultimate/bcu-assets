@@ -109,7 +109,7 @@
 108	Cat Bros	Secret Base
 109	Madam Bride	Madam King	Madam the Savannah
 110	Celesse	Celesse CC
-111	Nono	Nono CC	White Cat Nono CC
+111	Nono	Nono CC	Frolicking Nono CC
 112	Olga	Olga CC
 113	Norn	Norn CC
 114	Yoichi	Yoichi CC
@@ -133,7 +133,7 @@
 132	Kung Fu Cat X	Drunken Master Cat X	Iron Claw X
 133
 134	Urashima Taro	Guardian Gamereon	King Gamereon
-135	The Grateful Crane	Super Galaxy Cosmo	Ultima Galaxy Cosmo
+135	The Grateful Crane	Super Galaxy Cosmo	Ultima Galaxy Cosmo	Supernova Cosmo
 136	Momotaro	The Peach Angels	The Peach Devils
 137	Kasa Jizo	Jizo's Moving Castle	Jizo's Mega-Castle
 138	Princess Kaguya	The Death Moon	The Chaos Moon	Ultra Kaguya
@@ -334,7 +334,7 @@
 333	Shadow Gao	Diabolic Gao
 334	Trickster Himeyuri	Himeyuri Ninetails	Fox Queen Himeyuri
 335	Sea Maiden Ruri	Sea Mistress Ruri	Mer-Queen Ruri
-336	Queen Reika	Pharoah Reika	Eternal Reika
+336	Queen Reika	Pharaoh Reika	Eternal Reika
 337	HMS Princess	HMS Princess CC	HMS Princess II CC
 338	Imagawa Yoshimoto	Wargod Yoshimoto	Immortal Yoshimoto
 339
@@ -690,7 +690,7 @@
 689	Meditation Cat	Paragon Cat
 690	Child of Destiny Phono	King of Destiny Phonoa
 691	Ancient Egg: N000	Elder Egg: N000	Ape Lord Luza
-692	Issun Boshi	Oni Landshaker Kozuchimaru	Oni Striker Kozuchimaru
+692	Issun Boshi	Oni Landshaker Kozuchimaru	Oni Battlepod Kozuchimaru
 693	White Butler Vigler	Black Butler Vigler
 694	Brainwashed Titan Cat	Brainwashed Mythic Titan	Brainwashed Jamiera Cat
 695	Killer Tank Cat	True Killer Tank Cat
@@ -784,4 +784,4 @@
 783	Koneko	Superstar Koneko
 784	Chocosurp Cat C	Chocosurp Cat F
 785	Killer Gross Cat	True Killer Gross Cat
-786	Magician Catman	Illusion Catman
+786	The Amazing Catman	Illusionist Catman

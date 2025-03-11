@@ -882,3 +882,22 @@
 9551	Clear 9 Madoka Magica collab stages
 9552	Clear 9 Madoka Magica collab stages
 9553	Witch Culling Mission 4: Defeat Stagebuilder Witch. Appears in the stage Walpurgisnacht
+9554	Termine le 30e étage de la Tour dorée. (Cette récompense ne peut être obtenue qu’une seule fois.)
+9555	Termine le 40e étage de la Tour dorée. (Cette récompense ne peut être obtenue qu’une seule fois.)
+9556	Termine le 50e étage de la Tour dorée. (Cette récompense ne peut être obtenue qu’une seule fois.)
+9557	[100M] Termine toutes les missions de. l’événement et gagne un éclat platine !
+9558	[100 M] Réussis 17 expédition avec Gamatoto !
+9559	[100 M] Réussis 17 expéditions avec Gamatoto !
+9560	[100 M] Réussis 17 expéditions avec Gamatoto !
+9561	[100 M] Réussis l’Avalanche de cadeaux
+9562	[100 M] Réussis l’Avalanche de cadeaux
+9563	[100 M] Réussis l’Avalanche de cadeaux
+9564	[100 M] Termine 0 niveaux The Battle Cats
+9565	[100 M] Termine 0 niveaux The Battle Cats
+9566	Termine 9 niveaux de la Saison 1 : Jours d’école
+9567	Termine 9 niveaux de la Saison 2 : Festival du cœur
+9568	Termine 9 niveaux de la Saison 3 : Sortie scolaire
+9569	Termine 9 niveaux de la Saison 4 : Remise des diplômes
+9570	Termine 9 niveaux de Week-end : Confession
+80	Débloque des talents pour la Chalkyrie sacrée. Termine l’Épreuve de la Chalkyrie pour les débloquer
+81	Débloque des talents pour le Chat Bahamut éveillé. Termine l’Épreuve du Chat Bahamut éveillé pour les débloquer

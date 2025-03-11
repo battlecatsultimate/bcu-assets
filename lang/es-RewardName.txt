@@ -196,6 +196,11 @@
 203|S203|I430	Red legendaria
 204|S204|I431	Trampa legendaria
 206|S206|I433	Alma Legendaria
+209	ダミー
+210	ダミー
+211	ダミー
+212|I265	Tique de los 100 M
+213|S213|I438	Carta de amor
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -407,6 +412,7 @@
 10529	Guardia Real Gatuna
 10532	Gato Cadaveroso
 10540	Quartercat
+10546	Gato Burbuja
 10554	Gato Pollo Frito
 10555	Uril Esotérico
 10622	Investigator
@@ -464,6 +470,7 @@
 15106	Kuu Divina
 15107	Kai Divina
 15108	Cobrina Divina
+15112	Frolicking Nono CC
 15120	Wyvern and Alec
 15124	Gatos Val Val
 15125	Masamune Inmortal
@@ -657,6 +664,7 @@
 15684	Yukimura Vampírico
 15686	Gato Supercoche
 15692	Lord Luza Simio
+15693	Acorazado Oni Kozuchimaru
 15698	Gato Jefe
 15701	Gato Sicario
 15707	Jabogato

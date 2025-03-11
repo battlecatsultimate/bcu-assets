@@ -1712,6 +1712,15 @@
 001-392-001	Ricordi estivi
 001-392-002	Ricordi autunnali
 001-392-003	Ricordi invernali
+001-393		La resurrezione di Z-Onel!
+001-393-000	Cadavere finale (Spietato)
+001-393-001	Con simpatia (Spietato)
+001-394		Prova della Gatta Valchiria
+001-394-000	Viaggio verso il Talento
+001-395		Prova del Gatto Bahamut
+001-395-000	Viaggio verso il Talento
+001-396		Regali a fiumi per i 100M!
+001-396-000	Auguri! 100 milioni di download!
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3542,6 +3551,57 @@
 007-009-007	8° piano
 007-009-008	9° piano
 007-009-009	Ultimo piano
+007-010		Torre dorata
+007-010-000	1° piano
+007-010-001	2° piano
+007-010-002	3° piano
+007-010-003	4° piano
+007-010-004	5° piano
+007-010-005	6° piano
+007-010-006	7° piano
+007-010-007	8° piano
+007-010-008	9° piano
+007-010-009	10° piano
+007-010-010	11° piano
+007-010-011	12° piano
+007-010-012	13° piano
+007-010-013	14° piano
+007-010-014	15° piano
+007-010-015	16° piano
+007-010-016	17° piano
+007-010-017	18° piano
+007-010-018	19° piano
+007-010-019	20° piano
+007-010-020	21° piano
+007-010-021	22° piano
+007-010-022	23° piano
+007-010-023	24° piano
+007-010-024	25° piano
+007-010-025	26° piano
+007-010-026	27° piano
+007-010-027	28° piano
+007-010-028	29° piano
+007-010-029	30° piano
+007-010-030	31° piano
+007-010-031	32° piano
+007-010-032	33° piano
+007-010-033	34° piano
+007-010-034	35° piano
+007-010-035	36° piano
+007-010-036	37° piano
+007-010-037	38° piano
+007-010-038	39° piano
+007-010-039	40° piano
+007-010-040	41° piano
+007-010-041	42° piano
+007-010-042	43° piano
+007-010-043	44° piano
+007-010-044	45° piano
+007-010-045	46° piano
+007-010-046	47° piano
+007-010-047	48° piano
+007-010-048	49° piano
+007-010-049	50° piano
 
 011			Ranking Dojo Stages
 011-000		Arena dell'onore
@@ -5760,6 +5820,13 @@
 034-016-003	Dissidente gioviale
 034-016-004	Botola illuminata
 034-016-005	Deposito non tanto segreto
+034-017		Cortile forestale
+034-017-000	Lancio del bambucottero
+034-017-001	Yo-Yo ampiafoglia
+034-017-002	Palude di marmo
+034-017-003	Trombelodea
+034-017-004	Contrafforte di Trompo
+034-017-005	Cascata adorata
 
 036			Colosseum Stages
 036-000		Colosseo ultraterreno
@@ -5810,6 +5877,12 @@
 036-007-002	Round 3
 036-007-003	Round 4
 036-007-004	Round 5
+036-008		Colosseo ultraterreno
+036-008-000	Round 1
+036-008-001	Round 2
+036-008-002	Round 3
+036-008-003	Round 4
+036-008-004	Round 5
 
 037			Campionati miciodiali
 037-000		Campionati miciodiali Grado 1

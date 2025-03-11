@@ -237,3 +237,5 @@
 3053	Contrato Oscuro
 3054	David vence a Goliat
 3055	Talón atronador
+3056	Consuelo Explosivo
+3057	パッカーン

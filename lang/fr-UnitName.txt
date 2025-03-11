@@ -109,7 +109,7 @@
 108	Frères Chats	Base secrète		
 109	Madame mariée	Madame royauté	Madame savane	
 110	Celesse	Celesse CC		
-111	Nono	Nono CC		
+111	Nono	Nono CC	Frolicking Nono CC	
 112	Olga	Olga CC		
 113	Norn	Norn CC		
 114	Yoichi	Yoichi CC		
@@ -133,7 +133,7 @@
 132	Chat kung-fu X	Chat éthylique expert X	Griffe de fer X	
 133				
 134	Urashima Taro	Gardien Gamereon	Roi Gamereon	
-135	La grue reconnaissante	Super Galaxie Cosmo	Ultima Galaxie Cosmo	
+135	La grue reconnaissante	Super Galaxie Cosmo	Ultima Galaxie Cosmo	Supernova Cosmo
 136	Momotaro	Les anges adorables	Les diablotins adorables	
 137	Kasa Jizo	Château ambulant de Jizo	Méga-château de Jizo	
 138	Princesse Kaguya	La lune de la mort	La lune du chaos	Ultra Kaguya
@@ -543,7 +543,7 @@
 542				
 543	Kasli la calamité	Kasli, fille du chaos		
 544	Kyosaka Nanaho	Véritable Kyosaka Nanaho		
-545	Chat fantôme	Chat miasme		
+545	Chat fantôme	Chat miasme	Chat-bulle	
 546	Papaluga	Papalan Pasalan	Sukelan Kakulan	
 547	Night Oracle Rei	Heavenly Herald Rei		
 548	The 4th Angel	4th Angel Cat		
@@ -690,7 +690,7 @@
 689	Transcendenchal	Chat parangon		
 690	Phono l’enfant du destin	Phonoa l’enfant du destin		
 691	Œuf ancien N000	Œuf d’occasion N000	Seigneur gorille Luza	
-692	Issun Boshi	Oni Trembleur Kozuchimaru		
+692	Issun Boshi	Oni Trembleur Kozuchimaru	Oni Bathyscaphe Kozuchimaru	
 693	Détective Gravitas blanc	Détective Gravitas noir		
 694	Chat titan sous contrôle	Chat titan myth. sous contr.	Chat Jamilar sous contrôle	
 695	Chat tank tueur	Chat tank tueur ultime		
@@ -766,7 +766,7 @@
 765	Œuf ancien N206	Œuf cinabre N206	Chapalourde	
 766	Sardine	Sardine CC	Provient de "Survive! Mola Mola!". Ses petites arêtes	
 767	Calmar	Calmar CC		
-768				
+768	Taitenki	Taitenki CC		
 769	Chat Hanasaka	Cerise vorace		
 770				
 771	Maître de la vie Dr Nova	Maître de la vie Chanova		
@@ -779,3 +779,9 @@
 778	Madoka Cat & Homura	Magical Cat☆ Magica		
 779	Luna, enfant céleste	Lunacia, fille du salut		
 780	Chat joueur de bowling	Chat ballon prisonnier		
+781	Mamoluga	Mamolan Pasalan		
+782				
+783	Koneko	Koneko Superstar		
+784				
+785				
+786	L’incroyable Homme-Chat	Homme-Chat illusionniste		

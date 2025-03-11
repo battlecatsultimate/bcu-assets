@@ -109,7 +109,7 @@
 108	<br><br>
 109	<br><br>
 110	<br><br>
-111	<br><br>
+111	True Form evolution increases movement<br>speed and lowers deploy cost!<br>Gains a small chance to Survive a fatal blow!
 112	<br><br>
 113	<br><br>
 114	<br><br>
@@ -133,7 +133,7 @@
 132	<br><br>
 133	<br><br>
 134	True Form evolution increases defense,<br>attack power and attack range! Also,<br>immune to enemies' Weaken effects!
-135	True Form evolution increases attack<br>power! Also gains 100% chance to freeze<br>Floating/Angelic enemy movement!
+135	True Form evolution increases attack<br>power! Also gains 100% chance to freeze<br>Floating/Angelic enemy movement!	Ultra Form gains Omnistrike and improved <br>defense! Reduced deploy cost, plus gains<br>Wave attack and Sage Slayer!
 136	True Form evolution increases all<br>traits! Also gains a higher chance to<br>freeze Red/Angelic enemy movement!
 137	True Form evolution increases defense<br>and range! Also increases attack rate!<br>
 138	True Form evolution increases all traits<br>and adds the ability to 100% slow<br>movement of Angel and Metal enemies	Ultra Form evolution reveals<br>their most powerful form!<br>Also gains Metal Killer!
@@ -690,7 +690,7 @@
 689	<br><br>
 690	<br><br>
 691	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>Plus, immunity to Surge attacks!
-692	<br><br>
+692	True Form gains improved attack!<br>Plus, increased movement speed and<br>immunity to enemy Freeze attacks!	Plus, increased movement speed and<br>immunity to enemy Freeze attacks!<br>
 693	<br><br>
 694	<br><br>
 695	<br><br>
@@ -779,3 +779,9 @@
 778	<br><br>
 779	<br><br>
 780	<br><br>
+781	<br><br>
+782	<br><br>
+783	<br><br>
+784	<br><br>
+785	<br><br>
+786	<br><br>

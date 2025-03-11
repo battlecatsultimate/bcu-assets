@@ -196,6 +196,11 @@
 203|S203|I430	Legendennetz
 204|S204|I431	Legendenfalle
 206|S206|I433	Legendärer Geist
+209	ダミー
+210	ダミー
+211	ダミー
+212|I265	100-Mio.-DL-Ticket
+213|S213|I438	Liebesbrief
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -407,6 +412,7 @@
 10529	Königswachenkatze
 10532	Totengräbärkatze
 10540	Gridiron-Katze
+10546	Blasenkatze
 10554	Pfannenhühnchen-Katze
 10555	Esoterischer Uril
 10622	Katzenforscher
@@ -464,6 +470,7 @@
 15106	Himmlische Kuu
 15107	Himmlische Kai
 15108	Himmlische Cupruma
+15112	Frolicking Nono CC
 15120	Wyvern and Alec
 15124	Val-Val-Katzen
 15125	Unsterblicher Masamune
@@ -658,6 +665,7 @@
 15684	Vampirischer Yukimura
 15686	Supersportwagen-Katze
 15692	Affenlord Uza
+15693	Oni-Kampfmaschine Kozuchimaru
 15698	Häuptlingskatze
 15701	Auftragskiller-Katze
 15707	Seifenkatze

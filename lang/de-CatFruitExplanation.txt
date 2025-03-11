@@ -109,7 +109,7 @@
 108	<br><br>
 109	<br><br>
 110	<br><br>
-111	<br><br>
+111	True Form evolution increases movement<br>speed and lowers deploy cost!<br>Gains a small chance to Survive a fatal blow!
 112	<br><br>
 113	<br><br>
 114	<br><br>
@@ -133,7 +133,7 @@
 132	<br><br>
 133	<br><br>
 134	Wahre-Form-Entwicklung erhöht Vert.,<br>Angriffskraft und Angriffsreichweite! Wird<br>immun gg. feindliche Schwächen-Effekte!
-135	Wahre-Form-Entwicklung erhöht Angriff!<br>Friert zudem fliegende und Engel-Feinde<br>garantiert in der Bewegung ein!
+135	Wahre-Form-Entwicklung erhöht Angriff!<br>Friert zudem fliegende und Engel-Feinde<br>garantiert in der Bewegung ein!	Ultra-Form gewährt Rundumschlag & mehr<br>Verteidigung! Verringerte Einsatzkosten,<br>Wellenangriff und Weisentöter!
 136	Wahre-Form-Entwicklung erhöht alle Werte!<br>Gewährt zudem eine höhere Chance, rote<br>und Engel-Feinde einzufrieren!
 137	Wahre-Form-Entwicklung erhöht Vert.,<br>Reichweite und zudem das Angriffstempo!<br>
 138	Wahre-Form-Entwicklung erhöht alle Werte<br>& gewährt die Fähigkeit, eiserne und Engel-<br>Feinde garantiert zu lähmen.	Wahre-Form-Entwicklung enthüllt<br>ihre mächtigste Form!<br>Erhält zudem „Eisernentöter“!
@@ -690,7 +690,7 @@
 689	<br><br>
 690	<br><br>
 691	Wahre-Form-Entwicklung enthüllt Endform!<br>Erhält zudem „Behemothtöter“!<br>Zudem Immunität gegen Zufallsangriffe!
-692	<br><br>
+692	Wahre Form steigert Angriff!<br>Erhöht Tempo und wird immun<br>gegen feindliche Einfrieren-Angriffe!	<br><br>
 693	<br><br>
 694	<br><br>
 695	<br><br>
@@ -779,3 +779,9 @@
 778	<br><br>
 779	<br><br>
 780	<br><br>
+781	<br><br>
+782	<br><br>
+783	<br><br>
+784	<br><br>
+785	<br><br>
+786	<br><br>

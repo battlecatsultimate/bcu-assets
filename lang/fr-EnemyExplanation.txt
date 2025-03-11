@@ -713,3 +713,9 @@
 712	
 713	L’étrange chapeau de ce lettré envahit l’esprit<br>d’un savoir interdit issu de l’au-delà.<br>Ses sermons sur la sagesse profonde et palpitante<br>de l’abîme conduisent ses élèves naïfs à leur perte.
 714	Enseignant banni dans la nature après un scandale<br>lié au châtiment corporel. Toute créature dans ses<br>terres apprendra ce que signifie l’amour vache sous<br>sa poigne de fer. Roi redouté des bêtes sauvages.
+715	Créature aquatique ancestrale à l’appétit vorace.<br>Après avoir mangé une étrange pierre, elle est devenue<br>extrêmement talentueuse pour attraper les poissons,<br>si bien que nombre d’entre eux sont en voie d’extinction.
+716	
+717	
+718	
+719	
+720	<br><br><br>

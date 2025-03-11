@@ -184,7 +184,7 @@
 183	Cybercornu
 184	Dame caniche
 185	Professeur Taman
-186	
+186	Gâteau Toutou des 100M
 187	
 188	
 189	MARS PEOPLE
@@ -713,3 +713,9 @@
 712	Monticule mystère
 713	Prof. Hibougret
 714	Xénomonstre Bunaglios
+715	Shachiko
+716	Chalkyrie sacrée
+717	Chat Bahamut éveillé
+718	Choco Capsule
+719	Grand Chat tueur
+720	

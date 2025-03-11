@@ -877,3 +877,22 @@
 9551	Clear 9 Madoka Magica collab stages
 9552	Clear 9 Madoka Magica collab stages
 9553	Witch Culling Mission 4: Defeat Stagebuilder Witch. Appears in the stage Walpurgisnacht
+9554	Supera el piso 30 de la Torre Dorada. (Este premio solo se puede recoger una vez)
+9555	Supera el piso 40 de la Torre Dorada. (Este premio solo se puede recoger una vez)
+9556	Supera el piso 50 de la Torre Dorada. (Este premio solo se puede recoger una vez)
+9557	【100 M DCS】Supera todas las misiones del evento. y gana 1 fragmento de platino
+9558	【100 M DCS】Envía a Gamatoto a 17 excursiones exitosas:
+9559	【100 M DCS】Envía a Gamatoto a 17 excursiones exitosas:
+9560	【100 M DCS】Envía a Gamatoto a 17 excursiones exitosas:
+9561	【100 M DCS】Supera la Oleada de regalos
+9562	【100 M DCS】Supera la Oleada de regalos
+9563	【100 M DCS】Supera la Oleada de regalos
+9564	Cualquier fase cuenta para el cómputo total
+9565	Cualquier fase cuenta para el cómputo total
+9566	Cualquier fase de Días Escolares cuenta para el total
+9567	Cualquier fase de Festival de Latidos cuenta para el total
+9568	Cualquier fase de Excursión cuenta para el cómputo total
+9569	Cualquier fase de Día de Graduación cuenta para el total
+9570	Cualquier fase de Finde: Confesión cuenta para el total
+80	Desbloquea talentos de la Gata Valquiria Sagrada. Supera la Prueba de la Gata Valquiria para desbloquearlos
+81	Desbloquea talentos del Gato Bégimo Alzado. Supera la Prueba del Gato Bégimo Alzado para desbloquearlos

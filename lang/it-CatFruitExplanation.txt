@@ -109,7 +109,7 @@
 108	<br><br>
 109	<br><br>
 110	<br><br>
-111	<br><br>
+111	True Form evolution increases movement<br>speed and lowers deploy cost!<br>Gains a small chance to Survive a fatal blow!
 112	<br><br>
 113	<br><br>
 114	<br><br>
@@ -133,7 +133,7 @@
 132	<br><br>
 133	<br><br>
 134	La Forma Reale aumenta la difesa,<br>la potenza d'attacco e il raggio! Poi<br>è immune dagli effetti di indebolimento!
-135	La Forma Reale aumenta la velocità<br>d'attacco! E ottiene la possibilità del 100%<br>di immobilità su fluttuanti/angelici!
+135	La Forma Reale aumenta la velocità<br>d'attacco! E ottiene la possibilità del 100%<br>di immobilità su fluttuanti/angelici!	La Forma ultra ottiene Bilaterale e più<br>difesa! Costo diminuito, ottiene<br>att. a ondata e sterminatore di saggi!
 136	La Forma Reale aumenta tutti<br>i tratti! Dà anche una possibilità più<br>alta di immobilità su rossi/angelici!
 137	La Forma Reale aumenta la difesa<br>e il raggio! Aumenta anche il ritmo d'attacco!<br>
 138	La Forma Reale aumenta tutti i tratti<br>e aggiunge l'abilità al 100% di rallentamento<br>su nemici angelici e metallici.	La Forma ultra rivela<br>la loro forma più potente!<br>Ottiene anche Ammazza-metallici!
@@ -690,7 +690,7 @@
 689	<br><br>
 690	<br><br>
 691	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>Più immunità da attacchi a valanga!
-692	<br><br>
+692	La Forma Reale ottiene maggiore attacco!<br>Inoltre, velocità e immunità potenziati<br>agli attacchi di immobilità!	<br><br>
 693	<br><br>
 694	<br><br>
 695	<br><br>
@@ -779,3 +779,9 @@
 778	<br><br>
 779	<br><br>
 780	<br><br>
+781	<br><br>
+782	<br><br>
+783	<br><br>
+784	<br><br>
+785	<br><br>
+786	<br><br>

@@ -1710,6 +1710,15 @@
 001-392-001	Souvenirs d'été
 001-392-002	Souvenirs d'automne
 001-392-003	Souvenirs d'hiver
+001-393		Résurrection de Z-Onel !
+001-393-000	L’ultime cadavre (sans répit)
+001-393-001	Condoléances (sans répit)
+001-394		Épreuve de la Chalkyrie
+001-394-000	En quête de talent
+001-395		Épreuve du Chat Bahamut
+001-395-000	En quête de talent
+001-396		Avalanche de cadeaux des 100 M !
+001-396-000	Bravo ! 100 millions de téléchargements !
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -5767,6 +5776,13 @@
 034-016-003	Hérétique jovial
 034-016-004	Trappe illuminée
 034-016-005	Cachette voyante
+034-017		Aire de jeu forestière
+034-017-000	Décollage de bamboucoptère
+034-017-001	Yoyo largefeuille
+034-017-002	Marais de marbre
+034-017-003	Trompette élodée
+034-017-004	Contreforts de Trompo
+034-017-005	Cascade bien-aimée
 
 036			Colosseum Stages
 036-000		Colisée d'outre-monde
@@ -5817,6 +5833,12 @@
 036-007-002	3e manche
 036-007-003	4e manche
 036-007-004	5e manche
+036-008		Colisée d'outre-monde
+036-008-000	1re manche
+036-008-001	2e manche
+036-008-002	3e manche
+036-008-003	4e manche
+036-008-004	5e manche
 
 037			Championnats Griffélin
 037-000		Rang 1 des championnats Griffélin

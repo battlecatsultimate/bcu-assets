@@ -109,7 +109,7 @@
 108	Katzengeschwister	Geheimbasis		
 109	Die Braut	Die Königin	Die Savannah-Königin	
 110	Celesse	Celesse CC		
-111	Nono	Nono CC		
+111	Nono	Nono CC	Frolicking Nono CC	
 112	Olga	Olga CC		
 113	Norn	Norn CC		
 114	Yoichi	Yoichi CC		
@@ -133,7 +133,7 @@
 132	Kung-Fu-Katze X	Trunkener-Kämpfer-Katze X	Eisenklaue X	
 133				
 134	Urashima Taro	Wächter Gamereon	König Gamereon	
-135	Dankbarer Kranich	Supergalaxis-Kosmo	Ultimativer Galaxis-Kosmo	
+135	Dankbarer Kranich	Supergalaxis-Kosmo	Ultimativer Galaxis-Kosmo	Supernova-Kosmo
 136	Momotaro	Die Pfirsichengel	Die Pfirsichteufel	
 137	Kasa Jizo	Jizos Wandelndes Schloss	Jizos Mega-Schloss	
 138	Prinzessin Kaguya	Der Todesmond	Der Chaosmond	Ultra-Kaguya
@@ -543,7 +543,7 @@
 542				
 543	Kasli die Verheerende	Kasli, Tochter des Chaos		
 544	Kyosaka Nanaho	Wahre Kyosaka Nanaho		
-545	Phantomkatze	Miasmakatze		
+545	Phantomkatze	Miasmakatze	Blasenkatze	
 546	Papaluga	Papalan Pasalan	Sukelan Kakulan	
 547	Night Oracle Rei	Heavenly Herald Rei		
 548	The 4th Angel	4th Angel Cat		
@@ -690,7 +690,7 @@
 689	Meditationskatze	Paragonkatze		
 690	Schicksalskind Phono	Schicksalskönig Phonoa		
 691	Uraltes Ei: N000	Second-Hand-Ei: N000	Affenlord Uza	
-692	Issun Boshi	Oni-Aufmischer Kozuchimaru		
+692	Issun Boshi	Oni-Aufmischer Kozuchimaru	Oni-Kampfmaschine Kozuchimaru	
 693	Weißer Butler Vigler	Schwarzer Butler Vigler		
 694	Gehirngewaschene Titanenk.	Gehirngew. myth. Titanenk.	Gehirngewaschene Jamierakatze	
 695	Killer-Panzer-Katze	Wahre Killer-Panzer-Katze		
@@ -766,7 +766,7 @@
 765	Uraltes Ei: N206	Zinnober-Ei: N206	Muschelkatze	
 766	Sardine	Sardine CC	Zu Besuch aus „Survive! Mola Mola“. Winzige Knochen können	
 767	Tintenfisch	Tintenfisch CC		
-768				
+768	Taitenki	Taitenki CC		
 769	Hanasaka-Katze	Verfressene Kirsche		
 770				
 771	Meister des Lebens Dr. Nova	Meister des Lebens Katznova		
@@ -779,3 +779,9 @@
 778	Madoka Cat & Homura	Magical Cat☆ Magica		
 779	Himmlisches Kind Luna	Tochter der Erlösung Lunacia		
 780	Bowler-Katze	Völkerball-Katze		
+781	Mamoluga	Mamolan Pasalan	Mamolan Pasalan,	
+782				
+783	Koneko	Superstar Koneko		
+784				
+785				
+786	Der unglaubliche Catman	Catman der Illusionist		

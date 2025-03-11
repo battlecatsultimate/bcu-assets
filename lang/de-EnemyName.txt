@@ -184,7 +184,7 @@
 183	Cyberhorn
 184	Prinzessin Promi-Pudel
 185	Professor A.
-186	
+186	100-Mio.-DL-Kuchenhund
 187	
 188	
 189	MARS PEOPLE
@@ -713,3 +713,9 @@
 712	Überraschungsschneehaufen
 713	Prof. Eulheul
 714	Xenobestie Bunaglios
+715	Shachiko
+716	Heilige Walkürenkatze
+717	Erwachte Bahamut-Katze
+718	Choco Capsule
+719	Killer-Stelzenkatze
+720	

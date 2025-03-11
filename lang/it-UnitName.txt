@@ -109,7 +109,7 @@
 108	Fratelli gatti	Base segreta		
 109	Sposa comare	Re comare	Comare Savana	
 110	Celesse	Celesse CC		
-111	Nono	Nono CC		
+111	Nono	Nono CC	Frolicking Nono CC	
 112	Olga	Olga CC		
 113	Norn	Norn CC		
 114	Yoichi	Yoichi CC		
@@ -133,7 +133,7 @@
 132	Gatto Kung Fu X	Gatto Maestro ubriaco X	Artiglio di ferro X	
 133				
 134	Urashima Taro	Guardiano Gamereon	Re Gamereon	
-135	La Grata Gru	Cosmo Supergalattico	Cosmo Ultragalattico	
+135	La Grata Gru	Cosmo Supergalattico	Cosmo Ultragalattico	Cosmo Supernova
 136	Momotaro	Angeli della pesca	Diavoli della pesca	
 137	Kasa Jizo	Castello errante di Jizo	Mega castello di Jizo	
 138	Principessa Kaguya	Luna della Morte	Luna del Caos	Ultra Kaguya
@@ -543,7 +543,7 @@
 542				
 543	Kasli il Tormento	Kasli, figlia del Caos		
 544	Kyosaka Nanaho	Vera Kyosaka Nanaho		
-545	Gatto fantasma	Gatto miasma		
+545	Gatto fantasma	Gatto miasma	Gatto bolla	
 546	Papaluga	Papalan Pasalan	Sukelan Kakulan	
 547	Night Oracle Rei	Heavenly Herald Rei		
 548	The 4th Angel	4th Angel Cat		
@@ -690,7 +690,7 @@
 689	Gatto meditativo	Gatto esemplare		
 690	Phono figlio del destino	Phonoa re del destino		
 691	Uovo antico N000	Uovo di seconda mano N000	Luza lo scimmione	
-692	Issun Boshi	Oni Landshaker Kozuchimaru		
+692	Issun Boshi	Oni Landshaker Kozuchimaru	Oni Battlepod Kozuchimaru	
 693	Maggiordomo bianco Vigler	Maggiordomo nero Vigler		
 694	Gatto Titano plagiato	Gatto Titano plagiato mitico	Gatto Jamiera plagiato	
 695	Gatto Panzer assassino	Vero Gatto Panzer assassino		
@@ -766,7 +766,7 @@
 765	Uovo antico N206	Uovo vermiglione N206	Gatta vongola	
 766	Sardina	Sardina CC	Arriva da "Survive! Mola Mola!". Le spine possono	
 767	Calamaro	Calamaro CC		
-768				
+768	Taitenki	Taitenki CC		
 769	Gatto Hanasaka	Ciliegia affamata		
 770				
 771	Maestro di vita dott. Nova	Maestro di vita Catnova		
@@ -779,3 +779,9 @@
 778	Madoka Cat & Homura	Magical Cat☆ Magica		
 779	Luna fanciulla celestiale	Lunacia progenie della salvezza		
 780	Gatto bowling	Palla di pelo avvelenata		
+781	Mamoluga	Mamolan Pasalan		
+782				
+783	Koneko	Koneko Superstar		
+784				
+785				
+786	Catman il mago	Catman l'illusionista		
