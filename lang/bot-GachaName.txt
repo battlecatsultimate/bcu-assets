@@ -45,6 +45,7 @@
 -1017	Lunar New Year's Capsules Gacha
 -1018	100M Download Anniversary Gacha
 -1019	100M Download Selection Gacha
+-1020	Outlet Gacha
 -2000	Princess Punt Collab Gacha	//Princess Punt 176
 -2001	Annihilation City COllab Gacha	//Annihilation City 180
 -2002	Merc Storia Collab Gacha	//Merc 185
@@ -66,6 +67,7 @@
 -2028	Metal Slug Collab Gacha
 -2029	Tower of Saviors Collab Gacha
 -2030	Rurouni Kenshin Gacha
+-2031	Baki Collab Gacha
 E12	Bikkuriman Chocolate Capsules
 E13	Bikkuriman Chocolate Capsules
 E14	Summer Break Capsules
@@ -950,3 +952,11 @@ N65	Cats Eye Capsules
 966	-107	781
 967	-1019	783
 968	-114	786
+970	-104	787
+971	-107	787
+972	-112	787
+973	-1011	786,777,773,772
+974	-1020
+975	-1007
+976	-1008
+977	-2031

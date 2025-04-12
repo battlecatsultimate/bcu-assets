@@ -718,3 +718,10 @@
 717	Awakened Bahamut Cat
 718	Choco Capsule
 719	Killer Gross Cat
+721	Captain Perry
+722	Teppo
+724	Baki Hanma
+725	Retsu Kaioh
+726	Kaoru Hanayama
+727	Katsumi Orochi
+728	Jack Hanma
