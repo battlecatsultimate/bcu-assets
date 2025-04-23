@@ -45,7 +45,7 @@
 -1017	春節新年轉蛋
 -1018	100M Download Anniversary Gacha
 -1019	100M Download Selection Gacha
--1020	Outlet Gacha
+-1020	過季轉蛋
 -2000	公主踢騎士	//Princess Punt 176
 -2001	消滅都市	//Annihilation City 180
 -2002	梅露可物語	//Merc 185
@@ -67,7 +67,7 @@
 -2028	越南大戰系列
 -2029	神魔之塔
 -2030	神劍闖江湖
--2031	Baki Collab Gacha
+-2031	範馬刃牙合作轉蛋
 E13	聖魔大戰	//Bikkuri
 E14	貓咪的暑假	//Summer Break Cats
 E17	春節活動轉蛋	//Lunar New Year (JP)
@@ -89,6 +89,8 @@ E34	Halloween Party Capsules
 E35	春節活動轉蛋
 E36	春節活動轉蛋
 E37	心動時分貓咪學園
+E38	貓咪購物節
+E39	範馬刃牙活動轉蛋
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -966,3 +968,4 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 975	-1007
 976	-1008
 977	-2031
+978	-2031

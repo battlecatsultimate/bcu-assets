@@ -1729,6 +1729,8 @@
 001-395-000	เส้นทางสู่พรสวรรค์
 001-396		มหกรรมของขวัญฉลอง 100 ล้าน!
 001-396-000	ยินดีด้วย! 100 ล้านดาวน์โหลด!
+001-402		รางวัลลูกค้า
+001-402-000	มาก่อนได้ก่อน
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2376,6 +2378,17 @@
 002-222-002	Did I Do Well?
 002-222-003	I Have No Regrets
 002-222-004	You'll Be Happy, Won't You
+002-223		Strongest Things Alive
+002-223-000	Scion of the Hanayama Group
+002-223-001	Young Leader of Shinshinkai
+002-223-002	Chinese Martial Arts Pugilist
+002-223-003	Pit Fighter
+002-223-004	Son of the Strongest Thing
+002-223-005	Japan's Greatest Brawler
+002-223-006	The Lethal Weapon of Karate
+002-223-007	The Master of Chinese Kenpo
+002-223-008	The Warrior With Demon Blood
+002-223-009	Champion of the Underground Arena
 
 003			Main Story Chapters
 003-000		EoC Ch.1 Zombie
@@ -3670,6 +3683,10 @@
 011-027-000	The Swords of Meiji
 011-028		สังเวียนอำนาจ
 011-028-000	คลื่นโจมตี
+011-030		สังเวียนโชคชะตา
+011-030-000	ทัวร์นาเมนต์พรสวรรค์
+011-031		สังเวียนเกียรติยศ
+011-031-000	The Strongest Things
 
 012			การต่อสู้ท้าทาย
 012-000		การต่อสู้ท้าทาย
@@ -5176,6 +5193,17 @@
 024-069-007	ปีมะเส็งเลเวล 8
 024-069-008	ปีมะเส็งเลเวล 9
 024-069-009	ปีมะเส็งเลเวลสูงสุด
+024-070		สมรภูมิต่อรอง
+024-070-000	ข้อพิพาททางการตลาด
+024-070-001	ติดกับที่เช็กเอาท์
+024-070-002	จอมล่าดีลเด็ด
+024-070-003	ลดราคาลวง
+024-070-004	ราคา vs คุณภาพ
+024-070-005	โรคเสพติดช็อปปิ้ง
+024-070-006	คูปองโปรยปราย
+024-070-007	ข้อตกลงสุดโหด
+024-070-008	ล้างสต็อก
+024-070-009	ของขวัญลดราคาครั้งสุดท้าย
 
 025			Enigma Stages
 025-000		ทุ่งไอทัม
@@ -5565,6 +5593,61 @@
 027-017-017	Oniwaban Group Lv.18
 027-017-018	Oniwaban Group Lv.19
 027-017-019	Oniwaban Group Lv.MAX
+027-018		Vs Kaoru Hanayama
+027-018-000	We're Still Doing This? Lv. 1
+027-018-001	We're Still Doing This? Lv. 2
+027-018-002	We're Still Doing This? Lv. 3
+027-018-003	We're Still Doing This? Lv. 4
+027-018-004	We're Still Doing This? Lv. 5
+027-018-005	We're Still Doing This? Lv. 6
+027-018-006	We're Still Doing This? Lv. 7
+027-018-007	We're Still Doing This? Lv. 8
+027-018-008	We're Still Doing This? Lv. 9
+027-018-009	We're Still Doing This? Lv. MAX
+027-019		Vs Katsumi Orochi
+027-019-000	Beyond Supersonic Lv. 1
+027-019-001	Beyond Supersonic Lv. 2
+027-019-002	Beyond Supersonic Lv. 3
+027-019-003	Beyond Supersonic Lv. 4
+027-019-004	Beyond Supersonic Lv. 5
+027-019-005	Beyond Supersonic Lv. 6
+027-019-006	Beyond Supersonic Lv. 7
+027-019-007	Beyond Supersonic Lv. 8
+027-019-008	Beyond Supersonic Lv. 9
+027-019-009	Beyond Supersonic Lv. MAX
+027-020		Vs Retsu Kaioh
+027-020-000	I Don't Mind One Bit Lv. 1
+027-020-001	I Don't Mind One Bit Lv. 2
+027-020-002	I Don't Mind One Bit Lv. 3
+027-020-003	I Don't Mind One Bit Lv. 4
+027-020-004	I Don't Mind One Bit Lv. 5
+027-020-005	I Don't Mind One Bit Lv. 6
+027-020-006	I Don't Mind One Bit Lv. 7
+027-020-007	I Don't Mind One Bit Lv. 8
+027-020-008	I Don't Mind One Bit Lv. 9
+027-020-009	I Don't Mind One Bit Lv. MAX
+027-021		Vs Jack Hammer
+027-021-000	Bite for Bite Lv. 1
+027-021-001	Bite for Bite Lv. 2
+027-021-002	Bite for Bite Lv. 3
+027-021-003	Bite for Bite Lv. 4
+027-021-004	Bite for Bite Lv. 5
+027-021-005	Bite for Bite Lv. 6
+027-021-006	Bite for Bite Lv. 7
+027-021-007	Bite for Bite Lv. 8
+027-021-008	Bite for Bite Lv. 9
+027-021-009	Bite for Bite Lv. MAX
+027-022		Vs Baki Hanma
+027-022-000	The Strongest Student Lv. 1
+027-022-001	The Strongest Student Lv. 2
+027-022-002	The Strongest Student Lv. 3
+027-022-003	The Strongest Student Lv. 4
+027-022-004	The Strongest Student Lv. 5
+027-022-005	The Strongest Student Lv. 6
+027-022-006	The Strongest Student Lv. 7
+027-022-007	The Strongest Student Lv. 8
+027-022-008	The Strongest Student Lv. 9
+027-022-009	The Strongest Student Lv. MAX
 
 031			ด่านสังหารเบอฮีมอธ
 031-000		ป่าลับแห่งกาปร้า
@@ -5869,6 +5952,13 @@
 034-017-003	ทรัมเป็ตหญ้าน้ำ
 034-017-004	ตีนเขาลูกข่าง
 034-017-005	น้ำตกสุดที่รัก
+034-018		ร่องนิวทาวน์
+034-018-000	ป้ายรถเมล์ลอย
+034-018-001	บ้านปะการัง
+034-018-002	ซากเรือตกแต่งใหม่
+034-018-003	พิพิธภัณฑ์น้ำหมึก
+034-018-004	จุดกางเต็นท์ป่าสาหร่ายเคลป์
+034-018-005	ป้อมเฝ้าระวังซากเรือ
 
 036			Colosseum Stage
 036-000		โคลอสเซียมนอกโลก
@@ -5925,6 +6015,18 @@
 036-008-002	รอบที่ 3
 036-008-003	รอบที่ 4
 036-008-004	รอบที่ 5
+036-009		โคลอสเซียมนอกโลก
+036-009-000	รอบที่ 1
+036-009-001	รอบที่ 2
+036-009-002	รอบที่ 3
+036-009-003	รอบที่ 4
+036-009-004	รอบที่ 5
+036-010		โคลอสเซียมนอกโลก
+036-010-000	รอบที่ 1
+036-010-001	รอบที่ 2
+036-010-002	รอบที่ 3
+036-010-003	รอบที่ 4
+036-010-004	รอบที่ 5
 
 037			กรงเล็บแมวแชมเปี้ยนชิปขั้นที่
 037-000		กรงเล็บแมวแชมเปี้ยนชิปขั้นที่ 1

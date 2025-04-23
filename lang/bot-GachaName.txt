@@ -45,7 +45,7 @@
 -1017	Lunar New Year's Capsules Gacha
 -1018	100M Download Anniversary Gacha
 -1019	100M Download Selection Gacha
--1020	Outlet Gacha
+-1020	Capsule Clearance
 -2000	Princess Punt Collab Gacha	//Princess Punt 176
 -2001	Annihilation City COllab Gacha	//Annihilation City 180
 -2002	Merc Storia Collab Gacha	//Merc 185
@@ -94,6 +94,8 @@ E34	Halloween Party Capsules
 E35	New Moon Capsules
 E36	New Moon Capsules
 E37	Love Letter Capsules
+E38	Premium Fair Capsules
+E39	Baki Hanma Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -960,3 +962,4 @@ N65	Cats Eye Capsules
 975	-1007
 976	-1008
 977	-2031
+978	-2031

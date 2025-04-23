@@ -1721,6 +1721,8 @@
 001-395-000	Viaggio verso il Talento
 001-396		Regali a fiumi per i 100M!
 001-396-000	Auguri! 100 milioni di download!
+001-402		Ricompensa del cliente
+001-402-000	Fino a esaurimento scorte
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2368,6 +2370,17 @@
 002-222-002	Did I Do Well?
 002-222-003	I Have No Regrets
 002-222-004	You'll Be Happy, Won't You
+002-223		Strongest Things Alive
+002-223-000	Scion of the Hanayama Group
+002-223-001	Young Leader of Shinshinkai
+002-223-002	Chinese Martial Arts Pugilist
+002-223-003	Pit Fighter
+002-223-004	Son of the Strongest Thing
+002-223-005	Japan's Greatest Brawler
+002-223-006	The Lethal Weapon of Karate
+002-223-007	The Master of Chinese Kenpo
+002-223-008	The Warrior With Demon Blood
+002-223-009	Champion of the Underground Arena
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -3656,6 +3669,10 @@
 011-027-000	The Swords of Meiji
 011-028		Arena della potenza
 011-028-000	Attacco a ondate
+011-030		Arena del destino
+011-030-000	Torneo talenti
+011-031		Arena of Honor
+011-031-000	The Strongest Things
 
 012			Challenge Mode
 012-000		Battaglia sfida
@@ -5141,6 +5158,17 @@
 024-069-007	Anno del serpente Liv. 8
 024-069-008	Anno del serpente Liv. 9
 024-069-009	Anno del serpente Liv. MAX
+024-070		Affari in battaglia
+024-070-000	Faida pubblicitaria
+024-070-001	Trappola in cassa
+024-070-002	Berserker degli affari
+024-070-003	Sconto ingannevole
+024-070-004	Qualità-prezzo
+024-070-005	Acquisti compulsivi
+024-070-006	Mazzi di buoni spesa
+024-070-007	Transazioni spietate
+024-070-008	Piazza pulita
+024-070-009	Sold out
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -5523,6 +5551,61 @@
 027-017-017	Oniwaban Group Lv.18
 027-017-018	Oniwaban Group Lv.19
 027-017-019	Oniwaban Group Lv.MAX
+027-018		Vs Kaoru Hanayama
+027-018-000	We're Still Doing This? Lv. 1
+027-018-001	We're Still Doing This? Lv. 2
+027-018-002	We're Still Doing This? Lv. 3
+027-018-003	We're Still Doing This? Lv. 4
+027-018-004	We're Still Doing This? Lv. 5
+027-018-005	We're Still Doing This? Lv. 6
+027-018-006	We're Still Doing This? Lv. 7
+027-018-007	We're Still Doing This? Lv. 8
+027-018-008	We're Still Doing This? Lv. 9
+027-018-009	We're Still Doing This? Lv. MAX
+027-019		Vs Katsumi Orochi
+027-019-000	Beyond Supersonic Lv. 1
+027-019-001	Beyond Supersonic Lv. 2
+027-019-002	Beyond Supersonic Lv. 3
+027-019-003	Beyond Supersonic Lv. 4
+027-019-004	Beyond Supersonic Lv. 5
+027-019-005	Beyond Supersonic Lv. 6
+027-019-006	Beyond Supersonic Lv. 7
+027-019-007	Beyond Supersonic Lv. 8
+027-019-008	Beyond Supersonic Lv. 9
+027-019-009	Beyond Supersonic Lv. MAX
+027-020		Vs Retsu Kaioh
+027-020-000	I Don't Mind One Bit Lv. 1
+027-020-001	I Don't Mind One Bit Lv. 2
+027-020-002	I Don't Mind One Bit Lv. 3
+027-020-003	I Don't Mind One Bit Lv. 4
+027-020-004	I Don't Mind One Bit Lv. 5
+027-020-005	I Don't Mind One Bit Lv. 6
+027-020-006	I Don't Mind One Bit Lv. 7
+027-020-007	I Don't Mind One Bit Lv. 8
+027-020-008	I Don't Mind One Bit Lv. 9
+027-020-009	I Don't Mind One Bit Lv. MAX
+027-021		Vs Jack Hammer
+027-021-000	Bite for Bite Lv. 1
+027-021-001	Bite for Bite Lv. 2
+027-021-002	Bite for Bite Lv. 3
+027-021-003	Bite for Bite Lv. 4
+027-021-004	Bite for Bite Lv. 5
+027-021-005	Bite for Bite Lv. 6
+027-021-006	Bite for Bite Lv. 7
+027-021-007	Bite for Bite Lv. 8
+027-021-008	Bite for Bite Lv. 9
+027-021-009	Bite for Bite Lv. MAX
+027-022		Vs Baki Hanma
+027-022-000	The Strongest Student Lv. 1
+027-022-001	The Strongest Student Lv. 2
+027-022-002	The Strongest Student Lv. 3
+027-022-003	The Strongest Student Lv. 4
+027-022-004	The Strongest Student Lv. 5
+027-022-005	The Strongest Student Lv. 6
+027-022-006	The Strongest Student Lv. 7
+027-022-007	The Strongest Student Lv. 8
+027-022-008	The Strongest Student Lv. 9
+027-022-009	The Strongest Student Lv. MAX
 
 031			Behemoth Culling Stages
 031-000		Foresta segreta di Gapra
@@ -5827,6 +5910,13 @@
 034-017-003	Trombelodea
 034-017-004	Contrafforte di Trompo
 034-017-005	Cascata adorata
+034-018		Fossa della Città nuova
+034-018-000	Pensilina fluttuante
+034-018-001	Residence corallo
+034-018-002	Relitto ristrutturato
+034-018-003	Museo dell'inchiostro
+034-018-004	Campeggio delle alghe
+034-018-005	Osservatorio cianfrusaglie
 
 036			Colosseum Stages
 036-000		Colosseo ultraterreno
@@ -5883,6 +5973,18 @@
 036-008-002	Round 3
 036-008-003	Round 4
 036-008-004	Round 5
+036-009		Colosseo ultraterreno
+036-009-000	Round 1
+036-009-001	Round 2
+036-009-002	Round 3
+036-009-003	Round 4
+036-009-004	Round 5
+036-010		Colosseo ultraterreno
+036-010-000	Round 1
+036-010-001	Round 2
+036-010-002	Round 3
+036-010-003	Round 4
+036-010-004	Round 5
 
 037			Campionati miciodiali
 037-000		Campionati miciodiali Grado 1
