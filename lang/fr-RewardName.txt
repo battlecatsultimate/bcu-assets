@@ -196,11 +196,13 @@
 203|S203|I430	Filet légendaire
 204|S204|I431	Piège légendaire
 206|S206|I433	Esprit légendaire
-209	ダミー
-210	ダミー
-211	ダミー
+209|I435	Coffre au trésor (bronze)
+210|I436	Coffre au trésor (argent)
+211|I437	Coffre au trésor (or)
 212|I265	Ticket des 100M
 213|S213|I438	Lettre d’amour
+214|S214|I439	Panier légendaire
+215|S215|I440	Legendary Dumbbell
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -662,6 +664,7 @@
 15675	Soucoupe extradimensionnelle
 15676	Chat raquette
 15677	Chapignon
+15683	Vega, dame de la tromperie
 15684	Yukimura vampirique
 15686	Chat supercar
 15692	Seigneur gorille Luza
@@ -906,3 +909,33 @@
 30202	Effet Résistance ↑ B: 
 30203	Effet Résistance ↑ A: 
 30204	Effet Résistance ↑ S: 
+30205	Mini-réplique ultime D
+30206	Mini-réplique ultime C
+30207	Mini-réplique ultime B
+30208	Mini-réplique ultime A
+30209	Mini-réplique ultime S
+30210	Résist. dégâts de vagues D
+30211	Résist. dégâts de vagues C
+30212	Résist. dégâts de vagues B
+30213	Résist. dégâts de vagues A
+30214	Résist. dégâts de vagues S
+30215	Remise en argent D
+30216	Remise en argent C
+30217	Remise en argent B
+30218	Remise en argent A
+30219	Remise en argent S
+30220	Résist. Recul D
+30221	Résist. Recul C
+30222	Résist. Recul B
+30223	Résist. Recul A
+30224	Résist. Recul S
+30225	Améliorer histoires légendaires D
+30226	Améliorer histoires légendaires C
+30227	Améliorer histoires légendaires B
+30228	Améliorer histoires légendaires A
+30229	Améliorer histoires légendaires S
+30230	Fléau des colosses D
+30231	Fléau des colosses C
+30232	Fléau des colosses B
+30233	Fléau des colosses A
+30234	Fléau des colosses S

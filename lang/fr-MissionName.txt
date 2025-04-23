@@ -901,3 +901,14 @@
 9570	Termine 9 niveaux de Week-end : Confession
 80	Débloque des talents pour la Chalkyrie sacrée. Termine l’Épreuve de la Chalkyrie pour les débloquer
 81	Débloque des talents pour le Chat Bahamut éveillé. Termine l’Épreuve du Chat Bahamut éveillé pour les débloquer
+9571	Clear 9 Baki Hanma collab stages
+9572	Clear 9 Baki Hanma collab stages
+9573	Clear 9 Baki Hanma collab stages
+9574	Clear 9 Baki Hanma collab stages
+9575	Clear 9 Baki Hanma collab stages
+9582	[Foire premium] Termine toutes les missions. pour gagner un ticket rare !
+9583	[Foire premium] Tire des Chapsules 0 fois
+9584	[Foire premium] Termine 17 expéditions Gamatoto
+9585	[Foire premium] Termine 17 expéditions Gamatoto
+9586	[Foire premium] Termine 9 niveaux événements
+9587	[Foire premium] Gagne un objet dans les. Chapsules de l’événement Foire premium !

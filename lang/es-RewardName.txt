@@ -196,11 +196,13 @@
 203|S203|I430	Red legendaria
 204|S204|I431	Trampa legendaria
 206|S206|I433	Alma Legendaria
-209	ダミー
-210	ダミー
-211	ダミー
+209|I435	C. tesoro bronce
+210|I436	Cofre tesoro plata
+211|I437	Cofre tesoro oro
 212|I265	Tique de los 100 M
 213|S213|I438	Carta de amor
+214|S214|I439	Cesta legendaria
+215|S215|I440	Legendary Dumbbell
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -661,6 +663,7 @@
 15675	Gataque extradimensional
 15676	Gata Raqueta
 15677	Gato Hongo
+15683	Alquimista del engaño Vega
 15684	Yukimura Vampírico
 15686	Gato Supercoche
 15692	Lord Luza Simio
@@ -905,3 +908,33 @@
 30202	Mayor efecto «Resistencia» B: 
 30203	Mayor efecto «Resistencia» A: 
 30204	Mayor efecto «Resistencia» S: 
+30205	Minirréplica mortal D
+30206	Minirréplica mortal C
+30207	Minirréplica mortal B
+30208	Minirréplica mortal A
+30209	Minirréplica mortal S
+30210	Resistencia a oleadas D
+30211	Resistencia a oleadas C
+30212	Resistencia a oleadas B
+30213	Resistencia a oleadas A
+30214	Resistencia a oleadas S
+30215	Pasta turbo D
+30216	Pasta turbo C
+30217	Pasta turbo B
+30218	Pasta turbo A
+30219	Pasta turbo S
+30220	Resistencia a repulsión D
+30221	Resistencia a repulsión C
+30222	Resistencia a repulsión B
+30223	Resistencia a repulsión A
+30224	Resistencia a repulsión S
+30225	Impulso en historias de leyenda D
+30226	Impulso en historias de leyenda C
+30227	Impulso en historias de leyenda B
+30228	Impulso en historias de leyenda A
+30229	Impulso en historias de leyenda S
+30230	Matacolosos D
+30231	Matacolosos C
+30232	Matacolosos B
+30233	Matacolosos A
+30234	Matacolosos S

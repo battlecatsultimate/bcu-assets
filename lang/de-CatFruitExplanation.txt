@@ -429,7 +429,7 @@
 428	<br><br>
 429	<br><br>
 430	<br><br>
-431	Wahre-Form-Entwicklung steigert Angriffs-<br>tempo! Friert zudem Feinde garantiert ein.<br>Stark gegen Zombie-Feinde.
+431	Wahre-Form-Entwicklung steigert Angriffs-<br>tempo! Friert zudem Feinde garantiert ein.<br>Stark gegen Zombie-Feinde.	Ultra-Form-Entw. verbessert Fähigkeiten!<br>Wellenang. kommen weiter & erhält „Weiser<br>Töter“! Immunität gegen Wellenangriffe!
 432	<br><br>
 433	<br><br>
 434	<br><br>
@@ -680,7 +680,7 @@
 679	<br><br>
 680	<br><br>
 681	<br><br>
-682	<br><br>
+682	Wahre-Form-Entwicklung erhöht<br>Gewährt zudem die Zombietöter-Fähigkeit!<br>
 683	Wahre-Form-Entw. steigert Angriffskraft!<br>Erhält zudem erhöhte Bewegungsgeschw.<br>und überlebt 1 tödl. Schlag garantiert!
 684	<br><br>
 685	Wahre Form enthüllt letzte Form!<br>Durchbricht/durchdringt außerdem<br>garantiert Schilde und Barrieren!
@@ -785,3 +785,15 @@
 784	<br><br>
 785	<br><br>
 786	<br><br>
+787	<br><br>
+788	<br><br>
+789	<br><br>
+790	<br><br>
+791	<br><br>
+792	<br><br>
+793	<br><br>
+794	<br><br>
+795	<br><br>
+796	<br><br>
+797	<br><br>
+798	<br><br>

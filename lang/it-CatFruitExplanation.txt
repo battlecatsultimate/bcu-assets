@@ -429,7 +429,7 @@
 428	<br><br>
 429	<br><br>
 430	<br><br>
-431	La Forma Reale ha maggiore velocità<br>d'attacco! In più, ottiene 100% possibilità di<br>immobilità ed è efficace contro zombi.
+431	La Forma Reale ha maggiore velocità<br>d'attacco! In più, ottiene 100% possibilità di<br>immobilità ed è efficace contro zombi.	La Forma ultra ottiene maggiori abilità!<br>Att. a ondata e Sterminatore di saggi!<br>Ottiene immunità da attacchi a ondata!
 432	<br><br>
 433	<br><br>
 434	<br><br>
@@ -680,7 +680,7 @@
 679	<br><br>
 680	<br><br>
 681	<br><br>
-682	<br><br>
+682	La Forma Reale ottiene maggiori potenza<br>In più, ottiene l'abilità ammazza zombi!<br>
 683	Forma Reale: più potenza d'attacco e<br>velocità di movimento.<br>Sopravvive al 100% a un colpo letale!
 684	<br><br>
 685	La Forma Reale rivela la sua forma finale!<br>Garantisce anche la perforazione/rottura<br>di scudi e barriere!
@@ -785,3 +785,15 @@
 784	<br><br>
 785	<br><br>
 786	<br><br>
+787	<br><br>
+788	<br><br>
+789	<br><br>
+790	<br><br>
+791	<br><br>
+792	<br><br>
+793	<br><br>
+794	<br><br>
+795	<br><br>
+796	<br><br>
+797	<br><br>
+798	<br><br>

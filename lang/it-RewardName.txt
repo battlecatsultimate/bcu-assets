@@ -196,11 +196,13 @@
 203|S203|I430	Rete leggendaria
 204|S204|I431	Trappola leggend.
 206|S206|I433	Spirito leggenda
-209	ダミー
-210	ダミー
-211	ダミー
+209|I435	Forziere (bronzo)
+210|I436	Forziere (argento)
+211|I437	Forziere (oro)
 212|I265	Big. Festa 100M DL
 213|S213|I438	Lettera d'amore
+214|S214|I439	Cestino leggend.
+215|S215|I440	Legendary Dumbbell
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -662,6 +664,7 @@
 15675	Envanz extradimensionale
 15676	Gatta con racchetta
 15677	Fungatto
+15683	Vega signora dell'inganno
 15684	Yukimura vampiro
 15686	Gatto Supercar
 15692	Luza lo scimmione
@@ -906,3 +909,33 @@
 30202	Effetto Resistente + B: 
 30203	Effetto Resistente + A: 
 30204	Effetto Resistente + S: 
+30205	Mini valanga della morte D
+30206	Mini valanga della morte C
+30207	Mini valanga della morte B
+30208	Mini valanga della morte A
+30209	Mini valanga della morte S
+30210	Resistente a danni da ondate D
+30211	Resistente a danni da ondate C
+30212	Resistente a danni da ondate B
+30213	Resistente a danni da ondate A
+30214	Resistente a danni da ondate S
+30215	Rimborso D
+30216	Rimborso C
+30217	Rimborso B
+30218	Rimborso A
+30219	Rimborso S
+30220	Resistente a respinta D
+30221	Resistente a respinta C
+30222	Resistente a respinta B
+30223	Resistente a respinta A
+30224	Resistente a respinta S
+30225	Potenzia Saghe leggendarie D
+30226	Potenzia Saghe leggendarie C
+30227	Potenzia Saghe leggendarie B
+30228	Potenzia Saghe leggendarie A
+30229	Potenzia Saghe leggendarie S
+30230	Ammazzagiganti D
+30231	Ammazzagiganti C
+30232	Ammazzagiganti B
+30233	Ammazzagiganti A
+30234	Ammazzagiganti S

@@ -719,3 +719,11 @@
 718	Choco Capsule
 719	Grand Chat tueur
 720	
+721	Kanar Perry
+722	Poisson-furieux
+723	Commandant Ostromeda
+724	Baki Hanma
+725	Retsu Kaioh
+726	Kaoru Hanayama
+727	Katsumi Orochi
+728	Jack Hammer

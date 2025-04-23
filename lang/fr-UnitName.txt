@@ -429,7 +429,7 @@
 428	Souma Cat	Stylish Souma Cat		
 429	Otaku Geek Cat	Hacker Geek Cat		
 430				
-431	Détective Gravitas	Inspecteur Gabriel	Commissaire Gravicci	
+431	Détective Gravitas	Inspecteur Gabriel	Commissaire Gravicci	Gravicci, commissaire arcanique
 432	Betakkuma	Black Betakkuma		
 433	Nekokkuma	Killer Nekokkuma		
 434				
@@ -680,7 +680,7 @@
 679	Chika Amatori & Cat	Chika Amatori & Cat CC		
 680	Sakura	Sakura CC		
 681	Luke	Luke CC		
-682	Déesse spectrale Véga	Gardienne illusoire Véga		
+682	Déesse spectrale Véga	Gardienne illusoire Véga	Vega, dame de la tromperie	
 683	Comte Yukimura	Nosferatu Yukimura	Yukimura vampirique	
 684	Chat poisson sous contrôle	Chat baleine sous contrôle	Chat île sous contrôle	
 685	Œuf ancien N004	Œuf mystique N004	Chat supercar	
@@ -785,3 +785,15 @@
 784				
 785				
 786	L’incroyable Homme-Chat	Homme-Chat illusionniste		
+787	Lunacia, nymphe de l’au-delà	Lunacia, fille de la Mort		
+788				
+789	Baki Hanma	Baki Hanma CC		
+790	Retsu Kaioh	Retsu Kaioh CC		
+791	Kaoru Hanayama	Kaoru Hanayama CC		
+792	Katsumi Orochi	Katsumi Orochi CC		
+793	Jack Hammer	Jack Hammer CC		
+794	Ogre Cat	Ogre Cat Face		
+795	Li'l Baki	Li'l Baki CC		
+796	Baki Cat	Baki Cat CC		
+797	Kaioh Cat	Kaioh Cat CC		
+798	Doppo Cat	Doppo Cat CC		

@@ -429,7 +429,7 @@
 428	Souma Cat	Stylish Souma Cat		
 429	Otaku Geek Cat	Hacker Geek Cat		
 430				
-431	Detektiv Vigler	Inspektor Gabriel	Bereichsleiter Gravicci	
+431	Detektiv Vigler	Inspektor Gabriel	Bereichsleiter Gravicci	Arkaner Kommissar Gravicci
 432	Betakkuma	Black Betakkuma		
 433	Nekokkuma	Killer Nekokkuma		
 434				
@@ -680,7 +680,7 @@
 679	Chika Amatori & Cat	Chika Amatori & Cat CC		
 680	Sakura	Sakura CC		
 681	Luke	Luke CC		
-682	Spektralgrufti Vega	Illusionäre Wächterin Vega		
+682	Spektralgrufti Vega	Illusionäre Wächterin Vega	Herrin der Täuschung Vega	
 683	Graf Yukimura	Nosferatu Yukimura	Vampirischer Yukimura	
 684	Gehirngewaschene Fischkatze	Gehirngewaschene Walkatze	Gehirngewaschene Inselkatze	
 685	Uraltes Ei: N004	Mystisches Ei: N004	Supersportwagen-Katze	
@@ -785,3 +785,15 @@
 784				
 785				
 786	Der unglaubliche Catman	Catman der Illusionist		
+787	Jenseitsnymphe Lunacia	Tochter des Todes Lunacia		
+788				
+789	Baki Hanma	Baki Hanma CC		
+790	Retsu Kaioh	Retsu Kaioh CC		
+791	Kaoru Hanayama	Kaoru Hanayama CC		
+792	Katsumi Orochi	Katsumi Orochi CC		
+793	Jack Hammer	Jack Hammer CC		
+794	Ogre Cat	Ogre Cat Face		
+795	Li'l Baki	Li'l Baki CC		
+796	Baki Cat	Baki Cat CC		
+797	Kaioh Cat	Kaioh Cat CC		
+798	Doppo Cat	Doppo Cat CC		

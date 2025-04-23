@@ -239,3 +239,4 @@
 3055	Donnerkeil-Fall
 3056	Seufzer der Erleichterung
 3057	パッカーン
+3058	Verkehrswidrigkeit

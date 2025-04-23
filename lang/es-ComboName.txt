@@ -239,3 +239,4 @@
 3055	Talón atronador
 3056	Consuelo Explosivo
 3057	パッカーン
+3058	Infracción de Tráfico

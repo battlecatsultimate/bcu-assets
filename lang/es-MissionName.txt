@@ -896,3 +896,14 @@
 9570	Cualquier fase de Finde: Confesión cuenta para el total
 80	Desbloquea talentos de la Gata Valquiria Sagrada. Supera la Prueba de la Gata Valquiria para desbloquearlos
 81	Desbloquea talentos del Gato Bégimo Alzado. Supera la Prueba del Gato Bégimo Alzado para desbloquearlos
+9571	Clear 9 Baki Hanma collab stages
+9572	Clear 9 Baki Hanma collab stages
+9573	Clear 9 Baki Hanma collab stages
+9574	Clear 9 Baki Hanma collab stages
+9575	Clear 9 Baki Hanma collab stages
+9582	[Superferia] ¡Supera todas las misiones. y gana un tique raro!
+9583	[Superferia] Abre 0 bolas
+9584	[Superferia] Completa 17 expediciones de Gamatoto
+9585	[Superferia] Completa 17 expediciones de Gamatoto
+9586	[Superferia] Supera 9 fases de evento
+9587	[Superferia] ¡Consigue un objeto. de las bolas de evento de la Superferia!

@@ -713,3 +713,17 @@
 712	Mystery Snowmound
 713	Prof. Owlbrowley
 714	Xenobeast Bunaglios
+715	Shachiko
+716	Holy Valkyrie Cat
+717	Awakened Bahamut Cat
+718	Choco Capsule
+719	Killer Gross Cat
+720
+721	Perry Duche
+722	Puffzerker
+723	Commander Ostromeda
+724	Baki Hanma
+725	Retsu Kaioh
+726	Kaoru Hanayama
+727	Katsumi Orochi
+728	Jack Hammer

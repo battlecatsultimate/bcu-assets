@@ -196,11 +196,13 @@
 203|S203|I430	Legend Net
 204|S204|I431	Legend Trap
 206|S206|I433	Legendary Spirit
-209	ダミー
-210	ダミー
-211	ダミー
+209|I435	Treasure Chest (Bronze)
+210|I436	Treasure Chest (Silver)
+211|I437	Treasure Chest (Gold)
 212|I265	100M DL Celebration Ticket
 213|S213|I438	Love Letter
+214|S214|I439	Legendary Basket
+215|S215|I440	Legendary Dumbbell
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -662,6 +664,7 @@
 15675	Extradimensional Envanz
 15676	Racquet Cat
 15677	Mushroom Cat
+15683	Lady of Deception Vega
 15684	Vampiric Yukimura
 15686	Supercar Cat
 15692	Ape Lord Luza
@@ -906,3 +909,33 @@
 30202	Resistant Effect Up B: 
 30203	Resistant Effect Up A: 
 30204	Resistant Effect Up S: 
+30205	Mini-Deathsurge D
+30206	Mini-Deathsurge C
+30207	Mini-Deathsurge B
+30208	Mini-Deathsurge A
+30209	Mini-Deathsurge S
+30210	Resist Wave Damage D
+30211	Resist Wave Damage C
+30212	Resist Wave Damage B
+30213	Resist Wave Damage A
+30214	Resist Wave Damage S
+30215	Cash Back D
+30216	Cash Back C
+30217	Cash Back B
+30218	Cash Back A
+30219	Cash Back S
+30220	Resist Knockback D
+30221	Resist Knockback C
+30222	Resist Knockback B
+30223	Resist Knockback A
+30224	Resist Knockback S
+30225	Boost Stories of Legend D
+30226	Boost Stories of Legend C
+30227	Boost Stories of Legend B
+30228	Boost Stories of Legend A
+30229	Boost Stories of Legend S
+30230	Colossus Slayer D
+30231	Colossus Slayer C
+30232	Colossus Slayer B
+30233	Colossus Slayer A
+30234	Colossus Slayer S

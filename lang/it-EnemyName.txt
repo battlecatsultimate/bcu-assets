@@ -719,3 +719,11 @@
 718	Choco Capsule
 719	Gatto alto assassino
 720	
+721	Perry l'oca
+722	Vendicatore dei PP
+723	Comandante Struzzomeda
+724	Baki Hanma
+725	Retsu Kaioh
+726	Kaoru Hanayama
+727	Katsumi Orochi
+728	Jack Hammer

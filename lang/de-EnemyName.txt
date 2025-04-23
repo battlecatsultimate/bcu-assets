@@ -719,3 +719,11 @@
 718	Choco Capsule
 719	Killer-Stelzenkatze
 720	
+721	Perry die Ente
+722	Kugelserker
+723	Kommandant Ostromeda
+724	Baki Hanma
+725	Retsu Kaioh
+726	Kaoru Hanayama
+727	Katsumi Orochi
+728	Jack Hammer

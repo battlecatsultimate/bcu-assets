@@ -901,3 +901,14 @@
 9570	Clear 9 Weekend: Confession stages
 80	Unlock Talents for Holy Valkyrie Cat. Clear Valkyrie Cat's Trial to unlock
 81	Unlock Talents for Awakened Bahamut Cat. Clear Bahamut Cat's Trial to unlock
+9571	Clear 9 Baki Hanma collab stages
+9572	Clear 9 Baki Hanma collab stages
+9573	Clear 9 Baki Hanma collab stages
+9574	Clear 9 Baki Hanma collab stages
+9575	Clear 9 Baki Hanma collab stages
+9582	[Premium Fair] Clear all Missions. to earn a Rare Ticket!
+9583	[Premium Fair] Draw Cat Capsules 0 times
+9584	[Premium Fair] Complete 17 Gamatoto Expeditions
+9585	[Premium Fair] Complete 17 Gamatoto Expeditions
+9586	[Premium Fair] Clear 9 Event stages
+9587	[Premium Fair] Earn an item from. the Premium Fair Event Capsules!

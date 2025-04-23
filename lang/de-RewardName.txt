@@ -196,11 +196,13 @@
 203|S203|I430	Legendennetz
 204|S204|I431	Legendenfalle
 206|S206|I433	Legendärer Geist
-209	ダミー
-210	ダミー
-211	ダミー
+209|I435	Schatztruhe (Bronze)
+210|I436	Schatztruhe (Silber)
+211|I437	Schatztruhe (Gold)
 212|I265	100-Mio.-DL-Ticket
 213|S213|I438	Liebesbrief
+214|S214|I439	Legend. Körbchen
+215|S215|I440	Legendary Dumbbell
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -662,6 +664,7 @@
 15675	Extradimensionaler Envanz
 15676	Racquetkatze
 15677	Pilzkatze
+15683	Herrin der Täuschung Vega
 15684	Vampirischer Yukimura
 15686	Supersportwagen-Katze
 15692	Affenlord Uza
@@ -906,3 +909,33 @@
 30202	„Stark“-Effekt + B: 
 30203	„Stark“-Effekt + A: 
 30204	„Stark“-Effekt + S: 
+30205	Mini-Todes-Zufallsangriff D
+30206	Mini-Todes-Zufallsangriff C
+30207	Mini-Todes-Zufallsangriff B
+30208	Mini-Todes-Zufallsangriff A
+30209	Mini-Todes-Zufallsangriff S
+30210	Wellenschaden-Resistenz D
+30211	Wellenschaden-Resistenz C
+30212	Wellenschaden-Resistenz B
+30213	Wellenschaden-Resistenz A
+30214	Wellenschaden-Resistenz S
+30215	Skonto D
+30216	Skonto C
+30217	Skonto B
+30218	Skonto A
+30219	Skonto S
+30220	Rückstoß-Resistenz D
+30221	Rückstoß-Resistenz C
+30222	Rückstoß-Resistenz B
+30223	Rückstoß-Resistenz A
+30224	Rückstoß-Resistenz S
+30225	Legenden-Level stärken D
+30226	Legenden-Level stärken C
+30227	Legenden-Level stärken B
+30228	Legenden-Level stärken A
+30229	Legenden-Level stärken S
+30230	Kolosstöter D
+30231	Kolosstöter C
+30232	Kolosstöter B
+30233	Kolosstöter A
+30234	Kolosstöter S

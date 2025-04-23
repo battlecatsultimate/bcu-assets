@@ -429,7 +429,7 @@
 428	Souma Cat	Stylish Souma Cat		
 429	Otaku Geek Cat	Hacker Geek Cat		
 430				
-431	Detective Vigler	Inspector Gabriel	Gravicci Jefe de Sección	
+431	Detective Vigler	Inspector Gabriel	Gravicci Jefe de Sección	Gravicci Inspector Arcano
 432	Betakkuma	Black Betakkuma		
 433	Nekokkuma	Killer Nekokkuma		
 434				
@@ -680,7 +680,7 @@
 679	Chika Amatori & Cat	Chika Amatori & Cat CC		
 680	Sakura	Sakura CC		
 681	Luke	Luke CC		
-682	Gótica espectral Vega	Guardiana ilusoria Vega		
+682	Gótica espectral Vega	Guardiana ilusoria Vega	Alquimista del engaño Vega	
 683	Conde Yukimura	Yukimura Nosferatu	Yukimura Vampírico	
 684	Piscigato Adoctrinado	Ballegato Adoctrinado	Gato Isleño adoctrinado	
 685	Huevo antiguo N004	Huevo Místico N004	Gato Supercoche	
@@ -785,3 +785,15 @@
 784				
 785				
 786	Conjurador Catman	Catman Ilusionista		
+787	Lunacia Ninfa del Inframundo	Lunacia Hija de la Muerte		
+788				
+789	Baki Hanma	Baki Hanma CC		
+790	Retsu Kaioh	Retsu Kaioh CC		
+791	Kaoru Hanayama	Kaoru Hanayama CC		
+792	Katsumi Orochi	Katsumi Orochi CC		
+793	Jack Hammer	Jack Hammer CC		
+794	Ogre Cat	Ogre Cat Face		
+795	Li'l Baki	Li'l Baki CC		
+796	Baki Cat	Baki Cat CC		
+797	Kaioh Cat	Kaioh Cat CC		
+798	Doppo Cat	Doppo Cat CC		

@@ -901,3 +901,14 @@
 9570	Supera 9 liv. di "Weekend: Dichiarazione". Qualunque liv. vale ai fini del conteggio totale. ()
 80	Sblocca i talenti per la Gatta Valchiria Sacra. Supera la Prova della Gatta Valchiria per sbloccare
 81	Sblocca i talenti per il Gatto Bahamut risvegliato. Supera la Prova del Gatto Bahamut risvegliato per sbloccare
+9571	Clear 9 Baki Hanma collab stages
+9572	Clear 9 Baki Hanma collab stages
+9573	Clear 9 Baki Hanma collab stages
+9574	Clear 9 Baki Hanma collab stages
+9575	Clear 9 Baki Hanma collab stages
+9582	[Fiera premium] Supera tutte le missioni. per ottenere un biglietto raro!
+9583	[Fiera premium] Sorteggia Miaocapsule 0 volte. Ogni set Miaocapsule vale per il conteggio totale
+9584	[Fiera premium] Completa 17 Spedizioni di Gamatoto. Esplora 2 aree qualsiasi per completare
+9585	[Fiera premium] Completa 17 Spedizioni di Gamatoto. Esplora un'area qualsiasi per completare
+9586	[Fiera premium] Supera 9 livelli evento. Ogni liv. Fiera premium vale per il conteggio tot
+9587	[Fiera premium] Ottieni un oggetto dalle. capsule evento della Fiera premium!

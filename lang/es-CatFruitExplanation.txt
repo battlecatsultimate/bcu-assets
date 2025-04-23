@@ -429,7 +429,7 @@
 428	<br><br>
 429	<br><br>
 430	<br><br>
-431	La forma final tiene más velocidad de ataque.<br>Además, siempre paraliza a zombis y es<br>más eficaz contra ellos.
+431	La forma final tiene más velocidad de ataque.<br>Además, siempre paraliza a zombis y es<br>más eficaz contra ellos.	¡La ultraforma obtiene más habilidades!<br>¡Mayores oleadas y gana Asesino Sabio!<br>¡Y adquiere inmunidad a las oleadas!
 432	<br><br>
 433	<br><br>
 434	<br><br>
@@ -680,7 +680,7 @@
 679	<br><br>
 680	<br><br>
 681	<br><br>
-682	<br><br>
+682	La forma final tiene una mayor defensa<br>Además, obtiene la habilidad matazombis.<br>
 683	Forma final: tiene más poder de ataque<br>Gana más velocidad de movimiento<br>y siempre sobrevive a un golpe mortal.
 684	<br><br>
 685	La forma final revela su apariencia real.<br>Además, garantiza atravesar y romper<br>escudos y barreras.
@@ -785,3 +785,15 @@
 784	<br><br>
 785	<br><br>
 786	<br><br>
+787	<br><br>
+788	<br><br>
+789	<br><br>
+790	<br><br>
+791	<br><br>
+792	<br><br>
+793	<br><br>
+794	<br><br>
+795	<br><br>
+796	<br><br>
+797	<br><br>
+798	<br><br>

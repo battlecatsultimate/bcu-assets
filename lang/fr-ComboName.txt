@@ -239,3 +239,4 @@
 3055	Coup de pied sauté foudroyant
 3056	Soupir de soulagement
 3057	パッカーン
+3058	Infraction routière

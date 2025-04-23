@@ -429,7 +429,7 @@
 428	<br><br>
 429	<br><br>
 430	<br><br>
-431	True form gains improved attack speed!<br>Plus, gains 100% chance of Freeze<br>and Strong vs Zombie enemies.
+431	True form gains improved attack speed!<br>Plus, gains 100% chance of Freeze<br>and Strong vs Zombie enemies.	Ultra Form evolution gains improved abilities!<br>Gains Sage Slayer and Immunity to Wave<br>attacks, while its Wave attacks reach farther.
 432	<br><br>
 433	<br><br>
 434	<br><br>
@@ -680,7 +680,7 @@
 679	<br><br>
 680	<br><br>
 681	<br><br>
-682	<br><br>
+682	True Form evolution gains improved Defense!<br>Plus, gains the Zombie Killer ability!<br>
 683	True Form evolution gains improved attack<br>power! Also gains increased movement<br>speed and 100% Survives a lethal blow!
 684	<br><br>
 685	True Form evolution reveals its final form!<br>Also guaranteed to pierce/break<br>Shields and Barriers!
@@ -785,3 +785,15 @@
 784	<br><br>
 785	<br><br>
 786	<br><br>
+787	<br><br>
+788	<br><br>
+789	<br><br>
+790	<br><br>
+791	<br><br>
+792	<br><br>
+793	<br><br>
+794	<br><br>
+795	<br><br>
+796	<br><br>
+797	<br><br>
+798	<br><br>
