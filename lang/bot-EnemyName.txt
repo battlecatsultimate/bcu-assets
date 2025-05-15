@@ -726,3 +726,9 @@
 726	Kaoru Hanayama
 727	Katsumi Orochi
 728	Jack Hammer
+729	Sage of Reason Newton
+790	Snoic
+731	Tails
+732	Knuckles
+733	Shadow
+734	Goal Plate Castle

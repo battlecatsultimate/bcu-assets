@@ -68,6 +68,7 @@
 -2029	Tower of Saviors Collab Gacha
 -2030	Rurouni Kenshin Gacha
 -2031	Baki Collab Gacha
+-2032	Sonic the Hedgehog Collab Gacha
 E12	Bikkuriman Chocolate Capsules
 E13	Bikkuriman Chocolate Capsules
 E14	Summer Break Capsules
@@ -963,3 +964,11 @@ N65	Cats Eye Capsules
 976	-1008
 977	-2031
 978	-2031
+979	-8	799
+980	-8	799
+981	-105	799
+982	-106	799
+983	-104	799
+984	-107	799
+958	-2032
+959	-11

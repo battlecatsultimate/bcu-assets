@@ -68,6 +68,7 @@
 -2029	神魔之塔
 -2030	神劍闖江湖
 -2031	範馬刃牙合作轉蛋
+-2032	Sonic the Hedgehog Collab Gacha
 E13	聖魔大戰	//Bikkuri
 E14	貓咪的暑假	//Summer Break Cats
 E17	春節活動轉蛋	//Lunar New Year (JP)
@@ -969,3 +970,11 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 976	-1008
 977	-2031
 978	-2031
+979	-8	799
+980	-8	799
+981	-105	799
+982	-106	799
+983	-104	799
+984	-107	799
+958	-2032
+959	-11

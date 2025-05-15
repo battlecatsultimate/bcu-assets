@@ -74,7 +74,7 @@
 073	Oda Nobunaga	Wargod Nobunaga	Immortal Nobunaga	Phantasmal Nobunaga
 074	Reindeer Fish Cat	Sashimi Cat	Xmas Pudding Cat
 075	Windy	Windy, type α	Divine Windy	Ultimate Windy
-076	Thundia	Thundia, type β	Divine Thundia
+076	Thundia	Thundia, type β	Divine Thundia	Ultimate Thundia
 077	Droid Cat	Droid Cat Mk 2	SpringDroid
 078	Space Cat	Major Space Cat	Space Marine Cat
 079	Adult Cat	Sick Cat	Prisoner Cat
@@ -621,7 +621,7 @@
 620	Hevijak the Wicked	Wicked King Hevijak	God-Emperor Hevijak
 621	Aku Researcher	Evil Aku Researcher	Cat Researcher
 622	Jagando Jr.	Lord of Ruin Jagando Jr.
-623	Pied Piper Cat	Komuso Cat
+623	Pied Piper Cat	Komuso Cat	Brass Band Cat
 624	Kunio-kun	Dodgeball Kunio-kun
 625	Furiluga	Furilan Pasalan	Ragelan Pasalan
 626	Giraffe Jockey Cat	Giraffe Jockey Cat Evolved
@@ -721,7 +721,7 @@
 720	Ancient Egg: N006	Devil Egg: N006	Fallen Bear Cat
 721	High School Kingpin Riki	Dodgeball Riki	
 722	Hatsune Miku XVI	Hatsune Miku XVI CC	
-723	Lightmother Aset	Nefer Aset	
+723	Lightmother Aset	Nefer Aset	Almighty Aset
 724	Ancient Egg: N112	Mystic Egg: N112	Cat Egg Pod
 725	Ninja Girl Tomoe	Gourmand Ninja Girl Tomoe
 726	Medal Cat King	Great Medal Cat King
@@ -796,3 +796,14 @@
 796	Baki Cat	Baki Cat CC
 797	Kaioh Cat	Kaioh Cat CC
 798	Doppo Cat	Doppo Cat CC
+799	Howitzer Launchers	Interceptor Artillery Gun Hazard
+800	Gun Hazard Spirit
+801	Sage of Reason Newton	Sage of Reason Nyaton
+802	Nyaton Spirit
+803	Sonic	Sonic & Cat
+804	Tails	Tails & Cat
+805	Knuckles	Knuckles & Cat
+806	Shadow	Shadow & Cat
+807	Sonic Cat	Sonic Cat CC
+808	Tails Cat	Tails Cat CC
+809	Shadow Cat	Shadow Cat CC
