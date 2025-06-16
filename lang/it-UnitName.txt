@@ -74,7 +74,7 @@
 073	Oda Nobunaga	Nobunaga Dio della guerra	Nobunaga Immortale	Nobunaga spettrale
 074	Pescegatto Renna	Gatto sashimi	Gatto tronchetto	
 075	Wendy	Wendy α	Wendy Divina	Wendy suprema
-076	Tuonia	Tuonia β	Tuonia Divina	
+076	Tuonia	Tuonia β	Tuonia Divina	Tuonia suprema
 077	Gatto droide	Gatto droide Mk2	Droide primavera	
 078	Gatto spaziale	Gatto Maggiore	Gatto marine spaziale	
 079	Gattadulto	Gatto malato	Gatto detenuto	
@@ -621,7 +621,7 @@
 620	Hevijak il malvagio	Re Hevijak malvagio	Hevijak Dio-Imperatore	
 621	Ricercatore di Aku	Ricercatore di Aku malvagio	Gatto ricercatore	
 622	Jagando jr.	Jagando jr. Sig. della Rovina		
-623	Gatto pifferaio	Gatto Komuso		
+623	Gatto pifferaio	Gatto Komuso	Gatto ottone	
 624	Kunio-kun	Dodgeball Kunio-kun		
 625	Furiluga	Furilan Pasalan	Ragelan Pasalan	
 626				
@@ -721,7 +721,7 @@
 720	Uovo antico N006	Uovo diabolico N006	Gatto Orso perduto	
 721	High School Kingpin Riki	Dodgeball Riki		
 722	Hatsune Miku XVI	Hatsune Miku XVI CC		
-723	Madreluce Aset	Nefer Aset		
+723	Madreluce Aset	Nefer Aset	Aset Onnipotente	
 724	Uovo antico N112	Uovo mistico N112	Gatto capsula uovo	
 725	Tomoe ragazza ninja	Tomoe ragazza ninja buongustaia		
 726				
@@ -774,7 +774,7 @@
 773	Mummia sumo	Mamma mummia sumo		
 774	Axel Pattuglia Mech	Axel Sergente d'acciaio		
 775				
-776				
+776	Gatto tenente	Gatto comandante		
 777	Kaihime Generale d'inverno	Kahime Comandante d'inverno		
 778	Madoka Cat & Homura	Magical Cat☆ Magica		
 779	Luna fanciulla celestiale	Lunacia progenie della salvezza		
@@ -797,3 +797,15 @@
 796	Baki Cat	Baki Cat CC		
 797	Kaioh Cat	Kaioh Cat CC		
 798	Doppo Cat	Doppo Cat CC		
+799	Obice possente	Cannone grandioso		
+800				
+801	Maestro di logica Newton	Maestro di logica Miaoton		
+802	802-1			
+803				
+804				
+805				
+806				
+807				
+808				
+809				
+810				

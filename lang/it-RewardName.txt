@@ -196,6 +196,7 @@
 203|S203|I430	Rete leggendaria
 204|S204|I431	Trappola leggend.
 206|S206|I433	Spirito leggenda
+207|S207|I720	Fondi di guerra
 209|I435	Forziere (bronzo)
 210|I436	Forziere (argento)
 211|I437	Forziere (oro)
@@ -269,6 +270,7 @@
 1067	Uovo antico N006
 1068	Maestro della mente Sokrate
 1069	Gatto bowling
+1071	Maestro di logica Newton
 1100	Busto di Gatto
 1101	Gatto spaziale
 1102	Gatto con la corda
@@ -418,6 +420,7 @@
 10554	Gatto pollo fritto
 10555	Uril esoterico
 10622	Gatto ricercatore
+10624	Gatto ottone
 10630	Gatto punk plagiato
 10637	Gatto gomma plagiato
 10646	Gatto oscuro plagiato
@@ -677,6 +680,7 @@
 15717	Gatto sbirro
 15718	Gatto contadino
 15721	Gatto Orso perduto
+15724	Aset Onnipotente
 15725	Gatto capsula uovo
 15731	Gatto leo ballerino
 15758	Gatta sposa

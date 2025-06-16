@@ -196,6 +196,7 @@
 203|S203|I430	Legendennetz
 204|S204|I431	Legendenfalle
 206|S206|I433	Legendärer Geist
+207|S207|I720	Kriegskasse
 209|I435	Schatztruhe (Bronze)
 210|I436	Schatztruhe (Silber)
 211|I437	Schatztruhe (Gold)
@@ -269,6 +270,7 @@
 1067	Uraltes Ei: N006
 1068	Meister der Gedanken Soraktes
 1069	Bowler-Katze
+1071	Weiser des logischen Newton
 1100	Bronzekatze
 1101	Weltraumkatze
 1102	Seilhüpfkatze
@@ -418,6 +420,7 @@
 10554	Pfannenhühnchen-Katze
 10555	Esoterischer Uril
 10622	Katzenforscher
+10624	Blechbläserkatze
 10630	Gehirngewaschene Irokatze
 10637	Gehirngewaschene Radierkatze
 10646	Gehirngewaschene dunkle Katze
@@ -677,6 +680,7 @@
 15717	Polizistenkatze
 15718	Bauernjungenkatze
 15721	Gefallene Bärenkatze
+15724	Allmächtige Aset
 15725	Katzeneierkapsel
 15731	Löwentänzer-Katze
 15758	Brautkatze

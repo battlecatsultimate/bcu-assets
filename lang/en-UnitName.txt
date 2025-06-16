@@ -74,7 +74,7 @@
 073	Oda Nobunaga	Wargod Nobunaga	Immortal Nobunaga	Phantasmal Nobunaga
 074	Reindeer Fish Cat	Sashimi Cat	Xmas Pudding Cat	
 075	Windy	Windy, type α	Divine Windy	Ultimate Windy
-076	Thundia	Thundia, type β	Divine Thundia	
+076	Thundia	Thundia, type β	Divine Thundia	Ultimate Thundia
 077	Droid Cat	Droid Cat Mk 2	SpringDroid	
 078	Space Cat	Major Space Cat	Space Marine Cat	
 079	Adult Cat	Sick Cat	Prisoner Cat	
@@ -621,7 +621,7 @@
 620	Hevijak the Wicked	Wicked King Hevijak	God-Emperor Hevijak	
 621	Aku Researcher	Evil Aku Researcher	Cat Researcher	
 622	Jagando Jr.	Lord of Ruin Jagando Jr.		
-623	Pied Piper Cat	Komuso Cat		
+623	Pied Piper Cat	Komuso Cat	Brass Cat	
 624	Kunio-kun	Dodgeball Kunio-kun		
 625	Furiluga	Furilan Pasalan	Ragelan Pasalan	
 626				
@@ -721,7 +721,7 @@
 720	Ancient Egg: N006	Devil Egg: N006	Fallen Bear Cat	
 721	High School Kingpin Riki	Dodgeball Riki		
 722	Hatsune Miku XVI	Hatsune Miku XVI CC		
-723	Lightmother Aset	Nefer Aset		
+723	Lightmother Aset	Nefer Aset	Almighty Aset	
 724	Ancient Egg: N112	Mystic Egg: N112	Cat Egg Pod	
 725	Ninja Girl Tomoe	Gourmand Ninja Girl Tomoe		
 726				
@@ -774,7 +774,7 @@
 773	Mummy Sumo	Mama Mummy Sumo		
 774	Mech Patrol Axel	Steel Sergeant Axel		
 775				
-776				
+776	Lieutenant Cat	Commander Cat		
 777	Winter General Kaihime	Winter Commander Kaihime		
 778	Madoka Cat & Homura	Magical Cat☆ Magica		
 779	Celestial Child Luna	Salvation's Daughter Lunacia		
@@ -797,3 +797,15 @@
 796	Baki Cat	Baki Cat CC		
 797	Kaioh Cat	Kaioh Cat CC		
 798	Doppo Cat	Doppo Cat CC		
+799	Mighty Morta-Loncha	Grandiose Gunhauzer		
+800				
+801	Master of Logic Newton	Master of Logic Mewton		
+802	802-1			
+803				
+804				
+805				
+806				
+807				
+808				
+809				
+810				

@@ -74,7 +74,7 @@
 073	Oda Nobunaga	Kriegsgott Nobunaga	Unsterblicher Nobunaga	Geisterhafter Nobunaga
 074	Rentierfisch-Katze	Sashimi-Katze	Weihnachtsdessert-Katze	
 075	Windie	Windie, Typ α	Himmlische Windie	Ultimative Windie
-076	Donneria	Donneria, Typ β	Himmlische Donneria	
+076	Donneria	Donneria, Typ β	Himmlische Donneria	Ultimative Donneria
 077	Droid-Katze	Droid-Katze 2.0	Frühlingsdroid	
 078	Weltraumkatze	Weltraumkapitänkatze	Space-Marine-Katze	
 079	Erwachsene Katze	Kranke Katze	Gefangenenkatze	
@@ -621,7 +621,7 @@
 620	Hevijak der Böse	Böser König Hevijak	Hevijak der Gottkaiser	
 621	Aku-Forscher	Böser Aku-Forscher	Katzenforscher	
 622	Jagando Jr.	Jagando Jr., Herr d. Zerst.		
-623	Rattenfänger-Katze	Komuso-Katze		
+623	Rattenfänger-Katze	Komuso-Katze	Blechbläserkatze	
 624	Kunio-kun	Dodgeball Kunio-kun		
 625	Furiluga	Furilan Pasalan	Ragelan Pasalan	
 626				
@@ -721,7 +721,7 @@
 720	Uraltes Ei: N006	Teufels-Ei: N006	Gefallene Bärenkatze	
 721	High School Kingpin Riki	Dodgeball Riki		
 722	Hatsune Miku XVI	Hatsune Miku XVI CC		
-723	Lichtmutter Aset	Nefer Aset		
+723	Lichtmutter Aset	Nefer Aset	Allmächtige Aset	
 724	Uraltes Ei: N112	Mystisches Ei: N112	Katzeneierkapsel	
 725	Ninjamädchen Tomoe	Gourmand-Ninjamädchen Tomoe		
 726				
@@ -774,7 +774,7 @@
 773	Mumien-Sumo	Mama-Mumien-Sumo		
 774	Mecha-Patrouille Axel	Stahlsergeant Axel		
 775				
-776				
+776	Leutnantkatze	Kommandantenkatze		
 777	Wintergeneralin Kaihime	Winterkommandantin Kaihime		
 778	Madoka Cat & Homura	Magical Cat☆ Magica		
 779	Himmlisches Kind Luna	Tochter der Erlösung Lunacia		
@@ -797,3 +797,15 @@
 796	Baki Cat	Baki Cat CC		
 797	Kaioh Cat	Kaioh Cat CC		
 798	Doppo Cat	Doppo Cat CC		
+799	Mächtige Morta-Loncha	Grandioser Geschützexperte		
+800				
+801	Weiser des logischen Newton	Weiser des logischen Mewton		
+802	802-1			
+803				
+804				
+805				
+806				
+807				
+808				
+809				
+810				

@@ -1702,6 +1702,41 @@
 001-384		Arriva il Street food miao!
 001-384-000	Evoluzione in stallo 1 (Folle)
 001-384-001	Evoluzione in stallo 2 (Folle)
+001-385		La via dell'unificazione p.1
+001-385-000	Il dominio di Satsuma Imo
+001-385-001	Il dominio di Ahosan
+001-385-002	Il dominio di Mentai
+001-385-003	Il dominio di Fuku
+001-385-004	Il dominio di Daidai
+001-385-005	Il dominio di U-don
+001-385-006	Il dominio di Koyo
+001-385-007	Il dominio di Minato
+001-385-008	Il dominio di Shokudoraku
+001-385-009	Il dominio di Ogo
+001-386		All'attacco! Comandante Nyandam
+001-386-000	Il generale rosso (Normale)
+001-386-001	Il generale rosso (Veterani)
+001-386-002	Il generale rosso (Folle)
+001-387		All'attacco! Comandante Hannya
+001-387-000	Signore mascherato demoniaco (Veterani)
+001-387-001	Signore mascherato demoniaco (Folle)
+001-387-002	Signore mascherato demoniaco (Letale)
+001-388		La via dell'unificazione p.2
+001-388-000	Il dominio di Hotaruika
+001-388-001	Il dominio di Ocha
+001-388-002	Il dominio di Taka
+001-388-003	Il dominio di Nyaku
+001-388-004	Il dominio di Koi
+001-388-005	Il dominio di Gyusetsu
+001-388-006	Il dominio di Settanbo
+001-388-007	Il dominio di Reimen
+001-388-008	Il dominio di Tsukai
+001-388-009	Il dominio di Saikyo
+001-389		Battaglia finale! Il re ribelle
+001-389-000	L'ambizione del despota (Normale)
+001-389-001	L'ambizione del despota (Esperti)
+001-389-002	L'ambizione del despota (Letale)
+001-389-003	L'ambizione del despota (Spietato)
 001-391		Caccia alla Xenobestia
 001-391-000	Re delle bestie I (Letale)
 001-391-001	Re delle bestie II (Spietato)
@@ -1723,6 +1758,9 @@
 001-396-000	Auguri! 100 milioni di download!
 001-402		Ricompensa del cliente
 001-402-000	Fino a esaurimento scorte
+001-404		Rapsodia della tentazione
+001-404-000	Il ritmo del diavolo (Spietato)
+001-404-001	Sinfonia della bancarotta (Spietato)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -1772,11 +1810,11 @@
 002-018		Healer Awakens!
 002-018-000	Healer Awakens (Expert)
 002-018-001	Healer Awakens (Insane)
-002-021		Matal Slug Defense
+002-021		Metal Slug Defense
 002-021-000	Immortal Allen O'Neill
 002-021-001	Attack on Huge Hermit
 002-021-002	Jupiter King Convoy
-002-022		Super Matal Slug Defense
+002-022		Super Metal Slug Defense
 002-022-000	Devils on the Doorstep (Insane)
 002-028		Takuya & Yuki Awaken
 002-028-000	Takuya ＆ Yuki Awaken! (Veteran)
@@ -3358,6 +3396,28 @@
 004-068-000	Il volto divino
 004-069		
 004-069-000	Il ritorno dell'origine
+004-070		La via dell'unificazione p.1
+004-070-000	Cane ribelle
+004-070-001	Cane ribelle
+004-070-002	Cane ribelle
+004-070-003	Cane ribelle
+004-070-004	Cane ribelle
+004-070-005	Cane ribelle
+004-070-006	Cane ribelle
+004-070-007	Cane ribelle
+004-070-008	Cane ribelle
+004-070-009	Cane ribelle
+004-071		La via dell'unificazione p.2
+004-071-000	Cane ribelle
+004-071-001	Cane ribelle
+004-071-002	Cane ribelle
+004-071-003	Cane ribelle
+004-071-004	Cane ribelle
+004-071-005	Cane ribelle
+004-071-006	Cane ribelle
+004-071-007	Cane ribelle
+004-071-008	Cane ribelle
+004-071-009	Cane ribelle
 004-072		Ricordi del 2024
 004-072-000	Ricordi primaverili Pag. 2
 004-072-001	Ricordi estivi Pag. 2
@@ -3793,7 +3853,7 @@
 013-016-003	Pozza fredda
 013-016-004	Casa di Umibozu
 013-016-005	Reception Terme
-013-017		
+013-017		Montagne antiche
 013-017-000	Villaggio Fame
 013-017-001	Artigli notturni
 013-017-002	Crosta rocciosa
@@ -3940,7 +4000,7 @@
 013-037-003	Multiplanar Studios
 013-037-004	Forze infernali
 013-037-005	All-Stars infernale
-013-038		Disastro Imminente
+013-038		Disastro imminente
 013-038-000	Blocco dell'altare Aku
 013-039		Bikura, rifugio del male
 013-039-000	Relitti di barchette
@@ -4098,7 +4158,6 @@
 014-034-000	in GIAPPONE
 014-034-001	a LONDRA
 014-034-002	a NEW YORK
-014-034-003	sulla LUNA
 014-035		Rosso di mattina
 014-035-000	Tempesta in arrivo (Folle)
 014-036		Morti rotolanti
@@ -4991,7 +5050,7 @@
 024-055-018	Riparo celeste
 024-055-019	Riparo marcescente
 024-055-020	Riparo brillante
-024-056		#02 La notte dei demoni
+024-056		#03 La notte dei demoni
 024-056-000	Parata Liv. 1
 024-056-001	Parata Liv. 2
 024-056-002	Parata Liv. 3
@@ -5237,6 +5296,12 @@
 025-031-000	Insetticida serale
 025-032		Nascondiglio perfetto
 025-032-000	Insetticida di mezzanotte
+025-033		Culla rossa
+025-033-000	Landa della culla (Letale)
+025-034		Cima rossa
+025-034-000	Landa della cima (Spietato)
+025-035		Confine rosso
+025-035-000	Landa di confine (Spietato)
 025-051		Nascondiglio fatiscente
 025-051-000	Insetticida pomeridiano
 025-052		Nascondiglio fatiscente
@@ -5256,19 +5321,19 @@
 025-059		Nascondiglio perfetto
 025-059-000	Insetticida di mezzanotte
 025-060		Mappa del cacciatore I
-025-060-000	Foresta delle pietre viola 1
-025-060-001	Foresta delle pietre rosse 1
+025-060-000	Foresta delle pietre viola I
+025-060-001	Foresta delle pietre rosse I
 025-061		Mappa del cacciatore II
-025-061-000	Foresta delle pietre viola 2
-025-061-001	Foresta delle pietre rosse 2
-025-061-002	Deserto delle pietre blu 2
-025-061-003	Deserto delle pietre verdi 2
+025-061-000	Foresta delle pietre viola II
+025-061-001	Foresta delle pietre rosse II
+025-061-002	Deserto delle pietre blu II
+025-061-003	Deserto delle pietre verdi II
 025-062		Mappa del cacciatore III
-025-062-000	Foresta delle pietre viola 3
-025-062-001	Deserto delle pietre blu 3
-025-062-002	Deserto delle pietre verdi 3
-025-062-003	Foresta delle pietre rosse 3
-025-062-004	Vulcano delle pietre gialle 3
+025-062-000	Foresta delle pietre viola III
+025-062-001	Deserto delle pietre blu III
+025-062-002	Deserto delle pietre verdi III
+025-062-003	Foresta delle pietre rosse III
+025-062-004	Vulcano delle pietre gialle III
 025-063		Origine dell'istinto malvagio
 025-063-000	Santuario della culla (Letale)
 025-064		Apice dell'istinto malvagio
@@ -5477,6 +5542,7 @@
 027-012-026	Showdown! : Part 27
 027-012-027	Showdown! : Part 28
 027-012-028	Showdown! : Part 29
+027-012-029	Final Showdown!
 027-013		Manbosaki Strikes!
 027-013-000	Sudden Death Lv.1
 027-013-001	Sudden Death Lv.2
@@ -5519,6 +5585,17 @@
 027-014-017	Grail War: Day 18
 027-014-018	Grail War: Day 19
 027-014-019	Grail War: Final Day
+027-015		METAL SLUG STRIKES!
+027-015-000	MISSION 1
+027-015-001	MISSION 2
+027-015-002	MISSION 3
+027-015-003	MISSION 4
+027-015-004	MISSION 5
+027-015-005	MISSION 6
+027-015-006	MISSION 7
+027-015-007	MISSION 8
+027-015-008	MISSION 9
+027-015-009	MISSION COMPLETE！
 027-016		Ascend the Tower of Saviors
 027-016-000	Floor 1
 027-016-001	Floor 2
@@ -5917,6 +5994,13 @@
 034-018-003	Museo dell'inchiostro
 034-018-004	Campeggio delle alghe
 034-018-005	Osservatorio cianfrusaglie
+034-019		Le fauci spietate della verità
+034-019-000	Ricerca intellettuale
+034-019-001	Solitudine logica
+034-019-002	Il frutto di Newton
+034-019-003	Luce divisa
+034-019-004	Nessuna ipotesi
+034-019-005	Potenza incommensurabile
 
 036			Colosseum Stages
 036-000		Colosseo ultraterreno
@@ -5985,6 +6069,18 @@
 036-010-002	Round 3
 036-010-003	Round 4
 036-010-004	Round 5
+036-011		Colosseo ultraterreno
+036-011-000	Round 1
+036-011-001	Round 2
+036-011-002	Round 3
+036-011-003	Round 4
+036-011-004	Round 5
+036-012		Colosseo ultraterreno
+036-012-000	Round 1
+036-012-001	Round 2
+036-012-002	Round 3
+036-012-003	Round 4
+036-012-004	Round 5
 
 037			Campionati miciodiali
 037-000		Campionati miciodiali Grado 1

@@ -112,10 +112,11 @@
 111	Schließe alle Karten von Verst. Gapra-Wald,<br>Ashvini-Wüste & Jinfore-Vulkan ab.
 112	Schließe alle bösartigen Level ab.
 113	Schließe Ebene 50 des Höllischen Turms ab.
-114	Du erhältst Meister der Gedanken Soraktes
+114	Schalte Meister der Gedanken Soraktes frei
 115	Schließe „Gigahaniwan schlägt zu!“ ab
 116	Schließe „Supersmash-Familien“ ab.
 117	Schließe alle „Unh. Legenden“-Level der Stufe 4 ab.
 118	Schließe ein Nova-Level ab
 119	Schließe Jagd auf die Xenobestie ab
 120	Schließe Untergrund-Labyrinth B100F ab
+121	Schalte Weiser des logischen Newton frei

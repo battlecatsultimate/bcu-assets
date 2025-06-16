@@ -74,7 +74,7 @@
 073	Wahre Form erhöht Verteidigung!<br>Erhöht auch Angriffskraft sowie die Zeit, für<br>die schwarze Feinde eingefroren bleiben!	Ultra-Form erhält verbesserte Verteidigung!<br>Erhält zudem Einfrieren gg. Aku und<br>Konter-Zufallsangriff!
 074	<br><br>
 075	Wahre-Form-Entwicklung erhöht Vert.<br>und Bewegungstempo deutlich und erhöht<br>Angriffskraft und -reichweite.	Wahre-Form erhöht Angriffsreichweite,<br>Bewegungstempo & Angriffsrate und fügt<br>fliegenden Feinden irren Schaden zu!
-076	Wahre-Form-Entwicklung erhöht Vert.<br>und Bewegungstempo sowie Angriffskraft<br>und Angriffsreichweite!
+076	Wahre-Form-Entwicklung erhöht Vert.<br>und Bewegungstempo sowie Angriffskraft<br>und Angriffsreichweite!	Ultra-Form-Entw. verbessert Fähigkeiten!<br>Vergr. die Angriffsfläche, überl. tödl.<br>Schläge, imm. gg. Lähmung u. Schwächung.
 077	<br><br>
 078	<br><br>
 079	<br><br>
@@ -721,7 +721,7 @@
 720	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
 721	<br><br>
 722	<br><br>
-723	<br><br>
+723	Wahre-Form-Entw. verbessert Fähigkeiten!<br>Wellenang. kommen weiter und erhält<br>Immunität gegen Einfrieren und Gift.
 724	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
 725	<br><br>
 726	<br><br>
@@ -797,3 +797,15 @@
 796	<br><br>
 797	<br><br>
 798	<br><br>
+799	<br><br>
+800	<br><br>
+801	<br><br>
+802	<br><br>
+803	<br><br>
+804	<br><br>
+805	<br><br>
+806	<br><br>
+807	<br><br>
+808	<br><br>
+809	<br><br>
+810	<br><br>

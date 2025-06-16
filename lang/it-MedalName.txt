@@ -119,3 +119,4 @@
 118	★ Attacco misterioso della forma di vita ★
 119	★ Xenobestia Bunaglios ★
 120	★ Sotterranei B100F ★
+121	★ Newton ★

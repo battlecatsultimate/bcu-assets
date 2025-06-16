@@ -621,7 +621,7 @@
 620	Hevijak the Wicked	Wicked King Hevijak	God-Emperor Hevijak
 621	Aku Researcher	Evil Aku Researcher	Cat Researcher
 622	Jagando Jr.	Lord of Ruin Jagando Jr.
-623	Pied Piper Cat	Komuso Cat	Brass Band Cat
+623	Pied Piper Cat	Komuso Cat	Brass Cat
 624	Kunio-kun	Dodgeball Kunio-kun
 625	Furiluga	Furilan Pasalan	Ragelan Pasalan
 626	Giraffe Jockey Cat	Giraffe Jockey Cat Evolved
@@ -796,10 +796,10 @@
 796	Baki Cat	Baki Cat CC
 797	Kaioh Cat	Kaioh Cat CC
 798	Doppo Cat	Doppo Cat CC
-799	Howitzer Launchers	Interceptor Artillery Gun Hazard
-800	Gun Hazard Spirit
-801	Sage of Reason Newton	Sage of Reason Nyaton
-802	Nyaton Spirit
+799	Mighty Morta-Loncha	Grandiose Gunhauzer
+800	Gunhauzer Spirit
+801	Master of Logic Newton	Master of Logic Mewton
+802	Mewton Spirit
 803	Sonic	Sonic & Cat
 804	Tails	Tails & Cat
 805	Knuckles	Knuckles & Cat
@@ -807,3 +807,4 @@
 807	Sonic Cat	Sonic Cat CC
 808	Tails Cat	Tails Cat CC
 809	Shadow Cat	Shadow Cat CC
+810	Agent Stahl	Blade Master Stahl

@@ -74,7 +74,7 @@
 073	La forma final tiene una mayor defensa.<br>Su poder de ataque mejora y paraliza<br>a los enemigos negros durante más tiempo.	¡La ultraforma mejora la defensa!<br>¡Además, gana paralización contra akus<br>y provoca contrarréplicas!
 074	<br><br>
 075	La forma final tiene una defensa aún mayor.<br>Su velocidad de movimiento mejora.<br>su poder de ataque y su alcance.	¡La ultraforma mejora el alcance del ataque,<br>la velocidad de movimiento y el poder de<br>ataque, y es megafuerte contra voladores!
-076	La forma final tiene una mayor defensa.<br>Además, mejora su velocidad de movimiento,<br>su poder de ataque y su alcance.
+076	La forma final tiene una mayor defensa.<br>Además, mejora su velocidad de movimiento,<br>su poder de ataque y su alcance.	¡La ultraforma obtiene más habilidades!<br>Mayor ataque, supervivencia a golpes<br>mortales, inmune ralentización/desgaste.
 077	<br><br>
 078	<br><br>
 079	<br><br>
@@ -721,7 +721,7 @@
 720	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
 721	<br><br>
 722	<br><br>
-723	<br><br>
+723	¡La forma final obtiene más habilidades!<br>Mayores oleadas e inmunidad a la<br>paralización/toxicidad.
 724	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
 725	<br><br>
 726	<br><br>
@@ -797,3 +797,15 @@
 796	<br><br>
 797	<br><br>
 798	<br><br>
+799	<br><br>
+800	<br><br>
+801	<br><br>
+802	<br><br>
+803	<br><br>
+804	<br><br>
+805	<br><br>
+806	<br><br>
+807	<br><br>
+808	<br><br>
+809	<br><br>
+810	<br><br>

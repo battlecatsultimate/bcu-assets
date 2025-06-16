@@ -24,7 +24,7 @@
 000-002-003	Catechin Hill
 000-002-004	Lycopene Sunset
 000-002-005	Propolis Oasis
-000-002-006	PepTide snowfield
+000-002-006	Peptide Snowfield
 000-002-007	Hyaluronan Mountain
 000-003		Swimming Cats
 000-003-000	Premature Launch
@@ -32,10 +32,10 @@
 000-003-002	Mermaid Cove
 000-003-003	Chaos Lagoon
 000-003-004	Playing Pirates
-000-003-005	Fisherman’s Dilemma
+000-003-005	Fisherman's Dilemma
 000-003-006	Seaweed Shallows
 000-003-007	Salty is Seawater
-000-004		Risqué Terrain
+000-004		Risque Terrain
 000-004-000	Lovely Minerals
 000-004-001	Shapely Caverns
 000-004-002	Enticing Tunnels
@@ -43,7 +43,7 @@
 000-004-004	Twin Peaks
 000-004-005	Thriller Bridge
 000-005		Western Street
-000-005-000	Gunman’s Dawn
+000-005-000	Gunman's Dawn
 000-005-001	Cowboy Haven
 000-005-002	Wanted Night
 000-005-003	Macaroni Town
@@ -151,7 +151,7 @@
 000-017-003	Dead Falls
 000-017-004	Pitfall Zone
 000-017-005	The Great Escaper
-000-018		Capone’s Jail
+000-018		Capone's Jail
 000-018-000	Jailbreak Diary
 000-018-001	Last Gang
 000-018-002	Prison Destruction
@@ -313,8 +313,8 @@
 000-039-004	Perfume Room
 000-039-005	Houses of the Holy
 000-040		IT Catacombs
-000-040-000	Caliban’s Keeper
-000-040-001	Dial up Dreams
+000-040-000	Caliban's Keeper
+000-040-001	Dial-Up Dreams
 000-040-002	Throne of Phone
 000-040-003	OS Graveyard
 000-040-004	The Holy Exploit
@@ -335,11 +335,11 @@
 000-042-005	Offworld Weary
 000-043		Beyond the Savannah
 000-043-000	Eat the Weak
-000-043-001	Nukumanjaro
+000-043-001	Nikumanjaro
 000-043-002	The Noble Tribe
 000-043-003	Dry Season
 000-043-004	Electrosafari
-000-043-005	Heaven’s Oasis
+000-043-005	Heaven's Oasis
 000-044		Blizzard Boulevard
 000-044-000	Shiver Junction
 000-044-001	Leaky Tunnel
@@ -351,7 +351,7 @@
 000-045-000	Ubiquitous Sales
 000-045-001	Virtual Harvest
 000-045-002	Wearable Homes
-000-045-003	8K Fertiliser
+000-045-003	8K Fertilizer
 000-045-004	Blockchain Twilight
 000-045-005	Haunted Genome
 000-046		Ends of the Earth
@@ -1702,6 +1702,41 @@
 001-384		Food Stall Cat Awakes!
 001-384-000	Stalled Evolution 1 (Insane)
 001-384-001	Stalled Evolution 2 (Insane)
+001-385		Road to Unification Pt. 1
+001-385-000	Satsuma Imo Domain
+001-385-001	Ahosan Domain
+001-385-002	Mentai Domain
+001-385-003	Fuku Domain
+001-385-004	Daidai Domain
+001-385-005	U-don Domain
+001-385-006	Koyo Domain
+001-385-007	Minato Domain
+001-385-008	Shokudoraku Domain
+001-385-009	Ogo Domain
+001-386		Engage! Commander Nyandam
+001-386-000	The Red General (Normal)
+001-386-001	The Red General (Veteran)
+001-386-002	The Red General (Insane)
+001-387		Engage! Commander Hannya
+001-387-000	Demon-Masked Lord (Veteran)
+001-387-001	Demon-Masked Lord (Insane)
+001-387-002	Demon-Masked Lord (Deadly)
+001-388		Road to Unification Pt. 2
+001-388-000	Hotaruika Domain
+001-388-001	Ocha Domain
+001-388-002	Taka Domain
+001-388-003	Nyaku Domain
+001-388-004	Koi Domain
+001-388-005	Gyusetsu Domain
+001-388-006	Settanbo Domain
+001-388-007	Reimen Domain
+001-388-008	Tsukai Domain
+001-388-009	Saikyo Domain
+001-389		Final Battle! The Rebellious King
+001-389-000	Despot's Ambition (Normal)
+001-389-001	Despot's Ambition (Expert)
+001-389-002	Despot's Ambition (Deadly)
+001-389-003	Despot's Ambition (Merciless)
 001-391		Hunt for the Xenobeast
 001-391-000	King of the Beasts I (Deadly)
 001-391-001	King of the Beasts II (Merciless)
@@ -1723,6 +1758,9 @@
 001-396-000	Grats! 100 Million DLs!
 001-402		Customer Reward
 001-402-000	First-Come, First-Served
+001-404		Temptation's Rhapsody
+001-404-000	The Devil's Rhythm (Merciless)
+001-404-001	Symphony of Bankruptcy (Merciless)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -1772,11 +1810,11 @@
 002-018		Healer Awakens!
 002-018-000	Healer Awakens (Expert)
 002-018-001	Healer Awakens (Insane)
-002-021		Matal Slug Defense
+002-021		Metal Slug Defense
 002-021-000	Immortal Allen O'Neill
 002-021-001	Attack on Huge Hermit
 002-021-002	Jupiter King Convoy
-002-022		Super Matal Slug Defense
+002-022		Super Metal Slug Defense
 002-022-000	Devils on the Doorstep (Insane)
 002-028		Takuya & Yuki Awaken
 002-028-000	Takuya ＆ Yuki Awaken! (Veteran)
@@ -3368,6 +3406,28 @@
 004-068-000	The Face of God
 004-069
 004-069-000	Revival of Origin
+004-070		Road to Unification Pt. 1
+004-070-000	Doge's Rebellion
+004-070-001	Doge's Rebellion
+004-070-002	Doge's Rebellion
+004-070-003	Doge's Rebellion
+004-070-004	Doge's Rebellion
+004-070-005	Doge's Rebellion
+004-070-006	Doge's Rebellion
+004-070-007	Doge's Rebellion
+004-070-008	Doge's Rebellion
+004-070-009	Doge's Rebellion
+004-071		Road to Unification Pt. 2
+004-071-000	Doge's Rebellion
+004-071-001	Doge's Rebellion
+004-071-002	Doge's Rebellion
+004-071-003	Doge's Rebellion
+004-071-004	Doge's Rebellion
+004-071-005	Doge's Rebellion
+004-071-006	Doge's Rebellion
+004-071-007	Doge's Rebellion
+004-071-008	Doge's Rebellion
+004-071-009	Doge's Rebellion
 004-072		Memories of 2024
 004-072-000	Memories of Spring Page 2
 004-072-001	Memories of Summer Page 2
@@ -4055,7 +4115,7 @@
 014-010-000	Refined Palate (Insane)
 014-011		XP Stage
 014-011-000	Sweet XP (Easy)
-014-011-001	Sweet XP (Medium)
+014-011-001	Sweet XP (Normal)
 014-011-002	Sweet XP (Hard)
 014-011-003	Sweet XP (Veteran)
 014-011-004	Sweet XP (Expert)
@@ -4109,8 +4169,8 @@
 014-034-001	in LONDON
 014-034-002	in NEW YORK
 014-035		Red Sky at Morning
-014-035-000	Red Sky at Morning (Insane)
-014-036		Rolling Dead
+014-035-000	Oncoming Storm (Insane)
+014-036		The Rolling Dead
 014-036-000	Unholy Tempest (Insane)
 014-037		Typhoon Nemo
 014-037-000	Charybdis' Mouth (Merciless)
@@ -4412,7 +4472,7 @@
 024-012-007	Year of the Ox Lv.8
 024-012-008	Year of the Ox Lv.9
 024-012-009	Year of the Ox Lv.10
-024-013		A Colossal Valentine's
+024-013		A Colossal Valentine's!
 024-013-000	Choco Chaos Lv.1
 024-013-001	Choco Chaos Lv.2
 024-013-002	Choco Chaos Lv.3
@@ -4475,7 +4535,7 @@
 024-016-006	Forbidden II Lv.17
 024-016-007	Forbidden II Lv.18
 024-016-008	Forbidden II Lv.19
-024-016-009	Forbidden II Lv.Max
+024-016-009	Forbidden II Lv.MAX
 024-017		July Gauntlet
 024-017-000	Summer Lv.1
 024-017-001	Summer Lv.2
@@ -5043,7 +5103,7 @@
 024-055-018	Azure Refuge
 024-055-019	Rotten Refuge
 024-055-020	Adamantine Refuge
-024-056		#02 Demons' Night Out
+024-056		#03 Demons' Night Out
 024-056-000	Parade Lv.1
 024-056-001	Parade Lv.2
 024-056-002	Parade Lv.3
@@ -5289,6 +5349,12 @@
 025-031-000	Evening Bug Hunt
 025-032		Perfect Hideout
 025-032-000	Midnight Bug Hunt
+025-033		Red Cradle
+025-033-000	Cradle Wilderness (Deadly)
+025-034		Red Summit
+025-034-000	Summit Wilderness (Merciless)
+025-035		Red Frontier
+025-035-000	Frontier Wilderness (Merciless)
 025-051		Rundown Hideout
 025-051-000	Afternoon Bug Hunt
 025-052		Rundown Hideout
@@ -5308,19 +5374,19 @@
 025-059		Perfect Hideout
 025-059-000	Midnight Bug Hunt
 025-060		Hunter's Map I
-025-060-000	Purple Stone Forest 1
-025-060-001	Red Stone Forest 1
+025-060-000	Purple Stone Forest I
+025-060-001	Red Stone Forest I
 025-061		Hunter's Map II
-025-061-000	Purple Stone Forest 2
-025-061-001	Red Stone Forest 2
-025-061-002	Blue Stone Desert 2
-025-061-003	Green Stone Desert 2
+025-061-000	Purple Stone Forest II
+025-061-001	Red Stone Forest II
+025-061-002	Blue Stone Desert II
+025-061-003	Green Stone Desert II
 025-062		Hunter's Map III
-025-062-000	Purple Stone Forest 3
-025-062-001	Blue Stone Desert 3
-025-062-002	Green Stone Desert 3
-025-062-003	Red Stone Forest 3
-025-062-004	Yellow Stone Volcano 3
+025-062-000	Purple Stone Forest III
+025-062-001	Blue Stone Desert III
+025-062-002	Green Stone Desert III
+025-062-003	Red Stone Forest III
+025-062-004	Yellow Stone Volcano III
 025-063		Bad Instinct's Origin
 025-063-000	Cradle Shrine (Deadly)
 025-064		Bad Instinct's Apex
@@ -5572,6 +5638,17 @@
 027-014-017	Grail War: Day 18
 027-014-018	Grail War: Day 19
 027-014-019	Grail War: Final Day
+027-015		METAL SLUG STRIKES!
+027-015-000	MISSION 1
+027-015-001	MISSION 2
+027-015-002	MISSION 3
+027-015-003	MISSION 4
+027-015-004	MISSION 5
+027-015-005	MISSION 6
+027-015-006	MISSION 7
+027-015-007	MISSION 8
+027-015-008	MISSION 9
+027-015-009	MISSION COMPLETE！
 027-016		Ascend the Tower of Saviors
 027-016-000	Floor 1
 027-016-001	Floor 2
@@ -5863,7 +5940,7 @@
 034-003-001	Hard-Luck Homestay
 034-003-002	AI Fishing
 034-003-003	Sacrifice Apprenticeship
-034-004		New World Ehen
+034-004		New World Area: Ehen
 034-004-000	Interesting Inlet
 034-004-001	Banishin' Tigers
 034-004-002	Theheckareyou Island
@@ -5970,6 +6047,13 @@
 034-018-003	Ink Museum
 034-018-004	Kelp Campsite
 034-018-005	Jetsam Lookout
+034-019		Truth's Devouring Maw
+034-019-000	Intellectual Pursuit
+034-019-001	Logical Loneliness
+034-019-002	Newton's Fruit
+034-019-003	Divided Light
+034-019-004	No Hypothesis
+034-019-005	Immeasurable Power
 
 036			Colosseum Stages
 036-000		Otherworld Colosseum
@@ -6038,6 +6122,18 @@
 036-010-002	Round 3
 036-010-003	Round 4
 036-010-004	Round 5
+036-011		Otherworld Colosseum
+036-011-000	Round 1
+036-011-001	Round 2
+036-011-002	Round 3
+036-011-003	Round 4
+036-011-004	Round 5
+036-012		Otherworld Colosseum
+036-012-000	Round 1
+036-012-001	Round 2
+036-012-002	Round 3
+036-012-003	Round 4
+036-012-004	Round 5
 
 037			Catclaw Championships
 037-000		Catclaw Championships Rank 1

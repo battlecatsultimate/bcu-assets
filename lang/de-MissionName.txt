@@ -113,9 +113,9 @@
 9086	Schließe Schleimiges Rennen 9 Mal ab!
 9087	Schließe Schleimiges Rennen 9 Mal ab!
 9088	Entwickle Schneckenreiter-Katze auf Stufe 10! Kann nur während des Schleimhengste-Events abgeschlossen werden!
-9089	Schließe Die verbotene Braut II 9 Mal ab!
-9090	Schließe Die verbotene Braut II 9 Mal ab!
-9091	Schließe Die verbotene Braut II 9 Mal ab!
+9089	Schließe Verbotene Braut II 9 Mal ab!
+9090	Schließe Verbotene Braut II 9 Mal ab!
+9091	Schließe Verbotene Braut II 9 Mal ab!
 9092	Entwickle Die Braut auf Stufe 10! Kann nur während des Juni-Monatsevents abgeschlossen werden!
 9093	Schließe The Battle Cats lassen es knallen! 9 Mal ab!
 9094	Schließe The Battle Cats lassen es knallen! 9 Mal ab!

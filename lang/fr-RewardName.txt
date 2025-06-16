@@ -196,6 +196,7 @@
 203|S203|I430	Filet légendaire
 204|S204|I431	Piège légendaire
 206|S206|I433	Esprit légendaire
+207|S207|I720	Fonds de guerre
 209|I435	Coffre au trésor (bronze)
 210|I436	Coffre au trésor (argent)
 211|I437	Coffre au trésor (or)
@@ -269,6 +270,7 @@
 1067	Œuf ancien : N006
 1068	Soracte, mentor mental
 1069	Chat joueur de bowling
+1071	Maître de la Logique Newton
 1100	Chat en bronze
 1101	Chastronaute
 1102	Chat corde à sauter
@@ -418,6 +420,7 @@
 10554	Chat poulet frit
 10555	Uril ésotérique
 10622	Chercheur félin
+10624	Chat de laiton
 10630	Chat punk sous contrôle
 10637	Chat gomme sous contrôle
 10646	Chat de l'ombre sous contrôle
@@ -677,6 +680,7 @@
 15717	Chagent de police
 15718	Chagriculteur
 15721	Chat-Ours déchu
+15724	Aset Toute-puissante
 15725	Nacelle-œuf féline
 15731	Chat lion danseur
 15758	Chat mariée

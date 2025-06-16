@@ -112,10 +112,11 @@
 111	Supera todos los mapas del Bosque Oculto de Gapra,<br>Desierto de Ashvini y Volcán Jinfore.
 112	Supera todas las fases de Malicia.
 113	Supera el piso 50 de la Torre Infernal.
-114	Recibe a Sórcates Mente Brillante
+114	Desbloquea a Sórcates Mente Brillante
 115	Supera "¡Gigahaniwan Ataca!"
 116	Supera "Familias Superremate"
 117	Supera el nivel 4 de las Etapas de Leyenda Inquietante
 118	Supera la fase Nova
 119	Supera Encuentra al Engendro Cósmico
 120	Supera el piso S100 del Laberinto Subterráneo
+121	Desbloquea al Sabio de la lógica Newton

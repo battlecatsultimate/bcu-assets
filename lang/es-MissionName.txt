@@ -866,6 +866,21 @@
 69	[Campeonatos Afilagarras] Consigue 4 Gatos Legendarios. Avanza en Etapas
 70	[Campeonatos Afilagarras] Consigue 4 Gatos Legendarios. Avanza en Etapas
 71	[Campeonatos Afilagarras] Consigue 4 Gatos Legendarios. Avanza en Etapas
+9536	¡Supera todas las misiones de Rumbo a la Unificación. y llévate un tique de platino!
+9537	¡Supera las misiones ① - ④ de Rumbo a la Unificación. y consigue al Teniente Imperial!
+9538	Rumbo a la Unificación ①:. supera las 5 fases de Rumbo a la Unificación
+9539	Rumbo a la Unificación ②: supera Reb. de los chuchos Pt. 1. 0 veces. ※Aparece tras superar R. a la Unificación Pt. 1
+9540	Rumbo a la Unificación ③:. supera la fase 1 de «¡Ataquen! Comandante Nyandam»
+9541	Rumbo a la Unificación ④: ¡habla con el gato. de la base gatuna durante 3 días y recluta nuevas unidades!
+9542	Rumbo a la Unificación ⑤:. supera la fase 1 de «Rumbo a la Unificación Parte 2»
+9543	Rumbo a la Unificación ⑥:. ¡supera la fase 1 de «¡Batalla final! El Rey Indomable»
+72	Misión de Rumbo a la Unificación. Supera el cap. 1 de Imperio de los Gatos durante el evento
+9544	Misión de R. a la Unificación: supera «Almas Primitivas». de Leyenda Inquietante usando gatos de 1000 ¢ o más
+9545	Misión de R. a la Unificación: supera «Pala Salvavidas». de Leyenda Inquietante usando 9 o más gatos normales
+9546	Misión de R. a la Unificación: supera «La Cara de Dios». de Leyenda Inquietante usando 8 o más gatos superraros
+9547	Misión de R. a la Unificación: supera «Zenith Inmortal». de Leyenda Inquietante usando gatos de 2000 ¢ o menos
+9548	Misión de R. a la Unificación: supera «Revivir del Origen». de Leyenda Inquietante usando 5 o menos gatos normales
+9549	Misión de R. a la Unificación: supera «Un Mundo Nuevo». de Leyenda Cero usando 9 o más gatos raros
 73	Toca dos veces un tesoro en la lista para ir a esa fase. Abre la lista de tesoros desde la base gatuna
 74	Toca el icono de un enemigo en la selección de fases para ir. al bestiario. Toca fase superada para ver los enemigos
 75	Usa gatamina [A] para restaurar los intentos. Usa gatamina [A] en una Etapa de Leyenda

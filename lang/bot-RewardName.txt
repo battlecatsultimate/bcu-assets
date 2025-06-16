@@ -196,6 +196,7 @@
 203|S203|I430	Legend Net
 204|S204|I431	Legend Trap
 206|S206|I433	Legendary Spirit
+207|S207|I720	War Funds
 209|I435	Treasure Chest (Bronze)
 210|I436	Treasure Chest (Silver)
 211|I437	Treasure Chest (Gold)
@@ -269,6 +270,7 @@
 1067	Ancient Egg: N006
 1068	Master of Mind Soractes
 1069	Bowler Cat
+1071	Master of Logic Newton
 1100	Bronze Cat
 1101	Space Cat
 1102	Rope Jump Cat
@@ -418,6 +420,7 @@
 10554	Fried Chicken Cat
 10555	Esoteric Uril
 10622	Cat Researcher
+10624	Brass Cat
 10630	Brainwashed Mohawk Cat
 10637	Brainwashed Eraser Cat
 10646	Brainwashed Dark Cat
@@ -677,6 +680,7 @@
 15717	Cop Cat
 15718	Farmboy Cat
 15721	Fallen Bear Cat
+15724	Almighty Aset
 15725	Cat Egg Pod
 15731	Lion Dancer Cat
 15758	Bride Cat

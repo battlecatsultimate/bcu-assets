@@ -871,6 +871,21 @@
 69	[Campionati miciodiali] Ottieni 4 Gatti leggendari. Vai avanti nei livelli. leggendari per raccoglierli nei livelli speciali
 70	[Campionati miciodiali] Ottieni 4 Gatti leggendari. Vai avanti nei livelli. leggendari per raccoglierli nei livelli speciali
 71	[Campionati miciodiali] Ottieni 4 Gatti leggendari. Vai avanti nei livelli. leggendari per raccoglierli nei livelli speciali
+9536	Supera tutte le missioni La via dell'unificazione. e ottieni un biglietto platino!
+9537	Supera le missioni La via dell'unificazione ① - ④. e ottieni Gatto tenente!
+9538	La via dell'unificazione ①:. Supera tutti e 5 i livelli La via dell'unificazione!
+9539	La via dell'unificazione ②: supera "Cane ribelle p.1". 0 volte! *Appare dopo aver superato LvU p.1
+9540	La via dell'unificazione ③:. Supera il livello 1 di "All'attacco! Comandante Nyandam"!
+9541	La via dell'unificazione ④: parla con il Gatto. nella Base felina per 3 giorni e recluta nuovi combattenti!
+9542	La via dell'unificazione ⑤: . supera "La via dell'unificazione p.2", livello 1!
+9543	La via dell'unificazione ⑥：. Supera il livello 1 di "Battaglia finale! Il re ribelle"!
+72	Missione La via dell'unificazione: supera. Impero dei Gatti Cap. 1 durante l'evento per completare
+9544	Missione La via dell'unificazione: supera "Anime primitive". da Leggende misteriose con Gatti che costano ¢1000 o più!
+9545	Missione La via dell'unificazione: supera "Pala di. salvataggio" da Leggende misteriose con 9 o più Gatti base!
+9546	Missione La via dell'unificazione: supera "Il volto divino". da Leggende misteriose con 8 o più Gatti super rari!
+9547	Missione La via dell'unificazione: supera "Zenit Immortale". da Leggende misteriose con Gatti che costano ¢2000 o meno!
+9548	Missione La via dell'unificazione: supera "Il ritorno. dell'origine" da Leggende misteriose con 5 Gatti o meno!
+9549	Missione La via dell'unificazione: supera "Un mondo nuovo". da Leggende zero con 9 o più Gatti rari!
 73	Tocca 2 volte un Tesoro nella Lista per saltare al livello. Apri la Lista tesori dalla Base felina
 74	Tocca l'icona nemico nella schermata di sel. liv. e apri la. Guida ai nemici. Tocca nome liv. sup. per mostrare i nemici
 75	Usa Vitamiao A per ripristinare i tentativi di un livello. Usa Vitamiao A in un livello leggendario

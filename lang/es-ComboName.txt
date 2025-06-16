@@ -240,3 +240,4 @@
 3056	Consuelo Explosivo
 3057	パッカーン
 3058	Infracción de Tráfico
+3059	Rebote metálico

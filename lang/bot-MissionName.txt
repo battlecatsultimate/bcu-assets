@@ -113,9 +113,9 @@
 9086	Clear "Sliming to Victory" 9 times!
 9087	Clear "Sliming to Victory" 9 times!
 9088	Evolve Slug Jockey Cat Level 10! This mission can only be completed during the Slimy Stallions event!
-9089	Clear "The Forbidden Bride Pt II" 9 times!
-9090	Clear "The Forbidden Bride Pt II" 9 times!
-9091	Clear "The Forbidden Bride Pt II" 9 times!
+9089	Clear "Forbidden Bride Pt II" 9 times!
+9090	Clear "Forbidden Bride Pt II" 9 times!
+9091	Clear "Forbidden Bride Pt II" 9 times!
 9092	Evolve Madam Bride at Level 10! This mission can only be completed during the June Monthly Event!
 9093	Clear "The Battle Cats POP!" 9 times!
 9094	Clear "The Battle Cats POP!" 9 times!
@@ -871,6 +871,21 @@
 69	[Catclaw Championships] Get 4 Legend Cats. Progress in Legend
 70	[Catclaw Championships] Get 4 Legend Cats. Progress in Legend
 71	[Catclaw Championships] Get 4 Legend Cats. Progress in Legend
+9536	Clear all Road to Unification Missions. and earn a Platinum Ticket!
+9537	Clear Road to Unification Missions ① - ④. and earn Lieutenant Cat!
+9538	Road to Unification ①:. Clear Road to Unification, Stage 5!
+9539	Road to Unification ②: Clear "Doge's Rebellion Pt. 1". 0 times! ※Appears shortly after clearing RtU Pt.1
+9540	Road to Unification ③:. Clear "Engage! Commander Nyandam" stage 1!
+9541	Road to Unification ④: Talk to Cat in the Cat Base. over 3 days and recruit new army members!
+9542	Road to Unification ⑤：. Clear "Road to Unification Pt. 2", stage 1!
+9543	Road to Unification ⑥：. Clear "Final Battle! The Rebellious King" stage 1!
+72	Road to Unification Mission. Clear Empire of Cats Ch. 1 during the event to complete
+9544	Road to Unification Mission: Clear Uncanny Legend stage. "Primitive Souls" with Cats that cost ¢1000 or more!
+9545	Road to Unification Mission: Clear Uncanny Legend stage. "Lifesaving Shovel" with 9 or more basic Cats!
+9546	Road to Unification Mission: Clear Uncanny Legend stage. "The Face of God" with 8 or more Super Rare Cats!
+9547	Road to Unification Mission: Clear Uncanny Legend stage. "Immortal Zenith" with Cats that cost ¢2000 or less!
+9548	Road to Unification Mission: Clear Uncanny Legend stage. "Revival of Origin" using 5 or fewer Cats!
+9549	Road to Unification Mission: Clear Zero Legend stage. "A Whole New World" with 9 or more Rare Cats!
 73	Double-tap a Treasure in the Treasure List to jump to that stage. Open the Treasure List from the Cat Base
 74	Tap an enemy icon on the stage select screen to jump to the. Enemy Guide. Tap the name of a cleared stage to show enemies
 75	Use Catamin A to restore stage attempts. Use Catamin A on a Legend Stage

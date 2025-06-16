@@ -74,7 +74,7 @@
 073	Oda Nobunaga	Nobunaga Dios de la Guerra	Nobunaga Inmortal	Nobunaga Fantasmal
 074	Piscigato Reno	Gato Sashimi	Gato Pastel Navideño	
 075	Brisabel	Brisabel (α)	Brisabel Divina	Brisabel Definitiva
-076	Trónica	Trónica (β)	Trónica Divina	
+076	Trónica	Trónica (β)	Trónica Divina	Trónica Definitiva
 077	Felidroide	Felidroide MK II	Felidroide Primaveral	
 078	Gato Espacial	Gato Espacial Comandante	Gato Espacial Marine	
 079	Gato Adulto	Gato Resacoso	Gato Prisionero	
@@ -621,7 +621,7 @@
 620	Hevijak el Maligno	Hevijak el Rey Maligno	Hevijak, Dios Emperador	
 621	Investigador Aku	Investigador Aku Malvado	Investigator	
 622	Majado Jr.	Señor de la Ruina Majado Jr.		
-623	Gato de Hamelín	Gato Komuso		
+623	Gato de Hamelín	Gato Komuso	Gato de banda de bronce	
 624	Kunio-kun	Dodgeball Kunio-kun		
 625	Furiluga	Furilan Pasalan	Ragelan Pasalan	
 626				
@@ -721,7 +721,7 @@
 720	Huevo Antiguo N006	Huevo Demoniaco N006	Oso Caído Gatuno	
 721	High School Kingpin Riki	Dodgeball Riki		
 722	Hatsune Miku XVI	Hatsune Miku XVI CC		
-723	Aset de la Madre de la Luz	Aset de Nefer		
+723	Aset de la Madre de la Luz	Aset de Nefer	Aset Todopoderosa	
 724	Huevo Antiguo N112	Huevo Místico N112	Vaina de huevo gatuno	
 725	Chica Ninja Tomoe	Chica Ninja Tomoe Glotona		
 726				
@@ -774,7 +774,7 @@
 773	Momia Sumo	Momia Sumo Mamá		
 774	Guardia mecánico Axel	Sargento Metálico Axel		
 775				
-776				
+776	Teniente Imperial	Comandante Imperial		
 777	General de Invierno Kaihime	Comandante de Invierno Kaihime		
 778	Madoka Cat & Homura	Magical Cat☆ Magica		
 779	Luna Hija Celestial	Lunacia Hija de la Salvación		
@@ -797,3 +797,15 @@
 796	Baki Cat	Baki Cat CC		
 797	Kaioh Cat	Kaioh Cat CC		
 798	Doppo Cat	Doppo Cat CC		
+799	Gatomortero Brutal	Gatocañón Descomunal		
+800				
+801	Sabio de la lógica Newton	Sabio de la lógica Miauwton		
+802	802-1			
+803				
+804				
+805				
+806				
+807				
+808				
+809				
+810				

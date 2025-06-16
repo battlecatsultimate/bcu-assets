@@ -1700,6 +1700,41 @@
 001-384		Essensstandkatze erwacht!
 001-384-000	Aufgehaltene Entwicklung 1 (Irre)
 001-384-001	Aufgehaltene Entwicklung 2 (Irre)
+001-385		Straße zur Einigkeit 1
+001-385-000	Satsuma-Imo-Reich
+001-385-001	Ahosan-Reich
+001-385-002	Mentai-Reich
+001-385-003	Fuku-Reich
+001-385-004	Daidai-Reich
+001-385-005	U-Don-Reich
+001-385-006	Koyo-Reich
+001-385-007	Minato-Reich
+001-385-008	Shokudoraku-Reich
+001-385-009	Ogo-Reich
+001-386		Zum Angriff! Kommandant Nyandam
+001-386-000	Der Rote General (Normal)
+001-386-001	Der Rote General (Veteran)
+001-386-002	Der Rote General (Irre)
+001-387		Zum Angriff! Kommandant Hannya
+001-387-000	Herrscher mit Dämonenmaske (Veteran)
+001-387-001	Herrscher mit Dämonenmaske (Irre)
+001-387-002	Herrscher mit Dämonenmaske (Tödlich)
+001-388		Straße zur Einigkeit 2
+001-388-000	Hotaruika-Reich
+001-388-001	Ocha-Reich
+001-388-002	Taka-Reich
+001-388-003	Nyaku-Reich
+001-388-004	Koi-Reich
+001-388-005	Gyusetsu-Reich
+001-388-006	Settanbo-Reich
+001-388-007	Reimen-Reich
+001-388-008	Tsukai-Reich
+001-388-009	Saikyo-Reich
+001-389		Letzte Schlacht! Der rebellische König
+001-389-000	Despotischer Ehrgeiz (Normal)
+001-389-001	Despotischer Ehrgeiz (Experte)
+001-389-002	Despotischer Ehrgeiz (Tödlich)
+001-389-003	Despotischer Ehrgeiz (Gnadenlos)
 001-391		Jagd auf die Xenobestie
 001-391-000	König der Tiere I (Tödlich)
 001-391-001	König der Tiere II (Gnadenlos)
@@ -1721,6 +1756,9 @@
 001-396-000	Hurra! 100 Mio. Downloads!
 001-402		Kundenbelohnung
 001-402-000	Wer zuerst kommt, mahlt zuerst
+001-404		Rhapsodie der Versuchung
+001-404-000	Im Takt des Teufels (Gnadenlos)
+001-404-001	Pleitegeier-Symphonie (Gnadenlos)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3355,6 +3393,28 @@
 004-068-000	Das Antlitz Gottes
 004-069		
 004-069-000	Wiederbelebung des Ursprungs
+004-070		Straße zur Einigkeit 1
+004-070-000	Hundeaufstand
+004-070-001	Hundeaufstand
+004-070-002	Hundeaufstand
+004-070-003	Hundeaufstand
+004-070-004	Hundeaufstand
+004-070-005	Hundeaufstand
+004-070-006	Hundeaufstand
+004-070-007	Hundeaufstand
+004-070-008	Hundeaufstand
+004-070-009	Hundeaufstand
+004-071		Straße zur Einigkeit 2
+004-071-000	Hundeaufstand
+004-071-001	Hundeaufstand
+004-071-002	Hundeaufstand
+004-071-003	Hundeaufstand
+004-071-004	Hundeaufstand
+004-071-005	Hundeaufstand
+004-071-006	Hundeaufstand
+004-071-007	Hundeaufstand
+004-071-008	Hundeaufstand
+004-071-009	Hundeaufstand
 004-072		Erinnerungen an 2024
 004-072-000	Frühlingserinnerungen, Seite 2
 004-072-001	Sommererinnerungen, Seite 2
@@ -3771,7 +3831,7 @@
 013-013-005	Wunder der Natur
 013-014		Straßen der Pein
 013-014-000	Haare ziehen
-013-014-001	Meerjungfrauen-Sauce
+013-014-001	Meerjungfrauen-Soße
 013-014-002	Vortrag des Fürsten
 013-014-003	Gebrochene Säule
 013-014-004	Wächter der Unschuld
@@ -3790,7 +3850,7 @@
 013-016-003	Kühler Teich
 013-016-004	Umibozus Haus
 013-016-005	Thermalquellenempfang
-013-017		
+013-017		Uralte Berge
 013-017-000	Hungerdorf
 013-017-001	Die Nacht der Klauen
 013-017-002	Felsige Oberfläche
@@ -4987,7 +5047,7 @@
 024-055-018	Azurblaue Zuflucht
 024-055-019	Verrottete Zuflucht
 024-055-020	Steinharte Zuflucht
-024-056		#02 Dämonennacht
+024-056		#03 Dämonennacht
 024-056-000	Parade St. 1
 024-056-001	Parade St. 2
 024-056-002	Parade St. 3
@@ -5233,6 +5293,12 @@
 025-031-000	Insektenjagd am Abend
 025-032		Perfektes Versteck
 025-032-000	Insektenjagd bei Nacht
+025-033		Roter Hort
+025-033-000	Hortwildnis (Tödlich)
+025-034		Roter Gipfel
+025-034-000	Gipfelwildnis (Gnadenlos)
+025-035		Rote Grenze
+025-035-000	Grenzwildnis (Gnadenlos)
 025-051		Schäbiges Versteck
 025-051-000	Insektenjagd am Nachmittag
 025-052		Schäbiges Versteck
@@ -5443,6 +5509,37 @@
 027-009-007	Stagebuilding Witch: Cycle 8
 027-009-008	Stagebuilding Witch: Cycle 9
 027-009-009	Stagebuilding Witch: Cycle XX
+027-012		Test of Might: "Ranma 1/2"
+027-012-000	Showdown! : Part 1
+027-012-001	Showdown! : Part 2
+027-012-002	Showdown! : Part 3
+027-012-003	Showdown! : Part 4
+027-012-004	Showdown! : Part 5
+027-012-005	Showdown! : Part 6
+027-012-006	Showdown! : Part 7
+027-012-007	Showdown! : Part 8
+027-012-008	Showdown! : Part 9
+027-012-009	Showdown! : Part 10
+027-012-010	Showdown! : Part 11
+027-012-011	Showdown! : Part 12
+027-012-012	Showdown! : Part 13
+027-012-013	Showdown! : Part 14
+027-012-014	Showdown! : Part 15
+027-012-015	Showdown! : Part 16
+027-012-016	Showdown! : Part 17
+027-012-017	Showdown! : Part 18
+027-012-018	Showdown! : Part 19
+027-012-019	Showdown! : Part 20
+027-012-020	Showdown! : Part 21
+027-012-021	Showdown! : Part 22
+027-012-022	Showdown! : Part 23
+027-012-023	Showdown! : Part 24
+027-012-024	Showdown! : Part 25
+027-012-025	Showdown! : Part 26
+027-012-026	Showdown! : Part 27
+027-012-027	Showdown! : Part 28
+027-012-028	Showdown! : Part 29
+027-012-029	Final Showdown!
 027-013		Manbosaki Strikes!
 027-013-000	Sudden Death Lv.1
 027-013-001	Sudden Death Lv.2
@@ -5485,6 +5582,17 @@
 027-014-017	Grail War: Day 18
 027-014-018	Grail War: Day 19
 027-014-019	Grail War: Final Day
+027-015		METAL SLUG STRIKES!
+027-015-000	MISSION 1
+027-015-001	MISSION 2
+027-015-002	MISSION 3
+027-015-003	MISSION 4
+027-015-004	MISSION 5
+027-015-005	MISSION 6
+027-015-006	MISSION 7
+027-015-007	MISSION 8
+027-015-008	MISSION 9
+027-015-009	MISSION COMPLETE！
 027-016		Ascend the Tower of Saviors
 027-016-000	Floor 1
 027-016-001	Floor 2
@@ -5616,7 +5724,6 @@
 031-001-017	Sandsturmgebiet 18
 031-001-018	Sandsturmgebiet 19
 031-001-019	Mondstaubgebiet: Finale
-031-001-016	Sandsturmgebiet 17
 031-002		Jinfore-Vulkan
 031-002-000	Magmatunnel 1
 031-002-001	Magmatunnel 2
@@ -5884,6 +5991,13 @@
 034-018-003	Tintenmuseum
 034-018-004	Algencamp
 034-018-005	Strandgut-Ausguck
+034-019		Schlingender Schlund der Wahrheit
+034-019-000	Intellektuelle Bestrebungen
+034-019-001	Logische Einsamkeit
+034-019-002	Newtons Frucht
+034-019-003	Geteiltes Licht
+034-019-004	Keine Hypothese
+034-019-005	Unermessliche Kraft
 
 036			Colosseum Stages
 036-000		Anderwelt-Kolosseum
@@ -5952,6 +6066,18 @@
 036-010-002	Runde 3
 036-010-003	Runde 4
 036-010-004	Runde 5
+036-011		Anderwelt-Kolosseum
+036-011-000	Runde 1
+036-011-001	Runde 2
+036-011-002	Runde 3
+036-011-003	Runde 4
+036-011-004	Runde 5
+036-012		Anderwelt-Kolosseum
+036-012-000	Runde 1
+036-012-001	Runde 2
+036-012-002	Runde 3
+036-012-003	Runde 4
+036-012-004	Runde 5
 
 037			Katzenkrall-Meisterschaften
 037-000		Katzenkrall-Meisterschaften Rang 1

@@ -196,6 +196,7 @@
 203|S203|I430	Red legendaria
 204|S204|I431	Trampa legendaria
 206|S206|I433	Alma Legendaria
+207|S207|I720	Fondos de guerra
 209|I435	C. tesoro bronce
 210|I436	Cofre tesoro plata
 211|I437	Cofre tesoro oro
@@ -269,6 +270,7 @@
 1067	Huevo Antiguo N006
 1068	Sórcates Mente Brillante
 1069	Gato Jugador de Bolos
+1071	Sabio de la lógica Newton
 1100	Gato de Bronce
 1101	Gato Espacial
 1102	Gato con Comba
@@ -418,6 +420,7 @@
 10554	Gato Pollo Frito
 10555	Uril Esotérico
 10622	Investigator
+10624	Gato de banda de bronce
 10630	Gato Crestado adoctrinado
 10637	Gato Borrador adoctrinado
 10646	Gato Oscuro adoctrinado
@@ -676,6 +679,7 @@
 15717	Gato Policía
 15718	Gato Granjero
 15721	Oso Caído Gatuno
+15724	Aset Todopoderosa
 15725	Vaina de huevo gatuno
 15731	Gato León Bailarín
 15758	Gata Prometida

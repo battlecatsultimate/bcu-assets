@@ -119,3 +119,4 @@
 118	★ Misteriosoo ataque del ser vivo ★
 119	★ Engendro Cósmico Bunaglios ★
 120	★ Bajo Tierra S100 ★
+121	★ Newton ★

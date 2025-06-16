@@ -74,7 +74,7 @@
 073	True Form greatly increases defense!<br>Plus, improves attack power and increases<br>the time Freeze will affect Black enemies!	Ultra Form gains improved Defense!<br>Plus, gains Freeze vs. Aku and<br>Counter-Surge!
 074	<br><br>
 075	True Form evolution greatly increases<br>defense and movement speed, as well<br>as increasing attack power and range.	Ultra Form gains improved attack range,<br>move speed and attack rate, and deals<br>Insane damage to Floating enemies!
-076	True Form evolution increases Defense<br>and movement speed, as well as Attack<br>power and Attack range!
+076	True Form evolution increases Defense<br>and movement speed, as well as Attack<br>power and Attack range!	Ultra form evolution increases abilities!<br>Also gains increased attack area, Survives<br>fatal blows, immune to Slow and Weaken.
 077	<br><br>
 078	<br><br>
 079	<br><br>
@@ -721,7 +721,7 @@
 720	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 721	<br><br>
 722	<br><br>
-723	<br><br>
+723	True form evolution gains improved abilities!<br>Wave attacks reach farther, and also<br>gains immunity to Freeze and Toxic.
 724	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 725	<br><br>
 726	<br><br>
@@ -797,3 +797,15 @@
 796	<br><br>
 797	<br><br>
 798	<br><br>
+799	<br><br>
+800	<br><br>
+801	<br><br>
+802	<br><br>
+803	<br><br>
+804	<br><br>
+805	<br><br>
+806	<br><br>
+807	<br><br>
+808	<br><br>
+809	<br><br>
+810	<br><br>

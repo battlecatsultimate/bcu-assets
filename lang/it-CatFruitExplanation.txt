@@ -74,7 +74,7 @@
 073	La Forma Reale aumenta molto la difesa!<br>In più migliora la potenza d'attacco e<br>aumenta il tempo d'immobilità su nemici neri!	La Forma ultra ha maggiore difesa!<br>In più immobilità vs. Aku e<br>contrasto att. a valanga!
 074	<br><br>
 075	La Forma Reale aumenta molto<br>la difesa e la velocità, così come<br>la potenza d'attacco e il raggio.	La Forma ultra ha maggiore portata d'attacco,<br>velocità e ritmo, e infligge<br>danni incredibili a nemici fluttuanti!
-076	La Forma Reale aumenta la difesa<br>e la velocità, così come la potenza<br>d'attacco e il raggio!
+076	La Forma Reale aumenta la difesa<br>e la velocità, così come la potenza<br>d'attacco e il raggio!	La Forma ultra aumenta le abilità!<br>Area d'attacco migliorata, sopravv.<br>colpi fatali, immune rallent. e indebol.
 077	<br><br>
 078	<br><br>
 079	<br><br>
@@ -721,7 +721,7 @@
 720	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 721	<br><br>
 722	<br><br>
-723	<br><br>
+723	La Forma Reale ha abilità migliorate!<br>Att. ondata migliori e ottiene immunità<br>a immobilità e veleno.
 724	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 725	<br><br>
 726	<br><br>
@@ -797,3 +797,15 @@
 796	<br><br>
 797	<br><br>
 798	<br><br>
+799	<br><br>
+800	<br><br>
+801	<br><br>
+802	<br><br>
+803	<br><br>
+804	<br><br>
+805	<br><br>
+806	<br><br>
+807	<br><br>
+808	<br><br>
+809	<br><br>
+810	<br><br>

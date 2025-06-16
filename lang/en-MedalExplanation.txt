@@ -112,10 +112,11 @@
 111	Clear all maps for Hidden Forest of Gapra,<br>Ashvini Desert, and Jinfore Volcano.
 112	Clear all Malevolent stages.
 113	Clear Floor 50 of the Infernal Tower
-114	Receive Master of Mind Soractes
+114	Unlock Master of Mind Soractes
 115	Clear "Gigahaniwan Strikes!"
 116	Clear "Super Smash Families"
 117	Clear All Level 4 Uncanny Legend stages
 118	Clear Nova Stage
 119	Clear Hunt for the Xenobeast
 120	Clear Underground Labyrinth B100F
+121	Unlock Master of Logic Newton

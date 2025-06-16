@@ -978,3 +978,4 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 984	-107	799
 985	-2032
 986	-11
+990	-1001	810

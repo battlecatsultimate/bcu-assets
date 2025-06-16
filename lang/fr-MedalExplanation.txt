@@ -112,10 +112,11 @@
 111	Termine Forêt cachée de G., Désert d'A., Volcan de J.
 112	Termine tous les niveaux maléfiques
 113	Terminer le 50e étage de la Tour infernale
-114	Reçois Soracte, mentor mental
+114	Débloque Soracte, mentor mental
 115	Termine Attaque de Gigahaniwan !
 116	Termine Super Smash Familles
 117	Termine tous les niveaux Légende mystérieuse de niv. 4
 118	Termine le niveau Nova
 119	Termine Chasse au xénomonstre
 120	Termine Labyrinthe souterrain niv. 100
+121	Débloque Maître de la Logique Newton

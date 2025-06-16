@@ -240,3 +240,4 @@
 3056	Seufzer der Erleichterung
 3057	パッカーン
 3058	Verkehrswidrigkeit
+3059	Stahltennis

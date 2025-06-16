@@ -119,3 +119,4 @@
 118	★ Lifeform's Mysterious Attack ★
 119	★ Xenobeast Bunaglios ★
 120	★ Underground B100F ★
+121	★ Newton ★

@@ -1700,6 +1700,41 @@
 001-384		Éveil : Chat stand !
 001-384-000	Évolution interrompue 1 (maniaque)
 001-384-001	Évolution interrompue 2 (maniaque)
+001-385		Route de l’Unification 1re partie
+001-385-000	Domaine de Satsuma Imo
+001-385-001	Domaine d’Ahosan
+001-385-002	Domaine de Mentai
+001-385-003	Domaine de Fuku
+001-385-004	Domaine de Daidai
+001-385-005	Domaine d’U-don
+001-385-006	Domaine de Koyo
+001-385-007	Domaine de Minato
+001-385-008	Domaine de Shokudoraku
+001-385-009	Domaine d’Ogo
+001-386		À l’attaque ! Commandant Nyandam
+001-386-000	Le général rouge (classique)
+001-386-001	Le général rouge (vétéran)
+001-386-002	Le général rouge (maniaque)
+001-387		À l’attaque ! Commandant Hannya
+001-387-000	Le seigneur au masque de démon (vétéran)
+001-387-001	Le seigneur au masque de démon (maniaque)
+001-387-002	Le seigneur au masque de démon (mortel)
+001-388		Route de l’Unification 2e partie
+001-388-000	Domaine de Hotaruika
+001-388-001	Domaine d’Ocha
+001-388-002	Domaine de Taka
+001-388-003	Domaine de Nyaku
+001-388-004	Domaine de Koi
+001-388-005	Domaine de Gyusetsu
+001-388-006	Domaine de Settanbo
+001-388-007	Domaine de Reimen
+001-388-008	Domaine de Tsukai
+001-388-009	Domaine de Saikyo
+001-389		Dernière bataille ! Le roi rebelle
+001-389-000	L’ambition du despote (normal)
+001-389-001	L’ambition du despote (expert)
+001-389-002	L’ambition du despote (mortel)
+001-389-003	L’ambition du despote (sans répit)
 001-391		Chasse au xénomonstre
 001-391-000	Roi des bêtes I (mortel)
 001-391-001	Roi des bêtes II (sans répit)
@@ -1721,6 +1756,9 @@
 001-396-000	Bravo ! 100 millions de téléchargements !
 001-402		Récompense client
 001-402-000	Premier arrivé, premier servi
+001-404		Rhapsodie de la tentation
+001-404-000	Le rythme du diable (sans répit)
+001-404-001	Symphonie de la faillite (sans répit)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -1770,11 +1808,11 @@
 002-018		Healer Awakens!
 002-018-000	Healer Awakens (Expert)
 002-018-001	Healer Awakens (Insane)
-002-021		Matal Slug Defense
+002-021		Metal Slug Defense
 002-021-000	Immortal Allen O'Neill
 002-021-001	Attack on Huge Hermit
 002-021-002	Jupiter King Convoy
-002-022		Super Matal Slug Defense
+002-022		Super Metal Slug Defense
 002-022-000	Devils on the Doorstep (Insane)
 002-028		Takuya & Yuki Awaken
 002-028-000	Takuya ＆ Yuki Awaken! (Veteran)
@@ -3356,6 +3394,28 @@
 004-068-000	Visage divin
 004-069		
 004-069-000	Retour aux sources
+004-070		Route de l’Unification 1re partie
+004-070-000	Rébellion du Toutou
+004-070-001	Rébellion du Toutou
+004-070-002	Rébellion du Toutou
+004-070-003	Rébellion du Toutou
+004-070-004	Rébellion du Toutou
+004-070-005	Rébellion du Toutou
+004-070-006	Rébellion du Toutou
+004-070-007	Rébellion du Toutou
+004-070-008	Rébellion du Toutou
+004-070-009	Rébellion du Toutou
+004-071		Route de l’Unification 2e partie
+004-071-000	Rébellion du Toutou
+004-071-001	Rébellion du Toutou
+004-071-002	Rébellion du Toutou
+004-071-003	Rébellion du Toutou
+004-071-004	Rébellion du Toutou
+004-071-005	Rébellion du Toutou
+004-071-006	Rébellion du Toutou
+004-071-007	Rébellion du Toutou
+004-071-008	Rébellion du Toutou
+004-071-009	Rébellion du Toutou
 004-072		Souvenirs de 2024
 004-072-000	Souvenirs de printemps - page 2
 004-072-001	Souvenirs d'été - page 2
@@ -3561,6 +3621,57 @@
 007-009-007	8e étage
 007-009-008	9e étage
 007-009-009	Dernier étage
+007-010		Tour dorée
+007-010-000	1er étage
+007-010-001	2e étage
+007-010-002	3e étage
+007-010-003	4e étage
+007-010-004	5e étage
+007-010-005	6e étage
+007-010-006	7e étage
+007-010-007	8e étage
+007-010-008	9e étage
+007-010-009	10e étage
+007-010-010	11e étage
+007-010-011	12e étage
+007-010-012	13e étage
+007-010-013	14e étage
+007-010-014	15e étage
+007-010-015	16e étage
+007-010-016	17e étage
+007-010-017	18e étage
+007-010-018	19e étage
+007-010-019	20e étage
+007-010-020	21e étage
+007-010-021	22e étage
+007-010-022	23e étage
+007-010-023	24e étage
+007-010-024	25e étage
+007-010-025	26e étage
+007-010-026	27e étage
+007-010-027	28e étage
+007-010-028	29e étage
+007-010-029	30e étage
+007-010-030	31e étage
+007-010-031	32e étage
+007-010-032	33e étage
+007-010-033	34e étage
+007-010-034	35e étage
+007-010-035	36e étage
+007-010-036	37e étage
+007-010-037	38e étage
+007-010-038	39e étage
+007-010-039	40e étage
+007-010-040	41e étage
+007-010-041	42e étage
+007-010-042	43e étage
+007-010-043	44e étage
+007-010-044	45e étage
+007-010-045	46e étage
+007-010-046	47e étage
+007-010-047	48e étage
+007-010-048	49e étage
+007-010-049	50e étage
 
 011			Ranking Dojo Stages
 011-000		Arène de l'honneur
@@ -3633,7 +3744,7 @@
 013-001-002	Col d’Annin
 013-001-003	Monts à l’ail
 013-001-004	Désert des pâtes
-013-001-005	Colline émincée
+013-001-005	Colline d'émincé
 013-002		Le bois infini
 013-002-000	Ruines Kosamin
 013-002-001	Pré des hauts-fonds
@@ -3715,13 +3826,13 @@
 013-013-000	Rédemption vacancière
 013-013-001	Forêt tropicale privée
 013-013-002	Peur sur la plage
-013-013-003	Résident méchant
+013-013-003	Résident du 13e
 013-013-004	Spa de l’ascension
 013-013-005	Merveilles naturelles
 013-014		Routes du tourment
 013-014-000	Tirage de cheveux
 013-014-001	Sauce sirène
-013-014-002	Lecture du Lord
+013-014-002	Leçon du Seigneur
 013-014-003	Colonne fissurée
 013-014-004	Gardien de l’innocence
 013-014-005	Myopie totale
@@ -3739,7 +3850,7 @@
 013-016-003	Bain frisquet
 013-016-004	Chez Umi-bozu
 013-016-005	Retour aux sources
-013-017		
+013-017		Montagnes anciennes
 013-017-000	Village affamé
 013-017-001	La nuit des griffes
 013-017-002	Surface rocheuse
@@ -3875,7 +3986,7 @@
 013-036		Château des sentinelles
 013-036-000	Face au tyran
 013-036-001	Cycle désastreux
-013-036-002	Trois mauvais frères
+013-036-002	Trois frères maléfiques
 013-036-003	Bagarre en douceur
 013-036-004	Frontière entre deux mondes
 013-036-005	Chambre des quatre rois
@@ -4444,7 +4555,7 @@
 024-019-006	Spécial fin de soirée
 024-019-007	Agrippe ton filet
 024-019-008	Trésor marin
-024-019-009	Brume insecticide
+024-019-009	Brume d'insecticide
 024-019-010	Danse de kermesse
 024-019-011	Une dame charmante
 024-019-012	Garçon bronzé
@@ -4947,7 +5058,7 @@
 024-055-018	Refuge azur
 024-055-019	Refuge putréfié
 024-055-020	Refuge de diamant
-024-056		#02 Fête démoniaque
+024-056		#03 Fête démoniaque
 024-056-000	Défilé niv. 1
 024-056-001	Défilé niv. 2
 024-056-002	Défilé niv. 3
@@ -5193,6 +5304,12 @@
 025-031-000	Chasse aux insectes (soir)
 025-032		Cachette parfaite
 025-032-000	Chasse aux insectes (minuit)
+025-033		Berceau rouge
+025-033-000	Nature au berceau (mortel)
+025-034		Sommet rouge
+025-034-000	Nature au sommet (sans répit)
+025-035		Frontière rouge
+025-035-000	Nature frontière (sans répit)
 025-051		Cachette délabrée
 025-051-000	Chasse aux insectes (après-midi)
 025-052		Cachette délabrée
@@ -5211,20 +5328,20 @@
 025-058-000	Chasse aux insectes (minuit)
 025-059		Cachette parfaite
 025-059-000	Chasse aux insectes (minuit)
-025-060		Cachette parfaite
-025-060-000	Forêt de pierre violette 1
-025-060-001	Forêt de pierre rouge 1
-025-061		Cachette parfaite
-025-061-000	Forêt de pierre violette 2
-025-061-001	Forêt de pierre rouge 2
-025-061-002	Désert de pierre bleue 2
-025-061-003	Désert de pierre verte 2
-025-062		Cachette parfaite
-025-062-000	Forêt de pierre violette 3
-025-062-001	Désert de pierre bleue 3
-025-062-002	Désert de pierre verte 3
-025-062-003	Forêt de pierre rouge 3
-025-062-004	Volcan de pierre jaune 3
+025-060		Carte du chasseur I
+025-060-000	Forêt de pierre violette I
+025-060-001	Forêt de pierre rouge I
+025-061		Carte du chasseur II
+025-061-000	Forêt de pierre violette II
+025-061-001	Forêt de pierre rouge II
+025-061-002	Désert de pierre bleue II
+025-061-003	Désert de pierre verte II
+025-062		Carte du chasseur III
+025-062-000	Forêt de pierre violette III
+025-062-001	Désert de pierre bleue III
+025-062-002	Désert de pierre verte III
+025-062-003	Forêt de pierre rouge III
+025-062-004	Volcan de pierre jaune III
 025-063		Origine du vil instinct
 025-063-000	Sanctuaire du berceau (mortel)
 025-064		Apogée du vil instinct
@@ -5433,6 +5550,7 @@
 027-012-026	Showdown! : Part 27
 027-012-027	Showdown! : Part 28
 027-012-028	Showdown! : Part 29
+027-012-029	Final Showdown!
 027-013		Manbosaki Strikes!
 027-013-000	Sudden Death Lv.1
 027-013-001	Sudden Death Lv.2
@@ -5475,6 +5593,17 @@
 027-014-017	Grail War: Day 18
 027-014-018	Grail War: Day 19
 027-014-019	Grail War: Final Day
+027-015		METAL SLUG STRIKES!
+027-015-000	MISSION 1
+027-015-001	MISSION 2
+027-015-002	MISSION 3
+027-015-003	MISSION 4
+027-015-004	MISSION 5
+027-015-005	MISSION 6
+027-015-006	MISSION 7
+027-015-007	MISSION 8
+027-015-008	MISSION 9
+027-015-009	MISSION COMPLETE！
 027-016		Ascend the Tower of Saviors
 027-016-000	Floor 1
 027-016-001	Floor 2
@@ -5873,6 +6002,13 @@
 034-018-003	Musée d’encre
 034-018-004	Campement de kelp
 034-018-005	Panorama des flottés
+034-019		Dévoreuse de vérité
+034-019-000	Poursuite intellectuelle
+034-019-001	Solitude logique
+034-019-002	Fruit de Newton
+034-019-003	Lumière divisée
+034-019-004	Non-hypothèse
+034-019-005	Pouvoir incommensurable
 
 036			Colosseum Stages
 036-000		Colisée d'outre-monde
@@ -5941,6 +6077,18 @@
 036-010-002	3e manche
 036-010-003	4e manche
 036-010-004	5e manche
+036-011		Colisée d'outre-monde
+036-011-000	1re manche
+036-011-001	2e manche
+036-011-002	3e manche
+036-011-003	4e manche
+036-011-004	5e manche
+036-012		Colisée d'outre-monde
+036-012-000	1re manche
+036-012-001	2e manche
+036-012-002	3e manche
+036-012-003	4e manche
+036-012-004	5e manche
 
 037			Championnats Griffélin
 037-000		Rang 1 des championnats Griffélin

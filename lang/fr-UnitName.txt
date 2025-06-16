@@ -74,7 +74,7 @@
 073	Oda Nobunaga	Nobunaga dieu de la guerre	Nobunaga immortel	Nobunaga spectral
 074	Chat poisson renne	Chat sashimi	Chat bûche de Noël	
 075	Venteuse	Venteuse, type α	Venteuse divine	Venteuse ultime
-076	Tonnia	Tonnia, type β	Tonnia divine	
+076	Tonnia	Tonnia, type β	Tonnia divine	Tonnia ultime
 077	Chat droïde	Chat droïde 2.0	Droïde coloré	
 078	Chastronaute	Chastronaute Major	Chastronaute de la Marine	
 079	Chat adulte	Chat malade	Chat prisonnier	
@@ -621,7 +621,7 @@
 620	Hevijack le malfaisant	Roi Hevijack malfaisant	Dieu empereur Hevijak	
 621	Chercheur d'ennemis Akus	Chercheur d'ennemis Akus démoniaque	Chercheur félin	
 622	Jagando Jr.	Seigneur Ruine Jagando Jr.		
-623	Chat joueur de flûte	Chat Komuso		
+623	Chat joueur de flûte	Chat Komuso	Chat de laiton	
 624	Kunio-kun	Dodgeball Kunio-kun		
 625	Furiluga	Furilan Pasalan	Ragelan Pasalan	
 626				
@@ -721,7 +721,7 @@
 720	Œuf ancien : N006	Œuf démoniaque : N006	Chat-Ours déchu	
 721	High School Kingpin Riki	Dodgeball Riki		
 722	Hatsune Miku XVI	Hatsune Miku XVI CC		
-723	Aset Mère-Lumière	Aset Nefer		
+723	Aset Mère-Lumière	Aset Nefer	Aset Toute-puissante	
 724	Œuf ancien N112	Œuf mystique N112	Nacelle-œuf féline	
 725	Tomoe kunoichi	Tomoe kunoichi gourmande		
 726				
@@ -774,7 +774,7 @@
 773	Momie sumo	Maman momie sumo		
 774	Méca-patrouille Axel	Sergent d'acier Axel		
 775				
-776				
+776	Lieutenant Chat	Commandant Chat		
 777	Générale Kaihime d'hiver	Commandante Kaihime d'hiver		
 778	Madoka Cat & Homura	Magical Cat☆ Magica		
 779	Luna, enfant céleste	Lunacia, fille du salut		
@@ -797,3 +797,15 @@
 796	Baki Cat	Baki Cat CC		
 797	Kaioh Cat	Kaioh Cat CC		
 798	Doppo Cat	Doppo Cat CC		
+799	Puissant lance-obus	Bombarde grandiose		
+800				
+801	Maître de la Logique Newton	Maître de la Logique Miaou-ton		
+802	802-1			
+803				
+804				
+805				
+806				
+807				
+808				
+809				
+810				

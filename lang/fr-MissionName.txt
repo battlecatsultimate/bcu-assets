@@ -871,6 +871,21 @@
 69	[Championnats Griffélin] Obtiens 4 Chats légendaires. Progresse dans les niveaux
 70	[Championnats Griffélin] Obtiens 4 Chats légendaires. Progresse dans les niveaux
 71	[Championnats Griffélin] Obtiens 4 Chats légendaires. Progresse dans les niveaux
+9536	Termine toutes les missions de la Route. de l’Unification pour gagner un ticket platine !
+9537	Termine les missions ① - ④ de la Route. de l’Unification et gagne le Lieutenant Chat !
+9538	Route de l’Unification ① :. Termine les 5 niveaux de la Route de l’Unification !
+9539	Route de l’Unification ② : termine Rébellion du Toutou 1. 0 fois ! * Apparaît après avoir fini la RdU 1re partie
+9540	Route de l’Unification ③ :. Termine le niveau 1 de À l’attaque! Commander Nyandam !
+9541	Route de l’Unificat. ④ : parle aux Chats de la base féline. pendant 3 jours et recrute de nouveaux membres de l’armée !
+9542	Route de l’Unification ⑤ :. Termine le niveau 1 de la Route de l’Unification 2e partie !
+9543	Route de l’Unification ⑥ :. Termine le niveau 1 de Dernière bataille ! Le roi rebelle !
+72	Mission de la Route de l’Unification. Termine L’EdC ch. 1 pendant l’événement pour la terminer
+9544	Mission de la RdU : Termine Âmes primitives de la Légende. mystérieuse avec des Chats coûtant au moins ¢1000 !
+9545	Mission de la RdU : Termine Pelle salvatrice de la Légende. mystérieuse avec au moins 9 Chats de base !
+9546	Mission de la RdU : Termine Visage divin de la Légende. mystérieuse avec au moins 8 Chats super rares !
+9547	Mission de la RdU : Termine Zénith immortel de la Légende. mystérieuse avec des Chats coûtant jusqu'à ¢2000 !
+9548	Mission de la RdU : Termine Retour aux sources. de la Légende mystérieuse avec 5 Chats ou moins !
+9549	Mission de la RdU : Termine Nouveau départ. de la Légende Zéro avec au moins 9 Chats rares !
 73	Touche 2x un trésor dans la liste pour accéder au niveau. Ouvre la liste des trésors dans la base féline
 74	Ouvre le Guide ennemis depuis l’écran de choix du niveau. Touche un niveau terminé pour afficher les ennemis
 75	Utilise de la vichamine A pour reprendre les essais de niv. Utilise de la vichamine A dans un niveau légendaire

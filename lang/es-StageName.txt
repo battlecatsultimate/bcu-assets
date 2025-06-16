@@ -176,7 +176,7 @@
 000-020-005	Bajo Tierra
 000-021		Príncipe de las Sombras
 000-021-000	La Alfombra Roja
-000-021-001	El Cuatro de Baño
+000-021-001	El Cuarto de Baño
 000-021-002	La Sala VIP
 000-021-003	Sala de Torturas
 000-021-004	Jardín Dictatorial
@@ -1700,6 +1700,41 @@
 001-384		Vendedor de Comida, Álzate！
 001-384-000	Evolución Aplazada 1 (Demencial)
 001-384-001	Evolución Aplazada 2 (Demencial)
+001-385		Rumbo a la Unificación Parte 1
+001-385-000	Dominio: Satsuma Imo
+001-385-001	Dominio: Ahosan
+001-385-002	Dominio: Mentai
+001-385-003	Dominio: Fuku
+001-385-004	Dominio: Daidai
+001-385-005	Dominio: U-don
+001-385-006	Dominio: Koyo
+001-385-007	Dominio: Minato
+001-385-008	Dominio: Shokudoraku
+001-385-009	Dominio: Ogo
+001-386		¡Ataquen! Comandante Nyandam
+001-386-000	El General Rojo (Normal)
+001-386-001	El General Rojo (Veterano)
+001-386-002	El General Rojo (Demencial)
+001-387		¡Ataquen! Comandante Hannya
+001-387-000	Señor de la Máscara Infernal (Veterano)
+001-387-001	Señor de la Máscara Infernal (Demencial)
+001-387-002	Señor de la Máscara Infernal (Mortal)
+001-388		Rumbo a la Unificación Parte 2
+001-388-000	Dominio: Hotaruika
+001-388-001	Dominio: Ocha
+001-388-002	Dominio: Taka
+001-388-003	Dominio: Nyaku
+001-388-004	Dominio: Koi
+001-388-005	Dominio: Gyusetsu
+001-388-006	Dominio: Settanbo
+001-388-007	Dominio: Reimen
+001-388-008	Dominio: Tsukai
+001-388-009	Dominio: Saikyo
+001-389		¡Batalla final! El Rey Indomable
+001-389-000	Ansia del Tirano (Normal)
+001-389-001	Ansia del Tirano (Experto)
+001-389-002	Ansia del Tirano (Mortal)
+001-389-003	Ansia del Tirano (Inhumano)
 001-391		Encuentra al Engendro Cósmico
 001-391-000	Rey de las Bestias I (Mortal)
 001-391-001	Rey de las Bestias II (Inhumano)
@@ -1721,6 +1756,9 @@
 001-396-000	¡Bien! ¡100 millones de descargas!
 001-402		Premio al Consumidor
 001-402-000	Mientras Haya Existencias
+001-404		Rapsodia de Tentaciones
+001-404-000	Al Compás del Diablo (Inhumano)
+001-404-001	Ecos de Quiebra (Inhumano)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -1770,11 +1808,11 @@
 002-018		Healer Awakens!
 002-018-000	Healer Awakens (Expert)
 002-018-001	Healer Awakens (Insane)
-002-021		Matal Slug Defense
+002-021		Metal Slug Defense
 002-021-000	Immortal Allen O'Neill
 002-021-001	Attack on Huge Hermit
 002-021-002	Jupiter King Convoy
-002-022		Super Matal Slug Defense
+002-022		Super Metal Slug Defense
 002-022-000	Devils on the Doorstep (Insane)
 002-028		Takuya & Yuki Awaken
 002-028-000	Takuya ＆ Yuki Awaken! (Veteran)
@@ -3356,6 +3394,28 @@
 004-068-000	La Cara de Dios
 004-069		
 004-069-000	Revivir del Origen
+004-070		Rumbo a la Unificación Parte 1
+004-070-000	Rebelión de los chuchos
+004-070-001	Rebelión de los chuchos
+004-070-002	Rebelión de los chuchos
+004-070-003	Rebelión de los chuchos
+004-070-004	Rebelión de los chuchos
+004-070-005	Rebelión de los chuchos
+004-070-006	Rebelión de los chuchos
+004-070-007	Rebelión de los chuchos
+004-070-008	Rebelión de los chuchos
+004-070-009	Rebelión de los chuchos
+004-071		Rumbo a la Unificación Parte 2
+004-071-000	Rebelión de los chuchos
+004-071-001	Rebelión de los chuchos
+004-071-002	Rebelión de los chuchos
+004-071-003	Rebelión de los chuchos
+004-071-004	Rebelión de los chuchos
+004-071-005	Rebelión de los chuchos
+004-071-006	Rebelión de los chuchos
+004-071-007	Rebelión de los chuchos
+004-071-008	Rebelión de los chuchos
+004-071-009	Rebelión de los chuchos
 004-072		Recuerdos de 2024
 004-072-000	Recuerdos de primavera (página 2)
 004-072-001	Recuerdos de verano (página 2)
@@ -3791,7 +3851,7 @@
 013-016-003	Piscina Fresquita
 013-016-004	Casa de Umibozu
 013-016-005	Recepción de Termas
-013-017		
+013-017		Montañas Antiguas
 013-017-000	Aldea Hambrienta
 013-017-001	Noche de Garras
 013-017-002	Suelo Rocoso
@@ -3938,7 +3998,7 @@
 013-037-003	Estudios Multiplanar
 013-037-004	Fuerzas Infernales
 013-037-005	Estrellas del Infierno
-013-038		Disastre Inminente
+013-038		Desastre Inminente
 013-038-000	Sello del Altar de Akus
 013-039		Bikura, Asilo del Mal
 013-039-000	Cementerio de Barquitos
@@ -5010,7 +5070,7 @@
 024-055-018	Refugio Celeste
 024-055-019	Refugio Podrido
 024-055-020	Refugio Adamantino
-024-056		#02 Noche de demonios
+024-056		#03 Noche de demonios
 024-056-000	Desfile (nvl. 1)
 024-056-001	Desfile (nvl. 2)
 024-056-002	Desfile (nvl. 3)
@@ -5256,6 +5316,12 @@
 025-031-000	Caza de Bichos Nocturna
 025-032		Escondite Perfecto
 025-032-000	Caza de Bichos a Medianoche
+025-033		Base Roja
+025-033-000	Naturaleza Base (Mortal)
+025-034		Cima Roja
+025-034-000	Naturaleza Cima (Inhumano)
+025-035		Frontera Roja
+025-035-000	Naturaleza Frontera (Inhumano)
 025-051		Escondite Ruinoso
 025-051-000	Caza de Bichos Vespertina
 025-052		Escondite Ruinoso
@@ -5275,19 +5341,19 @@
 025-059		Escondite Perfecto
 025-059-000	Caza de Bichos a Medianoche
 025-060		Mapa del Cazador I
-025-060-000	Bosque de Piedras Moradas 1
-025-060-001	Bosque de Piedras Rojas 1
+025-060-000	Bosque de Piedras Moradas I
+025-060-001	Bosque de Piedras Rojas I
 025-061		Mapa del Cazador II
-025-061-000	Bosque de Piedras Moradas 2
-025-061-001	Bosque de Piedras Rojas 2
-025-061-002	Desierto de Piedras Azules 2
-025-061-003	Desierto de Piedras Verdes 2
+025-061-000	Bosque de Piedras Moradas II
+025-061-001	Bosque de Piedras Rojas II
+025-061-002	Desierto de Piedras Azules II
+025-061-003	Desierto de Piedras Verdes II
 025-062		Mapa del Cazador III
-025-062-000	Bosque de Piedras Moradas 3
-025-062-001	Desierto de Piedras Azules 3
-025-062-002	Desierto de Piedras Verdes 3
-025-062-003	Bosque de Piedras Rojas 3
-025-062-004	Volcán de Piedras Amarillas 3
+025-062-000	Bosque de Piedras Moradas III
+025-062-001	Desierto de Piedras Azules III
+025-062-002	Desierto de Piedras Verdes III
+025-062-003	Bosque de Piedras Rojas III
+025-062-004	Volcán de Piedras Amarillas III
 025-063		Origen del Mal Instinto
 025-063-000	Santuario Base (Mortal)
 025-064		Cumbre del Mal Instinto
@@ -5496,6 +5562,7 @@
 027-012-026	Showdown! : Part 27
 027-012-027	Showdown! : Part 28
 027-012-028	Showdown! : Part 29
+027-012-029	Final Showdown!
 027-013		Manbosaki Strikes!
 027-013-000	Sudden Death Lv.1
 027-013-001	Sudden Death Lv.2
@@ -5538,6 +5605,17 @@
 027-014-017	Grail War: Day 18
 027-014-018	Grail War: Day 19
 027-014-019	Grail War: Final Day
+027-015		METAL SLUG STRIKES!
+027-015-000	MISSION 1
+027-015-001	MISSION 2
+027-015-002	MISSION 3
+027-015-003	MISSION 4
+027-015-004	MISSION 5
+027-015-005	MISSION 6
+027-015-006	MISSION 7
+027-015-007	MISSION 8
+027-015-008	MISSION 9
+027-015-009	MISSION COMPLETE！
 027-016		Ascend the Tower of Saviors
 027-016-000	Floor 1
 027-016-001	Floor 2
@@ -5873,13 +5951,13 @@
 034-009-003	Pequeña Entrada, Gran Campo
 034-009-004	Sueño Burbujeante
 034-009-005	Puerto de la Pradera
-034-010		Konjac Valley
-034-010-000	Meandering Road
-034-010-001	One-Second Photo
-034-010-002	Metallic Metaverse
-034-010-003	Pineapple Merchant
-034-010-004	Groundscraper
-034-010-005	Phantom Bluebird
+034-010		Valle Konjac
+034-010-000	Senda Sinuosa
+034-010-001	Foto Instantánea
+034-010-002	Metaverso Metálico
+034-010-003	Comerciante de Piña
+034-010-004	Rascatierras
+034-010-005	Azulejo Fantasma
 034-011		Paraíso de Chuches
 034-011-000	Cementerio de soja
 034-011-001	Orilla puntiaguda
@@ -5936,6 +6014,13 @@
 034-018-003	Museo de la Tinta
 034-018-004	Campamento de Algas
 034-018-005	Mirador de los Despojos
+034-019		Devorador de Verdades
+034-019-000	Odisea Intelectual
+034-019-001	Aislamiento Intelectual
+034-019-002	Fruta de Newton
+034-019-003	Resplandor Fragmentado
+034-019-004	Sin Conjeturas
+034-019-005	Poder Infinito
 
 036			Colosseum Stages
 036-000		Coliseo de Otro Mundo
@@ -6004,6 +6089,19 @@
 036-010-002	Ronda 3
 036-010-003	Ronda 4
 036-010-004	Ronda 5
+036-011		Coliseo de Otro Mundo
+036-011-000	Ronda 1
+036-011-001	Ronda 2
+036-011-002	Ronda 3
+036-011-003	Ronda 4
+036-011-004	Ronda 5
+036-012		Coliseo de Otro Mundo
+036-012-000	Ronda 1
+036-012-001	Ronda 2
+036-012-002	Ronda 3
+036-012-003	Ronda 4
+036-012-004	Ronda 5
+
 
 037			Campeonatos Afilagarras
 037-000		Campeonatos Afilagarras Rango 1

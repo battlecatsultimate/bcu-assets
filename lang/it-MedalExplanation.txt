@@ -112,10 +112,11 @@
 111	Supera le mappe di Foresta segreta di Gapra,<br>Deserto Ashvini e Vulcano Jinfore.
 112	Supera tutti i livelli malvagi.
 113	Supera il 50° piano della Torre infernale
-114	Ricevi Maestro della mente Sokrate
+114	Sblocca Maestro della mente Sokrate
 115	Supera "Gigahaniwan colpisce!"
 116	Supera "Famiglie della super schiacciata"
 117	Supera tutte le Leggende misteriose di livello 4
 118	Supera il livello Nova
 119	Supera Caccia alla Xenobestia
 120	Supera Labirinto sotterraneo B100F
+121	Sblocca Maestro di logica Newton

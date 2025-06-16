@@ -74,7 +74,7 @@
 073	La forme ultime augmente fortement la<br>défense, la puissance d’att. et une durée<br>d’immob. des ennemis noirs accrues !	L'ultra forme gagne un bonus de défense !<br>Plus immobilisation contre Akus et<br>contre-réplique !
 074	<br><br>
 075	La forme ultime augmente fortement<br>la défense, la vitesse de déplacement,<br>la puissance d’attaque et la portée.	L'ultra forme gagne un bonus de portée,<br>de vitesse de déplacement/d'attaque, et fait<br>des dégâts insensés aux ennemis flottants !
-076	La forme ultime augmente la défense,<br>la vitesse de déplacement, la puissance<br>d’attaque et la portée !
+076	La forme ultime augmente la défense,<br>la vitesse de déplacement, la puissance<br>d’attaque et la portée !	L’ultra forme augmente les capacités !<br>Et zone d’attaque augmentée, survit aux<br>coups fatals, immun. Ralent. et Affaibl.
 077	<br><br>
 078	<br><br>
 079	<br><br>
@@ -721,7 +721,7 @@
 720	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
 721	<br><br>
 722	<br><br>
-723	<br><br>
+723	La forme ultime améliore les capacités !<br>Les vagues offensives vont plus loin et<br>immun. Immobilisation et Toxique.
 724	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
 725	<br><br>
 726	<br><br>
@@ -797,3 +797,15 @@
 796	<br><br>
 797	<br><br>
 798	<br><br>
+799	<br><br>
+800	<br><br>
+801	<br><br>
+802	<br><br>
+803	<br><br>
+804	<br><br>
+805	<br><br>
+806	<br><br>
+807	<br><br>
+808	<br><br>
+809	<br><br>
+810	<br><br>
