@@ -774,7 +774,7 @@
 773	Mummy Sumo	Mama Mummy Sumo	
 774	Mech Patrol Axel	Steel Sergeant Axel		
 775	Axel Spirit			
-776	Apprentice Warrior Cat	Warlord Cat		
+776	Lieutenant Cat	Commander Cat
 777	Winter General Kaihime	Winter Commander Kaihime		
 778	Madoka Cat & Homura	Magical Cat☆ Magica		
 779	Celestial Child Luna	Salvation's Daughter Lunacia		
