@@ -273,7 +273,7 @@
 272	Splendid Ganesha	Exalted Ganesha	Almighty Ganesha
 273	Cheerleader Cat	Waitress Cat	Soba Cat
 274	Tropical Kalisa	Tropical Kalisa, type X
-275	Midsummer Rabbit	Midsummer Cat
+275	Midsummer Rabbit	Midsummer Cat	Bright Summer Cat
 276	Sunny Neneko	Seaside Neneko	Early Summer Neneko
 277	Funghi	Funghi 'n' Cat
 278	Tanky	Tanky 'n' Cat
@@ -696,7 +696,7 @@
 695	Killer Tank Cat	True Killer Tank Cat
 696	Class Rep Cat	Stealth Class Rep Cat
 697	Ancient Egg: N107	Violet Egg: N107	Cat Chief
-698	Thunder Jack	Bloody Jack
+698	Thunder Jack	Bloody Jack	Lightning Jack
 699	Rabbit Satoru	Rabbit Champion Satoru
 700	Ancient Egg N005	Mystic Egg N005	Hitman Cat
 701	Kamen Rider Cat	Shin Kamen Rider Cat
@@ -808,3 +808,8 @@
 808	Tails Cat	Tails Cat CC
 809	Shadow Cat	Shadow Cat CC
 810	Agent Stahl	Blade Master Stahl
+811	Speedster Skanda	Skanda Zeta
+812	Skanda Spirit
+813	Tasmanian Giant Crab	Tasmanian Giant Crab CC
+814	Mass Production Eva	Mass Production Eva Cat
+815	Moonlight Boy Kaworu	Messenger of Moonset Kaworu

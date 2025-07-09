@@ -732,3 +732,9 @@
 732	Knuckles
 733	Shadow
 734	Goal Plate Castle
+735	Angelus
+736	Tropical Doge
+737	Tropical Otta
+738	Stormy Parasol Castle
+739	Stopping Wooden Castle
+740	Mass Production Eva
