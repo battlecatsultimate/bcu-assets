@@ -26,7 +26,7 @@
 -114	白色情人節轉蛋	//White Day 711
 -115	完美新娘	//June Bride 731
 -116	超生命體破壞者	//Colossus Bus
--117	破壞者祭
+-117	破壞者祭	//BusterFest
 -118	夏日美少女團絢爛陽光
 -119	夏日美少女團悠然海洋
 -1000	超強精選	//Ultra Selection 191
@@ -51,7 +51,7 @@
 -2002	梅露可物語	//Merc 185
 -2003	蛋黃哥	//Gudetama 186
 -2004	劇場版「Fate/stay night [Heaven's Feel]」	//Fate/Stay 214
--2005	實況野球	//Power Baseball thing 265
+-2005	實況野球	//Power Baseball 265
 -2006	福音戰士	//Evangelion 282
 -2007	魔法少女小圓	//PMMM 318
 -2008	活下去！曼波魚！	//Mola 375
@@ -59,16 +59,16 @@
 -2010	快打旋風	//SF 415
 -2011	初音未來	//Miku 563
 -2022	亂馬1/2	//Ranma 588
--2023	熱血運動會(赤組)	//Kunio 620
+-2023	熱血！大運動會（紅隊）	//Kunio Red 620
 -2024	快打旋風V 冠軍版 BLUE TEAM	//SF Blue 763
 -2025	快打旋風V 冠軍版 RED TEAM	//SF Red 764
--2026	福音戰士 2nd
--2027	熱血運動會(白組)
--2028	越南大戰系列
--2029	神魔之塔
--2030	神劍闖江湖
--2031	範馬刃牙合作轉蛋
--2032	Sonic the Hedgehog Collab Gacha
+-2026	福音戰士 2nd	//EVA 2nd
+-2027	熱血！大運動會（白隊）	//Kunio White
+-2028	越南大戰	//Metal Slug
+-2029	神魔之塔	//Tower of Saviors
+-2030	神劍闖江湖	//Rurouni Kenshin
+-2031	範馬刃牙	//Hanma Baki
+-2032	索尼克	//Sonic the Hedgehog
 E13	聖魔大戰	//Bikkuri
 E14	貓咪的暑假	//Summer Break Cats
 E17	春節活動轉蛋	//Lunar New Year (JP)
@@ -78,20 +78,22 @@ E20	貓咪的暑假	//Summer Break Cats
 E22	春節活動轉蛋	//Lunar New Year
 E23	心動時分貓咪學園
 E24	惡魔的完美新娘
-E25	9th Anniversary Special Capsules
+E25	猜猜我是誰 9週年紀念活動轉蛋
 E26	貓咪的暑假
-E27	Medal Cat King's Hall Capsules
+E27	ネコメダル王の館 11週年紀念活動轉蛋
 E28	春節活動轉蛋
 E29	惡魔的完美新娘
+E30 10週年大回顧活動轉蛋
 E31	貓咪的暑假
-E32	Summer Break Survival Capsules
+E32	貓咪的暑假 野外求生
 E33	聖魔大戰
-E34	Halloween Party Capsules
+E34	萬聖節派對！ 特別★活動轉蛋
 E35	春節活動轉蛋
 E36	春節活動轉蛋
 E37	心動時分貓咪學園
 E38	貓咪購物節
 E39	範馬刃牙活動轉蛋
+E40	貓咪的暑假 野外求生
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -979,7 +981,7 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 985	-2032
 986	-11
 990	-1008	810
-991	-7	811
+991	-7
 992	-7	811
 993	-105	811
 994	-106	811
@@ -988,6 +990,6 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 997	-111
 998	-2006	814, 815
 999	-2026	815
-1001	-111	275
+1001	-111
 1002	-2008
 1003	-2032
