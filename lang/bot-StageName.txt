@@ -1761,6 +1761,8 @@
 001-404		Temptation's Rhapsody
 001-404-000	The Devil's Rhythm (Merciless)
 001-404-001	Symphony of Bankruptcy (Merciless)
+001-405		Unprecedented Forecasts
+001-405-000	Torrential Rain
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2419,6 +2421,24 @@
 002-223-007	The Master of Chinese Kenpo
 002-223-008	The Warrior With Demon Blood
 002-223-009	Champion of the Underground Arena
+002-224		Green Hill Zone
+002-224-000	Gotta Keep Movin'
+002-224-001	Promises Kept
+002-224-002	Helping Those In Need
+002-224-003	Always Sharp, Always Cool
+002-224-004	The Fastest Hedgehog Alive
+002-225		Chemical Plant Zone
+002-225-000	A.K.A. Miles Prower
+002-225-001	Kindly Two-Tails
+002-225-002	Sonic's Dependable Pal
+002-225-003	Brain-and-Mech Support
+002-225-004	High-Flying Partner
+002-226		Sky Sanctuary
+002-226-000	Leave Treasure Hunting to Me!
+002-226-001	Punching, Soaring, Climbing!
+002-226-002	Sonic's Battle Buddy
+002-226-003	Hot-Headed Echidna
+002-226-004	Master Emerald's Protector
 
 003			Main Story Chapters
 003-000		EoC Ch.1 Zombie
@@ -3438,6 +3458,14 @@
 004-073-001	Memories of Summer Page 3
 004-073-002	Memories of Fall Page 3
 004-073-003	Memories of Winter Page 3
+004-074		Green Hill Zone
+004-074-000	Bonus Stage
+004-074-001	Bonus Stage
+004-074-002	Bonus Stage
+004-075		Unprecedented Forecasts
+004-075-000	Thunderstorm Warning
+004-076		Unprecedented Forecasts
+004-076-000	Typhoon Warning
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
@@ -3743,6 +3771,12 @@
 011-030-000	Talent Tournament
 011-031		Arena of Honor
 011-031-000	The Strongest Things
+011-032		Arena of Honor
+011-032-000	Sonic Battle!
+011-033		Arena of Destiny
+011-033-000	Talent for Battle
+011-034		Arena of Power
+011-034-000	Freeze in Fright
 
 012			Challenge Mode
 012-000		Challenge
@@ -4978,27 +5012,6 @@
 024-048-017	Always on my Mind
 024-048-018	Cram Session Failure
 024-048-019	God Willing Grades
-024-048		Season 1: School Days
-024-048-000	Desk of Destiny
-024-048-001	Seated Next to Your Crush
-024-048-002	The Dropped Eraser
-024-048-003	Sharing Textbooks
-024-048-004	Copied Homework
-024-048-005	Furtive Whispers
-024-048-006	Classroom Daydream
-024-048-007	Dodgeball Dodger
-024-048-008	Race to the Cafeteria
-024-048-009	Studying with Her
-024-048-010	Reforming Comment
-024-048-011	Unstudied Topics
-024-048-012	Cheater Handsigns
-024-048-013	Pop Quiz Pain
-024-048-014	Barely Passing
-024-048-015	Textbook Free
-024-048-016	Cleaning with Her
-024-048-017	Always on my Mind
-024-048-018	Cram Session Failure
-024-048-019	God Willing Grades
 024-049		Monthly Event All-Stars  Grateful Gathering
 024-049-000	Grateful XP Lv.1
 024-049-001	Grateful XP Lv.2
@@ -5281,6 +5294,38 @@
 024-070-007	Cutthroat Dealings
 024-070-008	Cleaning House
 024-070-009	Final Sale Gift
+024-071		Summer Break Cats Castaway
+024-071-000	Awaking on a Beach
+024-071-001	Menacing Clouds
+024-071-002	Gaze from the Grass
+024-071-003	Shivering in a Cave
+024-071-004	Unnoticed SOS
+024-071-005	Survive
+024-071-006	Life in the Island City
+024-071-007	Freely Gathering
+024-071-008	Toadstool Bellyache
+024-071-009	Natural Friendship
+024-071-010	Dreams of Escape
+024-071-011	Target Acquired
+024-071-012	Successful Hunt!
+024-071-013	Hunger is the Spice of Life
+024-071-014	Hope on the Horizon
+024-071-015	Intro to Raft-Making
+024-071-016	Island Memories
+024-071-017	Departure At Last
+024-071-018	Storm-Swallowed Raft
+024-071-019	Reawakening on a Beach
+024-072		Island Defenders!
+024-072-000	Cultural Exchange Lv.1
+024-072-001	Cultural Exchange Lv.2
+024-072-002	Cultural Exchange Lv.3
+024-072-003	Cultural Exchange Lv.4
+024-072-004	Cultural Exchange Lv.5
+024-072-005	Cultural Exchange Lv.6
+024-072-006	Cultural Exchange Lv.7
+024-072-007	Cultural Exchange Lv.8
+024-072-008	Cultural Exchange Lv.9
+024-072-009	Cultural Exchange Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -5405,6 +5450,12 @@
 025-068-000	Summit Shrine (Merciless)
 025-069		Relic Frontier
 025-069-000	Frontier Shrine (Merciless)
+025-070		Map to Reunion
+025-070-000	Red, White and Beast
+025-071		Map to Reunion
+025-071-000	Light, Shadow and Air
+025-072		Map to Reunion
+025-072-000	Moonborn Lifeform
 
 027			Collaboration Gauntlet Stages
 027-000		Messier's Assault
@@ -5736,6 +5787,27 @@
 027-022-007	The Strongest Student Lv. 8
 027-022-008	The Strongest Student Lv. 9
 027-022-009	The Strongest Student Lv. MAX
+027-023		Radical Highway
+027-023-000	Chaos Control Lv.1
+027-023-001	Chaos Control Lv.2
+027-023-002	Chaos Control Lv.3
+027-023-003	Chaos Control Lv.4
+027-023-004	Chaos Control Lv.5
+027-023-005	Chaos Control Lv.6
+027-023-006	Chaos Control Lv.7
+027-023-007	Chaos Control Lv.8
+027-023-008	Chaos Control Lv.9
+027-023-009	Chaos Control Lv.10
+027-023-010	Chaos Control Lv.11
+027-023-011	Chaos Control Lv.12
+027-023-012	Chaos Control Lv.13
+027-023-013	Chaos Control Lv.14
+027-023-014	Chaos Control Lv.15
+027-023-015	Chaos Control Lv.16
+027-023-016	Chaos Control Lv.17
+027-023-017	Chaos Control Lv.18
+027-023-018	Chaos Control Lv.19
+027-023-019	Lv. MAX Ultimate Power!
 
 031			Behemoth Culling Stages
 031-000		Hidden Forest of Gapra
@@ -6054,6 +6126,20 @@
 034-019-003	Divided Light
 034-019-004	No Hypothesis
 034-019-005	Immeasurable Power
+034-020		A Journey of Moments
+034-020-000	Tower of the Time Lord
+034-020-001	22:22 Clockwatching
+034-020-002	Tick-Tock Terraces
+034-020-003	Efficient Timewasting
+034-020-004	Clock Oubliette
+034-020-005	Meeting of Long and Short
+034-021		Patisserie Parklands
+034-021-000	Crunchy Cookie Canyon
+034-021-001	Creamy Snowplain
+034-021-002	Tiramisu Cliffs
+034-021-003	Tapioca Hills
+034-021-004	Nata de Coco Way
+034-021-005	Fudge Mausoleum
 
 036			Colosseum Stages
 036-000		Otherworld Colosseum
@@ -6134,6 +6220,12 @@
 036-012-002	Round 3
 036-012-003	Round 4
 036-012-004	Round 5
+036-013		Otherworld Colosseum
+036-013-000	Round 1
+036-013-001	Round 2
+036-013-002	Round 3
+036-013-003	Round 4
+036-013-004	Round 5
 
 037			Catclaw Championships
 037-000		Catclaw Championships Rank 1

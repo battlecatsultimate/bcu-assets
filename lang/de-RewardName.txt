@@ -204,6 +204,10 @@
 213|S213|I438	Liebesbrief
 214|S214|I439	Legend. Körbchen
 215|S215|I440	Legendary Dumbbell
+216|S216|I441	Legendenfalle
+217|I442	Schatztruhe (Bronze)
+218|I443	Schatztruhe (Silber)
+219|I444	Schatztruhe (Gold)
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -270,6 +274,7 @@
 1067	Uraltes Ei: N006
 1068	Meister der Gedanken Soraktes
 1069	Bowler-Katze
+1070	Killer-Stelzenkatze
 1071	Weiser des logischen Newton
 1100	Bronzekatze
 1101	Weltraumkatze
@@ -328,6 +333,7 @@
 1183	Madhead
 1184	Kenshin Cat
 1185	Meister des Lebens Dr. Nova
+1186	Sonic Cat
 10010	Muskelprotz-Katze
 10011	Tänzerkatze
 10012	Hyper-Mr.
@@ -539,6 +545,7 @@
 15271	Crazed Catgirl Yuki
 15272	Allmächtige Amaterasu
 15273	Allmächtiger Ganesha
+15276	Hochsommerkatze
 15277	Frühsommer-Neneko
 15283	Gala-Groove-Katze
 15284	Pai-Pai DX
@@ -673,6 +680,7 @@
 15692	Affenlord Uza
 15693	Oni-Kampfmaschine Kozuchimaru
 15698	Häuptlingskatze
+15699	Blitz-Jack
 15701	Auftragskiller-Katze
 15707	Seifenkatze
 15708	Fass-Katze
@@ -943,3 +951,33 @@
 30232	Kolosstöter B
 30233	Kolosstöter A
 30234	Kolosstöter S
+30235	Katzenkanonenaufl. D
+30236	Katzenkanonenaufl. C
+30237	Katzenkanonenaufl. B
+30238	Katzenkanonenaufl. A
+30239	Katzenkanonenaufl. S
+30240	Gift-Resistenz D
+30241	Gift-Resistenz C
+30242	Gift-Resistenz B
+30243	Gift-Resistenz A
+30244	Gift-Resistenz S
+30245	Angriff ausweichen (alle) D
+30246	Angriff ausweichen (alle) C
+30247	Angriff ausweichen (alle) B
+30248	Angriff ausweichen (alle) A
+30249	Angriff ausweichen (alle) S
+30250	Lähmung-Resistenz D
+30251	Lähmung-Resistenz C
+30252	Lähmung-Resistenz B
+30253	Lähmung-Resistenz A
+30254	Lähmung-Resistenz S
+30255	Fluch-Resistenz D
+30256	Fluch-Resistenz C
+30257	Fluch-Resistenz B
+30258	Fluch-Resistenz A
+30259	Fluch-Resistenz S
+30260	Unheimliche Legenden verstärken D
+30261	Unheimliche Legenden verstärken C
+30262	Unheimliche Legenden verstärken B
+30263	Unheimliche Legenden verstärken A
+30264	Unheimliche Legenden verstärken S

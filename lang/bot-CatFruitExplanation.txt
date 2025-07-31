@@ -31,7 +31,7 @@
 030	True Form evolution increases Range!<br>Also gains a chance to decrease the<br>attack power of Floating enemies!
 031	True Form evolution increases all stats!<br>Plus, gains the power to freeze Relic enemies<br>and becomes immune to enemy Curses.
 032	True Form evolution increases defense<br>and attack! Blocks Warp, and slows <br>Red enemy movement even further!
-033	True Form evolution increases attack<br>speed and power! Plus, now negates<br>Wave attack effects and damage!
+033	True Form evolution increases attack<br>speed and power! Plus, gains<br>Wave Shield and Immunity to Waves!
 034	True Form evolution increases Attack!<br>Also gains a 100% chance to freeze the<br>movement of non-Metal enemies!
 035	True Form evolution increases Attack!<br>Also gains the ability to Slow down<br>non-Metal enemies for a short time.
 036	True Form evolution increases Attack,<br>Defense, Movement Speed and Range!<br>
@@ -41,7 +41,7 @@
 040	True Form evolution increases Defense!<br>Attack speed is also increased!<br>
 041	True Form evolution increases<br>attack power! Plus, negates<br>enemy attacks' Weaken effects.
 042	True Form evolution increases Range<br>and Attack! Also gains a 100% chance to<br>freeze Red enemy movement!
-043	True Form evolution increases all traits.<br>Also grants resistance to wave attacks<br>while protecting units behind as well!
+043	True Form evolution increases all traits.<br>Plus, gains Wave Shield<br>and Immunity to Waves!
 044	True Form evolution increases Defense<br>and grants a hugely powerful single attack.<br>
 045	<br><br>
 046	True Form evolution increases Defense<br>and Attack power. Also gains increased<br>critical chance and range!
@@ -127,7 +127,7 @@
 126	<br><br>
 127	<br><br>
 128	<br><br>
-129	True Form evolution gains increased defense,<br>plus Immunity to Wave attacks.<br>
+129	True Form evolution gains improved<br>defense, plus Immunity to Waves.<br>
 130	True Form evolution gains improved<br>defense, range and attack power. Plus,<br>becomes immune to enemy Curses.
 131	<br><br>
 132	<br><br>
@@ -226,7 +226,7 @@
 225	True Form evolution gains improved attack<br>and defense! Also lower deployment cost!<br>
 226	True Form evolution can attack only Aliens,<br>but defense & attack power is massively <br>increased! Also resists repeated debuffs.
 227	True Form evolution is stronger against<br>Black enemies! Also gains Behemoth<br>Slayer!
-228	True Form blocks Wave Attacks.<br>Plus Immunity to Wave attacks.<br>
+228	True Form gains Wave Shield<br>and Immunity to Waves.<br>
 229	<br><br>
 230	<br><br>
 231	<br><br>
@@ -273,7 +273,7 @@
 272	True Form evolution gains improved<br>defense! Plus, attack power gained<br>after taking damage is increased!
 273	<br><br>
 274	<br><br>
-275	<br><br>
+275	True form evolution adds 100% chance<br>of Knockback and Slow vs Angels/Black!<br>Also immune to Waves!
 276	True Form gains improved<br>attack power!<br>
 277	<br><br>
 278	<br><br>
@@ -304,7 +304,7 @@
 303	<br><br>
 304	True Form evolution improves attack<br>distance and attack area range!<br>	Ultra Form gains improved attack power!<br>Resists Zombies and Relics, and gains<br>the ability to 100% Weaken enemies.
 305	True Form evolution improves<br>attack speed!<br>	Ultra Form gains reduced deploy cooldown!<br>Improved Defense, atk. speed/range!<br>Also gains immunity to Knockback!
-306	True Form evolution improves<br>defense and knockback rate!<br>
+306	True Form evolution improves<br>defense and knockback rate!<br>	Gains improved defense and Omnistrike,<br>Explosive attacks and Sage Slayer!<br>Also gains Immunity to Explosions!
 307	True form greatly increases defense and<br>movement speed! Plus, Slow effects against<br>Zombies will last for longer!
 308	True form greatly increases defense!<br>Attack range also improves, and<br>freeze time versus zombies increases!
 309	<br><br>
@@ -393,7 +393,7 @@
 392	True Form evolution increases<br>defense and attack range!<br>Plus, gains area attack!
 393	True Form evolution greatly increases  <br>attack power/speed and defense!<br>Plus, becomes immune to slow effects!
 394	True Form evolution has a slower attack<br>rate but gains increased defense, attack<br>power and attack range!
-395	True Form evolution greatly increases<br>attack power and defense!<br>Plus, becomes immune to wave effects!
+395	True Form evolution greatly increases<br>attack power and defense!<br>Plus, becomes Immune to Waves!
 396	True Form evolution gains improved<br>defense and pushbacks against enemies!<br>
 397	True Form Evolution gains<br>Insanely Tough defense<br>against Metal enemies!	Ultra Form evolution gains Omnistrike,<br>improved Defense, Attack and Critical chance!<br>Also increased debuff time vs. Metal enemies.
 398	<br><br>
@@ -429,7 +429,7 @@
 428	<br><br>
 429	<br><br>
 430	<br><br>
-431	True form gains improved attack speed!<br>Plus, gains 100% chance of Freeze<br>and Strong vs Zombie enemies.	Ultra Form evolution gains improved abilities!<br>Gains Sage Slayer and Immunity to Wave<br>attacks, while its Wave attacks reach farther.
+431	True form gains improved attack speed!<br>Plus, gains 100% chance of Freeze<br>and Strong vs Zombie enemies.	Ultra Form evolution gains improved abilities!<br>Gains Sage Slayer and Immunity to Waves,<br>while its Wave attacks reach farther.
 432	<br><br>
 433	<br><br>
 434	<br><br>
@@ -443,7 +443,7 @@
 442	<br><br>
 443	True form evolution gains faster<br>attack speed, and the Strong<br>ability vs Traitless enemies!
 444	True form evolution gains increased<br>Attack power, and also shortened<br>cooldown time between deployments!
-445	True form evolution gains<br>increased Attack power, and<br>Immunity to Wave Attacks!
+445	True form evolution gains<br>increased Attack power, and<br>Immunity to Waves!
 446	True form evolution gains<br>Surge Attack abilities!<br>
 447	True form evolution increases<br>Defense & Attack power, and<br>gains Barrier Breaker abilities!
 448	True Form evolution gains increased<br>Vitality and attack power! Gains Colossus<br>Slayer, Slows, and immunity to Weaken!
@@ -629,7 +629,7 @@
 628	<br><br>
 629	<br><br>
 630	<br><br>
-631	True Form gains significantly increased<br>Attack! Blocks Wave Attacks and<br>gains immunity to Wave Attacks!
+631	True Form gains significantly increased<br>Attack! Gains Wave Shield and<br>Immunity to Waves!
 632	True Form gains increased attack!<br>Also gains immunity to enemy Freeze effect!<br>
 633	True Form evolution gains improved Defense and<br>100% chance of Mini-Wave.<br>
 634	True Form gains massive Area damage <br>to Aku, Immunity to Freeze effects, and<br>has a chance to Pierce Aku Shields!
@@ -696,9 +696,9 @@
 695	<br><br>
 696	<br><br>
 697	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
-698	<br><br>
+698	True form evolution gains<br>Knockback vs Aku and Aliens.<br>Also gains Immunity to Surges!
 699	<br><br>
-700	True Form evolution reveals its final form!<br>Also gains Long-range attacks and<br>immunity to Wave attacks!
+700	True Form evolution reveals its final form!<br>Also gains Long-range attacks and<br>Immunity to Waves!
 701	<br><br>
 702	<br><br>
 703	<br><br>
@@ -809,3 +809,6 @@
 808	<br><br>
 809	<br><br>
 810	<br><br>
+811	<br><br>
+812	<br><br>
+813	<br><br>

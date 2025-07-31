@@ -151,7 +151,7 @@
 150	Young Man Mola
 151	Mola King
 152	Ayumi Manbosaki
-153	Crab
+153	Granchio gigante della Tasmania
 154	Sardine
 155	Squid
 156	Marching Kory
@@ -728,8 +728,14 @@
 727	Katsumi Orochi
 728	Jack Hammer
 729	Maestro di logica Newton
-730	
-731	
-732	
-733	
+730	Sonic
+731	Tails
+732	Knuckles
+733	Shadow
 734	
+735	Scagnozzo angelico
+736	Cane dei Mari del Sud
+737	Lontra dei Mari del Sud
+738	Base Parasole
+739	Pupazzo immobile
+740	

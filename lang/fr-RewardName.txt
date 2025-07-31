@@ -204,6 +204,10 @@
 213|S213|I438	Lettre d’amour
 214|S214|I439	Panier légendaire
 215|S215|I440	Legendary Dumbbell
+216|S216|I441	Piège légendaire
+217|I442	Coffre au trésor (bronze)
+218|I443	Coffre au trésor (argent)
+219|I444	Coffre au trésor (or)
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -270,6 +274,7 @@
 1067	Œuf ancien : N006
 1068	Soracte, mentor mental
 1069	Chat joueur de bowling
+1070	Grand Chat tueur
 1071	Maître de la Logique Newton
 1100	Chat en bronze
 1101	Chastronaute
@@ -328,6 +333,7 @@
 1183	Madhead
 1184	Kenshin Cat
 1185	Maître de la vie Dr Nova
+1186	Sonic Cat
 10010	Chat malabar
 10011	Chat danseur
 10012	Hyper Mr.
@@ -539,6 +545,7 @@
 15271	Crazed Catgirl Yuki
 15272	Amaterasu Toute-puissante
 15273	Ganesh Tout-puissant
+15276	Chatte de l’été ardent
 15277	Neneko début d'été
 15283	Chat tchatcha
 15284	Pai-Pai DX
@@ -673,6 +680,7 @@
 15692	Seigneur gorille Luza
 15693	Oni Bathyscaphe Kozuchimaru
 15698	Chef Chat
+15699	Jack la foudre
 15701	Chat tueur à gages
 15707	Chat savonneur
 15708	Chat baril
@@ -943,3 +951,33 @@
 30232	Fléau des colosses B
 30233	Fléau des colosses A
 30234	Fléau des colosses S
+30235	Charge du Chanon D
+30236	Charge du Chanon C
+30237	Charge du Chanon B
+30238	Charge du Chanon A
+30239	Charge du Chanon S
+30240	Résist. toxique D
+30241	Résist. toxique C
+30242	Résist. toxique B
+30243	Résist. toxique A
+30244	Résist. toxique S
+30245	Esquive (Tout) D
+30246	Esquive (Tout) C
+30247	Esquive (Tout) B
+30248	Esquive (Tout) A
+30249	Esquive (Tout) S
+30250	Résist. Ralentissement D
+30251	Résist. Ralentissement C
+30252	Résist. Ralentissement B
+30253	Résist. Ralentissement A
+30254	Résist. Ralentissement S
+30255	Résist. Malédictions D
+30256	Résist. Malédictions C
+30257	Résist. Malédictions B
+30258	Résist. Malédictions A
+30259	Résist. Malédictions S
+30260	Améliore les Légendes mystérieuses D
+30261	Améliore les Légendes mystérieuses C
+30262	Améliore les Légendes mystérieuses B
+30263	Améliore les Légendes mystérieuses A
+30264	Améliore les Légendes mystérieuses S

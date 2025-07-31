@@ -273,7 +273,7 @@
 272	Ganesh Splendido	Ganesh Amato	Ganesh Onnipotente	
 273	Ragatta pon pon	Gattameriera	Gatta soba	
 274	Kalisa Tropicale	Kalisa Tropicale χ		
-275	Coniglietta Estiva	Gatta Estiva		
+275	Coniglietta Estiva	Gatta Estiva	Gatta Bella estate	
 276	Neneko al sole	Neneko Marina	Neneko di inizio estate	
 277	Funghi	Funghi 'n' Cat		
 278	Tanky	Tanky 'n' Cat		
@@ -304,7 +304,7 @@
 303	Street food miao	Gatto fattorino	Gatto della mensa	
 304	Gattapulta possente	Macchina d'assedio GAT-6	GAT-8 Behemoth	Gigapulta CAT-10
 305	Natante possente	Nave Cuordileone	Nave Artiglio	Unità Artigliorso
-306	Bombardo possente	Aero-fortezza NEK-0	Aeroccaforte NEK-02	
+306	Bombardo possente	Aero-fortezza NEK-0	Aeroccaforte NEK-02	Imperatore dei nembi NEK-03
 307	Gatta con l'asta	Gatta astista	Gatta casalinga	
 308	Gatto giardiniere	Gattaiolo	Gattosaerba	
 309				
@@ -696,7 +696,7 @@
 695	Gatto Panzer assassino	Vero Gatto Panzer assassino		
 696	Gatto rappresentante	Gatto rappresentante furtivo		
 697	Uovo antico N107	Uovo viola N107	Gatto capo	
-698	Jack tuono	Jack violento		
+698	Jack tuono	Jack violento	Jack fulmine	
 699	Satoru coniglio	Satoru Coniglio Campione		
 700	Uovo antico N005	Uovo mistico N005	Gatto killer	
 701				
@@ -783,7 +783,7 @@
 782				
 783	Koneko	Koneko Superstar		
 784				
-785				
+785	Gatto alto assassino	Vero Gatto alto assassino		
 786	Catman il mago	Catman l'illusionista		
 787	Lunacia ninfa dell'aldilà	Lunacia progenie della morte		
 788				
@@ -801,11 +801,14 @@
 800				
 801	Maestro di logica Newton	Maestro di logica Miaoton		
 802	802-1			
-803				
-804				
-805				
-806				
-807				
-808				
-809				
+803	Sonic	Sonic & Cat		
+804	Tails	Tails & Cat		
+805	Knuckles	Knuckles & Cat		
+806	Shadow	Shadow & Cat		
+807	Sonic Cat	Sonic Cat CC		
+808	Tails Cat	Tails Cat CC		
+809	Shadow Cat	Shadow Cat CC		
 810				
+811	Skanda vittorioso	Skanda Zeta		
+812	812-1			
+813	Granchio gigante della Tasmania	Granchio gigante della Tasmania CC		

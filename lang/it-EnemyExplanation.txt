@@ -733,3 +733,9 @@
 732	
 733	
 734	
+735	Una pietra magica ha dato a questo giocatore di baseball<br>leggendario il potere di giocare con successo in qualsiasi<br>posizione in campo... ma ora è solo<br>una squadra di un componente stanco da morire.
+736	
+737	
+738	
+739	
+740	

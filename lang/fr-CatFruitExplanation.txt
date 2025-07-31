@@ -31,7 +31,7 @@
 030	La forme ultime augmente la portée !<br>Elle donne aussi une chance de réduire<br>la puiss. d'attaque des ennemis flottants !
 031	La forme ultime augmente les stat. !<br>Octroie l'immob. des ennemis reliques et<br>devient immun. contre les maléd. ennemies.
 032	La forme ultime augmente la défense<br>et l'att. Bloque les téléport. et ralentit<br>les déplac. des ennemis rouges !
-033	La forme ultime augmente la vitesse<br>et la puissance d’attaque ! Avec annulation<br>des effets et dégâts de vague offensive !
+033	La forme ultime augmente la vitesse<br>et la puissance d’attaque ! Avec annulation<br>bloque-vagues et immun. Vagues !
 034	La forme ultime augmente l’attaque !<br>Avec 100 % de chances d’immobiliser<br>les ennemis non-métal !
 035	La forme ultime augmente l’attaque !<br>Avec capacité de ralentir<br>brièvement les ennemis non-métal.
 036	La forme ultime augmente l'attaque,<br>la déf., la vitesse de déplac. et la portée.<br>
@@ -41,7 +41,7 @@
 040	La forme ultime augmente la défense !<br>La vitesse d’attaque augmente aussi !<br>
 041	La forme ultime augmente la puissance<br>d’attaque et annule l’affaiblissement<br>causé par les attaques ennemies.
 042	La forme ultime augmente la portée,<br>l'attaque et a 100 % de chances<br>d’immobiliser les ennemis rouges !
-043	La forme ultime augmente toutes les caract.<br>et une résistance aux vagues offensives<br>tout en protégeant les unités à l’arrière !
+043	La forme ultime augmente toutes les caract.<br>et confère bloque-vagues<br>et immun. Vagues !
 044	La forme ultime augmente la défense,<br>Octroie une att. unique hyper puissante.<br>cible unique.
 045	<br><br>
 046	La forme ultime augmente la défense<br>et la puissance d’att. Augmente les chances<br>de coup critique et la portée !
@@ -127,7 +127,7 @@
 126	<br><br>
 127	<br><br>
 128	<br><br>
-129	La forme ultime a une meilleure défense<br>et l'immunité aux vagues offensives.<br>
+129	La forme ultime améliore la défense<br>et confère l’immunité aux vagues..<br>
 130	La forme ultime améliore<br>la déf., la portée et la puissance d’att.<br>Devient immun. aux malédictions ennemies.
 131	<br><br>
 132	<br><br>
@@ -226,7 +226,7 @@
 225	True Form evolution gains improved attack<br>and defense! Also lower deployment cost!<br>
 226	La forme ultime n'att. que les aliens, mais<br>la déf. et la puiss. d'att. sont fortement<br>améliorées. Résist. aux malus répétés.
 227	La forme ultime est plus efficace contre les<br>ennemis noirs ! Gagne en plus Fléau des<br>Béhémoths !
-228	La forme ultime bloque les vagues off.<br>et gagne immunité aux vagues offensives.<br>
+228	La forme ultime confère bloque-vagues<br>et immun. Vagues.<br>
 229	<br><br>
 230	<br><br>
 231	<br><br>
@@ -273,7 +273,7 @@
 272	La forme ultime améliore<br>la défense ! Puissance d’attaque augmentée<br>après avoir subi des dégâts.
 273	<br><br>
 274	<br><br>
-275	<br><br>
+275	La forme ultime ajoute 100 % de chances<br>de repousser/ralentir les anges/noirs !<br>Aussi Immun. Vagues. !
 276	La forme ultime améliore<br>la puissance d’attaque.<br>
 277	<br><br>
 278	<br><br>
@@ -304,7 +304,7 @@
 303	<br><br>
 304	La forme ultime améliore la distance<br>d’attaque et la portée d’attaque de zone !<br>	Attaque augmentée en ultra forme !<br>Résiste aux zombies/reliques, gagne<br>100 % de chances d'affaiblir.
 305	La forme ultime améliore<br>la vitesse d’attaque !<br>	Ultra forme : déploiement plus rapide !<br>Déf., vit. attaque/portée améliorées!<br>Immunité contre Recul !
-306	La forme ultime améliore<br>la défense et le taux de recul !<br>
+306	La forme ultime améliore<br>la défense et le taux de recul !<br>	Gagne déf. améliorée et devant-derrière,<br>attaques explosives et Fléau des Sages !<br>Gagne aussi Immunité contre explosions !
 307	La forme ultime augmente fortement la déf.<br>et la vit. de déplac. ! Le ralentissement<br>des zombies dure plus longtemps !
 308	La forme ultime augmente fortement la déf.,<br>la portée d’attaque et la durée<br>d’immobilisation des zombies  !
 309	<br><br>
@@ -393,7 +393,7 @@
 392	La forme ultime augmente<br>la défense et la portée !<br>Octroie une attaque de zone accrue !
 393	La forme ultime augmente fortement<br>la puissance/vitesse d’attaque et la défense !<br>Elle octroie une immunité au ralentissement.
 394	La forme ultime a un taux d’attaque<br>plus lent, mais une défense, une puissance<br>d’attaque et une portée d’attaque accrues !
-395	La forme ultime augmente fortement<br>la puissance d’attaque et la défense !<br>Octroie une immun. aux vagues offensives !
+395	La forme ultime augmente fortement<br>la puissance d’attaque et la défense !<br>Confère également immun. Vagues !
 396	La forme ultime améliore la défense<br>et repousse mieux les ennemis !<br>
 397	La forme ultime gagne<br>une résistance acharnée<br>contre les ennemis métal !	L'ultra forme gagne devant-derrière,<br>déf., att. et ch. de crit. améliorées !<br>Temps debuff contre ennemis métal amél.
 398	<br><br>
@@ -429,7 +429,7 @@
 428	<br><br>
 429	<br><br>
 430	<br><br>
-431	La forme ultime améliore la vitesse d’att.<br>et accorde 100 % de chances d’immob.<br>Également efficace contre les enn. zombies.	L’ultra forme améliore les capacités ! Les<br>vagues off. vont plus loin et gagnent Fléau<br>des Sages ! Gagne immunité vagues off. !
+431	La forme ultime améliore la vitesse d’att.<br>et accorde 100 % de chances d’immob.<br>Également efficace contre les enn. zombies.	L’ultra forme améliore les capacités ! Les<br>vagues offensives vont plus loin,<br>donne Fléau des Sages et immun. Vagues.
 432	<br><br>
 433	<br><br>
 434	<br><br>
@@ -443,7 +443,7 @@
 442	<br><br>
 443	La forme ultime gagne une attaque plus<br>rapide et assure contre les ennemis<br>sans caractéristique !
 444	La forme ultime gagne une meilleure<br>puissance d’attaque et un temps de<br>recharge réduit entre les déploiements !
-445	La forme ultime gagne une puissance<br>d’attaque augmentée et l'immunité<br>aux vagues offensives.
+445	La forme ultime gagne une puissance<br>d’attaque augmentée et l'immunité<br>aux vagues !
 446	La forme ultime gagne des capacités<br>de réplique offensive !<br>
 447	La forme ultime augmente la<br>puissance d’attaque et de défense<br>et donne la capacité brise-barrière !
 448	La forme ultime améliore vitalité et<br>attaque + Fléau des colosses, ralentit,<br>immunise contre Affaiblissement !
@@ -493,7 +493,7 @@
 492	<br><br>
 493	<br><br>
 494	<br><br>
-495	True Form evolution gains tougher<br>Plus, faster movement speed!<br>
+495	La forme ultime renforce la défense<br>et la vit. de déplac. est plus rapide!<br>
 496	La forme ultime augmente grandement<br>la déf. et la chance de frappe sauvage !<br>
 497	<br><br>
 498	<br><br>
@@ -629,7 +629,7 @@
 628	<br><br>
 629	<br><br>
 630	<br><br>
-631	La forme ultime améliore fortement<br>l’attaque ! Bloque les vagues off. et<br>gagne immunité aux vagues offensives.
+631	La forme ultime améliore fortement<br>l’attaque ! Donne bloque-vagues et imm.<br>aux vagues !
 632	La forme ultime améliore son attaque et<br>l'immunise vs les effets d'immobilisation !<br>
 633	La forme ultime améliore la déf., la puiss.<br>100 % de chances de mini-vague.<br>
 634	Forme ultime : dégâts de zone massifs<br>contre Akus, immunité contre immobilisation<br>et peut percer les boucliers Akus !
@@ -696,9 +696,9 @@
 695	<br><br>
 696	<br><br>
 697	La forme ultime révèle son aspect final<br>Et gagne Fléau des Béhémoths !<br>
-698	<br><br>
+698	La forme ultime gagne<br>Recul contre akus et aliens.<br>et immun. contre répliques offensives !
 699	<br><br>
-700	La forme ultime révèle son aspect final.<br>Gagne également att. longue portée<br>et immun. vagues offensives.
+700	La forme ultime révèle son aspect final.<br>Gagne également att. longue portée<br>aux vagues !
 701	<br><br>
 702	<br><br>
 703	<br><br>
@@ -809,3 +809,6 @@
 808	<br><br>
 809	<br><br>
 810	<br><br>
+811	<br><br>
+812	<br><br>
+813	<br><br>

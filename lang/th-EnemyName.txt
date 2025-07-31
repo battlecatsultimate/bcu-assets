@@ -151,7 +151,7 @@
 150	Young Man Mola
 151	Mola King
 152	Ayumi Manbosaki
-153	Crab
+153	ปูยักษ์แทสมาเนียน
 154	Sardine
 155	Squid
 156	Marching Kory
@@ -728,8 +728,14 @@
 727	Katsumi Orochi
 728	Jack Hammer
 729	นักปราชญ์แห่งตรรกะนิวตัน
-730	
-731	
-732	
-733	
+730	Sonic
+731	Tails
+732	Knuckles
+733	Shadow
 734	
+735	แล็กกีย์เทพ
+736	โฮ่งทะเลใต้
+737	นากทะเลใต้
+738	ฐานร่มกันแดด
+739	หุ่นแช่แข็ง
+740	

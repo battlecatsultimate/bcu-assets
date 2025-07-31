@@ -732,9 +732,9 @@
 732	Knuckles
 733	Shadow
 734	Goal Plate Castle
-735	Angelus
-736	Tropical Doge
-737	Tropical Otta
-738	Stormy Parasol Castle
-739	Stopping Wooden Castle
+735	Ange Lackey
+736	South Seas Doge
+737	South Seas Otter
+738	Parasol Base
+739	Freeze Dummy
 740	Mass Production Eva

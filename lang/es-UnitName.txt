@@ -273,7 +273,7 @@
 272	Ganesha Espléndido	Ganesha Exaltado	Ganesha Todopoderoso	
 273	Gata Animadora	Gata Camarera	Gata Restauradora	
 274	Kalisa Tropical	Kalisa Tropical X		
-275	Conejita Veraniega	Gata Veraniega		
+275	Conejita Veraniega	Gata Veraniega	Miss Miau Estival	
 276	Neneko Nadadora	Neneko Playera	Neneko Veraniega	
 277	Funghi	Funghi 'n' Cat		
 278	Tanky	Tanky 'n' Cat		
@@ -304,7 +304,7 @@
 303	Vendedor de Comida	Gato Repartidor	Gato de Cafetería	
 304	Gatapulta Brutal	Máquina de Asedio	Mastodonte de Asalto	Gigapulta de destrucción gatopardo
 305	Buque Brutal	BCS Corazón de León	BCS Garra de Tigre	BCS Garra de Oso
-306	Bombardero Brutal	MIAU-0 Fortaleza Aérea	MIAU-02 Ciudadela Aérea	
+306	Bombardero Brutal	MIAU-0 Fortaleza Aérea	MIAU-02 Ciudadela Aérea	Emperador Celeste NEK-03
 307	Gato con Pértiga	Gata con Pértiga	Gata Ama de Casa	
 308	Gato Jardinero	Gato Leñador	Gato Desbrozador	
 309				
@@ -696,7 +696,7 @@
 695	Gato Defensor Asesino	Gato Defensor Asesino aut.		
 696	Gato Delegado	Gato Delegado Sigiloso		
 697	Huevo Antiguo N107	Huevo morado N107	Gato Jefe	
-698	Jack, el eléctrico	Jack, el desatado		
+698	Jack, el eléctrico	Jack, el desatado	Jack, el rayo	
 699	Conejo Satoru	Conejo Satoru Campeón		
 700	Huevo Antiguo N005	Huevo Místico N005	Gato Sicario	
 701				
@@ -783,7 +783,7 @@
 782				
 783	Koneko	Koneko Superestrella		
 784				
-785				
+785	Gatilargo Asesino	Gatilargo Asesino Auténtico		
 786	Conjurador Catman	Catman Ilusionista		
 787	Lunacia Ninfa del Inframundo	Lunacia Hija de la Muerte		
 788				
@@ -801,11 +801,14 @@
 800				
 801	Sabio de la lógica Newton	Sabio de la lógica Miauwton		
 802	802-1			
-803				
-804				
-805				
-806				
-807				
-808				
-809				
+803	Sonic	Sonic & Cat		
+804	Tails	Tails & Cat		
+805	Knuckles	Knuckles & Cat		
+806	Shadow	Shadow & Cat		
+807	Sonic Cat	Sonic Cat CC		
+808	Tails Cat	Tails Cat CC		
+809	Shadow Cat	Shadow Cat CC		
 810				
+811	Skanda Invicto	Skanda Celestial		
+812	812-1			
+813	Megacangrejo de Tasmania	Megacangrejo de Tasmania CC		

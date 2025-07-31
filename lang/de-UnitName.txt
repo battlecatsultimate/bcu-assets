@@ -273,7 +273,7 @@
 272	Herrlicher Ganesha	Erhabener Ganesha	Allmächtiger Ganesha	
 273	Cheerleader-Katze	Kellner-Katze	Soba-Katze	
 274	Tropische Kalisa	Tropische Kalisa, Typ χ		
-275	Mittsommerhase	Mittsommerkatze		
+275	Mittsommerhase	Mittsommerkatze	Hochsommerkatze	
 276	Sonnige Neneko	Strand-Neneko	Frühsommer-Neneko	
 277	Funghi	Funghi 'n' Cat		
 278	Tanky	Tanky 'n' Cat		
@@ -304,7 +304,7 @@
 303	Essensstandkatze	Lieferdienstkatze	Kantinenkatze	
 304	Mächtiges Katzapult	KATZ-6-Belagerungswaffe	KATZ-8-Behemoth	KAT-10-Gigapult
 305	Mächtiges Kampfschiff	K.K.S. Löwenherz	K.K.S. Tigerklaue	K.K.S. Bärenklaue
-306	Mächtiger Bomber	NEK-0-Himmelsfestung	NEK-02-Luftzitadelle	
+306	Mächtiger Bomber	NEK-0-Himmelsfestung	NEK-02-Luftzitadelle	Wolkenkaiser NEK-03
 307	Hochsprungkatze	Stabsprungkatze	Hausfrauenkatze	
 308	Gärtnerkatze	Holzfällerkatze	Unkrautjäter-Katze	
 309				
@@ -696,7 +696,7 @@
 695	Killer-Panzer-Katze	Wahre Killer-Panzer-Katze		
 696	Klassensprecherkater	Tarn-Klassensprecherkater		
 697	Uraltes Ei: N107	Violettes Ei: N107	Häuptlingskatze	
-698	Blitzschlag-Jack	Blutiger Jack	Blut-Jack	
+698	Blitzschlag-Jack	Blutiger Jack	Blitz-Jack	
 699	Kaninchen Satoru	Kaninchen-Champion Satoru		
 700	Uraltes Ei: N005	Mystisches Ei: N005	Auftragskiller-Katze	
 701				
@@ -783,7 +783,7 @@
 782				
 783	Koneko	Superstar Koneko		
 784				
-785				
+785	Killer-Stelzenkatze	Wahre Killer-Stelzenkatze		
 786	Der unglaubliche Catman	Catman der Illusionist		
 787	Jenseitsnymphe Lunacia	Tochter des Todes Lunacia		
 788				
@@ -801,11 +801,14 @@
 800				
 801	Weiser des logischen Newton	Weiser des logischen Mewton		
 802	802-1			
-803				
-804				
-805				
-806				
-807				
-808				
-809				
+803	Sonic	Sonic & Cat		
+804	Tails	Tails & Cat		
+805	Knuckles	Knuckles & Cat		
+806	Shadow	Shadow & Cat		
+807	Sonic Cat	Sonic Cat CC		
+808	Tails Cat	Tails Cat CC		
+809	Shadow Cat	Shadow Cat CC		
 810				
+811	Siegreicher Skanda	Zeta-Skanda		
+812	812-1			
+813	Tasmanische Riesenkrabbe	Tasmanische Riesenkrabbe CC		

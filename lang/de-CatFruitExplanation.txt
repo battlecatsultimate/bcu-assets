@@ -31,7 +31,7 @@
 030	Wahre-Form-Entwicklung erhöht Reichweite!<br>Gewährt zudem die Chance, die Angriffskraft<br>von fliegenden Feinden zu senken!
 031	Wahre-Form-Entwicklung erhöht alle Werte!<br>Erhält zudem die Fähigkeit, Relikt-Feinde<br>einzufrieren & wird immun gg. feindl. Flüche.
 032	Wahre-Form-Entwicklung erhöht die Vert.<br>und den Angriff! Blockiert Teleport und lähmt<br>rote Feinde noch mehr!
-033	Wahre-Form-Entwicklung erhöht Angriffs-<br>tempo und -kraft! Negiert außerdem Effekte<br>und Schaden durch Wellenangriffe!
+033	Wahre-Form-Entwicklung erhöht Angriffs-<br>tempo und -kraft! Negiert außerdem Effekte<br>Wellenschild und Immunität gegen Wellen!
 034	Wahre-Form-Entwicklung verstärkt Angriffe!<br>Friert zudem garantiert nicht-eiserne Feinde<br>in der Bewegung ein!
 035	Wahre-Form-Entwicklung verstärkt Angriffe!<br>Kann zudem nicht-eiserne Feinde für kurze<br>Zeit lähmen.
 036	Wahre-Form-Entwicklung verstärkt Angriffe,<br>Vert., Bewegungstempo und Reichweite!<br>
@@ -41,7 +41,7 @@
 040	Wahre-Form-Entwicklung erhöht<br>Verteidigung und Angriffstempo!<br>
 041	Wahre Form erhöht Angriffskraft!<br>Negiert zudem Schwächungs-Effekte<br>von feindlichen Angriffen.
 042	Wahre-Form-Entwicklung erhöht Reichweite<br>und Angriff! Friert zudem garantiert rote<br>Feinde in der Bewegung ein!	Wahre-Form-Entwicklung erhöht Reichweite<br>und Angriffe! Friert zudem garantiert rote<br>und Angriff! Friert zudem garantiert rote
-043	Wahre-Form-Entwicklung erhöht alle Werte.<br>Gewährt zudem Resistenz gg. Wellenangriffe<br>und schützt auch Einheiten hinter sich!
+043	Wahre-Form-Entwicklung erhöht alle Werte.<br>Erhält außerdem Wellenschild<br>und Immunität gegen Wellen!
 044	Wahre-Form-Entwicklung erhöht Vert. &<br>gewährt äußerst mächtige einfache Angriffe.<br>
 045	<br><br>
 046	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffskraft. Gewährt eine erhöhte<br>Haudrauf-Chance und Reichweite!
@@ -127,7 +127,7 @@
 126	<br><br>
 127	<br><br>
 128	<br><br>
-129	Wahre-Form-Entwicklung erhöht Vert. sowie<br>Immunität gegen Wellenangriffe.<br>
+129	Wahre-Form-Entw. erhöht Verteidigung,<br>außerdem Immunität gegen Wellen.<br>
 130	Wahre-Form-Entwicklung verbessert<br>Verteidigung, Reichweite und Angriffskraft.<br>Wird zudem immun gegen feindliche Flüche.
 131	<br><br>
 132	<br><br>
@@ -226,7 +226,7 @@
 225	True Form evolution gains improved attack<br>and defense! Also lower deployment cost!<br>
 226	Wahre Form greift nur Aliens an,<br>aber Verteidigung & Angriffskraft sind höher!<br>Resistent gegen wiederholte Schwächungen.
 227	Wahre-Form-Entwicklung ist stärker gegen<br>schwarze Feinde! Erhält zudem<br>„Behemothtöter“!
-228	Wahre Form blockiert Wellenangriffe.<br>Immunität gegen Wellenangriffe.<br>
+228	Wahre Form gewährt Wellenschild<br>und Immunität gegen Wellen.<br>
 229	<br><br>
 230	<br><br>
 231	<br><br>
@@ -273,7 +273,7 @@
 272	Wahre-Form-Entwicklung erhöht<br>Verteidigung! Zudem erh. erlittener Schaden<br>die Angriffskraft noch stärker!
 273	<br><br>
 274	<br><br>
-275	<br><br>
+275	Wahre-Form-Entwicklung stößt Engel und<br>Schwarz garantiert zurück und lähmt sie!<br>Außerdem immun gegen Wellen!
 276	Wahre Form erhöht<br>Angriffskraft!<br>
 277	<br><br>
 278	<br><br>
@@ -304,7 +304,7 @@
 303	<br><br>
 304	Wahre-Form-Entwicklung erhöht Angriffs-<br>reichweite und Angriffsflächengröße!<br>	Ultra-Form-Entw. erhöht Angriffskraft!<br>Resistent gegen Zombies und Relikt und<br>erhält Fähigkeit, garant. zu schwächen.
 305	Wahre-Form-Entwicklung erhöht<br>Angriffstempo!<br>	Ultra-Form: reduzierte Einsatz-Abklingzeit!<br>Erhöhte Vert., Angriffstempo/-reichweite!<br>Erhält zudem Immunität gegen Rückstoß!
-306	Wahre-Form-Entwicklung erhöht Vert.<br>und Rückstoß-Rate!<br>
+306	Wahre-Form-Entwicklung erhöht Vert.<br>und Rückstoß-Rate!<br>	Verbesserte Verteidigung, Rundumschlag,<br>explosive Angriffe und Weiser Töter!<br>Wird außerdem immun gegen Explosionen!
 307	Wahre Form erhöht Vert. und Bewegungs-<br>tempo deutlich! Zudem halten bei<br>Zombies Verlangsamen-Effekte länger an!
 308	Wahre Form erhöht Verteidigung deutlich!<br>Auch die Angriffsreichweite wird erhöht und<br>die Einfrierdauer bei Zombies steigt!
 309	<br><br>
@@ -393,7 +393,7 @@
 392	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffsreichweite!<br>Gewährt zudem Flächenangriff!
 393	Wahre-Form-Entwicklung erhöht Angriffskraft<br>und -tempo sowie Verteidigung!<br>Wird zudem immun gegen Verlangsamen!
 394	Wahre-Form-Entwicklung senkt die Angriffsrate,<br>aber steigert Verteidigung, Angriffskraft und<br>Angriffsreichweite!
-395	Wahre-Form-Entwicklung erhöht Angriffskraft<br>und Verteidigung!<br>Wird zudem immun gegen Welleneffekte!	Wahre-Form-Entwicklung erhöht Angriffskraft<br>und Verteidigung!<br>Wird zudem Immun gegen Welleneffekte!
+395	Wahre-Form-Entwicklung erhöht Angriffskraft<br>und Verteidigung!<br>Wird zudem Immun gegen Wellen!
 396	Wahre-Form-Entwicklung erhöht Vert.,<br>und stärkt Rückstöße gegen Feinde!<br>
 397	Wahre-Form-Entwicklung gewährt<br>Irre robuste Verteidigung<br>gegen eiserne Feinde!	Ultra-Form-Entw. gewährt Rundumschlag,<br>Verteidigung, Angriff und Reichweite!<br>Zudem erh. Schwächungseff. gg. Eiserne.
 398	<br><br>
@@ -429,7 +429,7 @@
 428	<br><br>
 429	<br><br>
 430	<br><br>
-431	Wahre-Form-Entwicklung steigert Angriffs-<br>tempo! Friert zudem Feinde garantiert ein.<br>Stark gegen Zombie-Feinde.	Ultra-Form-Entw. verbessert Fähigkeiten!<br>Wellenang. kommen weiter & erhält „Weiser<br>Töter“! Immunität gegen Wellenangriffe!
+431	Wahre-Form-Entwicklung steigert Angriffs-<br>tempo! Friert zudem Feinde garantiert ein.<br>Stark gegen Zombie-Feinde.	Ultra-Form-Entw. verbessert Fähigkeiten!<br>Erhält Weiser Töter & Immun. gg. Wellen,<br>Wellenang. kommen weiter.
 432	<br><br>
 433	<br><br>
 434	<br><br>
@@ -493,7 +493,7 @@
 492	<br><br>
 493	<br><br>
 494	<br><br>
-495	True Form evolution gains tougher<br>Plus, faster movement speed!<br>
+495	Wahre Form gewährt erhöhte Verteidigung!<br>Plus, erhöhte Bewegungsgeschwindigkeit!<br>
 496	Wahre-Form-Entwicklung erhöht<br>Verteidigung deutlich! Außerdem steigt<br>die Chance auf wilde Schläge!
 497	<br><br>
 498	<br><br>
@@ -629,7 +629,7 @@
 628	<br><br>
 629	<br><br>
 630	<br><br>
-631	Wahre-Form-Gewinne deutlich erhöht<br>Angreifen! Blockiert Wellenangriffe und<br>erhält Immunität gegen Wellenangriffe!
+631	Wahre-Form-Gewinne deutlich erhöht<br>Angreifen! Erhält Wellenschild und<br>Immunität gegen Wellen!
 632	Wahre Form erhöht Angriff!<br>Immun gegen feindlichen Einfrieren-Effekt!<br>
 633	Wahre-Form-Entwicklung erhöht<br>100-%-Chance auf Mini-Welle!<br>
 634	Wahre Form gew. heftigen Flächenschaden<br>gegen Aku, Immunität gegen Einfrieren<br>und Chance, Aku-Schilde zu durchdringen!
@@ -696,7 +696,7 @@
 695	<br><br>
 696	<br><br>
 697	Wahre-Form-Entwicklung enthüllt<br>Erhält zudem "Behemothtöter"!<br>
-698	<br><br>
+698	Wahre-Form-Entwicklung gewährt<br>Rückstoß gegen Aku und Aliens.<br>Zudem Immunität gegen Zufallsangriffe!
 699	<br><br>
 700	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem Distanzangriffe und<br>Immunität gegen Wellen!
 701	<br><br>
@@ -809,3 +809,6 @@
 808	<br><br>
 809	<br><br>
 810	<br><br>
+811	<br><br>
+812	<br><br>
+813	<br><br>

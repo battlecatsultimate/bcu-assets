@@ -85,10 +85,6 @@
 9048	Erreiche mehr als 6000 Punkte im. Karieskriecher-Sonderlevel!
 9049	Verbessere Eierkatze auf Stufe 10! (Du musst die Katze vor Eventende entwickeln!)
 9050	Upgrade Shinji & Cat to Level 10! (You must evolve the Cat before the event ends!)
-9051	Clear "Decisive Battle!" 9 times!
-9052	Clear "Decisive Battle!" 9 times!
-9053	Clear "Decisive Battle!" 9 times!
-9054	Clear a stage using a catcombo with "Eva Angel Killer" effect! Use Shinji and ??? together (after Empire Ch. 1)
 9055	Destroy the 4th Angel. Encounter this enemy at "State of Emergency"
 9056	Destroy the 6th Angel. Encounter this enemy at "Futagoyama Fortress"
 9057	Destroy the 9th Angel. Encounter this enemy at "Asuka On Board (Easy)"
@@ -753,3 +749,203 @@
 9389	[Teil 1: 10 Jahre Erinnerungen] 2. Sammle eine Jubiläumseinheit! Tipp: Katze, die bei Events Glück hat
 9391	[Teil 1: 10 Jahre Erinnerungen] 4. Sammle eine Jubiläumseinheit! Tipp: Wertvolle Katze der 9. Jubiläumsfeier
 9392	[Teil 1: 10 Jahre Erinnerungen] 5. Sammle eine Jubiläumseinheit! Tipp: Ein Meditierender vom 10. Jubiläum
+9394	[Teil 1: 10 Jahre Erinnerungen] Schließe „10 Jahre Erinnerungen“-Lvl 9-mal ab!
+9395	[Teil 1: 10 Jahre Erinnerungen] Schließe „10 Jahre Erinnerungen“-Lvl 9-mal ab!
+9396	[Teil 1: 10 Jahre Erinnerungen] Schließe „10 Jahre Erinnerungen“-Lvl 9-mal ab!
+9397	[Teil 2: Feindliche Manöver] Schließe die „Feindliche Manöver“-Level 9-mal ab!
+9398	[Teil 3: Katzenklatsch] Sprich an 4 Tagen. mit der Katze in der Katzenbasis. über die Geschichte der Battle Cats!
+9399	[Teil 4: Katzenjagd] 1. Finde die Katze in Katzenimperium! Tipp: Hauptstadtname ist längster der Welt
+9400	[Teil 4: Katzenjagd] 2. Finde die versteckte Katze in. Katzenimperium! Tipp: Eine große wolkenlose Wüste
+9401	[Teil 4: Katzenjagd] 3. Finde die versteckte Katze in. Katzenimperium! Tipp: Sein Symbol ist ein Ahornblatt
+9402	[Teil 4: Katzenjagd] 4. Finde die Katze in Katzenimperium! Tipp: Von hier wurde die Mondlandung gelenkt
+9403	[Teil 4: Katzenjagd] 5. Finde die versteckte Katze in. Katzenimperium! Tipp: Längste Lebenserwartung in den USA
+9404	[Teil 4: Katzenjagd] Bereise die Welt. und finde alle versteckten Katzen!
+9405	[Teil 5: Musikparade] Schließe „Musikparade“-Level 9-mal ab! Schließe „Musikparade“-Level ab
+55	10.-Jubiläum-Mission. Schließe während des Events Katzenimperium Kapitel 1 ab
+9407	Schließe 9-mal „Mond-Neujahr“-Level ab!
+9408	Schließe 9-mal „Mond-Neujahr“-Level ab!
+9409	Schließe 9-mal „Mond-Neujahr“-Level ab!
+9410	Schließe 9-mal „Mond-Neujahr“-Level ab!
+9411	Schließe 9-mal „Mond-Neujahr“-Level ab!
+56	Schließe 9 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in "Über Herausforderungen"
+9412	Clear 9 Fate/stay night [HF] collab stages
+9413	Clear 9 Fate/stay night [HF] collab stages
+9414	Clear 9 Fate/stay night [HF] collab stages
+9415	【80 Mio. DL】 Schicke Gamatoto auf 17 erfolgr. Expeditionen!
+9416	【80 Mio. DL】 Schicke Gamatoto auf 17 erfolg. Expeditionen!
+9417	【80 Mio. DL】Schließ 9x Fröhl. Geschenk für 80 Mio. DLs ab!
+9418	【80 Mio. DL】Schließ 9x Fröhl. Geschenk für 80 Mio. DLs ab!
+9419	【80 Mio. DL】Schließ 9x Fröhl. Geschenk für 80 Mio. DLs ab!
+9420	【80 Mio. DL】Schließ 9x Level von "Monatl. Event-Stars" ab!
+9421	【80 Mio. DL】Schließ 9x Level von "Monatl. Event-Stars" ab!
+9422	【80 Mio. DL】Schließ 9x Level von "Monatl. Event-Stars" ab!
+9423	【80 Mio. DL】Schließe alle Eventmissionen ab. und verdiene 1 Platinsplitter!
+57	Schließe 9 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+58	Schließe 9 Behemothjagd-Level zum ersten Mal ab. Ziellevel findest du in „Über Herausforderungen“
+59	Schließe alle „Unh. Legenden“-Level der Stufe 2 ab,. um diese Mission abzuschließen
+9424	Zyklonfest-Missionen. Schließe das Level „Der große Diablo“ ab!
+9425	Verdiene ein Uraltes Ei: N203 aus den. „Juni-Braut des Teufels“-Kapseln!
+9426	Erreiche mehr als 8200 Punkte bei. #02 Die Hochzeit der Angst, Level 1!
+9427	Erreiche mehr als 7200 Punkte bei. #02 Die Hochzeit der Angst, Level 2!
+9428	Erreiche mehr als 7100 Punkte bei. #02 Die Hochzeit der Angst, Level 3!
+9429	Erreiche mehr als 6200 Punkte bei. #02 Die Hochzeit der Angst, Level 4!
+9430	Erreiche mehr als 4500 Punkte bei. #02 Die Hochzeit der Angst, Level 5!
+9431	Verdiene einen Behemoth-Stein, indem du die Punkte-. vorgabe bei #02 Die Hochzeit der Angst, Levels 1–5 erfüllst!
+9432	[F1. Was ist in der Schachtel?] Verdiene alle
+9433	[Ultra-Quiz] Schließe Missionen F1-5 ab und hol dir deinen. Preis im Wert von 1 Million (laut des Katzencomputers)!
+60	Schließe 9 Behemothjagd-Level zum ersten Mal ab!
+61	Schließe 9 Behemothjagd-Level zum ersten Mal ab!
+9434	Clear Princess Punt Sweets collab stages 9 times!
+9435	Clear Princess Punt Sweets collab stages 9 times!
+9436	Clear Princess Punt Sweets collab stages 9 times!
+62	Schließe alle „Unh. Legenden“-Level der Stufe 3 ab,. um diese Mission abzuschließen
+63	Schließe alle 9 Behemothjagd-Level ab!
+9440	Clear Hatsune Miku collab stages 9 times!
+9441	Clear Hatsune Miku collab stages 9 times!
+9442	Clear Hatsune Miku collab stages 9 times!
+9467	Schließe die 50. Ebene des Himmlischen Turms ab. (Diese Belohnung kann nur einmal abgeholt werden.)
+9468	Clear stages from "Metal Slug Collab"
+9469	Clear stages from "Metal Slug Collab"
+9470	Clear stages from "Metal Slug Collab"
+9471	(90 Mio. DL) Schließe alle Eventmissionen ab. und verdiene 1 Platinsplitter!
+9472	(90 Mio. DL) Schicke Gamatoto auf 17 erfolgr. Expedition!
+9473	(90 Mio. DL) Schicke Gamatoto auf 17 erfolgr. Expeditionen!
+9474	(90 Mio. DL) Schicke Gamatoto auf 17 erfolgr. Expeditionen!
+9475	(90 Mio. DL) Schließe 9x Fröhl. Geschenk f. 90 Mio. DLs ab!
+9476	(90 Mio. DL) Schließe 9x Fröhl. Geschenk f. 90 Mio. DLs ab!
+9477	(90 Mio. DL) Schließe 9x Fröhl. Geschenk f. 90 Mio. DLs ab!
+9478	(90 Mio. DL) Schließe 9 Level von The Battle Cats ab
+9479	(90 Mio. DL) Schließe 9 Level von The Battle Cats ab
+9483	Clear Tower of Saviors collab stages 9 times!
+9484	Clear Tower of Saviors collab stages 9 times!
+9485	Clear Tower of Saviors collab stages 9 times!
+9486	(88,88M DL). Schließe das Level „Mysteriöses Paket“ ab!
+9487	(88,88M DL) Verbessere Müllkatze auf St. 10. Muss während des 88,88M-DL-Events geschehen
+9488	(88,88M DL) Verbessere Müllkatze auf St. 20. Während des 88,88M-DL-Events abschließen
+9489	Clear 9 Rurouni Kenshin collab stages
+9490	Clear 9 Rurouni Kenshin collab stages
+9491	Clear 9 Rurouni Kenshin collab stages
+9492	Verdiene 1 Uraltes Ei: N205 aus den "Juni-Braut des Teufels"-Kapseln!
+9493	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 1 Level 3 ab
+9494	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 1 Level 5 ab
+9495	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 2 Level 3 ab
+9496	[Anderwelt-Kolosseum] Limitierte Eventmission. Schließe Anderwelt-Kolosseum Stufe 2 Level 5 ab
+9497	[Teil 1: 10 Jahre Erinnerungen] Sammle 0 Jubiläumseinheiten
+9498	[10.-Jubiläum-Parade] Schließe alle Missionen von. Teil 1–5 ab und hol dir ein Legenden-Ticket
+9499	[Invasionslevel] Limitierte Eventmission. Schließe „Hof der Pein“ ab
+9500	[Invasionslevel] Limitierte Eventmission. Schließe „Erster Botengang“ ab
+9501	[Invasionslevel] Limitierte Eventmission. Schließe „Wanwans Ruhm“ ab
+9502	[Invasionslevel] Limitierte Eventmission. Schließe „Z-Clionel erhebt sich!“ ab
+9503	[Invasionslevel] Limitierte Eventmission. Schließe „Die alte Königin“ ab
+9504	[Invasionslevel] Limitierte Eventmission. Schließe „Papuus Paradies“ ab
+9505	[Invasionslevel] Schließe „Die Schildkröte und das Baby“ ab. Schließe alle Level und EX-Level ab
+9506	[Invasionslevel] Schließe „Der Prinz und die Wiedergängerin“ ab. Schließe alle Level und EX-Level ab
+9507	[Invasionslevel] Schließe „Die Königin und der Heilige“ ab. Schließe alle Level und EX-Level ab
+9508	Sommerhausaufgaben ④: Schließe den perfekten Aufsatz ab. Schließe 9 Sommerferienkatzen-Level ab
+9509	Sommerhausaufgaben Teil 2 ⑤: Insektenbeobachtung. Gewinne Sommernacht, auf dem Weg nach Hause Lv. 1 mit Kabutokatze
+9510	Sommerhausaufgaben Teil 2 ⑥: Insektenbeobachtung. Gewinne Sommernacht, auf dem Weg nach Hause Lv. 2 mit Kuwagatakatze
+9511	Sommerhausaufgaben Teil 2 ⑦: Insektenbeobachtung. Gewinne Sommernacht, auf dem Weg nach Hause Lv. 3 mit Uraltes Ei: N202
+9518	[Schiffbruch-Flucht Teil 1] ①: Wildnisüberleben
+9519	[Schiffbruch-Flucht Teil 1] ②: Wildnisüberleben
+9520	[Schiffbruch-Flucht Teil 1] ③: Wildnisüberleben
+9524	[Schiffbruch-Flucht Teil 2] ①: Kampf gegen die Natur. Schließe Lv. 1 von „Überleben im Dschungel“ ab!
+9525	[Schiffbruch-Flucht Teil 2] ②: Kampf gegen die Natur. Schließe Lv. 4 von „Überleben im Dschungel“ ab!
+65	[Kontoverbindung]. In Optionen→Konto ändern/Konto mit Gerät verbinden
+9526	Schließe Level aus „Halloween-Event“
+9527	Schließe Level aus „Halloween-Event“
+9528	Schließe Level aus „Halloween-Event“
+9529	Verdiene einen Sondergegenstand aus. den Halloween-Party-Eventkapseln!
+9530	Schließe alle Halloween-Eventmissionen ab. und verdiene 1 seltenes Ticket!
+9531	[Schnellstart-Kampagne] Schließe ein beliebiges
+9532	[Schnellstart-Kampagne] Schließe ein beliebiges
+9533	[Schnellstart-Kampagne] Schließe ein beliebiges
+9534	[Schnellstart-Kampagne] Schließe das Japan-Level. in Katzenimperium ab und verdiene ein seltenes Ticket!
+9535	[Schnellstart-Kampagne] Schließe das Japan-Level. in Katzenimperium ab und verdiene eine Führung!
+66	Besiege die Lebensform im Uralten Waldlabyrinth. St.1 Level 6
+67	[Katzenkrall-Meisterschaften] Schließe 9 Level der Katzenkrall-Meisterschaften Rang 1 ab
+68	[Katzenkrall-Meisterschaften] Erhalte 4 legendäre Katzen. Mach Fortschritte
+69	[Katzenkrall-Meisterschaften] Erhalte 4 legendäre Katzen. Mach Fortschritte
+70	[Katzenkrall-Meisterschaften] Erhalte 4 legendäre Katzen. Mach Fortschritte
+71	[Katzenkrall-Meisterschaften] Erhalte 4 legendäre Katzen. Mach Fortschritte
+9536	Schließe alle Straße-zur-Einigkeit-Missionen ab. und verdiene ein Platinticket!
+9537	Schließe die Straße-zur-Einigkeit-Missionen ① - ④ ab. und verdiene die Leutnantkatze!
+9538	Straße zur Einigkeit ①:. Schließe alle 5 Straße-zur-Einigkeit-Level ab!
+9539	Straße zur Einigkeit ②: Schließe „Hundeaufstand Teil 1“. 0-mal ab! ※Erscheint nach dem Abschließen von SzE 1
+9540	Straße zur Einigkeit ③:. Schließe „Zum Angriff! Kommandant Nyandam“ Level 1 ab!
+9541	Straße zur Einigkeit ④: Sprich 3 Tage lang mit der Katze. in der Katzenbasis und rekrutiere neue Armeemitglieder!
+9542	Straße zur Einigkeit ⑤:. Schließe „Straße zur Einigkeit 2“, Level 1 ab!
+9543	Straße zur Einigkeit ⑥:. Schließe „Letzte Schlacht! Der rebellische König“ Level 1 ab!
+72	Straße-zur-Einigkeit-Mission. Schließe während des Events Katzenimperium Kapitel 1 ab
+9544	SzE: Schließe das „Unheimliche Legenden“-„Primitive Seelen“. mit Katzen im Wert von ¢1.000 oder mehr ab!
+9545	SzE-Mission: Schließe das „Unheimliche Legenden“-Level. „Rettungsschaufel“ mit 9 oder mehr Standardkatzen ab!
+9546	SzE-Mission: Schließe das „Unheimliche Legenden“-Level „Das. Antlitz Gottes“ mit 8 oder mehr superseltenen Katzen ab!
+9547	SzE-Mission: Schließe das „Unheimliche Legenden“-Level. „Unsterblicher Zenit“ mit Katzen für ¢2.000 oder weniger ab!
+9548	SzE-Mission: Schließe das „Unheimliche Legenden“-Level. „Wiederbelebung des Ursprungs“ mit 5 oder weniger Katzen ab!
+9549	SzE-Mission: Schließe das Null-Legendäre Level. „Eine ganz neue Welt“ mit 9 oder mehr seltenen Katzen ab!
+73	Doppeltippe auf einen Schatz, um zum Level zu springen. Öffne die Schatzliste in der Katzenbasis
+74	Tippe auf ein Feindsymbol, um zur Feindefibel zu springen. Tippe auf ein abgeschl. Level, um Feinde anzuzeigen
+75	Nutze Katzamin A, um Level-Versuche wiederherzustellen. Setze Katzamin A in einem Legendenlevel ein
+76	Tippe 2x auf Katzencomputer, um ein Level zu überspringen. Abgeschl. Level in der Auswahl können übersprungen werden
+77	Tippe & halte die „Teamauswahl“-Schaltfl. in der Levelausw. Tippe & halte, um die siegreiche Formation erneut zu wählen
+78	Springe vom Entwicklungsbildschirm aus zu einem Level. Tippe nach dem Zugriff auf ein Entwicklungsmaterial
+79	Prüfe den Referenzcode. Tippe oben links auf den. Startbildschirm oder unten links im Optionen-Menü
+9550	Clear 9 Madoka Magica collab stages
+9551	Clear 9 Madoka Magica collab stages
+9552	Clear 9 Madoka Magica collab stages
+9553	Witch Culling Mission 4: Defeat Stagebuilder Witch. Appears in the stage Walpurgisnacht
+9554	Schließe Ebene 30 des Goldenen Turms ab. (Diese Belohnung kann nur einmal abgeholt werden.)
+9555	Schließe Ebene 40 des Goldenen Turms ab. (Diese Belohnung kann nur einmal abgeholt werden.)
+9556	Schließe Ebene 50 des Goldenen Turms ab. (Diese Belohnung kann nur einmal abgeholt werden.)
+9557	(100 Mio. DL) Schließe alle Eventmissionen ab. und verdiene einen Platinsplitter!
+9558	(100 Mio. DL) Schicke Gamatoto auf 17 erf. Expeditionen!
+9559	(100 Mio. DL) Schicke Gamatoto auf 17 erf. Expeditionen!
+9560	(100 Mio. DL) Schicke Gamatoto auf 17 erf. Expeditionen!
+9561	(100 Mio. DL) Schließe Haufenweise Geschenke
+9562	(100 Mio. DL) Schließe Haufenweise Geschenke
+9563	(100 Mio. DL) Schließe Haufenweise Geschenke
+9564	(100 Mio. DL) Schließe 0 Level von The Battle Cats ab
+9565	(100 Mio. DL) Schließe 0 Level von The Battle Cats ab
+9566	Schließe 9 Level von Saison 1: Schulzeit ab. Jedes
+9567	Schließe 9 Level von Saison 2: Herzklopfen-Fest ab. Jedes
+9568	Schließe 9 Level von Saison 3: Schulausflug ab. Jedes
+9569	Schließe 9 Level von Saison 4: Abschlussfeier ab. Jedes
+9570	Schließe 9 Level von Wochenende: Geständnis ab. Jedes
+80	Schalte Talente für die Heilige Walkürenkatze frei. Schließe dazu die Prüfung der Walkürenkatze ab
+81	Schalte Talente für die Erwachte Bahamut-Katze frei. Schließe dazu die Prüfung der Erwachten Bahamut-Katze ab
+9571	Clear 9 Baki Hanma collab stages
+9572	Clear 9 Baki Hanma collab stages
+9573	Clear 9 Baki Hanma collab stages
+9574	Clear 9 Baki Hanma collab stages
+9575	Clear 9 Baki Hanma collab stages
+9582	[Premium-Jahrmarkt] Schließe alle Missionen ab. und verdiene ein seltenes Ticket!
+9583	[Premium-Jahrmarkt] Ziehe 0-mal Katzenkapseln
+9584	[Premium-Jahrmarkt] Schließe 17 Gamatoto-Expeditionen ab
+9585	[Premium-Jahrmarkt] Schließe 17 Gamatoto-Expeditionen ab
+9586	[Premium-Jahrmarkt] Schließe 9 Eventlevel ab
+9587	[Premium-Jahrmarkt] Hol dir einen Gegenstand aus. Premium-Jahrmarkt-Eventkapseln!
+9594	Clear any "Sonic the Hedgehog" collab
+9595	Clear any "Sonic the Hedgehog" collab
+9596	Clear any "Sonic the Hedgehog" collab
+9597	Clear any "Sonic the Hedgehog" collab
+9598	Complete 17 Gamatoto Expeditions during
+9599	Willkommen-zurück-Mission ①:
+9600	Willkommen-zurück-Mission ②:
+9601	Willkommen-zurück-Mission ③:
+9602	Willkommen-zurück-Mission ④:
+9603	Willkommen-zurück-Mission ⑤:
+9604	Willkommen-zurück-Mission ⑥:
+9605	Willkommen-zurück-Mission ⑦:
+9606	Willkommen-zurück-Mission ⑧:
+9607	[Schiffbruch-Flucht Teil 1] ④: Wildnisüberleben
+9608	[Schiffbruch-Flucht Teil 1] ①: Nahrungssuche
+9609	[Schiffbruch-Flucht Teil 1] ②: Nahrungssuche
+9610	[Schiffbruch-Flucht Teil 1] ③: Nahrungssuche
+9611	[Schiffbruch-Flucht Teil 1] ④: Nahrungssuche. Sammle 3 Sardinen aus den Eventkapseln!
+9612	[Schiffbruch-Flucht Teil 1] ⑤: Nahrungssuche. Sammle 3 Tintenfische aus den Eventkapseln!
+9613	[Schiffbruch-Flucht Teil 1] ⑥: Nahrungssuche. Sammle 3 Tasmanische Riesenkrabben aus den Eventkapseln!
+9614	[Schiffbruch-Flucht Teil 1] ⑦: Nahrungssuche. Sammle 3 Uralte Eier: N206 aus den Eventkapseln!
+9615	[Schiffbruch-Flucht Teil 1] ①: Sturmwinde
+9616	[Schiffbruch-Flucht Teil 1] ②: Sturmwinde
+9617	[Schiffbruch-Flucht Teil 1] ③: Sturmwinde
+9618	[Schiffbruch-Flucht Teil 1] ④: Sturmwinde
+9619	[Schiffbruch-Flucht Teil 3]: Schatteninsel. Schließe Level 1 von „Inselverteidiger!“ ab

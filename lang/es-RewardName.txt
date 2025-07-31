@@ -204,6 +204,10 @@
 213|S213|I438	Carta de amor
 214|S214|I439	Cesta legendaria
 215|S215|I440	Legendary Dumbbell
+216|S216|I441	Trampa legendaria
+217|I442	C. tesoro bronce
+218|I443	Cofre tesoro plata
+219|I444	Cofre tesoro oro
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -270,6 +274,7 @@
 1067	Huevo Antiguo N006
 1068	Sórcates Mente Brillante
 1069	Gato Jugador de Bolos
+1070	Gatilargo Asesino
 1071	Sabio de la lógica Newton
 1100	Gato de Bronce
 1101	Gato Espacial
@@ -328,6 +333,7 @@
 1183	Madhead
 1184	Kenshin Cat
 1185	Maestro de la Vida Dr. Nova
+1186	Sonic Cat
 10010	Gato Cachas
 10011	Gato Bailarín
 10012	Hiper Sr.
@@ -539,6 +545,7 @@
 15271	Crazed Catgirl Yuki
 15272	Amaterasu Todopoderosa
 15273	Ganesha Todopoderoso
+15276	Miss Miau Estival
 15277	Neneko Veraniega
 15283	Gato Bailongo Precioso
 15284	Pai-Pai DX
@@ -672,6 +679,7 @@
 15692	Lord Luza Simio
 15693	Acorazado Oni Kozuchimaru
 15698	Gato Jefe
+15699	Jack, el rayo
 15701	Gato Sicario
 15707	Jabogato
 15708	Gato Barril
@@ -942,3 +950,33 @@
 30232	Matacolosos B
 30233	Matacolosos A
 30234	Matacolosos S
+30235	Recarga de la gatorreta D
+30236	Recarga de la gatorreta C
+30237	Recarga de la gatorreta B
+30238	Recarga de la gatorreta A
+30239	Recarga de la gatorreta S
+30240	Resistencia a toxicidad D
+30241	Resistencia a toxicidad C
+30242	Resistencia a toxicidad B
+30243	Resistencia a toxicidad A
+30244	Resistencia a toxicidad S
+30245	Evasión (Todo) D
+30246	Evasión (Todo) C
+30247	Evasión (Todo) B
+30248	Evasión (Todo) A
+30249	Evasión (Todo) S
+30250	Resistencia a ralentización D
+30251	Resistencia a ralentización C
+30252	Resistencia a ralentización B
+30253	Resistencia a ralentización A
+30254	Resistencia a ralentización S
+30255	Resistencia a maldición D
+30256	Resistencia a maldición C
+30257	Resistencia a maldición B
+30258	Resistencia a maldición A
+30259	Resistencia a maldición S
+30260	Impulso en Leyendas Inquietantes D
+30261	Impulso en Leyendas Inquietantes C
+30262	Impulso en Leyendas Inquietantes B
+30263	Impulso en Leyendas Inquietantes A
+30264	Impulso en Leyendas Inquietantes S

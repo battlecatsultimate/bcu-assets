@@ -728,3 +728,14 @@
 727	Katsumi Orochi
 728	Jack Hammer
 729	Sage of Logic Newton
+730	Sonic
+731	Tails
+732	Knuckles
+733	Shadow
+734
+735	Ange Lackey
+736	South Seas Doge
+737	South Seas Otter
+738	Parasol Base
+739	Freeze Dummy
+740

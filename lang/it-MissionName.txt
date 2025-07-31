@@ -85,10 +85,6 @@
 9048	Ottieni più di 6000 punti nel. livello speciale "Carie in agguato"!
 9049	Potenzia Gattuovo a livello 10! (Deve evolvere prima che finisca l'evento!)
 9050	Upgrade Shinji & Cat to Level 10! (You must evolve the Cat before the event ends!)
-9051	Clear "Decisive Battle!" 9 times!
-9052	Clear "Decisive Battle!" 9 times!
-9053	Clear "Decisive Battle!" 9 times!
-9054	Clear a stage using a catcombo with "Eva Angel Killer" effect! Use Shinji and ??? together (after Empire Ch. 1)
 9055	Destroy the 4th Angel. Encounter this enemy at "State of Emergency"
 9056	Destroy the 6th Angel. Encounter this enemy at "Futagoyama Fortress"
 9057	Destroy the 9th Angel. Encounter this enemy at "Asuka On Board (Easy)"
@@ -849,7 +845,7 @@
 9509	Compiti per le vacanze Parte 2 ⑤: Osservare gli insetti. Supera il liv. 1 di Sera estiva, verso casa con Gatto Kabuto
 9510	Compiti per le vacanze Parte 2 ⑥: Osservare gli insetti. Supera il liv. 2 di Sera estiva, verso casa con Gatto Kuwagata
 9511	Compiti per le vacanze Parte 2 ⑦: Osservare gli insetti. Vinci il liv. 3 di Sera estiva, verso casa con Uovo antico N202
-9518	[Fuga del naufrago Parte 1] ①:  Sopravvivenza selvaggia. Supera 9 livelli Naufrago!
+9518	[Fuga del naufrago Parte 1] ①: Sopravvivenza selvaggia. Supera 9 livelli Naufrago!
 9519	[Fuga del naufrago Parte 1] ②: Sopravvivenza selvaggia. Supera 9 livelli Naufrago!
 9520	[Fuga del naufrago Parte 1] ③: Sopravvivenza selvaggia. Supera 9 livelli Naufrago!
 9524	[Fuga del naufrago Parte 2] ①: Battaglia contro la natura. Supera il livello 1 di Vita nella giungla!
@@ -860,11 +856,11 @@
 9528	Supera i livelli dell'evento Halloween. 9 volte! (Qualsiasi livello evento)
 9529	Acquista un oggetto in evidenza dalle. capsule dell'evento Festa di Halloween!
 9530	Supera tutte le missioni dell'evento Halloween. e ottieni 1 biglietto raro!
-9531	[Campagna principianti] Supera 9 livelli di Impero dei Gatti. (Qualsiasi livello di Impero dei Gatti)
-9532	[Campagna principianti] Supera 9 livelli di Impero dei Gatti. (Qualsiasi livello di Impero dei Gatti)
-9533	[Campagna principianti] Supera 9 livelli di Impero dei Gatti. (Qualsiasi livello di Impero dei Gatti)
-9534	[Campagna principianti] Supera Giappone di Impero. dei Gatti e ottieni 1 biglietto raro per capsule rare!
-9535	[Campagna principianti] Supera Giappone di Impero dei. Gatti e ottieni leadership per recuperare energia felina!
+9531	[Campagna Vantaggio iniziale] Supera qualsiasi livello. di Impero dei Gatti 9 volte!
+9532	[Campagna Vantaggio iniziale] Supera qualsiasi livello. di Impero dei Gatti 9 volte!
+9533	[Campagna Vantaggio iniziale] Supera qualsiasi livello. di Impero dei Gatti 9 volte!
+9534	[Campagna Vantaggio iniziale] Supera il livello Giappone. di Impero dei Gatti e ottieni un biglietto raro!
+9535	[Campagna Vantaggio iniziale] Supera il livello Giappone. di Impero dei Gatti e ottieni una Leadership!
 66	Sconfiggi la forma di vita nel Labirinto antica foresta. Liv.1 fase 6
 67	[Campionati miciodiali] Supera 9 livelli di Campionati miciodiali Grado 1. Accedi al Dojo miciodiale per affrontare questo livello
 68	[Campionati miciodiali] Ottieni 4 Gatti leggendari. Vai avanti nei livelli. leggendari per raccoglierli nei livelli speciali
@@ -927,3 +923,29 @@
 9585	[Fiera premium] Completa 17 Spedizioni di Gamatoto. Esplora un'area qualsiasi per completare
 9586	[Fiera premium] Supera 9 livelli evento. Ogni liv. Fiera premium vale per il conteggio tot
 9587	[Fiera premium] Ottieni un oggetto dalle. capsule evento della Fiera premium!
+9594	Clear any "Sonic the Hedgehog" collab
+9595	Clear any "Sonic the Hedgehog" collab
+9596	Clear any "Sonic the Hedgehog" collab
+9597	Clear any "Sonic the Hedgehog" collab
+9598	Complete 17 Gamatoto Expeditions during
+9599	Missione di bentornato①:. Supera qualsiasi livello 0 volte
+9600	Missione di bentornato②:. Supera qualsiasi livello 0 volte
+9601	Missione di bentornato③:. Supera qualsiasi livello 0 volte
+9602	Missione di bentornato④:. Supera qualsiasi livello 0 volte
+9603	Missione di bentornato⑤:. Supera qualsiasi livello 0 volte
+9604	Missione di bentornato⑥:. Supera qualsiasi livello 0 volte
+9605	Missione di bentornato⑦:. Supera qualsiasi livello 0 volte
+9606	Missione di bentornato⑧:. Supera qualsiasi livello 0 volte
+9607	[Fuga del naufrago Parte 1] ④: Sopravvivenza selvaggia. Supera 9 livelli Naufrago!
+9608	[Fuga del naufrago Parte 1] ①: Alla ricerca di cibo. Supera 9 livelli collaborazione di Survive! Mola Mola!
+9609	[Fuga del naufrago Parte 1] ②: Alla ricerca di cibo. Supera 9 livelli collaborazione di Survive! Mola Mola!
+9610	[Fuga del naufrago Parte 1] ③: Alla ricerca di cibo. Supera 9 livelli collaborazione di Survive! Mola Mola!
+9611	[Fuga del naufrago Parte 1] ④: Alla ricerca di cibo. Raccogli 3 Sardine dalle capsule evento!
+9612	[Fuga del naufrago Parte 1] ⑤: Alla ricerca di cibo. Raccogli 3 Calamari dalle capsule evento!
+9613	[Fuga del naufrago Parte 1] ⑥: Alla ricerca di cibo. Raccogli 3 Granchi giganti della Tasmania dalle capsule ev.!
+9614	[Fuga del naufrago Parte 1] ⑦: Alla ricerca di cibo. Ottieni 3 Uovo antico N206 dalle capsule evento!
+9615	[Fuga del naufrago Parte 1]⑤: Bufera. Supera il livello Previsioni senza precedenti 9 volte
+9616	[Fuga del naufrago Parte 1]②: Bufera. Supera il livello Previsioni senza precedenti 9 volte
+9617	[Fuga del naufrago Parte 1]③: Bufera. Supera il livello Previsioni senza precedenti 9 volte
+9618	[Fuga del naufrago Parte 1]④: Bufera. Supera il livello Previsioni senza precedenti 9 volte
+9619	[Fuga del naufrago Parte 3]: Isola delle ombre. Supera il livello 1 Difensori dell'isola!

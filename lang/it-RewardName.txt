@@ -204,6 +204,10 @@
 213|S213|I438	Lettera d'amore
 214|S214|I439	Cestino leggend.
 215|S215|I440	Legendary Dumbbell
+216|S216|I441	Trappola leggend.
+217|I442	Forziere (bronzo)
+218|I443	Forziere (argento)
+219|I444	Forziere (oro)
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -270,6 +274,7 @@
 1067	Uovo antico N006
 1068	Maestro della mente Sokrate
 1069	Gatto bowling
+1070	Gatto alto assassino
 1071	Maestro di logica Newton
 1100	Busto di Gatto
 1101	Gatto spaziale
@@ -328,6 +333,7 @@
 1183	Madhead
 1184	Kenshin Cat
 1185	Maestro di vita dott. Nova
+1186	Sonic Cat
 10010	Gatto fusto
 10011	Gatto ballerino
 10012	Iper Mr.
@@ -539,6 +545,7 @@
 15271	Crazed Catgirl Yuki
 15272	Amaterasu Onnipotente
 15273	Ganesh Onnipotente
+15276	Gatta Bella estate
 15277	Neneko di inizio estate
 15283	Splendido Gatto ballerino
 15284	Pai-Pai DX
@@ -673,6 +680,7 @@
 15692	Luza lo scimmione
 15693	Oni Battlepod Kozuchimaru
 15698	Gatto capo
+15699	Jack fulmine
 15701	Gatto killer
 15707	Gatto sapone
 15708	Gatto barile
@@ -943,3 +951,33 @@
 30232	Ammazzagiganti B
 30233	Ammazzagiganti A
 30234	Ammazzagiganti S
+30235	Ricarica cannone felino D
+30236	Ricarica cannone felino C
+30237	Ricarica cannone felino B
+30238	Ricarica cannone felino A
+30239	Ricarica cannone felino S
+30240	Resistente a veleno D
+30241	Resistente a veleno C
+30242	Resistente a veleno B
+30243	Resistente a veleno A
+30244	Resistente a veleno S
+30245	Schiva attacchi (tutti) D
+30246	Schiva attacchi (tutti) C
+30247	Schiva attacchi (tutti) B
+30248	Schiva attacchi (tutti) A
+30249	Schiva attacchi (tutti) S
+30250	Resistente a rallentamento D
+30251	Resistente a rallentamento C
+30252	Resistente a rallentamento B
+30253	Resistente a rallentamento A
+30254	Resistente a rallentamento S
+30255	Resistente a maledizioni D
+30256	Resistente a maledizioni C
+30257	Resistente a maledizioni B
+30258	Resistente a maledizioni A
+30259	Resistente a maledizioni S
+30260	Potenzia leggende misteriose D
+30261	Potenzia leggende misteriose C
+30262	Potenzia leggende misteriose B
+30263	Potenzia leggende misteriose A
+30264	Potenzia leggende misteriose S

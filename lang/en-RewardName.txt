@@ -204,6 +204,10 @@
 213|S213|I438	Love Letter
 214|S214|I439	Legendary Basket
 215|S215|I440	Legendary Dumbbell
+216|S216|I441	Legend Trap
+217|I442	Treasure Chest (Bronze)
+218|I443	Treasure Chest (Silver)
+219|I444	Treasure Chest (Gold)
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -270,6 +274,7 @@
 1067	Ancient Egg: N006
 1068	Master of Mind Soractes
 1069	Bowler Cat
+1070	Killer Gross Cat
 1071	Master of Logic Newton
 1100	Bronze Cat
 1101	Space Cat
@@ -328,6 +333,7 @@
 1183	Madhead
 1184	Kenshin Cat
 1185	Master of Life Dr. Nova
+1186	Sonic Cat
 10010	Beefcake Cat
 10011	Dancer Cat
 10012	Hyper Mr.
@@ -539,6 +545,7 @@
 15271	Crazed Catgirl Yuki
 15272	Almighty Amaterasu
 15273	Almighty Ganesha
+15276	Brightsummer Cat
 15277	Early Summer Neneko
 15283	Gorgeous Groovin' Cat
 15284	Pai-Pai DX
@@ -673,6 +680,7 @@
 15692	Ape Lord Luza
 15693	Oni Battlepod Kozuchimaru
 15698	Cat Chief
+15699	Lightning Jack
 15701	Hitman Cat
 15707	Soap Cat
 15708	Barrel Cat
@@ -943,3 +951,33 @@
 30232	Colossus Slayer B
 30233	Colossus Slayer A
 30234	Colossus Slayer S
+30235	Cat Cannon Charge D
+30236	Cat Cannon Charge C
+30237	Cat Cannon Charge B
+30238	Cat Cannon Charge A
+30239	Cat Cannon Charge S
+30240	Resist Toxic D
+30241	Resist Toxic C
+30242	Resist Toxic B
+30243	Resist Toxic A
+30244	Resist Toxic S
+30245	Dodge Attack (All) D
+30246	Dodge Attack (All) C
+30247	Dodge Attack (All) B
+30248	Dodge Attack (All) A
+30249	Dodge Attack (All) S
+30250	Resist Slow D
+30251	Resist Slow C
+30252	Resist Slow B
+30253	Resist Slow A
+30254	Resist Slow S
+30255	Resist Curse D
+30256	Resist Curse C
+30257	Resist Curse B
+30258	Resist Curse A
+30259	Resist Curse S
+30260	Boost Uncanny Legends D
+30261	Boost Uncanny Legends C
+30262	Boost Uncanny Legends B
+30263	Boost Uncanny Legends A
+30264	Boost Uncanny Legends S

@@ -241,3 +241,4 @@
 3057	パッカーン
 3058	Verkehrswidrigkeit
 3059	Stahltennis
+3060	Kriegsbegräbnis

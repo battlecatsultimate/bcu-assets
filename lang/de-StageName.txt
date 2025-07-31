@@ -1759,6 +1759,8 @@
 001-404		Rhapsodie der Versuchung
 001-404-000	Im Takt des Teufels (Gnadenlos)
 001-404-001	Pleitegeier-Symphonie (Gnadenlos)
+001-405		Unerwartete Vorhersagen
+001-405-000	Starkregen
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2416,7 +2418,24 @@
 002-223-007	The Master of Chinese Kenpo
 002-223-008	The Warrior With Demon Blood
 002-223-009	Champion of the Underground Arena
-
+002-224		Green Hill Zone
+002-224-000	Gotta Keep Movin'
+002-224-001	Promises Kept
+002-224-002	Helping Those In Need
+002-224-003	Always Sharp, Always Cool
+002-224-004	The Fastest Hedgehog Alive
+002-225		Chemical Plant Zone
+002-225-000	A.K.A. Miles Prower
+002-225-001	Kindly Two-Tails
+002-225-002	Sonic's Dependable Pal
+002-225-003	Brain-and-Mech Support
+002-225-004	High-Flying Partner
+002-226		Sky Sanctuary
+002-226-000	Leave Treasure Hunting to Me!
+002-226-001	Punching, Soaring, Climbing!
+002-226-002	Sonic's Battle Buddy
+002-226-003	Hot-Headed Echidna
+002-226-004	Master Emerald's Protector
 003			
 003-000		EoC Ch.1 Zombie
 003-000-000	Korea
@@ -3425,6 +3444,14 @@
 004-073-001	Sommererinnerungen, Seite 3
 004-073-002	Herbsterinnerungen, Seite 3
 004-073-003	Wintererinnerungen, Seite 3
+004-074		Green Hill Zone
+004-074-000	Bonus Stage
+004-074-001	Bonus Stage
+004-074-002	Bonus Stage
+004-075		Unerwartete Vorhersagen
+004-075-000	Gewitterwarnung
+004-076		Unerwartete Vorhersagen
+004-076-000	Taifunwarnung
 
 006			Katzenkrallendojo
 006-000		Halle der Initianden
@@ -3730,6 +3757,12 @@
 011-030-000	Talentturnier
 011-031		Arena of Honor
 011-031-000	The Strongest Things
+011-032		Arena of Honor
+011-032-000	Sonic Battle!
+011-033		Arena des Schicksals
+011-033-000	Kampftalent
+011-034		Machtarena
+011-034-000	Schockgefrostet
 
 012			Challenge Mode
 012-000		Herausforderungskampf
@@ -5225,6 +5258,38 @@
 024-070-007	Halsabschneidereien
 024-070-008	Hausputz
 024-070-009	Schlussverkaufsgeschenk
+024-071		Sommerferienkatzen-Schiffbrüchige
+024-071-000	Erwachen am Strand
+024-071-001	Drohende Wolken
+024-071-002	Grasbeobachter
+024-071-003	Zittern in einer Höhle
+024-071-004	Unbemerktes SOS
+024-071-005	Überlebenswille
+024-071-006	Leben in der Inselstadt
+024-071-007	Freie Versammlung
+024-071-008	Fliegenpilz-Bauchschmerzen
+024-071-009	Natürliche Freunde
+024-071-010	Träume von Flucht
+024-071-011	Ziel erfasst
+024-071-012	Erfolgreiche Jagd!
+024-071-013	Hunger ist die Würze des Lebens
+024-071-014	Hoffnung am Horizont
+024-071-015	Einführung in den Floßbau
+024-071-016	Insel-Erinnerungen
+024-071-017	Endlich Abreise
+024-071-018	Sturmgeschlucktes Floß
+024-071-019	Wiedererwachen am Strand
+024-072		Inselverteidiger!
+024-072-000	Kultureller Austausch Lv. 1
+024-072-001	Kultureller Austausch Lv. 2
+024-072-002	Kultureller Austausch Lv. 3
+024-072-003	Kultureller Austausch Lv. 4
+024-072-004	Kultureller Austausch Lv. 5
+024-072-005	Kultureller Austausch Lv. 6
+024-072-006	Kultureller Austausch Lv. 7
+024-072-007	Kultureller Austausch Lv. 8
+024-072-008	Kultureller Austausch Lv. 9
+024-072-009	Kultureller Austausch St. MAX
 
 025			Enigma Stages
 025-000		Atium-Felder
@@ -5349,6 +5414,12 @@
 025-068-000	Gipfelschrein (Gnadenlos)
 025-069		Reliktgrenze
 025-069-000	Grenzschrein (Gnadenlos)
+025-070		Karte des Wiedersehens
+025-070-000	Rot, weiß und monströs
+025-071		Karte des Wiedersehens
+025-071-000	Licht, Schatten und Luft
+025-072		Karte des Wiedersehens
+025-072-000	Leben vom Mond
 
 027			Collab Baron Stages
 027-000		Messier's Assault
@@ -5680,6 +5751,27 @@
 027-022-007	The Strongest Student Lv. 8
 027-022-008	The Strongest Student Lv. 9
 027-022-009	The Strongest Student Lv. MAX
+027-023		Radical Highway
+027-023-000	Chaos Control Lv.1
+027-023-001	Chaos Control Lv.2
+027-023-002	Chaos Control Lv.3
+027-023-003	Chaos Control Lv.4
+027-023-004	Chaos Control Lv.5
+027-023-005	Chaos Control Lv.6
+027-023-006	Chaos Control Lv.7
+027-023-007	Chaos Control Lv.8
+027-023-008	Chaos Control Lv.9
+027-023-009	Chaos Control Lv.10
+027-023-010	Chaos Control Lv.11
+027-023-011	Chaos Control Lv.12
+027-023-012	Chaos Control Lv.13
+027-023-013	Chaos Control Lv.14
+027-023-014	Chaos Control Lv.15
+027-023-015	Chaos Control Lv.16
+027-023-016	Chaos Control Lv.17
+027-023-017	Chaos Control Lv.18
+027-023-018	Chaos Control Lv.19
+027-023-019	Lv. MAX Ultimate Power!
 
 031			Behemoth Culling Stages
 031-000		Versteckter Gapra-Wald
@@ -5998,6 +6090,20 @@
 034-019-003	Geteiltes Licht
 034-019-004	Keine Hypothese
 034-019-005	Unermessliche Kraft
+034-020		Eine Reise der Momente
+034-020-000	Turm des Zeitbeherrschers
+034-020-001	22:22 Uhrwacht
+034-020-002	Tick-Tack-Terrassen
+034-020-003	Effiziente Zeitverschwendung
+034-020-004	Uhrenverlies
+034-020-005	Das Aufeinandertreffen von Groß und Klein
+034-021		Patisserie-Park
+034-021-000	Knuspriger Kekscanyon
+034-021-001	Cremige Schnee-Ebene
+034-021-002	Tiramisuklippen
+034-021-003	Tapiocahügel
+034-021-004	Nata-de-Coco-Pfad
+034-021-005	Fudge-Mausoleum
 
 036			Colosseum Stages
 036-000		Anderwelt-Kolosseum
@@ -6078,6 +6184,12 @@
 036-012-002	Runde 3
 036-012-003	Runde 4
 036-012-004	Runde 5
+036-013		Anderwelt-Kolosseum
+036-013-000	Runde 1
+036-013-001	Runde 2
+036-013-002	Runde 3
+036-013-003	Runde 4
+036-013-004	Runde 5
 
 037			Katzenkrall-Meisterschaften
 037-000		Katzenkrall-Meisterschaften Rang 1

@@ -273,7 +273,7 @@
 272	Splendide Ganesh	Glorieux Ganesh	Ganesh Tout-puissant	
 273	Pom-pom Chatte	Serveuse féline	Soba féline	
 274	Kalisa tropicale	Kalisa tropicale, type χ		
-275	Le Lapin blanc d'été	Le Chat noir d'été		
+275	Le Lapin blanc d'été	Le Chat noir d'été	Chatte de l’été ardent	
 276	Neneko estivale	Neneko océane	Neneko début d'été	
 277	Funghi	Funghi 'n' Cat		
 278	Tanky	Tanky 'n' Cat		
@@ -304,7 +304,7 @@
 303	Chat stand	Chat livreur	Chat de la cantine	
 304	Puissante chatapulte	Engin de siège CHAT-6	Béhémoth CHAT-8	Gigapulte CAT-10
 305	Puissant cuiraté	Navire Cœur de lion	Navire Griffe de tigre	Navire Griffe d'ours
-306	Puissant ronronbardier	Forteresse aérienne NEK-0	Citadelle aérienne NEK-02	
+306	Puissant ronronbardier	Forteresse aérienne NEK-0	Citadelle aérienne NEK-02	Empereur des nuages NEK-03
 307	Chatte perchiste	Chatte sauteuse	Chatte au foyer	
 308	Chardinier	Bûcharon	Charticulteur	
 309				
@@ -696,7 +696,7 @@
 695	Chat tank tueur	Chat tank tueur ultime		
 696	Chat délégué de classe	Chat délégué furtif		
 697	Œuf ancien N107	Œuf violet N107	Chef Chat	
-698	Jack fulgurant	Jack sanguinaire		
+698	Jack fulgurant	Jack sanguinaire	Jack la foudre	
 699	Satoru le lapinou	Satoru le champion lapinou		
 700	Œuf ancien N005	Œuf mystique N005	Chat tueur à gages	
 701				
@@ -783,7 +783,7 @@
 782				
 783	Koneko	Koneko Superstar		
 784				
-785				
+785	Grand Chat tueur	Vrai Grand Chat tueur		
 786	L’incroyable Homme-Chat	Homme-Chat illusionniste		
 787	Lunacia, nymphe de l’au-delà	Lunacia, fille de la Mort		
 788				
@@ -801,11 +801,14 @@
 800				
 801	Maître de la Logique Newton	Maître de la Logique Miaou-ton		
 802	802-1			
-803				
-804				
-805				
-806				
-807				
-808				
-809				
+803	Sonic	Sonic & Cat		
+804	Tails	Tails & Cat		
+805	Knuckles	Knuckles & Cat		
+806	Shadow	Shadow & Cat		
+807	Sonic Cat	Sonic Cat CC		
+808	Tails Cat	Tails Cat CC		
+809	Shadow Cat	Shadow Cat CC		
 810				
+811	Skanda victorieux	Skanda zéta		
+812	812-1			
+813	Crabe géant de Tasmanie	Crabe géant de Tasmanie CC		

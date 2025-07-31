@@ -81,10 +81,6 @@
 9048	Gana más de 6000 puntos. en la fase especial Caries Incipiente
 9049	Mejora al Gatohuevo al nivel 10. (Debes hacerlo antes de que acabe el evento)
 9050	Upgrade Shinji & Cat to Level 10! (You must evolve the Cat before the event ends!)
-9051	Clear "Decisive Battle!" 9 times!
-9052	Clear "Decisive Battle!" 9 times!
-9053	Clear "Decisive Battle!" 9 times!
-9054	Clear a stage using a catcombo with "Eva Angel Killer" effect! Use Shinji and ??? together (after Empire Ch. 1)
 9055	Destroy the 4th Angel. Encounter this enemy at "State of Emergency"
 9056	Destroy the 6th Angel. Encounter this enemy at "Futagoyama Fortress"
 9057	Destroy the 9th Angel. Encounter this enemy at "Asuka On Board (Easy)"
@@ -844,9 +840,9 @@
 9509	Deberes de Verano (Parte 2) ①: Observa los insectos. Supera NDV, de Rumbo a Casa (fase 1) con Gato Kabuto
 9510	Deberes de Verano (Parte 2) ①: Observa los insectos. Supera NDV, de Rumbo a Casa (fase 2) con Gato Kuwagata
 9511	Deberes de Verano (Parte 2) ①: Observa los insectos. Supera NDV, de Rumbo a Casa (fase 3) con Huevo Antiguo N202
-9518	[Huida del Náufrago Pt. 1] ①: Supervivencia Salvaje. ¡Supera 9 fases de Náufrago!
-9519	[Huida del Náufrago Pt. 1] ②: Supervivencia Salvaje. ¡Supera 9 fases de Náufrago!
-9520	[Huida del Náufrago Pt. 1] ③: Supervivencia Salvaje. ¡Supera 9 fases de Náufrago!
+9518	[Huida del Náufrago Pt. 1] ①: Supervivencia Salvaje
+9519	[Huida del Náufrago Pt. 1] ②: Supervivencia Salvaje
+9520	[Huida del Náufrago Pt. 1] ③: Supervivencia Salvaje
 9524	[Huida del Náufrago Pt. 2] ①: Batalla Contra la Naturaleza. ¡Supera la fase 1 de Supervivencia en la Jungla!
 9525	[Huida del Náufrago Pt. 2] ②: Batalla Contra la Naturaleza. ¡Supera la fase 4 de Supervivencia en la Jungla!
 65	[Vincular cuenta]. Ve a Ajustes→Cambiar cuenta/dispositivo para vincularla
@@ -855,11 +851,11 @@
 9528	¡Supera las fases del «Evento de Halloween». 9 veces! (Cualquier fase de evento)
 9529	Consigue un objeto destacado de las. cápsulas del Evento de la Fiesta Halloween
 9530	¡Supera todas las misiones del Evento de Halloween. y gana 1 tique raro!
-9531	[Campaña para principiantes] Supera 9 fases del Imperio. de los Gatos (cualquier fase)
-9532	[Campaña para principiantes] Supera 9 fases del Imperio. de los Gatos (cualquier fase)
-9533	[Campaña para principiantes] Supera 9 fases del Imperio. de los Gatos (cualquier fase)
-9534	[Campaña para principiantes] Supera la fase del Imperio de los. Gatos Japón y consigue un tique raro para las bolas raras
-9535	[Campaña para principiantes] Supera la fase del Imperio de los. Gatos Japón y consigue liderazgo para recuperar energía
+9531	[Campaña de Impulso Inicial] ¡Supera cualquier fase
+9532	[Campaña de Impulso Inicial] ¡Supera cualquier fase
+9533	[Campaña de Impulso Inicial] ¡Supera cualquier fase
+9534	[Campaña de Impulso Inicial] ¡Supera la fase de Japón. del Imperio de los Gatos y gana un tique raro!
+9535	[Campaña de Impulso Inicial] ¡Supera la fase de Japón. del Imperio de los Gatos y gana un liderazgo!
 66	Vence al ser vivo en el Laberinto del Bosque Viejo. Nivel 1 Fase 6
 67	[Campeonatos Afilagarras] Supera 9 fases de Campeonatos Afilagarras de rango 1
 68	[Campeonatos Afilagarras] Consigue 4 Gatos Legendarios. Avanza en Etapas
@@ -922,3 +918,29 @@
 9585	[Superferia] Completa 17 expediciones de Gamatoto
 9586	[Superferia] Supera 9 fases de evento
 9587	[Superferia] ¡Consigue un objeto. de las bolas de evento de la Superferia!
+9594	Clear any "Sonic the Hedgehog" collab
+9595	Clear any "Sonic the Hedgehog" collab
+9596	Clear any "Sonic the Hedgehog" collab
+9597	Clear any "Sonic the Hedgehog" collab
+9598	Complete 17 Gamatoto Expeditions during
+9599	Misión De Regreso ①:
+9600	Misión De Regreso ②:
+9601	Misión De Regreso ③:
+9602	Misión De Regreso ④:
+9603	Misión De Regreso ⑤:
+9604	Misión De Regreso ⑥:
+9605	Misión De Regreso ⑦:
+9606	Misión De Regreso ⑧:
+9607	[Huida del Náufrago Pt. 1] ④: Supervivencia Salvaje
+9608	[Huida del Náufrago Pt. 1] ①: El hambre acecha
+9609	[Huida del Náufrago Pt. 1] ②: El hambre acecha
+9610	[Huida del Náufrago Pt. 1] ③: El hambre acecha
+9611	[Huida del Náufrago Pt. 1] ④: El hambre acecha. ¡Obtén 3 sardinas en las bolas de evento!
+9612	[Huida del Náufrago Pt. 1] ⑤: El hambre acecha. ¡Obtén 3 calamares en las bolas de evento!
+9613	[Huida del Náufrago Pt. 1] ⑥: El hambre acecha. ¡Obtén 3 Megacangrejos de Tasmania en las bolas de evento!
+9614	[Huida del Náufrago Pt. 1] ⑦: El hambre acecha. ¡Obtén 3 Huevos Antiguos: N206 en las bolas de evento!
+9615	[Huida del Náufrago Pt. 1] ①: Vendaval
+9616	[Huida del Náufrago Pt. 1] ②: Vendaval
+9617	[Huida del Náufrago Pt. 1] ③: Vendaval
+9618	[Huida del Náufrago Pt. 1] ④: Vendaval
+9619	[Huida del Náufrago Pt. 3]: Isla Sombría. Supera la fase 1 de ¡Guardianes de la Isla!

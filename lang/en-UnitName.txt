@@ -273,7 +273,7 @@
 272	Splendid Ganesha	Exalted Ganesha	Almighty Ganesha	
 273	Cheerleader Cat	Waitress Cat	Soba Cat	
 274	Tropical Kalisa	Tropical Kalisa, type X		
-275	Midsummer Rabbit	Midsummer Cat		
+275	Midsummer Rabbit	Midsummer Cat	Brightsummer Cat	
 276	Sunny Neneko	Seaside Neneko	Early Summer Neneko	
 277	Funghi	Funghi 'n' Cat		
 278	Tanky	Tanky 'n' Cat		
@@ -304,7 +304,7 @@
 303	Food Stall Cat	Delivery Cat	Cafeteria Cat	
 304	Mighty Kat-A-Pult	CAT-6 Siege Engine	CAT-8 Behemoth	CAT-10 Gigapult
 305	Mighty Drednot	B.C.S. Lionheart	B.C.S. Tigerclaw	B.C.S. Beartooth
-306	Mighty Bomburr	NEK-0 Sky Fortress	NEK-02 Air Citadel	
+306	Mighty Bomburr	NEK-0 Sky Fortress	NEK-02 Air Citadel	NEK-03 Cloud Emperor
 307	Vaulter Cat	Polevaulter Cat 	Housewife Cat 	
 308	Gardener Cat	Lumbercat	Weedwacker Cat	
 309				
@@ -696,7 +696,7 @@
 695	Killer Tank Cat	True Killer Tank Cat		
 696	Class Rep Cat	Stealth Class Rep Cat		
 697	Ancient Egg: N107	Violet Egg: N107	Cat Chief	
-698	Thunder Jack	Bloody Jack		
+698	Thunder Jack	Bloody Jack	Lightning Jack	
 699	Rabbit Satoru	Rabbit Champion Satoru		
 700	Ancient Egg: N005	Mystic Egg: N005	Hitman Cat	
 701				
@@ -783,7 +783,7 @@
 782				
 783	Koneko	Superstar Koneko		
 784				
-785				
+785	Killer Gross Cat	True Killer Gross Cat		
 786	The Amazing Catman	Illusionist Catman		
 787	Netherworld Nymph Lunacia	Death's Daughter Lunacia		
 788				
@@ -801,11 +801,14 @@
 800				
 801	Master of Logic Newton	Master of Logic Mewton		
 802	802-1			
-803				
-804				
-805				
-806				
-807				
-808				
-809				
+803	Sonic	Sonic & Cat		
+804	Tails	Tails & Cat		
+805	Knuckles	Knuckles & Cat		
+806	Shadow	Shadow & Cat		
+807	Sonic Cat	Sonic Cat CC		
+808	Tails Cat	Tails Cat CC		
+809	Shadow Cat	Shadow Cat CC		
 810				
+811	Victorious Skanda	Zeta Skanda		
+812	812-1			
+813	Tasmanian Giant Crab	Tasmanian Giant Crab CC		
