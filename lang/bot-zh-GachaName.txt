@@ -43,8 +43,8 @@
 -1015	無敵4精選
 -1016	卓越4精選
 -1017	春節新年轉蛋
--1018	100M Download Anniversary Gacha
--1019	100M Download Selection Gacha
+-1018	Download Anniversary Gacha
+-1019	Download Selection Gacha
 -1020	過季轉蛋
 -2000	公主踢騎士	//Princess Punt 176
 -2001	消滅都市	//Annihilation City 180
@@ -94,6 +94,8 @@ E37	心動時分貓咪學園
 E38	貓咪購物節
 E39	範馬刃牙活動轉蛋
 E40	貓咪的暑假 野外求生
+E41	Summer Break Capsules Paradise Edition
+E42 Download Celebration Capsules
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -987,9 +989,18 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 994	-106	811
 995	-104	811
 996	-107	811
-997	-111
+997	-119
 998	-2006	814, 815
 999	-2026	815
-1001	-111
+1001	-119
 1002	-2008
 1003	-2032
+1004	-10	817
+1005	-10	817
+1006	-105	817
+1007	-106	817
+1008	-104	817
+1009	-107	817
+1010	-118	820
+1011	-1018
+1012	-1011	820

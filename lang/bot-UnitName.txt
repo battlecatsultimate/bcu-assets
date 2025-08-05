@@ -813,3 +813,10 @@
 813	Tasmanian Giant Crab	Tasmanian Giant Crab CC
 814	Mass Production Eva	Mass Production Eva Cat
 815	Moonlight Boy Kaworu	Messenger of Moonset Kaworu
+816	Kaworu Spirit
+817	Element of Tree Komori	Element of Trees Komomririn
+818	Komori Spirit
+819	Carpenter Cat	Rapper Cat
+820	Seaside Pegasa	Seaside Pegasa ν
+821	Seaside Pegasa Spirit
+822	Consultant Cat	Business Partner Cat
