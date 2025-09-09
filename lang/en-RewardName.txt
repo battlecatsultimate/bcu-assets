@@ -189,6 +189,7 @@
 195|S195|I424	Holy Water
 196|S196|I425	Legend Nets
 197	1000000 XP
+198|S198|I426	Small Medal
 199|S199|I427	Legendary Charm
 200|S200|I428	Love Letter
 201|S201|I11	XP
@@ -208,6 +209,12 @@
 217|I442	Treasure Chest (Bronze)
 218|I443	Treasure Chest (Silver)
 219|I444	Treasure Chest (Gold)
+220|S220|I445	Legendary Banknote
+222	2000 XP
+223	25000 XP
+224|I447	Treasure Chest (Bronze)
+225|I448	Treasure Chest (Silver)
+226|I449	Treasure Chest (Gold)
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -276,6 +283,7 @@
 1069	Bowler Cat
 1070	Killer Gross Cat
 1071	Master of Logic Newton
+1072	Carpenter Cat
 1100	Bronze Cat
 1101	Space Cat
 1102	Rope Jump Cat
@@ -387,7 +395,6 @@
 10210	Li'l Mohawk Cat
 10211	Li'l Eraser Cat
 10212	Li'l Dark Cat
-10214	Value Meal Cat
 10246	Li'l Macho Legs Cat
 10247	Li'l Lion Cat
 10248	Li'l Flying Cat
@@ -525,6 +532,7 @@
 15200	Seafarer Cat
 15204	Kachiyama Assault Brigade
 15213	The Grey Fox
+15214	Value Meal Cat
 15223	GOLDEN HUGE HERMIT CC
 15224	GOLDEN JUPITER CC
 15225	GOLDEN MORDEN CC
@@ -685,6 +693,7 @@
 15707	Soap Cat
 15708	Barrel Cat
 15714	Clown Cat
+15716	Hyper Battalion Convoys
 15717	Cop Cat
 15718	Farmboy Cat
 15721	Fallen Bear Cat
@@ -981,3 +990,28 @@
 30262	Boost Uncanny Legends B
 30263	Boost Uncanny Legends A
 30264	Boost Uncanny Legends S
+30265	Single Surge Counter D
+30266	Single Surge Counter C
+30267	Single Surge Counter B
+30268	Single Surge Counter A
+30269	Single Surge Counter S
+30270	Berserker D
+30271	Berserker C
+30272	Berserker B
+30273	Berserker A
+30274	Berserker S
+30275	Shortened Cooldown D
+30276	Shortened Cooldown C
+30277	Shortened Cooldown B
+30278	Shortened Cooldown A
+30279	Shortened Cooldown S
+30280	Resist Freeze D
+30281	Resist Freeze C
+30282	Resist Freeze B
+30283	Resist Freeze A
+30284	Resist Freeze S
+30285	Resist Weaken D
+30286	Resist Weaken C
+30287	Resist Weaken B
+30288	Resist Weaken A
+30289	Resist Weaken S

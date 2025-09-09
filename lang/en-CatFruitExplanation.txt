@@ -211,7 +211,7 @@
 210	<br><br>
 211	<br><br>
 212	True Form Evolution gains the<br>ability to knockback and weaken<br>Red and Alien enemies!	Ultra Form Evolution gains<br>improved traits, widened attack<br>range, and Sage Slayer!
-213	True Form evolution gains larger<br><br>
+213	True form evolution increases attack range!<br><br>
 214	<br><br>
 215	<br><br>
 216	<br><br>
@@ -713,7 +713,7 @@
 712	<br><br>
 713	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 714	<br><br>
-715	<br><br>
+715	True Form gains improved defense and<br>movement speed! Also gains Knockback vs.<br>Red/Metal/Zombies, 100% chance of Waves.
 716	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 717	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 718	<br><br>
@@ -812,3 +812,12 @@
 811	<br><br>
 812	<br><br>
 813	<br><br>
+814	<br><br>
+815	<br><br>
+816	<br><br>
+817	<br><br>
+818	<br><br>
+819	<br><br>
+820	<br><br>
+821	<br><br>
+822	<br><br>

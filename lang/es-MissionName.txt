@@ -798,6 +798,26 @@
 9440	Clear Hatsune Miku collab stages 9 times!
 9441	Clear Hatsune Miku collab stages 9 times!
 9442	Clear Hatsune Miku collab stages 9 times!
+9443	【P1: Gatos Aventureros】① ¡Bolas de evento con un aventurero! Pista: tu aventura arranca con este gato especial
+9444	【P1: Gatos Aventureros】② ¡Bolas de evento con un aventurero! Pista: gato del 10.º aniv. que medita en una roca
+9445	【P1: Gatos Aventureros】③ ¡Bolas de evento con un aventurero! Pista: gato del 9.º aniv. que simboliza un pastón
+9446	【P1: Gatos Aventureros】④ ¡Bolas de evento con un aventurero! Pista: gato que representa la buena suerte
+9447	【P1: Gatos Aventureros】⑤ ¡Bolas de evento con un aventurero! Pista: gato del 5.º aniv. que sirve como medalla
+9449	【Parte 1: Gatos Aventureros】Supera cualquier
+9450	【Parte 1: Gatos Aventureros】Supera cualquier
+9451	【Parte 1: Gatos Aventureros】Supera cualquier
+9452	【Parte 2: Duelo en las Cuevas】Supera cualquier
+9455	【Parte 3: Boda minina】Habla con el gato. de la base gatuna durante 3 días
+9456	【Parte 4: Pedido del pueblo】① ¡Supera cierta fase del Imp. de los Gatos (cap. 1) y trae algún Balut de Manila!
+9457	【Parte 4: Pedido del pueblo】② ¡Supera cierta fase del Imp. de los Gatos (cap. 1) y haz una foto del Taj Mahal!
+9458	【Parte 4: Pedido del pueblo】③ ¡Supera cierta fase del Imp. de los Gatos (cap. 1) y escapa de los toros en Pamplona!
+9459	【Parte 4: Pedido del pueblo】④ ¡Supera cierta fase del Imp. de los Gatos (cap. 1) y disfruta del reggae en la playa!
+9460	【Parte 4: Pedido del pueblo】⑤ ¡Supera cierta fase del Imp. de los Gatos (cap. 1) y admira las pirámides aztecas!
+9461	【Parte 4: Pedido del pueblo】
+9462	【Parte 5: Batalla en el Castillo del Chucho】. Supera la fase ¡Aparece el Rey Mímico!
+9465	【11.º aniversario】¡Supera las misiones de Parte 1:. Última parte y llévate un tique de platino!
+64	Misión del 11.º aniversario. Supera Imperio de los Gatos (cap. 1) durante el evento
+9466	【¡Batalla final del Rey Chucho!】. Supera esta fase y revela el secreto del 11.º aniversario
 9467	Supera el piso 50 de la Torre Celestial. (Este premio solo se puede recoger una vez)
 9468	Clear stages from "Metal Slug Collab"
 9469	Clear stages from "Metal Slug Collab"
@@ -843,6 +863,9 @@
 9518	[Huida del Náufrago Pt. 1] ①: Supervivencia Salvaje
 9519	[Huida del Náufrago Pt. 1] ②: Supervivencia Salvaje
 9520	[Huida del Náufrago Pt. 1] ③: Supervivencia Salvaje
+9521	Evasión en la isla ① Añade a Calamar a tu ejército. y supera la fase 1 de Survive! Mola Mola!
+9522	Evasión en la isla ② Añade a Sardina a tu ejército. y supera la fase 3 de 300 Million Dead Molas
+9523	Evasión en la isla ③ Añade Huevo Antiguo N206 a tu ejército
 9524	[Huida del Náufrago Pt. 2] ①: Batalla Contra la Naturaleza. ¡Supera la fase 1 de Supervivencia en la Jungla!
 9525	[Huida del Náufrago Pt. 2] ②: Batalla Contra la Naturaleza. ¡Supera la fase 4 de Supervivencia en la Jungla!
 65	[Vincular cuenta]. Ve a Ajustes→Cambiar cuenta/dispositivo para vincularla
@@ -944,3 +967,10 @@
 9617	[Huida del Náufrago Pt. 1] ③: Vendaval
 9618	[Huida del Náufrago Pt. 1] ④: Vendaval
 9619	[Huida del Náufrago Pt. 3]: Isla Sombría. Supera la fase 1 de ¡Guardianes de la Isla!
+9620	Magnates del Resort Parte 1 - Paraíso ①: Supera
+9621	Magnates del Resort Parte 1 - Paraíso ②: Supera
+9622	Magnates del Resort Parte 1 - Paraíso ③: Supera
+9623	Magnates del Resort Parte 1 - Contratos ①:. ¡Consigue al Gato Asesor en las bolas de evento!
+9624	Magnates del Resort Parte 1 - Contratos ②:. ¡Consigue 3 Gatos Asesores en las bolas de evento!
+9626	Magnates del Resort Parte 2 - Famosos:. Supera la fase 1 de Paraíso de Resorts
+9627	Magnates del Resort Parte 3 - Plenitud Felina:

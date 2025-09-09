@@ -120,3 +120,4 @@
 119	Clear Hunt for the Xenobeast
 120	Clear Underground Labyrinth B100F
 121	Unlock Master of Logic Newton
+122	Clear Jumbo Invasion.

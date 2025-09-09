@@ -1635,6 +1635,27 @@
 001-359-000	Staffetta 400m: Inizio veloce
 001-359-001	Staffetta 800m: Inizio veloce
 001-359-002	Staffetta 1600m: Inizio veloce
+001-360		Parte 2: Scontro nella caverna della giara
+001-360-000	CLANG!!!
+001-360-001	PATAPUM!!!
+001-360-002	BANG!!!
+001-360-003	DENG!!!
+001-360-004	CRASH!!!
+001-361		Parte 5: Battaglia al castello dei Cani
+001-361-000	Appare un mimo del re!
+001-361-001	Attacco felino totale!
+001-361-002	Agile schivata del mimo!
+001-361-003	Ghigno malizioso del mimo
+001-361-004	Il Gatto esita...
+001-361-005	Scherno del mimo
+001-361-006	Il Gatto tenta la fuga!
+001-361-007	Il mimo diventa più potente
+001-361-008	I Gatti restano uniti
+001-361-009	Colpo super critico!
+001-362		Parte finale: Battaglia finale! Re Cane!
+001-362-000	Ambizione del Re Cane
+001-363		Regalo di compleanno!
+001-363-000	11 anni di divertimento!
 001-364		Notte 3: Riconsegna natalizia
 001-364-000	Regalo rosso e viola
 001-364-001	Regalo blu e verde
@@ -1658,6 +1679,12 @@
 001-367-003	Spese di spedizione costose
 001-368		Festeggiamenti 90M Regali a fiumi!
 001-368-000	90M Festeggiamo!
+001-369		Calamità nel Regno dei Cani
+001-369-000	Calamità incombente
+001-369-001	Annuvolamento cupo
+001-369-002	Città decadente
+001-369-003	Era del caos
+001-369-004	I Gatti alleati
 001-371		Pack misterioso
 001-371-000	Mittente anonimo
 001-372		Weekend Luna di miele n. 1
@@ -1763,6 +1790,23 @@
 001-404-001	Sinfonia della bancarotta (Spietato)
 001-405		Previsioni senza precedenti
 001-405-000	Pioggia torrenziale
+001-406		Invasione colossale
+001-406-000	Santo acquatico I (Letale)
+001-406-001	Santo acquatico II (Spietato)
+001-406-002	Santo acquatico III (Spietato)
+001-406-003	Santo acquatico estremo (Brutale)
+001-407		Resort stravagante
+001-407-000	Yacht monoposto
+001-407-001	Consumatore accanito
+001-407-002	Albergo personalizzato
+001-407-003	VIP di fama
+001-407-004	Panorama inestimabile
+001-408		Sauna del paradiso
+001-408-000	Detox desiderato
+001-408-001	Battesimo oleoso
+001-408-002	Botte di vihta
+001-408-003	Rito della sauna
+001-408-004	Si parte
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3401,6 +3445,12 @@
 004-062		Staffetta di River City
 004-062-000	Staffetta 400m: Scatto finale
 004-062-001	Staffetta 800m: Scatto finale
+004-063		Parte 2: Scontro nella caverna della giara
+004-063-000	Vittoria!
+004-063-001	Vittoria!
+004-063-002	Vittoria!
+004-063-003	Vittoria!
+004-063-004	Vittoria!
 004-062-002	Staffetta 1600m: Scatto finale
 004-064		Gigahaniwan colpisce!
 004-064-000	Culla selvaggia (Letale)
@@ -3751,6 +3801,8 @@
 011-022-000	Prova della fenice
 011-023		Arena dell'onore
 011-023-000	La gioia dei 9 anni
+011-025		Arena dell'onore
+011-025-000	Brindiamo all’11° ann.
 011-026		Arena della potenza
 011-026-000	Raduno dei ranger
 011-027		Arena of Honor
@@ -3767,6 +3819,8 @@
 011-033-000	Talento per combattere
 011-034		Arena della potenza
 011-034-000	Immobilità dalla paura
+011-035		Arena del destino
+011-035-000	Talento per combattere
 
 012			Challenge Mode
 012-000		Battaglia sfida
@@ -5170,6 +5224,27 @@
 024-061-017	Tre Presagi Liv. 18
 024-061-018	Tre Presagi Liv. 19
 024-061-019	Tre Presagi Liv. MAX
+024-062		Parte 1: Gatti avventurieri
+024-062-000	Partenza mattutina
+024-062-001	Gatti in ufficio
+024-062-002	Non c'è nessuno?
+024-062-003	I Cani sbucano fuori!
+024-062-004	Una danza esoterica
+024-062-005	A corto di erbe
+024-062-006	Colpo felino critico!
+024-062-007	Occhiataccia dolorante
+024-062-008	Notte in bianco
+024-062-009	Una città distrutta
+024-062-010	È una trappola!
+024-062-011	Bastone della guarigione
+024-062-012	Equipaggiamento maledetto
+024-062-013	Il tuo Gatto si sta evolvendo...!
+024-062-014	Classi multiple
+024-062-015	Spada nella roccia
+024-062-016	Scorciatoia stretta
+024-062-017	Il re burattino
+024-062-018	Notte prima della battaglia
+024-062-019	Impossibile trovare i dati di salvataggio
 024-063		Un felicissimo anno nuovo!
 024-063-000	Anno del drago Liv. 1
 024-063-001	Anno del drago Liv. 2
@@ -5218,6 +5293,17 @@
 024-065-017	Scavo Liv. 18
 024-065-018	Scavo Liv. 19
 024-065-019	Scavo Liv. MAX
+024-066		Ombre sul Regno dei Cani
+024-066-000	Una nuova avventura
+024-066-001	Addio al villaggio
+024-066-002	Vecchio che blocca la strada
+024-066-003	Verso il castello dei Cani
+024-066-004	Un'ignobile presenza
+024-066-005	Nuvole imminenti
+024-066-006	Ombre predestinate
+024-066-007	Paesani svampiti
+024-066-008	Aura malvagia
+024-066-009	Re manipolato
 024-067		Naufragio dei Gatti estivi
 024-067-000	Risveglio sulla spiaggia
 024-067-001	Brividi nella grotta
@@ -5294,6 +5380,17 @@
 024-072-007	Scambio culturale liv. 8
 024-072-008	Scambio culturale liv. 9
 024-072-009	Scambio culturale Liv. MAX
+024-073		Gatti estivi: paradiso
+024-073-000	Progetti del resort
+024-073-001	Tutto per un sorriso
+024-073-002	Lascia fare agli esperti
+024-073-003	Punta alla fama
+024-073-004	Invito VIP
+024-073-005	Sorrisi e casseforti
+024-073-006	Segreti trapelati
+024-073-007	Record di recensioni negative
+024-073-008	Sogni instabili
+024-073-009	Riparti da zero
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -6108,6 +6205,13 @@
 034-021-003	Colline Tapioca
 034-021-004	La via della Nata de Coco
 034-021-005	Mausoleo caramellato
+034-022		Tomba reale al contrario
+034-022-000	Mummia paffuta
+034-022-001	Tormento celestiale
+034-022-002	Inferno della disciplina
+034-022-003	Spiriti vivaci
+034-022-004	Sacerdote malvagio
+034-022-005	Andata e ritorno in paradiso
 
 036			Colosseum Stages
 036-000		Colosseo ultraterreno
@@ -6194,6 +6298,12 @@
 036-013-002	Round 3
 036-013-003	Round 4
 036-013-004	Round 5
+036-014		Colosseo ultraterreno
+036-014-000	Round 1
+036-014-001	Round 2
+036-014-002	Round 3
+036-014-003	Round 4
+036-014-004	Round 5
 
 037			Campionati miciodiali
 037-000		Campionati miciodiali Grado 1

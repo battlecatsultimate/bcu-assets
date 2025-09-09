@@ -738,6 +738,6 @@
 738	Parasol Base
 739	Freeze Dummy
 740	Mass Production Eva
-741	Whisking Meister
-742	Big Fireworks Maker
-743	Jumborg Jones
+741	Whiskingmeister
+742	Fireworks Gang
+743	Jumbo Jones

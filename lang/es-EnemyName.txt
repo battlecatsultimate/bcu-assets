@@ -184,7 +184,7 @@
 183	Ciberceronte
 184	Señorita Celebriche
 185	Profe H.
-186	Tartachucho de los 100 M
+186	
 187	
 188	
 189	MARS PEOPLE
@@ -623,7 +623,7 @@
 622	
 623	
 624	Gallus Nublados
-625	Tartachucho 10º Aniv.
+625	
 626	
 627	Magamojoe Superancestral
 628	Luza Supersimio
@@ -667,10 +667,10 @@
 666	Gato Isleño Malvado
 667	Gato Dragón Rey Malvado
 668	Miautante Malvado
-669	
-670	
-671	
-672	
+669	Base Tinaja
+670	Rey Mímico
+671	Rey Chucho
+672	Tartachucho del 11.º aniversario
 673	
 674	Uril Esotérico
 675	SOL DAE ROKKER
@@ -682,8 +682,8 @@
 681	
 682	Dóber Malvado
 683	Gigahaniwan
-684	
-685	
+684	Calamidad Misteriosa
+685	Rey Chucho Endemoniado
 686	Voluptuous Peony - Daji
 687	Madhead
 688	Kenshin Himura
@@ -736,6 +736,9 @@
 735	Lacayo Angelical
 736	Chucho subtropical
 737	Nutria subtropical
-738	Pie de Sombrilla
-739	Maniquí helado
+738	
+739	
 740	
+741	Chamán Peludo
+742	Pandilleros Pirotécnicos
+743	Lunángel Colosal

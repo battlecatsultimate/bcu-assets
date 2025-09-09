@@ -713,7 +713,7 @@
 712	Kaoluga	Kaoluga Pasalan		
 713	Uraltes Ei: N203	Violettes Ei: N203	Clownkatze	
 714	Küstenerkunderin Kanna	Tiefseetaucherin Kanna		
-715	Mächtiges Sphinxkorps	Angriffsbataillon-Konvois		
+715	Mächtiges Sphinxkorps	Angriffsbataillon-Konvois	Hyper-Angriffsbataillon-Konvois	
 716	Uraltes Ei: N111	Mystisches Ei: N111	Polizistenkatze	
 717	Uraltes Ei: N110	Bernstein-Ei: N110	Bauernjungenkatze	
 718	Maiskatze	Kegelkatze		
@@ -724,7 +724,7 @@
 723	Lichtmutter Aset	Nefer Aset	Allmächtige Aset	
 724	Uraltes Ei: N112	Mystisches Ei: N112	Katzeneierkapsel	
 725	Ninjamädchen Tomoe	Gourmand-Ninjamädchen Tomoe		
-726				
+726	Medaillenkönig	Medaillenkaiser		
 727	SOL DAE ROKKER	SOL DAE ROKKER CC		
 728	Meister der Gedanken Soraktes	Meister der Gedanken Katzkrates		
 729				
@@ -808,7 +808,16 @@
 807	Sonic Cat	Sonic Cat CC		
 808	Tails Cat	Tails Cat CC		
 809	Shadow Cat	Shadow Cat CC		
-810				
+810	Agent Staal	Klingenmeister Staal		
 811	Siegreicher Skanda	Zeta-Skanda		
 812	812-1			
 813	Tasmanische Riesenkrabbe	Tasmanische Riesenkrabbe CC		
+814			
+815			
+816			
+817	Komori	Moririn		
+818				
+819	Tischlerkatze	Rapperkatze		
+820	Strand-Pegasa	Strand-Pegasa v		
+821				
+822	Berater-Katze	Geschäftspartnerkatze		

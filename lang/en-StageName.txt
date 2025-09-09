@@ -1635,6 +1635,27 @@
 001-359-000	400m Relay: Fast Start
 001-359-001	800m Relay: Fast Start
 001-359-002	1600m Relay: Fast Start
+001-360		Part 2: Clash in Jar Caves
+001-360-000	CLANG!!!
+001-360-001	CRACK!!!
+001-360-002	BANG!!!
+001-360-003	CLINK!!!
+001-360-004	CRASH!!!
+001-361		Part 5: Battle at Doge Castle
+001-361-000	King's Mimic Appears!
+001-361-001	Cat's All-Out Attack!
+001-361-002	Mimic's Nimble Dodge!
+001-361-003	Mimic's Sly Smirk
+001-361-004	Cat Hesitates...
+001-361-005	Mimic's Mockery
+001-361-006	Cat Attempts Escape!
+001-361-007	Mimic Gathers Power
+001-361-008	Cats Stand Together
+001-361-009	Super-Critical Hit!
+001-362		Final Battle: King Doge!
+001-362-000	King Doge's Ambition
+001-363		Birthday Present!
+001-363-000	11 Years of Fun!
 001-364		Night 3: Christmas Eve Redelivery
 001-364-000	Red-Purple Present
 001-364-001	Blue-Green Present
@@ -1658,6 +1679,12 @@
 001-367-003	Spendy Postage
 001-368		90M Celebration Gifts Galore!
 001-368-000	90 Million DL Celebration!
+001-369		Calamity in Doge Kingdom
+001-369-000	Impending Calamity
+001-369-001	Dark Clouds Rising
+001-369-002	Decaying Town
+001-369-003	Age of Havoc
+001-369-004	The Cats Allied
 001-371		Mystery Package
 001-371-000	Sender Unknown
 001-372		Weekend Honeymoon #1
@@ -1763,6 +1790,23 @@
 001-404-001	Symphony of Bankruptcy (Merciless)
 001-405		Unprecedented Forecasts
 001-405-000	Torrential Rain
+001-406		Jumbo Invasion
+001-406-000	Aqua Saint I (Deadly)
+001-406-001	Aqua Saint II (Merciless)
+001-406-002	Aqua Saint III (Merciless)
+001-406-003	Aqua Saint Climax (Brutal)
+001-407		Extravagant Resort Land
+001-407-000	Yacht for One
+001-407-001	Brand Consumer
+001-407-002	Mail-order Hotel
+001-407-003	Notorious VIP
+001-407-004	Priceless Scenery
+001-408		Sauna of Paradise
+001-408-000	Desire for Detox
+001-408-001	Oily Baptism
+001-408-002	Vihta Beating
+001-408-003	Aufguss Sauna
+001-408-004	Ready to Go
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3412,6 +3456,12 @@
 004-062-000	400m Relay: Anchor Leg
 004-062-001	800m Relay: Anchor Leg
 004-062-002	1600m Relay: Anchor Leg
+004-063		Part 2: Clash in Jar Caves
+004-063-000	Victory!
+004-063-001	Victory!
+004-063-002	Victory!
+004-063-003	Victory!
+004-063-004	Victory!
 004-064		Gigahaniwan Strikes!
 004-064-000	Cradle Wilderness (Deadly)
 004-064-001	Summit Wilderness (Merciless)
@@ -3761,6 +3811,8 @@
 011-022-000	Phoenix Trial
 011-023		Arena of Honor
 011-023-000	Feeling Fine at 9
+011-025		Arena of Honor
+011-025-000	Here's to Eleven
 011-026		Arena of Power
 011-026-000	Artillery Alley
 011-027		Arena of Honor
@@ -3777,6 +3829,8 @@
 011-033-000	Talent for Battle
 011-034		Arena of Power
 011-034-000	Freeze in Fright
+011-035		Arena of Destiny
+011-035-000	Talent for Battle
 
 012			Challenge Mode
 012-000		Challenge
@@ -5202,6 +5256,27 @@
 024-061-017	Three Omens Lv.18
 024-061-018	Three Omens Lv.19
 024-061-019	Three Omens Lv.MAX
+024-062		Part 1: Adventurer Cats
+024-062-000	Morning Departure
+024-062-001	Cats in the Bureau
+024-062-002	Totally Empty?
+024-062-003	Doges Leap Out!
+024-062-004	An Esoteric Dance
+024-062-005	All Out of Herbs
+024-062-006	Critical Cat Hit!
+024-062-007	Waking Side-eye
+024-062-008	Up All Night
+024-062-009	A Hometown Destroyed
+024-062-010	It's a Trap!
+024-062-011	Staff of Healing
+024-062-012	Cursed Equipment
+024-062-013	Your Cat is Evolving...!
+024-062-014	Multiclassing
+024-062-015	Sword in the Stone
+024-062-016	Narrow Shortcut
+024-062-017	The Puppet King
+024-062-018	Night Before Battle
+024-062-019	Save Data Not Found
 024-063		A Colossal New Year!
 024-063-000	Year of the Dragon Lv.1
 024-063-001	Year of the Dragon Lv.2
@@ -5250,6 +5325,17 @@
 024-065-017	Excavation Lv.18
 024-065-018	Excavation Lv.19
 024-065-019	Excavation Lv.MAX
+024-066		Shadows over Doge Kingdom
+024-066-000	A New Adventure
+024-066-001	Village Send-off
+024-066-002	Old Man Roadblock
+024-066-003	Off to Doge Castle
+024-066-004	A Vile Presence
+024-066-005	Looming Clouds
+024-066-006	Fated Shadows
+024-066-007	Mindless Villagers
+024-066-008	Wicked Aura
+024-066-009	Manipulated King
 024-067		Summer Break Cats Castaway
 024-067-000	Awaking on a Beach
 024-067-001	Shivering in a Cave
@@ -5326,6 +5412,17 @@
 024-072-007	Cultural Exchange Lv.8
 024-072-008	Cultural Exchange Lv.9
 024-072-009	Cultural Exchange Lv.MAX
+024-073		Summer Break Cats: Paradise
+024-073-000	Resort Blueprints
+024-073-001	All for Smiles
+024-073-002	Leave It to a Pro
+024-073-003	Strive for Popularity
+024-073-004	VIP Invitation
+024-073-005	Smiles and Safes
+024-073-006	Leaked Documents
+024-073-007	Bad Review Streak
+024-073-008	Unstable Dreams
+024-073-009	Start from Scratch
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -6140,6 +6237,13 @@
 034-021-003	Tapioca Hills
 034-021-004	Nata de Coco Way
 034-021-005	Fudge Mausoleum
+034-022		Reverse Royal Grave
+034-022-000	Portly Mummy
+034-022-001	Heavenly Harassment
+034-022-002	Compliance Hell
+034-022-003	Lively Spirits
+034-022-004	Wicked Clergyman
+034-022-005	Round-trip to Heaven
 
 036			Colosseum Stages
 036-000		Otherworld Colosseum
@@ -6226,6 +6330,12 @@
 036-013-002	Round 3
 036-013-003	Round 4
 036-013-004	Round 5
+036-014		Otherworld Colosseum
+036-014-000	Round 1
+036-014-001	Round 2
+036-014-002	Round 3
+036-014-003	Round 4
+036-014-004	Round 5
 
 037			Catclaw Championships
 037-000		Catclaw Championships Rank 1

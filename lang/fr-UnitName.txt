@@ -713,7 +713,7 @@
 712	Kaoluga	Kaoluga Pasalan		
 713	Œuf ancien N203	Œuf violet N203	Chat clown	
 714	Kanna l’exploratrice côtière	Kanna plongeuse sous-marine		
-715	Puissant corps sphinx	Convois offensifs		
+715	Puissant corps sphinx	Convois offensifs	Super convois offensifs	
 716	Œuf ancien N111	Œuf mystique N111	Chagent de police	
 717	Œuf ancien N110	Œuf ambré N110	Chagriculteur	
 718	Chat mélasse	Chat cône		
@@ -724,7 +724,7 @@
 723	Aset Mère-Lumière	Aset Nefer	Aset Toute-puissante	
 724	Œuf ancien N112	Œuf mystique N112	Nacelle-œuf féline	
 725	Tomoe kunoichi	Tomoe kunoichi gourmande		
-726				
+726	Roi des médailles	Empereur des Médailles		
 727	SOL DAE ROKKER	SOL DAE ROKKER CC		
 728	Soracte, mentor mental	Sochate, mentor mental		
 729				
@@ -808,7 +808,16 @@
 807	Sonic Cat	Sonic Cat CC		
 808	Tails Cat	Tails Cat CC		
 809	Shadow Cat	Shadow Cat CC		
-810				
+810	Agent Staal	Maître-Tranchant Staal		
 811	Skanda victorieux	Skanda zéta		
 812	812-1			
 813	Crabe géant de Tasmanie	Crabe géant de Tasmanie CC		
+814			
+815			
+816			
+817	Komori	Moririn		
+818				
+819	Chat charpentier	Chat rappeur		
+820	Pégasa océane	Pégasa océane v		
+821				
+822	Chat consultant	Chat associé		

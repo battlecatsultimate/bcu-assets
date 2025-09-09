@@ -242,3 +242,4 @@
 3058	Infraction routière
 3059	Tennis d’acier
 3060	Enterrement de guerre
+3061	Faim insatiable

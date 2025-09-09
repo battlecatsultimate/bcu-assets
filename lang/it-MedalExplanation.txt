@@ -120,3 +120,4 @@
 119	Supera Caccia alla Xenobestia
 120	Supera Labirinto sotterraneo B100F
 121	Sblocca Maestro di logica Newton
+122	Supera Invasione colossale.

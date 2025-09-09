@@ -1633,6 +1633,27 @@
 001-359-000	400-m-Staffel: Schnellstart
 001-359-001	800-m-Staffel: Schnellstart
 001-359-002	1600-m-Staffel: Schnellstart
+001-360		Teil 2: Kampf in der Glashöhle
+001-360-000	KLONK!!!
+001-360-001	KRACH!!!
+001-360-002	BÄMM!!!
+001-360-003	KLING!!!
+001-360-004	WUMMS!!!
+001-361		Teil 5: Schlacht beim Hundeschloss
+001-361-000	Mimik des Königs erscheint!
+001-361-001	Katzenangriff mit aller Kraft!
+001-361-002	Flinkes Ausweichen der Mimik!
+001-361-003	Verschlagenes Mimik-Grinsen
+001-361-004	Die Katze zögert...
+001-361-005	Mimik-Spott
+001-361-006	Die Katze versucht zu fliehen!
+001-361-007	Die Mimik sammelt Kraft
+001-361-008	Katzen halten zusammen
+001-361-009	Super-Haudrauf!
+001-362		Letzter Teil: Letzte Schlacht! Hundekönig!
+001-362-000	Der Ehrgeiz des Hundekönigs
+001-363		Geburtstagsgeschenk!
+001-363-000	11 Jahre Spaß!
 001-364		Nacht 3: Neulieferung am Weihnachtsabend
 001-364-000	Rot-Lilanes Geschenk
 001-364-001	Blau-Grünes Geschenk
@@ -1656,6 +1677,12 @@
 001-367-003	Teures Porto
 001-368		Wir feiern 90 Mio. Geschenke für alle!
 001-368-000	90 Mio.- Feier!
+001-369		Katastrophe im Hundekönigreich
+001-369-000	Bevorstehende Katastrophe
+001-369-001	Dunkle Wolken ziehen auf
+001-369-002	Verfallende Stadt
+001-369-003	Zeitalter der Zerstörung
+001-369-004	Die Katzen vereint
 001-371		Mysteriöses Paket
 001-371-000	Unbekannter Sender
 001-372		Flitterwochenende #1
@@ -1761,6 +1788,23 @@
 001-404-001	Pleitegeier-Symphonie (Gnadenlos)
 001-405		Unerwartete Vorhersagen
 001-405-000	Starkregen
+001-406		Jumbo-Invasion
+001-406-000	Wasserheiliger I (Tödlich)
+001-406-001	Wasserheiliger II (Gnadenlos)
+001-406-002	Wasserheiliger III (Gnadenlos)
+001-406-003	Wasserheiliger: Höhepunkt (Brutal)
+001-407		Extravagantes Resort
+001-407-000	Yacht für eine Person
+001-407-001	Markenkunde
+001-407-002	Versand-Hotel
+001-407-003	Berüchtigter VIP
+001-407-004	Unbezahlbare Aussicht
+001-408		Paradiesische Sauna
+001-408-000	Wunsch nach Detox
+001-408-001	Ölige Taufe
+001-408-002	Vihta-Atmung
+001-408-003	Aufguss-Sauna
+001-408-004	Bereit
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3398,6 +3442,12 @@
 004-062-000	400-m-Staffel: Letzter Abschnitt
 004-062-001	800-m-Staffel: Letzter Abschnitt
 004-062-002	1600-m-Staffel: Letzter Abschnitt
+004-063		Teil 2: Kampf in der Glashöhle
+004-063-000	Sieg!
+004-063-001	Sieg!
+004-063-002	Sieg!
+004-063-003	Sieg!
+004-063-004	Sieg!
 004-064		Gigahaniwan schlägt zu!
 004-064-000	Hortwildnis (Tödlich)
 004-064-001	Gipfelwildnis (Gnadenlos)
@@ -3747,6 +3797,8 @@
 011-022-000	Phönixprüfung
 011-023		Ehrenarena
 011-023-000	Freuen mit 9
+011-025		Ehrenarena
+011-025-000	Auf die 11
 011-026		Machtarena
 011-026-000	Artillerie-Allee
 011-027		Arena of Honor
@@ -3763,6 +3815,8 @@
 011-033-000	Kampftalent
 011-034		Machtarena
 011-034-000	Schockgefrostet
+011-035		Arena des Schicksals
+011-035-000	Kampftalent
 
 012			Challenge Mode
 012-000		Herausforderungskampf
@@ -5166,6 +5220,27 @@
 024-061-017	Drei Omen St. 18
 024-061-018	Drei Omen St. 19
 024-061-019	Drei Omen St. MAX
+024-062		Teil 1: Abenteurer-Katzen
+024-062-000	Morgendlicher Aufbruch
+024-062-001	Katzen im Büro
+024-062-002	Völlig leer?
+024-062-003	Hunde springen hervor!
+024-062-004	Ein esoterischer Tanz
+024-062-005	Keine Kräuter mehr
+024-062-006	Katzen-Haudrauf!
+024-062-007	Wandelnder Seitenblick
+024-062-008	Die Nacht durchwachen
+024-062-009	Zerstörte Heimatstadt
+024-062-010	Es ist eine Falle!
+024-062-011	Stab der Heilung
+024-062-012	Verfluchte Ausrüstung
+024-062-013	Deine Katze entwickelt sich...!
+024-062-014	Mehrklassig
+024-062-015	Schwert im Stein
+024-062-016	Enge Abkürzung
+024-062-017	Der Puppenkönig
+024-062-018	Nacht vor der Schlacht
+024-062-019	Speicherdaten nicht gefunden
 024-063		Das froheste neue Jahr!
 024-063-000	Jahr des Drachen, St. 1
 024-063-001	Jahr des Drachen, St. 2
@@ -5214,6 +5289,17 @@
 024-065-017	Ausgrabung St. 18
 024-065-018	Ausgrabung St. 19
 024-065-019	Ausgrabung St. MAX
+024-066		Schatten über dem Hunde-Königreich
+024-066-000	Ein neues Abenteuer
+024-066-001	Abschied des Dorfes
+024-066-002	Altherren-Straßensperre
+024-066-003	Auf zum Hundeschloss
+024-066-004	Eine böse Präsenz
+024-066-005	Dunkle Wolken
+024-066-006	Schicksalhafte Schatten
+024-066-007	Seelenlose Dorfbewohner
+024-066-008	Gemeine Aura
+024-066-009	Manipulierter König
 024-067		Naufragio dei Gatti estivi
 024-067-000	Erwachen am Strand
 024-067-001	Zittern in einer Höhle
@@ -5290,6 +5376,17 @@
 024-072-007	Kultureller Austausch Lv. 8
 024-072-008	Kultureller Austausch Lv. 9
 024-072-009	Kultureller Austausch St. MAX
+024-073		Sommerferienkatzen: Paradies
+024-073-000	Resortpläne
+024-073-001	Alles fürs Lächeln
+024-073-002	Überlass es den Profis
+024-073-003	Streben nach Beliebtheit
+024-073-004	VIP-Einladung
+024-073-005	Lächeln und Safes
+024-073-006	Geleakte Dokumente
+024-073-007	Nur schlechte Bewertungen
+024-073-008	Instabile Träume
+024-073-009	Vollständiger Neuanfang
 
 025			Enigma Stages
 025-000		Atium-Felder
@@ -6104,6 +6201,13 @@
 034-021-003	Tapiocahügel
 034-021-004	Nata-de-Coco-Pfad
 034-021-005	Fudge-Mausoleum
+034-022		Umgekehrtes Königsgrab
+034-022-000	Korpulente Mumie
+034-022-001	Himmlischer Ansturm
+034-022-002	Regel(ge)rechte Hölle
+034-022-003	Lebhafte Geister
+034-022-004	Fieser Pfarrer
+034-022-005	Rundreise durch den Himmel
 
 036			Colosseum Stages
 036-000		Anderwelt-Kolosseum
@@ -6190,6 +6294,12 @@
 036-013-002	Runde 3
 036-013-003	Runde 4
 036-013-004	Runde 5
+036-014		Anderwelt-Kolosseum
+036-014-000	Runde 1
+036-014-001	Runde 2
+036-014-002	Runde 3
+036-014-003	Runde 4
+036-014-004	Runde 5
 
 037			Katzenkrall-Meisterschaften
 037-000		Katzenkrall-Meisterschaften Rang 1

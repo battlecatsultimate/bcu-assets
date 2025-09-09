@@ -1633,6 +1633,27 @@
 001-359-000	Relais 400 m : départ rapide
 001-359-001	Relais 800 m : départ rapide
 001-359-002	Relais 1 600 m : départ rapide
+001-360		Partie 2 : Affrontement dans la grotte aux jarres
+001-360-000	CLANG !!!
+001-360-001	CRAC !!!
+001-360-002	PAN !!!
+001-360-003	CLIC !!!
+001-360-004	VLAN !!!
+001-361		Partie 5 : Bataille au château Toutou
+001-361-000	Apparition du sosie du roi !
+001-361-001	Attaque totale des chats !
+001-361-002	Esquive agile du sosie !
+001-361-003	Sourire sournois du sosie
+001-361-004	Le chat hésite...
+001-361-005	Moquerie du sosie
+001-361-006	Le chat tente de s'enfuir !
+001-361-007	Le sosie accumule de l'énergie
+001-361-008	Les chats se serrent les coudes
+001-361-009	Coup super-critique !
+001-362		Dernière partie : Bataille finale ! Roi Toutou !
+001-362-000	Ambition du roi Toutou
+001-363		Cadeau d’anniversaire !
+001-363-000	11 ans de délire !
 001-364		Nuit 3 : Re-livraison de Noël
 001-364-000	Cadeau rouge-violet
 001-364-001	Cadeau bleu-vert
@@ -1656,6 +1677,12 @@
 001-367-003	Affranchissement coûteux
 001-368		Avalanche de cadeaux des 90 millions de téléchargements !
 001-368-000	Célébration des 90 millions !
+001-369		Calamité dans le royaume Toutou
+001-369-000	Calamité imminente
+001-369-001	Nuages sombres à l'horizon
+001-369-002	Ville en déclin
+001-369-003	Ère de chaos
+001-369-004	Les Chats Unis
 001-371		Pack mystère
 001-371-000	Expéditeur inconnu
 001-372		Week-end de miel 1
@@ -1761,6 +1788,23 @@
 001-404-001	Symphonie de la faillite (sans répit)
 001-405		Prévisions sans précédent
 001-405-000	Pluie torrentielle
+001-406		Invasion géante
+001-406-000	Saint des eaux I (mortel)
+001-406-001	Saint des eaux II (impitoyable)
+001-406-002	Saint des eaux III (impitoyable)
+001-406-003	Saint des eaux ultime (brutal)
+001-407		Terre du lieu de vacances extravagant
+001-407-000	Yacht pour un
+001-407-001	Consommateur de marque
+001-407-002	Hôtel par correspondance
+001-407-003	VIP notoire
+001-407-004	Paysage inestimable
+001-408		Sauna du paradis
+001-408-000	Désir de détox
+001-408-001	Baptême à l'huile
+001-408-002	Fessée à la vihta
+001-408-003	Sauna Aufguss
+001-408-004	Prêt à partir
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3400,6 +3444,12 @@
 004-062-000	Relais 400 m : dernier parcours
 004-062-001	Relais 800 m : dernier parcours
 004-062-002	Relais 400 m : dernier parcours
+004-063		Partie 2 : Affrontement dans la grotte aux jarres
+004-063-000	Victoire !
+004-063-001	Victoire !
+004-063-002	Victoire !
+004-063-003	Victoire !
+004-063-004	Victoire !
 004-064		Attaque de Gigahaniwan !
 004-064-000	Nature au berceau (mortel)
 004-064-001	Nature au sommet (sans répit)
@@ -3749,6 +3799,8 @@
 011-022-000	Épreuve du phénix
 011-023		Arène de l'honneur
 011-023-000	9 ans et toutes mes dents
+011-025		Arène de l'honneur
+011-025-000	À nos onze ans
 011-026		Arène de puissance
 011-026-000	Allée d’artillerie
 011-027		Arène de l'honneur
@@ -3765,6 +3817,8 @@
 011-033-000	Agilité au combat
 011-034		Arène de puissance
 011-034-000	Tétanisé d’effroi
+011-035		Arène du destin
+011-035-000	Agilité au combat
 
 012			Challenge Mode
 012-000		Bataille défi
@@ -5179,6 +5233,27 @@
 024-061-017	Trois présages niv. 18
 024-061-018	Trois présages niv. 19
 024-061-019	Trois présages niv. max
+024-062		Partie 1 : Chats aventuriers
+024-062-000	Départ matinal
+024-062-001	Chats au bureau
+024-062-002	Totalement vide ?
+024-062-003	Les Toutous surgissent !
+024-062-004	Une danse ésotérique
+024-062-005	Rupture d'herbes
+024-062-006	Coup critique de chat !
+024-062-007	Regard en coin au réveil
+024-062-008	Debout toute la nuit
+024-062-009	Une ville détruite
+024-062-010	C'est un piège !
+024-062-011	Bâton de soin
+024-062-012	Équipement maudit
+024-062-013	Ton chat évolue... !
+024-062-014	Multiclassement
+024-062-015	Épée dans la pierre
+024-062-016	Raccourci étroit
+024-062-017	Le roi pantin
+024-062-018	Veille de bataille
+024-062-019	Sauvegarde des données introuvable
 024-063		Ultra Bonne année !
 024-063-000	Année du dragon niv. 1
 024-063-001	Année du dragon niv. 2
@@ -5227,6 +5302,17 @@
 024-065-017	Excavation niv. 18
 024-065-018	Excavation niv. 19
 024-065-019	Excavation niv. max
+024-066		Ombres sur le royaume Toutou
+024-066-000	Une nouvelle aventure
+024-066-001	Adieux du village
+024-066-002	Barrage du vieil homme
+024-066-003	En route pour le château Toutou
+024-066-004	Une présence malveillante
+024-066-005	Nuages menaçants
+024-066-006	Ombres fatidiques
+024-066-007	Villageois stupides
+024-066-008	Aura maléfique
+024-066-009	Roi manipulé
 024-067		Chats de vacances d’été naufragés
 024-067-000	Réveil sur une plage
 024-067-001	Frissons dans une grotte
@@ -5303,6 +5389,17 @@
 024-072-007	Échange culturel niv. 8
 024-072-008	Échange culturel niv. 9
 024-072-009	Échange culturel MAX
+024-073		Chats de vacances d’été : Paradis
+024-073-000	Plans du lieu de vacances
+024-073-001	Tout sourire
+024-073-002	Laissez faire les pros
+024-073-003	Soif de popularité
+024-073-004	Invitation VIP
+024-073-005	Sourires et coffres-forts
+024-073-006	Documents fuités
+024-073-007	Série de mauvaises critiques
+024-073-008	Rêves instables
+024-073-009	Recommencer à zéro
 
 025			Enigma Stages
 025-000		Champs Aitum
@@ -6117,6 +6214,13 @@
 034-021-003	Colline de Tapioca
 034-021-004	Sentier Crème-coco
 034-021-005	Mausolée Caramelo
+034-022		Tombeau royal inversé
+034-022-000	Momie ventripotente
+034-022-001	Harcèlement céleste
+034-022-002	Enfer de la conformité
+034-022-003	Esprits enjoués
+034-022-004	Ecclésiastique maléfique
+034-022-005	Aller-retour au Paradis
 
 036			Colosseum Stages
 036-000		Colisée d'outre-monde
@@ -6203,6 +6307,12 @@
 036-013-002	3e manche
 036-013-003	4e manche
 036-013-004	5e manche
+036-014		Colisée d'outre-monde
+036-014-000	1re manche
+036-014-001	2e manche
+036-014-002	3e manche
+036-014-003	4e manche
+036-014-004	5e manche
 
 037			Championnats Griffélin
 037-000		Rang 1 des championnats Griffélin

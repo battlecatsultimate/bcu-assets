@@ -120,3 +120,4 @@
 119	Schließe Jagd auf die Xenobestie ab
 120	Schließe Untergrund-Labyrinth B100F ab
 121	Schalte Weiser des logischen Newton frei
+122	Schließe Jumbo-Invasion ab.

@@ -242,3 +242,4 @@
 3058	Traffic Violation
 3059	Steel Tennis
 3060	Wartime Burial
+3061	Insatiable Hunger

@@ -84,7 +84,7 @@ E23	Love Letter Capsules
 E24	June Bride of Devil Capsules
 E25	9th Anniversary Special Capsules
 E26	Summer Break Capsules
-E27	Medal Cat King's Hall Capsules
+E27	Medal King's Palace Capsules
 E28	New Moon Capsules
 E29	June Bride of Devil Capsules
 E30	10th Anniversary Memorial Capsules
@@ -98,8 +98,9 @@ E37	Love Letter Capsules
 E38	Premium Fair Capsules
 E39	Baki Hanma Capsules
 E40	Summer Break Survival Capsules
-E41	Summer Break Capsules Paradise Edition
+E41	Summer Break Capsules Paradise
 E42 Download Celebration Capsules
+E43	Summer Break Capsules Paradise
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -997,3 +998,5 @@ N65	Cats Eye Capsules
 1010	-118	820
 1011	-1018
 1012	-1011	820
+1013	-112	787
+1014	-118	820

@@ -211,7 +211,7 @@
 210	<br><br>
 211	<br><br>
 212	La forme ultime gagne la capacité<br>de repousser et d’affaiblir les<br>ennemis rouges et aliens !	L'ultra forme gagne des bonus<br>de caractéristiques et de portée,<br>ainsi que Fléau des Sages !
-213	La forme ultime gagne en<br><br>
+213	La forme ultime améliore la distance<br><br>
 214	<br><br>
 215	<br><br>
 216	<br><br>
@@ -713,7 +713,7 @@
 712	<br><br>
 713	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
 714	<br><br>
-715	<br><br>
+715	La forme ultime renforce la déf. et la vit.<br>de déplacement ! Inflige Recul contre rouge/métal/zombie<br>et chances de déchaîner des vagues.
 716	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
 717	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
 718	<br><br>
@@ -812,3 +812,12 @@
 811	<br><br>
 812	<br><br>
 813	<br><br>
+814	<br><br>
+815	<br><br>
+816	<br><br>
+817	<br><br>
+818	<br><br>
+819	<br><br>
+820	<br><br>
+821	<br><br>
+822	<br><br>

@@ -189,6 +189,7 @@
 195|S195|I424	Agua bendita
 196|S196|I425	redes legendarias
 197	1 000 000 XP
+198|S198|I426	Minimedalla
 199|S199|I427	Amuleto legendario
 200|S200|I428	Carta de amor
 201|S201|I11	XP
@@ -208,6 +209,12 @@
 217|I442	C. tesoro bronce
 218|I443	Cofre tesoro plata
 219|I444	Cofre tesoro oro
+220|S220|I445	Billete legendario
+222	2 000 XP
+223	25 000 XP
+224|I447	C. tesoro bronce
+225|I448	Cofre tesoro plata
+226|I449	Cofre tesoro oro
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -276,6 +283,7 @@
 1069	Gato Jugador de Bolos
 1070	Gatilargo Asesino
 1071	Sabio de la lógica Newton
+1072	Gato Carpintero
 1100	Gato de Bronce
 1101	Gato Espacial
 1102	Gato con Comba
@@ -387,7 +395,6 @@
 10210	Minigato Crestado
 10211	Minigato Borrador
 10212	Minigato Oscuro
-10214	Gato Comida para Llevar
 10246	Minigato Piernacas
 10247	Minigatoleón
 10248	Minigato Volador
@@ -525,6 +532,7 @@
 15200	Gato Marinero
 15204	Brigada de Asalto Kachiyama
 15213	Zorro Gris
+15214	Gato Comida para Llevar
 15223	GOLDEN HUGE HERMIT CC
 15224	GOLDEN JUPITER CC
 15225	GOLDEN MORDEN CC
@@ -684,6 +692,7 @@
 15707	Jabogato
 15708	Gato Barril
 15714	Gato Payaso
+15716	Convoyes Batallón de Ataque Letal
 15717	Gato Policía
 15718	Gato Granjero
 15721	Oso Caído Gatuno
@@ -980,3 +989,28 @@
 30262	Impulso en Leyendas Inquietantes B
 30263	Impulso en Leyendas Inquietantes A
 30264	Impulso en Leyendas Inquietantes S
+30265	Contador de única réplica D
+30266	Contador de única réplica C
+30267	Contador de única réplica B
+30268	Contador de única réplica A
+30269	Contador de única réplica S
+30270	Berserker D
+30271	Berserker C
+30272	Berserker B
+30273	Berserker A
+30274	Berserker S
+30275	Reducción del tiempo de espera D
+30276	Reducción del tiempo de espera C
+30277	Reducción del tiempo de espera B
+30278	Reducción del tiempo de espera A
+30279	Reducción del tiempo de espera S
+30280	Resistencia a paralización D
+30281	Resistencia a paralización C
+30282	Resistencia a paralización B
+30283	Resistencia a paralización A
+30284	Resistencia a paralización S
+30285	Resistencia a desgaste D
+30286	Resistencia a desgaste C
+30287	Resistencia a desgaste B
+30288	Resistencia a desgaste A
+30289	Resistencia a desgaste S

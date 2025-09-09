@@ -739,3 +739,6 @@
 738	Parasol Base
 739	Freeze Dummy
 740
+741	Whiskingmeister
+742	Fireworks Gang
+743	Jumbo Jones

@@ -189,6 +189,7 @@
 195|S195|I424	Weihwasser
 196|S196|I425	Legendennetze
 197	1.000.000 XP
+198|S198|I426	Kleine Medaille
 199|S199|I427	Legend. Glücksb.
 200|S200|I428	Liebesbrief
 201|S201|I11	XP
@@ -208,6 +209,12 @@
 217|I442	Schatztruhe (Bronze)
 218|I443	Schatztruhe (Silber)
 219|I444	Schatztruhe (Gold)
+220|S220|I445	Legendäre Banknote
+222	2.000 XP
+223	25.000 XP
+224|I447	Schatztruhe (Bronze)
+225|I448	Schatztruhe (Silber)
+226|I449	Schatztruhe (Gold)
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -276,6 +283,7 @@
 1069	Bowler-Katze
 1070	Killer-Stelzenkatze
 1071	Weiser des logischen Newton
+1072	Tischlerkatze
 1100	Bronzekatze
 1101	Weltraumkatze
 1102	Seilhüpfkatze
@@ -387,7 +395,6 @@
 10210	Kleine Irokatze
 10211	Kleine Radierkatze
 10212	Kleine dunkle Katze
-10214	Menü-Katze
 10246	Kleiner Beinmuskelkater
 10247	Kleine Löwenkatze
 10248	Kleine Flugkatze
@@ -525,6 +532,7 @@
 15200	Seefahrer-Katze
 15204	Kachiyama-Sturmabteilung
 15213	Grauer Fuchs
+15214	Menü-Katze
 15223	GOLDEN HUGE HERMIT CC
 15224	GOLDEN JUPITER CC
 15225	GOLDEN MORDEN CC
@@ -685,6 +693,7 @@
 15707	Seifenkatze
 15708	Fass-Katze
 15714	Clownkatze
+15716	Hyper-Angriffsbataillon-Konvois
 15717	Polizistenkatze
 15718	Bauernjungenkatze
 15721	Gefallene Bärenkatze
@@ -981,3 +990,28 @@
 30262	Unheimliche Legenden verstärken B
 30263	Unheimliche Legenden verstärken A
 30264	Unheimliche Legenden verstärken S
+30265	Konter: 1x Zufallsangriff D
+30266	Konter: 1x Zufallsangriff C
+30267	Konter: 1x Zufallsangriff B
+30268	Konter: 1x Zufallsangriff A
+30269	Konter: 1x Zufallsangriff S
+30270	Berserker D
+30271	Berserker C
+30272	Berserker B
+30273	Berserker A
+30274	Berserker S
+30275	Verkürzte Abklingzeit D
+30276	Verkürzte Abklingzeit C
+30277	Verkürzte Abklingzeit B
+30278	Verkürzte Abklingzeit A
+30279	Verkürzte Abklingzeit S
+30280	Einfrieren-Resistenz D
+30281	Einfrieren-Resistenz C
+30282	Einfrieren-Resistenz B
+30283	Einfrieren-Resistenz A
+30284	Einfrieren-Resistenz S
+30285	Schwächen-Resistenz D
+30286	Schwächen-Resistenz C
+30287	Schwächen-Resistenz B
+30288	Schwächen-Resistenz A
+30289	Schwächen-Resistenz S

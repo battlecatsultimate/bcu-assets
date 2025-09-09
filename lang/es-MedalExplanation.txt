@@ -120,3 +120,4 @@
 119	Supera Encuentra al Engendro Cósmico
 120	Supera el piso S100 del Laberinto Subterráneo
 121	Desbloquea al Sabio de la lógica Newton
+122	Supera Invasión Colosal.

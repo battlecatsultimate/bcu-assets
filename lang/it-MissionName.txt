@@ -803,6 +803,26 @@
 9440	Clear Hatsune Miku collab stages 9 times!
 9441	Clear Hatsune Miku collab stages 9 times!
 9442	Clear Hatsune Miku collab stages 9 times!
+9443	【P. 1: Gatti avventurieri】① Ottieni un avventuriero! Info: un gatto speciale, il tuo primo compagno d'avventura
+9444	【P. 1: Gatti avventurieri】② Ottieni un avventuriero! Info: un gatto del 10° anniversario che medita su una roccia
+9445	【P. 1: Gatti avventurieri】③ Ottieni un avventuriero! Info: unità del 9° anniv. che rappresenta un ricco premio
+9446	【P. 1: Gatti avventurieri】④ Ottieni un avventuriero! Info: un gatto che porta fortuna
+9447	【P. 1: Gatti avventurieri】⑤ Ottieni un avventuriero! Un gatto del 5° anniversario che funge da medaglia
+9449	【P. 1: Gatti avventurieri】Supera ogni. livello di "Gatti avventurieri" 9 volte!
+9450	【P. 1: Gatti avventurieri】Supera ogni. livello di "Gatti avventurieri" 9 volte!
+9451	【P. 1: Gatti avventurieri】Supera ogni. livello di "Gatti avventurieri" 9 volte!
+9452	【P. 2: Scontro nella caverna della giara】Supera ogni livello. EX “Scontro nella caverna della giara” 9 volte!
+9455	【P. 3: Matrimonio felino】Parla con il gatto nella . Base felina per 3 giorni
+9456	【P. 4: Richiesta dei paesani】① Supera un certo livello di. Impero dei gatti Cap. 1 e porta del balut da Manila!
+9457	【P. 4: Richiesta dei paesani】② Supera un certo livello di. Impero dei gatti Cap. 1 e scatta una foto al Taj Mahal!
+9458	【P. 4: Richiesta dei paesani】③ Supera il livello corretto di. Impero dei gatti Cap. 1! Sopravvivrai ai tori di Pamplona?
+9459	【P. 4: Richiesta dei paesani】④ Supera un certo livello di. Impero dei gatti Cap. 1 e goditi il reggae in spiaggia!
+9460	【P. 4: Richiesta dei paesani】⑤ Supera un certo livello di. Impero gatti Cap. 1 e ammira l'alba sulle piramidi azteche
+9461	【P. 4: Richiesta dei paesani】Completa le 0 richieste. dei paesani
+9462	【Parte 5: Battaglia al castello dei Cani】. Supera il livello. Appare un mimo del re!
+9465	【11° anniversario】Supera tutte le missioni P.1/parte finale. e ottieni un biglietto platino!
+64	Missione 11° anniversario. Supera Impero dei Gatti Cap. 1 durante l'evento 11° anniv
+9466	【Battaglia Finale: Re Cane!】. Supera questo livello e svela i segreti dell'11° anniv
 9467	Supera il 50° piano della Torre celestiale. (Questa ricompensa può essere riscattata una volta sola.)
 9468	Clear stages from "Metal Slug Collab"
 9469	Clear stages from "Metal Slug Collab"
@@ -848,6 +868,9 @@
 9518	[Fuga del naufrago Parte 1] ①: Sopravvivenza selvaggia. Supera 9 livelli Naufrago!
 9519	[Fuga del naufrago Parte 1] ②: Sopravvivenza selvaggia. Supera 9 livelli Naufrago!
 9520	[Fuga del naufrago Parte 1] ③: Sopravvivenza selvaggia. Supera 9 livelli Naufrago!
+9521	Fuga isolana ① Aggiungi Calamaro. alla tua armata e supera Survive! Mola Mola! liv. 1
+9522	Fuga isolana ② Aggiungi Sardina. all'armata e supera 300 Million Dead Molas livello 3
+9523	Fuga isolana ③ Aggiungi Uovo antico N206 all'armata. e supera 300 Million Dead Molas livello 3 %d volte
 9524	[Fuga del naufrago Parte 2] ①: Battaglia contro la natura. Supera il livello 1 di Vita nella giungla!
 9525	[Fuga del naufrago Parte 2] ②: Battaglia contro la natura. Supera il livello 4 di Vita nella giungla!
 65	[Collega account] Vai a Impostazioni→. Cambia account/dispositivo per collegarlo
@@ -949,3 +972,10 @@
 9617	[Fuga del naufrago Parte 1]③: Bufera. Supera il livello Previsioni senza precedenti 9 volte
 9618	[Fuga del naufrago Parte 1]④: Bufera. Supera il livello Previsioni senza precedenti 9 volte
 9619	[Fuga del naufrago Parte 3]: Isola delle ombre. Supera il livello 1 Difensori dell'isola!
+9620	Resort sviluppatori parte 1: Paradiso ①: Supera ogni. livello Gatti estivi: paradiso 9 volte!
+9621	Resort sviluppatori parte 1: Paradiso ②: Supera un. livello di Gatti estivi: paradiso 9 volte!
+9622	Resort sviluppatori parte 1: Paradiso ③: Supera un. livello di Gatti estivi: paradiso 9 volte!
+9623	Resort sviluppatori parte 1: Contratti ①:. Ottieni Gatto consulente dalle capsule evento!
+9624	Resort sviluppatori parte 1: Contratti ②:. Ottieni 3 Gatti consulenti dalle capsule evento!
+9626	Resort sviluppatori parte 2: Celebrità:. Supera Resort stravagante livello 1
+9627	Resort sviluppatori parte 3: Riposante beatitudine:. Supera Sauna del paradiso 9volte!

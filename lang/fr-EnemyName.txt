@@ -184,7 +184,7 @@
 183	Cybercornu
 184	Dame caniche
 185	Professeur Taman
-186	Gâteau Toutou des 100M
+186	
 187	
 188	
 189	MARS PEOPLE
@@ -623,7 +623,7 @@
 622	
 623	
 624	Cumulus Gallus
-625	Gâteau Toutou 10e anniv
+625	
 626	
 627	Super ancien Béhémoth Magamojoe
 628	Super gorille Béhémoth Luza
@@ -667,10 +667,10 @@
 666	Chat île maléfique
 667	Chat roi dragon maléfique
 668	Chat Jamilar maléfique
-669	
-670	
-671	
-672	
+669	Base du pot
+670	Mimique du roi
+671	Roi Toutou
+672	Gâteau Toutou : 11e anniversaire
 673	
 674	Uril ésotérique
 675	SOL DAE ROKKER
@@ -682,8 +682,8 @@
 681	
 682	Dark Dobert
 683	Gigahaniwan
-684	
-685	
+684	Calamité mystérieuse
+685	Le roi Toutou possédé
 686	Voluptuous Peony - Daji
 687	Madhead
 688	Kenshin Himura
@@ -736,6 +736,9 @@
 735	Laquais des anges
 736	Toutou des mers du sud
 737	Loutre des mers du sud
-738	Pied de parasol
-739	Mannequin d’immobilisation
+738	
+739	
 740	
+741	Maître fouetteur
+742	Gang des feux d’artifice
+743	Gégé géant

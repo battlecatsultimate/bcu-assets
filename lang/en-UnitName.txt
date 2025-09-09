@@ -713,7 +713,7 @@
 712	Kaoluga	Kaoluga Pasalan		
 713	Ancient Egg: N203	Violet Egg: N203	Clown Cat	
 714	Coastal Explorer Kanna	Deep-Diver Kanna	Great Deep-Diver Kanna	
-715	Mighty Sphinx Korps	Attack Battalion Convoys		
+715	Mighty Sphinx Korps	Attack Battalion Convoys	Hyper Battalion Convoys	
 716	Ancient Egg: N111	Mystic Egg: N111	Cop Cat	
 717	Ancient Egg: N110	Amber Egg: N110	Farmboy Cat	
 718	Maize Cat	Cone Cat		
@@ -724,7 +724,7 @@
 723	Lightmother Aset	Nefer Aset	Almighty Aset	
 724	Ancient Egg: N112	Mystic Egg: N112	Cat Egg Pod	
 725	Ninja Girl Tomoe	Gourmand Ninja Girl Tomoe		
-726				
+726	Medal King	Medal Emperor		
 727	SOL DAE ROKKER	SOL DAE ROKKER CC		
 728	Master of Mind Soractes	Master of Mind Catcrates		
 729				
@@ -808,7 +808,16 @@
 807	Sonic Cat	Sonic Cat CC		
 808	Tails Cat	Tails Cat CC		
 809	Shadow Cat	Shadow Cat CC		
-810				
+810	Agent Staal	Edgemaster Staal		
 811	Victorious Skanda	Zeta Skanda		
 812	812-1			
 813	Tasmanian Giant Crab	Tasmanian Giant Crab CC		
+814			
+815			
+816			
+817	Komori	Moririn		
+818				
+819	Carpenter Cat	Rapper Cat		
+820	Seaside Pegasa	Seaside Pegasa v		
+821				
+822	Consultant Cat	Business Partner Cat		

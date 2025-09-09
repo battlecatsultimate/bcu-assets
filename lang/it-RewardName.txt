@@ -189,6 +189,7 @@
 195|S195|I424	Acqua santa
 196|S196|I425	reti leggendarie
 197	1.000.000 XP
+198|S198|I426	Medaglietta
 199|S199|I427	Amul. leggendario
 200|S200|I428	Lettera d'amore
 201|S201|I11	XP
@@ -208,6 +209,12 @@
 217|I442	Forziere (bronzo)
 218|I443	Forziere (argento)
 219|I444	Forziere (oro)
+220|S220|I445	Banconota leggendaria
+222	2.000 XP
+223	25.000 XP
+224|I447	Forziere (bronzo)
+225|I448	Forziere (argento)
+226|I449	Forziere (oro)
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -276,6 +283,7 @@
 1069	Gatto bowling
 1070	Gatto alto assassino
 1071	Maestro di logica Newton
+1072	Gatto carpentiere
 1100	Busto di Gatto
 1101	Gatto spaziale
 1102	Gatto con la corda
@@ -387,7 +395,6 @@
 10210	Mini Gatto punk
 10211	Mini Gatto gomma
 10212	Mini Gatto oscuro
-10214	Gatto Menù
 10246	Mini Gatto Gambe macho
 10247	Mini Gatto leo
 10248	Mini Gatto volante
@@ -525,6 +532,7 @@
 15200	Gatto navigatore
 15204	Brigata d'assalto Kachiyama
 15213	La Volpe grigia
+15214	Gatto Menù
 15223	GOLDEN HUGE HERMIT CC
 15224	GOLDEN JUPITER CC
 15225	GOLDEN MORDEN CC
@@ -685,6 +693,7 @@
 15707	Gatto sapone
 15708	Gatto barile
 15714	Gatto clown
+15716	Iper Convogli da battaglia
 15717	Gatto sbirro
 15718	Gatto contadino
 15721	Gatto Orso perduto
@@ -981,3 +990,28 @@
 30262	Potenzia leggende misteriose B
 30263	Potenzia leggende misteriose A
 30264	Potenzia leggende misteriose S
+30265	Contrattacco a valanga singolo D
+30266	Contrattacco a valanga singolo C
+30267	Contrattacco a valanga singolo B
+30268	Contrattacco a valanga singolo A
+30269	Contrattacco a valanga singolo S
+30270	Berserker D
+30271	Berserker C
+30272	Berserker B
+30273	Berserker A
+30274	Berserker S
+30275	Tempo di ricarica ridotto D
+30276	Tempo di ricarica ridotto C
+30277	Tempo di ricarica ridotto B
+30278	Tempo di ricarica ridotto A
+30279	Tempo di ricarica ridotto S
+30280	Resistente a immobilità D
+30281	Resistente a immobilità C
+30282	Resistente a immobilità B
+30283	Resistente a immobilità A
+30284	Resistente a immobilità S
+30285	Resistente a indebolimento D
+30286	Resistente a indebolimento C
+30287	Resistente a indebolimento B
+30288	Resistente a indebolimento A
+30289	Resistente a indebolimento S

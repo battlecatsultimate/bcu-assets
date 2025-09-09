@@ -184,7 +184,7 @@
 183	Cybercorno
 184	Signora Celebribau
 185	Dottor F.
-186	Cane torta 100 milioni di download
+186	
 187	
 188	
 189	MARS PEOPLE
@@ -623,7 +623,7 @@
 622	
 623	
 624	Gallo delle nubi
-625	Cane torta del 10º anniversario
+625	
 626	
 627	Magamojoe Behemoth super secolare
 628	Luza Behemoth super scimmione
@@ -667,10 +667,10 @@
 666	Gattisola malevolo
 667	Gatto Re Dragone malevolo
 668	Gatto Jamiera malevolo
-669	
-670	
-671	
-672	
+669	Base giara
+670	Mimo del re
+671	Re Cane
+672	Torta canina 11° anniv.
 673	
 674	Uril esoterico
 675	SOL DAE ROKKER
@@ -682,8 +682,8 @@
 681	
 682	Dober oscuro
 683	Gigahaniwan
-684	
-685	
+684	Calamità misteriosa
+685	Re Cane posseduto
 686	Voluptuous Peony - Daji
 687	Madhead
 688	Kenshin Himura
@@ -736,6 +736,9 @@
 735	Scagnozzo angelico
 736	Cane dei Mari del Sud
 737	Lontra dei Mari del Sud
-738	Base Parasole
-739	Pupazzo immobile
+738	
+739	
 740	
+741	Maestro mescolatore
+742	Banda fuochi d'artificio
+743	Jones colossale

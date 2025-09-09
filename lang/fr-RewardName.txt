@@ -189,6 +189,7 @@
 195|S195|I424	Eau bénite
 196|S196|I425	filets légendaires
 197	1 000 000 XP
+198|S198|I426	Petite médaille
 199|S199|I427	Charme légendaire
 200|S200|I428	Lettre d’amour
 201|S201|I11	XP
@@ -208,6 +209,12 @@
 217|I442	Coffre au trésor (bronze)
 218|I443	Coffre au trésor (argent)
 219|I444	Coffre au trésor (or)
+220|S220|I445	Billets de banque légendaires
+222	2 000 XP
+223	25 000 XP
+224|I447	Coffre au trésor (bronze)
+225|I448	Coffre au trésor (argent)
+226|I449	Coffre au trésor (or)
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -276,6 +283,7 @@
 1069	Chat joueur de bowling
 1070	Grand Chat tueur
 1071	Maître de la Logique Newton
+1072	Chat charpentier
 1100	Chat en bronze
 1101	Chastronaute
 1102	Chat corde à sauter
@@ -387,7 +395,6 @@
 10210	P’tit Chat punk
 10211	P’tit Chat gomme
 10212	P’tit Chat de l’ombre
-10214	Chappy meal
 10246	P’tit Chat jambes d’acier
 10247	P’tit Chat lion
 10248	P’tit Chat volant
@@ -525,6 +532,7 @@
 15200	Chat navigateur
 15204	Brigade d’assaut Kachiyama
 15213	Le renard gris
+15214	Chappy meal
 15223	GOLDEN HUGE HERMIT CC
 15224	GOLDEN JUPITER CC
 15225	GOLDEN MORDEN CC
@@ -685,6 +693,7 @@
 15707	Chat savonneur
 15708	Chat baril
 15714	Chat clown
+15716	Super convois offensifs
 15717	Chagent de police
 15718	Chagriculteur
 15721	Chat-Ours déchu
@@ -981,3 +990,28 @@
 30262	Améliore les Légendes mystérieuses B
 30263	Améliore les Légendes mystérieuses A
 30264	Améliore les Légendes mystérieuses S
+30265	Compteur de réplique offensive unique : D
+30266	Compteur de réplique offensive unique : C
+30267	Compteur de réplique offensive unique : B
+30268	Compteur de réplique offensive unique : A
+30269	Compteur de réplique offensive unique : S
+30270	Berserker : D
+30271	Berserker : C
+30272	Berserker : B
+30273	Berserker : A
+30274	Berserker : S
+30275	Rechargement raccourci : D
+30276	Rechargement raccourci : C
+30277	Rechargement raccourci : B
+30278	Rechargement raccourci : A
+30279	Rechargement raccourci : S
+30280	Résist. Immobilisation : D
+30281	Résist. Immobilisation : C
+30282	Résist. Immobilisation : B
+30283	Résist. Immobilisation : A
+30284	Résist. Immobilisation : S
+30285	Résist. Affaiblissement : D
+30286	Résist. Affaiblissement : C
+30287	Résist. Affaiblissement : B
+30288	Résist. Affaiblissement : A
+30289	Résist. Affaiblissement : S

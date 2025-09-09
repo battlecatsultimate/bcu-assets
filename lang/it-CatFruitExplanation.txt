@@ -211,7 +211,7 @@
 210	<br><br>
 211	<br><br>
 212	La Forma Reale ottiene l'abilità<br>di respinta e indebolimento<br>su nemici rossi e alieni!	La Forma ultra ottiene<br>tratti migliori, raggio di attacco<br>più ampio e sterminatore di saggi!
-213	La Forma Reale ottiene maggiore<br><br>
+213	La Forma Reale migliora la distanza<br><br>
 214	<br><br>
 215	<br><br>
 216	<br><br>
@@ -713,7 +713,7 @@
 712	<br><br>
 713	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 714	<br><br>
-715	<br><br>
+715	La Forma Reale ha maggiore difesa e<br>velocità! Respinge rossi/metallici/zombi<br>e scatena ondate al 100%.
 716	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 717	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 718	<br><br>
@@ -812,3 +812,12 @@
 811	<br><br>
 812	<br><br>
 813	<br><br>
+814	<br><br>
+815	<br><br>
+816	<br><br>
+817	<br><br>
+818	<br><br>
+819	<br><br>
+820	<br><br>
+821	<br><br>
+822	<br><br>

@@ -1633,6 +1633,27 @@
 001-359-000	Relevos de 400 m: Salida Ráp.
 001-359-001	Relevos de 800 m: Salida Ráp.
 001-359-002	Relevos de 1600 m: Salida Ráp.
+001-360		Parte 2: Duelo en la Cueva
+001-360-000	¡CLANG!
+001-360-001	¡CRAC!
+001-360-002	¡BANG!
+001-360-003	¡CLING!
+001-360-004	¡CRASH!
+001-361		Parte 5: Batalla en el Castillo del Chucho
+001-361-000	¡Aparece el Rey Mímico!
+001-361-001	¡Embate Final Gatuno!
+001-361-002	¡El Mímico Esquiva Dos Veces!
+001-361-003	Sonrisita del Mímico
+001-361-004	Duda Minina...
+001-361-005	La Burla del Mímico
+001-361-006	¡Intento de Fuga Minina!
+001-361-007	El Mímico Recarga Energías
+001-361-008	Gatos en Pie de Guerra
+001-361-009	¡Daño Crítico Extremo!
+001-362		Última parte: ¡Batalla final del Rey Chucho!
+001-362-000	Rebelión del Rey Chucho
+001-363		¡Regalo de Cumpleaños!
+001-363-000	¡11 años de diversión!
 001-364		Noche 3: Entrega de Nochebuena
 001-364-000	Regalo Rojo-Morado
 001-364-001	Regalo Azul-Verde
@@ -1656,6 +1677,12 @@
 001-367-003	Portes Caros
 001-368		Celebración de los 90 M ¡Regalos en abundancia!
 001-368-000	¡Celebración de los 90 M!
+001-369		Tragedia en el Reino del Chucho
+001-369-000	Tragedia Inminente
+001-369-001	Presagio de Nubes Negras
+001-369-002	Pueblo Decrépito
+001-369-003	Tiempo del Caos
+001-369-004	Alianza Felina
 001-371		Paquete Misterioso
 001-371-000	Sin Remitente
 001-372		Finde de Luna de Miel 1
@@ -1761,6 +1788,23 @@
 001-404-001	Ecos de Quiebra (Inhumano)
 001-405		Pronósticos Extremos
 001-405-000	El Gran Chaparrón
+001-406		Invasión Colosal
+001-406-000	Santo del Agua I (Mortal)
+001-406-001	Santo del Agua II (Inhumano)
+001-406-002	Santo del Agua III (Inhumano)
+001-406-003	Ascenso del Santo del Agua (Brutal)
+001-407		Paraíso de Resorts
+001-407-000	Yate para Uno
+001-407-001	Adicto a las Marcas
+001-407-002	Resort por Pedido
+001-407-003	Zona VIP
+001-407-004	Paisaje de Ensueño
+001-408		Sauna del Edén
+001-408-000	Ansia de Bienestar
+001-408-001	Bautismo con Esencias
+001-408-002	Ritual del Vihta
+001-408-003	Sauna Aromática
+001-408-004	En Marcha
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -3400,6 +3444,12 @@
 004-062-000	Relevos de 1600 m: Últ. Relevo
 004-062-001	Relevos de 800 m: Últ. Relevo
 004-062-002	Relevos de 400 m: Últ. Relevo
+004-063		Parte 2: Duelo en la Cueva
+004-063-000	¡Victoria!
+004-063-001	¡Victoria!
+004-063-002	¡Victoria!
+004-063-003	¡Victoria!
+004-063-004	¡Victoria!
 004-064		¡Gigahaniwan ataca!
 004-064-000	Naturaleza Base (Mortal)
 004-064-001	Naturaleza Cima (Inhumano)
@@ -3749,6 +3799,8 @@
 011-022-000	Prueba del Fénix
 011-023		Arena Honorífica
 011-023-000	Nueve de la suerte
+011-025		Arena Honorífica
+011-025-000	¡Va por el Once!
 011-026		Arena de Poder
 011-026-000	Calle Artillería
 011-027		Arena of Honor
@@ -3765,6 +3817,8 @@
 011-033-000	Talento para la Batalla
 011-034		Arena de Poder
 011-034-000	Helado de Miedo
+011-035		Arena del Destino
+011-035-000	Talento para la Batalla
 
 012			Challenge Mode
 012-000		Batalla de Desafío
@@ -5190,6 +5244,27 @@
 024-061-017	Tres augurios (nvl. 18)
 024-061-018	Tres augurios (nvl. 19)
 024-061-019	Tres augurios (nvl. máx.)
+024-062		Parte 1: Gatos Aventureros
+024-062-000	Partida Matutina
+024-062-001	Oficina Felina
+024-062-002	¿Ni una migaja?
+024-062-003	¡Chuchos en Acción!
+024-062-004	Danza Arcana
+024-062-005	Hierbas Sin Existencias
+024-062-006	¡Daño Crítico del Felino!
+024-062-007	Despertar de Reojo
+024-062-008	Hasta las Tantas
+024-062-009	Hogar Devastado
+024-062-010	¡Es una trampa!
+024-062-011	Báculo Sanador
+024-062-012	Equipo Maldito
+024-062-013	¡Tu gato está mutando...!
+024-062-014	Fusión de Clases
+024-062-015	Espada Sellada en Piedra
+024-062-016	Paso Estrecho
+024-062-017	El Señor de los Títeres
+024-062-018	Víspera de la Batalla
+024-062-019	No se han encontrado datos de guardado
 024-063		¡El Año Nuevo más feliz!
 024-063-000	Año del Dragón (nv.1)
 024-063-001	Año del Dragón (nv.2)
@@ -5238,6 +5313,17 @@
 024-065-017	Excavación (nvl. 18)
 024-065-018	Excavación (nvl. 19)
 024-065-019	Excavación (nvl. máx.)
+024-066		Tinieblas en el Reino del Chucho
+024-066-000	Una Nueva Aventura
+024-066-001	Adiós del Pueblo
+024-066-002	Viejo Guardián del Paso
+024-066-003	Rumbo al Castillo del Chucho
+024-066-004	Presencia Malévola
+024-066-005	Nubarrones Amenazantes
+024-066-006	Sombras Fatídicas
+024-066-007	Pueblerinos sin Cabeza
+024-066-008	Aura Maligna
+024-066-009	El Rey Monigote
 024-067		Naufragio de los Gatos Estivales
 024-067-000	Despertar en la Playa
 024-067-001	Escalofríos en la Cueva
@@ -5314,6 +5400,17 @@
 024-072-007	Intercambio Cultural (nvl. 8)
 024-072-008	Intercambio Cultural (nvl. 9)
 024-072-009	Intercambio Cultural (nvl. máx.)
+024-073		Gatos Estivales: Paraíso
+024-073-000	Planos del Resort
+024-073-001	Todo por una Sonrisa
+024-073-002	Déjalo en Buenas Manos
+024-073-003	Todo por la Fama
+024-073-004	Invitación VIP
+024-073-005	Sonrisas y Cajas Fuertes
+024-073-006	Documentos Filtrados
+024-073-007	Racha de Malas Reseñas
+024-073-008	Sueños Volátiles
+024-073-009	Arrancar de Cero
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -6128,6 +6225,13 @@
 034-021-003	Colinas de Tapioca
 034-021-004	Ruta Cremosa de Coco
 034-021-005	Panteón Goloso
+034-022		Sepulcro Real Invertido
+034-022-000	Momia Rechoncha
+034-022-001	Tormento Divino
+034-022-002	Infierno de la Conformidad
+034-022-003	Espíritus Saltarines
+034-022-004	Clérigo Maligno
+034-022-005	Ruta hacia el Cielo
 
 036			Colosseum Stages
 036-000		Coliseo de Otro Mundo
@@ -6214,6 +6318,12 @@
 036-013-002	Ronda 3
 036-013-003	Ronda 4
 036-013-004	Ronda 5
+036-014		Coliseo de Otro Mundo
+036-014-000	Ronda 1
+036-014-001	Ronda 2
+036-014-002	Ronda 3
+036-014-003	Ronda 4
+036-014-004	Ronda 5
 
 037			Campeonatos Afilagarras
 037-000		Campeonatos Afilagarras Rango 1

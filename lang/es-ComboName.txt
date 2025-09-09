@@ -242,3 +242,4 @@
 3058	Infracción de Tráfico
 3059	Rebote metálico
 3060	Sepelio del guerrero
+3061	Hambre Minina

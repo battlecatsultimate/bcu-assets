@@ -211,7 +211,7 @@
 210	<br><br>
 211	<br><br>
 212	Wahre-Form-Entwicklung gewährt Fähigkeit,<br>rote und Alien-Feinde zurückzustoßen und<br>zu schwächen!	Ultra-Form-Entwicklung gewährt<br>verbesserte Werte, erw. Angriffsbereich<br>und Weisentöter!
-213	Wahre-Form-Entwicklung erhält größere<br><br>
+213	Wahre-Form-Entwicklung erhöht Angriffs-<br><br>
 214	<br><br>
 215	<br><br>
 216	<br><br>
@@ -713,7 +713,7 @@
 712	<br><br>
 713	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
 714	<br><br>
-715	<br><br>
+715	Wahre Form erhöht Verteidigung und<br>Bewegungstempo! Rückstoß gg. Rot/Eisern/<br>Zombies, entfesselt Mini-Wellen.
 716	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
 717	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
 718	<br><br>
@@ -812,3 +812,12 @@
 811	<br><br>
 812	<br><br>
 813	<br><br>
+814	<br><br>
+815	<br><br>
+816	<br><br>
+817	<br><br>
+818	<br><br>
+819	<br><br>
+820	<br><br>
+821	<br><br>
+822	<br><br>

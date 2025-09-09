@@ -803,6 +803,26 @@
 9440	Clear Hatsune Miku collab stages 9 times!
 9441	Clear Hatsune Miku collab stages 9 times!
 9442	Clear Hatsune Miku collab stages 9 times!
+9443	【Partie 1 : Chats aventuriers】① Gagne 1 aventurier dans les. Chapsules d’événement ! Chat spécial comme 1er ami
+9444	【Partie 1 : Chats aventuriers】② Gagne 1 aventurier dans les. Chapsules d’événement ! Un chat pensif pour le 10e anniv
+9445	【Partie 1 : Chats aventuriers】③ Gagne 1 aventurier dans les. Chapsules d’événement ! Gros lot du 9e anniversaire
+9446	【Partie 1 : Chats aventuriers】④ Gagne 1 aventurier dans les. Chapsules d’événement ! Un chat qui symbolise la chance
+9447	【Partie 1 : Chats aventuriers】⑤ Gagne 1 aventurier dans les. Chapsules d’événement ! Chat médaille du 5e anniversaire
+9449	【Partie 1 : Chats aventuriers】Termine n’importe quel
+9450	【Partie 1 : Chats aventuriers】Termine n’importe quel
+9451	【Partie 1 : Chats aventuriers】Termine n’importe quel
+9452	【Partie 2 : Affrontement dans la grotte aux jarres】Termine
+9455	【Partie 3 : Mariage félin】Parle au chat. à la base féline pendant 3 jours
+9456	【Partie 4 : Demande des villageois】① Termine 1 niveau. Empire ch. 1 et ramène des baluts de Manille !
+9457	【Partie 4 : Demande des villageois】② Termine 1 niveau. Empire ch. 1 et prends une photo du Taj Mahal !
+9458	【Partie 4 : Demande des villageois】③ Termine le bon niv. L’empire des Chats ch. 1. Distance les taureaux à Pampelune
+9459	【Partie 4 : Demande des villageois】④ Termine 1 niveau. Empire ch. 1 où tu peux profiter du reggae à la plage !
+9460	【Partie 4 : Demande des villageois】⑤ Termine 1 niveau Empire. ch. 1 où tu vois le soleil se lever sur la pyramide aztèque
+9461	【Partie 4 : Demande des villageois】Réponds à 0 demandes des villageois
+9462	【Partie 5 : Bataille au château Toutou】. Termine le niveau Apparition du sosie du roi !
+9465	【11e Anniv.】Termine toutes les missions. Partie 1 - Partie finale pour gagner un ticket platine !
+64	Mission du 11e anniversaire. Termine. L’empire des Chats ch. 1 pendant l’événement 11e anniv
+9466	【Dernière bataille: Roi Toutou!】 Termine ce niveau. et dévoile la vérité sur le 11e anniversaire
 9467	Viens à bout du 50e étage de la Tour céleste. ※ Cette récompense ne s’obtient qu’une fois
 9468	Clear stages from "Metal Slug Collab"
 9469	Clear stages from "Metal Slug Collab"
@@ -848,6 +868,9 @@
 9518	[1 : Évasion du naufragé] ① : Survie dans la nature
 9519	[1 : Évasion du naufragé] ② : Survie dans la nature
 9520	[1 : Évasion du naufragé] ③ : Survie dans la nature
+9521	Évasion insulaire ① Ajoute Calmar à ton armée. et termine le niveau 1 Survive! Mola Mola!
+9522	Évasion insulaire ② Ajoute Sardine à ton armée. et termine le niveau 3 300 Million Dead Molas
+9523	Évasion insulaire ③ Ajoute l’Œuf ancien : N206 à ton armée
 9524	[2 : Évasion du naufragé] ① : Combat contre la nature. Termine le niveau 1 de Survie dans la jungle !
 9525	[2 : Évasion du naufragé] ② : Combat contre la nature. Termine le niveau 4 de Survie dans la jungle !
 65	[Associer un compte] Va dans Paramètres →. Changer de compte/d'appareil pour lier ton compte
@@ -949,3 +972,10 @@
 9617	[1 : Évasion du naufragé] ③ : Tempête
 9618	[1 : Évasion du naufragé] ④ : Tempête
 9619	[3 : Évasion du naufragé] : Île obscure. Termine le niv. 1 des Défenseurs de l’île !
+9620	Partie 1 du Dév. du lieu de vacances - Paradis ① : termine
+9621	Partie 1 du Dév. du lieu de vacances - Paradis ② : termine
+9622	Partie 1 du Dév. du lieu de vacances - Paradis ③ : termine
+9623	Partie 1 du Dév. du lieu de vacances - Contrats ① :. Obtiens le Chat consultant dans les Chapsules d’événement !
+9624	Partie 1 du Dév. du lieu de vacances - Contrats ② :. Obtiens 3 Chats consultants dans les Chapsules d’événement !
+9626	Partie 2 du Dév. du lieu de vacances - Célébrités :. Termine le niveau 1 Terre du lieu de vacances extravagant
+9627	Partie 3 du Dév. du lieu de vacances - Bonheur paisible :

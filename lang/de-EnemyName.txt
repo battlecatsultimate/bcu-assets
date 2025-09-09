@@ -184,7 +184,7 @@
 183	Cyberhorn
 184	Prinzessin Promi-Pudel
 185	Professor A.
-186	100-Mio.-DL-Kuchenhund
+186	
 187	
 188	
 189	MARS PEOPLE
@@ -623,7 +623,7 @@
 622	
 623	
 624	Kumulus Gallus
-625	10.-Jubiläum-Kuchenhund
+625	
 626	
 627	Uralter Behemoth Magamojoe
 628	Großer Affenbehemoth Luza
@@ -667,10 +667,10 @@
 666	Bösartige Inselkatze
 667	Bösartige Königsdrachenkatze
 668	Bösartige Jamierakatze
-669	
-670	
-671	
-672	
+669	Glasbasis
+670	Mimik des Königs
+671	Hundekönig
+672	Hundekuchen zum 11. Jubiläum
 673	
 674	Esoterischer Uril
 675	SOL DAE ROKKER
@@ -682,8 +682,8 @@
 681	
 682	Dunkler Dober
 683	Gigahaniwan
-684	
-685	
+684	Geheimnisvolle Katastrophe
+685	Besessener Hundekönig
 686	Voluptuous Peony - Daji
 687	Madhead
 688	Kenshin Himura
@@ -736,6 +736,9 @@
 735	Engelslakai
 736	Südsee-Hund
 737	Südsee-Otter
-738	Sonnenschirmständer
-739	Einfrier-Dummy
+738	
+739	
 740	
+741	Umrührmeister
+742	Feuerwerk-Gang
+743	Jumbo Jones

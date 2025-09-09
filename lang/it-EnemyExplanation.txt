@@ -739,3 +739,6 @@
 738	
 739	
 740	
+741	
+742	
+743	Un laboratorio segreto ha modificato un genoma per<br>creare un pesce luna migliorato. È diventato così grande che<br>la furtività non gli appartiene più. Distrugge tutto<br>ciò che gli si para davanti con ondate che rallentano.

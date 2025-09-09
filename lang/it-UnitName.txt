@@ -713,7 +713,7 @@
 712	Kaoluga	Kaoluga Pasalan		
 713	Uovo antico N203	Uovo viola N203	Gatto clown	
 714	Kanna Esploratrice costiera	Kanna subacquea		
-715	Costruttori egizi possenti	Convogli da battaglia		
+715	Costruttori egizi possenti	Convogli da battaglia	Iper Convogli da battaglia	
 716	Uovo antico N111	Uovo mistico N111	Gatto sbirro	
 717	Uovo antico N110	Uovo ambrato N110	Gatto contadino	
 718	Gatturco	Gatto cono		
@@ -724,7 +724,7 @@
 723	Madreluce Aset	Nefer Aset	Aset Onnipotente	
 724	Uovo antico N112	Uovo mistico N112	Gatto capsula uovo	
 725	Tomoe ragazza ninja	Tomoe ragazza ninja buongustaia		
-726				
+726	Re delle medaglie	Imperatore delle medaglie		
 727	SOL DAE ROKKER	SOL DAE ROKKER CC		
 728	Maestro della mente Sokrate	Maestro della mente Catcrate		
 729				
@@ -808,7 +808,16 @@
 807	Sonic Cat	Sonic Cat CC		
 808	Tails Cat	Tails Cat CC		
 809	Shadow Cat	Shadow Cat CC		
-810				
+810	Agente Staal	Maestro di spada Staal		
 811	Skanda vittorioso	Skanda Zeta		
 812	812-1			
 813	Granchio gigante della Tasmania	Granchio gigante della Tasmania CC		
+814			
+815			
+816			
+817	Komori	Moririn		
+818				
+819	Gatto carpentiere	Gatto rapper		
+820	Pegasa marina	Pegasa marina v		
+821				
+822	Gatto consulente	Gatto socio in affari		

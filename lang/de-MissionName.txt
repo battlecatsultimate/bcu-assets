@@ -803,6 +803,26 @@
 9440	Clear Hatsune Miku collab stages 9 times!
 9441	Clear Hatsune Miku collab stages 9 times!
 9442	Clear Hatsune Miku collab stages 9 times!
+9443	【Teil 1: Abenteurer-Katzen】① Eventkapseln mit Abenteurern! Info: Eine besondere Katze wird dein erster Begleiter
+9444	【Teil 1: Abenteurer-Katzen】② Eventkapseln mit Abenteurern! Info: 10.-Jubiläums-Katze, die auf einem Stein grübelt
+9445	【Teil 1: Abenteurer-Katzen】③ Eventkapseln mit Abenteurern! Info: 9.-Jubiläums-Katze, die große Gewinne ankündigt
+9446	【Teil 1: Abenteurer-Katzen】④ Eventkapseln mit Abenteurern! Info: Eine Katze, die Glück verheißt
+9447	【Teil 1: Abenteurer-Katzen】⑤ Eventkapseln mit Abenteurern! Info: 5.-Jubiläums-Katze und gleichzeitig eine Medaille
+9449	【Teil 1: Abenteurer-Katzen】Schließe 9-mal beliebige
+9450	【Teil 1: Abenteurer-Katzen】Schließe 9-mal beliebige
+9451	【Teil 1: Abenteurer-Katzen】Schließe 9-mal beliebige
+9452	【Teil 2: Kampf in der Glashöhle】Schließe 9-mal beliebige
+9455	【Teil 3: Katzenhochzeit】Sprich 3 Tage lang mit. der Katze in der Katzenbasis
+9456	【Teil 4: Die Bitte der Dorfbewohner】①Schließ das richtige. Katzenimperium Kap. 1 ab und bring etwas Balut aus Manila mit!
+9457	【Teil 4: Die Bitte der Dorfbewohner】②Schließ das richtige. Katzenimperium Kap. 1 ab und mach ein Foto vom Taj Mahal!
+9458	【Teil 4: Die Bitte der Dorfbewohner】③Schließ das richtige. Katzenimperium Kap. 1 ab! Laufe den Stieren in Pamplona davon!
+9459	【Teil 4: Die Bitte der Dorfbewohner】④Schließ das richtige. Katzenimperium Kap. 1 ab und genieße Reggae am Strand!
+9460	【Teil 4: Die Bitte der Dorfbewohner】⑤Schließ das richtige. Katzenimp. Kap. 1 ab und sieh die Sonne über Azteken-Pyramiden
+9461	【Teil 4: Die Bitte der Dorfbewohner】Erfülle 0 Bitten der Dorfbewohner
+9462	【Teil 5: Schlacht beim Hundeschloss】. Schließe das Level „Mimik des Königs erscheint“ ab!
+9465	【11. Jubiläum】Schließe alle Teil-1-Letzter-Teil-Missionen. ab und verdiene ein Platinticket!
+64	11.-Jubiläum-Mission. Schließe während des Events Katzenimperium Kapitel 1 ab
+9466	【Letzte Schlacht: Hundekönig!】 Schließe das Level ab. und erfahre die Wahrheit über das 11. Jubiläum
 9467	Schließe die 50. Ebene des Himmlischen Turms ab. (Diese Belohnung kann nur einmal abgeholt werden.)
 9468	Clear stages from "Metal Slug Collab"
 9469	Clear stages from "Metal Slug Collab"
@@ -848,6 +868,9 @@
 9518	[Schiffbruch-Flucht Teil 1] ①: Wildnisüberleben
 9519	[Schiffbruch-Flucht Teil 1] ②: Wildnisüberleben
 9520	[Schiffbruch-Flucht Teil 1] ③: Wildnisüberleben
+9521	Insel-Flucht ① Schließe mit dem Tintenfisch in. deiner Armee „Survive! Mola Mola!“ Level 1 ab
+9522	Insel-Flucht ② Schließe mit der Sardine in. deiner Armee „300 Mil. tote Mondfische“ Level 3 ab
+9523	Insel-Flucht ③ Schließe mit Uraltes Ei: N206 in deiner
 9524	[Schiffbruch-Flucht Teil 2] ①: Kampf gegen die Natur. Schließe Lv. 1 von „Überleben im Dschungel“ ab!
 9525	[Schiffbruch-Flucht Teil 2] ②: Kampf gegen die Natur. Schließe Lv. 4 von „Überleben im Dschungel“ ab!
 65	[Kontoverbindung]. In Optionen→Konto ändern/Konto mit Gerät verbinden
@@ -949,3 +972,10 @@
 9617	[Schiffbruch-Flucht Teil 1] ③: Sturmwinde
 9618	[Schiffbruch-Flucht Teil 1] ④: Sturmwinde
 9619	[Schiffbruch-Flucht Teil 3]: Schatteninsel. Schließe Level 1 von „Inselverteidiger!“ ab
+9620	Resortentwicklung Teil 1 – Paradies ①: Schließe beliebige
+9621	Resortentwicklung Teil 1 – Paradies ②: Schließe beliebige
+9622	Resortentwicklung Teil 1 – Paradies ③: Schließe beliebige
+9623	Resortentwicklung Teil 1 – Aufträge ①:. Erhalte die Berater-Katze aus den Eventkapseln!
+9624	Resortentwicklung Teil 1 – Aufträge ②:. Erhalte 3 Berater-Katzen aus den Eventkapseln!
+9626	Resortentwicklung Teil 2 – Berühmtheiten:. Schließe „Extravagantes Resort“ Level 1 ab
+9627	Resortentwicklung Teil 3 – Erholungsglück:

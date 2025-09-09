@@ -713,7 +713,7 @@
 712	Kaoluga	Kaoluga Pasalan	
 713	Ancient Egg: N203	Violet Egg: N203	Clown Cat
 714	Coastal Explorer Kanna	Deep-Diver Kanna	Great Deep-Diver Kanna
-715	Mighty Sphinx Korps	Attack Battalion Convoys	
+715	Mighty Sphinx Korps	Attack Battalion Convoys	Hyper Battalion Convoys
 716	Ancient Egg: N111	Mystic Egg: N111	Cop Cat
 717	Ancient Egg: N110	Amber Egg: N110	Farmboy Cat
 718	Maize Cat	Cone Cat
@@ -814,9 +814,9 @@
 814	Mass Production Eva	Mass Production Eva Cat
 815	Moonlight Boy Kaworu	Messenger of Moonset Kaworu
 816	Kaworu Spirit
-817	Element of Tree Komori	Element of Trees Komomririn
+817	Komori	Moririn
 818	Komori Spirit
 819	Carpenter Cat	Rapper Cat
-820	Seaside Pegasa	Seaside Pegasa ν
+820	Seaside Pegasa	Seaside Pegasa v
 821	Seaside Pegasa Spirit
 822	Consultant Cat	Business Partner Cat

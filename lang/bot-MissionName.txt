@@ -803,6 +803,26 @@
 9440	Clear Hatsune Miku collab stages 9 times!
 9441	Clear Hatsune Miku collab stages 9 times!
 9442	Clear Hatsune Miku collab stages 9 times!
+9443	【Part 1: Adventurer Cats】① Collect an adventurer from the Event Capsules! Info: A special Cat that will be the first partner on your adventure
+9444	【Part 1: Adventurer Cats】② Collect an adventurer from the Event Capsules! Info: A 10th Anniv. Cat that thinks atop a rock
+9445	【Part 1: Adventurer Cats】③ Collect an adventurer from the Event Capsules! Info: 9th Anniv. unit that represents a large cash prize
+9446	【Part 1: Adventurer Cats】④ Collect an adventurer from the Event Capsules! Info: A Cat that represents good fortune
+9447	【Part 1: Adventurer Cats】⑤ Collect an adventurer from the Event Capsules! Info: 5th Anniv. Cat that doubles as a medal
+9449	【Part 1: Adventurer Cats】Clear any "Adventurer Cats"
+9450	【Part 1: Adventurer Cats】Clear any "Adventurer Cats"
+9451	【Part 1: Adventurer Cats】Clear any "Adventurer Cats"
+9452	【Part 2: Clash in Jar Caves】Clear any "Clash in Jar Caves"
+9455	【Part 3: Cat Wedding】Talk to Cat in. the Cat Base for 3 days
+9456	【Part 4: Villagers' Request】① Clear a certain Empire Ch.1 stage, and. bring back some Balut from Manila!
+9457	【Part 4: Villagers' Request】② Clear a certain Empire Ch.1 stage, and. be sure to take a photo of the Taj Mahal!
+9458	【Part 4: Villagers' Request】③ Clear the correct Empire of Cats Ch.1 stage! Can you outrun the bulls in Pamplona?
+9459	【Part 4: Villagers' Request】④ Clear a certain Empire Ch.1 stage where. you can enjoy reggae on the beach!
+9460	【Part 4: Villagers' Request】⑤ Clear a certain Empire Ch.1 stage where you. can see the sun rise over Aztec pyramids
+9461	【Part 4: Villagers' Request】Fulfill 0 villager's requests
+9462	【Part 5: Battle at Doge Castle】. Clear the stage King's Mimic Appears!
+9465	【11th Anniv.】Clear all Part 1 - Final Part missions. and earn a Platinum Ticket!
+64	11th Anniv. Mission. Clear Empire of Cats Ch. 1 during the 11th Anniv. event
+9466	【Final Battle: King Doge!】. Clear this stage and unveil the truth of the 11th anniv
 9467	Defeat the 50th floor of the Infernal Tower. (This reward can only be claimed once.)
 9468	Clear stages from "Metal Slug Collab"
 9469	Clear stages from "Metal Slug Collab"
@@ -848,6 +868,9 @@
 9518	[Castaway Escape Pt. 1] ①:  Wild Survival
 9519	[Castaway Escape Pt. 1] ②: Wild Survival
 9520	[Castaway Escape Pt. 1] ③: Wild Survival
+9521	Island Escape ①. Add Squid to your army and clear Survive! Mola Mola! stage 1
+9522	Island Escape ②. Add Sardine to your army and clear 300 Million Dead Molas stage 3
+9523	Island Escape ③ Add Ancient Egg: N206 to your
 9524	[Castaway Escape Pt. 2] ①: Battle Against Nature. Clear Jungle Survival Stage 1!
 9525	[Castaway Escape Pt. 2] ②: Battle Against Nature. Clear Jungle Survival Stage 4!
 65	[Account Link]. Go to Options→Change Account/Device to link your account
@@ -949,3 +972,10 @@
 9617	[Castaway Escape Pt. 1]③: Windstorm
 9618	[Castaway Escape Pt. 1]④: Windstorm
 9619	[Castaway Escape Pt. 3]: Shadowy Island. Clear Island Defenders! stage 1
+9620	Resort Dev. Part 1 - Paradise ①: Clear any
+9621	Resort Dev. Part 1 - Paradise ②: Clear any
+9622	Resort Dev. Part 1 - Paradise ③: Clear any
+9623	Resort Dev. Part 1 - Contracts ①:. Collect Consultant Cat from the Event Capsules!
+9624	Resort Dev. Part 1 - Contracts ②:. Collect 3 Consultant Cats from the Event Capsules!
+9626	Resort Dev. Part 2 - Celebrities:. Clear Extravagant Resort Land stage 1
+9627	Resort Dev. Part 3 - Restful Bliss:
