@@ -724,7 +724,7 @@
 723	Lightmother Aset	Nefer Aset	Almighty Aset
 724	Ancient Egg: N112	Mystic Egg: N112	Cat Egg Pod
 725	Ninja Girl Tomoe	Gourmand Ninja Girl Tomoe
-726	Medal Cat King	Great Medal Cat King
+726	Medal King	Medal Emperor
 727	SOL DAE ROKKER	SOL DAE ROKKER CC
 728	Master of Mind Soractes	Master of Mind Catcrates
 729	Soractes Spirit
@@ -807,7 +807,7 @@
 807	Sonic Cat	Sonic Cat CC
 808	Tails Cat	Tails Cat CC
 809	Shadow Cat	Shadow Cat CC
-810	Agent Stahl	Blade Master Stahl
+810	Agent Staal	Edgemaster Staal
 811	Victorious Skanda	Zeta Skanda
 812	Skanda Spirit
 813	Tasmanian Giant Crab	Tasmanian Giant Crab CC
