@@ -3274,6 +3274,57 @@
 003-016-045	Andromeda
 003-016-046	Black Hole
 003-016-047	The Big Bang
+003-017		CotC Ch.3 Zombie
+003-017-000	Earth
+003-017-001	Mars
+003-017-002	Jupiter
+003-017-003	Saturn
+003-017-004	Venus
+003-017-005	Mercury
+003-017-006	Sun
+003-017-007	Uranus
+003-017-008	Neptune
+003-017-009	Triton
+003-017-010	Pluto
+003-017-011	Red Rectangle
+003-017-012	Eskimo Nebula
+003-017-013	Catseye Nebula
+003-017-014	Egg Nebula
+003-017-015	Calabash Nebula
+003-017-016	Altair
+003-017-017	Sirius
+003-017-018	Canopus
+003-017-019	Vega
+003-017-020	Aldebaran
+003-017-021	Betelgeuse
+003-017-022	Deneb
+003-017-023	Cosmic Lounge
+003-017-024	Sighter's Star
+003-017-025	Kaiou
+003-017-026	Magellanic
+003-017-027	Buutara
+003-017-028	Moskandag
+003-017-029	Corona
+003-017-030	Soba IV
+003-017-031	Plumpit
+003-017-032	Darararah
+003-017-033	Thanxbye
+003-017-034	Mertoz
+003-017-035	Urura
+003-017-036	Aguham
+003-017-037	Somolon
+003-017-038	Ababwa
+003-017-039	Titan
+003-017-040	Skelling
+003-017-041	Gorigori
+003-017-042	Broton
+003-017-043	Crimson Star
+003-017-044	N77 Nebula
+003-017-045	Andromeda
+003-017-046	Black Hole
+003-017-047	The Big Bang
+003-018		Filibuster Invasion Zombie
+003-018-000	Filibuster Invasion Zombie
 
 004			Extra Stages
 004-000		Growing Green

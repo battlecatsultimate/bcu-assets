@@ -3266,6 +3266,55 @@
 003-016-045	Andromeda
 003-016-046	Schwarzes Loch
 003-016-047	Der Urknall
+003-017		CotC Ch.3 Zombie
+003-017-000	Erde
+003-017-001	Mars
+003-017-002	Jupiter
+003-017-003	Saturn
+003-017-004	Venus
+003-017-005	Merkur
+003-017-006	Sonne
+003-017-007	Uranus
+003-017-008	Neptun
+003-017-009	Triton
+003-017-010	Pluto
+003-017-011	Roter Rechtecknebel
+003-017-012	Eskimonebel
+003-017-013	Katzenaugennebel
+003-017-014	Eier-Nebel
+003-017-015	„Faules Ei“-Nebel
+003-017-016	Altair
+003-017-017	Sirius
+003-017-018	Canopus
+003-017-019	Vega
+003-017-020	Aldebaran
+003-017-021	Beteigeuze
+003-017-022	Deneb
+003-017-023	Kosmische Lounge
+003-017-024	Sichter-Stern
+003-017-025	Kaiou
+003-017-026	Magellansche Wolke
+003-017-027	Buutara
+003-017-028	Moskandag
+003-017-029	Lichthof
+003-017-030	Soba IV
+003-017-031	Pflaumenkern
+003-017-032	Darararah
+003-017-033	Danke, tschüs
+003-017-034	Mertoz
+003-017-035	Urura
+003-017-036	Aguham
+003-017-037	Somolon
+003-017-038	Ababwa
+003-017-039	Titan
+003-017-040	Skelling
+003-017-041	Gorigori
+003-017-042	Broton
+003-017-043	Blutroter Stern
+003-017-044	N77-Nebel
+003-017-045	Andromeda
+003-017-046	Schwarzes Loch
+003-017-047	Der Urknall
 
 004			Extra Stages
 004-000		Grünes Sprießen

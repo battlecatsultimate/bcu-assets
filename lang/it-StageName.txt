@@ -3270,6 +3270,55 @@
 003-016-045	Andromeda
 003-016-046	Buco Nero
 003-016-047	Il Big Bang
+003-017		CotC Ch.3 Zombie
+003-017-000	Terra
+003-017-001	Marte
+003-017-002	Giove
+003-017-003	Saturno
+003-017-004	Venere
+003-017-005	Mercurio
+003-017-006	Sole
+003-017-007	Urano
+003-017-008	Nettuno
+003-017-009	Tritone
+003-017-010	Plutone
+003-017-011	Rettangolo Rosso
+003-017-012	Nebulosa Eschimese
+003-017-013	Nebulosa Occhio di gatto
+003-017-014	Nebulosa Uovo
+003-017-015	Nebulosa Calabash
+003-017-016	Altair
+003-017-017	Sirio
+003-017-018	Canopo
+003-017-019	Vega
+003-017-020	Aldebaran
+003-017-021	Betelgeuse
+003-017-022	Deneb
+003-017-023	Salotto cosmico
+003-017-024	Stella guida
+003-017-025	Kaiou
+003-017-026	Magellanico
+003-017-027	Buutara
+003-017-028	Moskandag
+003-017-029	Colonna
+003-017-030	Ramen IV
+003-017-031	Nocciolo
+003-017-032	Darararah
+003-017-033	Grazyeciao
+003-017-034	Mertoz
+003-017-035	Urura
+003-017-036	Aguham
+003-017-037	Somolon
+003-017-038	Ababua
+003-017-039	Titano
+003-017-040	Skelling
+003-017-041	Gorigori
+003-017-042	Brotone
+003-017-043	Stella rossa
+003-017-044	Nebulosa N77
+003-017-045	Andromeda
+003-017-046	Buco Nero
+003-017-047	Il Big Bang
 
 004			Extra Stages
 004-000		Tempesta in arrivo (Folle)

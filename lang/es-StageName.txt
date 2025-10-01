@@ -3268,6 +3268,55 @@
 003-016-045	Andrómeda
 003-016-046	Agujero Negro
 003-016-047	El Big Bang
+003-017		CotC Ch.3 Zombie
+003-017-000	Tierra
+003-017-001	Marte
+003-017-002	Júpiter
+003-017-003	Saturno
+003-017-004	Venus
+003-017-005	Mercurio
+003-017-006	Sol
+003-017-007	Urano
+003-017-008	Neptuno
+003-017-009	Tritón
+003-017-010	Plutón
+003-017-011	Rectángulo Rojo
+003-017-012	Nebulosa Esquimal
+003-017-013	Nebulosa Gatojo
+003-017-014	Nebulosa Huevo
+003-017-015	Nebulosa Calabaz
+003-017-016	Altair
+003-017-017	Sirio
+003-017-018	Canopus
+003-017-019	Vega
+003-017-020	Aldebarán
+003-017-021	Betelgeuse
+003-017-022	Deneb
+003-017-023	Bar Cósmico
+003-017-024	Estrella Vegetal
+003-017-025	Kaito
+003-017-026	Magallánico
+003-017-027	Buutara
+003-017-028	Moskandag
+003-017-029	Regina
+003-017-030	Tallarínex IV
+003-017-031	Ciruelurno
+003-017-032	Darararah
+003-017-033	Vengachao
+003-017-034	Mertoz
+003-017-035	Urura
+003-017-036	Aguham
+003-017-037	Somolón
+003-017-038	Ababwa
+003-017-039	Titán
+003-017-040	Skelet
+003-017-041	Gorigori
+003-017-042	Brotón
+003-017-043	Estrella Carmesí
+003-017-044	Nébula N77
+003-017-045	Andrómeda
+003-017-046	Agujero Negro
+003-017-047	El Big Bang
 
 004			Extra Stages
 004-000		Cultivo Verde
