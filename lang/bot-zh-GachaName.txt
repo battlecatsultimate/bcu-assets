@@ -97,6 +97,7 @@ E40	貓咪的暑假 野外求生
 E41	貓咪的暑假 享樂天堂篇
 E42 Download Celebration Capsules
 E43	貓咪的暑假 享樂天堂篇
+E44	萬聖節派對！ 特別★活動轉蛋
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -1007,3 +1008,6 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 1012	-1011	820
 1013	-112	787
 1014	-118	820
+1016	-9	824
+1017	-2024	827
+1018	-2025	826

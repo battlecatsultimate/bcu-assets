@@ -741,3 +741,9 @@
 741	Whiskingmeister
 742	Fireworks Gang
 743	Jumbo Jones
+744	Deathund
+745	Darkmadillo
+746
+747	Manager Cat & Staff Cat
+748	Cammy
+749	Juri

@@ -101,6 +101,7 @@ E40	Summer Break Survival Capsules
 E41	Summer Break Capsules Paradise
 E42 Download Celebration Capsules
 E43	Summer Break Capsules Paradise
+E44	Halloween Party Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -1000,3 +1001,6 @@ N65	Cats Eye Capsules
 1012	-1011	820
 1013	-112	787
 1014	-118	820
+1016	-9	824
+1017	-2024	827
+1018	-2025	826

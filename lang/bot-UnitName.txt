@@ -358,7 +358,7 @@
 357	Wolfchild Deale	Wolf Princess Deale	Jester Queen Deale
 358	Graveflower Verbena	Verbena the Bride	Opulent Verbena
 359	Bora	Bazibon	Bazibastra	Bazifenix
-360	Mizli	Marinmizu	Mizuririn
+360	Mizli	Marinmizu	Mizuririn	Mizurinade
 361	Aer	Erphuan	Aervanta	Aervantex
 362	Saber	Saber CC	Saber Alter CC
 363	Rin Tohsaka	Rin Tohsaka CC
@@ -515,7 +515,7 @@
 514	Zangief	Zangief CC
 515	Blanka	Blanka CC
 516	Dhalsim	Dhalsim CC
-517	Ken	Ken CC
+517	Ken	Ken CC	Fire-Breathing Fist Ken
 518	Akuma Giraffe	Akuma Lion
 519	Lasvoss	Ultimate Lasvoss 	Lasvoss Reborn
 520	Good-Luck Ebisu	Bad-Luck Ebisu
@@ -820,3 +820,10 @@
 820	Seaside Pegasa	Seaside Pegasa v
 821	Seaside Pegasa Spirit
 822	Consultant Cat	Business Partner Cat
+823	Manager Cat && Staff Cat	Manager Cat && Staff Cat CC
+824	Magician Sidomi	Great Flame Magician Sidomi
+825	Sidomi Spirit
+826	Cammy	Cammy CC
+827	Juri	Juri CC
+828	Zangief Cat	Zangief Cat CC
+829	Jamie Cat	Jamie Cat CC
