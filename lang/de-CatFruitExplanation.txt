@@ -358,7 +358,7 @@
 357	Wahre Form steigert Angriffstempo!<br><br>
 358	Wahre-Form-Entwicklung erhöht Verteidi-<br>gung und Chance auf Haudrauf-Treffer!<br>
 359	Wahre-Form-Entwicklung erhöht Angriff<br>und Verteidigung!<br>	Ultra-Form-Entw. erhöht Verteidigung,<br>Angriffskraft, Tempo & Angriffsreichw.<br>und verleiht Schwächen gg. Aliens!
-360	Wahre-Form-Entwicklung erhöht Angriff<br>und Verteidigung!<br>
+360	Wahre-Form-Entwicklung erhöht Angriff<br>und Verteidigung!<br>	Verbessert Vitalität, Angriffskraft und<br>Angriffsreichw.! Erhält höhere Robusth.,<br>Weiser Töter und Mini-Zufallsangriffe!
 361	Wahre-Form-Entwicklung erhöht Angriff<br>und Verteidigung!<br>	Wahre Form hat +Vert. und größere<br>Angriffsreichweite auf hohe Distanz!<br>Erhält zudem Rückstoß gg. Aliens!
 362	Wahre-Form-Entwicklung verstärkt Angriffe,<br>Verteidigung und Angriffsreichweite!<br>
 363	<br><br>
@@ -821,3 +821,6 @@
 820	<br><br>
 821	<br><br>
 822	<br><br>
+823	<br><br>
+824	<br><br>
+825	<br><br>

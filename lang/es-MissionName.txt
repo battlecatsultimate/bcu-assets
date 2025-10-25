@@ -81,6 +81,10 @@
 9048	Gana más de 6000 puntos. en la fase especial Caries Incipiente
 9049	Mejora al Gatohuevo al nivel 10. (Debes hacerlo antes de que acabe el evento)
 9050	Upgrade Shinji & Cat to Level 10! (You must evolve the Cat before the event ends!)
+9051	Clear any EVANGELION collab
+9052	Clear any EVANGELION collab
+9053	Clear any EVANGELION collab
+9054	Activate the EVA Angel Killer CatCombo and clear any stage. Clear Empire of Cats Ch. 1 and deploy Shinji & Cat and Kaworu & Cat..
 9055	Destroy the 4th Angel. Encounter this enemy at "State of Emergency"
 9056	Destroy the 6th Angel. Encounter this enemy at "Futagoyama Fortress"
 9057	Destroy the 9th Angel. Encounter this enemy at "Asuka On Board (Easy)"
@@ -668,9 +672,9 @@
 47	Informe de Emperatriz: Investigación de Aku. Supera 9 veces. las fases 1-5 de cada Informe de Emperatriz
 9321	【Invasión】Supera la fase. Ascendente Clionel 1 veces con 7 gatos especiales o más
 9322	【Invasión】Supera la fase Coronación de Reina. 1 veces con 7 normales o más
-9323	【Invasión】Supera la fase. El Muerto y el Hinchado 9 veces con 7 especiales o más
-9324	【Invasión】Supera la fase. La Reina y la Doncella 9 veces con 7 especiales o más
-9325	【Invasión】Supera la fase. El Rey y el Ángel 9 veces con 7 especiales o más
+9323	【Invasión】Supera la fase ¡El Muerto y el Hinchado! Completa también la siguiente fase
+9324	【Invasión】Supera la fase ¡La Reina y la Doncella! Completa también la siguiente fase
+9325	【Invasión】Supera la fase ¡El Rey y el Ángel! Completa también la siguiente fase
 48	Supera 9 fases de Matanza de Mastodontes por primera vez:
 49	Supera 9 fases de Matanza de Mastodontes por primera vez:
 9326	Misiones del Festival de Ciclón. Supera la fase Catástrofe Carmesí
@@ -815,7 +819,7 @@
 9460	【Parte 4: Pedido del pueblo】⑤ ¡Supera cierta fase del Imp. de los Gatos (cap. 1) y admira las pirámides aztecas!
 9461	【Parte 4: Pedido del pueblo】
 9462	【Parte 5: Batalla en el Castillo del Chucho】. Supera la fase ¡Aparece el Rey Mímico!
-9465	【11.º aniversario】¡Supera las misiones de Parte 1:. Última parte y llévate un tique de platino!
+9465	【11.º aniversario】¡Supera todas las misiones Parte 1-. Última parte y llévate un tique de platino!
 64	Misión del 11.º aniversario. Supera Imperio de los Gatos (cap. 1) durante el evento
 9466	【¡Batalla final del Rey Chucho!】. Supera esta fase y revela el secreto del 11.º aniversario
 9467	Supera el piso 50 de la Torre Celestial. (Este premio solo se puede recoger una vez)
@@ -874,11 +878,11 @@
 9528	¡Supera las fases del «Evento de Halloween». 9 veces! (Cualquier fase de evento)
 9529	Consigue un objeto destacado de las. cápsulas del Evento de la Fiesta Halloween
 9530	¡Supera todas las misiones del Evento de Halloween. y gana 1 tique raro!
-9531	[Campaña de Impulso Inicial] ¡Supera cualquier fase
-9532	[Campaña de Impulso Inicial] ¡Supera cualquier fase
-9533	[Campaña de Impulso Inicial] ¡Supera cualquier fase
-9534	[Campaña de Impulso Inicial] ¡Supera la fase de Japón. del Imperio de los Gatos y gana un tique raro!
-9535	[Campaña de Impulso Inicial] ¡Supera la fase de Japón. del Imperio de los Gatos y gana un liderazgo!
+9531	[Campaña para principiantes] Supera 9 fases del Imperio. de los Gatos (cualquier fase)
+9532	[Campaña para principiantes] Supera 9 fases del Imperio. de los Gatos (cualquier fase)
+9533	[Campaña para principiantes] Supera 9 fases del Imperio. de los Gatos (cualquier fase)
+9534	[Campaña para principiantes] Supera la fase del Imperio de los. Gatos Japón y consigue un tique raro para las bolas raras
+9535	[Campaña para principiantes] Supera la fase del Imperio de los. Gatos Japón y consigue liderazgo para recuperar energía
 66	Vence al ser vivo en el Laberinto del Bosque Viejo. Nivel 1 Fase 6
 67	[Campeonatos Afilagarras] Supera 9 fases de Campeonatos Afilagarras de rango 1
 68	[Campeonatos Afilagarras] Consigue 4 Gatos Legendarios. Avanza en Etapas

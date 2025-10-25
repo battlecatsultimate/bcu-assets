@@ -1485,7 +1485,7 @@
 001-320-003	Silver-Tooth Caramel
 001-320-004	Living Cookie Man
 001-320-005	Decrepit Gingerbread House
-001-321		#04 Mischevous Schemes
+001-321		#04 Mischievous Schemes
 001-321-000	Worldwide Oversleep
 001-321-001	Jellified Oceans
 001-321-002	Standstill Earth
@@ -1958,7 +1958,7 @@
 002-064		Mentori's Masterplan
 002-064-000	Mental Manipulations
 002-064-001	Not a Penguin
-002-065		Evangelion Activates!
+002-065		EVANGELION Activates!
 002-065-000	State of Emergency
 002-065-001	NERV
 002-065-002	I Mustn't Run Away…
@@ -2389,7 +2389,7 @@
 002-207		Eva Unit-13 Strikes!
 002-207-000	It's Not Your Fault (Veteran)
 002-207-001	We'll Meet Again (Merciless)
-002-208		Final Battle: Eva Unit-13
+002-208		Final Battle: EVA Unit-13
 002-208-000	Something I Must Do
 002-208-001	Grow Up, Shinji
 002-209		Bye-bye, all of the Cats
@@ -2483,6 +2483,15 @@
 002-226-002	Sonic's Battle Buddy
 002-226-003	Hot-Headed Echidna
 002-226-004	Master Emerald's Protector
+002-227		The 9th Angel Strikes!
+002-227-000	Asuka On Board (Easy)
+002-227-001	Asuka On Board (Expert)
+002-228		The 10th Angel Strikes!
+002-228-000	Refusal Type (Hard)
+002-228-001	Refusal Type (Merciless)
+002-229		EVA Unit-13 Strikes!
+002-229-000	It's Not Your Fault (Veteran)
+002-229-001	We'll Meet Again (Merciless)
 
 003			Main Story Chapters
 003-000		EoC Ch.1 Zombie
@@ -5956,6 +5965,16 @@
 027-023-017	Chaos Control Lv.18
 027-023-018	Chaos Control Lv.19
 027-023-019	Lv. MAX Ultimate Power!
+027-024		Mass Production EVA Strikes
+027-024-000	Annihilation Lv.1
+027-024-001	Annihilation Lv.2
+027-024-002	Annihilation Lv.3
+027-024-003	Annihilation Lv.4
+027-024-004	Annihilation Lv.5
+027-024-005	Annihilation Lv.6
+027-024-006	Annihilation Lv.7
+027-024-007	Annihilation Lv.8
+027-024-008	This is the End!
 
 031			Behemoth Culling Stages
 031-000		Hidden Forest of Gapra
@@ -6295,7 +6314,21 @@
 034-022-003	Lively Spirits
 034-022-004	Wicked Clergyman
 034-022-005	Round-trip to Heaven
-
+034-023		Sleeping Chasm
+034-023-000	Lying Somniloquy
+034-023-001	Midair Toss & Turn
+034-023-002	Dreams and Illusions
+034-023-003	Snores and Prayers
+034-023-004	No Sleeping In
+034-023-005	Dozing Love
+034-024		Forgotten Republic
+034-024-000	Deserted Bus Stop
+034-024-001	No-Returns Library
+034-024-002	Deja-Vu Lunch
+034-024-003	Plaza of Queues
+034-024-004	Awash with Spare Keys
+034-024-005	Motley Assembly
+5
 036			Colosseum Stages
 036-000		Otherworld Colosseum
 036-000-000	Round 1
@@ -6387,6 +6420,18 @@
 036-014-002	Round 3
 036-014-003	Round 4
 036-014-004	Round 5
+036-015		Otherworld Colosseum
+036-015-000	Round 1
+036-015-001	Round 2
+036-015-002	Round 3
+036-015-003	Round 4
+036-015-004	Round 5
+036-016		Otherworld Colosseum
+036-016-000	Round 1
+036-016-001	Round 2
+036-016-002	Round 3
+036-016-003	Round 4
+036-016-004	Round 5
 
 037			Catclaw Championships
 037-000		Catclaw Championships Rank 1

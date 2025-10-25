@@ -215,6 +215,10 @@
 224|I447	Coffre au trésor (bronze)
 225|I448	Coffre au trésor (argent)
 226|I449	Coffre au trésor (or)
+227|S227|I450	Esprit légendaire
+228|I451	Coffre au trésor (bronze)
+229|I452	Coffre au trésor (argent)
+230|I453	Coffre au trésor (or)
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -990,28 +994,38 @@
 30262	Améliore les Légendes mystérieuses B
 30263	Améliore les Légendes mystérieuses A
 30264	Améliore les Légendes mystérieuses S
-30265	Compteur de réplique offensive unique : D
-30266	Compteur de réplique offensive unique : C
-30267	Compteur de réplique offensive unique : B
-30268	Compteur de réplique offensive unique : A
-30269	Compteur de réplique offensive unique : S
-30270	Berserker : D
-30271	Berserker : C
-30272	Berserker : B
-30273	Berserker : A
-30274	Berserker : S
-30275	Rechargement raccourci : D
-30276	Rechargement raccourci : C
-30277	Rechargement raccourci : B
-30278	Rechargement raccourci : A
-30279	Rechargement raccourci : S
-30280	Résist. Immobilisation : D
-30281	Résist. Immobilisation : C
-30282	Résist. Immobilisation : B
-30283	Résist. Immobilisation : A
-30284	Résist. Immobilisation : S
-30285	Résist. Affaiblissement : D
-30286	Résist. Affaiblissement : C
-30287	Résist. Affaiblissement : B
-30288	Résist. Affaiblissement : A
-30289	Résist. Affaiblissement : S
+30265	Compteur de réplique offensive unique D
+30266	Compteur de réplique offensive unique C
+30267	Compteur de réplique offensive unique B
+30268	Compteur de réplique offensive unique A
+30269	Compteur de réplique offensive unique S
+30270	Berserker D
+30271	Berserker C
+30272	Berserker B
+30273	Berserker A
+30274	Berserker S
+30275	Rechargement raccourci D
+30276	Rechargement raccourci C
+30277	Rechargement raccourci B
+30278	Rechargement raccourci A
+30279	Rechargement raccourci S
+30280	Résist. Immobilisation D
+30281	Résist. Immobilisation C
+30282	Résist. Immobilisation B
+30283	Résist. Immobilisation A
+30284	Résist. Immobilisation S
+30285	Résist. Affaiblissement D
+30286	Résist. Affaiblissement C
+30287	Résist. Affaiblissement B
+30288	Résist. Affaiblissement A
+30289	Résist. Affaiblissement S
+30290	Coût réduit D
+30291	Coût réduit C
+30292	Coût réduit B
+30293	Coût réduit A
+30294	Coût réduit S
+30295	Résist. répliques D
+30296	Résist. répliques C
+30297	Résist. répliques B
+30298	Résist. répliques A
+30299	Résist. répliques S

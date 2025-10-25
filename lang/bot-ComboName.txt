@@ -243,3 +243,4 @@
 3059	Steel Tennis
 3060	Wartime Burial
 3061	Insatiable Hunger
+3062	Cosmic Warriors

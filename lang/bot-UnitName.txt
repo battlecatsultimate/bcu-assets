@@ -358,7 +358,7 @@
 357	Wolfchild Deale	Wolf Princess Deale	Jester Queen Deale
 358	Graveflower Verbena	Verbena the Bride	Opulent Verbena
 359	Bora	Bazibon	Bazibastra	Bazifenix
-360	Mizli	Marinmizu	Mizuririn	Mizurinade
+360	Mizli	Marinmizu	Mizuririn	Mizunade
 361	Aer	Erphuan	Aervanta	Aervantex
 362	Saber	Saber CC	Saber Alter CC
 363	Rin Tohsaka	Rin Tohsaka CC
@@ -410,9 +410,9 @@
 409	Rei Ayanami	Plug Suit Rei	Reunion Li'l Rei
 410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka
 411	Mari Illustrious	Plug Suit Mari
-412	Eva Unit-00	Eva Unit-00 & Cat
-413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-01 & Cat
-414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777
+412	EVA Unit-00	EVA Unit-00 & Cat
+413	EVA Unit-01	EVA Unit-01 & Cat	Determined Unit-01 & Cat
+414	EVA Unit-02	EVA Unit-02 & Cat	Unit-02, Code 777
 415	Shinji Cat	Toji & Kensuke Cats
 416	Moon Operators	NERV Moon
 417	Mighty Thermae D-Lux	Subterra Guardians	Subterra Sentinels
@@ -485,7 +485,7 @@
 484	Li'l Valkyrie Dark	Dark Rider Valkyrie
 485	Calette	Calette CC	
 486	Hina	Swordswoman Hina	
-487	Eva Unit-08	Eva Unit-08 & Cat
+487	EVA Unit-08	EVA Unit-08 & Cat
 488	AAA Wunder	NNN Wunder	Vanished NNN Wunder
 489	Misato Katsuragi	Captain Misato
 490	Ritsuko Akagi	First Officer Ritsuko
@@ -708,7 +708,7 @@
 707	Ancient Egg: N109	Dark Egg: N109	Barrel Cat
 708	Jetpack Cat	Kinjirou Cat
 709	One-Eyed Asuka	Blue-Eyed Asuka	
-710	Eva Unit-13	Eva Unit-13 & Cat	
+710	EVA Unit-13	EVA Unit-13 & Cat
 711	Betrothed Balaluga	Betrothed Pasalan	
 712	Kaoluga	Kaoluga Pasalan	
 713	Ancient Egg: N203	Violet Egg: N203	Clown Cat
@@ -811,8 +811,8 @@
 811	Victorious Skanda	Zeta Skanda
 812	Skanda Spirit
 813	Tasmanian Giant Crab	Tasmanian Giant Crab CC
-814	Mass Production Eva	Mass Production Eva Cat
-815	Moonlight Boy Kaworu	Messenger of Moonset Kaworu
+814	Mass Production EVA	Mass Production EVA-Cat
+815	Moonshade Kaworu	Moon Disciple Kaworu
 816	Kaworu Spirit
 817	Komori	Moririn
 818	Komori Spirit
@@ -821,8 +821,8 @@
 821	Seaside Pegasa Spirit
 822	Consultant Cat	Business Partner Cat
 823	Manager Cat && Staff Cat	Manager Cat && Staff Cat CC
-824	Magician Sidomi	Great Flame Magician Sidomi
-825	Sidomi Spirit
+824	Sorceress Sidmi	Flame Mage Sidmi
+825	Sidmi Spirit
 826	Cammy	Cammy CC
 827	Juri	Juri CC
 828	Zangief Cat	Zangief Cat CC

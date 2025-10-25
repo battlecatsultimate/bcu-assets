@@ -2386,7 +2386,7 @@
 002-207		Eva Unit-13 Strikes!
 002-207-000	It's Not Your Fault (Veteran)
 002-207-001	We'll Meet Again (Merciless)
-002-208		Final Battle: Eva Unit-13
+002-208		Final Battle: EVA Unit-13
 002-208-000	Something I Must Do
 002-208-001	Grow Up, Shinji
 002-209		Bye-bye, all of the Cats
@@ -2480,6 +2480,15 @@
 002-226-002	Sonic's Battle Buddy
 002-226-003	Hot-Headed Echidna
 002-226-004	Master Emerald's Protector
+002-227		The 9th Angel Strikes!
+002-227-000	Asuka On Board (Easy)
+002-227-001	Asuka On Board (Expert)
+002-228		The 10th Angel Strikes!
+002-228-000	Refusal Type (Hard)
+002-228-001	Refusal Type (Merciless)
+002-229		EVA Unit-13 Strikes!
+002-229-000	It's Not Your Fault (Veteran)
+002-229-001	We'll Meet Again (Merciless)
 003			
 003-000		EoC Ch.1 Zombie
 003-000-000	Korea
@@ -5918,6 +5927,15 @@
 027-023-017	Chaos Control Lv.18
 027-023-018	Chaos Control Lv.19
 027-023-019	Lv. MAX Ultimate Power!
+002-227		The 9th Angel Strikes!
+002-227-000	Asuka On Board (Easy)
+002-227-001	Asuka On Board (Expert)
+002-228		The 10th Angel Strikes!
+002-228-000	Refusal Type (Hard)
+002-228-001	Refusal Type (Merciless)
+002-229		EVA Unit-13 Strikes!
+002-229-000	It's Not Your Fault (Veteran)
+002-229-001	We'll Meet Again (Merciless)
 
 031			Behemoth Culling Stages
 031-000		Versteckter Gapra-Wald
@@ -6257,6 +6275,20 @@
 034-022-003	Lebhafte Geister
 034-022-004	Fieser Pfarrer
 034-022-005	Rundreise durch den Himmel
+034-023		Kluft des Schlafs
+034-023-000	Lügen im Liegen
+034-023-001	Schlafloser Freifall
+034-023-002	Träume und Illusionen
+034-023-003	Schnarchende Gebete
+034-023-004	Ausschlafen ist nicht
+034-023-005	Dösende Liebe
+034-024		Vergessene Republik
+034-024-000	Verlassene Bushaltestelle
+034-024-001	Bibliothek ohne Rückgabe
+034-024-002	Déjà-vu zum Mittagessen
+034-024-003	Warteschlangen-Plaza
+034-024-004	Ersatzschlüssel bis zum Abwinken
+034-024-005	Kunterbunte Ansammlung
 
 036			Colosseum Stages
 036-000		Anderwelt-Kolosseum
@@ -6349,6 +6381,18 @@
 036-014-002	Runde 3
 036-014-003	Runde 4
 036-014-004	Runde 5
+036-015		Anderwelt-Kolosseum
+036-015-000	Runde 1
+036-015-001	Runde 2
+036-015-002	Runde 3
+036-015-003	Runde 4
+036-015-004	Runde 5
+036-016		Anderwelt-Kolosseum
+036-016-000	Runde 1
+036-016-001	Runde 2
+036-016-002	Runde 3
+036-016-003	Runde 4
+036-016-004	Runde 5
 
 037			Katzenkrall-Meisterschaften
 037-000		Katzenkrall-Meisterschaften Rang 1

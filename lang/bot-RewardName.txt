@@ -215,6 +215,10 @@
 224|I447	Treasure Chest (Bronze)
 225|I448	Treasure Chest (Silver)
 226|I449	Treasure Chest (Gold)
+227|S227|I450	Legendary Spirit
+228|I451	Treasure Chest (Bronze)
+229|I452	Treasure Chest (Silver)
+230|I453	Treasure Chest (Gold)
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -1015,3 +1019,13 @@
 30287	Resist Weaken B
 30288	Resist Weaken A
 30289	Resist Weaken S
+30290	Cost Down D
+30291	Cost Down C
+30292	Cost Down B
+30293	Cost Down A
+30294	Cost Down S
+30295	Resist Surges D
+30296	Resist Surges C
+30297	Resist Surges B
+30298	Resist Surges A
+30299	Resist Surges S

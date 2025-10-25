@@ -121,3 +121,5 @@
 120	Supera el piso S100 del Laberinto Subterráneo
 121	Desbloquea al Sabio de la lógica Newton
 122	Supera Invasión Colosal.
+123	Supera todos los brotes zombis en Gatos Galácticos c. 3
+124	Supera la fase de Zombis Filiembusteros

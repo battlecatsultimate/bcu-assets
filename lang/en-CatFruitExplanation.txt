@@ -334,7 +334,7 @@
 333	<br><br>
 334	True Form evolution improves all stats!<br>Plus, Floating and Angel enemies are<br>slowed for longer period of time!
 335	True Form evolution gains improved attack<br>power and defense! Plus, Red enemies are<br>weakened for an even longer time!
-336	True form gains improved attack speed<br>and number of pushbacks against enemies.<br>
+336	True form gains improved attack speed<br>and number of pushbacks against enemies.<br>	True form gains improved attack speed<br>and number of Knockbacks against enemies.<br>
 337	True Form evolution gains improved<br>defense, move speed and attack!<br>	True Form evolution increases<br>defense, move speed and attack!<br>
 338	True Form evolution gains improved defense<br>and attack range. Plus, weakens Black<br>enemies for longer lengths of time.
 339	<br><br>
@@ -358,7 +358,7 @@
 357	True form gains improved attack speed!<br><br>
 358	True form evolution gains improved Defense!<br>Critical chance is also increased!<br>
 359	True Form evolution increases<br>attack power and defense!<br>	Ultra Form evolution gains improved<br>defense, attack power, movement speed,<br>attack range, and Weaken vs. Aliens!
-360	True Form evolution improves<br>attack power and defense!<br>
+360	True Form evolution improves<br>attack power and defense!<br>	Improves vitality, attack power, and<br>attack range! Gains improved toughness,<br>Sage Slayer, and Mini-Surges!
 361	True Form evolution improves<br>attack power and defense!<br>	Ultra Form gains increased defense and<br>a wider attack range with longer reach!<br>Plus, gains Knockback vs. Aliens!
 362	True Form evolution increases attack,<br>defense and attack range!<br>
 363	<br><br>
@@ -631,7 +631,7 @@
 630	<br><br>
 631	True Form gains significantly increased<br>Attack! Gains Wave Shield and<br>Immunity to Waves!
 632	True Form gains increased attack!<br>Also gains immunity to enemy Freeze effect!<br>
-633	True Form evolution gains improved Defense and<br>100% chance of Mini-Wave.<br>
+633	True Form evolution gains improved Defense<br>and 100% chance of Mini-Wave.<br>
 634	True Form gains massive Area damage <br>to Aku, Immunity to Freeze effects, and<br>has a chance to Pierce Aku Shields!
 635	<br><br>
 636	<br><br>
@@ -821,3 +821,6 @@
 820	<br><br>
 821	<br><br>
 822	<br><br>
+823	<br><br>
+824	<br><br>
+825	<br><br>

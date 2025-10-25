@@ -1958,7 +1958,7 @@
 002-064		Mentori's Masterplan
 002-064-000	Mental Manipulations
 002-064-001	Not a Penguin
-002-065		Evangelion Activates!
+002-065		EVANGELION Activates!
 002-065-000	State of Emergency
 002-065-001	NERV
 002-065-002	I Mustn't Run Away…
@@ -2389,7 +2389,7 @@
 002-207		Eva Unit-13 Strikes!
 002-207-000	It's Not Your Fault (Veteran)
 002-207-001	We'll Meet Again (Merciless)
-002-208		Final Battle: Eva Unit-13
+002-208		Final Battle: EVA Unit-13
 002-208-000	Something I Must Do
 002-208-001	Grow Up, Shinji
 002-209		Bye-bye, all of the Cats
@@ -2483,6 +2483,15 @@
 002-226-002	Sonic's Battle Buddy
 002-226-003	Hot-Headed Echidna
 002-226-004	Master Emerald's Protector
+002-227		The 9th Angel Strikes!
+002-227-000	Asuka On Board (Easy)
+002-227-001	Asuka On Board (Expert)
+002-228		The 10th Angel Strikes!
+002-228-000	Refusal Type (Hard)
+002-228-001	Refusal Type (Merciless)
+002-229		EVA Unit-13 Strikes!
+002-229-000	It's Not Your Fault (Veteran)
+002-229-001	We'll Meet Again (Merciless)
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -5922,6 +5931,16 @@
 027-023-017	Chaos Control Lv.18
 027-023-018	Chaos Control Lv.19
 027-023-019	Lv. MAX Ultimate Power!
+027-024		Mass Production EVA Strikes
+027-024-000	Annihilation Lv.1
+027-024-001	Annihilation Lv.2
+027-024-002	Annihilation Lv.3
+027-024-003	Annihilation Lv.4
+027-024-004	Annihilation Lv.5
+027-024-005	Annihilation Lv.6
+027-024-006	Annihilation Lv.7
+027-024-007	Annihilation Lv.8
+027-024-008	This is the End!
 
 031			Behemoth Culling Stages
 031-000		Foresta segreta di Gapra
@@ -6261,6 +6280,20 @@
 034-022-003	Spiriti vivaci
 034-022-004	Sacerdote malvagio
 034-022-005	Andata e ritorno in paradiso
+034-023		Abisso addormentato
+034-023-000	Sonniloquio menzognero
+034-023-001	Girarsi e rigirarsi a mezz'aria
+034-023-002	Sogni e illusioni
+034-023-003	Sonni e preghiere
+034-023-004	Non si dorme fino a tardi
+034-023-005	Amore appisolato
+034-024		Repubblica dimenticata
+034-024-000	Fermata dell'autobus deserta
+034-024-001	Biblioteca del non ritorno
+034-024-002	Pranzo da déjà-vu
+034-024-003	Piazza delle attese
+034-024-004	Un mare di chiavi di riserva
+034-024-005	Assemblea variopinta
 
 036			Colosseum Stages
 036-000		Colosseo ultraterreno
@@ -6353,6 +6386,18 @@
 036-014-002	Round 3
 036-014-003	Round 4
 036-014-004	Round 5
+036-015		Colosseo ultraterreno
+036-015-000	Round 1
+036-015-001	Round 2
+036-015-002	Round 3
+036-015-003	Round 4
+036-015-004	Round 5
+036-016		Colosseo ultraterreno
+036-016-000	Round 1
+036-016-001	Round 2
+036-016-002	Round 3
+036-016-003	Round 4
+036-016-004	Round 5
 
 037			Campionati miciodiali
 037-000		Campionati miciodiali Grado 1

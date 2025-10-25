@@ -742,3 +742,5 @@
 741	Whiskingmeister
 742	Fireworks Gang
 743	Jumbo Jones
+744	Deathshund
+745	Darkmadillo

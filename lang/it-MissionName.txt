@@ -85,6 +85,10 @@
 9048	Ottieni più di 6000 punti nel. livello speciale "Carie in agguato"!
 9049	Potenzia Gattuovo a livello 10! (Deve evolvere prima che finisca l'evento!)
 9050	Upgrade Shinji & Cat to Level 10! (You must evolve the Cat before the event ends!)
+9051	Clear any EVANGELION collab
+9052	Clear any EVANGELION collab
+9053	Clear any EVANGELION collab
+9054	Activate the EVA Angel Killer CatCombo and clear any stage. Clear Empire of Cats Ch. 1 and deploy Shinji & Cat and Kaworu & Cat..
 9055	Destroy the 4th Angel. Encounter this enemy at "State of Emergency"
 9056	Destroy the 6th Angel. Encounter this enemy at "Futagoyama Fortress"
 9057	Destroy the 9th Angel. Encounter this enemy at "Asuka On Board (Easy)"
@@ -879,11 +883,11 @@
 9528	Supera i livelli dell'evento Halloween. 9 volte! (Qualsiasi livello evento)
 9529	Acquista un oggetto in evidenza dalle. capsule dell'evento Festa di Halloween!
 9530	Supera tutte le missioni dell'evento Halloween. e ottieni 1 biglietto raro!
-9531	[Campagna Vantaggio iniziale] Supera qualsiasi livello. di Impero dei Gatti 9 volte!
-9532	[Campagna Vantaggio iniziale] Supera qualsiasi livello. di Impero dei Gatti 9 volte!
-9533	[Campagna Vantaggio iniziale] Supera qualsiasi livello. di Impero dei Gatti 9 volte!
-9534	[Campagna Vantaggio iniziale] Supera il livello Giappone. di Impero dei Gatti e ottieni un biglietto raro!
-9535	[Campagna Vantaggio iniziale] Supera il livello Giappone. di Impero dei Gatti e ottieni una Leadership!
+9531	[Campagna principianti] Supera 9 livelli di Impero dei Gatti. (Qualsiasi livello di Impero dei Gatti)
+9532	[Campagna principianti] Supera 9 livelli di Impero dei Gatti. (Qualsiasi livello di Impero dei Gatti)
+9533	[Campagna principianti] Supera 9 livelli di Impero dei Gatti. (Qualsiasi livello di Impero dei Gatti)
+9534	[Campagna principianti] Supera Giappone di Impero. dei Gatti e ottieni 1 biglietto raro per capsule rare!
+9535	[Campagna principianti] Supera Giappone di Impero dei. Gatti e ottieni leadership per recuperare energia felina!
 66	Sconfiggi la forma di vita nel Labirinto antica foresta. Liv.1 fase 6
 67	[Campionati miciodiali] Supera 9 livelli di Campionati miciodiali Grado 1. Accedi al Dojo miciodiale per affrontare questo livello
 68	[Campionati miciodiali] Ottieni 4 Gatti leggendari. Vai avanti nei livelli. leggendari per raccoglierli nei livelli speciali

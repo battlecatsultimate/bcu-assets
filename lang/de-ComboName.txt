@@ -243,3 +243,4 @@
 3059	Stahltennis
 3060	Kriegsbegräbnis
 3061	Unstillbarer Hunger
+3062	Kosmische Krieger

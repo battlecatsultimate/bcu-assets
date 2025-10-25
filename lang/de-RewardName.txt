@@ -215,6 +215,10 @@
 224|I447	Schatztruhe (Bronze)
 225|I448	Schatztruhe (Silber)
 226|I449	Schatztruhe (Gold)
+227|S227|I450	Legendärer Geist
+228|I451	Schatztruhe (Bronze)
+229|I452	Schatztruhe (Silber)
+230|I453	Schatztruhe (Gold)
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -1015,3 +1019,13 @@
 30287	Schwächen-Resistenz B
 30288	Schwächen-Resistenz A
 30289	Schwächen-Resistenz S
+30290	Kosten D
+30291	Kosten C
+30292	Kosten B
+30293	Kosten A
+30294	Kosten S
+30295	Zufalls-Resistenzen D
+30296	Zufalls-Resistenzen C
+30297	Zufalls-Resistenzen B
+30298	Zufalls-Resistenzen A
+30299	Zufalls-Resistenzen S

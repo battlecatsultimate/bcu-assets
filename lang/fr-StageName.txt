@@ -1956,7 +1956,7 @@
 002-064		Mentori's Masterplan
 002-064-000	Mental Manipulations
 002-064-001	Not a Penguin
-002-065		Evangelion Activates!
+002-065		EVANGELION Activates!
 002-065-000	State of Emergency
 002-065-001	NERV
 002-065-002	I Mustn't Run Away…
@@ -2387,7 +2387,7 @@
 002-207		Eva Unit-13 Strikes!
 002-207-000	It's Not Your Fault (Veteran)
 002-207-001	We'll Meet Again (Merciless)
-002-208		Final Battle: Eva Unit-13
+002-208		Final Battle: EVA Unit-13
 002-208-000	Something I Must Do
 002-208-001	Grow Up, Shinji
 002-209		Bye-bye, all of the Cats
@@ -2481,6 +2481,15 @@
 002-226-002	Sonic's Battle Buddy
 002-226-003	Hot-Headed Echidna
 002-226-004	Master Emerald's Protector
+002-227		The 9th Angel Strikes!
+002-227-000	Asuka On Board (Easy)
+002-227-001	Asuka On Board (Expert)
+002-228		The 10th Angel Strikes!
+002-228-000	Refusal Type (Hard)
+002-228-001	Refusal Type (Merciless)
+002-229		EVA Unit-13 Strikes!
+002-229-000	It's Not Your Fault (Veteran)
+002-229-001	We'll Meet Again (Merciless)
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -5931,6 +5940,16 @@
 027-023-017	Chaos Control Lv.18
 027-023-018	Chaos Control Lv.19
 027-023-019	Lv. MAX Ultimate Power!
+027-024		Mass Production EVA Strikes
+027-024-000	Annihilation Lv.1
+027-024-001	Annihilation Lv.2
+027-024-002	Annihilation Lv.3
+027-024-003	Annihilation Lv.4
+027-024-004	Annihilation Lv.5
+027-024-005	Annihilation Lv.6
+027-024-006	Annihilation Lv.7
+027-024-007	Annihilation Lv.8
+027-024-008	This is the End!
 
 031			Behemoth Culling Stages
 031-000		Forêt cachée de Gapra
@@ -6270,6 +6289,20 @@
 034-022-003	Esprits enjoués
 034-022-004	Ecclésiastique maléfique
 034-022-005	Aller-retour au Paradis
+034-023		Gouffre endormi
+034-023-000	Somniloquie mensongère
+034-023-001	Sommeil agité flottant
+034-023-002	Rêves et illusions
+034-023-003	Prières et ronflements
+034-023-004	Pas de grasse matinée
+034-023-005	Amour assoupi
+034-024		République oubliée
+034-024-000	Arrêt de bus désert
+034-024-001	Bibliothèque à sens unique
+034-024-002	Repas déjà-vu
+034-024-003	Place des files d’attente
+034-024-004	Clés de secours à gogo
+034-024-005	Assemblée disparate
 
 036			Colosseum Stages
 036-000		Colisée d'outre-monde
@@ -6362,6 +6395,18 @@
 036-014-002	3e manche
 036-014-003	4e manche
 036-014-004	5e manche
+036-015		Colisée d'outre-monde
+036-015-000	1re manche
+036-015-001	2e manche
+036-015-002	3e manche
+036-015-003	4e manche
+036-015-004	5e manche
+036-016		Colisée d'outre-monde
+036-016-000	1re manche
+036-016-001	2e manche
+036-016-002	3e manche
+036-016-003	4e manche
+036-016-004	5e manche
 
 037			Championnats Griffélin
 037-000		Rang 1 des championnats Griffélin

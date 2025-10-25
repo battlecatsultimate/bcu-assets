@@ -390,10 +390,10 @@
 389	Cerdi Victorioso
 390	Bang Bang
 391	
-392	
-393	
-394	
-395	
+392	The 4th Angel
+393	The 6th Angel
+394	The 9th Angel
+395	The 10th Angel
 396	Moneko Demente
 397	Moneko Corrupta
 398	Pandilla Luminosa
@@ -462,7 +462,7 @@
 461	Kano ＆ Souma
 462	
 463	
-464	
+464	Unit-13's False Evolution
 465	
 466	
 467	
@@ -645,7 +645,7 @@
 644	
 645	
 646	Redhead Yuki Cat
-647	
+647	EVA Unit-13
 648	
 649	Lutrinae Gokurakko
 650	Iguanidae Ibilujon
@@ -738,7 +738,18 @@
 737	Nutria subtropical
 738	
 739	
-740	
+740	Mass Production EVA
 741	Chamán Peludo
 742	Pandilleros Pirotécnicos
 743	Lunángel Colosal
+744	Perro Salchesino
+745	Sombrarmadillo
+746	
+747	
+748	
+749	
+750	
+751	
+752	
+753	
+754	

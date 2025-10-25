@@ -215,6 +215,10 @@
 224|I447	C. tesoro bronce
 225|I448	Cofre tesoro plata
 226|I449	Cofre tesoro oro
+227|S227|I450	Espíritu Legendario.
+228|I451	C. tesoro bronce
+229|I452	Cofre tesoro plata
+230|I453	Cofre tesoro oro
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -799,11 +803,11 @@
 30072	Mayor efecto «Superfuerza» B: Rojos
 30073	Mayor efecto «Superfuerza» A: Rojos
 30074	Mayor efecto «Superfuerza» S: Rojos
-30075	Mayor efecto «Resistencia» D: Rojos
-30076	Mayor efecto «Resistencia» C: Rojos
-30077	Mayor efecto «Resistencia» B: Rojos
-30078	Mayor efecto «Resistencia» A: Rojos
-30079	Mayor efecto «Resistencia» S: Rojos
+30075	Mayor efecto «Dureza» D: Rojos
+30076	Mayor efecto «Dureza» C: Rojos
+30077	Mayor efecto «Dureza» B: Rojos
+30078	Mayor efecto «Dureza» A: Rojos
+30079	Mayor efecto «Dureza» S: Rojos
 30080	Mayor efecto «Eficacia» D: Voladores
 30081	Mayor efecto «Eficacia» C: Voladores
 30082	Mayor efecto «Eficacia» B: Voladores
@@ -814,11 +818,11 @@
 30087	Mayor efecto «Superfuerza» B: Voladores
 30088	Mayor efecto «Superfuerza» A: Voladores
 30089	Mayor efecto «Superfuerza» S: Voladores
-30090	Mayor efecto «Resistencia» D: Voladores
-30091	Mayor efecto «Resistencia» C: Voladores
-30092	Mayor efecto «Resistencia» B: Voladores
-30093	Mayor efecto «Resistencia» A: Voladores
-30094	Mayor efecto «Resistencia» S: Voladores
+30090	Mayor efecto «Dureza» D: Voladores
+30091	Mayor efecto «Dureza» C: Voladores
+30092	Mayor efecto «Dureza» B: Voladores
+30093	Mayor efecto «Dureza» A: Voladores
+30094	Mayor efecto «Dureza» S: Voladores
 30095	Mayor efecto «Eficacia» D: Negros
 30096	Mayor efecto «Eficacia» C: Negros
 30097	Mayor efecto «Eficacia» B: Negros
@@ -829,11 +833,11 @@
 30102	Mayor efecto «Superfuerza» B: Negros
 30103	Mayor efecto «Superfuerza» A: Negros
 30104	Mayor efecto «Superfuerza» S: Negros
-30105	Mayor efecto «Resistencia» D: Negros
-30106	Mayor efecto «Resistencia» C: Negros
-30107	Mayor efecto «Resistencia» B: Negros
-30108	Mayor efecto «Resistencia» A: Negros
-30109	Mayor efecto «Resistencia» S: Negros
+30105	Mayor efecto «Dureza» D: Negros
+30106	Mayor efecto «Dureza» C: Negros
+30107	Mayor efecto «Dureza» B: Negros
+30108	Mayor efecto «Dureza» A: Negros
+30109	Mayor efecto «Dureza» S: Negros
 30110	Mayor efecto «Eficacia» D: Ángeles
 30111	Mayor efecto «Eficacia» C: Ángeles
 30112	Mayor efecto «Eficacia» B: Ángeles
@@ -844,11 +848,11 @@
 30117	Mayor efecto «Superfuerza» B: Ángeles
 30118	Mayor efecto «Superfuerza» A: Ángeles
 30119	Mayor efecto «Superfuerza» S: Ángeles
-30120	Mayor efecto «Resistencia» D: Ángeles
-30121	Mayor efecto «Resistencia» C: Ángeles
-30122	Mayor efecto «Resistencia» B: Ángeles
-30123	Mayor efecto «Resistencia» A: Ángeles
-30124	Mayor efecto «Resistencia» S: Ángeles
+30120	Mayor efecto «Dureza» D: Ángeles
+30121	Mayor efecto «Dureza» C: Ángeles
+30122	Mayor efecto «Dureza» B: Ángeles
+30123	Mayor efecto «Dureza» A: Ángeles
+30124	Mayor efecto «Dureza» S: Ángeles
 30125	Mayor efecto «Eficacia» D: Álienes
 30126	Mayor efecto «Eficacia» C: Álienes
 30127	Mayor efecto «Eficacia» B: Álienes
@@ -859,11 +863,11 @@
 30132	Mayor efecto «Superfuerza» B: Álienes
 30133	Mayor efecto «Superfuerza» A: Álienes
 30134	Mayor efecto «Superfuerza» S: Álienes
-30135	Mayor efecto «Resistencia» D: Álienes
-30136	Mayor efecto «Resistencia» C: Álienes
-30137	Mayor efecto «Resistencia» B: Álienes
-30138	Mayor efecto «Resistencia» A: Álienes
-30139	Mayor efecto «Resistencia» S: Álienes
+30135	Mayor efecto «Dureza» D: Álienes
+30136	Mayor efecto «Dureza» C: Álienes
+30137	Mayor efecto «Dureza» B: Álienes
+30138	Mayor efecto «Dureza» A: Álienes
+30139	Mayor efecto «Dureza» S: Álienes
 30140	Mayor efecto «Eficacia» D: Zombis
 30141	Mayor efecto «Eficacia» C: Zombis
 30142	Mayor efecto «Eficacia» B: Zombis
@@ -874,11 +878,11 @@
 30147	Mayor efecto «Superfuerza» B: Zombis
 30148	Mayor efecto «Superfuerza» A: Zombis
 30149	Mayor efecto «Superfuerza» S: Zombis
-30150	Mayor efecto «Resistencia» D: Zombis
-30151	Mayor efecto «Resistencia» C: Zombis
-30152	Mayor efecto «Resistencia» B: Zombis
-30153	Mayor efecto «Resistencia» A: Zombis
-30154	Mayor efecto «Resistencia» S: Zombis
+30150	Mayor efecto «Dureza» D: Zombis
+30151	Mayor efecto «Dureza» C: Zombis
+30152	Mayor efecto «Dureza» B: Zombis
+30153	Mayor efecto «Dureza» A: Zombis
+30154	Mayor efecto «Dureza» S: Zombis
 30155	Aumento de ataque D: Aku
 30156	Aumento de ataque C: Aku
 30157	Aumento de ataque B: Aku
@@ -899,11 +903,11 @@
 30172	Mayor efecto «Superfuerza» B: Aku
 30173	Mayor efecto «Superfuerza» A: Aku
 30174	Mayor efecto «Superfuerza» S: Aku
-30175	Mayor efecto «Resistencia» D: Aku
-30176	Mayor efecto «Resistencia» C: Aku
-30177	Mayor efecto «Resistencia» B: Aku
-30178	Mayor efecto «Resistencia» A: Aku
-30179	Mayor efecto «Resistencia» S: Aku
+30175	Mayor efecto «Dureza» D: Aku
+30176	Mayor efecto «Dureza» C: Aku
+30177	Mayor efecto «Dureza» B: Aku
+30178	Mayor efecto «Dureza» A: Aku
+30179	Mayor efecto «Dureza» S: Aku
 30180	Aumento de ataque D: 
 30181	Aumento de ataque C: 
 30182	Aumento de ataque B: 
@@ -924,11 +928,11 @@
 30197	Mayor efecto «Superfuerza» B: 
 30198	Mayor efecto «Superfuerza» A: 
 30199	Mayor efecto «Superfuerza» S: 
-30200	Mayor efecto «Resistencia» D: 
-30201	Mayor efecto «Resistencia» C: 
-30202	Mayor efecto «Resistencia» B: 
-30203	Mayor efecto «Resistencia» A: 
-30204	Mayor efecto «Resistencia» S: 
+30200	Mayor efecto «Dureza» D: 
+30201	Mayor efecto «Dureza» C: 
+30202	Mayor efecto «Dureza» B: 
+30203	Mayor efecto «Dureza» A: 
+30204	Mayor efecto «Dureza» S: 
 30205	Minirréplica mortal D
 30206	Minirréplica mortal C
 30207	Minirréplica mortal B
@@ -1014,3 +1018,13 @@
 30287	Resistencia a desgaste B
 30288	Resistencia a desgaste A
 30289	Resistencia a desgaste S
+30290	Coste reducido D
+30291	Coste reducido C
+30292	Coste reducido B
+30293	Coste reducido A
+30294	Coste reducido S
+30295	Resistencia a réplicas D
+30296	Resistencia a réplicas C
+30297	Resistencia a réplicas B
+30298	Resistencia a réplicas A
+30299	Resistencia a réplicas S

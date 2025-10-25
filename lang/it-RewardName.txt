@@ -215,6 +215,10 @@
 224|I447	Forziere (bronzo)
 225|I448	Forziere (argento)
 226|I449	Forziere (oro)
+227|S227|I450	Spirito leggenda
+228|I451	Forziere (bronzo)
+229|I452	Forziere (argento)
+230|I453	Forziere (oro)
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -1015,3 +1019,13 @@
 30287	Resistente a indebolimento B
 30288	Resistente a indebolimento A
 30289	Resistente a indebolimento S
+30290	Costo ridotto D
+30291	Costo ridotto C
+30292	Costo ridotto B
+30293	Costo ridotto A
+30294	Costo ridotto S
+30295	Resistente a valanghe D
+30296	Resistente a valanghe C
+30297	Resistente a valanghe B
+30298	Resistente a valanghe A
+30299	Resistente a valanghe S

@@ -358,7 +358,7 @@
 357	La forme ultime améliore la vitesse d’att. !<br><br>
 358	La forme ultime améliore la défense !<br>La chance d’att. critique augmente aussi !<br>
 359	La forme ultime augmente<br>la puissance d’attaque et la défense !<br>	L’ultra forme améliore la vitesse de<br>déplacement, défense, attaque, portée,<br>et gagne Affaiblissement contre aliens !
-360	La forme ultime améliore<br>la puissance d’attaque et la défense !<br>	La forme ultime améliore<br>puissance d’attaque et défense !<br>
+360	La forme ultime améliore<br>la puissance d’attaque et la défense !<br>	Améliore vitalité, puissance d’attaque<br>et portée ! Résistance améliorée, Fléau<br>des Sages et mini-répliques offensives !
 361	La forme ultime améliore<br>la puissance d’attaque et la défense !<br>	L'ultra forme augmente la défense, a une<br>att. plus large et une plus longue portée !<br>Repousse en plus les aliens !
 362	La forme ultime augmente l'attaque,<br>la défense et la portée !<br>
 363	<br><br>
@@ -821,3 +821,6 @@
 820	<br><br>
 821	<br><br>
 822	<br><br>
+823	<br><br>
+824	<br><br>
+825	<br><br>

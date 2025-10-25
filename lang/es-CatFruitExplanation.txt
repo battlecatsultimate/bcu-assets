@@ -358,7 +358,7 @@
 357	La forma final tiene más velocidad de ataque.<br><br>
 358	La forma final tiene una mayor defensa<br>y más probabilidad de infligir daño crítico.<br>
 359	La forma final tiene más<br>poder de ataque y defensa.<br>	¡La ultraforma obtiene más<br>defensa, poder, velocidad de movimiento<br>y alcance, y desgasta a álienes!
-360	La forma final tiene más<br>poder de ataque y defensa.<br>
+360	La forma final tiene más<br>poder de ataque y defensa.<br>	¡Con más vitalidad, poder de ataque y<br>alcance! ¡Dureza mejorada,<br>Asesina Sabia y provoca mini-réplicas!
 361	La forma final tiene más<br>poder de ataque y defensa.<br>	¡La ultraforma tiene más defensa<br>y su ataque gana amplitud y alcance!<br>¡También gana repulsión contra álienes!
 362	La forma final tiene más poder de ataque.<br>También mejora su defensa y su alcance.<br>
 363	<br><br>
@@ -821,3 +821,6 @@
 820	<br><br>
 821	<br><br>
 822	<br><br>
+823	<br><br>
+824	<br><br>
+825	<br><br>

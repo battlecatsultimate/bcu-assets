@@ -85,6 +85,10 @@
 9048	Score more than 6000 points on the. Special Stage "Cavity Creeping"!
 9049	Upgrade Egg Cat to Level 10! (You must evolve the Cat before the event ends!)
 9050	Upgrade Shinji & Cat to Level 10! (You must evolve the Cat before the event ends!)
+9051	Clear any EVANGELION collab
+9052	Clear any EVANGELION collab
+9053	Clear any EVANGELION collab
+9054	Activate the EVA Angel Killer CatCombo and clear any stage. Clear Empire of Cats Ch. 1 and deploy Shinji & Cat and Kaworu & Cat..
 9055	Destroy the 4th Angel. Encounter this enemy at "State of Emergency"
 9056	Destroy the 6th Angel. Encounter this enemy at "Futagoyama Fortress"
 9057	Destroy the 9th Angel. Encounter this enemy at "Asuka On Board (Easy)"
@@ -879,11 +883,11 @@
 9528	Clear stages from "Halloween Event"
 9529	Earn a Featured Item from. the Halloween Party Event Capsules!
 9530	Clear all Halloween Event Missions. to earn 1 Rare Ticket!
-9531	[Running Start Campaign] Clear any Empire
-9532	[Running Start Campaign] Clear any Empire
-9533	[Running Start Campaign] Clear any Empire
-9534	[Running Start Campaign] Clear Empire of Cats. Japan stage and earn a Rare Ticket!
-9535	[Running Start Campaign] Clear Empire of Cats. Japan stage and earn a Leadership!
+9531	[Beginner Campaign] Clear 9 Empire of Cats stages
+9532	[Beginner Campaign] Clear 9 Empire of Cats stages
+9533	[Beginner Campaign] Clear 9 Empire of Cats stages
+9534	[Beginner Campaign] Clear Empire of Cats Japan stage. and earn a Rare Ticket for the Rare Capsules!
+9535	[Beginner Campaign] Clear Empire of Cats Japan stage. and earn Leadership to recover Cat Energy!
 66	Defeat the lifeform in Ancient Forest Labyrinth. Lv.1 Stage 6
 67	[Catclaw Championships] Clear 9 stages of Catclaw Championships Rank 1
 68	[Catclaw Championships] Get 4 Legend Cats. Progress in Legend

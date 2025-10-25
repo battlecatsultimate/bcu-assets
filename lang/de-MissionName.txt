@@ -85,6 +85,10 @@
 9048	Erreiche mehr als 6000 Punkte im. Karieskriecher-Sonderlevel!
 9049	Verbessere Eierkatze auf Stufe 10! (Du musst die Katze vor Eventende entwickeln!)
 9050	Upgrade Shinji & Cat to Level 10! (You must evolve the Cat before the event ends!)
+9051	Clear any EVANGELION collab
+9052	Clear any EVANGELION collab
+9053	Clear any EVANGELION collab
+9054	Activate the EVA Angel Killer CatCombo and clear any stage. Clear Empire of Cats Ch. 1 and deploy Shinji & Cat and Kaworu & Cat..
 9055	Destroy the 4th Angel. Encounter this enemy at "State of Emergency"
 9056	Destroy the 6th Angel. Encounter this enemy at "Futagoyama Fortress"
 9057	Destroy the 9th Angel. Encounter this enemy at "Asuka On Board (Easy)"
@@ -820,7 +824,7 @@
 9460	【Teil 4: Die Bitte der Dorfbewohner】⑤Schließ das richtige. Katzenimp. Kap. 1 ab und sieh die Sonne über Azteken-Pyramiden
 9461	【Teil 4: Die Bitte der Dorfbewohner】Erfülle 0 Bitten der Dorfbewohner
 9462	【Teil 5: Schlacht beim Hundeschloss】. Schließe das Level „Mimik des Königs erscheint“ ab!
-9465	【11. Jubiläum】Schließe alle Teil-1-Letzter-Teil-Missionen. ab und verdiene ein Platinticket!
+9465	【11. Jubiläum】Schließe alle Teile der Missionen. ab und verdiene ein Platinticket!
 64	11.-Jubiläum-Mission. Schließe während des Events Katzenimperium Kapitel 1 ab
 9466	【Letzte Schlacht: Hundekönig!】 Schließe das Level ab. und erfahre die Wahrheit über das 11. Jubiläum
 9467	Schließe die 50. Ebene des Himmlischen Turms ab. (Diese Belohnung kann nur einmal abgeholt werden.)
@@ -879,11 +883,11 @@
 9528	Schließe Level aus „Halloween-Event“
 9529	Verdiene einen Sondergegenstand aus. den Halloween-Party-Eventkapseln!
 9530	Schließe alle Halloween-Eventmissionen ab. und verdiene 1 seltenes Ticket!
-9531	[Schnellstart-Kampagne] Schließe ein beliebiges
-9532	[Schnellstart-Kampagne] Schließe ein beliebiges
-9533	[Schnellstart-Kampagne] Schließe ein beliebiges
-9534	[Schnellstart-Kampagne] Schließe das Japan-Level. in Katzenimperium ab und verdiene ein seltenes Ticket!
-9535	[Schnellstart-Kampagne] Schließe das Japan-Level. in Katzenimperium ab und verdiene eine Führung!
+9531	[Anfängerkampagne] Schließe 9 Katzenimperium-Level ab
+9532	[Anfängerkampagne] Schließe 9 Katzenimperium-Level ab
+9533	[Anfängerkampagne] Schließe 9 Katzenimperium-Level ab
+9534	[Anfängerkampagne] Schließe das Japan-Level in Katzenimperium ab. und verdiene ein seltenes Ticket für die seltenen Kapseln!
+9535	[Anfängerkampagne] Schließe das Japan-Level in Katzenimperium ab. und verdiene Führung, um Katzenenergie wiederherzustellen!
 66	Besiege die Lebensform im Uralten Waldlabyrinth. St.1 Level 6
 67	[Katzenkrall-Meisterschaften] Schließe 9 Level der Katzenkrall-Meisterschaften Rang 1 ab
 68	[Katzenkrall-Meisterschaften] Erhalte 4 legendäre Katzen. Mach Fortschritte

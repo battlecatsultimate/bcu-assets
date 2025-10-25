@@ -1,7 +1,7 @@
 000	A Loving Shiba and Battle Cat's rival.<br>Trying to enter college this year.<br>Very thoughtful and sends<br>birthday gifts to Cat every year.
 001	Uses watercolours for body paint.<br>So… naturally weak against water.<br>This information has nothing to do<br>with the game content whatsoever.
 002	A bunch of wusses who like to gang up.<br>Found each other on the internet.<br>Suprisingly,<br>all of them are quite rich.
-003	This dangerous hippo has<br>confidence in its stamina and power.<br>(s)he? has a multi attack skill.<br>We don't know if it is a he or she.
+003	This dangerous hippo has unshakable<br>confidence in their stamina and power.<br>They have terrifying Area Attack skills<br>and a fiercely protective streak.
 004	Loves going to the tanning salon,<br>that's why her skin is red.<br>Born in an organic free range farm.<br>Did you know that pigs like to clean?
 005	Loves watching Kung Fu movies,<br>and aiming to get into Hollywood.<br>Uses self-taught Kung Fu.<br>
 006	Managed to get kicked out of the zoo<br>because of his scary face.<br>Has no job or education,<br>so turned to alcohol and gambling.
@@ -10,10 +10,10 @@
 009	Has ridiculously long reach.<br>Likes his women curvy. Very curvy.<br>Collects lots of magazines<br>… don't ask what type.
 010	Always dreamed to be a boxer<br>Couldn't really get there<br>because it is… well, a kangaroo.<br>Sad sad truth.
 011	Loves to help people.<br>Works part time at a fire station.<br>However, as he is so slow on his feet,<br>he never makes it to the fire on time.
-012	A kindergarten teacher. He LOVES children.<br>His sharp claws are not suited for the job.<br>Not related to a certain other bear.<br>No one knows his real name.
+012	Strict teacher who adores their students, but<br>their sharp claws are not suited for the job.<br>Rains down fists upon anyone who<br>threatens the safety of their young charges.
 013	He was saved by Dundee.<br>Infatuated with correspondence learning.<br>Managed to obtain several qualifications.<br>Word Processing Cert. 2nd class.
 014	Quit a major company<br>and is managing 4 companies now.<br>Aspires to become city mayor someday.<br>
-015	She speaks an old English dialect (?)<br>No, seriously, it sounds like English, but<br>it's too hard understand what she says.<br>Works at the English school near the station.
+015	Seems to speak an old English dialect?<br>No, seriously, it sounds like English, but<br>their pronunciation is almost unintelligible.<br>Works at an English school near the station.
 016	Licensed to kill.<br>The global financial crisis isn't helping<br>him much though. Please check the flyers.<br>He's offering one million per kill now.
 017	Ridiculously shy.<br>He loves to sing though, but<br>has never sang in front of anyone.<br>… does a mirror count? Solo Karaoke'r
 018	Too strict a diet resulted in no body.<br>No one knows why he is floating.<br>Seriously, anyone?<br>(Don't try this at home)
@@ -742,3 +742,9 @@
 741	
 742	
 743	A secret lab used unethical genome editing to<br>create a superior sunfish. It has grown so large<br>that stealth is no longer an option. Destroys all<br>that encounter it with Waves that Slow.
+744	Shambles about in search of bones to gnaw<br>on. Its reach is too short to pull out the bone<br>impaling its belly, but every time it seeks<br>someone to help, they run away in fear.
+745	Takes the place of the ball in many sports<br>matches to quietly change the outcome of<br>said games in an attempt to act the main<br>character... Soccer's a tough ask though.
+746	
+747	<br><br><br>
+748	
+749	

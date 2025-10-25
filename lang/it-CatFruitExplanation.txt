@@ -358,7 +358,7 @@
 357	La Forma Reale ha maggiore<br>velocità d'attacco!<br>
 358	La Forma Reale ottiene maggiore difesa.<br>Aumenta anche la possibilità di danni critici.<br>
 359	La Forma Reale aumenta<br>la potenza d'attacco e la difesa!<br>	La Forma ultra ottiene maggiore<br>difesa, potenza d'attacco, velocità,<br>raggio e indebolimento vs alieni!
-360	La Forma Reale migliora la<br>la potenza d'attacco e la difesa!<br>
+360	La Forma Reale migliora la<br>la potenza d'attacco e la difesa!<br>	Maggiore vitalità, potenza d'attacco e<br>portata d'attacco! Migliora la forza,<br>Sterminatore di saggi e mini valanghe!
 361	La Forma Reale migliora la<br>la potenza d'attacco e la difesa!<br>	La Forma ultra ha maggiore difesa,<br>ampio raggio d'att. e portata maggiore!<br>Inoltre, ottiene Respinta contro alieni!
 362	La Forma Reale aumenta l'attacco,<br>la difesa e il raggio!<br>
 363	<br><br>
@@ -821,3 +821,6 @@
 820	<br><br>
 821	<br><br>
 822	<br><br>
+823	<br><br>
+824	<br><br>
+825	<br><br>
