@@ -135,7 +135,7 @@
 134	La forma final tiene más defensa,<br>poder de ataque y alcance.<br>Además, es inmune al desgaste.
 135	La forma final tiene más poder de ataque.<br>Además, siempre paraliza a los<br>enemigos voladores y ángeles.	¡La ultraforma gana omniataque y<br>mejora de defensa! ¡Asesino sabio<br>de bajo coste que provoca oleadas!
 136	La forma final tiene mejores rasgos.<br>Además, tiene más probabilidades de<br>paralizar a enemigos rojos y ángeles.
-137	La forma final tiene más defensa<br>y alcance. Además, ataca más rápido.<br>
+137	La forma final tiene más defensa<br>y alcance. Además, ataca más rápido.<br>	La ultraforma obtiene<br>omniataques y siempre sobrevive.<br>
 138	La forma final tiene mejores rasgos.<br>Además, siempre ralentiza a los<br>enemigos ángeles y metálicos.	¡La evolución a la ultraforma<br>revela su forma más poderosa!<br>¡También gana matametálicos!
 139	<br><br>
 140	<br><br>
@@ -394,7 +394,7 @@
 393	La forma final tiene mucha más velocidad<br>de ataque y poder. Además, mejora su<br>defensa y se hace inmune a ralentización.
 394	La forma final ataca más lento, pero a cambio<br>mejora su defensa, su poder de ataque<br>y su alcance.
 395	La forma final tiene mucho más<br>poder de ataque y defensa.<br>Además, se hace inmune a las oleadas.
-396	La forma final tiene mejor defensa.<br>Además, mejora su habilidad de repulsión.<br>
+396	La forma final mejora<br>la defensa y repele más veces.<br>
 397	La forma final tiene<br>una defensa superdura<br>contra enemigos metálicos.	¡La ultraforma da un omniataque,<br>y más defensa, ataque y daño crítico!<br>Más penalización contra metálicos.
 398	<br><br>
 399	<br><br>
@@ -515,7 +515,7 @@
 514	<br><br>
 515	<br><br>
 516	<br><br>
-517	<br><br>
+517	True Form gains improved defense<br>and attack power. Also gains Weaken<br>vs. Red, Floating, and Angels.
 518	<br><br>
 519	La forma final tiene mayor poder de defensa<br>y de ataque, así como arrebato mejorado.<br>Además, es inmune a toxicidad y a réplicas.
 520	<br><br>
@@ -824,3 +824,8 @@
 823	<br><br>
 824	<br><br>
 825	<br><br>
+826	<br><br>
+827	<br><br>
+828	<br><br>
+829	<br><br>
+830	<br><br>

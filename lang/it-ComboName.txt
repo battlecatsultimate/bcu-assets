@@ -226,21 +226,21 @@
 3044	Gestione della rabbia
 98	Bring it On!
 3045	Vai all'inferno!
-3046	Club di caccia
-3047	Come il vento
+2028	Club di caccia
+3046	Come il vento
 99	Inno della Miaoccademia
-3048	La pura verità
-3049	Acquario dei draghi
-3050	Raffica di vento
-3051	Tour a gravità zero
-3052	#TopSecret
-3053	Contratto oscuro
-3054	Davide batte Golia
-3055	Tallone tuonante
-3056	Sospiro di sollievo
-3057	パッカーン
-3058	Infrazione stradale
-3059	Tennis d'acciaio
-3060	Sepoltura di guerra
-3061	Appetito insaziabile
-3062	Guerrieri cosmici
+3047	La pura verità
+3048	Acquario dei draghi
+3049	Raffica di vento
+3050	Tour a gravità zero
+3051	#TopSecret
+3052	Contratto oscuro
+3053	Davide batte Golia
+3054	Tallone tuonante
+3055	Sospiro di sollievo
+3056	Infrazione stradale
+3057	Tennis d'acciaio
+3058	Sepoltura di guerra
+3059	Appetito insaziabile
+3060	Guerrieri cosmici
+3061	Arma e spada

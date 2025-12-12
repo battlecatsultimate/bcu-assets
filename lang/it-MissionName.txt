@@ -903,12 +903,6 @@
 9542	La via dell'unificazione ⑤: . supera "La via dell'unificazione p.2", livello 1!
 9543	La via dell'unificazione ⑥：. Supera il livello 1 di "Battaglia finale! Il re ribelle"!
 72	Missione La via dell'unificazione: supera. Impero dei Gatti Cap. 1 durante l'evento per completare
-9544	Missione La via dell'unificazione: supera "Anime primitive". da Leggende misteriose con Gatti che costano ¢1000 o più!
-9545	Missione La via dell'unificazione: supera "Pala di. salvataggio" da Leggende misteriose con 9 o più Gatti base!
-9546	Missione La via dell'unificazione: supera "Il volto divino". da Leggende misteriose con 8 o più Gatti super rari!
-9547	Missione La via dell'unificazione: supera "Zenit Immortale". da Leggende misteriose con Gatti che costano ¢2000 o meno!
-9548	Missione La via dell'unificazione: supera "Il ritorno. dell'origine" da Leggende misteriose con 5 Gatti o meno!
-9549	Missione La via dell'unificazione: supera "Un mondo nuovo". da Leggende zero con 9 o più Gatti rari!
 73	Tocca 2 volte un Tesoro nella Lista per saltare al livello. Apri la Lista tesori dalla Base felina
 74	Tocca l'icona nemico nella schermata di sel. liv. e apri la. Guida ai nemici. Tocca nome liv. sup. per mostrare i nemici
 75	Usa Vitamiao A per ripristinare i tentativi di un livello. Usa Vitamiao A in un livello leggendario
@@ -949,7 +943,7 @@
 9584	[Fiera premium] Completa 17 Spedizioni di Gamatoto. Esplora 2 aree qualsiasi per completare
 9585	[Fiera premium] Completa 17 Spedizioni di Gamatoto. Esplora un'area qualsiasi per completare
 9586	[Fiera premium] Supera 9 livelli evento. Ogni liv. Fiera premium vale per il conteggio tot
-9587	[Fiera premium] Ottieni un oggetto dalle. capsule evento della Fiera premium!
+9587	[Fiera premium] Ottieni un oggetti in evidenza dalle. capsule evento della Fiera premium!
 9594	Clear any "Sonic the Hedgehog" collab
 9595	Clear any "Sonic the Hedgehog" collab
 9596	Clear any "Sonic the Hedgehog" collab
@@ -983,3 +977,16 @@
 9624	Resort sviluppatori parte 1: Contratti ②:. Ottieni 3 Gatti consulenti dalle capsule evento!
 9626	Resort sviluppatori parte 2: Celebrità:. Supera Resort stravagante livello 1
 9627	Resort sviluppatori parte 3: Riposante beatitudine:. Supera Sauna del paradiso 9volte!
+9628	【110M di download】Supera tutte le missioni dell'evento. e ottieni un Biglietto raro
+9629	【110M di download】Manda Gamatoto in 17 spedizione riuscita! (Completa 1 spedizione in un'area Gamatoto: )
+9630	【110M di download】Manda Gamatoto in 17 spedizioni riuscite! (Completa 3 spedizioni in un'area Gamatoto: )
+9631	【110M di download】Manda Gamatoto in 17 spedizioni riuscite! (Completa 5 spedizioni in un'area Gamatoto: )
+9632	【110M download】Supera Regali a fiumi per i 110M! 9 volte! ()
+9633	【110M download】Supera Regali a fiumi per i 110M! 9 volte! ()
+9634	【110M download】Supera Regali a fiumi per i 110M! 9 volte! ()
+9635	【110M di download】Supera 0 livelli di The Battle Cats. ()
+9636	【110M di download】Supera 0 livelli di The Battle Cats. ()
+9637	Clear any Street Fighter 6 collab
+9638	Clear any Street Fighter 6 collab
+9639	Clear any Street Fighter 6 collab
+9640	Clear any Street Fighter 6 collab

@@ -226,21 +226,21 @@
 3044	Gestion de la colère
 98	Bring it On!
 3045	Va en enfer !
-3046	Club de chasse
-3047	Comme le vent
+2028	Club de chasse
+3046	Comme le vent
 99	Hymne de la Chacadémie
-3048	La vérité sans fard
-3049	Aquarium dragon
-3050	Rafale de vent
-3051	Tournée zéro gravité
-3052	#TopSecret
-3053	Sombre contrat
-3054	David bat Goliath
-3055	Coup de pied sauté foudroyant
-3056	Soupir de soulagement
-3057	パッカーン
-3058	Infraction routière
-3059	Tennis d’acier
-3060	Enterrement de guerre
-3061	Faim insatiable
-3062	Guerriers cosmiques
+3047	La vérité sans fard
+3048	Aquarium dragon
+3049	Rafale de vent
+3050	Tournée zéro gravité
+3051	#TopSecret
+3052	Sombre contrat
+3053	David bat Goliath
+3054	Coup de pied sauté foudroyant
+3055	Soupir de soulagement
+3056	Infraction routière
+3057	Tennis d’acier
+3058	Enterrement de guerre
+3059	Faim insatiable
+3060	Guerriers cosmiques
+3061	Par le feu et l’acier

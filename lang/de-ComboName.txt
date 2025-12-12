@@ -226,21 +226,21 @@
 3044	Wutbewältigung
 98	Bring it On!
 3045	Fahr zur Hölle!
-3046	Jagdklub
-3047	Wie der Wind
+2028	Jagdklub
+3046	Wie der Wind
 99	Katzkademie-Hymne
-3048	Die schlichte Wahrheit
-3049	Drachenaquarium
-3050	Windstoß
-3051	Schwerelosigkeit-Tour
-3052	#TopSecret
-3053	Dunkler Pakt
-3054	David besiegt Goliath
-3055	Donnerkeil-Fall
-3056	Seufzer der Erleichterung
-3057	パッカーン
-3058	Verkehrswidrigkeit
-3059	Stahltennis
-3060	Kriegsbegräbnis
-3061	Unstillbarer Hunger
-3062	Kosmische Krieger
+3047	Die schlichte Wahrheit
+3048	Drachenaquarium
+3049	Windstoß
+3050	Schwerelosigkeit-Tour
+3051	#TopSecret
+3052	Dunkler Pakt
+3053	David besiegt Goliath
+3054	Donnerkeil-Fall
+3055	Seufzer der Erleichterung
+3056	Verkehrswidrigkeit
+3057	Stahltennis
+3058	Kriegsbegräbnis
+3059	Unstillbarer Hunger
+3060	Kosmische Krieger
+3061	Mit Schwert und Pistole

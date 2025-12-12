@@ -135,7 +135,7 @@
 134	Wahre-Form-Entwicklung erhöht Vert.,<br>Angriffskraft und Angriffsreichweite! Wird<br>immun gg. feindliche Schwächen-Effekte!
 135	Wahre-Form-Entwicklung erhöht Angriff!<br>Friert zudem fliegende und Engel-Feinde<br>garantiert in der Bewegung ein!	Ultra-Form gewährt Rundumschlag & mehr<br>Verteidigung! Verringerte Einsatzkosten,<br>Wellenangriff und Weisentöter!
 136	Wahre-Form-Entwicklung erhöht alle Werte!<br>Gewährt zudem eine höhere Chance, rote<br>und Engel-Feinde einzufrieren!
-137	Wahre-Form-Entwicklung erhöht Vert.,<br>Reichweite und zudem das Angriffstempo!<br>
+137	Wahre-Form-Entwicklung erhöht Vert.,<br>Reichweite und zudem das Angriffstempo!<br>	Ultra-Form-Entwicklung gewährt<br>Rundumschlag und 100% Überlebenswille.<br>
 138	Wahre-Form-Entwicklung erhöht alle Werte<br>& gewährt die Fähigkeit, eiserne und Engel-<br>Feinde garantiert zu lähmen.	Wahre-Form-Entwicklung enthüllt<br>ihre mächtigste Form!<br>Erhält zudem „Eisernentöter“!
 139	<br><br>
 140	<br><br>
@@ -334,7 +334,7 @@
 333	<br><br>
 334	Wahre-Form-Entwicklung erhöht alle Werte!<br>Lähmt zudem fliegende und Engel-Feinde<br>für längere Zeit!
 335	Wahre-Form-Entwicklung steigert Angriff<br>und Verteidigung! Schwächt rote Feinde<br>für noch längere Zeit!
-336	Wahre-Form-Entwicklung steigert Angriffs-<br>tempo und Anzahl der Rückstöße gg. Feinde.<br>
+336	Wahre-Form-Entwicklung erhöht Angriffs-<br>tempo & Anzahl der Rückstöße gg. Feinde.<br>
 337	True Form evolution gains improved<br>defense, move speed and attack!<br>	True Form evolution increases<br>defense, move speed and attack!<br>
 338	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffsreichweite. Schwächt schwarze<br>Feinde zudem für längere Zeit.
 339	<br><br>
@@ -394,7 +394,7 @@
 393	Wahre-Form-Entwicklung erhöht Angriffskraft<br>und -tempo sowie Verteidigung!<br>Wird zudem immun gegen Verlangsamen!
 394	Wahre-Form-Entwicklung senkt die Angriffsrate,<br>aber steigert Verteidigung, Angriffskraft und<br>Angriffsreichweite!
 395	Wahre-Form-Entwicklung erhöht Angriffskraft<br>und Verteidigung!<br>Wird zudem Immun gegen Wellen!
-396	Wahre-Form-Entwicklung erhöht Vert.,<br>und stärkt Rückstöße gegen Feinde!<br>
+396	Wahre-Form-Entwicklung erhöht<br>Verteidigung und Rückstoß-Zähler!<br>
 397	Wahre-Form-Entwicklung gewährt<br>Irre robuste Verteidigung<br>gegen eiserne Feinde!	Ultra-Form-Entw. gewährt Rundumschlag,<br>Verteidigung, Angriff und Reichweite!<br>Zudem erh. Schwächungseff. gg. Eiserne.
 398	<br><br>
 399	<br><br>
@@ -515,7 +515,7 @@
 514	<br><br>
 515	<br><br>
 516	<br><br>
-517	<br><br>
+517	True Form gains improved defense<br>and attack power. Also gains Weaken<br>vs. Red, Floating, and Angels.
 518	<br><br>
 519	Wahre-Form-Entwicklung erhöht Angriffs- &<br>Verteidigungskraft, verbessert Willensstärke.<br>Immunität gg. Gift- und Zufallsangriffe!
 520	<br><br>
@@ -824,3 +824,8 @@
 823	<br><br>
 824	<br><br>
 825	<br><br>
+826	<br><br>
+827	<br><br>
+828	<br><br>
+829	<br><br>
+830	<br><br>

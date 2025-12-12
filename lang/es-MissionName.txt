@@ -898,12 +898,6 @@
 9542	Rumbo a la Unificación ⑤:. supera la fase 1 de «Rumbo a la Unificación Parte 2»
 9543	Rumbo a la Unificación ⑥:. ¡supera la fase 1 de «¡Batalla final! El Rey Indomable»
 72	Misión de Rumbo a la Unificación. Supera el cap. 1 de Imperio de los Gatos durante el evento
-9544	Misión de R. a la Unificación: supera «Almas Primitivas». de Leyenda Inquietante usando gatos de 1000 ¢ o más
-9545	Misión de R. a la Unificación: supera «Pala Salvavidas». de Leyenda Inquietante usando 9 o más gatos normales
-9546	Misión de R. a la Unificación: supera «La Cara de Dios». de Leyenda Inquietante usando 8 o más gatos superraros
-9547	Misión de R. a la Unificación: supera «Zenith Inmortal». de Leyenda Inquietante usando gatos de 2000 ¢ o menos
-9548	Misión de R. a la Unificación: supera «Revivir del Origen». de Leyenda Inquietante usando 5 o menos gatos normales
-9549	Misión de R. a la Unificación: supera «Un Mundo Nuevo». de Leyenda Cero usando 9 o más gatos raros
 73	Toca dos veces un tesoro en la lista para ir a esa fase. Abre la lista de tesoros desde la base gatuna
 74	Toca el icono de un enemigo en la selección de fases para ir. al bestiario. Toca fase superada para ver los enemigos
 75	Usa gatamina [A] para restaurar los intentos. Usa gatamina [A] en una Etapa de Leyenda
@@ -944,7 +938,7 @@
 9584	[Superferia] Completa 17 expediciones de Gamatoto
 9585	[Superferia] Completa 17 expediciones de Gamatoto
 9586	[Superferia] Supera 9 fases de evento
-9587	[Superferia] ¡Consigue un objeto. de las bolas de evento de la Superferia!
+9587	[Superferia] ¡Consigue un objetos destacados. de las bolas de evento de la Superferia!
 9594	Clear any "Sonic the Hedgehog" collab
 9595	Clear any "Sonic the Hedgehog" collab
 9596	Clear any "Sonic the Hedgehog" collab
@@ -978,3 +972,14 @@
 9624	Magnates del Resort Parte 1 - Contratos ②:. ¡Consigue 3 Gatos Asesores en las bolas de evento!
 9626	Magnates del Resort Parte 2 - Famosos:. Supera la fase 1 de Paraíso de Resorts
 9627	Magnates del Resort Parte 3 - Plenitud Felina:
+9628	【110 M descargas】Supera todas las misiones del evento. y gana un tique raro
+9629	【110 M descargas】Envía a Gamatoto a 17 excursión exitosa:
+9630	【110 M descargas】Envía a Gamatoto a 17 excursiones exitosas:
+9631	【110 M descargas】Envía a Gamatoto a 17 excursiones exitosas:
+9632	【110 M descargas】Supera ¡Oleada de regalos de los 110 M!
+9633	【110 M descargas】Supera ¡Oleada de regalos de los 110 M!
+9634	【110 M descargas】Supera ¡Oleada de regalos de los 110 M!
+9637	Clear any Street Fighter 6 collab
+9638	Clear any Street Fighter 6 collab
+9639	Clear any Street Fighter 6 collab
+9640	Clear any Street Fighter 6 collab

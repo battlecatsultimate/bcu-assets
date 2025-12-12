@@ -1658,6 +1658,7 @@
 001-364-000	Regalo Rojo-Morado
 001-364-001	Regalo Azul-Verde
 001-364-002	Regalo Amarillo
+001-364-003	Regalo Pentacromático
 001-365		¡5 Más Recurrentes del 2023!
 001-365-000	Inadvertido 5.º Lugar
 001-365-001	Repentino 4.º Lugar
@@ -1805,6 +1806,11 @@
 001-408-002	Ritual del Vihta
 001-408-003	Sauna Aromática
 001-408-004	En Marcha
+001-409		¡Oleada de regalos de los 110 M!
+001-409-000	¡Oleada de regalos de los 110 M!
+001-410		¡Espectáculo de pirotecnia!
+001-410-000	¡Fuegos artificiales! (Mortal)
+001-410-001	¡Fuegos artificiales! (Inhumano)
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2490,6 +2496,73 @@
 002-229		EVA Unit-13 Strikes!
 002-229-000	It's Not Your Fault (Veteran)
 002-229-001	We'll Meet Again (Merciless)
+002-230		New Challenger
+002-230-000	VS RYU (Easy)
+002-231		New Challenger
+002-231-000	VS RYU (Expert)
+002-232		New Challenger
+002-232-000	VS CHUN-LI (Easy)
+002-233		New Challenger
+002-233-000	VS CHUN-LI (Expert)
+002-234		New Challenger
+002-234-000	VS GUILE (Easy)
+002-235		New Challenger
+002-235-000	VS GUILE (Expert)
+002-236		New Challenger
+002-236-000	VS ZANGIEF (Easy)
+002-237		New Challenger
+002-237-000	VS ZANGIEF (Expert)
+002-238		New Challenger
+002-238-000	VS BLANKA (Easy)
+002-239		New Challenger
+002-239-000	VS BLANKA (Expert)
+002-240		New Challenger
+002-240-000	VS DHALSIM (Easy)
+002-241		New Challenger
+002-241-000	VS DHALSIM (Expert)
+002-242		New Challenger
+002-242-000	VS KEN (Easy)
+002-243		New Challenger
+002-243-000	VS KEN (Expert)
+002-244		New Challenger
+002-244-000	VS E. HONDA (Easy)
+002-245		New Challenger
+002-245-000	VS E. HONDA (Expert)
+002-246		New Challenger
+002-246-000	VS BALROG (Normal)
+002-247		New Challenger
+002-247-000	VS BALROG (Insane)
+002-248		New Challenger
+002-248-000	VS VEGA (Normal)
+002-249		New Challenger
+002-249-000	VS VEGA (Insane)
+002-250		New Challenger
+002-250-000	VS SAGAT (Normal)
+002-251		New Challenger
+002-251-000	VS SAGAT (Insane)
+002-252		New Challenger
+002-252-000	VS M. BISON (Normal)
+002-253		New Challenger
+002-253-000	VS M. BISON (Insane)
+002-254		New Challenger
+002-254-000	VS SAKURA (Easy)
+002-255		New Challenger
+002-255-000	VS SAKURA (Expert)
+002-256		New Challenger
+002-256-000	VS LUKE (Easy)
+002-257		New Challenger
+002-257-000	VS LUKE (Expert)
+002-258		New Challenger
+002-258-000	VS CAMMY (Easy)
+002-259		New Challenger
+002-259-000	VS CAMMY (Expert)
+002-260		New Challenger
+002-260-000	VS JURI (Easy)
+002-261		New Challenger
+002-261-000	VS JURI (Expert)
+002-262		New Challenger
+002-262-000	Master of the Fist (Veteran)
+002-262-001	Sekia Goshoha (Deadly)
 
 003			
 003-000		EoC Ch.1 Zombie
@@ -3877,6 +3950,12 @@
 011-034-000	Helado de Miedo
 011-035		Arena del Destino
 011-035-000	Talento para la Batalla
+011-036		Arena del Destino
+011-036-000	Talento para la Batalla
+011-037		Arena Honorífica
+011-037-000	I Seek the Strongest
+011-038		Arena del Destino
+011-038-000	Talento para la Batalla
 
 012			Challenge Mode
 012-000		Batalla de Desafío
@@ -5469,6 +5548,17 @@
 024-073-007	Racha de Malas Reseñas
 024-073-008	Sueños Volátiles
 024-073-009	Arrancar de Cero
+024-074		¡Celebración de los 110 M de descargas!
+024-074-000	Invitación Humeante
+024-074-001	Alfombra Roja Kilométrica
+024-074-002	Saludo Interminable
+024-074-003	Salva a Ciegas
+024-074-004	Subsistencia de los Famélicos
+024-074-005	Chat en Directo
+024-074-006	Souvenirs Punzantes
+024-074-007	Ceremonia Emocional
+024-074-008	Foto de Recuerdo
+024-074-009	Saludos Cordiales
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -6314,6 +6404,13 @@
 034-024-003	Plaza de las Esperas
 034-024-004	Infinidad de Llaves de Repuesto
 034-024-005	Asamblea Variopinta
+034-025		Islas del Folleto
+034-025-000	Mares Impresos
+034-025-001	Muerte Poética
+034-025-002	Cómics Cómicos
+034-025-003	Finca del Diccionario
+034-025-004	Novela del Bienestar
+034-025-005	Templo del Manga
 
 036			Colosseum Stages
 036-000		Coliseo de Otro Mundo
@@ -6418,6 +6515,12 @@
 036-016-002	Ronda 3
 036-016-003	Ronda 4
 036-016-004	Ronda 5
+036-017		Coliseo de Otro Mundo
+036-017-000	Ronda 1
+036-017-001	Ronda 2
+036-017-002	Ronda 3
+036-017-003	Ronda 4
+036-017-004	Ronda 5
 
 037			Campeonatos Afilagarras
 037-000		Campeonatos Afilagarras Rango 1

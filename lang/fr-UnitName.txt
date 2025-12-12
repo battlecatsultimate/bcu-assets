@@ -135,7 +135,7 @@
 134	Urashima Taro	Gardien Gamereon	Roi Gamereon	
 135	La grue reconnaissante	Super Galaxie Cosmo	Ultima Galaxie Cosmo	Supernova Cosmo
 136	Momotaro	Les anges adorables	Les diablotins adorables	
-137	Kasa Jizo	Château ambulant de Jizo	Méga-château de Jizo	
+137	Kasa Jizo	Château ambulant de Jizo	Méga-château de Jizo	Ultra Kasa Jizo
 138	Princesse Kaguya	La lune de la mort	La lune du chaos	Ultra Kaguya
 139				
 140	Squish Ball Cat	Muscleman Cat		
@@ -515,7 +515,7 @@
 514	Zangief	Zangief CC		
 515	Blanka	Blanka CC		
 516	Dhalsim	Dhalsim CC		
-517	Ken	Ken CC		
+517	Ken	Ken CC	Crimson King of Battle Ken	
 518	Akuma Giraffe	Akuma Lion		
 519	Lasvoss	Lasvoss ultime	Lasvoss ressuscité	
 520	Ebisu porte-bonheur	Ebisu porte-malheur		
@@ -710,7 +710,7 @@
 709	One-Eyed Asuka	Blue-Eyed Asuka		
 710	EVA Unit-13	EVA Unit-13 & Cat		
 711	Balaluga fiancé	Pasalan fiancé		
-712	Kaoluga	Kaoluga Pasalan		
+712	Kaoluga	Kaolan Pasalan		
 713	Œuf ancien N203	Œuf violet N203	Chat clown	
 714	Kanna l’exploratrice côtière	Kanna plongeuse sous-marine		
 715	Puissant corps sphinx	Convois offensifs	Super convois offensifs	
@@ -824,3 +824,8 @@
 823			
 824	Sorcière Sidmi	Mage de feu Sidmi		
 825				
+826	Cammy	Cammy CC		
+827	Juri	Juri CC		
+828	Zangief Cat	Zangief Cat CC		
+829	Jamie Cat	Jamie Cat CC		
+830	Raclesa la lionne	Raclesa Σ		

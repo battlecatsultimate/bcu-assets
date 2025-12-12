@@ -226,21 +226,21 @@
 3044	Gestión de la ira
 98	Bring it On!
 3045	¡Vete al infierno!
-3046	Club de caza
-3047	Como el viento
+2028	Club de caza
+3046	Como el viento
 99	Himno de la Gatacademia
-3048	La pura verdad
-3049	Acuario de Dragones
-3050	Ráfaga de viento
-3051	Tour de Gravedad Cero
-3052	#AltoSecreto
-3053	Contrato Oscuro
-3054	David vence a Goliat
-3055	Talón atronador
-3056	Consuelo Explosivo
-3057	パッカーン
-3058	Infracción de Tráfico
-3059	Rebote metálico
-3060	Sepelio del guerrero
-3061	Hambre Minina
-3062	Guerreros cósmicos
+3047	La pura verdad
+3048	Acuario de Dragones
+3049	Ráfaga de viento
+3050	Tour de Gravedad Cero
+3051	#AltoSecreto
+3052	Contrato Oscuro
+3053	David vence a Goliat
+3054	Talón atronador
+3055	Consuelo Explosivo
+3056	Infracción de Tráfico
+3057	Rebote metálico
+3058	Sepelio del guerrero
+3059	Hambre Minina
+3060	Guerreros cósmicos
+3061	A golpe de arma y espada

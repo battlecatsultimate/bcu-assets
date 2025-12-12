@@ -226,21 +226,21 @@
 3044	Anger Management
 98	Bring it On!
 3045	Go to Hell!
-3046	Hunting Club
-3047	Like the Wind
+2028	Hunting Club
+3046	Like the Wind
 99	Catcademy Anthem
-3048	Full Transparency
-3049	Dragon Aquarium
-3050	Windburst
-3051	Zero-Gravity Tour
-3052	#TopSecret
-3053	Dark Contract
-3054	David Beats Goliath
-3055	Thunder Heel Drop
-3056	Sigh of Relief
-3057	パッカーン
-3058	Traffic Violation
-3059	Steel Tennis
-3060	Wartime Burial
-3061	Insatiable Hunger
-3062	Cosmic Warriors
+3047	Full Transparency
+3048	Dragon Aquarium
+3049	Windburst
+3050	Zero-Gravity Tour
+3051	#TopSecret
+3052	Dark Contract
+3053	David Beats Goliath
+3054	Thunder Heel Drop
+3055	Sigh of Relief
+3056	Traffic Violation
+3057	Steel Tennis
+3058	Wartime Burial
+3059	Insatiable Hunger
+3060	Cosmic Warriors
+3061	By Gun and Sword

@@ -234,7 +234,7 @@
 233	<br><br><br>
 234	<br><br><br>
 235	I seek a worthy rival! #MoleFight is the only<br>Tweet from this aspiring martial artist on his<br>feed. His secret technique "Rising Mole Fist"<br>knocks back enemies from uber-long distance.
-236	A Category-5 storm that grew massive by<br>consuming lesser cyclones. Repels threats<br>from uber long distance. Meteoroloigists say<br>getting near its eye disables its knockback.
+236	A Category-5 storm that grew massive by<br>consuming lesser cyclones. Repels threats<br>from uber long distance. Meteorologists say<br>getting near its eye disables its knockback.
 237	
 238	
 239	
@@ -259,7 +259,7 @@
 258	A wandering forest girl hired as an assassin<br>by the Dog Army. Feared by the Cat Army for<br>ruthlessly using any tactic necessary to<br>make the kill. Even a long-distance bazooka!
 259	<br><br><br>
 260	<br><br><br>
-261	Executive assistant to heaven's most famous<br>recort label producer. Ghost-writer for two<br>one-hit wonders: "Cats Ain't No Sin" and<br>C.P.U. (Future Intelligence Pt. II)
+261	Executive assistant to heaven's most famous<br>record label producer. Ghost-writer for two<br>one-hit wonders: "Cats Ain't No Sin" and<br>C.P.U. (Future Intelligence Pt. II)
 262	<br><br><br>
 263	<br><br><br>
 264	
@@ -361,7 +361,7 @@
 360	Officer-class Doge in the Alien Marines.<br>Received top marks in the academy<br>specializing in Warp attacks.<br>But the job market is tough these days.
 361	The originator of Warp-field tactics.<br>The Peng people are a proud warrior race<br>with advanced scientific knowledge,<br>thanks to a culture of daily sudoku.
 362	A mighty tactician who's still single thanks<br>to his scary face. He is actually an excellent<br>cook and has a six-octave vocal range,<br>but he is too shy to show anyone his talents.
-363	The mother of all Le'Boins, she will protect<br>her sweet children with her iron hide.<br>Invades at least new three planets a week<br>to maintain her lovely curves.
+363	The mother of all Le'Boins, she will protect<br>her sweet children with her iron hide.<br>Invades at least three new planets a week<br>to maintain her lovely curves.
 364	He can sense all your dirty thoughts.<br>Keep your mind pure around him, or<br>the lewd energies will make him stronger.<br>Has no real experience whatsoever.
 365	A proud soldier of the great Mole Army,<br>safeguarding peace and love throughout<br>the cosmos. His antimatter uppercut<br>catapults Cats to another dimension.
 366	A bioweapon bred by Space Doges for<br>surprise attacks on Cat outposts. Invisible<br>from the front, but since this game is in<br>landscape mode, its stealth is not effective.
@@ -443,7 +443,7 @@
 442	<br><br><br>
 443	Rumored to be the  secret lovechild of a <br>famous storm. It's impossible to guess who it<br>is though. Warps anyone who comes close.<br>Low stamina, so try going all-out!
 444	This mean gang of fishy bad boys have<br>had it with the Cats causing trouble in their<br>territory. Out of the dirt and ready to fight!<br>Don't call them snakes, they don't like that.
-445	A space salamander with a Cat allergy.<br>The powerful winds of its relentless sneezes<br>are should be avoided by small Cats who<br>could be blown into another dimension.
+445	A space salamander with a Cat allergy.<br>The powerful winds of its relentless sneezes<br>should be avoided by small Cats who<br>could be blown into another dimension.
 446	Oho, we meet again! Cat God isn't defeated<br>that easily! Yeah, you've done okay in that last<br>Cosmos chapter, I guess. Maybe you've<br>finally earned the right to be my sidekick...
 447	After millennia lost among the stars, a<br>strange force once again wreaks havoc<br>on the Galactic Cat Empire. The chaos<br> it wields may rewrite the laws of reality...
 448	
@@ -748,3 +748,13 @@
 747	<br><br><br>
 748	
 749	
+750	
+751	
+752	
+753	
+754	
+755	
+756	
+757	
+758	
+759	

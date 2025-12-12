@@ -151,7 +151,7 @@
 150	Young Man Mola
 151	Mola King
 152	Ayumi Manbosaki
-153	Crab
+153	Tasmanian Giant Crab
 154	Sardine
 155	Squid
 156	Marching Kory
@@ -184,7 +184,7 @@
 183	Cyberhorn
 184	Mistress Celeboodle
 185	Professor A.
-186	20 Million DL Birthday Cake
+186	110M DL Anniv. Doge Cake
 187	Rathalos
 188	Rathian
 189	MARS PEOPLE
@@ -271,12 +271,12 @@
 270	Rampage Cats
 271	Queen B
 272	Li'l Bun Bun
-273	Gertrud
-274	Charlotte
-275	Charlotte
-276	Kirsten
+273	The Rose Garden Witch
+274	Dessert Witch - Obsession
+275	Dessert Witch
+276	Box Witch and Minions
 277	Walpurgisnacht
-278	Kyubey
+278	Kyuubei
 279	Ritual Cat
 280	Razorback
 281	Festival Sign Girl
@@ -390,10 +390,10 @@
 389	Pigge Victorious
 390	Bang-Bang
 391	Mentori
-392	Sachiel
-393	Ramiel
-394	Bardiel
-395	Zeruel
+392	The 4th Angel
+393	The 6th Angel
+394	The 9th Angel
+395	The 10th Angel
 396	Crazed Moneko
 397	Corrupted Moneko
 398	Glowstick Guys
@@ -427,7 +427,7 @@
 426	CTO Seal
 427	Cadaver Bear
 428	Dread Bore
-429	Homulilly
+429	Nutcracker Witch
 430	Satan Claus
 431	Bakoo
 432	Hikakin
@@ -459,10 +459,10 @@
 458	Kitarou
 459	Eyeball Father
 460	Neko-Musume
-461	Kano & Souma
+461	Kano ＆ Souma
 462	Gekirinchii
 463	Judgement
-464	Eva Unit-13
+464	Unit-13's False Evolution
 465	HAPPI
 466	HAPPI & Maji Cat & Cat
 467	Chocolate Cat
@@ -577,7 +577,7 @@
 576	Large White Ball
 577	Large Red Ball
 578	Large Iron Ball
-579	Kyubey
+579	Kyuubei
 580	White Wind
 581	Red Wind
 582	Black Wind
@@ -644,8 +644,8 @@
 643	Grand Mage Mimon
 644	
 645	10th Half Anniversary Cake
-646	Readhead Beauty Macho Yuki Cat
-647	Eva Unit-13
+646	Redhead Yuki Cat
+647	EVA Unit-13
 648	Pierrot Castle
 649	Lutrinae Gokurakko
 650	Iguanidae Ibilujon
@@ -667,9 +667,9 @@
 666	Malevolent Island Cat
 667	Malevolent King Dragon Cat
 668	Malevolent Jamiera Cat
-669	Pot Base
-670	Doge Lord
-671	Doge Lord the Great
+669	Jar Base
+670	King's Mimic
+671	King Doge
 672	11th Anniversary Cake
 673	11th Anniversary Scarecrow Base
 674	Esoteric Uril
@@ -682,14 +682,14 @@
 681	Long Dojo Base
 682	Dark Dober
 683	Gigahaniwan
-684	Mysterious Disaster
-685	Manipulated Doge Lord
+684	Mysterious Calamity
+685	Possessed King Doge
 686	Voluptuous Peony - Daji
 687	Madhead
-688	Himura Kenshin
-689	Sagara Sanousuke
-690	Shinomori Aoshi
-691	Saito Hajime
+688	Kenshin Himura
+689	Sanosuke Sagara
+690	Aoshi Shinomori
+691	Hajime Saito
 692	Doctor K.O.
 693	Wave Dojo Base
 694	Techn-Old Hyena
@@ -727,7 +727,7 @@
 727	Katsumi Orochi
 728	Jack Hammer
 729	Sage of Logic Newton
-790	Snoic
+730	Sonic
 731	Tails
 732	Knuckles
 733	Shadow
@@ -737,7 +737,7 @@
 737	South Seas Otter
 738	Parasol Base
 739	Freeze Dummy
-740	Mass Production Eva
+740	Mass Production EVA
 741	Whiskingmeister
 742	Fireworks Gang
 743	Jumbo Jones
@@ -747,3 +747,13 @@
 747
 748	Cammy
 749	Juri
+750	Villain Doge
+751	Evil Pigge
+752	Mrs. Peng
+753	Baron Face
+754	Big Baron Face
+755	Madam Kory
+756	Huge Madam Kory
+757	Evil Emperor Warmon
+758	Super Evil Emperor Warmon
+759	13th Anniversay Cake

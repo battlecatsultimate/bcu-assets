@@ -903,12 +903,6 @@
 9542	Straße zur Einigkeit ⑤:. Schließe „Straße zur Einigkeit 2“, Level 1 ab!
 9543	Straße zur Einigkeit ⑥:. Schließe „Letzte Schlacht! Der rebellische König“ Level 1 ab!
 72	Straße-zur-Einigkeit-Mission. Schließe während des Events Katzenimperium Kapitel 1 ab
-9544	SzE: Schließe das „Unheimliche Legenden“-„Primitive Seelen“. mit Katzen im Wert von ¢1.000 oder mehr ab!
-9545	SzE-Mission: Schließe das „Unheimliche Legenden“-Level. „Rettungsschaufel“ mit 9 oder mehr Standardkatzen ab!
-9546	SzE-Mission: Schließe das „Unheimliche Legenden“-Level „Das. Antlitz Gottes“ mit 8 oder mehr superseltenen Katzen ab!
-9547	SzE-Mission: Schließe das „Unheimliche Legenden“-Level. „Unsterblicher Zenit“ mit Katzen für ¢2.000 oder weniger ab!
-9548	SzE-Mission: Schließe das „Unheimliche Legenden“-Level. „Wiederbelebung des Ursprungs“ mit 5 oder weniger Katzen ab!
-9549	SzE-Mission: Schließe das Null-Legendäre Level. „Eine ganz neue Welt“ mit 9 oder mehr seltenen Katzen ab!
 73	Doppeltippe auf einen Schatz, um zum Level zu springen. Öffne die Schatzliste in der Katzenbasis
 74	Tippe auf ein Feindsymbol, um zur Feindefibel zu springen. Tippe auf ein abgeschl. Level, um Feinde anzuzeigen
 75	Nutze Katzamin A, um Level-Versuche wiederherzustellen. Setze Katzamin A in einem Legendenlevel ein
@@ -949,7 +943,7 @@
 9584	[Premium-Jahrmarkt] Schließe 17 Gamatoto-Expeditionen ab
 9585	[Premium-Jahrmarkt] Schließe 17 Gamatoto-Expeditionen ab
 9586	[Premium-Jahrmarkt] Schließe 9 Eventlevel ab
-9587	[Premium-Jahrmarkt] Hol dir einen Gegenstand aus. Premium-Jahrmarkt-Eventkapseln!
+9587	[Premium-Jahrmarkt] Hol dir einen Sondergegenständen aus. Premium-Jahrmarkt-Eventkapseln!
 9594	Clear any "Sonic the Hedgehog" collab
 9595	Clear any "Sonic the Hedgehog" collab
 9596	Clear any "Sonic the Hedgehog" collab
@@ -983,3 +977,14 @@
 9624	Resortentwicklung Teil 1 – Aufträge ②:. Erhalte 3 Berater-Katzen aus den Eventkapseln!
 9626	Resortentwicklung Teil 2 – Berühmtheiten:. Schließe „Extravagantes Resort“ Level 1 ab
 9627	Resortentwicklung Teil 3 – Erholungsglück:
+9628	(110 Mio. DL) Schließe alle Eventmissionen ab. und verdiene ein Seltenes Ticket!
+9629	(110 Mio. DL) Schicke Gamatoto auf 17 erf. Expedition!
+9630	(110 Mio. DL) Schicke Gamatoto auf 17 erf. Expeditionen!
+9631	(110 Mio. DL) Schicke Gamatoto auf 17 erf. Expeditionen!
+9632	(110 Mio. DL) Schließe Geschenke zur Feier von 110 Mio.!
+9633	(110 Mio. DL) Schließe Geschenke zur Feier von 110 Mio.!
+9634	(110 Mio. DL) Schließe Geschenke zur Feier von 110 Mio.!
+9637	Clear any Street Fighter 6 collab
+9638	Clear any Street Fighter 6 collab
+9639	Clear any Street Fighter 6 collab
+9640	Clear any Street Fighter 6 collab

@@ -903,12 +903,6 @@
 9542	Road to Unification ⑤：. Clear "Road to Unification Pt. 2", stage 1!
 9543	Road to Unification ⑥：. Clear "Final Battle! The Rebellious King" stage 1!
 72	Road to Unification Mission. Clear Empire of Cats Ch. 1 during the event to complete
-9544	Road to Unification Mission: Clear Uncanny Legend stage. "Primitive Souls" with Cats that cost ¢1000 or more!
-9545	Road to Unification Mission: Clear Uncanny Legend stage. "Lifesaving Shovel" with 9 or more basic Cats!
-9546	Road to Unification Mission: Clear Uncanny Legend stage. "The Face of God" with 8 or more Super Rare Cats!
-9547	Road to Unification Mission: Clear Uncanny Legend stage. "Immortal Zenith" with Cats that cost ¢2000 or less!
-9548	Road to Unification Mission: Clear Uncanny Legend stage. "Revival of Origin" using 5 or fewer Cats!
-9549	Road to Unification Mission: Clear Zero Legend stage. "A Whole New World" with 9 or more Rare Cats!
 73	Double-tap a Treasure in the Treasure List to jump to that stage. Open the Treasure List from the Cat Base
 74	Tap an enemy icon on the stage select screen to jump to the. Enemy Guide. Tap the name of a cleared stage to show enemies
 75	Use Catamin A to restore stage attempts. Use Catamin A on a Legend Stage
@@ -949,7 +943,7 @@
 9584	[Premium Fair] Complete 17 Gamatoto Expeditions
 9585	[Premium Fair] Complete 17 Gamatoto Expeditions
 9586	[Premium Fair] Clear 9 Event stages
-9587	[Premium Fair] Earn an item from. the Premium Fair Event Capsules!
+9587	[Premium Fair] Earn a Featured Item from. the Premium Fair Event Capsules!
 9594	Clear any "Sonic the Hedgehog" collab
 9595	Clear any "Sonic the Hedgehog" collab
 9596	Clear any "Sonic the Hedgehog" collab
@@ -983,3 +977,15 @@
 9624	Resort Dev. Part 1 - Contracts ②:. Collect 3 Consultant Cats from the Event Capsules!
 9626	Resort Dev. Part 2 - Celebrities:. Clear Extravagant Resort Land stage 1
 9627	Resort Dev. Part 3 - Restful Bliss:
+9628	【110M DL】Clear all of the event missions. and earn a Rare Ticket
+9629	【110M DL】Send Gamatoto on 17 successful expeditions!
+9630	【110M DL】Send Gamatoto on 17 successful expeditions!
+9631	【110M DL】Send Gamatoto on 17 successful expeditions!
+9632	【110M DL】Clear 110M Celebration Gifts Galore!
+9633	【110M DL】Clear 110M Celebration Gifts Galore!
+9634	【110M DL】Clear 110M Celebration Gifts Galore!
+9636	【110M DL】Clear 0 stages in The Battle Cats
+9637	Clear any Street Fighter 6 collab
+9638	Clear any Street Fighter 6 collab
+9639	Clear any Street Fighter 6 collab
+9640	Clear any Street Fighter 6 collab

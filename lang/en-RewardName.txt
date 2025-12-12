@@ -210,6 +210,7 @@
 218|I443	Treasure Chest (Silver)
 219|I444	Treasure Chest (Gold)
 220|S220|I445	Legendary Banknote
+221|S221|I446	Legendary Starshine
 222	2000 XP
 223	25000 XP
 224|I447	Treasure Chest (Bronze)
@@ -219,6 +220,9 @@
 228|I451	Treasure Chest (Bronze)
 229|I452	Treasure Chest (Silver)
 230|I453	Treasure Chest (Gold)
+232|I455	Treasure Chest (Bronze)
+233|I456	Treasure Chest (Silver)
+234|I457	Treasure Chest (Gold)
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -637,6 +641,7 @@
 15506	God-Emperor Gladios
 15507	Nameless Eyewaltz CC
 15512	Kage
+15518	Crimson King of Battle Ken
 15520	Lasvoss Reborn
 15523	Fiend Cat
 15524	Shigong Cat
@@ -1029,3 +1034,8 @@
 30297	Resist Surges B
 30298	Resist Surges A
 30299	Resist Surges S
+30300	First Bounty Up D
+30301	First Bounty Up C
+30302	First Bounty Up B
+30303	First Bounty Up A
+30304	First Bounty Up S

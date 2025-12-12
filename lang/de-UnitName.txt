@@ -135,7 +135,7 @@
 134	Urashima Taro	Wächter Gamereon	König Gamereon	
 135	Dankbarer Kranich	Supergalaxis-Kosmo	Ultimativer Galaxis-Kosmo	Supernova-Kosmo
 136	Momotaro	Die Pfirsichengel	Die Pfirsichteufel	
-137	Kasa Jizo	Jizos Wandelndes Schloss	Jizos Mega-Schloss	
+137	Kasa Jizo	Jizos Wandelndes Schloss	Jizos Mega-Schloss	Ultra-Kasa Jizo
 138	Prinzessin Kaguya	Der Todesmond	Der Chaosmond	Ultra-Kaguya
 139				
 140	Squish Ball Cat	Muscleman Cat		
@@ -515,7 +515,7 @@
 514	Zangief	Zangief CC		
 515	Blanka	Blanka CC		
 516	Dhalsim	Dhalsim CC		
-517	Ken	Ken CC		
+517	Ken	Ken CC	Crimson King of Battle Ken	
 518	Akuma Giraffe	Akuma Lion		
 519	Lasvoss	Ultimativer Lasvoss	Wiedergeborener Lasvoss	
 520	Glücks-Ebisu	Unglücks-Ebisu		
@@ -710,7 +710,7 @@
 709	One-Eyed Asuka	Blue-Eyed Asuka		
 710	EVA Unit-13	EVA Unit-13 & Cat		
 711	Verlobter Balaluga	Verlobter Pasalan		
-712	Kaoluga	Kaoluga Pasalan		
+712	Kaoluga	Kaolan Pasalan		
 713	Uraltes Ei: N203	Violettes Ei: N203	Clownkatze	
 714	Küstenerkunderin Kanna	Tiefseetaucherin Kanna		
 715	Mächtiges Sphinxkorps	Angriffsbataillon-Konvois	Hyper-Angriffsbataillon-Konvois	
@@ -824,3 +824,8 @@
 823			
 824	Zauberin Sidmi	Flammenmagierin Sidmi		
 825				
+826	Cammy	Cammy CC		
+827	Juri	Juri CC		
+828	Zangief Cat	Zangief Cat CC		
+829	Jamie Cat	Jamie Cat CC		
+830	Raclesa die Löwin	Raclesa Σ		

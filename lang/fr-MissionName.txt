@@ -903,12 +903,6 @@
 9542	Route de l’Unification ⑤ :. Termine le niveau 1 de la Route de l’Unification 2e partie !
 9543	Route de l’Unification ⑥ :. Termine le niveau 1 de Dernière bataille ! Le roi rebelle !
 72	Mission de la Route de l’Unification. Termine L’EdC ch. 1 pendant l’événement pour la terminer
-9544	Mission de la RdU : Termine Âmes primitives de la Légende. mystérieuse avec des Chats coûtant au moins ¢1000 !
-9545	Mission de la RdU : Termine Pelle salvatrice de la Légende. mystérieuse avec au moins 9 Chats de base !
-9546	Mission de la RdU : Termine Visage divin de la Légende. mystérieuse avec au moins 8 Chats super rares !
-9547	Mission de la RdU : Termine Zénith immortel de la Légende. mystérieuse avec des Chats coûtant jusqu'à ¢2000 !
-9548	Mission de la RdU : Termine Retour aux sources. de la Légende mystérieuse avec 5 Chats ou moins !
-9549	Mission de la RdU : Termine Nouveau départ. de la Légende Zéro avec au moins 9 Chats rares !
 73	Touche 2x un trésor dans la liste pour accéder au niveau. Ouvre la liste des trésors dans la base féline
 74	Ouvre le Guide ennemis depuis l’écran de choix du niveau. Touche un niveau terminé pour afficher les ennemis
 75	Utilise de la vichamine A pour reprendre les essais de niv. Utilise de la vichamine A dans un niveau légendaire
@@ -949,7 +943,7 @@
 9584	[Foire premium] Termine 17 expéditions Gamatoto
 9585	[Foire premium] Termine 17 expéditions Gamatoto
 9586	[Foire premium] Termine 9 niveaux événements
-9587	[Foire premium] Gagne un objet dans les. Chapsules de l’événement Foire premium !
+9587	[Foire premium] Gagne un objets vedettes dans les. Chapsules de l’événement Foire premium !
 9594	Clear any "Sonic the Hedgehog" collab
 9595	Clear any "Sonic the Hedgehog" collab
 9596	Clear any "Sonic the Hedgehog" collab
@@ -983,3 +977,14 @@
 9624	Partie 1 du Dév. du lieu de vacances - Contrats ② :. Obtiens 3 Chats consultants dans les Chapsules d’événement !
 9626	Partie 2 du Dév. du lieu de vacances - Célébrités :. Termine le niveau 1 Terre du lieu de vacances extravagant
 9627	Partie 3 du Dév. du lieu de vacances - Bonheur paisible :
+9628	[110 M] Termine toutes les missions de. l’événement et gagne un ticket rare !
+9629	[110 M] Réussis 17 expédition avec Gamatoto !
+9630	[110 M] Réussis 17 expéditions avec Gamatoto !
+9631	[110 M] Réussis 17 expéditions avec Gamatoto !
+9632	[110 M] Termine 9 fois Avalanche de cadeaux des 110 M !
+9633	[110 M] Termine 9 fois Avalanche de cadeaux des 110 M !
+9634	[110 M] Termine 9 fois Avalanche de cadeaux des 110 M !
+9637	Clear any Street Fighter 6 collab
+9638	Clear any Street Fighter 6 collab
+9639	Clear any Street Fighter 6 collab
+9640	Clear any Street Fighter 6 collab

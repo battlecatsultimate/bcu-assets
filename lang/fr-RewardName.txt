@@ -210,6 +210,7 @@
 218|I443	Coffre au trésor (argent)
 219|I444	Coffre au trésor (or)
 220|S220|I445	Billets de banque légendaires
+221|S221|I446	Star légendaire
 222	2 000 XP
 223	25 000 XP
 224|I447	Coffre au trésor (bronze)
@@ -219,6 +220,9 @@
 228|I451	Coffre au trésor (bronze)
 229|I452	Coffre au trésor (argent)
 230|I453	Coffre au trésor (or)
+232|I455	Coffre au trésor (bronze)
+233|I456	Coffre au trésor (argent)
+234|I457	Coffre au trésor (or)
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -637,6 +641,7 @@
 15506	Dieu empereur Gladios
 15507	Nameless Eyewaltz CC
 15512	Kage
+15518	Crimson King of Battle Ken
 15520	Lasvoss ressuscité
 15523	Chat démoniaque
 15524	Chat Shigong
@@ -1029,3 +1034,8 @@
 30297	Résist. répliques B
 30298	Résist. répliques A
 30299	Résist. répliques S
+30300	Première prime améliorée D
+30301	Première prime améliorée C
+30302	Première prime améliorée B
+30303	Première prime améliorée A
+30304	Première prime améliorée S

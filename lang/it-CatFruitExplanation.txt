@@ -135,7 +135,7 @@
 134	La Forma Reale aumenta la difesa,<br>la potenza d'attacco e il raggio! Poi<br>è immune dagli effetti di indebolimento!
 135	La Forma Reale aumenta la velocità<br>d'attacco! E ottiene la possibilità del 100%<br>di immobilità su fluttuanti/angelici!	La Forma ultra ottiene Bilaterale e più<br>difesa! Costo diminuito, ottiene<br>att. a ondata e sterminatore di saggi!
 136	La Forma Reale aumenta tutti<br>i tratti! Dà anche una possibilità più<br>alta di immobilità su rossi/angelici!
-137	La Forma Reale aumenta la difesa<br>e il raggio! Aumenta anche il ritmo d'attacco!<br>
+137	La Forma Reale aumenta la difesa<br>e il raggio! Aumenta anche il ritmo d'attacco!<br>	La Forma ultra ottiene<br>bilaterale e sopravvive al 100%.<br>
 138	La Forma Reale aumenta tutti i tratti<br>e aggiunge l'abilità al 100% di rallentamento<br>su nemici angelici e metallici.	La Forma ultra rivela<br>la loro forma più potente!<br>Ottiene anche Ammazza-metallici!
 139	<br><br>
 140	<br><br>
@@ -334,7 +334,7 @@
 333	<br><br>
 334	La Forma Reale migliora tutte le statistiche!<br>In più, fluttuanti e angelici vengono<br>rallentati per più tempo!
 335	La Forma Reale ottiene maggiori<br>potenza d'attacco e difesa! I nemici rossi<br>subiscono indebolimento più a lungo!
-336	La Forma Reale ha maggiore velocità<br>e numeri di respinta contro nemici.<br>
+336	La Forma Reale ha maggiore velocità<br>di attacco e respinge i nemici.<br>
 337	True Form evolution gains improved<br>defense, move speed and attack!<br>	True Form evolution increases<br>defense, move speed and attack!<br>
 338	La Forma Reale ottiene maggiori difesa<br>e raggio d'attacco. Poi indebolisce nemici<br>neri per periodi più lunghi.
 339	<br><br>
@@ -394,7 +394,7 @@
 393	La Forma Reale aumenta molto<br>velocità/potenza d'attacco e difesa!<br>In più diventa immune da rallentamento!
 394	La Forma Reale ha un ritmo d'attacco più lento<br>ma ottiene maggiori difesa, potenza<br>d'attacco e raggio!
 395	La Forma Reale aumenta molto<br>la potenza d'attacco e la difesa!<br>Inoltre, diventa immune da ondate!
-396	La Forma Reale ottiene maggiore<br>difesa e respinta contro i nemici!<br>
+396	La Forma Reale ottiene maggiore<br>difesa e numero di respinte!<br>
 397	La Forma Reale ottiene<br>difesa incredibilmente forte<br>contro i nemici metallici!	La Forma ultra ottiene Bilaterale.<br>Più difesa, attacco e danni critici!<br>Maggiore durata di debuff vs metallici.
 398	<br><br>
 399	<br><br>
@@ -515,7 +515,7 @@
 514	<br><br>
 515	<br><br>
 516	<br><br>
-517	<br><br>
+517	True Form gains improved defense<br>and attack power. Also gains Weaken<br>vs. Red, Floating, and Angels.
 518	<br><br>
 519	La Forma Reale aumenta difesa e<br>potenza attacco, migliora "Rafforza" e<br>dà immunità da veleno e attacchi a valanga!
 520	<br><br>
@@ -824,3 +824,8 @@
 823	<br><br>
 824	<br><br>
 825	<br><br>
+826	<br><br>
+827	<br><br>
+828	<br><br>
+829	<br><br>
+830	<br><br>

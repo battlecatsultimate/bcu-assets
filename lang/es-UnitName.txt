@@ -135,7 +135,7 @@
 134	Urashima Taro	Guardián Gamereon	Rey Gamereon	
 135	Grulla Agradecida	Cosmo Supergaláctico	Cosmo Extragaláctico	Cosmo Supernova
 136	Momotaro	Los Ángeles del Melocotón	Los Demonios del Melocotón	
-137	Kasa Jizo	Castillo Ambulante de Jizo	Megacastillo de Jizo	
+137	Kasa Jizo	Castillo Ambulante de Jizo	Megacastillo de Jizo	Ultra Kasa Jizo
 138	Princesa Kaguya	La Luna de la Muerte	La Luna del Caos	Ultra Kaguya
 139				
 140	Squish Ball Cat	Muscleman Cat		
@@ -515,7 +515,7 @@
 514	Zangief	Zangief CC		
 515	Blanka	Blanka CC		
 516	Dhalsim	Dhalsim CC		
-517	Ken	Ken CC		
+517	Ken	Ken CC	Crimson King of Battle Ken	
 518	Akuma Giraffe	Akuma Lion		
 519	Lasvoss	Lasvoss Definitivo	Lasvoss Renacido	
 520	Ebisu de Buena Suerte	Ebisu de Mala Suerte		
@@ -710,7 +710,7 @@
 709	One-Eyed Asuka	Blue-Eyed Asuka		
 710	EVA Unit-13	EVA Unit-13 & Cat		
 711	Balaluga prometida	Pasalan prometida		
-712	Kaoluga	Kaoluga Pasalan		
+712	Kaoluga	Kaolan Pasalan		
 713	Huevo Antiguo N203	Huevo morado N203	Gato Payaso	
 714	Kanna Exploradora Costera	Kanna Buceadora		
 715	Cuerpo Esfinge Brutal	Convoys Batallón de Ataque	Convoyes Batallón de Ataque Letal	
@@ -824,3 +824,8 @@
 823			
 824	Hechicera Sidmi	Maga Llameante Sidmi		
 825				
+826	Cammy	Cammy CC		
+827	Juri	Juri CC		
+828	Zangief Cat	Zangief Cat CC		
+829	Jamie Cat	Jamie Cat CC		
+830	Raclesa la Leona	Raclesa Σ		

@@ -135,7 +135,7 @@
 134	Urashima Taro	Guardian Gamereon	King Gamereon	
 135	The Grateful Crane	Super Galaxy Cosmo	Ultima Galaxy Cosmo	Supernova Cosmo
 136	Momotaro	The Peach Angels	The Peach Devils	
-137	Kasa Jizo	Jizo's Moving Castle	Jizo's Mega-Castle	
+137	Kasa Jizo	Jizo's Moving Castle	Jizo's Mega-Castle	Ultra Kasa Jizo
 138	Princess Kaguya	The Death Moon	The Chaos Moon	Ultra Kaguya
 139				
 140	Squish Ball Cat	Muscleman Cat		
@@ -322,7 +322,7 @@
 321				
 322	Sarukani	Rock Revengers	The One-Hit Wonders	
 323	Miyamoku Musashi	Heroic Musashi	Awakened Musashi	
-324	Curling Cat	Zamboney Cat	Green Shell Cat	
+324	Curling Cat	Cleanerbot Cat	Green Shell Cat	
 325	Welterweight Cat	Heavyweight Cat	Ectoweight Cat	
 326	Mobius	Miraculous Mobius		
 327	Belial	Reckless Belial		
@@ -515,7 +515,7 @@
 514	Zangief	Zangief CC		
 515	Blanka	Blanka CC		
 516	Dhalsim	Dhalsim CC		
-517	Ken	Ken CC		
+517	Ken	Ken CC	Crimson King of Battle Ken	
 518	Akuma Giraffe	Akuma Lion		
 519	Lasvoss	Ultimate Lasvoss	Lasvoss Reborn	
 520	Good-Luck Ebisu	Bad-Luck Ebisu		
@@ -710,7 +710,7 @@
 709	One-Eyed Asuka	Blue-Eyed Asuka		
 710	EVA Unit-13	EVA Unit-13 & Cat		
 711	Betrothed Balaluga	Betrothed Pasalan		
-712	Kaoluga	Kaoluga Pasalan		
+712	Kaoluga	Kaolan Pasalan		
 713	Ancient Egg: N203	Violet Egg: N203	Clown Cat	
 714	Coastal Explorer Kanna	Deep-Diver Kanna	Great Deep-Diver Kanna	
 715	Mighty Sphinx Korps	Attack Battalion Convoys	Hyper Battalion Convoys	
@@ -824,3 +824,8 @@
 823			
 824	Sorceress Sidmi	Flame Mage Sidmi		
 825				
+826	Cammy	Cammy CC		
+827	Juri	Juri CC		
+828	Zangief Cat	Zangief Cat CC		
+829	Jamie Cat	Jamie Cat CC		
+830	Raclesa the Lioness 	Raclesa Σ		
