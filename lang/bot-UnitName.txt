@@ -709,7 +709,7 @@
 708	Jetpack Cat	Kinjirou Cat
 709	One-Eyed Asuka	Blue-Eyed Asuka	
 710	EVA Unit-13	EVA Unit-13 & Cat
-711	Betrothed Balaluga	Betrothed Pasalan	
+711	Betrothed Balaluga	Betrothed Pasalan	Kaolan Tatalan
 712	Kaoluga	Kaolan Pasalan
 713	Ancient Egg: N203	Violet Egg: N203	Clown Cat
 714	Coastal Explorer Kanna	Deep-Diver Kanna	Great Deep-Diver Kanna
@@ -834,3 +834,6 @@
 834	Goggle Cat	Cat Green
 835	Ribbon Cat	Cat Pink
 836	Cat Megazord	Great Cat Megazord DX
+837	Young Knight Luno	Knight of Full Moon Lunos
+838	Luno Spirit
+839	Lunos Spirit
