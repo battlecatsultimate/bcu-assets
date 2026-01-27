@@ -200,7 +200,7 @@
 199	Chat surfeur	Chat naufragé	Chat navigateur	
 200	Chat métal	Macho métal		
 201	Chat fanfare	Chatte panneau	Chat mochi	
-202	Baozi Cat	Big Baozi		
+202	Chat Baozi			
 203	Kachi-Kachi	Pompiers Kachiyama	Brigade d’assaut Kachiyama	
 204				
 205				
@@ -710,7 +710,7 @@
 709	One-Eyed Asuka	Blue-Eyed Asuka		
 710	EVA Unit-13	EVA Unit-13 & Cat		
 711	Balaluga fiancé	Pasalan fiancé		
-712	Kaoluga	Kaolan Pasalan		
+712	Kaoluga	Kaolan Pasalan	Kaolan Tatalan	
 713	Œuf ancien N203	Œuf violet N203	Chat clown	
 714	Kanna l’exploratrice côtière	Kanna plongeuse sous-marine		
 715	Puissant corps sphinx	Convois offensifs	Super convois offensifs	
@@ -821,7 +821,7 @@
 820	Pégasa océane	Pégasa océane v		
 821				
 822	Chat consultant	Chat associé		
-823			
+823				
 824	Sorcière Sidmi	Mage de feu Sidmi		
 825				
 826	Cammy	Cammy CC		
@@ -829,3 +829,12 @@
 828	Zangief Cat	Zangief Cat CC		
 829	Jamie Cat	Jamie Cat CC		
 830	Raclesa la lionne	Raclesa Σ		
+831				
+832				
+833				
+834				
+835				
+836				
+837	Écuyer Luno	Lunos le Lumineux		
+838				
+839				

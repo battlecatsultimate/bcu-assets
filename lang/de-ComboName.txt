@@ -244,3 +244,4 @@
 3059	Unstillbarer Hunger
 3060	Kosmische Krieger
 3061	Mit Schwert und Pistole
+3062	Königliche Klopperei

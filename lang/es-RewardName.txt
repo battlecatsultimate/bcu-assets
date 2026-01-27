@@ -223,6 +223,13 @@
 232|I455	C. tesoro bronce
 233|I456	Cofre tesoro plata
 234|I457	Cofre tesoro oro
+235|S235|I458	Amuleto legendario
+236|I459	C. tesoro bronce
+237|I460	Cofre tesoro plata
+238|I461	Cofre tesoro oro
+239|I462	C. tesoro bronce
+240|I463	Cofre tesoro plata
+241|I464	Cofre tesoro oro
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -240,7 +247,7 @@
 1016	Gato de Kungfú X
 1018	Gato Esponjita
 1019	Cat Kart R
-1020	Baozi Cat
+1020	Gato Bao
 1021	Gatomburguesa
 1022	Calabagato
 1023	Regalo Gatuno
@@ -700,6 +707,7 @@
 15701	Gato Sicario
 15707	Jabogato
 15708	Gato Barril
+15713	Kaolan Tatalan
 15714	Gato Payaso
 15716	Convoyes Batallón de Ataque Letal
 15717	Gato Policía

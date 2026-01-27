@@ -223,6 +223,13 @@
 232|I455	Coffre au trésor (bronze)
 233|I456	Coffre au trésor (argent)
 234|I457	Coffre au trésor (or)
+235|S235|I458	Charme légendaire
+236|I459	Coffre au trésor (bronze)
+237|I460	Coffre au trésor (argent)
+238|I461	Coffre au trésor (or)
+239|I462	Coffre au trésor (bronze)
+240|I463	Coffre au trésor (argent)
+241|I464	Coffre au trésor (or)
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -240,7 +247,7 @@
 1016	Chat kung-fu X
 1018	Chat mallow
 1019	Cat Kart R
-1020	Baozi Cat
+1020	Chat Baozi
 1021	Chat burger
 1022	Chatrouille
 1023	Chadeau
@@ -701,6 +708,7 @@
 15701	Chat tueur à gages
 15707	Chat savonneur
 15708	Chat baril
+15713	Kaolan Tatalan
 15714	Chat clown
 15716	Super convois offensifs
 15717	Chagent de police

@@ -990,3 +990,8 @@
 9638	Clear any Street Fighter 6 collab
 9639	Clear any Street Fighter 6 collab
 9640	Clear any Street Fighter 6 collab
+9668	【Progresso】Sorteggia una Miaocapsula 0 volte! (Un miaobiglietto gratis al giorno da usare una volta)
+9669	【Progresso】. Supera 0 livello/i di The Battle Cats
+9670	【Progresso】Manda Gamatoto in 17 spedizioni riuscite! (Completa 3 spedizioni in un'area Gamatoto: )
+9671	【Progresso】. Supera 0 livello/i di The Battle Cats
+9672	【Progresso】Supera tutte le missioni evento. per ottenere 3 biglietti rari

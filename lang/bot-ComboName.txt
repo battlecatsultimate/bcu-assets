@@ -244,3 +244,4 @@
 3059	Insatiable Hunger
 3060	Cosmic Warriors
 3061	By Gun and Sword
+3062	Royal Barrage

@@ -710,7 +710,7 @@
 709	<br><br>
 710	<br><br>
 711	<br><br>
-712	<br><br>
+712	Forma Reale ottiene difesa rinforzata<br>Le mini valanghe hanno maggiore durata e<br>più possibilità di respinta!
 713	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 714	<br><br>
 715	La Forma Reale ha maggiore difesa e<br>velocità! Respinge rossi/metallici/zombi<br>e scatena ondate al 100%.
@@ -829,3 +829,12 @@
 828	<br><br>
 829	<br><br>
 830	<br><br>
+831	<br><br>
+832	<br><br>
+833	<br><br>
+834	<br><br>
+835	<br><br>
+836	<br><br>
+837	<br><br>
+838	<br><br>
+839	<br><br>

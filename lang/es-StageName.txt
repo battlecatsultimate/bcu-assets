@@ -571,7 +571,7 @@
 001-045		Actriz, Álzate
 001-045-000	A Escena (Veterano)
 001-045-001	A Escena (Demencial)
-001-046		Kungfú X, Álzate
+001-046		Kungfú, Álzate
 001-046-000	Senda del Kungfú (Experto)
 001-046-001	Senda del Kungfú (Demencial)
 001-047		Sr., Álzate
@@ -635,14 +635,14 @@
 001-065-007	But the App's Fun Too :)
 001-066		Dimensión Desesperada
 001-066-000	Agujero Negro Creciente (Demencial)
-001-068		
+001-068		20 Mil Downloads Special Gift!
 001-068-000	¡Alegría de los 20 M!
 001-069		Carnaval Mortal
 001-069-000	Carnaval de Tornados (Mortal)
 001-069-001	Carnaval de Alzados (Mortal)
 001-070		Evento de las Estrellas Mensual Celebración Maravillosa
 001-070-000	Conquista Maravillosa (Demencial)
-001-071		
+001-071		Minced Meet-Up
 001-071-000	Cocina Rápida
 001-072		Camino Sombrío
 001-072-000	Dulce Samaín
@@ -848,7 +848,7 @@
 001-143		Gato Kart, Álzate
 001-143-000	Kartopia (Experto)
 001-143-001	Kartopia (Demencial)
-001-145		
+001-145		30M Celebration Gifts Galore!
 001-145-000	¡Alegría de los 30 M!
 001-146		Evento de las Estrellas ¡Gran aniversario!
 001-146-000	Explosión Megatónica (Demencial)
@@ -1053,7 +1053,7 @@
 001-205		Muertos en los Bises
 001-205-000	Avance del Prisionero (Inhumano)
 001-205-001	Marcha a la Muerte (Inhumano)
-001-206		The Battle Cats Together!
+001-206		The Battle Cats Unite!
 001-206-000	Play Battle Cats Together!
 001-206-001	Team Up & Win!
 001-206-002	Over 350 Cats!
@@ -1120,7 +1120,7 @@
 001-227-000	Vanguardia (Demencial)
 001-227-001	Élite (Mortal)
 001-227-002	Comandante (Mortal)
-001-228		
+001-228		50M Celebration Gifts Galore!
 001-228-000	¡Alegría de los 50 M!
 001-229		Gloria de Guauguau
 001-229-000	Villa Canina (Inhumano)
@@ -1181,6 +1181,8 @@
 001-243		Cúspide del Pantano
 001-243-000	Seguir la Corriente (Inhumano)
 001-243-001	Ahorro de Agua (Inhumano)
+001-244		Regalos de Aniversario
+001-244-000	¡8 Años de Diversión!
 001-245		Más Populares 2020
 001-245-000	Enhorabuena por el 5.º
 001-245-001	El 4.º Sin Sorpresas
@@ -1282,7 +1284,7 @@
 001-272		Sinfonía de Tentaciones
 001-272-000	Melodía de Akus (Inhumano)
 001-273		Rashomon
-001-273-000	Reencarnación de Akus (Inhumano)
+001-273-000	Reencarnación de Aku (Inhumano)
 001-274		Mal Proliferante
 001-274-000	Murmullo de Aku (Demencial)
 001-274-001	Murmullo de Aku (Mortal)
@@ -1519,11 +1521,11 @@
 001-326		Minería Épica
 001-326-000	Siete Luces de Perdición (inhumano)
 001-327		¡5 Más Recurrentes del 2022!
-001-327-000	5º por los pelos
-001-327-001	4º otra vez
-001-327-002	3º, por desgracia
-001-327-003	Tan 2º que da pena
-001-327-004	Pasmosamente 1º
+001-327-000	5.º por los pelos
+001-327-001	4.º otra vez
+001-327-002	3.º, por desgracia
+001-327-003	Tan 2.º que da pena
+001-327-004	Pasmosamente 1.º
 001-327-005	No Visto en 2022
 001-328		¡Celebrando 80 millones de descargas! Regalo feliz
 001-328-000	¡Bien! ¡80 millones de descargas!
@@ -1564,8 +1566,8 @@
 001-337-000	Huevos duros (Experto)
 001-337-001	Huevos duros (Demencial)
 001-338		Gloria de Neoguauguau
-001-338-000	Anexo de Villa Canina (Demencial)
-001-338-001	Jerarca omnipotente (Demencial)
+001-338-000	Anexo de Villa Canina (Inhumano)
+001-338-001	Jerarca omnipotente (Inhumano)
 001-339		Juicio de minigato
 001-339-000	Camino a +nvl. 45
 001-339-001	Camino a +nvl. 50
@@ -1612,23 +1614,23 @@
 001-349-008	Reinicio Forzoso (nvl. 9)
 001-349-009	Reinicio Forzoso (nvl. MÁX)
 001-350		El Gato Malévolo
-001-350-000	Fin de Siglo (Demencial)
+001-350-000	Fin de Siglo (Inhumano)
 001-351		El Defensor Malévolo
-001-351-000	Cascademonios (Demencial)
+001-351-000	Cascademonios (Inhumano)
 001-352		El Hachero Malévolo
-001-352-000	Hiperfrenético (Demencial)
+001-352-000	Hiperfrenético (Inhumano)
 001-353		El Gatilargo Malévolo
-001-353-000	Andares Diabólicos (Demencial)
+001-353-000	Andares Diabólicos (Inhumano)
 001-354		El Lechero Malévolo
-001-354-000	Tirano Desalmado (Demencial)
+001-354-000	Tirano Desalmado (Inhumano)
 001-355		El Pájaro Malévolo
-001-355-000	Gatocalipsis (Demencial)
+001-355-000	Gatocalipsis (Inhumano)
 001-356		El Piscigato Malévolo
-001-356-000	Incertidumbre (Demencial)
+001-356-000	Incertidumbre (Inhumano)
 001-357		El Lagarto Malévolo
-001-357-000	Suspiro Mortal (Demencial)
+001-357-000	Suspiro Mortal (Inhumano)
 001-358		El Titán Malévolo
-001-358-000	Embate Titánico (Demencial)
+001-358-000	Embate Titánico (Inhumano)
 001-359		River City: Relevos
 001-359-000	Relevos de 400 m: Salida Ráp.
 001-359-001	Relevos de 800 m: Salida Ráp.
@@ -1725,9 +1727,9 @@
 001-383		La Reina Más Vieja
 001-383-000	El Regreso del Insecto (Inhumano)
 001-383-001	La Reina de las Abejas (Inhumano)
-001-384		Vendedor de Comida, Álzate！
-001-384-000	Evolución Aplazada 1 (Demencial)
-001-384-001	Evolución Aplazada 2 (Demencial)
+001-384		Vendedor de Comida, Álzate
+001-384-000	Evolución Aplazada 1 (Inhumano)
+001-384-001	Evolución Aplazada 2 (Inhumano)
 001-385		Rumbo a la Unificación Parte 1
 001-385-000	Dominio: Satsuma Imo
 001-385-001	Dominio: Ahosan
@@ -1811,6 +1813,18 @@
 001-410		¡Espectáculo de pirotecnia!
 001-410-000	¡Fuegos artificiales! (Mortal)
 001-410-001	¡Fuegos artificiales! (Inhumano)
+001-418		Recuerdos de 2025
+001-418-000	Recuerdos de primavera
+001-418-001	Recuerdos de verano
+001-418-002	Recuerdos de otoño
+001-418-003	Recuerdos de invierno
+001-419		¡5 Más Recurrentes del 2025!
+001-419-000	El afortunado 5.º
+001-419-001	El eterno 4.º
+001-419-002	El inesperado 3.º
+001-419-003	El sorprendente 2.º
+001-419-004	El 1.º contra todo pronóstico
+001-419-005	Inédito en 2025
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2158,7 +2172,7 @@
 002-129-011	Sudden Death Lv.12
 002-134		Hatsune Miku's Birthday!
 002-134-000	♪ Birthday Party ♪
-002-135		ストリートファイター EASY
+002-135		Street Fighter - EASY -
 002-135-000	Warrior of Nature
 002-135-001	Illuminating Flame
 002-135-002	Rush & Blaze
@@ -2171,7 +2185,7 @@
 002-135-009	The Clawed Rondo
 002-135-010	Solitary Emperor
 002-135-011	The Supreme Evil
-002-136		ストリートファイター NORMAL
+002-136		Street Fighter - NORMAL -
 002-136-000	Pride & Passion
 002-136-001	Iron Cyclone
 002-136-002	Blue Jade
@@ -2184,7 +2198,7 @@
 002-136-009	The Clawed Rondo
 002-136-010	Solitary Emperor
 002-136-011	The Supreme Evil
-002-137		ストリートファイター HARD
+002-137		Street Fighter - HARD -
 002-137-000	Iron Cyclone
 002-137-001	Impregnable Fortress
 002-137-002	Rush & Blaze
@@ -2355,7 +2369,7 @@
 002-191-000	VS LUKE (Easy)
 002-192		New Challenger
 002-192-000	VS LUKE (Expert)
-002-193		Street Fighter: VERY HARD
+002-193		Street Fighter - VERY HARD -
 002-193-000	Master of Heart Lv.1
 002-193-001	Land & Sky Lv.1
 002-193-002	Master of Heart Lv.2
@@ -2390,7 +2404,7 @@
 002-206		The 10th Angel Strikes!
 002-206-000	Refusal Type (Hard)
 002-206-001	Refusal Type (Merciless)
-002-207		Eva Unit-13 Strikes!
+002-207		EVA Unit-13 Strikes!
 002-207-000	It's Not Your Fault (Veteran)
 002-207-001	We'll Meet Again (Merciless)
 002-208		Final Battle: EVA Unit-13
@@ -3635,6 +3649,21 @@
 004-075-000	Alerta de Tormenta
 004-076		Pronósticos Extremos
 004-076-000	Alerta de Tifón
+004-078		Recuerdos de 2025
+004-078-000	Recuerdos de primavera (página 2)
+004-078-001	Recuerdos de verano (página 2)
+004-078-002	Recuerdos de otoño (página 2)
+004-078-003	Recuerdos de invierno (página 2)
+004-079		Recuerdos de 2025
+004-079-000	Recuerdos de primavera (página 3)
+004-079-001	Recuerdos de verano (página 3)
+004-079-002	Recuerdos de otoño (página 3)
+004-079-003	Recuerdos de invierno (página 3)
+004-080		Ostentación de Año Nuevo
+004-080-000	¡Tesoros de Año Nuevo!
+004-080-001	¡Tesoros de Año Nuevo!
+004-080-002	¡Tesoros de Año Nuevo!
+004-080-003	¡Tesoros de Año Nuevo!
 
 006			Dojo Afilagarras
 006-000		Sala de Iniciados
@@ -3956,6 +3985,10 @@
 011-037-000	I Seek the Strongest
 011-038		Arena del Destino
 011-038-000	Talento para la Batalla
+011-040		Arena del Destino
+011-040-000	Torneo de Talentos
+011-041		Arena del Destino
+011-041-000	Torneo de Talentos
 
 012			Challenge Mode
 012-000		Batalla de Desafío
@@ -5148,7 +5181,7 @@
 024-045-017	Por Compasión (nvl. 18)
 024-045-018	Por Compasión (nvl. 19)
 024-045-019	Por Compasión (nvl. máx.)
-024-046		Ataque del Corazón Solitario
+024-046		Desafío de Abril
 024-046-000	¡Profe! (nvl. 1)
 024-046-001	¡Profe! (nvl. 2)
 024-046-002	¡Profe! (nvl. 3)
@@ -5159,7 +5192,7 @@
 024-046-007	¡Profe! (nvl. 8)
 024-046-008	¡Profe! (nvl. 9)
 024-046-009	¡Profe! (nvl. 10)
-024-047		Ataque del Corazón Solitario
+024-047		Desafío de Abril II
 024-047-000	¡Maestro! (nvl. 11)
 024-047-001	¡Maestro! (nvl. 12)
 024-047-002	¡Maestro! (nvl. 13)
@@ -5559,6 +5592,17 @@
 024-074-007	Ceremonia Emocional
 024-074-008	Foto de Recuerdo
 024-074-009	Saludos Cordiales
+024-077		¡El Año Nuevo más feliz!
+024-077-000	Año del Caballo (nvl. 1)
+024-077-001	Año del Caballo (nvl. 2)
+024-077-002	Año del Caballo (nvl. 3)
+024-077-003	Año del Caballo (nvl. 4)
+024-077-004	Año del Caballo (nvl. 5)
+024-077-005	Año del Caballo (nvl. 6)
+024-077-006	Año del Caballo (nvl. 7)
+024-077-007	Año del Caballo (nvl. 8)
+024-077-008	Año del Caballo (nvl. 9)
+024-077-009	Año del Caballo (nvl. máx.)
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -6411,6 +6455,13 @@
 034-025-003	Finca del Diccionario
 034-025-004	Novela del Bienestar
 034-025-005	Templo del Manga
+034-026		Empresa Vanidosa
+034-026-000	Falta de Pruebas
+034-026-001	Arreglo Chapucero
+034-026-002	Puntualidad Milagrosa
+034-026-003	Prisas Cotidianas
+034-026-004	Asuntos Ajenos
+034-026-005	Conflicto Interno
 
 036			Colosseum Stages
 036-000		Coliseo de Otro Mundo
@@ -6521,6 +6572,18 @@
 036-017-002	Ronda 3
 036-017-003	Ronda 4
 036-017-004	Ronda 5
+036-018		Coliseo de Otro Mundo
+036-018-000	Ronda 1
+036-018-001	Ronda 2
+036-018-002	Ronda 3
+036-018-003	Ronda 4
+036-018-004	Ronda 5
+036-019		Coliseo de Otro Mundo
+036-019-000	Ronda 1
+036-019-001	Ronda 2
+036-019-002	Ronda 3
+036-019-003	Ronda 4
+036-019-004	Ronda 5
 
 037			Campeonatos Afilagarras
 037-000		Campeonatos Afilagarras Rango 1

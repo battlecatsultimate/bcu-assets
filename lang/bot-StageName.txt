@@ -1053,7 +1053,7 @@
 001-205		Dead by Encore
 001-205-000	Prisoner's Progress (Merciless)
 001-205-001	March to Death (Merciless)
-001-206		The Battle Cats Together!
+001-206		The Battle Cats Unite!
 001-206-000	Play Battle Cats Together!
 001-206-001	Team Up & Win!
 001-206-002	Over 350 Cats!
@@ -1566,8 +1566,8 @@
 001-337-000	Hardboiled Eggs (Expert)
 001-337-001	Hardboiled Eggs (Insane)
 001-338		NEO Wanwan's Glory
-001-338-000	Dogsville Annex (Insane)
-001-338-001	Top Dog (Insane)
+001-338-000	Dogsville Annex (Merciless)
+001-338-001	Top Dog (Merciless)
 001-339		Li'l Cat's Trial
 001-339-000	Path to +45
 001-339-001	Path to +50
@@ -1614,23 +1614,23 @@
 001-349-008	Hard Restart Lv.9
 001-349-009	Hard Restart Lv.MAX
 001-350		The Malevolent Cat
-001-350-000	Century's End (Insane)
+001-350-000	Century's End (Merciless)
 001-351		The Malevolent Tank
-001-351-000	Demon Eraser (Insane)
+001-351-000	Demon Eraser (Merciless)
 001-352		The Malevolent Axe
-001-352-000	Hyperberserker (Insane)
+001-352-000	Hyperberserker (Merciless)
 001-353		The Malevolent Gross
-001-353-000	Devilish Strides (Insane)
+001-353-000	Devilish Strides (Merciless)
 001-354		The Malevolent Cow
-001-354-000	Ruthless Tyrant (Insane)
+001-354-000	Ruthless Tyrant (Merciless)
 001-355		The Malevolent Bird
-001-355-000	Apocalypse (Insane)
+001-355-000	Apocalypse (Merciless)
 001-356		The Malevolent Fish
-001-356-000	Adrift in Fear (Insane)
+001-356-000	Adrift in Fear (Merciless)
 001-357		The Malevolent Lizard
-001-357-000	Spitting Death (Insane)
+001-357-000	Spitting Death (Merciless)
 001-358		The Malevolent Titan
-001-358-000	Titanic Rampage (Insane)
+001-358-000	Titanic Rampage (Merciless)
 001-359		River City Relay
 001-359-000	400m Relay: Fast Start
 001-359-001	800m Relay: Fast Start
@@ -1728,8 +1728,8 @@
 001-383-000	I'll Big Bug (Merciless)
 001-383-001	Be Bee Queen (Merciless)
 001-384		Food Stall Cat Awakes!
-001-384-000	Stalled Evolution 1 (Insane)
-001-384-001	Stalled Evolution 2 (Insane)
+001-384-000	Stalled Evolution 1 (Merciless)
+001-384-001	Stalled Evolution 2 (Merciless)
 001-385		Road to Unification Pt. 1
 001-385-000	Satsuma Imo Domain
 001-385-001	Ahosan Domain
@@ -1813,6 +1813,18 @@
 001-410		Fireworks Spectacular!
 001-410-000	Fireworks! (Deadly)
 001-410-001	Fireworks! (Merciless)
+001-418		Memories of 2025
+001-418-000	Memories of Spring
+001-418-001	Memories of Summer
+001-418-002	Memories of Fall
+001-418-003	Memories of Winter
+001-419		Top 5 Most Seen Enemies, 2025!
+001-419-000	Luckily 5th
+001-419-001	Always 4th
+001-419-002	Unexpectedly 3rd
+001-419-003	Surprisingly 2nd
+001-419-004	Underdog 1st
+001-419-005	Unseen in 2025
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2186,7 +2198,7 @@
 002-136-009	The Clawed Rondo
 002-136-010	Solitary Emperor
 002-136-011	The Supreme Evil
-002-137		Street Fighter (Hard)
+002-137		Street Fighter - HARD -
 002-137-000	Iron Cyclone
 002-137-001	Impregnable Fortress
 002-137-002	Rush & Blaze
@@ -2357,7 +2369,7 @@
 002-191-000	VS LUKE (Easy)
 002-192		New Challenger
 002-192-000	VS LUKE (Expert)
-002-193		Street Fighter: VERY HARD
+002-193		Street Fighter - VERY HARD -
 002-193-000	Master of Heart Lv.1
 002-193-001	Land & Sky Lv.1
 002-193-002	Master of Heart Lv.2
@@ -2392,7 +2404,7 @@
 002-206		The 10th Angel Strikes!
 002-206-000	Refusal Type (Hard)
 002-206-001	Refusal Type (Merciless)
-002-207		Eva Unit-13 Strikes!
+002-207		EVA Unit-13 Strikes!
 002-207-000	It's Not Your Fault (Veteran)
 002-207-001	We'll Meet Again (Merciless)
 002-208		Final Battle: EVA Unit-13
@@ -3649,6 +3661,21 @@
 004-075-000	Thunderstorm Warning
 004-076		Unprecedented Forecasts
 004-076-000	Typhoon Warning
+004-078		Memories of 2025
+004-078-000	Memories of Spring, Pg. 2
+004-078-001	Memories of Summer, Pg. 2
+004-078-002	Memories of Fall, Pg. 2
+004-078-003	Memories of Winter, Pg. 2
+004-079		Memories of 2025
+004-079-000	Memories of Spring, Pg. 2
+004-079-001	Memories of Summer, Pg. 2
+004-079-002	Memories of Fall, Pg. 2
+004-079-003	Memories of Winter, Pg. 2
+004-080		New Year's Bling
+004-080-000	Lucky! New Year's Loot!
+004-080-001	Lucky! New Year's Loot!
+004-080-002	Lucky! New Year's Loot!
+004-080-003	Lucky! New Year's Loot!
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
@@ -3970,6 +3997,10 @@
 011-037-000	I Seek the Strongest
 011-038		Arena of Honor
 011-038-000	Talent for Battle
+011-040		Arena of Destiny
+011-040-000	Talent Tournament
+011-041		Arena of Destiny
+011-041-000	Talent Tournament
 
 012			Challenge Mode
 012-000		Challenge
@@ -4391,7 +4422,7 @@
 014-032-000	Crazy Cats (Insane)
 014-033		Blue Impact
 014-033-000	Puffer Planet (Merciless)
-014-034		Crazed Moneko Strikes
+014-034		Crazed Moneko
 014-034-000	in JAPAN
 014-034-001	in LONDON
 014-034-002	in NEW YORK
@@ -5573,6 +5604,17 @@
 024-074-007	Emotional Ceremony
 024-074-008	Memorial Photo
 024-074-009	Best Regards
+024-077		A Colossal New Year!
+024-077-000	Year of the Horse Lv.1
+024-077-001	Year of the Horse Lv.2
+024-077-002	Year of the Horse Lv.3
+024-077-003	Year of the Horse Lv.4
+024-077-004	Year of the Horse Lv.5
+024-077-005	Year of the Horse Lv.6
+024-077-006	Year of the Horse Lv.7
+024-077-007	Year of the Horse Lv.8
+024-077-008	Year of the Horse Lv.9
+024-077-009	Year of the Horse Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -6425,6 +6467,13 @@
 034-025-003	Dictionary Estate
 034-025-004	Feel-good Novel
 034-025-005	Temple of Manga
+034-026		Vainglorious Venture
+034-026-000	Insufficient Evidence
+034-026-001	Shoddy Fix
+034-026-002	Miraculously On Time
+034-026-003	Everyday Rush
+034-026-004	Affairs of Another
+034-026-005	Personal Issue
 
 036			Colosseum Stages
 036-000		Otherworld Colosseum
@@ -6535,6 +6584,18 @@
 036-017-002	Round 3
 036-017-003	Round 4
 036-017-004	Round 5
+036-018		Otherworld Colosseum
+036-018-000	Round 1
+036-018-001	Round 2
+036-018-002	Round 3
+036-018-003	Round 4
+036-018-004	Round 5
+036-019		Otherworld Colosseum
+036-019-000	Round 1
+036-019-001	Round 2
+036-019-002	Round 3
+036-019-003	Round 4
+036-019-004	Round 5
 
 037			Catclaw Championships
 037-000		Catclaw Championships Rank 1

@@ -223,6 +223,13 @@
 232|I455	Forziere (bronzo)
 233|I456	Forziere (argento)
 234|I457	Forziere (oro)
+235|S235|I458	Amul. leggendario
+236|I459	Forziere (bronzo)
+237|I460	Forziere (argento)
+238|I461	Forziere (oro)
+239|I462	Forziere (bronzo)
+240|I463	Forziere (argento)
+241|I464	Forziere (oro)
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -240,7 +247,7 @@
 1016	Gatto Kung Fu X
 1018	Gatto marshmallow
 1019	Cat Kart R
-1020	Baozi Cat
+1020	Gatto baozi
 1021	Miaoburger
 1022	Zuccatto
 1023	Gatto regalo
@@ -701,6 +708,7 @@
 15701	Gatto killer
 15707	Gatto sapone
 15708	Gatto barile
+15713	Kaolan Tatalan
 15714	Gatto clown
 15716	Iper Convogli da battaglia
 15717	Gatto sbirro

@@ -902,7 +902,7 @@
 74	Toca el icono de un enemigo en la selección de fases para ir. al bestiario. Toca fase superada para ver los enemigos
 75	Usa gatamina [A] para restaurar los intentos. Usa gatamina [A] en una Etapa de Leyenda
 76	Toca dos veces el gatomático y omite una fase. Puedes omitir fases superadas en la pantalla de selección
-77	Mantén pulsado «Equipo» en la pantalla de seleción. Mantén pulsado para usar la formación de tu última victoria
+77	Mantén pulsado «Organizar» en la pantalla de seleción. Mantén pulsado para usar la formación de tu última victoria
 78	Ve a una fase desde la pantalla de mutación. Toca un material de mutación tras acceder desde «Mejorar»
 79	Mira el identificador. Toca la esquina superior izquierda en. pantalla de título o inferior izquierda en «Ajustes»
 9550	Clear 9 Madoka Magica collab stages
@@ -983,3 +983,8 @@
 9638	Clear any Street Fighter 6 collab
 9639	Clear any Street Fighter 6 collab
 9640	Clear any Street Fighter 6 collab
+9668	(Cada día podrás utilizar un tique gratis)
+9669	【Progreso】
+9670	【Progreso】¡Envía a Gamatoto a 17 excursiones exitosas!
+9671	【Progreso】
+9672	【Progreso】. Supera todas las misiones del evento y gana 3 tiques raros

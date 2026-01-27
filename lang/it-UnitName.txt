@@ -200,7 +200,7 @@
 199	Gatto surfista	Gatto naufrago	Gatto navigatore	
 200	Gatto metallico	Macho metallico		
 201	Gatto tamburino	Gatta striscione	Gatto mochi	
-202	Baozi Cat	Big Baozi		
+202	Gatto baozi			
 203	Kachi-Kachi	Vigili del fuoco Kachiyama	Brigata d'assalto Kachiyama	
 204				
 205				
@@ -710,7 +710,7 @@
 709	One-Eyed Asuka	Blue-Eyed Asuka		
 710	EVA Unit-13	EVA Unit-13 & Cat		
 711	Balaluga fidanzato	Pasalan fidanzato		
-712	Kaoluga	Koalan Pasalan		
+712	Kaoluga	Koalan Pasalan	Kaolan Tatalan	
 713	Uovo antico N203	Uovo viola N203	Gatto clown	
 714	Kanna Esploratrice costiera	Kanna subacquea		
 715	Costruttori egizi possenti	Convogli da battaglia	Iper Convogli da battaglia	
@@ -821,7 +821,7 @@
 820	Pegasa marina	Pegasa marina v		
 821				
 822	Gatto consulente	Gatto socio in affari		
-823			
+823				
 824	Maga Sidmi	Maga del fuoco Sidmi		
 825				
 826	Cammy	Cammy CC		
@@ -829,3 +829,12 @@
 828	Zangief Cat	Zangief Cat CC		
 829	Jamie Cat	Jamie Cat CC		
 830	Raclesa la Leonessa	Raclesa Σ		
+831				
+832				
+833				
+834				
+835				
+836				
+837	Scudiero Luno	Lunos il Luminoso		
+838				
+839				

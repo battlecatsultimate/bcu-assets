@@ -200,7 +200,7 @@
 199	Hat so lange nach der perfekten Welle gesucht.<br>Jetzt ist sie 40 und hat irgendwie ihr Leben verschwendet.<br>Überlebenswille. Kann Aliens einfrieren. Flächenangriff.	Sagt, sie will sich auf eine einsame Insel retten, aber<br>insgeheim genießt sie den Dauerurlaub.<br>Überlebenswille. Kann Aliens einfrieren. Flächenangriff.	Ohne Hoffnung auf Rettung hat sie sich der See verschrieben.<br>Werden die Wellen heute grausam oder gütig sein?<br>Überlebenswille. Kann Aliens einfrieren. Flächenangriff.		
 200	Die metallene Haut lässt nur minimalen Schaden durch.<br>87,5 % Legierungsreinheit: Haudrauf schadet ihr.<br>Kann nicht zu (+)-Stufen verbessert werden. Eisern.	Die metallene Haut lässt nur minimalen Schaden durch.<br>Stolz auf ihre schöne Haut und läuft ärmellos herum.<br>Kann nicht zu (+)-Stufen verbessert werden. Eisern.			
 201	Sorgt für den fröhlichen Gleichschritt der Katzenarmee.<br>Ihr Taktgefühl ist so strikt, dass sie nur allein aufspielt.<br>Kann eiserne Feinde schwächen.	Führt eine Elite-Katzenakademie. Inspiriert seit 40 Jahren<br>den Nachwuchs, neue Lande für die Katzheit zu erobern.<br>Kann eiserne Feinde schwächen.	Hat ein Reiskloß-Geschäft geerbt. Sucht eine Frau, die<br>im perfekten Einklang mit seinen Hammerschlägen arbeiten<br>kann. Kann eiserne Feinde schwächen.		
-202	Celebrating The Battle Cats' Taiwan version,<br>this Cat got too excited and steamed itself in a basket.<br>Is that meat inside, or PURE PASSION?!	Celebrating The Battle Cats' Taiwan version,<br>grew bigger to satisfy more hungry people. There's<br>no basis to rumors he's got pizza filling inside.			
+202					
 203	Die Forscher der Katzenarmee haben eine alte Superwaffe<br>geklont: ein Tanuki, der es überlebt, in Flammen zu stehen.<br>Kann Alien-/Engel-Feinde schwächen (Flächenangriff).	Kachi spricht mit alten Geistern und speichert alle Hitze,<br>die er aufnehmen kann, für explosive Angriffe!<br>Schwächt Alien-/Engel-Feinde (Flächenangriff).	Uralte Magie, die durch moderne Technik verstärkt wurde.<br>Brenne alles nieder und hinterlasse keine Spuren!<br>Schwächt Alien-/Engel-Feinde (Flächenangriff).		
 204					
 205					
@@ -710,7 +710,7 @@
 709	Lonely girl searching for her place. The growing<br>sorrow within calls her to embrace the curse within.<br>Long-range Area Surge attacks will 100% Curse.	The dark magics in her left eye are unsealed,<br>bringing doom to the people crying out for salvation.<br>Long-range Area Surge attacks will 100% Curse.			
 710	Recruited from EVANGELION! EVA model with a<br>double-entry system piloted by Shinji and Kaworu.<br>Strong against Aku with Mini-Surge (Area Atk)	Recruited from EVANGELION! Unit piloted<br>by Gendo in EVANGELION 3.0+1.0.<br>Strong against Aku with small Mini-Surge (Area Atk)			
 711	Im Namen von allem, was heilig ist – warum?<br>Irgendwas stimmt da nicht...<br>Das Verhältnis von Kopf zu Körper...	Könnte es eine frisch verheiratete Braut sein?<br>Irgendwas stimmt da nicht...<br>Gefriert alle Feinde in Flächenangriffs-Reichweite.			
-712	Nicht sicher, ob das eine Katze ist...<br>Irgendwas stimmt da nicht...<br>Das Verhältnis von Kopf zu Körper...	Kann mir jemand sagen, wie das sein kann?!<br>Diese Katze garantiert offenbar<br>Mini-Zufallsangriff mit gelegentlichem Rückstoß.			
+712	Nicht sicher, ob das eine Katze ist...<br>Irgendwas stimmt da nicht...<br>Das Verhältnis von Kopf zu Körper...	Kann mir jemand sagen, wie das sein kann?!<br>Diese Katze garantiert offenbar<br>Mini-Zufallsangriff mit gelegentlichem Rückstoß.	Ist das eine Katze oder ein gefallener Krieger? Jedenfalls<br>ist es ein Kolosstöter mit Flächenangriffen<br>mit möglichem Rückstoß und garantiertem Mini-Zufallsangriff.		
 713	Ein anderweltliches Artefakt in Form eines Eis. Vom Dreck<br>zahlloser Jahrhunderte bedeckt.<br>Eine kleine Inschrift besagt „N203“.	Eine mysteriöse Lebensform in Gestalt eines violetten Eis.<br>Aus seinem Inneren gibt es scheinbar Lebenszeichen.<br>Hat eine geringe Chance, Zombies zu lähmen.	Ein Zirkusartist, der Spaß daran hat, Kinder zu unterhalten.<br>Ist dafür bekannt, Gästen fast Herzinfarkte zu versetzen.<br>Behemothtöter, kann Zombies lähmen.		
 714	Abenteurerin aus einer anderen Welt auf Schatzsuche!<br>Nimmt Schwimmunterricht, um zu legendären Wracks zu tauchen.<br>Heftiger Schaden gegen fliegend/Alien, mit Zufallsangriff.	Erkundet die Sieben Meere auf der Suche nach Schätzen.<br>Hat gelernt, dass das Leben im Meer kostbarer ist als Gold.<br>Heftiger Schaden gegen fliegend/Alien, mit Zufallsangriff.			
 715	Bautrupp, der Material für das Grab des Pharaos liefert und<br>sich gegen Raubüberfälle wehrt. Rundumschlag kann<br>schwächen. Robust gegen Rot/Eisern/Zombies.	Neueste taktische Fahrzeuge transportieren Späher und<br>überfallen feindliche Lager. Rundumschlag kann<br>schwächen, robust gegen Rot/Eisern/Zombies.	Stürzt sich furchtlos in den Kampf und holt den Sieg.<br>Robust gegen Rote, Eiserne und Zombies. Wellenangriff,<br>Rundumschläge können zurückstoßen/schwächen.		
@@ -821,7 +821,7 @@
 820	Diese junge Adlige erlebt ihre ersten Sommerferien und<br>freut sich unbändig über den Anblick des Meeres. Beschwörer,<br>schwächt Wertelose und Schwarz, entfesselt Mini-Wellen.	Das bezaubernde Grinsen auf ihrem Gesicht inspiriert die<br>Kinder, die ihr vom Strand aus zujubeln. Beschwörer,<br>schwächt Wertelose und Schwarz, entfesselt Mini-Wellen.			
 821	Geist: Lähmen Feinde.<br><br>				
 822	Der Retter unzähliger Unternehmen, niemand ist besser darin,<br>einer Firma Profit und Erfolg zu bescheren.<br>Eisernentöter, kann eiserne Feinde lähmen.	Ist ungeschlagen darin, den Profit einer Firma um jeden Preis<br>zu maximieren und Verluste zu vermeiden.<br>Eisernentöter, kann eiserne Feinde lähmen.			
-823			
+823					
 824	Mächtige Magierin aus den astralen Ebenen. Bewahrt mit<br>300 Jahren ihr jugendliches Äußeres mit Magie. Weiser Töter,<br>Beschwörer, robust gg. + lähmt manchmal Rot/Fliegend.	Erfahrene Magierin, die in feurigem Zorn entflammt, behandelt<br>man sie wie ein Kind (oder eine alte Frau). Weiser Töter,<br>Beschwörer, robust gg. + lähmt manchmal Rot/Fliegend.			
 825	Geist: Schwächt Feinde.<br><br>				
 826	Joining from Street Fighter 6! Member of <br>spec-ops group Delta Red. Deals Insane<br>damage to Aliens, may Dodge attacks.	Joining from Street Fighter 6! Punts foes into <br>the air with her Cannon Spike. Deals Insane<br>damage to Aliens, may Dodge attacks.			
@@ -829,3 +829,12 @@
 828	Believes muscles reign supreme. Grows hair<br>in balding spots thanks to self-development.<br>Massive damage to Floating, may deal a Savage Blow.	Attained a pro-wrestler body akin to steel. Too<br>busy training to gain any real-world experience.<br>Massive damage to Floating, may Savage Blow.			
 829	Adores a Chinatown user of the drunken fist.<br>Everything tastes better coming from its gourd.<br>Strong vs. Aku, stronger after taking damage!	Only planned to fake being drunk, but ended up<br>drinking too much. Why is his hair so messy?<br>Strong vs. Aku, stronger after taking damage!			
 830	Die stärkste Frau an der Akademie, die ihr unterlegene<br>Schwächlinge zur Unterwerfung zwingt.<br>Stark gg. Fliegende, Rundumschlag, garantiertes Verlangsamen.	Die entschlossene Aura der durchtrainiertesten Frau<br>der Galaxie hat Legionen von Anhängerinnen inspiriert.<br>Stark gg. Fliegende, Rundumschlag, garantiertes Verlangsamen.			
+831					
+832					
+833					
+834					
+835					
+836					
+837	Ein vom Rittertum träumender Junge mit unbekanntem<br>Schicksal. Beschwörer, robust gegen Schwarz/Engel/<br>Aku/Relikte, Rundumschlag kann diese zurückstoßen.	Auf diesem Ritter ruhen die Hoffnungen des Volkes.<br>Beschwörer, stark gegen, garantiert Rückstoß, Wilder Schlag mgl. gegen<br>Schwarz/Engel/Aku/Relikte mit Rundumschlag.			
+838	Geist: Rückstoß, entfesselt Mini-Zufallsangriffe.<br>　<br>　				
+839	Geist: Rückstoß, entfesselt Mini-Zufallsangriffe.<br>　<br>　				

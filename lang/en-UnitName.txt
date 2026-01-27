@@ -710,7 +710,7 @@
 709	One-Eyed Asuka	Blue-Eyed Asuka		
 710	EVA Unit-13	EVA Unit-13 & Cat		
 711	Betrothed Balaluga	Betrothed Pasalan		
-712	Kaoluga	Kaolan Pasalan		
+712	Kaoluga	Kaolan Pasalan	Kaolan Tatalan	
 713	Ancient Egg: N203	Violet Egg: N203	Clown Cat	
 714	Coastal Explorer Kanna	Deep-Diver Kanna	Great Deep-Diver Kanna	
 715	Mighty Sphinx Korps	Attack Battalion Convoys	Hyper Battalion Convoys	
@@ -821,7 +821,7 @@
 820	Seaside Pegasa	Seaside Pegasa v		
 821				
 822	Consultant Cat	Business Partner Cat		
-823			
+823				
 824	Sorceress Sidmi	Flame Mage Sidmi		
 825				
 826	Cammy	Cammy CC		
@@ -829,3 +829,12 @@
 828	Zangief Cat	Zangief Cat CC		
 829	Jamie Cat	Jamie Cat CC		
 830	Raclesa the Lioness 	Raclesa Σ		
+831				
+832				
+833				
+834				
+835				
+836				
+837	Squire Luno	Lunos the Luminous		
+838				
+839				

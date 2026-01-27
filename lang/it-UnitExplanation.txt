@@ -200,7 +200,7 @@
 199	Ha trascorso un sacco di tempo in cerca dell'onda perfetta.<br>Ora ha 40 anni e non ha vissuto davvero.<br>Può bloccare alieni e sopravvivere a colpi letali. (Area)	Dice di voler fuggire dall'isola deserta, ma<br>si gode in segreto questa perenne vacanza.<br>Può bloccare alieni e sopravvivere a colpi letali. (Area)	Ha rinunciato alla salvezza, ora è sposato con il mare.<br>Le onde saranno gentili o crudeli oggi? Potrebbe bloccare<br>alieni, sopravvive al 100% a un colpo letale. (Area)		
 200	La pelle di metallo riduce al minimo tutti i danni subiti.<br>La lega è pura all'87,5%: i danni critici possono far male.<br>Non si può potenziare a livelli (+). (Metallico)	La pelle di metallo riduce al minimo tutti i danni subiti.<br>Orgoglioso della sua bellissima pelle, non copre le braccia.<br>Non si può potenziare a livelli (+). (Metallico)			
 201	Fa marciare l'armata felina a un ritmo vivace.<br>Così preciso nel tenere il tempo da esibirsi sempre da solo.<br>Potrebbe ridurre il danno dei metallici a metà.	Dirige un'Accademia felina d'élite. Ha ispirato per 40 anni<br>gli studenti a conquistare terre sconosciute per i gatti.<br>Potrebbe ridurre il danno dei metallici a metà.	Ha ereditato un chiosco di gnocchi di riso. Cerca<br>una moglie che vada perfettamente a tempo<br>con i suoi colpi di mazza. Potrebbe indebolire metallici.		
-202	Celebrating The Battle Cats' Taiwan version,<br>this Cat got too excited and steamed itself in a basket.<br>Is that meat inside, or PURE PASSION?!	Celebrating The Battle Cats' Taiwan version,<br>grew bigger to satisfy more hungry people. There's<br>no basis to rumors he's got pizza filling inside.			
+202					
 203	I ricercatori dell'armata felina hanno clonato una super arma<br>antica: un adorabile Tanuki che sopravvive alle fiamme...<br>Potrebbe indebolire attacchi di alieni/angelici. (Att. area)	In contatto con antichi spiriti, Kachi raccoglie<br>tutto il calore che ha assorbito per attacchi esplosivi!<br>Indebolisce attacchi di alieni/angelici. (Danni ad area)	Magia antica potenziata dalla moderna tecnologia.<br>Brucia tutto e non lasciare tracce!<br>Indebolisce attacchi di alieni/angelici. (Danni ad area)		
 204					
 205					
@@ -710,7 +710,7 @@
 709	Lonely girl searching for her place. The growing<br>sorrow within calls her to embrace the curse within.<br>Long-range Area Surge attacks will 100% Curse.	The dark magics in her left eye are unsealed,<br>bringing doom to the people crying out for salvation.<br>Long-range Area Surge attacks will 100% Curse.			
 710	Recruited from EVANGELION! EVA model with a<br>double-entry system piloted by Shinji and Kaworu.<br>Strong against Aku with Mini-Surge (Area Atk)	Recruited from EVANGELION! Unit piloted<br>by Gendo in EVANGELION 3.0+1.0.<br>Strong against Aku with small Mini-Surge (Area Atk)			
 711	Per tutti i numi, perché?!<br>C'è qualcosa di strano.<br>nelle proporzioni testa-corpo...	Potrebbe essere una sposina?<br>C'è qualcosa di strano.<br>Immobilizza tutti i nemici a portata nell'area d'attacco.			
-712	Non si capisce se sia un Gatto...<br>C'è qualcosa di strano.<br>nelle proporzioni testa-corpo...	Per favore, mi fate capire come sia possibile?!<br>A quanto pare questo ha probabilità del 100% di<br>mini valanga e a volte respinta.			
+712	Non si capisce se sia un Gatto...<br>C'è qualcosa di strano.<br>nelle proporzioni testa-corpo...	Per favore, mi fate capire come sia possibile?!<br>A quanto pare questo ha probabilità del 100% di<br>mini valanga e a volte respinta.	È un gatto o un guerriero caduto? Sembra che<br>sia un ammazzagiganti con attacchi ad area che<br>può respingere e scatena mini valanghe al 100%.		
 713	Manufatto ultraterreno a forma di uovo,<br>ricoperto da una patina di innumerevoli secoli.<br>Una piccola incisione riporta "N203".	Misteriosa forma di vita con le sembianze di un uovo viola.<br>Dall'interno sembrano provenire segni di vita.<br>Ha una piccola probabilità di rallentare gli zombi.	Un artista circense che ama far divertire i bambini.<br>Ha un record per numero di infarti causati agli spettatori.<br>Ammazza Behemoth, può rallentare zombi.		
 714	Avventuriera di un altro mondo alla ricerca di tesori marini!<br>Fa un corso di nuoto sperando di arrivare a relitti mitici.<br>Danni enormi a fluttuanti/alieni con attacco a valanga.	Setacciando i Sette mari alla ricerca di tesori, ha compreso<br>che la vita degli oceani è più preziosa dell'oro.<br>Danni enormi a fluttuanti/alieni con attacco a valanga.			
 715	Squadra di costruttori addetti ai materiali per la tomba del<br>faraone che sventano potenziali furti. Bilaterale<br>può indebolire, forte vs rossi/metallici/zombi.	Veicoli tattici all'avanguardia che trasportano esploratori<br>e razziano i campi nemici. Bilaterale può<br>indebolire, forte vs rossi/metallici/zombi.	Affronta senza paura la battaglia per condurre gli alleati alla vittoria.<br>Forte contro rossi, metallici e zombi. Attacca sempre a<br>ondate, gli attacchi possono respingere/indebolire.		
@@ -821,7 +821,7 @@
 820	Alla sua prima vacanza estiva, questa giovane<br>nobile è felicissima alla vista del mare. Evocatrice,<br>indebolisce senza tratti e neri, scatena mini-ondate.	Il suo sorriso smagliante è un'ispirazione per i bambini<br>che la incitano dalla riva del mare. Evocatrice,<br>indebolisce senza tratti e neri, scatena mini-ondate.			
 821	Spirito: rallenta i nemici.<br><br>				
 822	Salvatore di innumerevoli iniziative commerciali, non ha<br>eguali quando si tratta di portare profitto e successo a<br>un'azienda. Ammazza-metallici, può rallentare metallici.	Non ha eguali quando si tratta di massimizzare il profitto e<br>minimizzare le perdite con ogni mezzo necessario.<br>Ammazza-metallici, può rallentare nemici metallici.			
-823			
+823					
 824	Potente maga dei piani astrali. Sfrutta la magia per<br>mantenersi giovane a 300 anni. Sterminatore di saggi,<br>evocatore, forte vs. rossi/fluttuanti e li può rallentare.	Maga esperta la cui ira divampa se trattata<br>come una bambina (o un'anziana). Sterminatore di saggi,<br>evocatore, forte vs. rossi/fluttuanti e li può rallentare.			
 825	Spirito: indebolisce nemici.<br><br>				
 826	Joining from Street Fighter 6! Member of <br>spec-ops group Delta Red. Deals Insane<br>damage to Aliens, may Dodge attacks.	Joining from Street Fighter 6! Punts foes into <br>the air with her Cannon Spike. Deals Insane<br>damage to Aliens, may Dodge attacks.			
@@ -829,3 +829,12 @@
 828	Believes muscles reign supreme. Grows hair<br>in balding spots thanks to self-development.<br>Massive damage to Floating, may deal a Savage Blow.	Attained a pro-wrestler body akin to steel. Too<br>busy training to gain any real-world experience.<br>Massive damage to Floating, may Savage Blow.			
 829	Adores a Chinatown user of the drunken fist.<br>Everything tastes better coming from its gourd.<br>Strong vs. Aku, stronger after taking damage!	Only planned to fake being drunk, but ended up<br>drinking too much. Why is his hair so messy?<br>Strong vs. Aku, stronger after taking damage!			
 830	La donna più forte dell'accademia, che mette al tappeto<br>e sottomette chiunque sia meno forte di lei.<br>Efficace contro fluttuanti, bilaterali rallentano al 100%.	L'aura poderosa della donna più scolpita della galassia<br>ha ispirato legioni di ammiratrici.<br>Efficace contro fluttuanti, bilaterali rallentano al 100%.			
+831					
+832					
+833					
+834					
+835					
+836					
+837	Un giovane con sogni cavallereschi. Il suo vero destino<br>è avvolto nel mistero. Evocatore, forte vs. neri/angelici/<br>Aku/antichi, che può respingere con i suoi bilaterali.	Un cavaliere che dona speranza alle persone. Evocatore, forte<br>vs. neri/angelici/Aku/antichi con bilaterali li respinge<br>al 100% e può infliggere loro un colpo letale.			
+838	Spirito: respinge e scatena mini valanghe.<br>　<br>　				
+839	Spirito: respinge e scatena mini valanghe.<br>　<br>　				

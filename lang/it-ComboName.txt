@@ -244,3 +244,4 @@
 3059	Appetito insaziabile
 3060	Guerrieri cosmici
 3061	Arma e spada
+3062	Devastazione reale

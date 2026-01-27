@@ -223,6 +223,13 @@
 232|I455	Treasure Chest (Bronze)
 233|I456	Treasure Chest (Silver)
 234|I457	Treasure Chest (Gold)
+235|S235|I458	Legendary Charm
+236|I459	Treasure Chest (Bronze)
+237|I460	Treasure Chest (Silver)
+238|I461	Treasure Chest (Gold)
+239|I462	Treasure Chest (Bronze)
+240|I463	Treasure Chest (Silver)
+241|I464	Treasure Chest (Gold)
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -701,6 +708,7 @@
 15701	Hitman Cat
 15707	Soap Cat
 15708	Barrel Cat
+15713	Kaolan Tatalan
 15714	Clown Cat
 15716	Hyper Battalion Convoys
 15717	Cop Cat

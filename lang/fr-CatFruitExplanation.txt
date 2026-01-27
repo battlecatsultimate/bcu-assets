@@ -710,7 +710,7 @@
 709	<br><br>
 710	<br><br>
 711	<br><br>
-712	<br><br>
+712	La forme ultime renforce la défense.<br>Mini-répliques offensives plus longues<br>avec + de chances de repousser !
 713	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
 714	<br><br>
 715	La forme ultime renforce la déf. et la vit.<br>de déplacement ! Inflige Recul contre rouge/métal/zombie<br>et chances de déchaîner des vagues.
@@ -829,3 +829,12 @@
 828	<br><br>
 829	<br><br>
 830	<br><br>
+831	<br><br>
+832	<br><br>
+833	<br><br>
+834	<br><br>
+835	<br><br>
+836	<br><br>
+837	<br><br>
+838	<br><br>
+839	<br><br>

@@ -710,7 +710,7 @@
 709	<br><br>
 710	<br><br>
 711	<br><br>
-712	<br><br>
+712	¡La forma final tiene una defensa más dura!<br>¡Las mini-réplicas duran más y<br>tienen más probabilidad de repeler!
 713	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
 714	<br><br>
 715	La forma final gana defensa y velocidad.<br>Gana repulsión contra rojos, zombis<br>y metálicos. Siempre provoca oleadas.
@@ -829,3 +829,12 @@
 828	<br><br>
 829	<br><br>
 830	<br><br>
+831	<br><br>
+832	<br><br>
+833	<br><br>
+834	<br><br>
+835	<br><br>
+836	<br><br>
+837	<br><br>
+838	<br><br>
+839	<br><br>

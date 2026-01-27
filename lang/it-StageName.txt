@@ -635,14 +635,14 @@
 001-065-007	But the App's Fun Too :)
 001-066		Dimensione disperata
 001-066-000	Ascesa del buco nero (Folle)
-001-068		
+001-068		20 Mil Downloads Special Gift!
 001-068-000	Gioia da 20 milioni!
 001-069		Fiera letale
 001-069-000	Fiera nel ciclone (Letale)
 001-069-001	Risveglio della Fiera (Letale)
 001-070		Evento All-Star mensile Super festeggiamento
 001-070-000	Super conquista (Folle)
-001-071		
+001-071		Minced Meet-Up
 001-071-000	Più veloce di un panino
 001-072		Arriva Halloween
 001-072-000	Sereno Samhain
@@ -699,7 +699,7 @@
 001-090		Arriva Vendetta!
 001-090-000	Niente maledizioni! (Esperti)
 001-090-001	Niente maledizioni! (Folle)
-001-091		Arriva Kung Fu!
+001-091		Arriva Kung Fu X!
 001-091-000	Vecchio maestro (Esperti)
 001-091-001	Vecchio maestro (Folle)
 001-092		Arriva Giorno sportivo!
@@ -775,7 +775,7 @@
 001-118-001	Verde invidia (Esperti)
 001-118-002	Verde invidia (Folle)
 001-119		Incoronazione regale
-001-119-000	Specchietto per allodole (Letale)
+001-119-000	Specchio per le allodole (Letale)
 001-120		Fiera letale II
 001-120-000	Fiera nel ciclone II (Letale)
 001-120-001	Risveglio della Fiera II (Letale)
@@ -805,7 +805,7 @@
 001-127-001	Artigli insanguinati
 001-127-002	L'incidente 222
 001-128		Debutto da morti
-001-128-000	Parata di morti (Letale)
+001-128-000	Parata dei morti (Letale)
 001-129		Un gatto fa primavera
 001-129-000	Stagione di rinascita
 001-129-001	Fratelli conigli
@@ -848,7 +848,7 @@
 001-143		Arriva Gatto Kart!
 001-143-000	Kartopia (Esperti)
 001-143-001	Kartopia (Folle)
-001-145		
+001-145		30M Celebration Gifts Galore!
 001-145-000	Gioia da 30 milioni!
 001-146		Evento All-Star Gran Giubileo!
 001-146-000	Scoppio del megatone (Folle)
@@ -1053,7 +1053,7 @@
 001-205		Morte da bis
 001-205-000	Progressi del prigioniero (Spiet.)
 001-205-001	Marcia alla morte (Spietato)
-001-206		The Battle Cats Together!
+001-206		The Battle Cats Unite!
 001-206-000	Play Battle Cats Together!
 001-206-001	Team Up & Win!
 001-206-002	Over 350 Cats!
@@ -1120,7 +1120,7 @@
 001-227-000	Avanguardia (Folle)
 001-227-001	Élite (Letale)
 001-227-002	Comandante (Letale)
-001-228		
+001-228		50M Celebration Gifts Galore!
 001-228-000	Gioia da 50 milioni!
 001-229		Gloria di Wanwan
 001-229-000	Bauville (Spietata)
@@ -1206,7 +1206,7 @@
 001-251		L'angelo e il demone
 001-251-000	Nessun piano A (Letale)
 001-252		La regina e il morto
-001-252-000	Specchietto per allodole (Letale)
+001-252-000	Specchio per le allodole (Letale)
 001-253		Il re e la fanciulla
 001-253-000	Gran premio N-1 (Letale)
 001-254		Festeggiamenti 60M! Regali a fiumi
@@ -1438,9 +1438,9 @@
 001-304		Festeggiamenti 70M Regali a fiumi!
 001-304-000	Gioia da 70 milioni!
 001-305		Il morto e il gonfio
-001-305-000	Parata di morti (Letale)
+001-305-000	Parata dei morti (Letale)
 001-306		La regina e la fanciulla
-001-306-000	Specchietto per allodole (Letale)
+001-306-000	Specchio per le allodole (Letale)
 001-307		Il re e l'angelo
 001-307-000	Gran premio N-1 (Letale)
 001-308		03: ??? 13
@@ -1566,8 +1566,8 @@
 001-337-000	Uova supersode (Esperto)
 001-337-001	Uova supersode (Folle)
 001-338		NEO Gloria di Wanwan
-001-338-000	Bauville extra (Folle)
-001-338-001	Cane alfa (Folle)
+001-338-000	Bauville extra (Spietato)
+001-338-001	Cane alfa (Spietato)
 001-339		Prova del Mini Gatto
 001-339-000	Verso il Liv. 45+
 001-339-001	Verso il Liv. 50+
@@ -1601,7 +1601,7 @@
 001-348-000	Re fantasma I (Letale)
 001-348-001	Re fantasma II (Spietato)
 001-348-002	Re fantasma III (Spietato)
-001-348-003	Re fantasma (Brutale)
+001-348-003	Il finale del Re fantasma (Brutale)
 001-349		Macchine in rivolta
 001-349-000	Riavvio forzato Liv. 1
 001-349-001	Riavvio forzato Liv. 2
@@ -1614,23 +1614,23 @@
 001-349-008	Riavvio forzato Liv. 9
 001-349-009	Riavvio forzato Liv. MAX
 001-350		Il gatto malevolo
-001-350-000	Fine dei secoli (Folle)
+001-350-000	Fine dei secoli (Spietato)
 001-351		Il panzer malevolo
-001-351-000	Eliminatore di demoni (Folle)
+001-351-000	Eliminatore di demoni (Spietato)
 001-352		L'ascia malevola
-001-352-000	Iperberserker (Folle)
+001-352-000	Iperberserker (Spietato)
 001-353		L'alto malevolo
-001-353-000	Passi demoniaci (Folle)
+001-353-000	Passi demoniaci (Spietato)
 001-354		La mucca malevola
-001-354-000	Tiranno spietato (Folle)
+001-354-000	Tiranno spietato (Spietato)
 001-355		L'uccello malevolo
-001-355-000	Apocalisse (Folle)
+001-355-000	Apocalisse (Spietato)
 001-356		Il pesce malevolo
-001-356-000	Paura alla deriva (Folle)
+001-356-000	Paura alla deriva (Spietato)
 001-357		La lucertola malevola
-001-357-000	Sputo della morte (Folle)
+001-357-000	Sputo della morte (Spietato)
 001-358		Il titano malevolo
-001-358-000	Furia titanica (Folle)
+001-358-000	Furia titanica (Spietato)
 001-359		Staffetta di River City
 001-359-000	Staffetta 400m: Inizio veloce
 001-359-001	Staffetta 800m: Inizio veloce
@@ -1728,8 +1728,8 @@
 001-383-000	Il ritorno degli insetti (Spietato)
 001-383-001	La Regina delle api (spietato)
 001-384		Arriva il Street food miao!
-001-384-000	Evoluzione in stallo 1 (Folle)
-001-384-001	Evoluzione in stallo 2 (Folle)
+001-384-000	Evoluzione in stallo 1 (Spietato)
+001-384-001	Evoluzione in stallo 2 (Spietato)
 001-385		La via dell'unificazione p.1
 001-385-000	Il dominio di Satsuma Imo
 001-385-001	Il dominio di Ahosan
@@ -1782,7 +1782,7 @@
 001-394-000	Viaggio verso il Talento
 001-395		Prova del Gatto Bahamut
 001-395-000	Viaggio verso il Talento
-001-396		Regali a fiumi per i 100M!
+001-396		Regali a fiumi Festa 100M DL!
 001-396-000	Auguri! 100 milioni di download!
 001-402		Ricompensa del cliente
 001-402-000	Fino a esaurimento scorte
@@ -1813,6 +1813,18 @@
 001-410		Spettacolo di fuochi d'artificio!
 001-410-000	Fuochi d'artificio! (Letali)
 001-410-001	Fuochi d'artificio! (Spietati)
+001-418		Ricordi del 2025
+001-418-000	Ricordi primaverili
+001-418-001	Ricordi estivi
+001-418-002	Ricordi autunnali
+001-418-003	Ricordi invernali
+001-419		I 5 nemici più visti del 2025!
+001-419-000	Per fortuna 5°
+001-419-001	Sempre 4°
+001-419-002	Inaspettatamente 3°
+001-419-003	Incredibilmente 2°
+001-419-004	Miracolosamente 1°
+001-419-005	Non visto nel 2025
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2186,7 +2198,7 @@
 002-136-009	The Clawed Rondo
 002-136-010	Solitary Emperor
 002-136-011	The Supreme Evil
-002-137		ストリートファイター HARD
+002-137		Street Fighter - HARD -
 002-137-000	Iron Cyclone
 002-137-001	Impregnable Fortress
 002-137-002	Rush & Blaze
@@ -2357,7 +2369,7 @@
 002-191-000	VS LUKE (Easy)
 002-192		New Challenger
 002-192-000	VS LUKE (Expert)
-002-193		Street Fighter: VERY HARD
+002-193		Street Fighter - VERY HARD -
 002-193-000	Master of Heart Lv.1
 002-193-001	Land & Sky Lv.1
 002-193-002	Master of Heart Lv.2
@@ -2392,7 +2404,7 @@
 002-206		The 10th Angel Strikes!
 002-206-000	Refusal Type (Hard)
 002-206-001	Refusal Type (Merciless)
-002-207		Eva Unit-13 Strikes!
+002-207		EVA Unit-13 Strikes!
 002-207-000	It's Not Your Fault (Veteran)
 002-207-001	We'll Meet Again (Merciless)
 002-208		Final Battle: EVA Unit-13
@@ -3637,6 +3649,21 @@
 004-075-000	Allerta temporale
 004-076		Previsioni senza precedenti
 004-076-000	Allerta tifone
+004-078		Ricordi del 2025
+004-078-000	Ricordi primaverili Pag. 2
+004-078-001	Ricordi estivi Pag. 2
+004-078-002	Ricordi autunnali Pag. 2
+004-078-003	Ricordi invernali Pag. 2
+004-079		Ricordi del 2025
+004-079-000	Ricordi primaverili Pag. 3
+004-079-001	Ricordi estivi Pag. 3
+004-079-002	Ricordi autunnali Pag. 3
+004-079-003	Ricordi invernali Pag. 3
+004-080		Sfarzo di capodanno
+004-080-000	Che fortuna! Un bottino di capodanno!
+004-080-001	Che fortuna! Un bottino di capodanno!
+004-080-002	Che fortuna! Un bottino di capodanno!
+004-080-003	Che fortuna! Un bottino di capodanno!
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -3952,6 +3979,16 @@
 011-034-000	Immobilità dalla paura
 011-035		Arena del destino
 011-035-000	Talento per combattere
+011-036		Arena del destino
+011-036-000	Talento per combattere
+011-037		Arena dell'onore
+011-037-000	I Seek the Strongest
+011-038		Arena del destino
+011-038-000	Talento per combattere
+011-040		Arena del destino
+011-040-000	Torneo talenti
+011-041		Arena del destino
+011-041-000	Torneo talenti
 
 012			Challenge Mode
 012-000		Battaglia sfida
@@ -4334,9 +4371,9 @@
 014-013		Fiume Stige
 014-013-000	Regno del massacro (Letale)
 014-014		Incoronazione regale
-014-014-000	Specchietto per allodole (Letale)
+014-014-000	Specchio per le allodole (Letale)
 014-015		Debutto da morti
-014-015-000	Parata di morti (Letale)
+014-015-000	Parata dei morti (Letale)
 014-016		Vendetta di re Wahwah
 014-016-000	Gran premio N-1 (Letale)
 014-017		Sogno profondo
@@ -5144,6 +5181,28 @@
 024-045-017	Regalo per pietà Liv.18
 024-045-018	Regalo per pietà Liv.19
 024-045-019	Regalo per pietà Liv. MAX
+024-046		Sfida di aprile
+024-046-000	Insegnante! Liv. 1
+024-046-001	Insegnante! Liv. 2
+024-046-002	Insegnante! Liv. 3
+024-046-003	Insegnante! Liv. 4
+024-046-004	Insegnante! Liv. 5
+024-046-005	Insegnante! Liv. 6
+024-046-006	Insegnante! Liv. 7
+024-046-007	Insegnante! Liv. 8
+024-046-008	Insegnante! Liv. 9
+024-046-009	Insegnante! Liv. 10
+024-047		Sfida di aprile II
+024-047-000	Sensei! Liv. 11
+024-047-001	Sensei! Liv. 12
+024-047-002	Sensei! Liv. 13
+024-047-003	Sensei! Liv. 14
+024-047-004	Sensei! Liv. 15
+024-047-005	Sensei! Liv. 16
+024-047-006	Sensei! Liv. 17
+024-047-007	Sensei! Liv. 18
+024-047-008	Sensei! Liv. 19
+024-047-009	Sensei! Liv. MAX
 024-048		Stagione 1: Giorni di scuola
 024-048-000	Banco del destino
 024-048-001	Vicino alla tua cotta
@@ -5166,16 +5225,16 @@
 024-048-018	Full immersion fallita
 024-048-019	Incrociamo le dita
 024-049		Evento All-Star mensile Grato raduno
-024-049-000	Grati XP Liv. 1
-024-049-001	Grati XP Liv. 2
-024-049-002	Grati XP Liv. 3
-024-049-003	Grati XP Liv. 4
-024-049-004	Grati XP Liv. 5
-024-049-005	Grati XP Liv. 6
-024-049-006	Grati XP Liv. 7
-024-049-007	Grati XP Liv. 8
-024-049-008	Grati XP Liv. 9
-024-049-009	Grati XP Liv. MAX
+024-049-000	XP Gratitudine Liv. 1
+024-049-001	XP Gratitudine Liv. 2
+024-049-002	XP Gratitudine Liv. 3
+024-049-003	XP Gratitudine Liv. 4
+024-049-004	XP Gratitudine Liv. 5
+024-049-005	XP Gratitudine Liv. 6
+024-049-006	XP Gratitudine Liv. 7
+024-049-007	XP Gratitudine Liv. 8
+024-049-008	XP Gratitudine Liv. 9
+024-049-009	XP Gratitudine Liv. MAX
 024-050		Sfida di maggio
 024-050-000	Malore Liv. 1
 024-050-001	Malore Liv. 2
@@ -5533,6 +5592,17 @@
 024-074-007	Cerimonia emozionante
 024-074-008	Foto commemorativa
 024-074-009	Cordiali saluti
+024-077		Un felicissimo anno nuovo!
+024-077-000	Anno del cavallo Liv. 1
+024-077-001	Anno del cavallo Liv. 2
+024-077-002	Anno del cavallo Liv. 3
+024-077-003	Anno del cavallo Liv. 4
+024-077-004	Anno del cavallo Liv. 5
+024-077-005	Anno del cavallo Liv. 6
+024-077-006	Anno del cavallo Liv. 7
+024-077-007	Anno del cavallo Liv. 8
+024-077-008	Anno del cavallo Liv. 9
+024-077-009	Anno del cavallo Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -5602,11 +5672,11 @@
 025-032		Nascondiglio perfetto
 025-032-000	Insetticida di mezzanotte
 025-033		Culla rossa
-025-033-000	Landa della culla (Letale)
+025-033-000	Culla selvaggia (Letale)
 025-034		Cima rossa
-025-034-000	Landa della cima (Spietato)
+025-034-000	Cima selvaggia (Spietato)
 025-035		Confine rosso
-025-035-000	Landa di confine (Spietato)
+025-035-000	Confine selvaggio (Spietato)
 025-051		Nascondiglio fatiscente
 025-051-000	Insetticida pomeridiano
 025-052		Nascondiglio fatiscente
@@ -6326,7 +6396,7 @@
 034-017-000	Lancio del bambucottero
 034-017-001	Yo-Yo ampiafoglia
 034-017-002	Palude di marmo
-034-017-003	Trombelodea
+034-017-003	Alga fischietto
 034-017-004	Contrafforte di Trompo
 034-017-005	Cascata adorata
 034-018		Fossa della Città nuova
@@ -6385,6 +6455,13 @@
 034-025-003	Dimora del dizionario
 034-025-004	Romanzo del buon umore
 034-025-005	Tempio del manga
+034-026		Impresa vanagloriosa
+034-026-000	Prove insufficienti
+034-026-001	Riparazione arrangiata
+034-026-002	Miracolosamente in orario
+034-026-003	Frenesia quotidiana
+034-026-004	Faccende altrui
+034-026-005	Problema personale
 
 036			Colosseum Stages
 036-000		Colosseo ultraterreno
@@ -6495,6 +6572,18 @@
 036-017-002	Round 3
 036-017-003	Round 4
 036-017-004	Round 5
+036-018		Colosseo ultraterreno
+036-018-000	Round 1
+036-018-001	Round 2
+036-018-002	Round 3
+036-018-003	Round 4
+036-018-004	Round 5
+036-019		Colosseo ultraterreno
+036-019-000	Round 1
+036-019-001	Round 2
+036-019-002	Round 3
+036-019-003	Round 4
+036-019-004	Round 5
 
 037			Campionati miciodiali
 037-000		Campionati miciodiali Grado 1

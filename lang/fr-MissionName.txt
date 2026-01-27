@@ -988,3 +988,8 @@
 9638	Clear any Street Fighter 6 collab
 9639	Clear any Street Fighter 6 collab
 9640	Clear any Street Fighter 6 collab
+9668	Obtiens et utilise un ticket Chapsule gratuit chaque jour
+9669	【Progression】
+9670	【Progression】Réussis 17 expéditions avec Gamatoto !
+9671	【Progression】
+9672	【Progression】Termine toutes les missions d'événement. pour gagner 3 tickets rares

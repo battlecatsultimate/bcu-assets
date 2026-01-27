@@ -200,7 +200,7 @@
 199	Surfer-Katze	Schiffbruch-Katze	Seefahrer-Katze	
 200	Metallkatze	Metallmacho		
 201	Trommlerkatze	Bannerkatze	Mochi-Katze	
-202	Baozi Cat	Big Baozi		
+202	Baozi-Katze			
 203	Kachi-Kachi	Feuerwehr-Kachiyama	Kachiyama-Sturmabteilung	
 204				
 205				
@@ -710,7 +710,7 @@
 709	One-Eyed Asuka	Blue-Eyed Asuka		
 710	EVA Unit-13	EVA Unit-13 & Cat		
 711	Verlobter Balaluga	Verlobter Pasalan		
-712	Kaoluga	Kaolan Pasalan		
+712	Kaoluga	Kaolan Pasalan	Kaolan Tatalan	
 713	Uraltes Ei: N203	Violettes Ei: N203	Clownkatze	
 714	Küstenerkunderin Kanna	Tiefseetaucherin Kanna		
 715	Mächtiges Sphinxkorps	Angriffsbataillon-Konvois	Hyper-Angriffsbataillon-Konvois	
@@ -821,7 +821,7 @@
 820	Strand-Pegasa	Strand-Pegasa v		
 821				
 822	Berater-Katze	Geschäftspartnerkatze		
-823			
+823				
 824	Zauberin Sidmi	Flammenmagierin Sidmi		
 825				
 826	Cammy	Cammy CC		
@@ -829,3 +829,12 @@
 828	Zangief Cat	Zangief Cat CC		
 829	Jamie Cat	Jamie Cat CC		
 830	Raclesa die Löwin	Raclesa Σ		
+831				
+832				
+833				
+834				
+835				
+836				
+837	Knappe Luno	Lunos der Erleuchtete		
+838				
+839				

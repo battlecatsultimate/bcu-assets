@@ -223,6 +223,13 @@
 232|I455	Schatztruhe (Bronze)
 233|I456	Schatztruhe (Silber)
 234|I457	Schatztruhe (Gold)
+235|S235|I458	Legend. Glücksb.
+236|I459	Schatztruhe (Bronze)
+237|I460	Schatztruhe (Silber)
+238|I461	Schatztruhe (Gold)
+239|I462	Schatztruhe (Bronze)
+240|I463	Schatztruhe (Silber)
+241|I464	Schatztruhe (Gold)
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -240,7 +247,7 @@
 1016	Kung-Fu-Katze X
 1018	Marshmallow-Katze
 1019	Cat Kart R
-1020	Baozi Cat
+1020	Baozi-Katze
 1021	Catburger
 1022	Kürbiskatze
 1023	Katzengeschenk
@@ -701,6 +708,7 @@
 15701	Auftragskiller-Katze
 15707	Seifenkatze
 15708	Fass-Katze
+15713	Kaolan Tatalan
 15714	Clownkatze
 15716	Hyper-Angriffsbataillon-Konvois
 15717	Polizistenkatze
