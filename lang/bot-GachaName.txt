@@ -69,6 +69,7 @@
 -2030	Rurouni Kenshin Gacha
 -2031	Baki Collab Gacha
 -2032	Sonic the Hedgehog Collab Gacha
+-2033	Demon Slayer Collab Gacha
 E12	Bikkuriman Chocolate Capsules
 E13	Bikkuriman Chocolate Capsules
 E14	Summer Break Capsules
@@ -102,6 +103,9 @@ E41	Summer Break Capsules Paradise
 E42 Download Celebration Capsules
 E43	Summer Break Capsules Paradise
 E44	Halloween Party Capsules
+E45	Cat Rangers Event Capsules
+E47	Love Letter Capsules
+E48	Download Celebration Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -1021,3 +1025,6 @@ N65	Cats Eye Capsules
 1033	-105	837
 1034	-112	837
 1037	-1003
+1038	-2033
+1044	-2	850
+1049	-1018

@@ -764,3 +764,8 @@
 764	Demon Doge
 765	Demon Gory
 766	Demon Teacher Bear
+767	Demon Base
+768
+769	Trinity
+770	Killer Cow Cat
+771	Gold Face

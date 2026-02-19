@@ -69,6 +69,7 @@
 -2030	神劍闖江湖	//Rurouni Kenshin
 -2031	範馬刃牙	//Hanma Baki
 -2032	索尼克	//Sonic the Hedgehog
+-2033	Demon Slayer Collab Gacha
 E13	聖魔大戰	//Bikkuri
 E14	貓咪的暑假	//Summer Break Cats
 E17	春節活動轉蛋	//Lunar New Year (JP)
@@ -98,6 +99,9 @@ E41	貓咪的暑假 享樂天堂篇
 E42 Download Celebration Capsules
 E43	貓咪的暑假 享樂天堂篇
 E44	萬聖節派對！ 特別★活動轉蛋
+E45	Cat Rangers Event Capsules
+E47	心動時分貓咪學園
+E48	Download Celebration Capsules
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -1028,3 +1032,6 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 1033	-105	837
 1034	-112	837
 1037	-1003
+1038	-2033
+1044	-2	850
+1049	-1018

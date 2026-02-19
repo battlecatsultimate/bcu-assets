@@ -447,7 +447,7 @@
 446	Backhoe Cat	Power Backhoe Cat	Neo Backhoe Cat
 447	Miter Saw Cat	Power Saw Cat	Neo Saw Cat
 448	Musashi Miyamoto	Wargod Miyamoto	Immortal Miyamoto
-449	Headmistress Jeanne	Headmistress Jeanne ψ
+449	Headmistress Jeanne	Headmistress Jeanne ψ	Divine Headmistress Jeanne ψ
 450	High Lord Babel	Babel the Darkflame	God-Emperor Babel
 451	Ushiwakamaru	Colossal Benkei
 452	Primordial Cat	Modern Cat	Future Cat
@@ -848,3 +848,7 @@
 847	Li'l Sakonji Urokodaki	Li'l Sakonji Urokodaki CC
 848	Tanjiro Cat	Tanjiro Cat CC
 849	Nezuko Cat	Nezuko Cat CC
+850	Fuma Kotaro	Wargod Kotaro
+851	Newspaper Cat	Sales Cat
+852	Killer Cow Cat	True Killer Cow Cat
+853	Ocult Cat	Gyaru Cat
