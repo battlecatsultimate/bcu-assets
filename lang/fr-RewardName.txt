@@ -157,7 +157,7 @@
 161|S161|I516	Chagrume Aku
 163|S163|I416	boîte mystère
 164|S164|I517	Graine de Chagrume doré
-166|S166|I418	Lettre d'amour
+166|S166|I418	Lettre d’amour
 167|S167|I518	Pierre B. violette
 168|S168|I519	Pierre B. rouge
 169|S169|I520	Pierre B. bleue
@@ -230,6 +230,11 @@
 239|I462	Coffre au trésor (bronze)
 240|I463	Coffre au trésor (argent)
 241|I464	Coffre au trésor (or)
+242|S242|I465	Lettre d’amour
+243|S243|I466	Star légendaire
+244|I467	Coffre au trésor (bronze)
+245|I468	Coffre au trésor (argent)
+246|I469	Coffre au trésor (or)
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -299,6 +304,8 @@
 1070	Grand Chat tueur
 1071	Maître de la Logique Newton
 1072	Chat charpentier
+1074	Chat livreur de journaux
+1075	Chat vachoiseau tueur
 1100	Chat en bronze
 1101	Chastronaute
 1102	Chat corde à sauter
@@ -357,6 +364,7 @@
 1184	Kenshin Cat
 1185	Maître de la vie Dr Nova
 1186	Sonic Cat
+1187	Tanjiro Cat
 10010	Chat malabar
 10011	Chat danseur
 10012	Hyper Mr.
@@ -635,6 +643,7 @@
 15447	Néo Chat tractopelle
 15448	Néo Chat scie
 15449	Miyamoto immortel
+15450	Jeanne la dictatrice ψ
 15451	Dieu empereur Babel
 15457	Dark Sakura CC
 15468	Super S-Zeus
@@ -1047,3 +1056,8 @@
 30302	Première prime améliorée B
 30303	Première prime améliorée A
 30304	Première prime améliorée S
+30305	Résist. Explosion D
+30306	Résist. Explosion C
+30307	Résist. Explosion B
+30308	Résist. Explosion A
+30309	Résist. Explosion S

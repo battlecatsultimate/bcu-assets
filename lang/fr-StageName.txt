@@ -1825,6 +1825,37 @@
 001-419-003	Curieusement 2ème
 001-419-004	Challenger 1er
 001-419-005	Les inédits 2025
+001-420		St-Valentin douce-amère
+001-420-000	Vestiaire vide
+001-420-001	Choco à gogo (pour les autres)
+001-420-002	En vrai, j'aime pas le chocolat
+001-421		Invasion de Poultrio
+001-421-000	Oiseaucalypse I (sans répit)
+001-421-001	Oiseaucalypse II (sans répit)
+001-421-002	Oiseaucalypse III (sans répit)
+001-421-003	Oiseaucalypse : le chant du cygne (brutal)
+001-422		Culture des Chagrumes
+001-422-000	Vert de jalousie
+001-422-001	Éclair violet
+001-422-002	Passion rouge
+001-422-003	Illusion bleue
+001-422-004	Rayons d’or
+001-423		Après les cours : lettres d'amour
+001-423-000	Écrit avec passion
+001-423-001	Pattes de mouches
+001-424		Après les cours : lettres d'amour
+001-424-000	Écrit avec passion
+001-424-001	Sans adresse de retour
+001-425		Après les cours : lettres d'amour
+001-425-000	Écrit avec passion
+001-425-001	Lettre d’amour #100
+001-426		Découvre les merveilles de Pâques !
+001-426-000	Trouvé à Pâques
+001-426-001	Sorti des profondeurs
+001-426-002	Regard mystique du moaï
+001-426-003	La dernière énigme
+001-427		Avalanche de cadeaux des 111 M !
+001-427-000	Avalanche de cadeaux des 111 M !
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2577,6 +2608,36 @@
 002-262		New Challenger
 002-262-000	Master of the Fist (Veteran)
 002-262-001	Sekia Goshoha (Deadly)
+002-263		Demon Slayer Corps Final Selection
+002-263-000	7 Days on Mt. Fujikasane
+002-263-001	Fight for Life
+002-263-002	An Unusual Demon
+002-263-003	Fruits of Training
+002-263-004	Rising Sun
+002-264		Battle at Mt. Natagumo
+002-264-000	Swarm of Spiders
+002-264-001	The Manipulated
+002-264-002	False Bonds
+002-264-003	Band of Brothers
+002-264-004	Slicing Spiderwebs
+002-265		Mugen Train
+002-265-000	Nen Nen Korori
+002-265-001	They Can No Longer Awaken
+002-265-002	Oh, You're Awake?
+002-265-003	You Should Have Stayed Asleep
+002-265-004	Go To Sleeeeep...
+002-266		Mission: Slay the Demon Teacher Bear!
+002-266-000	Demon of Countless Arms (Easy)
+002-266-001	Demon of Countless Arms (Hard)
+002-267		Mission: Slay Rui!
+002-267-000	Lower Rank Five - Rui (Easy)
+002-267-001	Lower Rank Five - Rui (Insane)
+002-268		Mission: Slay Enmu!
+002-268-000	Lower Rank One - Enmu (Easy)
+002-268-001	Lower Rank One - Enmu (Merciless)
+002-269		Mission: Slay Akaza!
+002-269-000	Upper Rank Three - Akaza (Easy)
+002-269-001	Upper Rank Three - Akaza (Insane)
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -3989,6 +4050,10 @@
 011-040-000	Tournoi des talents
 011-041		Arène du destin
 011-041-000	Tournoi des talents
+011-042		Arena of Honor
+011-042-000	Demon Slayer Elites
+011-043		Arène du destin
+011-043-000	Tournoi des talents
 
 012			Challenge Mode
 012-000		Bataille défi
@@ -5581,7 +5646,7 @@
 024-073-007	Série de mauvaises critiques
 024-073-008	Rêves instables
 024-073-009	Recommencer à zéro
-024-074		Célébration des 110 millions de téléchargements !
+024-074		Célébration des 111 millions de téléchargements !
 024-074-000	Invitation en fumée
 024-074-001	Tapis rouge de 5 km
 024-074-002	Salutations sans fin
@@ -5603,6 +5668,22 @@
 024-077-007	Année du cheval niv. 8
 024-077-008	Année du cheval niv. 9
 024-077-009	Année du cheval niv. max
+024-078		Horde de Chats
+024-078-000	Sanguinaire niv. 1
+024-078-001	Sanguinaire niv. 2
+024-078-002	Sanguinaire niv. 3
+024-078-003	Sanguinaire niv. 4
+024-078-004	Sanguinaire niv. 5
+024-078-005	Sanguinaire niv. 6
+024-078-006	Sanguinaire niv. 7
+024-078-007	Sanguinaire niv. 8
+024-078-008	Sanguinaire niv. 9
+024-078-009	Sanguinaire niv. 10
+024-078-010	Sanguinaire niv. 11
+024-078-011	Sanguinaire niv. 12
+024-078-012	Sanguinaire niv. 13
+024-078-013	Sanguinaire niv. 14
+024-078-014	Sanguinaire niv. max
 
 025			Enigma Stages
 025-000		Champs Aitum
@@ -6095,6 +6176,27 @@
 027-024-006	Annihilation Lv.7
 027-024-007	Annihilation Lv.8
 027-024-008	This is the End!
+027-025		Akaza Strikes!
+027-025-000	Why Not Become a Demon? Lv.1
+027-025-001	Why Not Become a Demon? Lv.2
+027-025-002	Why Not Become a Demon? Lv.3
+027-025-003	Why Not Become a Demon? Lv.4
+027-025-004	Why Not Become a Demon? Lv.5
+027-025-005	Why Not Become a Demon? Lv.6
+027-025-006	Why Not Become a Demon? Lv.7
+027-025-007	Why Not Become a Demon? Lv.8
+027-025-008	Why Not Become a Demon? Lv.9
+027-025-009	Why Not Become a Demon? Lv.10
+027-025-010	Why Not Become a Demon? Lv.11
+027-025-011	Why Not Become a Demon? Lv.12
+027-025-012	Why Not Become a Demon? Lv.13
+027-025-013	Why Not Become a Demon? Lv.14
+027-025-014	Why Not Become a Demon? Lv.15
+027-025-015	Why Not Become a Demon? Lv.16
+027-025-016	Why Not Become a Demon? Lv.17
+027-025-017	Why Not Become a Demon? Lv.18
+027-025-018	Why Not Become a Demon? Lv.19
+027-025-019	Then I'll Have to Kill You Lv.MAX
 
 031			Behemoth Culling Stages
 031-000		Forêt cachée de Gapra
@@ -6462,6 +6564,20 @@
 034-026-003	Ruée quotidienne
 034-026-004	Les affaires d'un autre
 034-026-005	Problème personnel
+034-027		Fantasmagorie
+034-027-000	Sentier du taureau
+034-027-001	Salon des sirènes
+034-027-002	Ville des morts-vivants
+034-027-003	Discothèque féérique
+034-027-004	Plaines aux licornes
+034-027-005	Auberge draconique
+034-028		Empire des muscles
+034-028-000	Terres costaudes
+034-028-001	Friche des protéines
+034-028-002	Mystique physique
+034-028-003	Marais aux onguents
+034-028-004	Épaule de pierre
+034-028-005	Île aux deltoïdes
 
 036			Colosseum Stages
 036-000		Colisée d'outre-monde
@@ -6584,6 +6700,18 @@
 036-019-002	3e manche
 036-019-003	4e manche
 036-019-004	5e manche
+036-020		Colisée d'outre-monde
+036-020-000	1re manche
+036-020-001	2e manche
+036-020-002	3e manche
+036-020-003	4e manche
+036-020-004	5e manche
+036-021		Colisée d'outre-monde
+036-021-000	1re manche
+036-021-001	2e manche
+036-021-002	3e manche
+036-021-003	4e manche
+036-021-004	5e manche
 
 037			Championnats Griffélin
 037-000		Rang 1 des championnats Griffélin

@@ -123,3 +123,4 @@
 122	Supera Invasión Colosal.
 123	Supera todos los brotes zombis en Gatos Galácticos c. 3
 124	Supera la fase de Zombis Filiembusteros
+125	Supera "Invasión Triplumífera"

@@ -1825,6 +1825,37 @@
 001-419-003	Incredibilmente 2°
 001-419-004	Miracolosamente 1°
 001-419-005	Non visto nel 2025
+001-420		Amore dolceamaro
+001-420-000	Un armadietto vuoto
+001-420-001	Cioccolato a volontà (per gli altri)
+001-420-002	In realtà odio il cioccolato
+001-421		L'invasione del triplice pennuto
+001-421-000	Piuma letale I (Spietato)
+001-421-001	Piuma letale II (Spietato)
+001-421-002	Piuma letale III (Spietato)
+001-421-003	Piuma letale: la canzone del cigno (Brutale)
+001-422		Il miagrume della crescita
+001-422-000	Verde invidia
+001-422-001	Viola fluo
+001-422-002	Rosso passione
+001-422-003	Blu illusione
+001-422-004	Raggi d'oro
+001-423		Dopo scuola: lettere d'amore
+001-423-000	Passione nella penna
+001-423-001	Sbavature da mani sudate
+001-424		Dopo scuola: lettere d'amore
+001-424-000	Passione nella penna
+001-424-001	Senza mittente
+001-425		Dopo scuola: lettere d'amore
+001-425-000	Passione nella penna
+001-425-001	Lettera d'amore n.100
+001-426		Scopri le meraviglie di Pasqua!
+001-426-000	Scoperta pasquale
+001-426-001	Eruzione dagli abissi
+001-426-002	L'occhio mistico dei Moai
+001-426-003	L'enigma finale
+001-427		Regali a fiumi per i 111M!
+001-427-000	Regali a fiumi per i 111M!
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2172,7 +2203,7 @@
 002-129-011	Sudden Death Lv.12
 002-134		Hatsune Miku's Birthday!
 002-134-000	♪ Birthday Party ♪
-002-135		ストリートファイター EASY
+002-135		Street Fighter - EASY -
 002-135-000	Warrior of Nature
 002-135-001	Illuminating Flame
 002-135-002	Rush & Blaze
@@ -2185,7 +2216,7 @@
 002-135-009	The Clawed Rondo
 002-135-010	Solitary Emperor
 002-135-011	The Supreme Evil
-002-136		ストリートファイター NORMAL
+002-136		Street Fighter - NORMAL -
 002-136-000	Pride & Passion
 002-136-001	Iron Cyclone
 002-136-002	Blue Jade
@@ -2577,6 +2608,36 @@
 002-262		New Challenger
 002-262-000	Master of the Fist (Veteran)
 002-262-001	Sekia Goshoha (Deadly)
+002-263		Demon Slayer Corps Final Selection
+002-263-000	7 Days on Mt. Fujikasane
+002-263-001	Fight for Life
+002-263-002	An Unusual Demon
+002-263-003	Fruits of Training
+002-263-004	Rising Sun
+002-264		Battle at Mt. Natagumo
+002-264-000	Swarm of Spiders
+002-264-001	The Manipulated
+002-264-002	False Bonds
+002-264-003	Band of Brothers
+002-264-004	Slicing Spiderwebs
+002-265		Mugen Train
+002-265-000	Nen Nen Korori
+002-265-001	They Can No Longer Awaken
+002-265-002	Oh, You're Awake?
+002-265-003	You Should Have Stayed Asleep
+002-265-004	Go To Sleeeeep...
+002-266		Mission: Slay the Demon Teacher Bear!
+002-266-000	Demon of Countless Arms (Easy)
+002-266-001	Demon of Countless Arms (Hard)
+002-267		Mission: Slay Rui!
+002-267-000	Lower Rank Five - Rui (Easy)
+002-267-001	Lower Rank Five - Rui (Insane)
+002-268		Mission: Slay Enmu!
+002-268-000	Lower Rank One - Enmu (Easy)
+002-268-001	Lower Rank One - Enmu (Merciless)
+002-269		Mission: Slay Akaza!
+002-269-000	Upper Rank Three - Akaza (Easy)
+002-269-001	Upper Rank Three - Akaza (Insane)
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -3989,6 +4050,10 @@
 011-040-000	Torneo talenti
 011-041		Arena del destino
 011-041-000	Torneo talenti
+011-042		Arena of Honor
+011-042-000	Demon Slayer Elites
+011-043		Arena del destino
+011-043-000	Torneo talenti
 
 012			Challenge Mode
 012-000		Battaglia sfida
@@ -5581,7 +5646,7 @@
 024-073-007	Record di recensioni negative
 024-073-008	Sogni instabili
 024-073-009	Riparti da zero
-024-074		Festeggiamo i 110 milioni di download!
+024-074		Festeggiamo i 111 milioni di download!
 024-074-000	Invito fumoso
 024-074-001	Tappeto rosso lunghissimo
 024-074-002	Saluto infinito
@@ -5603,6 +5668,22 @@
 024-077-007	Anno del cavallo Liv. 8
 024-077-008	Anno del cavallo Liv. 9
 024-077-009	Anno del cavallo Liv. MAX
+024-078		Orda di Gatti
+024-078-000	Sete di sangue Liv. 1
+024-078-001	Sete di sangue Liv. 2
+024-078-002	Sete di sangue Liv. 3
+024-078-003	Sete di sangue Liv. 4
+024-078-004	Sete di sangue Liv. 5
+024-078-005	Sete di sangue Liv. 6
+024-078-006	Sete di sangue Liv. 7
+024-078-007	Sete di sangue Liv. 8
+024-078-008	Sete di sangue Liv. 9
+024-078-009	Sete di sangue Liv. 10
+024-078-010	Sete di sangue Liv. 11
+024-078-011	Sete di sangue Liv. 12
+024-078-012	Sete di sangue Liv. 13
+024-078-013	Sete di sangue Liv. 14
+024-078-014	Sete di sangue Liv. MAX
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -6095,6 +6176,27 @@
 027-024-006	Annihilation Lv.7
 027-024-007	Annihilation Lv.8
 027-024-008	This is the End!
+027-025		Akaza Strikes!
+027-025-000	Why Not Become a Demon? Lv.1
+027-025-001	Why Not Become a Demon? Lv.2
+027-025-002	Why Not Become a Demon? Lv.3
+027-025-003	Why Not Become a Demon? Lv.4
+027-025-004	Why Not Become a Demon? Lv.5
+027-025-005	Why Not Become a Demon? Lv.6
+027-025-006	Why Not Become a Demon? Lv.7
+027-025-007	Why Not Become a Demon? Lv.8
+027-025-008	Why Not Become a Demon? Lv.9
+027-025-009	Why Not Become a Demon? Lv.10
+027-025-010	Why Not Become a Demon? Lv.11
+027-025-011	Why Not Become a Demon? Lv.12
+027-025-012	Why Not Become a Demon? Lv.13
+027-025-013	Why Not Become a Demon? Lv.14
+027-025-014	Why Not Become a Demon? Lv.15
+027-025-015	Why Not Become a Demon? Lv.16
+027-025-016	Why Not Become a Demon? Lv.17
+027-025-017	Why Not Become a Demon? Lv.18
+027-025-018	Why Not Become a Demon? Lv.19
+027-025-019	Then I'll Have to Kill You Lv.MAX
 
 031			Behemoth Culling Stages
 031-000		Foresta segreta di Gapra
@@ -6462,6 +6564,20 @@
 034-026-003	Frenesia quotidiana
 034-026-004	Faccende altrui
 034-026-005	Problema personale
+034-027		Fantasmagoria
+034-027-000	La strada del toro
+034-027-001	Il salotto delle sirene
+034-027-002	La città dei non morti
+034-027-003	La discoteca delle fate
+034-027-004	Distese unicorno
+034-027-005	La locanda del drago
+034-028		Impero muscolare
+034-028-000	La terra dei muscoli
+034-028-001	Terra proteica
+034-028-002	Fisica mistica
+034-028-003	Palude di Synthol
+034-028-004	Masso sulle spalle
+034-028-005	Isola delle pose
 
 036			Colosseum Stages
 036-000		Colosseo ultraterreno
@@ -6584,6 +6700,18 @@
 036-019-002	Round 3
 036-019-003	Round 4
 036-019-004	Round 5
+036-020		Colosseo ultraterreno
+036-020-000	Round 1
+036-020-001	Round 2
+036-020-002	Round 3
+036-020-003	Round 4
+036-020-004	Round 5
+036-021		Colosseo ultraterreno
+036-021-000	Round 1
+036-021-001	Round 2
+036-021-002	Round 3
+036-021-003	Round 4
+036-021-004	Round 5
 
 037			Campionati miciodiali
 037-000		Campionati miciodiali Grado 1

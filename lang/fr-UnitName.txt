@@ -200,7 +200,7 @@
 199	Chat surfeur	Chat naufragé	Chat navigateur	
 200	Chat métal	Macho métal		
 201	Chat fanfare	Chatte panneau	Chat mochi	
-202	Chat Baozi			
+202	Chat Baozi	Grand Baozi		
 203	Kachi-Kachi	Pompiers Kachiyama	Brigade d’assaut Kachiyama	
 204				
 205				
@@ -447,7 +447,7 @@
 446	Chat tractopelle	Chat tractopelle électrique	Néo Chat tractopelle	
 447	Chat scie	Chat scie électrique	Néo Chat scie	
 448	Musashi Miyamoto	Miyamoto dieu de la guerre	Miyamoto immortel	
-449	Principale Jeanne	Principale Jeanne ψ		
+449	Jeanne	Jeanne la dictatrice	Jeanne la dictatrice ψ	
 450	Grand seigneur Babel	Babel sombre flamme	Dieu empereur Babel	
 451	Ushiwakamaru	Benkei colochal		
 452	Chat primitif	Chat moderne	Chat du futur	
@@ -616,7 +616,7 @@
 615	Chat Kabuto	Chat Kabuto doré		
 616	Chat Kuwagata	Chat roi Kuwagata		
 617	Satoru invocateur	Satoru sombre invocateur	Satoru démoniste	
-618	Shiro Amakusa	Amakusa dieu de la guerre	Amakusa immortel	
+618	Amakusa Shiro	Amakusa dieu de la guerre	Amakusa immortel	
 619	Lilin	Lilin π	Lilin π divine	
 620	Hevijack le malfaisant	Roi Hevijack malfaisant	Dieu empereur Hevijak	
 621	Chercheur d'ennemis Akus	Chercheur d'ennemis Akus démoniaque	Chercheur félin	
@@ -838,3 +838,17 @@
 837	Écuyer Luno	Lunos le Lumineux		
 838				
 839				
+840	Tanjiro Kamado	Tanjiro Kamado CC		
+841	Nezuko Kamado	Nezuko Kamado CC		
+842	Zenitsu Agatsuma	Zenitsu Agatsuma CC		
+843	Inosuke Hashibira	Inosuke Hashibira CC		
+844	Giyu Tomioka	Giyu Tomioka CC		
+845	Shinobu Kocho	Shinobu Kocho CC		
+846	Kyojuro Rengoku	Kyojuro Rengoku CC		
+847	Li'l Sakonji Urokodaki	Li'l Sakonji Urokodaki CC		
+848	Tanjiro Cat	Tanjiro Cat CC		
+849	Nezuko Cat	Nezuko Cat CC		
+850	Fuma Kotaro	Kotaro dieu de la guerre		
+851	Chat livreur de journaux	Chat des aubaines		
+852	Chat vachoiseau tueur	Vrai Chat vachoiseau tueur		
+853	Chat occultiste	Chat nana		

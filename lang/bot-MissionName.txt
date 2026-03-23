@@ -926,11 +926,11 @@
 9563	【100M DL】Clear 100M Celebration Gifts
 9564	【100M DL】Clear 0 The Battle Cats stages
 9565	【100M DL】Clear 0 The Battle Cats stages
-9566	Clear 9 Season 1: School Days stages
-9567	Clear 9 Season 2: Heartbeat Festival stages
-9568	Clear 9 Season 3: Field Trip stages
-9569	Clear 9 Season 4: Graduation Day stages
-9570	Clear 9 Weekend: Confession stages
+9566	【Heartbeat Catcademy】Clear Season 1: School
+9567	【Heartbeat Catcademy】Clear Season 2: Heartbeat
+9568	【Heartbeat Catcademy】Clear Season 3: Field
+9569	【Heartbeat Catcademy】Clear Season 4: Graduation
+9570	【Heartbeat Catcademy】Clear Weekend: Confession
 80	Unlock Talents for Holy Valkyrie Cat. Clear Valkyrie Cat's Trial to unlock
 81	Unlock Talents for Awakened Bahamut Cat. Clear Bahamut Cat's Trial to unlock
 9571	Clear 9 Baki Hanma collab stages
@@ -989,6 +989,27 @@
 9638	Clear any Street Fighter 6 collab
 9639	Clear any Street Fighter 6 collab
 9640	Clear any Street Fighter 6 collab
+9657	Clear any Valentine's Event
+9658	Clear any Valentine's Event
+9659	Clear any Valentine's Event
+9660	Clear any Demon Slayer: Kimetsu no Yaiba
+9661	Clear any Demon Slayer: Kimetsu no Yaiba
+9662	Clear any Demon Slayer: Kimetsu no Yaiba
+9663	Clear Demon Slayer: Kimetsu no Yaiba. Special Missions ① - ④ and earn a Rare Ticket!
+9664	Clear Demon Slayer: Kimetsu no Yaiba Special. Mission ①: Slay the Demon Teacher Bear!
+9665	Clear Demon Slayer: Kimetsu no Yaiba Special. Mission ②: Slay Rui!
+9666	Clear Demon Slayer: Kimetsu no Yaiba Special. Mission ③: Slay Enmu!
+9667	Clear Demon Slayer: Kimetsu no Yaiba Special. Mission ④: Slay Akaza!
+9673	【Heartbeat Catcademy】Clear After School: Love Letters
+9674	【111M DL】Clear all event missions. to earn 1 Rare Ticket!
+9675	【111M DL】Send Gamatoto on 17 successful expeditions!
+9676	【111M DL】Send Gamatoto on 17 successful expeditions!
+9677	【111M DL】Send Gamatoto on 17 successful expeditions!
+9678	【111M DL】Clear 111M Celebration Gifts Galore!
+9679	【111M DL】Clear 111M Celebration Gifts Galore!
+9680	【111M DL】Clear 111M Celebration Gifts Galore!
+9681	【111M DL】
+9682	【111M DL】
 9668	Get a free Cat Ticket each day
 9669	【Progression】
 9670	【Progression】Send Gamatoto on 17 successful expeditions!

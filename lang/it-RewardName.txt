@@ -230,6 +230,11 @@
 239|I462	Forziere (bronzo)
 240|I463	Forziere (argento)
 241|I464	Forziere (oro)
+242|S242|I465	Lettera d'amore
+243|S243|I466	Stella leggendaria
+244|I467	Forziere (bronzo)
+245|I468	Forziere (argento)
+246|I469	Forziere (oro)
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -299,6 +304,8 @@
 1070	Gatto alto assassino
 1071	Maestro di logica Newton
 1072	Gatto carpentiere
+1074	Gatto dei giornali
+1075	Gatto uccellomucca assassino
 1100	Busto di Gatto
 1101	Gatto spaziale
 1102	Gatto con la corda
@@ -357,6 +364,7 @@
 1184	Kenshin Cat
 1185	Maestro di vita dott. Nova
 1186	Sonic Cat
+1187	Tanjiro Cat
 10010	Gatto fusto
 10011	Gatto ballerino
 10012	Iper Mr.
@@ -635,6 +643,7 @@
 15447	Neo Gatto scavatore
 15448	Neo Gatto turbosega
 15449	Miyamoto Immortale
+15450	Dittatrice Jeanne ψ
 15451	Babele Dio-Imperatore
 15457	Dark Sakura CC
 15468	Super S-Zeus
@@ -1047,3 +1056,8 @@
 30302	Bonus per la prima sconfitta B
 30303	Bonus per la prima sconfitta A
 30304	Bonus per la prima sconfitta S
+30305	Resistente a esplosione D
+30306	Resistente a esplosione C
+30307	Resistente a esplosione B
+30308	Resistente a esplosione A
+30309	Resistente a esplosione S

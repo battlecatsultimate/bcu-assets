@@ -1825,6 +1825,37 @@
 001-419-003	Surprisingly 2nd
 001-419-004	Underdog 1st
 001-419-005	Unseen in 2025
+001-420		Bittersweet Valentine's
+001-420-000	An Empty Locker
+001-420-001	Choco Aplenty (For Others)
+001-420-002	I Actually Hate Chocolate
+001-421		Invasion of Poultrio
+001-421-000	Feathergeddon I (Merciless)
+001-421-001	Feathergeddon II (Merciless)
+001-421-002	Feathergeddon III (Merciless)
+001-421-003	Feathergeddon: Swan Song (Brutal)
+001-422		Growing Catfruit
+001-422-000	Green Envy
+001-422-001	Violet Flash
+001-422-002	Red Passions
+001-422-003	Blue Illusion
+001-422-004	Rays of Gold
+001-423		After School: Love Letters
+001-423-000	Penned with Passion
+001-423-001	Sweaty Palm Smudges
+001-424		After School: Love Letters
+001-424-000	Penned with Passion
+001-424-001	No Return Address
+001-425		After School: Love Letters
+001-425-000	Penned with Passion
+001-425-001	Love Letter #100
+001-426		Discover Easter's Wonders!
+001-426-000	Found on Easter
+001-426-001	Erupted from the Deep
+001-426-002	Moai's Mystic Eyes
+001-426-003	The Final Enigma
+001-427		111M Celebration Gifts Galore!
+001-427-000	111M Celebration Gifts Galore!
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -2172,7 +2203,7 @@
 002-129-011	Sudden Death Lv.12
 002-134		Hatsune Miku's Birthday!
 002-134-000	♪ Birthday Party ♪
-002-135		Street Fighter (Easy)
+002-135		Street Fighter - EASY -
 002-135-000	Warrior of Nature
 002-135-001	Illuminating Flame
 002-135-002	Rush & Blaze
@@ -2185,7 +2216,7 @@
 002-135-009	The Clawed Rondo
 002-135-010	Solitary Emperor
 002-135-011	The Supreme Evil
-002-136		Street Fighter (Normal)
+002-136		Street Fighter - NORMAL -
 002-136-000	Pride & Passion
 002-136-001	Iron Cyclone
 002-136-002	Blue Jade
@@ -2577,6 +2608,36 @@
 002-262		New Challenger
 002-262-000	Master of the Fist (Veteran)
 002-262-001	Sekia Goshoha (Deadly)
+002-263		Demon Slayer Corps Final Selection
+002-263-000	7 Days on Mt. Fujikasane
+002-263-001	Fight for Life
+002-263-002	An Unusual Demon
+002-263-003	Fruits of Training
+002-263-004	Rising Sun
+002-264		Battle at Mt. Natagumo
+002-264-000	Swarm of Spiders
+002-264-001	The Manipulated
+002-264-002	False Bonds
+002-264-003	Band of Brothers
+002-264-004	Slicing Spiderwebs
+002-265		Mugen Train
+002-265-000	Nen Nen Korori
+002-265-001	They Can No Longer Awaken
+002-265-002	Oh, You're Awake?
+002-265-003	You Should Have Stayed Asleep
+002-265-004	Go To Sleeeeep...
+002-266		Mission: Slay the Demon Teacher Bear!
+002-266-000	Demon of Countless Arms (Easy)
+002-266-001	Demon of Countless Arms (Hard)
+002-267		Mission: Slay Rui!
+002-267-000	Lower Rank Five - Rui (Easy)
+002-267-001	Lower Rank Five - Rui (Insane)
+002-268		Mission: Slay Enmu!
+002-268-000	Lower Rank One - Enmu (Easy)
+002-268-001	Lower Rank One - Enmu (Merciless)
+002-269		Mission: Slay Akaza!
+002-269-000	Upper Rank Three - Akaza (Easy)
+002-269-001	Upper Rank Three - Akaza (Insane)
 
 003			Main Story Chapters
 003-000		EoC Ch.1 Zombie
@@ -4001,6 +4062,10 @@
 011-040-000	Talent Tournament
 011-041		Arena of Destiny
 011-041-000	Talent Tournament
+011-042		Arena of Honor
+011-042-000	Demon Slayer Elites
+011-043		Arena of Destiny
+011-043-000	Talent Tournament
 
 012			Challenge Mode
 012-000		Challenge
@@ -5593,7 +5658,7 @@
 024-073-007	Bad Review Streak
 024-073-008	Unstable Dreams
 024-073-009	Start from Scratch
-024-074		110M Download Celebration!
+024-074		111M Download Celebration!
 024-074-000	Invitation in Smoke
 024-074-001	2-Mile Red Carpet
 024-074-002	Neverending Greeting
@@ -5615,6 +5680,22 @@
 024-077-007	Year of the Horse Lv.8
 024-077-008	Year of the Horse Lv.9
 024-077-009	Year of the Horse Lv.MAX
+024-078		Horde of Cats
+024-078-000	Bloodthirsty Lv.1
+024-078-001	Bloodthirsty Lv.2
+024-078-002	Bloodthirsty Lv.3
+024-078-003	Bloodthirsty Lv.4
+024-078-004	Bloodthirsty Lv.5
+024-078-005	Bloodthirsty Lv.6
+024-078-006	Bloodthirsty Lv.7
+024-078-007	Bloodthirsty Lv.8
+024-078-008	Bloodthirsty Lv.9
+024-078-009	Bloodthirsty Lv.10
+024-078-010	Bloodthirsty Lv.11
+024-078-011	Bloodthirsty Lv.12
+024-078-012	Bloodthirsty Lv.13
+024-078-013	Bloodthirsty Lv.14
+024-078-014	Bloodthirsty Lv.MAX
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -6107,6 +6188,27 @@
 027-024-006	Annihilation Lv.7
 027-024-007	Annihilation Lv.8
 027-024-008	This is the End!
+027-025		Akaza Strikes!
+027-025-000	Why Not Become a Demon? Lv.1
+027-025-001	Why Not Become a Demon? Lv.2
+027-025-002	Why Not Become a Demon? Lv.3
+027-025-003	Why Not Become a Demon? Lv.4
+027-025-004	Why Not Become a Demon? Lv.5
+027-025-005	Why Not Become a Demon? Lv.6
+027-025-006	Why Not Become a Demon? Lv.7
+027-025-007	Why Not Become a Demon? Lv.8
+027-025-008	Why Not Become a Demon? Lv.9
+027-025-009	Why Not Become a Demon? Lv.10
+027-025-010	Why Not Become a Demon? Lv.11
+027-025-011	Why Not Become a Demon? Lv.12
+027-025-012	Why Not Become a Demon? Lv.13
+027-025-013	Why Not Become a Demon? Lv.14
+027-025-014	Why Not Become a Demon? Lv.15
+027-025-015	Why Not Become a Demon? Lv.16
+027-025-016	Why Not Become a Demon? Lv.17
+027-025-017	Why Not Become a Demon? Lv.18
+027-025-018	Why Not Become a Demon? Lv.19
+027-025-019	Then I'll Have to Kill You Lv.MAX
 
 031			Behemoth Culling Stages
 031-000		Hidden Forest of Gapra
@@ -6474,6 +6576,20 @@
 034-026-003	Everyday Rush
 034-026-004	Affairs of Another
 034-026-005	Personal Issue
+034-027		Phantasmagoria
+034-027-000	Taurus Trail
+034-027-001	Mermaid Lounge
+034-027-002	Undead City
+034-027-003	Fairy Disco
+034-027-004	Unicorn Flats
+034-027-005	Drag-Inn
+034-028		Muscle Empire
+034-028-000	The Bulking Grounds
+034-028-001	Whey Wasteland
+034-028-002	Physique Mystique
+034-028-003	Synthol Swamp
+034-028-004	Boulder Shoulder
+034-028-005	Side Chest Isle
 
 036			Colosseum Stages
 036-000		Otherworld Colosseum
@@ -6596,6 +6712,18 @@
 036-019-002	Round 3
 036-019-003	Round 4
 036-019-004	Round 5
+036-020		Otherworld Colosseum
+036-020-000	Round 1
+036-020-001	Round 2
+036-020-002	Round 3
+036-020-003	Round 4
+036-020-004	Round 5
+036-021		Otherworld Colosseum
+036-021-000	Round 1
+036-021-001	Round 2
+036-021-002	Round 3
+036-021-003	Round 4
+036-021-004	Round 5
 
 037			Catclaw Championships
 037-000		Catclaw Championships Rank 1

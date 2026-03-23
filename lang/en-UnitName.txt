@@ -447,7 +447,7 @@
 446	Backhoe Cat	Power Backhoe Cat	Neo Backhoe Cat	
 447	Miter Saw Cat	Power Saw Cat	Neo Saw Cat	
 448	Musashi Miyamoto	Wargod Miyamoto	Immortal Miyamoto	
-449	Headmistress Jeanne	Headmistress Jeanne ψ		
+449	Jeanne	Jeanne ψ	Divine Jeanne ψ	
 450	High Lord Babel	Babel the Darkflame	God-Emperor Babel	
 451	Ushiwakamaru	Colossal Benkei		
 452	Primordial Cat	Modern Cat	Future Cat	
@@ -616,7 +616,7 @@
 615	Kabuto Cat	Golden Kabuto Cat		
 616	Kuwagata Cat	King Kuwagata Cat		
 617	Summoner Satoru	Dark Summoner Satoru	Devil Hunter Satoru	
-618	Shiro Amakusa	Wargod Amakusa	Immortal Amakusa	
+618	Amakusa Shiro	Wargod Amakusa	Immortal Amakusa	
 619	Lilin	Lilin π	Divine Lilin π	
 620	Hevijak the Wicked	Wicked King Hevijak	God-Emperor Hevijak	
 621	Aku Researcher	Evil Aku Researcher	Cat Researcher	
@@ -828,7 +828,7 @@
 827	Juri	Juri CC		
 828	Zangief Cat	Zangief Cat CC		
 829	Jamie Cat	Jamie Cat CC		
-830	Raclesa the Lioness 	Raclesa Σ		
+830	Raclesa	Raclesa Σ		
 831				
 832				
 833				
@@ -838,3 +838,17 @@
 837	Squire Luno	Lunos the Luminous		
 838				
 839				
+840	Tanjiro Kamado	Tanjiro Kamado CC		
+841	Nezuko Kamado	Nezuko Kamado CC		
+842	Zenitsu Agatsuma	Zenitsu Agatsuma CC		
+843	Inosuke Hashibira	Inosuke Hashibira CC		
+844	Giyu Tomioka	Giyu Tomioka CC		
+845	Shinobu Kocho	Shinobu Kocho CC		
+846	Kyojuro Rengoku	Kyojuro Rengoku CC		
+847	Li'l Sakonji Urokodaki	Li'l Sakonji Urokodaki CC		
+848	Tanjiro Cat	Tanjiro Cat CC		
+849	Nezuko Cat	Nezuko Cat CC		
+850	Fuma Kotaro	Wargod Kotaro		
+851	Paperboy Cat	Bargain Cat		
+852	Killer Cowbird Cat	True Killer Cowbird Cat		
+853	Occultist Cat	Gyaru Cat		

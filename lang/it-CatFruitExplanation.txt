@@ -446,8 +446,8 @@
 445	La Forma Reale ottiene<br>maggiore potenza d'attacco e<br>Immunità alle ondate!
 446	La Forma Reale ottiene<br>abilità di attacco a valanga!<br>
 447	La Forma Reale aumenta<br>potenza d'attacco e difesa, e<br>ottiene abilità di sfondamento!
-448	La Forma Reale ottiene maggiore vitalità<br>e potenza d'attacco! Poi ammazzagiganti,<br>rallenta, immunità a indebolimento!
-449	<br><br>
+448	La Forma Reale ottiene maggiore vitalità<br>e potenza d'attacco! Poi ammazzagiganti,<br>immune a Rallenta e Indebolimento!
+449	La Forma Evoluta aumenta vitalità,<br>forza d'attacco e portata. Ammazzagiganti,<br>immunità a Blocco ed Esplosioni!
 450	La Forma Reale ottiene maggiore difesa!<br>Ottiene immunità da respinta e veleno,<br>oltre ad ammazzagiganti!
 451	<br><br>
 452	<br><br>
@@ -566,7 +566,7 @@
 565	La Forma Reale ha maggiore<br>difesa e velocità!<br>
 566	La Forma Reale ottiene Ammazza Behemoth!<br><br>
 567	<br><br>
-568	La Forma Reale ha maggiore difesa!<br>Infligge danni enormi agli antichi<br>e ottiene Sterminatore di saggi!	<br><br>
+568	La Forma Reale ha maggiore difesa!<br>Infligge danni enormi agli antichi<br>e ottiene Sterminatore di saggi!
 569	La Forma Reale aumenta la difesa,<br>la difesa e la potenza d'attacco!<br>maggiore e un att. ondata con area più ampia!
 570	La Forma Reale ottiene<br>respinta/rallentamento al 100%<br>vs zombi e alieni.
 571	<br><br>
@@ -838,3 +838,17 @@
 837	<br><br>
 838	<br><br>
 839	<br><br>
+840	<br><br>
+841	<br><br>
+842	<br><br>
+843	<br><br>
+844	<br><br>
+845	<br><br>
+846	<br><br>
+847	<br><br>
+848	<br><br>
+849	<br><br>
+850	<br><br>
+851	<br><br>
+852	<br><br>
+853	<br><br>

@@ -447,7 +447,7 @@
 446	Backhoe Cat	Power Backhoe Cat	Neo Backhoe Cat
 447	Miter Saw Cat	Power Saw Cat	Neo Saw Cat
 448	Musashi Miyamoto	Wargod Miyamoto	Immortal Miyamoto
-449	Headmistress Jeanne	Headmistress Jeanne ψ	Divine Headmistress Jeanne ψ
+449	Jeanne	Jeanne ψ	Divine Jeanne ψ
 450	High Lord Babel	Babel the Darkflame	God-Emperor Babel
 451	Ushiwakamaru	Colossal Benkei
 452	Primordial Cat	Modern Cat	Future Cat
@@ -616,7 +616,7 @@
 615	Kabuto Cat	Golden Kabuto Cat
 616	Kuwagata Cat	King Kuwagata Cat
 617	Summoner Satoru	Dark Summoner Satoru	Devil Hunter Satoru
-618	Shiro Amakusa	Wargod Amakusa	Immortal Amakusa
+618	Amakusa Shiro	Wargod Amakusa	Immortal Amakusa
 619	Lilin	Lilin π	Divine Lilin π
 620	Hevijak the Wicked	Wicked King Hevijak	God-Emperor Hevijak
 621	Aku Researcher	Evil Aku Researcher	Cat Researcher
@@ -686,7 +686,7 @@
 685	Ancient Egg: N004	Mystic Egg: N004	Supercar Cat
 686	Goddess of Light Sirius	Goddess of Sunrise Sirius
 687	Reindeer Terun	Reindeer Terunζ
-688	Brainwashed Lizard Cat	Brainwashed Dragon Cat	Brainwashed King Dragon
+688	Brainwashed Lizard Cat	Brainwashed Dragon Cat	Brainwashed King Dragon Cat
 689	Meditation Cat	Paragon Cat
 690	Child of Destiny Phono	King of Destiny Phonoa
 691	Ancient Egg: N000	Elder Egg: N000	Ape Lord Luza
@@ -698,7 +698,7 @@
 697	Ancient Egg: N107	Violet Egg: N107	Cat Chief
 698	Thunder Jack	Bloody Jack	Lightning Jack
 699	Rabbit Satoru	Rabbit Champion Satoru
-700	Ancient Egg N005	Mystic Egg N005	Hitman Cat
+700	Ancient Egg: N005	Mystic Egg: N005	Hitman Cat
 701	Kamen Rider Cat	Shin Kamen Rider Cat
 702	Godzilla Cat	Shin Godzilla Cat
 703	Evangelion Cat	Shin Evangelion Cat
@@ -849,6 +849,6 @@
 848	Tanjiro Cat	Tanjiro Cat CC
 849	Nezuko Cat	Nezuko Cat CC
 850	Fuma Kotaro	Wargod Kotaro
-851	Newspaper Cat	Sales Cat
-852	Killer Cow Cat	True Killer Cow Cat
-853	Ocult Cat	Gyaru Cat
+851	Paperboy Cat	Bargain Cat		
+852	Killer Cowbird Cat	True Killer Cowbird Cat		
+853	Occultist Cat	Gyaru Cat		

@@ -446,8 +446,8 @@
 445	La forma final tiene más<br>poder de ataque y se vuelve<br>¡Inmune a oleadas!
 446	La forma final<br>puede atacar con réplicas.<br>
 447	La forma final tiene más defensa<br>y poder de ataque. Además, obtiene<br>la habilidad de rompebarreras.
-448	La forma final tiene más Vitalidad y<br>ataque. ¡Se convierte en Matacolosos<br>e inmune al desgaste y ralentiza!
-449	<br><br>
+448	La forma final tiene más Vitalidad y<br>ataque. ¡Se convierte en Matacolosos<br>y gana inmunidad al desgaste y ralentiza!
+449	La forma final tiene más vitalidad,<br>poder de ataque y alcance. Matacolosos.<br>¡Inmune contra parálisis y explosiones!
 450	¡Su forma final tiene más defensa!<br>¡Inmune contra repulsión y toxicidad,<br>y gana a los matacolosos!
 451	<br><br>
 452	<br><br>
@@ -566,7 +566,7 @@
 565	La forma final tiene más<br>defensa y velocidad de movimiento.<br>
 566	La forma final es matamastodontes.<br><br>
 567	<br><br>
-568	¡La forma final tiene más defensa!<br>Hace daño demencial a reliquias<br>y obtiene Asesino Sabio.	<br><br>
+568	¡La forma final tiene más defensa!<br>Hace daño demencial a reliquias<br>y obtiene Asesino Sabio.
 569	La forma final tiene más defensa,<br>defensa y poder de ataque.<br>y un área de efecto de oleada más amplia.
 570	La forma final<br>siempre repele y ralentiza a<br>zombis y álienes.
 571	<br><br>
@@ -838,3 +838,17 @@
 837	<br><br>
 838	<br><br>
 839	<br><br>
+840	<br><br>
+841	<br><br>
+842	<br><br>
+843	<br><br>
+844	<br><br>
+845	<br><br>
+846	<br><br>
+847	<br><br>
+848	<br><br>
+849	<br><br>
+850	<br><br>
+851	<br><br>
+852	<br><br>
+853	<br><br>

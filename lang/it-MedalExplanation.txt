@@ -123,3 +123,4 @@
 122	Supera Invasione colossale.
 123	Supera ogni invasione di zombi in Gatti del Cosmo Cap. 3
 124	Supera il livello Ostruzione di zombi
+125	Supera "L'invasione del triplice pennuto"

@@ -200,7 +200,7 @@
 199	Gato Surfero	Gato Náufrago	Gato Marinero	
 200	Gato Metálico	Gato Mazado Metálico		
 201	Gato de Banda	Gato de Estandarte	Gato de Mochi	
-202	Gato Bao			
+202	Gato Bao	Baozi grande		
 203	Kachi-Kachi	Cuerpo de Bomberos Kachiyama	Brigada de Asalto Kachiyama	
 204				
 205				
@@ -447,7 +447,7 @@
 446	Gato Retroexcavadora	Gato Superretroexcavadora	Neogato Retroexcavadora	
 447	Gato Aserrador	Gato Superaserrador	Neogato Aserrador	
 448	Musashi Miyamoto	Dios de la Guerra Miyamoto	Miyamoto Inmortal	
-449	Directora Jeanne	Directora Jeanne (ψ)		
+449	Jeanne	Directora Jeanne (ψ)	Dictadora Jeanne (ψ)	
 450	Babel Señor Supremo	Babel Llama Oscura	Babel, Dios Emperador	
 451	Ushiwakamaru	Benkei Colosal		
 452	Gato Primordial	Gato Moderno	Gato Futurista	
@@ -838,3 +838,17 @@
 837	Escudero Luno	Lunos el Luminoso		
 838				
 839				
+840	Tanjiro Kamado	Tanjiro Kamado CC		
+841	Nezuko Kamado	Nezuko Kamado CC		
+842	Zenitsu Agatsuma	Zenitsu Agatsuma CC		
+843	Inosuke Hashibira	Inosuke Hashibira CC		
+844	Giyu Tomioka	Giyu Tomioka CC		
+845	Shinobu Kocho	Shinobu Kocho CC		
+846	Kyojuro Rengoku	Kyojuro Rengoku CC		
+847	Li'l Sakonji Urokodaki	Li'l Sakonji Urokodaki CC		
+848	Tanjiro Cat	Tanjiro Cat CC		
+849	Nezuko Cat	Nezuko Cat CC		
+850	Fuma Kotaro	Dios de la Guerra Kotaro		
+851	Gato del Periódico	Gato Cazachollos		
+852	Gatordo Asesino	Gatordo Asesino Auténtico		
+853	Gata Ocultista	Gata Parrandera		

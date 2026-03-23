@@ -184,7 +184,7 @@
 183	Cybercornu
 184	Dame caniche
 185	Professeur Taman
-186	Gâteau Toutou : 110 M anniversaire
+186	Gâteau Toutou : 111 M anniversaire
 187	
 188	
 189	MARS PEOPLE
@@ -674,7 +674,7 @@
 673	
 674	Uril ésotérique
 675	SOL DAE ROKKER
-676	
+676	Toutou dragon
 677	Soracte, mentor mental
 678	
 679	Dogenstein
@@ -759,3 +759,17 @@
 758	
 759	
 760	Toutou chevalin
+761	Rui
+762	Enmu
+763	Akaza
+764	Demon Doge
+765	Demon Gory
+766	Demon Teacher Bear
+767	
+768	Prudencio
+769	Poultrio
+770	Chat vachoiseau tueur
+771	Le Visage d’or
+772	
+773	
+774	

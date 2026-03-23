@@ -230,6 +230,11 @@
 239|I462	C. tesoro bronce
 240|I463	Cofre tesoro plata
 241|I464	Cofre tesoro oro
+242|S242|I465	Carta de amor
+243|S243|I466	Brillo estelar
+244|I467	C. tesoro bronce
+245|I468	Cofre tesoro plata
+246|I469	Cofre tesoro oro
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -299,6 +304,8 @@
 1070	Gatilargo Asesino
 1071	Sabio de la lógica Newton
 1072	Gato Carpintero
+1074	Gato del Periódico
+1075	Gatordo Asesino
 1100	Gato de Bronce
 1101	Gato Espacial
 1102	Gato con Comba
@@ -357,6 +364,7 @@
 1184	Kenshin Cat
 1185	Maestro de la Vida Dr. Nova
 1186	Sonic Cat
+1187	Tanjiro Cat
 10010	Gato Cachas
 10011	Gato Bailarín
 10012	Hiper Sr.
@@ -634,6 +642,7 @@
 15447	Neogato Retroexcavadora
 15448	Neogato Aserrador
 15449	Miyamoto Inmortal
+15450	Dictadora Jeanne (ψ)
 15451	Babel, Dios Emperador
 15457	Dark Sakura CC
 15468	Super S-Zeus
@@ -1046,3 +1055,8 @@
 30302	Primera recompensa disponible B
 30303	Primera recompensa disponible A
 30304	Primera recompensa disponible S
+30305	Resistencia a explosión D
+30306	Resistencia a explosión C
+30307	Resistencia a explosión B
+30308	Resistencia a explosión A
+30309	Resistencia a explosión S

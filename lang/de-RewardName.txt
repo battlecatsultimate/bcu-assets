@@ -230,6 +230,11 @@
 239|I462	Schatztruhe (Bronze)
 240|I463	Schatztruhe (Silber)
 241|I464	Schatztruhe (Gold)
+242|S242|I465	Liebesbrief
+243|S243|I466	Legendenstrahlen
+244|I467	Schatztruhe (Bronze)
+245|I468	Schatztruhe (Silber)
+246|I469	Schatztruhe (Gold)
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -299,6 +304,8 @@
 1070	Killer-Stelzenkatze
 1071	Weiser des logischen Newton
 1072	Tischlerkatze
+1074	Zeitungsjungenkatze
+1075	Killer-Stärlingskatze
 1100	Bronzekatze
 1101	Weltraumkatze
 1102	Seilhüpfkatze
@@ -357,6 +364,7 @@
 1184	Kenshin Cat
 1185	Meister des Lebens Dr. Nova
 1186	Sonic Cat
+1187	Tanjiro Cat
 10010	Muskelprotz-Katze
 10011	Tänzerkatze
 10012	Hyper-Mr.
@@ -635,6 +643,7 @@
 15447	Neo-Tiefbagger-Katze
 15448	Neo-Sägenkatze
 15449	Unsterblicher Miyamoto
+15450	Diktatorin Jeanne ψ
 15451	Babel der Gottkaiser
 15457	Dark Sakura CC
 15468	Super S-Zeus
@@ -1047,3 +1056,8 @@
 30302	Erste Belohnung erhöht B
 30303	Erste Belohnung erhöht A
 30304	Erste Belohnung erhöht S
+30305	Explosion-Resistenzen D
+30306	Explosion-Resistenzen C
+30307	Explosion-Resistenzen B
+30308	Explosion-Resistenzen A
+30309	Explosion-Resistenzen S

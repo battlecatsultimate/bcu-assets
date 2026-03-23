@@ -184,7 +184,7 @@
 183	Ciberceronte
 184	Señorita Celebriche
 185	Profe H.
-186	Tartachucho de 110 M de descargas
+186	Tartachucho de 111 M de descargas
 187	
 188	
 189	MARS PEOPLE
@@ -674,7 +674,7 @@
 673	
 674	Uril Esotérico
 675	SOL DAE ROKKER
-676	
+676	Chucho Dragón
 677	Sórcates Mente Brillante
 678	
 679	Canestein
@@ -759,3 +759,17 @@
 758	
 759	
 760	Chucho Corcel
+761	Rui
+762	Enmu
+763	Akaza
+764	Demon Doge
+765	Demon Gory
+766	Demon Teacher Bear
+767	
+768	Don Prudencio
+769	Orden Triplumífera
+770	Gatordo Asesino
+771	El Careto de Oro
+772	
+773	
+774	

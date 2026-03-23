@@ -47,7 +47,7 @@
 046	Doge Dark
 047	Metal Hippoe
 048	St. Pigge the 2nd
-049	J.K Bun Bun
+049	J.K. Bun Bun
 050	Bun Bun Black
 051	Gory Black
 052	Shadow Boxer K
@@ -151,7 +151,7 @@
 150	Young Man Mola
 151	Mola King
 152	Ayumi Manbosaki
-153	Crab
+153	Tasmanian Giant Crab
 154	Sardine
 155	Squid
 156	Marching Kory
@@ -184,7 +184,7 @@
 183	Cyberhorn
 184	Mistress Celeboodle
 185	Professor A.
-186	
+186	111M DL Anniv. Doge Cake
 187	
 188	
 189	MARS PEOPLE
@@ -271,12 +271,12 @@
 270	Rampage Cats
 271	Queen B
 272	Li'l Bun Bun
-273	
-274	
-275	
-276	
-277	
-278	
+273	The Rose Garden Witch
+274	Dessert Witch - Obsession
+275	Dessert Witch
+276	Box Witch and Minions
+277	Walpurgisnacht
+278	Kyuubei
 279	Ritual Cat
 280	Razorback
 281	Festival Sign Girl
@@ -390,10 +390,10 @@
 389	Pigge Victorious
 390	Bang-Bang
 391	
-392	
-393	
-394	
-395	
+392	The 4th Angel
+393	The 6th Angel
+394	The 9th Angel
+395	The 10th Angel
 396	Crazed Moneko
 397	Corrupted Moneko
 398	Glowstick Guys
@@ -427,7 +427,7 @@
 426	CTO Seal
 427	Cadaver Bear
 428	Dread Bore
-429	
+429	Nutcracker Witch
 430	Satan Claus
 431	Bakoo
 432	
@@ -462,7 +462,7 @@
 461	Kano ＆ Souma
 462	
 463	
-464	
+464	Unit-13's False Evolution
 465	
 466	
 467	
@@ -478,15 +478,15 @@
 477	Mr. Puffington
 478	Li'l Cake Doge
 479	Puffsley's Comet
-480	
-481	
-482	
-483	
-484	
-485	
-486	
+480	Ryu
+481	Chun-Li
+482	Guile
+483	Zangief
+484	Blanka
+485	Dhalsim
+486	Ken
 487	
-488	
+488	Akuma
 489	
 490	
 491	Black Okame
@@ -526,11 +526,11 @@
 525	Super Hyppoh
 526	Idi:Re
 527	Zollow
-528	
-529	
-530	
-531	
-532	
+528	E. Honda
+529	Balrog
+530	Vega
+531	Sagat
+532	M. Bison
 533	
 534	
 535	Evil Emperor Cat
@@ -620,8 +620,8 @@
 619	
 620	
 621	
-622	
-623	
+622	Sakura
+623	Luke
 624	Cumulus Gallus
 625	10th Anniv. Cake Doge
 626	
@@ -645,7 +645,7 @@
 644	
 645	
 646	Redhead Yuki Cat
-647	
+647	EVA Unit-13
 648	
 649	Lutrinae Gokurakko
 650	Iguanidae Ibilujon
@@ -667,14 +667,14 @@
 666	Malevolent Island Cat
 667	Malevolent King Dragon Cat
 668	Malevolent Jamiera Cat
-669	
-670	
-671	
-672	
+669	Jar Base
+670	King's Mimic
+671	King Doge
+672	11th Anniv. Doge Cake
 673	
 674	Esoteric Uril
 675	SOL DAE ROKKER
-676	
+676	Dragon Doge
 677	Sage of Mind Soractes
 678	
 679	Dogenstein
@@ -682,8 +682,8 @@
 681	
 682	Dark Dober
 683	Gigahaniwan
-684	
-685	
+684	Mysterious Calamity
+685	Possessed King Doge
 686	Voluptuous Peony - Daji
 687	Madhead
 688	Kenshin Himura
@@ -738,7 +738,7 @@
 737	South Seas Otter
 738	Parasol Base
 739	Freeze Dummy
-740
+740	Mass Production EVA
 741	Whiskingmeister
 742	Fireworks Gang
 743	Jumbo Jones
@@ -759,3 +759,17 @@
 758
 759
 760	Horse Doge
+761	Rui
+762	Enmu
+763	Akaza
+764	Demon Doge
+765	Demon Gory
+766	Demon Teacher Bear
+767	
+768	Le'Prude
+769	Poultrio
+770	Killer Cowbird Cat
+771	The Golden Face
+772	
+773	
+774	

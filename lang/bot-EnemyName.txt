@@ -47,7 +47,7 @@
 046	Doge Dark
 047	Metal Hippoe
 048	St. Pigge the 2nd
-049	J.K Bun Bun
+049	J.K. Bun Bun
 050	Bun Bun Black
 051	Gory Black
 052	Shadow Boxer K
@@ -184,7 +184,7 @@
 183	Cyberhorn
 184	Mistress Celeboodle
 185	Professor A.
-186	110M DL Anniv. Doge Cake
+186	111M DL Anniv. Doge Cake
 187	Rathalos
 188	Rathian
 189	MARS PEOPLE
@@ -343,7 +343,7 @@
 342	Black Slug
 343	Angelic Slug
 344	Cat Kart P
-345	Nekondo SP
+345	Catkwondo SP
 346	Merc & Cat
 347	Titi Cat
 348	Orthos
@@ -670,7 +670,7 @@
 669	Jar Base
 670	King's Mimic
 671	King Doge
-672	11th Anniversary Cake
+672	11th Anniv. Doge Cake
 673	11th Anniversary Scarecrow Base
 674	Esoteric Uril
 675	SOL DAE ROKKER
@@ -765,7 +765,7 @@
 765	Demon Gory
 766	Demon Teacher Bear
 767	Demon Base
-768
-769	Trinity
-770	Killer Cow Cat
-771	Gold Face
+768	Le'Prude
+769	Poultrio
+770	Killer Cowbird Cat
+771	The Golden Face

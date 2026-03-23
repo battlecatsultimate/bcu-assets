@@ -200,7 +200,7 @@
 199	Surfer-Katze	Schiffbruch-Katze	Seefahrer-Katze	
 200	Metallkatze	Metallmacho		
 201	Trommlerkatze	Bannerkatze	Mochi-Katze	
-202	Baozi-Katze			
+202	Baozi-Katze	Großer Baozi		
 203	Kachi-Kachi	Feuerwehr-Kachiyama	Kachiyama-Sturmabteilung	
 204				
 205				
@@ -447,7 +447,7 @@
 446	Tiefbagger-Katze	Supertiefbagger-Katze	Neo-Tiefbagger-Katze	
 447	Gehrungssägenkatze	Supersägenkatze	Neo-Sägenkatze	
 448	Musashi Miyamoto	Kriegsgott Miyamoto	Unsterblicher Miyamoto	
-449	Rektorin Jeanne	Rektorin Jeanne ψ		
+449	Jeanne	Rektorin Jeanne ψ	Diktatorin Jeanne ψ	
 450	Hoher Herr Babel	Babel die Dunkelflamme	Babel der Gottkaiser	
 451	Ushiwakamaru	Kolossaler Benkei		
 452	Urkatze	Moderne Katze	Zukunftskatze	
@@ -616,7 +616,7 @@
 615	Kabutokatze	Goldene Kabutokatze		
 616	Kuwagatakatze	Königs-Kuwagatakatze		
 617	Beschwörer Satoru	Dunkler Beschwörer Satoru	Teufelsjäger Satoru	
-618	Shiro Amakusa	Kriegsgott Amakusa	Unsterblicher Amakusa	
+618	Amakusa Shiro	Kriegsgott Amakusa	Unsterblicher Amakusa	
 619	Lilin	Lilin π	Himmlische Lilin π	
 620	Hevijak der Böse	Böser König Hevijak	Hevijak der Gottkaiser	
 621	Aku-Forscher	Böser Aku-Forscher	Katzenforscher	
@@ -838,3 +838,17 @@
 837	Knappe Luno	Lunos der Erleuchtete		
 838				
 839				
+840	Tanjiro Kamado	Tanjiro Kamado CC		
+841	Nezuko Kamado	Nezuko Kamado CC		
+842	Zenitsu Agatsuma	Zenitsu Agatsuma CC		
+843	Inosuke Hashibira	Inosuke Hashibira CC		
+844	Giyu Tomioka	Giyu Tomioka CC		
+845	Shinobu Kocho	Shinobu Kocho CC		
+846	Kyojuro Rengoku	Kyojuro Rengoku CC		
+847	Li'l Sakonji Urokodaki	Li'l Sakonji Urokodaki CC		
+848	Tanjiro Cat	Tanjiro Cat CC		
+849	Nezuko Cat	Nezuko Cat CC		
+850	Fuma Kotaro	Kriegsgott Kotaro		
+851	Zeitungsjungenkatze	Schnäppchenkatze		
+852	Killer-Stärlingskatze	Wahre Killer-Stärlingskatze		
+853	Okkultistenkatze	Mädchenkatze		

@@ -446,8 +446,8 @@
 445	Wahre-Form-Entwicklung erhöht<br>Angriffskraft und gewährt<br>Immunität gegen Wellen!
 446	Wahre-Form-Entwicklung gewährt<br>Zufallsangriff-Fähigkeiten!<br>
 447	Wahre-Form-Entwicklung erhöht<br>Verteidigung & Angriffskraft und<br>gewährt Abwehrbrecher-Fähigkeiten!
-448	Wahre-Form-Entwicklung erhöht Gesundheit<br>und Angriffskraft! Erhält Kolosstöter,<br>lähmt & wird immun gg. Schwächen!
-449	<br><br>
+448	Wahre-Form-Entwicklung erhöht Gesundheit<br>und Angriffskraft! Erhält Kolosstöter,<br>& Immun gg. Schwächen & Verlangsamung!
+449	Wahre Form erhält erhöhte Vitalität,<br>Angriffskraft und Reichweite, Kolosstöter<br>Einfrieren und Immunität gegen Explosionen!
 450	Wahre-Form-Entwicklung erh. Vert.!<br>Erhält Immunität gegen Rückstoß und Gift<br>sowie Kolosstöter!
 451	<br><br>
 452	<br><br>
@@ -566,7 +566,7 @@
 565	Wahre Form gewährt erhöhte<br>Verteidigung und schnelleres Tempo!<br>
 566	Wahre Form gewährt Behemothtöter!<br><br>
 567	<br><br>
-568	Wahre Form gewährt erhöhte Verteidigung!<br>Zudem irrer Schaden gegen Relikte<br>und erhält „Weiser Töter“-	<br><br>
+568	Wahre Form gewährt erhöhte Verteidigung!<br>Zudem irrer Schaden gegen Relikte<br>und erhält „Weiser Töter“-
 569	Wahre-Form-Entwicklung erhöht Vert.,<br>und Angriffskraft!<br>Verteidigung und die Wellenangriffsfläche!
 570	Wahre-Form-Entwicklung gewährt<br>garantierten Rückstoß/Lähmen gg.<br>Zombies und Aliens.
 571	<br><br>
@@ -838,3 +838,17 @@
 837	<br><br>
 838	<br><br>
 839	<br><br>
+840	<br><br>
+841	<br><br>
+842	<br><br>
+843	<br><br>
+844	<br><br>
+845	<br><br>
+846	<br><br>
+847	<br><br>
+848	<br><br>
+849	<br><br>
+850	<br><br>
+851	<br><br>
+852	<br><br>
+853	<br><br>

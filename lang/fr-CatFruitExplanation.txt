@@ -446,8 +446,8 @@
 445	La forme ultime gagne une puissance<br>d’attaque augmentée et l'immunité<br>aux vagues !
 446	La forme ultime gagne des capacités<br>de réplique offensive !<br>
 447	La forme ultime augmente la<br>puissance d’attaque et de défense<br>et donne la capacité brise-barrière !
-448	La forme ultime améliore vitalité et<br>attaque + Fléau des colosses, ralentit,<br>immunise contre Affaiblissement !
-449	<br><br>
+448	La forme ultime améliore vitalité et<br>attaque + Fléau des colosses, ralentit,<br>contre affaiblissement et ralentit !
+449	La forme originelle gagne en vitalité et<br>en portée d'attaque, Tueur de colosses.<br>S'arrêter donne immunité aux explosions !
 450	La forme ultime a une meilleure défense.<br>Elle l'immunise contre recul/toxique<br>et lui donne Fléau des colosses !
 451	<br><br>
 452	<br><br>
@@ -566,7 +566,7 @@
 565	La forme ultime augmente ses<br>vitesses de défense et de déplacement.<br>
 566	La forme ultime gagne Fléau de Béhémoths !<br><br>
 567	<br><br>
-568	La forme ultime augmente la défense !<br>Inflige des dégâts insensés aux reliques<br>et confère Fléau des Sages !	<br><br>
+568	La forme ultime augmente la défense !<br>Inflige des dégâts insensés aux reliques<br>et confère Fléau des Sages !
 569	La forme ultime augmente la défense,<br>la défense et la puissance d’attaque !<br>la défense et élargit la vague offensive.
 570	La forme ultime gagne<br>100 % de chances de repousser/ralentir<br>zombies et aliens.
 571	<br><br>
@@ -838,3 +838,17 @@
 837	<br><br>
 838	<br><br>
 839	<br><br>
+840	<br><br>
+841	<br><br>
+842	<br><br>
+843	<br><br>
+844	<br><br>
+845	<br><br>
+846	<br><br>
+847	<br><br>
+848	<br><br>
+849	<br><br>
+850	<br><br>
+851	<br><br>
+852	<br><br>
+853	<br><br>

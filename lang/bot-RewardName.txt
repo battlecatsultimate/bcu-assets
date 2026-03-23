@@ -230,6 +230,11 @@
 239|I462	Treasure Chest (Bronze)
 240|I463	Treasure Chest (Silver)
 241|I464	Treasure Chest (Gold)
+242|S242|I465	Love Letter
+243|S243|I466	Legendary Starshine
+244|I467	Treasure Chest (Bronze)
+245|I468	Treasure Chest (Silver)
+246|I469	Treasure Chest (Gold)
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -299,6 +304,8 @@
 1070	Killer Gross Cat
 1071	Master of Logic Newton
 1072	Carpenter Cat
+1074	Paperboy Cat
+1075	Killer Cowbird Cat
 1100	Bronze Cat
 1101	Space Cat
 1102	Rope Jump Cat
@@ -357,6 +364,7 @@
 1184	Kenshin Cat
 1185	Master of Life Dr. Nova
 1186	Sonic Cat
+1187	Tanjiro Cat
 10010	Beefcake Cat
 10011	Dancer Cat
 10012	Hyper Mr.
@@ -635,6 +643,7 @@
 15447	Neo Backhoe Cat
 15448	Neo Saw Cat
 15449	Immortal Miyamoto
+15450	Divine Jeanne ψ
 15451	God-Emperor Babel
 15457	Dark Sakura CC
 15468	Super S-Zeus
@@ -1047,3 +1056,8 @@
 30302	First Bounty Up B
 30303	First Bounty Up A
 30304	First Bounty Up S
+30305	Resists Explosions D
+30306	Resists Explosions C
+30307	Resists Explosions B
+30308	Resists Explosions A
+30309	Resists Explosions S

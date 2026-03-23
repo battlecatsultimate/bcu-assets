@@ -184,7 +184,7 @@
 183	Cybercorno
 184	Signora Celebribau
 185	Dottor F.
-186	Torta canina anniv. 110M download
+186	Torta canina anniv. 111M download
 187	
 188	
 189	MARS PEOPLE
@@ -674,7 +674,7 @@
 673	
 674	Uril esoterico
 675	SOL DAE ROKKER
-676	
+676	Cane Dragone
 677	Maestro della mente Sokrate
 678	
 679	Canenstein
@@ -759,3 +759,17 @@
 758	
 759	
 760	Cane destriero
+761	Rui
+762	Enmu
+763	Akaza
+764	Demon Doge
+765	Demon Gory
+766	Demon Teacher Bear
+767	
+768	Mo Ralista
+769	Triplice pennuto
+770	Gatto uccellomucca assassino
+771	Faccia d'oro
+772	
+773	
+774	

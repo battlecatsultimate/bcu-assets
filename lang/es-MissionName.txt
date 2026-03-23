@@ -921,11 +921,11 @@
 9563	【100 M DCS】Supera la Oleada de regalos
 9564	Cualquier fase cuenta para el cómputo total
 9565	Cualquier fase cuenta para el cómputo total
-9566	Cualquier fase de Días Escolares cuenta para el total
-9567	Cualquier fase de Festival de Latidos cuenta para el total
-9568	Cualquier fase de Excursión cuenta para el cómputo total
-9569	Cualquier fase de Día de Graduación cuenta para el total
-9570	Cualquier fase de Finde: Confesión cuenta para el total
+9566	【Gatacademia de Latidos】¡Supera fases
+9567	【Gatacademia de Latidos】¡Supera fases
+9568	【Gatacademia de Latidos】¡Supera fases
+9569	【Gatacademia de Latidos】¡Supera fases
+9570	【Gatacademia de Latidos】¡Supera fases
 80	Desbloquea talentos de la Gata Valquiria Sagrada. Supera la Prueba de la Gata Valquiria para desbloquearlos
 81	Desbloquea talentos del Gato Bégimo Alzado. Supera la Prueba del Gato Bégimo Alzado para desbloquearlos
 9571	Clear 9 Baki Hanma collab stages
@@ -983,6 +983,27 @@
 9638	Clear any Street Fighter 6 collab
 9639	Clear any Street Fighter 6 collab
 9640	Clear any Street Fighter 6 collab
+9657	Clear any Valentine's Event
+9658	Clear any Valentine's Event
+9659	Clear any Valentine's Event
+9660	Clear any Demon Slayer: Kimetsu no Yaiba
+9661	Clear any Demon Slayer: Kimetsu no Yaiba
+9662	Clear any Demon Slayer: Kimetsu no Yaiba
+9663	Clear Demon Slayer: Kimetsu no Yaiba. Special Missions ① - ④ and earn a Rare Ticket!
+9664	Clear Demon Slayer: Kimetsu no Yaiba Special. Mission ①: Slay the Demon Teacher Bear!
+9665	Clear Demon Slayer: Kimetsu no Yaiba Special. Mission ②: Slay Rui!
+9666	Clear Demon Slayer: Kimetsu no Yaiba Special. Mission ③: Slay Enmu!
+9667	Clear Demon Slayer: Kimetsu no Yaiba Special. Mission ④: Slay Akaza!
+9673	【Gatacademia de Latidos】¡Supera fases
+9674	【111 M DCS】¡Completa todas las misiones de evento. para ganar 1 tique raro!
+9675	【111 M DCS】Envía a Gamatoto a 17 excursiones exitosas:
+9676	【111 M DCS】Envía a Gamatoto a 17 excursiones exitosas:
+9677	【111 M DCS】Envía a Gamatoto a 17 excursiones exitosas:
+9678	【111 M DCS】Supera la Oleada de regalos
+9679	【111 M DCS】Supera la Oleada de regalos
+9680	【111 M DCS】Supera la Oleada de regalos
+9681	【111M DCS】
+9682	【111M DCS】
 9668	(Cada día podrás utilizar un tique gratis)
 9669	【Progreso】
 9670	【Progreso】¡Envía a Gamatoto a 17 excursiones exitosas!

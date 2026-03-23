@@ -184,7 +184,7 @@
 183	Cyberhorn
 184	Prinzessin Promi-Pudel
 185	Professor A.
-186	110-Mio.-DL-Hundekuchen zum Jubiläum
+186	111-Mio.-DL-Hundekuchen zum Jubiläum
 187	
 188	
 189	MARS PEOPLE
@@ -674,7 +674,7 @@
 673	
 674	Esoterischer Uril
 675	SOL DAE ROKKER
-676	
+676	Drachenhund
 677	Meister der Gedanken Soraktes
 678	
 679	Hundenstein
@@ -759,3 +759,17 @@
 758	
 759	
 760	Pferdehund
+761	Rui
+762	Enmu
+763	Akaza
+764	Demon Doge
+765	Demon Gory
+766	Demon Teacher Bear
+767	
+768	Le’Prüde
+769	Hühner-Haudegen
+770	Killer-Stärlingskatze
+771	Das goldene Gesicht
+772	
+773	
+774	

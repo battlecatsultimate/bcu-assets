@@ -446,8 +446,8 @@
 445	True form evolution gains<br>increased Attack power, and<br>Immunity to Waves!
 446	True form evolution gains<br>Surge Attack abilities!<br>
 447	True form evolution increases<br>Defense & Attack power, and<br>gains Barrier Breaker abilities!
-448	True Form evolution gains increased<br>Vitality and attack power! Gains Colossus<br>Slayer, Slows, and immunity to Weaken!
-449	<br><br>
+448	True Form evolution gains increased<br>Vitality and attack power! Gains Colossus<br>Slayer and immunity to Weaken and Slow!
+449	True Form gains increased Vitality,<br>attack power and range, Colossus Slayer<br>and immune to Freeze and Explosions!
 450	True Form evolution gains increased defense!<br>Also gains immunity to Knockback and Toxic,<br>and gains Colossus Slayer!
 451	<br><br>
 452	<br><br>
@@ -566,7 +566,7 @@
 565	True Form gains increased<br>defense and faster movement speed!<br>
 566	True Form gains Behemoth Slayer!<br><br>
 567	<br><br>
-568	True Form gains improved defense!<br>Also deals Insane damage to Relics<br>and gains Sage Slayer!	<br><br>
+568	True Form gains improved defense!<br>Also deals Insane damage to Relics<br>and gains Sage Slayer!
 569	True Form evolution gains improved<br>Defense and Attack Power!<br>Also gains a wider Wave Attack area!
 570	True Form evolution gains<br>100% Knockback/Slow<br>Zombies and Aliens
 571	<br><br>
@@ -838,3 +838,17 @@
 837	<br><br>
 838	<br><br>
 839	<br><br>
+840	<br><br>
+841	<br><br>
+842	<br><br>
+843	<br><br>
+844	<br><br>
+845	<br><br>
+846	<br><br>
+847	<br><br>
+848	<br><br>
+849	<br><br>
+850	<br><br>
+851	<br><br>
+852	<br><br>
+853	<br><br>

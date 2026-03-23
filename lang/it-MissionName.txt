@@ -926,11 +926,11 @@
 9563	【100M DL】Supera Regali a fiumi Festa 100M DL! 9 volte! ()
 9564	【100M DL】Supera 0 liv. di "The Battle Cats". Qualunque liv. vale ai fini del conteggio totale. ()
 9565	【100M DL】Supera 0 liv. di "The Battle Cats". Qualunque liv. vale ai fini del conteggio totale. ()
-9566	Supera 9 liv. di "Stagione 1: Giorni di scuola". Qualunque liv. vale ai fini del conteggio totale. ()
-9567	Supera 9 liv. di "Stagione 2: Festival del Batticuore". Qualunque liv. vale ai fini del conteggio totale. ()
-9568	Supera 9 liv. di "Stagione 3: Gita". Qualunque liv. vale ai fini del conteggio totale. ()
-9569	Supera 9 liv. di "Stagione 4: Diploma". Qualunque liv. vale ai fini del conteggio totale. ()
-9570	Supera 9 liv. di "Weekend: Dichiarazione". Qualunque liv. vale ai fini del conteggio totale. ()
+9566	【Miaoccademia Batticuore】Supera Stagione 1: Giorni. di scuola 9 volte! ()
+9567	【Miaoccademia Batticuore】Supera Stagione 2: Festival. del Batticuore 9 volte! ()
+9568	【Miaoccademia Batticuore】Supera Stagione 3: Gita. 9 volte! ()
+9569	【Miaoccademia Batticuore】Supera Stagione 4: Diploma. 9 volte! ()
+9570	【Miaoccademia Batticuore】Supera Weekend: Dichiarazione. 9 volte! ()
 80	Sblocca i talenti per la Gatta Valchiria Sacra. Supera la Prova della Gatta Valchiria per sbloccare
 81	Sblocca i talenti per il Gatto Bahamut risvegliato. Supera la Prova del Gatto Bahamut risvegliato per sbloccare
 9571	Clear 9 Baki Hanma collab stages
@@ -990,6 +990,27 @@
 9638	Clear any Street Fighter 6 collab
 9639	Clear any Street Fighter 6 collab
 9640	Clear any Street Fighter 6 collab
+9657	Clear any Valentine's Event
+9658	Clear any Valentine's Event
+9659	Clear any Valentine's Event
+9660	Clear any Demon Slayer: Kimetsu no Yaiba
+9661	Clear any Demon Slayer: Kimetsu no Yaiba
+9662	Clear any Demon Slayer: Kimetsu no Yaiba
+9663	Clear Demon Slayer: Kimetsu no Yaiba. Special Missions ① - ④ and earn a Rare Ticket!
+9664	Clear Demon Slayer: Kimetsu no Yaiba Special. Mission ①: Slay the Demon Teacher Bear!
+9665	Clear Demon Slayer: Kimetsu no Yaiba Special. Mission ②: Slay Rui!
+9666	Clear Demon Slayer: Kimetsu no Yaiba Special. Mission ③: Slay Enmu!
+9667	Clear Demon Slayer: Kimetsu no Yaiba Special. Mission ④: Slay Akaza!
+9673	【Miaoccademia Batticuore】Supera Dopo scuola: lettere d'amore. 9 volte! ()
+9674	【111M DL】Supera tutte le missioni evento. e ottieni 1 biglietto raro!
+9675	【111M di download】Manda Gamatoto in 17 spedizioni riuscite! (Completa 1 spedizione in un'area Gamatoto: )
+9676	【111M di download】Manda Gamatoto in 17 spedizioni riuscite! (Completa 3 spedizioni in un'area Gamatoto: )
+9677	【111M di download】Manda Gamatoto in 17 spedizioni riuscite! (Completa 5 spedizioni in un'area Gamatoto: )
+9678	【111M DL】Supera Regali a fiumi per i 111M di DL! 9 volte! ()
+9679	【111M DL】Supera Regali a fiumi per i 111M di DL! 9 volte! ()
+9680	【111M DL】Supera Regali a fiumi per i 111M di DL! 9 volte! ()
+9681	【111M DL】. Supera qualsiasi livello di The Battle Cats (0). ()
+9682	【111M DL】. Supera qualsiasi livello di The Battle Cats (0). ()
 9668	【Progresso】Sorteggia una Miaocapsula 0 volte! (Un miaobiglietto gratis al giorno da usare una volta)
 9669	【Progresso】. Supera 0 livello/i di The Battle Cats
 9670	【Progresso】Manda Gamatoto in 17 spedizioni riuscite! (Completa 3 spedizioni in un'area Gamatoto: )
