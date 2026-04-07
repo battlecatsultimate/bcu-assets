@@ -425,7 +425,7 @@
 424
 425
 426	Mecha-Bun	Mecha-Bun Mk II	Ultimate Mecha-Bun
-427	Cat Clan Heroes	Cat Guild Heroes	Cat Quest Heroes
+427	Cat Clan Heroes	Cat Guild Heroes	Cat Quest Heroes	Cat Quest Heaven
 428	Souma Cat	Stylish Souma Cat
 429	Otaku Geek Cat	Hacker Geek Cat
 430
@@ -717,7 +717,7 @@
 716	Ancient Egg: N111	Mystic Egg: N111	Cop Cat
 717	Ancient Egg: N110	Amber Egg: N110	Farmboy Cat
 718	Maize Cat	Cone Cat
-719	Tekachi	Tetsukachi	
+719	Tekachi	Tetsukachi	Kantetsukachi
 720	Ancient Egg: N006	Devil Egg: N006	Fallen Bear Cat
 721	High School Kingpin Riki	Dodgeball Riki	
 722	Hatsune Miku XVI	Hatsune Miku XVI CC	
@@ -852,3 +852,10 @@
 851	Paperboy Cat	Bargain Cat		
 852	Killer Cowbird Cat	True Killer Cowbird Cat		
 853	Occultist Cat	Gyaru Cat		
+854	Sage of Selection Darvin	Sage of Selection Nyavin
+855	Darvin Spirit
+856	Nyanko Village Cat	Nyanko Village Cat CC
+857	Barista Cat	Cat Silver
+858	Commander Cat	Cat Gold
+859	Lone Moon Knight Lunos	New Moon Knight Dark Lunos
+860	Dark Lunos Spirit

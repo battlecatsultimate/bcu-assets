@@ -102,6 +102,7 @@ E44	萬聖節派對！ 特別★活動轉蛋
 E45	Cat Rangers Event Capsules
 E47	心動時分貓咪學園
 E48	Download Celebration Capsules
+E49	Cat Rangers Event Capsules
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -1049,3 +1050,9 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 1048	-107
 1049	-1018
 1050	-2033
+1051	-112
+1052	-1007
+1053	-1008
+1054	-1015
+1055	-1020
+1056	-106

@@ -769,3 +769,9 @@
 769	Poultrio
 770	Killer Cowbird Cat
 771	The Golden Face
+772	Sage of Selection Darvin
+773	Nyanko Village Cat
+774	Tree Base
+775	Manipulated Cat Silver
+776	Maniuplated Cat Gold
+777	Alluring Mage Vivon

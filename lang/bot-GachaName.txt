@@ -106,6 +106,7 @@ E44	Halloween Party Capsules
 E45	Cat Rangers Event Capsules
 E47	Love Letter Capsules
 E48	Download Celebration Capsules
+E49	Cat Rangers Event Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -1038,3 +1039,9 @@ N65	Cats Eye Capsules
 1048	-107
 1049	-1018
 1050	-2033
+1051	-112
+1052	-1007
+1053	-1008
+1054	-1015
+1055	-1020
+1056	-106
