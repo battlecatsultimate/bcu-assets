@@ -64,14 +64,14 @@
 063	<br><br>
 064	<br><br>
 065	<br><br>
-066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Black enemies!
+066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Dark enemies!
 067	La forme ultime augmente la défense !<br>Att. ennemies : immunisent contre le recul.<br>
 068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!	True Form evolution increases<br>improved defense and attack<br>power, and faster attack rate!
 069	<br><br>
 070	<br><br>
 071	La forme ultime augmente l'attaque<br>et la vit. de déplac. est plus rapide.<br>
 072	La forme ultime augmente toutes<br>les caractéristiques et permet<br>de booster la puissance d’attaque.
-073	La forme ultime augmente fortement la<br>défense, la puissance d’att. et une durée<br>d’immob. des ennemis noirs accrues !	L'ultra forme gagne un bonus de défense !<br>Plus immobilisation contre Akus et<br>contre-réplique !
+073	La forme ultime augmente fortement la<br>défense, la puissance d’att. et une durée<br>d’immob. des ennemis ombres accrues !	L'ultra forme gagne un bonus de défense !<br>Plus immobilisation contre Akus et<br>contre-réplique !
 074	<br><br>
 075	La forme ultime augmente fortement<br>la défense, la vitesse de déplacement,<br>la puissance d’attaque et la portée.	L'ultra forme gagne un bonus de portée,<br>de vitesse de déplacement/d'attaque, et fait<br>des dégâts insensés aux ennemis flottants !
 076	La forme ultime augmente la défense,<br>la vitesse de déplacement, la puissance<br>d’attaque et la portée !	L’ultra forme augmente les capacités !<br>Et zone d’attaque augmentée, survit aux<br>coups fatals, immun. Ralent. et Affaibl.
@@ -143,7 +143,7 @@
 142	<br><br>
 143	La forme ultime augmente fortement<br>la vitesse de déplacement. Elle accroie<br>aussi la défense, l'attaque et la portée.
 144	La forme ultime gagne en<br>zone d’attaque, en dégâts d’attaque<br>et en portée des vagues offensives.
-145	La forme ultime améliore la déf., la portée<br>et la puissance d’attaque. Les ennemis<br>noirs sont ralentis plus longtemps.
+145	La forme ultime améliore la déf., la portée<br>et la puissance d’attaque. Les ennemis<br>ombres sont ralentis plus longtemps.
 146	La forme ultime gagne fortement en<br>puissance d’attaque et en défense.<br>Augm. les chances de repousser les anges.
 147	La forme ultime ralentit la vitesse<br>de déplacement, mais booste la défense,<br>la puissance d’attaque et la portée.
 148	La forme ultime augmente la défense<br>et la puissance d’attaque !<br>
@@ -186,7 +186,7 @@
 185	La forme ultime améliore la défense,<br>la vit. de déplacement, la portée d’att.<br>et les chances d’attaque critique !
 186	<br><br>
 187	La forme ultime améliore la déf. et la vit.<br>d'attaque. Affaibl. de la puissance d’att.<br>Peut esquiver les attaques des anges.
-188	La forme ultime améliore son attaque !<br>100 % de chances de ralentir <br>les ennemis noirs et Akus.
+188	La forme ultime améliore son attaque !<br>100 % de chances de ralentir <br>les ennemis ombres et Akus.
 189	<br><br>
 190	<br><br>
 191	<br><br>
@@ -220,12 +220,12 @@
 219	<br><br>
 220	<br><br>
 221	<br><br>
-222	True form evolution gains improved defense!<br>Also gain Strong vs. Black and gains<br>immunity to Warp effects.
+222	True form evolution gains improved defense!<br>Also gain Strong vs. Dark and gains<br>immunity to Warp effects.
 223	True form evolution gains improved defense!<br>Also gains Surge Attacks and Barrier Break!<br>
 224	True Form evolution gains Resistance<br>vs. Traitless, and may sometimes<br>Knockback enemies!
 225	True Form evolution gains improved attack<br>and defense! Also lower deployment cost!<br>
 226	La forme ultime n'att. que les aliens, mais<br>la déf. et la puiss. d'att. sont fortement<br>améliorées. Résist. aux malus répétés.
-227	La forme ultime est plus efficace contre les<br>ennemis noirs ! Gagne en plus Fléau des<br>Béhémoths !
+227	La forme ultime est plus efficace contre les<br>ennemis ombres ! Gagne en plus Fléau des<br>Béhémoths !
 228	La forme ultime confère bloque-vagues<br>et immun. Vagues.<br>
 229	<br><br>
 230	<br><br>
@@ -273,7 +273,7 @@
 272	La forme ultime améliore<br>la défense ! Puissance d’attaque augmentée<br>après avoir subi des dégâts.
 273	<br><br>
 274	<br><br>
-275	La forme ultime ajoute 100 % de chances<br>de repousser/ralentir les anges/noirs !<br>Aussi Immun. Vagues. !
+275	La forme ultime ajoute 100 % de chances<br>de repousser/ralentir les anges/ombres !<br>Aussi Immun. Vagues. !
 276	La forme ultime améliore<br>la puissance d’attaque.<br>
 277	<br><br>
 278	<br><br>
@@ -336,7 +336,7 @@
 335	La forme ultime améliore la puissance<br>d’attaque et la défense ! Ennemis rouges<br>affaiblis plus longtemps !
 336	La forme ultime améliore la vitesse<br>d’attaque et le recul des ennemis.<br>
 337	True Form evolution gains improved<br>defense, move speed and attack!<br>	True Form evolution increases<br>defense, move speed and attack!<br>
-338	La forme ultime améliore la défense<br>et la portée d’attaque, et affaiblit<br>les ennemis noirs plus longtemps.
+338	La forme ultime améliore la défense<br>et la portée d’attaque, et affaiblit<br>les ennemis ombres plus longtemps.
 339	<br><br>
 340	<br><br>
 341	True Form evolution increases Defense and<br>Attack Power! Gains immunity to Knockback<br>and the Barrier Breaker ability!
@@ -425,7 +425,7 @@
 424	<br><br>
 425	<br><br>
 426	La forme ultime améliore la puissance<br>d’att et la déf. Immunité aux malédictions.<br>Efficace contre les ennemis reliques.
-427	La forme ultime améliore la défense<br>et prolonge les malus. Affaiblissement des<br>reliques et une immunité aux malédictions.
+427	La forme ultime améliore la défense<br>et prolonge les malus. Affaiblissement des<br>reliques et une immunité aux malédictions.	L’ultra forme voit sa santé augmenter,<br>tout comme la portée de ses explosions !<br>Gagne aussi l’immunité aux vagues !
 428	<br><br>
 429	<br><br>
 430	<br><br>
@@ -466,7 +466,7 @@
 465	<br><br>
 466	<br><br>
 467	True Form evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
-468	True Form evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Black enemies!
+468	True Form evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Dark enemies!
 469	True Form evolution gains improved<br>defense and knock-back rate!<br>Plus, faster movement speed!
 470	<br><br>
 471	<br><br>
@@ -672,7 +672,7 @@
 671	<br><br>
 672	<br><br>
 673	<br><br>
-674	La forme ultime améliore son attaque et<br>gagne aussi une grande défense contre<br>les ennemis noirs et zombies !
+674	La forme ultime améliore son attaque et<br>gagne aussi une grande défense contre<br>les ennemis ombres et zombies !
 675	La forme ultime révèle son aspect final !<br>Et gagne Fléau des Béhémoths !<br>
 676	La forme ultime révèle son aspect final !<br>Et gagne Fléau des Béhémoths !<br>
 677	<br><br>
@@ -717,7 +717,7 @@
 716	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
 717	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
 718	<br><br>
-719	<br><br>
+719	La forme ultime augmente la santé,<br>la puissance d’attaque, la vitesse de<br>déplacement et les chances d’esquive !
 720	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
 721	<br><br>
 722	<br><br>
@@ -852,3 +852,10 @@
 851	<br><br>
 852	<br><br>
 853	<br><br>
+854	<br><br>
+855	<br><br>
+856	<br><br>
+857	<br><br>
+858	<br><br>
+859	<br><br>
+860	<br><br>

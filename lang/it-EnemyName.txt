@@ -49,7 +49,7 @@
 048	San Suino II
 049	J.K. Bum-bum
 050	Bum-bum nero
-051	Gory nero
+051	Gory oscuro
 052	Pugile K oscuro
 053	Kurosawah il regista
 054	Super Metallippo
@@ -68,7 +68,7 @@
 067	Orsi e rimorsi
 068	
 069	Ciclone bianco
-070	Ciclone nero
+070	Ciclone oscuro
 071	Metalliciclone
 072	
 073	
@@ -489,7 +489,7 @@
 488	Akuma
 489	
 490	
-491	Okame nera
+491	Okame mascherata
 492	Papuu araldo celestiale
 493	Regina Madre V
 494	
@@ -580,7 +580,7 @@
 579	Incubator
 580	Vento bianco
 581	Vento rosso
-582	Vento nero
+582	Vento oscuro
 583	Medu-san
 584	Miss Diavolo
 585	Sathankhamun VIII
@@ -770,6 +770,11 @@
 769	Triplice pennuto
 770	Gatto uccellomucca assassino
 771	Faccia d'oro
-772	
+772	Saggio della selezione Darvin
 773	
 774	
+775	
+776	
+777	
+778	
+779	

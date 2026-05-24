@@ -1004,6 +1004,9 @@
 9680	【111 M DCS】Supera la Oleada de regalos
 9681	【111M DCS】
 9682	【111M DCS】
+9683	Superferia (semana 1)
+9684	Superferia (semana 2)
+9685	Superferia (semana 3)
 9668	(Cada día podrás utilizar un tique gratis)
 9669	【Progreso】
 9670	【Progreso】¡Envía a Gamatoto a 17 excursiones exitosas!

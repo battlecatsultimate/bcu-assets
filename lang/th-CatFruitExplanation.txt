@@ -64,7 +64,7 @@
 063	<br><br>
 064	<br><br>
 065	<br><br>
-066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Black enemies!
+066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Dark enemies!
 067	การวิวัฒน์ร่างจริงทำให้เพิ่มการป้องกัน!<br>ภูมิต้านกระแทกกลับจากการโจมตีของศัตรู<br>
 068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!	True Form evolution increases<br>improved defense and attack<br>power, and faster attack rate!
 069	<br><br>
@@ -117,7 +117,7 @@
 116	<br><br>
 117	<br><br>
 118	<br><br>
-119	ร่างจริงเพิ่มการป้องกันได้ดีขึ้นอย่างมาก<br>อาจลดทอนศัตรูสีดำ รับ<br>ภูมิต้านชะลอและมือสังหารยักษ์!	<br><br>
+119	ร่างจริงเพิ่มการป้องกันได้ดีขึ้นอย่างมาก<br>อาจลดทอนศัตรูสีดำ รับ<br>ภูมิต้านชะลอและมือสังหารยักษ์!
 120	<br><br>
 121	<br><br>
 122	<br><br>
@@ -220,7 +220,7 @@
 219	<br><br>
 220	<br><br>
 221	<br><br>
-222	True form evolution gains improved defense!<br>Also gain Strong vs. Black and gains<br>immunity to Warp effects.
+222	True form evolution gains improved defense!<br>Also gain Strong vs. Dark and gains<br>immunity to Warp effects.
 223	True form evolution gains improved defense!<br>Also gains Surge Attacks and Barrier Break!<br>
 224	True Form evolution gains Resistance<br>vs. Traitless, and may sometimes<br>Knockback enemies!
 225	True Form evolution gains improved attack<br>and defense! Also lower deployment cost!<br>
@@ -425,7 +425,7 @@
 424	<br><br>
 425	<br><br>
 426	การวิวัฒน์ร่างจริงจะเพิ่มพลังโจมตี!<br>และการป้องกัน พร้อมมีภูมิต่อ <br>คำสาป และเก่งกับศัตรูซากวัตถุ
-427	ร่างจริงทำให้เพิ่มการป้องกันและ<br>มีเอฟเฟกต์ดีบัฟนานขึ้น ลดทอนศัตรูซาก<br>และได้ภูมิต้านทานคำสาป!
+427	ร่างจริงทำให้เพิ่มการป้องกันและ<br>มีเอฟเฟกต์ดีบัฟนานขึ้น ลดทอนศัตรูซาก<br>และได้ภูมิต้านทานคำสาป!	ร่างอัลตร้าได้รับพลังชีวิตเพิ่มและ<br>ระยะโจมตีที่กว้างขึ้นด้วยระเบิด!<br>แล้วยังได้รับภูมิต้านคลื่น!
 428	<br><br>
 429	<br><br>
 430	<br><br>
@@ -466,7 +466,7 @@
 465	<br><br>
 466	<br><br>
 467	True Form evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
-468	True Form evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Black enemies!
+468	True Form evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Dark enemies!
 469	True Form evolution gains improved<br>defense and knock-back rate!<br>Plus, faster movement speed!
 470	<br><br>
 471	<br><br>
@@ -717,7 +717,7 @@
 716	วิวัฒน์ร่างจริงเผยร่างสุดท้ายของมัน!<br>ยังได้รับมือสังหารเบอฮีมอธ!<br>
 717	วิวัฒน์ร่างจริงเผยร่างสุดท้ายของมัน!<br>ยังได้รับมือสังหารเบอฮีมอธ!<br>
 718	<br><br>
-719	<br><br>
+719	ร่างจริงเพิ่มพลังชีวิตและพลังโจมตี!<br>ทั้งยังมีความเร็วเคลื่อนที่เร็วขึ้นและ<br>โอกาสหลบหลีกเพิ่มขึ้น!
 720	วิวัฒน์ร่างจริงเผยร่างสุดท้ายของมัน!<br>ยังได้รับมือสังหารเบอฮีมอธ!<br>
 721	<br><br>
 722	<br><br>
@@ -852,3 +852,10 @@
 851	<br><br>
 852	<br><br>
 853	<br><br>
+854	<br><br>
+855	<br><br>
+856	<br><br>
+857	<br><br>
+858	<br><br>
+859	<br><br>
+860	<br><br>

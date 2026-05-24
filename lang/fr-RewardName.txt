@@ -62,7 +62,7 @@
 64|S64	Portefeuille Chadjoint
 65|S65	Défense de la base
 66|S66	Recherche
-67|S67	Rentabilité
+67|S67	Butin ↑
 68|S68	Expertise
 69|S69	Charburant
 70|S70	Cat Ally: Dummy 1
@@ -235,6 +235,12 @@
 244|I467	Coffre au trésor (bronze)
 245|I468	Coffre au trésor (argent)
 246|I469	Coffre au trésor (or)
+249|I471	Coffre au trésor (bronze)
+250|I472	Coffre au trésor (argent)
+251|I473	Coffre au trésor (or)
+252|I474	Coffre au trésor (bronze)
+253|I475	Coffre au trésor (argent)
+254|I476	Coffre au trésor (or)
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -306,6 +312,7 @@
 1072	Chat charpentier
 1074	Chat livreur de journaux
 1075	Chat vachoiseau tueur
+1076	Maître ès sélection Darvin
 1100	Chat en bronze
 1101	Chastronaute
 1102	Chat corde à sauter
@@ -691,7 +698,7 @@
 15635	Démon chevalier noir
 15643	Lucifer Tout-puissant
 15645	Mekako amour mentholé
-15648	Terun chasseresse divine ζ
+15648	Terun ζ divine
 15650	Hanzo immortel
 15656	Blizarène
 15657	Chat haniwa
@@ -722,6 +729,7 @@
 15716	Super convois offensifs
 15717	Chagent de police
 15718	Chagriculteur
+15720	Adamankachi
 15721	Chat-Ours déchu
 15724	Aset Toute-puissante
 15725	Nacelle-œuf féline

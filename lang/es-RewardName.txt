@@ -62,7 +62,7 @@
 64|S64	Monedero
 65|S65	Defensa de la base
 66|S66	Investigación
-67|S67	Rentabilidad
+67|S67	Recompensa mejorada
 68|S68	Formación
 69|S69	Energía
 70|S70	Cat Ally: Dummy 1
@@ -235,6 +235,12 @@
 244|I467	C. tesoro bronce
 245|I468	Cofre tesoro plata
 246|I469	Cofre tesoro oro
+249|I471	C. tesoro bronce
+250|I472	Cofre tesoro plata
+251|I473	Cofre tesoro oro
+252|I474	C. tesoro bronce
+253|I475	Cofre tesoro plata
+254|I476	Cofre tesoro oro
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -306,6 +312,7 @@
 1072	Gato Carpintero
 1074	Gato del Periódico
 1075	Gatordo Asesino
+1076	Darvin Maestro de Selección
 1100	Gato de Bronce
 1101	Gato Espacial
 1102	Gato con Comba
@@ -690,7 +697,7 @@
 15635	Cíclope Caballero Demoníaco
 15643	Lucifer Todopoderoso
 15645	Mekako Amante Menta
-15648	Terun Cazadora Divina ζ
+15648	Terun Divina ζ
 15650	Hanzo Inmortal
 15656	Ventirena
 15657	Gato Haniwa
@@ -721,6 +728,7 @@
 15716	Convoyes Batallón de Ataque Letal
 15717	Gato Policía
 15718	Gato Granjero
+15720	Adamankachi
 15721	Oso Caído Gatuno
 15724	Aset Todopoderosa
 15725	Vaina de huevo gatuno

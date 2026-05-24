@@ -49,7 +49,7 @@
 048	Sainte Porca II
 049	Rouge Bun Bun
 050	Noir Bun Bun
-051	Gory noir
+051	Gory de l’ombre
 052	Sombrourou
 053	Réal Kurosawah
 054	Super hippo métal
@@ -68,7 +68,7 @@
 067	Les ursidés
 068	
 069	Cyclone blanc
-070	Cyclone noir
+070	Cyclone de l’ombre
 071	Cyclone métal
 072	
 073	
@@ -489,7 +489,7 @@
 488	Akuma
 489	
 490	
-491	Okame noir
+491	Okame masqué
 492	Dabouh lectrice céleste
 493	Relica Regina
 494	
@@ -580,7 +580,7 @@
 579	Incubator
 580	Vent blanc
 581	Vent rouge
-582	Vent noir
+582	Vent de l’ombre
 583	Medu-san
 584	Démon Miz
 585	Sathankhamon VIII
@@ -770,6 +770,11 @@
 769	Poultrio
 770	Chat vachoiseau tueur
 771	Le Visage d’or
-772	
+772	Sage de la sélection Darvin
 773	
 774	
+775	
+776	
+777	
+778	
+779	

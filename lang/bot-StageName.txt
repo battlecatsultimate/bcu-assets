@@ -1247,15 +1247,15 @@
 001-262		River City Three-Leg Race ①
 001-262-000	VS Team White
 001-262-001	VS Team Red
-001-262-002	VS Team Black
+001-262-002	VS Team Dark
 001-263		River City Three-Leg Race ②
 001-263-000	VS Team White
 001-263-001	VS Team Red
-001-263-002	VS Team Black
+001-263-002	VS Team Dark
 001-264		River City Three-Leg Race ③
 001-264-000	VS Team White
 001-264-001	VS Team Red
-001-264-002	VS Team Black
+001-264-002	VS Team Dark
 001-265		Demon's Park
 001-265-000	Frozen Wisdom
 001-265-001	Cursed Lake
@@ -3805,7 +3805,7 @@
 007-001-007	Floor 8
 007-001-008	Floor 9
 007-001-009	Top Floor
-007-002		Black Citadel
+007-002		Dark Citadel
 007-002-000	Floor 1
 007-002-001	Floor 2
 007-002-002	Floor 3
@@ -5728,11 +5728,11 @@
 025-013-000	Summit Shrine (Merciless)
 025-014		Sky Frontier
 025-014-000	Frontier Shrine (Merciless)
-025-015		Black Cradle
+025-015		Dark Cradle
 025-015-000	Cradle Shrine (Deadly)
-025-016		Black Summit
+025-016		Dark Summit
 025-016-000	Summit Shrine (Merciless)
-025-017		Black Frontier
+025-017		Dark Frontier
 025-017-000	Frontier Shrine (Merciless)
 025-018		Holy Cradle
 025-018-000	Cradle Shrine (Deadly)
@@ -6590,6 +6590,20 @@
 034-028-003	Synthol Swamp
 034-028-004	Boulder Shoulder
 034-028-005	Side Chest Isle
+034-029		Artisan's Sanctum
+034-029-000	Aquatic Avant-garde
+034-029-001	Cluttered Calligraphy
+034-029-002	Mosaic Meadow
+034-029-003	Grave Mockery
+034-029-004	Sluggish Sketching
+034-029-005	Crested Colors
+034-030		Eden of Evolution
+034-030-000	Origin Outback
+034-030-001	Natural Rejection
+034-030-002	The Dogma Divide
+034-030-003	Tree of Strife
+034-030-004	The Cullosseum
+034-030-005	Endless Forms Most Beautiful
 
 036			Colosseum Stages
 036-000		Otherworld Colosseum
@@ -6724,6 +6738,12 @@
 036-021-002	Round 3
 036-021-003	Round 4
 036-021-004	Round 5
+036-022		Otherworld Colosseum
+036-022-000	Round 1
+036-022-001	Round 2
+036-022-002	Round 3
+036-022-003	Round 4
+036-022-004	Round 5
 
 037			Catclaw Championships
 037-000		Catclaw Championships Rank 1

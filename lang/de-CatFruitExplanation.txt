@@ -64,14 +64,14 @@
 063	<br><br>
 064	<br><br>
 065	<br><br>
-066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Black enemies!
+066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Dark enemies!
 067	Wahre Form gewährt erhöhte Verteidigung!<br>immun gg. Rückstoß durch feindl. Angriffe.<br>
 068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!	True Form evolution increases<br>improved defense and attack<br>power, and faster attack rate!
 069	<br><br>
 070	<br><br>
 071	Wahre-Form-Entwicklung verstärkt Angriffe!<br>Erhöht zudem das Bewegungstempo.<br>
 072	Wahre-Form-Entwicklung erhöht alle Werte<br>ermöglicht höheren Angriffskraftzuwachs<br>und gewährt Wellenangriff-Immunität!	Wahre-Form-Entwicklung erhöht alle Werte,<br>ermöglicht höheren Angriffskraftzuwachs<br>Angriffskraftzuwachs.
-073	Wahre Form erhöht Verteidigung!<br>Erhöht auch Angriffskraft sowie die Zeit, für<br>die schwarze Feinde eingefroren bleiben!	Ultra-Form erhält verbesserte Verteidigung!<br>Erhält zudem Einfrieren gg. Aku und<br>Konter-Zufallsangriff!
+073	Wahre Form erhöht Verteidigung!<br>Erhöht auch Angriffskraft sowie die Zeit, für<br>die dunkle Feinde eingefroren bleiben!	Ultra-Form erhält verbesserte Verteidigung!<br>Erhält zudem Einfrieren gg. Aku und<br>Konter-Zufallsangriff!
 074	<br><br>
 075	Wahre-Form-Entwicklung erhöht Vert.<br>und Bewegungstempo deutlich und erhöht<br>Angriffskraft und -reichweite.	Wahre-Form erhöht Angriffsreichweite,<br>Bewegungstempo & Angriffsrate und fügt<br>fliegenden Feinden irren Schaden zu!
 076	Wahre-Form-Entwicklung erhöht Vert.<br>und Bewegungstempo sowie Angriffskraft<br>und Angriffsreichweite!	Ultra-Form-Entw. verbessert Fähigkeiten!<br>Vergr. die Angriffsfläche, überl. tödl.<br>Schläge, imm. gg. Lähmung u. Schwächung.
@@ -143,7 +143,7 @@
 142	<br><br>
 143	Wahre-Form-Entwicklung erh. Bewegungs-<br>tempo deutlich! Erhöht zudem Verteidigung,<br>Angriff und Reichweite!
 144	Wahre-Form-Entwicklung erhält größere<br>Angriffsfläche, stärkeren Angriffsschaden<br>und höhere Reichweite für Wellenangriffe!
-145	Wahre-Form-Entw. erhöht Verteidigung,<br>Reichweite und Angriffskraft. Schwarze<br>Feinde werden länger verlangsamt.
+145	Wahre-Form-Entw. erhöht Verteidigung,<br>Reichweite und Angriffskraft. Dunkle<br>Feinde werden länger verlangsamt.
 146	Wahre-Form-Entwicklung gewährt deutlich<br>erhöhte Angriffskraft und Verteidigung.<br>Erhöhte Chance, Engel zurückzustoßen.
 147	Wahre Form senkt Bewegungstempo,<br>aber erhöht Verteidigung, Angriffskraft und<br>Angriffsreichweite deutlich.
 148	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffskraft!<br>
@@ -186,7 +186,7 @@
 185	Wahre-Form-Entwicklung erhöht Vert.<br>Bewegungstempo und Angriffsreichweite!<br>Chance auf Haudrauf-Treffer ist zudem erhöht!
 186	<br><br>
 187	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffstempo, aber Angriffskraft ist<br>niedriger. Kann Engel-Angriffen ausweichen!
-188	Wahre Form erhöht Angriff!<br>Lähmt zudem garantiert <br>schwarze Feinde und Aku.
+188	Wahre Form erhöht Angriff!<br>Lähmt zudem garantiert<br>dunkle Feinde und Aku.
 189	<br><br>
 190	<br><br>
 191	<br><br>
@@ -220,12 +220,12 @@
 219	<br><br>
 220	<br><br>
 221	<br><br>
-222	True form evolution gains improved defense!<br>Also gain Strong vs. Black and gains<br>immunity to Warp effects.
+222	True form evolution gains improved defense!<br>Also gain Strong vs. Dark and gains<br>immunity to Warp effects.
 223	True form evolution gains improved defense!<br>Also gains Surge Attacks and Barrier Break!<br>
 224	True Form evolution gains Resistance<br>vs. Traitless, and may sometimes<br>Knockback enemies!
 225	True Form evolution gains improved attack<br>and defense! Also lower deployment cost!<br>
 226	Wahre Form greift nur Aliens an,<br>aber Verteidigung & Angriffskraft sind höher!<br>Resistent gegen wiederholte Schwächungen.
-227	Wahre-Form-Entwicklung ist stärker gegen<br>schwarze Feinde! Erhält zudem<br>„Behemothtöter“!
+227	Wahre-Form-Entwicklung ist stärker gegen<br>dunkle Feinde! Erhält zudem<br>„Behemothtöter“!
 228	Wahre Form gewährt Wellenschild<br>und Immunität gegen Wellen.<br>
 229	<br><br>
 230	<br><br>
@@ -273,7 +273,7 @@
 272	Wahre-Form-Entwicklung erhöht<br>Verteidigung! Zudem erh. erlittener Schaden<br>die Angriffskraft noch stärker!
 273	<br><br>
 274	<br><br>
-275	Wahre-Form-Entwicklung stößt Engel und<br>Schwarz garantiert zurück und lähmt sie!<br>Außerdem immun gegen Wellen!
+275	Wahre-Form-Entwicklung stößt Engel und<br>Dunkel garantiert zurück und lähmt sie!<br>Außerdem immun gegen Wellen!
 276	Wahre Form erhöht<br>Angriffskraft!<br>
 277	<br><br>
 278	<br><br>
@@ -336,7 +336,7 @@
 335	Wahre-Form-Entwicklung steigert Angriff<br>und Verteidigung! Schwächt rote Feinde<br>für noch längere Zeit!
 336	Wahre-Form-Entwicklung erhöht Angriffs-<br>tempo & Anzahl der Rückstöße gg. Feinde.<br>
 337	True Form evolution gains improved<br>defense, move speed and attack!<br>	True Form evolution increases<br>defense, move speed and attack!<br>
-338	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffsreichweite. Schwächt schwarze<br>Feinde zudem für längere Zeit.
+338	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffsreichweite. Schwächt dunkle<br>Feinde zudem für längere Zeit.
 339	<br><br>
 340	<br><br>
 341	True Form evolution increases Defense and<br>Attack Power! Gains immunity to Knockback<br>and the Barrier Breaker ability!
@@ -425,7 +425,7 @@
 424	<br><br>
 425	<br><br>
 426	Wahre-Form-Entwicklung steigert Angriff<br>und Verteidigung. Gewährt zudem Immunität<br>gegen Flüche. Stark gegen Relikt-Feinde.
-427	Wahre Form erhöht Vert. und gewährt<br>längere Schwächungseffekte. Schwächt<br>Relikte und gewährt Immunität gg. Flüche.
+427	Wahre Form erhöht Vert. und gewährt<br>längere Schwächungseffekte. Schwächt<br>Relikte und gewährt Immunität gg. Flüche.	Ultra-Form hat erhöhte Gesundheit und<br>weitere Angriffsreichweite mit Explos.!<br>Außerdem Immunität gegen Wellenangriffe!
 428	<br><br>
 429	<br><br>
 430	<br><br>
@@ -466,7 +466,7 @@
 465	<br><br>
 466	<br><br>
 467	True Form evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
-468	True Form evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Black enemies!
+468	True Form evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Dark enemies!
 469	True Form evolution gains improved<br>defense and knock-back rate!<br>Plus, faster movement speed!
 470	<br><br>
 471	<br><br>
@@ -672,7 +672,7 @@
 671	<br><br>
 672	<br><br>
 673	<br><br>
-674	Wahre Form erhöht Angriff!<br>Erhält zudem robuste Verteidigung gg.<br>schwarze Feinde und Zombies!
+674	Wahre Form erhöht Angriff!<br>Erhält zudem robuste Verteidigung gg.<br>dunkle Feinde und Zombies!
 675	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
 676	Wahre-Form-Entwicklung enthüllt<br>letzte Form!<br>Erhält zudem „Behemothtöter“!
 677	<br><br>
@@ -717,7 +717,7 @@
 716	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
 717	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
 718	<br><br>
-719	<br><br>
+719	Wahre Form erhöht Ges. und Ang.-kraft!<br>Außerdem höheres Tempo und eine höhere<br>Chance auf Ausweichen!
 720	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
 721	<br><br>
 722	<br><br>
@@ -852,3 +852,10 @@
 851	<br><br>
 852	<br><br>
 853	<br><br>
+854	<br><br>
+855	<br><br>
+856	<br><br>
+857	<br><br>
+858	<br><br>
+859	<br><br>
+860	<br><br>

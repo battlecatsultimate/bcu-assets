@@ -49,7 +49,7 @@
 048	Sir Cerdi II
 049	J. K. Bun Bun
 050	Bun Bun Negro
-051	Gori Negro
+051	Gori Oscuro
 052	Kan Gu Sombra
 053	Emperador Nyandam Oscuro
 054	Hipo Supermetálico
@@ -68,7 +68,7 @@
 067	Osos Temerosos
 068	
 069	Ciclón Blanco
-070	Ciclón Negro
+070	Ciclón Oscuro
 071	Ciclón Metálico
 072	
 073	
@@ -489,7 +489,7 @@
 488	Akuma
 489	
 490	
-491	Careto Okame
+491	Okame Enmascarada
 492	Papuu Heraldo Divino
 493	Abeja Reina Madre
 494	
@@ -580,7 +580,7 @@
 579	Incubator
 580	Viento Blanco
 581	Viento Rojo
-582	Viento Negro
+582	Viento Oscuro
 583	Medu-san
 584	Diablesita
 585	Satankamón VIII
@@ -770,6 +770,11 @@
 769	Orden Triplumífera
 770	Gatordo Asesino
 771	El Careto de Oro
-772	
+772	Darvin Sabio de la Selección
 773	
 774	
+775	
+776	
+777	
+778	
+779	

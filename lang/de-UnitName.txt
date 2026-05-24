@@ -425,7 +425,7 @@
 424				
 425				
 426	Mecha-Bun	Mecha-Bun 2.0	Ultimativer Mecha-Bun	
-427	Katzenklanhelden	Katzengildenhelden	Katzenquesthelden	
+427	Katzenklanhelden	Katzengildenhelden	Katzenquesthelden	Himmlische Katzenhelden
 428	Souma Cat	Stylish Souma Cat		
 429	Otaku Geek Cat	Hacker Geek Cat		
 430				
@@ -645,7 +645,7 @@
 644	Süße-Liebe-Mekako	Bittersüße Mekako	Minzliebe Mekako	
 645	Gehirngewaschene Axtkatze	Gehirngewaschene Kühne Katze	Gehirngewaschene dunkle Katze	
 646	Böllerkatze	Macho-Böllerkatze		
-647	Jägerin Terun	Jägerin Terun ζ	Göttliche Jägerin Terun ζ	
+647	Terun	Terun ζ	Himmlische Terun ζ	
 648	Verliebter Unterdämon	Verliebter Oberdämon		
 649	Hattori Hanzo	Kriegsgott Hanzo	Unsterblicher Hanzo	
 650	Heimlicher-Schwarm-Katze	Freundin-Katze		
@@ -661,7 +661,7 @@
 660	Seeschlange Daliasan	Seekönig Daliasan	Gottkaiser Daliasan	
 661	Chronos die Braut	Hochzeits-Chronos		
 662	Gehirngewaschene Kuhkatze	Gehirngew. Giraffenkatze	Gehirngewaschene Löwenkatze	
-663	Uraltes Ei: N103	Schwarzes Ei: N103	Gasmaskenkatze	
+663	Uraltes Ei: N103	Dunkles Ei: N103	Gasmaskenkatze	
 664	Uraltes Ei: N104	Grünes Ei: N104	Chirurgen-Katze	
 665	Uraltes Ei: N201	Dunkles Ei: N201	Exorzistenkatze	
 666	Nachtstrand-Lilin	Nachtstrand-Lilin π		
@@ -717,7 +717,7 @@
 716	Uraltes Ei: N111	Mystisches Ei: N111	Polizistenkatze	
 717	Uraltes Ei: N110	Bernstein-Ei: N110	Bauernjungenkatze	
 718	Maiskatze	Kegelkatze		
-719	Tekachi	Tetsukachi		
+719	Tekachi	Tetsukachi	Adamankachi	
 720	Uraltes Ei: N006	Teufels-Ei: N006	Gefallene Bärenkatze	
 721	High School Kingpin Riki	Dodgeball Riki		
 722	Hatsune Miku XVI	Hatsune Miku XVI CC		
@@ -731,7 +731,7 @@
 730	Uraltes Ei: N204	Zinnober-Ei: N204	Löwentänzer-Katze	
 731	Tagbrecher Izanagi	Tagbringer Izanagi		
 732				
-733	Pegasa	Pegasa ν	Hat kein Interesse an Plänen und Komplotten der Erwachsenen.	
+733	Pegasa	Pegasa ν		
 734				
 735	Rektor Katze	Midlife-Crisis-Katze		
 736	Eisrosenkatze	Arktisblütenkatze		
@@ -852,3 +852,10 @@
 851	Zeitungsjungenkatze	Schnäppchenkatze		
 852	Killer-Stärlingskatze	Wahre Killer-Stärlingskatze		
 853	Okkultistenkatze	Mädchenkatze		
+854	Selektionsmeister Darwin	Selektionsmeister Hauihn		
+855				
+856				
+857				
+858				
+859	Lunos der einsame Mond	Lunos der Finstere		
+860				

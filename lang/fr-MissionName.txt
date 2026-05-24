@@ -1009,6 +1009,9 @@
 9680	【111 M】 Réussis l’Avalanche de cadeaux des 111 M
 9681	【111 M】 Termine 0 niveau(x) de The Battle Cats
 9682	【111 M】 Termine 0 niveau(x) de The Battle Cats
+9683	Foire premium (semaine 1) :
+9684	Foire premium (semaine 2) :
+9685	Foire premium (semaine 3) :
 9668	Obtiens et utilise un ticket Chapsule gratuit chaque jour
 9669	【Progression】
 9670	【Progression】Réussis 17 expéditions avec Gamatoto !

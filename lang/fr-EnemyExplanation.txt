@@ -284,7 +284,7 @@
 283	
 284	Le défunt père de Toutou, enterré il y a longtemps.<br>Mais il se retourne dans sa tombe en pensant aux études<br>de ses enfants. Seuls d’excellents bulletins de notes<br>lui feront trouver le repos éternel.
 285	Un animal rampant qui se maquille à l’aquarelle<br>pour faire peur (même s’il est déjà mort).<br>Sur le plan académique, il est proche des vers de terre.<br>Des études montrent qu'il s'agit d'une attaque à distance.
-286	Errait près d’un marais empoisonné par une<br>nuit sinistre, et s’est réveillé(e) mort(e)-vivant(e).<br>Ça n’a pas l’air de le (la) déranger.<br>On ne sait toujours pas si c’est un mâle ou une femelle !
+286	Errait près d’un marais empoisonné par une<br>nuit sinistre, et s’est réveillé mort-vivant.<br>Mis à part l’haleine matinale un peu plus fétide,<br>le changement n’a pas l’air de trop l’ennuyer.
 287	Même la mort ne pourrait empêcher cette truie royale<br>de renoncer au trône. Elle porte un crâne sophistiqué<br>à défaut d’avoir pu récupérer sa couronne.<br>Je ne pourris pas, je vieillis tel un bon vin.
 288	Après le bide de son premier film, il ne restait plus<br>à Peng qu’un gros trou à la place du cœur.<br>Les mauvaises critiques ont causé sa perte,<br>et il se vengera des spectateurs ingrats !
 289	Renvoyé du paradis à cause de sa mine patibulaire,<br>Gory erre sur Terre. Quelqu’un lui a scalpé le haut<br>du crâne pendant qu’il jouait au casino, pensant<br>que c’était une perruque. Aïe !
@@ -770,3 +770,9 @@
 769	Ont créé un groupe comique par pur instinct grégaire<br>d’oiseaux solidaires. Privilégiant la quantité à la qualité,<br>ils enchaînent les blagues nulles jusqu’à provoquer<br>le rire du public par pure confusion.
 770	
 771	
+772	A observé notre monde depuis une autre dimension et décidé de<br>soumettre les formes de vie aux épreuves de la sélection.<br>Remontant le fil de la causalité, il s’en prend désormais<br>à l’armée des Chats pour avoir défié les lois de l’évolution.
+773	
+774	
+775	
+776	
+777	

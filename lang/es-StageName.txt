@@ -184,7 +184,7 @@
 000-022		Noche sin Salida
 000-022-000	Banquete de Traición
 000-022-001	Final Catártico
-000-022-002	Premonición Negra
+000-022-002	Premonición Oscura
 000-022-003	Máscara Rota
 000-022-004	Jaula del Ágape
 000-022-005	San Zorro Rojo
@@ -1247,15 +1247,15 @@
 001-262		River City Three-Leg Race ①
 001-262-000	Vs. Equipo Blanco
 001-262-001	Vs. Equipo Rojo
-001-262-002	Vs. Equipo Negro
+001-262-002	Vs. Equipo Oscuro
 001-263		River City Three-Leg Race ②
 001-263-000	Vs. Equipo Blanco
 001-263-001	Vs. Equipo Rojo
-001-263-002	Vs. Equipo Negro
+001-263-002	Vs. Equipo Oscuro
 001-264		River City Three-Leg Race ③
 001-264-000	Vs. Equipo Blanco
 001-264-001	Vs. Equipo Rojo
-001-264-002	Vs. Equipo Negro
+001-264-002	Vs. Equipo Oscuro
 001-265		Parque Demoníaco
 001-265-000	Sabiduría Congelada
 001-265-001	Lago Maldito
@@ -3793,7 +3793,7 @@
 007-001-007	Piso 8
 007-001-008	Piso 9
 007-001-009	Último Piso
-007-002		Ciudadela Negra
+007-002		Ciudadela Oscura
 007-002-000	Piso 1
 007-002-001	Piso 2
 007-002-002	Piso 3
@@ -5716,11 +5716,11 @@
 025-013-000	Santuario Cima (Inhumano)
 025-014		Frontera Voladora
 025-014-000	Santuario Frontera (Inhumano)
-025-015		Base Negra
+025-015		Base Oscura
 025-015-000	Santuario Base (Mortal)
-025-016		Cima Negra
+025-016		Cima Oscura
 025-016-000	Santuario Cima (Inhumano)
-025-017		Frontera Negra
+025-017		Frontera Oscura
 025-017-000	Santuario Frontera (Inhumano)
 025-018		Base Angelical
 025-018-000	Santuario Base (Mortal)
@@ -6578,6 +6578,20 @@
 034-028-003	Synthol Swamp
 034-028-004	Boulder Shoulder
 034-028-005	Side Chest Isle
+034-029		Santuario del Artesano
+034-029-000	Vanguardia Acuática
+034-029-001	Caligrafía Saturada
+034-029-002	Pradera Mosaica
+034-029-003	Burla Macabra
+034-029-004	Dibujo Lento
+034-029-005	Colores Coronados
+034-030		Edén de la Evolución
+034-030-000	Origen del Outback
+034-030-001	Rechazo Natural
+034-030-002	La División del Dogma
+034-030-003	Árbol de la Discordia
+034-030-004	El Cazaseo
+034-030-005	Formas Infinitas de Extraordinaria Belleza
 
 036			Colosseum Stages
 036-000		Coliseo de Otro Mundo
@@ -6712,6 +6726,12 @@
 036-021-002	Round 3
 036-021-003	Round 4
 036-021-004	Round 5
+036-022		Coliseo de Otro Mundo
+036-022-000	Ronda 1
+036-022-001	Ronda 2
+036-022-002	Ronda 3
+036-022-003	Ronda 4
+036-022-004	Ronda 5
 
 037			Campeonatos Afilagarras
 037-000		Campeonatos Afilagarras Rango 1

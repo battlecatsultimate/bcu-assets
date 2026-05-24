@@ -64,14 +64,14 @@
 063	<br><br>
 064	<br><br>
 065	<br><br>
-066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Black enemies!
+066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Dark enemies!
 067	True Form gains increased defense!<br>immunity to Knockback from enemy attacks.<br>
 068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!	True Form evolution increases<br>improved defense and attack<br>power, and faster attack rate!
 069	<br><br>
 070	<br><br>
 071	True Form evolution increases Attack!<br>Also gains faster movement speed.<br>
 072	True Form evolution increases<br>all traits, and allows greater<br>attack power gains.
-073	True Form greatly increases defense!<br>Plus, improves attack power and increases<br>the time Freeze will affect Black enemies!	Ultra Form gains improved Defense!<br>Plus, gains Freeze vs. Aku and<br>Counter-Surge!
+073	True Form greatly increases defense!<br>Plus, improves attack power and increases<br>the time Freeze will affect Dark enemies!	Ultra Form gains improved Defense!<br>Plus, gains Freeze vs. Aku and<br>Counter-Surge!
 074	<br><br>
 075	True Form evolution greatly increases<br>defense and movement speed, as well<br>as increasing attack power and range.	Ultra Form gains improved attack range,<br>move speed and attack rate, and deals<br>Insane damage to Floating enemies!
 076	True Form evolution increases Defense<br>and movement speed, as well as Attack<br>power and Attack range!	Ultra form evolution increases abilities!<br>Also gains increased attack area, Survives<br>fatal blows, immune to Slow and Weaken.
@@ -117,7 +117,7 @@
 116	<br><br>
 117	<br><br>
 118	<br><br>
-119	True Form gains greatly improved defense!<br>Might Weaken Black enemies, gains<br>Immunity to Slow and Colossus Slayer!
+119	True Form gains greatly improved defense!<br>Might Weaken Dark enemies, gains<br>Immunity to Slow and Colossus Slayer!
 120	<br><br>
 121	<br><br>
 122	<br><br>
@@ -143,7 +143,7 @@
 142	<br><br>
 143	True Form evolution greatly increases<br>movement speed! Plus, defense, attack<br>and range increases!
 144	True Form evolution gains larger<br>attack Area, stronger attack damage,<br>and longer Wave attack range!
-145	True Form evolution gains improved<br>defense, range and attack power. Plus,<br>Black enemies are Slowed for longer.
+145	True Form evolution gains improved<br>defense, range and attack power. Plus,<br>Dark enemies are Slowed for longer.
 146	True Form evolution gains significant<br>attack power and increased defense.<br>Increased chance of knockback vs Angels
 147	True Form evolution slows movement<br>speed, but gives a big boost to defense,<br>attack power, and attack range.
 148	True Form evolution increases Defense,<br>and attack power!<br>
@@ -186,7 +186,7 @@
 185	True Form evolution gains improved<br>defense, move speed, and attack range!<br>Critical attack chance is also improved!
 186	<br><br>
 187	True Form evolution gains improved defense<br>and attack speed, but attack power is<br>weakened. Might Dodge Angel attacks!
-188	True Form gains increased Attack!<br>Also gains 100% chance to Slow <br>Black and Aku.
+188	True Form gains increased Attack!<br>Also gains 100% chance to Slow <br>Dark and Aku.
 189	<br><br>
 190	<br><br>
 191	<br><br>
@@ -220,12 +220,12 @@
 219	<br><br>
 220	<br><br>
 221	<br><br>
-222	True form evolution gains improved defense!<br>Also gain Strong vs. Black and gains<br>immunity to Warp effects.
+222	True form evolution gains improved defense!<br>Also gains Strong vs. Dark and gains<br>immunity to Warp effects.
 223	True form evolution gains improved defense!<br>Also gains Surge Attacks and Barrier Break!<br>
 224	True Form evolution gains Resistance<br>vs. Traitless, and may sometimes<br>Knockback enemies!
 225	True Form evolution gains improved attack<br>and defense! Also lower deployment cost!<br>
 226	True Form evolution can attack only Aliens,<br>but defense & attack power is massively <br>increased! Also resists repeated debuffs.
-227	True Form evolution is stronger against<br>Black enemies! Also gains Behemoth<br>Slayer!
+227	True Form evolution is stronger against<br>Dark enemies! Also gains Behemoth<br>Slayer!
 228	True Form gains Wave Shield<br>and Immunity to Waves.<br>
 229	<br><br>
 230	<br><br>
@@ -273,7 +273,7 @@
 272	True Form evolution gains improved<br>defense! Plus, attack power gained<br>after taking damage is increased!
 273	<br><br>
 274	<br><br>
-275	True form evolution adds 100% chance<br>of Knockback and Slow vs Angels/Black!<br>Also immune to Waves!
+275	True form evolution adds 100% chance<br>of Knockback and Slow vs. Angels/Dark!<br>Also immune to Waves!
 276	True Form gains improved<br>attack power!<br>
 277	<br><br>
 278	<br><br>
@@ -287,7 +287,7 @@
 286	True Form Evolution gains improved attack<br>speed, and defense versus Floating enemies<br>is improved from Tough to Insanely Tough!
 287	<br><br>
 288	True Form evolution deals Massive <br>damage to Floating, Zombies and Relics.<br>Also immune to Curses!
-289	True Form evolution is Strong vs. Red,<br>Black and Aku enemies! Also gains<br>Long-range Area attacks!
+289	True Form evolution is Strong vs. Red,<br>Dark and Aku enemies! Also gains<br>Long-range Area attacks!
 290	<br><br>
 291	<br><br>
 292	<br><br>
@@ -336,7 +336,7 @@
 335	True Form evolution gains improved attack<br>power and defense! Plus, Red enemies are<br>weakened for an even longer time!
 336	True form gains improved attack speed<br>and number of Knockbacks against enemies.<br>
 337	True Form evolution gains improved<br>defense, move speed and attack!<br>	True Form evolution increases<br>defense, move speed and attack!<br>
-338	True Form evolution gains improved defense<br>and attack range. Plus, weakens Black<br>enemies for longer lengths of time.
+338	True Form evolution gains improved defense<br>and attack range. Plus, Weakens Dark<br>enemies for longer lengths of time.
 339	<br><br>
 340	<br><br>
 341	True Form evolution increases Defense and<br>Attack Power! Gains immunity to Knockback<br>and the Barrier Breaker ability!
@@ -425,7 +425,7 @@
 424	<br><br>
 425	<br><br>
 426	True Form evolution gains improved attack<br>power and defense. Plus, immune to <br>Curses, and Strong against Relic enemies.
-427	True form improves defense and even<br>longer debuff effects. Weakens Relics,<br>and gains immunity to Curses.
+427	True form improves defense and even<br>longer debuff effects. Weakens Relics,<br>and gains immunity to Curses.	Ultra Form gains improved health and<br>wider attack range with Explosions!<br>Also gains immunity to Waves!
 428	<br><br>
 429	<br><br>
 430	<br><br>
@@ -466,7 +466,7 @@
 465	<br><br>
 466	<br><br>
 467	True Form evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
-468	True Form evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Black enemies!
+468	True Form evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Dark enemies!
 469	True Form evolution gains improved<br>defense and knock-back rate!<br>Plus, faster movement speed!
 470	<br><br>
 471	<br><br>
@@ -672,7 +672,7 @@
 671	<br><br>
 672	<br><br>
 673	<br><br>
-674	True Form gains increased attack!<br>Also gains Tough defense vs.<br>Black and Zombie enemies!
+674	True Form gains increased attack!<br>Also gains Tough defense vs.<br>Dark and Zombie enemies!
 675	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 676	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 677	<br><br>
@@ -717,7 +717,7 @@
 716	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 717	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 718	<br><br>
-719	<br><br>
+719	True form increases health and attack power!<br>Plus, gains faster movement speed and<br>an improved chance of Dodging!
 720	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 721	<br><br>
 722	<br><br>
@@ -852,3 +852,10 @@
 851	<br><br>
 852	<br><br>
 853	<br><br>
+854	<br><br>
+855	<br><br>
+856	<br><br>
+857	<br><br>
+858	<br><br>
+859	<br><br>
+860	<br><br>

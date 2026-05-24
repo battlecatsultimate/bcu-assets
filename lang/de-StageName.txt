@@ -1247,15 +1247,15 @@
 001-262		River City Three-Leg Race ①
 001-262-000	vs. Team Weiß
 001-262-001	vs. Team Rot
-001-262-002	vs. Team Schwarz
+001-262-002	vs. Team Dunkel
 001-263		River City Three-Leg Race ②
 001-263-000	vs. Team Weiß
 001-263-001	vs. Team Rot
-001-263-002	vs. Team Schwarz
+001-263-002	vs. Team Dunkel
 001-264		River City Three-Leg Race ③
 001-264-000	vs. Team Weiß
 001-264-001	vs. Team Rot
-001-264-002	vs. Team Schwarz
+001-264-002	vs. Team Dunkel
 001-265		Park der Dämonen
 001-265-000	Gefrorene Weisheit
 001-265-001	Verfluchter See
@@ -2202,7 +2202,7 @@
 002-129-011	Sudden Death Lv.12
 002-134		Hatsune Miku's Birthday!
 002-134-000	♪ Birthday Party ♪
-002-135		ストリートファイター EASY
+002-135		Street Fighter - EASY -
 002-135-000	Warrior of Nature
 002-135-001	Illuminating Flame
 002-135-002	Rush & Blaze
@@ -3791,7 +3791,7 @@
 007-001-007	Ebene 8
 007-001-008	Ebene 9
 007-001-009	Oberste Ebene
-007-002		Schwarze Zitadelle
+007-002		Dunkle Zitadelle
 007-002-000	Ebene 1
 007-002-001	Ebene 2
 007-002-002	Ebene 3
@@ -5715,11 +5715,11 @@
 025-013-000	Gipfelschrein (Gnadenlos)
 025-014		Himmelsgrenze
 025-014-000	Grenzschrein (Gnadenlos)
-025-015		Schwarzer Hort
+025-015		Dunkler Hort
 025-015-000	Hortschrein (Tödlich)
-025-016		Schwarzer Gipfel
+025-016		Dunkler Gipfel
 025-016-000	Gipfelschrein (Gnadenlos)
-025-017		Schwarze Grenze
+025-017		Dunkle Grenze
 025-017-000	Grenzschrein (Gnadenlos)
 025-018		Heiliger Hort
 025-018-000	Hortschrein (Tödlich)
@@ -6577,6 +6577,20 @@
 034-028-003	Synthol-Sumpf
 034-028-004	Felsenschulter
 034-028-005	Nebentruhen-Insel
+034-029		Handwerker-Heiligtum
+034-029-000	Aquatische Avantgarde
+034-029-001	Chaotische Kaligrafie
+034-029-002	Mosaikwiese
+034-029-003	Schwerer Spott
+034-029-004	Langsames Zeichnen
+034-029-005	Schmucke Farben
+034-030		Garten der Entwicklung
+034-030-000	Outback-Ursprung
+034-030-001	Natürliche Ablehnung
+034-030-002	Dogmatische Teilung
+034-030-003	Baum der Mühen
+034-030-004	Das Killosseum
+034-030-005	Endlose Formen der Schönheit
 
 036			Colosseum Stages
 036-000		Anderwelt-Kolosseum
@@ -6711,6 +6725,12 @@
 036-021-002	Runde 3
 036-021-003	Runde 4
 036-021-004	Runde 5
+036-022		Anderwelt-Kolosseum
+036-022-000	Runde 1
+036-022-001	Runde 2
+036-022-002	Runde 3
+036-022-003	Runde 4
+036-022-004	Runde 5
 
 037			Katzenkrall-Meisterschaften
 037-000		Katzenkrall-Meisterschaften Rang 1

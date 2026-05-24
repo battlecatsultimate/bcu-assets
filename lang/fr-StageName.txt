@@ -184,7 +184,7 @@
 000-022		Nuit sans issue
 000-022-000	Prouesse de trahison
 000-022-001	Fin de catharsis
-000-022-002	Prémonition noire
+000-022-002	Prémonition de l’ombre
 000-022-003	Masque cassé
 000-022-004	Cage d’Agapé
 000-022-005	Renard rouge saint
@@ -1247,15 +1247,15 @@
 001-262		River City Three-Leg Race ①
 001-262-000	VS équipe blanche
 001-262-001	VS équipe rouge
-001-262-002	VS équipe noire
+001-262-002	VS équipe de l’ombre
 001-263		River City Three-Leg Race ②
 001-263-000	VS équipe blanche
 001-263-001	VS équipe rouge
-001-263-002	VS équipe noire
+001-263-002	VS équipe de l’ombre
 001-264		River City Three-Leg Race ③
 001-264-000	VS équipe blanche
 001-264-001	VS équipe rouge
-001-264-002	VS équipe noire
+001-264-002	VS équipe de l’ombre
 001-265		Parc du démon
 001-265-000	Sagesse congelée
 001-265-001	Lac maudit
@@ -3793,7 +3793,7 @@
 007-001-007	8e étage
 007-001-008	9e étage
 007-001-009	Dernier étage
-007-002		Citadelle noire
+007-002		Citadelle de l’ombre
 007-002-000	1er étage
 007-002-001	2e étage
 007-002-002	3e étage
@@ -5716,11 +5716,11 @@
 025-013-000	Sanctuaire de sommet (sans répit)
 025-014		Frontière céleste
 025-014-000	Sanctuaire de frontière (sans répit)
-025-015		Berceau noir
+025-015		Berceau de l’ombre
 025-015-000	Sanctuaire de berceau (mortel)
-025-016		Sommet noir
+025-016		Sommet de l’ombre
 025-016-000	Sanctuaire de sommet (sans répit)
-025-017		Frontière noire
+025-017		Frontière de l’ombre
 025-017-000	Sanctuaire de frontière (sans répit)
 025-018		Berceau sacré
 025-018-000	Sanctuaire de berceau (mortel)
@@ -6578,6 +6578,20 @@
 034-028-003	Marais aux onguents
 034-028-004	Épaule de pierre
 034-028-005	Île aux deltoïdes
+034-029		Sanctuaire de l’artisan
+034-029-000	Avant-garde aquatique
+034-029-001	Calligraphie négligée
+034-029-002	Prairie mosaïque
+034-029-003	Sérieuse moquerie
+034-029-004	Esquisses laborieuses
+034-029-005	Couleurs huppées
+034-030		Eden de l’évolution
+034-030-000	Brousse des origines
+034-030-001	Rejet naturel
+034-030-002	Schisme dogmatique
+034-030-003	Arbre de la lutte
+034-030-004	Le Colisée sanglant
+034-030-005	Sublimes formes infinies
 
 036			Colosseum Stages
 036-000		Colisée d'outre-monde
@@ -6712,6 +6726,12 @@
 036-021-002	3e manche
 036-021-003	4e manche
 036-021-004	5e manche
+036-022		Colisée d'outre-monde
+036-022-000	1re manche
+036-022-001	2e manche
+036-022-002	3e manche
+036-022-003	4e manche
+036-022-004	5e manche
 
 037			Championnats Griffélin
 037-000		Rang 1 des championnats Griffélin

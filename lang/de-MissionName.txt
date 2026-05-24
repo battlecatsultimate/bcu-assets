@@ -1009,6 +1009,9 @@
 9680	(111 Mio. DL) Schließe Geschenke zur Feier von 111 Mio.!
 9681	(111 Mio. DL)
 9682	(111 Mio. DL)
+9683	Premium-Jahrmarkt (Woche 1):
+9684	Premium-Jahrmarkt (Woche 2):
+9685	Premium-Jahrmarkt (Woche 3):
 9668	Hol dir täglich ein Gratis-Katzenticket
 9669	(Fortschritt)
 9670	(Fortschritt) Schicke Gamatoto auf 17

@@ -62,7 +62,7 @@
 64|S64	Portafogli impiegato
 65|S65	Difesa Base
 66|S66	Ricerca
-67|S67	Contabilità
+67|S67	Bonus +
 68|S68	Studio
 69|S69	Energia felina
 70|S70	Cat Ally: Dummy 1
@@ -235,6 +235,12 @@
 244|I467	Forziere (bronzo)
 245|I468	Forziere (argento)
 246|I469	Forziere (oro)
+249|I471	Forziere (bronzo)
+250|I472	Forziere (argento)
+251|I473	Forziere (oro)
+252|I474	Forziere (bronzo)
+253|I475	Forziere (argento)
+254|I476	Forziere (oro)
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -306,6 +312,7 @@
 1072	Gatto carpentiere
 1074	Gatto dei giornali
 1075	Gatto uccellomucca assassino
+1076	Maestro selezione Darvin
 1100	Busto di Gatto
 1101	Gatto spaziale
 1102	Gatto con la corda
@@ -691,7 +698,7 @@
 15635	Cavaliere demone ciclope
 15643	Lucifero Onnipotente
 15645	Mekako fresco amore
-15648	Terun cacciatrice divina ζ
+15648	Terun divina ζ
 15650	Hanzo immortale
 15656	Blizarena
 15657	Gatto haniwa
@@ -722,6 +729,7 @@
 15716	Iper Convogli da battaglia
 15717	Gatto sbirro
 15718	Gatto contadino
+15720	Adamankachi
 15721	Gatto Orso perduto
 15724	Aset Onnipotente
 15725	Gatto capsula uovo

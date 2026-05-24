@@ -284,7 +284,7 @@
 283	
 284	Il compianto padre del Cane, sepolto molti anni fa.<br>Nemmeno la tomba ha potuto impedirgli<br>di preoccuparsi per i voti dei figli. Solo con<br>una pagella è possibile farlo riposare in pace.
 285	Una creatura strisciante che usa gli acquerelli per<br>un trucco horror (ma è già morto per davvero).<br>L'unica informazione che ti serve è che<br>possiede una potenza d'attacco spaventosa.
-286	Una tetra notte vagava per una torba<br>velenosa e più tardi si è svegliato morto.<br>Non sembra preoccuparsene, comunque.<br>Ora non sapremo mai se sia un lui o una lei.
+286	Una tetra notte vagava per una palude<br>mefitica e più tardi si è svegliato morto.<br>A parte l'alito mattutino un po' più pesante, pare<br>che il cambiamento non sia stato causa di grande turbamento.
 287	Nemmeno la morte può spingere questo suino<br>regale a lasciare il trono. Indossa un teschio<br>stiloso finché non ritroverà la corona rubata.<br>Non mi decompongo, invecchio come il vino.
 288	Dopo il fiasco del suo film d'esordio,<br>nel cuore di Ping è rimasta un'enorme voragine.<br>Nemmeno la morte da recensioni negative<br>fermerà la sua vendetta sull'ingrato pubblico!
 289	Dopo essere stato cacciato dal paradiso a causa<br>della sua faccia spaventosa, Gory vaga per la terra.<br>Qualcuno gli ha strappato un pezzo di testa<br>mentre scommetteva, pensando fosse un parrucchino. Ahi.
@@ -770,3 +770,9 @@
 769	Un trio comico formato da pennuti.<br>Puntano alla quantità (a scapito della qualità), sparando<br>barzellette terribili senza sosta finché nella confusione<br>non strappano qualche risata per sbaglio.
 770	
 771	
+772	Scrutando il nostro mondo da un'altra dimensione<br>ha deciso di sottoporre alla selezione ogni forma di vita.<br>Seguendo il filo della causalità, ora muove guerra<br>all'armata felina per aver sfidato le leggi dell'evoluzione.
+773	
+774	
+775	
+776	
+777	

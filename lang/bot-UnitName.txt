@@ -73,8 +73,8 @@
 072	Maeda Keiji	Wargod Keiji	Immortal Keiji
 073	Oda Nobunaga	Wargod Nobunaga	Immortal Nobunaga	Phantasmal Nobunaga
 074	Reindeer Fish Cat	Sashimi Cat	Xmas Pudding Cat
-075	Windy	Windy, type α	Divine Windy	Ultimate Windy
-076	Thundia	Thundia, type β	Divine Thundia	Ultimate Thundia
+075	Windy	Windy, type α	Divine Windy α	Ultimate Windy α
+076	Thundia	Thundia, type β	Divine Thundia β	Ultimate Thundia β
 077	Droid Cat	Droid Cat Mk 2	SpringDroid
 078	Space Cat	Major Space Cat	Space Marine Cat
 079	Adult Cat	Sick Cat	Prisoner Cat
@@ -103,9 +103,9 @@
 102
 103	Cabaret Cat	Mega Cat	Mega Cat EX
 104	Koi Cat	Gross Koi Cat	Kiss and Koi
-105	Kuu	Kuu, type γ	Divine Kuu
-106	Kai	Kai, type μ	Divine Kai
-107	Coppermine	Coppermine, type κ	Divine Coppermine
+105	Kuu	Kuu, type γ	Divine Kuu γ
+106	Kai	Kai, type μ	Divine Kai μ
+107	Coppermine	Coppermine, type κ	Divine Coppermine κ
 108	Cat Bros	Secret Base
 109	Madam Bride	Madam King	Madam the Savannah
 110	Celesse	Celesse CC
@@ -349,7 +349,7 @@
 348
 349
 350
-351	Twinstars	Twinstars, type Φ	Divine Twinstars
+351	Twinstars	Twinstars, type Φ	Divine Twinstars Φ
 352	Hermit Cat	Grandmaster Cat	Masked Grandmaster Cat
 353
 354	Seashore Kai	Seashore Kai, type μ
@@ -425,7 +425,7 @@
 424
 425
 426	Mecha-Bun	Mecha-Bun Mk II	Ultimate Mecha-Bun
-427	Cat Clan Heroes	Cat Guild Heroes	Cat Quest Heroes	Cat Quest Heaven
+427	Cat Clan Heroes	Cat Guild Heroes	Cat Quest Heroes	Heavenly Cat Heroes
 428	Souma Cat	Stylish Souma Cat
 429	Otaku Geek Cat	Hacker Geek Cat
 430
@@ -447,7 +447,7 @@
 446	Backhoe Cat	Power Backhoe Cat	Neo Backhoe Cat
 447	Miter Saw Cat	Power Saw Cat	Neo Saw Cat
 448	Musashi Miyamoto	Wargod Miyamoto	Immortal Miyamoto
-449	Jeanne	Jeanne ψ	Divine Jeanne ψ
+449	Jeanne	Jeanne, type ψ	Divine Jeanne ψ
 450	High Lord Babel	Babel the Darkflame	God-Emperor Babel
 451	Ushiwakamaru	Colossal Benkei
 452	Primordial Cat	Modern Cat	Future Cat
@@ -500,7 +500,7 @@
 499	Shakurel Tiger	Shakurel Tiger CC
 500	Shakurel Panda	Shakurel Panda CC
 501	Cat Bros	Baka Cat Bros
-502	Myrcia	Myrcia, type ξ	Divine Myrcia
+502	Myrcia	Myrcia, type ξ	Divine Myrcia ξ
 503
 504
 505	Relentless Gladios	Gladios the Annihilator	God-Emperor Gladios
@@ -617,7 +617,7 @@
 616	Kuwagata Cat	King Kuwagata Cat
 617	Summoner Satoru	Dark Summoner Satoru	Devil Hunter Satoru
 618	Amakusa Shiro	Wargod Amakusa	Immortal Amakusa
-619	Lilin	Lilin π	Divine Lilin π
+619	Lilin	Lilin, type π	Divine Lilin π
 620	Hevijak the Wicked	Wicked King Hevijak	God-Emperor Hevijak
 621	Aku Researcher	Evil Aku Researcher	Cat Researcher
 622	Jagando Jr.	Lord of Ruin Jagando Jr.
@@ -645,7 +645,7 @@
 644	Sweet Love Mekako	Bittersweet Mekako	Minty Love Mekako
 645	Brainwashed Axe Cat	Brainwashed Brave Cat	Brainwashed Dark Cat
 646	Firecracker Cat	Macho Firecracker Cat
-647	Huntress Terun	Huntress Terun ζ	Divine Huntress Terun ζ
+647	Huntress Terun	Huntress Terun, type ζ	Divine Huntress Terun ζ
 648	Lovestruck Lesser Demon	Lovestruck Greater Demon
 649	Hattori Hanzo	Wargod Hanzo	Immortal Hanzo
 650	Secret Crush Cat	Girlfriend Cat
@@ -661,7 +661,7 @@
 660	Sea Serpent Daliasan	Sea King Daliasan	God-Emperor Daliasan
 661	Chronos the Bride	Wedding Chronos
 662	Brainwashed Cow Cat	Brainwashed Giraffe Cat	Brainwashed Lion Cat
-663	Ancient Egg: N103	Black Egg: N103	Gas Mask Cat
+663	Ancient Egg: N103	Dark Egg: N103	Gas Mask Cat
 664	Ancient Egg: N104	Green Egg: N104	Surgeon Cat
 665	Ancient Egg: N201	Dark Egg: N201	Exorcist Cat
 666	Night Beach Lilin	Night Beach Lilinπ
@@ -717,7 +717,7 @@
 716	Ancient Egg: N111	Mystic Egg: N111	Cop Cat
 717	Ancient Egg: N110	Amber Egg: N110	Farmboy Cat
 718	Maize Cat	Cone Cat
-719	Tekachi	Tetsukachi	Kantetsukachi
+719	Tekachi	Tetsukachi	Adamankachi
 720	Ancient Egg: N006	Devil Egg: N006	Fallen Bear Cat
 721	High School Kingpin Riki	Dodgeball Riki	
 722	Hatsune Miku XVI	Hatsune Miku XVI CC	
@@ -731,7 +731,7 @@
 730	Ancient Egg: N204	Cinnabar Egg: N204	Lion Dancer Cat
 731	Daybreaker Izanagi	Dawnbringer Izanagi	
 732	Izanagi Spirit
-733	Pegasa	Pegasa ν
+733	Pegasa	Pegasa, type ν
 734	Pegasa Spirit
 735	Principal Cat	Midlife Crisis Cat		
 736	Frozen Rose Cat	Arctic Bloom Cat
@@ -828,7 +828,7 @@
 827	Juri	Juri CC
 828	Zangief Cat	Zangief Cat CC
 829	Jamie Cat	Jamie Cat CC
-830	Raclesa the Lioness 	Raclesa Σ
+830	Raclesa the Lioness 	Raclesa, type Σ
 831	Scarf Cat	Cat Red
 832	Hat Cat	Cat Blue
 833	Helmet Cat	Cat Yellow
@@ -852,10 +852,10 @@
 851	Paperboy Cat	Bargain Cat		
 852	Killer Cowbird Cat	True Killer Cowbird Cat		
 853	Occultist Cat	Gyaru Cat		
-854	Sage of Selection Darvin	Sage of Selection Nyavin
+854	Master of Selection Darvin	Master of Selection Clawvin
 855	Darvin Spirit
 856	Nyanko Village Cat	Nyanko Village Cat CC
 857	Barista Cat	Cat Silver
 858	Commander Cat	Cat Gold
-859	Lone Moon Knight Lunos	New Moon Knight Dark Lunos
-860	Dark Lunos Spirit
+859	Lone Moon Lunos	Lunos the Eclipsed
+860	Moon Lunos Spirit

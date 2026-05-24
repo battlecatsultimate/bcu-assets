@@ -49,7 +49,7 @@
 048	St. Schwein II.
 049	J.K. Bun Bun
 050	Bun Bun Schwarz
-051	Schwarzer Gorilla
+051	Dunkel-Gorilla
 052	Schattenboxer K
 053	Regisseur Kurosawah
 054	Supereisernes Nilpferd
@@ -68,7 +68,7 @@
 067	Bärenstarke Bären
 068	
 069	Weißer Zyklon
-070	Schwarzer Zyklon
+070	Dunkel-Zyklon
 071	Eiserner Zyklon
 072	
 073	
@@ -489,7 +489,7 @@
 488	Akuma
 489	
 490	
-491	Schwarz-Okame
+491	Maskierter Okame
 492	Himmelsbotin Papuu
 493	Königinmutter V
 494	
@@ -580,7 +580,7 @@
 579	Incubator
 580	Weißer Wind
 581	Roter Wind
-582	Schwarzer Wind
+582	Dunkler Wind
 583	Medu-san
 584	Miz Teufel
 585	Sathankhamun VIII
@@ -770,6 +770,11 @@
 769	Hühner-Haudegen
 770	Killer-Stärlingskatze
 771	Das goldene Gesicht
-772	
+772	Legende von Selektionsmeister Darwin
 773	
 774	
+775	
+776	
+777	
+778	
+779	

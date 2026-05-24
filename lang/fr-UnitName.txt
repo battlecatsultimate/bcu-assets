@@ -425,7 +425,7 @@
 424				
 425				
 426	Méca-Bun	Méca-Bun 2.0	Méca-Bun ultime	
-427	Héros du clan des Chats	Héros de la guilde des Chats	Héros de la quête des Chats	
+427	Héros du clan des Chats	Héros de la guilde des Chats	Héros de la quête des Chats	Chats héros célestes
 428	Souma Cat	Stylish Souma Cat		
 429	Otaku Geek Cat	Hacker Geek Cat		
 430				
@@ -645,7 +645,7 @@
 644	Mekako bel amour	Mekako douce-amère	Mekako amour mentholé	
 645	Chat borgne sous contrôle	Chardi sous contrôle	Chat de l'ombre sous contrôle	
 646	Chat pétard	Chat pétard macho		
-647	Terun chasseresse	Terun chasseresse ζ	Terun chasseresse divine ζ	
+647	Terun	Terun ζ	Terun ζ divine	
 648	Démon inférieur amoureux	Démon supérieur amoureux		
 649	Hanzo Hattori	Hanzo dieu de la guerre	Hanzo immortel	
 650	Chatte flirt secret	Chatte petite amie		
@@ -661,7 +661,7 @@
 660	Daliasan serpent de mer	Daliasan roi des mers	Dieu empereur Daliasan	
 661	Chronos mariée	Chronos nuptiale		
 662	Chat vache sous contrôle	Chat girafe sous contrôle	Chat lion sous contrôle	
-663	Œuf ancien N103	Œuf noir N103	Chat masque à gaz	
+663	Œuf ancien N103	Œuf ombre N103	Chat masque à gaz	
 664	Œuf ancien N104	Œuf vert N104	Chat chirurgien	
 665	Œuf ancien N201	Œuf sombre N201	Chat exorciste	
 666	Lilin plage nocturne	Lilin plage nocturne π		
@@ -691,7 +691,7 @@
 690	Phono l’enfant du destin	Phonoa l’enfant du destin		
 691	Œuf ancien N000	Œuf d’occasion N000	Seigneur gorille Luza	
 692	Issun Boshi	Oni Trembleur Kozuchimaru	Oni Bathyscaphe Kozuchimaru	
-693	Détective Gravitas blanc	Détective Gravitas noir		
+693	Détective Gravitas blanc	Détective Gravitas ombre		
 694	Chat titan sous contrôle	Chat titan myth. sous contr.	Chat Jamilar sous contrôle	
 695	Chat tank tueur	Chat tank tueur ultime		
 696	Chat délégué de classe	Chat délégué furtif		
@@ -717,7 +717,7 @@
 716	Œuf ancien N111	Œuf mystique N111	Chagent de police	
 717	Œuf ancien N110	Œuf ambré N110	Chagriculteur	
 718	Chat mélasse	Chat cône		
-719	Tekachi	Tetsukachi		
+719	Tekachi	Tetsukachi	Adamankachi	
 720	Œuf ancien : N006	Œuf démoniaque : N006	Chat-Ours déchu	
 721	High School Kingpin Riki	Dodgeball Riki		
 722	Hatsune Miku XVI	Hatsune Miku XVI CC		
@@ -731,7 +731,7 @@
 730	Œuf ancien N204	Œuf cinabre N204	Chat lion danseur	
 731	Izanagi du levant	Izanagi de l'aube		
 732				
-733	Pégasa	Pégasa ν	Guère intéressée par les machinations des adultes,	
+733	Pégasa	Pégasa ν		
 734				
 735	Chat proviseur	Chat désœuvré		
 736	Chat rose givrée	Chat fleur arctique		
@@ -852,3 +852,10 @@
 851	Chat livreur de journaux	Chat des aubaines		
 852	Chat vachoiseau tueur	Vrai Chat vachoiseau tueur		
 853	Chat occultiste	Chat nana		
+854	Maître ès sélection Darvin	Maître ès sélection Clawvin		
+855				
+856				
+857				
+858				
+859	Lunos, Lune solitaire	Lunos l’Éclipsé		
+860				

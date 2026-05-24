@@ -124,3 +124,4 @@
 123	Schließe alle Zombielevel in Kosmische Katzen Kap. 3 ab
 124	Schließe das Filibuster-Zombielevel ab
 125	Schließe „Invasion des Hühner-Haudegens“ ab.
+126	Schalte Selektionsmeister Darwin frei

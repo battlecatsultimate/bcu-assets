@@ -425,7 +425,7 @@
 424				
 425				
 426	Mech-Bum	Mech-Bum mk II	Mech-Bum Finale	
-427	Eroi Clan felino	Eroi Gilda felina	Eroi Impresa felina	
+427	Eroi Clan felino	Eroi Gilda felina	Eroi Impresa felina	Eroi Gatti celestiali
 428	Souma Cat	Stylish Souma Cat		
 429	Otaku Geek Cat	Hacker Geek Cat		
 430				
@@ -645,7 +645,7 @@
 644	Mekako dolce amore	Mekako dolceamara	Mekako fresco amore	
 645	Gatto ascia plagiato	Gatto prode plagiato	Gatto oscuro plagiato	
 646	Gatto petardo	Gatto petardo macho		
-647	Terun cacciatrice	Terun cacciatrice ζ	Terun cacciatrice divina ζ	
+647	Terun	Terun ζ	Terun divina ζ	
 648	Demone minore innamorato	Demone maggiore innamorato		
 649	Hattori Hanzo	Hanzo Dio della guerra	Hanzo immortale	
 650	Gatta cotta segreta	Gatta fidanzata		
@@ -661,7 +661,7 @@
 660	Daliasan serpente marino	Daliasan re del mare	Daliasan Dio-Imperatore	
 661	Chronos la sposa	Chronos nuziale		
 662	Gatto mucca plagiato	Gatto giraffa plagiato	Gatto leo plagiato	
-663	Uovo antico N103	Uovo nero N103	Gatto maschera antigas	
+663	Uovo antico N103	Uovo oscuro N103	Gatto maschera antigas	
 664	Uovo antico N104	Uovo verde N104	Gatto chirurgo	
 665	Uovo antico N201	Uovo oscuro N201	Gattorcista	
 666	Lilin spiaggia notturna	Lillin spiaggia notturna π		
@@ -691,7 +691,7 @@
 690	Phono figlio del destino	Phonoa re del destino		
 691	Uovo antico N000	Uovo di seconda mano N000	Luza lo scimmione	
 692	Issun Boshi	Oni Landshaker Kozuchimaru	Oni Battlepod Kozuchimaru	
-693	Maggiordomo bianco Vigler	Maggiordomo nero Vigler		
+693	Maggiordomo bianco Vigler	Maggiordomo oscuro Vigler		
 694	Gatto Titano plagiato	Gatto Titano plagiato mitico	Gatto Jamiera plagiato	
 695	Gatto Panzer assassino	Vero Gatto Panzer assassino		
 696	Gatto rappresentante	Gatto rappresentante furtivo		
@@ -717,7 +717,7 @@
 716	Uovo antico N111	Uovo mistico N111	Gatto sbirro	
 717	Uovo antico N110	Uovo ambrato N110	Gatto contadino	
 718	Gatturco	Gatto cono		
-719	Tekachi	Tetsukachi		
+719	Tekachi	Tetsukachi	Adamankachi	
 720	Uovo antico N006	Uovo diabolico N006	Gatto Orso perduto	
 721	High School Kingpin Riki	Dodgeball Riki		
 722	Hatsune Miku XVI	Hatsune Miku XVI CC		
@@ -731,7 +731,7 @@
 730	Uovo antico N204	Uovo vermiglione N204	Gatto leo ballerino	
 731	Portatore di luce Izanagi	Portatore di oscurità Izanagi		
 732				
-733	Pegasa	Pegasa v	Disinteressata alle trame e ai piani degli adulti, compie	
+733	Pegasa	Pegasa v		
 734				
 735	Preside Gatto	Gatto Crisi di mezza età		
 736	Gatto rosa di ghiaccio	Gatto fioritura artica		
@@ -852,3 +852,10 @@
 851	Gatto dei giornali	Gatto affarone		
 852	Gatto uccellomucca assassino	Vero Gatto uccellomucca ass.		
 853	Gatta occultista	Gatta festaiola		
+854	Maestro selezione Darvin	Maestro selezione Clawvin		
+855				
+856				
+857				
+858				
+859	Luna solitaria Lunos	Lunos l'Eclissato		
+860				

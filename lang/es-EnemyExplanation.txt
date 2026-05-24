@@ -284,7 +284,7 @@
 283	
 284	El padre de Chucho, fallecido y enterrado hace años.<br>Ni la tumba ha conseguido que deje de preocuparse<br>por las notas de sus hijos. Solo podrá descansar<br>en paz si ve que todo son sobresalientes.
 285	Una criatura siseante que utiliza acuarelas para<br>maquillarse de muerta (aunque ya está muerta...).<br>El único dato que necesitas saber es que<br>tiene un aterrador ataque de área.
-286	Atravesó una ciénaga envenenada una noche<br>y se despertó con una pata en el otro barrio.<br>Parece que le da bastante igual, la verdad...<br>Ya nunca saldremos de dudas sobre su sexo.
+286	Atravesó una ciénaga envenenada una noche<br>y se despertó con una pata en el otro barrio.<br>Salvo por el mal aliento matutino,<br>no parece que le moleste mucho el cambio.
 287	Ni la muerte puede hacer que este gorrino real<br>abdique del trono. Lleva una calavera muy chula<br>mientras intenta recuperar la corona que le mangaron.<br>Dice que no se pudre, que envejece como el buen vino.
 288	Cuando su primera peli fracasó estrepitosamente,<br>solo quedó un gran agujero en el lugar donde antes<br>estaba su corazón. Ni la muerte por las malas críticas<br>detendrá su venganza contra el público desagradecido.
 289	Cuando lo rechazaron en el cielo por feo, Gori<br>decidió quedarse vagando por la Tierra.<br>Le arrancaron la parte superior de la cabeza<br>pensando que era un tupé. ¡Auchi!
@@ -770,3 +770,9 @@
 769	Crearon un grupo cómico tan solo porque los pájaros vuelan<br>en bandada. Prefieren la cantidad a la calidad,<br>así que sueltan chistes malos sin parar<br>hasta que al público no le queda otra que reírse.
 770	
 771	
+772	Observó nuestro mundo desde otra dimensión y<br>decidió someter a toda forma de vida a la selección natural.<br>Siguiendo el hilo de la causalidad, ahora marcha contra<br>el ejército felino por desafiar las leyes de la evolución.
+773	
+774	
+775	
+776	
+777	

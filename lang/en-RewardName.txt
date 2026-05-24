@@ -62,7 +62,7 @@
 64|S64	Worker Cat Wallet
 65|S65	Base Defense
 66|S66	Research
-67|S67	Accountant
+67|S67	Bounty Up
 68|S68	Study
 69|S69	Cat Energy
 70|S70	Cat Ally: Dummy 1
@@ -235,6 +235,12 @@
 244|I467	Treasure Chest (Bronze)
 245|I468	Treasure Chest (Silver)
 246|I469	Treasure Chest (Gold)
+249|I471	Treasure Chest (Bronze)
+250|I472	Treasure Chest (Silver)
+251|I473	Treasure Chest (Gold)
+252|I474	Treasure Chest (Bronze)
+253|I475	Treasure Chest (Silver)
+254|I476	Treasure Chest (Gold)
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -306,6 +312,7 @@
 1072	Carpenter Cat
 1074	Paperboy Cat
 1075	Killer Cowbird Cat
+1076	Master of Selection Darvin
 1100	Bronze Cat
 1101	Space Cat
 1102	Rope Jump Cat
@@ -501,16 +508,16 @@
 15072	Immortal Yukimura
 15073	Immortal Keiji
 15074	Immortal Nobunaga
-15076	Divine Windy
-15077	Divine Thundia
+15076	Divine Windy α
+15077	Divine Thundia β
 15084	God-Emperor Sodom
 15085	God-Emperor Megidora
 15086	God-Emperor Vars
 15087	God-Emperor Kamukura
 15088	God-Emperor Raiden
-15106	Divine Kuu
-15107	Divine Kai
-15108	Divine Coppermine
+15106	Divine Kuu γ
+15107	Divine Kai μ
+15108	Divine Coppermine κ
 15112	Frolicking Nono CC
 15120	Wyvern and Alec
 15124	Val Val Cat
@@ -606,7 +613,7 @@
 15342	Lost World Catgirl Yuki
 15345	Artist Orthos CC
 15346	Naptime Michelia CC
-15352	Divine Twinstars
+15352	Divine Twinstars Φ
 15356	Orbital Annihilator Ragnarok
 15358	Jester Queen Deale
 15359	Opulent Verbena
@@ -653,7 +660,7 @@
 15489	Vanished NNN Wunder
 15496	Bellydance Cat
 15497	Immortal Kaihime
-15503	Divine Myrcia
+15503	Divine Myrcia ξ
 15506	God-Emperor Gladios
 15507	Nameless Eyewaltz CC
 15512	Kage
@@ -691,7 +698,7 @@
 15635	Demon Knight Kyklops
 15643	Almighty Lucifer
 15645	Minty Love Mekako
-15648	Divine Huntress Terun ζ
+15648	Divine Terun ζ
 15650	Immortal Hanzo
 15656	Blizarena
 15657	Haniwa Cat
@@ -722,6 +729,7 @@
 15716	Hyper Battalion Convoys
 15717	Cop Cat
 15718	Farmboy Cat
+15720	Adamankachi
 15721	Fallen Bear Cat
 15724	Almighty Aset
 15725	Cat Egg Pod

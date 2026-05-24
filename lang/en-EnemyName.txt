@@ -49,7 +49,7 @@
 048	St. Pigge the 2nd
 049	J.K. Bun Bun
 050	Bun Bun Black
-051	Gory Black
+051	Gory Dark
 052	Shadow Boxer K
 053	Director Kurosawah
 054	Super Metal Hippoe
@@ -68,7 +68,7 @@
 067	Bears Be Bare
 068	
 069	White Cyclone
-070	Black Cyclone
+070	Dark Cyclone
 071	Metal Cyclone
 072	
 073	
@@ -489,7 +489,7 @@
 488	Akuma
 489	
 490	
-491	Black Okame
+491	Masked Okame
 492	Heavenly Herald Papuu
 493	Queen Mother V
 494	
@@ -580,7 +580,7 @@
 579	
 580	White Wind
 581	Red Wind
-582	Black Wind
+582	Dark Wind
 583	Medu-san
 584	Miz Devil
 585	Sathankhamun VIII
@@ -770,6 +770,11 @@
 769	Poultrio
 770	Killer Cowbird Cat
 771	The Golden Face
-772	
-773	
-774	
+772	Sage of Selection Darvin
+773
+774
+775
+776
+777
+778
+779

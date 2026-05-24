@@ -64,14 +64,14 @@
 063	<br><br>
 064	<br><br>
 065	<br><br>
-066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Black enemies!
+066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Dark enemies!
 067	La Forma Reale ha maggiore difesa!<br>Immune a Respinta da attacchi nemici.<br>
 068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!	True Form evolution increases<br>improved defense and attack<br>power, and faster attack rate!
 069	<br><br>
 070	<br><br>
 071	La Forma Reale aumenta l'attacco!<br>Ottiene anche velocità di movimento<br>maggiore.
 072	La Forma Reale aumenta<br>tutti i tratti, e permette di ottenere<br>più potenza d'attacco.
-073	La Forma Reale aumenta molto la difesa!<br>In più migliora la potenza d'attacco e<br>aumenta il tempo d'immobilità su nemici neri!	La Forma ultra ha maggiore difesa!<br>In più immobilità vs. Aku e<br>contrasto att. a valanga!
+073	La Forma Reale aumenta molto la difesa!<br>In più migliora la potenza d'attacco e<br>aumenta il tempo d'immobilità su nemici oscuri!	La Forma ultra ha maggiore difesa!<br>In più immobilità vs. Aku e<br>contrasto att. a valanga!
 074	<br><br>
 075	La Forma Reale aumenta molto<br>la difesa e la velocità, così come<br>la potenza d'attacco e il raggio.	La Forma ultra ha maggiore portata d'attacco,<br>velocità e ritmo, e infligge<br>danni incredibili a nemici fluttuanti!
 076	La Forma Reale aumenta la difesa<br>e la velocità, così come la potenza<br>d'attacco e il raggio!	La Forma ultra aumenta le abilità!<br>Area d'attacco migliorata, sopravv.<br>colpi fatali, immune rallent. e indebol.
@@ -143,7 +143,7 @@
 142	<br><br>
 143	La Forma Reale aumenta molto<br>la velocità! In più, difesa, attacco<br>e raggio aumentano!
 144	La Forma Reale ottiene maggiore<br>area attacco, danni da attacco più efficaci<br>e maggiore portata degli attacchi a ondata!
-145	La Forma Reale ottiene maggiori<br>difesa, raggio e potenza d'attacco. In più<br>i nemici neri vengono rallentati più a lungo.
+145	La Forma Reale ottiene maggiori<br>difesa, raggio e potenza d'attacco. In più<br>i nemici oscuri vengono rallentati più a lungo.
 146	La Forma Reale ottiene una notevole<br>potenza d'attacco e una difesa maggiore.<br>Più possibilità di respinta contro angelici.
 147	La Forma Reale rallenta<br>i movimenti, ma potenzia la difesa,<br>la potenza d'attacco e il raggio.
 148	La Forma Reale aumenta la difesa,<br>e la potenza d'attacco!<br>
@@ -186,7 +186,7 @@
 185	La Forma Reale ottiene maggiori<br>difesa, velocità e raggio d'attacco!<br>Aumenta la possibilità di attacco critico!
 186	<br><br>
 187	La Forma Reale ottiene maggiore velocità<br>di difesa e attacco, ma la potenza d'attacco<br>diminuisce. Può schivare attacchi di angelici!
-188	Forma Reale ha più potenza d'attacco!<br>E rallenta al 100% <br>nemici neri e Aku.
+188	Forma Reale ha più potenza d'attacco!<br>E rallenta al 100%<br>nemici oscuri e Aku.
 189	<br><br>
 190	<br><br>
 191	<br><br>
@@ -220,12 +220,12 @@
 219	<br><br>
 220	<br><br>
 221	<br><br>
-222	True form evolution gains improved defense!<br>Also gain Strong vs. Black and gains<br>immunity to Warp effects.
+222	True form evolution gains improved defense!<br>Also gain Strong vs. Dark and gains<br>immunity to Warp effects.
 223	True form evolution gains improved defense!<br>Also gains Surge Attacks and Barrier Break!<br>
 224	True Form evolution gains Resistance<br>vs. Traitless, and may sometimes<br>Knockback enemies!
 225	True Form evolution gains improved attack<br>and defense! Also lower deployment cost!<br>
 226	La Forma Reale può attaccare solo alieni,<br>ma potenza d'attacco e difesa aumentano<br>moltissimo! Resiste a ripetuti debuff.
-227	La Forma Reale è efficace contro<br>nemici neri! Ottiene anche Ammazza<br>Behemoth!
+227	La Forma Reale è efficace contro<br>nemici oscuri! Ottiene anche Ammazza<br>Behemoth!
 228	La Forma Reale ottiene lo Scudo ondate<br>e immunità alle ondate.<br>
 229	<br><br>
 230	<br><br>
@@ -273,7 +273,7 @@
 272	La Forma Reale ottiene maggiore<br>difesa! La potenza d'attacco ottenuta<br>aumenta dopo aver subito danni!
 273	<br><br>
 274	<br><br>
-275	La Forma Reale aggiunge 100% possibilità<br>di respinta e rallentamento vs angelici/neri!<br>Ed è immune da ondate!
+275	La Forma Reale aggiunge 100% possibilità<br>di respinta e rallentamento vs angelici/oscuri!<br>Ed è immune da ondate!
 276	La Forma Reale ha maggiore<br>potenza d'attacco!<br>
 277	<br><br>
 278	<br><br>
@@ -336,7 +336,7 @@
 335	La Forma Reale ottiene maggiori<br>potenza d'attacco e difesa! I nemici rossi<br>subiscono indebolimento più a lungo!
 336	La Forma Reale ha maggiore velocità<br>di attacco e respinge i nemici.<br>
 337	True Form evolution gains improved<br>defense, move speed and attack!<br>	True Form evolution increases<br>defense, move speed and attack!<br>
-338	La Forma Reale ottiene maggiori difesa<br>e raggio d'attacco. Poi indebolisce nemici<br>neri per periodi più lunghi.
+338	La Forma Reale ottiene maggiori difesa<br>e raggio d'attacco. Poi indebolisce nemici<br>oscurità per periodi più lunghi.
 339	<br><br>
 340	<br><br>
 341	True Form evolution increases Defense and<br>Attack Power! Gains immunity to Knockback<br>and the Barrier Breaker ability!
@@ -425,7 +425,7 @@
 424	<br><br>
 425	<br><br>
 426	La Forma Reale ottiene maggiori<br>attacco e difesa. In più è immune da<br>maledizioni ed è efficace contro antichi.
-427	La Forma Reale migliora la difesa e ha<br>debuff ancora più lunghi. Indebolisce antichi<br>e ottiene immunità dalle maledizioni.
+427	La Forma Reale migliora la difesa e ha<br>debuff ancora più lunghi. Indebolisce antichi<br>e ottiene immunità dalle maledizioni.	La forma ultra ottiene maggiore salute e<br>ampio raggio d'att. con le esplosioni!<br>Conferisce immunità dalle ondate!
 428	<br><br>
 429	<br><br>
 430	<br><br>
@@ -466,7 +466,7 @@
 465	<br><br>
 466	<br><br>
 467	True Form evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
-468	True Form evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Black enemies!
+468	True Form evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Dark enemies!
 469	True Form evolution gains improved<br>defense and knock-back rate!<br>Plus, faster movement speed!
 470	<br><br>
 471	<br><br>
@@ -672,7 +672,7 @@
 671	<br><br>
 672	<br><br>
 673	<br><br>
-674	Forma Reale ha maggiore potenza d'attacco!<br>Guadagna anche una difesa forte contro<br>nemici neri e zombi!
+674	Forma Reale ha maggiore potenza d'attacco!<br>Guadagna anche una difesa forte contro<br>nemici oscuri e zombi!
 675	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 676	La Forma Reale rivela la sua forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 677	<br><br>
@@ -717,7 +717,7 @@
 716	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 717	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 718	<br><br>
-719	<br><br>
+719	Forma reale: +salute/+potenza d'attacco!<br>Conferisce anche +velocità di mov. e<br>maggiore probabilità di schivata!
 720	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 721	<br><br>
 722	<br><br>
@@ -852,3 +852,10 @@
 851	<br><br>
 852	<br><br>
 853	<br><br>
+854	<br><br>
+855	<br><br>
+856	<br><br>
+857	<br><br>
+858	<br><br>
+859	<br><br>
+860	<br><br>

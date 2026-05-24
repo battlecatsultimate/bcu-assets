@@ -184,7 +184,7 @@
 000-022		Notte senza futuro
 000-022-000	Festino del tradimento
 000-022-001	Fine della catarsi
-000-022-002	Premonizione nera
+000-022-002	Premonizione oscura
 000-022-003	Maschera rotta
 000-022-004	Gabbia di Agape
 000-022-005	Volpe santa
@@ -1247,15 +1247,15 @@
 001-262		River City Three-Leg Race ①
 001-262-000	VS squadra bianca
 001-262-001	VS squadra rossa
-001-262-002	VS squadra nera
+001-262-002	VS squadra oscura
 001-263		River City Three-Leg Race ②
 001-263-000	VS squadra bianca
 001-263-001	VS squadra rossa
-001-263-002	VS squadra nera
+001-263-002	VS squadra oscura
 001-264		River City Three-Leg Race ③
 001-264-000	VS squadra bianca
 001-264-001	VS squadra rossa
-001-264-002	VS squadra nera
+001-264-002	VS squadra oscura
 001-265		Parco del demone
 001-265-000	Saggezza surgelata
 001-265-001	Lago maledetto
@@ -3793,7 +3793,7 @@
 007-001-007	8° piano
 007-001-008	9° piano
 007-001-009	Ultimo piano
-007-002		Roccaforte nera
+007-002		Roccaforte oscura
 007-002-000	1° piano
 007-002-001	2° piano
 007-002-002	3° piano
@@ -5716,11 +5716,11 @@
 025-013-000	Santuario della cima (Spietato)
 025-014		Confine del cielo
 025-014-000	Santuario di confine (Spietato)
-025-015		Culla nera
+025-015		Culla oscura
 025-015-000	Santuario della culla (Letale)
-025-016		Cima nera
+025-016		Cima oscura
 025-016-000	Santuario della cima (Spietato)
-025-017		Confine nero
+025-017		Confine oscuro
 025-017-000	Santuario di confine (Spietato)
 025-018		Culla sacra
 025-018-000	Santuario della culla (Letale)
@@ -6578,6 +6578,20 @@
 034-028-003	Palude di Synthol
 034-028-004	Masso sulle spalle
 034-028-005	Isola delle pose
+034-029		Santuario dell'artigiano
+034-029-000	Avanguardia acquatica
+034-029-001	Calligrafia disordinata
+034-029-002	Prato a mosaico
+034-029-003	Scherno di cattivo gusto
+034-029-004	Disegni svogliati
+034-029-005	Colori crestati
+034-030		Eden dell'evoluzione
+034-030-000	Entroterra delle origini
+034-030-001	Rifiuto naturale
+034-030-002	Il divario dogmatico
+034-030-003	L'albero della discordia
+034-030-004	Colosselezione
+034-030-005	Forme infinite di bellezza senza pari
 
 036			Colosseum Stages
 036-000		Colosseo ultraterreno
@@ -6712,6 +6726,12 @@
 036-021-002	Round 3
 036-021-003	Round 4
 036-021-004	Round 5
+036-022		Colosseo ultraterreno
+036-022-000	Round 1
+036-022-001	Round 2
+036-022-002	Round 3
+036-022-003	Round 4
+036-022-004	Round 5
 
 037			Campionati miciodiali
 037-000		Campionati miciodiali Grado 1

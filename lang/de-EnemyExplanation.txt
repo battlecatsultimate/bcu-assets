@@ -284,7 +284,7 @@
 283	
 284	Der verstorbene und vor einigen Jahren begrabene Vater des<br>Hundes. Selbst im Grab macht er sich Sorgen über die Noten<br>seiner Kinder. Nur ein ordentliches Zeugnis kann ihm<br>ewige Ruhe schenken.
 285	Eine schlüpfrige Kreatur, die Wasserfarben als<br>Horror-Schminke verwendet (ist aber schon tot).<br>Du musst nur wissen, dass sie über gewaltige<br>Flächenangriffskraft verfügt.
-286	Ist eines Nachts über ein giftiges Moor gewandert<br>und ist später tot aufgewacht.<br>Es macht ihm allerdings nicht aus, wie es scheint.<br>Nun werden wir nie erfahren, ob es ein er oder eine sie ist.
+286	Wanderte in einer finsteren Nacht durch einen giftigen Sumpf<br>und ist später tot aufgewacht.<br>Außer einem fieseren Mundgeruch am Morgen<br>hat sich allerdings nicht viel verändert.
 287	Selbst nach dem Tod wird dieses königliche Schwein den<br>Thron nicht aufgeben. Trägt einen stilvollen Schädel, bis<br>ihre geraubte Krone geborgen wird.<br>Ich faule nicht, ich reife nur wie feiner Wein.
 288	Nachdem sein Debütfilm ein Desaster war, blieb nur ein großes<br>Loch übrig, wo Pengs Herz früher einmal schlug.<br>Selbst der Tod stoppt seine Rache an undankbaren<br>Zuschauern nicht!
 289	Nachdem er wegen seiner Fratze am Himmelstor<br>abgewiesen wurde, schreitet der Gorilla nun auf Erden.<br>Jemand hat ihn beim Glücksspiel skalpiert, weil er dachte,<br>er trüge ein Toupet. Das hat sicher wehgetan.
@@ -770,3 +770,9 @@
 769	Hat eine Comedy-Gruppe gegründet, weil Vögel eben gerne<br>Schwärme bilden. Sie glauben an Quantität über Qualität und<br>erzählen unaufhörlich schreckliche Witze, bis die schiere<br>Verwirrung das Publikum dazu bringt, versehentlich zu lachen.
 770	
 771	
+772	Hat aus einer anderen Dimension auf unsere Welt geblickt und<br>sich der Erforschung des Lebens und der Selektion gewidmet.<br>Er ist den Spuren der Kausalität gefolgt und marschiert nun<br>gegen die Katzenarmee, die die Gesetze der Evolution bricht.
+773	
+774	
+775	
+776	
+777	

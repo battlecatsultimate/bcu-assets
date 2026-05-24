@@ -245,3 +245,4 @@
 3060	Guerrieri cosmici
 3061	Arma e spada
 3062	Devastazione reale
+3063	Paura primordiale

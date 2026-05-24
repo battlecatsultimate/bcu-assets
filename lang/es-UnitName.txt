@@ -425,7 +425,7 @@
 424				
 425				
 426	Bun Bun Mecánico	Bun Bun Mecánico MK II	Bun Bun Mecánico Definitivo	
-427	Clan Heroico Gatuno	Gremio Heroico Gatuno	Equipo Heroico Gatuno	
+427	Clan Heroico Gatuno	Gremio Heroico Gatuno	Equipo Heroico Gatuno	Héroes Gatunos Celestiales
 428	Souma Cat	Stylish Souma Cat		
 429	Otaku Geek Cat	Hacker Geek Cat		
 430				
@@ -645,7 +645,7 @@
 644	Mekako Amante	Mekako Agridulce	Mekako Amante Menta	
 645	Gato Hachero Adoctrinado	Gato Valiente Adoctrinado	Gato Oscuro adoctrinado	
 646	Gato Petardo	Gato Petardo macho		
-647	Terun Cazadora	Terun Cazadora ζ	Terun Cazadora Divina ζ	
+647	Terun	Terun ζ	Terun Divina ζ	
 648	Infrademonio Enamorado	Suprademonio Enamorado		
 649	Hattori Hanzo	Dios de la Guerra Hanzo	Hanzo Inmortal	
 650	Gata Amante	Gata Novia		
@@ -661,7 +661,7 @@
 660	Daliasan Serpiente Marina	Daliasan Rey de los Mares	Daliasan, Dios Emperador	
 661	Chronos Novia	Chronos de Boda		
 662	Gato Lechero Adoctrinado	Jirafelino Adoctrinado	Gato León adoctrinado	
-663	Huevo Antiguo N103	Huevo Negro N103	Gato con Máscara de Gas	
+663	Huevo Antiguo N103	Huevo Oscuro N103	Gato con Máscara de Gas	
 664	Huevo Antiguo N104	Huevo Verde N104	Gato Cirujano	
 665	Huevo Antiguo N201	Huevo Negro N201	Gato Exorcista	
 666	Lilin Playa Nocturna	Lilin Playa Nocturna π		
@@ -717,7 +717,7 @@
 716	Huevo Antiguo N111	Huevo Místico N111	Gato Policía	
 717	Huevo Antiguo N110	Huevo ámbar N110	Gato Granjero	
 718	Gato Maicero	Gatocono		
-719	Tekachi	Tetsukachi		
+719	Tekachi	Tetsukachi	Adamankachi	
 720	Huevo Antiguo N006	Huevo Demoniaco N006	Oso Caído Gatuno	
 721	High School Kingpin Riki	Dodgeball Riki		
 722	Hatsune Miku XVI	Hatsune Miku XVI CC		
@@ -731,7 +731,7 @@
 730	Huevo Antiguo N204	Huevo Bermellón N204	Gato León Bailarín	
 731	Izanagi Alboreo	Izanagi Crepuscular		
 732				
-733	Pegasa	Pegasa v	Indiferente a los planes y quehaceres de los adultos,	
+733	Pegasa	Pegasa v		
 734				
 735	Gato Director	Gato Cincuentón		
 736	Gato Rosa Invernal	Gato Floración Invernal		
@@ -763,7 +763,7 @@
 762				
 763	Gatosaurio	Mecha Gatosaurio		
 764				
-765	Huevo Antiguo N206	Huevo Bermellón N206	Gato Almeja	
+765	Huevo Antiguo N206	Huevo Bermellón N206	Gato Almeja	
 766	Sardina	Sardina CC	Vienen directamente de «Survive! Mola Mola!».	
 767	Calamar	Calamar CC		
 768	Taitenki	Taitenki CC		
@@ -852,3 +852,10 @@
 851	Gato del Periódico	Gato Cazachollos		
 852	Gatordo Asesino	Gatordo Asesino Auténtico		
 853	Gata Ocultista	Gata Parrandera		
+854	Darvin Maestro de Selección	Clawvin Maestro de Selección		
+855				
+856				
+857				
+858				
+859	Lunos Luna Solitaria	Lunos el Eclipsado		
+860				

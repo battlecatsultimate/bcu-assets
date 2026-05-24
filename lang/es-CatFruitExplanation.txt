@@ -64,14 +64,14 @@
 063	<br><br>
 064	<br><br>
 065	<br><br>
-066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Black enemies!
+066	True Form gains improved attack speed,<br>reduced deploy cooldown, and longer<br>Freeze effect vs Dark enemies!
 067	¡La forma final tiene más defensa!<br>a la repulsión de los ataques enemigos.<br>
 068	True Form evolution gains<br>improved defense and attack<br>power, and faster attack rate!	True Form evolution increases<br>improved defense and attack<br>power, and faster attack rate!
 069	<br><br>
 070	<br><br>
 071	La forma final tiene más poder de ataque.<br>Su velocidad de movimiento mejora.<br>
 072	La forma final tiene mejores<br>rasgos. Además, aumenta<br>su poder de ataque.
-073	La forma final tiene una mayor defensa.<br>Su poder de ataque mejora y paraliza<br>a los enemigos negros durante más tiempo.	¡La ultraforma mejora la defensa!<br>¡Además, gana paralización contra akus<br>y provoca contrarréplicas!
+073	La forma final tiene una mayor defensa.<br>Su poder de ataque mejora y paraliza<br>a los enemigos oscuros durante más tiempo.	¡La ultraforma mejora la defensa!<br>¡Además, gana paralización contra akus<br>y provoca contrarréplicas!
 074	<br><br>
 075	La forma final tiene una defensa aún mayor.<br>Su velocidad de movimiento mejora.<br>su poder de ataque y su alcance.	¡La ultraforma mejora el alcance del ataque,<br>la velocidad de movimiento y el poder de<br>ataque, y es megafuerte contra voladores!
 076	La forma final tiene una mayor defensa.<br>Además, mejora su velocidad de movimiento,<br>su poder de ataque y su alcance.	¡La ultraforma obtiene más habilidades!<br>Mayor ataque, supervivencia a golpes<br>mortales, inmune ralentización/desgaste.
@@ -143,7 +143,7 @@
 142	<br><br>
 143	La forma final tiene mucha más<br>velocidad de movimiento. Además aumenta<br>su poder de ataque, defensa y alcance.
 144	La forma final tiene un área de ataque<br>más amplia, un ataque más eficaz<br>y oleadas de mayor alcance.
-145	La forma final tiene más<br>poder de ataque, defensa y alcance. Además,<br>ralentiza más tiempo a los enemigos negros.
+145	La forma final tiene más<br>poder de ataque, defensa y alcance. Además,<br>ralentiza más tiempo a los enemigos oscuros.
 146	La forma final tiene mayor<br>poder de ataque y defensa. Aumenta<br>su probabilidad de repeler a ángeles.
 147	La forma final tiene menos velocidad de<br>movimiento. A cambio, aumenta su defensa,<br>su poder de ataque y su alcance.
 148	La forma final tiene mayor defensa<br>y poder de ataque.<br>
@@ -186,7 +186,7 @@
 185	La forma final tiene más defensa,<br>velocidad de movimiento y alcance, además de<br>mayor probabilidad de infligir daño crítico.
 186	<br><br>
 187	La forma final tiene más defensa<br>y velocidad de ataque, pero se reduce su<br>poder. Puede esquivar ataques de ángeles.
-188	¡La forma final tiene más ataque!<br>Y siempre ralentiza. <br>Negro y aku.
+188	¡La forma final tiene más ataque!<br>Y siempre ralentiza.<br>Oscuros y aku.	¡La forma final tiene más ataque!<br>Y siempre ralentiza. <br>Oscuros y aku.
 189	<br><br>
 190	<br><br>
 191	<br><br>
@@ -220,12 +220,12 @@
 219	<br><br>
 220	<br><br>
 221	<br><br>
-222	True form evolution gains improved defense!<br>Also gain Strong vs. Black and gains<br>immunity to Warp effects.
+222	True form evolution gains improved defense!<br>Also gain Strong vs. Dark and gains<br>immunity to Warp effects.
 223	True form evolution gains improved defense!<br>Also gains Surge Attacks and Barrier Break!<br>
 224	True Form evolution gains Resistance<br>vs. Traitless, and may sometimes<br>Knockback enemies!
 225	True Form evolution gains improved attack<br>and defense! Also lower deployment cost!<br>
 226	La forma final solo ataca a álienes,<br>pero tiene una defensa y un poder de ataque<br>mucho mayores y resiste a penalizaciones.
-227	La forma final es más fuerte contra<br>enemigos negros. ¡También gana<br>Matamastodondes!
+227	La forma final es más fuerte contra<br>enemigos oscuros. ¡También gana<br>Matamastodondes!
 228	La forma final obtiene escudo de oleadas<br>y es inmune a las oleadas.<br>
 229	<br><br>
 230	<br><br>
@@ -273,7 +273,7 @@
 272	La forma final tiene una mayor defensa<br>y su poder de ataque aumenta<br>tras sufrir daño.
 273	<br><br>
 274	<br><br>
-275	¡La forma final siempre repele<br>y ralentiza a ángeles y negros!<br>¡Y es inmune a oleadas!
+275	¡La forma final siempre repele<br>y ralentiza a ángeles y oscuros!<br>¡Y es inmune a oleadas!
 276	La forma final tiene más<br>poder de ataque.<br>
 277	<br><br>
 278	<br><br>
@@ -336,7 +336,7 @@
 335	La forma final tiene más poder de ataque<br>y defensa. Además, desgasta durante<br>más tiempo a enemigos rojos.
 336	La forma final tiene mejor velocidad<br>de ataque y repele más a menudo.<br>
 337	True Form evolution gains improved<br>defense, move speed and attack!<br>	True Form evolution increases<br>defense, move speed and attack!<br>
-338	La forma final tiene una mayor defensa<br>y más alcance. Además, desgasta durante<br>más tiempo a enemigos negros.
+338	La forma final tiene una mayor defensa<br>y más alcance. Además, desgasta durante<br>más tiempo a enemigos oscuros.
 339	<br><br>
 340	<br><br>
 341	True Form evolution increases Defense and<br>Attack Power! Gains immunity to Knockback<br>and the Barrier Breaker ability!
@@ -425,7 +425,7 @@
 424	<br><br>
 425	<br><br>
 426	La forma final tiene más poder de ataque<br>y defensa. Es inmune a las maldiciones y es<br>más eficaz contra los enemigos reliquias.
-427	La forma final tiene mayor defensa y resiste<br>más tiempo a penalizaciones. Desgasta<br>a reliquias y es inmune a las maldiciones.
+427	La forma final tiene mayor defensa y resiste<br>más tiempo a penalizaciones. Desgasta<br>a reliquias y es inmune a las maldiciones.	¡La ultraforma obtiene más salud y su<br>ataque gana amplitud con explosiones!<br>¡Y adquiere inmunidad a las oleadas!
 428	<br><br>
 429	<br><br>
 430	<br><br>
@@ -466,7 +466,7 @@
 465	<br><br>
 466	<br><br>
 467	True Form evolution gains tougher<br>defense and longer Weaken time<br>against Traited enemies!
-468	True Form evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Black enemies!
+468	True Form evolution gains big changes<br>to its abilities, including Strong vs<br>Floating, Alien and Dark enemies!
 469	True Form evolution gains improved<br>defense and knock-back rate!<br>Plus, faster movement speed!
 470	<br><br>
 471	<br><br>
@@ -672,7 +672,7 @@
 671	<br><br>
 672	<br><br>
 673	<br><br>
-674	La forma final tiene más ataque.<br>¡También gana defensa dura<br>contra enemigos negros y zombis!
+674	La forma final tiene más ataque.<br>¡También gana defensa dura<br>contra enemigos oscuros y zombis!
 675	La forma final revela su apariencia real.<br>¡También gana matamastodontes!<br>
 676	La forma final revela su apariencia real.<br>¡También gana matamastodontes!<br>
 677	<br><br>
@@ -717,7 +717,7 @@
 716	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
 717	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
 718	<br><br>
-719	<br><br>
+719	Forma final con más salud y poder de ataque.<br>¡Gana velocidad de movimiento y<br>mayores probabilidades de esquivar!	Forma final con más salud y poder atq.<br>¡Gana velocidad de movimiento y<br>mayores probabilidades de esquivar!
 720	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
 721	<br><br>
 722	<br><br>
@@ -852,3 +852,10 @@
 851	<br><br>
 852	<br><br>
 853	<br><br>
+854	<br><br>
+855	<br><br>
+856	<br><br>
+857	<br><br>
+858	<br><br>
+859	<br><br>
+860	<br><br>
