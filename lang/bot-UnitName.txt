@@ -494,7 +494,7 @@
 493	Gaia the Creator	Gaia the Supreme
 494	Seabreeze Coppermine	Seabreeze Coppermine, type κ
 495	Matador Cat	Flamenco Cat	Bellydance Cat
-496	Narita Kaihime	Wargod Kaihime	Immortal Kaihime
+496	Narita Kaihime	Wargod Kaihime	Immortal Kaihime	Infernal Kaihime
 497	Shakurel Cat	Shakurel Macho Cat
 498	Shakurel Lion	Shakurel Lion CC
 499	Shakurel Tiger	Shakurel Tiger CC
@@ -859,3 +859,8 @@
 858	Commander Cat	Cat Gold
 859	Lone Moon Lunos	Lunos the Eclipsed
 860	Moon Lunos Spirit
+861	Volnado	Storm King Volnado
+862	Wedding Hanzo	Groom Hanzo
+863	Transparent Cat	Bridgegroom Cat
+864	Shirou Emiya	Shirou Emiya CC
+865	True Assassin	True Assassin CC
