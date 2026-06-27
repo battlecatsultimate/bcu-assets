@@ -15,7 +15,7 @@
 014	Quit a major company<br>and is managing 4 companies now.<br>Aspires to become city mayor someday.<br>
 015	Seems to speak an old English dialect?<br>No, seriously, it sounds like English, but<br>their pronunciation is almost unintelligible.<br>Works at an English school near the station.
 016	Licensed to kill.<br>The global financial crisis isn't helping<br>him much though. Please check the flyers.<br>He's offering one million per kill now.
-017	Ridiculously shy.<br>He loves to sing though, but<br>has never sang in front of anyone.<br>… does a mirror count? Solo Karaoke'r
+017	Ridiculously shy.<br>He loves to sing, but has never<br>actually performed in front of anyone.<br>… Does a mirror count? Solo Karaoke'r
 018	Too strict a diet resulted in no body.<br>No one knows why he is floating.<br>Seriously, anyone?<br>(Don't try this at home)
 019	
 020	
@@ -776,3 +776,4 @@
 775	
 776	
 777	
+778	

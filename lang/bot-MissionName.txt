@@ -223,84 +223,84 @@
 17006	Clear all Monthly Missions!
 17007	Clear all Monthly Missions!
 17008	Clear all Monthly Missions!
-1000	Defeat Doge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1001	Defeat Doge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1002	Defeat Doge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1003	Defeat Doge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1004	Defeat Doge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1005	Defeat Doge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1006	Defeat Doge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1007	Defeat Doge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1008	Defeat Doge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1009	Defeat Doge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1010	Defeat Doge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1011	Defeat Doge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1012	Defeat Doge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1013	Defeat Doge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1014	Defeat Doge at Empire of Cats Ch. 2. (Once at any Empire of Cats Ch. 2 stage)
-1100	Defeat Doge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1101	Defeat Doge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1102	Defeat Doge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1103	Defeat Doge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1104	Defeat Doge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1105	Defeat Doge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1106	Defeat Doge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1107	Defeat Doge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1108	Defeat Doge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1109	Defeat Doge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1110	Defeat Doge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1111	Defeat Doge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1112	Defeat Doge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1113	Defeat Doge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1114	Defeat Doge at Empire of Cats Ch. 3. (Once at any Empire of Cats Ch. 3 stage)
-1200	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1201	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1202	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1203	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1204	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1205	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1206	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1207	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1208	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1209	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1210	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1211	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1212	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1213	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1214	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1215	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1216	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1217	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1218	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1219	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1220	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1221	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1222	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1223	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1224	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1225	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1226	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1227	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1228	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1229	Defeat Doge at Into the Future Ch. 1. (Once at any Into the Future Ch. 1 stage)
-1300	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1301	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1302	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1303	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1304	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1305	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1306	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1307	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1308	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1309	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1310	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1311	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1312	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1313	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1314	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1315	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1316	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
-1317	Defeat Doge at Into the Future Ch. 2. (Once at any Into the Future Ch. 2 stage)
+1000	Defeat Doge at Empire of Cats Ch. 2. (Once at any (non-Zombie) Empire Ch. 2 stage)
+1001	Defeat Doge at Empire of Cats Ch. 2. (Once at any (non-Zombie) Empire Ch. 2 stage)
+1002	Defeat Doge at Empire of Cats Ch. 2. *Once at any (non-Zombie) Empire Ch. 2 stage
+1003	Defeat Doge at Empire of Cats Ch. 2. *Once at any (non-Zombie) Empire Ch. 2 stage
+1004	Defeat Doge at Empire of Cats Ch. 2. *Once at any (non-Zombie) Empire Ch. 2 stage
+1005	Defeat Doge at Empire of Cats Ch. 2. *Once at any (non-Zombie) Empire Ch. 2 stage
+1006	Defeat Doge at Empire of Cats Ch. 2. *Once at any (non-Zombie) Empire Ch. 2 stage
+1007	Defeat Doge at Empire of Cats Ch. 2. *Once at any (non-Zombie) Empire Ch. 2 stage
+1008	Defeat Doge at Empire of Cats Ch. 2. *Once at any (non-Zombie) Empire Ch. 2 stage
+1009	Defeat Doge at Empire of Cats Ch. 2. *Once at any (non-Zombie) Empire Ch. 2 stage
+1010	Defeat Doge at Empire of Cats Ch. 2. *Once at any (non-Zombie) Empire Ch. 2 stage
+1011	Defeat Doge at Empire of Cats Ch. 2. *Once at any (non-Zombie) Empire Ch. 2 stage
+1012	Defeat Doge at Empire of Cats Ch. 2. *Once at any (non-Zombie) Empire Ch. 2 stage
+1013	Defeat Doge at Empire of Cats Ch. 2. *Once at any (non-Zombie) Empire Ch. 2 stage
+1014	Defeat Doge at Empire of Cats Ch. 2. *Once at any (non-Zombie) Empire Ch. 2 stage
+1100	Defeat Doge at Empire of Cats Ch. 3. *Once at any (non-Zombie) Empire Ch. 3 stage
+1101	Defeat Doge at Empire of Cats Ch. 3. *Once at any (non-Zombie) Empire Ch. 3 stage
+1102	Defeat Doge at Empire of Cats Ch. 3. *Once at any (non-Zombie) Empire Ch. 3 stage
+1103	Defeat Doge at Empire of Cats Ch. 3. *Once at any (non-Zombie) Empire Ch. 3 stage
+1104	Defeat Doge at Empire of Cats Ch. 3. *Once at any (non-Zombie) Empire Ch. 3 stage
+1105	Defeat Doge at Empire of Cats Ch. 3. *Once at any (non-Zombie) Empire Ch. 3 stage
+1106	Defeat Doge at Empire of Cats Ch. 3. *Once at any (non-Zombie) Empire Ch. 3 stage
+1107	Defeat Doge at Empire of Cats Ch. 3. *Once at any (non-Zombie) Empire Ch. 3 stage
+1108	Defeat Doge at Empire of Cats Ch. 3. *Once at any (non-Zombie) Empire Ch. 3 stage
+1109	Defeat Doge at Empire of Cats Ch. 3. *Once at any (non-Zombie) Empire Ch. 3 stage
+1110	Defeat Doge at Empire of Cats Ch. 3. *Once at any (non-Zombie) Empire Ch. 3 stage
+1111	Defeat Doge at Empire of Cats Ch. 3. *Once at any (non-Zombie) Empire Ch. 3 stage
+1112	Defeat Doge at Empire of Cats Ch. 3. *Once at any (non-Zombie) Empire Ch. 3 stage
+1113	Defeat Doge at Empire of Cats Ch. 3. *Once at any (non-Zombie) Empire Ch. 3 stage
+1114	Defeat Doge at Empire of Cats Ch. 3. *Once at any (non-Zombie) Empire Ch. 3 stage
+1200	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1201	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1202	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1203	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1204	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1205	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1206	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1207	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1208	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1209	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1210	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1211	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1212	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1213	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1214	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1215	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1216	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1217	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1218	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1219	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1220	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1221	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1222	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1223	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1224	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1225	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1226	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1227	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1228	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1229	Defeat Doge at Into the Future Ch. 1. *Once at any (non-Zombie) Future Ch. 1 stage
+1300	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1301	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1302	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1303	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1304	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1305	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1306	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1307	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1308	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1309	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1310	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1311	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1312	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1313	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1314	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1315	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1316	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
+1317	Defeat Doge at Into the Future Ch. 2. *Once at any (non-Zombie) Future Ch. 2 stage
 1318	Defeat "Doge" at. a Level 1 Stories of Legend Stage!
 1319	Defeat "Doge" at. a Level 1 Stories of Legend Stage!
 1320	Defeat "Doge" at. a Level 1 Stories of Legend Stage!
@@ -319,23 +319,23 @@
 1333	Defeat "Doge" at. a Level 1 Stories of Legend Stage!
 1334	Defeat Doge at Crimson Catastrophe. (Once at any Crimson Catastrophe stage)
 1335	Defeat Doge at Heaven of Darkness. (Once at any Heaven of Darkness stage)
-1400	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1401	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1402	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1403	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1404	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1405	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1406	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1407	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1408	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1409	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1410	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1411	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1412	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1413	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1414	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1415	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
-1416	Defeat Doge at Into the Future Ch. 3. (Once at any Into the Future Ch. 3 stage)
+1400	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1401	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1402	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1403	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1404	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1405	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1406	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1407	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1408	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1409	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1410	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1411	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1412	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1413	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1414	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1415	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
+1416	Defeat Doge at Into the Future Ch. 3. *Once at any (non-Zombie) Future Ch. 3 stage
 1417	Defeat "Doge" at. a Level 1 Stories of Legend stage!
 1418	Defeat "Doge" at. a Level 1 Stories of Legend stage!
 1419	Defeat "Doge" at. a Level 1 Stories of Legend stage!
@@ -355,23 +355,23 @@
 1433	Defeat "Doge" at. a Level 1 Stories of Legend stage!
 1434	Defeat Doge at Peerless. (Once at any Peerless stage)
 1435	Defeat Doge at Wrath of Heaven. (Once at any Wrath of Heaven stage)
-1500	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1501	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1502	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1503	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1504	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1505	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1506	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1507	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1508	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1509	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1510	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1511	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1512	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1513	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1514	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1515	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
-1516	Defeat Doge at Cats of the Cosmos Ch. 1. (Once at any Cats of the Cosmos Ch. 1 stage)
+1500	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1501	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1502	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1503	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1504	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1505	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1506	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1507	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1508	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1509	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1510	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1511	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1512	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1513	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1514	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1515	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
+1516	Defeat Doge at Cats of the Cosmos Ch. 1. *Once at any (non-Zombie) Cosmos Ch. 1 stage
 1517	Defeat "Snache" at. a Level 2 Stories of Legend stage!
 1518	Defeat "Snache" at. a Level 2 Stories of Legend stage!
 1519	Defeat "Snache" at. a Level 2 Stories of Legend stage!
@@ -391,26 +391,26 @@
 1533	Defeat "Snache" at. a Level 2 Stories of Legend stage!
 1534	Defeat Doge at Sweet Irony. (Once at any Sweet Irony stage)
 1535	Defeat Doge at Dimension of Despair. (Once at any Dimension of Despair stage)
-1600	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1601	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1602	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1603	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1604	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1605	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1606	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1607	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1608	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1609	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1610	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1611	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1612	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1613	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1614	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1615	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1616	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1617	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1618	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
-1619	Defeat Doge at Cats of the Cosmos Ch. 2. (Once at any Cats of the Cosmos Ch. 2 stage)
+1600	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1601	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1602	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1603	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1604	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1605	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1606	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1607	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1608	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1609	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1610	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1611	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1612	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1613	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1614	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1615	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1616	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1617	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1618	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
+1619	Defeat Doge at Cats of the Cosmos Ch. 2. *Once at any (non-Zombie) Cosmos Ch. 2 stage
 1620	Defeat "Doge" at. a Level 1 Stories of Legend stage!
 1621	Defeat "Doge" at. a Level 1 Stories of Legend stage!
 1622	Defeat "Doge" at. a Level 1 Stories of Legend stage!
@@ -427,26 +427,26 @@
 1633	Defeat "Doge" at. a Level 1 Stories of Legend stage!
 1634	Defeat Doge at Red Sky at Morning. (Once at any Red Sky at Morning stage)
 1635	Defeat Doge at The Rolling Dead. (Once at any The Rolling Dead stage)
-1700	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1701	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1702	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1703	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1704	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1705	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1706	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1707	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1708	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1709	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1710	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1711	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1712	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1713	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1714	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1715	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1716	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1717	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1718	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
-1719	Defeat Doge at Cats of the Cosmos Ch. 3. (Once at any Cats of the Cosmos Ch. 3 stage)
+1700	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1701	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1702	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1703	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1704	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1705	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1706	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1707	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1708	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1709	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1710	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1711	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1712	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1713	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1714	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1715	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1716	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1717	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1718	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
+1719	Defeat Doge at Cats of the Cosmos Ch. 3. *Once at any (non-Zombie) Cosmos Ch. 3 stage
 1720	Defeat "Doge" at. a Level 1 Stories of Legend stage!
 1721	Defeat "Doge" at. a Level 1 Stories of Legend stage!
 1722	Defeat "Doge" at. a Level 1 Stories of Legend stage!
@@ -890,10 +890,10 @@
 9535	[Beginner Campaign] Clear Empire of Cats Japan stage. and earn Leadership to recover Cat Energy!
 66	Defeat the lifeform in Ancient Forest Labyrinth. Lv.1 Stage 6
 67	[Catclaw Championships] Clear 9 stages of Catclaw Championships Rank 1
-68	[Catclaw Championships] Get 4 Legend Cats. Progress in Legend
-69	[Catclaw Championships] Get 4 Legend Cats. Progress in Legend
-70	[Catclaw Championships] Get 4 Legend Cats. Progress in Legend
-71	[Catclaw Championships] Get 4 Legend Cats. Progress in Legend
+68	[Catclaw Championships] Get 4 Mythic Cats. Progress in Legend
+69	[Catclaw Championships] Get 4 Mythic Cats. Progress in Legend
+70	[Catclaw Championships] Get 4 Mythic Cats. Progress in Legend
+71	[Catclaw Championships] Get 4 Mythic Cats. Progress in Legend
 9536	Clear all Road to Unification Missions. and earn a Platinum Ticket!
 9537	Clear Road to Unification Missions ① - ④. and earn Lieutenant Cat!
 9538	Road to Unification ①:. Clear Road to Unification, Stage 5!
@@ -903,6 +903,12 @@
 9542	Road to Unification ⑤：. Clear "Road to Unification Pt. 2", stage 1!
 9543	Road to Unification ⑥：. Clear "Final Battle! The Rebellious King" stage 1!
 72	Road to Unification Mission. Clear Empire of Cats Ch. 1 during the event to complete
+9544	Super Tough Mission 1: Clear Stage 6 of . "Depths of My Heart" using only units costing 1000¢ or less!
+9545	Super Tough Mission 2: Clear Stage 6 of. "The Gelatin Mines" using 9+ Normal units!
+9546	Super Tough Mission 3: Clear Stage 6 of. "Ancient Forest Labyrinth" using 8+ Super Rare units!
+9547	Super Tough Mission 4: Clear Stage 6 of. "Behemoth's Peak" using only units of 2000¢ or less!
+9548	Super Tough Mission 5: Clear Stage 1 of. "Sacred Forest" using 5 or fewer units!
+9549	Super Tough Mission 6: Clear Stage 1 of. "Zero Field" using 9+ Rare units!
 73	Double-tap a Treasure in the Treasure List to jump to that stage. Open the Treasure List from the Cat Base
 74	Tap an enemy icon on the stage select screen to jump to the. Enemy Guide. Tap the name of a cleared stage to show enemies
 75	Use Catamin A to restore stage attempts. Use Catamin A on a Legend Stage
@@ -989,6 +995,23 @@
 9638	Clear any Street Fighter 6 collab
 9639	Clear any Street Fighter 6 collab
 9640	Clear any Street Fighter 6 collab
+82	[13th Anniv.] . Clear all stages in Empire of Cats Chapter 1
+9641	13th Anniv. Special Mission 1:. Complete all missions up to [Round 3]!
+9642	13th Anniv. Special Mission 2:.  Recruit all Nyanko Rangers!
+9643	13th Anniv. Missions [Round 1]: Recruit Scarf Cat! *Check in-game info for how to unlock this unit!
+9644	13th Anniv. Missions [Round 1]:
+9645	13th Anniv. Missions [Round 1]: Clear 0. "Urgent Deployment!" stages! *After "Ep. 1: Heroes of Justice!"
+9646	13th Anniv. Missions [Round 2]: Recruit Hat Cat! *Check in-game info for how to unlock this unit!
+9647	13th Anniv. Missions [Round 2]:. Clear 9 "Ep. 2: The Face of Evil" stage(s)
+9648	13th Anniv. Missions [Round 3]: Talk to the Cat. at the Cat Base for 4 days to recruit a Ranger!
+9649	13th Anniv. Missions [Round 3]:. Clear 9 "Ep. 3: Lady of Darkness" stage(s)
+9650	13th Anniv. Missions [Round 3]:. Clear 9 "Ep. 4: Secret Training" stage(s)
+9651	13th Anniv. Missions [Round 4]: Recruit Goggles Cat! *Check in-game info for how to unlock this unit!
+9652	13th Anniv. Missions [Round 4]:. Clear 9 "Ep. 5: The Archrivals' Return" stage(s)
+9653	13th Anniv. Missions [Round 5]: Recruit Ribbon Cat! *Check in-game info for how to unlock this unit!
+9654	13th Anniv. Missions [Round 5]:. Clear 9 "Ep. 6: An Encroaching Darkness" stage(s)
+9655	13th Anniv. Missions [Round 5]:. Clear 9 "Finale: Evil's Last Stand" stage(s)
+9656	Super Tough Mission 7: Clear "Garden of Wilted Thoughts". Stage 6 with only Evolved Form units!
 9657	Clear any Valentine's Event
 9658	Clear any Valentine's Event
 9659	Clear any Valentine's Event
@@ -1013,6 +1036,18 @@
 9683	Premium Fair (Week 1):
 9684	Premium Fair (Week 2):
 9685	Premium Fair (Week 3):
+9712	[June Bride of the Devil] Earn one "The Invisible Cat" from . the Event Capsules!
+9713	[June Bride of the Devil]
+9714	[June Bride of the Devil]
+9715	[June Bride of the Devil]
+9716	[June Bride of the Devil] Clear 9 "#01 The Ghost Chapel"
+9717	[June Bride of the Devil] Clear 9 "#01 The Ghost Chapel"
+9718	[June Bride of the Devil] Clear 9 "#02 Banquet of Terror"
+9719	[June Bride of the Devil] Clear 9 "#02 Banquet of Terror"
+9720	[June Bride of the Devil] Clear 9 "#03 ??? the 13th"
+9721	[June Bride of the Devil] Clear 9 "#03 ??? the 13th"
+9722	[June Bride of the Devil] Clear 9 "#04 Yowling Village"
+9723	[June Bride of the Devil] Clear 9 "#04 Yowling Village"
 9668	Get a free Cat Ticket each day
 9669	【Progression】
 9670	【Progression】Send Gamatoto on 17 successful expeditions!

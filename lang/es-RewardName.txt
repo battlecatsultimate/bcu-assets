@@ -220,6 +220,7 @@
 228|I451	C. tesoro bronce
 229|I452	Cofre tesoro plata
 230|I453	Cofre tesoro oro
+231|S231|I454	Corazón justiciero
 232|I455	C. tesoro bronce
 233|I456	Cofre tesoro plata
 234|I457	Cofre tesoro oro
@@ -241,6 +242,10 @@
 252|I474	C. tesoro bronce
 253|I475	Cofre tesoro plata
 254|I476	Cofre tesoro oro
+255|S255|I477	Agua bendita
+256|I478	C. tesoro bronce
+257|I479	Cofre tesoro plata
+258|I480	Cofre tesoro oro
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -310,6 +315,7 @@
 1070	Gatilargo Asesino
 1071	Sabio de la lógica Newton
 1072	Gato Carpintero
+1073	Gato con Fedora
 1074	Gato del Periódico
 1075	Gatordo Asesino
 1076	Darvin Maestro de Selección

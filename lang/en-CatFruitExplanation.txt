@@ -395,7 +395,7 @@
 394	True Form evolution has a slower attack<br>rate but gains increased defense, attack<br>power and attack range!
 395	True Form evolution greatly increases<br>attack power and defense!<br>Plus, becomes Immune to Waves!
 396	True Form evolution gains improved<br>defense and Knockback count!<br>
-397	True Form Evolution gains<br>Insanely Tough defense<br>against Metal enemies!	Ultra Form evolution gains Omnistrike,<br>improved Defense, Attack and Critical chance!<br>Also increased debuff time vs. Metal enemies.
+397	True Form Evolution gains<br>Insanely Tough defense<br>against Metal enemies!	Ultra Form gains Omnistrike, improved <br>Defense, Attack and Critical chance!<br>Also increased debuff time vs. Metal.
 398	<br><br>
 399	<br><br>
 400	<br><br>
@@ -494,7 +494,7 @@
 493	<br><br>
 494	<br><br>
 495	True Form evolution gains tougher defense!<br>Plus, faster movement speed!<br>
-496	True Form evolution greatly increases <br>Defense! Plus, chance of Savage Blows<br> will also increase!
+496	True Form evolution greatly increases<br>Defense! Plus, chance of Savage Blows<br>will also increase!	Ultra Form gains improved health, speed,<br>and attack range, along with Explosions, <br>Sage Slayer, more chance of Savage Blows!
 497	<br><br>
 498	<br><br>
 499	<br><br>
@@ -859,3 +859,8 @@
 858	<br><br>
 859	<br><br>
 860	<br><br>
+861	<br><br>
+862	<br><br>
+863	<br><br>
+864	<br><br>
+865	<br><br>

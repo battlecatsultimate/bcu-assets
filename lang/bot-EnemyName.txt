@@ -747,16 +747,16 @@
 747
 748	Cammy
 749	Juri
-750	Villain Doge
-751	Evil Pigge
-752	Mrs. Peng
+750	Kaijin Doge
+751	Malizabeth
+752	Madam Peng
 753	Baron Face
-754	Big Baron Face
-755	Madam Kory
-756	Huge Madam Kory
-757	Evil Emperor Warmon
-758	Super Evil Emperor Warmon
-759	13th Anniversay Cake
+754	Archbaron Face
+755	Countess Koryessa
+756	High Countess Koryessa
+757	Emperor Warumongar
+758	Grand Emperor Warumongar
+759	13th Anniv. Doge Cake
 760	Horse Doge
 761	Rui
 762	Enmu

@@ -1247,15 +1247,15 @@
 001-262		River City Three-Leg Race ①
 001-262-000	Vs. Equipo Blanco
 001-262-001	Vs. Equipo Rojo
-001-262-002	Vs. Equipo Oscuro
+001-262-002	vs. Equipo Oscuro
 001-263		River City Three-Leg Race ②
 001-263-000	Vs. Equipo Blanco
 001-263-001	Vs. Equipo Rojo
-001-263-002	Vs. Equipo Oscuro
+001-263-002	vs. Equipo Oscuro
 001-264		River City Three-Leg Race ③
 001-264-000	Vs. Equipo Blanco
 001-264-001	Vs. Equipo Rojo
-001-264-002	Vs. Equipo Oscuro
+001-264-002	vs. Equipo Oscuro
 001-265		Parque Demoníaco
 001-265-000	Sabiduría Congelada
 001-265-001	Lago Maldito
@@ -1813,6 +1813,48 @@
 001-410		¡Espectáculo de pirotecnia!
 001-410-000	¡Fuegos artificiales! (Mortal)
 001-410-001	¡Fuegos artificiales! (Inhumano)
+001-412		Ep. 1: ¡Héroes de la justicia!
+001-412-000	Una amenaza monstruosa
+001-412-001	Crisis en la ciudad
+001-412-002	Vidas truncadas
+001-412-003	Población aterrorizada
+001-412-004	Sombras amenazantes
+001-412-005	Una entrada heroica
+001-412-006	Villanía frustrada
+001-412-007	Demonios despreciables
+001-412-008	La justicia brilla con fuerza
+001-412-009	No hay piedad para el mal
+001-413		Ep. 4: Entrenamiento secreto
+001-413-000	Prueba del Golpe al Árbol
+001-413-001	Prueba del Viento Cortante
+001-413-002	Prueba del Orbe de Hierro
+001-413-003	Prueba de la Fuerza Bruta
+001-413-004	Prueba de la Mano Dura
+001-414		Ep. 5: El regreso de los archirrivales
+001-414-000	Dos en uno
+001-414-001	Un dúo de pesadilla
+001-414-002	Aullido estruendoso
+001-414-003	Bestias distintas
+001-414-004	Enfrentamiento decisivo
+001-415		Ep. 6: Una oscuridad invasora
+001-415-000	Amenaza perversa
+001-415-001	Tiempos para la valentía
+001-415-002	Tropas del terror
+001-415-003	Al límite
+001-415-004	Una paz frágil
+001-415-005	Sonrisas que proteger
+001-415-006	Al borde de la desesperación
+001-415-007	Batalla decisiva
+001-415-008	Justicia inquebrantable
+001-415-009	La última batalla de la malicia
+001-416		Final: La última batalla del mal
+001-416-000	Amanecer de la desesperación
+001-416-001	Espíritus rotos
+001-416-002	Sombra de la esperanza
+001-416-003	Colisión con la oscuridad
+001-416-004	¡Que vivan los guardabosques Nyanko!
+001-417		¡Regalo de Cumpleaños!
+001-417-000	¡13 años de diversión!
 001-418		Recuerdos de 2025
 001-418-000	Recuerdos de primavera
 001-418-001	Recuerdos de verano
@@ -3710,6 +3752,17 @@
 004-075-000	Alerta de Tormenta
 004-076		Pronósticos Extremos
 004-076-000	Alerta de Tifón
+004-077		Ep. 1: ¡Héroes de la justicia!
+004-077-000	¡Despliegue urgente!
+004-077-001	¡Despliegue urgente!
+004-077-002	¡Despliegue urgente!
+004-077-003	¡Despliegue urgente!
+004-077-004	¡Despliegue urgente!
+004-077-005¡Despliegue urgente!
+004-077-006	¡Despliegue urgente!
+004-077-007	¡Despliegue urgente!
+004-077-008	¡Despliegue urgente!
+004-077-009	¡Despliegue urgente!
 004-078		Recuerdos de 2025
 004-078-000	Recuerdos de primavera (página 2)
 004-078-001	Recuerdos de verano (página 2)
@@ -4046,6 +4099,8 @@
 011-037-000	I Seek the Strongest
 011-038		Arena del Destino
 011-038-000	Talento para la Batalla
+011-039		Arena Honorífica
+011-039-000	Trece con suerte
 011-040		Arena del Destino
 011-040-000	Torneo de Talentos
 011-041		Arena del Destino
@@ -4054,6 +4109,14 @@
 011-042-000	Demon Slayer Elites
 011-043		Arena del Destino
 011-043-000	Torneo de Talentos
+011-044		Arena del Destino
+011-044-000	Torneo de Talentos
+011-045		Arena del Destino
+011-045-000	Torneo de Talentos
+011-046		Arena del Destino
+011-046-000	Torneo de Talentos
+011-047		Arena del Destino
+011-047-000	Torneo de Talentos
 
 012			Challenge Mode
 012-000		Batalla de Desafío
@@ -5657,6 +5720,28 @@
 024-074-007	Ceremonia Emocional
 024-074-008	Foto de Recuerdo
 024-074-009	Saludos Cordiales
+024-075		Ep. 2: El rostro del mal
+024-075-000	Un mal noble (nvl. 1)
+024-075-001	Un mal noble (nvl. 2)
+024-075-002	Un mal noble (nvl. 3)
+024-075-003	Un mal noble (nvl. 4)
+024-075-004	Un mal noble (nvl. 5)
+024-075-005	Un mal noble (nvl. 6)
+024-075-006	Un mal noble (nvl. 7)
+024-075-007	Un mal noble (nvl. 8)
+024-075-008	Un mal noble (nvl. 9)
+024-075-009	Un mal noble (nvl. MÁX.)
+024-076		Ep. 3: Dama de la oscuridad
+024-076-000	Azote de crueldad (nvl. 1)
+024-076-001	Azote de crueldad (nvl. 2)
+024-076-002	Azote de crueldad (nvl. 3)
+024-076-003	Azote de crueldad (nvl. 4)
+024-076-004	Azote de crueldad (nvl. 5)
+024-076-005	Azote de crueldad (nvl. 6)
+024-076-006	Azote de crueldad (nvl. 7)
+024-076-007	Azote de crueldad (nvl. 8)
+024-076-008	Azote de crueldad (nvl. 9)
+024-076-009	Azote de crueldad (nvl. MÁX.)
 024-077		¡El Año Nuevo más feliz!
 024-077-000	Año del Caballo (nvl. 1)
 024-077-001	Año del Caballo (nvl. 2)
@@ -6592,6 +6677,13 @@
 034-030-003	Árbol de la Discordia
 034-030-004	El Cazaseo
 034-030-005	Formas Infinitas de Extraordinaria Belleza
+034-031		Nuevo horizonte
+034-031-000	Un vasto páramo rojo
+034-031-001	Las sombras abundan
+034-031-002	Reposo del koala
+034-031-003	Una gran barrera
+034-031-004	Árbol en llamas
+034-031-005	El ombligo del gato
 
 036			Colosseum Stages
 036-000		Coliseo de Otro Mundo
@@ -6732,6 +6824,12 @@
 036-022-002	Ronda 3
 036-022-003	Ronda 4
 036-022-004	Ronda 5
+036-023		Coliseo de Otro Mundo
+036-023-000	Ronda 1
+036-023-001	Ronda 2
+036-023-002	Ronda 3
+036-023-003	Ronda 4
+036-023-004	Ronda 5
 
 037			Campeonatos Afilagarras
 037-000		Campeonatos Afilagarras Rango 1

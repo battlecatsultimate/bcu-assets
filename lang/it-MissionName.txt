@@ -223,84 +223,84 @@
 17006	Supera tutte le missioni mensili! (Completa tutte le 0 sfide mensili disponibili)
 17007	Supera tutte le missioni mensili! (Completa tutte le 0 sfide mensili disponibili)
 17008	Supera tutte le missioni mensili! (Completa tutte le 0 sfide mensili disponibili)
-1000	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1001	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1002	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1003	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1004	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1005	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1006	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1007	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1008	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1009	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1010	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1011	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1012	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1013	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1014	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.)
-1100	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1101	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1102	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1103	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1104	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1105	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1106	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1107	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1108	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1109	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1110	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1111	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1112	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1113	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1114	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.)
-1200	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1201	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1202	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1203	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1204	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1205	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1206	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1207	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1208	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1209	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1210	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1211	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1212	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1213	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1214	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1215	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1216	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1217	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1218	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1219	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1220	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1221	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1222	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1223	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1224	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1225	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1226	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1227	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1228	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1229	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta in un livello di Verso il futuro Cap. 1.)
-1300	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1301	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1302	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1303	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1304	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1305	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1306	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1307	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1308	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1309	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1310	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1311	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1312	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1313	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1314	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1315	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1316	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
-1317	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta in un livello di Verso il futuro Cap. 2.)
+1000	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.) *Esclusi livelli zombi
+1001	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.) *Esclusi livelli zombi
+1002	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.) *Esclusi livelli zombi
+1003	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.) *Esclusi livelli zombi
+1004	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.) *Esclusi livelli zombi
+1005	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.) *Esclusi livelli zombi
+1006	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.) *Esclusi livelli zombi
+1007	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.) *Esclusi livelli zombi
+1008	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.) *Esclusi livelli zombi
+1009	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.) *Esclusi livelli zombi
+1010	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.) *Esclusi livelli zombi
+1011	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.) *Esclusi livelli zombi
+1012	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.) *Esclusi livelli zombi
+1013	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.) *Esclusi livelli zombi
+1014	Sconfiggi Cane in Impero dei Gatti Cap. 2. (Una volta in un livello di Impero dei Gatti Cap. 2.) *Esclusi livelli zombi
+1100	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.) *Esclusi livelli zombi
+1101	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.) *Esclusi livelli zombi
+1102	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.) *Esclusi livelli zombi
+1103	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.) *Esclusi livelli zombi
+1104	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.) *Esclusi livelli zombi
+1105	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.) *Esclusi livelli zombi
+1106	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.) *Esclusi livelli zombi
+1107	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.) *Esclusi livelli zombi
+1108	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.) *Esclusi livelli zombi
+1109	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.) *Esclusi livelli zombi
+1110	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.) *Esclusi livelli zombi
+1111	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.) *Esclusi livelli zombi
+1112	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.) *Esclusi livelli zombi
+1113	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.) *Esclusi livelli zombi
+1114	Sconfiggi Cane in Impero dei Gatti Cap. 3. (Una volta in un livello di Impero dei Gatti Cap. 3.) *Esclusi livelli zombi
+1200	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1201	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1202	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1203	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1204	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1205	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1206	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1207	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1208	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1209	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1210	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1211	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1212	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1213	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1214	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1215	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1216	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1217	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1218	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1219	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1220	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1221	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1222	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1223	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1224	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1225	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1226	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1227	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1228	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1229	Sconfiggi Cane in Verso il futuro Cap. 1. (Una volta, in un livello di Verso il futuro Cap. 1.) *Esclusi livelli zombi
+1300	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1301	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1302	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1303	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1304	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1305	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1306	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1307	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1308	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1309	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1310	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1311	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1312	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1313	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1314	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1315	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1316	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
+1317	Sconfiggi Cane in Verso il futuro Cap. 2. (Una volta, in un livello di Verso il futuro Cap. 2.) *Esclusi livelli zombi
 1318	Sconfiggi Cane a. un livello 1 delle Saghe leggendarie!
 1319	Sconfiggi Cane a. un livello 1 delle Saghe leggendarie!
 1320	Sconfiggi Cane a. un livello 1 delle Saghe leggendarie!
@@ -319,23 +319,23 @@
 1333	Sconfiggi Cane a. un livello 1 delle Saghe leggendarie!
 1334	Sconfiggi Cane in Catastrofe cremisi. (Una volta in un livello di Catastrofe cremisi.)
 1335	Sconfiggi Cane in Paradiso delle tenebre. (Una volta in un livello di Paradiso delle tenebre.)
-1400	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1401	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1402	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1403	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1404	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1405	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1406	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1407	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1408	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1409	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1410	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1411	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1412	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1413	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1414	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1415	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
-1416	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta in un livello di Verso il futuro Cap. 3.)
+1400	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1401	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1402	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1403	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1404	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1405	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1406	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1407	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1408	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1409	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1410	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1411	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1412	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1413	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1414	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1415	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
+1416	Sconfiggi Cane in Verso il futuro Cap. 3. (Una volta, in un livello di Verso il futuro Cap. 3.) *Esclusi livelli zombi
 1417	Sconfiggi Cane a. un livello 1 delle Saghe leggendarie!
 1418	Sconfiggi Cane a. un livello 1 delle Saghe leggendarie!
 1419	Sconfiggi Cane a. un livello 1 delle Saghe leggendarie!
@@ -355,23 +355,23 @@
 1433	Sconfiggi Cane a. un livello 1 delle Saghe leggendarie!
 1434	Sconfiggi Cane in Ineguagliabile. (Una volta in un livello di Ineguagliabile.)
 1435	Sconfiggi Cane in Ira del paradiso. (Una volta in ogni livello di Ira del paradiso.)
-1500	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1501	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1502	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1503	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1504	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1505	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1506	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1507	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1508	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1509	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1510	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1511	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1512	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1513	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1514	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1515	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
-1516	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1500	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1501	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1502	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1503	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1504	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1505	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1506	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1507	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1508	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1509	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1510	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1511	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1512	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1513	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1514	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1515	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
+1516	Sconfiggi Cane in Gatti del Cosmo Cap. 1. (Una volta, in un livello di Gatti del Cosmo Cap. 1) *Esclusi livelli zombi
 1517	Sconfiggi Serpe a. un livello 2 delle Saghe leggendarie!
 1518	Sconfiggi Serpe a. un livello 2 delle Saghe leggendarie!
 1519	Sconfiggi Serpe a. un livello 2 delle Saghe leggendarie!
@@ -391,26 +391,26 @@
 1533	Sconfiggi Serpe a. un livello 2 delle Saghe leggendarie!
 1534	Sconfiggi Cane in Dolce ironia. (Una volta in un livello di Dolce ironia.)
 1535	Sconfiggi Cane in Dimensione disperata. (Una volta in un livello di Dimensione disperata.)
-1600	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1601	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1602	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1603	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1604	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1605	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1606	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1607	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1608	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1609	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1610	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1611	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1612	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1613	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1614	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1615	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1616	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1617	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1618	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
-1619	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1600	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1601	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1602	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1603	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1604	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1605	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1606	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1607	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1608	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1609	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1610	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1611	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1612	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1613	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1614	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1615	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1616	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1617	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1618	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
+1619	Sconfiggi Cane in Gatti del Cosmo Cap. 2. (Una volta, in un livello di Gatti del Cosmo Cap. 2) *Esclusi livelli zombi
 1620	Sconfiggi Cane a. un livello 1 delle Saghe leggendarie!
 1621	Sconfiggi Cane a. un livello 1 delle Saghe leggendarie!
 1622	Sconfiggi Cane a. un livello 1 delle Saghe leggendarie!
@@ -427,26 +427,26 @@
 1633	Sconfiggi Cane a. un livello 1 delle Saghe leggendarie!
 1634	Sconfiggi Cane in Rosso di mattina. (Una volta in un livello di Rosso di mattina.)
 1635	Sconfiggi Cane in Morti rotolanti. (Una volta in un livello di Morti rotolanti.)
-1700	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1701	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1702	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1703	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1704	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1705	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1706	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1707	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1708	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1709	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1710	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1711	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1712	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1713	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1714	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1715	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1716	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1717	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1718	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
-1719	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1700	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1701	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1702	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1703	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1704	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1705	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1706	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1707	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1708	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1709	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1710	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1711	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1712	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1713	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1714	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1715	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1716	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1717	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1718	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
+1719	Sconfiggi Cane in Gatti del Cosmo Cap. 3. (Una volta, in un livello di Gatti del Cosmo Cap. 3) *Esclusi livelli zombi
 1720	Sconfiggi Cane a. un livello 1 delle Saghe leggendarie!
 1721	Sconfiggi Cane a. un livello 1 delle Saghe leggendarie!
 1722	Sconfiggi Cane a. un livello 1 delle Saghe leggendarie!
@@ -883,9 +883,9 @@
 9528	Supera i livelli dell'evento Halloween. 9 volte! (Qualsiasi livello evento)
 9529	Acquista un oggetto in evidenza dalle. capsule dell'evento Festa di Halloween!
 9530	Supera tutte le missioni dell'evento Halloween. e ottieni 1 biglietto raro!
-9531	[Campagna principianti] Supera 9 livelli di Impero dei Gatti. (Qualsiasi livello di Impero dei Gatti)
-9532	[Campagna principianti] Supera 9 livelli di Impero dei Gatti. (Qualsiasi livello di Impero dei Gatti)
-9533	[Campagna principianti] Supera 9 livelli di Impero dei Gatti. (Qualsiasi livello di Impero dei Gatti)
+9531	[Campagna principianti] Supera 9 livelli di Impero dei Gatti. (Qualsiasi livello di Impero dei Gatti) *Esclusi livelli zombi
+9532	[Campagna principianti] Supera 9 livelli di Impero dei Gatti. (Qualsiasi livello di Impero dei Gatti) *Esclusi livelli zombi
+9533	[Campagna principianti] Supera 9 livelli di Impero dei Gatti. (Qualsiasi livello di Impero dei Gatti) *Esclusi livelli zombi
 9534	[Campagna principianti] Supera Giappone di Impero. dei Gatti e ottieni 1 biglietto raro per capsule rare!
 9535	[Campagna principianti] Supera Giappone di Impero dei. Gatti e ottieni leadership per recuperare energia felina!
 66	Sconfiggi la forma di vita nel Labirinto antica foresta. Liv.1 fase 6
@@ -903,6 +903,12 @@
 9542	La via dell'unificazione ⑤: . supera "La via dell'unificazione p.2", livello 1!
 9543	La via dell'unificazione ⑥：. Supera il livello 1 di "Battaglia finale! Il re ribelle"!
 72	Missione La via dell'unificazione: supera. Impero dei Gatti Cap. 1 durante l'evento per completare
+9544	Missione super tosta 1: supera il livello 6 di "Nel profondo del mio cuore" schierando. solo unità dal costo di 1000¢ o inferiore!
+9545	Missione super tosta 2: supera il livello 6 di "Miniere di gelatina" con 9 o più. unità normali nella tua formazione!
+9546	Missione super tosta 3: supera il livello 6 di "Labirinto antica foresta" con 8 o più. unità Super rare nella tua formazione!
+9547	Missione super tosta 4: supera il livello 6 di "Vetta del Behemoth" schierando. solo unità dal costo di 2000¢ o inferiore!
+9548	Missione super tosta 5: supera il livello 1 di "Foresta sacra" con 5 o meno. unità nella tua formazione!
+9549	Missione super tosta 6: supera il livello 1 di "Campo Zero" con 9 o più. unità rare nella tua formazione!
 73	Tocca 2 volte un Tesoro nella Lista per saltare al livello. Apri la Lista tesori dalla Base felina
 74	Tocca l'icona nemico nella schermata di sel. liv. e apri la. Guida ai nemici. Tocca nome liv. sup. per mostrare i nemici
 75	Usa Vitamiao A per ripristinare i tentativi di un livello. Usa Vitamiao A in un livello leggendario
@@ -990,6 +996,23 @@
 9638	Clear any Street Fighter 6 collab
 9639	Clear any Street Fighter 6 collab
 9640	Clear any Street Fighter 6 collab
+82	[13° anniversario]. Supera tutti i livelli di Impero dei Gatti Capitolo 1
+9641	Missione speciale 1 del 13° anniversario:. completa tutte le missioni fino al [Round 3]!
+9642	Missione speciale 2 del 13° anniversario:. recluta tutti i Ranger Nyanko!
+9643	Missioni 13° anniversario [Round 1]: recluta Gatto sciarpa! *Consulta le informazioni nel gioco per scoprire come sbloccare questa unità!
+9644	Missioni 13° anniversario [Round 1]: supera 9 livello/i di "Ep. 1: Eroi della giustizia!"
+9645	Missioni 13° anniversario [Round 1]: supera 0 livelli di "Schieramento urgente!". *Appare dopo aver superato Ep. 1: Eroi della giustizia!
+9646	Missioni 13° anniversario [Round 2]: recluta Gatto cappello! *Consulta le informazioni nel gioco per scoprire come sbloccare questa unità!
+9647	Missioni 13° anniversario [Round 2]:. supera 9 livello/i di "Ep. 2: Il volto del male"
+9648	Missioni 13° anniversario [Round 3]: parla con il Gatto. alla Base felina per 4 giorni per reclutare un Ranger!
+9649	Missioni 13° anniversario [Round 3]:. supera 9 livello/i di "Ep. 3: La signora delle tenebre"
+9650	Missioni 13° anniversario [Round 3]:. supera 9 livello/i di "Ep. 4: Addestramento segreto"
+9651	Missioni 13° anniversario [Round 4]: recluta Gatto occhialone! *Consulta le informazioni nel gioco per scoprire come sbloccare questa unità!
+9652	Missioni 13° anniversario [Round 4]:. supera 9 livello/i di "Ep. 5: Il ritorno degli arcirivali"
+9653	Missioni 13° anniversario [Round 5]: recluta Gatto fiocco! *Consulta le informazioni nel gioco per scoprire come sbloccare questa unità!
+9654	Missioni 13° anniversario [Round 5]:. supera 9 livello/i di "Ep. 6: Oscurità che avanza"
+9655	Missioni 13° anniversario [Round 5]:. supera 9 livello/i di "Finale: L'ultima sfida del male"
+9656	Missione super tosta 7: supera il livello 6 di "Giardino dei pensieri sfioriti" con. solo unità Evoluta (seconda forma) nella tua formazione!
 9657	Clear any Valentine's Event
 9658	Clear any Valentine's Event
 9659	Clear any Valentine's Event
@@ -1014,6 +1037,18 @@
 9683	【Fiera premium】(settimana 1):. supera qualsiasi livello di The Battle Cats (0). ()
 9684	【Fiera premium】(settimana 2):. supera qualsiasi livello di The Battle Cats (0). ()
 9685	【Fiera premium】(settimana 3):. supera qualsiasi livello di The Battle Cats (0). ()
+9712	[Sposa di giugno del diavolo] Ottieni un'unità "Il gatto invisibile" dalle. capsule evento!
+9713	[Sposa di giugno del diavolo]:. supera 9 o più livelli di Sposa di giugno del diavolo
+9714	[Sposa di giugno del diavolo]:. supera 9 o più livelli di Sposa di giugno del diavolo
+9715	[Sposa di giugno del diavolo]:. supera 9 o più livelli di Sposa di giugno del diavolo
+9716	[Sposa di giugno del diavolo]: supera 9 o più livelli di "01: La cappella fantasma". durante Sposa di giugno del diavolo
+9717	[Sposa di giugno del diavolo]: supera 9 o più livelli di "01: La cappella fantasma". durante Sposa di giugno del diavolo
+9718	[Sposa di giugno del diavolo]: supera 9 o più livelli di "02: Banchetto del terrore". durante Sposa di giugno del diavolo
+9719	[Sposa di giugno del diavolo]: supera 9 o più livelli di "02: Banchetto del terrore". durante Sposa di giugno del diavolo
+9720	[Sposa di giugno del diavolo]: supera 9 o più livelli di "03: ??? 13". durante Sposa di giugno del diavolo
+9721	[Sposa di giugno del diavolo]: supera 9 o più livelli di "03: ??? 13". durante Sposa di giugno del diavolo
+9722	[Sposa di giugno del diavolo]: supera 9 o più livelli di "04: Villaggio ululante". durante Sposa di giugno del diavolo
+9723	[Sposa di giugno del diavolo]: supera 9 o più livelli di "04: Villaggio ululante". durante Sposa di giugno del diavolo
 9668	【Progresso】Sorteggia una Miaocapsula 0 volte! (Un miaobiglietto gratis al giorno da usare una volta)
 9669	【Progresso】. Supera 0 livello/i di The Battle Cats
 9670	【Progresso】Manda Gamatoto in 17 spedizioni riuscite! (Completa 3 spedizioni in un'area Gamatoto: )

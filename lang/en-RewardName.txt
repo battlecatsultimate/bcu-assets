@@ -220,6 +220,7 @@
 228|I451	Treasure Chest (Bronze)
 229|I452	Treasure Chest (Silver)
 230|I453	Treasure Chest (Gold)
+231|S231|I454	Justice Heart
 232|I455	Treasure Chest (Bronze)
 233|I456	Treasure Chest (Silver)
 234|I457	Treasure Chest (Gold)
@@ -241,6 +242,10 @@
 252|I474	Treasure Chest (Bronze)
 253|I475	Treasure Chest (Silver)
 254|I476	Treasure Chest (Gold)
+255|S255|I477	Holy Water
+256|I478	Treasure Chest (Bronze)
+257|I479	Treasure Chest (Silver)
+258|I480	Treasure Chest (Gold)
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -310,6 +315,7 @@
 1070	Killer Gross Cat
 1071	Master of Logic Newton
 1072	Carpenter Cat
+1073	Fedora Cat
 1074	Paperboy Cat
 1075	Killer Cowbird Cat
 1076	Master of Selection Darvin
@@ -541,7 +547,7 @@
 15153	Slapstick Cats
 15154	Catophone
 15159	Immortal Kenshin
-15160	Divine Kalisa
+15160	Divine Kalisa χ
 15161	Gekirinchi
 15162	Manic Princess Punt
 15169	Assassinlan Pasalan

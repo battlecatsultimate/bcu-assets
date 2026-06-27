@@ -1813,6 +1813,48 @@
 001-410		Spettacolo di fuochi d'artificio!
 001-410-000	Fuochi d'artificio! (Letali)
 001-410-001	Fuochi d'artificio! (Spietati)
+001-412		Ep. 1: Eroi della giustizia!
+001-412-000	Una mostruosa minaccia
+001-412-001	Città in crisi
+001-412-002	Vite interrotte
+001-412-003	Popolazione nel panico
+001-412-004	Ombre incombenti
+001-412-005	Un'entrata eroica
+001-412-006	Malvagità sventata
+001-412-007	Spregevoli diavoli
+001-412-008	La giustizia risplende
+001-412-009	Nessuna pietà per il male
+001-413		Ep. 4: Addestramento segreto
+001-413-000	Prova dei tre attacchi
+001-413-001	Prova del fendente del vento
+001-413-002	Prova della sfera di ferro
+001-413-003	Prova della forza bruta
+001-413-004	Prova dell'amore tenace
+001-414		Ep. 5: Il ritorno degli arcirivali
+001-414-000	Due diventano uno
+001-414-001	Squadra da incubo
+001-414-002	Ululato dirompente
+001-414-003	Bestie diverse
+001-414-004	Resa dei conti da cardiopalmo
+001-415		Ep. 6: Oscurità che avanza
+001-415-000	Minaccia dei malvagi
+001-415-001	Il tempo del coraggio
+001-415-002	Truppe del terrore
+001-415-003	A un passo dal cedimento
+001-415-004	Una pace fragile
+001-415-005	Sorrisi da proteggere
+001-415-006	Sull'orlo della disperazione
+001-415-007	Battaglia determinante
+001-415-008	Giustizia inflessibile
+001-415-009	L'ultima sfida della malvagità
+001-416		Finale: L'ultima sfida del male
+001-416-000	Alba di disperazione
+001-416-001	Spiriti spezzati
+001-416-002	Ombra della speranza
+001-416-003	Scontro con le tenebre
+001-416-004	Ranger Nyanko per sempre!
+001-417		Regalo di compleanno!
+001-417-000	13 anni di divertimento!
 001-418		Ricordi del 2025
 001-418-000	Ricordi primaverili
 001-418-001	Ricordi estivi
@@ -3710,6 +3752,17 @@
 004-075-000	Allerta temporale
 004-076		Previsioni senza precedenti
 004-076-000	Allerta tifone
+004-077		Ep. 1: Eroi della giustizia!
+004-077-000	Schieramento urgente!
+004-077-001	Schieramento urgente!
+004-077-002	Schieramento urgente!
+004-077-003	Schieramento urgente!
+004-077-004	Schieramento urgente!
+004-077-005	Schieramento urgente!
+004-077-006	Schieramento urgente!
+004-077-007	Schieramento urgente!
+004-077-008	Schieramento urgente!
+004-077-00	Schieramento urgente!
 004-078		Ricordi del 2025
 004-078-000	Ricordi primaverili Pag. 2
 004-078-001	Ricordi estivi Pag. 2
@@ -4046,6 +4099,8 @@
 011-037-000	I Seek the Strongest
 011-038		Arena del destino
 011-038-000	Talento per combattere
+011-039		Arena dell'onore
+011-039-000	Il tredici fortunato
 011-040		Arena del destino
 011-040-000	Torneo talenti
 011-041		Arena del destino
@@ -4054,6 +4109,14 @@
 011-042-000	Demon Slayer Elites
 011-043		Arena del destino
 011-043-000	Torneo talenti
+011-044		Arena del destino
+011-044-000	Torneo talenti
+011-045		Arena del destino
+011-045-000	Torneo talenti
+011-046		Arena del destino
+011-046-000	Torneo talenti
+011-047		Arena del destino
+011-047-000	Torneo talenti
 
 012			Challenge Mode
 012-000		Battaglia sfida
@@ -5657,6 +5720,28 @@
 024-074-007	Cerimonia emozionante
 024-074-008	Foto commemorativa
 024-074-009	Cordiali saluti
+024-075		Ep. 2: Il volto del male
+024-075-000	Un nobile male - Liv. 1
+024-075-001	Un nobile male - Liv. 2
+024-075-002	Un nobile male - Liv. 3
+024-075-003	Un nobile male - Liv. 4
+024-075-004	Un nobile male - Liv. 5
+024-075-005	Un nobile male - Liv. 6
+024-075-006	Un nobile male - Liv. 7
+024-075-007	Un nobile male - Liv. 8
+024-075-008	Un nobile male - Liv. 9
+024-075-009	Un nobile male - Liv. MAX
+024-076		Ep. 3: La signora delle tenebre
+024-076-000	Il flagello della crudeltà - Liv. 1
+024-076-001	Il flagello della crudeltà - Liv. 2
+024-076-002	Il flagello della crudeltà - Liv. 3
+024-076-003	Il flagello della crudeltà - Liv. 4
+024-076-004	Il flagello della crudeltà - Liv. 5
+024-076-005	Il flagello della crudeltà - Liv. 6
+024-076-006	Il flagello della crudeltà - Liv. 7
+024-076-007	Il flagello della crudeltà - Liv. 8
+024-076-008	Il flagello della crudeltà - Liv. 9
+024-076-009	Il flagello della crudeltà - Liv. MAX
 024-077		Un felicissimo anno nuovo!
 024-077-000	Anno del cavallo Liv. 1
 024-077-001	Anno del cavallo Liv. 2
@@ -6592,6 +6677,13 @@
 034-030-003	L'albero della discordia
 034-030-004	Colosselezione
 034-030-005	Forme infinite di bellezza senza pari
+034-031		Nuovo orizzonte
+034-031-000	Uno sterminato deserto rosso
+034-031-001	Ombre a non finire
+034-031-002	Il riposo del koala
+034-031-003	Una grandiosa barriera
+034-031-004	Bosco in fiamme
+034-031-005	L'ombelico del gatto
 
 036			Colosseum Stages
 036-000		Colosseo ultraterreno
@@ -6732,6 +6824,12 @@
 036-022-002	Round 3
 036-022-003	Round 4
 036-022-004	Round 5
+036-023		Colosseo ultraterreno
+036-023-000	Round 1
+036-023-001	Round 2
+036-023-002	Round 3
+036-023-003	Round 4
+036-023-004	Round 5
 
 037			Campionati miciodiali
 037-000		Campionati miciodiali Grado 1

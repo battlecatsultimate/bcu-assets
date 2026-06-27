@@ -494,7 +494,7 @@
 493	<br><br>
 494	<br><br>
 495	Forma Reale ottiene difesa rinforzata<br>e maggiore velocità di movimento!<br>
-496	La Forma Reale aumenta molto<br>la difesa. Inoltre, anche la possibilità<br>di colpi letali aumenterà.
+496	La Forma Reale aumenta molto<br>la difesa. Inoltre, anche la possibilità<br>di colpi letali aumenterà.	La Forma ultra ha più salute, velocità<br>e raggio d'att., con esplosioni,<br>Sterm. di saggi e prob. di colpi letali!
 497	<br><br>
 498	<br><br>
 499	<br><br>
@@ -859,3 +859,8 @@
 858	<br><br>
 859	<br><br>
 860	<br><br>
+861	<br><br>
+862	<br><br>
+863	<br><br>
+864	<br><br>
+865	<br><br>

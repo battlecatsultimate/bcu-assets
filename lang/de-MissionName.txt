@@ -223,84 +223,84 @@
 17006	Schließe alle Monatsmissionen ab!
 17007	Schließe alle Monatsmissionen ab!
 17008	Schließe alle Monatsmissionen ab!
-1000	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1001	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1002	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1003	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1004	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1005	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1006	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1007	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1008	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1009	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1010	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1011	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1012	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1013	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1014	Besiege Hund in Katzenimperium Kap. 2. (1x in einem beliebigen Level von Katzenimperium Kap. 2)
-1100	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1101	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1102	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1103	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1104	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1105	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1106	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1107	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1108	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1109	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1110	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1111	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1112	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1113	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1114	Besiege Hund in Katzenimperium Kap. 3. (1x in einem beliebigen Level von Katzenimperium Kap. 3)
-1200	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1201	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1202	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1203	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1204	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1205	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1206	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1207	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1208	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1209	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1210	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1211	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1212	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1213	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1214	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1215	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1216	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1217	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1218	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1219	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1220	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1221	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1222	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1223	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1224	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1225	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1226	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1227	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1228	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1229	Besiege Hund in Zukunftsreise Kap. 1. (1x in einem beliebigen Level von Zukunftsreise Kap. 1)
-1300	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1301	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1302	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1303	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1304	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1305	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1306	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1307	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1308	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1309	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1310	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1311	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1312	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1313	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1314	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1315	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1316	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
-1317	Besiege Hund in Zukunftsreise Kap. 2. (1x in einem beliebigen Level von Zukunftsreise Kap. 2)
+1000	Besiege Hund 1-mal in Katzenimperium Kap. 2. *Außer Zombie-Level
+1001	Besiege Hund 1-mal in Katzenimperium Kap. 2. *Außer Zombie-Level
+1002	Besiege Hund 1-mal in Katzenimperium Kap. 2. *Außer Zombie-Level
+1003	Besiege Hund 1-mal in Katzenimperium Kap. 2. *Außer Zombie-Level
+1004	Besiege Hund 1-mal in Katzenimperium Kap. 2. *Außer Zombie-Level
+1005	Besiege Hund 1-mal in Katzenimperium Kap. 2. *Außer Zombie-Level
+1006	Besiege Hund 1-mal in Katzenimperium Kap. 2. *Außer Zombie-Level
+1007	Besiege Hund 1-mal in Katzenimperium Kap. 2. *Außer Zombie-Level
+1008	Besiege Hund 1-mal in Katzenimperium Kap. 2. *Außer Zombie-Level
+1009	Besiege Hund 1-mal in Katzenimperium Kap. 2. *Außer Zombie-Level
+1010	Besiege Hund 1-mal in Katzenimperium Kap. 2. *Außer Zombie-Level
+1011	Besiege Hund 1-mal in Katzenimperium Kap. 2. *Außer Zombie-Level
+1012	Besiege Hund 1-mal in Katzenimperium Kap. 2. *Außer Zombie-Level
+1013	Besiege Hund 1-mal in Katzenimperium Kap. 2. *Außer Zombie-Level
+1014	Besiege Hund 1-mal in Katzenimperium Kap. 2. *Außer Zombie-Level
+1100	Besiege Hund 1-mal in Katzenimperium Kap. 3. *Außer Zombie-Level
+1101	Besiege Hund 1-mal in Katzenimperium Kap. 3. *Außer Zombie-Level
+1102	Besiege Hund 1-mal in Katzenimperium Kap. 3. *Außer Zombie-Level
+1103	Besiege Hund 1-mal in Katzenimperium Kap. 3. *Außer Zombie-Level
+1104	Besiege Hund 1-mal in Katzenimperium Kap. 3. *Außer Zombie-Level
+1105	Besiege Hund 1-mal in Katzenimperium Kap. 3. *Außer Zombie-Level
+1106	Besiege Hund 1-mal in Katzenimperium Kap. 3. *Außer Zombie-Level
+1107	Besiege Hund 1-mal in Katzenimperium Kap. 3. *Außer Zombie-Level
+1108	Besiege Hund 1-mal in Katzenimperium Kap. 3. *Außer Zombie-Level
+1109	Besiege Hund 1-mal in Katzenimperium Kap. 3. *Außer Zombie-Level
+1110	Besiege Hund 1-mal in Katzenimperium Kap. 3. *Außer Zombie-Level
+1111	Besiege Hund 1-mal in Katzenimperium Kap. 3. *Außer Zombie-Level
+1112	Besiege Hund 1-mal in Katzenimperium Kap. 3. *Außer Zombie-Level
+1113	Besiege Hund 1-mal in Katzenimperium Kap. 3. *Außer Zombie-Level
+1114	Besiege Hund 1-mal in Katzenimperium Kap. 3. *Außer Zombie-Level
+1200	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1201	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1202	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1203	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1204	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1205	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1206	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1207	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1208	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1209	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1210	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1211	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1212	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1213	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1214	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1215	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1216	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1217	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1218	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1219	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1220	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1221	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1222	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1223	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1224	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1225	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1226	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1227	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1228	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1229	Besiege Hund 1-mal in Zukunftsreise Kap. 1. *Außer Zombie-Level
+1300	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1301	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1302	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1303	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1304	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1305	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1306	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1307	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1308	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1309	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1310	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1311	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1312	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1313	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1314	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1315	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1316	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
+1317	Besiege Hund 1-mal in Zukunftsreise Kap. 2. *Außer Zombie-Level
 1318	Besiege Hund in einem. legendären Level der Stufe 1!
 1319	Besiege Hund in einem. legendären Level der Stufe 1!
 1320	Besiege Hund in einem. legendären Level der Stufe 1!
@@ -319,23 +319,23 @@
 1333	Besiege Hund in einem. legendären Level der Stufe 1!
 1334	Besiege Hund in Blutrote Katastrophe. (1x in einem beliebigen Level von Blutrote Katastrophe)
 1335	Besiege Hund in Himmel der Dunkelheit. (1x in einem beliebigen Level von Himmel der Dunkelheit)
-1400	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1401	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1402	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1403	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1404	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1405	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1406	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1407	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1408	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1409	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1410	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1411	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1412	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1413	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1414	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1415	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
-1416	Besiege Hund in Zukunftsreise Kap. 3. (1x in einem beliebigen Level von Zukunftsreise Kap. 3)
+1400	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1401	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1402	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1403	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1404	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1405	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1406	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1407	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1408	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1409	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1410	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1411	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1412	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1413	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1414	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1415	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
+1416	Besiege Hund 1-mal in Zukunftsreise Kap. 3. *Außer Zombie-Level
 1417	Besiege Hund in einem. legendären Level der Stufe 1!
 1418	Besiege Hund in einem. legendären Level der Stufe 1!
 1419	Besiege Hund in einem. legendären Level der Stufe 1!
@@ -355,23 +355,23 @@
 1433	Besiege Hund in einem. legendären Level der Stufe 1!
 1434	Besiege Hund in Unvergleichlich. (1x in einem beliebigen Level von Unvergleichlich)
 1435	Besiege Hund in Zorn des Himmels. (1x in einem beliebigen Level von Zorn des Himmels)
-1500	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1501	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1502	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1503	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1504	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1505	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1506	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1507	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1508	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1509	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1510	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1511	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1512	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1513	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1514	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1515	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
-1516	Besiege Hund in Kosmische Katzen Kap. 1. (1x in einem beliebigen Lvl. von Kosmische Katzen Kap. 1)
+1500	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1501	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1502	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1503	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1504	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1505	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1506	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1507	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1508	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1509	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1510	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1511	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1512	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1513	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1514	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1515	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
+1516	Besiege Hund 1-mal in Kosmische Katzen Kap. 1. *Außer Zombie-Level
 1517	Besiege Schlänge in einem. legendären Level der Stufe 2!
 1518	Besiege Schlänge in einem. legendären Level der Stufe 2!
 1519	Besiege Schlänge in einem. legendären Level der Stufe 2!
@@ -391,26 +391,26 @@
 1533	Besiege Schlänge in einem. legendären Level der Stufe 2!
 1534	Besiege Hund in Süße Ironie. (1x in einem beliebigen Level von Süße Ironie)
 1535	Besiege Hund in Dimension der Verzweiflung. (1x in einem beliebigen Lvl. von Dimension d. Verzweiflung)
-1600	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1601	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1602	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1603	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1604	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1605	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1606	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1607	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1608	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1609	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1610	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1611	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1612	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1613	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1614	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1615	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1616	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1617	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1618	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
-1619	Besiege Hund in Kosmische Katzen Kap. 2. (1x in einem beliebigen Level von Kosmische Katzen Kap. 2)
+1600	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1601	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1602	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1603	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1604	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1605	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1606	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1607	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1608	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1609	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1610	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1611	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1612	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1613	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1614	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1615	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1616	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1617	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1618	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
+1619	Besiege Hund 1-mal in Kosmische Katzen Kap. 2. *Außer Zombie-Level
 1620	Besiege Hund in einem. legendären Level der Stufe 1!
 1621	Besiege Hund in einem. legendären Level der Stufe 1!
 1622	Besiege Hund in einem. legendären Level der Stufe 1!
@@ -427,26 +427,26 @@
 1633	Besiege Hund in einem. legendären Level der Stufe 1!
 1634	Besiege Hund in Morgenrot. (1x in einem beliebigen Level von Morgenrot)
 1635	Besiege Hund in Wandelnde Tote. (1x in einem beliebigen Level von Wandelnde Tote)
-1700	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1701	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1702	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1703	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1704	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1705	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1706	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1707	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1708	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1709	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1710	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1711	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1712	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1713	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1714	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1715	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1716	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1717	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1718	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
-1719	Besiege Hund in Kosmische Katzen Kap. 3. (1x in einem beliebigen Level von Kosmische Katzen Kap. 3)
+1700	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1701	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1702	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1703	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1704	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1705	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1706	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1707	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1708	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1709	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1710	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1711	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1712	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1713	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1714	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1715	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1716	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1717	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1718	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
+1719	Besiege Hund 1-mal in Kosmische Katzen Kap. 3. *Außer Zombie-Level
 1720	Besiege Hund in einem. legendären Level der Stufe 1!
 1721	Besiege Hund in einem. legendären Level der Stufe 1!
 1722	Besiege Hund in einem. legendären Level der Stufe 1!
@@ -883,9 +883,9 @@
 9528	Schließe Level aus „Halloween-Event“
 9529	Verdiene einen Sondergegenstand aus. den Halloween-Party-Eventkapseln!
 9530	Schließe alle Halloween-Eventmissionen ab. und verdiene 1 seltenes Ticket!
-9531	[Anfängerkampagne] Schließe 9 Katzenimperium-Level ab
-9532	[Anfängerkampagne] Schließe 9 Katzenimperium-Level ab
-9533	[Anfängerkampagne] Schließe 9 Katzenimperium-Level ab
+9531	[Anfängerkampagne] 9 Katzenimperium-Level schaffen.  *Außer Zombie-Level
+9532	[Anfängerkampagne] 9 Katzenimperium-Level schaffen.  *Außer Zombie-Level
+9533	[Anfängerkampagne] 9 Katzenimperium-Level schaffen.  *Außer Zombie-Level
 9534	[Anfängerkampagne] Schließe das Japan-Level in Katzenimperium ab. und verdiene ein seltenes Ticket für die seltenen Kapseln!
 9535	[Anfängerkampagne] Schließe das Japan-Level in Katzenimperium ab. und verdiene Führung, um Katzenenergie wiederherzustellen!
 66	Besiege die Lebensform im Uralten Waldlabyrinth. St.1 Level 6
@@ -903,6 +903,12 @@
 9542	Straße zur Einigkeit ⑤:. Schließe „Straße zur Einigkeit 2“, Level 1 ab!
 9543	Straße zur Einigkeit ⑥:. Schließe „Letzte Schlacht! Der rebellische König“ Level 1 ab!
 72	Straße-zur-Einigkeit-Mission. Schließe während des Events Katzenimperium Kapitel 1 ab
+9544	Superknifflige Mission 1: Schließe „Tiefen meines. Herzens“ Level 6 nur mit ≤ 1000¢-Einheiten ab!
+9545	Superknifflige Mission 2: Schließe Level 6 von. „Gelatinemine“ mit mind. 9 norm. Einheiten ab!
+9546	Superknifflige Mission 3: Schließe Level 6 von. „Uraltes Waldlabyrinth“ mit mind. 8 superselt. Einheiten ab!
+9547	Superknifflige Mission 4: Schließe „Behemothgipfel“ Level 6 nur mit ≤ 2000¢-Einheiten ab!
+9548	Superknifflige Mission 5: Schließe Level 1 von. „Heiliger Wald“ mit maximal 5 Einheiten ab!
+9549	Superknifflige Mission 6: Schließe Level 1 von. „Nullfeld“ mit mind. 9 seltenen Einheiten ab!
 73	Doppeltippe auf einen Schatz, um zum Level zu springen. Öffne die Schatzliste in der Katzenbasis
 74	Tippe auf ein Feindsymbol, um zur Feindefibel zu springen. Tippe auf ein abgeschl. Level, um Feinde anzuzeigen
 75	Nutze Katzamin A, um Level-Versuche wiederherzustellen. Setze Katzamin A in einem Legendenlevel ein
@@ -988,6 +994,23 @@
 9638	Clear any Street Fighter 6 collab
 9639	Clear any Street Fighter 6 collab
 9640	Clear any Street Fighter 6 collab
+82	[13. Jubiläum]. Schließe alle Level in Katzenimperium, Kapitel 1 ab
+9641	13. Jubiläum, Spezialmission 1:. Schließe alle Missionen bis [Runde 3] ab!
+9642	13. Jubiläum, Spezialmission 2:. Rekrutiere alle Nyanko-Ranger!
+9643	13. Jubiläum, Missionen [Runde 1]: Rekrutiere Schalkatze! *Schau bei Infos im Spiel, wie du diese Einheit freischaltest!
+9644	13. Jubiläum, Missionen [Runde 1]: Schließe 9 Level
+9645	13. Jubiläum, Missionen [Runde 1]: Schließe 0 Level von. „Dringender Einsatz“ ab.*Nach „Ep. 1: Helden der Gerechtigkeit!“
+9646	13. Jubiläum, Missionen [Runde 2]: Rekrutiere Hutkatze! *Schau bei Infos im Spiel, wie du diese Einheit freischaltest!
+9647	13. Jubiläum, Missionen [Runde 2]:. Schließe 9 Level von „Ep. 2: Das Antlitz des Bösen“ ab
+9648	13. Jubiläum, Missionen [Runde 3]: Sprich 4 Tage mit der. Katze in der Katzenbasis, um einen Ranger zu rekrutieren!
+9649	13. Jubiläum, Missionen [Runde 3]:. Schließe 9 Level von „Ep. 3: Die dunkle Dame“ ab
+9650	13. Jubiläum, Missionen [Runde 3]:. Schließe 9 Level von „Ep. 4: Geheimtraining“ ab
+9651	13. Jubiläum, Missionen [Runde 4]: Rekrutiere Brillenkatze! *Schau bei Infos im Spiel, wie du diese Einheit freischaltest!
+9652	13. Jubiläum, Missionen [Runde 4]: Schließe 9 Level. von „Ep. 5: Die Rückkehr des Erzrivalen“ ab
+9653	13. Jubiläum, Missionen [Runde 5]: Rekrutiere Schleifenkatze! *Schau bei Infos im Spiel, wie du diese Einheit freischaltest!
+9654	13. Jubiläum, Missionen [Runde 5]: Schließe 9 Level. von „Ep. 6: Heraufziehende Dunkelheit“ ab
+9655	13. Jubiläum, Missionen [Runde 5]: Schließe 9 Level. von „Finale: Das letzte Aufgebot des Bösen“ ab
+9656	Superknifflige Mission 7: „Garten der verdorrten. Gedanken“ Level 6: Nutze nur entw. Einheiten (2. Form)!
 9657	Clear any Valentine's Event
 9658	Clear any Valentine's Event
 9659	Clear any Valentine's Event
@@ -1012,6 +1035,18 @@
 9683	Premium-Jahrmarkt (Woche 1):
 9684	Premium-Jahrmarkt (Woche 2):
 9685	Premium-Jahrmarkt (Woche 3):
+9712	[Juni-Braut des Teufels] Verdiene eine. „Die unsichtbare Katze“ aus den Eventkapseln!
+9713	[Juni-Braut des Teufels]
+9714	[Juni-Braut des Teufels]
+9715	[Juni-Braut des Teufels]
+9716	[Juni-Braut des Teufels]. 9 Level von „#01 Die Geisterkapelle“ schaffen
+9717	[Juni-Braut des Teufels]. 9 Level von „#01 Die Geisterkapelle“ schaffen
+9718	[Juni-Braut des Teufels]. 9 Level von „#02 Bankett des Schreckens“ schaffen
+9719	[Juni-Braut des Teufels]. 9 Level von „#02 Bankett des Schreckens“ schaffen
+9720	[Juni-Braut des Teufels]. 9 Level von  „#3 ??? der 13.“ schaffen
+9721	[Juni-Braut des Teufels]. 9 Level von  „#3 ??? der 13.“ schaffen
+9722	[Juni-Braut des Teufels]
+9723	[Juni-Braut des Teufels]
 9668	Hol dir täglich ein Gratis-Katzenticket
 9669	(Fortschritt)
 9670	(Fortschritt) Schicke Gamatoto auf 17

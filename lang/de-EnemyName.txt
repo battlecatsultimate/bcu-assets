@@ -748,16 +748,16 @@
 747	
 748	Cammy
 749	Juri
-750	
-751	
-752	
-753	
-754	
-755	
-756	
-757	
-758	
-759	
+750	Kaijin-Hund
+751	Malizabeth
+752	Madame Peng
+753	Baron Antlitz
+754	Erzbaron Antlitz
+755	Gräfin Koryessa
+756	Großgräfin Koryessa
+757	Kaiser Kriegatreibar
+758	Großkaiser Kriegatreibar
+759	Hundekuchen zum 13. Jubiläum
 760	Pferdehund
 761	Rui
 762	Enmu
@@ -778,3 +778,6 @@
 777	
 778	
 779	
+780	
+781	
+782	

@@ -157,7 +157,7 @@
 156				
 157				
 158	Uesugi Kenshin	Wargod Kenshin	Immortal Kenshin	Hellrider Kenshin
-159	Kalisa	Kalisa, type χ	Divine Kalisa	
+159	Kalisa	Kalisa, type χ	Divine Kalisa χ	
 160	Yurinchi	Phoenix Yurinchi	Gekirinchi	
 161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt	
 162				
@@ -272,7 +272,7 @@
 271	Shining Amaterasu	Glorious Amaterasu	Almighty Amaterasu	
 272	Splendid Ganesha	Exalted Ganesha	Almighty Ganesha	
 273	Cheerleader Cat	Waitress Cat	Soba Cat	
-274	Tropical Kalisa	Tropical Kalisa, type X		
+274	Tropical Kalisa	Tropical Kalisa, type χ		
 275	Midsummer Rabbit	Midsummer Cat	Brightsummer Cat	
 276	Sunny Neneko	Seaside Neneko	Early Summer Neneko	
 277	Funghi	Funghi 'n' Cat		
@@ -494,7 +494,7 @@
 493	Gaia the Creator	Gaia the Supreme 		
 494	Seabreeze Coppermine	Seabreeze Coppermine, type κ		
 495	Matador Cat	Flamenco Cat	Bellydance Cat	
-496	Narita Kaihime	Wargod Kaihime	Immortal Kaihime	
+496	Narita Kaihime	Wargod Kaihime	Immortal Kaihime	Cleansing Flame Kaihime
 497	Shakurel Cat	Shakurel Macho Cat		
 498	Shakurel Lion	Shakurel Lion CC		
 499	Shakurel Tiger	Shakurel Tiger CC		
@@ -735,7 +735,7 @@
 734				
 735	Principal Cat	Midlife Crisis Cat		
 736	Frozen Rose Cat	Arctic Bloom Cat		
-737	Floral Kalisa	Floral Kalisa, type X		
+737	Floral Kalisa	Floral Kalisa, type χ		
 738	Izanami of Dusk	Izanami of Eventide		
 739				
 740	Trash Cat	Mimic Cat		
@@ -829,12 +829,12 @@
 828	Zangief Cat	Zangief Cat CC		
 829	Jamie Cat	Jamie Cat CC		
 830	Raclesa	Raclesa, type Σ		
-831				
-832				
-833				
-834				
-835				
-836				
+831	Scarf Cat	Red Nyanko Ranger		
+832	Fedora Cat	Blue Nyanko Ranger		
+833	Helmet Cat	Yellow Nyanko Ranger		
+834	Goggles Cat	Green Nyanko Ranger		
+835	Ribbon Cat	Pink Nyanko Ranger		
+836	Giga-Nyan Rex	Giga-Nyan Prime DX		
 837	Squire Luno	Lunos the Luminous		
 838				
 839				
@@ -859,3 +859,8 @@
 858				
 859	Lone Moon Lunos	Lunos the Eclipsed		
 860				
+861	Vornado	Tempest King Vornado		
+862	Hanzo the Betrothed	Hanzo the Groom		
+863	The Invisible Cat	Groom Cat		
+864				
+865				

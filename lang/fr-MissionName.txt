@@ -223,84 +223,84 @@
 17006	Termine toutes les missions mensuelles !
 17007	Termine toutes les missions mensuelles !
 17008	Termine toutes les missions mensuelles !
-1000	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1001	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1002	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1003	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1004	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1005	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1006	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1007	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1008	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1009	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1010	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1011	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1012	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1013	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1014	Élimine Toutou dans L’empire des Chats ch. 2. ※ Une fois dans un lieu de L’empire des Chats ch. 2
-1100	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1101	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1102	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1103	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1104	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1105	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1106	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1107	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1108	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1109	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1110	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1111	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1112	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1113	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1114	Élimine Toutou dans L’empire des Chats ch. 3. ※ Une fois dans un lieu de L’empire des Chats ch. 3
-1200	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1201	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1202	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1203	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1204	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1205	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1206	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1207	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1208	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1209	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1210	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1211	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1212	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1213	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1214	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1215	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1216	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1217	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1218	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1219	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1220	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1221	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1222	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1223	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1224	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1225	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1226	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1227	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1228	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1229	Élimine Toutou dans Vers le futur ch. 1. ※ Une fois dans un lieu de Vers le futur ch. 1
-1300	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1301	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1302	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1303	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1304	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1305	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1306	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1307	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1308	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1309	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1310	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1311	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1312	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1313	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1314	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1315	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1316	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
-1317	Élimine Toutou dans Vers le futur ch. 2. ※ Une fois dans un lieu de Vers le futur ch. 2
+1000	Élimine Toutou dans L’empire des Chats ch. 2. *Niveaux zombies exclus
+1001	Élimine Toutou dans L’empire des Chats ch. 2. *Niveaux zombies exclus
+1002	Élimine Toutou dans L’empire des Chats ch. 2. *Niveaux zombies exclus
+1003	Élimine Toutou dans L’empire des Chats ch. 2. *Niveaux zombies exclus
+1004	Élimine Toutou dans L’empire des Chats ch. 2. *Niveaux zombies exclus
+1005	Élimine Toutou dans L’empire des Chats ch. 2. *Niveaux zombies exclus
+1006	Élimine Toutou dans L’empire des Chats ch. 2. *Niveaux zombies exclus
+1007	Élimine Toutou dans L’empire des Chats ch. 2. *Niveaux zombies exclus
+1008	Élimine Toutou dans L’empire des Chats ch. 2. *Niveaux zombies exclus
+1009	Élimine Toutou dans L’empire des Chats ch. 2. *Niveaux zombies exclus
+1010	Élimine Toutou dans L’empire des Chats ch. 2. *Niveaux zombies exclus
+1011	Élimine Toutou dans L’empire des Chats ch. 2. *Niveaux zombies exclus
+1012	Élimine Toutou dans L’empire des Chats ch. 2. *Niveaux zombies exclus
+1013	Élimine Toutou dans L’empire des Chats ch. 2. *Niveaux zombies exclus
+1014	Élimine Toutou dans L’empire des Chats ch. 2. *Niveaux zombies exclus
+1100	Élimine Toutou dans L’empire des Chats ch. 3. *Niveaux zombies exclus
+1101	Élimine Toutou dans L’empire des Chats ch. 3. *Niveaux zombies exclus
+1102	Élimine Toutou dans L’empire des Chats ch. 3. *Niveaux zombies exclus
+1103	Élimine Toutou dans L’empire des Chats ch. 3. *Niveaux zombies exclus
+1104	Élimine Toutou dans L’empire des Chats ch. 3. *Niveaux zombies exclus
+1105	Élimine Toutou dans L’empire des Chats ch. 3. *Niveaux zombies exclus
+1106	Élimine Toutou dans L’empire des Chats ch. 3. *Niveaux zombies exclus
+1107	Élimine Toutou dans L’empire des Chats ch. 3. *Niveaux zombies exclus
+1108	Élimine Toutou dans L’empire des Chats ch. 3. *Niveaux zombies exclus
+1109	Élimine Toutou dans L’empire des Chats ch. 3. *Niveaux zombies exclus
+1110	Élimine Toutou dans L’empire des Chats ch. 3. *Niveaux zombies exclus
+1111	Élimine Toutou dans L’empire des Chats ch. 3. *Niveaux zombies exclus
+1112	Élimine Toutou dans L’empire des Chats ch. 3. *Niveaux zombies exclus
+1113	Élimine Toutou dans L’empire des Chats ch. 3. *Niveaux zombies exclus
+1114	Élimine Toutou dans L’empire des Chats ch. 3. *Niveaux zombies exclus
+1200	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1201	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1202	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1203	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1204	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1205	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1206	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1207	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1208	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1209	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1210	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1211	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1212	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1213	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1214	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1215	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1216	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1217	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1218	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1219	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1220	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1221	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1222	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1223	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1224	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1225	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1226	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1227	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1228	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1229	Élimine Toutou dans Vers le futur ch. 1. *Niveaux zombies exclus
+1300	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1301	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1302	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1303	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1304	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1305	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1306	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1307	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1308	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1309	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1310	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1311	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1312	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1313	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1314	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1315	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1316	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
+1317	Élimine Toutou dans Vers le futur ch. 2. *Niveaux zombies exclus
 1318	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
 1319	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
 1320	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
@@ -319,23 +319,23 @@
 1333	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
 1334	Élimine Toutou dans Catastrophe écarlate. ※ Une fois dans un lieu de Catastrophe écarlate
 1335	Élimine Toutou dans Paradis des ténèbres. ※ Une fois dans un lieu de Paradis des ténèbres
-1400	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1401	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1402	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1403	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1404	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1405	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1406	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1407	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1408	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1409	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1410	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1411	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1412	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1413	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1414	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1415	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
-1416	Élimine Toutou dans Vers le futur ch. 3. ※ Une fois dans un lieu de Vers le futur ch. 3
+1400	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1401	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1402	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1403	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1404	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1405	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1406	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1407	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1408	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1409	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1410	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1411	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1412	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1413	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1414	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1415	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
+1416	Élimine Toutou dans Vers le futur ch. 3. *Niveaux zombies exclus
 1417	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
 1418	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
 1419	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
@@ -355,23 +355,23 @@
 1433	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
 1434	Élimine Toutou dans Sans égal. ※ Une fois dans un lieu de Sans égal
 1435	Élimine Toutou dans Colère des cieux. ※ Une fois dans un lieu de Colère des dieux
-1500	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1501	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1502	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1503	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1504	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1505	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1506	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1507	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1508	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1509	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1510	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1511	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1512	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1513	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1514	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1515	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
-1516	Élimine Toutou dans Les Chats du cosmos ch. 1. ※ Une fois dans un lieu de Les Chats du cosmos ch. 1
+1500	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1501	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1502	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1503	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1504	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1505	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1506	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1507	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1508	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1509	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1510	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1511	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1512	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1513	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1514	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1515	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
+1516	Élimine Toutou dans Les Chats du cosmos ch. 1. *Niveaux zombies exclus
 1517	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
 1518	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
 1519	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
@@ -391,26 +391,26 @@
 1533	Élimine Serpan dans. une Histoire légendaire de niv. 2 !
 1534	Élimine Toutou dans Douce ironie. ※ Une fois dans un lieu de Douce ironie
 1535	Élimine Toutou dans Dimension désespoir. ※ Une fois dans un lieu de Dimension désespoir
-1600	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1601	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1602	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1603	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1604	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1605	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1606	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1607	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1608	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1609	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1610	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1611	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1612	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1613	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1614	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1615	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1616	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1617	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1618	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
-1619	Élimine Toutou dans Les Chats du cosmos ch. 2. ※ Une fois dans un lieu de Les Chats du cosmos ch. 2
+1600	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1601	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1602	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1603	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1604	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1605	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1606	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1607	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1608	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1609	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1610	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1611	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1612	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1613	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1614	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1615	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1616	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1617	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1618	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
+1619	Élimine Toutou dans Les Chats du cosmos ch. 2. *Niveaux zombies exclus
 1620	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
 1621	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
 1622	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
@@ -427,26 +427,26 @@
 1633	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
 1634	Élimine Toutou dans Rouge levant. ※ Une fois dans un lieu de Rouge levant
 1635	Élimine Toutou dans La mort qui roule. ※ Une fois dans un lieu de La mort qui roule
-1700	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1701	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1702	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1703	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1704	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1705	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1706	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1707	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1708	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1709	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1710	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1711	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1712	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1713	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1714	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1715	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1716	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1717	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1718	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
-1719	Élimine Toutou dans Les Chats du cosmos ch. 3. ※ Une fois dans un lieu de Les Chats du cosmos ch. 3
+1700	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1701	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1702	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1703	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1704	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1705	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1706	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1707	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1708	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1709	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1710	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1711	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1712	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1713	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1714	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1715	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1716	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1717	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1718	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
+1719	Élimine Toutou dans Les Chats du cosmos ch. 3. *Niveaux zombies exclus
 1720	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
 1721	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
 1722	Élimine Toutou dans. une Histoire légendaire de niv. 1 !
@@ -883,9 +883,9 @@
 9528	Termine des niveaux de l'événement d'Halloween
 9529	Gagne un objet vedette dans les Chapsules. de l'événement Fête d'Halloween !
 9530	Termine toutes les missions de l'événement d'Halloween. pour gagner 1 ticket rare !
-9531	[Campagne Débutant] Termine 9 niv. de L'empire des Chats
-9532	[Campagne Débutant] Termine 9 niv. de L'empire des Chats
-9533	[Campagne Débutant] Termine 9 niv. de L'empire des Chats
+9531	[Campagne Débutant] Termine 9 niveaux de L’empire des Chats
+9532	[Campagne Débutant] Termine 9 niveaux de L’empire des Chats
+9533	[Campagne Débutant] Termine 9 niveaux de L’empire des Chats
 9534	[Campagne Débutant] Termine le niv. Japon de L'empire des. Chats et gagne un ticket rare pour des Chapsules rares !
 9535	[Campagne Débutant] Termine le niv. Japon de L'empire des. Chats et gagne de l'Autorité pour récupérer du Charburant !
 66	Viens à bout de la forme de vie dans le Labyrinthe. de l'ancienne forêt, niveau 1 étape 6
@@ -903,6 +903,12 @@
 9542	Route de l’Unification ⑤ :. Termine le niveau 1 de la Route de l’Unification 2e partie !
 9543	Route de l’Unification ⑥ :. Termine le niveau 1 de Dernière bataille ! Le roi rebelle !
 72	Mission de la Route de l’Unification. Termine L’EdC ch. 1 pendant l’événement pour la terminer
+9544	Mission hyper balèze 1 : Termine le niv. 6 de « Du fond du cœur ». en déployant seulement des unités coûtant 1 000 ¢ ou moins !
+9545	Mission hyper balèze 2 : Termine le niv. 6 de « Mines de gélatine ». avec au moins 9 unités normales dans ta formation !
+9546	Mission hyper balèze 3 : Termine le niv. 6 de « Labyrinthe de l’ancienne. forêt » avec au moins 8 unités super rares dans ta formation !
+9547	Mission hyper balèze 4 : Termine le niv. 6 de « Pic de Béhémoth ». en déployant seulement des unités coûtant 2 000 ¢ ou moins !
+9548	Mission hyper balèze 5 : Termine le niv. 1 de « Forêt sacrée ». avec 5 unités ou moins dans ta formation !
+9549	Mission hyper balèze 6 : Termine le niv. 1 de « Champ zéro ». avec au moins 9 unités rares dans ta formation !
 73	Touche 2x un trésor dans la liste pour accéder au niveau. Ouvre la liste des trésors dans la base féline
 74	Ouvre le Guide ennemis depuis l’écran de choix du niveau. Touche un niveau terminé pour afficher les ennemis
 75	Utilise de la vichamine A pour reprendre les essais de niv. Utilise de la vichamine A dans un niveau légendaire
@@ -988,6 +994,23 @@
 9638	Clear any Street Fighter 6 collab
 9639	Clear any Street Fighter 6 collab
 9640	Clear any Street Fighter 6 collab
+82	[13e anniv.] . Termine tous les niveaux du chapitre 1 de l’Empire des Chats
+9641	Mission spéciale 1 du 13e anniv. :. Termine toutes les missions jusqu’à la [3e manche] !
+9642	Mission spéciale 2 du 13e anniv. :. Recrute tous les Nyanko Rangers !
+9643	Missions du 13e anniv. [1re manche] : Recrute le Chat au bandana ! *Va voir en jeu comment débloquer cette unité !
+9644	Missions du 13e anniv. [1re manche] : Termine 9 niveau(x) de
+9645	Missions du 13e anniv. [1re manche] : Termine 0 niveaux de. « Déploiement urgent ! » *Apparaît après « Ép. 1 : Héros de la justice »
+9646	Missions du 13e anniv. [2e manche] : Recrute le Chat au Borsalino ! *Va voir en jeu comment débloquer cette unité !
+9647	Missions du 13e anniv. [2e manche] :. Termine 9 niveau(x) de « Ép. 2 : Le visage du mal »
+9648	Missions du 13e anniv. [3e manche] : Parle au Chat dans. la base féline pendant 4 jours pour recruter un Ranger !
+9649	Missions du 13e anniv. [3e manche] :. Termine 9 niveau(x) de « Ép. 3 : La dame des ténèbres »
+9650	Missions du 13e anniv. [3e manche] :. Termine 9 niveau(x) de « Ép. 4 : Entraînement secret »
+9651	Missions du 13e anniv. [4e manche] : Recrute le Chat à lunettes ! *Va voir en jeu comment débloquer cette unité !
+9652	Missions du 13e anniv. [4e manche] :. Termine 9 niveau(x) de « Ép. 5 : Retour des ennemis jurés »
+9653	Missions du 13e anniv. [5e manche] : Recrute le Chat au ruban ! *Va voir en jeu comment débloquer cette unité !
+9654	Missions du 13e anniv. [5e manche] :. Termine 9 niveau(x) de « Ép. 6 : Ténèbres oppressantes »
+9655	Missions du 13e anniv. [5e manche] :. Termine 9 niveau(x) de « Final : Ultime combat du mal »
+9656	Mission hyper balèze 7 : Termine le niv. 6 de « Jardin des songes flétris ». avec seulement des unités évoluées (2e forme) dans ta formation !
 9657	Clear any Valentine's Event
 9658	Clear any Valentine's Event
 9659	Clear any Valentine's Event
@@ -1012,6 +1035,18 @@
 9683	Foire premium (semaine 1) :
 9684	Foire premium (semaine 2) :
 9685	Foire premium (semaine 3) :
+9712	[Mariée du démon de juin] Gagne un Chat invisible. dans les Chapsules de l’événement
+9713	[Mariée du démon de juin]
+9714	[Mariée du démon de juin]
+9715	[Mariée du démon de juin]
+9716	[Mariée du démon de juin] Termine 9 niveau(x) de
+9717	[Mariée du démon de juin] Termine 9 niveau(x) de
+9718	[Mariée du démon de juin] Termine 9 niveau(x) de
+9719	[Mariée du démon de juin] Termine 9 niveau(x) de
+9720	[Mariée du démon de juin] Termine 9 niveau(x) de
+9721	[Mariée du démon de juin] Termine 9 niveau(x) de
+9722	[Mariée du démon de juin] Termine 9 niveau(x) de
+9723	[Mariée du démon de juin] Termine 9 niveau(x) de
 9668	Obtiens et utilise un ticket Chapsule gratuit chaque jour
 9669	【Progression】
 9670	【Progression】Réussis 17 expéditions avec Gamatoto !

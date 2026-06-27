@@ -244,5 +244,11 @@
 3059	Appetito insaziabile
 3060	Guerrieri cosmici
 3061	Arma e spada
+101	Colpo rosso
+102	Colpo blu
+103	Colpo giallo
+104	Colpo verde
+105	Colpo rosa
 3062	Devastazione reale
 3063	Paura primordiale
+3064	Lamento della landa

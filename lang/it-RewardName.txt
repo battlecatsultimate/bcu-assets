@@ -220,6 +220,7 @@
 228|I451	Forziere (bronzo)
 229|I452	Forziere (argento)
 230|I453	Forziere (oro)
+231|S231|I454	Cuore della giustizia
 232|I455	Forziere (bronzo)
 233|I456	Forziere (argento)
 234|I457	Forziere (oro)
@@ -241,6 +242,10 @@
 252|I474	Forziere (bronzo)
 253|I475	Forziere (argento)
 254|I476	Forziere (oro)
+255|S255|I477	Acqua santa
+256|I478	Forziere (bronzo)
+257|I479	Forziere (argento)
+258|I480	Forziere (oro)
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -310,6 +315,7 @@
 1070	Gatto alto assassino
 1071	Maestro di logica Newton
 1072	Gatto carpentiere
+1073	Gatto fedora
 1074	Gatto dei giornali
 1075	Gatto uccellomucca assassino
 1076	Maestro selezione Darvin

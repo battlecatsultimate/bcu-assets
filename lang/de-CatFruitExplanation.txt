@@ -494,7 +494,7 @@
 493	<br><br>
 494	<br><br>
 495	Wahre Form gewährt erhöhte Verteidigung!<br>Plus, erhöhte Bewegungsgeschwindigkeit!<br>
-496	Wahre-Form-Entwicklung erhöht<br>Verteidigung deutlich! Außerdem steigt<br>die Chance auf wilde Schläge!
+496	Wahre-Form-Entwicklung erhöht<br>Verteidigung deutlich! Außerdem steigt<br>die Chance auf wilde Schläge!	Ultra-Form erhöht Gesundheit, Tempo,<br>Angriffsreichweite, Explosionen sowie<br>Weiser Töter, höh. Wilder-Schlag-Chance!
 497	<br><br>
 498	<br><br>
 499	<br><br>
@@ -859,3 +859,8 @@
 858	<br><br>
 859	<br><br>
 860	<br><br>
+861	<br><br>
+862	<br><br>
+863	<br><br>
+864	<br><br>
+865	<br><br>

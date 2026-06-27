@@ -1813,6 +1813,48 @@
 001-410		Feuerwerksspektakel!
 001-410-000	Feuerwerk! (Tödlich)
 001-410-001	Feuerwerk! (Gnadenlos)
+001-412		Ep. 1: Helden der Gerechtigkeit!
+001-412-000	Eine monströse Bedrohung
+001-412-001	Stadt in der Krise
+001-412-002	Zerstörte Leben
+001-412-003	Panische Bevölkerung
+001-412-004	Drohende Schatten
+001-412-005	Ein heldenhafter Auftritt
+001-412-006	Vereiteltes Böses
+001-412-007	Teuflische Teufel
+001-412-008	Strahlende Gerechtigkeit
+001-412-009	Keine Gnade für das Böse
+001-413		Ep. 4: Geheimtraining
+001-413-000	Baumschlag-Prüfung
+001-413-001	Windschnitt-Prüfung
+001-413-002	Eisenkugel-Prüfung
+001-413-003	Prüfung der rohen Gewalt
+001-413-004	Prüfung der liebevollen Strenge
+001-414		Ep. 5: Die Rückkehr des Erzrivalen
+001-414-000	Zwei werden eins
+001-414-001	Albtraum-Fangenspiel
+001-414-002	Erderschütterndes Brüllen
+001-414-003	Andere Rhythmen
+001-414-004	Dramatische Konfrontation
+001-415		Ep. 6: Heraufziehende Dunkelheit
+001-415-000	Bösartige Drohung
+001-415-001	Die Zeit für Mut
+001-415-002	Truppen des Terrors
+001-415-003	Aus dem letzten Loch gepfiffen
+001-415-004	Ein brüchiger Friede
+001-415-005	Lächeln, die es zu beschützen gilt
+001-415-006	Am Rand der Verzweiflung
+001-415-007	Der entscheidende Kampf
+001-415-008	Unbeugsame Gerechtigkeit
+001-415-009	Das letzte Aufbäumen des Bösen
+001-416		Finale: Das letzte Aufgebot des Bösen
+001-416-000	Anbruch der Verzweiflung
+001-416-001	Am Boden zerstört
+001-416-002	Ein Schatten von Hoffnung
+001-416-003	Konfrontation mit der Dunkelheit
+001-416-004	Nyanko-Ranger für immer!
+001-417		Geburtstagsgeschenk!
+001-417-000	13 Jahre Spaß!
 001-418		Erinnerungen an 2025
 001-418-000	Frühlingserinnerungen
 001-418-001	Sommererinnerungen
@@ -3708,6 +3750,17 @@
 004-075-000	Gewitterwarnung
 004-076		Unerwartete Vorhersagen
 004-076-000	Taifunwarnung
+004-077		Ep. 1: Helden der Gerechtigkeit!
+004-077-000	Dringender Einsatz!
+004-077-001	Dringender Einsatz!
+004-077-002	Dringender Einsatz!
+004-077-003	Dringender Einsatz!
+004-077-004	Dringender Einsatz!
+004-077-005	Dringender Einsatz!
+004-077-006	Dringender Einsatz!
+004-077-007	Dringender Einsatz!
+004-077-008	Dringender Einsatz!
+004-077-009	Dringender Einsatz!
 004-078		Erinnerungen an 2025
 004-078-000	Frühlingserinnerungen, Seite 2
 004-078-001	Sommererinnerungen, Seite 2
@@ -4044,6 +4097,8 @@
 011-037-000	I Seek the Strongest
 011-038		Arena des Schicksals
 011-038-000	Kampftalent
+011-039		Arena of Honor
+011-039-000	Kampftalent
 011-040		Arena des Schicksals
 011-040-000	Talentturnier
 011-041		Arena des Schicksals
@@ -4052,6 +4107,14 @@
 011-042-000	Demon Slayer Elites
 011-043		Arena des Schicksals
 011-043-000	Talentturnier
+011-044		Arena des Schicksals
+011-044-000	Talentturnier
+011-045		Arena des Schicksals
+011-045-000	Talentturnier
+011-046		Arena des Schicksals
+011-046-000	Talentturnier
+011-047		Arena des Schicksals
+011-047-000	Talentturnier
 
 012			Challenge Mode
 012-000		Herausforderungskampf
@@ -5656,6 +5719,28 @@
 024-074-007	Emotionale Zeremonie
 024-074-008	Erinnerungsfoto
 024-074-009	Schönen Gruß
+024-075		Ep. 2: Das Antlitz des Bösen
+024-075-000	Gut gemeintes Übel St. 1
+024-075-001	Gut gemeintes Übel St. 2
+024-075-002	Gut gemeintes Übel St. 3
+024-075-003	Gut gemeintes Übel St. 4
+024-075-004	Gut gemeintes Übel St. 5
+024-075-005	Gut gemeintes Übel St. 6
+024-075-006	Gut gemeintes Übel St. 7
+024-075-007	Gut gemeintes Übel St. 8
+024-075-008	Gut gemeintes Übel St. 9
+024-075-009	Gut gemeintes Übel St. MAX
+024-076		Ep. 3: Die dunkle Dame
+024-076-000	Schlinge der Grausamkeit St. 1
+024-076-001	Schlinge der Grausamkeit St. 2
+024-076-002	Schlinge der Grausamkeit St. 3
+024-076-003	Schlinge der Grausamkeit St. 4
+024-076-004	Schlinge der Grausamkeit St. 5
+024-076-005	Schlinge der Grausamkeit St. 6
+024-076-006	Schlinge der Grausamkeit St. 7
+024-076-007	Schlinge der Grausamkeit St. 8
+024-076-008	Schlinge der Grausamkeit St. 9
+024-076-009	Schlinge der Grausamkeit St. MAX
 024-077		Das froheste neue Jahr!
 024-077-000	Jahr des Pferdes, St. 1
 024-077-001	Jahr des Pferdes, St. 2
@@ -6591,6 +6676,13 @@
 034-030-003	Baum der Mühen
 034-030-004	Das Killosseum
 034-030-005	Endlose Formen der Schönheit
+034-031		Neuer Horizont
+034-031-000	Die große rote Wüste
+034-031-001	Schattenmeer
+034-031-002	Koalas Ruh'
+034-031-003	Eine große Barriere
+034-031-004	Flammenachse
+034-031-005	Der Nabel der Katze
 
 036			Colosseum Stages
 036-000		Anderwelt-Kolosseum
@@ -6731,6 +6823,12 @@
 036-022-002	Runde 3
 036-022-003	Runde 4
 036-022-004	Runde 5
+036-023		Anderwelt-Kolosseum
+036-023-000	Runde 1
+036-023-001	Runde 2
+036-023-002	Runde 3
+036-023-003	Runde 4
+036-023-004	Runde 5
 
 037			Katzenkrall-Meisterschaften
 037-000		Katzenkrall-Meisterschaften Rang 1

@@ -494,7 +494,7 @@
 493	Gaia la creatrice	Gaia la suprema		
 494	Ramina Brezzamarina	Ramina Brezzamarina κ		
 495	Gatto Matador	Flamengatto	Gatta Danza del ventre	
-496	Narita Kaihime	Kaihime dea della guerra	Kaihime Immortale	
+496	Narita Kaihime	Kaihime dea della guerra	Kaihime Immortale	Fiamma purificatrice Kaihime
 497	Shakurel Cat	Shakurel Macho Cat		
 498	Shakurel Lion	Shakurel Lion CC		
 499	Shakurel Tiger	Shakurel Tiger CC		
@@ -829,12 +829,12 @@
 828	Zangief Cat	Zangief Cat CC		
 829	Jamie Cat	Jamie Cat CC		
 830	Raclesa la Leonessa	Raclesa Σ		
-831				
-832				
-833				
-834				
-835				
-836				
+831	Gatto sciarpa	Ranger Nyanko rosso		
+832	Gatto fedora	Ranger Nyanko blu		
+833	Gatto casco	Ranger Nyanko giallo		
+834	Gatto occhialone	Ranger Nyanko verde		
+835	Gatto fiocco	Ranger Nyanko rosa		
+836	Giga-Nyan Rex	Giga-Nyan Prime DX		
 837	Scudiero Luno	Lunos il Luminoso		
 838				
 839				
@@ -859,3 +859,8 @@
 858				
 859	Luna solitaria Lunos	Lunos l'Eclissato		
 860				
+861	Vornado	Re delle tempeste Vornado		
+862	Hanzo il Promesso	Hanzo lo Sposo		
+863	Il gatto invisibile	Gatto sposo		
+864				
+865				

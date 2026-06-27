@@ -494,7 +494,7 @@
 493	Gaia Creadora	Gaia Suprema		
 494	Cobrina Brisamarina	Cobrina Brisamarina (κ)		
 495	Gata Matadora	Gata Flamenca	Gata Danza del Vientre	
-496	Narita Kaihime	Diosa de la Guerra Kaihime	Kaihime Inmortal	
+496	Narita Kaihime	Diosa de la Guerra Kaihime	Kaihime Inmortal	Kaihime de la Llama Purificadora.
 497	Shakurel Cat	Shakurel Macho Cat		
 498	Shakurel Lion	Shakurel Lion CC		
 499	Shakurel Tiger	Shakurel Tiger CC		
@@ -829,12 +829,12 @@
 828	Zangief Cat	Zangief Cat CC		
 829	Jamie Cat	Jamie Cat CC		
 830	Raclesa la Leona	Raclesa Σ		
-831				
-832				
-833				
-834				
-835				
-836				
+831	Gato Bufandero	Guardabosques Nyanko Rojo		
+832	Gato con Fedora	Guardabosques Nyanko Azul		
+833	Gato con Casco	Guardabosques Nyanko Amarillo		
+834	Gato Gafotas	Guardabosques Nyanko Verde		
+835	Gatita con Lazo	Guardabosques Nyanko Rosa		
+836	Giganyan Rex	Giganyan Prime DX		
 837	Escudero Luno	Lunos el Luminoso		
 838				
 839				
@@ -859,3 +859,8 @@
 858				
 859	Lunos Luna Solitaria	Lunos el Eclipsado		
 860				
+861	Vornado	Vornado el Rey de la Tempestad		
+862	Hanzo el Prometido	Hanzo el Novio		
+863	El Gato Invisible	Novio Gatuno		
+864				
+865				

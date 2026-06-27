@@ -184,7 +184,7 @@
 000-022		Dead End Night
 000-022-000	Feast of Betrayal
 000-022-001	Catharsis’ End
-000-022-002	Black Premonition
+000-022-002	Dark Premonition
 000-022-003	Broken Mask
 000-022-004	Agape’s Cage
 000-022-005	Saint Red Fox
@@ -1813,6 +1813,48 @@
 001-410		Fireworks Spectacular!
 001-410-000	Fireworks! (Deadly)
 001-410-001	Fireworks! (Merciless)
+001-412		Ep. 1: Heroes of Justice!
+001-412-000	A Monstrous Menace
+001-412-001	City in Crisis
+001-412-002	Disrupted Lives
+001-412-003	Panicked Populace
+001-412-004	Looming Shadows
+001-412-005	A Heroic Entrance
+001-412-006	Thwarted Villainy
+001-412-007	Despicable Devils
+001-412-008	Justice Burns Bright
+001-412-009	No Quarter For Evil
+001-413		Ep. 4: Secret Training
+001-413-000	Tree Strike Trial
+001-413-001	Wind Slash Trial
+001-413-002	Iron Orb Trial
+001-413-003	Brute Force Trial
+001-413-004	Tough Love Trial
+001-414		Ep. 5: The Archrivals' Return
+001-414-000	Two Become One
+001-414-001	Nightmare Tag-Team
+001-414-002	Earth-Shattering Howl
+001-414-003	Different Beasts
+001-414-004	Climactic Showdown
+001-415		Ep. 6: An Encroaching Darkness
+001-415-000	Villainous Threat
+001-415-001	A Time for Courage
+001-415-002	Troops of Terror
+001-415-003	Running on Fumes
+001-415-004	A Fragile Peace
+001-415-005	Smiles to Protect
+001-415-006	Brink of Despair
+001-415-007	Pivotal Battle
+001-415-008	Justice Unyielding
+001-415-009	Malice's Last Stand
+001-416		Finale: Evil's Last Stand
+001-416-000	Dawn of Despair
+001-416-001	Broken Spirits
+001-416-002	Shadow of Hope
+001-416-003	Clash with Darkness
+001-416-004	Nyanko Rangers Forever!
+001-417		Birthday Present!
+001-417-000	13 Years of Fun!
 001-418		Memories of 2025
 001-418-000	Memories of Spring
 001-418-001	Memories of Summer
@@ -3722,6 +3764,17 @@
 004-075-000	Thunderstorm Warning
 004-076		Unprecedented Forecasts
 004-076-000	Typhoon Warning
+004-077		Ep. 1: Heroes of Justice!
+004-077-000	Urgent Deployment!
+004-077-001	Urgent Deployment!
+004-077-002	Urgent Deployment!
+004-077-003	Urgent Deployment!
+004-077-004	Urgent Deployment!
+004-077-005	Urgent Deployment!
+004-077-006	Urgent Deployment!
+004-077-007	Urgent Deployment!
+004-077-008	Urgent Deployment!
+004-077-009	Urgent Deployment!
 004-078		Memories of 2025
 004-078-000	Memories of Spring, Pg. 2
 004-078-001	Memories of Summer, Pg. 2
@@ -4058,6 +4111,8 @@
 011-037-000	I Seek the Strongest
 011-038		Arena of Honor
 011-038-000	Talent for Battle
+011-039		Arena of Honor
+011-039-000	Lucky Thirteen
 011-040		Arena of Destiny
 011-040-000	Talent Tournament
 011-041		Arena of Destiny
@@ -4066,6 +4121,14 @@
 011-042-000	Demon Slayer Elites
 011-043		Arena of Destiny
 011-043-000	Talent Tournament
+011-044		Arena of Destiny
+011-044-000	Talent Tournament
+011-045		Arena of Destiny
+011-045-000	Talent Tournament
+011-046		Arena of Destiny
+011-046-000	Talent Tournament
+011-047		Arena of Destiny
+011-047-000	Talent Tournament
 
 012			Challenge Mode
 012-000		Challenge
@@ -4470,7 +4533,7 @@
 014-024		The Crazed Cat
 014-024-000	Dark Souls (Insane)
 014-025		The Crazed Tank
-014-025-000	Absolute Defence (Insane)
+014-025-000	Absolute Defense (Insane)
 014-026		The Crazed Axe
 014-026-000	Berserk (Insane)
 014-027		The Crazed Gross
@@ -5669,6 +5732,28 @@
 024-074-007	Emotional Ceremony
 024-074-008	Memorial Photo
 024-074-009	Best Regards
+024-075		Ep. 2: The Face of Evil
+024-075-000	A Noble Evil Lv. 1
+024-075-001	A Noble Evil Lv. 2
+024-075-002	A Noble Evil Lv. 3
+024-075-003	A Noble Evil Lv. 4
+024-075-004	A Noble Evil Lv. 5
+024-075-005	A Noble Evil Lv. 6
+024-075-006	A Noble Evil Lv. 7
+024-075-007	A Noble Evil Lv. 8
+024-075-008	A Noble Evil Lv. 9
+024-075-009	A Noble Evil Lv. MAX
+024-076		Ep. 3: Lady of Darkness
+024-076-000	Cruelty's Lash Lv. 1
+024-076-001	Cruelty's Lash Lv. 2
+024-076-002	Cruelty's Lash Lv. 3
+024-076-003	Cruelty's Lash Lv. 4
+024-076-004	Cruelty's Lash Lv. 5
+024-076-005	Cruelty's Lash Lv. 6
+024-076-006	Cruelty's Lash Lv. 7
+024-076-007	Cruelty's Lash Lv. 8
+024-076-008	Cruelty's Lash Lv. 9
+024-076-009	Cruelty's Lash Lv. MAX
 024-077		A Colossal New Year!
 024-077-000	Year of the Horse Lv.1
 024-077-001	Year of the Horse Lv.2
@@ -6604,6 +6689,13 @@
 034-030-003	Tree of Strife
 034-030-004	The Cullosseum
 034-030-005	Endless Forms Most Beautiful
+034-031		New Horizon
+034-031-000	A Vast Red Waste
+034-031-001	Shadows Abound
+034-031-002	Koala's Rest
+034-031-003	A Barrier Great
+034-031-004	Arbor Aflame
+034-031-005	The Navel of the Cat
 
 036			Colosseum Stages
 036-000		Otherworld Colosseum
@@ -6744,6 +6836,12 @@
 036-022-002	Round 3
 036-022-003	Round 4
 036-022-004	Round 5
+036-023		Otherworld Colosseum
+036-023-000	Round 1
+036-023-001	Round 2
+036-023-002	Round 3
+036-023-003	Round 4
+036-023-004	Round 5
 
 037			Catclaw Championships
 037-000		Catclaw Championships Rank 1

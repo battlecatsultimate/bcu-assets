@@ -220,6 +220,7 @@
 228|I451	Schatztruhe (Bronze)
 229|I452	Schatztruhe (Silber)
 230|I453	Schatztruhe (Gold)
+231|S231|I454	Herzen der Gerechtigkeit
 232|I455	Schatztruhe (Bronze)
 233|I456	Schatztruhe (Silber)
 234|I457	Schatztruhe (Gold)
@@ -241,6 +242,10 @@
 252|I474	Schatztruhe (Bronze)
 253|I475	Schatztruhe (Silber)
 254|I476	Schatztruhe (Gold)
+255|S255|I477	Weihwasser
+256|I478	Schatztruhe (Bronze)
+257|I479	Schatztruhe (Silber)
+258|I480	Schatztruhe (Gold)
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -310,6 +315,7 @@
 1070	Killer-Stelzenkatze
 1071	Weiser des logischen Newton
 1072	Tischlerkatze
+1073	Fedora-Katze
 1074	Zeitungsjungenkatze
 1075	Killer-Stärlingskatze
 1076	Selektionsmeister Darwin

@@ -494,7 +494,7 @@
 493	<br><br>
 494	<br><br>
 495	La forme ultime renforce la défense<br>et la vit. de déplac. est plus rapide!<br>
-496	La forme ultime augmente grandement<br>la déf. et la chance de frappe sauvage !<br>
+496	La forme ultime augmente grandement<br>la déf. et la chance de frappe sauvage !<br>	L’ultra forme gagne en santé, vitesse<br>et portée, et inflige explosions, Fléau<br>des Sages et plus de frappes sauvages !
 497	<br><br>
 498	<br><br>
 499	<br><br>
@@ -859,3 +859,8 @@
 858	<br><br>
 859	<br><br>
 860	<br><br>
+861	<br><br>
+862	<br><br>
+863	<br><br>
+864	<br><br>
+865	<br><br>

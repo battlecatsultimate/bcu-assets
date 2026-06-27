@@ -220,6 +220,7 @@
 228|I451	Coffre au trésor (bronze)
 229|I452	Coffre au trésor (argent)
 230|I453	Coffre au trésor (or)
+231|S231|I454	Cœurs de justice
 232|I455	Coffre au trésor (bronze)
 233|I456	Coffre au trésor (argent)
 234|I457	Coffre au trésor (or)
@@ -241,6 +242,10 @@
 252|I474	Coffre au trésor (bronze)
 253|I475	Coffre au trésor (argent)
 254|I476	Coffre au trésor (or)
+255|S255|I477	Eau bénite
+256|I478	Coffre au trésor (bronze)
+257|I479	Coffre au trésor (argent)
+258|I480	Coffre au trésor (or)
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -310,6 +315,7 @@
 1070	Grand Chat tueur
 1071	Maître de la Logique Newton
 1072	Chat charpentier
+1073	Chat au Borsalino
 1074	Chat livreur de journaux
 1075	Chat vachoiseau tueur
 1076	Maître ès sélection Darvin

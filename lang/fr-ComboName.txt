@@ -151,7 +151,7 @@
 1040	Stars des JO
 1041	Trainspotting
 2023	Vive le brunch
-49	Noir et blanc
+49	 
 50	Sous-marinier royal
 2024	Armes de pointe
 2025	Les champions
@@ -244,5 +244,11 @@
 3059	Faim insatiable
 3060	Guerriers cosmiques
 3061	Par le feu et l’acier
+101	Frappe rouge
+102	Frappe bleue
+103	Frappe jaune
+104	Frappe verte
+105	Frappe rose
 3062	Barrage royal
 3063	Peur primaire
+3064	Complainte sauvage

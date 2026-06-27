@@ -244,5 +244,11 @@
 3059	Hambre Minina
 3060	Guerreros cósmicos
 3061	A golpe de arma y espada
+101	Ataque rojo
+102	Ataque azul
+103	Ataque amarillo
+104	Ataque verde
+105	Ataque rosa
 3062	Bombardeo real
 3063	Miedo primitivo
+3064	Gemido de la naturaleza

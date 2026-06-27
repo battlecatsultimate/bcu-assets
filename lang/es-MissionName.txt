@@ -219,84 +219,84 @@
 17006	Supera todas las misiones mensuales:
 17007	Supera todas las misiones mensuales:
 17008	Supera todas las misiones mensuales:
-1000	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1001	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1002	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1003	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1004	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1005	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1006	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1007	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1008	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1009	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1010	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1011	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1012	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1013	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1014	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (Una vez en cualquier fase)
-1100	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1101	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1102	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1103	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1104	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1105	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1106	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1107	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1108	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1109	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1110	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1111	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1112	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1113	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1114	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (Una vez en cualquier fase)
-1200	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1201	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1202	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1203	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1204	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1205	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1206	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1207	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1208	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1209	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1210	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1211	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1212	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1213	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1214	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1215	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1216	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1217	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1218	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1219	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1220	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1221	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1222	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1223	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1224	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1225	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1226	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1227	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1228	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1229	Vence a Chucho en el cap. 1 de Hacia el Futuro. (Una vez en cualquier fase)
-1300	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1301	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1302	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1303	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1304	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1305	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1306	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1307	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1308	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1309	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1310	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1311	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1312	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1313	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1314	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1315	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1316	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
-1317	Vence a Chucho en el cap. 2 de Hacia el Futuro. (Una vez en cualquier fase)
+1000	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1001	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1002	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1003	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1004	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1005	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1006	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1007	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1008	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1009	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1010	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1011	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1012	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1013	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1014	Vence a Chucho en el cap. 2 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1100	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1101	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1102	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1103	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1104	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1105	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1106	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1107	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1108	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1109	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1110	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1111	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1112	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1113	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1114	Vence a Chucho en el cap. 3 de Imperio de los Gatos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1200	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1201	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1202	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1203	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1204	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1205	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1206	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1207	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1208	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1209	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1210	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1211	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1212	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1213	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1214	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1215	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1216	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1217	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1218	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1219	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1220	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1221	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1222	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1223	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1224	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1225	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1226	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1227	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1228	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1229	Vence a Chucho en el cap. 1 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1300	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1301	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1302	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1303	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1304	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1305	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1306	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1307	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1308	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1309	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1310	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1311	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1312	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1313	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1314	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1315	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1316	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1317	Vence a Chucho en el cap. 2 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
 1318	Vence a Chucho en. el nivel 1 de una fase legendaria
 1319	Vence a Chucho en. el nivel 1 de una fase legendaria
 1320	Vence a Chucho en. el nivel 1 de una fase legendaria
@@ -315,23 +315,23 @@
 1333	Vence a Chucho en. el nivel 1 de una fase legendaria
 1334	Vence a Chucho en Catástrofe Carmesí. (Una vez en cualquier fase)
 1335	Vence a Chucho en Paraíso de Oscuridad. (Una vez en cualquier fase)
-1400	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1401	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1402	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1403	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1404	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1405	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1406	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1407	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1408	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1409	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1410	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1411	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1412	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1413	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1414	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1415	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
-1416	Vence a Chucho en el cap. 3 de Hacia el Futuro. (Una vez en cualquier fase)
+1400	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1401	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1402	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1403	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1404	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1405	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1406	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1407	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1408	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1409	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1410	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1411	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1412	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1413	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1414	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1415	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
+1416	Vence a Chucho en el cap. 3 de Hacia el Futuro. (1 vez en cualquier fase). *Excepto las fases de zombis
 1417	Vence a Chucho en. el nivel 1 de una fase legendaria
 1418	Vence a Chucho en. el nivel 1 de una fase legendaria
 1419	Vence a Chucho en. el nivel 1 de una fase legendaria
@@ -351,23 +351,23 @@
 1433	Vence a Chucho en. el nivel 1 de una fase legendaria
 1434	Vence a Chucho en Inigualable. (Una vez en cualquier fase)
 1435	Vence a Chucho en Ira de los Cielos. (Una vez en cualquier fase)
-1500	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1501	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1502	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1503	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1504	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1505	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1506	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1507	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1508	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1509	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1510	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1511	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1512	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1513	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1514	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1515	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
-1516	Vence a Chucho en el cap. 1 de Gatos Galácticos. (Una vez en cualquier fase)
+1500	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1501	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1502	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1503	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1504	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1505	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1506	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1507	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1508	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1509	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1510	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1511	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1512	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1513	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1514	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1515	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1516	Vence a Chucho en el cap. 1 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
 1517	Vence a Serpi en. el nivel 2 de una fase legendaria
 1518	Vence a Serpi en. el nivel 2 de una fase legendaria
 1519	Vence a Serpi en. el nivel 2 de una fase legendaria
@@ -387,26 +387,26 @@
 1533	Vence a Serpi en. el nivel 2 de una fase legendaria
 1534	Vence a Chucho en Dulce Ironía. (Una vez en cualquier fase)
 1535	Vence a Chucho en Dimensión Desesperada. (Una vez en cualquier fase)
-1600	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1601	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1602	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1603	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1604	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1605	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1606	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1607	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1608	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1609	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1610	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1611	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1612	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1613	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1614	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1615	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1616	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1617	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1618	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
-1619	Vence a Chucho en el cap. 2 de Gatos Galácticos. (Una vez en cualquier fase)
+1600	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1601	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1602	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1603	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1604	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1605	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1606	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1607	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1608	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1609	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1610	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1611	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1612	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1613	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1614	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1615	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1616	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1617	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1618	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1619	Vence a Chucho en el cap. 2 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
 1620	Vence a Chucho en. el nivel 1 de una fase legendaria
 1621	Vence a Chucho en. el nivel 1 de una fase legendaria
 1622	Vence a Chucho en. el nivel 1 de una fase legendaria
@@ -423,26 +423,26 @@
 1633	Vence a Chucho en. el nivel 1 de una fase legendaria
 1634	Vence a Chucho en Cielo Rojo Matutino. (Una vez en cualquier fase)
 1635	Vence a Chucho en Muertos Rodantes. (Una vez en cualquier fase)
-1700	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1701	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1702	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1703	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1704	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1705	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1706	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1707	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1708	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1709	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1710	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1711	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1712	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1713	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1714	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1715	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1716	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1717	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1718	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
-1719	Vence a Chucho en el cap. 3 de Gatos Galácticos. (Una vez en cualquier fase)
+1700	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1701	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1702	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1703	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1704	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1705	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1706	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1707	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1708	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1709	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1710	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1711	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1712	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1713	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1714	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1715	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1716	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1717	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1718	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
+1719	Vence a Chucho en el cap. 3 de Gatos Galácticos. (1 vez en cualquier fase). *Excepto las fases de zombis
 1720	Vence a Chucho en. el nivel 1 de una fase legendaria
 1721	Vence a Chucho en. el nivel 1 de una fase legendaria
 1722	Vence a Chucho en. el nivel 1 de una fase legendaria
@@ -878,9 +878,9 @@
 9528	¡Supera las fases del «Evento de Halloween». 9 veces! (Cualquier fase de evento)
 9529	Consigue un objeto destacado de las. cápsulas del Evento de la Fiesta Halloween
 9530	¡Supera todas las misiones del Evento de Halloween. y gana 1 tique raro!
-9531	[Campaña para principiantes] Supera 9 fases del Imperio. de los Gatos (cualquier fase)
-9532	[Campaña para principiantes] Supera 9 fases del Imperio. de los Gatos (cualquier fase)
-9533	[Campaña para principiantes] Supera 9 fases del Imperio. de los Gatos (cualquier fase)
+9531	[Campaña para principiantes] Supera 9 fases del Imperio de. los Gatos (cualquier fase). *Excepto las fases de zombis
+9532	[Campaña para principiantes] Supera 9 fases del Imperio de. los Gatos (cualquier fase). *Excepto las fases de zombis
+9533	[Campaña para principiantes] Supera 9 fases del Imperio de. los Gatos (cualquier fase). *Excepto las fases de zombis
 9534	[Campaña para principiantes] Supera la fase del Imperio de los. Gatos Japón y consigue un tique raro para las bolas raras
 9535	[Campaña para principiantes] Supera la fase del Imperio de los. Gatos Japón y consigue liderazgo para recuperar energía
 66	Vence al ser vivo en el Laberinto del Bosque Viejo. Nivel 1 Fase 6
@@ -898,6 +898,12 @@
 9542	Rumbo a la Unificación ⑤:. supera la fase 1 de «Rumbo a la Unificación Parte 2»
 9543	Rumbo a la Unificación ⑥:. ¡supera la fase 1 de «¡Batalla final! El Rey Indomable»
 72	Misión de Rumbo a la Unificación. Supera el cap. 1 de Imperio de los Gatos durante el evento
+9544	Misión muy dura 1: ¡Supera la fase 6 de «Lo más profundo de mi corazón». desplegando solo unidades que cuesten 1000 ¢ o menos!
+9545	Misión muy dura 2: ¡Supera la fase 6 de «Minas de Gelatina». con 9 unidades normales o más en tu formación!
+9546	Misión muy dura 3: ¡Completa la fase 6 de «Laberinto del Bosque Viejo». con 8 unidades superraras o más en tu formación!
+9547	Misión muy dura 4: ¡Supera la fase 6 de «Cima del Mastodonte». desplegando solo unidades que cuesten 2000 ¢ o menos!
+9548	Misión muy dura 5: ¡Supera la fase 1 de «Bosque Sagrado». con 5 unidades o menos en tu formación!
+9549	Misión muy dura 6: ¡Supera la fase 1 de «Campo cero». con 9 unidades raras o más en tu formación!
 73	Toca dos veces un tesoro en la lista para ir a esa fase. Abre la lista de tesoros desde la base gatuna
 74	Toca el icono de un enemigo en la selección de fases para ir. al bestiario. Toca fase superada para ver los enemigos
 75	Usa gatamina [A] para restaurar los intentos. Usa gatamina [A] en una Etapa de Leyenda
@@ -983,6 +989,23 @@
 9638	Clear any Street Fighter 6 collab
 9639	Clear any Street Fighter 6 collab
 9640	Clear any Street Fighter 6 collab
+82	[13.º aniversario] . ¡Supera todas las fases de «Imperio de los Gatos» (cap. 1)!
+9641	Misión especial 1 del 13.º aniversario:. ¡Completa todas las misiones hasta la ronda 3!
+9642	Misión especial 2 del 13.º aniversario:.  ¡Recluta a todos los Guardabosques Nyanko!
+9643	Misiones del 13.º aniversario, ronda 1: ¡Recluta al gato bufandero! *Consulta los detalles para desbloquear esta unidad
+9644	Misiones del 13.º aniversario, ronda 1:. Supera 9 fases(s) de «Ep. 1: ¡Héroes de la justicia!»
+9645	Misiones del 13.º aniversario, rda. 1: Supera 0 fases de «¡Despliegue urgente!». *Aparece tras completar «Ep. 1: ¡Héroes de la justicia!»
+9646	Misiones especiales del 13.º aniversario, ronda 2: ¡Recluta al gato con gorro! *Consulta los detalles para desbloquear esta unidad
+9647	Misiones del 13.º aniversario, ronda 2:. Supera 9 fase(s) de «Ep. 2: El rostro del mal»
+9648	Misiones del 13.º aniversario, ronda 3: Habla con el gato. en la base gatuna 4 días para reclutar a un Guardabosques
+9649	Misiones del 13.º aniversario, ronda 3:. Supera 9 fase(s) de «Ep. 3: Dama de la oscuridad»
+9650	Misiones del 13.º aniversario, ronda 3:. Supera 9 fase(s) de «Ep. 4: Entrenamiento secreto»
+9651	Misiones especiales del 13.º aniversario, ronda 4: ¡Recluta al gato gafotas! *Consulta los detalles para desbloquear esta unidad
+9652	Misiones del 13.º aniversario, ronda 4:. Supera 9 fase(s) de «Ep. 5: El regreso de los archirrivales»
+9653	Misiones especiales del 13.º aniversario, ronda 5: ¡Recluta a la gatita con lazo! *Consulta los detalles para desbloquear esta unidad
+9654	Misiones del 13.º aniversario, ronda 5:. Supera 9 fase(s) de «Ep. 6: Una oscuridad invasora»
+9655	Misiones del 13.º aniversario, ronda 5:. Supera 9 fase(s) de «Final: La última batalla del mal»
+9656	Misión muy dura 7: ¡Completa la fase 6 de «Jardín de Pensamientos Mustios». únicamente con unidades mutadas (2.ª forma) en tus filas!
 9657	Clear any Valentine's Event
 9658	Clear any Valentine's Event
 9659	Clear any Valentine's Event
@@ -1007,6 +1030,18 @@
 9683	Superferia (semana 1)
 9684	Superferia (semana 2)
 9685	Superferia (semana 3)
+9712	[Novia del Diablo de Junio] Consigue un «El Gato Invisible». en las bolas de evento
+9713	[Novia del Diablo de Junio] . Supera 9 fase(s) de Novia del Diablo de Junio.
+9714	[Novia del Diablo de Junio] . Supera 9 fase(s) de Novia del Diablo de Junio.
+9715	[Novia del Diablo de Junio] . Supera 9 fase(s) de Novia del Diablo de Junio.
+9716	[Novia del Diablo de Junio] Supera 9 fase(s) de «#01 La Capilla Fantasma». durante Novia del Diablo de Junio.
+9717	[Novia del Diablo de Junio] Supera 9 fase(s) de «#01 La Capilla Fantasma». durante Novia del Diablo de Junio.
+9718	[Novia del Diablo de Junio] Supera 9 fase(s) de «#02 El Banquete del Terror». durante Novia del Diablo de Junio.
+9719	[Novia del Diablo de Junio] Supera 9 fase(s) de «#02 El Banquete del Terror». durante Novia del Diablo de Junio.
+9720	[Novia del Diablo de Junio] Supera 9 fase(s) de «#03 ¿En qué cae el 13?». durante Novia del Diablo de Junio.
+9721	[Novia del Diablo de Junio] Supera 9 fase(s) de «#03 ¿En qué cae el 13?». durante Novia del Diablo de Junio.
+9722	[Novia del Diablo de Junio] Supera 9 fase(s) de «#04 Aldea de Alaridos». durante Novia del Diablo de Junio.
+9723	[Novia del Diablo de Junio] Supera 9 fase(s) de «#04 Aldea de Alaridos». durante Novia del Diablo de Junio.
 9668	(Cada día podrás utilizar un tique gratis)
 9669	【Progreso】
 9670	【Progreso】¡Envía a Gamatoto a 17 excursiones exitosas!

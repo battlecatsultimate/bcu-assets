@@ -494,7 +494,7 @@
 493	Gaïa créatrice	Gaïa suprême		
 494	Mine marine	Mine marine, type κ		
 495	Chat matador	Chatte flamenco	Chatte danseuse du ventre	
-496	Narita Kaihime	Kaihime déesse guerrière	Kaihime immortelle	
+496	Narita Kaihime	Kaihime déesse guerrière	Kaihime immortelle	Kaihime Flamme purificatrice
 497	Shakurel Cat	Shakurel Macho Cat		
 498	Shakurel Lion	Shakurel Lion CC		
 499	Shakurel Tiger	Shakurel Tiger CC		
@@ -829,12 +829,12 @@
 828	Zangief Cat	Zangief Cat CC		
 829	Jamie Cat	Jamie Cat CC		
 830	Raclesa la lionne	Raclesa Σ		
-831				
-832				
-833				
-834				
-835				
-836				
+831	Chat au bandana	Nyanko Ranger rouge		
+832	Chat au Borsalino	Nyanko Ranger bleu		
+833	Chat casqué	Nyanko Ranger jaune		
+834	Chat à lunettes	Nyanko Ranger vert		
+835	Chat au ruban	Nyanko Ranger rose		
+836	Giga-Nyan Rex	Giga-Nyan Prime DX		
 837	Écuyer Luno	Lunos le Lumineux		
 838				
 839				
@@ -859,3 +859,8 @@
 858				
 859	Lunos, Lune solitaire	Lunos l’Éclipsé		
 860				
+861	Vornado	Vornado Roi des tempêtes		
+862	Hanzo le fiancé	Hanzo le marié		
+863	Le Chat invisible	Chat marié		
+864				
+865				

@@ -244,5 +244,11 @@
 3059	Unstillbarer Hunger
 3060	Kosmische Krieger
 3061	Mit Schwert und Pistole
+101	Roter Schlag
+102	Blauer Schlag
+103	Gelber Schlag
+104	Grüner Schlag
+105	Rosa Schlag
 3062	Königliche Klopperei
 3063	Urangst
+3064	Geheul der Wildnis

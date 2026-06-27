@@ -244,5 +244,11 @@
 3059	Insatiable Hunger
 3060	Cosmic Warriors
 3061	By Gun and Sword
+101	Red Strike
+102	Blue Strike
+103	Yellow Strike
+104	Green Strike
+105	Pink Strike
 3062	Royal Barrage
 3063	Primal Fear
+3064	Wilderness Wail

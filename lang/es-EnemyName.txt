@@ -748,16 +748,16 @@
 747	
 748	Cammy
 749	Juri
-750	
-751	
-752	
-753	
-754	
-755	
-756	
-757	
-758	
-759	
+750	Kaijin Chucho
+751	Malizabeth
+752	Madam Peng
+753	Barón Cara
+754	Archibarón Cara
+755	Condesa Koryessa
+756	Gran Condesa Koryessa
+757	Emperador Belicistaru
+758	Gran Emperador Belicistaru
+759	¡Chucho Tarta del 13.º aniversario,
 760	Chucho Corcel
 761	Rui
 762	Enmu
@@ -778,3 +778,6 @@
 777	
 778	
 779	
+780	
+781	
+782	

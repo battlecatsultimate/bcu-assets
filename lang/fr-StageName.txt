@@ -1813,6 +1813,48 @@
 001-410		Spectacle de feux d’artifice !
 001-410-000	Feux d’artifice (mortel)
 001-410-001	Feux d’artifice (sans répit)
+001-412		Ép. 1 : Héros de la justice !
+001-412-000	Monstrueuse menace
+001-412-001	Ville en crise
+001-412-002	Vies perturbées
+001-412-003	Population en panique
+001-412-004	Ombres menaçantes
+001-412-005	Une entrée héroïque
+001-412-006	Méchanceté contrecarrée
+001-412-007	De détestables diables
+001-412-008	La justice flamboie
+001-412-009	Pas de quartier pour le mal
+001-413		Ép. 4 : Entraînement secret
+001-413-000	Épreuve de l’arbre frappeur
+001-413-001	Épreuve du vent cinglant
+001-413-002	Épreuve de l’orbe de fer
+001-413-003	Épreuve de la force brute
+001-413-004	Épreuve de l’amour vache
+001-414		Ép. 5 : Retour des ennemis jurés
+001-414-000	Deux ne font qu’un
+001-414-001	Équipe cauchemardesque
+001-414-002	Hurlement ravageur
+001-414-003	Différentes bêtes
+001-414-004	Duel au sommet
+001-415		Ép. 6 : Ténèbres oppressantes
+001-415-000	Menace des méchants
+001-415-001	L’heure du courage
+001-415-002	Troupes de la terreur
+001-415-003	Dernières forces
+001-415-004	Une paix fragile
+001-415-005	Sourires à protéger
+001-415-006	Au bord du désespoir
+001-415-007	Bataille décisive
+001-415-008	Justice inflexible
+001-415-009	Ultime combat du mal
+001-416		Final : Ultime combat du mal
+001-416-000	Aube du désespoir
+001-416-001	Esprits brisés
+001-416-002	Ombre de l’espoir
+001-416-003	Choc des ténèbres
+001-416-004	Nyanko Rangers pour toujours !
+001-417		Cadeau d’anniversaire !
+001-417-000	13 ans de délire !
 001-418		Souvenirs de 2025
 001-418-000	Souvenirs de printemps
 001-418-001	Souvenirs d'été
@@ -3710,6 +3752,17 @@
 004-075-000	Avis de tempête
 004-076		Prévisions sans précédent
 004-076-000	Avis de typhon
+004-077		Ép. 1 : Héros de la justice !
+004-077-000	Déploiement urgent !
+004-077-001	Déploiement urgent !
+004-077-002	Déploiement urgent !
+004-077-003	Déploiement urgent !
+004-077-004	Déploiement urgent !
+004-077-005	Déploiement urgent !
+004-077-006	Déploiement urgent !
+004-077-007	Déploiement urgent !
+004-077-008	Déploiement urgent !
+004-077-009	Déploiement urgent !
 004-078		Souvenirs de 2025
 004-078-000	Souvenirs de printemps - page 2
 004-078-001	Souvenirs d'été - page 2
@@ -4046,6 +4099,8 @@
 011-037-000	I Seek the Strongest
 011-038		Arène du destin
 011-038-000	Agilité au combat
+011-039		Arène de l'honneur
+011-039-000	Treize porte-bonheur
 011-040		Arène du destin
 011-040-000	Tournoi des talents
 011-041		Arène du destin
@@ -4054,6 +4109,15 @@
 011-042-000	Demon Slayer Elites
 011-043		Arène du destin
 011-043-000	Tournoi des talents
+011-044		Arène du destin
+011-044-000	Tournoi des talents
+011-045		Arène du destin
+011-045-000	Tournoi des talents
+011-046		Arène du destin
+011-046-000	Tournoi des talents
+011-047		Arène du destin
+011-047-000	Tournoi des talents
+
 
 012			Challenge Mode
 012-000		Bataille défi
@@ -5657,6 +5721,28 @@
 024-074-007	Cérémonie émouvante
 024-074-008	Photo souvenir
 024-074-009	Cordialement
+024-075		Ép. 2 : Le visage du mal
+024-075-000	Un mal noble niv. 1
+024-075-001	Un mal noble niv. 2
+024-075-002	Un mal noble niv. 3
+024-075-003	Un mal noble niv. 4
+024-075-004	Un mal noble niv. 5
+024-075-005	Un mal noble niv. 6
+024-075-006	Un mal noble niv. 7
+024-075-007	Un mal noble niv. 8
+024-075-008	Un mal noble niv. 9
+024-075-009	Un mal noble niv. MAX
+024-076		Ép. 3 : La dame des ténèbres
+024-076-000	Le fouet de la cruauté niv. 1
+024-076-001	Le fouet de la cruauté niv. 2
+024-076-002	Le fouet de la cruauté niv. 3
+024-076-003	Le fouet de la cruauté niv. 4
+024-076-004	Le fouet de la cruauté niv. 5
+024-076-005	Le fouet de la cruauté niv. 6
+024-076-006	Le fouet de la cruauté niv. 7
+024-076-007	Le fouet de la cruauté niv. 8
+024-076-008	Le fouet de la cruauté niv. 9
+024-076-009	Le fouet de la cruauté niv. MAX
 024-077		Un felicissimo anno nuovo!
 024-077-000	Année du cheval niv. 1
 024-077-001	Année du cheval niv. 2
@@ -6592,6 +6678,13 @@
 034-030-003	Arbre de la lutte
 034-030-004	Le Colisée sanglant
 034-030-005	Sublimes formes infinies
+034-031		Nouvel horizon
+034-031-000	Un vaste désert rouge
+034-031-001	Des ombres par milliers
+034-031-002	Le repos du koala
+034-031-003	Une grande barrière
+034-031-004	Arbre enflammé
+034-031-005	Le nombril du Chat
 
 036			Colosseum Stages
 036-000		Colisée d'outre-monde
@@ -6732,6 +6825,12 @@
 036-022-002	3e manche
 036-022-003	4e manche
 036-022-004	5e manche
+036-023		Colisée d'outre-monde
+036-023-000	1re manche
+036-023-001	2e manche
+036-023-002	3e manche
+036-023-003	4e manche
+036-023-004	5e manche
 
 037			Championnats Griffélin
 037-000		Rang 1 des championnats Griffélin

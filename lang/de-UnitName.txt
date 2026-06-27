@@ -494,7 +494,7 @@
 493	Gaia die Schöpferin	Gaia die Erhabene		
 494	Meeresbrise-Cupruma	Meeresbrise-Cupruma, Typ κ		
 495	Matadorkatze	Flamenco-Katze	Bauchtanzkatze	
-496	Narita Kaihime	Kriegsgöttin Kaihime	Unsterbliche Kaihime	
+496	Narita Kaihime	Kriegsgöttin Kaihime	Unsterbliche Kaihime	Reinigende Flamme Kaihime
 497	Shakurel Cat	Shakurel Macho Cat		
 498	Shakurel Lion	Shakurel Lion CC		
 499	Shakurel Tiger	Shakurel Tiger CC		
@@ -829,12 +829,12 @@
 828	Zangief Cat	Zangief Cat CC		
 829	Jamie Cat	Jamie Cat CC		
 830	Raclesa die Löwin	Raclesa Σ		
-831				
-832				
-833				
-834				
-835				
-836				
+831	Schalkatze	Roter Nyanko-Ranger		
+832	Fedora-Katze	Blauer Nyanko-Ranger		
+833	Helmkatze	Gelber Nyanko-Ranger		
+834	Brillenkatze	Grüner Nyanko-Ranger		
+835	Schleifenkatze	Rosa Nyanko-Ranger		
+836	Giga-Nyan Rex	Giga-Nyan Prime DX		
 837	Knappe Luno	Lunos der Erleuchtete		
 838				
 839				
@@ -859,3 +859,8 @@
 858				
 859	Lunos der einsame Mond	Lunos der Finstere		
 860				
+861	Vornado	Sturmkönig Vornado		
+862	Hanzo der Verlobte	Hanzo der Bräutigam		
+863	Die unsichtbare Katze	Bräutigamkatze		
+864				
+865				

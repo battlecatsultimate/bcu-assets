@@ -494,7 +494,7 @@
 493	<br><br>
 494	<br><br>
 495	¡La forma final tiene una defensa más dura<br>y una mayor velocidad!<br>
-496	La forma final tiene aún más<br>defensa y también aumentan sus<br>probabilidades de asestar golpetazos.
+496	La forma final tiene aún más<br>defensa y también aumentan sus<br>probabilidades de asestar golpetazos.	La ultraforma tiene más salud, rapidez,<br>y alcance; explosiones; Asesino Sabio<br>¡y más probabilidades de dar golpetazos!
 497	<br><br>
 498	<br><br>
 499	<br><br>
@@ -859,3 +859,8 @@
 858	<br><br>
 859	<br><br>
 860	<br><br>
+861	<br><br>
+862	<br><br>
+863	<br><br>
+864	<br><br>
+865	<br><br>
