@@ -104,6 +104,8 @@ E47	心動時分貓咪學園
 E48	Download Celebration Capsules
 E49	Cat Rangers Event Capsules
 E50	惡魔的完美新娘
+E51	貓咪的暑假 享樂天堂篇
+E52	Pac-Man Event Capsules
 N2	貓咪轉蛋	//Cat Capsules
 N3	貓薄荷轉蛋	//Catfruit Item Capsules
 N4	喵力達轉蛋	//Limited Capsules w/ Catamin
@@ -1070,3 +1072,10 @@ N65	貓眼石轉蛋	//Limited Capsules w/ Catseyes & Dark Catseye
 1064	-107	861
 1065	-115	862
 1066	-2004	864, 865
+1067	-1	869
+1068	-1	869
+1069	-105	869
+1070	-106	869
+1071	-104	869
+1072	-107	869
+1073	-118
