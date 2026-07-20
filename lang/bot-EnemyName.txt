@@ -776,3 +776,10 @@
 776	Maniuplated Cat Gold
 777	Alluring Mage Vivon
 778	True Assassin
+779	Inky Doge
+780	Clyde Gory
+781	Pinky Teacher Bear
+782	Blinky Kory
+783	Giant Pacman
+784	Cherry
+785	Hammer Base

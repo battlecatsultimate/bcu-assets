@@ -505,7 +505,7 @@
 504
 505	Relentless Gladios	Gladios the Annihilator	God-Emperor Gladios
 506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC
-507	Mightycat	Supercat
+507	Mightycat	Supercat	Iron Cat
 508	Ryu Cat	Ryu Cat CC
 509	Chun-Li Cat	Chun-Li Cat CC
 510	Akuma	Akuma CC
@@ -723,7 +723,7 @@
 722	Hatsune Miku XVI	Hatsune Miku XVI CC	
 723	Lightmother Aset	Nefer Aset	Almighty Aset
 724	Ancient Egg: N112	Mystic Egg: N112	Cat Egg Pod
-725	Ninja Girl Tomoe	Gourmand Ninja Girl Tomoe
+725	Ninja Girl Tomoe	Gourmand Ninja Girl Tomoe	Epicure Ninja Girl Tomoe
 726	Medal King	Medal Emperor
 727	SOL DAE ROKKER	SOL DAE ROKKER CC
 728	Master of Mind Soractes	Master of Mind Catcrates
@@ -864,3 +864,8 @@
 863	The Invisible Cat	Groom Cat		
 864	Shirou Emiya	Shirou Emiya CC
 865	True Assassin	True Assassin CC
+866	Pacman	Pacman Cat
+867	Blinky Cat	Blinky Cat CC
+868	Inky Cat	Inky Cat CC
+869	Iron Arm Akane	Go Go Akane
+870	Ancient Egg: N207	Dark Egg: N207	Upstart Cat
