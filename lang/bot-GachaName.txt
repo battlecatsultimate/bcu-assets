@@ -110,6 +110,7 @@ E49	Cat Rangers Event Capsules
 E50	June Bride of Devil Capsules
 E51	Summer Break Capsules Paradise
 E52	Pac-Man Event Capsules
+E53	Summer Break Capsules
 N2	Item Capsules
 N3	Catfruit Capsules
 N4	Catamin Capsules
@@ -1068,3 +1069,4 @@ N65	Cats Eye Capsules
 1071	-104	869
 1072	-107	869
 1073	-118
+1074	-119	872
