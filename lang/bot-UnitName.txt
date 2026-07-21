@@ -453,7 +453,7 @@
 452	Primordial Cat	Modern Cat	Future Cat
 453
 454
-455	Wonder MOMOCO	Cutie MOMOCO
+455	Wonder MOMOCO	Cutie MOMOCO	Starlight MOMOCO
 456	Sakura Matou	Sakura Matou CC	Dark Sakura CC
 457	Shirou the Cat	Novice Mage Shirou Cat
 458	Archer the Cat	Heroic Spirit Archer Cat
@@ -869,3 +869,5 @@
 868	Inky Cat	Inky Cat CC
 869	Iron Arm Akane	Go Go Akane
 870	Ancient Egg: N207	Dark Egg: N207	Upstart Cat
+871	Ancient Egg: N208	Green Egg: N208	Assault Crayfish Cat
+872	Jungle Hunter Tomoe	Jungle Master Tomoe
