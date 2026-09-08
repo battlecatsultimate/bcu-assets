@@ -452,7 +452,7 @@
 001-014		Crimson Catastrophe
 001-014-000	Attack on R-Cyclone (Expert)
 001-015		Heaven of Darkness
-001-015-000	Attack on B-Cyclone (Expert)
+001-015-000	Attack on D-Cyclone (Expert)
 001-016		Peerless
 001-016-000	Attack on W-Cyclone (Expert)
 001-017		The Crazed Cat
@@ -948,8 +948,8 @@
 001-171-003	Maternity Leave Forever
 001-171-004	Late Nite Shake-Up
 001-172		NEO Darkness Heaven
-001-172-000	Wrath of B-Cyclone (Insane)
-001-172-001	Revenge of B-Cyclone (Deadly)
+001-172-000	Wrath of D-Cyclone (Insane)
+001-172-001	Revenge of D-Cyclone (Deadly)
 001-173		Cybear's Vengeance
 001-173-000	Forged to Kill (Deadly)
 001-174		A Cultured Festival
@@ -1706,7 +1706,7 @@
 001-376		Super Smash Families
 001-376-000	Treacherous Road (Brutal)
 001-376-001	Heinous Road (Brutal)
-001-377		The Tortoise and the Baby
+001-377		The Mask and the Baby
 001-377-000	The Pure Land (Merciless)
 001-378		The Prince and the Revenant
 001-378-000	Dogsville (Merciless)
@@ -1898,6 +1898,17 @@
 001-426-003	The Final Enigma
 001-427		111M Celebration Gifts Galore!
 001-427-000	111M Celebration Gifts Galore!
+001-433		Azure Annihilation
+001-433-000	Pufferfish Pulsar (Merciless)
+001-433-001	Spiky Supercluster (Merciless)
+001-434		Jackpot Junction
+001-434-000	Press Your Luck
+001-434-001	Rags to Riches
+001-434-002	Bet the Base
+001-435		The School Bell Tolls
+001-435-000	8/29: Math Drills / Field Study
+001-435-001	8/30: Book Reports / Sketch Journal
+001-435-002	8/31: Last Stand
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -4521,7 +4532,7 @@
 014-018		Crimson Catastrophe
 014-018-000	Attack on R-Cyclone (Expert)
 014-019		Heaven of Darkness
-014-019-000	Attack on B-Cyclone (Expert)
+014-019-000	Attack on D-Cyclone (Expert)
 014-020		Peerless
 014-020-000	Attack on W-Cyclone (Expert)
 014-021		Wrath of Heaven
@@ -5781,6 +5792,17 @@
 024-078-012	Bloodthirsty Lv.13
 024-078-013	Bloodthirsty Lv.14
 024-078-014	Bloodthirsty Lv.MAX
+024-081		Billionaire's Bidding
+024-081-000	The Idling Rich
+024-081-001	Money On The Table
+024-081-002	Bidder's High
+024-081-003	Going, Going, Gone!
+024-081-004	No Price High Enough
+024-081-005	Splashing Cash
+024-081-006	Too Many Zeros
+024-081-007	Priceless Artifacts
+024-081-008	Budget Breakdown
+024-081-009	Astronomical Invoice
 
 025			Enigma Stages
 025-000		Aitum Fields
@@ -6696,6 +6718,20 @@
 034-031-003	A Barrier Great
 034-031-004	Arbor Aflame
 034-031-005	The Navel of the Cat
+034-032		Bento Region
+034-032-000	Plastic Pastures
+034-032-001	Bridge of Forgotten Sporks
+034-032-002	Onigiri Peaks
+034-032-003	Leaky Lake
+034-032-004	Smoked Salmon Run
+034-032-005	Leftover Limbo
+034-033		Haute Horror
+034-033-000	Bristle Bodysuit
+034-033-001	Dumbbell Danglers
+034-033-002	Pointless Pauldrons
+034-033-003	Snackable Shirts
+034-033-004	Thunderous Trilby
+034-033-005	Cutthroat Collars
 
 036			Colosseum Stages
 036-000		Otherworld Colosseum
@@ -6842,6 +6878,18 @@
 036-023-002	Round 3
 036-023-003	Round 4
 036-023-004	Round 5
+036-024		Otherworld Colosseum
+036-024-000	Round 1
+036-024-001	Round 2
+036-024-002	Round 3
+036-024-003	Round 4
+036-024-004	Round 5
+036-025		Otherworld Colosseum
+036-025-000	Round 1
+036-025-001	Round 2
+036-025-002	Round 3
+036-025-003	Round 4
+036-025-004	Round 5
 
 037			Catclaw Championships
 037-000		Catclaw Championships Rank 1

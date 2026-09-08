@@ -29,7 +29,7 @@
 028	<br><br>
 029	<br><br>
 030	L'evoluzione Forma Reale aumenta il raggio!<br>Dà anche una possibilità di ridurre<br>il potenziale d'attacco di nemici fluttuanti!
-031	La Forma Reale aumenta le statistiche!<br>In più immobilizza gli antichi<br>e diventa immune dalle maledizioni.
+031	La Forma Reale migliora tutti i tratti!<br>In più immobilizza gli antichi<br>e diventa immune dalle maledizioni.	La Forma Reale aumenta le statistiche!<br>In più immobilizza gli antichi<br>e diventa immune dalle maledizioni.
 032	La Forma Reale aumenta la difesa<br>e l'attacco! Blocca teletrasporto e<br>rallenta ancora di più i nemici rossi!
 033	La Forma Reale aumenta la velocità<br>e la potenza d'attacco! In più, ora blocca<br>Scudo ondate e immunità alle ondate!
 034	La Forma Reale aumenta l'attacco!<br>Dà anche possibilità del 100% di immobilità<br>sui nemici non metallici!
@@ -49,7 +49,7 @@
 048	La Forma Reale aumenta il raggio<br>e la difesa, e garantisce una maggiore<br>possibilità di respinta contro nemici rossi.
 049	La Forma Reale aumenta<br>il raggio e la potenza attacco.<br>Garantisce anche danni ad area!
 050	La Forma Reale aumenta<br>la difesa, il raggio e la potenza attacco.<br>L'attacco ottiene anche l'effetto ad area!
-051	La Forma Reale aumenta la difesa!<br>Poi garantisce molte più possibilità di<br>respinta contro nemici fluttuanti.
+051	Forma Reale ottiene maggiore difesa!<br>Poi garantisce molte più possibilità di<br>respinta contro nemici fluttuanti.
 052	La Forma Reale aumenta la potenza<br>d'attacco e il raggio. In più, aumenta<br>il tempo di immobilità dei nemici.
 053	<br><br>
 054	<br><br>
@@ -59,7 +59,7 @@
 058	La Forma Reale migliora<br>la difesa e la potenza d'attacco!<br>
 059	La Forma Reale aumenta tutti i tratti<br>e garantisce le abilità di attacco a ondata!<br>	La Forma ultra ottiene<br>velocità e bilaterale potenziati!<br>Anche l'attacco a ondata è potenziato!
 060	<br><br>
-061	La Forma Reale ha una difesa molto più forte!<br><br>
+061	Forma Reale ottiene maggiore difesa!<br><br>
 062	<br><br>
 063	<br><br>
 064	<br><br>
@@ -71,7 +71,7 @@
 070	<br><br>
 071	La Forma Reale aumenta l'attacco!<br>Ottiene anche velocità di movimento<br>maggiore.
 072	La Forma Reale aumenta<br>tutti i tratti, e permette di ottenere<br>più potenza d'attacco.
-073	La Forma Reale aumenta molto la difesa!<br>In più migliora la potenza d'attacco e<br>aumenta il tempo d'immobilità su nemici oscuri!	La Forma ultra ha maggiore difesa!<br>In più immobilità vs. Aku e<br>contrasto att. a valanga!
+073	Forma Reale ottiene maggiore difesa!<br>In più migliora la potenza d'attacco e<br>aumenta il tempo d'immobilità su nemici oscuri!	La Forma ultra ha maggiore difesa!<br>In più immobilità vs. Aku e<br>contrasto att. a valanga!
 074	<br><br>
 075	La Forma Reale aumenta molto<br>la difesa e la velocità, così come<br>la potenza d'attacco e il raggio.	La Forma ultra ha maggiore portata d'attacco,<br>velocità e ritmo, e infligge<br>danni incredibili a nemici fluttuanti!
 076	La Forma Reale aumenta la difesa<br>e la velocità, così come la potenza<br>d'attacco e il raggio!	La Forma ultra aumenta le abilità!<br>Area d'attacco migliorata, sopravv.<br>colpi fatali, immune rallent. e indebol.
@@ -121,7 +121,7 @@
 120	<br><br>
 121	<br><br>
 122	<br><br>
-123	Forma Reale ottiene maggiore attacco!<br>Ottiene resistenza ai nemici rossi,<br>Attacchi a ondata, Ammazza Behemoth!
+123	Forma Reale ottiene maggiore difesa!<br>Ottiene resistenza ai nemici rossi,<br>Attacchi a ondata, Ammazza Behemoth!
 124	La Forma Reale aumenta<br>la potenza d'attacco, il raggio e la difesa!<br>
 125	La Forma Reale aumenta<br>la potenza d'attacco, il raggio e la difesa!<br>
 126	<br><br>
@@ -306,7 +306,7 @@
 305	La Forma Reale migliora la<br>velocità d'attacco!<br>	La Forma ultra ha tempo di ricarica ridotto!<br>Difesa, velocità/raggio att. migliorati!<br>E ottiene immunità da respinta!
 306	La Forma Reale migliora la<br>difesa e il ritmo respinta!<br>	Ottiene difesa e bilaterale migliori,<br>attacchi esplosivi e sterminatore di saggi!<br>E ottiene immunità da esplosioni!
 307	La Forma Reale aumenta molto la difesa<br>e la velocità di movimento! Il rallentamento<br>sugli zombi dura più a lungo!
-308	La Forma Reale aumenta molto la difesa!<br>Aumenta anche il raggio d'attacco,<br>e l'immobilità sugli zombi dura di più!
+308	Forma Reale ottiene maggiore difesa!<br>Aumenta anche il raggio d'attacco,<br>e l'immobilità sugli zombi dura di più!
 309	<br><br>
 310	La Forma Reale ottiene maggiore<br>Difesa, più respinta e<br>rallentamento vs Aku!
 311	<br><br>
@@ -323,7 +323,7 @@
 322	La Forma Reale ottiene maggiori<br>difesa e velocità d'attacco! Ottiene<br>immunità dall'indebolimento nemico.
 323	La Forma Reale ottiene maggiori potenza<br>d'attacco e difesa. Diventa immune dalle<br>maledizioni e può immobilizzare Antichi.
 324	<br><br>
-325	La Forma Reale ottiene maggiore difesa.<br>Aumenta anche il raggio d'attacco!<br>
+325	Forma Reale ottiene maggiore difesa!<br>Aumenta anche il raggio d'attacco!<br>
 326	<br><br>
 327	<br><br>
 328	<br><br>
@@ -415,7 +415,7 @@
 414	La Forma Reale ottiene maggiore ritmo di<br>attacco. L'accumulo di attacco è più breve<br>e diventa più potente dopo aver subito danni!
 415	<br><br>
 416	<br><br>
-417	La Forma Reale ottiene un miglior attacco!<br><br>
+417	Forma Reale ha maggiore potenza d'attacco!<br><br>	Con la forma ultra si ottengono salute aumentata<br>e potenza e raggio d'attacco migliorati.<br>In più, è efficace vs antichi e immune da veleno!
 418	<br><br>
 419	<br><br>
 420	<br><br>
@@ -453,7 +453,7 @@
 452	<br><br>
 453	<br><br>
 454	<br><br>
-455	<br><br>
+455	Con la forma reale si ottengono salute aumentata, maggiore<br>potenza d'attacco e costo ridotto! E anche<br>ammazzagiganti e immunità da immobilità/indebolimento!
 456	True Form gains increased Attack Speed!<br>Also gains Soulstrike and immunity<br>to Freeze attacks!
 457	<br><br>
 458	<br><br>
@@ -494,7 +494,7 @@
 493	<br><br>
 494	<br><br>
 495	Forma Reale ottiene difesa rinforzata<br>e maggiore velocità di movimento!<br>
-496	La Forma Reale aumenta molto<br>la difesa. Inoltre, anche la possibilità<br>di colpi letali aumenterà.	La Forma ultra ha più salute, velocità<br>e raggio d'att., con esplosioni,<br>Sterm. di saggi e prob. di colpi letali!
+496	Forma Reale ottiene maggiore difesa!<br>Inoltre, anche la possibilità<br>di colpi letali aumenterà.	La Forma ultra ha più salute, velocità<br>e raggio d'att., con esplosioni,<br>Sterm. di saggi e prob. di colpi letali!
 497	<br><br>
 498	<br><br>
 499	<br><br>
@@ -723,7 +723,7 @@
 722	<br><br>
 723	La Forma Reale ha abilità migliorate!<br>Att. ondata migliori e ottiene immunità<br>a immobilità e veleno.
 724	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
-725	<br><br>
+725	La forma reale ha maggiore potenza d'attacco e<br>un effetto immobilità più prolungato!<br>In più, diventa efficace vs senza tratti/Aku,
 726	<br><br>
 727	<br><br>
 728	<br><br>
@@ -864,3 +864,10 @@
 863	<br><br>
 864	<br><br>
 865	<br><br>
+866	<br><br>
+867	<br><br>
+868	<br><br>
+869	<br><br>
+870	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>con una possibilità di mini-ondate!
+871	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>	<br>La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!
+872	<br><br>

@@ -862,7 +862,7 @@
 9502	[Livello di invasione] Missione evento limitato. Supera Il ritorno di Z-Onel!
 9503	[Livello di invasione] Missione evento limitato. Supera Vecchia regina
 9504	[Livello di invasione] Missione evento limitato. Supera Paradiso di Papuu
-9505	[Livello di invasione] Supera La tartaruga e il bebè. Supera tutti i livelli e i livelli EX per completare
+9505	[Livello di invasione] Supera La maschera e il bebè. Supera tutti i livelli e i livelli EX per completare
 9506	[Livello di invasione] Supera Il principe e il fantasma. Supera tutti i livelli e i livelli EX per completare
 9507	[Livello di invasione] Supera La regina e il santo. Supera tutti i livelli e i livelli EX per completare
 9508	Compiti per le vacanze ④: Scrivi un tema perfetto.  Supera 9 livelli di Gatti estivi
@@ -903,7 +903,7 @@
 9542	La via dell'unificazione ⑤: . supera "La via dell'unificazione p.2", livello 1!
 9543	La via dell'unificazione ⑥：. Supera il livello 1 di "Battaglia finale! Il re ribelle"!
 72	Missione La via dell'unificazione: supera. Impero dei Gatti Cap. 1 durante l'evento per completare
-9544	Missione super tosta 1: supera il livello 6 di "Nel profondo del mio cuore" schierando. solo unità dal costo di 1000¢ o inferiore!
+9544	Missione super difficile 1: supera il livello 6. di "Nel profondo del mio cuore" schierando solo unità dal costo di 1000¢ o superiore!
 9545	Missione super tosta 2: supera il livello 6 di "Miniere di gelatina" con 9 o più. unità normali nella tua formazione!
 9546	Missione super tosta 3: supera il livello 6 di "Labirinto antica foresta" con 8 o più. unità Super rare nella tua formazione!
 9547	Missione super tosta 4: supera il livello 6 di "Vetta del Behemoth" schierando. solo unità dal costo di 2000¢ o inferiore!
@@ -912,7 +912,7 @@
 73	Tocca 2 volte un Tesoro nella Lista per saltare al livello. Apri la Lista tesori dalla Base felina
 74	Tocca l'icona nemico nella schermata di sel. liv. e apri la. Guida ai nemici. Tocca nome liv. sup. per mostrare i nemici
 75	Usa Vitamiao A per ripristinare i tentativi di un livello. Usa Vitamiao A in un livello leggendario
-76	Tocca 2 volte Gatto CPU per saltare il livello. I livelli superati nella schermata di selezione livello possono essere saltati
+76	Tocca 2 volte Gatto CPU per saltare il livello. I livelli superati nella schermata. di selezione livello possono essere saltati
 77	Tieni premuto il puls. Equipaggia nella schermata sel. liv. Tieni premuto per equip. la form. con cui hai sup. liv
 78	Salta a un livello dalla schermata di evoluzione. Tocca un materiale evol. dalla schermata dal menu Potenzia
 79	Controlla il Codice di richiesta. Tocca in alto a sin. menu titolo o in basso a sin. menu Opzioni
@@ -1049,6 +1049,47 @@
 9721	[Sposa di giugno del diavolo]: supera 9 o più livelli di "03: ??? 13". durante Sposa di giugno del diavolo
 9722	[Sposa di giugno del diavolo]: supera 9 o più livelli di "04: Villaggio ululante". durante Sposa di giugno del diavolo
 9723	[Sposa di giugno del diavolo]: supera 9 o più livelli di "04: Villaggio ululante". durante Sposa di giugno del diavolo
+9731	Magnate dei resort ①: personale del progetto ①. Ottieni 3 personaggi dalle capsule evento!
+9732	Magnate dei resort ②: personale del progetto ①. Ottieni 5 personaggi dalle capsule evento!
+9733	Magnate dei resort ③: personale del progetto ①. Ottieni 7 personaggi dalle capsule evento!
+9734	Magnate dei resort ①: valutazione valore ①. Supera "Asta del miliardario" 9 volte
+9735	Magnate dei resort ②: valutazione valore ①. Supera "Asta del miliardario" 9 volte
+9736	Paradiso, settimana 1 ①: supera 0 livelli. Vale qualsiasi livello completato!
+9737	Paradiso, settimana 1 ②: supera 0 livelli. Vale qualsiasi livello completato!
+9738	Paradiso, settimana 1 ③: supera 0 livelli. Vale qualsiasi livello completato!
+9739	Magnate dei resort ②: vita da celebrità ①. Supera "Resort stravagante" 9 volte
+9740	Magnate dei resort ②: vita da celebrità ②. Supera "Resort stravagante" 9 volte
+9741	Magnate dei resort ②: decisione fatidica ①. Supera "Snodo del jackpot" 9 volte
+9742	Magnate dei resort ②: decisione fatidica ②. Supera "Snodo del jackpot" 9 volte
+9743	Paradiso, settimana 2 ①: supera 0 livelli. Vale qualsiasi livello completato!
+9744	Paradiso, settimana 2 ②: supera 0 livelli. Vale qualsiasi livello completato!
+9745	Paradiso, settimana 2 ③: supera 0 livelli. Vale qualsiasi livello completato!
+9746	Magnate dei resort ③: cure rigeneranti ①. Supera "Sauna del paradiso" 9 volte
+9747	Magnate dei resort ③: cure rigeneranti ②. Supera "Sauna del paradiso" 9 volte
+9748	Paradiso, settimana 3 ①: supera 0 livelli. Vale qualsiasi livello completato!
+9749	Paradiso, settimana 3 ②: supera 0 livelli. Vale qualsiasi livello completato!
+9750	Paradiso, settimana 3 ③: supera 0 livelli. Vale qualsiasi livello completato!
+9751	Progetto di scienze: insettoidi . completa tutte le missioni fino al ① a ④!
+9752	Progetto di scienze: insettoidi ①. Ottieni 1 Gatto Kabuto dalle capsule evento!
+9753	Progetto di scienze: insettoidi ②. Ottieni 1 Gatto Kuwagata dalle capsule evento!
+9754	Progetto di scienze: insettoidi ③. Ottieni 1 Uovo antico N202 dalle capsule evento!
+9755	Progetto di scienze: insettoidi ④. Ottieni 1 Uovo antico N208 dalle capsule evento!
+9756	Torna l'estate, settimana 1 ①: supera 0 livelli. Vale qualsiasi livello completato!
+9757	Torna l'estate, settimana1 ②: supera 0 livelli. Vale qualsiasi livello completato!
+9758	Torna l'estate, settimana 1 ③: supera 0 livelli. Vale qualsiasi livello completato!
+9759	Torna l'estate, settimana 1 ④: supera 0 livelli. Vale qualsiasi livello completato!
+9760	Torna l'estate, settimana 2 ①: supera 0 livelli. Vale qualsiasi livello completato!
+9761	Torna l'estate, settimana 2 ②: supera 0 livelli. Vale qualsiasi livello completato!
+9762	Torna l'estate, settimana 2 ③: supera 0 livelli. Vale qualsiasi livello completato!
+9763	Torna l'estate, settimana 2 ④: supera 0 livelli. Vale qualsiasi livello completato!
+9764	Crediti extra: supera "La maschera e il bebè". *Devi superare il livello di continuazione
+9765	Crediti extra: supera "Il principe e il fantasma". *Devi superare il livello di continuazione
+9766	Torna l'estate, settimana 3 ①: supera 0 livelli. Vale qualsiasi livello completato!
+9767	Torna l'estate, settimana 3 ②: supera 0 livelli. Vale qualsiasi livello completato!
+9768	Torna l'estate, settimana 3 ③: supera 0 livelli. Vale qualsiasi livello completato!
+9769	Torna l'estate, settimana 3 ④: supera 0 livelli. Vale qualsiasi livello completato!
+9770	Crediti extra: supera "La regina e il santo". *Devi superare il livello di continuazione
+9771	Crediti extra: supera "Fondo della palude". *Devi superarlo con 10 Gatti speciali
 9668	【Progresso】Sorteggia una Miaocapsula 0 volte! (Un miaobiglietto gratis al giorno da usare una volta)
 9669	【Progresso】. Supera 0 livello/i di The Battle Cats
 9670	【Progresso】Manda Gamatoto in 17 spedizioni riuscite! (Completa 3 spedizioni in un'area Gamatoto: )

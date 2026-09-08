@@ -246,6 +246,14 @@
 256|I478	Coffre au trésor (bronze)
 257|I479	Coffre au trésor (argent)
 258|I480	Coffre au trésor (or)
+259|S259|I481	Billets de banque légendaires
+260|S260|I482	Filet légendaire
+261|I483	Coffre au trésor (bronze)
+262|I484	Coffre au trésor (argent)
+263|I485	Coffre au trésor (or)
+264|I486	Coffre au trésor (bronze)
+265|I487	Coffre au trésor (argent)
+266|I488	Coffre au trésor (or)
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -313,7 +321,7 @@
 1068	Soracte, mentor mental
 1069	Chat joueur de bowling
 1070	Grand Chat tueur
-1071	Maître de la Logique Newton
+1071	Newtone, maître de la logique
 1072	Chat charpentier
 1073	Chat au Borsalino
 1074	Chat livreur de journaux
@@ -460,6 +468,7 @@
 10453	Chat du futur
 10474	Rampaging Yamato
 10475	Strike Angel
+10508	Chat de fer
 10522	Chat Naga
 10528	Chat boulette de gelée
 10529	Chat garde royal
@@ -658,6 +667,7 @@
 15449	Miyamoto immortel
 15450	Jeanne la dictatrice ψ
 15451	Dieu empereur Babel
+15456	Momoco stellaire
 15457	Dark Sakura CC
 15468	Super S-Zeus
 15469	Head Rococo
@@ -739,9 +749,12 @@
 15721	Chat-Ours déchu
 15724	Aset Toute-puissante
 15725	Nacelle-œuf féline
+15726	Tomoe shinobi sucrée
 15731	Chat lion danseur
 15758	Chat mariée
 15766	Chapalourde
+15871	Chat-magnat
+15872	Chat-écrevisse de combat
 16131	Ururun et Tama éveillés
 16173	Bus scolaire Nyandam
 16269	Mina éveillée

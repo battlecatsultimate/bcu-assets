@@ -727,7 +727,7 @@
 726	Kaoru Hanayama
 727	Katsumi Orochi
 728	Jack Hammer
-729	Sabio de la lógica Newton
+729	Sabio de la Lógica Newtone
 730	Sonic
 731	Tails
 732	Knuckles
@@ -781,3 +781,6 @@
 780	
 781	
 782	
+783	
+784	
+785	

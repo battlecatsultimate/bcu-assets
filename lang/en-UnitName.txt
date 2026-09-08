@@ -415,7 +415,7 @@
 414	EVA Unit-02	EVA Unit-02 & Cat	Unit-02, Code 777	
 415	Shinji Cat	Toji & Kensuke Cats		
 416	Moon Operators	NERV Moon		
-417	Mighty Thermae D-Lux	Subterra Guardians	Subterra Sentinels	
+417	Mighty Thermae D-Lux	Subterra Guardians	Subterra Sentinels	Subterra Saviors
 418	Crazed Moneko	Corrupted Moneko		
 419	Pokota	Pokota CC		
 420	Ovis	Ovis CC		
@@ -453,7 +453,7 @@
 452	Primordial Cat	Modern Cat	Future Cat	
 453				
 454				
-455	Wonder MOMOCO	Cutie MOMOCO		
+455	Wonder MOMOCO	Cutie MOMOCO	Starlight MOMOCO	
 456	Sakura Matou	Sakura Matou CC	Dark Sakura CC	
 457	Shirou the Cat	Novice Mage Shirou Cat		
 458	Archer the Cat	Heroic Spirit Archer Cat		
@@ -505,7 +505,7 @@
 504				
 505	Relentless Gladios	Gladios the Annihilator	God-Emperor Gladios	
 506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC	
-507	Mightycat	Supercat		
+507	Mightycat	Supercat	Ironcat	
 508	Ryu Cat	Ryu Cat CC		
 509	Chun-Li Cat	Chun-Li Cat CC		
 510	Akuma	Akuma CC		
@@ -723,7 +723,7 @@
 722	Hatsune Miku XVI	Hatsune Miku XVI CC		
 723	Lightmother Aset	Nefer Aset	Almighty Aset	
 724	Ancient Egg: N112	Mystic Egg: N112	Cat Egg Pod	
-725	Ninja Girl Tomoe	Gourmand Ninja Girl Tomoe		
+725	Ninja Girl Tomoe	Gourmand Ninja Girl Tomoe	Sugar Rush Shinobi Tomoe	
 726	Medal King	Medal Emperor		
 727	SOL DAE ROKKER	SOL DAE ROKKER CC		
 728	Master of Mind Soractes	Master of Mind Catcrates		
@@ -764,7 +764,7 @@
 763	Dynasaurus Cat	Mecha Dynasaurus Cat		
 764				
 765	Ancient Egg: N206	Cinnabar Egg: N206	Clam Cat	
-766	Sardine	Sardine CC	Dropping in from "Survive! Mola Mola!" Tiny bones	
+766	Sardine	Sardine CC		
 767	Squid	Squid CC		
 768	Taitenki	Taitenki CC		
 769	Hanasaka Cat	Ravenous Cherry		
@@ -799,7 +799,7 @@
 798	Doppo Cat	Doppo Cat CC		
 799	Mighty Morta-Loncha	Grandiose Gunhauzer		
 800				
-801	Master of Logic Newton	Master of Logic Mewton		
+801	Master of Logic Newtone	Master of Logic Mewtone		
 802	802-1			
 803	Sonic	Sonic & Cat		
 804	Tails	Tails & Cat		
@@ -864,3 +864,10 @@
 863	The Invisible Cat	Groom Cat		
 864				
 865				
+866				
+867				
+868				
+869	Akane Tounji	Let's Go! Akane		
+870	Ancient Egg: N207	Onyx Egg: N207	Tycoon Cat	
+871	Ancient Egg: N208	Green Egg: N208	Combat Crawfish Cat	
+872	Jungle Gourmet Tomoe	Canopy Queen Tomoe		

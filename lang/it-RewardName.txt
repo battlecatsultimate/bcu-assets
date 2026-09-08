@@ -246,6 +246,14 @@
 256|I478	Forziere (bronzo)
 257|I479	Forziere (argento)
 258|I480	Forziere (oro)
+259|S259|I481	Banconota leggendaria
+260|S260|I482	Rete leggendaria
+261|I483	Forziere (bronzo)
+262|I484	Forziere (argento)
+263|I485	Forziere (oro)
+264|I486	Forziere (bronzo)
+265|I487	Forziere (argento)
+266|I488	Forziere (oro)
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -313,7 +321,7 @@
 1068	Maestro della mente Sokrate
 1069	Gatto bowling
 1070	Gatto alto assassino
-1071	Maestro di logica Newton
+1071	Newton Maestro della logica
 1072	Gatto carpentiere
 1073	Gatto fedora
 1074	Gatto dei giornali
@@ -460,6 +468,7 @@
 10453	Gatto del futuro
 10474	Rampaging Yamato
 10475	Strike Angel
+10508	Ironcat
 10522	Gatto Naga
 10528	Gatto raviolo gelatinoso
 10529	Gatto guardia reale
@@ -658,6 +667,7 @@
 15449	Miyamoto Immortale
 15450	Dittatrice Jeanne ψ
 15451	Babele Dio-Imperatore
+15456	MOMOCO Lucedistella
 15457	Dark Sakura CC
 15468	Super S-Zeus
 15469	Head Rococo
@@ -739,9 +749,12 @@
 15721	Gatto Orso perduto
 15724	Aset Onnipotente
 15725	Gatto capsula uovo
+15726	Shinobi Tomoe zuccherina
 15731	Gatto leo ballerino
 15758	Gatta sposa
 15766	Gatta vongola
+15871	Gatto magnate
+15872	Gatto aragosta combattente
 16131	Ururun risvegliata
 16173	Scuolabus Nyandam
 16269	Mina risvegliata

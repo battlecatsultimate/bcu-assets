@@ -29,7 +29,7 @@
 028	<br><br>
 029	<br><br>
 030	La forma final tiene un mayor alcance.<br>Tiene la probabilidad de mermar el poder<br>de ataque de los enemigos voladores.
-031	La forma final tiene mejores estadísticas.<br>Además, paraliza a los enemigos reliquias<br>y es inmune a las maldiciones.
+031	La forma final tiene mejores rasgos.<br>Además, paraliza a los enemigos reliquias<br>y es inmune a las maldiciones.	La forma final tiene mejores estadísticas.<br>Además, paraliza a los enemigos reliquias<br>y es inmune a las maldiciones.
 032	La forma final tiene mayor defensa<br>y poder de ataque. Bloquea las abducciones<br>y ralentiza más tiempo a los enemigos rojos.
 033	La forma final tiene más poder<br>y velocidad de ataque. Además, anula<br>escudo de oleada e inmunidad a oleadas.
 034	La forma final tiene más poder de ataque.<br>Además, siempre paraliza a los<br>enemigos no metálicos.
@@ -49,7 +49,7 @@
 048	La forma final tiene mayor alcance<br>y defensa. Además, aumenta su<br>probabilidad de repeler a los enemigos rojos.
 049	La forma final tiene más<br>poder de ataque y alcance.<br>Además, puede realizar ataques de área.
 050	La forma final tiene más<br>poder de ataque, defensa y alcance.<br>Además, puede realizar ataques de área.
-051	La forma final tiene una mayor defensa.<br>Además, aumenta su probabilidad<br>de repeler a los enemigos voladores.
+051	¡La forma final tiene una mayor defensa!<br>Además, aumenta su probabilidad<br>de repeler a los enemigos voladores.
 052	La forma final tiene más poder de ataque<br>y alcance. Además, paraliza a los<br>enemigos durante más tiempo.
 053	<br><br>
 054	<br><br>
@@ -59,7 +59,7 @@
 058	La forma final tiene mayor<br>defensa y poder de ataque.<br>
 059	La forma final tiene mejores rasgos.<br>Además, ahora puede atacar en oleada.<br>	La ultraforma obtiene más<br>velocidad de movimiento y omniataque.<br>¡Además de mejores oleadas!
 060	<br><br>
-061	La forma final tiene una defensa aún mayor.<br><br>
+061	¡La forma final tiene una mayor defensa!<br><br>
 062	<br><br>
 063	<br><br>
 064	<br><br>
@@ -71,7 +71,7 @@
 070	<br><br>
 071	La forma final tiene más poder de ataque.<br>Su velocidad de movimiento mejora.<br>
 072	La forma final tiene mejores<br>rasgos. Además, aumenta<br>su poder de ataque.
-073	La forma final tiene una mayor defensa.<br>Su poder de ataque mejora y paraliza<br>a los enemigos oscuros durante más tiempo.	¡La ultraforma mejora la defensa!<br>¡Además, gana paralización contra akus<br>y provoca contrarréplicas!
+073	¡La forma final tiene una mayor defensa!<br>Su poder de ataque mejora y paraliza<br>a los enemigos oscuros durante más tiempo.	¡La ultraforma mejora la defensa!<br>¡Además, gana paralización contra akus<br>y provoca contrarréplicas!
 074	<br><br>
 075	La forma final tiene una defensa aún mayor.<br>Su velocidad de movimiento mejora.<br>su poder de ataque y su alcance.	¡La ultraforma mejora el alcance del ataque,<br>la velocidad de movimiento y el poder de<br>ataque, y es megafuerte contra voladores!
 076	La forma final tiene una mayor defensa.<br>Además, mejora su velocidad de movimiento,<br>su poder de ataque y su alcance.	¡La ultraforma obtiene más habilidades!<br>Mayor ataque, supervivencia a golpes<br>mortales, inmune ralentización/desgaste.
@@ -117,11 +117,11 @@
 116	<br><br>
 117	<br><br>
 118	<br><br>
-119	¡La forma final gana mucha más defensa!<br>¡Puede desgastar a enemigos negros, gana<br>inmunidad a ralentización y matacolosos!
+119	¡La forma final tiene una mayor defensa!<br>¡Puede desgastar a enemigos negros, gana<br>inmunidad a ralentización y matacolosos!
 120	<br><br>
 121	<br><br>
 122	<br><br>
-123	La forma final gana mucho más Ataque.<br>¡Además, resiste a los enemigos rojos,<br>a las oleadas y a los matamastodontes!
+123	¡La forma final tiene una mayor defensa!<br>¡Además, resiste a los enemigos rojos,<br>a las oleadas y a los matamastodontes!
 124	La forma final tiene más<br>poder de ataque, defensa y alcance.<br>
 125	La forma final tiene más<br>poder de ataque, defensa y alcance.<br>
 126	<br><br>
@@ -306,7 +306,7 @@
 305	La forma final tiene más<br>velocidad de ataque.<br>	Ultraforma: menor t. de esp. de despliegue.<br>¡Mejor defensa, vel. de ataque y alcance!<br>¡Y se hace inmune contra la repulsión!
 306	La forma final tiene una mayor<br>defensa y más probabilidades de repeler.<br>	¡Gana una mayor defensa, omniataque,<br>ataques explosivos y Asesino Sabio!<br>¡Y se hace inmune contra explosiones!
 307	La forma final tiene una mayor defensa<br>y más velocidad de movimiento. Ralentiza<br>a los zombis durante más tiempo.
-308	La forma final tiene una mayor defensa<br>y más alcance. Además, paraliza<br>a los zombis durante más tiempo.
+308	¡La forma final tiene una mayor defensa!<br>y más alcance. Además, paraliza<br>a los zombis durante más tiempo.
 309	<br><br>
 310	La forma final tiene una mayor defensa<br>y la habilidad de repulsión.<br>Además, puede ralentizar a akus.
 311	<br><br>
@@ -323,7 +323,7 @@
 322	La forma final tiene una mayor<br>defensa y más velocidad de ataque.<br>Además, es inmune al desgaste.
 323	La forma final tiene más poder de ataque<br>y defensa. Es inmune a las maldiciones<br>y puede paralizar a enemigos reliquias.
 324	<br><br>
-325	La forma final tiene una mayor defensa.<br>Además, mejora su alcance.<br>
+325	¡La forma final tiene una mayor defensa!<br>Además, mejora su alcance.<br>
 326	<br><br>
 327	<br><br>
 328	<br><br>
@@ -415,7 +415,7 @@
 414	La forma final ataca más rápido y más<br>a menudo. Además, se fortalece<br>tras sufrir daño.
 415	<br><br>
 416	<br><br>
-417	La forma final tiene más poder de ataque.<br><br>
+417	La forma final tiene más ataque.<br><br>	La ultraforma tiene más salud,<br>poder de ataque y alcance.<br>Además, es eficaz contra reliquias e inmune a toxicidad.
 418	<br><br>
 419	<br><br>
 420	<br><br>
@@ -453,7 +453,7 @@
 452	<br><br>
 453	<br><br>
 454	<br><br>
-455	<br><br>
+455	La forma final tiene más salud,<br>poder de ataque mejorado y coste reducido. Además, obtiene<br>Matacolosos e inmunidad a paralización y desgaste.
 456	True Form gains increased Attack Speed!<br>Also gains Soulstrike and immunity<br>to Freeze attacks!
 457	<br><br>
 458	<br><br>
@@ -494,7 +494,7 @@
 493	<br><br>
 494	<br><br>
 495	¡La forma final tiene una defensa más dura<br>y una mayor velocidad!<br>
-496	La forma final tiene aún más<br>defensa y también aumentan sus<br>probabilidades de asestar golpetazos.	La ultraforma tiene más salud, rapidez,<br>y alcance; explosiones; Asesino Sabio<br>¡y más probabilidades de dar golpetazos!
+496	¡La forma final tiene una mayor defensa!<br>y también aumentan sus probabilidades<br>de asestar golpetazos.	La ultraforma tiene más salud, rapidez,<br>y alcance; explosiones; Asesino Sabio<br>¡y más probabilidades de dar golpetazos!
 497	<br><br>
 498	<br><br>
 499	<br><br>
@@ -723,7 +723,7 @@
 722	<br><br>
 723	¡La forma final obtiene más habilidades!<br>Mayores oleadas e inmunidad a la<br>paralización/toxicidad.
 724	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
-725	<br><br>
+725	La forma final tiene poder de ataque mejorado y<br>mayor efecto de paralización.<br>También es eficaz contra enemigos sin rasgos y akus.
 726	<br><br>
 727	<br><br>
 728	<br><br>
@@ -864,3 +864,10 @@
 863	<br><br>
 864	<br><br>
 865	<br><br>
+866	<br><br>
+867	<br><br>
+868	<br><br>
+869	<br><br>
+870	¡La forma final revela su aspecto real!<br>¡También es matamastodontes!<br>y puede lanzar minioleadas.
+871	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>	<br>¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!
+872	<br><br>

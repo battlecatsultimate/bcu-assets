@@ -246,6 +246,14 @@
 256|I478	Treasure Chest (Bronze)
 257|I479	Treasure Chest (Silver)
 258|I480	Treasure Chest (Gold)
+259|S259|I481	Legendary Banknote
+260|S260|I482	Legend Net
+261|I483	Treasure Chest (Bronze)
+262|I484	Treasure Chest (Silver)
+263|I485	Treasure Chest (Gold)
+264|I486	Treasure Chest (Bronze)
+265|I487	Treasure Chest (Silver)
+266|I488	Treasure Chest (Gold)
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -313,7 +321,7 @@
 1068	Master of Mind Soractes
 1069	Bowler Cat
 1070	Killer Gross Cat
-1071	Master of Logic Newton
+1071	Master of Logic Newtone
 1072	Carpenter Cat
 1073	Fedora Cat
 1074	Paperboy Cat
@@ -460,6 +468,7 @@
 10453	Future Cat
 10474	Rampaging Yamato
 10475	Strike Angel
+10508	Ironcat
 10522	Naga Cat
 10528	Jelly Dumpling Cat
 10529	Royal Guard Cat
@@ -658,6 +667,7 @@
 15449	Immortal Miyamoto
 15450	Divine Jeanne ψ
 15451	God-Emperor Babel
+15456	Starlight MOMOCO
 15457	Dark Sakura CC
 15468	Super S-Zeus
 15469	Head Rococo
@@ -739,9 +749,12 @@
 15721	Fallen Bear Cat
 15724	Almighty Aset
 15725	Cat Egg Pod
+15726	Sugar Rush Shinobi Tomoe
 15731	Lion Dancer Cat
 15758	Bride Cat
 15766	Clam Cat
+15871	Tycoon Cat
+15872	Combat Crawfish Cat
 16131	Awakened Ururun
 16173	Schoolbus Nyandam
 16269	Awakened Mina

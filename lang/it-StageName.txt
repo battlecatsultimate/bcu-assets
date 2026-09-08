@@ -1898,6 +1898,17 @@
 001-426-003	L'enigma finale
 001-427		Regali a fiumi per i 111M!
 001-427-000	Regali a fiumi per i 111M!
+001-433		Annientamento azzurro
+001-433-000	Pulsar palla (spietato)
+001-433-001	Superammasso puntiforme (spietato)
+001-434		Snodo del jackpot
+001-434-000	Sfida la fortuna
+001-434-001	Dalle stalle alle stelle
+001-434-002	Scommetti sulla base
+001-435		Per chi suona la campanella
+001-435-000	29/08: Esercizi di matematica/Ricerca sul campo
+001-435-001	30/08: Schede di lettura/Quaderno degli schizzi
+001-435-002	31/08: L'ultima sfida
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -5769,6 +5780,17 @@
 024-078-012	Sete di sangue Liv. 13
 024-078-013	Sete di sangue Liv. 14
 024-078-014	Sete di sangue Liv. MAX
+024-081		Asta del miliardario
+024-081-000	Ozio da ricchi
+024-081-001	Soldi in ballo
+024-081-002	Euforia dell'offerente
+024-081-003	Aggiudicato!
+024-081-004	Nessun prezzo è troppo alto
+024-081-005	Spendere e spandere
+024-081-006	Troppi zeri
+024-081-007	Manufatti inestimabili
+024-081-008	Ripartizione del budget
+024-081-009	Fattura astronomica
 
 025			Enigma Stages
 025-000		Campi Aitum
@@ -6684,6 +6706,20 @@
 034-031-003	Una grandiosa barriera
 034-031-004	Bosco in fiamme
 034-031-005	L'ombelico del gatto
+034-032		Regione Bento
+034-032-000	Pascoli di plastica
+034-032-001	Ponte dei forchiai dimenticati
+034-032-002	Vette degli onigiri
+034-032-003	Lago gocciolante
+034-032-004	Marcia del salmone affumicato
+034-032-005	Limbo degli avanzi
+034-033		Haute Horror
+034-033-000	Body con setole
+034-033-001	Pendenti con manubri
+034-033-002	Spallacci inutili
+034-033-003	Magliette commestibili
+034-033-004	Lobbia tonante
+034-033-005	Collari tagliagole
 
 036			Colosseum Stages
 036-000		Colosseo ultraterreno
@@ -6830,6 +6866,18 @@
 036-023-002	Round 3
 036-023-003	Round 4
 036-023-004	Round 5
+036-024		Colosseo ultraterreno
+036-024-000	Round 1
+036-024-001	Round 2
+036-024-002	Round 3
+036-024-003	Round 4
+036-024-004	Round 5
+036-025		Colosseo ultraterreno
+036-025-000	Round 1
+036-025-001	Round 2
+036-025-002	Round 3
+036-025-003	Round 4
+036-025-004	Round 5
 
 037			Campionati miciodiali
 037-000		Campionati miciodiali Grado 1

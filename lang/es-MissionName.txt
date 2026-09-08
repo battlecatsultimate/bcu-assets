@@ -857,7 +857,7 @@
 9502	[Fase de Invasión] Misión de evento exclusivo. Supera Clionel Zombi Ataca
 9503	[Fase de Invasión] Misión de evento exclusivo. Supera Vieja Reina
 9504	[Fase de Invasión] Misión de evento exclusivo. Supera Paraíso de Papuu
-9505	[Fase de Invasión] Supera La Tortuga y el Bebé. Para completarla, supera todas las fases y las fases EX
+9505	[Fase de Invasión] Supera La Máscara y el Bebé. Para completarla, supera todas las fases y las fases EX
 9506	[Fase de Invasión] Supera El Príncipe y el Renacido. Para completarla, supera todas las fases y las fases EX
 9507	[Fase de Invasión] Supera La Reina y el Santo. Para completarla, supera todas las fases y las fases EX
 9508	Deberes de Verano ④: Acaba una redacción de diez. Supera 9 fases de Gatos Estivales
@@ -898,7 +898,7 @@
 9542	Rumbo a la Unificación ⑤:. supera la fase 1 de «Rumbo a la Unificación Parte 2»
 9543	Rumbo a la Unificación ⑥:. ¡supera la fase 1 de «¡Batalla final! El Rey Indomable»
 72	Misión de Rumbo a la Unificación. Supera el cap. 1 de Imperio de los Gatos durante el evento
-9544	Misión muy dura 1: ¡Supera la fase 6 de «Lo más profundo de mi corazón». desplegando solo unidades que cuesten 1000 ¢ o menos!
+9544	Misión muy dura 1: ¡Sup. la fase 6 de «Lo más profundo de mi corazón». usando solo uds. de 1000 ¢ o más!
 9545	Misión muy dura 2: ¡Supera la fase 6 de «Minas de Gelatina». con 9 unidades normales o más en tu formación!
 9546	Misión muy dura 3: ¡Completa la fase 6 de «Laberinto del Bosque Viejo». con 8 unidades superraras o más en tu formación!
 9547	Misión muy dura 4: ¡Supera la fase 6 de «Cima del Mastodonte». desplegando solo unidades que cuesten 2000 ¢ o menos!
@@ -1042,6 +1042,47 @@
 9721	[Novia del Diablo de Junio] Supera 9 fase(s) de «#03 ¿En qué cae el 13?». durante Novia del Diablo de Junio.
 9722	[Novia del Diablo de Junio] Supera 9 fase(s) de «#04 Aldea de Alaridos». durante Novia del Diablo de Junio.
 9723	[Novia del Diablo de Junio] Supera 9 fase(s) de «#04 Aldea de Alaridos». durante Novia del Diablo de Junio.
+9731	Magnates del Resort ①: Equipo del proyecto ①. Consigue 3 personajes en las bolas de evento
+9732	Magnates del Resort ②: Equipo del proyecto ①. Consigue 5 personajes en las bolas de evento
+9733	Magnates del Resort ③: Equipo del proyecto ①. Consigue 7 personajes en las bolas de evento
+9734	Magnates del Resort ①: Tasación ①. Supera «Puja del Multimillonario» 9 veces
+9735	Magnates del Resort ①: Tasación ②. Supera «Puja del Multimillonario» 9 veces
+9736	Paraíso, semana 1 ①: Supera 0 fases. ¡Vale con completar cualquier fase!
+9737	Paraíso, semana 1 ②: Supera 0 fases. ¡Vale con completar cualquier fase!
+9738	Paraíso, semana 1 ③: Supera 0 fases. ¡Vale con completar cualquier fase!
+9739	Magnates del Resort ②: Vida de estrella ①. Supera «Paraíso de Resorts» 9 veces
+9740	Magnates del Resort ②: Vida de estrella ②. Supera «Paraíso de Resorts» 9 veces
+9741	Magnates del Resort ②: Decisión decisiva ①. Supera «Cruce del Premio Gordo» 9 veces
+9742	Magnates del Resort ②: Decisión decisiva ②. Supera «Cruce del Premio Gordo» 9 veces
+9743	Paraíso, semana 2 ①: Supera 0 fases. ¡Vale con completar cualquier fase!
+9744	Paraíso, semana 2 ②: Supera 0 fases. ¡Vale con completar cualquier fase!
+9745	Paraíso, semana 2 ③: Supera 0 fases. ¡Vale con completar cualquier fase!
+9746	Magnates del Resort ③: Sanación bendita ①. Supera «Sauna del Edén» 9 veces
+9747	Magnates del Resort ③: Sanación bendita ②. Supera «Sauna del Edén» 9 veces
+9748	Paraíso, semana 3 ①: Supera 0 fases. ¡Vale con completar cualquier fase!
+9749	Paraíso, semana 3 ②: Supera 0 fases. ¡Vale con completar cualquier fase!
+9750	Paraíso, semana 3 ③: Supera 0 fases. ¡Vale con completar cualquier fase!
+9751	Proyecto de ciencias: Insectoides . ¡Completa todas las misiones de la ① a la ④
+9752	Proyecto de ciencias: Insectoides ①. ¡Consigue 1 Gato Kabuto en las bolas de evento!
+9753	Proyecto de ciencias: Insectoides ②. ¡Consigue 1 Gato Kuwagata en las bolas de evento!
+9754	Proyecto de ciencias: Insectoides ③. ¡Consigue 1 Huevo Antiguo: N202 en las bolas de evento!
+9755	Proyecto de ciencias: Insectoides ④. ¡Consigue 1 Huevo Antiguo: N208 en las bolas de evento!
+9756	Vuelve el verano, semana 1 ①: Supera 0 fases. ¡Vale con completar cualquier fase!
+9757	Vuelve el verano, semana 1 ②: Supera 0 fases. ¡Vale con completar cualquier fase!
+9758	Vuelve el verano, semana 1 ③: Supera 0 fases. ¡Vale con completar cualquier fase!
+9759	Vuelve el verano, semana 1 ④: Supera 0 fases. ¡Vale con completar cualquier fase!
+9760	Vuelve el verano, semana 2 ①: Supera 0 fases. ¡Vale con completar cualquier fase!
+9761	Vuelve el verano, semana 2 ②: Supera 0 fases. ¡Vale con completar cualquier fase!
+9762	Vuelve el verano, semana 2 ③: Supera 0 fases. ¡Vale con completar cualquier fase!
+9763	Vuelve el verano, semana 2 ④: Supera 0 fases. ¡Vale con completar cualquier fase!
+9764	Subir nota: Supera «La Máscara y el Bebé». * Se debe superar la fase de continuación
+9765	Subir nota: Supera «El Príncipe y el Renacido». * Se debe superar la fase de continuación
+9766	Vuelve el verano, semana 3 ①: Supera 0 fases. ¡Vale con completar cualquier fase!
+9767	Vuelve el verano, semana 3 ②: Supera 0 fases. ¡Vale con completar cualquier fase!
+9768	Vuelve el verano, semana 3 ③: Supera 0 fases. ¡Vale con completar cualquier fase!
+9769	Vuelve el verano, semana 3 ④: Supera 0 fases. ¡Vale con completar cualquier fase!
+9770	Subir nota: Supera «La Reina y el Santo». * Se debe superar la fase de continuación
+9771	Subir nota: Supera «Fondo del Pantano». * Se debe superar con 10 gatos especiales
 9668	(Cada día podrás utilizar un tique gratis)
 9669	【Progreso】
 9670	【Progreso】¡Envía a Gamatoto a 17 excursiones exitosas!

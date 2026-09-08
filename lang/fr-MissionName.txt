@@ -862,7 +862,7 @@
 9502	[Niveau Invasion] Mission à durée limitée. Termine Ascension de Z-Onel
 9503	[Niveau Invasion] Mission à durée limitée. Termine La vieille reine
 9504	[Niveau Invasion] Mission à durée limitée. Termine Paradis de Papuu
-9505	[Niveau Invasion] Termine Tortue et bébé. Termine tous les niveaux et niveaux EX
+9505	[Niveau invasion] Le masque et le bébé. Termine tous les niveaux et niveaux EX
 9506	[Niveau Invasion] Termine Prince et revenant. Termine tous les niveaux et niveaux EX
 9507	[Niveau Invasion] Termine Reine et saint. Termine tous les niveaux et niveaux EX
 9508	Devoirs de vacances ④ : termine une rédaction parfaite. Termine 9 niveaux Chats de vacances d’été
@@ -903,7 +903,7 @@
 9542	Route de l’Unification ⑤ :. Termine le niveau 1 de la Route de l’Unification 2e partie !
 9543	Route de l’Unification ⑥ :. Termine le niveau 1 de Dernière bataille ! Le roi rebelle !
 72	Mission de la Route de l’Unification. Termine L’EdC ch. 1 pendant l’événement pour la terminer
-9544	Mission hyper balèze 1 : Termine le niv. 6 de « Du fond du cœur ». en déployant seulement des unités coûtant 1 000 ¢ ou moins !
+9544	Mission hyper balèze 1 : Termine le niv. 6 de « Du fond du cœur ». en déployant seulement des unités coûtant 1 000 ¢ ou plus !
 9545	Mission hyper balèze 2 : Termine le niv. 6 de « Mines de gélatine ». avec au moins 9 unités normales dans ta formation !
 9546	Mission hyper balèze 3 : Termine le niv. 6 de « Labyrinthe de l’ancienne. forêt » avec au moins 8 unités super rares dans ta formation !
 9547	Mission hyper balèze 4 : Termine le niv. 6 de « Pic de Béhémoth ». en déployant seulement des unités coûtant 2 000 ¢ ou moins !
@@ -1047,6 +1047,47 @@
 9721	[Mariée du démon de juin] Termine 9 niveau(x) de
 9722	[Mariée du démon de juin] Termine 9 niveau(x) de
 9723	[Mariée du démon de juin] Termine 9 niveau(x) de
+9731	Magnat des vacances ① : Équipe du projet ①. Obtiens 3 personnages dans les Chapsules d’événement !
+9732	Magnat des vacances ① : Équipe du projet ②. Obtiens 5 personnages dans les Chapsules d’événement !
+9733	Magnat des vacances ① : Équipe du projet ③. Obtiens 7 personnages dans les Chapsules d’événement !
+9734	Magnat des vacances ① : Évaluation de la valeur ①. Termine Mission de milliardaire 9 fois
+9735	Magnat des vacances ② : Évaluation de la valeur ①. Termine Mission de milliardaire 9 fois
+9736	Paradis, Sem. 1 ① : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9737	Paradis, Sem. 1 ② : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9738	Paradis, Sem. 1 ③ : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9739	Magnat des vacances ② : La vie de star ①. Termine Terre du lieu de vacances extravagant 9 fois
+9740	Magnat des vacances ② : La vie de star ②. Termine Terre du lieu de vacances. extravagant 9 fois
+9741	Magnat des vacances ② : Décision décisive ①. Termine Jonction du jackpot 9 fois
+9742	Magnat des vacances ② : Décision décisive ②. Termine Jonction du jackpot 9 fois
+9743	Paradis, Sem. 2 ① : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9744	Paradis, Sem. 2 ② : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9745	Paradis, Sem. 2 ③ : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9746	Magnat des vacances ③ : Soins grisants ①. Termine Sauna du paradis 9 fois
+9747	Magnat des vacances ③ : Soins grisants ②. Termine Sauna du paradis 9 fois
+9748	Paradis, Sem. 3 ① : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9749	Paradis, Sem. 3 ② : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9750	Paradis, Sem. 3 ③ : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9751	Projet scientifique : Insectoïdes. Termine toutes les missions jusqu’à la ① à ④ !
+9752	Projet scientifique : Insectoïdes ①. Obtiens 1 Chat Kabuto dans les Chapsules d’événement !
+9753	Projet scientifique : Insectoïdes ②. Obtiens 1 Chat Kuwagata dans les Chapsules d’événement !
+9754	Projet scientifique : Insectoïdes ③. Obtiens 1 Œuf ancien : N202 dans les Chapsules d’événement !
+9755	Projet scientifique : Insectoïdes ④. Obtiens 1 Œuf ancien : N208 dans les Chapsules d’événement !
+9756	L’été revient, Sem. 1 ① : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9757	L’été revient, Sem. 1 ② : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9758	L’été revient, Sem. 1 ③ : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9759	L’été revient, Sem. 1 ④ : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9760	L’été revient, Sem. 2 ① : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9761	L’été revient, Sem. 2 ② : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9762	L’été revient, Sem. 2 ③ : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9763	L’été revient, Sem. 2 ④ : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9764	Crédit supplémentaire : Termine Le masque et le bébé. * Le niveau suite doit être terminé
+9765	Crédit supplémentaire : Termine Prince et revenant. * Le niveau suite doit être terminé
+9766	L’été revient, Sem. 3 ① : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9767	L’été revient, Sem. 3 ② : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9768	L’été revient, Sem. 3 ③ : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9769	L’été revient, Sem. 3 ④ : Termine 0 niveaux. N’importe quel niveau terminé compte !
+9770	Crédit supplémentaire : Termine Reine et saint. * Le niveau suite doit être terminé
+9771	Crédit supplémentaire : Termine Au fond du marais. * À terminer avec 10 Chats spéciaux
 9668	Obtiens et utilise un ticket Chapsule gratuit chaque jour
 9669	【Progression】
 9670	【Progression】Réussis 17 expéditions avec Gamatoto !

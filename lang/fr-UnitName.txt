@@ -212,7 +212,7 @@
 211	P’tit Chat borgne	P’tit Chardi	P’tit Chat de l’ombre	
 212	Le lapin blanc	Le Chat noir	Le renard gris	Le Chat spectral
 213	Chat burger	Chat royal	Chappy meal	
-214	HYAKUTARO	HYAKUTARO CC	Recruited from the Metal Slug series!	
+214	HYAKUTARO	HYAKUTARO CC		
 215	MARCO	MARCO CC		
 216	TARMA	TARMA CC		
 217	ERI	ERI CC		
@@ -415,7 +415,7 @@
 414	EVA Unit-02	EVA Unit-02 & Cat	Unit-02, Code 777	
 415	Shinji Cat	Toji & Kensuke Cats		
 416	Moon Operators	NERV Moon		
-417	Puissant D-Lux thermiaule	Gardiens souterrains	Sentinelles souterraines	
+417	Puissant D-Lux thermiaule	Gardiens souterrains	Sentinelles souterraines	Sauveurs souterrains
 418	Moneko maboule	Moneko corrompue		
 419	Pokota	Pokota CC		
 420	Ovis	Ovis CC		
@@ -453,7 +453,7 @@
 452	Chat primitif	Chat moderne	Chat du futur	
 453				
 454				
-455	Wonder Momoco	Momoco mimi		
+455	Wonder Momoco	Momoco mimi	Momoco stellaire	
 456	Sakura Matou	Sakura Matou CC	Dark Sakura CC	
 457	Shirou the Cat	Novice Mage Shirou Cat		
 458	Archer the Cat	Heroic Spirit Archer Cat		
@@ -505,7 +505,7 @@
 504				
 505	Implacable Gladios	Destructeur Gladios	Dieu empereur Gladios	
 506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC	
-507	Forfélin	Superchat		
+507	Forfélin	Superchat	Chat de fer	
 508	Ryu Cat	Ryu Cat CC		
 509	Chun-Li Cat	Chun-Li Cat CC		
 510	Akuma	Akuma CC		
@@ -723,7 +723,7 @@
 722	Hatsune Miku XVI	Hatsune Miku XVI CC		
 723	Aset Mère-Lumière	Aset Nefer	Aset Toute-puissante	
 724	Œuf ancien N112	Œuf mystique N112	Nacelle-œuf féline	
-725	Tomoe kunoichi	Tomoe kunoichi gourmande		
+725	Tomoe kunoichi	Tomoe kunoichi gourmande	Tomoe shinobi sucrée	
 726	Roi des médailles	Empereur des Médailles		
 727	SOL DAE ROKKER	SOL DAE ROKKER CC		
 728	Soracte, mentor mental	Sochate, mentor mental		
@@ -764,7 +764,7 @@
 763	Chat dinosaure	Chat mecha-dinosaure		
 764				
 765	Œuf ancien N206	Œuf cinabre N206	Chapalourde	
-766	Sardine	Sardine CC	Provient de "Survive! Mola Mola!". Ses petites arêtes	
+766	Sardine	Sardine CC		
 767	Calmar	Calmar CC		
 768	Taitenki	Taitenki CC		
 769	Chat Hanasaka	Cerise vorace		
@@ -799,7 +799,7 @@
 798	Doppo Cat	Doppo Cat CC		
 799	Puissant lance-obus	Bombarde grandiose		
 800				
-801	Maître de la Logique Newton	Maître de la Logique Miaou-ton		
+801	Newtone, maître de la logique	Mewtone, maître de la logique		
 802	802-1			
 803	Sonic	Sonic & Cat		
 804	Tails	Tails & Cat		
@@ -864,3 +864,10 @@
 863	Le Chat invisible	Chat marié		
 864				
 865				
+866				
+867				
+868				
+869	Akane Tounji	Akane à fond les ballons		
+870	Œuf ancien N207	Œuf noir N207	Chat-magnat	
+871	Œuf ancien N208	Œuf vert N208	Chat-écrevisse de combat	
+872	Tomoe Gourmet de la jungle	Tomoe Reine de la canopée		

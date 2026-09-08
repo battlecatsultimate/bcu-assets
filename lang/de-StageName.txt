@@ -1276,7 +1276,7 @@
 001-270-001	Aku für Fortgeschrittene: Methoden
 001-270-002	Aku f. Fortgeschr.: Feldforschung
 001-270-003	Aku f. Fortgeschr.: Fragestellung
-001-271		女Bericht der Kaiserin 3
+001-271		Bericht der Kaiserin 3
 001-271-000	Aku für Experten: Einführung
 001-271-001	Aku für Experten: Methoden
 001-271-002	Aku für Experten: Forschung
@@ -1706,7 +1706,7 @@
 001-376		Supersmash-Familien
 001-376-000	Gefährliche Straße (Brutal)
 001-376-001	Schreckliche Straße (Brutal)
-001-377		Die Schildkröte und das Baby
+001-377		Die Maske und das Baby
 001-377-000	Das Reine Land (Gnadenlos)
 001-378		Der Prinz und die Wiedergängerin
 001-378-000	Kläfferhausen (Gnadenlos)
@@ -1898,6 +1898,17 @@
 001-426-003	Das letzte Rätsel
 001-427		Geschenke zur Feier von 111 Mio.!
 001-427-000	Geschenke zur Feier von 111 Mio.!
+001-433		Azurblaue Auslöschung
+001-433-000	Kugelfisch-Pulsar (Gnadenlos)
+001-433-001	Stachliger Superhaufen (Gnadenlos)
+001-434		Jokerkreuzung
+001-434-000	Fordere dein Glück heraus
+001-434-001	Vom Tellerwäscher zum Millionär
+001-434-002	Auf die Basis gesetzt
+001-435		Die Schulglocke läutet
+001-435-000	29.8.: Mathepauken / Feldstudie
+001-435-001	30.8.: Buchvorstellung / Zeichenbuch
+001-435-002	31.8.: Letztes Aufbäumen
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -5768,6 +5779,17 @@
 024-078-012	Blutdurstig St. 13
 024-078-013	Blutdurstig St. 14
 024-078-014	Blutdurstig St. MAX
+024-081		Befehle eines Milliardärs
+024-081-000	Die müßigen Reichen
+024-081-001	Geld auf dem Tisch
+024-081-002	Bieter-Rausch
+024-081-003	Zum Zweiten, zum Dritten, verkauft!
+024-081-004	Kein Preis hoch genug
+024-081-005	Geld sitzt locker
+024-081-006	Zu viele Nullen
+024-081-007	Unbezahlbare Artefakte
+024-081-008	Budget-Berechnung
+024-081-009	Rechnung astronomischer Höhe
 
 025			Enigma Stages
 025-000		Atium-Felder
@@ -6683,6 +6705,20 @@
 034-031-003	Eine große Barriere
 034-031-004	Flammenachse
 034-031-005	Der Nabel der Katze
+034-032		Bento-Region
+034-032-000	Plastik-Paradies
+034-032-001	Brücke der vergessenen Göffel
+034-032-002	Onigiri-Gipfel
+034-032-003	Tropfsee
+034-032-004	Räucherlachs-Rennstrecke
+034-032-005	Reste-Limbus
+034-033		Haute Horror
+034-033-000	Borstiger Bodysuit
+034-033-001	Hänge-Hantel
+034-033-002	Sinnlose Schulterpolster
+034-033-003	Schmackhafte Shirts
+034-033-004	Gewitter-Filzhut
+034-033-005	Halsabschneider-Kragen
 
 036			Colosseum Stages
 036-000		Anderwelt-Kolosseum
@@ -6829,6 +6865,18 @@
 036-023-002	Runde 3
 036-023-003	Runde 4
 036-023-004	Runde 5
+036-024		Anderwelt-Kolosseum
+036-024-000	Runde 1
+036-024-001	Runde 2
+036-024-002	Runde 3
+036-024-003	Runde 4
+036-024-004	Runde 5
+036-025		Anderwelt-Kolosseum
+036-025-000	Runde 1
+036-025-001	Runde 2
+036-025-002	Runde 3
+036-025-003	Runde 4
+036-025-004	Runde 5
 
 037			Katzenkrall-Meisterschaften
 037-000		Katzenkrall-Meisterschaften Rang 1

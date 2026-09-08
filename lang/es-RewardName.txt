@@ -246,6 +246,14 @@
 256|I478	C. tesoro bronce
 257|I479	Cofre tesoro plata
 258|I480	Cofre tesoro oro
+259|S259|I481	Billete legendario
+260|S260|I482	Red legendaria
+261|I483	C. tesoro bronce
+262|I484	Cofre tesoro plata
+263|I485	Cofre tesoro oro
+264|I486	C. tesoro bronce
+265|I487	Cofre tesoro plata
+266|I488	Cofre tesoro oro
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -313,7 +321,7 @@
 1068	Sórcates Mente Brillante
 1069	Gato Jugador de Bolos
 1070	Gatilargo Asesino
-1071	Sabio de la lógica Newton
+1071	Maestro de la Lógica Newtone
 1072	Gato Carpintero
 1073	Gato con Fedora
 1074	Gato del Periódico
@@ -460,6 +468,7 @@
 10453	Gato Futurista
 10474	Rampaging Yamato
 10475	Strike Angel
+10508	Gato de hierro
 10522	Gato Naga
 10528	Gato Gelatinoso
 10529	Guardia Real Gatuna
@@ -657,6 +666,7 @@
 15449	Miyamoto Inmortal
 15450	Dictadora Jeanne (ψ)
 15451	Babel, Dios Emperador
+15456	Luz Estelar Momoco
 15457	Dark Sakura CC
 15468	Super S-Zeus
 15469	Head Rococo
@@ -738,9 +748,12 @@
 15721	Oso Caído Gatuno
 15724	Aset Todopoderosa
 15725	Vaina de huevo gatuno
+15726	Shinobi Tomoe Subidón de Azúcar
 15731	Gato León Bailarín
 15758	Gata Prometida
 15766	Gato Almeja
+15871	Magnate gatuno
+15872	Gato Cangrejo
 16131	Ururun Alzado
 16173	Nyandam Bus Escolar
 16269	Mina Alzada

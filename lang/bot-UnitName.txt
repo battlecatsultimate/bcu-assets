@@ -867,7 +867,7 @@
 866	Pacman	Pacman Cat
 867	Blinky Cat	Blinky Cat CC
 868	Inky Cat	Inky Cat CC
-869	Iron Arm Akane	Go Go Akane
+869	Akane Tounji	Let's Go! Akane
 870	Ancient Egg: N207	Dark Egg: N207	Upstart Cat
-871	Ancient Egg: N208	Green Egg: N208	Assault Crayfish Cat
-872	Jungle Hunter Tomoe	Jungle Master Tomoe
+871	Ancient Egg: N208	Green Egg: N208	Combat Crawfish Cat
+872	Jungle Gourmet Tomoe	Canopy Queen Tomoe

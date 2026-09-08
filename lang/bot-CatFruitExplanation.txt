@@ -170,7 +170,7 @@
 169	True Form evolution loses knockback<br>effect, but both normal and Wave <br>attacks gain 100% Critical chance!
 170	True Form evolution increases attack<br>range and chance of critical attacks!<br>
 171	True Form evolution gains the ability to<br>weaken enemies. Plus, the length of time<br>enemies are frozen is now longer!
-172	True Form evolution improves all traits!<br>Plus, has a higher chance to Slow, and<br>becomes immune to enemy Curses.
+172	True Form evolution increases all stats!<br>Plus, has a higher chance to Slow, and<br>becomes immune to enemy Curses.	True Form evolution improves all traits!<br>Plus, has a higher chance to Slow, and<br>becomes immune to enemy Curses.
 173	True form evolution shortens<br>cooldown time after deployments!<br>
 174	True form evolution increases attack range!<br><br>
 175	<br><br>
@@ -415,7 +415,7 @@
 414	True Form evolution gains improved attack <br>rate. Plus, attack buildup is shorter, and<br>gets more powerful after taking damage!
 415	<br><br>
 416	<br><br>
-417	True Form evolution gains improved attack!<br><br>
+417	True Form gains increased attack!<br><br>	Ultra Form gains increased health,<br>improved attack power and attack range!<br>Plus, Strong vs. Relics and Immune to Toxic!
 418	<br><br>
 419	<br><br>
 420	<br><br>
@@ -453,7 +453,7 @@
 452	<br><br>
 453	<br><br>
 454	<br><br>
-455	<br><br>
+455	True Form gains increased health, improved<br>attack power and reduced cost! Plus, gains<br>Colossus Slayer and immunity to Freeze/Weaken!
 456	True Form gains increased Attack Speed!<br>Also gains Soulstrike and immunity<br>to Freeze attacks!
 457	<br><br>
 458	<br><br>
@@ -723,7 +723,7 @@
 722	<br><br>
 723	True form evolution gains improved abilities!<br>Wave attacks reach farther, and also<br>gains immunity to Freeze and Toxic.
 724	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
-725	<br><br>
+725	True Form gains improved attack power and<br>longer Freeze effect!<br>Also becomes Strong vs. Traitless/Aku!
 726	<br><br>
 727	<br><br>
 728	<br><br>
@@ -864,3 +864,10 @@
 863	<br><br>
 864	<br><br>
 865	<br><br>
+866	<br><br>
+867	<br><br>
+868	<br><br>
+869	<br><br>
+870	True Form evolution reveals a new look!<br>Gains Behemoth Slayer<br>and a chance of Mini-Waves!
+871	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>	<br>True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!
+872	<br><br>

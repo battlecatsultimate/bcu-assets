@@ -1898,6 +1898,17 @@
 001-426-003	The Final Enigma
 001-427		111M Celebration Gifts Galore!
 001-427-000	111M Celebration Gifts Galore!
+001-433		Aniquilación Celeste
+001-433-000	Púlsar del Pez Globo (Inhumano)
+001-433-001	Supercúmulo Puntiagudo (Inhumano)
+001-434		Cruce del Premio Gordo
+001-434-000	Tienta a la Suerte
+001-434-001	De Pobre a Rico
+001-434-002	Apuesta al Ganador
+001-435		Suena el Timbre del Colegio
+001-435-000	29/8: Ejercicios de Mates/Área de Estudio
+001-435-001	30/8: Reseñas de Libros/Libro de Bocetos
+001-435-002	31/8: La última batalla
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -5769,6 +5780,17 @@
 024-078-012	Bloodthirsty Lv.13
 024-078-013	Bloodthirsty Lv.14
 024-078-014	Bloodthirsty Lv.MAX
+024-081		Puja del Multimillonario
+024-081-000	Los ricos ociosos
+024-081-001	Dinero sobre la mesa
+024-081-002	Euforia del Postor
+024-081-003	A la Una, a las Dos, ¡Adjudicado!
+024-081-004	Ningún precio es lo bastante alto
+024-081-005	Derrochando la pasta
+024-081-006	Demasiados Ceros
+024-081-007	Artefactos Inestimables
+024-081-008	Desglose del Presupuesto
+024-081-009	Factura Astronómica
 
 025			Enigma Stages
 025-000		Campos de Aitum
@@ -6684,6 +6706,20 @@
 034-031-003	Una gran barrera
 034-031-004	Árbol en llamas
 034-031-005	El ombligo del gato
+034-032		Región del Táper
+034-032-000	Pasto de Plástico
+034-032-001	Puente de los Cuchatenedores Olvidados
+034-032-002	Cimas de Onigiri
+034-032-003	Lago con Fugas
+034-032-004	Carrera del Salmón Ahumado
+034-032-005	Limbo de las Sobras
+034-033		Horror de Categoría
+034-033-000	Malla Erizada
+034-033-001	Plastas de las Pesas
+034-033-002	Hombreras Inútiles
+034-033-003	Camisetas para Picar
+034-033-004	Sombrero Atronador
+034-033-005	Cuellos Despiadados
 
 036			Colosseum Stages
 036-000		Coliseo de Otro Mundo
@@ -6830,6 +6866,18 @@
 036-023-002	Ronda 3
 036-023-003	Ronda 4
 036-023-004	Ronda 5
+036-024		Coliseo de Otro Mundo
+036-024-000	Ronda 1
+036-024-001	Ronda 2
+036-024-002	Ronda 3
+036-024-003	Ronda 4
+036-024-004	Ronda 5
+036-025		Coliseo de Otro Mundo
+036-025-000	Ronda 1
+036-025-001	Ronda 2
+036-025-002	Ronda 3
+036-025-003	Ronda 4
+036-025-004	Ronda 5
 
 037			Campeonatos Afilagarras
 037-000		Campeonatos Afilagarras Rango 1

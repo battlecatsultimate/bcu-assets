@@ -1898,6 +1898,17 @@
 001-426-003	La dernière énigme
 001-427		Avalanche de cadeaux des 111 M !
 001-427-000	Avalanche de cadeaux des 111 M !
+001-433		Annihilation azurée
+001-433-000	Pulsar poisson-globe (sans répit)
+001-433-001	Superamas en épis (sans répit)
+001-434		Jonction du jackpot
+001-434-000	Tente ta chance
+001-434-001	Des bas-fonds au sommet
+001-434-002	Base à parier
+001-435		La cloche de l’école sonne
+001-435-000	29/08 : Interro de maths / Étude de terrain
+001-435-001	30/08 : Exposé / Carnet de croquis
+001-435-002	31/08 : Ultime combat
 
 002			Collaboration Stages
 002-001		Alluring Princess
@@ -5770,6 +5781,17 @@
 024-078-012	Sanguinaire niv. 13
 024-078-013	Sanguinaire niv. 14
 024-078-014	Sanguinaire niv. max
+024-081		Mission de milliardaire
+024-081-000	Le passe-temps des magnats
+024-081-001	Objets de désir
+024-081-002	Frisson des enchères
+024-081-003	Tout doit disparaître !
+024-081-004	Une soif insatiable
+024-081-005	Le temple des plaisirs
+024-081-006	Beaucoup trop de zéros
+024-081-007	Artéfacts inestimables
+024-081-008	Bilan du budget
+024-081-009	Facture astronomique
 
 025			Enigma Stages
 025-000		Champs Aitum
@@ -6685,6 +6707,20 @@
 034-031-003	Une grande barrière
 034-031-004	Arbre enflammé
 034-031-005	Le nombril du Chat
+034-032		Région du bento
+034-032-000	Pâturages de plastique
+034-032-001	Pont des fourchettes oubliées
+034-032-002	Pics d’onigiri
+034-032-003	Plan d’eau percé
+034-032-004	Course de saumon fumé
+034-032-005	Limbes des restes
+034-033		Haute horreur
+034-033-000	Combi à poils durs
+034-033-001	Haltères suspendus
+034-033-002	Épaulières superflues
+034-033-003	Chemises à grignoter
+034-033-004	Feutre fulgurant
+034-033-005	Colliers casse-cou
 
 036			Colosseum Stages
 036-000		Colisée d'outre-monde
@@ -6831,6 +6867,18 @@
 036-023-002	3e manche
 036-023-003	4e manche
 036-023-004	5e manche
+036-024		Colisée d'outre-monde
+036-024-000	1re manche
+036-024-001	2e manche
+036-024-002	3e manche
+036-024-003	4e manche
+036-024-004	5e manche
+036-025		Colisée d'outre-monde
+036-025-000	1re manche
+036-025-001	2e manche
+036-025-002	3e manche
+036-025-003	4e manche
+036-025-004	5e manche
 
 037			Championnats Griffélin
 037-000		Rang 1 des championnats Griffélin

@@ -862,7 +862,7 @@
 9502	[Invasion Stage] Limited event mission. Clear Z-Onel Rises!
 9503	[Invasion Stage] Limited event mission. Clear The Old Queen
 9504	[Invasion Stage] Limited event mission. Clear Papuu's Paradise
-9505	[Invasion Stage] Clear The Tortoise and the Baby. Clear all stages and EX stages to complete
+9505	[Invasion Stage] Clear The Mask and the Baby. Clear all stages and EX stages to complete
 9506	[Invasion Stage] Clear The Prince and the Revenant. Clear all stages and EX stages to complete
 9507	[Invasion Stage] Clear The Queen and the Saint. Clear all stages and EX stages to complete
 9508	Summer Homework ④: Finish a perfect report.  Clear 9 Summer Break Cats stages
@@ -903,7 +903,7 @@
 9542	Road to Unification ⑤：. Clear "Road to Unification Pt. 2", stage 1!
 9543	Road to Unification ⑥：. Clear "Final Battle! The Rebellious King" stage 1!
 72	Road to Unification Mission. Clear Empire of Cats Ch. 1 during the event to complete
-9544	Super Tough Mission 1: Clear Stage 6 of . "Depths of My Heart" using only units costing 1000¢ or less!
+9544	Super Tough Mission 1: Clear Stage 6 of . "Depths of My Heart" using only units costing 1000¢ or more!
 9545	Super Tough Mission 2: Clear Stage 6 of. "The Gelatin Mines" using 9+ Normal units!
 9546	Super Tough Mission 3: Clear Stage 6 of. "Ancient Forest Labyrinth" using 8+ Super Rare units!
 9547	Super Tough Mission 4: Clear Stage 6 of. "Behemoth's Peak" using only units of 2000¢ or less!
@@ -1048,6 +1048,47 @@
 9721	[June Bride of the Devil] Clear 9 "#03 ??? the 13th"
 9722	[June Bride of the Devil] Clear 9 "#04 Yowling Village"
 9723	[June Bride of the Devil] Clear 9 "#04 Yowling Village"
+9731	Resort Tycoon ①: Project Crew ①. Get 3 characters from the Event Capsules!
+9732	Resort Tycoon ①: Project Crew ②. Get 5 characters from the Event Capsules!
+9733	Resort Tycoon ①: Project Crew ③. Get 7 characters from the Event Capsules!
+9734	Resort Tycoon ①: Value Assessment ①. Clear "Billionaire's Bidding" 9 times
+9735	Resort Tycoon ①: Value Assessment ②. Clear "Billionaire's Bidding" 9 times
+9736	Paradise, Wk. 1 ①: Clear 0 stages. Clears from any stage will count!
+9737	Paradise, Wk. 1 ②: Clear 0 stages. Clears from any stage will count!
+9738	Paradise, Wk. 1 ③: Clear 0 stages. Clears from any stage will count!
+9739	Resort Tycoon ②: Celeb Life ①. Clear "Extravagant Resort Land" 9 times
+9740	Resort Tycoon ②: Celeb Life ②. Clear "Extravagant Resort Land" 9 times
+9741	Resort Tycoon ②: Fateful Decision ①. Clear "Jackpot Junction" 9 times
+9742	Resort Tycoon ②: Fateful Decision ②. Clear "Jackpot Junction" 9 times
+9743	Paradise, Wk. 2 ①: Clear 0 stages. Clears from any stage will count!
+9744	Paradise, Wk. 2 ②: Clear 0 stages. Clears from any stage will count!
+9745	Paradise, Wk. 2 ③: Clear 0 stages. Clears from any stage will count!
+9746	Resort Tycoon ③: Blissful Healing ①. Clear "Sauna of Paradise" 9 times
+9747	Resort Tycoon ③: Blissful Healing ②. Clear "Sauna of Paradise" 9 times
+9748	Paradise, Wk. 3 ①: Clear 0 stages. Clears from any stage will count!
+9749	Paradise, Wk. 3 ②: Clear 0 stages. Clears from any stage will count!
+9750	Paradise, Wk. 3 ③: Clear 0 stages. Clears from any stage will count!
+9751	Science Project: Insectoids. Complete all missions up to ① - ④!
+9752	Science Project: Insectoids ①. Get 1 Kabuto Cat from the Event Capsules!
+9753	Science Project: Insectoids ②. Get 1 Kuwagata Cat from the Event Capsules!
+9754	Science Project: Insectoids ③. Get 1 Ancient Egg: N202 from the Event Capsules!
+9755	Science Project: Insectoids ④. Get 1 Ancient Egg: N208 from the Event Capsules!
+9756	Summer Returns, Wk. 1 ①: Clear 0 stages. Clears from any stage will count!
+9757	Summer Returns, Wk. 1 ② : Clear 0 stages. Clears from any stage will count!
+9758	Summer Returns, Wk. 1 ③: Clear 0 stages. Clears from any stage will count!
+9759	Summer Returns, Wk. 1 ④: Clear 0 stages. Clears from any stage will count!
+9760	Summer Returns, Wk. 2 ①: Clear 0 stages. Clears from any stage will count!
+9761	Summer Returns, Wk. 2 ②: Clear 0 stages. Clears from any stage will count!
+9762	Summer Returns, Wk. 2 ③: Clear 0 stages. Clears from any stage will count!
+9763	Summer Returns, Wk. 2 ④: Clear 0 stages. Clears from any stage will count!
+9764	Extra Credit: Clear "The Mask and the Baby". * Must clear the Continuation Stage
+9765	Extra Credit: Clear "The Prince and the Revenant". * Must clear the Continuation Stage
+9766	Summer Returns, Wk. 3 ①: Clear 0 stages. Clears from any stage will count!
+9767	Summer Returns, Wk. 3 ②: Clear 0 stages. Clears from any stage will count!
+9768	Summer Returns, Wk. 3 ③: Clear 0 stages. Clears from any stage will count!
+9769	Summer Returns, Wk. 3 ④: Clear 0 stages. Clears from any stage will count!
+9770	Extra Credit: Clear "The Queen and the Saint". * Must clear the Continuation Stage
+9771	Extra Credit: Clear "Bottom of the Swamp". * Must clear with 10 Special Cats
 9668	Get a free Cat Ticket each day
 9669	【Progression】
 9670	【Progression】Send Gamatoto on 17 successful expeditions!
