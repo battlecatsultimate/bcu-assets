@@ -119,7 +119,7 @@
 118	Schließe ein Nova-Level ab
 119	Schließe Jagd auf die Xenobestie ab
 120	Schließe Untergrund-Labyrinth B100F ab
-121	Schalte Weiser des logischen Newton frei
+121	Schalte Newton, Meister der Logik frei
 122	Schließe Jumbo-Invasion ab.
 123	Schließe alle Zombielevel in Kosmische Katzen Kap. 3 ab
 124	Schließe das Filibuster-Zombielevel ab

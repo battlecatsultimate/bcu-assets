@@ -194,7 +194,7 @@
 193	<br><br>
 194	La forme ultime est efficace contre les<br>ennemis aliens.<br>
 195	La forme ultime augmente<br>la puissance d’attaque contre les aliens<br>et les ralentit à 100 % !
-196	La forme ultime inflige des dégâts<br>massifs aux ennemis aliens/reliques<br>Confère l'immun. aux maléd. ennemies.
+196	La forme ultime inflige des dégâts<br>massifs aux ennemis aliens/reliques<br>Confère l'immun. aux maléd. ennemies.	L’ultra forme augmente sa santé et son taux d'attaque,<br>réduit le temps de recharge et ajoute des dég. massifs<br>contre les anges et l'immunité à l'absorption !
 197	La forme ultime accélère la vitesse<br>de déplacement et améliore<br>la défense et la vitesse d’attaque !
 198	La forme ultime améliore fortement<br>la défense et peut réduire<br>la puissance d’attaque des ennemis !
 199	La forme ultime augmente la défense,<br>l'efficacité d'immob. des ennemis aliens et<br>permet de survivre à 1 frappe fatale !
@@ -399,7 +399,7 @@
 398	<br><br>
 399	<br><br>
 400	<br><br>
-401	La forme ultime améliore la défense<br>et l'attaque. De plus, l'immobilisation<br>des ennemis aliens est plus longue !
+401	La forme ultime améliore la défense<br>et l'attaque. De plus, l'immobilisation<br>des ennemis aliens est plus longue !	L’ultra forme confère plus de santé<br>et des attaques à longue portée.<br>Gagne une immunité à l'absorption !
 402	<br><br>
 403	<br><br>
 404	<br><br>
@@ -731,7 +731,7 @@
 730	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
 731	<br><br>
 732	<br><br>
-733	<br><br>
+733	La forme ultime augmente la santé, confère<br>des dégâts massifs contre les flottants/zombies,<br>et allonge la durée de l'effet de la capacité Esprit !
 734	<br><br>
 735	<br><br>
 736	<br><br>
@@ -752,7 +752,7 @@
 751	<br><br>
 752	<br><br>
 753	<br><br>
-754	<br><br>
+754	Forme ultime : meilleure santé<br>et répliques off. à 100 % !<br>L'Esprit peut aussi ralentir les ennemis !
 755	<br><br>
 756	<br><br>
 757	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>
@@ -871,3 +871,12 @@
 870	La forme ultime révèle son aspect final.<br>Gagne Fléau des Béhémoths !<br>Avec en plus une chance de mini-vague !
 871	La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !<br>	<br>La forme ultime révèle son aspect final.<br>Et gagne Fléau des Béhémoths !
 872	<br><br>
+873	<br><br>
+874	<br><br>
+875	<br><br>
+876	<br><br>
+877	<br><br>
+878	<br><br>
+879	<br><br>
+880	<br><br>
+881	<br><br>

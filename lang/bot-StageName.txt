@@ -1046,8 +1046,8 @@
 001-201-000	Honey Drip (Deadly)
 001-201-001	Royal Jelly Hell (Merciless)
 001-203		The 3rd Dimension
-001-203-000	Revenge of the Wormhole (Merciless)
-001-203-001	Wrath of the Wormhole (Merciless)
+001-203-000	Wrath of the Wormhole (Merciless)
+001-203-001	Revenge of the Wormhole (Merciless)
 001-204		Mystery Package
 001-204-000	Sender Unknown
 001-205		Dead by Encore
@@ -2118,6 +2118,7 @@
 002-087		Holy War: Saber Alter
 002-087-000	Consumed by Shadow (Veteran)
 002-087-001	Consumed by Shadow (Deadly)
+002-087-002	Consumed by Shadow (Merciless)
 002-088		Survive! Mola Mola!
 002-088-000	Squid Bender
 002-088-001	Mean Morning Sunbeams
@@ -2479,6 +2480,7 @@
 002-198		Holy War: Gilgamesh
 002-198-000	King of Heroes (Veteran)
 002-198-001	King of Heroes (Deadly)
+002-198-002	King of Heroes (Merciless)
 002-204		Redhead Yuki Cat Awakens!
 002-204-000	Redheaded Rise (Veteran)
 002-204-001	Redheaded Rise (Insane)
@@ -2691,6 +2693,30 @@
 002-269		Mission: Slay Akaza!
 002-269-000	Upper Rank Three - Akaza (Easy)
 002-269-001	Upper Rank Three - Akaza (Insane)
+002-270		The Hidden Grail War
+002-270-000	A Girl Who Longs for Peace
+002-270-001	Sins of the Abyss
+002-270-002	One with the Shadows
+002-270-003	Beyond Springtide
+002-271		PAC-MAN Appears!
+002-271-000	Pac-Dots in the Maze
+002-271-001	Bellyful of Pac-Dots
+002-271-002	Dodge Them Ghosts
+002-271-003	High Score Fruit
+002-271-004	Power Pellet Comeback
+002-271-005	Ghosts on the Run
+002-271-006	256 Levels to Victory
+002-272		PAC-MAN & Cat
+002-272-000	Objects in Motion
+002-272-001	Warp Tunnel's End
+002-272-002	Get those Ghosts
+002-272-003	A Straight Line's Beauty
+002-272-004	The Hunt for Power Pellets
+002-272-005	Endless Scavenging
+002-272-006	Face the Threat
+002-272-007	Invitation to a High Score
+002-272-008	Pac-Dots or Cat Food?
+002-272-009	Fit to Burst
 
 003			Main Story Chapters
 003-000		EoC Ch.1 Zombie
@@ -3801,6 +3827,8 @@
 004-080-001	Lucky! New Year's Loot!
 004-080-002	Lucky! New Year's Loot!
 004-080-003	Lucky! New Year's Loot!
+004-081		PAC-MAN Appears!
+004-081-000	Bonus Stage
 
 006			Catclaw Dojo
 006-000		Hall of Initiates
@@ -4140,6 +4168,8 @@
 011-046-000	Talent Tournament
 011-047		Arena of Destiny
 011-047-000	Talent Tournament
+011-048		Arena of Honor
+011-048-000	Into the Fray: Servants Strike!
 
 012			Challenge Mode
 012-000		Challenge
@@ -5732,7 +5762,7 @@
 024-073-007	Bad Review Streak
 024-073-008	Unstable Dreams
 024-073-009	Start from Scratch
-024-074		111M Download Celebration!
+024-074		120M Download Celebration!
 024-074-000	Invitation in Smoke
 024-074-001	2-Mile Red Carpet
 024-074-002	Neverending Greeting
@@ -6316,7 +6346,29 @@
 027-025-017	Why Not Become a Demon? Lv.18
 027-025-018	Why Not Become a Demon? Lv.19
 027-025-019	Then I'll Have to Kill You Lv.MAX
-
+027-026		True Assassin's Gauntlet
+027-026-000	Delusional Heartbeat Lv.1
+027-026-001	Delusional Heartbeat Lv.2
+027-026-002	Delusional Heartbeat Lv.3
+027-026-003	Delusional Heartbeat Lv.4
+027-026-004	Delusional Heartbeat Lv.5
+027-026-005	Delusional Heartbeat Lv.6
+027-026-006	Delusional Heartbeat Lv.7
+027-026-007	Delusional Heartbeat Lv.8
+027-026-008	Delusional Heartbeat Lv.9
+027-026-009	Delusional Heartbeat Lv.MAX
+027-027		Giant PAC-MAN Strikes!
+027-027-000	ROUND 1
+027-027-001	ROUND 2
+027-027-002	ROUND 3
+027-027-003	ROUND 4
+027-027-004	ROUND 5
+027-027-005	ROUND 6
+027-027-006	ROUND 7
+027-027-007	ROUND 8
+027-027-008	ROUND 9
+027-027-009	ROUND
+10
 031			Behemoth Culling Stages
 031-000		Hidden Forest of Gapra
 031-000-000	Woodlands Area 1
@@ -6732,6 +6784,27 @@
 034-033-003	Snackable Shirts
 034-033-004	Thunderous Trilby
 034-033-005	Cutthroat Collars
+034-034		Yandere Chemistry
+034-034-000	Codependent Compound
+034-034-001	Pipette of Passion
+034-034-002	Obsess-illoscope
+034-034-003	Envy's Flame Test
+034-034-004	Smothering Scheme
+034-034-005	Distilled Devotion
+034-035		Six Flans
+034-035-000	Room for Dessert
+034-035-001	Merry-Go-Roundcake
+034-035-002	Sinister Sorbet
+034-035-003	Sugar Coma
+034-035-004	Backstage Baker
+034-035-005	Cannelé Corkscrew
+034-036		Noodle Nirvana
+034-036-000	Soup Stock Springs
+034-036-001	Mass-Chashu-Sets
+034-036-002	Golden Gate Menma
+034-036-003	Kernel Chaos
+034-036-004	Fishcake Fortress
+034-036-005	Bowl of Bliss
 
 036			Colosseum Stages
 036-000		Otherworld Colosseum
@@ -6890,6 +6963,24 @@
 036-025-002	Round 3
 036-025-003	Round 4
 036-025-004	Round 5
+036-026		Otherworld Colosseum
+036-026-000	Round 1
+036-026-001	Round 2
+036-026-002	Round 3
+036-026-003	Round 4
+036-026-004	Round 5
+036-027		Otherworld Colosseum
+036-027-000	Round 1
+036-027-001	Round 2
+036-027-002	Round 3
+036-027-003	Round 4
+036-027-004	Round 5
+036-028		Otherworld Colosseum
+036-028-000	Round 1
+036-028-001	Round 2
+036-028-002	Round 3
+036-028-003	Round 4
+036-028-004	Round 5
 
 037			Catclaw Championships
 037-000		Catclaw Championships Rank 1
@@ -6933,3 +7024,9 @@
 037-011-000	Rank-Up Test 1
 037-011-001	Rank-Up Test 2
 037-011-002	Rank-Up Test 3
+
+039			Fever Dojo
+039-000		Koneko Takes the Stage
+039-000-000	No Shoving!
+039-000-001	No Stage Diving!
+039-000-002	No Moshing!

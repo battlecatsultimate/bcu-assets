@@ -1046,8 +1046,8 @@
 001-201-000	Goccia di miele (Letale)
 001-201-001	Inferno di pappa reale (Spietato)
 001-203		La terza dimensione
-001-203-000	Vendetta del wormhole (Spietato)
-001-203-001	Ira del wormhole (Spietato)
+001-203-000	Ira del wormhole (Spietato)
+001-203-001	Vendetta del wormhole (Spietato)
 001-204		Pack misterioso
 001-204-000	Mittente anonimo
 001-205		Morte da bis
@@ -1706,7 +1706,7 @@
 001-376		Famiglie della super schiacciata
 001-376-000	Strada insidiosa (Brutale)
 001-376-001	Strada nefanda (Brutale)
-001-377		La tartaruga e il bebè
+001-377		La maschera e il bebè
 001-377-000	La terra pura (Spietato)
 001-378		Il principe e il fantasma
 001-378-000	Bauville (Spietato)
@@ -2118,6 +2118,7 @@
 002-087		Holy War: Saber Alter
 002-087-000	Consumed by Shadow (Veteran)
 002-087-001	Consumed by Shadow (Deadly)
+002-087-002	Consumed by Shadow (Merciless)
 002-088		Survive! Mola Mola!
 002-088-000	Squid Bender
 002-088-001	Mean Morning Sunbeams
@@ -2479,6 +2480,7 @@
 002-198		Holy War: Gilgamesh
 002-198-000	King of Heroes (Veteran)
 002-198-001	King of Heroes (Deadly)
+002-198-002	King of Heroes (Merciless)
 002-204		Redhead Yuki Cat Awakens!
 002-204-000	Redheaded Rise (Veteran)
 002-204-001	Redheaded Rise (Insane)
@@ -2691,6 +2693,30 @@
 002-269		Mission: Slay Akaza!
 002-269-000	Upper Rank Three - Akaza (Easy)
 002-269-001	Upper Rank Three - Akaza (Insane)
+002-270		The Hidden Grail War
+002-270-000	A Girl Who Longs for Peace
+002-270-001	Sins of the Abyss
+002-270-002	One with the Shadows
+002-270-003	Beyond Springtide
+002-271		PAC-MAN Appears!
+002-271-000	Pac-Dots in the Maze
+002-271-001	Bellyful of Pac-Dots
+002-271-002	Dodge Them Ghosts
+002-271-003	High Score Fruit
+002-271-004	Power Pellet Comeback
+002-271-005	Ghosts on the Run
+002-271-006	256 Levels to Victory
+002-272		PAC-MAN & Cat
+002-272-000	Objects in Motion
+002-272-001	Warp Tunnel's End
+002-272-002	Get those Ghosts
+002-272-003	A Straight Line's Beauty
+002-272-004	The Hunt for Power Pellets
+002-272-005	Endless Scavenging
+002-272-006	Face the Threat
+002-272-007	Invitation to a High Score
+002-272-008	Pac-Dots or Cat Food?
+002-272-009	Fit to Burst
 
 003			Empire of Cats
 003-000		EoC Ch.1 Zombie
@@ -3789,6 +3815,8 @@
 004-080-001	Che fortuna! Un bottino di capodanno!
 004-080-002	Che fortuna! Un bottino di capodanno!
 004-080-003	Che fortuna! Un bottino di capodanno!
+004-081		PAC-MAN Appears!
+004-081-000	Bonus Stage
 
 006			Dojo miciodiale
 006-000		Sala degli iniziati
@@ -4128,6 +4156,8 @@
 011-046-000	Torneo talenti
 011-047		Arena del destino
 011-047-000	Torneo talenti
+011-048		Arena of Honor
+011-048-000	Into the Fray: Servants Strike!
 
 012			Challenge Mode
 012-000		Battaglia sfida
@@ -5720,7 +5750,7 @@
 024-073-007	Record di recensioni negative
 024-073-008	Sogni instabili
 024-073-009	Riparti da zero
-024-074		Festeggiamo i 111 milioni di download!
+024-074		Festeggiamo i 120 milioni di download!
 024-074-000	Invito fumoso
 024-074-001	Tappeto rosso lunghissimo
 024-074-002	Saluto infinito
@@ -6304,6 +6334,28 @@
 027-025-017	Why Not Become a Demon? Lv.18
 027-025-018	Why Not Become a Demon? Lv.19
 027-025-019	Then I'll Have to Kill You Lv.MAX
+027-026		True Assassin
+027-026-000	Delusional Heartbeat Lv.1
+027-026-001	Delusional Heartbeat Lv.2
+027-026-002	Delusional Heartbeat Lv.3
+027-026-003	Delusional Heartbeat Lv.4
+027-026-004	Delusional Heartbeat Lv.5
+027-026-005	Delusional Heartbeat Lv.6
+027-026-006	Delusional Heartbeat Lv.7
+027-026-007	Delusional Heartbeat Lv.8
+027-026-008	Delusional Heartbeat Lv.9
+027-026-009	Delusional Heartbeat Lv.MAX
+027-027		Giant PAC-MAN Strikes!
+027-027-000	ROUND 1
+027-027-001	ROUND 2
+027-027-002	ROUND 3
+027-027-003	ROUND 4
+027-027-004	ROUND 5
+027-027-005	ROUND 6
+027-027-006	ROUND 7
+027-027-007	ROUND 8
+027-027-008	ROUND 9
+027-027-009	ROUND 10
 
 031			Behemoth Culling Stages
 031-000		Foresta segreta di Gapra
@@ -6720,6 +6772,27 @@
 034-033-003	Magliette commestibili
 034-033-004	Lobbia tonante
 034-033-005	Collari tagliagole
+034-034		Chimica Yandere
+034-034-000	Composto codipendente
+034-034-001	Pipetta della passione
+034-034-002	Ossessioscopio
+034-034-003	Prova della fiamma dell'invidia
+034-034-004	Complotto soffocante
+034-034-005	Devozione distillata
+034-035		Sei budini
+034-035-000	Spazio per il dolce
+034-035-001	Girogirotorta
+034-035-002	Sorbetto sinistro
+034-035-003	Coma da zuccheri
+034-035-004	Pasticcere dietro le quinte
+034-035-005	Cavatappi cannelé
+034-036		Nirvana di spaghetti
+034-036-000	Sorgenti di zuppa
+034-036-001	Trionfo di chashu
+034-036-002	Menma Golden Gate
+034-036-003	Caos di noccioli
+034-036-004	Fortezza di tortini di pesce
+034-036-005	Ciotola della delizia
 
 036			Colosseum Stages
 036-000		Colosseo ultraterreno
@@ -6878,6 +6951,24 @@
 036-025-002	Round 3
 036-025-003	Round 4
 036-025-004	Round 5
+036-026		Colosseo ultraterreno
+036-026-000	Round 1
+036-026-001	Round 2
+036-026-002	Round 3
+036-026-003	Round 4
+036-026-004	Round 5
+036-027		Colosseo ultraterreno
+036-027-000	Round 1
+036-027-001	Round 2
+036-027-002	Round 3
+036-027-003	Round 4
+036-027-004	Round 5
+036-028		Colosseo ultraterreno
+036-028-000	Round 1
+036-028-001	Round 2
+036-028-002	Round 3
+036-028-003	Round 4
+036-028-004	Round 5
 
 037			Campionati miciodiali
 037-000		Campionati miciodiali Grado 1
@@ -6921,3 +7012,9 @@
 037-011-000	Test aumento 1
 037-011-001	Test aumento 2
 037-011-002	Test aumento 3
+
+039			Fever Dojo
+039-000		Koneko entra in scena
+039-000-000	Non si spinge!
+039-000-001	Non ci si tuffa dal palco!
+039-000-002	Non si poga!

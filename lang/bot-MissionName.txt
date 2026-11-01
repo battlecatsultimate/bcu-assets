@@ -637,10 +637,10 @@
 9262	Clear "River City Ball-Rolling" 9 times!
 9263	Clear "River City Ball-Rolling" 9 times!
 9264	Clear "River City Challenge Course" 9 times!
-9265	Clear stages from "River City Challenge Course"
+9265	【River City Cat Clash】④: Clear "River City Challenge Course". 1 times using only 9 Normal Cats
 9266	Defeat Doge at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
 9267	Defeat Doge at River City Three-Leg Race. (Once at any River City Three-Leg Race stage)
-9268	Clear all 0 River City Cat Clash Limited  Missions!
+9268	【River City Cat Clash】Clear all event Missions. to earn a Rare Ticket reward!
 9269	Witch Culling Mission 1: Defeat Rose Garden Witch. Appears in the stage Witch's Labyrinth: The Rose Garden Witch
 9270	Witch Culling Mission 2: Defeat Dessert Witch. Appears in the stage Witch's Labyrinth: Dessert Witch
 9271	Witch Culling Mission 3: Defeat Box Witch. Appears in the stage Witch's Labyrinth - Box Witch
@@ -741,11 +741,11 @@
 9378	Clear stages from "Merc Storia Collab"
 9379	Clear Floor 40 of the Infernal Tower. ※ Reward can only be collected once
 54	Clear "XP Bonanza!". Complete by clearing all stages in XP Bonanza!
-9380	Clear stages from "River City Cat Clash"
-9381	Clear stages from "River City Cat Clash"
-9382	Clear stages from "River City Cat Clash"
-9383	Clear stages from "River City Three-Leg Race"
-9384	Clear stages from "River City Three-Leg Race"
+9380	【River City Cat Clash】①: Clear 9 River City Cat Clash
+9381	【River City Cat Clash】②: Clear 9 River City Cat Clash
+9382	【River City Cat Clash】②: Clear 9 River City Cat Clash
+9383	【River City Cat Clash】⑤: Clear "River City Three-Leg Race". 1 times using only 2 Rare Cats
+9384	【River City Cat Clash】⑥: Clear "River City Three-Leg Race". 1 times using only 2 Special Cats
 9385	Clear stages from "Street Fighter V CE Collab"
 9386	Clear stages from "Street Fighter V CE Collab"
 9387	Clear stages from "Street Fighter V CE Collab"
@@ -862,9 +862,9 @@
 9502	[Invasion Stage] Limited event mission. Clear Z-Onel Rises!
 9503	[Invasion Stage] Limited event mission. Clear The Old Queen
 9504	[Invasion Stage] Limited event mission. Clear Papuu's Paradise
-9505	[Invasion Stage] Clear The Mask and the Baby. Clear all stages and EX stages to complete
-9506	[Invasion Stage] Clear The Prince and the Revenant. Clear all stages and EX stages to complete
-9507	[Invasion Stage] Clear The Queen and the Saint. Clear all stages and EX stages to complete
+9505	[Invasion Stage] Clear The Mask and the Baby. You must also clear the Continuation Stage
+9506	[Invasion Stage] Clear The Prince and the Revenant. You must also clear the Continuation Stage
+9507	[Invasion Stage] Clear The Queen and the Saint. You must also clear the Continuation Stage
 9508	Summer Homework ④: Finish a perfect report.  Clear 9 Summer Break Cats stages
 9509	Summer Homework Part 2 ⑤: Observing the insects. Clear Summer Night, Homeward Bound stage 1 with Kabuto Cat
 9510	Summer Homework Part 2 ⑥: Observing the insects. Clear Summer Night, Homeward Bound stage 2 with Kuwagata Cat
@@ -1036,6 +1036,9 @@
 9683	Premium Fair (Week 1):
 9684	Premium Fair (Week 2):
 9685	Premium Fair (Week 3):
+9709	Clear 9 Fate/stay night [HF] collab stages
+9710	Clear the Fate/stay night [HF] collab stage:.  "The Hidden Grail War" 9 times
+9711	Clear the Fate/stay night [HF] collab stage:.  "True Assassin's Gauntlet" 9 times
 9712	[June Bride of the Devil] Earn one "The Invisible Cat" from . the Event Capsules!
 9713	[June Bride of the Devil]
 9714	[June Bride of the Devil]
@@ -1048,6 +1051,13 @@
 9721	[June Bride of the Devil] Clear 9 "#03 ??? the 13th"
 9722	[June Bride of the Devil] Clear 9 "#04 Yowling Village"
 9723	[June Bride of the Devil] Clear 9 "#04 Yowling Village"
+9724	[PAC-MAN] Clear all Special Missions ① - ④. to earn 1 Rare Ticket!
+9725	[PAC-MAN] Special Mission ①:. Obtain a Blinky Cat from the Event Capsules!
+9726	[PAC-MAN] Special Mission ②:. Obtain an Inky Cat from the Event Capsules!
+9727	[PAC-MAN] Special Mission ③:. Obtain 3 Blinky Cats from the Event Capsules!
+9728	[PAC-MAN] Special Mission ④:. Obtain 3 Inky Cats from the Event Capsules!
+9729	[PAC-MAN] . Clear the "PAC-MAN & Cat" map
+9730	[PAC-MAN] . Clear "Giant PAC-MAN Strikes!" map
 9731	Resort Tycoon ①: Project Crew ①. Get 3 characters from the Event Capsules!
 9732	Resort Tycoon ①: Project Crew ②. Get 5 characters from the Event Capsules!
 9733	Resort Tycoon ①: Project Crew ③. Get 7 characters from the Event Capsules!
@@ -1073,20 +1083,20 @@
 9753	Science Project: Insectoids ②. Get 1 Kuwagata Cat from the Event Capsules!
 9754	Science Project: Insectoids ③. Get 1 Ancient Egg: N202 from the Event Capsules!
 9755	Science Project: Insectoids ④. Get 1 Ancient Egg: N208 from the Event Capsules!
-9756	Summer Returns, Wk. 1 ①: Clear 0 stages. Clears from any stage will count!
-9757	Summer Returns, Wk. 1 ② : Clear 0 stages. Clears from any stage will count!
-9758	Summer Returns, Wk. 1 ③: Clear 0 stages. Clears from any stage will count!
-9759	Summer Returns, Wk. 1 ④: Clear 0 stages. Clears from any stage will count!
-9760	Summer Returns, Wk. 2 ①: Clear 0 stages. Clears from any stage will count!
-9761	Summer Returns, Wk. 2 ②: Clear 0 stages. Clears from any stage will count!
-9762	Summer Returns, Wk. 2 ③: Clear 0 stages. Clears from any stage will count!
+9756	SBC: Revival, Wk. 1 ①: Clear 0 stages. Clears from any stage will count!
+9757	SBC: Revival, Wk. 1 ② : Clear 0 stages. Clears from any stage will count!
+9758	SBC: Revival, Wk. 1 ③: Clear 0 stages. Clears from any stage will count!
+9759	SBC: Revival, Wk. 1 ④: Clear 0 stages. Clears from any stage will count!
+9760	SBC: Revival, Wk. 2 ①: Clear 0 stages. Clears from any stage will count!
+9761	SBC: Revival, Wk. 2 ②: Clear 0 stages. Clears from any stage will count!
+9762	SBC: Revival, Wk. 2 ③: Clear 0 stages. Clears from any stage will count!
 9763	Summer Returns, Wk. 2 ④: Clear 0 stages. Clears from any stage will count!
 9764	Extra Credit: Clear "The Mask and the Baby". * Must clear the Continuation Stage
 9765	Extra Credit: Clear "The Prince and the Revenant". * Must clear the Continuation Stage
-9766	Summer Returns, Wk. 3 ①: Clear 0 stages. Clears from any stage will count!
-9767	Summer Returns, Wk. 3 ②: Clear 0 stages. Clears from any stage will count!
-9768	Summer Returns, Wk. 3 ③: Clear 0 stages. Clears from any stage will count!
-9769	Summer Returns, Wk. 3 ④: Clear 0 stages. Clears from any stage will count!
+9766	SBC: Revival, Wk. 3 ①: Clear 0 stages. Clears from any stage will count!
+9767	SBC: Revival, Wk. 3 ②: Clear 0 stages. Clears from any stage will count!
+9768	SBC: Revival, Wk. 3 ③: Clear 0 stages. Clears from any stage will count!
+9769	SBC: Revival, Wk. 3 ④: Clear 0 stages. Clears from any stage will count!
 9770	Extra Credit: Clear "The Queen and the Saint". * Must clear the Continuation Stage
 9771	Extra Credit: Clear "Bottom of the Swamp". * Must clear with 10 Special Cats
 9668	Get a free Cat Ticket each day
@@ -1094,3 +1104,11 @@
 9670	【Progression】Send Gamatoto on 17 successful expeditions!
 9671	【Progression】
 9672	【Progression】Clear all event missions. to earn 3 Rare Tickets
+9772	【120M DL】Clear all event Missions. to earn a Rare Ticket reward!
+9773	【120M DL】Send Gamatoto on 17 successful expedition!
+9774	【120M DL】Send Gamatoto on 17 successful expeditions!
+9775	【120M DL】Send Gamatoto on 17 successful expeditions!
+9780	【Halloween Party】Clear all event Missions to. earn a Rare Ticket Reward!
+9781	【Halloween Party】Earn a Featured Item from. the Special Event Capsules!
+9787	【River City Cat Clash】⑤: Clear "River City Three-Leg Race". 1 times using only 2 Rare Cats
+9788	【River City Cat Clash】⑥: Clear "River City Three-Leg Race". 1 times using only 2 Special Cats

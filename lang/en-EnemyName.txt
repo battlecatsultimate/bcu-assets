@@ -366,13 +366,13 @@
 365	Corporal Weyland
 366	Spacefish Jones
 367	The Cat God
-368	
-369	
-370	
-371	
-372	
-373	
-374	
+368	Saber
+369	Lancer
+370	Archer
+371	Rider
+372	Gilgamesh
+373	Rin Tohsaka
+374	Illyasviel
 375	Youcan
 376	
 377	Super Cosmic Cyclone
@@ -439,7 +439,7 @@
 438	Primeval Cyclone
 439	Li'l Bore
 440	Bears Be Back
-441	
+441	Saber Alter
 442	Ms. Madonna
 443	Mesocosmocyclone
 444	Gardeneel Bros.
@@ -727,7 +727,7 @@
 726	Kaoru Hanayama
 727	Katsumi Orochi
 728	Jack Hammer
-729	Sage of Logic Newton
+729	Sage of Logic Newtone
 730	Sonic
 731	Tails
 732	Knuckles
@@ -771,10 +771,22 @@
 770	Killer Cowbird Cat
 771	The Golden Face
 772	Sage of Selection Darvin
-773
-774
-775
-776
-777
-778
-779
+773	
+774	
+775	
+776	
+777	
+778	True Assassin
+779	Inky Doge
+780	Clyde Gory
+781	Pinky Bear
+782	Blinky Kory
+783	Giant PAC-MAN
+784	
+785	
+786	Marquis Clionius
+787	
+788	
+789	
+790	
+791	

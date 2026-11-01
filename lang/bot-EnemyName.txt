@@ -726,7 +726,7 @@
 726	Kaoru Hanayama
 727	Katsumi Orochi
 728	Jack Hammer
-729	Sage of Logic Newton
+729	Sage of Logic Newtone
 730	Sonic
 731	Tails
 732	Knuckles
@@ -744,7 +744,7 @@
 744	Deathshund
 745	Darkmadillo
 746	Manager Cat & Staff Cat
-747
+747	
 748	Cammy
 749	Juri
 750	Kaijin Doge
@@ -778,8 +778,14 @@
 778	True Assassin
 779	Inky Doge
 780	Clyde Gory
-781	Pinky Teacher Bear
+781	Pinky Bear
 782	Blinky Kory
-783	Giant Pacman
+783	Giant PAC-MAN
 784	Cherry
 785	Hammer Base
+786	Marquis Clionius
+787	Speaker Base
+788	Anji Yukyuzan
+789	Seta Sojiro
+790	Makoto Shishio
+791	Seijuro Hiko

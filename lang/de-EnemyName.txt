@@ -366,13 +366,13 @@
 365	Korporal Weyland
 366	Raumfisch Jones
 367	Der Katzengott
-368	
-369	
-370	
-371	
-372	
-373	
-374	
+368	Saber
+369	Lancer
+370	Archer
+371	Rider
+372	Gilgamesh
+373	Rin Tohsaka
+374	Illyasviel
 375	Dukann
 376	
 377	Superkosmischer Zyklon
@@ -439,7 +439,7 @@
 438	Ur-Zyklon
 439	Kleiner Ebär
 440	Zugabe der Bären
-441	
+441	Saber Alter
 442	Fr. Madonna
 443	Mesokosmozyklon
 444	Gebrüder Röhrenaal
@@ -727,7 +727,7 @@
 726	Kaoru Hanayama
 727	Katsumi Orochi
 728	Jack Hammer
-729	Weiser des logischen Newton
+729	Newton, Weiser der Logik
 730	Sonic
 731	Tails
 732	Knuckles
@@ -776,8 +776,17 @@
 775	
 776	
 777	
-778	
-779	
-780	
-781	
-782	
+778	True Assassin
+779	Inky Doge
+780	Clyde Gory
+781	Pinky Bear
+782	Blinky Kory
+783	Giant PAC-MAN
+784	
+785	
+786	Marquis Clionius
+787	
+788	
+789	
+790	
+791	

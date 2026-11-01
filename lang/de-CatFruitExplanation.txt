@@ -59,7 +59,7 @@
 058	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffskraft!<br>
 059	Wahre-Form-Entwicklung erhöht alle Werte<br>und gewährt Wellenangriff-Fähigkeiten!<br>	Wahre-Form-Entwicklung erhöht Bewegungs-<br>geschwindigkeit und erhält Rundumschlag!<br>Zudem verbesserte Wellenangriffe!
 060	<br><br>
-061	Wahre Form bietet stärkere Verteidigung!<br><br>
+061	Wahre Form erhöht Verteidigung!<br><br>
 062	<br><br>
 063	<br><br>
 064	<br><br>
@@ -117,11 +117,11 @@
 116	<br><br>
 117	<br><br>
 118	<br><br>
-119	Wahre Form erhält stark erhöhte Vert.!<br>Kann schwarze Feinde schwächen, erhält<br>Immunität gg. Verlangs. u. Kolosstöter!
+119	Wahre Form erhöht Verteidigung!<br>Kann schwarze Feinde schwächen, erhält<br>Immunität gg. Verlangs. u. Kolosstöter!
 120	<br><br>
 121	<br><br>
 122	<br><br>
-123	Wahre-Form-Gewinne deutlich erhöht<br>Gewährt Resistenz gegen rote Feinde,<br>Wellenangriffe, Behemothtöter!
+123	Wahre Form erhöht Verteidigung!<br>Gewährt Resistenz gegen rote Feinde,<br>Wellenangriffe, Behemothtöter!
 124	Wahre-Form-Entwicklung erhöht<br>Angriffskraft/-reichweite und Verteidigung!<br>
 125	Wahre-Form-Entwicklung erhöht<br>Angriffskraft/-reichweite und Verteidigung!<br>
 126	<br><br>
@@ -194,7 +194,7 @@
 193	<br><br>
 194	Wahre-Form-Entwicklung ist stark gegen<br>Alien-Feinde.<br>
 195	Wahre-Form-Entwicklung erhöht Angriff<br>gegen Alien-Feinde.<br>Verlangsamt zudem Aliens garantiert!
-196	Wahre-Form-Entwicklung fügt Aliens und<br>Relikten heftigen Schaden zu. Wird immun<br>gegen feindliche Flüche.
+196	Wahre-Form-Entwicklung fügt Aliens und<br>Relikten heftigen Schaden zu. Wird immun<br>gegen feindliche Flüche.	Ultra-Form hat erhöhte Gesundheit & Angriffsrate<br>sowie kürzere Abklingzeit. Heftiger Schaden<br>gegen Engel und Immunität gegen Entzug!
 197	Wahre-Form-Entwicklung bietet erhöhtes<br>Bewegungstempo und steigert Verteidigung<br>und Angriffstempo!
 198	Wahre Form erhöht Verteidigung.<br>Gewährt zudem die Fähigkeit, die feindliche<br>Angriffskraft zu schwächen!
 199	Wahre-Form-Entwicklung erhöht Vert.<br>Gewährt effektiveres Einfrieren gg. Aliens &<br>die Fähigkeit, einen Todesstoß zu überleben!
@@ -306,7 +306,7 @@
 305	Wahre-Form-Entwicklung erhöht<br>Angriffstempo!<br>	Ultra-Form: reduzierte Einsatz-Abklingzeit!<br>Erhöhte Vert., Angriffstempo/-reichweite!<br>Erhält zudem Immunität gegen Rückstoß!
 306	Wahre-Form-Entwicklung erhöht Vert.<br>und Rückstoß-Rate!<br>	Verbesserte Verteidigung, Rundumschlag,<br>explosive Angriffe und Weiser Töter!<br>Wird außerdem immun gegen Explosionen!
 307	Wahre Form erhöht Vert. und Bewegungs-<br>tempo deutlich! Zudem halten bei<br>Zombies Verlangsamen-Effekte länger an!
-308	Wahre Form erhöht Verteidigung deutlich!<br>Auch die Angriffsreichweite wird erhöht und<br>die Einfrierdauer bei Zombies steigt!
+308	Wahre Form erhöht Verteidigung!<br>Auch die Angriffsreichweite wird erhöht und<br>die Einfrierdauer bei Zombies steigt!
 309	<br><br>
 310	Wahre-Form-Entwicklung erhöht<br>Verteidigung + Rückstoß und<br>Lähmen gg. Aku-Feinde!
 311	<br><br>
@@ -323,7 +323,7 @@
 322	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriffstempo! Gewährt Immunität<br>gegen feindliche Schwächen-Effekte.
 323	Wahre-Form-Entwicklung steigert Angriff<br>und Verteidigung. Gewährt zudem Immunität<br>gegen Flüche & kann Relikte einfrieren.
 324	<br><br>
-325	Wahre Form erhöht Verteidigung.<br>Erhöht zudem die Angriffsreichweite!<br>
+325	Wahre Form erhöht Verteidigung!<br>Erhöht zudem die Angriffsreichweite!<br>
 326	<br><br>
 327	<br><br>
 328	<br><br>
@@ -399,7 +399,7 @@
 398	<br><br>
 399	<br><br>
 400	<br><br>
-401	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriff. Erhöht zudem die Wirkdauer des<br>Einfrieren-Effekts gegen Alien-Feinde!
+401	Wahre-Form-Entwicklung erhöht Vert.<br>und Angriff. Erhöht zudem die Wirkdauer des<br>Einfrieren-Effekts gegen Alien-Feinde!	Ultra-Form-Entwicklung verbessert HP<br>und Distanz-Flächenangriffe!<br>Außerdem Immunität gegen Entzug!
 402	<br><br>
 403	<br><br>
 404	<br><br>
@@ -415,7 +415,7 @@
 414	Wahre-Form-Entwicklung steigert Angriffsrate.<br>Angriffsaufbau dauert kürzer und wird stärker,<br>nachdem Schaden erlitten wurde!
 415	<br><br>
 416	<br><br>
-417	Wahre-Form-Entwicklung steigert Angriff!<br><br>
+417	Wahre Form erhöht Angriff!<br><br>	Ultra-Form erhält erhöhte Gesundheit,<br>verbesserte Angriffskraft und Angriffsreichweite!<br>Außerdem stark gegen Relikte und immun gegen Gifte!
 418	<br><br>
 419	<br><br>
 420	<br><br>
@@ -453,7 +453,7 @@
 452	<br><br>
 453	<br><br>
 454	<br><br>
-455	<br><br>
+455	Wahre Form gewährt erhöhte Gesundheit, verbesserte<br>Angriffskraft und reduzierte Kosten! Erhält außerdem<br>Kolosstöter und Immunität gegen Einfrieren/Schwächen!
 456	True Form gains increased Attack Speed!<br>Also gains Soulstrike and immunity<br>to Freeze attacks!
 457	<br><br>
 458	<br><br>
@@ -494,7 +494,7 @@
 493	<br><br>
 494	<br><br>
 495	Wahre Form gewährt erhöhte Verteidigung!<br>Plus, erhöhte Bewegungsgeschwindigkeit!<br>
-496	Wahre-Form-Entwicklung erhöht<br>Verteidigung deutlich! Außerdem steigt<br>die Chance auf wilde Schläge!	Ultra-Form erhöht Gesundheit, Tempo,<br>Angriffsreichweite, Explosionen sowie<br>Weiser Töter, höh. Wilder-Schlag-Chance!
+496	Wahre Form erhöht Verteidigung!<br>Außerdem steigt die Chance<br>auf wilde Schläge!	Ultra-Form erhöht Gesundheit, Tempo,<br>Angriffsreichweite, Explosionen sowie<br>Weiser Töter, höh. Wilder-Schlag-Chance!
 497	<br><br>
 498	<br><br>
 499	<br><br>
@@ -723,7 +723,7 @@
 722	<br><br>
 723	Wahre-Form-Entw. verbessert Fähigkeiten!<br>Wellenang. kommen weiter und erhält<br>Immunität gegen Einfrieren und Gift.
 724	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
-725	<br><br>
+725	Wahre Form verbessert die Angriffskraft und<br>längere Einfrieren-Effekte!<br>Wird außerdem stark gegen Wertelose/Aku!
 726	<br><br>
 727	<br><br>
 728	<br><br>
@@ -731,7 +731,7 @@
 730	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
 731	<br><br>
 732	<br><br>
-733	<br><br>
+733	Wahre Form erhält erhöhte Gesundheit,<br>heftigen Schaden gegen Fliegend/Zombies<br>und längere Dauer von Geist-Fähigkeitseffekten!
 734	<br><br>
 735	<br><br>
 736	<br><br>
@@ -752,7 +752,7 @@
 751	<br><br>
 752	<br><br>
 753	<br><br>
-754	<br><br>
+754	Wahre-Form-Entw. verbessert HP<br>& garantiert Zufallsangriffe!<br>Außerdem: Geist erhält Lähmen-Effekt gegen Feinde.
 755	<br><br>
 756	<br><br>
 757	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>
@@ -864,3 +864,19 @@
 863	<br><br>
 864	<br><br>
 865	<br><br>
+866	<br><br>
+867	<br><br>
+868	<br><br>
+869	<br><br>
+870	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem „Behemothtöter“!<br>und erhält Chance auf Mini-Wellen!
+871	Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!<br>	<br>Wahre-Form-Entw. enth. letzte Form!<br>Erhält zudem "Behemothtöter"!
+872	<br><br>
+873	<br><br>
+874	<br><br>
+875	<br><br>
+876	<br><br>
+877	<br><br>
+878	<br><br>
+879	<br><br>
+880	<br><br>
+881	<br><br>

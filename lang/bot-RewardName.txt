@@ -254,6 +254,14 @@
 264|I486	Treasure Chest (Bronze)
 265|I487	Treasure Chest (Silver)
 266|I488	Treasure Chest (Gold)
+267|S267|I489	Power Pellet
+268|I490	Login Bonus Upgrade!
+269|S269|I491	Event Points
+270|S270|I492	Legendary Starshine
+271|S271|I493	Legendary Spirit
+272|I494	Treasure Chest (Bronze)
+273|I495	Treasure Chest (Silver)
+274|I496	Treasure Chest (Gold)
 1001	Sports Day Cat
 1003	Salaryman Cat
 1004	Reindeer Fish Cat
@@ -386,6 +394,7 @@
 1185	Master of Life Dr. Nova
 1186	Sonic Cat
 1187	Tanjiro Cat
+1188	Li'l Sakura
 10010	Beefcake Cat
 10011	Dancer Cat
 10012	Hyper Mr.
@@ -488,7 +497,7 @@
 10685	Brainwashed Island Cat
 10689	Brainwashed King Dragon Cat
 10695	Brainwashed Jamiera Cat
-15017	Superstar MONEKO
+15017	Superstar Moneko
 15031	Tathagata Cat
 15032	Ultra Delinquent Cat
 15033	Can Can Cat
@@ -751,6 +760,8 @@
 15725	Cat Egg Pod
 15726	Sugar Rush Shinobi Tomoe
 15731	Lion Dancer Cat
+15734	Divine Pegasa ν
+15756	Immortal Mitsuhide
 15758	Bride Cat
 15766	Clam Cat
 15871	Tycoon Cat

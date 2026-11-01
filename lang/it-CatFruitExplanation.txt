@@ -194,7 +194,7 @@
 193	<br><br>
 194	La Forma Reale è efficace<br>contro nemici alieni.<br>
 195	La Forma Reale aumenta<br>la potenza d'attacco contro nemici alieni.<br>Ha rallentamento al 100% contro alieni!
-196	La Forma Reale infligge danni<br>enormi ad alieni e antichi, e<br>diventa immune dalle maledizioni.
+196	La Forma Reale infligge danni<br>enormi ad alieni e antichi, e<br>diventa immune dalle maledizioni.	La forma ultra ottiene più salute e ritmo d'attacco,<br>tempo di ricarica ridotto, danni enormi<br>vs angelici e immunità da prosciugamento!
 197	La Forma Reale ottiene più velocità<br>di movimento, più una migliore<br>difesa e velocità d'attacco!
 198	La Forma Reale ottiene una migliore<br>difesa. Ottiene anche l'abilità di indebolire<br>la potenza d'attacco del nemico!
 199	La Forma Reale aumenta la difesa.<br>Ottiene immobilità migliore contro alieni<br>e l'abilità di sopravvivere a un colpo letale!
@@ -399,7 +399,7 @@
 398	<br><br>
 399	<br><br>
 400	<br><br>
-401	La Forma Reale ottiene maggiori<br>difesa e attacco. In più, aumentata<br>la durata di immobilità su nemici alieni!
+401	La Forma Reale ottiene maggiori<br>difesa e attacco. In più, aumentata<br>la durata di immobilità su nemici alieni!	La forma ultra ottiene più salute<br>e un attacco a lungo raggio!<br>Inoltre, ottiene immunità a prosciugamento!
 402	<br><br>
 403	<br><br>
 404	<br><br>
@@ -731,7 +731,7 @@
 730	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
 731	<br><br>
 732	<br><br>
-733	<br><br>
+733	Con la forma reale si ottengono salute aumentata,<br>danni enormi vs fluttuanti/zombi<br>ed effetto dell'abilità Spirito esteso!
 734	<br><br>
 735	<br><br>
 736	<br><br>
@@ -752,7 +752,7 @@
 751	<br><br>
 752	<br><br>
 753	<br><br>
-754	<br><br>
+754	La forma reale ha più salute e 100% di valanga!<br>Inoltre, lo spirito rallenta i nemici!<br>
 755	<br><br>
 756	<br><br>
 757	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>
@@ -871,3 +871,12 @@
 870	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>con una possibilità di mini-ondate!
 871	La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!<br>	<br>La Forma Reale rivela la forma finale!<br>Ottiene anche Ammazza Behemoth!
 872	<br><br>
+873	<br><br>
+874	<br><br>
+875	<br><br>
+876	<br><br>
+877	<br><br>
+878	<br><br>
+879	<br><br>
+880	<br><br>
+881	<br><br>

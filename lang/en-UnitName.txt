@@ -14,9 +14,9 @@
 013	Dom Cat	Executioner	Dark Lazer	
 014	Cats in a Box	Cat Gang	Heavy Assault C.A.T.	
 015	Panties Cat	Leaf Cat	Lollycat	
-016	Moneko	Miss MONEKO	Superstar MONEKO	
+016	Moneko	Miss Moneko	Superstar Moneko	
 017	Tricycle Cat	Biker Cat	Unicycle Cat	
-018	Ninja Cat	Ninja Frog Cat	Flying Ninja Cat	
+018	Ninja Cat	Frog Ninja Cat	Flying Ninja Cat	
 019	Zombie Cat	Devil Cat	Skelecat	
 020	Samurai Cat	Knight Cat	Pastry Cat	
 021	Sumo Cat	Madame Sumo	Riceball Cat	
@@ -32,7 +32,7 @@
 031	Delinquent Cat	Angry Delinquent Cat	Ultra Delinquent Cat	
 032	Hip Hop Cat	Dancing Flasher Cat	Can Can Cat	
 033	Kotatsu Cat	Sadako Cat	Octopus Cat	
-034	Nekoluga	Unknown Cat	Ultralan Pasalan	
+034	Nekoluga	Kesalan Pasalan	Ultralan Pasalan	
 035	Nerd Cat	Hacker Cat	Cyberpunk Cat	
 036	Swimmer Cat	Butterfly Cat	Fishman Cat	
 037	Pogo Cat	Masai Cat	Jiangshi Cat	
@@ -194,7 +194,7 @@
 193				
 194	Akira	Shadow Akira	Inferno Akira	
 195	Mekako Saionji	Dr. Mekako	Mission Control Mekako	
-196	Catman	Dark Catman	Ultimate Catman	
+196	Catman	Dark Catman	Ultimate Catman	Catman Forever
 197	Psychocat	Neo Psychocat	Corrupted Psychocat	
 198	Onmyoji Cat	Magica Cat	Thaumaturge Cat	
 199	Surfer Cat	Castaway Cat	Seafarer Cat	
@@ -399,7 +399,7 @@
 398				
 399	Mentori	Mentori CC		
 400	Imoto	Imoto CC		
-401	Voli	Volta	Gigavolta	
+401	Voli	Volta	Gigavolta	Teravolta
 402	Shinji & Cat	Plug Suit Shinji	Plug Suit Shinji Black	
 403	Gendo & Fuyutsuki Cats	Moon Gendo & Fuyutsuki Cats		
 404	Giraffe Unit-01	Giraffe Unit-02		
@@ -502,7 +502,7 @@
 501	Cat Bros	Baka Cat Bros		
 502	Myrcia 	Myrcia, type ξ	Divine Myrcia ξ	
 503				
-504				
+504	Burgle Boss Cat (Retired)	Burgle Boss Cat (Prime)		
 505	Relentless Gladios	Gladios the Annihilator	God-Emperor Gladios	
 506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC	
 507	Mightycat	Supercat	Ironcat	
@@ -586,7 +586,7 @@
 585	Baby Garu	Mighty Aegis Garu		
 586	Emperor Cat	Tyrant Cat		
 587	Sweet Aphrodite	Chocoladite		
-588	First-Love Myrcia	First-Love Myrcia ξ		
+588	First-Love Myrcia	First-Love Myrcia, type ξ		
 589	Valentine's Neneko	Sweetheart Neneko	True Love Neneko	
 590	Snow Miku 2021	Snow Miku CC 2021		
 591	KAITO & Cat	KAITO & Cat CC		
@@ -664,7 +664,7 @@
 663	Ancient Egg: N103	Dark Egg: N103	Gas Mask Cat	
 664	Ancient Egg: N104	Green Egg: N104	Surgeon Cat	
 665	Ancient Egg: N201	Dark Egg: N201	Exorcist Cat	
-666	Night Beach Lilin	Night Beach Lilinπ		
+666	Night Beach Lilin	Night Beach Lilin, type π		
 667	Brainwashed Bird Cat	Brainwashed UFO Cat	Brainwashed Flying Cat	
 668	Cat Tengu	Grand Yokai Tengu	Immortal Master Tengu	
 669	Ancient Egg: N003	Evil Egg: N003	Cat Cactus	
@@ -685,7 +685,7 @@
 684	Brainwashed Fish Cat	Brainwashed Whale Cat	Brainwashed Island Cat	
 685	Ancient Egg: N004	Mystic Egg: N004	Supercar Cat	
 686	Goddess of Light Sirius	Goddess of Sunrise Sirius		
-687	Reindeer Terun	Reindeer Terunζ		
+687	Reindeer Terun	Reindeer Terun, type ζ		
 688	Brainwashed Lizard Cat	Brainwashed Dragon Cat	Brainwashed King Dragon Cat	
 689	Meditation Cat	Paragon Cat		
 690	Child of Destiny Phono	King of Destiny Phonoa		
@@ -712,7 +712,7 @@
 711	Betrothed Balaluga	Betrothed Pasalan		
 712	Kaoluga	Kaolan Pasalan	Kaolan Tatalan	
 713	Ancient Egg: N203	Violet Egg: N203	Clown Cat	
-714	Coastal Explorer Kanna	Deep-Diver Kanna	Great Deep-Diver Kanna	
+714	Coastal Explorer Kanna	Deep-Diver Kanna		
 715	Mighty Sphinx Korps	Attack Battalion Convoys	Hyper Battalion Convoys	
 716	Ancient Egg: N111	Mystic Egg: N111	Cop Cat	
 717	Ancient Egg: N110	Amber Egg: N110	Farmboy Cat	
@@ -731,7 +731,7 @@
 730	Ancient Egg: N204	Cinnabar Egg: N204	Lion Dancer Cat	
 731	Daybreaker Izanagi	Dawnbringer Izanagi		
 732				
-733	Pegasa	Pegasa, type ν		
+733	Pegasa	Pegasa, type ν	Divine Pegasa ν	
 734				
 735	Principal Cat	Midlife Crisis Cat		
 736	Frozen Rose Cat	Arctic Bloom Cat		
@@ -752,12 +752,12 @@
 751	Li'l Yahiko	Li'l Yahiko CC		
 752	Kenshin Cat	Battosai Cat		
 753	Kaoru Cat	Swordscat Kaoru		
-754	Akechi Mitsuhide	Wargod Mitsuhide		
+754	Akechi Mitsuhide	Wargod Mitsuhide	Immortal Mitsuhide	
 755				
 756	Cake Machine	Wedding Cake Machine		
 757	Ancient Egg: N205	Violet Egg: N205	Bride Cat	
 758	Trixi the Merc	Trixi the Revenant		
-759	Music Fest Thundia	Music Fest Thundia β		
+759	Music Fest Thundia	Music Fest Thundia, type β		
 760	Gunduros	Ballistic Dragon Gunduros		
 761				
 762				
@@ -818,7 +818,7 @@
 817	Komori	Moririn		
 818				
 819	Carpenter Cat	Rapper Cat		
-820	Seaside Pegasa	Seaside Pegasa v		
+820	Seaside Pegasa	Seaside Pegasa, type v		
 821				
 822	Consultant Cat	Business Partner Cat		
 823				
@@ -862,12 +862,21 @@
 861	Vornado	Tempest King Vornado		
 862	Hanzo the Betrothed	Hanzo the Groom		
 863	The Invisible Cat	Groom Cat		
-864				
-865				
-866				
-867				
-868				
+864	Shirou Emiya	Shirou Emiya CC		
+865	True Assassin	True Assassin CC		
+866	PAC-MAN	Cat PAC-MAN		
+867	Blinky Cat	Blinky Cat CC		
+868	Inky Cat	Inky Cat CC		
 869	Akane Tounji	Let's Go! Akane		
 870	Ancient Egg: N207	Onyx Egg: N207	Tycoon Cat	
 871	Ancient Egg: N208	Green Egg: N208	Combat Crawfish Cat	
 872	Jungle Gourmet Tomoe	Canopy Queen Tomoe		
+873	Metal Maiden Koneko	Sonic Siren Koneko		
+874	Ryuichi	Ryuichi & Ryuji		
+875	735_1			
+876	756-1			
+877	Hare of Inaba	Mega Shark vs. The White Hare		
+878				
+879				
+880				
+881				

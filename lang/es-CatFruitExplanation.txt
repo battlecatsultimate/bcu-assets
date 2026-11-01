@@ -194,7 +194,7 @@
 193	<br><br>
 194	La forma final es eficaz<br>contra álienes.<br>
 195	La forma final tiene más<br>poder de ataque contra álienes.<br>Además, siempre los ralentiza.
-196	La forma final es superfuerte<br>contra enemigos reliquias y álienes.<br>Además, es inmune a las maldiciones.
+196	La forma final es superfuerte<br>contra enemigos reliquias y álienes.<br>Además, es inmune a las maldiciones.	¡La ultraforma obtiene más vida y velocidad de ataque,<br>tiempos de espera más cortos, es superfuerte contra<br>ángeles y tiene inmunidad a drenar!
 197	La forma final tiene más<br>velocidad de movimiento y de ataque,<br>además de una mayor defensa.
 198	La forma final tiene una mayor<br>defensa y la habilidad de desgastar<br>el poder de ataque de los enemigos.
 199	La forma final tiene una mayor defensa.<br>Además, paraliza más tiempo a los álienes<br>y puede sobrevivir a un golpe mortal.
@@ -399,7 +399,7 @@
 398	<br><br>
 399	<br><br>
 400	<br><br>
-401	La forma final tiene mejor defensa.<br>Además, mejora su ataque y paraliza durante<br>más tiempo a los álienes.
+401	La forma final tiene mejor defensa.<br>Además, mejora su ataque y paraliza durante<br>más tiempo a los álienes.	¡La evolución de ultraforma obtiene vida mejorada<br>y un ataque de largo alcance!<br>¡Además, se vuelve inmune a drenar!
 402	<br><br>
 403	<br><br>
 404	<br><br>
@@ -731,7 +731,7 @@
 730	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
 731	<br><br>
 732	<br><br>
-733	<br><br>
+733	¡La forma final tiene más vida,<br>es superfuerte contra voladores/zombis<br>y alarga la duración de la habilidad Espíritu!
 734	<br><br>
 735	<br><br>
 736	<br><br>
@@ -752,7 +752,7 @@
 751	<br><br>
 752	<br><br>
 753	<br><br>
-754	<br><br>
+754	¡La forma final obtiene vida mejorada<br>y siempre replica!<br>¡Además, el espíritu puede ralentizar a los enemigos!
 755	<br><br>
 756	<br><br>
 757	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>
@@ -871,3 +871,12 @@
 870	¡La forma final revela su aspecto real!<br>¡También es matamastodontes!<br>y puede lanzar minioleadas.
 871	¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!<br>	<br>¡La forma final revela su aspecto real!<br>¡También gana matamastodontes!
 872	<br><br>
+873	<br><br>
+874	<br><br>
+875	<br><br>
+876	<br><br>
+877	<br><br>
+878	<br><br>
+879	<br><br>
+880	<br><br>
+881	<br><br>

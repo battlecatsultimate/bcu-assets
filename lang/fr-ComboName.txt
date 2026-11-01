@@ -253,3 +253,8 @@
 3063	Peur primaire
 3064	Complainte sauvage
 3065	Semaine sécurité routière
+107	PAC-MAN Fever
+108	Welcome!
+109	Only one of us leaves!
+3066	Éléments en réserve
+3067	Exorcisme physique

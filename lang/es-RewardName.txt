@@ -254,6 +254,14 @@
 264|I486	C. tesoro bronce
 265|I487	Cofre tesoro plata
 266|I488	Cofre tesoro oro
+267|S267|I489	Power Pellet
+268|I490	Mejora: bonus de lealtad
+269|S269|I491	Puntos de evento
+270|S270|I492	Brillo estelar
+271|S271|I493	Espíritu Legendario.
+272|I494	C. tesoro bronce
+273|I495	Cofre tesoro plata
+274|I496	Cofre tesoro oro
 1001	Gato Deportista
 1003	Gato Currito
 1004	Piscigato Reno
@@ -386,6 +394,7 @@
 1185	Maestro de la Vida Dr. Nova
 1186	Sonic Cat
 1187	Tanjiro Cat
+1188	Li'l Sakura
 10010	Gato Cachas
 10011	Gato Bailarín
 10012	Hiper Sr.
@@ -523,16 +532,16 @@
 15072	Yukimura Inmortal
 15073	Keiji Inmortal
 15074	Nobunaga Inmortal
-15076	Brisabel Divina
-15077	Trónica Divina
+15076	Brisabel Divina α
+15077	Trónica Divina β
 15084	Sodoma, Dios Emperador
 15085	Megidora, Dios Emperador
 15086	Vars, Dios Emperador
 15087	Kamukura, Dios Emperador
 15088	Raiden, Dios Emperador
-15106	Kuu Divina
-15107	Kai Divina
-15108	Cobrina Divina
+15106	Kuu Divina γ
+15107	Kai Divina μ
+15108	Cobrina Divina κ
 15112	Frolicking Nono CC
 15120	Wyvern and Alec
 15124	Gatos Val Val
@@ -556,7 +565,7 @@
 15153	Gatos Bufones
 15154	Gatófono
 15159	Kenshin Inmortal
-15160	Kalisa Divina
+15160	Kalisa Divina χ
 15161	Gekirinchi
 15162	Manic Princess Punt
 15169	Asesino Pasalan
@@ -589,7 +598,7 @@
 15239	Gato Forrado
 15240	Gatotirador infalible
 15241	Shishilan Pasalan
-15242	Kai Espíritu Helado (μ)
+15242	Kai Espíritu Helado μ
 15249	Gato Vida Extra
 15258	Zeus Todopoderoso
 15259	Anubis Todopoderoso
@@ -627,7 +636,7 @@
 15342	Lost World Catgirl Yuki
 15345	Artist Orthos CC
 15346	Naptime Michelia CC
-15352	Astrogemelas Divinas
+15352	Astrogemelas Divinas Φ
 15356	Plataforma Orbital Asoladora
 15358	Deale Reina Bufona
 15359	Verbena Opulenta
@@ -664,7 +673,7 @@
 15447	Neogato Retroexcavadora
 15448	Neogato Aserrador
 15449	Miyamoto Inmortal
-15450	Dictadora Jeanne (ψ)
+15450	Jeanne Divina ψ
 15451	Babel, Dios Emperador
 15456	Luz Estelar Momoco
 15457	Dark Sakura CC
@@ -675,7 +684,7 @@
 15489	Vanished NNN Wunder
 15496	Gata Danza del Vientre
 15497	Kaihime Inmortal
-15503	Myrcia Divina
+15503	Myrcia Divina ξ
 15506	Gladios, Dios Emperador
 15507	Nameless Eyewaltz CC
 15512	Kage
@@ -704,7 +713,7 @@
 15615	Sol Sureño Destellante
 15618	Cazador de demonios Satoru
 15619	Amakusa Inmortal
-15620	Lilin Divina
+15620	Lilin Divina π
 15621	Hevijak, Dios Emperador
 15626	Ragelan Pasalan
 15632	Yaminora
@@ -750,6 +759,8 @@
 15725	Vaina de huevo gatuno
 15726	Shinobi Tomoe Subidón de Azúcar
 15731	Gato León Bailarín
+15734	Pegasa Divina ν
+15756	Mitsuhide Inmortal
 15758	Gata Prometida
 15766	Gato Almeja
 15871	Magnate gatuno

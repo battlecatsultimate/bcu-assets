@@ -14,9 +14,9 @@
 013	Dom Cat	Executioner	Dark Lazer
 014	Cats in a Box	Cat Gang	Heavy Assault C.A.T.
 015	Panties Cat	Leaf Cat	Lollycat
-016	Moneko	Miss MONEKO	Superstar MONEKO
+016	Moneko	Miss Moneko	Superstar Moneko
 017	Tricycle Cat	Biker Cat	Unicycle Cat
-018	Ninja Cat	Ninja Frog Cat	Flying Ninja Cat
+018	Ninja Cat	Frog Ninja Cat	Flying Ninja Cat
 019	Zombie Cat	Devil Cat	Skelecat
 020	Samurai Cat	Knight Cat	Pastry Cat
 021	Sumo Cat	Madame Sumo	Riceball Cat
@@ -32,7 +32,7 @@
 031	Delinquent Cat	Angry Delinquent Cat	Ultra Delinquent Cat
 032	Hip Hop Cat	Dancing Flasher Cat	Can Can Cat
 033	Kotatsu Cat	Sadako Cat	Octopus Cat
-034	Nekoluga	Unknown Cat	Ultralan Pasalan
+034	Nekoluga	Kesalan Pasalan	Ultralan Pasalan	
 035	Nerd Cat	Hacker Cat	Cyberpunk Cat
 036	Swimmer Cat	Butterfly Cat	Fishman Cat
 037	Pogo Cat	Masai Cat	Jiangshi Cat
@@ -505,7 +505,7 @@
 504
 505	Relentless Gladios	Gladios the Annihilator	God-Emperor Gladios
 506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC
-507	Mightycat	Supercat	Iron Cat
+507	Mightycat	Supercat	Ironcat	
 508	Ryu Cat	Ryu Cat CC
 509	Chun-Li Cat	Chun-Li Cat CC
 510	Akuma	Akuma CC
@@ -586,7 +586,7 @@
 585	Baby Garu	Mighty Aegis Garu
 586	Emperor Cat	Tyrant Cat
 587	Sweet Aphrodite	Chocoladite
-588	First-Love Myrcia	First-Love Myrcia ξ
+588	First-Love Myrcia	First-Love Myrcia, type ξ		
 589	Valentine's Neneko	Sweetheart Neneko	True Love Neneko
 590	Snow Miku 2021	Snow Miku CC 2021
 591	KAITO & Cat	KAITO & Cat CC
@@ -664,7 +664,7 @@
 663	Ancient Egg: N103	Dark Egg: N103	Gas Mask Cat
 664	Ancient Egg: N104	Green Egg: N104	Surgeon Cat
 665	Ancient Egg: N201	Dark Egg: N201	Exorcist Cat
-666	Night Beach Lilin	Night Beach Lilinπ
+666	Night Beach Lilin	Night Beach Lilin, type π		
 667	Brainwashed Bird Cat	Brainwashed UFO Cat	Brainwashed Flying Cat
 668	Cat Tengu	Grand Yokai Tengu	Immortal Master Tengu
 669	Ancient Egg: N003	Evil Egg: N003	Cat Cactus
@@ -685,7 +685,7 @@
 684	Brainwashed Fish Cat	Brainwashed Whale Cat	Brainwashed Island Cat
 685	Ancient Egg: N004	Mystic Egg: N004	Supercar Cat
 686	Goddess of Light Sirius	Goddess of Sunrise Sirius
-687	Reindeer Terun	Reindeer Terunζ
+687	Reindeer Terun	Reindeer Terun, type ζ		
 688	Brainwashed Lizard Cat	Brainwashed Dragon Cat	Brainwashed King Dragon Cat
 689	Meditation Cat	Paragon Cat
 690	Child of Destiny Phono	King of Destiny Phonoa
@@ -723,7 +723,7 @@
 722	Hatsune Miku XVI	Hatsune Miku XVI CC	
 723	Lightmother Aset	Nefer Aset	Almighty Aset
 724	Ancient Egg: N112	Mystic Egg: N112	Cat Egg Pod
-725	Ninja Girl Tomoe	Gourmand Ninja Girl Tomoe	Epicure Ninja Girl Tomoe
+725	Ninja Girl Tomoe	Gourmand Ninja Girl Tomoe	Sugar Rush Shinobi Tomoe	
 726	Medal King	Medal Emperor
 727	SOL DAE ROKKER	SOL DAE ROKKER CC
 728	Master of Mind Soractes	Master of Mind Catcrates
@@ -731,7 +731,7 @@
 730	Ancient Egg: N204	Cinnabar Egg: N204	Lion Dancer Cat
 731	Daybreaker Izanagi	Dawnbringer Izanagi	
 732	Izanagi Spirit
-733	Pegasa	Pegasa, type ν
+733	Pegasa	Pegasa, type ν	Divine Pegasa ν	
 734	Pegasa Spirit
 735	Principal Cat	Midlife Crisis Cat		
 736	Frozen Rose Cat	Arctic Bloom Cat
@@ -752,7 +752,7 @@
 751	Li'l Yahiko	Li'l Yahiko CC		
 752	Kenshin Cat	Battosai Cat		
 753	Kaoru Cat	Swordscat Kaoru	
-754	Akechi Mitsuhide	Wargod Mitsuhide
+754	Akechi Mitsuhide	Wargod Mitsuhide	Immortal Mitsuhide	
 755	Mitsuhide Spirit
 756	Cake Machine	Wedding Cake Machine
 757	Ancient Egg: N205	Violet Egg: N205	Bride Cat
@@ -799,7 +799,7 @@
 798	Doppo Cat	Doppo Cat CC
 799	Mighty Morta-Loncha	Grandiose Gunhauzer
 800	Gunhauzer Spirit
-801	Master of Logic Newton	Master of Logic Mewton
+801	Master of Logic Newtone	Master of Logic Mewtone		
 802	Mewton Spirit
 803	Sonic	Sonic & Cat
 804	Tails	Tails & Cat
@@ -864,10 +864,19 @@
 863	The Invisible Cat	Groom Cat		
 864	Shirou Emiya	Shirou Emiya CC
 865	True Assassin	True Assassin CC
-866	Pacman	Pacman Cat
+866	PAC-MAN	Cat PAC-MAN		
 867	Blinky Cat	Blinky Cat CC
 868	Inky Cat	Inky Cat CC
 869	Akane Tounji	Let's Go! Akane
-870	Ancient Egg: N207	Dark Egg: N207	Upstart Cat
+870	Ancient Egg: N207	Onyx Egg: N207	Tycoon Cat	
 871	Ancient Egg: N208	Green Egg: N208	Combat Crawfish Cat
 872	Jungle Gourmet Tomoe	Canopy Queen Tomoe
+873	Metal Maiden Koneko	Sonic Siren Koneko		
+874	Ryuichi	Ryuichi & Ryuji		
+875	Divine Pegasa Spirit
+876	Immortal Mitsuhide Spirit
+877	Hare of Inaba	Mega Shark vs. The White Hare		
+878	Anji Yukyuzan	Anji Yukyuzan CC
+879	Seta Sojiro	Seta Sojiro CC
+880	Makoto Shishio	Makoto Shishio CC
+881	Seijuro Hiko	Seijuro Hiko CC

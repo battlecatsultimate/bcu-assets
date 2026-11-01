@@ -252,3 +252,9 @@
 3062	Königliche Klopperei
 3063	Urangst
 3064	Geheul der Wildnis
+3065	Verkehrssicherheitswoche
+107	PAC-MAN Fever
+108	Welcome!
+109	Only one of us leaves!
+3066	Umkehr-Element
+3067	Körperlicher Exorzismus

@@ -119,7 +119,7 @@
 118	★ Attaque mystérieuse de la forme de vie ★
 119	★ Xénomonstre Bunaglios ★
 120	★ Sous terre, niv. 100 ★
-121	★ Newton ★
+121	★ Newtone ★
 122	★ Gégé géant ★
 123	★ Étoiles mortes III ★
 124	★ Plus de mondes à conquérir ? Z ★

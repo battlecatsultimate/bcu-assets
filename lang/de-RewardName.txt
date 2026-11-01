@@ -246,6 +246,22 @@
 256|I478	Schatztruhe (Bronze)
 257|I479	Schatztruhe (Silber)
 258|I480	Schatztruhe (Gold)
+259|S259|I481	Legendäre Banknote
+260|S260|I482	Legendennetz
+261|I483	Schatztruhe (Bronze)
+262|I484	Schatztruhe (Silber)
+263|I485	Schatztruhe (Gold)
+264|I486	Schatztruhe (Bronze)
+265|I487	Schatztruhe (Silber)
+266|I488	Schatztruhe (Gold)
+267|S267|I489	Power Pellet
+268|I490	Anmeldebonus verbessern!
+269|S269|I491	Eventpunkte
+270|S270|I492	Legendenstrahlen
+271|S271|I493	Legendärer Geist
+272|I494	Schatztruhe (Bronze)
+273|I495	Schatztruhe (Silber)
+274|I496	Schatztruhe (Gold)
 1001	Sporttagkatze
 1003	Angestellten-Katze
 1004	Rentierfisch-Katze
@@ -313,7 +329,7 @@
 1068	Meister der Gedanken Soraktes
 1069	Bowler-Katze
 1070	Killer-Stelzenkatze
-1071	Weiser des logischen Newton
+1071	Newton, Meister der Logik
 1072	Tischlerkatze
 1073	Fedora-Katze
 1074	Zeitungsjungenkatze
@@ -378,6 +394,7 @@
 1185	Meister des Lebens Dr. Nova
 1186	Sonic Cat
 1187	Tanjiro Cat
+1188	Li'l Sakura
 10010	Muskelprotz-Katze
 10011	Tänzerkatze
 10012	Hyper-Mr.
@@ -460,6 +477,7 @@
 10453	Zukunftskatze
 10474	Rampaging Yamato
 10475	Strike Angel
+10508	Eisenkatze
 10522	Nagakatze
 10528	Puddingklößchen-Katze
 10529	Königswachenkatze
@@ -514,16 +532,16 @@
 15072	Unsterblicher Yukimura
 15073	Unsterblicher Keiji
 15074	Unsterblicher Nobunaga
-15076	Himmlische Windie
-15077	Himmlische Donneria
+15076	Himmlische Windie α
+15077	Himmlische Donneria β
 15084	Sodom der Gottkaiser
 15085	Megidora der Gottkaiser
 15086	Vars der Gottkaiser
 15087	Kamukura der Gottkaiser
 15088	Raiden der Gottkaiser
-15106	Himmlische Kuu
-15107	Himmlische Kai
-15108	Himmlische Cupruma
+15106	Himmlische Kuu γ
+15107	Himmlische Kai μ
+15108	Himmlische Cupruma κ
 15112	Frolicking Nono CC
 15120	Wyvern and Alec
 15124	Val-Val-Katzen
@@ -547,7 +565,7 @@
 15153	Slapstick-Katzen
 15154	Katzophon
 15159	Unsterbliche Kenshin
-15160	Himmlische Kalisa
+15160	Himmlische Kalisa χ
 15161	Gekirinchi
 15162	Manic Princess Punt
 15169	Assassinlan Pasalan
@@ -619,7 +637,7 @@
 15342	Lost World Catgirl Yuki
 15345	Artist Orthos CC
 15346	Naptime Michelia CC
-15352	Himmlische Zwillinge
+15352	Himmlische Zwillinge Φ
 15356	Orbitalzerstörer „Ragnarök“
 15358	Narrenkönigin Deale
 15359	Opulente Verbena
@@ -656,8 +674,9 @@
 15447	Neo-Tiefbagger-Katze
 15448	Neo-Sägenkatze
 15449	Unsterblicher Miyamoto
-15450	Diktatorin Jeanne ψ
+15450	Himmlische Jeanne ψ
 15451	Babel der Gottkaiser
+15456	Sternenlicht-MOMOCO
 15457	Dark Sakura CC
 15468	Super S-Zeus
 15469	Head Rococo
@@ -666,7 +685,7 @@
 15489	Vanished NNN Wunder
 15496	Bauchtanzkatze
 15497	Unsterbliche Kaihime
-15503	Himmlische Myrcia
+15503	Himmlische Myrcia ξ
 15506	Gladios der Gottkaiser
 15507	Nameless Eyewaltz CC
 15512	Kage
@@ -739,9 +758,14 @@
 15721	Gefallene Bärenkatze
 15724	Allmächtige Aset
 15725	Katzeneierkapsel
+15726	Zuckerschock-Shinobi Tomoe
 15731	Löwentänzer-Katze
+15734	Himmlische Pegasa ν
+15756	Unsterblicher Mitsuhide
 15758	Brautkatze
 15766	Muschelkatze
+15871	Managerkatze
+15872	Kampfkrabben-Katze
 16131	Erwachte Ururun
 16173	Schulbus-Nyandam
 16269	Erwachte Mina

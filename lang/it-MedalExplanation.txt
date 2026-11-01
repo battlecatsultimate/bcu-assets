@@ -119,7 +119,7 @@
 118	Supera il livello Nova
 119	Supera Caccia alla Xenobestia
 120	Supera Labirinto sotterraneo B100F
-121	Sblocca Maestro di logica Newton
+121	Sblocca Newton Maestro della logica
 122	Supera Invasione colossale.
 123	Supera ogni invasione di zombi in Gatti del Cosmo Cap. 3
 124	Supera il livello Ostruzione di zombi

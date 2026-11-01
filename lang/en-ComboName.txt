@@ -253,3 +253,8 @@
 3063	Primal Fear
 3064	Wilderness Wail
 3065	Traffic Safety Week
+107	PAC-MAN Fever
+108	Welcome!
+109	Only one of us leaves!
+3066	Reserve Element
+3067	Physical Exorcism

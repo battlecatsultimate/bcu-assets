@@ -253,3 +253,8 @@
 3063	Miedo primitivo
 3064	Gemido de la naturaleza
 3065	Semana de Seguridad Vial
+107	PAC-MAN Fever
+108	Welcome!
+109	Only one of us leaves!
+3066	Elemento de reserva
+3067	Exorcismo físico

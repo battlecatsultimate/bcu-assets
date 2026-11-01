@@ -73,7 +73,7 @@
 072	True Form evolution increases<br>all traits, and allows greater<br>attack power gains.
 073	True Form greatly increases defense!<br>Plus, improves attack power and increases<br>the time Freeze will affect Dark enemies!	Ultra Form gains improved Defense!<br>Plus, gains Freeze vs. Aku and<br>Counter-Surge!
 074	<br><br>
-075	True Form evolution greatly increases<br>defense and movement speed, as well<br>as increasing attack power and range.	Ultra Form gains improved attack range,<br>move speed and attack rate, and deals<br>Insane damage to Floating enemies!
+075	True Form evolution greatly increases<br>defense and movement speed, as well<br>as increasing attack power and range.	Ultra Form gains improved attack range,<br>move speed and attack speed, and deals<br>Insane damage to Floating enemies!
 076	True Form evolution increases Defense<br>and movement speed, as well as Attack<br>power and Attack range!	Ultra form evolution increases abilities!<br>Also gains increased attack area, Survives<br>fatal blows, immune to Slow and Weaken.
 077	<br><br>
 078	<br><br>
@@ -135,7 +135,7 @@
 134	True Form evolution increases defense,<br>attack power and attack range! Also,<br>immune to enemies' Weaken effects!
 135	True Form evolution increases attack<br>power! Also gains 100% chance to freeze<br>Floating/Angelic enemy movement!	Ultra Form gains Omnistrike and improved <br>defense! Reduced deploy cost, plus gains<br>Wave attack and Sage Slayer!
 136	True Form evolution increases all<br>traits! Also gains a higher chance to<br>freeze Red/Angelic enemy movement!
-137	True Form evolution increases defense<br>and range! Also increases attack rate!<br>	Ultra Form evolution gains<br>Omnistrike and 100% Survives.<br>
+137	True Form evolution increases defense<br>and range! Also increases attack speed!<br>and attack rate!	Ultra Form evolution gains<br>Omnistrike and 100% Survives.<br>
 138	True Form evolution increases all traits<br>and adds the ability to 100% slow<br>movement of Angel and Metal enemies	Ultra Form evolution reveals<br>their most powerful form!<br>Also gains Metal Killer!
 139	<br><br>
 140	<br><br>
@@ -194,9 +194,9 @@
 193	<br><br>
 194	True Form evolution gains <br>Strong vs Alien enemies.<br>
 195	True Form evolution increases<br>attack power vs Alien enemies. <br>Also gains 100% Slow vs Aliens!
-196	True Form evolution delivers massive<br>damage to Aliens and Relics, and <br>becomes immune to enemy Curses.
+196	True Form evolution delivers massive<br>damage to Aliens and Relics, and <br>becomes immune to enemy Curses.	Ultra Form gains improved Health and Attack Speed,<br>plus a shorter cooldown, Massive damage<br>vs. Angels, and Immunity to Drain!
 197	True form evolution gets faster<br>movement speed, plus improved<br>defense and attack speed!
-198	True form evolution gains greater<br>defense. Also gains the ability to weaken<br>enemy attack power!
+198	True form evolution gains greater<br>defense. Attack speed drops, but also gains<br>the ability to Weaken enemies!	True form evolution gains greater<br>defense. Also gains the ability to weaken<br>enemy attack power!
 199	True Form evolution increases Defense.<br>Also gains more effective Freeze vs Aliens <br>and the ability to survive a lethal strike!
 200	<br><br>
 201	<br><br>
@@ -312,7 +312,7 @@
 311	<br><br>
 312	<br><br>
 313	<br><br>
-314	True Form evolution increases<br>number of attacks, and decreases<br>cooldown time after deployments!
+314	True Form evolution increases<br>attack rate, and decreases<br>cooldown time after deployments!
 315	<br><br>
 316	True Form evolution gains improved<br>defense, move speed, and attack power!<br>
 317	<br><br>
@@ -388,18 +388,18 @@
 387	<br><br>
 388	<br><br>
 389	<br><br>
-390	True Form evolution has slower attack<br>rate but greatly increased attack area!<br>Plus, able to attack at even longer ranges.
+390	True Form evolution has slower attack<br>speed but greatly increased attack area!<br>Plus, able to attack at even longer ranges.
 391	True Form evolution gains greatly<br>increased attack speed and area!<br>
 392	True Form evolution increases<br>defense and attack range!<br>Plus, gains area attack!
 393	True Form evolution greatly increases  <br>attack power/speed and defense!<br>Plus, becomes immune to slow effects!
-394	True Form evolution has a slower attack<br>rate but gains increased defense, attack<br>power and attack range!
+394	True Form evolution has a slower attack<br>speed but gains increased defense, attack<br>power and attack range!
 395	True Form evolution greatly increases<br>attack power and defense!<br>Plus, becomes Immune to Waves!
 396	True Form evolution gains improved<br>defense and Knockback count!<br>
 397	True Form Evolution gains<br>Insanely Tough defense<br>against Metal enemies!	Ultra Form gains Omnistrike, improved <br>Defense, Attack and Critical chance!<br>Also increased debuff time vs. Metal.
 398	<br><br>
 399	<br><br>
 400	<br><br>
-401	True Form evolution gains improved<br>defense and attack. Plus, increased<br>length of Freeze effect vs Alien enemies!
+401	True Form evolution gains improved<br>defense and attack. Plus, increased<br>length of Freeze effect vs Alien enemies!	Ultra Form evolution gains improved HP<br>and Long-Range attack!<br>Plus, gains Immunity to Drain!
 402	<br><br>
 403	<br><br>
 404	<br><br>
@@ -412,7 +412,7 @@
 411	<br><br>
 412	<br><br>
 413	True Form gains Mini-Surge!<br>Survives a lethal blow and atk power<br>boost after taking damage increased!
-414	True Form evolution gains improved attack <br>rate. Plus, attack buildup is shorter, and<br>gets more powerful after taking damage!
+414	True Form evolution gains improved attack <br>speed. Plus, attack buildup is shorter, and<br>gets more powerful after taking damage!	True Form evolution gains improved attack <br>rate. Plus, attack buildup is shorter, and<br>gets more powerful after taking damage!
 415	<br><br>
 416	<br><br>
 417	True Form gains increased attack!<br><br>	Ultra Form gains increased health,<br>improved attack power and attack range!<br>Plus, Strong vs. Relics and Immune to Toxic!
@@ -438,7 +438,7 @@
 437	Y'know, I'm kinda thinkin' about evolving <br>myself. But I don't think anything but a <br>Gold Catfruit will do. Maybe try the Shrine?
 438	<br><br>
 439	True Form evolution gains improved<br>defense and attack power! Plus,<br>gains immunity to enemy Warp effects!
-440	True Form evolution gains improved<br>attack power! Also can Dodge attacks<br>and gains the Barrier Break ability!
+440	True Form evolution gains improved<br>attack rate! Also can Dodge attacks<br>and gains the Barrier Break ability!
 441	<br><br>
 442	<br><br>
 443	True form evolution gains faster<br>attack speed, and the Strong<br>ability vs Traitless enemies!
@@ -731,7 +731,7 @@
 730	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
 731	<br><br>
 732	<br><br>
-733	<br><br>
+733	True Form gains increased Health,<br>Massive damage vs. Floating/Zombies,<br>and extends Spirit ability effect duration!
 734	<br><br>
 735	<br><br>
 736	<br><br>
@@ -752,7 +752,7 @@
 751	<br><br>
 752	<br><br>
 753	<br><br>
-754	<br><br>
+754	True Form gains improved HP and 100% Surges!<br>Also the Spirit gains brief Slow effect to enemies!<br>
 755	<br><br>
 756	<br><br>
 757	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>
@@ -871,3 +871,12 @@
 870	True Form evolution reveals a new look!<br>Gains Behemoth Slayer<br>and a chance of Mini-Waves!
 871	True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!<br>	<br>True Form evolution reveals its final form!<br>Also gains Behemoth Slayer!
 872	<br><br>
+873	<br><br>
+874	<br><br>
+875	<br><br>
+876	<br><br>
+877	<br><br>
+878	<br><br>
+879	<br><br>
+880	<br><br>
+881	<br><br>

@@ -254,6 +254,14 @@
 264|I486	Coffre au trésor (bronze)
 265|I487	Coffre au trésor (argent)
 266|I488	Coffre au trésor (or)
+267|S267|I489	Power Pellet
+268|I490	B. de connex. amélioré !
+269|S269|I491	Points d'événement
+270|S270|I492	Star légendaire
+271|S271|I493	Esprit légendaire
+272|I494	Coffre au trésor (bronze)
+273|I495	Coffre au trésor (argent)
+274|I496	Coffre au trésor (or)
 1001	Chat Jour des sports
 1003	Chat salarié
 1004	Chat poisson renne
@@ -386,6 +394,7 @@
 1185	Maître de la vie Dr Nova
 1186	Sonic Cat
 1187	Tanjiro Cat
+1188	Li'l Sakura
 10010	Chat malabar
 10011	Chat danseur
 10012	Hyper Mr.
@@ -523,16 +532,16 @@
 15072	Yukimura immortel
 15073	Keiji immortel
 15074	Nobunaga immortel
-15076	Venteuse divine
-15077	Tonnia divine
+15076	Venteuse divine α
+15077	Tonnia divine β
 15084	Dieu empereur Sodom
 15085	Dieu empereur Megidora
 15086	Dieu empereur Vars
 15087	Dieu empereur Kamukura
 15088	Dieu empereur Raiden
-15106	Kuu divine
-15107	Kai divine
-15108	Mine divine
+15106	Kuu divine γ
+15107	Kai divine μ
+15108	Mine divine κ
 15112	Frolicking Nono CC
 15120	Wyvern and Alec
 15124	Chats Val Val
@@ -556,7 +565,7 @@
 15153	Chats burlesques
 15154	Chamophone
 15159	Kenshin immortelle
-15160	Kalisa divine
+15160	Kalisa divine χ
 15161	Gekirinchi
 15162	Manic Princess Punt
 15169	Assassinlan Pasalan
@@ -628,7 +637,7 @@
 15342	Lost World Catgirl Yuki
 15345	Artist Orthos CC
 15346	Naptime Michelia CC
-15352	Jumelles divines
+15352	Jumelles divines Φ
 15356	Destructeur orbital Ragnarök
 15358	Louve comique
 15359	Verveine opulente
@@ -665,7 +674,7 @@
 15447	Néo Chat tractopelle
 15448	Néo Chat scie
 15449	Miyamoto immortel
-15450	Jeanne la dictatrice ψ
+15450	Jeanne la dictatrice divine ψ
 15451	Dieu empereur Babel
 15456	Momoco stellaire
 15457	Dark Sakura CC
@@ -676,7 +685,7 @@
 15489	Vanished NNN Wunder
 15496	Chatte danseuse du ventre
 15497	Kaihime immortelle
-15503	Myrcia divine
+15503	Myrcia divine ξ
 15506	Dieu empereur Gladios
 15507	Nameless Eyewaltz CC
 15512	Kage
@@ -705,7 +714,7 @@
 15615	L'éclat du soleil méridional
 15618	Satoru démoniste
 15619	Amakusa immortel
-15620	Lilin π divine
+15620	Lilin divine π
 15621	Dieu empereur Hevijak
 15626	Ragelan Pasalan
 15632	Yaminora
@@ -714,7 +723,7 @@
 15635	Démon chevalier noir
 15643	Lucifer Tout-puissant
 15645	Mekako amour mentholé
-15648	Terun ζ divine
+15648	Terun divine ζ
 15650	Hanzo immortel
 15656	Blizarène
 15657	Chat haniwa
@@ -751,6 +760,8 @@
 15725	Nacelle-œuf féline
 15726	Tomoe shinobi sucrée
 15731	Chat lion danseur
+15734	Pégasa divine ν
+15756	Mitsuhide immortel
 15758	Chat mariée
 15766	Chapalourde
 15871	Chat-magnat

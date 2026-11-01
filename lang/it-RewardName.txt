@@ -254,6 +254,14 @@
 264|I486	Forziere (bronzo)
 265|I487	Forziere (argento)
 266|I488	Forziere (oro)
+267|S267|I489	Power Pellet
+268|I490	Potenziamento bonus accesso
+269|S269|I491	Punti evento
+270|S270|I492	Stella leggendaria
+271|S271|I493	Spirito leggenda
+272|I494	Forziere (bronzo)
+273|I495	Forziere (argento)
+274|I496	Forziere (oro)
 1001	Gatto sportivo
 1003	Gatto dipendente
 1004	Pescegatto Renna
@@ -386,6 +394,7 @@
 1185	Maestro di vita dott. Nova
 1186	Sonic Cat
 1187	Tanjiro Cat
+1188	Li'l Sakura
 10010	Gatto fusto
 10011	Gatto ballerino
 10012	Iper Mr.
@@ -523,16 +532,16 @@
 15072	Yukimura Immortale
 15073	Keiji Immortale
 15074	Nobunaga Immortale
-15076	Wendy Divina
-15077	Tuonia Divina
+15076	Wendy Divina α
+15077	Tuonia Divina β
 15084	Sodoma Dio-Imperatore
 15085	Megidora Dio-Imperatore
 15086	Vars Dio-Imperatore
 15087	Kamukura Dio-Imperatore
 15088	Raiden Dio-Imperatore
-15106	Kuu divina
-15107	Kai divina
-15108	Ramina divina
+15106	Kuu Divina γ
+15107	Kai Divina μ
+15108	Ramina Divina κ
 15112	Frolicking Nono CC
 15120	Wyvern and Alec
 15124	Gatti Val Val
@@ -556,7 +565,7 @@
 15153	Gatti Cabaret
 15154	Gattofono
 15159	Kenshin Immortale
-15160	Kalisa Divina
+15160	Kalisa Divina χ
 15161	Gekirinchi
 15162	Manic Princess Punt
 15169	Assassinlan Pasalan
@@ -628,7 +637,7 @@
 15342	Lost World Catgirl Yuki
 15345	Artist Orthos CC
 15346	Naptime Michelia CC
-15352	Stelle gemelle dee
+15352	Stelle gemelle divine Φ
 15356	Destroyer orbitale Ragnarok
 15358	Deale regina giullare
 15359	Verbena Opulenta
@@ -665,7 +674,7 @@
 15447	Neo Gatto scavatore
 15448	Neo Gatto turbosega
 15449	Miyamoto Immortale
-15450	Dittatrice Jeanne ψ
+15450	Jeanne Divina ψ
 15451	Babele Dio-Imperatore
 15456	MOMOCO Lucedistella
 15457	Dark Sakura CC
@@ -676,7 +685,7 @@
 15489	Vanished NNN Wunder
 15496	Gatta Danza del ventre
 15497	Kaihime Immortale
-15503	Myrcia Divina
+15503	Myrcia Divina ξ
 15506	Gladios Dio-Imperatore
 15507	Nameless Eyewaltz CC
 15512	Kage
@@ -705,7 +714,7 @@
 15615	Il Bagliore del sud
 15618	Satoru caccia al diavolo
 15619	Amakusa immortale
-15620	Lilin π Divina
+15620	Lilin Divina π
 15621	Hevijak Dio-Imperatore
 15626	Ragelan Pasalan
 15632	Yaminora
@@ -714,7 +723,7 @@
 15635	Cavaliere demone ciclope
 15643	Lucifero Onnipotente
 15645	Mekako fresco amore
-15648	Terun divina ζ
+15648	Terun Divina ζ
 15650	Hanzo immortale
 15656	Blizarena
 15657	Gatto haniwa
@@ -751,6 +760,8 @@
 15725	Gatto capsula uovo
 15726	Shinobi Tomoe zuccherina
 15731	Gatto leo ballerino
+15734	Pegasa Divina ν
+15756	Mitsuhide immortale
 15758	Gatta sposa
 15766	Gatta vongola
 15871	Gatto magnate

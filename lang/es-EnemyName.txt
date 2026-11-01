@@ -366,13 +366,13 @@
 365	Cabo Topo
 366	Pez Luna Estrellada
 367	Misidiós
-368	
-369	
-370	
-371	
-372	
-373	
-374	
+368	Saber
+369	Lancer
+370	Archer
+371	Rider
+372	Gilgamesh
+373	Rin Tohsaka
+374	Illyasviel
 375	Tu Tu Can Can
 376	
 377	Ciclón Supercósmico
@@ -439,7 +439,7 @@
 438	Ciclón Primigenio
 439	Mini Javi Li
 440	Vuelven los Osos
-441	
+441	Saber Alter
 442	Srta. Madonna
 443	Mesocosmociclón
 444	Hermanos Angui
@@ -776,11 +776,17 @@
 775	
 776	
 777	
-778	
-779	
-780	
-781	
-782	
-783	
+778	True Assassin
+779	Inky Doge
+780	Clyde Gory
+781	Pinky Bear
+782	Blinky Kory
+783	Giant PAC-MAN
 784	
 785	
+786	Marquis Clionius
+787	
+788	
+789	
+790	
+791	

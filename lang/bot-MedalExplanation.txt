@@ -119,7 +119,7 @@
 118	Clear Nova Stage
 119	Clear Hunt for the Xenobeast
 120	Clear Underground Labyrinth B100F
-121	Unlock Master of Logic Newton
+121	Unlock Master of Logic Newtone
 122	Clear Jumbo Invasion.
 123	Clear all Cats of the Cosmos Ch. 3 Zombie Outbreak Stages
 124	Clear Filibuster Zombie Stage

@@ -73,8 +73,8 @@
 072	Maeda Keiji	Keiji Dio della guerra	Keiji Immortale	
 073	Oda Nobunaga	Nobunaga Dio della guerra	Nobunaga Immortale	Nobunaga spettrale
 074	Pescegatto Renna	Gatto sashimi	Gatto tronchetto	
-075	Wendy	Wendy α	Wendy Divina	Wendy suprema
-076	Tuonia	Tuonia β	Tuonia Divina	Tuonia suprema
+075	Wendy	Wendy α	Wendy Divina α	Wendy suprema α
+076	Tuonia	Tuonia β	Tuonia Divina β	Tuonia suprema β
 077	Gatto droide	Gatto droide Mk2	Droide primavera	
 078	Gatto spaziale	Gatto Maggiore	Gatto marine spaziale	
 079	Gattadulto	Gatto malato	Gatto detenuto	
@@ -103,9 +103,9 @@
 102				
 103	Gatto cabaret	Mega Gatto	Mega Gatto Super	
 104	Gatto koi	Gatto koi alto	Bacini koi	
-105	Kuu	Kuu γ	Kuu divina	
-106	Kai	Kai μ	Kai divina	
-107	Ramina	Ramina κ	Ramina divina	
+105	Kuu	Kuu γ	Kuu Divina γ	
+106	Kai	Kai μ	Kai Divina μ	
+107	Ramina	Ramina κ	Ramina Divina κ	
 108	Fratelli gatti	Base segreta		
 109	Sposa comare	Re comare	Comare Savana	
 110	Celesse	Celesse CC		
@@ -157,7 +157,7 @@
 156				
 157				
 158	Uesugi Kenshin	Kenshin Dea della guerra	Kenshin Immortale	Kenshin infernale
-159	Kalisa	Kalisa χ	Kalisa Divina	
+159	Kalisa	Kalisa χ	Kalisa Divina χ	
 160	Yurinchi	Phoenix Yurinchi	Gekirinchi	
 161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt	
 162				
@@ -194,7 +194,7 @@
 193				
 194	Akira	Akira Ombra	Akira Infernale	
 195	Mekako Saionji	Dott. Mekako	Mekako Sala di controllo	
-196	Catman	Catman Oscuro	Catman Finale	
+196	Catman	Catman Oscuro	Catman Finale	Catman Forever
 197	Psicogatto	Neo Psicogatto	Psicogatto corrotto	
 198	Gatto Onmyoji	Magica Gatta	Gatta taumaturga	
 199	Gatto surfista	Gatto naufrago	Gatto navigatore	
@@ -349,7 +349,7 @@
 348				
 349				
 350				
-351	Stelle gemelle	Stelle gemelle Φ	Stelle gemelle dee	
+351	Stelle gemelle	Stelle gemelle Φ	Stelle gemelle divine Φ	
 352	Gatto Eremita	Gran Miaoestro	Gran Miaoestro mascherato	
 353				
 354	Kai Marina	Kai Marina μ		
@@ -399,7 +399,7 @@
 398				
 399	Mentori	Mentori CC		
 400	Imoto	Imoto CC		
-401	Voli	Volta	Gigavolta	
+401	Voli	Volta	Gigavolta	Teravolta
 402	Shinji & Cat	Plug Suit Shinji	Plug Suit Shinji Black	
 403	Gendo & Fuyutsuki Cats	Moon Gendo & Fuyutsuki Cats		
 404	Giraffe Unit-01	Giraffe Unit-02		
@@ -447,7 +447,7 @@
 446	Gatto scavatore	Gatto super scavatore	Neo Gatto scavatore	
 447	Gatto motosega	Gatto turbosega	Neo Gatto turbosega	
 448	Musashi Miyamoto	Miyamoto Dio della guerra	Miyamoto Immortale	
-449	Jeanne	Direttrice Jeanne	Dittatrice Jeanne ψ	
+449	Jeanne	Jeanne ψ	Jeanne Divina ψ	
 450	Gran Lord Babele	Babele la fiamma scura	Babele Dio-Imperatore	
 451	Ushiwakamaru	Benkei colossale		
 452	Gatto primordiale	Gatto moderno	Gatto del futuro	
@@ -500,9 +500,9 @@
 499	Shakurel Tiger	Shakurel Tiger CC		
 500	Shakurel Panda	Shakurel Panda CC		
 501	Cat Bros	Baka Cat Bros		
-502	Myrcia	Myrcia ξ	Myrcia Divina	
+502	Myrcia	Myrcia ξ	Myrcia Divina ξ	
 503				
-504				
+504	Gatto boss del furto (in pensione)	Gatto boss del furto (in auge)		
 505	Implacabile Gladios	Gladios il distruttore	Gladios Dio-Imperatore	
 506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC	
 507	Gattoman	Supergat	Ironcat	
@@ -617,7 +617,7 @@
 616	Gatto Kuwagata	Gatto Re Kuwagata		
 617	Satoru invocatore	Satoru invocatore oscuro	Satoru caccia al diavolo	
 618	Amakusa Shiro	Amakusa Dio della guerra	Amakusa immortale	
-619	Lilin	Lilin π	Lilin π Divina	
+619	Lilin	Lilin π	Lilin Divina π	
 620	Hevijak il malvagio	Re Hevijak malvagio	Hevijak Dio-Imperatore	
 621	Ricercatore di Aku	Ricercatore di Aku malvagio	Gatto ricercatore	
 622	Jagando jr.	Jagando jr. Sig. della Rovina		
@@ -645,7 +645,7 @@
 644	Mekako dolce amore	Mekako dolceamara	Mekako fresco amore	
 645	Gatto ascia plagiato	Gatto prode plagiato	Gatto oscuro plagiato	
 646	Gatto petardo	Gatto petardo macho		
-647	Terun	Terun ζ	Terun divina ζ	
+647	Terun	Terun ζ	Terun Divina ζ	
 648	Demone minore innamorato	Demone maggiore innamorato		
 649	Hattori Hanzo	Hanzo Dio della guerra	Hanzo immortale	
 650	Gatta cotta segreta	Gatta fidanzata		
@@ -664,7 +664,7 @@
 663	Uovo antico N103	Uovo oscuro N103	Gatto maschera antigas	
 664	Uovo antico N104	Uovo verde N104	Gatto chirurgo	
 665	Uovo antico N201	Uovo oscuro N201	Gattorcista	
-666	Lilin spiaggia notturna	Lillin spiaggia notturna π		
+666	Lilin spiaggia notturna	Lilin spiaggia notturna π		
 667	Gatto uccello plagiato	UFO plagiato	Gatto volante plagiato	
 668	Gatto Tengu	Gran Yokai Tengu	Maestro Tengu Immortale	
 669	Uovo antico N003	Uovo malvagio N003	Gatto cactus	
@@ -731,7 +731,7 @@
 730	Uovo antico N204	Uovo vermiglione N204	Gatto leo ballerino	
 731	Portatore di luce Izanagi	Portatore di oscurità Izanagi		
 732				
-733	Pegasa	Pegasa v		
+733	Pegasa	Pegasa ν	Pegasa Divina ν	
 734				
 735	Preside Gatto	Gatto Crisi di mezza età		
 736	Gatto rosa di ghiaccio	Gatto fioritura artica		
@@ -752,7 +752,7 @@
 751	Li'l Yahiko	Li'l Yahiko CC		
 752	Kenshin Cat	Battosai Cat		
 753	Kaoru Cat	Swordscat Kaoru		
-754	Akechi Mitsuhide	Mitsuhide Dio della guerra		
+754	Akechi Mitsuhide	Mitsuhide Dio della guerra	Mitsuhide immortale	
 755				
 756	Macchina torta	Macchina torta nuziale		
 757	Uovo antico N205	Uovo viola N205	Gatta sposa	
@@ -818,7 +818,7 @@
 817	Komori	Moririn		
 818				
 819	Gatto carpentiere	Gatto rapper		
-820	Pegasa marina	Pegasa marina v		
+820	Pegasa marina	Pegasa marina ν		
 821				
 822	Gatto consulente	Gatto socio in affari		
 823				
@@ -828,7 +828,7 @@
 827	Juri	Juri CC		
 828	Zangief Cat	Zangief Cat CC		
 829	Jamie Cat	Jamie Cat CC		
-830	Raclesa la Leonessa	Raclesa Σ		
+830	Raclesa	Raclesa Σ		
 831	Gatto sciarpa	Ranger Nyanko rosso		
 832	Gatto fedora	Ranger Nyanko blu		
 833	Gatto casco	Ranger Nyanko giallo		
@@ -862,12 +862,21 @@
 861	Vornado	Re delle tempeste Vornado		
 862	Hanzo il Promesso	Hanzo lo Sposo		
 863	Il gatto invisibile	Gatto sposo		
-864				
-865				
-866				
-867				
-868				
+864	Shirou Emiya	Shirou Emiya CC		
+865	True Assassin	True Assassin CC		
+866	PAC-MAN	Cat PAC-MAN		
+867	Blinky Cat	Blinky Cat CC		
+868	Inky Cat	Inky Cat CC		
 869	Akane Tounji	Akane Andiamo!		
 870	Uovo antico N207	Uovo nero N207	Gatto magnate	
 871	Uovo antico N208	Uovo verde N208	Gatto aragosta combattente	
 872	Tomoe Gourmet della giungla	Tomoe Regina del fogliame		
+873	Metal Maiden Koneko	Sirena sonica Koneko		
+874	Ryuichi	Ryuichi & Ryuji		
+875	735_1			
+876	756-1			
+877	Lepre di Inaba	Mega squalo contro Lepre bianca		
+878				
+879				
+880				
+881				

@@ -119,7 +119,7 @@
 118	Termine le niveau Nova
 119	Termine Chasse au xénomonstre
 120	Termine Labyrinthe souterrain niv. 100
-121	Débloque Maître de la Logique Newton
+121	Débloque Newtone, maître de la logique
 122	Terminer l’Invasion géante
 123	Repousse toutes les invasions zombies dans Cosmos ch. 3
 124	Termine le niveau du flibustier zombie
